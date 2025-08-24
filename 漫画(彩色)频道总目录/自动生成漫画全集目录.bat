@@ -16,6 +16,7 @@ echo ^<body^>
 echo   ^<h1^>频道大全^</h1^>
 echo   ^<div id="advertise"^>
 echo     ^<iframe src="../advertise.html" frameborder="0" width="100%%" height="100"^>^</iframe^>
+echo     ^<p^>^<a href="../index.html"^>返回当前频道总目录^</a^>^</p^>
 echo   ^</div^>
 echo   ^<hr^>
 echo   ^<h2^>漫画目录^</h2^>
