@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%99%AE%E6%AE%B5%E3%81%A8%E3%81%AF%E5%B0%91%E3%81%97%E9%81%95%E3%81%86%E3%83%9F%E3%83%9F%E3%83%83%E3%82%AF%E3%82%92%E7%99%BA%E8%A6%8B%E3%81%97%E3%81%9F%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3-%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3-%E7%84%A1%E4%BF%AE%E6%AD%A3---Page-1-08-24">普段とは少し違うミミックを発見したフリーレン (葬送のフリーレン) [無修正] - Page 1</a></p>
   <p><a href="https://telegra.ph/Milknium-Family-Otona-Ni-Akogareru-Minarai-Shisuta-no-Kuri-Ochi-Taiko-Nikki-Chinese-5DK%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96-08-24">对抗日记 Otona Ni Akogareru Minarai Shisuta no Kuri Ochi Taiko Nikki</a></p>
   <p><a href="https://telegra.ph/%E7%89%9B%E5%A8%98%E5%B0%8F%E5%A7%90-Nise-Ushi-no-Oneesan-Chinese-5DK%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96-08-24">牛娘小姐 [Nise] Ushi no Oneesan [Chinese]</a></p>
