@@ -2,13 +2,50 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>频道导航</title>
+  <style>
+    body { 
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+      line-height: 1.6; 
+      padding: 16px; 
+    }
+    a { text-decoration: none; }
+    .main a,
+    .channels a {
+      color: red;
+      font-weight: bold;
+    }
+    .channels {
+      display: flex;
+      gap: 20px;         /* 两个链接之间的间距 */
+      align-items: center;
+      white-space: nowrap; /* 桌面端保持同一行 */
+      flex-wrap: nowrap;
+    }
+    /* 小屏时允许自动换行，避免溢出 */
+    @media (max-width: 480px) {
+      .channels {
+        white-space: normal;
+        flex-wrap: wrap;
+      }
+    }
+  </style>
 </head>
 <body>
-  <p><a href="https://erik7761269084-arch.github.io/-/index.html" target="_blank" style="color:red;font-weight:bold;">全部频道总页面</a></p>
-  <p><a href="https://t.me/yunvfuliji" target="_blank" style="color:red;font-weight:bold;">玉女宫福利姬频道←点击关注</a></p>
-  <p><a href="https://t.me/yunvfuliji" target="_blank" style="color:red;font-weight:bold;">玉女宫漫画频道←点击关注</a></p>
-  
-  
-  
+  <p class="main">
+    <a href="https://erik7761269084-arch.github.io/-/index.html" target="_blank" rel="noopener noreferrer">
+      全部频道总页面
+    </a>
+  </p>
+
+  <p class="channels">
+    <a href="https://t.me/yunvfuliji" target="_blank" rel="noopener noreferrer">
+      玉女宫福利姬频道←点击关注
+    </a>
+    <a href="https://t.me/yunvfuliji" target="_blank" rel="noopener noreferrer">
+      玉女宫漫画频道←点击关注
+    </a>
+  </p>
 </body>
 </html>
