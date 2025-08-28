@@ -1,17 +1,33 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E5%B0%91%E5%A5%B3%E6%98%A0%E7%94%BB-%E6%89%98%E5%B8%95-160P2V-08-21">少女映画 托帕 160P2V</a></p>
   <p><a href="https://telegra.ph/%E5%B0%91%E5%A5%B3%E6%98%A0%E7%94%BB-%E7%9F%A5%E6%9B%B4%E9%B8%9F-120P1V-08-21">少女映画 知更鸟 120P1V</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>

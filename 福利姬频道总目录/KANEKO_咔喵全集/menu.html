@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/KANEKO-%E5%92%94%E5%96%B5---%E9%BB%91%E8%89%B2%E7%88%B1%E5%BF%83%E6%AF%94%E5%9F%BA%E5%B0%BC-52P1V-183G-08-19">KANEKO_咔喵 - 黑色爱心比基尼 [52P1V-1.83G]</a></p> 
   <p><a href="https://telegra.ph/KANEKO-%E5%92%94%E5%96%B5---%E7%A2%A7%E8%93%9D%E8%88%AA%E7%BA%BF-%E4%BF%A1%E6%B5%93-%E6%B3%B3%E8%A3%85%E6%B0%B4%E7%9D%80-08-19">KANEKO_咔喵 - 碧蓝航线 信浓 泳装水着</a></p>
   <p><a href="https://telegra.ph/KANEKO-%E5%92%94%E5%96%B5---%E7%8B%90%E7%8B%B8%E5%B7%AB%E5%A5%B3-41P2V-124G-08-19">KANEKO_咔喵 - 狐狸巫女 [41P2V-1.24G]</a></p>
@@ -25,22 +42,6 @@
   <p><a href="https://telegra.ph/KANEKO-%E5%92%94%E5%96%B5-%E5%A4%A7%E5%87%A4%E5%A9%9A%E7%BA%B1%E8%8A%B1%E5%AB%81-47P-08-23">KANEKO_咔喵 大凤婚纱花嫁 47P</a></p>
   <p><a href="https://telegra.ph/咔咔---呆萌小胖喵创口贴-12P-31MB-08-25">咔咔 - 呆萌小胖喵创口贴 [12P-31MB]</a></p>
   <p><a href="https://telegra.ph/咔咔-很纯的一个妹纸618会员资源-08-25">#咔咔 #很纯的一个妹纸（6.18会员资源）</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>

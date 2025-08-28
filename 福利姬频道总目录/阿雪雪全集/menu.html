@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
 
   <p><a href="https://telegra.ph/%E9%98%BF%E9%9B%AA%E9%9B%AA---%E9%80%B8%E4%BB%99%E6%97%97%E8%A2%8D-92P4V-25G-08-19">阿雪雪 - 逸仙旗袍 [92P4V-2.5G]</a></p> 
   <p><a href="https://telegra.ph/%E9%98%BF%E9%9B%AA%E9%9B%AA---%E5%8D%88%E5%90%8E%E5%A5%B3%E4%BB%86-95P5V-34G-08-19">阿雪雪 - 午后女仆 [95P5V-3.4G]</a></p> 
@@ -20,7 +37,6 @@
   <p><a href="https://telegra.ph/%E9%98%BF%E9%9B%AA%E9%9B%AA-%E6%B3%A5%E5%B2%A9%E6%B3%B3%E8%A3%85-08-23">阿雪雪 泥岩泳装</a></p>
   <p><a href="https://telegra.ph/%E9%98%BF%E9%9B%AA%E9%9B%AA-%E8%BF%9E%E4%BD%93%E6%B0%B4%E6%89%8B%E6%9C%8D95P-08-23">阿雪雪 连体水手服95P</a></p>
   <p><a href="https://telegra.ph/%E9%98%BF%E9%9B%AA%E9%9B%AA-%E6%81%B6%E6%AF%92%E6%B3%B3%E8%A3%85114P-08-23">阿雪雪 恶毒泳装114P</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>

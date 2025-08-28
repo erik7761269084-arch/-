@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
  
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%80%E5%8F%AA%E7%86%8A%E4%BB%94%E5%90%97-Nikke%E7%88%B1%E4%B8%BD%E4%B8%9D%E5%85%94%E5%A5%B3%E9%83%8E-08-19">是一只熊仔吗 Nikke爱丽丝兔女郎</a></p>  
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%80%E5%8F%AA%E7%86%8A%E4%BB%94%E5%90%97---%E5%B0%8F%E5%A4%8F%E4%B9%90%E9%98%9F-08-19">是一只熊仔吗 - 小夏乐队</a></p>
@@ -18,6 +35,6 @@
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%80%E5%8F%AA%E7%86%8A%E4%BB%94---%E7%99%BD%E9%9B%AA%E5%A7%AC-%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%E5%BC%82%E9%97%BB%E9%9B%AA%E5%A5%B3-41P-185MB%E5%92%8C%E6%9C%8D-08-21">是一只熊仔 - 白雪姬 (美少女万华镜异闻：雪女) [41P-185MB](和服)</a></p>
   <p><a href="https://telegra.ph/%E6%98%AF%E4%B8%80%E5%8F%AA%E7%86%8A%E4%BB%94%E5%90%97-%E9%95%9C%E6%9C%88-40P-08-22">是一只熊仔吗 镜月 40P</a></p>
   <p><a href="https://telegra.ph/是一只熊仔吗-内有凶犬-08-26">是一只熊仔吗 内有凶犬</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>

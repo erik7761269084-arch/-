@@ -1,21 +1,37 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E4%B8%80%E5%8F%AA%E5%BA%9F%E5%96%B5---fantia2401%E8%AE%A2%E9%98%85-08-22">一只废喵 - fantia2401订阅</a></p>
   <p><a href="https://telegra.ph/%E4%B8%80%E5%8F%AA%E5%BA%9F%E5%96%B5---fantia2312%E8%AE%A2%E9%98%85-%E5%9C%A3%E8%AF%9E%E5%A5%B3%E5%AD%A9-08-22">一只废喵 - fantia2312订阅 圣诞女孩</a></p>
   <p><a href="https://telegra.ph/%E4%B8%80%E5%8F%AA%E5%BA%9F%E5%96%B5---fantia2312%E8%AE%A2%E9%98%85-08-22">一只废喵 - fantia2312订阅</a></p>
   <p><a href="https://telegra.ph/一只废喵-圣诞麋鹿-73P7V-352MB-08-25">一只废喵 圣诞麋鹿 [73P7V-352MB]</a></p>
   <p><a href="https://telegra.ph/一只废喵-圣诞比基尼连衣裙-72P3V-620MB-08-25">一只废喵 圣诞比基尼+连衣裙 [72P3V-620MB]</a></p>
   <p><a href="https://telegra.ph/是一只废喵了-fantia7月订阅-08-25">是一只废喵了 fantia7月订阅</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>

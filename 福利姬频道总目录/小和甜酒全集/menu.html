@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
  
   <p><a href="https://telegra.ph/%E5%B0%8F%E5%92%8C%E7%94%9C%E9%85%92---%E7%99%BD%E5%A4%A9%E9%B9%85%E5%A4%96%E5%8D%96-93P-1G-08-19">小和甜酒 - 白天鹅外卖 [93P-1G]</a></p> 
   <p><a href="https://telegra.ph/%E5%B0%8F%E5%92%8C%E7%94%9C%E9%85%92%E6%A9%99%E9%A3%8E%E5%8D%83%E9%9B%85-%E9%AD%94%E5%A5%B3%E7%8C%AB%E5%92%AA-118P-751MB-08-21">小和甜酒&橙风千雅 魔女猫咪 [118P-751MB]</a></p>

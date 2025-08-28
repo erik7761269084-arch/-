@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/Nyako%E5%96%B5%E5%AD%90-%E7%94%B5%E5%AD%90%E7%89%8854%E8%AF%B1%E6%8B%90%E6%9C%AC-08-22">Nyako喵子 电子版54诱拐本</a></p>  
   <p><a href="https://telegra.ph/Nyako%E5%96%B5%E5%AD%90-%E7%94%B5%E5%AD%90%E7%89%8854-%E8%87%AA%E6%8B%8D-08-22">Nyako喵子 电子版54 自拍</a></p>
   <p><a href="https://telegra.ph/Nyako%E5%96%B5%E5%AD%90-%E7%97%B4%E5%A5%B3%E3%83%A1%E3%82%A4%E3%83%89-151P-08-22">Nyako喵子 痴女メイド 151P</a></p>
@@ -104,7 +121,5 @@
   <p><a href="https://telegra.ph/萌妹子Nyako喵子---水手服爱丽丝写真-08-27">萌妹子Nyako喵子 - 水手服爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/Nyako喵子-柯杨斯卡娅爱丽丝写真-08-27">Nyako喵子 柯杨斯卡娅爱丽丝写真</a></p>
   <p><a href="https://telegra.ph/Nyako喵子-自撮り197P7V爱丽丝写真-08-27">Nyako喵子 自撮り②[197P7V]爱丽丝写真</a></p>
-
-
 </body>
 </html>

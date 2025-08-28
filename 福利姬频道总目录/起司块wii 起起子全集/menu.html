@@ -1,15 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
-  <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
-  </div>
-  <hr>
+  <h1 id="page-title"></h1>
 
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E8%B5%B7%E5%8F%B8%E5%9D%97wii---%E5%A4%9C%E5%85%B0%E8%87%AA%E6%8B%8D-08-19">起司块wii - 夜兰自拍</a></p> 
   <p><a href="https://telegra.ph/%E8%B5%B7%E5%8F%B8%E5%9D%97---%E9%BB%91%E8%89%B2%E6%8A%A4%E5%A3%AB-58P-515MB-08-19">起司块 - 黑色护士 [58P-515MB]</a></p> 
   <p><a href="http://telegra.ph/%E8%B5%B7%E5%8F%B8%E5%9D%97wii---%E7%94%98%E5%8F%A4%E7%89%B9-51P5V-415M-08-19">起司块wii - 甘古特 [51P5V-415M]</a></p> 

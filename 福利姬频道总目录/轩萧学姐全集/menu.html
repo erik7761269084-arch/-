@@ -1,15 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E8%BD%A9%E8%90%A7%E5%AD%A6%E5%A7%90---%E7%A9%BA%E5%A7%90%E5%AE%A4%E5%86%85%E7%81%B0%E4%B8%9D-08-19">轩萧学姐 - 空姐室内灰丝</a></p> 
   <p><a href="https://telegra.ph/%E8%BD%A9%E8%90%A7%E5%AD%A6%E5%A7%90---%E7%A9%BA%E5%A7%90%E5%AE%A4%E5%86%85%E9%BB%91%E4%B8%9D-08-19">轩萧学姐 - 空姐室内黑丝</a></p>
   <p><a href="https://telegra.ph/%E8%BD%A9%E8%90%A7%E5%AD%A6%E5%A7%90---%E8%BF%9E%E4%BD%93%E4%B8%9D%E5%A5%B3%E4%BB%8690P-368M-08-20">轩萧学姐 - 连体丝女仆[90P-368M]</a></p>

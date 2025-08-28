@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
  
   <p><a href="https://telegra.ph/%E6%B4%9B%E6%A1%91w%E4%BC%8A%E6%A2%93---25%E5%B9%B43%E6%9C%88%E4%BC%9A%E5%91%98%E4%B8%93%E5%B1%9E-%E5%AD%A6%E5%A6%B9%E9%BB%84%E8%A3%99-08-19">洛桑w伊梓 - 25年3月会员专属 学妹黄裙</a></p> 
   <p><a href="https://telegra.ph/%E6%B4%9B%E6%A1%91w%E4%BC%8A%E6%A2%93---%E4%B8%93%E5%B1%9E%E7%8C%AB%E7%8C%AB%E8%A1%AC%E8%A1%AB-45P-232MB-08-19">洛桑w伊梓 - 专属猫猫衬衫 [45P-232MB]</a></p>

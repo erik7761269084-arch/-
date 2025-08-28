@@ -1,15 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w---%E7%B2%BE%E7%81%B5%E6%9D%91-%E7%AC%AC%E4%B8%80%E6%9D%91%E6%B0%91-%E8%89%BE%E9%9C%B2%E8%B0%A2%E5%B0%94-33P-58M-08-19">小仓千代w - 精灵村 第一村民 艾露谢尔 [33P-58M]
   <p><a href="https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w---%E4%BF%A1%E6%B5%93%E5%90%8C%E4%BA%BA-08-19">小仓千代w - 信浓同人</a></p>
   <p><a href="https://telegra.ph/%E5%B0%8F%E4%BB%93%E5%8D%83%E4%BB%A3w---%E6%AD%A6%E8%97%8F%E5%A5%B3%E8%AD%A6-45P-151MB-08-19">小仓千代w - 武藏女警 [45P-151MB]</a></p>

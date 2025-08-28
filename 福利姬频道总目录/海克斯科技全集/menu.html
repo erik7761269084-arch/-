@@ -1,27 +1,35 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
   <p><a href="https://telegra.ph/%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80---%E6%98%9F%E6%9C%9F%E4%B8%80%E7%9A%84%E5%A5%B6%E7%89%9B-29P-08-21">海克斯科技 - 星期一的奶牛 29P</a></p>
   <p><a href="https://telegra.ph/%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80-%E4%BA%94%E6%8C%87%E8%A2%9C%E6%8B%89%E4%B8%9D%E7%89%88-08-22">海克斯科技 五指袜拉丝版</a></p>
   <p><a href="https://telegra.ph/%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80-%E5%A7%90%E5%A7%90%E7%9A%84%E8%A3%B8%E8%B6%B3-08-22">海克斯科技 姐姐的裸足</a></p>
   <p><a href="https://telegra.ph/%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80-%E9%BB%91%E4%B8%9D%E4%BA%94%E6%8C%87%E8%A2%9C-08-22">海克斯科技 黑丝五指袜</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
-  <p><a href="../index.html">返回总目录</a></p>  
+ 
 </body>
 </html>

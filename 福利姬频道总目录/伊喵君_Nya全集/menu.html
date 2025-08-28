@@ -1,14 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
  
   <p><a href="https://telegra.ph/%E4%BC%8A%E5%96%B5%E5%90%9B-Nya---%E6%A1%83%E6%99%AF%E4%B8%89%E9%85%AA%E5%8E%9F%E7%A5%9E-%E9%B8%A3%E7%A5%9E%E5%8F%8C%E4%BA%BA-%E5%85%AB%E9%87%8D%E9%9B%B7%E7%A5%9E-%E5%8F%8C%E5%80%8D%E5%BF%AB%E4%B9%90-57P1V-129GB-08-20">伊喵君_Nya - &桃景三酪《原神-鸣神双人》 八重&雷神 双倍快乐 [57P1V-1.29GB]</a></p>
   <p><a href="https://telegra.ph/伊喵君-Nya-中秋礼物-80P2V-861MB-08-24">伊喵君_Nya 中秋礼物 [80P2V-861MB]</a></p>

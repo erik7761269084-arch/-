@@ -1,15 +1,32 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
 </head>
 <body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
   <div id="advertise">
-    <iframe src="../../advertise.html" frameborder="0" width="100%" height="100"></iframe>
-	<p><a href="../index.html">返回当前频道总目录</a></p>
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
   </div>
+
   <hr>
-  <p><a href="../index.html">返回总目录</a></p>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+   
   <p><a href="https://telegra.ph/%E4%B9%A0%E5%91%86%E5%91%86---20240716-%E6%97%B6%E9%9B%A8%E9%9B%A8%E8%A1%A3-08-20">习呆呆 - 2024.07.16 时雨雨衣</a></p>
   <p><a href="https://telegra.ph/%E4%B9%A0%E5%91%86%E5%91%86-Ellen-Joe-%E8%89%BE%E8%8E%B2%E4%B9%94-18P1V-08-21">习呆呆 Ellen Joe 艾莲·乔 18P1V</a></p>
   <p><a href="https://telegra.ph/习呆呆-Pack-Yor-Forger-08-25">习呆呆 Pack Yor Forger</a></p>
@@ -18,6 +35,6 @@
   <p><a href="https://telegra.ph/习呆呆---fantia-08-25-3">习呆呆 - fantia 3</a></p>
   <p><a href="https://telegra.ph/习呆呆---fantia-08-25-4">习呆呆 - fantia 4</a></p>
   <p><a href="https://telegra.ph/习呆呆---眼帯フラ巫女緊縛55P2V-135MB-08-26">习呆呆 - 眼帯ブラ巫女緊縛[55P2V-135MB]</a></p>
-  <p><a href="../index.html">返回总目录</a></p>
+ 
 </body>
 </html>
