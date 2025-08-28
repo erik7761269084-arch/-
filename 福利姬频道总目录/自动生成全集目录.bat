@@ -18,6 +18,7 @@ echo ^<body^>
 echo   ^<h1 id="page-title"^>^</h1^>
 echo   ^<div id="advertise"^>
 echo     ^<object data="../advertise.html" type="text/html"^>^</object^>
+echo     ^<p^>^<a class="back-link" href="../index.html"^>← 返回所有频道总目录^</a^>^</p^>
 echo   ^</div^>
 echo   ^<hr^>
 echo   ^<script^>
