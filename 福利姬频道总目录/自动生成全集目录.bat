@@ -10,14 +10,19 @@ echo ^<!DOCTYPE html^>
 echo ^<html lang="zh"^>
 echo ^<head^>
 echo   ^<meta charset="UTF-8"^>
-echo   ^<title^>chunmomo^</title^>
+echo   ^<meta name="viewport" content="width=device-width, initial-scale=1"^>
+echo   ^<link rel="stylesheet" href="../advertiseStyle.css"^>
+echo   ^<title^>^</title^>
 echo ^</head^>
 echo ^<body^>
-echo   ^<h1^>频道大全^</h1^>
+echo   ^<h1 id="page-title"^>^</h1^>
 echo   ^<div id="advertise"^>
-echo     ^<iframe src="../advertise.html" frameborder="0" width="100%%" height="100"^>^</iframe^>
+echo     ^<object data="../advertise.html" type="text/html"^>^</object^>
 echo   ^</div^>
 echo   ^<hr^>
+echo   ^<script^>
+echo   ^<div id="111"^>
+echo   ^</script^>
 echo   ^<h2^>福利姬目录^</h2^>
 ) > "%outfile%"
 
