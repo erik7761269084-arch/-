@@ -1,0 +1,11 @@
+#advertise {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#advertise object {
+  width: 100%;
+  min-height: 200px; /* 根据需要调整高度 */
+  border: none;
+}
