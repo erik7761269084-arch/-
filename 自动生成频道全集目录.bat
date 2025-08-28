@@ -25,7 +25,7 @@ echo     let pathParts = window.location.pathname.split("/"^).^filter(p =^>p ^!^
 echo     // 取倒数第二个部分作为目录名
 echo     let folderName = decodeURIComponent(pathParts[pathParts.length - 2]^)^;
 echo     // 设置标题
-echo     document.getElementById("page-title"^)^.innerText = folderName + " 资源目录";
+echo     document.getElementById("page-title"^)^.innerText = folderName + "频道首页";
 echo     document.title = folderName; // 同时修改网页标签标题
 echo   ^</script^>
 echo   ^<h2^>频道目录首页^</h2^>
