@@ -9,3 +9,32 @@
   min-height: 200px; /* 根据需要调整高度 */
   border: none;
 }
+
+/* 页面全局基础样式 */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  padding: 16px;
+}
+
+/* 标题样式 */
+h1 {
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+
+/* 链接通用样式 */
+a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+  word-break: break-word; /* 避免长链接溢出 */
+}
+
+/* 返回按钮专用样式 */
+.back-link {
+  margin-top: 10px;
+  display: inline-block;
+  color: #0066cc;
+  font-weight: normal;
+}
