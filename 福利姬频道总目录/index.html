@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
@@ -14,9 +14,15 @@
   </div>
   <hr>
   <script>
-  <div id="111">
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p =>p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
   </script>
-  <h2>福利姬目录</h2>
+  <h2>福利姬频道目录</h2>
   <p><a href="./51酱全集/menu.html">51酱全集</a></p> 
   <p><a href="./Aram (아람)全集/menu.html">Aram (아람)全集</a></p> 
   <p><a href="./ArtGravia全集/menu.html">ArtGravia全集</a></p> 

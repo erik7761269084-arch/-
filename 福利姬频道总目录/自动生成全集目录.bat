@@ -4,7 +4,7 @@ chcp 65001 >nul
 
 set "base_dir=%~dp0"
 set "outfile=%base_dir%index.html"
-
+setlocal DISABLEDELAYEDEXPANSION
 (
 echo ^<!DOCTYPE html^>
 echo ^<html lang="zh"^>
@@ -22,9 +22,15 @@ echo     ^<p^>^<a class="back-link" href="../index.html"^>← 返回所有频道
 echo   ^</div^>
 echo   ^<hr^>
 echo   ^<script^>
-echo   ^<div id="111"^>
+echo     // 获取当前路径
+echo     let pathParts = window.location.pathname.split("/"^).^filter(p =^>p ^!^== ""^);
+echo     // 取倒数第二个部分作为目录名
+echo     let folderName = decodeURIComponent(pathParts[pathParts.length - 2]^)^;
+echo     // 设置标题
+echo     document.getElementById("page-title"^)^.innerText = folderName + " 资源目录";
+echo     document.title = folderName; // 同时修改网页标签标题
 echo   ^</script^>
-echo   ^<h2^>福利姬目录^</h2^>
+echo   ^<h2^>福利姬频道目录^</h2^>
 ) > "%outfile%"
 
 for /d %%D in (*) do (
