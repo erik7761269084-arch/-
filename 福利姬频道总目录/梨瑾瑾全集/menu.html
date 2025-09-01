@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+ 
+  <p><a href="https://telegra.ph/梨瑾瑾--白雪姬-08-29">梨瑾瑾 – 白雪姬</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---吉他妹妹-08-30">梨瑾瑾 - 吉他妹妹</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---幼稚园-08-30">梨瑾瑾 - 幼稚园</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---室内JK-08-30">梨瑾瑾 - 室内JK</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---室内吊带裙-08-30">梨瑾瑾 - 室内吊带裙</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---户外LO裙-08-30">梨瑾瑾 - 户外LO裙</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---户外JK-08-30">梨瑾瑾 - 户外JK</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---户外JK2-08-30">梨瑾瑾 - 户外JK2</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---乘务员-08-30">梨瑾瑾 - 乘务员</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---LO娘-08-30">梨瑾瑾 - LO娘</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---草地-08-30">梨瑾瑾 - 草地</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---黄豆粉-08-30">梨瑾瑾 - 黄豆粉</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---水手-08-30">梨瑾瑾 - 水手</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---户外黑长服-08-30">梨瑾瑾 - 户外黑长服</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---改良旗袍-08-30">梨瑾瑾 - 改良旗袍</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---花嫁-08-30">梨瑾瑾 - 花嫁</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---茶羽中-08-30">梨瑾瑾 - 茶羽中</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---稻田-08-30">梨瑾瑾 - 稻田</a></p>
+  <p><a href="https://telegra.ph/梨瑾瑾---网袜-08-30">梨瑾瑾 - 网袜</a></p>
+
+
+</body>
+</html>
