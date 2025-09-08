@@ -9,3 +9,57 @@
   <p>正在跳转到 <a href="https://t.me/yunvgongguochanAV2">Telegram</a>...</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>跳转中...</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f5f5f5;
+      font-family: Arial, sans-serif;
+    }
+    a {
+      display: inline-block;
+      padding: 15px 40px;
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      color: white;
+      background: #0088cc;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+  </style>
+  <script>
+    function isTelegramInApp() {
+      // Telegram 内置浏览器 UA 会包含 "Telegram"
+      return navigator.userAgent.includes("Telegram");
+    }
+
+    window.onload = function() {
+      const link = "https://t.me/yunvgongguochanAV2";
+      if (isTelegramInApp()) {
+        // Telegram 内置浏览器 → 显示按钮
+        document.getElementById("jump-btn").style.display = "inline-block";
+      } else {
+        // 普通浏览器 → 自动跳转
+        window.location.href = link;
+      }
+    };
+  </script>
+</head>
+<body>
+  <a id="jump-btn" href="https://t.me/yunvgongguochanAV2" 
+     target="_blank" rel="noopener noreferrer" style="display:none;">
+    💪 点击关注 御女宫国产AV
+  </a>
+</body>
+</html>
