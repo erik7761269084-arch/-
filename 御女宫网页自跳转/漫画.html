@@ -3,9 +3,56 @@
 <head>
   <meta charset="UTF-8">
   <title>跳转中...</title>
-  <meta http-equiv="refresh" content="0; url=https://t.me/yunvgongmanhua">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f5f5f5;
+      font-family: Arial, sans-serif;
+      gap: 20px;
+    }
+    a {
+      display: inline-block;
+      padding: 15px 40px;
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      color: white;
+      background: #0088cc;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+  </style>
+  <script>
+    // 定义跳转链接
+    const tgLink = "https://t.me/yunvgongmanhua";
+
+    function isTelegramInApp() {
+      // Telegram 内置浏览器 UA 会包含 "Telegram"
+      return navigator.userAgent.includes("Telegram");
+    }
+
+    window.onload = function() {
+      const btn = document.getElementById("jump-btn");
+      btn.href = tgLink; // 设置按钮链接
+
+      if (isTelegramInApp()) {
+        // Telegram 内置浏览器 → 显示按钮
+        btn.style.display = "inline-block";
+      } else {
+        // 普通浏览器 → 自动跳转
+        window.location.href = tgLink;
+      }
+    };
+  </script>
 </head>
 <body>
-  <p>正在跳转到 <a href="https://t.me/yunvgongmanhua">Telegram</a>...</p>
+  <a id="jump-btn" target="_blank" rel="noopener noreferrer" style="display:none;">
+    💪 点击关注 御女宫漫画
+  </a>
 </body>
 </html>
