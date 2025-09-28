@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>黑白局 - 线上看</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; background: #2c2c2c; color: #fff; margin: 0; padding: 0; }
+    .container { max-width: 1200px; margin: 20px auto; padding: 0 10px; }
+    .player { margin-bottom: 20px; position: relative; }
+    video { width: 100%; height: auto; background: black; touch-action: pan-y; } /* 禁止左右滑动切换 */
+
+    /* 暂停浮层 */
+    #overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      font-size: 22px;
+      font-weight: bold;
+      z-index: 10;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      text-align: center;
+      padding: 20px;
+    }
+
+    video::-webkit-media-controls-volume-slider,
+    video::-webkit-media-controls-mute-button,
+    video::-webkit-media-controls-fullscreen-button {
+      transform: scale(1.5);
+      margin: 0 6px;
+    }
+
+    .nav-buttons { display: flex; justify-content: center; gap: 15px; margin: 10px 0; }
+    .nav-buttons button { background: #444; color: #fff; border: none; padding: 10px 20px; cursor: pointer; border-radius: 4px; transition: 0.2s; }
+    .nav-buttons button:hover { background: #555; }
+
+    .playlist { display: flex; flex-wrap: wrap; gap: 10px; padding: 10px 0; justify-content: center; }
+    .playlist button { background: #444; color: #fff; border: none; padding: 10px 15px; cursor: pointer; border-radius: 4px; transition: 0.2s; }
+    .playlist button:hover { background: #555; }
+    .playlist button.active { background: #1e90ff; }
+
+    .details { background: #1c1c1c; padding: 15px; border-radius: 8px; }
+    .details h1 { margin: 0 0 10px 0; font-size: 24px; }
+    .details p { margin: 5px 0; line-height: 1.5; }
+    .details strong { color: #1e90ff; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="player">
+    <video id="video" controls playsinline webkit-playsinline x5-playsinline></video>
+    <div id="overlay"></div>
+  </div>
+
+  <div class="nav-buttons">
+    <button id="prev">上一集</button>
+    <button id="next">下一集</button>
+  </div>
+
+  <div class="playlist" id="playlist"></div>
+
+  <div class="details">
+    <h1 id="title">黑白局 - 電視劇</h1>
+    <p><strong>状态:</strong> <span id="status">第20集完結</span></p>
+    <p><strong>类别:</strong> <span id="category">大陸電視劇</span></p>
+    <p><strong>导演:</strong> <span id="director">趙浚凱, 侯傑</span></p>
+    <p><strong>主演:</strong> <span id="actors">楊旭文, 王硯輝</span></p>
+    <p><strong>国家/语言/年代:</strong> <span id="meta">大陸 / 漢語普通話 / 2025</span></p>
+    <p><strong>剧情介绍:</strong></p>
+    <p id="description">
+      展鵬（楊旭文 飾）的父親是一名鐵路警察，多年前因公殉職被追評為烈士。展鵬一直希望能夠回到父親曾經工作過的地方任職。然而，當他真正來到下桐並開始工作時，卻發現這裡的情況比他想像的要複雜得多。初見塗洪江（王硯輝 飾），他並不相信這個老警察。塗洪江在處理一起販毒案件時表現得非常可疑，這讓展鵬對他產生了戒備。然而，隨著時間的推移，塗洪江用自己的行動證明了自己的清白。後在攜手辦案的過程中，展鵬逐漸對塗洪江產生敬意，兩人最終聯手將幕後主使緝拿歸案。
+    </p>
+  </div>
+</div>
+
+<script>
+const episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/d1154710/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/24a79096/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/876c7a10/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/08e571a4/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/c157d41b/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/8165d81c/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/be10cef2/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/f38e43bd/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/81f6e26a/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/0d3f5aa4/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/d2d262ce/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/8620bb8d/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/c9221c9a/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/81476e87/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/5424d5c4/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/34f4fe36/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/a512f599/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/d48277a7/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/097dec0b/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/b4d5c158/index.m3u8"
+};
+
+const video = document.getElementById('video');
+const playlist = document.getElementById('playlist');
+const overlay = document.getElementById('overlay');
+let currentIndex = 0;
+
+function loadEpisode(index, btn) {
+  const url = Object.values(episodes)[index];
+  if (!url) return;
+
+  if(Hls.isSupported()) {
+    const hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      video.play();
+    });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = url;
+    video.addEventListener('loadedmetadata', () => video.play());
+  }
+
+  document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  currentIndex = index;
+}
+
+// 更新浮层显示
+function updateOverlay() {
+  const title = document.getElementById('title').textContent;
+  const epName = Object.keys(episodes)[currentIndex];
+  overlay.textContent = title + " - " + epName;
+}
+
+// 生成集数按钮
+Object.entries(episodes).forEach(([ep, url], index) => {
+  const btn = document.createElement('button');
+  btn.textContent = ep;
+  btn.onclick = () => loadEpisode(index, btn);
+  playlist.appendChild(btn);
+});
+
+// 上一集 / 下一集
+document.getElementById('prev').onclick = () => {
+  if (currentIndex > 0) {
+    const btn = playlist.children[currentIndex - 1];
+    loadEpisode(currentIndex - 1, btn);
+  }
+};
+document.getElementById('next').onclick = () => {
+  if (currentIndex < Object.keys(episodes).length - 1) {
+    const btn = playlist.children[currentIndex + 1];
+    loadEpisode(currentIndex + 1, btn);
+  }
+};
+
+// 视频事件绑定
+video.addEventListener('pause', () => {
+  updateOverlay();
+  overlay.style.opacity = 1;
+});
+video.addEventListener('play', () => {
+  overlay.style.opacity = 0;
+});
+
+// 手机上下滑动切换
+let startY = 0;
+video.addEventListener('touchstart', (e) => {
+  startY = e.touches[0].clientY;
+});
+video.addEventListener('touchend', (e) => {
+  const endY = e.changedTouches[0].clientY;
+  const deltaY = endY - startY;
+  if (Math.abs(deltaY) > 50) { // 滑动距离大于50px才触发
+    if (deltaY > 0) {
+      // 下滑 → 上一集
+      if (currentIndex > 0) {
+        const btn = playlist.children[currentIndex - 1];
+        loadEpisode(currentIndex - 1, btn);
+      }
+    } else {
+      // 上滑 → 下一集
+      if (currentIndex < Object.keys(episodes).length - 1) {
+        const btn = playlist.children[currentIndex + 1];
+        loadEpisode(currentIndex + 1, btn);
+      }
+    }
+  }
+});
+
+// 默认播放第1集
+const firstBtn = playlist.querySelector('button');
+firstBtn.classList.add('active');
+loadEpisode(0, firstBtn);
+</script>
+
+</body>
+</html>
