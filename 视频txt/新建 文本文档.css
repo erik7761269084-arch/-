@@ -1,4 +1,4 @@
-/* Í¨ÓÃ²¥·ÅÆ÷ÑùÊ½ */
+/* é€šç”¨æ’­æ”¾å™¨æ ·å¼ */
 body {
     font-family: Arial, sans-serif;
     background: #2c2c2c;
@@ -22,10 +22,10 @@ video {
     width: 100%;
     height: auto;
     background: black;
-    touch-action: pan-y; /* ½ûÖ¹×óÓÒ»¬¶¯ÇĞ»» */
+    touch-action: pan-y; /* ç¦æ­¢å·¦å³æ»‘åŠ¨åˆ‡æ¢ */
 }
 
-/* ÔİÍ£¸¡²ã */
+/* æš‚åœæµ®å±‚ */
 #overlay {
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
@@ -37,14 +37,14 @@ video {
     font-size: 22px;
     font-weight: bold;
     z-index: 10;
-    pointer-events: none; /* ²»µ²×¡µã»÷ */
+    pointer-events: none; /* ä¸æŒ¡ä½ç‚¹å‡» */
     opacity: 0;
     transition: opacity 0.3s ease;
     text-align: center;
     padding: 20px;
 }
 
-/* ¿ØÖÆ°´Å¥·Å´ó (½ö²¿·Öä¯ÀÀÆ÷ÉúĞ§) */
+/* æ§åˆ¶æŒ‰é’®æ”¾å¤§ (ä»…éƒ¨åˆ†æµè§ˆå™¨ç”Ÿæ•ˆ) */
 video::-webkit-media-controls-volume-slider,
 video::-webkit-media-controls-mute-button,
 video::-webkit-media-controls-fullscreen-button {
@@ -52,7 +52,7 @@ video::-webkit-media-controls-fullscreen-button {
     margin: 0 6px;
 }
 
-/* ÉÏÒ»¼¯ / ÏÂÒ»¼¯°´Å¥ */
+/* ä¸Šä¸€é›† / ä¸‹ä¸€é›†æŒ‰é’® */
 .nav-buttons {
     display: flex;
     justify-content: center;
@@ -72,7 +72,7 @@ video::-webkit-media-controls-fullscreen-button {
     background: #555;
 }
 
-/* ¼¯ÊıÁĞ±í°´Å¥ */
+/* é›†æ•°åˆ—è¡¨æŒ‰é’® */
 .playlist {
     display: flex;
     flex-wrap: wrap;
@@ -96,7 +96,7 @@ video::-webkit-media-controls-fullscreen-button {
     background: #1e90ff;
 }
 
-/* ¾çÇéÏêÇé */
+/* å‰§æƒ…è¯¦æƒ… */
 .details {
     background: #1c1c1c;
     padding: 15px;
