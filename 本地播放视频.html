@@ -7,10 +7,29 @@
   <style>
     body { font-family: Arial, sans-serif; background: #2c2c2c; color: #fff; margin: 0; padding: 0; }
     .container { max-width: 1200px; margin: 20px auto; padding: 0 10px; }
-    .player { margin-bottom: 20px; position: relative; }
-    video { width: 100%; height: auto; background: black; }
+    .player { margin-bottom: 10px; position: relative; }
+    video { width: 100%; height: auto; background: black; touch-action: pan-y; }
 
-    /* 播放列表样式 */
+    /* 视频下方左右按钮 */
+    .nav-buttons {
+      display: flex;
+      justify-content: space-between;
+      margin: 10px 0 20px;
+    }
+    .nav-buttons button {
+      background: #1e90ff;
+      color: #fff;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: 0.2s;
+      font-size: 16px;
+      min-width: 100px;
+    }
+    .nav-buttons button:hover { background: #0d6efd; }
+
+    /* 播放列表 */
     .playlist {
       display: flex;
       flex-wrap: wrap;
@@ -41,35 +60,6 @@
     .details h1 { margin: 0 0 10px 0; font-size: 24px; }
     .details p { margin: 5px 0; line-height: 1.5; }
     .details strong { color: #1e90ff; }
-
-    /* 右下角上下集按钮 */
-    .nav-buttons {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      display: flex;
-      gap: 10px;
-      z-index: 999;
-    }
-    .nav-buttons button {
-      background: #1e90ff;
-      color: #fff;
-      border: none;
-      padding: 10px 16px;
-      border-radius: 4px;
-      cursor: pointer;
-      transition: 0.2s;
-      font-size: 16px;
-    }
-    .nav-buttons button:hover { background: #0d6efd; }
-
-    /* 移动端优化按钮尺寸 */
-    @media (max-width: 600px) {
-      .nav-buttons button {
-        padding: 14px 20px;
-        font-size: 18px;
-      }
-    }
   </style>
 </head>
 <body>
@@ -77,6 +67,12 @@
 <div class="container">
   <div class="player">
     <video id="video" controls></video>
+  </div>
+
+  <!-- 上一集 / 下一集 按钮：视频下方，左右对称 -->
+  <div class="nav-buttons">
+    <button id="prevBtn">⬅ 上一集</button>
+    <button id="nextBtn">下一集 ➡</button>
   </div>
 
   <div class="playlist" id="playlist"></div>
@@ -93,33 +89,11 @@
   </div>
 </div>
 
-<!-- 右下角按钮 -->
-<div class="nav-buttons">
-  <button id="prevBtn">上一集</button>
-  <button id="nextBtn">下一集</button>
-</div>
-
 <script>
 const episodes = {
   "第1集": { url: "https://cdn.wlcdn88.com:777/d1154710/index.m3u8", status: "更新至第1集", description: "展鵬（楊旭文 飾）的父親是一名鐵路警察..." },
   "第2集": { url: "https://cdn.wlcdn88.com:777/24a79096/index.m3u8", status: "更新至第2集", description: "展鵬开始在下桐工作..." },
   "第3集": { url: "https://cdn.wlcdn88.com:777/876c7a10/index.m3u8", status: "更新至第3集", description: "剧情继续..." },
-  "第4集": { url: "https://cdn.wlcdn88.com:777/08e571a4/index.m3u8", status: "更新至第4集", description: "剧情继续..." },
-  "第5集": { url: "https://cdn.wlcdn88.com:777/c157d41b/index.m3u8", status: "更新至第5集", description: "剧情继续..." },
-  "第6集": { url: "https://cdn.wlcdn88.com:777/8165d81c/index.m3u8", status: "更新至第6集", description: "剧情继续..." },
-  "第7集": { url: "https://cdn.wlcdn88.com:777/be10cef2/index.m3u8", status: "更新至第7集", description: "剧情继续..." },
-  "第8集": { url: "https://cdn.wlcdn88.com:777/f38e43bd/index.m3u8", status: "更新至第8集", description: "剧情继续..." },
-  "第9集": { url: "https://cdn.wlcdn88.com:777/81f6e26a/index.m3u8", status: "更新至第9集", description: "剧情继续..." },
-  "第10集": { url: "https://cdn.wlcdn88.com:777/0d3f5aa4/index.m3u8", status: "更新至第10集", description: "剧情继续..." },
-  "第11集": { url: "https://cdn.wlcdn88.com:777/d2d262ce/index.m3u8", status: "更新至第11集", description: "剧情继续..." },
-  "第12集": { url: "https://cdn.wlcdn88.com:777/8620bb8d/index.m3u8", status: "更新至第12集", description: "剧情继续..." },
-  "第13集": { url: "https://cdn.wlcdn88.com:777/c9221c9a/index.m3u8", status: "更新至第13集", description: "剧情继续..." },
-  "第14集": { url: "https://cdn.wlcdn88.com:777/81476e87/index.m3u8", status: "更新至第14集", description: "剧情继续..." },
-  "第15集": { url: "https://cdn.wlcdn88.com:777/5424d5c4/index.m3u8", status: "更新至第15集", description: "剧情继续..." },
-  "第16集": { url: "https://cdn.wlcdn88.com:777/34f4fe36/index.m3u8", status: "更新至第16集", description: "剧情继续..." },
-  "第17集": { url: "https://cdn.wlcdn88.com:777/a512f599/index.m3u8", status: "更新至第17集", description: "剧情继续..." },
-  "第18集": { url: "https://cdn.wlcdn88.com:777/d48277a7/index.m3u8", status: "更新至第18集", description: "剧情继续..." },
-  "第19集": { url: "https://cdn.wlcdn88.com:777/097dec0b/index.m3u8", status: "更新至第19集", description: "剧情继续..." },
   "第20集": { url: "https://cdn.wlcdn88.com:777/b4d5c158/index.m3u8", status: "第20集完結", description: "展鵬与塗洪江联手将幕后主使抓捕归案..." }
 };
 
@@ -164,7 +138,6 @@ function loadEpisode(url, btn, epKey) {
   btn.classList.add('active');
   currentBtn = btn;
 
-  btn.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
   updateDetails(epKey);
   localStorage.setItem('lastEpisode', epKey);
 }
@@ -204,6 +177,20 @@ nextBtn.addEventListener('click', () => {
   if(!currentBtn) return;
   const next = currentBtn.nextElementSibling;
   if(next && next.tagName === 'BUTTON') loadEpisode(episodes[next.textContent].url, next, next.textContent);
+});
+
+// 移动端滑动切集
+let touchStartX = 0;
+let touchEndX = 0;
+const swipeThreshold = 50;
+video.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; });
+video.addEventListener('touchend', e => {
+  touchEndX = e.changedTouches[0].screenX;
+  const diff = touchEndX - touchStartX;
+  if(Math.abs(diff) > swipeThreshold) {
+    if(diff > 0) prevBtn.click(); // 向右滑
+    else nextBtn.click();         // 向左滑
+  }
 });
 </script>
 
