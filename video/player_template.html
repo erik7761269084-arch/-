@@ -33,6 +33,9 @@
   </div>
 </div>
 
+  <!-- 额外 JS 文件 -->
+  <script src="2025/script.js"></script>
+
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
@@ -64,6 +67,15 @@ function loadSeriesData(seriesName) {
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
 }
+
+function loadSeriesData(seriesName) {
+  const script = document.createElement('script');
+  script.src = "2025/" + seriesName + "_data.js";  // 加上 2025 路径
+  script.onload = () => initPlayer();
+  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
+  document.body.appendChild(script);
+}
+
 
 // 初始化播放器
 function initPlayer() {
