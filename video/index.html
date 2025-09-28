@@ -1,156 +1,57 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<title>播放器 - 线上看</title>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
-<link rel="stylesheet" href="player.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>黑白局</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+        .link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+            margin-top: 15px;
+        }
+        .link-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-
-<div class="container">
-  <div class="player">
-    <video id="video" controls playsinline webkit-playsinline x5-playsinline></video>
-    <div id="overlay"></div>
-  </div>
-
-  <div class="nav-buttons">
-    <button id="prev">上一集</button>
-    <button id="next">下一集</button>
-  </div>
-
-  <div class="playlist" id="playlist"></div>
-
-  <div class="details">
-    <h1 id="title">剧名 - 集数</h1>
-    <p><strong>状态:</strong> <span id="status"></span></p>
-    <p><strong>类别:</strong> <span id="category"></span></p>
-    <p><strong>导演:</strong> <span id="director"></span></p>
-    <p><strong>主演:</strong> <span id="actors"></span></p>
-    <p><strong>国家/语言/年代:</strong> <span id="meta"></span></p>
-    <p><strong>剧情介绍:</strong></p>
-    <p id="description"></p>
-  </div>
-</div>
-
-<script>
-const video = document.getElementById('video');
-const playlist = document.getElementById('playlist');
-const overlay = document.getElementById('overlay');
-
-const titleEl = document.getElementById('title');
-const statusEl = document.getElementById('status');
-const categoryEl = document.getElementById('category');
-const directorEl = document.getElementById('director');
-const actorsEl = document.getElementById('actors');
-const metaEl = document.getElementById('meta');
-const descriptionEl = document.getElementById('description');
-
-let episodes = {};
-let seriesInfo = {};
-let currentIndex = 0;
-
-// 获取 URL ?series=xxx
-function getSeriesName() {
-  const params = new URLSearchParams(window.location.search);
-  return params.get('series') || 'default';
-}
-
-// 动态加载 JS 数据文件
-function loadSeriesData(seriesName) {
-  const script = document.createElement('script');
-  script.src = seriesName + "_data.js";
-  script.onload = () => initPlayer();
-  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
-  document.body.appendChild(script);
-}
-
-// 初始化播放器
-function initPlayer() {
-  if (!episodes || Object.keys(episodes).length === 0) {
-    alert("当前剧集没有数据");
-    return;
-  }
-
-  // 填充剧集信息
-  titleEl.textContent = seriesInfo.title || "剧名";
-  statusEl.textContent = seriesInfo.status || "";
-  categoryEl.textContent = seriesInfo.category || "";
-  directorEl.textContent = seriesInfo.director || "";
-  actorsEl.textContent = seriesInfo.actors || "";
-  metaEl.textContent = seriesInfo.meta || "";
-  descriptionEl.textContent = seriesInfo.description || "";
-
-  // 生成集数按钮
-  Object.entries(episodes).forEach(([ep, url], index) => {
-    const btn = document.createElement('button');
-    btn.textContent = ep;
-    btn.onclick = () => loadEpisode(index, btn);
-    playlist.appendChild(btn);
-  });
-
-  // 默认播放第1集
-  const firstBtn = playlist.querySelector('button');
-  firstBtn.classList.add('active');
-  loadEpisode(0, firstBtn);
-}
-
-// 加载指定集数
-function loadEpisode(index, btn) {
-  const url = Object.values(episodes)[index];
-  if (!url) return;
-
-  if (Hls.isSupported()) {
-    const hls = new Hls();
-    hls.loadSource(url);
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
-  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = url;
-    video.addEventListener('loadedmetadata', () => video.play());
-  }
-
-  document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
-  currentIndex = index;
-  updateOverlay();
-}
-
-// 上一集 / 下一集
-document.getElementById('prev').onclick = () => {
-  if (currentIndex > 0) loadEpisode(currentIndex - 1, playlist.children[currentIndex - 1]);
-};
-document.getElementById('next').onclick = () => {
-  if (currentIndex < Object.keys(episodes).length - 1) loadEpisode(currentIndex + 1, playlist.children[currentIndex + 1]);
-};
-
-// 更新暂停浮层
-function updateOverlay() {
-  const epName = Object.keys(episodes)[currentIndex];
-  overlay.textContent = (seriesInfo.title || "剧名") + " - " + epName;
-}
-
-// 视频事件
-video.addEventListener('pause', () => overlay.style.opacity = 1);
-video.addEventListener('play', () => overlay.style.opacity = 0);
-
-// 手机左右滑动切集
-let touchStartX = 0;
-let touchEndX = 0;
-const swipeThreshold = 50;
-video.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; });
-video.addEventListener('touchend', e => {
-  touchEndX = e.changedTouches[0].screenX;
-  const diff = touchEndX - touchStartX;
-  if(Math.abs(diff) > swipeThreshold){
-    if(diff > 0) document.getElementById('prev').click();
-    else document.getElementById('next').click();
-  }
-});
-
-// 加载指定剧集数据
-loadSeriesData(getSeriesName());
-</script>
-
+    <div class="container">
+        <img src="https://example.com/your-image.jpg" alt="黑白局展示图">
+        <h1>黑白局</h1>
+        <a href="https://erik7761269084-arch.github.io/-/video/player_template.html?series=heibaiju" class="link-button" target="_blank">
+            点击观看《黑白局》
+        </a>
+    </div>
 </body>
 </html>
