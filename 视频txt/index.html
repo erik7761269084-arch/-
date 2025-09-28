@@ -22,14 +22,13 @@
       font-size: 22px;
       font-weight: bold;
       z-index: 10;
-      pointer-events: none; /* 不挡住点击 */
+      pointer-events: none;
       opacity: 0;
       transition: opacity 0.3s ease;
       text-align: center;
       padding: 20px;
     }
 
-    /* 控制按钮放大 (仅部分浏览器生效) */
     video::-webkit-media-controls-volume-slider,
     video::-webkit-media-controls-mute-button,
     video::-webkit-media-controls-fullscreen-button {
@@ -65,9 +64,7 @@
     <button id="next">下一集</button>
   </div>
 
-  <div class="playlist" id="playlist">
-    <!-- 集数按钮通过 JS 生成 -->
-  </div>
+  <div class="playlist" id="playlist"></div>
 
   <div class="details">
     <h1 id="title">黑白局 - 電視劇</h1>
@@ -165,11 +162,35 @@ document.getElementById('next').onclick = () => {
 // 视频事件绑定
 video.addEventListener('pause', () => {
   updateOverlay();
-  overlay.style.opacity = 1; // 显示
+  overlay.style.opacity = 1;
+});
+video.addEventListener('play', () => {
+  overlay.style.opacity = 0;
 });
 
-video.addEventListener('play', () => {
-  overlay.style.opacity = 0; // 隐藏
+// 手机上下滑动切换
+let startY = 0;
+video.addEventListener('touchstart', (e) => {
+  startY = e.touches[0].clientY;
+});
+video.addEventListener('touchend', (e) => {
+  const endY = e.changedTouches[0].clientY;
+  const deltaY = endY - startY;
+  if (Math.abs(deltaY) > 50) { // 滑动距离大于50px才触发
+    if (deltaY > 0) {
+      // 下滑 → 上一集
+      if (currentIndex > 0) {
+        const btn = playlist.children[currentIndex - 1];
+        loadEpisode(currentIndex - 1, btn);
+      }
+    } else {
+      // 上滑 → 下一集
+      if (currentIndex < Object.keys(episodes).length - 1) {
+        const btn = playlist.children[currentIndex + 1];
+        loadEpisode(currentIndex + 1, btn);
+      }
+    }
+  }
 });
 
 // 默认播放第1集
