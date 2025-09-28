@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>黑白局 - 线上看</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; background: #2c2c2c; color: #fff; margin: 0; padding: 0; }
+    .container { max-width: 1200px; margin: 20px auto; padding: 0 10px; }
+    .player { margin-bottom: 20px; position: relative; }
+    video { width: 100%; height: auto; background: black; }
+
+    /* 播放列表样式 */
+    .playlist {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 5px 0;
+    }
+    .playlist button {
+      flex: 0 0 9%;
+      background: #444;
+      color: #fff;
+      border: none;
+      padding: 10px 0;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: 0.2s;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .playlist button:hover { background: #555; }
+    .playlist button.active { background: #1e90ff; }
+
+    @media (max-width: 1024px) { .playlist button { flex: 0 0 15%; } }
+    @media (max-width: 600px) { .playlist button { flex: 0 0 30%; } }
+
+    .details { background: #1c1c1c; padding: 15px; border-radius: 8px; }
+    .details h1 { margin: 0 0 10px 0; font-size: 24px; }
+    .details p { margin: 5px 0; line-height: 1.5; }
+    .details strong { color: #1e90ff; }
+
+    /* 右下角上下集按钮 */
+    .nav-buttons {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      display: flex;
+      gap: 10px;
+      z-index: 999;
+    }
+    .nav-buttons button {
+      background: #1e90ff;
+      color: #fff;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: 0.2s;
+      font-size: 16px;
+    }
+    .nav-buttons button:hover { background: #0d6efd; }
+
+    /* 移动端优化按钮尺寸 */
+    @media (max-width: 600px) {
+      .nav-buttons button {
+        padding: 14px 20px;
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="player">
+    <video id="video" controls></video>
+  </div>
+
+  <div class="playlist" id="playlist"></div>
+
+  <div class="details">
+    <h1 id="title">黑白局 - 電視劇</h1>
+    <p><strong>状态:</strong> <span id="status"></span></p>
+    <p><strong>类别:</strong> <span id="category">大陸電視劇</span></p>
+    <p><strong>导演:</strong> <span id="director">趙浚凱, 侯傑</span></p>
+    <p><strong>主演:</strong> <span id="actors">楊旭文, 王硯輝</span></p>
+    <p><strong>国家/语言/年代:</strong> <span id="meta">大陸 / 漢語普通話 / 2025</span></p>
+    <p><strong>剧情介绍:</strong></p>
+    <p id="description"></p>
+  </div>
+</div>
+
+<!-- 右下角按钮 -->
+<div class="nav-buttons">
+  <button id="prevBtn">上一集</button>
+  <button id="nextBtn">下一集</button>
+</div>
+
+<script>
+const episodes = {
+  "第1集": { url: "https://cdn.wlcdn88.com:777/d1154710/index.m3u8", status: "更新至第1集", description: "展鵬（楊旭文 飾）的父親是一名鐵路警察..." },
+  "第2集": { url: "https://cdn.wlcdn88.com:777/24a79096/index.m3u8", status: "更新至第2集", description: "展鵬开始在下桐工作..." },
+  "第3集": { url: "https://cdn.wlcdn88.com:777/876c7a10/index.m3u8", status: "更新至第3集", description: "剧情继续..." },
+  "第4集": { url: "https://cdn.wlcdn88.com:777/08e571a4/index.m3u8", status: "更新至第4集", description: "剧情继续..." },
+  "第5集": { url: "https://cdn.wlcdn88.com:777/c157d41b/index.m3u8", status: "更新至第5集", description: "剧情继续..." },
+  "第6集": { url: "https://cdn.wlcdn88.com:777/8165d81c/index.m3u8", status: "更新至第6集", description: "剧情继续..." },
+  "第7集": { url: "https://cdn.wlcdn88.com:777/be10cef2/index.m3u8", status: "更新至第7集", description: "剧情继续..." },
+  "第8集": { url: "https://cdn.wlcdn88.com:777/f38e43bd/index.m3u8", status: "更新至第8集", description: "剧情继续..." },
+  "第9集": { url: "https://cdn.wlcdn88.com:777/81f6e26a/index.m3u8", status: "更新至第9集", description: "剧情继续..." },
+  "第10集": { url: "https://cdn.wlcdn88.com:777/0d3f5aa4/index.m3u8", status: "更新至第10集", description: "剧情继续..." },
+  "第11集": { url: "https://cdn.wlcdn88.com:777/d2d262ce/index.m3u8", status: "更新至第11集", description: "剧情继续..." },
+  "第12集": { url: "https://cdn.wlcdn88.com:777/8620bb8d/index.m3u8", status: "更新至第12集", description: "剧情继续..." },
+  "第13集": { url: "https://cdn.wlcdn88.com:777/c9221c9a/index.m3u8", status: "更新至第13集", description: "剧情继续..." },
+  "第14集": { url: "https://cdn.wlcdn88.com:777/81476e87/index.m3u8", status: "更新至第14集", description: "剧情继续..." },
+  "第15集": { url: "https://cdn.wlcdn88.com:777/5424d5c4/index.m3u8", status: "更新至第15集", description: "剧情继续..." },
+  "第16集": { url: "https://cdn.wlcdn88.com:777/34f4fe36/index.m3u8", status: "更新至第16集", description: "剧情继续..." },
+  "第17集": { url: "https://cdn.wlcdn88.com:777/a512f599/index.m3u8", status: "更新至第17集", description: "剧情继续..." },
+  "第18集": { url: "https://cdn.wlcdn88.com:777/d48277a7/index.m3u8", status: "更新至第18集", description: "剧情继续..." },
+  "第19集": { url: "https://cdn.wlcdn88.com:777/097dec0b/index.m3u8", status: "更新至第19集", description: "剧情继续..." },
+  "第20集": { url: "https://cdn.wlcdn88.com:777/b4d5c158/index.m3u8", status: "第20集完結", description: "展鵬与塗洪江联手将幕后主使抓捕归案..." }
+};
+
+const video = document.getElementById('video');
+const playlist = document.getElementById('playlist');
+const titleEl = document.getElementById('title');
+const statusEl = document.getElementById('status');
+const descriptionEl = document.getElementById('description');
+const prevBtn = document.getElementById('prevBtn');
+const nextBtn = document.getElementById('nextBtn');
+
+let currentBtn = null;
+
+// 更新详情区
+function updateDetails(epKey) {
+  titleEl.textContent = `黑白局 - ${epKey}`;
+  statusEl.textContent = episodes[epKey].status;
+  descriptionEl.textContent = episodes[epKey].description;
+}
+
+// 加载集数
+function loadEpisode(url, btn, epKey) {
+  if(Hls.isSupported()) {
+    const hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, () => {
+      const lastTime = localStorage.getItem(`progress_${epKey}`);
+      if(lastTime) video.currentTime = parseFloat(lastTime);
+      video.play();
+    });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = url;
+    video.addEventListener('loadedmetadata', () => {
+      const lastTime = localStorage.getItem(`progress_${epKey}`);
+      if(lastTime) video.currentTime = parseFloat(lastTime);
+      video.play();
+    });
+  }
+
+  document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  currentBtn = btn;
+
+  btn.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+  updateDetails(epKey);
+  localStorage.setItem('lastEpisode', epKey);
+}
+
+// 生成集数按钮
+for(const [ep, data] of Object.entries(episodes)) {
+  const btn = document.createElement('button');
+  btn.textContent = ep;
+  btn.onclick = () => loadEpisode(data.url, btn, ep);
+  playlist.appendChild(btn);
+}
+
+// 默认播放上次播放集数或第1集
+let savedEp = localStorage.getItem('lastEpisode') || "第1集";
+let startBtn = Array.from(playlist.children).find(b => b.textContent === savedEp) || playlist.querySelector('button');
+loadEpisode(episodes[startBtn.textContent].url, startBtn, startBtn.textContent);
+
+// 保存播放进度
+video.addEventListener('timeupdate', () => {
+  if(currentBtn) localStorage.setItem(`progress_${currentBtn.textContent}`, video.currentTime);
+});
+
+// 播放结束自动切下一集
+video.addEventListener('ended', () => {
+  if(!currentBtn) return;
+  const next = currentBtn.nextElementSibling;
+  if(next && next.tagName === 'BUTTON') loadEpisode(episodes[next.textContent].url, next, next.textContent);
+});
+
+// 上一集 / 下一集按钮事件
+prevBtn.addEventListener('click', () => {
+  if(!currentBtn) return;
+  const prev = currentBtn.previousElementSibling;
+  if(prev && prev.tagName === 'BUTTON') loadEpisode(episodes[prev.textContent].url, prev, prev.textContent);
+});
+nextBtn.addEventListener('click', () => {
+  if(!currentBtn) return;
+  const next = currentBtn.nextElementSibling;
+  if(next && next.tagName === 'BUTTON') loadEpisode(episodes[next.textContent].url, next, next.textContent);
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../advertiseStyle.css">
+  <title></title>
+</head>
+<body>
+  <h1 id="page-title"></h1>
+
+  <!-- 广告模块 -->
+  <div id="advertise">
+    <object data="../../advertise.html" type="text/html"></object>
+    <p><a class="back-link" href="../index.html">← 返回当前频道总目录</a></p>
+  </div>
+
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p => p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + " 资源目录";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+  <p><a href="https://telegra.ph/BlueCake-Yuka-유카---Secret-Date-08-26">Yuka (유카) Secret Date</a></p>
+  <p><a href="https://telegra.ph/BlueCake-Secret-Date-Yuka유카-08-29">Yuka (유카) Secret Date Yuka유카</a></p>
+  <p><a href="https://telegra.ph/PEEKCLOUD-Christmas-Twin-Edition-x-Yuka-유카-08-29">[PEEKCLOUD] Christmas Twin Edition( x Yuka</a></p>
+  <p><a href="https://telegra.ph/Bimilstory-Yuka---Nier-Automata-2B-Black-Battle-Suit-08-29">Yuka (유카) Nier Automata 2B Black Battle Suit</a></p>
+  <p><a href="https://telegra.ph/Bimilstory-Yuka---Pink-Cat-08-29">Yuka (유카) Pink Cat</a></p>
+  <p><a href="https://telegra.ph/Bimilstory-Yuka---Yuka-is-in-Secret-Class-08-29">Yuka (유카) Yuka is in Secret Class</a></p>
+  <p><a href="https://telegra.ph/ROGLE-Yuka-유카---Vol1-08-29">Yuka (유카) vol.1</a></p>
+  <p><a href="https://telegra.ph/Bimilstory-Yuka---Vol06-Maid-In-Black-Mesh-Stockings-08-29">Yuka (유카) vol.06 Maid In Black Mesh Stockings</a></p>
+  <p><a href="https://telegra.ph/Yuka-유카---NO001-Pure-Media-Vol107-101P-573MB-08-26">Yuka (유카) NO.001 [Pure Media] vol.107 [101P-573MB]</a></p>
+  <p><a href="https://telegra.ph/PureMedia-Vol129--YUKA-2rd-08-25">vol.129 -YUKA-2rd</a></p>
+  <p><a href="https://telegra.ph/PureMedia-Vol129--YUKA-2rd-08-29">Yuka (유카) vol.129 -YUKA-2rd</a></p>
+  <p><a href="https://telegra.ph/PureMedia-Vol149-YUKA-3rd-08-29">Yuka (유카) vol.149-YUKA-3rd</a></p>
+  <p><a href="https://telegra.ph/PureMedia-vol149-YUKA-3rd-08-25">Yuka (유카) vol.149-YUKA-3rd</a></p>
+</body>
+</html>
