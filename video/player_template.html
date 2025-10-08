@@ -2,9 +2,89 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>播放器 - 线上看</title>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
-<link rel="stylesheet" href="player.css">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.player {
+    position: relative;
+    width: 100%;
+    background: #000;
+    border-radius: 8px;
+    overflow: hidden;
+}
+#video {
+    width: 100%;
+    height: auto;
+    max-height: 70vh;      /* PC端竖屏视频限制高度 */
+    display: block;
+    border-radius: 8px;
+    object-fit: contain;    /* 保持比例，不拉伸 */
+}
+.nav-buttons {
+    margin: 10px 0;
+}
+.nav-buttons button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+.playlist button {
+    padding: 5px 10px;
+    margin: 3px;
+    cursor: pointer;
+}
+.playlist button.active {
+    background-color: #007bff;
+    color: white;
+}
+.details {
+    text-align: left;
+    margin-top: 15px;
+}
+.details h1 {
+    font-size: 1.8em;
+    color: #333;
+}
+#overlay {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+@media (min-aspect-ratio: 1/1) {
+    /* 横屏视频最大高度 */
+    #video { max-height: 80vh; }
+}
+@media (max-aspect-ratio: 1/1) {
+    /* 竖屏视频最大高度 */
+    #video { max-height: 60vh; }
+}
+</style>
 </head>
 <body>
 
@@ -33,14 +113,11 @@
   </div>
 </div>
 
-  <!-- 额外 JS 文件 -->
-  <script src="2025/script.js"></script>
-
+<!-- 动态加载剧集数据 -->
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
 const overlay = document.getElementById('overlay');
-
 const titleEl = document.getElementById('title');
 const statusEl = document.getElementById('status');
 const categoryEl = document.getElementById('category');
@@ -62,20 +139,11 @@ function getSeriesName() {
 // 动态加载 JS 数据文件
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
-  script.src = seriesName + "_data.js";
+  script.src = "2025/" + seriesName + "_data.js";  // 数据路径
   script.onload = () => initPlayer();
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
 }
-
-function loadSeriesData(seriesName) {
-  const script = document.createElement('script');
-  script.src = "2025/" + seriesName + "_data.js";  // 加上 2025 路径
-  script.onload = () => initPlayer();
-  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
-  document.body.appendChild(script);
-}
-
 
 // 初始化播放器
 function initPlayer() {
@@ -84,7 +152,7 @@ function initPlayer() {
     return;
   }
 
-  // 填充剧集信息
+  // 填充信息
   titleEl.textContent = seriesInfo.title || "剧名";
   statusEl.textContent = seriesInfo.status || "";
   categoryEl.textContent = seriesInfo.category || "";
@@ -101,10 +169,12 @@ function initPlayer() {
     playlist.appendChild(btn);
   });
 
-  // 默认播放第1集
+  // 默认播放第一集
   const firstBtn = playlist.querySelector('button');
-  firstBtn.classList.add('active');
-  loadEpisode(0, firstBtn);
+  if(firstBtn){
+      firstBtn.classList.add('active');
+      loadEpisode(0, firstBtn);
+  }
 }
 
 // 加载指定集数

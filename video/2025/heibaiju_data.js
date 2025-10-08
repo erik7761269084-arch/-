@@ -1,6 +1,6 @@
 // 注意变量名必须和模板里一致
 episodes = {
-  "第1集": "https://cdn.wlcdn88.com:777/d1154710/index.m3u8",
+  "第1集": "https://8.bf8bf.com/video/dingfengbo2025/第01集/index.m3u8",
   "第2集": "https://cdn.wlcdn88.com:777/24a79096/index.m3u8",
   "第3集": "https://cdn.wlcdn88.com:777/876c7a10/index.m3u8"
   // ...更多集
