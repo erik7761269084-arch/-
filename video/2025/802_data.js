@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/571d4b18/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/f5be6328/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/d21ed17d/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/6a4a565a/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/c702ab64/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/4c07e732/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/a6c3070c/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/24df9465/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/89b8a1c0/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/b63a9733/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/3785ddad/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/4dfe8ccd/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/ee471002/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/e78bd511/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/dd92598e/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/bb31bbb6/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/4aa52d17/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/fdc62e88/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/af44b691/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/0190c9b1/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/e18fcf0b/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/967c57c9/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/630b6fd4/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/ce1fff14/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/620d375a/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/8203704c/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/9c6d0f93/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/037bcf74/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/5f8a11f4/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/68c22062/index.m3u8"
+};
+
+seriesInfo = {
+  title: "木匠奇事",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "曹国莉",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/木匠奇事_439782.avif"
+
+};

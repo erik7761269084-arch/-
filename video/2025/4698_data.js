@@ -1,0 +1,14 @@
+episodes = {
+};
+
+seriesInfo = {
+  title: "她是谁短剧版",
+  status: "全79集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/她是誰短劇版_184899.avif"
+
+};

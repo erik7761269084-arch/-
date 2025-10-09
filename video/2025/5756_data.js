@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://play.subokk.com/play/yb8k3y2a/index.m3u8",
+  "第2集": "https://play.subokk.com/play/DdwO06gd/index.m3u8",
+  "第3集": "https://play.subokk.com/play/nelzRyVb/index.m3u8",
+  "第4集": "https://play.subokk.com/play/YerJ2GWe/index.m3u8",
+  "第5集": "https://play.subokk.com/play/lejxYKzb/index.m3u8",
+  "第6集": "https://play.subokk.com/play/rb238ljd/index.m3u8",
+  "第7集": "https://play.subokk.com/play/9b6gWNQd/index.m3u8",
+  "第8集": "https://play.subokk.com/play/Xe018jVa/index.m3u8",
+  "第10集": "https://vv.jisuzyv.com/play/ZdPPjqyd/index.m3u8",
+  "第11集": "https://vv.jisuzyv.com/play/vbmAq9Eb/index.m3u8",
+  "第12集": "https://vv.jisuzyv.com/play/7axP6xna/index.m3u8",
+  "第13集": "https://play.subokk.com/play/Rb456ygd/index.m3u8",
+  "第14集": "https://vv.jisuzyv.com/play/9avNQpLa/index.m3u8",
+  "第15集": "https://vv.jisuzyv.com/play/7e567XZa/index.m3u8",
+  "第16集": "https://vv.jisuzyv.com/play/QbY27N9d/index.m3u8",
+  "第17集": "https://vv.jisuzyv.com/play/NbWZP0Xa/index.m3u8",
+  "第18集": "https://play.subokk.com/play/nelzRy7b/index.m3u8",
+  "第19集": "https://play.subokk.com/play/DbDzqKAe/index.m3u8",
+  "第20集": "https://play.subokk.com/play/1aK08yzb/index.m3u8",
+  "第21集": "https://vv.jisuzyv.com/play/negrpNld/index.m3u8",
+  "第22集": "https://vv.jisuzyv.com/play/QbY27DOd/index.m3u8",
+  "第23集": "https://play.hhuus.com/play/qaQQk8Ma/index.m3u8",
+  "第24集": "https://play.hhuus.com/play/1aK08Vlb/index.m3u8",
+  "第25集": "https://play.hhuus.com/play/9aAw6Y7d/index.m3u8",
+  "第26集": "https://play.hhuus.com/play/QeZ3892a/index.m3u8",
+  "第27集": "https://play.hhuus.com/play/DdwO0Ngd/index.m3u8",
+  "第28集": "https://play.hhuus.com/play/DbDzqO5e/index.m3u8",
+  "第29集": "https://play.hhuus.com/play/penBRjDe/index.m3u8",
+  "第30集": "https://play.hhuus.com/play/DbDzqoYe/index.m3u8",
+  "第31集": "https://vv.jisuzyv.com/play/Le346Xna/index.m3u8",
+  "第32集": "https://vv.jisuzyv.com/play/zbqGQWDe/index.m3u8"
+};
+
+seriesInfo = {
+  title: "柚木家的四兄弟真人版",
+  status: "第32集完结",
+  category: "日本电视剧",
+  director: "伊野部阳平, 濑田夏希",
+  actors: "",
+  meta: "日本 / 日语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/柚木家的四兄弟真人版_513043.avif"
+
+};

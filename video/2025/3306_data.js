@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/6a73fc6d/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241218/ZMsoFajC/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241218/9XSTZ9K0/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241218/Ns4TXQTo/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241218/BLsv1JWx/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241218/HOm2kR8c/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241218/xlmOPIH3/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241218/bjbRZdmB/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241218/c1GcD9a3/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241218/7HoWanpt/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241218/qCjJNtVl/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241218/njFgqK7k/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241218/iSJavXFT/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241218/CpJeG3pt/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241218/2UUbwKd7/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241218/wGmyHoLN/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241218/xnSbA6rh/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241218/4dEx44vJ/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241218/7Az6LiBG/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241218/gfC3HYlW/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241218/XU6TD9jJ/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241218/CqFLpKI9/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241218/TzgoRrcB/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241218/7MxO00b4/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241218/zNa5iYtn/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241218/DQtrvr6w/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241218/6QkpfQAX/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241218/Vx9f1DM6/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241218/AySksOqy/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241218/Qn5HyDQ6/index.m3u8"
+};
+
+seriesInfo = {
+  title: "青云医圣",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/青雲醫聖_502510.avif"
+
+};

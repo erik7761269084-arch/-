@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vodcnd04.myqqdd.com/20250324/EyXPcXvA/index.m3u8",
+  "第2集": "https://vodcnd04.myqqdd.com/20250324/5NxwY4q5/index.m3u8",
+  "第3集": "https://vodcnd04.myqqdd.com/20250324/7NwqKjcM/index.m3u8",
+  "第4集": "https://vodcnd04.myqqdd.com/20250324/kY3IO2vX/index.m3u8",
+  "第5集": "https://vodcnd04.myqqdd.com/20250324/XkT7sxik/index.m3u8",
+  "第6集": "https://vodcnd04.myqqdd.com/20250324/lxg2RqLr/index.m3u8",
+  "第7集": "https://vodcnd04.myqqdd.com/20250324/mMgwGwmp/index.m3u8",
+  "第8集": "https://vodcnd04.myqqdd.com/20250324/5jncOJkR/index.m3u8",
+  "第9集": "https://vodcnd04.myqqdd.com/20250324/22hOh43k/index.m3u8",
+  "第10集": "https://vodcnd04.myqqdd.com/20250324/c6AIh7Uy/index.m3u8",
+  "第11集": "https://vodcnd04.myqqdd.com/20250324/tfzNH92y/index.m3u8",
+  "第12集": "https://vodcnd04.myqqdd.com/20250324/gbkzpBCs/index.m3u8",
+  "第13集": "https://vodcnd04.myqqdd.com/20250324/viAc6xya/index.m3u8",
+  "第14集": "https://vodcnd04.myqqdd.com/20250324/3P6NPyQ9/index.m3u8",
+  "第15集": "https://vodcnd04.myqqdd.com/20250324/os7dC7rG/index.m3u8",
+  "第16集": "https://vodcnd04.myqqdd.com/20250324/yZiUrZfn/index.m3u8",
+  "第17集": "https://vodcnd04.myqqdd.com/20250324/vFOObPiW/index.m3u8",
+  "第18集": "https://vodcnd04.myqqdd.com/20250324/YSASJqvT/index.m3u8",
+  "第19集": "https://vodcnd04.myqqdd.com/20250324/gpvYQk0r/index.m3u8",
+  "第20集": "https://vodcnd04.myqqdd.com/20250324/AS0xZ4k4/index.m3u8",
+  "第21集": "https://vodcnd04.myqqdd.com/20250324/vXXWHOC3/index.m3u8",
+  "第22集": "https://vodcnd04.myqqdd.com/20250324/mnqaOcSj/index.m3u8",
+  "第23集": "https://vodcnd04.myqqdd.com/20250324/05QLEJlX/index.m3u8",
+  "第24集": "https://vodcnd04.myqqdd.com/20250324/1oE4oPpC/index.m3u8",
+  "第25集": "https://vodcnd04.myqqdd.com/20250324/2pHLTJSK/index.m3u8",
+  "第26集": "https://vodcnd04.myqqdd.com/20250324/cID0EuAe/index.m3u8",
+  "第27集": "https://vodcnd04.myqqdd.com/20250324/Ro6uSvjc/index.m3u8",
+  "第28集": "https://vodcnd04.myqqdd.com/20250324/SfRpJzFm/index.m3u8",
+  "第29集": "https://vodcnd04.myqqdd.com/20250324/GuzIYopr/index.m3u8",
+  "第30集": "https://vodcnd04.myqqdd.com/20250324/NQGvaHoK/index.m3u8"
+};
+
+seriesInfo = {
+  title: "约翰·奥利弗上周今夜秀第11季",
+  status: "第30集完结",
+  category: "欧美电视剧",
+  director: "约翰·奥利弗",
+  actors: "",
+  meta: "欧美 / 英语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/約翰·奧利弗上周今夜秀第11季_496164.avif"
+
+};

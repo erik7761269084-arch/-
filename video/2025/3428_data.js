@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/ee9d1ab3/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241231/1bkyhphL/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241231/lLyLguGi/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241231/WIaCGAmD/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241231/QozOZNwM/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241231/Ub6de6c5/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241231/MiQSyV8Y/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241231/Aros1khQ/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241231/lXyuTnFc/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241231/Nkirpyt4/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241231/zSPgA2TS/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241231/jaEtJa9U/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241231/drV7997s/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241231/yQHQwu3B/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241231/Zmn7IoPY/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241231/1ue8jymM/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241231/gy94XlSp/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241231/pMvHhZV2/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241231/kljNuNj7/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241231/vdPM2G0I/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241231/GHOgUQvM/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241231/ffsTTb2c/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241231/Chf7hkxp/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241231/NkaLx8WJ/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241231/NTNDN3Ie/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241231/TgqzGLbb/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241231/mpec8i2Z/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241231/Fdtt1k6A/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241231/cdAn8OPL/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241231/pm1KnCIh/index.m3u8",
+  "第31集": "https://play.modujx11.com/20241231/6US7XeCY/index.m3u8",
+  "第32集": "https://play.modujx11.com/20241231/rM6dKqmQ/index.m3u8"
+};
+
+seriesInfo = {
+  title: "垂死反击",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/垂死反擊_502360.avif"
+
+};

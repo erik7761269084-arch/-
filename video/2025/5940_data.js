@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/316b1122/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241217/6iZgtYc7/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241217/7L8iQY2a/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241217/CTJ2cIXn/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241217/YdXEYjnP/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241217/jtOdD2X4/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241217/8PQxNtZ4/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241217/edsWxDmk/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241217/Ttf7E7JB/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241217/jXwc8xis/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241217/9PXoiCDe/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241217/YJCZWAlc/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241217/0yKzPlgP/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241217/VzrlCiIi/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241217/Pn1dBzkW/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241217/1N8OemlL/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241217/5oFlNSO0/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241217/mHBlbVqs/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241217/0xWpoXJA/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241217/dgDu3Odi/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241217/TeV0O5bZ/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241217/yBZCaUTf/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241217/dnDO84Lc/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241217/zLg3cvFM/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241217/rTN3pln2/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241217/6jJb4MCm/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241217/y1dT6Qhk/index.m3u8",
+  "第37集": "https://vip.dytt-look.com/20250328/297245_0a59ac0d/index.m3u8",
+  "第38集": "https://vip.dytt-look.com/20250328/297247_371d7c57/index.m3u8",
+  "第39集": "https://vip.dytt-look.com/20250328/297244_3aeb6276/index.m3u8",
+  "第40集": "https://vip.dytt-look.com/20250328/297246_d629515a/index.m3u8"
+};
+
+seriesInfo = {
+  title: "等闲变却故人心",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/等閒變卻故人心_493917.avif"
+
+};

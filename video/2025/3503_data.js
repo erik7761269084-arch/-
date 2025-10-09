@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20241228/UZAxrecn/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241228/7pxOGctF/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241228/lffzlawT/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241228/uXzIjORX/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241228/aRtVG82d/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241228/emRNU6LB/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241228/wfoiU4ST/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241228/s1cTWxbz/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241228/TbQ8Qzbb/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241228/dCBjJvQC/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241228/23CTfAIX/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241228/zkmltlo9/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241228/hBwKty0t/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241228/cJYMBPmC/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241228/h9k0x5zi/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241228/YVnL6VV3/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241228/aPN0Xzrk/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241228/QPlYmcJw/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241228/5YiAuDaZ/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241228/8Gv2OT3G/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241228/0NB1czLN/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241228/Bs8dUxVx/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241228/h8jREMmE/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241228/8zmzVV7V/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241228/501T8Jxy/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241228/Q5vEZ3ut/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241228/BrZOiP2q/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241228/jGFgKljG/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241228/mpCEMNV4/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241228/Pw4porNU/index.m3u8"
+};
+
+seriesInfo = {
+  title: "失夫后我重塑人生",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/失夫後我重塑人生_500193.avif"
+
+};

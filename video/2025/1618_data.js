@@ -1,0 +1,14 @@
+episodes = {
+};
+
+seriesInfo = {
+  title: "飒爽妈咪有钱又有颜",
+  status: "全86集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/颯爽媽咪有錢又有顏_201889.avif"
+
+};

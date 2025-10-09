@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vod12.wgslsw.com/20240516/NsszHNMZdC83/index.m3u8",
+  "第2集": "https://cos.m3u8hw8.com/share/7abdd02c741f4a98b3af82de4ebf3cee.m3u8",
+  "第3集": "https://cos.m3u8hw8.com/share/88c8f339c5dd463987f09f11f7107829.m3u8",
+  "第4集": "https://cos.m3u8hw8.com/share/8a1b1d524be94a07b9b29944a0c5528e.m3u8",
+  "第5集": "https://cos.m3u8hw8.com/share/3e6f3e45b4c244899decce1db6752e3b.m3u8",
+  "第6集": "https://cos.m3u8hw8.com/share/3378d524681742f0a05201c838594fae.m3u8",
+  "第7集": "https://cos.m3u8hw8.com/share/dd918d85218c438dac9bb15a78f5e956.m3u8",
+  "第8集": "https://cos.m3u8hw8.com/share/e506d1cf466144ff899b2c7531aff05d.m3u8",
+  "第9集": "https://cos.m3u8hw8.com/share/0885c9c1f4ed4417afaaa1edd65267f4.m3u8",
+  "第10集": "https://cos.m3u8hw8.com/share/8f07d6ba1db0413a86ff9ceb2c9d9674.m3u8",
+  "第11集": "https://cos.m3u8hw8.com/share/54a508a8edd447f0996b0e9ebcc9d231.m3u8",
+  "第12集": "https://cos.m3u8hw8.com/share/83bb9dd447ed464aa99a932415cc6c98.m3u8",
+  "第13集": "https://cos.m3u8hw8.com/share/3f44631d9b9e402fb46d813f65a02bf9.m3u8",
+  "第14集": "https://cos.m3u8hw8.com/share/b5292c105d704037b04d660d477a2898.m3u8",
+  "第15集": "https://cos.m3u8hw8.com/share/d5c931f90a5d48438910eca5f8a1c0d0.m3u8",
+  "第16集": "https://vip.ffzy-online4.com/20240531/185990_950998d3/index.m3u8",
+  "第17集": "https://cos.m3u8hw8.com/share/79020aa9cc234ff1b0a8cc95c0400db9.m3u8",
+  "第18集": "https://cos.m3u8hw8.com/share/e957291c54b649ae84ae265bf861bbb8.m3u8",
+  "第19集": "https://cos.m3u8hw8.com/share/ccfd1f61215a49109f916ad4e6f32e33.m3u8",
+  "第20集": "https://cos.m3u8hw8.com/share/a86660cfa71c4d2ca62b499eb575b43e.m3u8",
+  "第21集": "https://cos.m3u8hw8.com/share/aea1c558ef02438fb1337aa39a071c97.m3u8",
+  "第22集": "https://vip.ffzy-online4.com/20240531/185996_99a41e53/index.m3u8",
+  "第23集": "https://cos.m3u8hw8.com/share/31d8983ffa064e479040f23478066e21.m3u8",
+  "第24集": "https://cos.m3u8hw8.com/share/de512356e2e24d86bdb28a72dac5c18e.m3u8",
+  "第25集": "https://cos.m3u8hw8.com/share/119b150ca57b4809bd65a066330b5aee.m3u8",
+  "第26集": "https://cos.m3u8hw8.com/share/845233ecf46d46a980542222d3eadaeb.m3u8",
+  "第27集": "https://cos.m3u8hw8.com/share/73d526066a474fe58202322950f8ca66.m3u8",
+  "第28集": "https://cos.m3u8hw8.com/share/29159759874a447389c04c82cf9f234d.m3u8",
+  "第29集": "https://cos.m3u8hw8.com/share/955ba2ff27674c7fb6d614d0008c701a.m3u8",
+  "第30集": "https://cos.m3u8hw8.com/share/9e5c691ef57f49d396d89d7694218d6a.m3u8"
+};
+
+seriesInfo = {
+  title: "时光也曾回首",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/時光也曾回首_134717.avif"
+
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://vod.guoluche.com/20230724/ubmcrIoX/index.m3u8",
+  "第2集": "https://vod.guoluche.com/20230724/ZGpCTQok/index.m3u8",
+  "第3集": "https://vod.guoluche.com/20230724/ou4MkNnj/index.m3u8",
+  "第4集": "https://vod.guoluche.com/20230724/4RyEFH9z/index.m3u8",
+  "第5集": "https://vod.guoluche.com/20230724/y3fRVmBi/index.m3u8",
+  "第6集": "https://vod.guoluche.com/20230724/ODw826Vw/index.m3u8",
+  "第7集": "https://vod.guoluche.com/20230724/2x9m2zgi/index.m3u8",
+  "第8集": "https://vod.guoluche.com/20230724/cnaLEcOl/index.m3u8",
+  "第9集": "https://vod.guoluche.com/20230724/4StlwoVv/index.m3u8",
+  "第10集": "https://vod.guoluche.com/20230724/nZSyzlVb/index.m3u8",
+  "第11集": "https://vod.guoluche.com/20230724/RaHjzWYP/index.m3u8",
+  "第12集": "https://vod.guoluche.com/20230724/FJqLR6Al/index.m3u8",
+  "第13集": "https://vod.guoluche.com/20230724/OEuDwY32/index.m3u8",
+  "第14集": "https://vod.guoluche.com/20230724/ezmCJegX/index.m3u8",
+  "第16集": "https://vod.guoluche.com/20230724/1c9oovvC/index.m3u8",
+  "第17集": "https://vod.guoluche.com/20230724/kmhv5axB/index.m3u8",
+  "第18集": "https://vod.guoluche.com/20230724/IZ44ohy8/index.m3u8",
+  "第19集": "https://vod.guoluche.com/20230724/P6iQ4oYb/index.m3u8",
+  "第20集": "https://vod.guoluche.com/20230724/5Pb90r3o/index.m3u8",
+  "第21集": "https://vod.guoluche.com/20230724/ZTh1oVJL/index.m3u8",
+  "第22集": "https://v4.yuglf.com/202308/27/pS2d4vUCQQ1/video/index.m3u8",
+  "第23集": "https://v4.yuglf.com/202308/27/aYyE6d5ybK1/video/index.m3u8",
+  "第24集": "https://v4.yuglf.com/202308/26/zVX5bYYkjG1/video/index.m3u8",
+  "第25集": "https://v4.yuglf.com/202308/27/vvyUchdE581/video/index.m3u8",
+  "第26集": "https://v9.yuglf.com/202309/07/dYxEv1qgnP1/video/index.m3u8",
+  "第27集": "https://v4.yuglf.com/202308/27/SLtjquEicv1/video/index.m3u8",
+  "第28集": "https://v4.yuglf.com/202308/27/fHmMyEXGj01/video/index.m3u8",
+  "第29集": "https://v4.yuglf.com/202308/26/fZbRDJRTUX1/video/index.m3u8",
+  "第30集": "https://v4.yuglf.com/202308/27/HA5hMSs46d1/video/index.m3u8",
+  "第31集": "https://v9.yuglf.com/202309/07/thue1t8f681/video/index.m3u8",
+  "第32集": "https://v4.yuglf.com/202308/27/UC7zHKWAzc1/video/index.m3u8",
+  "第33集": "https://v9.yuglf.com/202309/07/jsfXr6NsRG1/video/index.m3u8",
+  "第34集": "https://v4.yuglf.com/202308/27/rPLxheYtNR1/video/index.m3u8",
+  "第35集": "https://vod.360zyx.vip/20250811/n82MaU4p/index.m3u8"
+};
+
+seriesInfo = {
+  title: "乡村名流",
+  status: "全35集",
+  category: "大陆电视剧",
+  director: "郭林",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鄉村名流_129152.avif"
+
+};

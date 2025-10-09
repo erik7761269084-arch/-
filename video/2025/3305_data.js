@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/3bef6c54/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241218/PaYjQ833/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241218/1nGc5pyA/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241218/vJ6YbwhQ/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241218/pO4Xqu0f/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241218/VVOolRhU/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241218/aiM0HzoL/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241218/TEZcF9hI/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241218/DAFTAVGr/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241218/laQeb3yH/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241218/0lrE4gEe/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241218/neofZPsA/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241218/DkTRAuhW/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241218/UAJELcC6/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241218/Qoow4Tpm/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241218/2ftqkaLY/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241218/zmAaSenu/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241218/f9fS4e2z/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241218/G10Q3njG/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241218/nL2uy0Hh/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241218/NVOCfFIv/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241218/u2ZVCQ9X/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241218/wHZ4AJQK/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241218/VL48cQgm/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241218/Nm7dwyub/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241218/UXmk44od/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241218/bgDveP9X/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241218/p51lQHqd/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241218/nmdgXLEi/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241218/7uVlslWM/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241218/KwmodXYQ/index.m3u8",
+  "第32集": "https://play.modujx16.com/20241218/HfztSOyh/index.m3u8",
+  "第33集": "https://play.modujx16.com/20241218/o5B8hcxa/index.m3u8"
+};
+
+seriesInfo = {
+  title: "青梅竹马永不背叛",
+  status: "第33集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/青梅竹馬永不背叛_502511.avif"
+
+};

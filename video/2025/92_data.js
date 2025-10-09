@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vip.dytt-luck.com/20250817/17139_586406bb/index.m3u8",
+  "第2集": "https://vip.dytt-luck.com/20250817/17140_283aa4a7/index.m3u8",
+  "第3集": "https://vip.dytt-luck.com/20250817/17141_48feffb4/index.m3u8",
+  "第4集": "https://vip.dytt-luck.com/20250817/17142_87effb6f/index.m3u8",
+  "第5集": "https://vip.dytt-luck.com/20250817/17143_b666545e/index.m3u8",
+  "第6集": "https://vip.dytt-luck.com/20250817/17144_ca026717/index.m3u8",
+  "第7集": "https://vip.dytt-luck.com/20250817/17145_8c2c809f/index.m3u8",
+  "第8集": "https://vip.dytt-luck.com/20250817/17146_8982bdc0/index.m3u8",
+  "第9集": "https://vip.dytt-luck.com/20250817/17147_80a75668/index.m3u8",
+  "第10集": "https://vip.dytt-luck.com/20250817/17148_a9a7ab1b/index.m3u8",
+  "第11集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c11\u96c6/index.m3u8",
+  "第12集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c12\u96c6/index.m3u8",
+  "第13集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c13\u96c6/index.m3u8",
+  "第14集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c14\u96c6/index.m3u8",
+  "第15集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c15\u96c6/index.m3u8",
+  "第16集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c16\u96c6/index.m3u8",
+  "第17集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c17\u96c6/index.m3u8",
+  "第18集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c18\u96c6/index.m3u8",
+  "第19集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c19\u96c6/index.m3u8",
+  "第20集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c20\u96c6/index.m3u8",
+  "第21集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c21\u96c6/index.m3u8",
+  "第22集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c22\u96c6/index.m3u8",
+  "第23集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c23\u96c6/index.m3u8",
+  "第24集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c24\u96c6/index.m3u8",
+  "第25集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c25\u96c6/index.m3u8",
+  "第26集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c26\u96c6/index.m3u8",
+  "第27集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c27\u96c6/index.m3u8",
+  "第28集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c28\u96c6/index.m3u8",
+  "第29集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c29\u96c6/index.m3u8",
+  "第30集": "https://8.bf8bf.com/video/canghaichuanyueyu/第30集/index.m3u8",
+  "第30集": "https://8.bf8bf.com/video/canghaichuanyueyu/\u7b2c30\u96c6/index.m3u8"
+};
+
+seriesInfo = {
+  title: "藏海传粤语",
+  status: "更新至30集",
+  category: "大陆电视剧",
+  director: "郑晓龙, 曹译文",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `原是大雍国钦天监监正蒯铎之子稚奴，一夜之间身负血海之仇。十年隐忍和学习之后，稚奴化名藏海（肖战 饰）回到京城，凭借营造技艺和纵横之术，在朝堂上步步高升。他将当年灭门真相公之于众、一雪冤屈，也在逐渐成长中，看到了朝堂的陋习。最终，为了国家安定和百姓安居乐业，藏海协助大雍消弭了战争。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/藏海傳粵語_529925.avif"
+
+};

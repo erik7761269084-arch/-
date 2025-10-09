@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://vip.ffzyread2.com/20250831/44580_44e637e2/index.m3u8",
+  "第2集": "https://vip.dytt-tv.com/20250830/37195_c5e02997/index.m3u8",
+  "第3集": "https://vip.ffzyread2.com/20250831/44582_8b335fa0/index.m3u8",
+  "第4集": "https://vip.dytt-tv.com/20250830/37197_b66974d1/index.m3u8",
+  "第5集": "https://vip.ffzyread2.com/20250831/44584_0fa7a604/index.m3u8",
+  "第6集": "https://vip.dytt-tv.com/20250830/37199_8c8b4ac8/index.m3u8",
+  "第7集": "https://vip.dytt-tv.com/20250830/37200_c832b63f/index.m3u8",
+  "第8集": "https://vip.ffzyread2.com/20250831/44587_b2d5bd64/index.m3u8",
+  "第9集": "https://vip.ffzyread2.com/20250831/44588_96a5eed1/index.m3u8",
+  "第10集": "https://vip.ffzyread2.com/20250831/44589_de707582/index.m3u8",
+  "第11集": "https://vip.ffzyread2.com/20250831/44590_03dbeaa6/index.m3u8",
+  "第12集": "https://vip.ffzyread2.com/20250831/44591_1e5150cf/index.m3u8",
+  "第13集": "https://vip.dytt-tv.com/20250830/37206_ac42ecfd/index.m3u8",
+  "第14集": "https://vip.ffzyread2.com/20250831/44593_34ff462c/index.m3u8",
+  "第15集": "https://vip.ffzyread2.com/20250831/44594_9117b589/index.m3u8",
+  "第16集": "https://vip.ffzyread2.com/20250831/44595_b4c7c814/index.m3u8",
+  "第17集": "https://vip.ffzyread2.com/20250831/44596_9d73c511/index.m3u8",
+  "第18集": "https://vip.ffzyread2.com/20250831/44597_1003d98a/index.m3u8",
+  "第19集": "https://vip.dytt-tv.com/20250830/37212_ffec991b/index.m3u8",
+  "第20集": "https://vip.dytt-tv.com/20250830/37213_51362271/index.m3u8",
+  "第21集": "https://vip.ffzyread2.com/20250831/44600_b3e03ec5/index.m3u8",
+  "第22集": "https://vip.dytt-tv.com/20250830/37215_c7f66351/index.m3u8",
+  "第23集": "https://vip.ffzyread2.com/20250831/44602_333a55a4/index.m3u8",
+  "第24集": "https://vip.dytt-tv.com/20250830/37217_73551d91/index.m3u8",
+  "第25集": "https://vip.ffzyread2.com/20250831/44604_eb6fcbbe/index.m3u8",
+  "第26集": "https://vip.dytt-tv.com/20250830/37219_9800d028/index.m3u8",
+  "第27集": "https://vip.ffzyread2.com/20250831/44606_18c7d3e9/index.m3u8",
+  "第28集": "https://vip.ffzyread2.com/20250831/44607_33d81348/index.m3u8",
+  "第29集": "https://vip.ffzyread2.com/20250831/44608_6d6ababa/index.m3u8",
+  "第30集": "https://vip.dytt-tv.com/20250830/37223_41c7e4d8/index.m3u8",
+  "第31集": "https://vip.ffzyread2.com/20250831/44610_0bdfd444/index.m3u8",
+  "第32集": "https://vip.dytt-tv.com/20250830/37225_6a5786df/index.m3u8"
+};
+
+seriesInfo = {
+  title: "被未来的我突袭了！？",
+  status: "已完结",
+  category: "日本电视剧",
+  director: "原英辅, 田中正",
+  actors: "",
+  meta: "日本 / 日语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/被未來的我突襲了！？_546279.avif"
+
+};

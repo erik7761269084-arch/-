@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vod.guoluche.com/20240703/EJv0YJqn/index.m3u8",
+  "第2集": "https://vod.guoluche.com/20240703/H3hUVPeC/index.m3u8",
+  "第3集": "https://vod.guoluche.com/20240703/hMRKZLAP/index.m3u8",
+  "第4集": "https://vod.guoluche.com/20240703/CSGMKwMQ/index.m3u8",
+  "第5集": "https://vod.guoluche.com/20240703/h6dNIUv5/index.m3u8",
+  "第6集": "https://vod.guoluche.com/20240703/cjAb5oSh/index.m3u8",
+  "第7集": "https://vod.guoluche.com/20240703/cn2hQipf/index.m3u8",
+  "第8集": "https://vod.guoluche.com/20240703/p39gsDvW/index.m3u8",
+  "第9集": "https://vod.guoluche.com/20240703/RfEmjr4J/index.m3u8",
+  "第10集": "https://vod.guoluche.com/20240703/oqwlDS1v/index.m3u8",
+  "第11集": "https://vod.guoluche.com/20240703/Qe4gSvTm/index.m3u8",
+  "第12集": "https://vod.guoluche.com/20240703/iPQw4vAs/index.m3u8",
+  "第13集": "https://vod.guoluche.com/20240703/YqBqQcQz/index.m3u8",
+  "第14集": "https://vod.guoluche.com/20240703/lkmg6pda/index.m3u8",
+  "第15集": "https://vod.guoluche.com/20240703/XZzIMfkM/index.m3u8",
+  "第16集": "https://vod.guoluche.com/20240703/eo44ZTWw/index.m3u8",
+  "第17集": "https://vod.guoluche.com/20240703/oGKgeNCP/index.m3u8",
+  "第18集": "https://vod.guoluche.com/20240703/rvIfnvNo/index.m3u8",
+  "第19集": "https://vod.guoluche.com/20240703/tVaVEkfY/index.m3u8",
+  "第20集": "https://vod.guoluche.com/20240703/U88f7lar/index.m3u8",
+  "第21集": "https://vod.guoluche.com/20240703/reQK4E8E/index.m3u8",
+  "第22集": "https://vod.guoluche.com/20240703/YRoZTaRh/index.m3u8",
+  "第23集": "https://vod.guoluche.com/20240703/ldw3RE8D/index.m3u8",
+  "第24集": "https://vod.guoluche.com/20240703/jCrYCaLH/index.m3u8",
+  "第25集": "https://vod.guoluche.com/20240703/ssr5W4UI/index.m3u8",
+  "第26集": "https://vod.guoluche.com/20240703/NOFMP6UH/index.m3u8",
+  "第27集": "https://vod.guoluche.com/20240703/m7JjuA5p/index.m3u8",
+  "第28集": "https://vod.guoluche.com/20240703/lx3eU4bg/index.m3u8",
+  "第29集": "https://vod.guoluche.com/20240703/FpfBoWYd/index.m3u8",
+  "第30集": "https://vod.guoluche.com/20240703/VRUQJT6V/index.m3u8"
+};
+
+seriesInfo = {
+  title: "家族荣耀之继承者",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "蔡晶盛, 陈新侠",
+  actors: "",
+  meta: "大陆 / 粤语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/家族榮耀之繼承者_430491.avif"
+
+};

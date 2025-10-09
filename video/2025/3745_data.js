@@ -1,0 +1,17 @@
+episodes = {
+  "第1集": "https://vodcnd02.rsfcxq.com/20250406/RAuiFKzI/index.m3u8",
+  "第2集": "https://vodcnd02.rsfcxq.com/20250406/5ltDfnFh/index.m3u8",
+  "第49集": "https://play.modujx16.com/20241222/ljiEaVU9/index.m3u8"
+};
+
+seriesInfo = {
+  title: "再婚老妈被继子继女宠上天",
+  status: "第49集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/再婚老媽被繼子繼女寵上天_483093.avif"
+
+};

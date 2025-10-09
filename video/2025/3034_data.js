@@ -1,0 +1,19 @@
+episodes = {
+  "第1集": "https://vod12.wgslsw.com/20240430/rBsMDq9XyW74/index.m3u8",
+  "第2集": "https://vodcnd02.rsfcxq.com/20250321/VvYn1TkK/index.m3u8",
+  "第3集": "https://vodcnd02.rsfcxq.com/20250321/8TBTHsmJ/index.m3u8",
+  "第4集": "https://vodcnd02.rsfcxq.com/20250321/N04KQfrj/index.m3u8",
+  "第5集": "https://vodcnd02.rsfcxq.com/20250321/YLXNVQji/index.m3u8"
+};
+
+seriesInfo = {
+  title: "傅影帝天天想官宣",
+  status: "第94集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/傅影帝天天想官宣_139535.avif"
+
+};

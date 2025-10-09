@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/0635120e/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/2cfec69c/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/3235438e/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/3bf8ac43/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/457b7398/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/a33a5c04/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/5d53649f/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/4a3e084b/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/f33f81e4/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/c0b2c62b/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/9199916a/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/bca2360b/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/61ff72bd/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/e86400a6/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/0fb0cc88/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/839e0adc/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/34707908/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/9ee1bbf7/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/6e27b1e3/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/6514c44c/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/b4ccbba6/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/4adc507b/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/1d2a069a/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/9db3dd5e/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/37ff9b8b/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/e9811884/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/28bab3cc/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/b3f55291/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/c79cdafe/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/ab517fc4/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/6b993a58/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/36c1b3d6/index.m3u8",
+  "第33集": "https://cdn.wlcdn88.com:777/42a730fa/index.m3u8"
+};
+
+seriesInfo = {
+  title: "大江大河之岁月如歌",
+  status: "全33集",
+  category: "大陆电视剧",
+  director: "孔笙, 孙墨龙",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/大江大河之歲月如歌_115595.avif"
+
+};

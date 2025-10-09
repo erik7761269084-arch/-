@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/xn1Vs8vk/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/8uhRNnWG/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/Yy4iRKFP/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/yKUXABiw/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/08BTgIxi/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/twT9AIHz/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/oFd5U0S8/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/gdWx9UE7/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/pkj0Ci2u/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/L8ajGqF1/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/TNIbdSF7/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/5c0vfI31/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/5HpSujt6/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/QF6XeUnh/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/BGVl1YpO/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/QiGroyKV/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/FbXflkKv/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/Ovr7toua/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/PU1enySF/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/1SlMm2EF/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/A2lH1mfs/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/PqwambRC/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/Bf8Xcexw/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/fvte2Pn5/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/zUBjmXn0/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/WyPUXsav/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/FiGQfXS1/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/NS9suB4f/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/4EKFn5Yt/index.m3u8",
+  "第30集": "https://vod.guoluche.com/20230724/56x4izyQ/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/e6LtYIWu/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/vo8WdY6z/index.m3u8",
+  "第33集": "https://cdn.wlcdn88.com:777/Vdle2ghv/index.m3u8",
+  "第34集": "https://cdn.wlcdn88.com:777/i8GDaWRT/index.m3u8"
+};
+
+seriesInfo = {
+  title: "爸爸叫红旗",
+  status: "34集全",
+  category: "大陆电视剧",
+  director: "朱传光",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/爸爸叫紅旗_321762.avif"
+
+};

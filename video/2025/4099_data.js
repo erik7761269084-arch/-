@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://wwzycdn.05men.com/20240730/OA38XEre/index.m3u8",
+  "第2集": "https://wwzycdn.05men.com/20240730/VpMScIS7/index.m3u8",
+  "第3集": "https://wwzycdn.05men.com/20240730/h9phfwFH/index.m3u8",
+  "第4集": "https://wwzycdn.05men.com/20240730/C7NS6C50/index.m3u8",
+  "第5集": "https://wwzycdn.05men.com/20240730/GjExI1AD/index.m3u8",
+  "第6集": "https://wwzycdn.05men.com/20240730/QG2of92N/index.m3u8",
+  "第7集": "https://wwzycdn.05men.com/20240730/jmSYJ6fQ/index.m3u8",
+  "第8集": "https://wwzycdn.05men.com/20240730/10jDM4cI/index.m3u8",
+  "第9集": "https://wwzycdn.05men.com/20240730/Y2cRIISd/index.m3u8",
+  "第10集": "https://wwzycdn.05men.com/20240730/10Rjvrya/index.m3u8",
+  "第11集": "https://wwzycdn.05men.com/20240730/7Vosx2fb/index.m3u8",
+  "第12集": "https://wwzycdn.05men.com/20240730/GSYmryBc/index.m3u8",
+  "第13集": "https://wwzycdn.05men.com/20240730/6BjCwliO/index.m3u8",
+  "第14集": "https://wwzycdn.05men.com/20240730/EK0HOenc/index.m3u8",
+  "第15集": "https://wwzycdn.05men.com/20240730/j7bNRJdS/index.m3u8",
+  "第16集": "https://wwzycdn.05men.com/20240730/rEeQEZTr/index.m3u8",
+  "第17集": "https://wwzycdn.05men.com/20240730/9S808dFs/index.m3u8",
+  "第18集": "https://wwzycdn.05men.com/20240730/Zw6E9zYz/index.m3u8",
+  "第19集": "https://wwzycdn.05men.com/20240730/2nwIqEFX/index.m3u8",
+  "第20集": "https://wwzycdn.05men.com/20240730/5qjQhAsB/index.m3u8",
+  "第21集": "https://wwzycdn.05men.com/20240730/E0Tx3Xx9/index.m3u8",
+  "第22集": "https://wwzycdn.05men.com/20240730/BGPoUDx2/index.m3u8",
+  "第23集": "https://wwzycdn.05men.com/20240730/UXHUQRrH/index.m3u8",
+  "第24集": "https://wwzycdn.05men.com/20240730/J5zwB6nU/index.m3u8",
+  "第25集": "https://wwzycdn.05men.com/20240730/3KZgEtAj/index.m3u8",
+  "第26集": "https://wwzycdn.05men.com/20240730/zvTTHqVL/index.m3u8",
+  "第27集": "https://wwzycdn.05men.com/20240730/jcM5HCBv/index.m3u8",
+  "第28集": "https://wwzycdn.05men.com/20240730/aIvhNeXy/index.m3u8",
+  "第29集": "https://wwzycdn.05men.com/20240730/Rkw4iKQe/index.m3u8",
+  "第30集": "https://wwzycdn.05men.com/20240730/gsg1uz5g/index.m3u8"
+};
+
+seriesInfo = {
+  title: "深宫海棠泣血泪",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/深宮海棠泣血淚_423434.avif"
+
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/3a74fdb5/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/789c211b/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/f63288cb/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/624805a9/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/a1df1f00/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/9201e54a/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/597f59de/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/f56c576b/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/8c1d6fdc/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/80d4f9ea/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/a1a83cf4/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/30465613/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/5fcb80ea/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/cd0a820f/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/3f820cf4/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/2784671c/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/61f2a9f5/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/00f72677/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/2a75d18a/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/e74a1702/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/bd2907bf/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/f0655a4a/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/bda64e66/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/ad5f5bd8/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/bfd892f7/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/9c0b58c0/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/efa25132/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/569e58db/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/69de4bbf/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/058c69de/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/75286889/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/c92b7b90/index.m3u8"
+};
+
+seriesInfo = {
+  title: "特别行动",
+  status: "更新第32集",
+  category: "大陆电视剧",
+  director: "林伟, 王艺伦",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/特別行動_210836.avif"
+
+};

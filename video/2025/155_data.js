@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20250615/nh4nDQls/index.m3u8",
+  "第1集": "https://cdn.wlcdn88.com:777/1522d55d/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250616/N4xBZX33/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/0c0ac04f/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/c0525f2c/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250617/Wh53XzWD/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/bfa9da2c/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250618/FLZSSiG9/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250622/t5r66CD5/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/6a18cec2/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250623/RQPK3kn7/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/d3cbee5b/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250624/UPKpQNav/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/0b469010/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250625/9VnYVpNx/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/b9a1a6e4/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250629/zHHQ1AGW/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/09ac13fd/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250630/l3StLfrT/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/4144f837/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250701/zm4Qck61/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/946745e9/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250702/Oy7M6trg/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/eb3b5d33/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250706/fz7l0Dt6/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/c2e4dbaf/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250707/NL559aSU/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/d59e3491/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250708/jKH967CG/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/095ffe91/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250709/j5bsaG5S/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/b3bde921/index.m3u8"
+};
+
+seriesInfo = {
+  title: "拿著手术刀的猎人",
+  status: "第16集完结",
+  category: "韩国电视剧",
+  director: "李政勋",
+  actors: "",
+  meta: "韩国 / 韩语 / 2025",
+  description: `该剧是一部犯罪惊悚剧，讲述患有反社会性人格障碍的有名女法医的过去，以及杀死自己的父亲的影子威胁她的名誉和生活的过程。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/拿著手術刀的獵人_518055.avif"
+
+};

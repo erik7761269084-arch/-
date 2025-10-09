@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vv.jisuzyv.com/play/1aMG4WAd/index.m3u8",
+  "第2集": "https://vv.jisuzyv.com/play/DbDv4Wxe/index.m3u8",
+  "第3集": "https://vip.dytt-look.com/20250501/705557_43edf1cc/index.m3u8",
+  "第4集": "https://vip.dytt-look.com/20250501/705594_df9c1724/index.m3u8",
+  "第5集": "https://vip.dytt-look.com/20250501/705590_d136b0b6/index.m3u8",
+  "第6集": "https://vip.dytt-look.com/20250501/705556_23071586/index.m3u8",
+  "第7集": "https://vip.dytt-look.com/20250501/705591_c5601b37/index.m3u8",
+  "第8集": "https://vip.dytt-look.com/20250501/705555_3a26b2b6/index.m3u8",
+  "第9集": "https://vip.dytt-look.com/20250501/705548_5f0c0f97/index.m3u8",
+  "第10集": "https://vip.dytt-look.com/20250501/705744_627c04c1/index.m3u8",
+  "第11集": "https://vip.dytt-look.com/20250501/705750_97a9a9d7/index.m3u8",
+  "第12集": "https://vip.ffzy-online4.com/20240711/286948_6fa692a5/index.m3u8",
+  "第13集": "https://vip.dytt-look.com/20250501/705738_a1782b86/index.m3u8",
+  "第14集": "https://vip.dytt-look.com/20250501/705751_6b0c72dc/index.m3u8",
+  "第15集": "https://vip.dytt-look.com/20250501/705736_3c16112a/index.m3u8",
+  "第16集": "https://vip.dytt-look.com/20250501/705747_1003507b/index.m3u8",
+  "第17集": "https://vip.dytt-look.com/20250501/705735_9c2da295/index.m3u8",
+  "第18集": "https://vip.dytt-look.com/20250501/705749_f9275d9d/index.m3u8",
+  "第19集": "https://vip.dytt-look.com/20250501/705597_85ce45b1/index.m3u8",
+  "第20集": "https://vip.ffzy-online4.com/20240711/286992_a6bc18c5/index.m3u8",
+  "第21集": "https://vip.dytt-look.com/20250501/705586_216656ea/index.m3u8",
+  "第22集": "https://vip.dytt-look.com/20250501/705741_962712a1/index.m3u8",
+  "第23集": "https://vip.dytt-look.com/20250501/705565_40d01f13/index.m3u8",
+  "第24集": "https://vip.dytt-look.com/20250501/705742_d42ea647/index.m3u8",
+  "第25集": "https://vip.dytt-look.com/20250501/705743_f6cb1a54/index.m3u8",
+  "第26集": "https://vip.dytt-look.com/20250501/705739_a204ca7a/index.m3u8",
+  "第27集": "https://vip.dytt-look.com/20250501/705737_03d7160b/index.m3u8",
+  "第28集": "https://vip.dytt-look.com/20250501/705564_5db4080e/index.m3u8",
+  "第29集": "https://vip.dytt-look.com/20250501/705734_0671a5d2/index.m3u8",
+  "第30集": "https://vip.dytt-look.com/20250501/705563_1da04ef1/index.m3u8"
+};
+
+seriesInfo = {
+  title: "回到1913",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/回到1913_425064.avif"
+
+};

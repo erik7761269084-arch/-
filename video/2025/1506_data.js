@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://m3u8.hmrvideo.com/play/66f8bf262f894821ad9a585d436e6f0b.m3u8",
+  "第2集": "https://m3u8.hmrvideo.com/play/a09d1fc435b44c2a9090d35b06a1b2c7.m3u8",
+  "第3集": "https://m3u8.hmrvideo.com/play/b0bb2428b1254be9bdb5d1676a6cff6d.m3u8",
+  "第4集": "https://m3u8.hmrvideo.com/play/9f6ad7d79e9141aea7b717eaf316500b.m3u8",
+  "第5集": "https://cos.m3u8hw8.com/share/ab37683232074635a0e555c85cd5a093.m3u8",
+  "第6集": "https://cos.m3u8hw8.com/share/e293f47dd3824effbffedf60ca7aea3e.m3u8",
+  "第7集": "https://m3u8.hmrvideo.com/play/791d0aea3b0f40f38c1612b0b895a193.m3u8",
+  "第8集": "https://m3u8.hmrvideo.com/play/32ec0054ead343e48b7e14d385d50a96.m3u8",
+  "第9集": "https://m3u8.hmrvideo.com/play/d1ee6b3f9af540b5886f8f35f2152639.m3u8",
+  "第10集": "https://m3u8.hmrvideo.com/play/281342abe25647d9b84574d879826d2e.m3u8",
+  "第11集": "https://m3u8.hmrvideo.com/play/c47435afdbfc450289448000bf0d3a4b.m3u8",
+  "第12集": "https://m3u8.hmrvideo.com/play/9d0fd3e3577a418bbf7b868a239d4ba7.m3u8",
+  "第13集": "https://cos.m3u8hw8.com/share/950b5a8da30643c5802859f7c50db9c7.m3u8",
+  "第14集": "https://cos.m3u8hw8.com/share/f130fb059bbb4d50823f0357da67d62f.m3u8",
+  "第15集": "https://cos.m3u8hw8.com/share/a274c3afaaa7422da94cb90e1a0369e2.m3u8",
+  "第16集": "https://m3u8.hmrvideo.com/play/eb6e591dfb9b470baa7ff4d24f452bc9.m3u8",
+  "第17集": "https://cos.m3u8hw8.com/share/ddda4f2d615c4da6bd088c0dde8f562b.m3u8",
+  "第18集": "https://m3u8.hmrvideo.com/play/b6c82c6612114903b95d253fa3aa6e7b.m3u8",
+  "第19集": "https://m3u8.hmrvideo.com/play/d943041f5665492baf13fc0e933eea24.m3u8",
+  "第20集": "https://m3u8.hmrvideo.com/play/d3a9e33c6997451fa57798580d8a6da4.m3u8",
+  "第21集": "https://m3u8.hmrvideo.com/play/152a90d30f32426ca4e94a2f962a830e.m3u8",
+  "第22集": "https://m3u8.hmrvideo.com/play/b3d362433a3842d0a72f6294e41cf772.m3u8",
+  "第23集": "https://m3u8.hmrvideo.com/play/38f858f6e3984aa5a9e22c0a09a06b10.m3u8",
+  "第24集": "https://m3u8.hmrvideo.com/play/02c8acaadecf4dc8923f536f68f35396.m3u8",
+  "第25集": "https://m3u8.hmrvideo.com/play/17bc7d601ba94c638e39f0d6d8a4c5cd.m3u8",
+  "第26集": "https://m3u8.hmrvideo.com/play/70d0bdd28bdb4600b414f8fbf829eeaa.m3u8",
+  "第27集": "https://m3u8.hmrvideo.com/play/1221ba361b794cb68f54f2e08678ce6b.m3u8",
+  "第28集": "https://m3u8.hmrvideo.com/play/4fe47cda872c411fb56e20bab7eb4c97.m3u8",
+  "第29集": "https://m3u8.hmrvideo.com/play/431e0b38aa5c4f69a19498bca9664c19.m3u8",
+  "第30集": "https://m3u8.hmrvideo.com/play/c5d2b5ecff79416ab73494aa1f98e32e.m3u8"
+};
+
+seriesInfo = {
+  title: "家族荣耀之继承者（粤）",
+  status: "30集全",
+  category: "香港电视剧",
+  director: "蔡晶盛, 陈新侠",
+  actors: "",
+  meta: "香港 / 粤语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/家族榮耀之繼承者（粵）_286954.avif"
+
+};

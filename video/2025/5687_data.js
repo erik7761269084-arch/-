@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/b5fa73f7/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/2a89925e/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/80ec28e0/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/29c327cc/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/a2e4386e/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/513ca333/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/e41982e4/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/2a651dd2/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/5adcefe2/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/e5ab49ae/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/bb01e1c0/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/4a9553dd/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/89d1b860/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/be72edde/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/b85cc958/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/0d7e3886/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/5987c599/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/e84d55da/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/f3fc7d49/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/0dbf7752/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/c47e1afb/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/a0010ee3/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/f2a6970a/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/a9b2acb6/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/7e3f1903/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/189252a5/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/d029c7e1/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/f961b02c/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/60b48f2d/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/d9cb8032/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/82578f82/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/5cb62314/index.m3u8"
+};
+
+seriesInfo = {
+  title: "故乡的泥土",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "习辛",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/故鄉的泥土_466316.avif"
+
+};

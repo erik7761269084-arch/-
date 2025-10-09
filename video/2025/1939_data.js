@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://play.modujx16.com/20241015/d2h57O9C/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241015/brPOkB98/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241015/F8clQFEn/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241015/L4zWYqN4/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241015/GF0gpepp/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241015/kJxMwQu8/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241015/ey8Xihdb/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241015/FltwIXP0/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241015/4DNF0eU2/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241015/h3FMnJjV/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241015/vyLN5rjm/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241015/KqD5pOJI/index.m3u8",
+  "第32集": "https://play.modujx16.com/20241015/6O97BrR5/index.m3u8",
+  "第33集": "https://play.modujx16.com/20241015/OX4fHMpd/index.m3u8",
+  "第34集": "https://play.modujx16.com/20241015/ZKFqjOXR/index.m3u8",
+  "第35集": "https://play.modujx16.com/20241015/LW3XXOoF/index.m3u8",
+  "第36集": "https://play.modujx16.com/20241015/YnFgu6uG/index.m3u8",
+  "第37集": "https://play.modujx16.com/20241015/WxN5uzdv/index.m3u8",
+  "第38集": "https://play.modujx16.com/20241015/XASjfKIy/index.m3u8",
+  "第39集": "https://play.modujx16.com/20241015/9OJCsfQq/index.m3u8",
+  "第40集": "https://play.modujx16.com/20241015/baN5FvOd/index.m3u8",
+  "第41集": "https://play.modujx16.com/20241015/OLWt4UtA/index.m3u8",
+  "第42集": "https://play.modujx16.com/20241015/pBGrjdAN/index.m3u8",
+  "第43集": "https://play.modujx16.com/20241015/MMjvZG2p/index.m3u8",
+  "第44集": "https://play.modujx16.com/20241015/5skQJiBv/index.m3u8",
+  "第45集": "https://play.modujx16.com/20241015/5LDOHFdG/index.m3u8",
+  "第46集": "https://play.modujx16.com/20241015/AfOJ5nrp/index.m3u8",
+  "第47集": "https://play.modujx16.com/20241015/7WZqh1ee/index.m3u8",
+  "第48集": "https://play.modujx16.com/20241015/3ekz0ntU/index.m3u8",
+  "第49集": "https://play.modujx16.com/20241015/ZMUESYmz/index.m3u8",
+  "第50集": "https://play.modujx16.com/20241015/4xB01XhP/index.m3u8",
+  "第51集": "https://play.modujx16.com/20241015/Agz6UEsh/index.m3u8",
+  "第52集": "https://play.modujx16.com/20241015/lXOjqhS2/index.m3u8"
+};
+
+seriesInfo = {
+  title: "六个大佬的心尖宠，终于离婚了",
+  status: "完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "None"
+
+};

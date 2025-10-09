@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/blaZjsH5/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/l0tfYXQ8/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/lTDzkgh3/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/8IyvMpNU/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/xtu238N1/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/7QIe1LfY/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/4fclnHqB/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/hwRafWoS/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/gdT9yBuK/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/PZbSLpQ2/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/7Atje16X/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/eO3CHTdg/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/9RIUEZKJ/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/j23twden/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/FPSfVzUa/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/RTxISC7y/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/xsAVePoS/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/OIxAYs0U/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/KYwDfQI6/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/Htj8ez2v/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/QSZvPolF/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/54q6SHuV/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/WHEaTlAp/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/Wy2wAQHv/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/KO8iEox7/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/acil6Bwx/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/KyYF0E91/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/E6jqfXhl/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/yu3rfbZK/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/W9e8MrBw/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/SN7vckrt/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/dFH0pR56/index.m3u8"
+};
+
+seriesInfo = {
+  title: "有房没房都很忙",
+  status: "全32集",
+  category: "大陆电视剧",
+  director: "彭喆",
+  actors: "",
+  meta: "大陆 / 闽南语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/有房沒房都很忙_194384.avif"
+
+};

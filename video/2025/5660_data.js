@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/ac2052aa/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/cc879bf3/index.m3u8",
+  "第3集": "https://vip.dytt-love.com/20250823/18814_7da14b79/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/3c4fb1ba/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/7c24fa9e/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/bc776014/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/bf604f21/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/270a754d/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/2b6d0099/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/7838b66e/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/811c3c75/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/f4f8c30e/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/ce8c5d13/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/e2854e35/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/f1098cb0/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/271823dc/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/1b392fe7/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/7961174d/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/d37295b4/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/e5e32a0e/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/a379b6f1/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/1dfe8daf/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/f11f9d1b/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/b9b25c44/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/8a303e81/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/e380aaae/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/1e0dfc39/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/fd0f4420/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/489cba29/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/52665b31/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/9e6abd5c/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/8ec91acc/index.m3u8"
+};
+
+seriesInfo = {
+  title: "公子无双",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "西岛",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/公子無雙_465880.avif"
+
+};

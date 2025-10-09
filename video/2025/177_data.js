@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20250922/DXR61vPC/index.m3u8",
+  "第1集": "https://cdn.wlcdn88.com:777/93f909f1/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250922/2vw0EUMA/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/52bc49a9/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/024de57e/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250922/G6vYCdEy/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/5fb7843b/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250922/WC9IBDTh/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250923/68SR79BI/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/8b96c556/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250923/aKkewBCl/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/2cf550a4/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250923/JkVa9AXp/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/a5d2061e/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250924/xtfYhnz5/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/c17743b9/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250924/Tl2LBd4F/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/23363a16/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250925/bgkEApTk/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/da2eb453/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250925/ykG6aOwF/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/c9a1590e/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/ba39cd18/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250926/yNXeEcYU/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250926/IYGotumx/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/6895fb95/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250927/fNI1DeKi/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/34b7e48f/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250927/7V7r0JQp/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/2e12b47d/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250928/WJVfWguN/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/a3fc923d/index.m3u8",
+  "第17集": "https://play.modujx11.com/20250928/hszwzNbz/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/02f75b73/index.m3u8"
+};
+
+seriesInfo = {
+  title: "芬芳喜事",
+  status: "更新至第17集",
+  category: "大陆电视剧",
+  director: "李亚飞",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `芬芳喜事`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/芬芳喜事_549440.avif"
+
+};

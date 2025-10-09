@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/686558de/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/77fe9933/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/c2dbd592/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/ea19c5bb/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/78012d1b/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/e822e387/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/16848fb4/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/6c42e2ef/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/1f2d6484/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/3d8567c0/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/d048b1a9/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/68f8d259/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/d2336431/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/5c91053e/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/50017b70/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/c14ff8b2/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/c3e3f964/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/9e618cab/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/74611464/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/39bd0da1/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/75dbbc9e/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/6f8015de/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/ef6fe939/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/01d8d679/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/36c529f6/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/8c68b5f3/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/bbac237d/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/02974e1a/index.m3u8",
+  "第29集": "https://v11.qrssuv.com/wjv11/202404/13/4A2ubY7nSH83/video/index.m3u8",
+  "第37集": "https://vv.jisuzyv.com/play/9av431gd/index.m3u8"
+};
+
+seriesInfo = {
+  title: "难寻",
+  status: "全28集",
+  category: "大陆电视剧",
+  director: "初的见",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/難尋_76642.avif"
+
+};

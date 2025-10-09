@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/b16d02be/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241219/XfdvoWZL/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241219/8Bic1ODS/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241219/R0CokqFM/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241219/sXAA2TnE/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241219/IRO6sWbO/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241219/GF3sxoXy/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241219/n0U7CfyH/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241219/Fd5E3S7l/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241219/XOeRDy0u/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241219/8zo8w2dh/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241219/jPZ58vGk/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241219/LzrJazWA/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241219/zN8WCw7w/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241219/EJQAN9M9/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241219/qTzkIBKd/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241219/KQra1VA3/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241219/IIib1g8X/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241219/87GJWhat/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241219/qp8NrjB9/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241219/WvQFCqQv/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241219/R3KErukv/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241219/vAToEBRC/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241219/vWNFxeDW/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241219/eArbg0WO/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241219/1jIirV8S/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241219/K1hDOaoP/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241219/Dm0tbWSK/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241219/BUkD9EHQ/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241219/ZK1IyqEQ/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241219/eNM4PAVQ/index.m3u8",
+  "第32集": "https://play.modujx16.com/20241219/1SG3Jy4e/index.m3u8"
+};
+
+seriesInfo = {
+  title: "医圣归国",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/醫聖歸國_483134.avif"
+
+};

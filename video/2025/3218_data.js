@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/88725576/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/7c43bcc6/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/b8464752/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/ce25c227/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/79970dc9/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/be631aea/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/4b465cfd/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/cba7a282/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/532c55f9/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/edb8e0a7/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/b0634f66/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/c78632d3/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/a3047c4d/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/bf32ad7b/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/ec3a5a61/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/a56bd66d/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/e4b2716f/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/440e0bf7/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/796409ae/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/248e771c/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/99c774df/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/6ca66c01/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/74bcc9e3/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/2ee492f1/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/33ca4ad4/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/a6248486/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/f1800b1e/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/ed175ad9/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/87210872/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/f12f3ad4/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/fbae9401/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/842de37a/index.m3u8",
+  "第33集": "https://cdn.wlcdn88.com:777/130dc7f6/index.m3u8",
+  "第34集": "https://cdn.wlcdn88.com:777/baeb9be0/index.m3u8"
+};
+
+seriesInfo = {
+  title: "九重紫",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "曾庆杰",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/九重紫_470810.avif"
+
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/c37f4e8b/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/aa88a4db/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/68849710/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/93633089/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/09961c9c/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/7e5050fb/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/c82ae90e/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/b76e532f/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/52540bba/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/63bb3f72/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/fc0a406f/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/6d976be4/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/9ce99d60/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/292d60f8/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/7b756dbc/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/39c59639/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/4d3b9cf0/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/dfbab051/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/1d2db8e5/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/a6a9bdc2/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/fd2559dc/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/a1f9af69/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/6ec07dda/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/58d2fa53/index.m3u8",
+  "第25集": "https://vip.dytt-tvb.com/20250821/23263_8a1854f4/index.m3u8",
+  "第26集": "https://vip.dytt-tvb.com/20250821/23264_739117de/index.m3u8",
+  "第27集": "https://vip.dytt-tvb.com/20250821/23265_1ded5b4a/index.m3u8",
+  "第28集": "https://vip.dytt-tvb.com/20250821/23266_416d8233/index.m3u8",
+  "第29集": "https://vip.dytt-tvb.com/20250821/23267_14ddc5c5/index.m3u8",
+  "第30集": "https://vip.dytt-tvb.com/20250821/23268_960b52ba/index.m3u8"
+};
+
+seriesInfo = {
+  title: "在暴雪时分",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "黄天仁",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/在暴雪時分_112611.avif"
+
+};

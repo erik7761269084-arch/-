@@ -1,0 +1,14 @@
+episodes = {
+};
+
+seriesInfo = {
+  title: "我有女王光环$她带王冠，你惹她干嘛",
+  status: "全72集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我有女王光環$她帶王冠，你惹她幹嘛_172922.avif"
+
+};

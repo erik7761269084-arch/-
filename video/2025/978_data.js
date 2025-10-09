@@ -1,0 +1,14 @@
+episodes = {
+};
+
+seriesInfo = {
+  title: "乡野风流小霸王",
+  status: "全集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鄉野風流小霸王_424261.avif"
+
+};

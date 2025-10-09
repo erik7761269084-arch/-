@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/1a10f9ae/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/1731c053/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/8e4d3f0d/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/47717ae0/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/386c890e/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/c4eb3508/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/b66d9134/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/fadc9411/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/5e20b060/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/c53bad1f/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/099d7040/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/a5344a3a/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/21806944/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/d9fff61c/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/3b8e8899/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/5d2a5466/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/0f36389b/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/6e4a2a39/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/550f6ea0/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/0a6e8102/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/483f468e/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/fa1043b3/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/5a527357/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/3bda7669/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/c6754e03/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/4a3bb4e2/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/40a9cc71/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/9cee8b2d/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/8b406c64/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/ce2a9dff/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/cbdfeb21/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/ae5aee66/index.m3u8"
+};
+
+seriesInfo = {
+  title: "被未来的自己愚弄！？",
+  status: "更新第32集",
+  category: "日本电视剧",
+  director: "原英辅, 田中正",
+  actors: "",
+  meta: "日本 / 日语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/被未來的自己愚弄！？_458524.avif"
+
+};

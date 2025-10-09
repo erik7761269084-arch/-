@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://vodcnd14.rsfcxq.com/20250220/eGVtZiMY/index.m3u8",
+  "第2集": "https://vip.ffzy-online4.com/20240615/244097_9a69ee60/index.m3u8",
+  "第3集": "https://vip.ffzy-online4.com/20240615/244100_af8655eb/index.m3u8",
+  "第4集": "https://vip.dytt-look.com/20250429/668364_7ece1097/index.m3u8",
+  "第5集": "https://vip.ffzy-online4.com/20240615/244098_39a2a1bc/index.m3u8",
+  "第6集": "https://vip.dytt-look.com/20250429/668302_27fca71c/index.m3u8",
+  "第7集": "https://vip.ffzy-online4.com/20240615/244103_e01c136b/index.m3u8",
+  "第8集": "https://vip.dytt-look.com/20250429/668301_fc89bcfe/index.m3u8",
+  "第9集": "https://vip.dytt-look.com/20250429/668356_d2112387/index.m3u8",
+  "第10集": "https://vip.dytt-look.com/20250429/668421_24c9f129/index.m3u8",
+  "第11集": "https://vip.ffzy-online4.com/20240615/244106_93c85e94/index.m3u8",
+  "第12集": "https://vip.ffzy-online4.com/20240615/244107_0921d687/index.m3u8",
+  "第13集": "https://vip.ffzy-online4.com/20240615/244108_6b98f8a2/index.m3u8",
+  "第14集": "https://vip.dytt-look.com/20250429/668379_fa7b70a5/index.m3u8",
+  "第15集": "https://vip.ffzy-online4.com/20240615/244110_d2833e29/index.m3u8",
+  "第16集": "https://vip.dytt-look.com/20250429/668368_d1997e20/index.m3u8",
+  "第17集": "https://vip.dytt-look.com/20250429/668405_d32212c5/index.m3u8",
+  "第18集": "https://vip.ffzy-online4.com/20240615/244212_4fa93944/index.m3u8",
+  "第19集": "https://vip.ffzy-online4.com/20240615/244211_3a7973bd/index.m3u8",
+  "第20集": "https://vip.ffzy-online4.com/20240615/244208_f5e60529/index.m3u8",
+  "第21集": "https://vip.ffzy-online4.com/20240615/244210_b3c7f07a/index.m3u8",
+  "第22集": "https://vip.dytt-look.com/20250429/668402_4163147e/index.m3u8",
+  "第23集": "https://vip.ffzy-online4.com/20240615/244215_6dcaa87e/index.m3u8",
+  "第24集": "https://vip.dytt-look.com/20250429/668357_667d9f48/index.m3u8",
+  "第25集": "https://vip.ffzy-online4.com/20240615/244217_2b74a38c/index.m3u8",
+  "第26集": "https://vip.dytt-look.com/20250429/668327_0350f580/index.m3u8",
+  "第27集": "https://vip.ffzy-online4.com/20240615/244216_004b4e17/index.m3u8",
+  "第28集": "https://vip.dytt-look.com/20250429/668354_ff1953c5/index.m3u8",
+  "第29集": "https://vip.ffzy-online4.com/20240615/244223_d047d849/index.m3u8",
+  "第30集": "https://vip.ffzy-online4.com/20240615/244220_0f92de6a/index.m3u8",
+  "第31集": "https://vip.ffzy-online4.com/20240615/244221_e93e99ad/index.m3u8",
+  "第32集": "https://vip.ffzy-online4.com/20240615/244222_849a07af/index.m3u8",
+  "第33集": "https://vip.dytt-look.com/20250429/668303_f8aedc75/index.m3u8",
+  "第34集": "https://vip.ffzy-online4.com/20240615/244225_dc95fdb7/index.m3u8"
+};
+
+seriesInfo = {
+  title: "姝钰传",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/姝鈺傳_385118.avif"
+
+};

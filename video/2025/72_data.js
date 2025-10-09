@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/c6888ffc/index.m3u8",
+  "第1集": "https://play.modujx11.com/20250403/mzXIT5FR/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/39836bda/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250403/A7V7CL45/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250403/mctJVDkL/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/e2d92680/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250403/RrNLlvZw/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/c8865ab3/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/e4d4bf64/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250404/d5DlugRE/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/8c4afce6/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250404/R6KqQBu5/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/a9dbfe2d/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250405/OX38KjJt/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/8e97211d/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250405/9tWTfZmI/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/08a4b2bb/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250406/pWxiOfkp/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/37df0e9e/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250406/FTLJWV5U/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/80450b5b/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250407/FOLoDd5f/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250408/6xmLNP5o/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/442b9d75/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/9b4059fd/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250408/6eKS3DfI/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/ceb27e18/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250409/czubQTNW/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/40cd0c91/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250409/d5EyYeJ6/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/11b67ef0/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250409/4EIsLlMa/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/ed2fdcab/index.m3u8",
+  "第17集": "https://play.modujx11.com/20250409/DqFq8H4H/index.m3u8"
+};
+
+seriesInfo = {
+  title: "乌云之上",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "花箐",
+  actors: "",
+  meta: "大陆 / 国语 / 2025",
+  description: `2017年的夏天，暴雨冲刺过的南方小城，惊现碎尸。女警韩青（孙俪 饰）在侦办碎尸案的同时，继续寻找著失踪的搭档钟伟（罗晋 饰）。随著案件的推进碎尸案的背后竟然隐藏著毒品大案，钟伟的失踪与之有著千丝万缕的联系……                                            钟伟和真相韩青会先找到哪一个，越来越多的人被杀害，令人难以置信的真相也在浮出水面……`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/烏雲之上_496571.avif"
+
+};

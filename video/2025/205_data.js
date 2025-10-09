@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://ukzy.ukubf3.com/20250823/MyNlKdG8/index.m3u8",
+  "第1集": "https://play.hhuus.com/play/DdwPL5Xe/index.m3u8",
+  "第2集": "https://ukzy.ukubf3.com/20250823/qvWmcgLc/index.m3u8",
+  "第2集": "https://play.hhuus.com/play/1aM0vm1e/index.m3u8",
+  "第3集": "https://play.hhuus.com/play/DbDBj7ke/index.m3u8",
+  "第3集": "https://ukzy.ukubf3.com/20250823/58JIAe7o/index.m3u8",
+  "第4集": "https://play.hhuus.com/play/penD13Eb/index.m3u8",
+  "第4集": "https://ukzy.ukubf3.com/20250829/emLuIsPF/index.m3u8",
+  "第5集": "https://ukzy.ukubf3.com/20250829/h4qjCCuE/index.m3u8",
+  "第5集": "https://play.xluuss.com/play/penDwA5b/index.m3u8",
+  "第6集": "https://ukzy.ukubf3.com/20250830/VB9KRKqV/index.m3u8",
+  "第6集": "https://play.xluuss.com/play/9b6kPALd/index.m3u8",
+  "第7集": "https://ukzy.ukubf3.com/20250905/WFVy3GVN/index.m3u8",
+  "第7集": "https://play.xluuss.com/play/BeX31Kvd/index.m3u8",
+  "第8集": "https://ukzy.ukubf3.com/20250907/08ShQa89/index.m3u8",
+  "第8集": "https://play.xluuss.com/play/mepGGm6d/index.m3u8",
+  "第9集": "https://ukzy.ukubf3.com/20250912/0MLR5EdP/index.m3u8",
+  "第9集": "https://play.hhuus.com/play/lejG22Ra/index.m3u8",
+  "第10集": "https://ukzy.ukubf3.com/20250920/jcvQdjY6/index.m3u8",
+  "第10集": "https://play.maoyanplay.top/20250927/cBHcLkwe/index.m3u8",
+  "第11集": "https://ukzy.ukubf3.com/20250920/XQcVDNke/index.m3u8",
+  "第11集": "https://play.maoyanplay.top/20250927/O1hegLMl/index.m3u8",
+  "第12集": "https://play.maoyanplay.top/20250927/HAfL2tpp/index.m3u8",
+  "第12集": "https://ukzy.ukubf3.com/20250920/4X24hFdf/index.m3u8",
+  "第13集": "https://ukzy.ukubf3.com/20250920/PhTK0N1f/index.m3u8",
+  "第13集": "https://play.hhuus.com/play/xboN6B3a/index.m3u8",
+  "第14集": "https://ukzy.ukubf3.com/20250920/Ao8RqgzA/index.m3u8",
+  "第14集": "https://play.hhuus.com/play/negBQq3d/index.m3u8",
+  "第15集": "https://ukzy.ukubf3.com/20250920/l1Hswlnp/index.m3u8",
+  "第15集": "https://play.maoyanplay.top/20250927/1y7dezcI/index.m3u8",
+  "第16集": "https://ukzy.ukubf3.com/20250920/AY6F43QA/index.m3u8",
+  "第16集": "https://play.hhuus.com/play/7axZ7Aqd/index.m3u8",
+  "第17集": "https://ukzy.ukubf3.com/20250920/vKOPbGPI/index.m3u8",
+  "第17集": "https://play.hhuus.com/play/Le3oKgxe/index.m3u8"
+};
+
+seriesInfo = {
+  title: "鬼吹灯之南海归墟",
+  status: "全17集",
+  category: "大陆电视剧",
+  director: "项秋良, 项河生",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `鬼吹灯之南海归墟`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鬼吹燈之南海歸墟_532586.avif"
+
+};

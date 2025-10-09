@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vip.dytt-look.com/20250411/397026_06661a30/index.m3u8",
+  "第2集": "https://vip.dytt-look.com/20250411/397019_f4a9e1c4/index.m3u8",
+  "第3集": "https://vip.dytt-look.com/20250411/396979_dc48cfe8/index.m3u8",
+  "第4集": "https://vip.dytt-look.com/20250411/396980_989ce21c/index.m3u8",
+  "第5集": "https://vip.dytt-look.com/20250411/396977_2d230be4/index.m3u8",
+  "第6集": "https://vip.dytt-look.com/20250411/396978_ba8b8d30/index.m3u8",
+  "第7集": "https://vip.dytt-look.com/20250411/396975_99b4dbca/index.m3u8",
+  "第8集": "https://vip.dytt-look.com/20250411/396976_6ad106bb/index.m3u8",
+  "第10集": "https://vip.dytt-look.com/20250411/397022_fe1398ae/index.m3u8",
+  "第11集": "https://vip.dytt-look.com/20250411/397023_4e51f530/index.m3u8",
+  "第12集": "https://vip.dytt-look.com/20250411/397024_3e5f96c0/index.m3u8",
+  "第13集": "https://vip.dytt-look.com/20250411/397018_a364b12b/index.m3u8",
+  "第14集": "https://vip.dytt-look.com/20250411/396994_e7ea44f8/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241026/eKg3JPrr/index.m3u8",
+  "第16集": "https://vip.dytt-look.com/20250411/397021_8e599350/index.m3u8",
+  "第17集": "https://vip.dytt-look.com/20250411/396988_01f20e4f/index.m3u8",
+  "第18集": "https://vip.dytt-look.com/20250411/397020_b828b649/index.m3u8",
+  "第19集": "https://vip.dytt-look.com/20250411/396987_dd14f831/index.m3u8",
+  "第20集": "https://vip.dytt-look.com/20250411/396995_4fedde36/index.m3u8",
+  "第21集": "https://vip.dytt-look.com/20250411/396993_cbfbf3bf/index.m3u8",
+  "第22集": "https://vip.dytt-look.com/20250411/396983_53e2941c/index.m3u8",
+  "第23集": "https://vip.dytt-look.com/20250411/396991_0c42f8b1/index.m3u8",
+  "第24集": "https://vip.dytt-look.com/20250411/396989_c68ca398/index.m3u8",
+  "第25集": "https://vip.dytt-look.com/20250411/396990_998a2615/index.m3u8",
+  "第26集": "https://vip.dytt-look.com/20250411/396986_344670c6/index.m3u8",
+  "第27集": "https://vip.dytt-look.com/20250411/396985_9db0c03d/index.m3u8",
+  "第28集": "https://vip.dytt-look.com/20250411/396984_7557f9ad/index.m3u8",
+  "第29集": "https://vip.dytt-look.com/20250411/396982_b3818337/index.m3u8",
+  "第30集": "https://vip.dytt-look.com/20250411/396981_991f5f36/index.m3u8",
+  "第31集": "https://vip.dytt-look.com/20250411/396972_a0601709/index.m3u8",
+  "第32集": "https://vip.dytt-look.com/20250411/396974_8a8d2b46/index.m3u8"
+};
+
+seriesInfo = {
+  title: "老婆的黑月光",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "暂无",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/老婆的黑月光_488386.avif"
+
+};

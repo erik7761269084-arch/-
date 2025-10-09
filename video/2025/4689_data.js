@@ -1,0 +1,14 @@
+episodes = {
+};
+
+seriesInfo = {
+  title: "闪耀的星星$盛总你找错白月光了",
+  status: "全89集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/閃耀的星星$盛總你找錯白月光了_184978.avif"
+
+};

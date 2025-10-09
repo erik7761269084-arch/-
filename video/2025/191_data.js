@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20250704/UMivp89y/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250704/CiKqfFBE/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250704/iqXkZsiy/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250704/Gb0KZAAs/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250704/XyY9VnVj/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250704/p2OAiVFr/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250704/g0FyKSlr/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250704/hdOeJbEO/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250705/JMapQHGn/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250705/gP72kvjv/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250705/NUC60ROY/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250706/0TA1a7Hf/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250706/Ycr3b6rV/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250706/QkQo18Lq/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250707/wwzRtMY7/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250707/iIEMRv7k/index.m3u8",
+  "第17集": "https://play.modujx11.com/20250708/xkBuUsBP/index.m3u8",
+  "第18集": "https://play.modujx11.com/20250708/Qeisrdji/index.m3u8",
+  "第19集": "https://play.modujx11.com/20250709/L1h32mio/index.m3u8",
+  "第20集": "https://play.modujx11.com/20250709/tx5UPb1D/index.m3u8",
+  "第21集": "https://play.modujx11.com/20250710/oSEkurid/index.m3u8",
+  "第22集": "https://play.modujx11.com/20250710/hveib9fa/index.m3u8",
+  "第23集": "https://play.modujx11.com/20250711/96O7npp8/index.m3u8",
+  "第24集": "https://play.modujx11.com/20250711/tao5UyhC/index.m3u8",
+  "第25集": "https://play.modujx11.com/20250711/vZ6pz99D/index.m3u8",
+  "第26集": "https://play.modujx11.com/20250711/uSnR85BX/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/acfdb0ca/index.m3u8",
+  "第27集": "https://play.modujx11.com/20250711/l5AiID2X/index.m3u8",
+  "第28集": "https://play.modujx11.com/20250711/3kUkM9xh/index.m3u8",
+  "第29集": "https://play.modujx11.com/20250711/8OCjzTPv/index.m3u8",
+  "第30集": "https://play.modujx11.com/20250711/h6BfkSCW/index.m3u8"
+};
+
+seriesInfo = {
+  title: "朱雀堂",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "谢忠道",
+  actors: "",
+  meta: "大陆 / 国语 / 2025",
+  description: `讲述三位职业与性格迥异的年轻人因一件离奇的连环案件相识，共同揭开朱雀堂背后惊天阴谋的故事……                                           剧集改编自鬼马星同名民国推理悬疑小说。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/朱雀堂_523472.avif"
+
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vodcnd13.rsfcxq.com/20250223/JS920Yif/index.m3u8",
+  "第2集": "https://vip.ffzy-online4.com/20240620/254515_81a375b3/index.m3u8",
+  "第3集": "https://vip.ffzy-online4.com/20240620/254519_a31e0f26/index.m3u8",
+  "第4集": "https://vip.dytt-look.com/20250430/673162_e30357df/index.m3u8",
+  "第5集": "https://vip.dytt-look.com/20250430/673172_3b376b92/index.m3u8",
+  "第6集": "https://vip.dytt-look.com/20250430/673158_3f06c3ab/index.m3u8",
+  "第7集": "https://vip.ffzy-online4.com/20240620/254522_b04f27e0/index.m3u8",
+  "第8集": "https://vip.dytt-look.com/20250430/673159_7b70133d/index.m3u8",
+  "第9集": "https://vip.dytt-look.com/20250430/673157_814beb1b/index.m3u8",
+  "第10集": "https://vip.ffzy-online4.com/20240620/254563_cbe9ea49/index.m3u8",
+  "第11集": "https://vip.dytt-look.com/20250430/673191_5475b7ce/index.m3u8",
+  "第12集": "https://vip.dytt-look.com/20250430/673198_7ebd83b2/index.m3u8",
+  "第13集": "https://vip.dytt-look.com/20250430/673197_5658c3d0/index.m3u8",
+  "第14集": "https://vip.ffzy-online4.com/20240620/254568_7d4dfed1/index.m3u8",
+  "第15集": "https://vip.dytt-look.com/20250430/673188_078f2ab9/index.m3u8",
+  "第16集": "https://vip.dytt-look.com/20250430/673178_9a23e700/index.m3u8",
+  "第17集": "https://vip.ffzy-online4.com/20240620/254571_e1b214db/index.m3u8",
+  "第18集": "https://vip.ffzy-online4.com/20240620/254572_d5c11903/index.m3u8",
+  "第19集": "https://vip.dytt-look.com/20250430/673173_f250e612/index.m3u8",
+  "第20集": "https://vip.dytt-look.com/20250430/673192_c946cb08/index.m3u8",
+  "第21集": "https://vip.dytt-look.com/20250430/673196_e1584e88/index.m3u8",
+  "第22集": "https://vip.dytt-look.com/20250430/673168_7577c855/index.m3u8",
+  "第23集": "https://vip.ffzy-online4.com/20240620/254576_55a1d45a/index.m3u8",
+  "第24集": "https://vip.dytt-look.com/20250430/673170_15cbab0a/index.m3u8",
+  "第25集": "https://vip.ffzy-online4.com/20240620/254579_d1c00983/index.m3u8",
+  "第26集": "https://vip.ffzy-online4.com/20240620/254580_a54409bb/index.m3u8",
+  "第27集": "https://vip.ffzy-online4.com/20240620/254582_3902d598/index.m3u8",
+  "第28集": "https://vip.dytt-look.com/20250430/673165_8f1dbd6a/index.m3u8",
+  "第29集": "https://vip.dytt-look.com/20250430/673163_3afd5b1d/index.m3u8",
+  "第30集": "https://vip.dytt-look.com/20250430/673160_535691ac/index.m3u8",
+  "第31集": "https://vip.dytt-look.com/20250430/673161_4f13a479/index.m3u8"
+};
+
+seriesInfo = {
+  title: "火坑",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/火坑_391037.avif"
+
+};

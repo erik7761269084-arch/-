@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20250919/lDG77AoS/index.m3u8",
+  "第1集": "https://cdn.wlcdn88.com:777/0205a7b0/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250919/rzckM0cG/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/3ce416b0/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/a5f8b376/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250919/igeb0es0/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/596fe23b/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250919/tFuW8jnS/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250919/unFLw3v1/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/791b1eec/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250920/l154R5L3/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/265bc67a/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250920/oNuYCedc/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/882a1e4f/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250921/9ZvueUXQ/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/3e98bcda/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250921/1syCandm/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/53c5573d/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250922/bfVCVtCo/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/94993906/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250922/PtpV3C8H/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/f3e57758/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/94d8811f/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250923/UiNJqor4/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250924/2xeWjKIY/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/5464c628/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250925/KSxXYxwN/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/c1109812/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250926/NFgam99f/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/dddb5964/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250927/mFJ4wORC/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/62236ce8/index.m3u8",
+  "第17集": "https://play.modujx11.com/20250928/43XfHFvp/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/6bbef941/index.m3u8"
+};
+
+seriesInfo = {
+  title: "照镜辞",
+  status: "更新第17集",
+  category: "大陆电视剧",
+  director: "王辉",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `周若兮为了自己的野心，舍弃与燕王李晏的感情，处心积虑嫁给太子。在她即将权倾天下之际，被李晏以「清君侧，诛妖后」为名，生擒于后宫之中。原来，这是李晏痴心的救赎，他打算带她远走高飞，却不料中了皇帝的阴谋，两人死在皇城之下。在生命的最后一刻，周若兮终于明白自己的错处，发誓若有来世绝不重蹈覆辙，而故事竟真的奇迹般回到伊始。这一次，周若兮想要修正错误、保护李晏，只是没料到，最大的对手竟是三年前的自己……`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/照鏡辭_548262.avif"
+
+};

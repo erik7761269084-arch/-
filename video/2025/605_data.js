@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://vod12.wgslsw.com/20240910/gw524jpnJp79/index.m3u8",
+  "第2集": "https://vod12.wgslsw.com/20240910/CfuMyUhPg283/index.m3u8",
+  "第3集": "https://vod12.wgslsw.com/20240910/BwH8YJTKqF79/index.m3u8",
+  "第4集": "https://vod12.wgslsw.com/20240910/NuJvtSJZ9P81/index.m3u8",
+  "第5集": "https://vod12.wgslsw.com/20240910/23a73yt48U81/index.m3u8",
+  "第6集": "https://vod12.wgslsw.com/20240910/LPjcaQXMpc83/index.m3u8",
+  "第7集": "https://vod12.wgslsw.com/20240910/0brPuEpjDF82/index.m3u8",
+  "第8集": "https://vod12.wgslsw.com/20240910/Qudge2hb6274/index.m3u8",
+  "第9集": "https://vod12.wgslsw.com/20240910/vs9epwtKSG79/index.m3u8",
+  "第10集": "https://vod12.wgslsw.com/20240910/AwvRS2A1wk81/index.m3u8",
+  "第11集": "https://vod12.wgslsw.com/20240910/LAS9L1fMQD81/index.m3u8",
+  "第12集": "https://vod12.wgslsw.com/20240910/zdcJBb4gk774/index.m3u8",
+  "第13集": "https://vod12.wgslsw.com/20240910/ZbN8sTfBdf81/index.m3u8",
+  "第14集": "https://vod12.wgslsw.com/20240910/GAY1v1mzwD79/index.m3u8",
+  "第15集": "https://vod12.wgslsw.com/20240910/2FiJvqhsHR77/index.m3u8",
+  "第16集": "https://vod12.wgslsw.com/20240910/5EvpGFqmMV74/index.m3u8",
+  "第17集": "https://vod12.wgslsw.com/20240920/5RucimCD5n77/index.m3u8",
+  "第18集": "https://vod12.wgslsw.com/20240920/f85Bw1ea5983/index.m3u8",
+  "第19集": "https://vod12.wgslsw.com/20240920/5vh3Vr7Nhq74/index.m3u8",
+  "第20集": "https://vod12.wgslsw.com/20240928/uK1M1aH5rF74/index.m3u8",
+  "第21集": "https://vod12.wgslsw.com/20240928/g8DKQ7XHFm76/index.m3u8",
+  "第22集": "https://vod12.wgslsw.com/20241004/wUnfVpGdQh79/index.m3u8",
+  "第23集": "https://vod12.wgslsw.com/20241004/adrVd0Y7AC76/index.m3u8",
+  "第24集": "https://vod12.wgslsw.com/20241004/mxDUTuDynb83/index.m3u8",
+  "第25集": "https://vod12.wgslsw.com/20241004/fRay69EUZk80/index.m3u8",
+  "第26集": "https://vod12.wgslsw.com/20241008/u49UzteqC376/index.m3u8",
+  "第27集": "https://vod12.wgslsw.com/20241008/TtUZKubSmU74/index.m3u8",
+  "第28集": "https://vod12.wgslsw.com/20241008/FGy6Fccfep79/index.m3u8",
+  "第29集": "https://vod12.wgslsw.com/20241008/hvSkD8CtTF84/index.m3u8",
+  "第30集": "https://vod12.wgslsw.com/20241016/JgmdnBdUxP79/index.m3u8",
+  "第31集": "https://vod12.wgslsw.com/20241016/evdbykLMf782/index.m3u8",
+  "第32集": "https://vod12.wgslsw.com/20241016/gNNMPv3DPr84/index.m3u8"
+};
+
+seriesInfo = {
+  title: "浮华梦",
+  status: "全32集",
+  category: "大陆电视剧",
+  director: "圻夏夏",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/浮華夢_452001.avif"
+
+};

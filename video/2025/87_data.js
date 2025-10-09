@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://v.lzcdn25.com/20250905/5655_bccd5117/index.m3u8",
+  "第2集": "https://v.lzcdn25.com/20250905/5656_5299cace/index.m3u8",
+  "第3集": "https://v.lzcdn25.com/20250905/5657_e9d874e2/index.m3u8",
+  "第4集": "https://v.lzcdn25.com/20250905/5658_67cee230/index.m3u8",
+  "第5集": "https://v.lzcdn25.com/20250905/5659_9fd577a2/index.m3u8",
+  "第6集": "https://v.lzcdn25.com/20250905/5660_0e12617d/index.m3u8",
+  "第7集": "https://v.lzcdn25.com/20250906/5709_79d38df7/index.m3u8",
+  "第8集": "https://v.lzcdn25.com/20250906/5710_003d19f3/index.m3u8",
+  "第9集": "https://v.lzcdn25.com/20250907/5747_4108e48e/index.m3u8",
+  "第10集": "https://v.lzcdn25.com/20250907/5748_60aed73a/index.m3u8",
+  "第11集": "https://v.lzcdn25.com/20250908/5814_3eabbcac/index.m3u8",
+  "第12集": "https://v.lzcdn25.com/20250908/5815_d9adbc7a/index.m3u8",
+  "第13集": "https://v.lzcdn25.com/20250909/5861_cba351fb/index.m3u8",
+  "第14集": "https://v.lzcdn25.com/20250909/5860_c7445746/index.m3u8",
+  "第15集": "https://v.lzcdn25.com/20250910/5943_6c2f87a5/index.m3u8",
+  "第16集": "https://v.lzcdn25.com/20250910/5944_445ac836/index.m3u8",
+  "第17集": "https://v.lzcdn25.com/20250911/5994_aa759797/index.m3u8",
+  "第18集": "https://v.lzcdn25.com/20250911/5995_20df0bb7/index.m3u8",
+  "第19集": "https://v.lzcdn25.com/20250912/6082_aafb3d77/index.m3u8",
+  "第20集": "https://v.lzcdn25.com/20250912/6083_1a904331/index.m3u8",
+  "第21集": "https://v.lzcdn25.com/20250913/6159_dba57bb1/index.m3u8",
+  "第22集": "https://v.lzcdn25.com/20250913/6158_3ea1243a/index.m3u8",
+  "第23集": "https://v.lzcdn25.com/20250914/6197_4993099a/index.m3u8",
+  "第24集": "https://v.lzcdn25.com/20250914/6198_885d3fda/index.m3u8",
+  "第25集": "https://v.lzcdn25.com/20250915/6258_2b2001b3/index.m3u8",
+  "第26集": "https://v.lzcdn25.com/20250915/6257_6abb9b38/index.m3u8",
+  "第27集": "https://v.lzcdn25.com/20250915/6264_f603dfe6/index.m3u8",
+  "第28集": "https://v.lzcdn25.com/20250915/6266_314ea31e/index.m3u8",
+  "第29集": "https://v.lzcdn25.com/20250915/6265_ce51440a/index.m3u8",
+  "第30集": "https://v.lzcdn25.com/20250915/6263_c777df73/index.m3u8"
+};
+
+seriesInfo = {
+  title: "足迹2025",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "张思麟",
+  actors: "",
+  meta: "大陆 / 国语 / 2025",
+  description: `上个世纪上海法租界一所西式洋房里，最初住著一户姓林的人家。30年代初，林家败落，房子被有心人买下，改建成一所妇产医院，在这所医院里，发生了许多故事。50年代初，新中国成立，这座洋房又成为工厂车间，工作和来往著工人、技术人员等。90年代初，这所老洋房成为商住两用房，来来往往的人们又发生了新的故事。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/足跡2025_544113.avif"
+
+};

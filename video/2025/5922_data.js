@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/cd980c82/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/b4caeb81/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/66b1eb05/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/121dc9f5/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/cb3726cc/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/94b660f4/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/0a2d9c99/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/5b9fe6f2/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/48a50e8f/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/1b9e6e5e/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/deace261/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/c49268f4/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/513eb7ff/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/306eff0b/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/b8d387b2/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/0d97ae14/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/c7f5aa4e/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/d7540936/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/7c783bf2/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/71a34a2e/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/6cb9cec8/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/42094abe/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/59f46084/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/780505c4/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/218259c8/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/e39e6a75/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/225f5943/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/c33646b1/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/1f5b4503/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/56bed931/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/7cca0e86/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/4e659fc0/index.m3u8",
+  "第33集": "https://cdn.wlcdn88.com:777/874122ab/index.m3u8"
+};
+
+seriesInfo = {
+  title: "珍爱禁果第2季",
+  status: "已完结",
+  category: "泰国电视剧",
+  director: "瓦拉尤·鲁克斯库, 卡德·塔恩图帕",
+  actors: "",
+  meta: "泰国 / 其它 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/珍愛禁果第2季_498432.avif"
+
+};

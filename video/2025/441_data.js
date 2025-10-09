@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://vodcnd02.rsfcxq.com/20250302/rDQrDwGn/index.m3u8",
+  "第2集": "https://vodcnd02.rsfcxq.com/20250302/7KucxThe/index.m3u8",
+  "第3集": "https://vodcnd02.rsfcxq.com/20250302/ypQ05wga/index.m3u8",
+  "第4集": "https://vodcnd02.rsfcxq.com/20250302/j8TpH2jr/index.m3u8",
+  "第5集": "https://vodcnd02.rsfcxq.com/20250302/yCOfXJ4k/index.m3u8",
+  "第6集": "https://vodcnd02.rsfcxq.com/20250302/aUvlDa6d/index.m3u8",
+  "第7集": "https://vodcnd02.rsfcxq.com/20250302/1ZX2WCPe/index.m3u8",
+  "第8集": "https://vodcnd02.rsfcxq.com/20250302/Y36qShxB/index.m3u8",
+  "第9集": "https://vodcnd02.rsfcxq.com/20250302/me1KeDdx/index.m3u8",
+  "第10集": "https://vodcnd02.rsfcxq.com/20250302/SGhxZ5Xw/index.m3u8",
+  "第11集": "https://vodcnd02.rsfcxq.com/20250302/48sgN6EB/index.m3u8",
+  "第12集": "https://vodcnd02.rsfcxq.com/20250302/XWNmzKgp/index.m3u8",
+  "第13集": "https://vodcnd02.rsfcxq.com/20250302/X31wbhIZ/index.m3u8",
+  "第14集": "https://vodcnd02.rsfcxq.com/20250302/rjJsfkks/index.m3u8",
+  "第15集": "https://vodcnd02.rsfcxq.com/20250302/hPIMQ9S0/index.m3u8",
+  "第16集": "https://vodcnd02.rsfcxq.com/20250302/JJHE3Y9f/index.m3u8",
+  "第17集": "https://vodcnd02.rsfcxq.com/20250302/ELVrK2lC/index.m3u8",
+  "第18集": "https://vodcnd02.rsfcxq.com/20250302/fMlZuKcA/index.m3u8",
+  "第19集": "https://vodcnd02.rsfcxq.com/20250302/2jpJyhPc/index.m3u8",
+  "第20集": "https://vv.jisuzyv.com/play/5eV3oO9a/index.m3u8",
+  "第21集": "https://vv.jisuzyv.com/play/DdwJ7grb/index.m3u8",
+  "第22集": "https://vv.jisuzyv.com/play/DdwJ7Y8b/index.m3u8",
+  "第23集": "https://vv.jisuzyv.com/play/QeZ7gZ5a/index.m3u8",
+  "第24集": "https://vv.jisuzyv.com/play/nelr057b/index.m3u8",
+  "第25集": "https://vv.jisuzyv.com/play/DdwJAL8b/index.m3u8",
+  "第26集": "https://vv.jisuzyv.com/play/PdyLn4zb/index.m3u8",
+  "第27集": "https://vv.jisuzyv.com/play/9b6O44nd/index.m3u8",
+  "第28集": "https://vv.jisuzyv.com/play/9b6ON57d/index.m3u8",
+  "第29集": "https://vv.jisuzyv.com/play/DdwJDXJb/index.m3u8",
+  "第30集": "https://vv.jisuzyv.com/play/nelr4l1b/index.m3u8",
+  "第31集": "https://vv.jisuzyv.com/play/9aA3ZxOd/index.m3u8",
+  "第32集": "https://vv.jisuzyv.com/play/penw1pDa/index.m3u8"
+};
+
+seriesInfo = {
+  title: "被未来的自己愚弄！",
+  status: "第19集完结",
+  category: "日本电视剧",
+  director: "原英辅, 田中正",
+  actors: "",
+  meta: "日本 / 日语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/被未來的自己愚弄！_458525.avif"
+
+};

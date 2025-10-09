@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://wwzycdn.10cong.com/20240709/DBSR3Zxr/index.m3u8",
+  "第2集": "https://wwzycdn.10cong.com/20240709/EE4ck8jw/index.m3u8",
+  "第3集": "https://wwzycdn.10cong.com/20240709/3ICDGnQa/index.m3u8",
+  "第4集": "https://wwzycdn.10cong.com/20240709/ZertKxG9/index.m3u8",
+  "第5集": "https://wwzycdn.10cong.com/20240709/PVqOZxvv/index.m3u8",
+  "第6集": "https://wwzycdn.10cong.com/20240709/tyWF9AOu/index.m3u8",
+  "第7集": "https://wwzycdn.10cong.com/20240709/MbM9lgbl/index.m3u8",
+  "第8集": "https://wwzycdn.10cong.com/20240709/maTBpmYM/index.m3u8",
+  "第9集": "https://wwzycdn.10cong.com/20240709/KJmrmwx8/index.m3u8",
+  "第10集": "https://wwzycdn.10cong.com/20240709/Xwro4LAS/index.m3u8",
+  "第11集": "https://wwzycdn.10cong.com/20240709/Sw25HocE/index.m3u8",
+  "第12集": "https://wwzycdn.10cong.com/20240709/xXF4X10g/index.m3u8",
+  "第13集": "https://wwzycdn.10cong.com/20240709/b5ln7rTk/index.m3u8",
+  "第14集": "https://wwzycdn.10cong.com/20240709/cgNSRopM/index.m3u8",
+  "第15集": "https://wwzycdn.10cong.com/20240709/cnaA55rH/index.m3u8",
+  "第16集": "https://wwzycdn.10cong.com/20240709/JbJRfFUg/index.m3u8",
+  "第17集": "https://wwzycdn.10cong.com/20240709/KtrHFSUb/index.m3u8",
+  "第18集": "https://wwzycdn.10cong.com/20240709/LLLW6MEr/index.m3u8",
+  "第19集": "https://wwzycdn.10cong.com/20240709/PayeNeA3/index.m3u8",
+  "第20集": "https://wwzycdn.10cong.com/20240709/IT0RpUwM/index.m3u8",
+  "第21集": "https://wwzycdn.10cong.com/20240709/iTIaoVH2/index.m3u8",
+  "第22集": "https://wwzycdn.10cong.com/20240709/7Dy5Sunw/index.m3u8",
+  "第23集": "https://wwzycdn.10cong.com/20240709/KwulJ0n5/index.m3u8",
+  "第24集": "https://wwzycdn.10cong.com/20240709/eXXhYOWZ/index.m3u8",
+  "第25集": "https://wwzycdn.10cong.com/20240709/AIO5MfR7/index.m3u8",
+  "第26集": "https://wwzycdn.10cong.com/20240709/fcLgUgFI/index.m3u8",
+  "第27集": "https://wwzycdn.10cong.com/20240709/lMuOVDH0/index.m3u8",
+  "第28集": "https://wwzycdn.10cong.com/20240709/sVY8SwSg/index.m3u8",
+  "第29集": "https://wwzycdn.10cong.com/20240709/57TNs78M/index.m3u8",
+  "第30集": "https://wwzycdn.10cong.com/20240709/ikUSWE1h/index.m3u8",
+  "第31集": "https://wwzycdn.10cong.com/20240709/vLtLXYKT/index.m3u8",
+  "第32集": "https://wwzycdn.10cong.com/20240709/5YhZ4NSm/index.m3u8",
+  "第33集": "https://wwzycdn.10cong.com/20240709/zE7TBya7/index.m3u8"
+};
+
+seriesInfo = {
+  title: "女扮男装后锦衣卫大人爱上我",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女扮男裝後錦衣衛大人愛上我_137884.avif"
+
+};

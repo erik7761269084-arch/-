@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20250107/c0o7CeKK/index.m3u8",
+  "第2集": "https://play.modujx11.com/20250107/yDAd2Q0X/index.m3u8",
+  "第3集": "https://play.modujx11.com/20250107/6HynWjCC/index.m3u8",
+  "第4集": "https://play.modujx11.com/20250107/O7t95tYQ/index.m3u8",
+  "第5集": "https://play.modujx11.com/20250108/ri1yLpjZ/index.m3u8",
+  "第6集": "https://play.modujx11.com/20250108/QSWAZEuk/index.m3u8",
+  "第7集": "https://play.modujx11.com/20250109/RBveVspd/index.m3u8",
+  "第8集": "https://play.modujx11.com/20250109/S4LJVAqd/index.m3u8",
+  "第9集": "https://play.modujx11.com/20250110/wYbzjEDM/index.m3u8",
+  "第10集": "https://play.modujx11.com/20250111/jCqMM3iG/index.m3u8",
+  "第11集": "https://play.modujx11.com/20250112/RWTDJitA/index.m3u8",
+  "第12集": "https://play.modujx11.com/20250113/gItoofZx/index.m3u8",
+  "第13集": "https://play.modujx11.com/20250113/7jt5Xcoq/index.m3u8",
+  "第14集": "https://play.modujx11.com/20250114/eIM8j1y0/index.m3u8",
+  "第15集": "https://play.modujx11.com/20250114/rpLhnNKO/index.m3u8",
+  "第16集": "https://play.modujx11.com/20250115/7guZIacM/index.m3u8",
+  "第17集": "https://play.modujx11.com/20250115/WUReqqfA/index.m3u8",
+  "第18集": "https://play.modujx11.com/20250116/F7oZXz6l/index.m3u8",
+  "第19集": "https://play.modujx11.com/20250116/yH0DApzw/index.m3u8",
+  "第20集": "https://play.modujx11.com/20250117/13j7zvlW/index.m3u8",
+  "第21集": "https://play.modujx11.com/20250118/OATWTD3Q/index.m3u8",
+  "第22集": "https://play.modujx11.com/20250119/9zCxGgjE/index.m3u8",
+  "第23集": "https://play.modujx11.com/20250120/QzEEYcwM/index.m3u8",
+  "第24集": "https://play.modujx11.com/20250120/WY0aoJbS/index.m3u8",
+  "第25集": "https://play.modujx11.com/20250121/r1MCKyK8/index.m3u8",
+  "第26集": "https://play.modujx11.com/20250121/99LG7CfU/index.m3u8",
+  "第27集": "https://play.modujx11.com/20250122/HQZXDpZj/index.m3u8",
+  "第28集": "https://play.modujx11.com/20250122/r7rkrFZa/index.m3u8",
+  "第29集": "https://play.modujx11.com/20250122/keQuFR0E/index.m3u8",
+  "第30集": "https://play.modujx11.com/20250122/UDTQIlJn/index.m3u8",
+  "第31集": "https://play.modujx11.com/20250122/PViqUvbp/index.m3u8",
+  "第32集": "https://play.modujx11.com/20250122/3SDR11Yq/index.m3u8"
+};
+
+seriesInfo = {
+  title: "国色芳华",
+  status: "第32集完结",
+  category: "大陆电视剧",
+  director: "丁梓光",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `该剧讲述了一名奇女子由牡丹培育而起，终达济民救世、帮扶天下的传奇励志故事。商户之女何惟芳（杨紫 饰）与雅冠长安的蒋长扬（李现 饰）相识后，两人组成了匠人与投资人的组合。凭借培育稀世牡丹的高超技能和过人的经商头脑，何惟芳带领一众命运坎坷的女性共同经营花坊，过关斩将，在女子本弱的偏执沉疴中博得一席天地。随著何惟芳与蒋长扬的渐渐相熟，她发现这位一身骂名的「天下第一贪官」实则是外浪内纯、心怀天下的国之利刃。在亲历底层之苦、另悟牡丹之用后，何惟芳决心转型利民实业。最后她经历九死一生，突破了自我，凭其陶朱之术与玲珑之心，帮蒋长扬成功平定了叛乱，有情人双双隐退天地间。剧集改编自意千重的同名小说。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/國色芳華_476315.avif"
+
+};

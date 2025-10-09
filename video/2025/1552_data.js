@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vodcnd09a.myqqdd.com/20250808/1UvaULvk/index.m3u8",
+  "第2集": "https://vip.ffzy-online4.com/20240620/254589_b226a367/index.m3u8",
+  "第3集": "https://vip.ffzy-online4.com/20240620/254588_bf67a0eb/index.m3u8",
+  "第4集": "https://vip.ffzy-online4.com/20240620/254590_f2fc72f8/index.m3u8",
+  "第5集": "https://vip.ffzy-online4.com/20240620/254591_0e80b0bf/index.m3u8",
+  "第6集": "https://vip.ffzy-online4.com/20240620/254592_0421126f/index.m3u8",
+  "第7集": "https://vip.ffzy-online4.com/20240620/254593_ee5da54a/index.m3u8",
+  "第8集": "https://vip.ffzy-online4.com/20240620/254594_0c72bea5/index.m3u8",
+  "第9集": "https://vip.ffzy-online4.com/20240620/254595_4db3da9d/index.m3u8",
+  "第10集": "https://vip.ffzy-online4.com/20240620/254596_646f6544/index.m3u8",
+  "第11集": "https://vip.dytt-look.com/20250430/673032_269cb708/index.m3u8",
+  "第12集": "https://vip.ffzy-online4.com/20240620/254598_bab8aaa6/index.m3u8",
+  "第13集": "https://vip.ffzy-online4.com/20240620/254599_b8412f16/index.m3u8",
+  "第14集": "https://vip.ffzy-online4.com/20240620/254601_f1c80c98/index.m3u8",
+  "第15集": "https://vip.ffzy-online4.com/20240620/254602_11bedc94/index.m3u8",
+  "第16集": "https://vip.ffzy-online4.com/20240620/254600_ab07c2e5/index.m3u8",
+  "第17集": "https://vip.ffzy-online4.com/20240620/254603_2f63dc91/index.m3u8",
+  "第18集": "https://vip.ffzy-online4.com/20240620/254606_f73a5372/index.m3u8",
+  "第19集": "https://vip.ffzy-online4.com/20240620/254604_01a4c721/index.m3u8",
+  "第20集": "https://vip.ffzy-online4.com/20240620/254605_379e465c/index.m3u8",
+  "第21集": "https://vip.ffzy-online4.com/20240620/254607_46d333fe/index.m3u8",
+  "第22集": "https://vip.ffzy-online4.com/20240620/254608_8a60bbc2/index.m3u8",
+  "第23集": "https://vip.ffzy-online4.com/20240620/254609_9717cba6/index.m3u8",
+  "第24集": "https://vip.dytt-look.com/20250430/673018_b731bce2/index.m3u8",
+  "第25集": "https://vip.ffzy-online4.com/20240620/254612_d060d85d/index.m3u8",
+  "第26集": "https://vip.ffzy-online4.com/20240620/254613_02a9224e/index.m3u8",
+  "第27集": "https://vip.ffzy-online4.com/20240620/254611_620c0bfb/index.m3u8",
+  "第28集": "https://vip.ffzy-online4.com/20240620/254614_dbf0b7dd/index.m3u8",
+  "第29集": "https://vip.dytt-look.com/20250430/672990_76769bd5/index.m3u8",
+  "第30集": "https://vip.ffzy-online4.com/20240620/254616_b12a1835/index.m3u8"
+};
+
+seriesInfo = {
+  title: "与你同行",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/與你同行_259025.avif"
+
+};

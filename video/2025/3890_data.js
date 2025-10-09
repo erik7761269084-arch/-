@@ -1,0 +1,44 @@
+episodes = {
+  "第1集": "https://vod.guoluche.com/20241118/XdspaAQA/index.m3u8",
+  "第2集": "https://vod.guoluche.com/20241118/HjC8ZpDP/index.m3u8",
+  "第3集": "https://vod.guoluche.com/20241118/jNxCFXzv/index.m3u8",
+  "第4集": "https://vod.guoluche.com/20241118/XverMKn5/index.m3u8",
+  "第5集": "https://vod.guoluche.com/20241118/wJyFvaWf/index.m3u8",
+  "第6集": "https://vod.guoluche.com/20241118/SMjlVXlO/index.m3u8",
+  "第7集": "https://vod.guoluche.com/20241118/VaLwgpQT/index.m3u8",
+  "第8集": "https://vod.guoluche.com/20241118/5RKJi5NU/index.m3u8",
+  "第9集": "https://vod.guoluche.com/20241118/pogQbX8o/index.m3u8",
+  "第10集": "https://vod.guoluche.com/20241118/eWl7sYHM/index.m3u8",
+  "第11集": "https://vod.guoluche.com/20241118/2GQ8WmHu/index.m3u8",
+  "第12集": "https://vod.guoluche.com/20241118/wWJaBZy0/index.m3u8",
+  "第13集": "https://vod.guoluche.com/20241118/WZM9BhRZ/index.m3u8",
+  "第14集": "https://vod.guoluche.com/20241118/Xn7p9VuK/index.m3u8",
+  "第15集": "https://vod.guoluche.com/20241118/5RSaqCXv/index.m3u8",
+  "第16集": "https://vod.guoluche.com/20241118/XQZtpVDS/index.m3u8",
+  "第17集": "https://vod.guoluche.com/20241118/CP5ixbyH/index.m3u8",
+  "第18集": "https://vod.guoluche.com/20241118/5cjNwH0N/index.m3u8",
+  "第19集": "https://vod.guoluche.com/20241118/aDLn1QVY/index.m3u8",
+  "第20集": "https://vod.guoluche.com/20241118/vH3HE9uB/index.m3u8",
+  "第21集": "https://vod.guoluche.com/20241118/LTqmxkXo/index.m3u8",
+  "第22集": "https://vod.guoluche.com/20241118/d5Rq7Pt3/index.m3u8",
+  "第23集": "https://vod.guoluche.com/20241118/1MoImm2W/index.m3u8",
+  "第24集": "https://vod.guoluche.com/20241118/iLG63AE6/index.m3u8",
+  "第25集": "https://vod.guoluche.com/20241118/20d5t6hA/index.m3u8",
+  "第26集": "https://vod.guoluche.com/20241118/u6OCln64/index.m3u8",
+  "第27集": "https://vod.guoluche.com/20241118/Ca2Vpm4t/index.m3u8",
+  "第28集": "https://vod.guoluche.com/20241118/vHEV0qEy/index.m3u8",
+  "第29集": "https://vod.guoluche.com/20241118/ObQLapiI/index.m3u8",
+  "第30集": "https://vod.guoluche.com/20241118/Ez3Vposa/index.m3u8"
+};
+
+seriesInfo = {
+  title: "乡村爱情9（下）",
+  status: "全30集",
+  category: "大陆电视剧",
+  director: "孟令宇 付滃 孙博",
+  actors: "",
+  meta: "大陆 /  / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鄉村愛情9（下）_467603.avif"
+
+};

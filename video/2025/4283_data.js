@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://wwzycdn.05men.com/20240805/1qTRuuIs/index.m3u8",
+  "第2集": "https://wwzycdn.05men.com/20240805/BBF7TCnI/index.m3u8",
+  "第3集": "https://wwzycdn.05men.com/20240805/KG8qhE8d/index.m3u8",
+  "第4集": "https://wwzycdn.05men.com/20240805/wswN4VSW/index.m3u8",
+  "第5集": "https://wwzycdn.05men.com/20240805/icCAh0Hk/index.m3u8",
+  "第6集": "https://wwzycdn.05men.com/20240805/AgQfVqv7/index.m3u8",
+  "第7集": "https://wwzycdn.05men.com/20240805/ZyJyCbJi/index.m3u8",
+  "第8集": "https://wwzycdn.05men.com/20240805/kWfhaxLL/index.m3u8",
+  "第9集": "https://wwzycdn.05men.com/20240805/VbaG4HrZ/index.m3u8",
+  "第10集": "https://wwzycdn.05men.com/20240805/IxrxowUC/index.m3u8",
+  "第11集": "https://wwzycdn.05men.com/20240805/JhArCg6t/index.m3u8",
+  "第12集": "https://wwzycdn.05men.com/20240805/87dIbBge/index.m3u8",
+  "第13集": "https://wwzycdn.05men.com/20240805/VJDOTw7b/index.m3u8",
+  "第14集": "https://wwzycdn.05men.com/20240805/U1ehpVYy/index.m3u8",
+  "第15集": "https://wwzycdn.05men.com/20240805/LQK3U7e2/index.m3u8",
+  "第16集": "https://wwzycdn.05men.com/20240805/YPqkajrg/index.m3u8",
+  "第17集": "https://wwzycdn.05men.com/20240805/VMsQEEmo/index.m3u8",
+  "第18集": "https://wwzycdn.05men.com/20240805/LeJcbv9p/index.m3u8",
+  "第19集": "https://wwzycdn.05men.com/20240805/fSS8Sdnp/index.m3u8",
+  "第20集": "https://wwzycdn.05men.com/20240805/MFu85Hpg/index.m3u8",
+  "第21集": "https://wwzycdn.05men.com/20240805/25MKPQDY/index.m3u8",
+  "第22集": "https://wwzycdn.05men.com/20240805/JlroguGI/index.m3u8",
+  "第23集": "https://wwzycdn.05men.com/20240805/im1BdcGO/index.m3u8",
+  "第24集": "https://wwzycdn.05men.com/20240805/iJRbHSqr/index.m3u8",
+  "第25集": "https://wwzycdn.05men.com/20240805/WAhjPI77/index.m3u8",
+  "第26集": "https://wwzycdn.05men.com/20240805/meHXF3c7/index.m3u8",
+  "第27集": "https://wwzycdn.05men.com/20240805/tmYO5fA8/index.m3u8",
+  "第28集": "https://wwzycdn.05men.com/20240805/PKHjyzJR/index.m3u8",
+  "第29集": "https://wwzycdn.05men.com/20240805/X7NtwNcH/index.m3u8",
+  "第30集": "https://wwzycdn.05men.com/20240805/VW8BnyT6/index.m3u8",
+  "第31集": "https://wwzycdn.05men.com/20240805/xRxaKbhQ/index.m3u8",
+  "第32集": "https://wwzycdn.05men.com/20240805/qfpZczYZ/index.m3u8",
+  "第33集": "https://wwzycdn.05men.com/20240805/0UgA4Z8A/index.m3u8",
+  "第34集": "https://wwzycdn.05men.com/20240805/4vGFPC2f/index.m3u8"
+};
+
+seriesInfo = {
+  title: "豪门至尊",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/豪門至尊_387378.avif"
+
+};

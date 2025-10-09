@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/50e5e4e2/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241231/IIwUd7mR/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241231/c7Wap9RE/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241231/nt1hoyoS/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241231/qYllIGfr/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241231/GXY5kd6o/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241231/Cxwgvt83/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241231/bMNkXTli/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241231/MlNv6LlB/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241231/CpRriGV8/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241231/8iPLRNbq/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241231/gpI3FzZR/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241231/ex7YDezA/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241231/UthWXaET/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241231/ZQAxdlJ2/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241231/KnxA9AJu/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241231/UjaGhQxa/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241231/IgA8CYOg/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241231/l0CQgcKZ/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241231/PPYbvfss/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241231/2zmHnXxn/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241231/vkRPmZbI/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241231/DsWEME1C/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241231/72QJdZF3/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241231/LQ1nctQ2/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241231/2rqoUOKL/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241231/vPKErELh/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241231/DtommVhz/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241231/cBIw0bL0/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241231/Z3oXL1pX/index.m3u8",
+  "第31集": "https://play.modujx11.com/20241231/Ze6vN4UR/index.m3u8"
+};
+
+seriesInfo = {
+  title: "别惹女人",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/別惹女人_502363.avif"
+
+};
