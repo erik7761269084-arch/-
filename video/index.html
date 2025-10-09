@@ -1,57 +1,162 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>黑白局</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            font-size: 2em;
-            color: #333;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
-            margin-bottom: 15px;
-        }
-        .link-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 1.1em;
-            margin-top: 15px;
-        }
-        .link-button:hover {
-            background-color: #0056b3;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>连续剧首页</title>
+<style>
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* 左侧导航栏 */
+.sidebar {
+  width: 200px;
+  background-color: #111;
+  border-right: 1px solid #222;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.sidebar button {
+  background: none;
+  color: #ccc;
+  border: none;
+  text-align: left;
+  padding: 12px 20px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sidebar button:hover,
+.sidebar button.active {
+  background-color: #222;
+  color: #fff;
+}
+
+/* 主内容区域 */
+.main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+.card {
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255,255,255,0.2);
+}
+.card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+.card-title {
+  padding: 10px;
+  font-size: 15px;
+  text-align: center;
+  color: #eee;
+}
+</style>
 </head>
 <body>
-    <div class="container">
-        <img src="https://example.com/your-image.jpg" alt="黑白局展示图">
-        <h1>黑白局</h1>
-        <a href="https://erik7761269084-arch.github.io/-/video/player_template.html?series=heibaiju" class="link-button" target="_blank">
-            点击观看《黑白局》
-        </a>
-    </div>
+
+<div class="sidebar">
+  <h2>分类</h2>
+  <button class="active" onclick="filterCategory('全部')">全部</button>
+  <button onclick="filterCategory('都市')">都市</button>
+  <button onclick="filterCategory('古装')">古装</button>
+  <button onclick="filterCategory('爱情')">爱情</button>
+  <button onclick="filterCategory('奇幻')">奇幻</button>
+  <button onclick="filterCategory('悬疑')">悬疑</button>
+</div>
+
+<div class="main">
+  <div class="grid" id="dramaGrid"></div>
+</div>
+
+<script>
+// 模拟你的 drama 数据
+const dramas = [
+  {
+    id: 1,
+    title: "定风波2025",
+    category: "古装",
+    cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/定風波2025_528896.avif",
+    title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1"
+  },
+  {
+    id: 2,
+    title: "入夜玫瑰",
+    category: "爱情",
+    cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/入夜玫瑰.avif",
+    title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2"
+  },
+  {
+    id: 3,
+    title: "隐秘的荣耀",
+    category: "都市",
+    cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/隐秘的荣耀.avif",
+    title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3"
+  }
+];
+
+let dramas = [];
+
+async function loadDramas() {
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/category/drama.json");
+  dramas = await res.json();
+  renderDramas(dramas);
+}
+
+loadDramas();
+
+
+function renderDramas(list) {
+  const container = document.getElementById('dramaGrid');
+  container.innerHTML = '';
+  list.forEach(d => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => window.location.href = d.title_play_url;
+    card.innerHTML = `
+      <img src="${d.cover_url}" alt="${d.title}">
+      <div class="card-title">${d.title}</div>
+    `;
+    container.appendChild(card);
+  });
+}
+
+function filterCategory(cat) {
+  document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  if (cat === '全部') renderDramas(dramas);
+  else renderDramas(dramas.filter(d => d.category === cat));
+}
+
+// 初始加载
+renderDramas(dramas);
+</script>
+
 </body>
 </html>
