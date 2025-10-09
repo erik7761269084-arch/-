@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>shandianpic.com</title>
+        <style media="screen">
+.asset_star0 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star0.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
+
+.asset_star1 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star1.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
+
+.asset_starH {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/starH.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
+
+.sitelink {
+	padding-right: 16px;
+}
+
+.sellerRatings a:link,
+.sellerRatings a:visited,
+.sellerRatings a:hover,
+.sellerRatings a:active {
+	text-decoration: none;
+	cursor: text;
+}
+
+.sellerRatings {
+	margin:0 0 3px 20px;
+}
+
+.sitelinkHolder {
+	margin:-15px 0 15px 35px;
+}
+
+#ajaxloaderHolder {
+	display: block;
+	width: 24px;
+	height: 24px;
+	background: #fff;
+	padding: 8px 0 0 8px;
+	margin:10px auto;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}</style>    <style media="screen">
+/* skzcss - for tests */
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	overflow: hidden;
+}
+
+iframe {
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 100%;
+	height: 100%;
+}
+
+#content {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+
+#imprint {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    padding-top: 5px;
+    height: 25px;
+}
+</style>    
+</head>
+
+<body>
+    <script async src='https://euob.youseasky.com/sxp/i/224f85302aa2b6ec30aac9a85da2cbf9.js' data-ch="AdsDeli - domain - landingpage" data-uvid="592f8db4ba671c291a8de6880d9e941c523d99bb" class="ct_clicktrue_80705" data-jsonp="onCheqResponse"></script>
+    <noscript>
+        <iframe src='https://obseu.youseasky.com/ns/224f85302aa2b6ec30aac9a85da2cbf9.html?ch=AdsDeli%20-%20domain%20-%20landingpage'
+                width="0" height="0" style="display:none"></iframe>
+    </noscript>
+<script type="application/javascript">let scriptPath=''; </script>
+<script type="text/javascript">var ls = function(xhr, path, token) {
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status >= 200 && xhr.status <= 400) {
+                if (xhr.responseText.trim() === '') {
+                    return;
+                }
+    
+                console.log(JSON.parse(xhr.responseText))
+            } else {
+                console.log('There was a problem with the request.');
+            }
+        }
+    }
+    
+    xhr.open('GET', path + '/munin/a/l' + 's?t=6883e351&token=' + encodeURI(token), true);
+    xhr.send();
+};
+ls(new XMLHttpRequest(), scriptPath, '592f8db4ba671c291a8de6880d9e941c523d99bb');</script>
+
+<div>
+    
+    </div>
+
+<div id="content">
+    <iframe id="iframe" frameBorder="0" src='http://yfdpco.com/sk-park.php?pid=9PO15V947&dn=shandianpic.com&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F64.0.3282.140+Safari%2F537.36+Edge%2F17.17134&requrl=http%3A%2F%2Fww38.shandianpic.com%2Fupload%2Fvod%2F20250109-1%2Fbe59d263efb0cdfce10aeb7b1b33ffc4.jpg&reqref=https%3A%2F%2Fshandianpic.com%2Fupload%2Fvod%2F20250109-1%2Fbe59d263efb0cdfce10aeb7b1b33ffc4.jpg&al=zh-SG%2Czh%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7%2Czh-CN%3Bq%3D0.6%2Cid%3Bq%3D0.5'></iframe>
+    </div>
+
+<script>
+    (function () {
+        document.getElementById("content").style.top = document.getElementById("content").previousElementSibling.clientHeight + "px";
+    })();
+</script>
+</body>
+</html>
