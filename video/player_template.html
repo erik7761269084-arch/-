@@ -235,7 +235,7 @@ function initPlayer() {
   metaEl.textContent = seriesInfo.meta || "";
   descriptionEl.textContent = seriesInfo.description || "";
 
-  if(seriesInfo.cover_local_url) coverImg.src = seriesInfo.cover_local_url;
+  if(seriesInfo.cover_url) coverImg.src = seriesInfo.cover_url;
 
   showDescription.onclick = function() {
       document.getElementById('descriptionModal').style.display = 'flex';

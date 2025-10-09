@@ -47,6 +47,6 @@ seriesInfo = {
   actors: "许凯, 田曦薇, 王佳怡, 朱正廷, 吴俊霆, 易大千, 范诗然, 单敬尧, 赖伟明",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `长安之下，别有玄机，隐秘儿女，子夜方归。孤傲郎君与纨绔贵女纵享双面人生，白日爱侣欢乐，夜里殊死相搏，只为护一方太平，佑海晏河清。         改编自扶华的小说《梅夫人宠夫日常》`,
-  cover_local_url: "E:\telegremcode\电影网站视频下载\ptt 最终数据\连续剧图片封面集合\子夜歸_382582.avif"
- 
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/子夜歸_382582.avif"
+
 };
