@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 闽南语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/神將少女八家將_117867.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/神將少女八家將_117867.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2656" 
 
 };

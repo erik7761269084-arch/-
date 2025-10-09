@@ -26,6 +26,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 泰语 / 2025",
   description: `讲述了保镖Tawan（邝玲玲 饰演） 和人气偶像歌手Ira （珙恩娜帕·瑟塔拉塔那彭饰演）之间的爱情故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/只有你2025_526091.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/只有你2025_526091.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=52" 
 
 };

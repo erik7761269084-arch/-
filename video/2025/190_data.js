@@ -22,6 +22,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `该剧改编自同名法剧。讲述一个女人很久之前因为是连环杀人犯被收监，然后有人开始模仿她进行连环杀人。虽然她是连环杀人犯，但是她可能会抓住那个模仿她的人，因此她和成为警察的儿子携手，追踪另一个杀人魔的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/螳螂2025_544075.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/螳螂2025_544075.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=190" 
 
 };

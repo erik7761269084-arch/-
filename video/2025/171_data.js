@@ -23,6 +23,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `黑道世家的长孙朴锡哲（李栋旭 饰），一心只想成为小说家。却为了守护家人，被迫踏上黑道之路。命运的转折，让他遇见了梦想成为歌手的初恋姜美英（李圣经 饰）。一段真挚爱恋悄然绽放，照亮他原本灰暗的世界。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/善良的他_526016.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/善良的他_526016.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=171" 
 
 };

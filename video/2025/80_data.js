@@ -50,6 +50,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `《搏忆》设定为架空背景，以缉毒警察被杀害为主案件贯穿全剧。整部剧集全程高能，聚焦于人性善恶，除了抽丝剥茧般的爽感，还有真相浮出水面过程中对人性的探索。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/搏憶_532281.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/搏憶_532281.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=80" 
 
 };

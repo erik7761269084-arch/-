@@ -153,6 +153,7 @@ seriesInfo = {
   meta: "大陆 / 汉语普通话 / 2025",
   description: `平凡社畜王翠花意外穿进了一本「无脑穿书文」中，成了反派女配庾晚音。为了逆转自己作为书中反派，将被原穿书女主谢永儿解决掉的宿命。庾晚音当即决定另谋生路，去抱同为书中大反派的暴君男配夏侯澹的大腿，不料暴君竟同为穿书者。
 同是天涯穿越人的反派二人组，决定战略合作绝地求生。然而原穿书女主谢永儿却自视为天选之女，毫不犹豫地投靠了站在二人对立面的原书男主夏侯泊这边。不仅要面对同为穿书女的宫中斗法，又要提防真男主的步步算计，反派二人组究竟能否逆天改命？`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/成何體統_522510.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/成何體統_522510.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=102" 
 
 };

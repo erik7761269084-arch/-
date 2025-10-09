@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/綁架遊戲_387445.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/綁架遊戲_387445.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1237" 
 
 };

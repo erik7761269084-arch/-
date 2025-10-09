@@ -18,6 +18,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/不離婚的男人―綠帽夫與惡毒妻的欺騙之愛―_170724.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/不離婚的男人―綠帽夫與惡毒妻的欺騙之愛―_170724.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1801" 
 
 };

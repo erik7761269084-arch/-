@@ -87,6 +87,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/蓄謀已久歷總他明撩暗哄_391477.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/蓄謀已久歷總他明撩暗哄_391477.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1180" 
 
 };

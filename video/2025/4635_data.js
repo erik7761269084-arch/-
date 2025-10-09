@@ -9,6 +9,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/訂婚宴上，我被三大女神搶瘋了（開局訂婚宴，未婚妻棄我而去）_200083.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/訂婚宴上，我被三大女神搶瘋了（開局訂婚宴，未婚妻棄我而去）_200083.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4635" 
 
 };

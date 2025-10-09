@@ -57,6 +57,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `该剧讲述了千娇百媚、复仇归来的「红玫瑰」杜幽梦（化名）与体弱病娇，多智腹黑的「玉面郎」裴玉泽因复仇结盟，更因彼此依靠而相恋的民国倾城爱恋。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錯心_544390.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錯心_544390.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=105" 
 
 };

@@ -31,6 +31,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `该剧讲述了杀人案唯一的目击者兼嫌疑人尹异罗（金多美 饰）在10年后成为犯罪侧写师，与怀疑自己是嫌疑人的警察金瀚泉（孙锡久 饰）一起揭开隐藏真相的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/血謎拼圖_511521.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/血謎拼圖_511521.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=110" 
 
 };

@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `1980年代的韩国，一名影坛女星在与新人拍摄充满争议的电影《爱麻夫人》时，勇敢挑战由男性主导的业界潜规则与幕后腐败乱象。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛麻夫人熱映中_532450.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛麻夫人熱映中_532450.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=145" 
 
 };

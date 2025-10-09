@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 国语 / 2025",
   description: `老中青三代热血「守诚者」勇毅冲锋，诠释跌宕起伏「中国香港警察故事」。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/守誠者國語_523356.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/守誠者國語_523356.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=78" 
 
 };

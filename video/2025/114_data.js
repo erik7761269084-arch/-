@@ -50,6 +50,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `一场伪装成意外的车祸，让乔言失去了自己的父母。为了调查车祸真相，她不顾危险跟著素未谋面的爷爷回到顾家，只为了接近这场车祸最有可能的始作俑者，跟她毫无血缘关系的小叔叔顾静渊。　　腹黑小白花和凶狠头狼的对抗，从乔言踏入顾家那一刻便已经开始。只是乔言没想到这位爷爷的养子在冷峻凌厉的行事作风下，隐藏的是一颗守护顾家的心。两人误会解除，坦诚相待，决心信任携手，一同抵抗顾家的风雨。两人都在不自觉中爱上对方，但在这场禁忌之恋中举步维艰……最终，乔言父母的车祸真相大白，两人也迎来了自己的新生，确认彼此是相伴一生的挚爱。　　该剧改编自冰糖车厘子的小说《你是所有的风雨》。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/灼心2025_531545.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/灼心2025_531545.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=114" 
 
 };

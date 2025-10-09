@@ -51,6 +51,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `东汉合浦南珠值万金，赌珠之风盛行，珍珠公子李陵（符骞文 饰）遭太守设赌珠局破产，并沦为操控珠价的傀儡背锅惨死。死后李陵重生到破产前并觉醒透视感应海贝的超能力。结合前世记忆，李陵赌珠无往不利，开启高能复仇，奉旨还珠的传奇人生。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奉命還珠_547336.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奉命還珠_547336.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=119" 
 
 };

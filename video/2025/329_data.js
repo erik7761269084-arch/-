@@ -34,6 +34,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 其它 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巾幗梟雄之懸崖（國語）_461547.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巾幗梟雄之懸崖（國語）_461547.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=329" 
 
 };

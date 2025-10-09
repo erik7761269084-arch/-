@@ -109,6 +109,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/閃婚後，我搖身一變成後媽_139178.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/閃婚後，我搖身一變成後媽_139178.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1969" 
 
 };

@@ -53,6 +53,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `上古时期，人皇昭明为万民请命，牺牲自己对抗神界。昭明陨落后，爱人混沌珠拚死救下他的一缕魂魄，布下万世轮回之局。万世之后，昭明转世成仙盟盟主谢雪臣，混沌珠亦成为暗域圣女暮悬铃。两人终于在人间重逢，却已经忘却前尘，变成「正邪不两立」的对手。暮悬铃在暗域救下重伤的谢雪臣，以救命之恩要挟与他同行。一路上，两人从各怀心机到并肩作战，卸下防备的同时暗生情愫。然而，在争夺神器「混沌珠」的阴谋中，两人陷入生死考验。暮悬铃因救世牺牲，谢雪臣逆天改命，回到过去救出暮悬铃。万世之劫结束，谢雪臣终于魂归昭明，昭明本体却已沦为堕神。暮悬铃用爱唤醒堕神，消弭浩劫，天下太平。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/千朵桃花一世開_475322.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/千朵桃花一世開_475322.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=76" 
 
 };

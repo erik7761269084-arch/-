@@ -36,6 +36,7 @@ seriesInfo = {
   meta: "大陆 / 汉语普通话 / 2025",
   description: `赵甲第本该是人人艳羡的富二代，父亲赵鑫一手打造的金海实业是北方响当当的财富帝国，可赵甲第却拒绝接受赵鑫的金钱，因为那背后饱含著惨遭抛弃的母亲和孤独成长的自己的辛酸苦楚。前传故事中，历经磨难的赵甲第了解到赵鑫也有难言的另一面，金海危机时，独挑大梁的他开始走向与父亲的和解之路，只是世事难测，血缘给予他们羁绊，却也将他们推上了一生竞争的命运。
 　　在赵甲第24 岁这年，新伤旧痕爆发，再次与父亲深度隔阂的赵甲第以决绝之姿出走金海，褪浮华，入红尘，以扮猪吃虎的方式一路呼啸成长的赵甲第将凭自己的双手书写属于赵甲第的传奇，直到登顶赵鑫都难以攀附的高峰，他终于可以说出那句离开时就已埋在心底的话：虽然出生不可以选择，但是人生可以。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我叫趙甲第2_504198.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我叫趙甲第2_504198.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=146" 
 
 };

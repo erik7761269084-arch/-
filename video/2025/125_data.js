@@ -22,6 +22,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧改编自同名漫画，讲述了十条雀（风间俊介 饰）是个将满四十岁的「枯萎系」上司，十余年无恋情、生活一成不变。某天，他写下了「40岁前想做的10件事清单」，却意外被年下高大帅气部下田中庆司（庄司浩平 饰）看到。面对雀的慌乱，庆司提议：「这张清单，我们一起完成吧？」从此，两人开始共同实践清单，原本平淡的日常变得精彩纷呈，彼此的关系也悄然跨越年龄与职场的界限，展开一段温柔又微妙的办公室恋爱故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/40歲前想要達成的10件事_523580.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/40歲前想要達成的10件事_523580.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=125" 
 
 };

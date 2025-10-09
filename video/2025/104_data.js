@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 国语 / 2025",
   description: `周刊娱乐女记者林姵亭疑似嗑药坠楼身亡，导致周刊形象重挫。刘知君作为姵亭主管，为保住升迁机会私下展开调查，竟意外揭露娱乐圈不为人知的性丑闻。　　该剧改编自柯映安同名畅销小说。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死了一個娛樂女記者之後_483480.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死了一個娛樂女記者之後_483480.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=104" 
 
 };

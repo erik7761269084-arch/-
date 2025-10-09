@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 汉语普通话 / 2025",
   description: `骇人腐尸横行煊城之内，术士冬青（刘智扬 饰）毅然出山，看著眼前威严正气的城主南峰，以及温润有礼的大少主南正慈（ 李楷文 饰），冬青却愈发觉得有异。怪病之乱究竟是天降尸灾，还是人祸所致，冬青决心冲破疑云，找寻真相！`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/怪物2025_524306.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/怪物2025_524306.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=150" 
 
 };

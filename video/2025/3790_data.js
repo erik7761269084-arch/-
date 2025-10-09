@@ -9,6 +9,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/五夥伴歷險記第2季_480183.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/五夥伴歷險記第2季_480183.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3790" 
 
 };

@@ -66,6 +66,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `数万年前，神魔大战，源生之神泰和利用世间至高至强的神器「神之左手」封印魔神，结果神器折毁坠落人界，源生之众神陷人长眠，自此三界再无神迹。战鬼族趁乱崛起，引发大战，神女无双受天界之托，化身人族少女进入神仆家族有狐一族的洞府，成为祭司源仲的贴身侍女，计划夺回他体内寄生已久的神之左手。但无双却看到本可用神之左手反抗的源仲被族人孤立、诋毁，她为之心疼为之可怜，决定保护源仲帮助他解开封印，与他一起开心的度过生命中所剩不多的时光。但死而复生的战鬼族陡然凯旋，在有狐族内部引起恐慌。早已被族人迫害濒临堕魔的源仲借机下山解开封印，但下山途中又被无双所治愈，两个人互诉心意情投意合。最终源仲救出被情敌迫害身陷禁锢的无双，两人联手合力打败了韩女，为三界众生换来了太平秩序。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/念無雙2025_494763.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/念無雙2025_494763.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=209" 
 
 };

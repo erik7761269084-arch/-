@@ -9,6 +9,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/雙重生後，江先生寵我上天&涅槃_286875.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/雙重生後，江先生寵我上天&涅槃_286875.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4463" 
 
 };

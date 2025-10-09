@@ -23,6 +23,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `讲述事业有成的外交官、前驻美大使徐文珠（全智贤 饰）和国际特工白山浩（姜栋元 饰）之间的故事。他们将揭开一场威胁朝鲜半岛和平的恐怖攻击，背后不为人知的暗黑真相……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暴風圈_545100.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暴風圈_545100.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=18" 
 
 };

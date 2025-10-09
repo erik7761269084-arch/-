@@ -59,6 +59,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `怪胎探员刑凯、警司丁洛风，二人出身无比相似，却走上不同的道路。一宗连环凶杀案把二人联系在一起，刑凯与丁洛风惺惺相惜，联手捉捕凶手。过程中，刑凯被迫找上旧冤家——心理学家杨芷菲来帮忙缉凶。 三人一路追查下发现凶手不止是一人，而是一整个杀手组织。凶手以神秘网站提倡的新七大罪布局，向每位犯下新七大罪的死者行刑，矛头直指社会上的每一人。三人必须争分夺秒，赶在出现更多受害者之前将他们缉拿归案。 刑凯万万没料到，迎接他的还有一段不堪回首的过往，令他陷入困境；杨芷菲也没想到，案件更牵涉到自己的老师——大学教授傅洋山；而丁洛风更发现从外国归来的亲姐姐丁少芸居然也藏著不可告人的阴谋，令他面临正义和亲情的两难抉择……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/刑偵12粵語_510663.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/刑偵12粵語_510663.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=57" 
 
 };

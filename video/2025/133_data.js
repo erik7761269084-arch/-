@@ -49,6 +49,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `讲述东平伯府四姑娘姜似（景甜 饰）死在爱人郁锦（张晚意 饰）手中后，重启命运的故事。这一次，姜似勇敢退婚、智斗恶毒婶婶、开设香铺、助好友护家人……一点点将悲剧改写。姜似与郁锦再度相遇，二人虽各怀心事，却依旧陷入纠缠。姜似与郁锦联手改变了哥哥姜湛落水而亡、姐姐姜依自缢的命运，也改写了父亲被长公主嫁祸斩首的结局。两人共同战胜艰难险阻，姜似对郁锦的态度也在悄悄转变，愿意再与郁锦相爱一次，二人携手维护大周和平，收获一世繁花。　　该剧根据冬天的柳叶同名原著小说改编。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/似錦_382571.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/似錦_382571.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=133" 
 
 };

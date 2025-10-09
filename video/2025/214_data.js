@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `留洋归来的千金小姐周梦欢因为一场婚约，和督军府的三个男人展开了极限爱恋拉扯。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/步步笙歡_532962.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/步步笙歡_532962.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=214" 
 
 };

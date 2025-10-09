@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 泰语 / 2024",
   description: ``,
-  cover_url: "None"
+  cover_url: "None",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5719" 
 
 };

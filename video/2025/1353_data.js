@@ -91,6 +91,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/戰神的五個絕色師姐倒追我_381964.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/戰神的五個絕色師姐倒追我_381964.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1353" 
 
 };

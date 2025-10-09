@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "印度 / 印地语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/水下冰山第3季_496143.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/水下冰山第3季_496143.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3577" 
 
 };

@@ -34,6 +34,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `大龙凤麻雀馆第二代传人司徒久年少继承家业，雀馆见证湾仔区变迁，「碰」、「杠」声中满载人情味！一成不变的司徒久竟肯斥资收购濒临解散的港湾乐团，得力助手张铁原本强烈反对，当知悉其收购乐团是为了失散多年的女儿兼乐手沈家明，终愿意出任副团长，从中协助二人相认……德旺集团主席欧阳宗当年于麻雀大战中败给司徒久的父亲，承诺德旺不会踏足湾仔；这位麻雀枭雄多年后卷土重来，要使计对付司徒久，最终司徒久能否守住大龙凤？`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/麻雀樂團粵語_530041.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/麻雀樂團粵語_530041.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=21" 
 
 };

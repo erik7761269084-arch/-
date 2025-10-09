@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/真探秦先生第2季之魅相_474987.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/真探秦先生第2季之魅相_474987.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=6041" 
 
 };

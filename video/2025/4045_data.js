@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 其它 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/邪獄之夜_437349.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/邪獄之夜_437349.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4045" 
 
 };

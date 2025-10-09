@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `非法枪械大量流入禁枪的韩国，意志坚定的警察和狡猾的军火商针锋相对，展开剑拔弩张的对决。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/槍口彼端_527507.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/槍口彼端_527507.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=201" 
 
 };

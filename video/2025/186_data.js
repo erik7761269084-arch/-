@@ -34,6 +34,7 @@ seriesInfo = {
   meta: "韩国 / 韩语 / 2025",
   description: `白天担任急诊室医生的单身母亲玛丽非法帮助重病症末期的病人依照他们的意愿结束他们生命。
 　　但是死亡太多，生意越来越红火，他她的双面生活也越来越复杂艰辛。当她的世界开始公诸于世时，她意识到如果她还想干这份工作，就要背水一战。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死亡醫生瑪麗_529047.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死亡醫生瑪麗_529047.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=186" 
 
 };

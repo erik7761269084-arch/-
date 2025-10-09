@@ -207,6 +207,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `该剧由洪硕九、洪恩美导演，金敏珠编剧，Flying Entertainment、Asendio制作，讲述了坚信完美生活的女人在人生被彻底夺走后发生的人生夺回复仇剧。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女王之家_504365.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女王之家_504365.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=74" 
 
 };

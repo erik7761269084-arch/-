@@ -47,6 +47,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `《执法者们》展现了警廉律三大执法部门合作，以不同使命、但同样的正义之躯与黑暗势力殊死搏斗。警方高级督察周俊杰在追查犯罪集团首脑戴祖福的过程中，经历了挚爱牺牲、同僚背叛的重重打击。廉政公署高级调查主任高浩然在追查内鬼的过程中，不断在亲情、正义之间挣扎，而律政司副刑事检控专员刘宇凡则在法理与人情之间寻求平衡。执法者们在迷雾重重的权力游戏中，抽丝剥茧，最终将罪恶绳之以法。该剧以紧张刺激的叙事节奏，刻画了人性的复杂与斗争的残酷，彰显了公平正义的永恒价值，并反思了执法过程中人性与权力的博弈。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/執法者們-粵語版_506619.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/執法者們-粵語版_506619.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=181" 
 
 };

@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `韩国顶级明星林世拉拿到了最年少视后，迎来全盛期的那天遭遇事故，25年岁月流逝之后工作中断的顶级明星东山再起。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/金子般我的明星_531944.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/金子般我的明星_531944.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=48" 
 
 };

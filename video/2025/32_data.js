@@ -26,6 +26,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `身负强烈正义感的年轻新手律师姜孝敏（郑采妍 饰）加入顶尖事务所，在冷酷又严格的上司尹锡勋（李阵郁 饰）手下，学习应对复杂的法律世界。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/夢想成為律師的律師們_529087.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/夢想成為律師的律師們_529087.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=32" 
 
 };

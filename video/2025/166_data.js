@@ -86,6 +86,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `该剧是在中央政法委重点指导下， 以公安、 检察、法院、司法、国安五大政法单位中8组英雄人物为故事原型的政法题材剧。以单元剧的形式首次揭秘近年大案要案的背后故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/真心英雄_475219.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/真心英雄_475219.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=166" 
 
 };

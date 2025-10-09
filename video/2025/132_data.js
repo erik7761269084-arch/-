@@ -65,6 +65,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `该剧改编自王蒙的小说《奇葩奇葩处处哀》。                                           沈卓然是已退休的文学系教授，儿女双全、三代同堂，发妻去世后他在老友的鼓励下开启了相亲之旅。他先后遇到了四位相亲对象。善解人意的护士长因房产与他分道扬镳；女科学家癌症复发选择了不告而别；工会主任的强势让他受到心理打压；酷似发妻的对象提出了让他为难的要求。                                           不同的情感经历给 沈卓然带来了新的成长，他对爱和生活的思索也影响著一路陪伴的家人们。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我的後半生_495628.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我的後半生_495628.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=132" 
 
 };

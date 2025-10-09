@@ -83,6 +83,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `罗英子、邱华和夏舒被良诚律所扫地出门了。罗英子怀疑此事与她正在帮梅大梁查的一桩旧案有关。为了生存，三人开起了律所。　　陈硕为了追求罗英子跳槽到良诚律所，却扑了个空。罗英子依旧不接受陈硕，却倾心于新的合作伙伴许卓。陈硕暗中帮罗英子揭开了梅大梁旧案的真相，发现始作俑者正是许卓。许卓将陈硕陷害入狱，关键时刻，罗英子正视了自己的感情，成为陈硕的辩护人，最终将许卓绳之以法。　　罗英子和陈硕的感情终于进了一步，而她和邱华、夏舒的事业也走上正轨，众人在困境中再一次完成了各自的蜕变和成长。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無所畏懼2_480397.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無所畏懼2_480397.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=33" 
 
 };

@@ -18,6 +18,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 泰语 / 2025",
   description: `Based on Thai GL author Mon Maew’s novel, the show is a funny love story between a talented female engineer and a fierce vice president that will make you laugh, and cry together.`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/固執的愛_530310.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/固執的愛_530310.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=49" 
 
 };

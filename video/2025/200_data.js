@@ -108,6 +108,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `风云2`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/風雲2_175684.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/風雲2_175684.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=200" 
 
 };

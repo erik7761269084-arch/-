@@ -103,6 +103,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/純愛戰神倒地，原來我爸是首富_126504.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/純愛戰神倒地，原來我爸是首富_126504.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2602" 
 
 };

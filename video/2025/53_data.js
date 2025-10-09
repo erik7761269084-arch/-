@@ -76,6 +76,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `温以凡回到家乡工作，意外遇到了高中同学桑延。久别重逢，两人彼此装不认识，却又一次次巧遇。温以凡遭到隔壁男人骚扰，无奈决定搬家。桑延的公寓被邻居家失火殃及，也需要重新装修。阴差阳错之下，两人竟然合租到了一起。原本互相逃避的两人因此打破隔阂，忍不住向对方靠近。桑延无微不至的照顾让温以凡逐渐敞开心扉，决定鼓起勇气主动追求桑延，桑延也跨越城市给予她最真挚的告白，两人正式确定了关系。后来，温以凡向桑延坦诚当初违背约定没有跟他考同一所大学的原因。得知真相的桑延心疼不已，发誓不再让温以凡受到伤害，并用实际行动保护了她。最终，两人搬进了桑延亲手设计的新家，共同经营幸福的生活。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/難哄_182924.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/難哄_182924.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=53" 
 
 };

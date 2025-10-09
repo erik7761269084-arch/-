@@ -27,6 +27,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `从土著人的角度讲述了夏威夷群岛的统一，这是一个激动人心的、前所未有的故事。一位夏威夷战争首领加入了一场血腥的战役，以团结交战岛屿，使其免受殖民威胁。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/戰酋_528860.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/戰酋_528860.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=131" 
 
 };

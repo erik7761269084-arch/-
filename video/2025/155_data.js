@@ -41,6 +41,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `该剧是一部犯罪惊悚剧，讲述患有反社会性人格障碍的有名女法医的过去，以及杀死自己的父亲的影子威胁她的名誉和生活的过程。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/拿著手術刀的獵人_518055.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/拿著手術刀的獵人_518055.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=155" 
 
 };

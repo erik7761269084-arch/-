@@ -27,6 +27,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 其它 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/致我們單純的小美好(泰版)泰語版_382603.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/致我們單純的小美好(泰版)泰語版_382603.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1311" 
 
 };

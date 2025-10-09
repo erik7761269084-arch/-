@@ -42,6 +42,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 其它 / 2025",
   description: `本剧以家族情仇与时代情怀为主轴，剧情叙述一场突如其来的意外，让「五秀园」的传奇厨神总铺师万里师(刘汉强 饰)蒙冤身亡，爱女(王乐妍 饰)坠海失踪，昔日并肩打拚的四位弟子: 大师兄(窦智孔 饰)二师姐(星卉 饰)三师兄(谢承均 饰)与小师弟(王振复 饰)也因此分崩离析，曾经名噪一时的五秀园成了无法回首的过往。然而，25年后，尘封的秘密即将重现，恩怨情仇再度卷土重来，一段段亲情与背叛交织的故事，将牵动所有人的命运…`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/百味人生_532342.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/百味人生_532342.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=51" 
 
 };

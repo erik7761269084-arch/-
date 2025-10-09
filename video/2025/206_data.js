@@ -79,6 +79,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 葡萄牙语 / 2025",
   description: `一个年轻的孤儿和她的新家庭团结起来，向那些造成他们个人悲剧的人进行报复。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/致命之美第1季_532362.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/致命之美第1季_532362.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=206" 
 
 };

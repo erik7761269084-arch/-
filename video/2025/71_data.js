@@ -81,6 +81,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `三十九岁的保险从业人员胡曼黎在以为自己即将迎接人生巅峰之时，却同时失去了婚姻和工作。竞争对手暗中作梗，胡曼黎惨遭公司开除，而始作俑者竟是二十八岁的薛晓舟。胡曼黎在与薛晓舟几番交手后，他们逐渐从误解到相互认同，胡曼黎决定不计前嫌和薛晓舟联手合作，从头再来。薛晓舟成长为保险业界不容小觑的金牌销冠，胡曼黎也决定回归自己的事业主场。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/蠻好的人生_501135.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/蠻好的人生_501135.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=71" 
 
 };

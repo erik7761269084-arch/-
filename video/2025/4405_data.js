@@ -12,6 +12,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 葡萄牙语 / 2024",
   description: ``,
-  cover_url: "None"
+  cover_url: "None",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4405" 
 
 };

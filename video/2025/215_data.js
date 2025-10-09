@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `The Untitled Renée Ballard project is centered around a character that has not appeared on the two Bosch series to date. It follows Detective Renée Ballard, who is tasked with running the LAPD’s new cold case division—a poorly funded, all-volunteer unit with the largest case load in the city. Ballard approaches these frozen-in-time cases with empathy and determination. When she uncovers a larger conspiracy during her investigations, she』ll lean on the assistance of her retired ally, Harry Bosch, to navigate the dangers that threaten both her unit and her life.`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巴拉德_524310.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巴拉德_524310.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=215" 
 
 };

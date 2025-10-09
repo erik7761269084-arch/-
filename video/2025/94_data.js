@@ -50,6 +50,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `聚焦未成年人司法保护，讲述了未成年人检察小组初创，检察官林之桃与助理检察员白恩宇，为了孩子们，携手对抗人性之恶的故事。                                           始于悬念，终于救赎；拨开迷惘，山止川行。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無盡的盡頭_503224.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無盡的盡頭_503224.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=94" 
 
 };

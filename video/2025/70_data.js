@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `逃婚出宫的大理世子段智兴与丐帮弟子洪七一见如故，乌蛮女子依火误将洪七当作和亲对象，一场乌龙成就命定缘分。洪七因缘际会习得神功，成为丐帮帮主，昔日父辈深仇却引兄弟反目，「一阳指」对上「降龙十八掌」，石破天惊！`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華山論劍之南帝北丐_529755.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華山論劍之南帝北丐_529755.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=70" 
 
 };

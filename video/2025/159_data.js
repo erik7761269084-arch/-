@@ -57,6 +57,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `爱奇艺出品古装剧明月入卿怀改编自伊人睽睽《师叔你这样很容易失去我》`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/明月入卿懷2025_531750.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/明月入卿懷2025_531750.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=159" 
 
 };

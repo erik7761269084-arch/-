@@ -41,6 +41,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `JTBC新周末剧《Good Boy》是一部喜剧动作青春搜查剧，讲述了特招成为警察的奖牌得主们摘下奖牌、挂上警察证件，与毫无良心和不公横行的世界对抗的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/健將聯盟_514536.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/健將聯盟_514536.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=97" 
 
 };

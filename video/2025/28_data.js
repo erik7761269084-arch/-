@@ -18,6 +18,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `古老邪灵力量一旦苏醒，整个韩国将被黑暗吞噬。十二守护者将在领袖泰山（马东锡 饰）的号召下重新集结，与千年恶灵（朴炯植 饰）的生死之战即将展开。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/十二使者_532655.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/十二使者_532655.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=28" 
 
 };

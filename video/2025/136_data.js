@@ -41,6 +41,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `本剧改编自豆瓣阅读连载小说《盲目》，作者慕遥而寻。                                           世纪之交，因为水利工程的蓄水要求，一座江边小城即将被淹没，人们如火如荼地进行著新城的规划建设和人口的迁徙。此时，一桩离奇的杀夫案闯入了警方的视野，嫌疑人中，一个是咬定丈夫杀了女儿的可怜女人曲桐，一个是按摩院身份模糊的盲人薛小伟， 他们相互救赎，甘愿为对方牺牲，疑点重重。警方锲而不舍的追查，揭秘出一段尘封多年，令人唏嘘的往事。真相可能会被淹没，但终有浮出水面的一天。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/目之所及_533565.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/目之所及_533565.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=136" 
 
 };

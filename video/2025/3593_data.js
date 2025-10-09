@@ -11,6 +11,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/潛入前兄妹_491676.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/潛入前兄妹_491676.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3593" 
 
 };

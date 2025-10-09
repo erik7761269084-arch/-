@@ -43,6 +43,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/60分鐘第57季_477984.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/60分鐘第57季_477984.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3807" 
 
 };

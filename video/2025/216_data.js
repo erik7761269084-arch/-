@@ -21,6 +21,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧改编自同名韩漫，讲述女主神户美纱（小芝风花 饰）得了癌症，她目睹闺蜜江坂丽奈（白石圣 饰）和老公平野友也（横山裕 饰）出轨，还被自己的老公杀死后，她突然穿越回到10年前，与同公司上司铃木亘（佐藤健 饰）一起展开复仇的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/請和我的老公結婚日版_522145.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/請和我的老公結婚日版_522145.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=216" 
 
 };

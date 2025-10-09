@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/小夫妻的火烤新婚生活〜交往0天從結婚開始戀愛吧〜_431356.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/小夫妻的火烤新婚生活〜交往0天從結婚開始戀愛吧〜_431356.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=892" 
 
 };

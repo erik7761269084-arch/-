@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `讲述日本江户时代黄纸画及浮世绘等风格画作出版人茑屋重三郎的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/豈有此理～蔦重繁華如夢故事～_475917.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/豈有此理～蔦重繁華如夢故事～_475917.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=61" 
 
 };

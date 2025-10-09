@@ -39,6 +39,7 @@ seriesInfo = {
   actors: "杨洋, 金晨, 汪铎, 赵小棠, 赵晴, 金佳悦, 荣梓希, 张婉儿, 胡宇轩, 张翔, 娜一, 陈震, 施予斐, 李圣佳, 梁咏妮, 刘珂君, 李熹子, 廖语辰, 严丰, 陈柏融, 常荻, 刘天宝, 喻亢, 王海祥, 祖卡尔, 曹明华, 李越, 丁桥, 刘𬱖, 曹赞, 孙一鸣, 柳仕炎, 郭馨钰, 张怀公, 柳岩, 李乃文, 金士杰, 贾冰, 颖儿, 吴樾, 曹骏, 管云鹏, 颜丹晨, 张海宇, 曲高位, 王冠, 宿宇杰, 徐海乔, 张耀, 张晓晨, 车保罗, 宗峰岩, 王同辉, 尹铸胜, 刘亚津, 李明, 穆宁, 罗光旭, 杜奕衡, 朱辉",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `该剧改编自忘语的同名小说，讲述了普通的山村穷小子韩立（杨洋饰），偶然之下，跨入到一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/凡人修仙傳2025_527835.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/凡人修仙傳2025_527835.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=11" 
 
 };

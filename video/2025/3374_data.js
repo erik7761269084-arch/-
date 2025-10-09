@@ -83,6 +83,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/滿級大佬殺回來了_502421.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/滿級大佬殺回來了_502421.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3374" 
 
 };

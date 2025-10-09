@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/重生後抱緊京圈佛子虐渣渣_502405.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/重生後抱緊京圈佛子虐渣渣_502405.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3388" 
 
 };

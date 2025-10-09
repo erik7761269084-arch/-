@@ -65,6 +65,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `本剧改编自豆瓣阅读连载小说《拜金罗曼史》，作者陈之遥。                                           校内风云人物甘扬对行色匆匆的女孩丁之童一见钟情。背负债务的丁之童从来不敢浪费时间谈恋爱，却被阳光开朗的甘扬打动。但二人的经济差距以及步入社会后的一系列现实问题，成为恋爱中无法掩盖的矛盾。甘扬家中产业衰败，他隐瞒真相与丁之童分手。丁之童误以为自己被抛弃深受打击，从而痛恨甘扬。六年后，两人再次相遇……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/吃飯跑步和戀愛_382565.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/吃飯跑步和戀愛_382565.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=139" 
 
 };

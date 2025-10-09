@@ -58,6 +58,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `仙修奇才苏易水（邓为 饰），在十八年前被师父沐清歌（向涵之 饰）改变天命，一向离经叛道的「女魔头」沐清歌也为此背负污名死去。十八年后，沐清歌化为薛冉冉，而已继任西山派掌门的苏易水将体弱濒死的冉冉收入门下，誓要护她一世周全，自此师徒身份对调互换，两人之间会发生哪些啼笑皆非的故事呢？`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/仙台有樹_483235.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/仙台有樹_483235.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=169" 
 
 };

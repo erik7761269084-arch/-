@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/就算一個人也可以好好的吃飯_106028.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/就算一個人也可以好好的吃飯_106028.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2782" 
 
 };

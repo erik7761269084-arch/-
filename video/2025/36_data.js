@@ -60,6 +60,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `方仰天（郭晋安 饰）领导著百亿方氏商业帝国，三个儿子父慈子孝，是外界眼中的积善之家。某天仰天遇上车祸，康复之后竟牵著一个叫林澄（陈晓华 饰）的女人回来，并宣布三件大事：1. 要迎娶这个比自己少三十岁的嫩妻2.为家族资产成立信托，自己名下遗产归零 3. 负责管理信托的是一家联合家族办公室，执行人为高深（罗子溢 饰），是方家的对头人…事件令方家大变天，仰天三名儿子怂恿祖母入禀法庭推翻信托；将家族荣耀看得比自己命根子还重要的仰天，宁愿跟母亲打官司、跟儿子翻脸也不肯就范，并誓要找出潜藏方家的车祸幕后黑手…`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/金式森林粵語版_547796.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/金式森林粵語版_547796.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=36" 
 
 };

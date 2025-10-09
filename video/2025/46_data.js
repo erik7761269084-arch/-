@@ -30,6 +30,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `暂无简介`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我愛九龍城_544798.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我愛九龍城_544798.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=46" 
 
 };

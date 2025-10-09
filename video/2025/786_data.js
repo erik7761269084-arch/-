@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 德语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/克麗歐的紅色復仇第2季_440758.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/克麗歐的紅色復仇第2季_440758.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=786" 
 
 };

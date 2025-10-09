@@ -39,6 +39,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `每个人都有属于自己的辉煌岁月。无论是现在，过去，还是未来。一部引起几代人共鸣的家庭爱情剧，讲述每个人经历的、意义各异的辉煌岁月。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華麗的日子_530524.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華麗的日子_530524.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=168" 
 
 };

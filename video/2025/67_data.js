@@ -54,6 +54,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `商山王病危，妄想寻得传说中的「长生仙药」，命各诸侯国送其子来朝成立世子营，替商山王寻药。以「混世魔王」江闻奂、暗藏身世的落魄小奴隶昆吾、草原战士崇义彪、风流倜傥辛甲等性格迥异的四人为首集结成世子团。少年们一路历劫，腹背受敌，在历经了重重考验后，逐渐从争锋相对转变为肝胆相照，共同携手揭开「长生仙药」背后的滔天阴谋，为阻止阴谋而奋勇杀敌、守护百姓，成为一群保家卫国的「少年英雄」的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/長風少年詞_533235.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/長風少年詞_533235.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=67" 
 
 };

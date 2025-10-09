@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `明塱集团主席王进涛（钟镇涛 饰）与著名心脏外科医生董一妍（宣萱 饰）在欧洲举行了一场豪华婚礼，婚礼过后，进涛与两名儿子及孙儿在意外中丧生。这场悲剧让王家及集团陷入混乱，进涛的宿敌柯永成（汤镇业 饰）更企图伺机夺取明塱的核心项目。同时要应付王家权力斗争及外界阴谋较量的一妍，为稳固在明塱的地位，试图拉拢进涛的两位儿媳文以珈（刘佩玥 饰）和陈丽雪（吴若希 饰）维持大局，然而新加入的董事方欣（陈炜 饰），也对明塱虎视眈眈。而在这场权力与利益争夺战中，参与者还有带著神秘身份、与以珈有过一段情的戴德桥（陈展鹏 饰）……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巨塔之後粵語版_533374.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/巨塔之後粵語版_533374.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=14" 
 
 };

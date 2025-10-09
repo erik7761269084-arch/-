@@ -21,6 +21,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本作改编自岩井圭也小说《最后的鉴定人》《科搜研之砦》，讲述孤僻的怪才鉴定人与怪咖研究员通过科学手段破解疑难案件。藤木直人饰演前科搜研王牌、拥有顶尖鉴定技术的主人公土门诚，白石麻衣出演在土门鉴定所工作的心理学专家高仓柊子。两人从案件痕迹中抽丝剥茧，以科学利刃刺穿真相。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/最後的鑑定人_524474.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/最後的鑑定人_524474.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=43" 
 
 };

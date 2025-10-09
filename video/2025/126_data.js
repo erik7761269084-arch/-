@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `转校生乔青羽（张婧仪 饰）在叛逆校草明盛（周翊然 饰）的帮助下，逐渐解开姐姐六年前被全村人「谋杀」的真相，两人互相救赎，共同成长的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/煥羽_518748.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/煥羽_518748.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=126" 
 
 };

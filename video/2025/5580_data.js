@@ -22,6 +22,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無法消除的「我」―復仇的連鎖_136386.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無法消除的「我」―復仇的連鎖_136386.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5580" 
 
 };

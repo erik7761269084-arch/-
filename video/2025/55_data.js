@@ -69,6 +69,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `寒冬腊月，大雪纷飞，从小被弃养南方乡下的庄家三小姐庄寒雁，竟遍体鳞伤的晕倒在庄府大门之前，她的出现引起庄家内宅一片大乱，更招惹来大理寺少卿傅云夕的关注和探究……                                           这一只冬日北上的孤雁，背后究竟藏著什么秘密？                                           京城奸宦一夜倒台，神秘义子藏身迷雾，这一张张面具之下，究竟孰真孰假，孰善孰恶……`,
-  cover_url: ""
+  cover_url: "",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=55" 
 
 };

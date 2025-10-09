@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 俄语 / 2025",
   description: `安娜是一位成功的整形外科医生，同时也是一家诊所的负责人，婚姻幸福。在她那充满理想人格的世界里，容不下任何人的错误和弱点。唯一与众不同的是她那不拘小节的女儿，她不愿达到母亲的高标准。当安娜的丈夫与他的情妇——著名博主兼歌手珍妮娅发生意外时，安娜意识到现实的不稳定性，并选择了一条毁灭性的复仇之路，而这将导致难以预料的后果。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/液態驚情_526029.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/液態驚情_526029.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=161" 
 
 };

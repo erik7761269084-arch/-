@@ -99,6 +99,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/救命，我老公不可能是戲精_139429.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/救命，我老公不可能是戲精_139429.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1920" 
 
 };

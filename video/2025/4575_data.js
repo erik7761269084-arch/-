@@ -89,6 +89,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛不單行（離婚冷她三年後，霍總膝蓋跪穿了）_201284.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛不單行（離婚冷她三年後，霍總膝蓋跪穿了）_201284.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4575" 
 
 };

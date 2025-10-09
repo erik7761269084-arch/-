@@ -12,6 +12,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 德语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/柏林犯罪現場：夜生活殺手第1季_299834.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/柏林犯罪現場：夜生活殺手第1季_299834.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4419" 
 
 };

@@ -9,6 +9,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/五年後，她帶崽歸來&豪門媽咪的反擊_185549.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/五年後，她帶崽歸來&豪門媽咪的反擊_185549.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4687" 
 
 };

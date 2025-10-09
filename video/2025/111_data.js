@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `陷入创作低潮，计划用崭新作品重返舞台的获奖导演（南宫珉 饰），遇上一位罹患绝症、怀抱演员梦想的女子（全余赟 饰）。只有爱，才能治愈他们彼此的人生。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我們的電影_517478.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我們的電影_517478.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=111" 
 
 };

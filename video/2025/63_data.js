@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `长安城里芳园每日熙来攘往，门庭若市，即便屡遭县主李幼贞掣肘，依旧屹立不倒。万国来朝时，芳园之主何惟芳临危受命，于风雪中盛放牡丹，尽显国色芳华，一时声名大噪。经商致富之梦眼看就要成真，却又突闻母亲去世真相，对当下所为顿生迷茫，行商前路未卜。一次意外遇险，让何惟芳豁然开朗，彻悟商人大义，转以实业利民，教授百姓立业，创办平价医药馆「悟庸堂」造福万民。同时暗中助力花鸟使蒋长扬与圣人，对抗意图造反的宁王，重振国风。蒋长扬终与何惟芳心意互通，却又不得不为大业而死。何惟芳决意要继续实现二人共同的家国理想，她一边行商济民，一边暗中筹措兵马，欲助圣人卷土重来。生死关头蒋长扬踏血而归，与何惟芳所助河东军并肩作战，最终大败宁王。诸事落定，国泰民安，牡丹芳飘万里，春耕大地。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錦繡芳華_522797.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錦繡芳華_522797.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=63" 
 
 };

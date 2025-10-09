@@ -80,6 +80,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `凡人少女白烁（白鹿 饰）自小寻仙问道，在意外结识极域妖王梵樾（敖瑞鹏 饰）后，二人共同踏上开启上古神物无念石之路，为集齐「爱恨杀贪善」五念，在宁安城、异人城、静幽山、石城、菩提村经历了种种考验，二人一路携手斗邪怪、除恶妖，从互相利用到互生爱意、双向奔赴，甜虐交织，成长励志。　　本剧改编自星零小说《白烁上神》。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/白月梵星_382360.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/白月梵星_382360.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=35" 
 
 };

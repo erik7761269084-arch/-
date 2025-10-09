@@ -50,6 +50,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `改编自耳东兔子的同名小说。年过三十的叶蒙遭遇职场不顺，辞职后带著积蓄回到家乡开启惬意的小镇生活，机缘巧合之下，她偶遇了长著一双深情眼的李靳屿，并被他的神秘和冷峻吸引。两个陌生的灵魂不断触碰，叶蒙因李靳屿的艰辛生活而心生怜爱，热情主动地给予帮助；李靳屿也在叶蒙的追求下敞开 了心扉，变得自信开朗起来。他们相互温暖、相互治愈，努力经营著这段来之不易的爱情。一枚戒指的到来打破了两人之间的平静，叶蒙母亲多年前患病去世的谜团缓缓浮出水面，叶蒙不得不面对残酷的真相﹣﹣母亲的离去与李靳屿家有著千丝万缕的联系。此时李靳屿内心的天平早已偏向叶漾，叶蒙给他带来了阳光，现在轮到他来帮助叶蒙解开心结。最终，两人携手揭开上一辈的纠葛，放下过往恩怨，迎接美好的明天。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/深情眼_526585.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/深情眼_526585.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=25" 
 
 };

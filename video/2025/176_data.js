@@ -37,6 +37,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `温润如玉的男医生何苏叶（张凌赫 饰）与重度失眠的酒店前厅经理沈惜凡（徐若晗 饰），在一次次看诊和生活中不期而遇并暗生情愫，最终两人在日常点滴中相互治愈，甜蜜收获了一段沁润著草药香的爱情故事。　　剧集根据笙离的小说《爱你，是我做过最好的事》改编。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛你2025_487442.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛你2025_487442.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=176" 
 
 };

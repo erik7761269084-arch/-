@@ -67,6 +67,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `根据蜀客的同名小说改编，主要是讲述千年的茶花小妖与掌管中天的中天王之间的千年纠葛爱情的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/落花時節又逢君2025_504277.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/落花時節又逢君2025_504277.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=127" 
 
 };

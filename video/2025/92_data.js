@@ -40,6 +40,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `原是大雍国钦天监监正蒯铎之子稚奴，一夜之间身负血海之仇。十年隐忍和学习之后，稚奴化名藏海（肖战 饰）回到京城，凭借营造技艺和纵横之术，在朝堂上步步高升。他将当年灭门真相公之于众、一雪冤屈，也在逐渐成长中，看到了朝堂的陋习。最终，为了国家安定和百姓安居乐业，藏海协助大雍消弭了战争。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/藏海傳粵語_529925.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/藏海傳粵語_529925.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=92" 
 
 };

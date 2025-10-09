@@ -111,6 +111,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/假千金替嫁殘疾大佬後，被嬌養了_138993.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/假千金替嫁殘疾大佬後，被嬌養了_138993.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2006" 
 
 };

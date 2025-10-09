@@ -43,6 +43,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `修炼百年老怪物，一朝应劫飞升，以为能功德圆满，岂料被百道雷劫劈的形神俱灭，最终与赵家废材四子赵飞扬融合，开局三份婚约上门提亲，至此开启彪悍的人生。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆天成仙_513309.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆天成仙_513309.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=56" 
 
 };

@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 德语,斯洛伐克语,英 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奧斯威辛的刺青師_76198.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奧斯威辛的刺青師_76198.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2850" 
 
 };

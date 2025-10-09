@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `伦敦两大犯罪家族——哈里根家族和史蒂文森家族互相争权夺力，正处于交战状态，不是你死，就是我亡。而陷入这场交火的，是哈利达索萨，他是精明的街头「调解人」，英俊又危险。哈利很清楚两股对立的力量发生冲突时，应该要向谁投以忠诚。当两座王国发生交战，原则的界限将会被打破，而唯一的底线，就是不惜赌上性命的誓言：家庭永远摆在第一位。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/黑幫領地_495609.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/黑幫領地_495609.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=130" 
 
 };

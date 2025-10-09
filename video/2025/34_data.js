@@ -72,6 +72,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `关于四灵仙尊花如月（白鹿 饰）和大成玄尊白九思（曾舜晞 饰）之间的夫妻战争。她究竟是消失的爱人还是另有所图，他究竟是爱她还是要将她绞杀，且看。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/臨江仙_515821.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/臨江仙_515821.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=34" 
 
 };

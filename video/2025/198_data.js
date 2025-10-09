@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `鸣木金成（岩田刚典 饰）是前医生、现为专办医生转职的冷静经纪人，为追查父亲因医疗事故自杀的真相，利用情报与金钱操控，惩治医疗界的腐败者。夜长亚季（莳田彩珠 饰）在探寻鸣木真实面目的过程中成为其助手，与他携手揭开医界黑幕。本剧以灰色手段裁恶扬善，展开一场痛快且颠覆传统的医疗悬疑故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/醫價之裁_523951.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/醫價之裁_523951.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=198" 
 
 };

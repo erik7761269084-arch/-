@@ -39,6 +39,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/想做飯的女人和想吃飯的女人第2季作りたい女と食べたい女Season2_475468.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/想做飯的女人和想吃飯的女人第2季作りたい女と食べたい女Season2_475468.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=6030" 
 
 };

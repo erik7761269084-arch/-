@@ -53,6 +53,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `A市的平静被一场所谓「惩恶扬善」连环杀人案件 打破。犯罪份子自称复仇女神「厄里倪厄斯」通过黑客入侵 公安网络发送乱码预警邮件，实行暴虐凶残的交换杀人。公 安机关迅速响应，上级下令由刑警骨干冉粤、富二代警察唐 骏、安全信息高手程峰共同组建「909专案小组」，进行专 案侦破。专案组历经坚辛，抽丝剥茧，层层揭开「厄里倪厄 斯」交换杀人复仇计划的骇人真相。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/亂碼迷局_531061.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/亂碼迷局_531061.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=207" 
 
 };

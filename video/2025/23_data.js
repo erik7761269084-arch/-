@@ -88,6 +88,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `当意外穿越进剧本世界，成为被反派男主用完即弃、凌虐致死的女主角应该怎么办？宋小鱼想都不用想，当然是能跑多远跑多远啊。计划如此丰满，现实却无比骨感，一旦她试图改变剧情和男配成婚，就会自动跌入无限流循环卡bug中，经历一百零八种完全不带重复的死法。                                           所谓开局即「阵亡」。宋小鱼终于认清了现实，那就是无论她如何努力，「剧情」始终都会将她推往男主南珩身边，上演一个又一个剧本名场面……而在这个纸片世界里，亦有无数个早就被「设定」好的人物角色。有人被困深宫重院，有人囿于高门家宅，有人为雌竞所累，有人因权势奔走。有人渴望爱与自由，却只能戴著镣铐惶惶起舞，有人做著扶摇直上的大鹏之梦，却在日复一日的束缚与平庸中被消磨著激情。                                           这不仅是人怂怕死的躺平咸鱼宋小鱼和心狠手辣的夺命卷王南珩间的鏖战，更是每个「小我」纸片人与既定命运的战斗。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/書卷一夢_382592.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/書卷一夢_382592.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=23" 
 
 };

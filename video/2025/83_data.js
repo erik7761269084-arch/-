@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 泰语 / 2025",
   description: `作家คาลิ @calilnwza在书展签售活动上公布畅销小说《เขมจิราต้องรอด》的版权已签约制作公司，将会改编成剧集。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/靈魂重生_530517.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/靈魂重生_530517.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=83" 
 
 };

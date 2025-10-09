@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `展鹏（杨旭文 饰）的父亲是一名铁路警察，多年前因公殉职被追评为烈士。展鹏一直希望能够回到父亲曾经工作过的地方任职。然而，当他真正来到下桐并开始工作时，却发现这里的情况比他想像的要复杂得多。初见涂洪江（王砚辉 饰），他并不相信这个老警察。涂洪江在处理一起贩毒案件时表现得非常可疑，这让展鹏对他产生了戒备。然而，随著时间的推移，涂洪江用自己的行动证明了自己的清白。后在携手办案的过程中，展鹏逐渐对涂洪江产生敬意，两人最终联手将幕后主使缉拿归案。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/黑白局_543985.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/黑白局_543985.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=31" 
 
 };

@@ -85,6 +85,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `本剧改编自豆瓣阅读连载小说《六姊妹》，作者伊北。　　新中国成立后，何常胜为支援社会主义建设，携家带口从扬州江都移居安徽淮南，在淮河边上扎下了根。在接下来的二十年中，何常胜连得六个女儿，却在一场车祸中告别人世。大姐何家丽和奶奶何文氏、妈妈刘美心一起承担起了家庭重担，安顿妹妹们成家立业。时代在变化，何家六姊妹也经历了婚恋、工 作、生活等命运起伏，但她们团结一心，共同面对人生的风雨，在生活的磨砺中，六姊妹们也终于明白父亲生前反复强调的「家」的意义。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/六姊妹_382568.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/六姊妹_382568.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=120" 
 
 };

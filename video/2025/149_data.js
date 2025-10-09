@@ -50,6 +50,7 @@ seriesInfo = {
   meta: "香港 / 粤语 / 2025",
   description: `深水埗，香港最龙蛇混杂的地方，却孕育出一股侠义情怀，成就一个现代传奇。他经历过死亡，心心念念，要传承父亲济世为怀的人道精神，接受过西方教育，却热衷中国传统的太极和射艺。他深信父亲传下来的活络油，可以通经络、治未病，身为中医师，更矢志改变一般都市人对痛症只会滥用止痛药的陋习，用现代化的方法包装营销家族药油，不为金钱，只为宣扬一种理念，中药油不比西方的止痛药差，而且更安全，副作用更少。
 　　为了进一步推广中医，他没有停下来，活用中国第一部医书《黄帝内经》医学理论，无偿救治一个又一个被西医放弃的病人，治疗各种奇难杂症，甚至冒险用上独特的针灸方法，就算被推上风口浪尖也无畏无惧，只求为这些贫苦绝望的病人提供西医外的另一个选择，带来希望?`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/俠醫國語_534562.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/俠醫國語_534562.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=149" 
 
 };

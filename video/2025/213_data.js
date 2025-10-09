@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧讲述了主人公丽美静（广濑爱丽丝 饰）是一个对学生毫无感情、为了摆脱无业生活而不情愿当高中教师的28岁语文教师。本应避免纠纷，避免深入生活，但不知何时被卷入问题儿童聚集的学生们的事情中，陷入明明不想「说教」却不得不「说教」的状况，压抑著「为什么是我来说教」的内心呐喊，四处奔走。合规问题、权力骚扰、怪兽家长、真心话和场面话「为什么是我！？」这样的呼声交织在一起的老师们的真实故事，以「现在，应该被讲述」的新切入点呈现真实学校故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/為什麼是我來神說教_500268.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/為什麼是我來神說教_500268.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=213" 
 
 };

@@ -26,6 +26,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 其它 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/絕望的謊言_431487.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/絕望的謊言_431487.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=889" 
 
 };

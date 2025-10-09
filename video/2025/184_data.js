@@ -59,6 +59,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `寒门子弟陈元起（张洪鸣 饰）供爱人求学，遭背叛负心坠崖，觉醒神功誓要逆天改命。携清冷圣女、妖族御姐、灵族萝莉踏复仇路，斩世家、诛魔教、战天道，以凡躯撼仙门法则。苍生危殆之际，他燃尽己身破宿命枷锁，为众生搏逆天机缘。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆仙而上_543975.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆仙而上_543975.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=184" 
 
 };

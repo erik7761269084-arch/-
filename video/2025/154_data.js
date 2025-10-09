@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `改编自同名韩国网漫，命中注定早亡的少年遇到想要阻止的MZ巫师少女，18岁青春们毫无顾忌的初恋救赎罗曼史。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/牽牛和仙女_521592.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/牽牛和仙女_521592.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=154" 
 
 };

@@ -24,6 +24,7 @@ seriesInfo = {
   actors: "",
   meta: "泰国 / 泰语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/名門紳士2：淑女之心之明月皎皎_496765.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/名門紳士2：淑女之心之明月皎皎_496765.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3569" 
 
 };

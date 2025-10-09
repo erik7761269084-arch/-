@@ -59,6 +59,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `顶级财团掌门高峰（金贤正饰）隐退当外卖员，被女总裁苏清颜（关芯饰）雇作假老公，却不知他正是自己要求其假扮的君盛老板。两人契约结婚，高峰暗中用真实能力帮妻解围，欢喜冤家情愫暗生，苏清颜也逐渐发现了高峰的真实身份……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我本是高峰_526206.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我本是高峰_526206.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=153" 
 
 };

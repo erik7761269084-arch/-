@@ -40,6 +40,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `讲述三位职业与性格迥异的年轻人因一件离奇的连环案件相识，共同揭开朱雀堂背后惊天阴谋的故事……                                           剧集改编自鬼马星同名民国推理悬疑小说。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/朱雀堂_523472.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/朱雀堂_523472.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=191" 
 
 };

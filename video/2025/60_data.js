@@ -22,6 +22,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `张楚岚（彭昱畅 饰）被迫闯入异人世界经历磨难，成长为心怀正义有担当的异人英雄，他与冯宝宝（王影璐 饰）有著命运的羁绊，一个突发事件让两人陷入焦灼，「哪都通」特遣员工陈朵（文淇 饰）杀害上级潜逃，七大特遣员工能力出众、身份隐秘又行踪诡谲，他们受到了质疑，剩余六人需要合作完成追捕陈朵的任务，而冯宝宝就是其中之一，同时，与陈朵行踪相关的碧游村逐渐浮出水面，村长马仙洪（尹昉 饰）与张楚岚持续调查的「八奇技」紧密相关……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/異人之下之決戰！碧游村_478407.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/異人之下之決戰！碧游村_478407.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=60" 
 
 };

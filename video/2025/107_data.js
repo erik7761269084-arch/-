@@ -69,6 +69,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `正魔争斗千年。正道领袖风月剑尊、魔教星主凤行天生死决战。两人的后辈沈少游、凤离雪却因机缘巧合结成好友。为保护师父，沈少游失手将离雪推下悬崖。离雪被魔教第一高手重华救起带走。两人的命运从此改写。离雪将成为魔教教主。而沈少游却将成为正道的盟主，注定了要相遇相杀。十年后，两人重逢。离雪利用少游的愧疚潜伏在他身边，几次刺杀。却最终被少游的宽容、善良打动，情愫暗生。就在离雪决定放下父仇，改恶向善时，重华强加干涉，设计让两人彼此误会、仇恨。最终，离雪成为教主，与盟主沈少游决战。历经磨难后，两人感受到彼此的真心，最终再度携手。无论出身正邪，无论成长于仙境魔域，只有一件事始终不变：心中的正义与爱。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/千秋令2025_499213.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/千秋令2025_499213.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=107" 
 
 };

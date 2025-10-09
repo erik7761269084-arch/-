@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `异形：地球第1季`,
-  cover_url: ""
+  cover_url: "",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=29" 
 
 };

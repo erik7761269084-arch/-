@@ -97,6 +97,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/下山後，絕世美女非要拜我為師_134155.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/下山後，絕世美女非要拜我為師_134155.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2448" 
 
 };

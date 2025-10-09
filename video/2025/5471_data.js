@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我在東北做白事的那些年_76309.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我在東北做白事的那些年_76309.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5471" 
 
 };

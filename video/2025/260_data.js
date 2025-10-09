@@ -20,6 +20,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语,英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/未成年~未成熟的我們正笨拙前行中_464483.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/未成年~未成熟的我們正笨拙前行中_464483.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=260" 
 
 };

@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `一个女人身患乳腺癌晚期，她离开了结婚15年的丈夫，开始探索一系列性行为，让自己感觉活著。在这趟旅途中，她得到了最好的朋友的帮助，对方一直陪伴她到最后。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死了都要性第1季_508255.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/死了都要性第1季_508255.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=93" 
 
 };

@@ -44,6 +44,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `哑女庶妹沈玉清被嫡姐沈元锦以疯娘性命为要挟，被迫替婚前失贞的嫡姐与摄政王姐夫洞房，但天意弄人，沈玉清怀上姐夫的孩子，使得她与疯娘处境更加艰险。好在，哑女不哑，疯娘不疯。母女俩为摆脱被沈元锦「去母留子」的下场忍辱负重，终于逃出魔掌，怎奈嫡姐不依不饶，即便追至天涯海角，也不肯放过，小娘为护女儿不幸丧命，临终前，吐露惊人秘密-五年前逃亡之夜，沈玉清诞下的婴孩并非死胎，实则是被沈元锦抢走......`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/婢女_544778.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/婢女_544778.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=26" 
 
 };

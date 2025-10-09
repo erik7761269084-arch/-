@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 汉语普通话 / 2025",
   description: `こめおかしぐ的人气作品决定改编，是以猜拳为契机开始的青春爱情故事。从小一起长大的俊晞、韩拓、晓阳从10岁起就一直在一起。随著成长萌发爱意，韩拓发现自己对俊晞的感情超越了友情，但这份感情却一直藏在心底。然而，俊晞知道俊晞打算向青梅竹马晓阳告白，终于开始行动表达自己的心意。不久，两人成为恋人，但不得不对周围的人伪装成好朋友，在甜蜜的恋爱背后，面对著难以逾越的高墙。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/秘密關係台版_526913.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/秘密關係台版_526913.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=158" 
 
 };

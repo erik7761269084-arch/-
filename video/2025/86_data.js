@@ -37,6 +37,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `这一年，雪城的冬天奇寒彻骨。在一座普通的居民楼里，发生了一起惨绝人寰的分尸案，就连身经百战的刑警队长彭兆林见了都不禁毛骨悚然。他无法原谅自己的是，曾与嫌犯邓立钢在楼道里擦肩而过，谁知这一错过就是十年。邓立钢等人流窜各地疯狂作案，专门绑架勒索残杀「夜店女郎」。重案组辗转数省追凶却功亏一篑。这个犯罪团伙突然销声匿迹，他们通过非法手段洗白身份，过起安居乐业的日子。在他们作案中有一位受害人叫甄珍，她在被绑架途中找准时机逃脱成功，但是这次经历让她久久不能忘记，为此她擦去痛苦的记忆努力考上警校，成为女警官。然而，甄珍和彭兆林却时常从噩梦中惊醒，年轻女孩犹如待宰的羔羊，凄惨的哭声萦绕在耳旁挥之不去。在很多年以后甄珍警官同彭兆林根据一条不起眼的信息撬开了尘封悬案，他们踏上了千里缉凶的征程...…`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/漂白2025_478304.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/漂白2025_478304.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=86" 
 
 };

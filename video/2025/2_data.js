@@ -21,6 +21,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧讲述患有相貌失认却拥有惊人记忆力的休职警官狗饲锥（平祐奈 饰），与因暴力问题被调离搜查一课、但检举率第一的刑警猿渡响（丸山隆平 饰）组成搭档，共同挑战长期未解的离奇案件。两人在破解谜团过程中建立信赖，直面彼此的创伤，是一部融合推理与人性描写的悬疑剧。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/霧中之犬_526887.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/霧中之犬_526887.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2" 
 
 };

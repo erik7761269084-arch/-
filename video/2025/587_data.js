@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 挪威语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/億萬富鮭島_452718.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/億萬富鮭島_452718.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=587" 
 
 };

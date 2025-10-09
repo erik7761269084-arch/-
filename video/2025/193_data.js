@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 英语 / 2025",
   description: `一名已婚女子在周末离家外出，进行了一次危险的旅行，这激发了她的欲望，但却以悲剧收场，这让她怀疑身边的人是否在说实话。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛欲焚身第2季_531555.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/愛欲焚身第2季_531555.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=193" 
 
 };

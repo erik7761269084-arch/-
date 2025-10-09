@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `中医世家传人吴名下山为未婚妻续命，却意外碰到杨氏集团董事长病危悬赏一个亿寻医，吴名意外开启了一段充满挑战和机遇的惊险旅程，并引得多名美女青睐，面对种种诱惑，吴名又将如何选择？`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/名不虛傳2025_508421.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/名不虛傳2025_508421.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=98" 
 
 };

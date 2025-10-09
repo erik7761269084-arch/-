@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `王爵继承人萧显（曹峻祥 饰）派人寻找在民间邂逅的恋人林红儿，和林红儿长相酷似的徐紫宜（华雯 饰）冒名顶替，徐家为了保住秘密杀害林红儿一家，并导致林红儿容貌尽毁，经过神秘侠医申屠羽（代高政 饰）的救助，林红儿改变容貌化名洪琳琅（郁葱 饰），开启复仇之路。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/進階的王妃_533715.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/進階的王妃_533715.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=212" 
 
 };

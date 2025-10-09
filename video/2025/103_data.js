@@ -21,6 +21,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 其它 / 2025",
   description: `这部剧集讲述了一个关于情欲和事业心的火辣而曲折的故事，由马诺洛·卡多纳和胡安娜·阿科斯塔领衔主演。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/Medusa第1季_489337.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/Medusa第1季_489337.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=103" 
 
 };

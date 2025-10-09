@@ -44,6 +44,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `绝世武功秘籍《九阴真经》重现，引江湖厮杀，少女葭兰意外成为寻经「活地图」，遭各路人马穷追不舍，更结识黄药师、欧阳锋、段智兴与洪七等当世高手。众人约定华山论剑，天下第一者得《九阴真经》，最终全真教王重阳力压群雄。此时幕后黑手现身，一场捍卫武林正义的决战就此引发。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華山論劍之五絕爭鋒_530384.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/華山論劍之五絕爭鋒_530384.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=189" 
 
 };

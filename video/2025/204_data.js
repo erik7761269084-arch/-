@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `仇强、蒙美和仇乐城一家三口本来生活环境良好，属典型的香港中产家庭，仇强因一次误中电骗被骗去全副身家需破产抵债，令一向精明的太太蒙美崩溃。岂料同样精灵醒目的儿子乐城，亦因网上投资平台倒闭，所有炒卖得来的金钱一铺清袋不特止，更欠下几十万卡数和财务借贷，未大学毕业就沦为破产人士。三口子从天堂跌入地狱。仇强被迫重投社会，后来得到启发考的士牌做自己的老板，从中更结识一些以往未会接触到的社会阶层，令天生离地的他扩阔圈子。一心想帮乐城脱离「破产地狱」的蒙美，由生活无忧的靓太变身成招谣撞骗的经理人，误打误撞的走入充满虚假的花花世界。至于乐天幸运的富二代乐城为了可以继续安逸生活，靠他的奇思妙想千方百计脱贫。……一家人走入破产人生，从一无所有中拾回所有。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/翻盤下半場粵語_534914.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/翻盤下半場粵語_534914.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=204" 
 
 };

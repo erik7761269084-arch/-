@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/雪國列車（劇版）第4季_439268.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/雪國列車（劇版）第4季_439268.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=809" 
 
 };

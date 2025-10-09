@@ -80,6 +80,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `故事讲述了神火山庄大小姐东方淮竹(刘诗诗 饰)去南垂平妖，偶遇行侠仗义的面具团老大王权弘业(张云龙 饰)，两人深入南垂腹地，大战南垂妖皇。                       净化世界的神火与破开天地的一剑将携手撕开笼罩圈外的黑暗迷雾！`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/淮水竹亭_504197.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/淮水竹亭_504197.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=148" 
 
 };

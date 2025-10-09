@@ -34,6 +34,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `故事开始于南方多雨的庆宜市，「睿军黑马」徐栀（刘浩存 饰）结识了「裸分状元」陈路周（王安宇 饰），因为一场误会，拽姐「栀总」和「陈大诗人」的故事就此拉开序幕。在两人嬉笑互怼的过程中，暧昧的氛围愈发浓烈，上演了一场「极限拉扯」，只可惜，现实为这段缘分按下了暂停键，陈路周被家里安排出国读书，徐栀则如愿去了北京念建筑系，双向奔赴的两人却只能天各一方。然而，一场意外转动命运的齿轮，陈路周放弃留学主动回到国内，补录了徐栀所在的大学。久别重逢后，陈路周直面内心，勇敢而热烈地追回了「前女友」徐栀，此后，两人互相治愈、彼此守护，陷入了一场永不落幕的热恋。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/陷入我們的熱戀2025_513194.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/陷入我們的熱戀2025_513194.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=45" 
 
 };

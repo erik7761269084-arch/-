@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧改编自同名漫画，讲述了33岁的公司职员成海绫（足立梨花 饰）想接触男人，想被男人拥抱，可是如果女性表露性欲，世人就会用那样的眼光看待她。为自己的性冲动和理性之间的落差而烦恼。无法向任何人倾诉，痛苦挣扎的某一天，被上司堂岛邀请两人一起去喝酒。被传是「离过一次婚的轻浮男」的堂岛，现在暂时没有恋爱，开始说享受著互相满足性欲的一夜情。「如果是一夜情的话」如此下定决心的绫，为了不后悔而制定了「我的规则」，并开始实践「一夜」的恋爱。在封闭的世界中挣扎，成年女子的「性生存」开幕！`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我的一夜情規則_476402.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我的一夜情規則_476402.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=64" 
 
 };

@@ -9,6 +9,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 法语,英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/間諜少女組第7季_473106.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/間諜少女組第7季_473106.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=6080" 
 
 };

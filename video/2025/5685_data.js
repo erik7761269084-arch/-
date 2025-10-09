@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/沉默的艦隊.東京灣大海戰沈黙第1季_486136.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/沉默的艦隊.東京灣大海戰沈黙第1季_486136.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5685" 
 
 };

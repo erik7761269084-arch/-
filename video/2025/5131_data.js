@@ -11,6 +11,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/司令寵妾滅妻，我轉身出府嫁少帥_138000.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/司令寵妾滅妻，我轉身出府嫁少帥_138000.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5131" 
 
 };

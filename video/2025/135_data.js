@@ -78,6 +78,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `繁华的广平城，人妖共存，妖擅长隐匿形迹，伪装成人，却不被人所知。富家千金半夏（宋祖儿 饰）有一双奇怪的眼睛，经常能看到那些子虚乌有的影子。因为这个，无论她多么循规蹈矩、乖巧懂事，仍会被人在背地叫做"疯子"。半夏戳破了堂嫂是妖的秘密，引来追杀，就此和捉妖师宣夜（任嘉伦 饰）相识。宣夜对半夏眼睛的轻轻一吻，让她彻底看清了这个人妖共存的世界。他们一起调查了广平城中的碧玉梨回春、九命猫换命、《广平春晓图》一日轮回等多起诡异之事后，关系日渐亲密。但宣夜背负的秘密，却将半夏一次次推开，因为他逐渐发现，自己虽身为捉妖师，却很有可能也是妖……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無憂渡_311210.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無憂渡_311210.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=135" 
 
 };

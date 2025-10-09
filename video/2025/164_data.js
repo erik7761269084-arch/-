@@ -57,6 +57,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `故事发生于我国80年代乡村城镇，讲述以祁盛风和陆燃为代表的手工业个体户乘著改革东风成功创业的故事，通过两个小人物从解决温饱到成为万元户，再到成为当地企业家代表的历程，以小见大地展现出改革开放的变迁史。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/春風燃情_493278.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/春風燃情_493278.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=164" 
 
 };

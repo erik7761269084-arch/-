@@ -39,6 +39,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `该剧讲述了几位性格迥异的青年，因一场从敌意开始的关系，在误解与竞争中相识，在相伴与成长中重塑彼此、靠近彼此的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆愛_518254.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/逆愛_518254.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=47" 
 
 };

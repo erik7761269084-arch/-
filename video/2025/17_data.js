@@ -42,6 +42,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `1995年，缉毒警林强峰（段奕宏 饰）结束卧底生涯，为追查毒品线索调任西港市禁毒支队。彼时，走私商卢少骅（秦昊 饰）一夜间倾家荡产，却也因此发现冰毒的巨大利润，心生邪念成为一名制毒师。数年间，林强峰带队投身这场扫毒风暴，而卢少骅则辗转国内外潜藏行踪，成为最大毒枭……最终，以林强峰为代表的缉毒警不辱使命，力破卢少骅诡诈的毒网阴谋。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/掃毒風暴劇版_524893.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/掃毒風暴劇版_524893.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=17" 
 
 };

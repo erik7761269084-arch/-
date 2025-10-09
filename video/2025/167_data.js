@@ -30,6 +30,7 @@ seriesInfo = {
 　　High school? Cheerleader
 　　University? Prom queen
 　　Until in their most recent competition, the competition for the industry's best actress, an accident happens on the film set... And ...`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女神之境：換魂遊戲_531280.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女神之境：換魂遊戲_531280.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=167" 
 
 };

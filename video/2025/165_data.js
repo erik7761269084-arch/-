@@ -77,6 +77,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `号称市局「三叉戟」的崔铁军、徐国柱和潘江海在侦破一起传销案时，发现关键嫌疑人和二十年前一桩凶案有牵连。为了能够彻查案件，三位老警察在郭局的支持下，成立了三叉戟工作室。在徒弟小吕和年轻女干警徐蔓的配合下，老三位协助各警种破获了多起大案、要案，那桩二十年前的疑案也最终真相大白。然而随著调查的深入，三叉戟发现这一切都和一个叫做「青山会」的犯罪集团有关。而这个犯罪集团试图通过「云贸币」这种虚拟货币，垄断市场攫取利益。最终，三叉戟迎难而上，突破重重阻力，终于将这个盘踞平安省多年的犯罪组织「青山会」连根拔除，主犯周茂被捉拿归案。三叉戟再一次保护了平安百姓的生命财产安全。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/三叉戟2_479692.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/三叉戟2_479692.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=165" 
 
 };

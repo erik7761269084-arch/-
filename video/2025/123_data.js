@@ -18,6 +18,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧聚焦于日本警视厅旗下的高端搜查支援单位【SSBC（搜查支援分析中心）】，特别是其内部新设的「强行犯系」部门——专门协助侦破杀人、抢劫、纵火等重大凶恶案件的精英小组。剧集首次将镜头聚焦于这支现代搜查中的关键团队，通过他们对监控影像、通讯设备的解析及嫌疑人画像构建，描绘出一场场高智商的犯罪追踪与人性交织的故事，是一部兼具推理悬疑与人物群像的现代刑侦剧。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/大追蹤〜警視廳SSBC強行犯系〜_524418.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/大追蹤〜警視廳SSBC強行犯系〜_524418.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=123" 
 
 };

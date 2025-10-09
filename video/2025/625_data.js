@@ -27,6 +27,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 汉语普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/K-DOL愛心增加學院_450856.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/K-DOL愛心增加學院_450856.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=625" 
 
 };

@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `手艺精湛的主厨智英穿越时空来到朝鲜时代，遇见了一位专横的王子，他就是史上最恶暴君，也是最强美食家燕山君。智英的现代料理掳获了他的味蕾，不过各种宫廷挑战正在等著她。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暴君的廚師_532656.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暴君的廚師_532656.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=13" 
 
 };

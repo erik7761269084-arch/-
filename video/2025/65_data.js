@@ -40,6 +40,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `成康十一年，戍守边关八年的定北王江绪，为调查定北军军饷被贪墨一案回到大显朝。岂料贪墨案背后牵连甚广，为了尽快查明幕后真凶，肃清朝堂，江绪自愿迎娶同为将门之后的明檀，让明家免遭利用。随著阴谋被逐渐揭开，江绪发现凶手的贪墨之举关乎整个大显朝的经济命脉，他必须釜底抽薪将朝中所有与之相关者连根拔起。谁知明家因江绪彻查之举遭了诬陷，家破人亡。江绪为明家力证清白，经历坎坷变故的二人萌生出真情实意，二人携手同行，决心要彻底瓦解敌方势力。他们查明了真相，终将凶手绳之于法，保卫百姓安全，同时也收获了爱情。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/韶華若錦_382586.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/韶華若錦_382586.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=65" 
 
 };

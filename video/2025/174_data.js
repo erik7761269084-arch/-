@@ -40,6 +40,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `上一世，顾雪茭曾因恋爱脑而高考失利，职场打拚多年，归来仍是底层外包人员，还首当其冲地成为了「黑心老板」蔺之华的裁员目标。顾雪茭找蔺之华理论，意外重生回到高三那年。有机会重新开局，顾雪茭吸取前世教训，痛定思痛，将学习作为人生第一要务，由恋爱脑扭转为事业脑，在爆改人生的同时，还共同成就一段双向奔赴、互为变量的甜美爱情。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我在頂峰等你_382588.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我在頂峰等你_382588.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=174" 
 
 };

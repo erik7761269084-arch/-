@@ -15,6 +15,7 @@ seriesInfo = {
   actors: "",
   meta: "日本 / 日语 / 2025",
   description: `本剧改编自同名漫画，讲述了伽菜子（能年玲奈 饰）因无法忍受上司的霸凌而从黑心企业离职，之后被优厚的待遇所吸引，进入了杀手公司。她在杀人这件事上犹豫的同时，其隐藏的才能开始涌现，从而成长为厉害杀手的喜剧故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/幸福伽菜子的快樂殺手生活_490215.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/幸福伽菜子的快樂殺手生活_490215.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=162" 
 
 };

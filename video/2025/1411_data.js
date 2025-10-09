@@ -29,6 +29,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/平安谷之詭谷傳說(粵語)_320479.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/平安谷之詭谷傳說(粵語)_320479.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1411" 
 
 };

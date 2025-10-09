@@ -74,6 +74,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话,粤语 / 2025",
   description: `影片改编自马伯庸同名小说，唐天宝年间，人到中年的李善德（大鹏 饰）骂骂咧咧干了很多活，抠抠搜搜花了不少钱，到头来却还是个无名小吏。然而这一切随著一次召见似乎有了转机，某天有人安排给他一个「荔枝使」的肥差，只要办成，那就是荣华富贵人生逆袭，但要是办不成……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/長安的荔枝_516213.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/長安的荔枝_516213.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=20" 
 
 };

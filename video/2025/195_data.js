@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `失意青年王衡意外穿越西汉，邂逅酷似前女友的女侠得九，并与性格开朗的刘贺结为挚友。几人决心联手挑战历史，试图改写刘贺仅27天的短命皇帝命运，开启一场逆天改命的跨时空冒险之旅……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/海昏行_533934.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/海昏行_533934.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=195" 
 
 };

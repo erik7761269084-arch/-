@@ -24,6 +24,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `该剧讲述主人公因一封信触发命运交叠，逐步揭晓往事悬念的情感故事。一个邮筒、一封信，促成跨时空的命运联动，也唤起时空两端的情感交响。随著跨越时空的十二封通信，一群人爱情、友情与亲情交织的过往被揭开，命运悬念走向明朗的同时，也完成了对于主人公们的情感救赎。该剧以奇幻设定做壳，以命运悬念为饵，以细腻情感成核，层次饱满，以信件作为传递情感与爱的载体，讲述跨越时空的动人故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/十二封信_382587.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/十二封信_382587.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=194" 
 
 };

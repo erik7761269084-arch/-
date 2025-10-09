@@ -58,6 +58,7 @@ seriesInfo = {
   description: `郭柏飞、姜曦文和刘力十多年前初出学堂之时，与警长罗友邦四师徒感情深厚。三年前一次行动中，邦被匪徒枪杀、力重伤昏迷，文归咎于飞，好友自此分道扬镳。
 　　城中发生妙龄女郎肢解谋杀案，受害者与贩卖人口集团有关，隶属情报科的文负责调查集团罪证，而重案组的飞负责追查凶手，派遣见习督察温嘉莉混入犯罪集团。飞和文不约而同、接二连三地收到神秘手机讯息，提示命案线索，上级遂将两组人合并，成立神秘讯息情报科（ASIB）。ASIB由飞和文带领，共同拆解这些似是来自未来的神秘讯息，侦破离奇命案。
 　　讯息神秘莫测，无法以科学解释。究竟讯息是由谁人发出？由未来人吗？还是未知的自然力量？对方到底是敌是友？`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奪命提示粵語_492396.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奪命提示粵語_492396.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=160" 
 
 };

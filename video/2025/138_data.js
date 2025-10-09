@@ -32,6 +32,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `2024年新的开学季，鬼马家庭的父母和孩子又开始新一轮快乐成长。没有老人帮忙，刘向上和戴静只好忙完工作忙管娃，果宁为竞选班长绞尽脑汁使出浑身解数，果宝又太佛系让父母恨铁不成钢，刘向上为支持戴静工作既要应付家长群又要应付各类托管群、业主群、兴趣班群，导致一度严令家里不许提「群」这个字。景婷婷生三胎，杨明彪担子更重了，一边管理初一学习，另一边照顾三宝，又因十五初中毕业想去国外上学父子俩产生矛盾。唐晓薇在马英杰的保证下决定创业，马英杰又得寸进尺想复婚还想要二胎，晓薇对马英杰的躺平状态望而却步。三组家庭每天都在发`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/歡樂家長群第2季_547191.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/歡樂家長群第2季_547191.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=138" 
 
 };

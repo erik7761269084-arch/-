@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/菲爾來蹭飯第7季_171138.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/菲爾來蹭飯第7季_171138.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1798" 
 
 };

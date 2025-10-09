@@ -41,6 +41,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `该剧讲述了一名奇女子由牡丹培育而起，终达济民救世、帮扶天下的传奇励志故事。商户之女何惟芳（杨紫 饰）与雅冠长安的蒋长扬（李现 饰）相识后，两人组成了匠人与投资人的组合。凭借培育稀世牡丹的高超技能和过人的经商头脑，何惟芳带领一众命运坎坷的女性共同经营花坊，过关斩将，在女子本弱的偏执沉疴中博得一席天地。随著何惟芳与蒋长扬的渐渐相熟，她发现这位一身骂名的「天下第一贪官」实则是外浪内纯、心怀天下的国之利刃。在亲历底层之苦、另悟牡丹之用后，何惟芳决心转型利民实业。最后她经历九死一生，突破了自我，凭其陶朱之术与玲珑之心，帮蒋长扬成功平定了叛乱，有情人双双隐退天地间。剧集改编自意千重的同名小说。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/國色芳華_476315.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/國色芳華_476315.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=196" 
 
 };

@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/特麗獨行(英劇)_365956.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/特麗獨行(英劇)_365956.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2995" 
 
 };

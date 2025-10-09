@@ -44,6 +44,7 @@ seriesInfo = {
 　　陆星材饰演守护因八尺鬼而陷入混乱的宫中的检书官允甲，也是苞娜的初恋，他被想要借汝利的身体升天的恶臣无角之龙抢走身体。
 　　金知妍饰演巫女汝利，著名仙人唯一的孙女，和成不了龙的姜哲纠缠到一起后人生非常歹毒地出错。因为初恋被无角之龙附身，再加上各种鬼出现在宫中，经历了意料之外的事件。
 　　金智勋饰演和八尺鬼对抗的君主李成，和男女主携手挖掘八尺鬼的秘密。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鬼宮_501730.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/鬼宮_501730.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=129" 
 
 };

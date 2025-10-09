@@ -52,6 +52,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `《棋士》主要探讨了世纪初剧烈社会变革下⼈的状态和选择。以世纪初的南方城市为背景，讲述了一个普通的围棋老师崔业（王宝强 饰）因一场意外卷入罪案，逐步走向犯罪，被身为警察的哥哥崔伟（陈明昊 饰）穷追不舍，兄弟二人黑白殊途的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/棋士_494279.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/棋士_494279.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=112" 
 
 };

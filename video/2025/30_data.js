@@ -79,6 +79,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `和阿姨谈心后，我开启了攻略系统`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/和阿姨談心後，我開啟了攻略系統_524065.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/和阿姨談心後，我開啟了攻略系統_524065.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=30" 
 
 };

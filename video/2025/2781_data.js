@@ -11,6 +11,7 @@ seriesInfo = {
   actors: "",
   meta: "台湾 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/遊戲開始_106768.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/遊戲開始_106768.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2781" 
 
 };

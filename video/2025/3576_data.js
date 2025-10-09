@@ -39,6 +39,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/約翰·奧利弗上周今夜秀第11季_496164.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/約翰·奧利弗上周今夜秀第11季_496164.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3576" 
 
 };

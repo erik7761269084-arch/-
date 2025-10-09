@@ -21,6 +21,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `朱莉（基莉·霍斯 饰）与爱德华（弗莱迪·海默 饰）这对关系疏远的母子，在风景如画的希腊小岛上重聚。可爱德华不知道的是，朱莉其实是一名退隐的杀手，更麻烦的是，朱莉过去的同伙也没有收到她「金盆洗手」的通知。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/媽媽是殺手_527643.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/媽媽是殺手_527643.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=109" 
 
 };

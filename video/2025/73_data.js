@@ -56,6 +56,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `白小萤（漆昱辰饰）天生被视为邪魔，为报杀父之仇修仙，与夜神夜宸渊（王子异饰）魂魄绑定，渐生情愫。夜宸渊牺牲自我助她觉醒，揭露仙主操纵夜神阴谋。白小萤在众人帮助下诛杀仙主，终结夜神。夜宸渊化为剑灵消散，白小萤守候千年迎其重生。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/白夜宸緣起三生_382596.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/白夜宸緣起三生_382596.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=73" 
 
 };

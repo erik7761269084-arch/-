@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我公然夢想成為灰姑娘_381740.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我公然夢想成為灰姑娘_381740.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1376" 
 
 };

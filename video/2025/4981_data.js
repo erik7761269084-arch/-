@@ -14,6 +14,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/穿成了團寵文里的假千金_139123.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/穿成了團寵文里的假千金_139123.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4981" 
 
 };

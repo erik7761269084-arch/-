@@ -19,6 +19,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 其它 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女警出更第1季_444065.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/女警出更第1季_444065.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=736" 
 
 };

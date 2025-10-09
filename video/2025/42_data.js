@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `「当朝左相」沈在野因他人计谋被迫迎娶和亲公主姜桃花，沈在野表面上是一个奸佞丞相，实则一心为国为民为天下；姜桃花为保小命绝境求生，两人互斗过，合作过，在一次次的危机中暗生情愫……　　剧集根据白鹭成双小说《桃花折江山》改编。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/桃花映江山2025_521937.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/桃花映江山2025_521937.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=42" 
 
 };

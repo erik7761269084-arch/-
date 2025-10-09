@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `曾经朝气蓬勃的国营大厂旭 日厂内，一具断 足女 尸被意外发现丢弃在废弃的排污水池中，死者是厂职工子女沈小舟。刑警组长连海平奉命侦查此案，第一天报道的年轻刑警石强锋意外分到连海平手下，意外的案件，意外的组合，开启了一段三人之间的宿命缉凶之行。                                            同时，这起案件也勾起连海平记忆深处一段不为人知的过往，而新搭档石强峰来到他身边似乎也怀揣著自己的秘密。在调查过程中，连海平警觉地发现有一股势力在刻意引导著警方的调查方向。                                            身世神秘的搭档、意外死 亡的初恋、城府深沉的企业家、日暮穷途的旧厂区······这起案件连接了过去与未来的真相，迷雾似见光明，暗潮早已涌动。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暗潮緝兇_528634.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/暗潮緝兇_528634.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=39" 
 
 };

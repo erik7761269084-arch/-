@@ -43,6 +43,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `2017年的夏天，暴雨冲刺过的南方小城，惊现碎尸。女警韩青（孙俪 饰）在侦办碎尸案的同时，继续寻找著失踪的搭档钟伟（罗晋 饰）。随著案件的推进碎尸案的背后竟然隐藏著毒品大案，钟伟的失踪与之有著千丝万缕的联系……                                            钟伟和真相韩青会先找到哪一个，越来越多的人被杀害，令人难以置信的真相也在浮出水面……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/烏雲之上_496571.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/烏雲之上_496571.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=72" 
 
 };

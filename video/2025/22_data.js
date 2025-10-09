@@ -72,6 +72,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `剧集讲述了林山市公安局打拐办主任邓妍（迪丽热巴 饰）与警员常锐（金世佳 饰）、副主任尹建生（尤勇智 饰）组成"打拐铁三角"，在侦破多起触目惊心的拐卖大案过程中，直面人性深渊并最终摧毁人口拐卖网络的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/利劍·玫瑰_528066.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/利劍·玫瑰_528066.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=22" 
 
 };

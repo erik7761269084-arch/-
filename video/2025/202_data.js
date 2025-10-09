@@ -23,6 +23,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `在第一季发生的事件之后，经过五年的和平生活，Joel（佩德罗·帕斯卡 Pedro Pascal 饰）和Ellie（贝拉·拉姆齐 Bella Ramsey 饰）共同的过去再次找上门来，导致两人陷入相互冲突，把他们卷进了一个更加危险和不可预测的世界。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/最後生還者第2季_500393.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/最後生還者第2季_500393.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=202" 
 
 };

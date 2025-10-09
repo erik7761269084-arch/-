@@ -57,6 +57,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `王衡与刘贺的人物关系进一步升华。从长安到豫章，从朝堂到民间，两人在对抗外敌、内查阴谋的过程中不断成长。二人面对民间疾苦、地方痼疾和幕后阴谋时共同成长，展现出感人至深的友情与家国情怀……`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/海昏行第2季_545057.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/海昏行第2季_545057.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=163" 
 
 };

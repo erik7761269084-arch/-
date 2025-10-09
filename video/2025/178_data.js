@@ -41,6 +41,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `该剧改编自尾鱼的小说《七根凶简》。上古时期，未知神秘物质降生于凤子岭，可寄生人身，改变人心，引人行恶。如今心简再现人间，一宗宗离奇凶案接踵而来，木代、罗韧、一万三、炎红砂、曹严华五个平凡而热血的年轻人先后因著各自的际遇意外卷入心简事件，五人组成凤凰小队，共同踏上收服凶简的冒险征途。在这场生死患难的险途中，罗韧与木代互相治愈，交付真心。五人千里跋涉，克服重重险阻，友谊历经淬炼不断升华。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/七根心簡_516327.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/七根心簡_516327.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=178" 
 
 };

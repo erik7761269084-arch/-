@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "印度 / 印地语 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/情迷希拉曼地：璀璨名姝_76364.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/情迷希拉曼地：璀璨名姝_76364.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2821" 
 
 };

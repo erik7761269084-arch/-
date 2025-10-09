@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 西班牙语 / 2025",
   description: `在一个专为抵御任何可能出现的灾难而设计的豪华地堡里，一群亿万富翁因前所未有的全球冲突威胁而被迫闭门共存。基梅拉地下乐园对两个背负著过去创伤的家庭来说，变成了一个幽闭恐怖的场所。在这个与世隔绝、无路可逃的地下世界中，他们逐渐暴露出真实的个性，揭开了最不可告人的秘密。然而，最出人意料的联盟也随之诞生。这是一幅关于亿万富翁们如何在「黄金囚笼」中生存的过度又惊人的情感X光图。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/億萬地堡_548413.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/億萬地堡_548413.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=90" 
 
 };

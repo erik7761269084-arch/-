@@ -38,6 +38,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `为响应号召，张浩决定与李茗涵（郑舒环饰）共同投入新的二龙湖旅游开发事业中，谁知白富美总裁黄涌泉（刘萌萌饰）突然空降回村向张浩直球求婚，在村里引起了轩然大波。这朵大桃花不仅让浩哥焦头烂额，引发了一系列让人忍俊不禁的无厘头事件，还打乱了全村旅游事业的进展，让剧情越发扑朔迷离。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/二龍湖·村暖花開2_534110.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/二龍湖·村暖花開2_534110.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=37" 
 
 };

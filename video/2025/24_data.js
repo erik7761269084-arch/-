@@ -59,6 +59,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `贤婿`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/賢婿_524120.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/賢婿_524120.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=24" 
 
 };

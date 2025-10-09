@@ -51,6 +51,7 @@ seriesInfo = {
   actors: "",
   meta: "香港 / 粤语 / 2025",
   description: `阵容强大！廉政公署、警队、律政司署合力调查，抗击各个贪黑势力。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/執法者們粵語_506616.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/執法者們粵語_506616.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=156" 
 
 };

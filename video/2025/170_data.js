@@ -45,6 +45,7 @@ seriesInfo = {
   actors: "",
   meta: "其他 / 西班牙语 / 2025",
   description: `「Unspeakable Sins」 delves into betrayal and power, as a woman’s desperate attempt to escape an abusive marriage spirals into a labyrinth of secrets and scandals among Mexico’s elite.`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/罪不可言_528485.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/罪不可言_528485.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=170" 
 
 };

@@ -89,6 +89,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 普通话 / 2024",
   description: ``,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奔現後我被老闆纏上了_319168.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/奔現後我被老闆纏上了_319168.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4400" 
 
 };

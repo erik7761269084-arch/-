@@ -33,6 +33,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `该剧讲述了600年前，与李芳远携手争取王权联合创始人的元敬皇后的故事。车珠英饰演元敬皇后一角，是个充满欲望，嫉妒之人。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/元敬_476229.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/元敬_476229.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=108" 
 
 };

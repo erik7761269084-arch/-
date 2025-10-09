@@ -17,6 +17,7 @@ seriesInfo = {
   actors: "",
   meta: "欧美 / 英语 / 2025",
   description: `V世代第2季`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/V世代第2季_547739.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/V世代第2季_547739.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=141" 
 
 };

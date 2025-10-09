@@ -77,6 +77,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `少女罗疏家道中落落入贱籍，因洞悉人心、善解人意，得花名 「锦囊」 。为改变命运，她毛遂自荐助力新任县令韩慕之破解一起大案，自此暂留县衙化身捕快协助查案，过程中结识了想游历江湖的少年公子齐梦麟。　　罗疏善破奇情诡案，惨绝人寰的「无头女尸案」、猎奇吊诡的「汾河裸尸案」、人心叵测的「酒坊杀人案」……十大民间奇案接连上演，每看到案中的可怜女子，罗疏与齐梦麟都尽己所能帮她们讨回公道。随著桩桩悬案的破解，罗疏与齐梦麟的感情也逐渐升温，殊不知一场更大阴谋正在悄然逼近。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錦囊妙錄_477594.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/錦囊妙錄_477594.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=81" 
 
 };

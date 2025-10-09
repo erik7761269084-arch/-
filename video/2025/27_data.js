@@ -42,6 +42,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 汉语普通话 / 2025",
   description: `上个世纪上海法租界一所西式洋房里，最初住著一户姓林的人家。30年代初，林家败落，房子被有心人买下，改建成一所妇产医院，在这所医院里，发生了许多故事。50年代初，新中国成立，这座洋房又成为工厂车间，工作和来往著工人、技术人员等。90年代初，这所老洋房成为商住两用房，来来往往的人们又发生了新的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/足跡_543834.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/足跡_543834.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=27" 
 
 };

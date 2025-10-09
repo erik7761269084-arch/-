@@ -43,6 +43,7 @@ seriesInfo = {
   actors: "",
   meta: "大陆 / 国语 / 2025",
   description: `该剧改编自忘语的同名小说，讲述了普通的山村穷小子韩立（杨洋 饰），偶然之下，跨入到一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/凡人修仙傳真人版_527841.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/凡人修仙傳真人版_527841.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=41" 
 
 };

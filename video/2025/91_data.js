@@ -25,6 +25,7 @@ seriesInfo = {
   actors: "",
   meta: "韩国 / 韩语 / 2025",
   description: `Kakao网漫《ishopping》确定改编成电视剧。原网漫以领养为题材，讲述领养中介组织给想领养的人提供孩子，且领养后可以「退货」。中介组织成员泰植为此感受到良心的苛责，把被退货的孩子们悄悄带到秘密的地方，让他们自力更生。描写接受泰植的援助的几个孩子以自己的方式报复抛弃他们的父母的故事。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/退貨兒童_526680.avif"
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/退貨兒童_526680.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=91" 
 
 };
