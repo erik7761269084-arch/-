@@ -87,7 +87,7 @@
 // 动态加载剧集数据 JS 文件
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
-  script.src = "2025/" + seriesName + "AVactress_data.js"; // JS 文件路径
+  script.src = "2025/" + seriesName + "_AVactress_data.js"; // JS 文件路径
   script.onload = () => initPage();              // 加载完成后初始化页面
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
