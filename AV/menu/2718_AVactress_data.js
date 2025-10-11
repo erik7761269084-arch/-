@@ -1,0 +1,55 @@
+// 2718_AVactress_data.js
+window.actressData = {
+  "id": 2718,
+  "name": "青木春香",
+  "age": 44,
+  "birthday_date": "1981-07-18",
+  "img_url": "https://picture.yoshiclub.xyz/20241204/56963984-f983-4f21-892a-781149eabf06.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "155cm",
+  "measurements": "胸 84 腰 59 臀 86",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "長相甜美",
+    "嬌小身材",
+    "鄰家女"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/bd86f1be-6e04-4e5e-92ae-6f22689a9591.html",
+  "aliases": [
+    "Aya Shinoda",
+    "Haruka Aoki",
+    "Nozomi Kamata",
+    "Yuka Kurosawa",
+    "篠田絢",
+    "鎌田のぞみ",
+    "黒沢優花"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-黒沢優花.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/青木春香.jpg",
+    "https://picture.yoshiclub.xyz/20241204/91a40f0a-6c8a-406d-bcd9-c0422ac0edaa.jpg",
+    "https://picture.yoshiclub.xyz/20241204/5b3733cb-d3a6-4418-ab5f-8a9edbf1cd33.jpg",
+    "https://picture.yoshiclub.xyz/20241204/a8609ea6-0abc-4256-8368-42282b9055a4.jpg",
+    "https://picture.yoshiclub.xyz/20241204/3a915559-da2b-4c40-a5df-1a5b48e44ee7.jpg",
+    "https://picture.yoshiclub.xyz/20241204/90110b53-77d2-438f-8cdf-8f5f6fb5c91d.jpg",
+    "https://picture.yoshiclub.xyz/20241204/da7b6c20-9506-4f5c-809c-a780808f03bb.jpg",
+    "https://picture.yoshiclub.xyz/20241204/bf2edc7c-c860-4cb1-ab87-b8f48a4133d9.jpg",
+    "https://picture.yoshiclub.xyz/20241204/5a7d0c23-6b77-436c-9ca9-8d54edb017b7.jpg",
+    "https://picture.yoshiclub.xyz/20241204/33e0085b-0e10-4cba-8fac-1848eeceaff2.jpg",
+    "https://picture.yoshiclub.xyz/20241204/a46ae439-661e-4ed3-99db-a0bc93f6dd5b.jpg",
+    "https://picture.yoshiclub.xyz/20241204/4537824f-66d9-47f6-91b7-8330dd32ac81.jpg",
+    "https://picture.yoshiclub.xyz/20241204/19841270-e9d4-4903-b3ef-1411e3f24c6d.jpg",
+    "https://picture.yoshiclub.xyz/20241204/0adae5c2-a040-4fc1-84ec-4bf60f685e8e.jpg",
+    "https://picture.yoshiclub.xyz/20241204/62a96dc9-1524-4173-9409-87ace9b3cc7b.jpg",
+    "https://picture.yoshiclub.xyz/20241204/61f6ac7e-2f72-4c95-b7f7-8d9d42911dd9.jpg",
+    "https://picture.yoshiclub.xyz/20241204/d41773d8-2698-4373-b73e-0506d1c1d7f7.jpg",
+    "https://picture.yoshiclub.xyz/20241204/614cffb2-cba4-47d6-941d-fcc670ec6b3f.jpg",
+    "https://picture.yoshiclub.xyz/20241204/9bfb6cf8-fe8a-4167-ac15-d3e339321373.jpg"
+  ]
+};

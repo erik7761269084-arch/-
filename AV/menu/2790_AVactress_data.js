@@ -1,0 +1,57 @@
+// 2790_AVactress_data.js
+window.actressData = {
+  "id": 2790,
+  "name": "菊川亜美",
+  "age": 46,
+  "birthday_date": "1979-06-20",
+  "img_url": "https://picture.yoshiclub.xyz/20241223/b0d9a6f8-69ae-454f-8610-f3119922a760.jpg",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "161cm",
+  "measurements": "胸 80 腰 58 臀 86",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "天然",
+    "熟女",
+    "人妻",
+    "短髮",
+    "禦姐",
+    "辣妹系",
+    "冷豔"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/d72b5f41-89c5-486f-b4d4-b56e09b88c0a.html",
+  "aliases": [
+    "Kikue Muroi",
+    "Midori Aoyama",
+    "UetoAmi",
+    "上戸亜美",
+    "室井喜久恵",
+    "青山翠"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/菊川亜美.jpg",
+    "https://picture.yoshiclub.xyz/20241223/c0bb2b36-51b6-4543-8ed9-a94b62772c44.jpg",
+    "https://picture.yoshiclub.xyz/20241223/ccec9bc3-6602-4869-a170-d519d8d5b94c.jpg",
+    "https://picture.yoshiclub.xyz/20241223/2331001f-b5e4-4433-b327-602acc3a4b50.jpg",
+    "https://picture.yoshiclub.xyz/20241223/f4d2cbea-93de-4fb8-92a4-8c0e63237c13.jpg",
+    "https://picture.yoshiclub.xyz/20241223/e92a0bd0-c3a8-4608-8348-46c8107833bd.jpg",
+    "https://picture.yoshiclub.xyz/20241223/86875a4b-e7ae-4683-9909-d6f96e17e20b.jpg",
+    "https://picture.yoshiclub.xyz/20241223/f4bd9302-a9b0-4062-a934-fb491f9c93a6.jpg",
+    "https://picture.yoshiclub.xyz/20241223/a0dbd4cb-82c1-428b-9d68-33d1c04fe8d2.jpg",
+    "https://picture.yoshiclub.xyz/20241223/73fa577a-97c7-4c01-935c-fe60e683b434.jpg",
+    "https://picture.yoshiclub.xyz/20241223/37a7bee8-0134-4959-b967-ee03b7dfbd5d.jpg",
+    "https://picture.yoshiclub.xyz/20241223/40bf8f7c-7353-4293-9211-2edbad47fc19.jpg",
+    "https://picture.yoshiclub.xyz/20241223/615a14db-8384-4296-a0be-e6313afcb33d.jpg",
+    "https://picture.yoshiclub.xyz/20241223/b7308528-11d2-4c2b-afb4-22fd241cd930.jpg",
+    "https://picture.yoshiclub.xyz/20241223/33cead7c-dac9-4b76-86d0-196f8062e07f.jpg",
+    "https://picture.yoshiclub.xyz/20241223/bf8bd011-2ba1-4b10-a044-bb9630749a1c.jpg",
+    "https://picture.yoshiclub.xyz/20241223/74c158eb-523b-46c7-bef0-680f4969e178.jpg",
+    "https://picture.yoshiclub.xyz/20241223/77bc7097-3849-4f8b-82c1-ba02faded9e5.jpg",
+    "https://picture.yoshiclub.xyz/20241223/0a09e665-2a17-4b2e-abef-4217fe612899.jpg",
+    "https://picture.yoshiclub.xyz/20241223/f3ecdacf-9c8b-49ab-a686-d89fc7c7bd35.jpg"
+  ]
+};

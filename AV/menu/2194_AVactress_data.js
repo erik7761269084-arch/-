@@ -1,0 +1,56 @@
+// 2194_AVactress_data.js
+window.actressData = {
+  "id": 2194,
+  "name": "笠木忍",
+  "age": 45,
+  "birthday_date": "1980-08-20",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623084952744744_s.webp",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "165cm",
+  "measurements": "胸 86 腰 60 臀 83",
+  "cup": "E",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "天然",
+    "短髮",
+    "呆萌"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2717bb02-a87c-4983-bf39-bc883e5b1c6f.html",
+  "aliases": [
+    "miyuki kobayashi",
+    "miyuki toono",
+    "Musubi Sirayone",
+    "Shinobu Kasagi",
+    "Sinobu Kasagi",
+    "小林美幸",
+    "白米結",
+    "遠野小雪"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623084952245245_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623084952744744_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623084953574574_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085001603603_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085002721721_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085003166166_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/202506230850048686_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085004686686_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085005326326_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085006347347_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085008247247_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085008641641_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085009161161_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085009863863_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085010470470_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/202506230850114747_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085013244244_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/202506230850143333_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085018298298_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623085018776776_l.webp"
+  ]
+};

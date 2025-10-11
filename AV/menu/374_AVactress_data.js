@@ -1,0 +1,57 @@
+// 374_AVactress_data.js
+window.actressData = {
+  "id": 374,
+  "name": "恵沙也香",
+  "age": 29,
+  "birthday_date": "1996-07-07",
+  "img_url": "https://picture.yoshiclub.xyz/20240320/8b3f628e-e7ce-42d4-953d-5e935ccc8851.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "162cm",
+  "measurements": "胸 89 腰 58 臀 92",
+  "cup": "F",
+  "description": "F，26歲，姊姊好颯呀，特別是牛仔褲+運動bra，感覺很能展現卓越身姿啊，結果一看，驚了，空氣劉海下面是比蓋裡老哥的老婆WTW更後的髮際 線，真的是太可惜了，本來可以更好的。 本來是美容師，想要在年輕的時候留下點什麼，所以開始投稿。",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "長相溫柔",
+    "美臀",
+    "肉嘟嘟"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2b7469b7-8955-4fbc-82fc-875d9c62dd71.html",
+  "aliases": [
+    "Haruka Kawata",
+    "Nene Shinomiya",
+    "Sayaka Megumi",
+    "Yukari Uno",
+    "宇野ゆかり",
+    "川田春香",
+    "篠宮ねね"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240320/2afcc77f-7025-4450-87fa-6dbe948c9826.jpg",
+    "https://picture.yoshiclub.xyz/20240320/8920c79f-b932-4a17-93cd-9a952b044d6f.jpg",
+    "https://picture.yoshiclub.xyz/20240320/7d4a7a46-f136-49a3-a021-50fe54492f58.jpg",
+    "https://picture.yoshiclub.xyz/20240320/5b8c2f2f-bda5-4fd9-85af-57ba5be62892.jpg",
+    "https://picture.yoshiclub.xyz/20240320/b38f667e-e358-439e-9907-db78a7f173b6.jpg",
+    "https://picture.yoshiclub.xyz/20240320/bf13a72f-a715-469d-852c-e93e458b49df.jpg",
+    "https://picture.yoshiclub.xyz/20240320/80191df3-59af-448c-834f-090e860c8c31.jpg",
+    "https://picture.yoshiclub.xyz/20240320/e1f82631-927f-4c3d-9ca3-32ec9241bd5f.jpg",
+    "https://picture.yoshiclub.xyz/20240320/b50f7104-5ac9-437a-b745-28409388deeb.jpg",
+    "https://picture.yoshiclub.xyz/20240320/635e1938-5826-4480-9dda-c2ad004c0830.jpg",
+    "https://picture.yoshiclub.xyz/20240320/7f08ff89-61c8-4c28-a8d0-29de363c26c4.jpg",
+    "https://picture.yoshiclub.xyz/20240320/f439772e-7138-480a-b7eb-8476ec6b5203.jpg",
+    "https://picture.yoshiclub.xyz/20240320/53d9a7a0-02ab-4533-9909-41a086ee8f0d.jpg",
+    "https://picture.yoshiclub.xyz/20240320/5937d981-f9fb-4980-9176-fdec0a7407c3.jpg",
+    "https://picture.yoshiclub.xyz/20240320/d89cdbdf-f4ff-46db-95fb-c0114c57937a.jpg",
+    "https://picture.yoshiclub.xyz/20240320/6912cbae-dcd4-4333-9566-d22163abf7ab.jpg",
+    "https://picture.yoshiclub.xyz/20240320/a663ed1d-bfb7-4bda-a052-1888c009c8a0.jpg",
+    "https://picture.yoshiclub.xyz/20240320/3e94862d-0db5-4359-9db7-500e3be6d55f.jpg",
+    "https://picture.yoshiclub.xyz/20240320/40c40b2c-147a-4030-bfd7-f4169ad153b9.jpg"
+  ]
+};

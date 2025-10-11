@@ -1,0 +1,57 @@
+// 314_AVactress_data.js
+window.actressData = {
+  "id": 314,
+  "name": "今井栞菜",
+  "age": 40,
+  "birthday_date": "1985-07-17",
+  "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "153cm",
+  "measurements": "胸 80 腰 59 臀 82",
+  "cup": "B",
+  "description": "宇野栞菜（1985年1月1日－），日本的AV女优，所属于“New Actor Experience”事务所[1]。\n\n兴趣是看电影、料理[1]。\n\n出道前是已婚6年并育有子女的人妻，因为老公无法满足其性生活而决定拍AV[2]。\n\n2017年10月，在日本AV片商“溜池ゴロー”AV出道[3]，之后便以企划单体女优身份活动。\n\n2018年6月18日，在东京秋叶原举办作品“女教师in...（胁迫スイートルーム）”发行活动[4]。",
+  "features": [
+    "美人",
+    "女人味",
+    "性感",
+    "嫵媚",
+    "熟女",
+    "人妻",
+    "小乳房",
+    "矮小",
+    "特別騷"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/76c3b1ff-dcea-4f94-8f86-7d9c62f2a6d0.html",
+  "aliases": [
+    "Kanna Abe",
+    "Kanna Mochizuki",
+    "Kanna Uno",
+    "Yuuki Mita",
+    "もちづきかんな",
+    "三田ゆうき",
+    "宇野栞菜",
+    "阿部栞菜"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/7-Moodyz/阿部栞菜.jpg",
+    "https://picture.yoshiclub.xyz/20230405/96dc5388-b6bf-4eaf-a196-5ff8accfe6a3.jpg",
+    "https://picture.yoshiclub.xyz/20230405/74721cfe-39c7-4082-8ced-ce0ea886c8ea.jpg",
+    "https://picture.yoshiclub.xyz/20230405/4d1e27d4-aeca-498f-82bf-d788396b7203.jpg",
+    "https://picture.yoshiclub.xyz/20230405/bb5cd1cc-179a-4d03-ae20-14f3c4be85b6.jpg",
+    "https://picture.yoshiclub.xyz/20230405/3e89b687-464b-4e00-b468-bab4a74d63fe.jpg",
+    "https://picture.yoshiclub.xyz/20230405/368e9702-9bcd-403b-9203-586b2ce59a05.jpg",
+    "https://picture.yoshiclub.xyz/20230405/190b498f-c960-45cc-9bb4-1b6522a055e3.jpg",
+    "https://picture.yoshiclub.xyz/20230405/efa74d77-0e7f-40cf-ae11-7e5d4ead4b52.jpg",
+    "https://picture.yoshiclub.xyz/20230405/9fb35f0f-4717-4d85-9ef3-f2f31860b54e.jpg",
+    "https://picture.yoshiclub.xyz/20230405/457a7b91-f9a7-49a4-b264-332485c33b5b.jpg",
+    "https://picture.yoshiclub.xyz/20230405/fc0aaf10-4ae7-4247-ad6d-9d80bd440b13.jpg",
+    "https://picture.yoshiclub.xyz/20230405/14959b9c-79c1-4924-9495-8d6ed0fdb272.jpg",
+    "https://picture.yoshiclub.xyz/20230405/b64e7f79-9e34-4f9a-b0b4-bd88820fab7e.jpg",
+    "https://picture.yoshiclub.xyz/20230405/522776dd-cb50-407e-8cf6-930713f77bad.jpg",
+    "https://picture.yoshiclub.xyz/20230405/55d61cdc-f82e-4032-99b4-0750741b6d53.jpg",
+    "https://picture.yoshiclub.xyz/20230405/244fae64-92cb-4af6-b02b-e2a375073db6.jpg",
+    "https://picture.yoshiclub.xyz/20230405/aab9d9e4-a071-4f9a-bf0d-5e936b3a8002.jpg",
+    "https://picture.yoshiclub.xyz/20230405/399144ae-5a5f-4786-9c53-91b507e4013d.jpg"
+  ]
+};

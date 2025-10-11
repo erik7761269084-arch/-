@@ -1,0 +1,55 @@
+// 100_AVactress_data.js
+window.actressData = {
+  "id": 100,
+  "name": "堀北実来",
+  "age": 25,
+  "birthday_date": "2000-03-03",
+  "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+  "background_img": null,
+  "zodiac": "雙魚座",
+  "height": "160cm",
+  "measurements": "胸 101 腰 59 臀 90",
+  "cup": "J",
+  "description": "又有女優改名了！之前筆者就跟大家說了，一般而言女優不是那麼喜歡改名字，因為這一行好手實在太多，除非你是宇都宮三姊妹，怎麼改大家都知道她是王仁，不然三天兩頭改藝名最 好大家記得住，又不是每個人沒事做都在研究女優的基本資料…只是有時候，不改藝名真的不行啊。來看看這位「堀北実來(堀北實來)」，想當初這也是一位「頭部」等級的女優，她曾是寫真女星，所以一出道就拿到了片商OPPAI的專屬 合約，後來更是以OPPAI、Fitch以及E-BODY多社共同專屬女優的身分活躍一時，這樣講你猜到她是誰了嗎？答案她在twitter的自我介紹欄寫了，是「櫻茉莉日」。之所以改了藝名是因為她換了經紀公司，由出道時的AllPro改成了現在的Bambi Promotion：很顯然地，雙方對於藝名沿用沒有共識，於是櫻茉莉日就轉生成了堀北実來ー我想女優自己應該覺得很可惜，因為「櫻茉莉日」這個藝名是她從寫真時代就在用的(拍寫真的時候她叫櫻まひる，但讀音完全相同)，現在因為更換事務所的關係必須 放棄這個陪了自己很久的名字，肯定捨不得的：但沒辦法，可能對這位神乳級的女優來說比起藝名能趕快更換一間經紀公司更重要：我先講一下她的狀況，雖然曾經以專屬女優的身份在多家片商發片 ，但現在她就是キカタン(企劃女優)了，也就是說她必須要為未來打算，要有一家可以幫自己找到很多很多工作的經紀公司，不然以這一行新陳代謝之激烈就算曾經是寫真女星也 沒用ー這時候問題就來了，AllPro雖然也曾經培養出如佐々木あき(佐佐木明希)和筱田あゆみ(筱田步美)這種戰將，但現在這家經紀公司在業界的處境方面有些艱難，有蠻多事務 所不願意和他們所屬的女優同台演出，做企劃女優很難避開共演的，與其因為事務所被挑剔，不如去找一家沒有這些問題的經紀公司⋯所以我之前說了會有逃亡潮，對吧？",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "天然",
+    "嫵媚",
+    "極上巨乳",
+    "特別騷"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5e12b6e5-43ed-4827-9647-19ac124a28c2.html",
+  "aliases": [
+    "Mahiru Sakura",
+    "Mikuru Horikita",
+    "さくらまひる",
+    "堀北實來",
+    "櫻まひる",
+    "櫻茉日"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+    "https://picture.yoshiclub.xyz/20231108/e18de8fd-a3c0-42f1-8238-59c370f15247.jpg",
+    "https://picture.yoshiclub.xyz/20231108/c91cbc57-9581-4be5-b73e-064cf6a9f33c.jpg",
+    "https://picture.yoshiclub.xyz/20231108/25e786c2-ad61-4f9c-9ab5-4409143098f1.jpg",
+    "https://picture.yoshiclub.xyz/20231108/75aa4961-9c7b-4f56-ac44-a664001620cd.jpg",
+    "https://picture.yoshiclub.xyz/20231108/f3fe04de-74d7-4e0a-bfb4-b7d6fa7d6210.jpg",
+    "https://picture.yoshiclub.xyz/20231108/a16a0b09-bcce-48b2-a0c2-6b25c8705bf1.jpg",
+    "https://picture.yoshiclub.xyz/20231108/b146bdf5-ae0b-419c-a9a4-562724ec9592.jpg",
+    "https://picture.yoshiclub.xyz/20231108/07037ab3-3c32-4a6e-b964-96eb4c5186cb.jpg",
+    "https://picture.yoshiclub.xyz/20231108/6ce796aa-dca7-4cfa-8526-4b51f3af0733.jpg",
+    "https://picture.yoshiclub.xyz/20231108/b06145d7-6799-43f3-9308-b674487bd636.jpg",
+    "https://picture.yoshiclub.xyz/20231108/f7011b09-7033-477d-974c-4b641e0ea722.jpg",
+    "https://picture.yoshiclub.xyz/20231108/65cb35b5-b212-4740-9269-28ad9e88e756.jpg",
+    "https://picture.yoshiclub.xyz/20231108/04cf15ae-40f8-4f73-a689-3962beaf203d.jpg",
+    "https://picture.yoshiclub.xyz/20231108/197b3495-5352-4478-bbca-550decc7a3b2.jpg",
+    "https://picture.yoshiclub.xyz/20231108/e500ff79-73a9-42d3-9a4e-63cb3add6920.jpg",
+    "https://picture.yoshiclub.xyz/20231108/a212703e-d536-4b2b-b238-6a97e47afccf.jpg",
+    "https://picture.yoshiclub.xyz/20231108/55836a5f-ce95-4479-8c96-a14c51703062.jpg",
+    "https://picture.yoshiclub.xyz/20231108/a7afa9c8-6336-450c-b773-da54f1f5ce84.jpg"
+  ]
+};

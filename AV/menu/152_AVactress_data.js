@@ -1,0 +1,55 @@
+// 152_AVactress_data.js
+window.actressData = {
+  "id": 152,
+  "name": "加藤桃香",
+  "age": 29,
+  "birthday_date": "1996-03-12",
+  "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+  "background_img": null,
+  "zodiac": "雙魚座",
+  "height": "156cm",
+  "measurements": "胸 85 腰 56 臀 91",
+  "cup": "E",
+  "description": "加藤桃香（加藤ももか），1996年3月12日出生于东京都，日本AV女优 [1]  ，隶属于Bambi-Promotion事务所 [2]  ，主要作品有《田村淳的地上波绝对不能播》 [3]  。\n\n加藤美南(かとう みなみ)，1999年1月15日出生于新泻县新泻市东区 ，日本偶像、模特，女子偶像团体NGT48一期生及核心成员，研究生所属。 经纪公司是株式会社AKS。",
+  "features": [
+    "美人",
+    "膚白",
+    "大眼睛",
+    "長相溫柔",
+    "嫵媚",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "蘿莉",
+    "身材豐滿",
+    "大臀"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/0b924618-2aca-4989-bdc6-c84354e5e266.html",
+  "aliases": [
+    "Momoka Kato",
+    "Nonoka Sato",
+    "佐藤ののか",
+    "加藤ももか"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/x-えむっ娘ラボ/AI-Fix-加藤ももか.jpg",
+    "https://picture.yoshiclub.xyz/20230214/45d81703-4d6c-4f90-8440-35954bbd249a.jpg",
+    "https://picture.yoshiclub.xyz/20230214/bfd85cd8-4862-447a-9676-30cfa2b8b9b1.jpg",
+    "https://picture.yoshiclub.xyz/20230214/0fb5ae72-a96b-4120-9aa2-6583d286ed1b.jpg",
+    "https://picture.yoshiclub.xyz/20230214/c4c35b9f-e5b5-4743-bcca-834106de639e.jpg",
+    "https://picture.yoshiclub.xyz/20230214/9d81f6d2-252e-43ca-ae7f-d056b778a6ed.jpg",
+    "https://picture.yoshiclub.xyz/20230214/1c705eba-e7a5-4102-8dd7-5f83b168a133.jpg",
+    "https://picture.yoshiclub.xyz/20230214/376ca6bb-74b0-4255-a29f-368caf0dfb7a.jpg",
+    "https://picture.yoshiclub.xyz/20230214/1d82e120-23aa-4a4e-842b-fa462a5ab418.jpg",
+    "https://picture.yoshiclub.xyz/20230214/1891b4f5-5b81-4731-9343-316d1ae6f96c.jpg",
+    "https://picture.yoshiclub.xyz/20230214/26067272-d4ae-48d2-a411-1a6d34b55e5b.jpg",
+    "https://picture.yoshiclub.xyz/20230214/cbe098cf-e18c-4680-898b-caeaaf9e01cf.jpg",
+    "https://picture.yoshiclub.xyz/20230214/2a947b86-5983-4c61-9961-2d94af932209.jpg",
+    "https://picture.yoshiclub.xyz/20230214/400db560-934f-4938-9b18-e5f116b9a1fd.jpg",
+    "https://picture.yoshiclub.xyz/20230214/0b1068a5-83f2-4d6f-8f1c-6d045b4c934d.jpg",
+    "https://picture.yoshiclub.xyz/20230214/33f27d39-3fd0-4c35-8963-8b7857af1492.jpg",
+    "https://picture.yoshiclub.xyz/20230214/58ad52a1-2697-4279-a280-1d54388fa86d.jpg",
+    "https://picture.yoshiclub.xyz/20230214/5b62ffed-a59f-45b5-bede-bd13dc1d5e58.jpg",
+    "https://picture.yoshiclub.xyz/20230214/218476ab-ed82-483d-b986-e02e5bc32d30.jpg"
+  ]
+};

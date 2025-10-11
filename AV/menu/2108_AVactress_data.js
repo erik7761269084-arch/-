@@ -1,0 +1,56 @@
+// 2108_AVactress_data.js
+window.actressData = {
+  "id": 2108,
+  "name": "川島ローサ",
+  "age": 46,
+  "birthday_date": "1979-08-20",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250513/9dece73f-2604-439d-a9c2-ca6bb3da6a95_s.webp",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "153cm",
+  "measurements": "胸 81 腰 55 臀 82",
+  "cup": "B",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "性感",
+    "天然",
+    "熟女",
+    "別致顔值",
+    "人妻",
+    "小乳房",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/0f618276-ac3a-4a3e-84d5-104569b49559.html",
+  "aliases": [
+    "Akiko Nakata",
+    "Aya Tanaka",
+    "Rosa Kawashima",
+    "仲田亜紀子",
+    "田中亜弥"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250513/ae6ae211-573a-4049-996f-4cddc786808f_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/2599a134-ed5e-471a-bd3a-28ebc6c92408_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/c26dabab-ea96-44e7-b17b-cae28a6c7b46_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/e0c7e26a-5007-4767-9738-02d3a26ad727_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/85f367b0-262b-4176-b8c5-07b3098ecf87_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/adcc1c55-29f3-4479-a32f-0e92e989d925_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/335b2b64-fc43-4ee4-8d7b-316392ca7869_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/ab447e82-9444-4241-a52e-eb5ab584ac11_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/cc0ddb5a-5d16-49ec-a483-7906f4771837_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/7f6740cc-b355-49f6-84f0-5977bff1e5a8_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/ad2e3478-6701-47f0-8abe-dd4c97a1bca5_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/628c33b2-fb01-41da-93fa-0c06d25951c4_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/17140331-3832-483d-8074-19eef60c3b4d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/22b63348-34cd-41ac-9f54-d0c1887bd1a6_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/cf4a3dad-e805-4e13-bfe3-9f25c5e265f3_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/9dece73f-2604-439d-a9c2-ca6bb3da6a95_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/7b68a39f-e1a3-43d6-95de-a627511b9cdb_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/f3664321-f122-4a56-8e13-66fed6ee18ae_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/6cc140ff-3865-4318-bc09-05ddbdd0c082_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250513/4e929fd8-f67f-4d98-ab03-3d20544f0c32_l.webp"
+  ]
+};

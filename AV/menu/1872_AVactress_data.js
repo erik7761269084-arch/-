@@ -1,0 +1,56 @@
+// 1872_AVactress_data.js
+window.actressData = {
+  "id": 1872,
+  "name": "小西美緒",
+  "age": 34,
+  "birthday_date": "1991-10-12",
+  "img_url": "https://picture.yoshiclub.xyz/20240112/d45078a9-efed-4cd8-a0d5-c386b3851efc.jpg",
+  "background_img": null,
+  "zodiac": "天秤座",
+  "height": "157cm",
+  "measurements": "胸 83 腰 58 臀 87",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "性感",
+    "美臀",
+    "別致顔值",
+    "修長癡體",
+    "特別騷",
+    "極上身材",
+    "辣妹系",
+    "風塵氣",
+    "妖媚"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/b0469f1c-a803-4faa-9529-f45b2d0d9587.html",
+  "aliases": [
+    "Mio Konishi",
+    "Uika Hoshikawa",
+    "星川ういか"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-星川ういか.jpg",
+    "https://picture.yoshiclub.xyz/20240112/2fbc0e02-de33-4d4b-bc19-3895cb0f2c39.jpg",
+    "https://picture.yoshiclub.xyz/20240112/6a1af5d6-3254-4493-ba28-111326550c85.jpg",
+    "https://picture.yoshiclub.xyz/20240112/dad3c578-be7a-49d5-864d-cb4a3ef22b7a.jpg",
+    "https://picture.yoshiclub.xyz/20240112/0a8a4c7f-cfa6-46bc-b64a-d8460a5d990b.jpg",
+    "https://picture.yoshiclub.xyz/20240112/435db8b0-a68d-4b0b-990a-bedd4f2acc11.jpg",
+    "https://picture.yoshiclub.xyz/20240112/6a8f38d3-f934-443a-80ef-a3e7612df6c4.jpg",
+    "https://picture.yoshiclub.xyz/20240112/9af5e56c-65f8-4ba8-b5a1-857844eabe0b.jpg",
+    "https://picture.yoshiclub.xyz/20240112/77323609-1f5a-45e9-b80c-dce017d78a79.jpg",
+    "https://picture.yoshiclub.xyz/20240112/b062edad-42f5-4c41-aaff-7954290386f3.jpg",
+    "https://picture.yoshiclub.xyz/20240112/15d43b91-7081-447f-867c-bbacd176a770.jpg",
+    "https://picture.yoshiclub.xyz/20240112/0734d7e6-ab6d-424a-bf6a-df52802dc41a.jpg",
+    "https://picture.yoshiclub.xyz/20240112/49eadedf-e143-416c-a13b-bb0cf16818c9.jpg",
+    "https://picture.yoshiclub.xyz/20240112/bcf36b4b-da53-420f-b4a5-cd8b25d9d5c7.jpg",
+    "https://picture.yoshiclub.xyz/20240112/d69a1a0e-0775-4413-a617-bb2ab2246759.jpg",
+    "https://picture.yoshiclub.xyz/20240112/ffc8138a-fd22-4681-9354-8ba940514251.jpg",
+    "https://picture.yoshiclub.xyz/20240112/6af06663-0c12-417f-ae86-2b69b751de95.jpg",
+    "https://picture.yoshiclub.xyz/20240112/390991ab-720a-46ab-8ae3-23518488c0e0.jpg",
+    "https://picture.yoshiclub.xyz/20240112/35de7125-2f0d-4966-b9d2-457fafa77398.jpg",
+    "https://picture.yoshiclub.xyz/20240112/5379ddf4-d2a9-478a-9518-368a43051571.jpg"
+  ]
+};

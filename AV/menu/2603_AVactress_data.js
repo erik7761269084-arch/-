@@ -1,0 +1,58 @@
+// 2603_AVactress_data.js
+window.actressData = {
+  "id": 2603,
+  "name": "葉月レイラ",
+  "age": 26,
+  "birthday_date": "1999-05-30",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250507/f2235cba-f538-4650-8174-25b138db8be8_s.webp",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "152cm",
+  "measurements": "胸 87 腰 56 臀 86",
+  "cup": "E",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "女人味",
+    "天然",
+    "嫵媚",
+    "萌妹子",
+    "別致顔值",
+    "辣妹系",
+    "極上美人",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/a09a62ed-5ad5-4565-9102-e6d9c1fef849.html",
+  "aliases": [
+    "Erena Ichijo",
+    "Reira Hazuki",
+    "Reira Kuon",
+    "一条エレナ",
+    "久遠れいら"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250507/55b786c4-3ac4-4eb3-92b6-fd3f9b74e525_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/87bedab0-dbad-428e-928e-5d31c27c5b82_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/4a8c89c1-9417-4a99-a661-c21e05e431ce_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/a7757c29-3d83-43f2-b7b4-4f4bfb06ee0b_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/be407a7d-1451-4ba0-a46a-0bdb6fbfa965_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/9399f9ff-0857-4590-b5ca-82e21d1cc225_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/27ea85fb-f074-414a-98ee-583761b7301a_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/ab101f01-5345-48e6-aa10-b4cfbd52ac94_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/f21dc98c-e1fe-44a7-89a6-7420e4bcc8be_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/6000d55b-988a-4424-969b-fee2d40fc39c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/d000a512-c05d-4c65-a339-3bfbd0e4f788_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/1b8a2f8b-8226-4547-8922-3af4b448c8d1_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/ee4aef86-e545-477d-92c1-2486d11487f8_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/9e15895c-bd01-40e3-881b-1053f874f140_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/bd8a1387-77d8-46ec-9858-e1ca4e75e2aa_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/fd237d42-5dfa-4094-89db-043315fb775c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/585fe5cc-8998-4b03-a93d-558edb30666a_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/803da487-115b-4265-b1af-175f70f2acc1_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/2f3f3fd9-a158-42a3-94a0-2c8ea45d2d2c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250507/aa69e238-7762-4fa0-9733-31e4b2d9b06d_l.webp"
+  ]
+};

@@ -1,0 +1,56 @@
+// 24_AVactress_data.js
+window.actressData = {
+  "id": 24,
+  "name": "北野未奈",
+  "age": 25,
+  "birthday_date": "2000-05-20",
+  "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+  "background_img": null,
+  "zodiac": "金牛座",
+  "height": "162cm",
+  "measurements": "胸 90 腰 60 臀 89",
+  "cup": "H",
+  "description": "“北野未奈”今年21歲，擁有H罩杯火辣身材以及充滿氣質的美麗臉蛋。據悉目前在日本東京銀座的某高級俱樂部擔任招待小姐並簽有長期契約。北野未奈表示，她認為取悅男性是自己的天職，也決定今年4月13日，正式從完美身材專門片商「E-BODY」AV出道。而氣質好、容貌美麗的北野未奈，一進片場開拍後的淫亂樣貌，也被片商譽為是“兼備高貴與下流的美少女”北野未奈也表示，其實自己原本就讀戲劇相關學系，也難怪在儀態上特別有美感，柔軟度也相當好，能夠在和AV男優交手時直接表演劈腿，連站立一字馬都難不倒，那對驚人的白嫩H罩杯美巨乳，也隨之搖曳漾。是位相當指日可待的火辣新人，推薦給喜歡巨乳美少女的AV粉絲們囉！",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "長相溫柔",
+    "美臀",
+    "長相甜美",
+    "萌妹子",
+    "修長癡體",
+    "極上美臀",
+    "整容臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/80ffd971-1bd8-4629-8819-44a91983f308.html",
+  "aliases": [
+    "Mina Kitano"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231018/435cbc0d-51dc-4fa5-8af4-3f98f5903e8c.jpg",
+    "https://picture.yoshiclub.xyz/20231018/d936e07a-2f56-48d1-8582-c5881720fe0e.jpg",
+    "https://picture.yoshiclub.xyz/20231018/9801b72e-7c55-4ee2-a57a-e0460e9de3ff.jpg",
+    "https://picture.yoshiclub.xyz/20231018/564b6bc2-cc05-4b8d-afff-147a4509ae98.jpg",
+    "https://picture.yoshiclub.xyz/20231018/d61f795d-3404-48ce-8ee1-a28639a97c7d.jpg",
+    "https://picture.yoshiclub.xyz/20231018/8b462ade-b381-49f1-98e7-fee2180888af.jpg",
+    "https://picture.yoshiclub.xyz/20231018/08a80f4f-a89c-43cd-865b-e695c5da7ac8.jpg",
+    "https://picture.yoshiclub.xyz/20231018/81dc1ff8-840d-448b-a861-98a477dfd226.jpg",
+    "https://picture.yoshiclub.xyz/20231018/8932c272-fff0-440f-9b4b-d54b780847b5.jpg",
+    "https://picture.yoshiclub.xyz/20231018/1cafc332-ec04-4fb2-b1ea-9ea415437c05.jpg",
+    "https://picture.yoshiclub.xyz/20231018/a0812a3f-a2a2-4ceb-aafa-ffde327c7dfa.jpg",
+    "https://picture.yoshiclub.xyz/20231018/93ca2a24-f820-4825-87d0-1cfd68cf4303.jpg",
+    "https://picture.yoshiclub.xyz/20231018/b3289d93-c0ee-4464-bc42-8420c9c8429e.jpg",
+    "https://picture.yoshiclub.xyz/20231018/e1304e55-251e-45d2-b3e7-2fe2f1d629a0.jpg",
+    "https://picture.yoshiclub.xyz/20231018/72832e0c-a9b7-4777-aedd-441684821fb7.jpg",
+    "https://picture.yoshiclub.xyz/20231018/34ee7553-c75f-4edd-9cc7-17ccfc323a1c.jpg",
+    "https://picture.yoshiclub.xyz/20231018/8ac48ee1-e3e0-4662-a55c-99ab8a702992.jpg",
+    "https://picture.yoshiclub.xyz/20231018/9557f506-7a8a-4a78-8d04-de6fae30bdf9.jpg",
+    "https://picture.yoshiclub.xyz/20231018/ec927172-9f2e-4705-bbea-b64401963da8.jpg"
+  ]
+};

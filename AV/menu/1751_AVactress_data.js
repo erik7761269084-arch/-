@@ -1,0 +1,37 @@
+// 1751_AVactress_data.js
+window.actressData = {
+  "id": 1751,
+  "name": "古瀬玲",
+  "age": 43,
+  "birthday_date": "1982-01-10",
+  "img_url": "https://picture.yoshiclub.xyz/20230211/c51a7ea4-78de-4fd1-97fb-bf269a2acdd4.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "159cm",
+  "measurements": "胸 83 腰 58 臀 85",
+  "cup": "D",
+  "description": "古瀬玲本身的实力是很不错的，之前有过模特和赛车皇后的经历，这样的履历就算再不济去经纪公司Madonna这类的女片商业肯定能杀出一片天地，但是到目前为止她的照片基本上都是销量不好的。\n\n古瀬玲，日语古瀬リカ，别名：香月蘭、椎名ジュン、雛森あゆみ、古田奈央，1982年01月10日出生于日本滋贺县。\n\n古濑玲浑身散发着成女人独有的魅力，外形条件可以说是非常优秀，而且人生经历丰富的她又懂男人的需求，所以看过她照片的人都难以忘记她那魅惑的双眼。",
+  "features": [
+    "美人",
+    "膚白",
+    "熟女",
+    "人妻",
+    "無毛"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7081e961-3350-4c21-b56d-c48335b31f1b.html",
+  "aliases": [
+    "Furuse Rika",
+    "Jun Shiina",
+    "Ran Kazuki",
+    "Rei Furuse",
+    "古瀬リカ",
+    "古田奈央",
+    "工藤樹里",
+    "椎名ジュン",
+    "雛森あゆみ",
+    "香月蘭"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-古瀬玲.jpg"
+  ]
+};

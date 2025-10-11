@@ -1,0 +1,55 @@
+// 70_AVactress_data.js
+window.actressData = {
+  "id": 70,
+  "name": "吉高寧寧",
+  "age": 30,
+  "birthday_date": "1995-12-01",
+  "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+  "background_img": null,
+  "zodiac": "射手座",
+  "height": "155cm",
+  "measurements": "胸 82 腰 56 臀 85",
+  "cup": "C",
+  "description": "吉高宁宁 [1]  （Yoshitaka Nene），1995年12月1日出生于神户市，日本写真偶像 [5]  、女演员，隶属于“NOUVELL VAGUE INC.”事务所 [6]  。主要作品有《自警团》 [4]  。【吉高宁宁（吉高寧々）】出生于1995年现年26岁、155公分的身高、雪白的肌肤、苗条的身材、虽然只有C罩肉肉杯。但是【吉高宁宁（吉高寧々）】的最大杀器却是她那天真无邪甜美可爱的脸蛋。乍一看某些表情、某些角度，有一丝迪丽热巴的感觉有没有？也正因为这份可爱的气质，很多人都说只要看见她就会成为她的粉丝。特别是那双会笑的大眼睛可以称得上是一位让人忘记疲惫的治愈系美少女。或许正因为这份特殊的气质，也让【吉高宁宁（吉高寧々）】得到了S1压倒性的支持。首先在2017年的4月份，【吉高宁宁（吉高寧々）】发售了她的第一张印象DVD《初めての…》。当时她是以超绝美少女模特的身份出道，虽然没有什么名气，但是作为\"超人才\"还是受到了相当大的关注。两个月后的6月份她终于出了第一本裸体写真集，而且很快就打破了新人写真的销售记录。当然熟悉套路的观众应该也不难察觉，这些所谓的偶像出道也只不过是事务所为【吉高宁宁（吉高寧々）】进入暗黑街铺路的技巧而已。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "長相可愛",
+    "別致顔值",
+    "嬌小身材",
+    "鄰家女",
+    "優雅",
+    "極上美人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8f049bed-8467-411b-bc34-fc0caf942c9b.html",
+  "aliases": [
+    "Nene Yoshitaka",
+    "吉高宁宁",
+    "吉高寧々"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-AVDBS/AI-Fix-吉高寧々.jpg",
+    "https://picture.yoshiclub.xyz/20230214/5dcb7c82-ffab-4ae7-a3bb-d4bae746f5fd.jpg",
+    "https://picture.yoshiclub.xyz/20230214/3ea79f5d-2094-4b3e-8733-a7a8dddd62ae.jpg",
+    "https://picture.yoshiclub.xyz/20230214/d4eee1fe-223f-4f4c-ba8c-048cbad583fc.jpg",
+    "https://picture.yoshiclub.xyz/20230214/e7ee6c38-4ad2-4ef6-95b0-e45203f57a09.jpg",
+    "https://picture.yoshiclub.xyz/20230214/cfb65cf0-4328-414d-9925-d022f94dccc9.jpg",
+    "https://picture.yoshiclub.xyz/20230214/0417b921-50f0-4622-8ffc-f318bf337ef5.jpg",
+    "https://picture.yoshiclub.xyz/20230214/7a0b724f-f8dc-48df-8908-ac13d0acaff9.jpg",
+    "https://picture.yoshiclub.xyz/20230214/69c90aa5-29a4-4adf-bae7-5264ace342f7.jpg",
+    "https://picture.yoshiclub.xyz/20230214/1a1311d9-d7d4-418e-abff-e0666851c6d9.jpg",
+    "https://picture.yoshiclub.xyz/20230214/bcfdfa10-b1e3-48d2-8296-5995f3696e6d.jpg",
+    "https://picture.yoshiclub.xyz/20230214/125541f3-fe58-4e7b-810e-c42765abdde8.jpg",
+    "https://picture.yoshiclub.xyz/20230214/19de151c-84e2-48bf-b9f9-4ce75697e7d7.jpg",
+    "https://picture.yoshiclub.xyz/20230214/63fc41a2-367e-47a8-bc3d-d943356414c1.jpg",
+    "https://picture.yoshiclub.xyz/20230214/3d2d6de4-42fc-4fce-a665-c6322beab9d2.jpg",
+    "https://picture.yoshiclub.xyz/20230214/2a3e7ea3-de55-433b-b02d-0bae5e9cc224.jpg",
+    "https://picture.yoshiclub.xyz/20230214/b428b54e-5ce5-4e3a-bca1-9a85d2f58026.jpg",
+    "https://picture.yoshiclub.xyz/20230214/1c9e2ed3-036a-4b64-873a-ebce70f98955.jpg",
+    "https://picture.yoshiclub.xyz/20230214/a070f2a8-97d1-4ebb-9cbf-228fd6d1fada.jpg"
+  ]
+};

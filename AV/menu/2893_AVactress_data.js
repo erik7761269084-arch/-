@@ -1,0 +1,58 @@
+// 2893_AVactress_data.js
+window.actressData = {
+  "id": 2893,
+  "name": "桜井心菜",
+  "age": 30,
+  "birthday_date": "1995-10-12",
+  "img_url": "https://picture.yoshiclub.xyz/20241016/5496bcdb-6cf0-4d23-a85b-e7a63906f364.jpg",
+  "background_img": null,
+  "zodiac": "天秤座",
+  "height": "153cm",
+  "measurements": "胸 85 腰 61 臀 87",
+  "cup": "C",
+  "description": null,
+  "features": [
+    "美人",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "美少女",
+    "嬌小身材",
+    "小乳房",
+    "矮小"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f6143567-b7ea-4c6b-b440-ef4f6947f2be.html",
+  "aliases": [
+    "Kokona Sakurai",
+    "Madoka Ono",
+    "Mai Koyanagi",
+    "Ryouko Nakano",
+    "Yuki Honjyo",
+    "中野遼子",
+    "小柳まい",
+    "小野まどか",
+    "本上ゆき"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/y-DAS/AI-Fix-桜井心菜.jpg",
+    "https://picture.yoshiclub.xyz/20241016/8cee214a-dca8-4165-9fe4-bdf1e66f526b.jpg",
+    "https://picture.yoshiclub.xyz/20241016/8ffd7e21-d464-4127-a2cb-29c0aafc6401.jpg",
+    "https://picture.yoshiclub.xyz/20241016/31958f1c-1499-40d2-b9df-d9dcc127e6f2.jpg",
+    "https://picture.yoshiclub.xyz/20241016/db905ae7-4081-46e5-9f3b-ca43000ec226.jpg",
+    "https://picture.yoshiclub.xyz/20241016/baafc60c-f762-478c-88e0-b25c9c4027b2.jpg",
+    "https://picture.yoshiclub.xyz/20241016/024642dd-c49f-4cb2-a124-db55395f143b.jpg",
+    "https://picture.yoshiclub.xyz/20241016/06b6e8bc-5bfe-48c7-abbb-8c7c3b278237.jpg",
+    "https://picture.yoshiclub.xyz/20241016/2bb9286b-67e3-41e8-a3d4-beb764612a45.jpg",
+    "https://picture.yoshiclub.xyz/20241016/93883c64-ccfd-4bca-97eb-d78abe441c15.jpg",
+    "https://picture.yoshiclub.xyz/20241016/341371ce-2f07-48bd-91ee-2e2b0fdb9f89.jpg",
+    "https://picture.yoshiclub.xyz/20241016/5b341845-a6e6-451b-bed7-2a8107ddfe12.jpg",
+    "https://picture.yoshiclub.xyz/20241016/9b1d925c-1f76-4695-9120-828e883d3114.jpg",
+    "https://picture.yoshiclub.xyz/20241016/33d4dd21-865f-4955-89dd-9cd24a25f27e.jpg",
+    "https://picture.yoshiclub.xyz/20241016/f882fb5c-c87f-450f-86f6-86a78abdc338.jpg",
+    "https://picture.yoshiclub.xyz/20241016/b27bb3a0-7893-4724-b07b-d3d73145ebd2.jpg",
+    "https://picture.yoshiclub.xyz/20241016/c50ec544-06a8-4c5f-99d6-d6d306913a72.jpg",
+    "https://picture.yoshiclub.xyz/20241016/948dd2cb-60a1-4f99-abb0-19997e01e8be.jpg",
+    "https://picture.yoshiclub.xyz/20241016/e720ac20-47b4-44a9-8692-4e39bfa2184d.jpg",
+    "https://picture.yoshiclub.xyz/20241016/1f6e1546-052d-4b83-b6de-b4a180e28bca.jpg"
+  ]
+};

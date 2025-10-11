@@ -1,0 +1,58 @@
+// 273_AVactress_data.js
+window.actressData = {
+  "id": 273,
+  "name": "朝妃莉緒",
+  "age": 23,
+  "birthday_date": "2002-10-22",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+  "background_img": null,
+  "zodiac": "天秤座",
+  "height": "160cm",
+  "measurements": "胸 89 腰 58 臀 88",
+  "cup": "F",
+  "description": "朝日莉緒是一位专属于Idea Pocket的新人，她身上充满了耀眼的素材感，让她不输于这个夸张的宣传语。她对待AV的态度很直率，不带一点矫饰的端正五官，拥有性感的身体但却毫不张扬。虽然她自称“懒”，但因此也让她的未开发潜力倍感惊讶。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "長相甜美",
+    "別致顔值",
+    "優雅",
+    "禦姐"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9cfd9907-f629-4c33-9107-a2afa8d48322.html",
+  "aliases": [
+    "Rio Asahi",
+    "朝妃りお",
+    "朝日りお",
+    "朝日莉緒"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231008/6e4fb816-58fc-45bb-902f-89227b9b1a12.jpg",
+    "https://picture.yoshiclub.xyz/20231008/31f6fe5e-875c-4c91-b77b-aea97d6ebc0a.jpg",
+    "https://picture.yoshiclub.xyz/20231008/6b69b371-dcc1-4cfd-bfb5-e2bcb6de32d4.jpg",
+    "https://picture.yoshiclub.xyz/20231008/db01ea0c-11fc-4d2a-9adf-497af0a34dd4.jpg",
+    "https://picture.yoshiclub.xyz/20231008/2fe60f7e-dc2a-4603-93b9-f783ac247893.jpg",
+    "https://picture.yoshiclub.xyz/20231008/c038f4f6-0ea7-42c9-9f01-bd9cc6ba7a6c.jpg",
+    "https://picture.yoshiclub.xyz/20231008/0e5bed7e-5627-40da-be0a-21b7e7c81f66.jpg",
+    "https://picture.yoshiclub.xyz/20231008/991e8f44-c074-4aa3-a7f0-99e9ecf2993e.jpg",
+    "https://picture.yoshiclub.xyz/20231008/afac38c3-7d1d-41c1-9fbb-51b0e34d2ae8.jpg",
+    "https://picture.yoshiclub.xyz/20231008/dac910c9-a9d5-42c4-ba4b-595d1acd2926.jpg",
+    "https://picture.yoshiclub.xyz/20231008/d4d9db68-f684-49a4-b4c9-cbd9510fb842.jpg",
+    "https://picture.yoshiclub.xyz/20231008/f5dcf8b5-2f4b-4e75-a94f-a666c435d6c3.jpg",
+    "https://picture.yoshiclub.xyz/20231008/1ce69f4b-eff9-4967-9d5f-8587eeed24dc.jpg",
+    "https://picture.yoshiclub.xyz/20231008/237d0105-3df2-4ceb-b7af-cae920ad994e.jpg",
+    "https://picture.yoshiclub.xyz/20231008/50ab8b3a-cdf9-438b-ba70-661d4c0de3c8.jpg",
+    "https://picture.yoshiclub.xyz/20231008/3cdb6e0e-fec0-4a04-a9e9-e9e8190d5673.jpg",
+    "https://picture.yoshiclub.xyz/20231008/c78c533b-3383-4f78-a1e6-0fd9ca8f6d4f.jpg",
+    "https://picture.yoshiclub.xyz/compressed/20250502/f24bd3a4-9e17-413f-92c9-a77c2edd4db3_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250502/ae6d7fb2-c321-45b3-8bf2-3a2b0d680b62_l.webp"
+  ]
+};

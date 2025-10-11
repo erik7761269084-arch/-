@@ -1,0 +1,57 @@
+// 2323_AVactress_data.js
+window.actressData = {
+  "id": 2323,
+  "name": "原望美",
+  "age": 42,
+  "birthday_date": "1983-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/20250107/f91ead0a-f243-491f-888f-5b3b2183dfb8.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "165cm",
+  "measurements": "胸 87 腰 59 臀 86",
+  "cup": "F",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "嫵媚",
+    "美臀",
+    "熟女",
+    "人妻",
+    "短髮"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/52ac61b7-e0c1-4556-b3d1-e10bf23fd4df.html",
+  "aliases": [
+    "Hitomi Yasuoka",
+    "Nozomi Hara",
+    "安岡瞳"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250107/34331a86-b132-41bd-ba31-df529af2f079.jpg",
+    "https://picture.yoshiclub.xyz/20250107/28a42cea-3b90-4cfd-b06c-100c62dc997e.jpg",
+    "https://picture.yoshiclub.xyz/20250107/8154c8f0-72b1-46fa-9c90-baee002ab149.jpg",
+    "https://picture.yoshiclub.xyz/20250107/99a6ad00-bdf6-4149-b84a-827e85b092de.jpg",
+    "https://picture.yoshiclub.xyz/20250107/e9102d1d-73ae-42c3-b2ce-1f520aced915.jpg",
+    "https://picture.yoshiclub.xyz/20250107/ed499e44-315c-476d-99d9-14e0b695b0f6.jpg",
+    "https://picture.yoshiclub.xyz/20250107/ff9e0425-b26c-49f3-8a64-cd7d0d5d8914.jpg",
+    "https://picture.yoshiclub.xyz/20250107/b84c61fc-e266-4ab0-8aae-7174ca817a65.jpg",
+    "https://picture.yoshiclub.xyz/20250107/e53c80c1-3141-4f66-a5e9-ee7a756a98be.jpg",
+    "https://picture.yoshiclub.xyz/20250107/155de533-0a50-4b34-97fd-bac3fd9acd1a.jpg",
+    "https://picture.yoshiclub.xyz/20250107/3b455d19-3867-441e-9c41-459e77457b76.jpg",
+    "https://picture.yoshiclub.xyz/20250107/4f1b0f45-0b13-4e6f-b3ba-840e42c36e9f.jpg",
+    "https://picture.yoshiclub.xyz/20250107/85259615-0858-4a9c-aa17-c342b684d315.jpg",
+    "https://picture.yoshiclub.xyz/20250107/08ee129b-e804-404b-b796-1c5cb7582d3f.jpg",
+    "https://picture.yoshiclub.xyz/20250107/8cf86a53-0615-4389-aca6-b242b44284c5.jpg",
+    "https://picture.yoshiclub.xyz/20250107/ed6147a9-9549-48fa-9dc2-15107424a70f.jpg",
+    "https://picture.yoshiclub.xyz/20250107/bdf14838-f552-4bce-b451-beeb878f32ee.jpg",
+    "https://picture.yoshiclub.xyz/20250107/22886e23-2e49-4f23-9a31-8ebdb0949bf7.jpg",
+    "https://picture.yoshiclub.xyz/20250107/68569060-36be-47b3-b001-feeba57fc968.jpg",
+    "https://picture.yoshiclub.xyz/20250107/afd941a0-c62f-4562-90f3-511ab4f47198.jpg"
+  ]
+};

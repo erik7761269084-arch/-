@@ -1,0 +1,56 @@
+// 2120_AVactress_data.js
+window.actressData = {
+  "id": 2120,
+  "name": "日向澪",
+  "age": 29,
+  "birthday_date": "1996-08-08",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/f82b72a5-0d1e-43cf-afd3-ed571d592b55_s.webp",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "154cm",
+  "measurements": "胸 85 腰 58 臀 86",
+  "cup": "C",
+  "description": "說真的，最近Presitge的專屬女優有些鬆動啊。發展最好的自然是若菜奈央，離開Prestige、完全解開封印的她已經是AV界最強的發片機器，再這樣搞下去她很可能會超越前輩「佐々木あき(佐佐木明希)」的；比較令人遺憾的則是雪白かん菜(雪白柑菜)，我們都以為她可以好好發揮的，結果她只發了2支作品人就不見了，從twitter沒更新的狀況來看恐怕以後她也沒有以後了；還有一個目前是主力、而且非常受到華人影迷歡迎的新人女優是已經拍完所有的作品，基本上不會有活動了…這時候是該補進專屬新人了！Prestige最近是在官網以「陽光之子」之名向大家介紹「ひなた澪(日向澪)」這位專屬新人：為什麼叫「陽光之子」呢？因為她是個全身上下散發著明星氣質的女孩、是Presitge慎重挑選出來的即戰力；而且她不只外型亮眼在床上與男優的互相抽動也非常受到肯定，Prestige甚至記為她足以扛下名為「最強性技」的招牌：看看封面、再看看劇照，不知道您是否期待這位ひなた澪(日向澪)的正式下海？短髮造型配上純白的比基尼確實給人美少女的感覺，一年半沒做愛的她在劇照中也能感受到她既敏感又好幹，不只各種體位都能欣賞到她高潮的表情，現場工作人員甚至還爆料「她濕得很快很厲害」…你說，這樣的新人是不是高手？這是很正統的美少女系新人，在Prestige高人一等的修圖技巧下我認為要讓大家知道「ひなた澪(日向澪)」這名字應該不難；但我也坦白說，看過的她在twitter上的自拍照我覺得她的外型還有待琢磨，要不然…至少也要打開美圖秀秀的APP啊！接下來，就讓銷售來證明Prestige沒有看走眼吧～",
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "嬌小身材",
+    "娃娃臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/145fbb91-a316-48c6-b3cd-2c5dd1b3937e.html",
+  "aliases": [
+    "Mio Hinata",
+    "ひなた澪"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080152281281_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080153942942_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080154421421_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080155358358_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080155688688_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/202506230801564545_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080156491491_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080158207207_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080158559559_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080158925925_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080159862862_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080200311311_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080200923923_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080201268268_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080201621621_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080201966966_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080202359359_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080202704704_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/202506230802034444_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250623/20250623080203353353_l.webp"
+  ]
+};

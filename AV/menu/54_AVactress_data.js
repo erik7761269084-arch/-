@@ -1,0 +1,56 @@
+// 54_AVactress_data.js
+window.actressData = {
+  "id": 54,
+  "name": "楓花戀",
+  "age": 26,
+  "birthday_date": "1999-08-25",
+  "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+  "background_img": null,
+  "zodiac": "處女座",
+  "height": "162cm",
+  "measurements": "胸 82 腰 59 臀 81",
+  "cup": "D",
+  "description": "枫可怜(楓カレン)是诞生于日本东京都的日本艺人，如果你不认识她，她的英文名是Karen Kaede，也称为楓カレン，1999-8-25出生的她自然是处女座的，除了工作，也会游泳、看电影，然后简单介绍一下她的身材，150cm的高度，再加上47kg的重量，就算2018-12-1在IDEA POCKET出道时，也很惊艳，另外她的尺寸是B88W65H93，血型是B。下面让我们一起来了解一下枫可怜的资料简介以及作品图片。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "性感",
+    "大眼睛",
+    "長相清純",
+    "修長癡體",
+    "極上身材",
+    "極上美人",
+    "網紅臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/55151249-c598-4646-8c3c-07b6c6a904e1.html",
+  "aliases": [
+    "Karen Kaede",
+    "Lemon Tanaka",
+    "枫花恋",
+    "楓カレン",
+    "楓之戀",
+    "田中レモン"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-楓カレン.jpg",
+    "https://picture.yoshiclub.xyz/20230406/c096a5f0-fead-435b-b16c-193a0634e8f7.jpg",
+    "https://picture.yoshiclub.xyz/20230406/c55751a1-f9d3-429c-a70b-f5950e648018.jpg",
+    "https://picture.yoshiclub.xyz/20230406/2faeaaff-75d2-46ff-831e-c9f0feae8af5.jpg",
+    "https://picture.yoshiclub.xyz/20230406/02c11346-1f8c-4b4a-a9a2-d8d68453ddf1.jpg",
+    "https://picture.yoshiclub.xyz/20230406/80727f85-87a6-4ec9-a343-ebf7b0d00d00.jpg",
+    "https://picture.yoshiclub.xyz/20230406/2dde5fe0-486a-468c-8805-71eefab84360.jpg",
+    "https://picture.yoshiclub.xyz/20230406/1b1e20d8-7e5b-4d9d-89a5-b48ddd5df1ac.jpg",
+    "https://picture.yoshiclub.xyz/20230406/eaa70816-2305-4d8d-815a-3c0494cffd21.jpg",
+    "https://picture.yoshiclub.xyz/20230406/6de532ec-a222-41a0-b2c8-3f2feee37dd3.jpg",
+    "https://picture.yoshiclub.xyz/20230406/bdaeb557-eb99-4643-927a-df31ad43536a.jpg",
+    "https://picture.yoshiclub.xyz/20230406/586d62e6-9987-4bcd-9bd4-066a96a39da5.jpg",
+    "https://picture.yoshiclub.xyz/20230406/c1b17f83-5332-49d3-bddc-61022d73404f.jpg",
+    "https://picture.yoshiclub.xyz/20230406/0706f43d-ee69-41e2-b30a-2fb14b63e767.jpg",
+    "https://picture.yoshiclub.xyz/20230406/145c5c14-9948-4ac1-91a3-ae9a340d94dd.jpg",
+    "https://picture.yoshiclub.xyz/20230406/31e3fc02-7cbe-4824-9bc1-ea6f27d0ae37.jpg",
+    "https://picture.yoshiclub.xyz/20230406/b421f9cb-0438-4aad-85b2-d99b0e877cc1.jpg",
+    "https://picture.yoshiclub.xyz/20230406/f6a37539-2bec-4652-a7bd-6c1e9fd59b38.jpg",
+    "https://picture.yoshiclub.xyz/20230406/18a4e44d-f80e-42e8-8675-bedc9cdb2994.jpg"
+  ]
+};

@@ -1,0 +1,55 @@
+// 186_AVactress_data.js
+window.actressData = {
+  "id": 186,
+  "name": "绀野光",
+  "age": 31,
+  "birthday_date": "1994-01-16",
+  "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "165cm",
+  "measurements": "胸 85 腰 59 臀 86",
+  "cup": "C",
+  "description": "绀野光（紺野ひかる、Hikaru Konno），女优，C罩杯，1994年1月16日出行于东京都，2013年06月25日出道kawaii公司对她非常看好，甚至直接宣传是横山美雪的接班人。绀野光的条件不用多说，无论是长相还是身材，确实都很不错。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "修長癡體",
+    "小乳房",
+    "蘿莉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/75029422-afda-4890-ab96-dc1a2a28d5a5.html",
+  "aliases": [
+    "Hikaru Konno",
+    "紺野ひかる",
+    "紺野光"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-紺野ひかる.jpg",
+    "https://picture.yoshiclub.xyz/20230331/260ba4d6-d83d-41cf-81f6-31d790e613d0.jpg",
+    "https://picture.yoshiclub.xyz/20230331/37d56784-1e04-4ef6-ab54-37ccb4cf743b.jpg",
+    "https://picture.yoshiclub.xyz/20230331/340c53e1-f819-4d4e-b5f3-c032598b1027.jpg",
+    "https://picture.yoshiclub.xyz/20230331/fcc6b597-c53a-4bb7-b352-8d5bf4d52bdb.jpg",
+    "https://picture.yoshiclub.xyz/20230331/5d90de65-f1d1-4993-8aef-d8495ca20293.jpg",
+    "https://picture.yoshiclub.xyz/20230331/9ddf4719-0ae0-4f21-ad90-898f31bbc3bf.jpg",
+    "https://picture.yoshiclub.xyz/20230331/91c9c7ff-c2ff-4d55-a2ff-c587f4b6b5f9.jpg",
+    "https://picture.yoshiclub.xyz/20230331/c36523fa-a72b-4aae-aa33-5a0bc6141808.jpg",
+    "https://picture.yoshiclub.xyz/20230331/78b75b1d-a304-4724-b919-9474b8cf186e.jpg",
+    "https://picture.yoshiclub.xyz/20230331/28fcb11c-7a1d-4c9d-b520-abf2ace4e8ca.jpg",
+    "https://picture.yoshiclub.xyz/20230331/f331f770-3edf-4c5f-b90f-78b3cba521a8.jpg",
+    "https://picture.yoshiclub.xyz/20230331/87ed070e-0b18-4997-a4f0-a28a1afa8bb7.jpg",
+    "https://picture.yoshiclub.xyz/20230331/e0ae40d6-86ac-4cce-bfed-ce4f904cd649.jpg",
+    "https://picture.yoshiclub.xyz/20230331/8f7c02ef-9558-4624-bed9-8596db1a6e70.jpg",
+    "https://picture.yoshiclub.xyz/20230331/5eaa9309-7aa2-4ea9-9846-a92b0609daf9.jpg",
+    "https://picture.yoshiclub.xyz/20230331/783b5338-05ee-4daf-837c-1600796a24c4.jpg",
+    "https://picture.yoshiclub.xyz/20230331/d4c1c087-01a6-4763-817b-fe1722d3e60c.jpg",
+    "https://picture.yoshiclub.xyz/20230331/069c432b-3b9e-46e1-9d48-30a6a1484a9d.jpg"
+  ]
+};

@@ -1,0 +1,57 @@
+// 48_AVactress_data.js
+window.actressData = {
+  "id": 48,
+  "name": "逢澤美優",
+  "age": 24,
+  "birthday_date": "2001-01-25",
+  "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+  "background_img": null,
+  "zodiac": "水瓶座",
+  "height": "155cm",
+  "measurements": "胸 90 腰 56 臀 88",
+  "cup": "F",
+  "description": "成人大廠S1旗下的女優以人氣與美形著稱，自「AV 女帝」三上悠亞引退後，S1繼續推出多位勁爆新人讓業界百花齊放。20歲的逢澤美優（逢沢みゆ）即將於12月12日出道，從官網介紹可見，逢澤美優從12歲起進入演藝圈，當過8年偶像後決定轉行做AV女優。有網友已迅速起底逢澤美優，發現她的舊身分其實是「Flap Girls' School（フラップガールズスクール）」的坂本瑪莉亞（坂本マリア）！Flap Girls' School在海外的確未打響名堂，但組合活躍期間，就發表過7首單曲及2張專輯，至2018年4位成員全員畢業，結束了這段偶像生涯。轉眼間，坂本瑪莉亞已經20歲，她選擇解放隱藏在偶像服下的F Cup好身材，化身「逢澤美優」轉戰成人世界。不過在首次拍攝期間，她淚灑片場，猶豫著要放棄出演AV，休息了整整4個月終於捲土重來，順利拍完出道作。逢澤美優輾轉成為S1本年壓軸出道的女優，其可愛臉蛋和火辣身材已吸引不少粉絲關注，大眾對她的身世和表現感到好奇，估計有機會成為S1其中一位最強武器，在業界發光發亮。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "長相甜美",
+    "嬌小身材",
+    "優雅",
+    "偶像女團",
+    "歌手"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/956eff28-cc70-4650-93c8-6e88fee170d5.html",
+  "aliases": [
+    "Miyu Aizawa",
+    "逢沢みゆ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231209/6aaddb41-2774-4fba-bc84-82595327c029.jpg",
+    "https://picture.yoshiclub.xyz/20231209/7d975fc3-e43e-4af5-a230-2921abf1714e.jpg",
+    "https://picture.yoshiclub.xyz/20231209/cf0984d1-571d-4f2b-9c28-74b6d6703806.jpg",
+    "https://picture.yoshiclub.xyz/20231209/8068ca76-964b-410a-a2ec-520ad85da55c.jpg",
+    "https://picture.yoshiclub.xyz/20231209/1640e1bf-d6a9-4b33-8081-fb4d854c1de1.jpg",
+    "https://picture.yoshiclub.xyz/20231209/d1d564d5-c3ed-4e61-98ea-7aad13aa4a26.jpg",
+    "https://picture.yoshiclub.xyz/20231209/a2486be0-22a0-4850-86f9-4dd5f4de9984.jpg",
+    "https://picture.yoshiclub.xyz/20231209/873b756d-3b86-4050-abf5-6c771b0d6186.jpg",
+    "https://picture.yoshiclub.xyz/20231209/b9b7ac75-be35-4af5-bd50-7b99fa66fb1f.jpg",
+    "https://picture.yoshiclub.xyz/20231209/ff29ccf0-d070-48b3-ae96-694529e777bb.jpg",
+    "https://picture.yoshiclub.xyz/20231209/ded4c9bd-f026-4ec2-aa25-5f50ccd2c128.jpg",
+    "https://picture.yoshiclub.xyz/20231209/e5c21c01-06b0-4101-8574-fdda9a86780d.jpg",
+    "https://picture.yoshiclub.xyz/20231209/0afd6282-95f5-4902-9ce9-e145e29ed03b.jpg",
+    "https://picture.yoshiclub.xyz/20231209/b3c8751d-b0b0-4202-89dc-322fb75e3c54.jpg",
+    "https://picture.yoshiclub.xyz/20231209/a82f2a5b-e9e5-491d-8021-778e16218eab.jpg",
+    "https://picture.yoshiclub.xyz/20231209/d265bf26-f0d1-4244-bf72-259948ce6adc.jpg",
+    "https://picture.yoshiclub.xyz/20231209/7f2a6dc0-cc46-4dc5-a142-7a00d3864858.jpg",
+    "https://picture.yoshiclub.xyz/20231209/c348ac6e-bd34-4481-bcae-bc6c334f69e0.jpg",
+    "https://picture.yoshiclub.xyz/20231209/10f15956-a99e-401c-aa96-f892cda4d6d3.jpg"
+  ]
+};

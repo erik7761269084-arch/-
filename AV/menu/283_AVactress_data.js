@@ -1,0 +1,55 @@
+// 283_AVactress_data.js
+window.actressData = {
+  "id": 283,
+  "name": "白石茉莉奈",
+  "age": 39,
+  "birthday_date": "1986-08-10",
+  "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "154cm",
+  "measurements": "胸 90 腰 60 臀 90",
+  "cup": "G",
+  "description": "白石茉莉奈（1986年8月10日—）是一名在日本東京都出生的AV女優、電視藝人和歌手。所屬事務所是Bstar。人物簡歷2013年6月，白石茉莉奈拍攝AV並出道，隸屬於SOD。 2014年3月，獲得最佳新人獎。2014年10月，參演電影日本電影《神之舌》。 2014年4月 ，白石茉莉奈參加2014第十一屆上海國際成人用品展。 2015年3月，發行音樂單曲《1986年的瑪麗蓮》。",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "女人味",
+    "性感",
+    "嫵媚",
+    "熟女",
+    "別致顔值",
+    "人妻",
+    "肉嘟嘟",
+    "娃娃臉",
+    "大乳暈",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/12fa4365-2477-4d76-aad7-5572b2578651.html",
+  "aliases": [
+    "Marina Shiraishi",
+    "鳩谷紗彩"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-白石茉莉奈.jpg",
+    "https://picture.yoshiclub.xyz/20231112/1209dc4b-56e4-4e7e-a572-22f8a6e203d0.jpg",
+    "https://picture.yoshiclub.xyz/20231112/1d6efdbe-e4a1-4559-9380-dfec32ea5d33.jpg",
+    "https://picture.yoshiclub.xyz/20231112/2308c5df-a6de-43ae-9120-3958ee9e7422.jpg",
+    "https://picture.yoshiclub.xyz/20231112/23821af7-a0f7-4e81-b536-4670c1fd7482.jpg",
+    "https://picture.yoshiclub.xyz/20231112/489d8301-8f3f-4191-bfd7-91936eeaad9b.jpg",
+    "https://picture.yoshiclub.xyz/20231112/6bee72ec-8d66-4f75-acf4-ede50c9d4c8b.jpg",
+    "https://picture.yoshiclub.xyz/20231112/72b23020-a990-4202-af4e-2a7345561d36.jpg",
+    "https://picture.yoshiclub.xyz/20231112/b1964c81-3452-4680-99f9-49ec8d682f37.jpg",
+    "https://picture.yoshiclub.xyz/20231112/c8b5a305-a009-45f8-bcbe-81d8720b5598.jpg",
+    "https://picture.yoshiclub.xyz/20231112/e577e2c9-b015-4a89-8665-ebdd3e58b9b7.jpg",
+    "https://picture.yoshiclub.xyz/20231112/f0591f44-84f7-47a1-846f-60519324cf18.jpg",
+    "https://picture.yoshiclub.xyz/20231112/eda7dc24-30fc-4f7c-9ce3-e69c16cdb565.jpg",
+    "https://picture.yoshiclub.xyz/20231112/f9a0bef8-7530-48ad-9a10-78fed16b9496.jpg",
+    "https://picture.yoshiclub.xyz/20231112/ba314e7e-eb0e-4b4e-aa34-f6574a508825.jpg",
+    "https://picture.yoshiclub.xyz/20231112/89f6048d-b6d1-438a-929e-e9a1b4f4bbc1.jpg",
+    "https://picture.yoshiclub.xyz/20231112/29e0c005-e20a-4fe2-b55c-a367610d1a90.jpg",
+    "https://picture.yoshiclub.xyz/20231112/e9e60bf5-760b-4095-b05d-f08f3c0772d8.jpg",
+    "https://picture.yoshiclub.xyz/20231112/45a3066d-60ec-4326-ae4a-4990042f49e7.jpg"
+  ]
+};

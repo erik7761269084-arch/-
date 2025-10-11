@@ -1,0 +1,58 @@
+// 2571_AVactress_data.js
+window.actressData = {
+  "id": 2571,
+  "name": "大家あみ",
+  "age": 34,
+  "birthday_date": "1991-06-17",
+  "img_url": "https://picture.yoshiclub.xyz/20240508/bd873003-20d4-4364-90f5-0f8d61880ffc.jpg",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "153cm",
+  "measurements": "胸 83 腰 61 臀 85",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "膚白",
+    "美少女",
+    "萌妹子",
+    "嬌小身材",
+    "肉嘟嘟",
+    "娃娃臉",
+    "矮小",
+    "蘿莉",
+    "臉大",
+    "呆萌",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/95173114-d81f-4f58-bb8c-8a80424107c5.html",
+  "aliases": [
+    "Ami Oka",
+    "Hina Komatsu",
+    "Mami Ota",
+    "太田まみ",
+    "小松ひな"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-小松ひな.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/太田まみ.jpg",
+    "https://picture.yoshiclub.xyz/20240508/439e442d-36d4-44b1-b323-92d631e0fa22.jpg",
+    "https://picture.yoshiclub.xyz/20240508/df73dd0f-caa5-4028-9b9d-5d9931feaf4c.jpg",
+    "https://picture.yoshiclub.xyz/20240508/30c425b6-1b69-4b50-a589-e5a7b2f40d67.jpg",
+    "https://picture.yoshiclub.xyz/20240508/d1d6a351-6af5-4777-84c4-c5e9abd556d6.jpg",
+    "https://picture.yoshiclub.xyz/20240508/45a1680f-c95e-4166-95e3-9306b304033b.jpg",
+    "https://picture.yoshiclub.xyz/20240508/f4df5d17-b709-478e-bea0-b096fe6f1618.jpg",
+    "https://picture.yoshiclub.xyz/20240508/e6d7b735-27fc-417b-9807-195bdd48d4ad.jpg",
+    "https://picture.yoshiclub.xyz/20240508/ea0cf6fe-9228-42a4-b3c2-a14dfa7f6e5d.jpg",
+    "https://picture.yoshiclub.xyz/20240508/bd873003-20d4-4364-90f5-0f8d61880ffc.jpg",
+    "https://picture.yoshiclub.xyz/20240508/5b3a2c98-51fc-43fd-9133-2d182c49cdc4.jpg",
+    "https://picture.yoshiclub.xyz/20240508/4c7feabd-70b4-4692-a083-36e3ecaa0e05.jpg",
+    "https://picture.yoshiclub.xyz/20240508/e8cc8ef3-c706-4dbc-8beb-646da68063ec.jpg",
+    "https://picture.yoshiclub.xyz/20240508/5f183ef4-7739-485d-852c-d3b8c7288b23.jpg",
+    "https://picture.yoshiclub.xyz/20240508/45386ce1-5632-4609-8013-018857a63f5a.jpg",
+    "https://picture.yoshiclub.xyz/20240508/f7a08800-d3e1-43cc-8f5f-314b936b4a24.jpg",
+    "https://picture.yoshiclub.xyz/20240508/c8c55593-13f1-4759-b8be-0ad824708bd5.jpg",
+    "https://picture.yoshiclub.xyz/20240508/e200a471-b372-460b-ab6f-0c8636b7e6fb.jpg",
+    "https://picture.yoshiclub.xyz/20240508/f0fcc33b-ecd6-4137-bec9-a8f86a23982d.jpg"
+  ]
+};

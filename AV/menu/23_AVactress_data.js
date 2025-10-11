@@ -1,0 +1,58 @@
+// 23_AVactress_data.js
+window.actressData = {
+  "id": 23,
+  "name": "橘瑪麗",
+  "age": 32,
+  "birthday_date": "1993-07-07",
+  "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "167cm",
+  "measurements": "胸 99 腰 63 臀 94",
+  "cup": "H",
+  "description": "橘瑪麗（日文：橘メアリー，1993年7月7日—），日本AV女優。 所屬事務所是LIGHT。經歷2014年以企劃單體女優的身份出道，是位高身材的巨乳AV女優[2]。 所屬事務所是LIGHT。2016年1月在澀谷道頓堀劇場的脫衣舞劇場出道。2019年2月演出於SOD販售的中國向作品（僅於日本國內販售）「百聞不如一見!SOD都是真的、帯大家體験情色文化的最先端―日本!!改編自真実案例 影像介紹日本観光須注意事項全片中文発音東京肉穴淫語癡女物語」[3]，同時這部作品入選AV OPEN 2018的企劃部門。2018年7月30日加入ギンギン♂ガールズ。人物興趣是DJ，專長有中文檢定2級、絕對音感。 前口腔衛生師。初體驗是在高中2年級。在2016年『週刊實話』報導她與駱野英孝有關係。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "別致顔值",
+    "修長癡體",
+    "極上巨乳",
+    "極上身材",
+    "禦姐",
+    "野性",
+    "高妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/d0c551b0-b920-41c5-896b-40dcf082a416.html",
+  "aliases": [
+    "Mary Tachibana",
+    "Yumi Natsume",
+    "夏目ゆみ",
+    "橘メアリー",
+    "立花メアリー"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/w-Fitch/AI-Fix-橘メアリー.jpg",
+    "https://picture.yoshiclub.xyz/20231013/5e796dd5-b6af-4d6f-8a63-62571c7c2acb.jpg",
+    "https://picture.yoshiclub.xyz/20231013/6577c061-d559-4815-8922-f9e09703b86c.jpg",
+    "https://picture.yoshiclub.xyz/20231013/f4d8a4d5-4b91-4423-b815-e91af12bf0ef.jpg",
+    "https://picture.yoshiclub.xyz/20231013/1cf594e2-e200-4f2f-9f48-767a77aab76d.jpg",
+    "https://picture.yoshiclub.xyz/20231013/2c2f9ff6-04c1-4662-b36e-843eb9bec89a.jpg",
+    "https://picture.yoshiclub.xyz/20231013/29e88a59-0408-43e4-9eb9-ef653d0f7923.jpg",
+    "https://picture.yoshiclub.xyz/20231013/08da888a-d8b1-448b-ad86-6638cc43c54b.jpg",
+    "https://picture.yoshiclub.xyz/20231013/18a89087-3d05-4b54-a6a4-489cc976414d.jpg",
+    "https://picture.yoshiclub.xyz/20231013/59416d64-cf8c-4eb6-9b51-3bbf0fa5bd83.jpg",
+    "https://picture.yoshiclub.xyz/20231013/3b1a2e80-eca7-492a-ae40-b711be427c12.jpg",
+    "https://picture.yoshiclub.xyz/20231013/49e3dc30-e137-4941-b0e7-6da8cdf3c6d2.jpg",
+    "https://picture.yoshiclub.xyz/20231013/c444798b-b2e6-48f7-843f-cbca47f3b8e4.jpg",
+    "https://picture.yoshiclub.xyz/20231013/dd7447db-aa32-4021-b81f-d75539ffebf3.jpg",
+    "https://picture.yoshiclub.xyz/20231013/f2614ef3-7c45-4cd9-bc89-4d342ebde36a.jpg",
+    "https://picture.yoshiclub.xyz/20231013/b9f2d237-4cc0-4a1d-8c12-bcecaea48db4.jpg",
+    "https://picture.yoshiclub.xyz/20231013/5c7dd800-5db5-477d-a21f-49d31f5de3fd.jpg",
+    "https://picture.yoshiclub.xyz/20231013/65a77e86-fcf9-47c6-98ba-e788c3585424.jpg",
+    "https://picture.yoshiclub.xyz/20231013/03104e8d-4659-4ef4-b434-8027b3f3aab0.jpg"
+  ]
+};

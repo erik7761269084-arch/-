@@ -1,0 +1,57 @@
+// 107_AVactress_data.js
+window.actressData = {
+  "id": 107,
+  "name": "Miru",
+  "age": 26,
+  "birthday_date": "1999-11-29",
+  "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+  "background_img": null,
+  "zodiac": "射手座",
+  "height": "157cm",
+  "measurements": "胸 82 腰 54 臀 84",
+  "cup": "E",
+  "description": "今天給大家介紹一位艾微界技術流她是邪惡帝國S1的超級新人她是業界最均衡的後起之秀她顏高形好不以外貌驚天下她就是坂道美琉，一位以技巧讓業界為之傾倒的戰爭機器坂道みる（坂道美琉）坂道美琉的崛起對於整個業界來說都可以說是天才軌跡，她本身底子就好，然而她並不以容貌為主打，反而以另外一種姿態征服了業界觀眾，評價她其實不能說她是一位演技很好的業界演員，但是她絕對是一個擁有高技巧類型的演員，昨天天使萌確定移籍FALENO，所以我們也有必要講一下S1中除了安齋拉拉和三上悠亞之外，最不容失去的坂道美琉。集團的介紹上也是一位才18歲的新人是一位非常出色的女騎士，具有非常高超的技巧，從那時候開始，坂道美琉就一直是主打技巧流的設定。她不會任由男演員擺佈甚至不會讓男演員佔據主導地位而是會展開反攻，佔據主導地位FANZA的最優秀新人賞也拿下第二名明里紬、坂道美琉她能這麼火，顏值條件只是一個因素，更大的因素就是她異於常人的武戲天賦，可能第一眼不會被她所驚艷，但是看過她武打戲的觀眾；絕對會發自內心的感嘆一聲：這妹紙真生猛。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "萌妹子",
+    "娃娃臉",
+    "極上美人",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/fb7302cb-669b-4a94-bc22-ef6f53676b75.html",
+  "aliases": [
+    "Miru Sakamichi",
+    "坂道みる",
+    "坂道美琉"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-AVDBS/AI-Fix-坂道みる.jpg",
+    "https://picture.yoshiclub.xyz/20230820/86b3d84e-a45a-4a9b-8f91-29884850c021.jpg",
+    "https://picture.yoshiclub.xyz/20230820/b9f2ebbb-6e8d-4ec7-ba5d-d587c5bdf63c.jpg",
+    "https://picture.yoshiclub.xyz/20230820/c4752ad5-c2d1-4651-8bd8-db71d72617e8.jpg",
+    "https://picture.yoshiclub.xyz/20230820/f7fc6d15-d609-4f8d-83bf-4e4990e54e0c.jpg",
+    "https://picture.yoshiclub.xyz/20230820/26c6e328-3c11-426f-a7d4-5fc0870095c2.jpg",
+    "https://picture.yoshiclub.xyz/20230820/4b6549cc-8f68-470e-b0b5-3d70959c6893.jpg",
+    "https://picture.yoshiclub.xyz/20230820/776c4c68-5a0e-4d47-aedf-d6c7b3b04dd1.jpg",
+    "https://picture.yoshiclub.xyz/20230820/05802919-2ed7-4d2e-a22d-4e54795cb2ce.jpg",
+    "https://picture.yoshiclub.xyz/20230820/ef659398-4e27-417c-a80c-120f88e5251b.jpg",
+    "https://picture.yoshiclub.xyz/20230820/2628b91a-76af-44a0-b8c8-82f9214609b5.jpg",
+    "https://picture.yoshiclub.xyz/20230820/305c0dd1-80bc-42b5-919a-1c0814b7eb77.jpg",
+    "https://picture.yoshiclub.xyz/20230820/b1987ba6-7272-4082-93c6-8eafe2b20b79.jpg",
+    "https://picture.yoshiclub.xyz/20230820/51a7a0f5-f138-45ee-994b-6b5d5d8d07b0.jpg",
+    "https://picture.yoshiclub.xyz/20230820/9c0a8bb7-da5b-436d-81fd-35bf49c40ed8.jpg",
+    "https://picture.yoshiclub.xyz/20230820/f4037ce3-f11b-4872-9d8a-246bf5942f52.jpg",
+    "https://picture.yoshiclub.xyz/20230820/fd26e2b5-aba8-4c72-8db9-c434a163e82d.jpg",
+    "https://picture.yoshiclub.xyz/20230820/cfed2d27-930c-4231-9cc8-36ac1af06c75.jpg",
+    "https://picture.yoshiclub.xyz/20230820/e768ad8e-5efd-4098-bed1-c7b3d6c05e54.jpg"
+  ]
+};

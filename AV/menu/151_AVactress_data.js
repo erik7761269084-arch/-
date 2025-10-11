@@ -1,0 +1,57 @@
+// 151_AVactress_data.js
+window.actressData = {
+  "id": 151,
+  "name": "葵伊吹",
+  "age": 24,
+  "birthday_date": "2001-05-18",
+  "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+  "background_img": null,
+  "zodiac": "金牛座",
+  "height": "162cm",
+  "measurements": "胸 80 腰 59 臀 90",
+  "cup": "G",
+  "description": "葵伊吹（日語：葵いぶき／あおいいぶきAoi Ibuki；2001年5月18日— ），日本AV女優。所屬於“ Attractive ”事務所。第一次經歷是在大學一年級（18歲），到出道為止經歷過的人數是兩人。她性格隨和，喜歡找樂子。她的乳房在國中時開始變大，隨著年級的增加罩杯的尺寸也跟著增加。不過據說直到出道之前，她的身材都沒有被人誇過。她透過MOODYZ的關係結識的石原希望是私下經常來往的朋友。出道作品為2020年7月15日當週FANZA Video Floor周榜AV排名第12 。同年7月，同年7月FANZA Mail Order Floor月榜AV女優排名第10 。根據朝日娛樂研究（與FANZA合作），出道作品在2020年AV年度銷量排行榜中排名第11位。2021年1月26日，她在推特上宣布將所屬事務所移至Bambi Promotion，並改名為“翼葵”（つばさあおい）。同年10月1日，她宣布將以“葵伊吹”的身份再次出演。回到了出道時的事務所Attractive。朝日娛樂於2022年5月公佈的“2022現役AV女優SEXY總選舉”中排名第50位。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "修長癡體",
+    "娃娃臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/cebf9ef4-3072-429d-823a-76194d884f8f.html",
+  "aliases": [
+    "Aoi Tsubasa",
+    "Ibuki Aoi",
+    "あおいいぶき",
+    "翼あおい",
+    "葵いぶき"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-葵いぶき.jpg",
+    "https://picture.yoshiclub.xyz/20230912/85d4d32a-c5dd-4fe0-bbfe-d5c840c4658e.jpg",
+    "https://picture.yoshiclub.xyz/20230912/a6f17904-479f-4b4a-a476-2c132e422089.jpg",
+    "https://picture.yoshiclub.xyz/20230912/9a0b362d-2e5f-46fe-a956-a770ba61da83.jpg",
+    "https://picture.yoshiclub.xyz/20230912/328227f0-f68b-4bb6-8f9c-98b0e043d19e.jpg",
+    "https://picture.yoshiclub.xyz/20230912/4a51e78e-a0de-4e64-8c98-108c1c0312ae.jpg",
+    "https://picture.yoshiclub.xyz/20230912/73f36713-c679-4388-a001-91f7a2ff1deb.jpg",
+    "https://picture.yoshiclub.xyz/20230912/45fb189f-c939-478c-b7b9-c186c7062013.jpg",
+    "https://picture.yoshiclub.xyz/20230912/f1d7ddad-8952-4fff-b1ef-918474caf8ed.jpg",
+    "https://picture.yoshiclub.xyz/20230912/68c8a535-4b15-4860-b2ea-b7693f549612.jpg",
+    "https://picture.yoshiclub.xyz/20230912/2b74c49d-6972-4cdc-acd6-1b9d0cf82452.jpg",
+    "https://picture.yoshiclub.xyz/20230912/53761bce-d76b-42d9-940b-faf1337bfb3e.jpg",
+    "https://picture.yoshiclub.xyz/20230912/11ed9f37-2a99-48ff-8558-01452d594d12.jpg",
+    "https://picture.yoshiclub.xyz/20230912/86bc050f-a6e5-4b04-8a71-39e144489cca.jpg",
+    "https://picture.yoshiclub.xyz/20230912/0142fec8-a4c4-49c0-80ce-4254bf6444d4.jpg",
+    "https://picture.yoshiclub.xyz/20230912/e9789f42-609c-4c2a-b693-7eb03ea33655.jpg",
+    "https://picture.yoshiclub.xyz/20230912/7fae7c51-9209-4de1-ad8a-4a3711f07a0a.jpg",
+    "https://picture.yoshiclub.xyz/20230912/6b5f74dc-1ee2-4fbe-954c-4729593697df.jpg",
+    "https://picture.yoshiclub.xyz/20230912/cd6a6013-c5a6-4430-bff5-8586d3ffccf0.jpg"
+  ]
+};

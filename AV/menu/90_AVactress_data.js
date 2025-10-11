@@ -1,0 +1,58 @@
+// 90_AVactress_data.js
+window.actressData = {
+  "id": 90,
+  "name": "優梨舞奈",
+  "age": 30,
+  "birthday_date": "1995-05-31",
+  "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "155cm",
+  "measurements": "胸 92 腰 67 臀 97",
+  "cup": "G",
+  "description": "優梨舞奈（日文：優梨まいな，1995年5月31日—），出身於埼玉縣的AV女優。 所屬事務所是LINX。個人履歷2017年10月以「『広告代理店で動く一般女性が変態ドMな性癖を隠しきれずに’AV出道作」為廣告標語，在MOODYZ出道。興趣是素描、料理、寫書法和插花。喜歡的食物是番茄和魚。2020年12月獲得「年間ヌキルバー大賞2020」。",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "女人味",
+    "長相溫柔",
+    "美臀",
+    "鄰家女",
+    "優雅",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/a5b59ec3-7266-40f0-b61c-603504f9da5d.html",
+  "aliases": [
+    "Kaho Shiina",
+    "Maina Yuuri",
+    "Risa Kudo",
+    "久堂理沙",
+    "优梨舞奈",
+    "優梨まいな",
+    "椎名果歩",
+    "神田詩乃",
+    "舞奈友里"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/7-Moodyz/優梨まいな.jpg",
+    "https://picture.yoshiclub.xyz/20231211/6d4133d5-5569-4444-9f01-8172d56cb46c.jpg",
+    "https://picture.yoshiclub.xyz/20231211/804c89a2-5a7b-4289-ae90-db064d571099.jpg",
+    "https://picture.yoshiclub.xyz/20231211/e72176c4-4a63-453f-a7ef-70e061664427.jpg",
+    "https://picture.yoshiclub.xyz/20231211/dbb7ce5e-a011-4c9e-bbc2-f2526f8045ec.jpg",
+    "https://picture.yoshiclub.xyz/20231211/6e4b3604-6027-4dc7-bd01-fcc557f82cf0.jpg",
+    "https://picture.yoshiclub.xyz/20231211/9185d920-de50-4498-a33c-d691a62cd67e.jpg",
+    "https://picture.yoshiclub.xyz/20231211/c748a470-b7cf-40b5-8d57-8f55e7573434.jpg",
+    "https://picture.yoshiclub.xyz/20231211/680ef380-3b05-4cfe-8856-e743413e4f05.jpg",
+    "https://picture.yoshiclub.xyz/20231211/537bab7f-ee28-4f97-b2f8-7683d1e01d01.jpg",
+    "https://picture.yoshiclub.xyz/20231211/be40d547-9aab-41f3-ba44-cd53081b133c.jpg",
+    "https://picture.yoshiclub.xyz/20231211/b721e166-5615-429d-982b-192d546779d3.jpg",
+    "https://picture.yoshiclub.xyz/20231211/225d7347-76a3-4b92-9543-c27007a13b2c.jpg",
+    "https://picture.yoshiclub.xyz/20231211/20ba19da-765e-4ac2-a94f-2104618eb79b.jpg",
+    "https://picture.yoshiclub.xyz/20231211/e1f7f597-8e0b-4a34-932b-ac83aed49eeb.jpg",
+    "https://picture.yoshiclub.xyz/20231211/dc7d2e9c-c818-46fd-af4c-3532b42667d4.jpg",
+    "https://picture.yoshiclub.xyz/20231211/057a6ee4-7b45-4cbc-b51e-4f7e942f2010.jpg",
+    "https://picture.yoshiclub.xyz/20231211/36faf2b2-a55a-4e33-828f-23a89c9cf7cd.jpg",
+    "https://picture.yoshiclub.xyz/20231211/375dc8c4-82b1-4d95-b690-524bff314903.jpg"
+  ]
+};

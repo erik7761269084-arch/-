@@ -1,0 +1,57 @@
+// 28_AVactress_data.js
+window.actressData = {
+  "id": 28,
+  "name": "桃乃木香奈",
+  "age": 31,
+  "birthday_date": "1994-12-24",
+  "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "153cm",
+  "measurements": "胸 86 腰 54 臀 80",
+  "cup": "E",
+  "description": "桃乃木香奈，日文名是桃乃木かな，Kana Momonogi，出生于1996年12月24日，来自于日本埼玉县，职业是AV女优， [1]  兴趣爱好是卡拉OK、唱歌。\n\n现在提起桃乃木香奈，很多小伙伴肯定知道她是一位青春美少女系列的老师，可是，很多人不知道，她在刚出道的时候曾经因为肥胖一下海便沉入了海底。\n\n不过万幸的是，桃乃老师并没有因此就放弃，而是努力健身，成功瘦身20多斤，经过减重的她，瞬间变成了一个超级美少女，并且相比刚出道时肤质也有了很大的改善，虽然身体有些人工微调，但也无伤大雅了，毕竟这在业界也在所难免，毕竟业界还有个人造人呢。\n\n爱唱歌的桃乃老师也算是业界当中较少有的高颜值女孩。她身高只有153公分，个子虽然矮小，但是脸蛋却十足的漂亮，鼻子和脸型都非常的有特色，尤其在cosplay当中她的五官更是能够完美的贴合所扮演的角色",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "修長癡體",
+    "極上身材",
+    "極上美人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/79937582-85bd-401f-a2e6-6cf9e50974af.html",
+  "aliases": [
+    "Kana Momonogi",
+    "Maasa Matsushima",
+    "松嶋真麻",
+    "桃乃木かな"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-桃乃木かな.jpg",
+    "https://picture.yoshiclub.xyz/20230408/a231c105-971a-458d-9527-17811b7abd6c.jpg",
+    "https://picture.yoshiclub.xyz/20230408/6b4b81c3-3811-4142-bcd3-074c34c709c8.jpg",
+    "https://picture.yoshiclub.xyz/20230408/1c5dbdc1-4dc9-454d-a4a1-995e455b8482.jpg",
+    "https://picture.yoshiclub.xyz/20230408/9eeb4dfb-f368-435b-b25a-999296c45dd8.jpg",
+    "https://picture.yoshiclub.xyz/20230408/71ee8145-1f82-4ff1-802a-66ae44f7b268.jpg",
+    "https://picture.yoshiclub.xyz/20230408/bbd2c701-1499-491b-b4c9-7481a8a9fd28.jpg",
+    "https://picture.yoshiclub.xyz/20230408/1d3b1650-d2f9-42e4-bf74-dc6a1aa31b58.jpg",
+    "https://picture.yoshiclub.xyz/20230408/e9bd4772-9cfa-4575-9ba1-a2c693ed45a6.jpg",
+    "https://picture.yoshiclub.xyz/20230408/06f986b1-b336-47ec-a363-7d12bea6793e.jpg",
+    "https://picture.yoshiclub.xyz/20230408/618a8b64-09ff-4a37-94ea-d3f7c745c953.jpg",
+    "https://picture.yoshiclub.xyz/20230408/8bafd421-2fb4-4fab-bb62-9341ff8a3219.jpg",
+    "https://picture.yoshiclub.xyz/20230408/0254bbd2-6814-43c6-b80f-7a6d96e1fcd0.jpg",
+    "https://picture.yoshiclub.xyz/20230408/fe2ce2d5-cb83-41ce-9fb9-bcadf96031f0.jpg",
+    "https://picture.yoshiclub.xyz/20230408/fcc4a3a7-c822-4d3d-b13e-fb622cd2f463.jpg",
+    "https://picture.yoshiclub.xyz/20230408/7cc0db61-a7a9-446e-a31a-35e1df590e54.jpg",
+    "https://picture.yoshiclub.xyz/20230408/119d6c62-44f8-4591-9e44-a2f153367344.jpg",
+    "https://picture.yoshiclub.xyz/20230408/64db28bc-92d0-4208-82f2-55ce7f8f770c.jpg",
+    "https://picture.yoshiclub.xyz/20230408/ca32668f-b1e4-42bb-8567-8b257c3fc853.jpg"
+  ]
+};

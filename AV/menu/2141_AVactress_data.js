@@ -1,0 +1,57 @@
+// 2141_AVactress_data.js
+window.actressData = {
+  "id": 2141,
+  "name": "和久井なな",
+  "age": 34,
+  "birthday_date": "1991-07-24",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250813/202508131034448888_71152_s.webp",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "153cm",
+  "measurements": "胸 85 腰 57 臀 82",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "性感",
+    "天然",
+    "嫵媚",
+    "別致顔值",
+    "鄰家女",
+    "優雅",
+    "妖媚"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1af312b5-7322-428c-b477-4455feaf7bc3.html",
+  "aliases": [
+    "Marina Takano",
+    "Nana Wakui",
+    "Yuuki Fuwari",
+    "ふわりゆうき",
+    "和久井ナナ",
+    "高野満里奈"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250813/2025081310334777_17037_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103348523523_96909_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103348896896_38657_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103350782782_45947_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103352334334_87298_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103352790790_22957_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103354796796_18850_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103355317317_48749_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103355859859_68102_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103357642642_79426_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103400388388_43576_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103402197197_85129_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103404811811_32366_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103412761761_50744_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103413182182_80348_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103414717717_11406_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103415124124_13435_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103416659659_70112_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103417320320_58421_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250813/20250813103418744744_43004_l.webp"
+  ]
+};

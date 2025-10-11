@@ -1,0 +1,55 @@
+// 720_AVactress_data.js
+window.actressData = {
+  "id": 720,
+  "name": "緒川春",
+  "age": 38,
+  "birthday_date": "1987-04-01",
+  "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+  "background_img": null,
+  "zodiac": "白羊座",
+  "height": "154cm",
+  "measurements": "胸 92 腰 58 臀 82",
+  "cup": "F",
+  "description": "看到twitter的變化，你就知道笹倉杏沒了〜但不必憂傷，笹倉杏雖然沒了，不過AV界卻多了一位緒川はる(緒川春)ー沒錯，公告寫得很清楚，她換了事務所、跳槽去了リスタープロ(LiStar Pro)，所以換了藝名⋯這事在AV界屢見不鮮了，女優為了發展得更好跳槽換事務所的狀況天天都在發生，不過笹倉杏的移籍有兩件蠻有意思的事，讓我來為大家補充一下：首先，笹倉杏公布了自己的真實年紀，她是1987年生，今年35歲了ー也就是說一開始1990年生的設定是把她做小了，出道時就已經快30歲了；而她這年紀也很有意思，不只是按照AV界的慣例用比實際年輕3歲的年紀出道，重點是她從昭和年間(裕仁天皇年號)變成了平成年間(明仁天皇年號)出生的女孩，所以在公布年紀的時候她是很驕傲地說自己是昭和子(昭和時代出生的小孩)〜其實笹倉杏，喔不，緒川はる(緒川春)沒必要公布自己年紀的，但一來可能出道那麼多年了，不太可能因此掉粉；二來換了名字也是要有吸引大家關注的地方，所以，我們就記住，緒川はる(緒川春)已經35歲了：再來就是她新的事務所リースタプロ(LiStar Pro)，緒川はる(緒川春)說的很清楚了，這是移籍，她換了事務所，不過請大家移駕這家事務所的官網ー封面圖是夏木りん(夏木鈴)、百瀬あすか(百瀨飛鳥)以及高橋しょう子(高橋聖子)，下方還有美波こづえ(美波梢)的寫真，這不都是原來GlanzPro、也就是笹倉杏那間事務所的人嗎？再加上這間經紀公司其他的女優幾乎都撤下了グランツプロ(GlanzPro)的名字，所以與其說笹倉杏是移籍了，不如說跟著事務所一起改名了〜事務所為什麼要改名？大多就是砍掉重練，要和過去畫清界線(所以笹倉杏說自己是移籍)，所以領導階層通常會換一群人(當然真正發號施令的人大多不變啦)，如果，如果明年要辦TRE的話主辦單位應該會和這間事務所聯絡，屆時再看看有沒有能補充的。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "美少女",
+    "長相甜美",
+    "極上美人",
+    "網紅臉",
+    "整容臉",
+    "鷲鼻"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/99c9c28c-0899-4720-aa66-dd8a70bd8916.html",
+  "aliases": [
+    "Akari Ogawa",
+    "An Sasakura",
+    "Aya Takagi",
+    "Haru Ogawa",
+    "Makoto Yoshizawa",
+    "吉澤真琴",
+    "笹仓杏",
+    "笹倉杏",
+    "緒川はる",
+    "緒川明里",
+    "绪川春",
+    "高木あや"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-笹倉杏.jpg",
+    "https://picture.yoshiclub.xyz/20240917/4337488f-48cf-4b3b-aed2-b4a9f5f27346.jpg",
+    "https://picture.yoshiclub.xyz/20240917/5f2a2ca5-3ac8-47f6-ae06-6e2a21f9afdc.jpg",
+    "https://picture.yoshiclub.xyz/20240917/649454ac-9d4c-4d76-8417-7aab6d38b38c.jpg",
+    "https://picture.yoshiclub.xyz/20240917/09a3ca27-3687-42ee-aec0-2ab24d36820a.jpg",
+    "https://picture.yoshiclub.xyz/20240917/0b9000ad-88c7-463e-a678-0cba4d7fcfba.jpg",
+    "https://picture.yoshiclub.xyz/20240917/7415127b-63a3-4709-af0a-f46a18fa5b76.jpg",
+    "https://picture.yoshiclub.xyz/20240917/adf9cc6d-d7fa-4a84-ae94-ec66cdfe32f1.jpg"
+  ]
+};

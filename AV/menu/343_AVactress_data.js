@@ -1,0 +1,57 @@
+// 343_AVactress_data.js
+window.actressData = {
+  "id": 343,
+  "name": "藤田梢",
+  "age": 24,
+  "birthday_date": "2001-05-20",
+  "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+  "background_img": null,
+  "zodiac": "金牛座",
+  "height": "153cm",
+  "measurements": "胸 85 腰 60 臀 87",
+  "cup": "D",
+  "description": "藤田梢（日语：藤田こずえ，2001年5月20日—），日本AV女优、偶像。出身于神奈川县。所属事务所是プライムエージェンシー。2020年9月25日在印象影片中以『キミ、10代、恋の予感』的非裸情色系偶像身分出道。2021年2月5日在Twitter上宣布以AV女优身分出道。兴趣是观看横滨FC和大分三神的比赛。擅长拉小提琴。憧憬的人是上原亚衣和苍井空。现役的女优有乙白沙也加和潮美舞。男性艺人有玉木宏、ななまがり・森下直人。",
+  "features": [
+    "美人",
+    "美腳",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "嬌小身材",
+    "肉嘟嘟",
+    "娃娃臉",
+    "矮小",
+    "蘿莉",
+    "媚眼",
+    "偶像女團",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/cab597ab-6af2-4222-9f3d-ddfca3182cd8.html",
+  "aliases": [
+    "Kozue Fujita",
+    "藤田こずえ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230921/cf4064bf-f37b-427c-9efe-1ab627f6e413.jpg",
+    "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+    "https://picture.yoshiclub.xyz/20230921/1bcccb62-93d3-4314-8eb2-4f977c1fa5d4.jpg",
+    "https://picture.yoshiclub.xyz/20230921/687cfb1c-5733-4b08-9c69-fb4f5087108a.jpg",
+    "https://picture.yoshiclub.xyz/20230921/b1168225-44c1-40af-8e82-db764e280e17.jpg",
+    "https://picture.yoshiclub.xyz/20230921/0d9b203d-6fbd-451c-951e-613fedcef378.jpg",
+    "https://picture.yoshiclub.xyz/20230921/ea94ad2b-ecda-4aec-bb52-31b39a595b8d.jpg",
+    "https://picture.yoshiclub.xyz/20230921/f0c0a6b4-2698-4477-bd5f-2301865a02e4.jpg",
+    "https://picture.yoshiclub.xyz/20230921/0d5e7975-15bb-4e5c-8733-0817c5042c01.jpg",
+    "https://picture.yoshiclub.xyz/20230921/82538303-dbc7-4ef8-be42-d23839ba47e9.jpg",
+    "https://picture.yoshiclub.xyz/20230921/b4f56066-57fb-4fbc-b016-9df3096609f7.jpg",
+    "https://picture.yoshiclub.xyz/20230921/861357dc-8b9e-4529-9379-afc2ea5cee73.jpg",
+    "https://picture.yoshiclub.xyz/20230921/42f29690-8959-440f-8d43-27929d21f375.jpg",
+    "https://picture.yoshiclub.xyz/20230921/5ce187cb-b31e-41a3-a5e4-5bc1cf55075d.jpg",
+    "https://picture.yoshiclub.xyz/20230921/ba99ef5b-5217-4270-8c8f-00b1ac8f63bf.jpg",
+    "https://picture.yoshiclub.xyz/20230921/f6befd81-b210-4a6c-99dc-a4028da15823.jpg",
+    "https://picture.yoshiclub.xyz/20230921/9df9798b-c330-4f7e-9799-e0b764038d11.jpg",
+    "https://picture.yoshiclub.xyz/20230921/911b1882-6fe7-4ff7-87cb-b1e5a929cc70.jpg",
+    "https://picture.yoshiclub.xyz/20230921/b889ed37-436f-4f61-bc32-e95342669e8c.jpg"
+  ]
+};

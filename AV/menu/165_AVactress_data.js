@@ -1,0 +1,56 @@
+// 165_AVactress_data.js
+window.actressData = {
+  "id": 165,
+  "name": "山岸逢花",
+  "age": 33,
+  "birthday_date": "1992-11-30",
+  "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+  "background_img": null,
+  "zodiac": "射手座",
+  "height": "161cm",
+  "measurements": "胸 82 腰 59 臀 86",
+  "cup": "C",
+  "description": "山岸逢花（やまぎしあいか [6]  ），1992年11月30日出生于神奈川县 [5]  ，日本AV女优 [7]  ，前东海地方电视台播报员 [11]  。现为「PREMIUM」专属女优 [8]  ，日本偶像音乐团体“惠比寿麝香葡萄”成员 [5]  ，隶属于「CRUSE GROUP」事务所 [12]  。主要作品有《无情的光芒》 [10]  。\n\n2017年7月，作为「PREMIUM」的专属女优出道。 [8] \n2020年2月11日，在惠比寿麝香葡萄的《真夜中的运动会》活动录影中，作为候补身份现身 。而在3月31日的播放中，正式宣布加入惠比寿麝香葡萄成员 。 [8] \n2021年10月2日，与细川佳央、佐仓萌、饭岛大介等联袂出演的剧情电影《关上门的女教师》在日本上映。 [13]  11月19日，与本庄铃、荣川乃亚、爱佳、久留木玲等联袂出演的舞台剧映像化电影《无情的光芒》在日本上映。 [14]",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "女人味",
+    "性感",
+    "美臀",
+    "長相可愛",
+    "萌妹子",
+    "修長癡體",
+    "小乳房",
+    "極上身材",
+    "極上美人",
+    "網紅臉",
+    "惠比壽麝香葡萄"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/ebdb6da8-995c-458f-9b30-651b176f0ddd.html",
+  "aliases": [
+    "Aika Yamagishi",
+    "山岸あや花"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-山岸逢花.jpg",
+    "https://picture.yoshiclub.xyz/20230406/4dd5ae50-34f5-43e4-941d-6ff913659906.jpg",
+    "https://picture.yoshiclub.xyz/20230406/e3a71b53-0329-4e0e-867c-553d635785e8.jpg",
+    "https://picture.yoshiclub.xyz/20230406/160bab8b-19d1-4510-9eba-8c6747b20b74.jpg",
+    "https://picture.yoshiclub.xyz/20230406/e5f165d0-6782-441c-9d4a-890a65de5896.jpg",
+    "https://picture.yoshiclub.xyz/20230406/a6ce4205-91ee-481b-a1b3-b2d9ace87335.jpg",
+    "https://picture.yoshiclub.xyz/20230406/32e90585-4a27-4e1c-a921-d8c2bdf123ae.jpg",
+    "https://picture.yoshiclub.xyz/20230406/ef0d659b-7ec7-4bed-9f29-64c57b0049d3.jpg",
+    "https://picture.yoshiclub.xyz/20230406/dbc07765-2960-4022-b917-d1bdf776447b.jpg",
+    "https://picture.yoshiclub.xyz/20230406/d604260e-a6eb-4f93-ac24-2bf9ec98b658.jpg",
+    "https://picture.yoshiclub.xyz/20230406/7ecfa7ec-5702-48cf-8026-9d64004d95c6.jpg",
+    "https://picture.yoshiclub.xyz/20230406/ca48b377-5a3f-4cf8-9285-05a66071763a.jpg",
+    "https://picture.yoshiclub.xyz/20230406/18f4ab2e-3953-40ee-8793-b8d171b19727.jpg",
+    "https://picture.yoshiclub.xyz/20230406/352493ba-277e-49a2-88ce-e59a3abb7393.jpg",
+    "https://picture.yoshiclub.xyz/20230406/42dd2153-360b-4d75-b0cd-4846570a4654.jpg",
+    "https://picture.yoshiclub.xyz/20230406/a95d1548-677c-4400-97b2-4d8a2351d7ec.jpg",
+    "https://picture.yoshiclub.xyz/20230406/f5e5f681-3bc9-4912-9694-67f79168ef3e.jpg",
+    "https://picture.yoshiclub.xyz/20230406/dd46baa4-acf2-4119-baa5-e8bd7fbf3997.jpg",
+    "https://picture.yoshiclub.xyz/20230406/207460f0-18bf-40a0-8427-72adeb62eb40.jpg"
+  ]
+};

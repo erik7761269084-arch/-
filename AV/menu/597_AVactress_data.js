@@ -1,0 +1,56 @@
+// 597_AVactress_data.js
+window.actressData = {
+  "id": 597,
+  "name": "伊東沙蘭",
+  "age": 46,
+  "birthday_date": "1979-08-18",
+  "img_url": "https://picture.yoshiclub.xyz/20250403/96192768-2b0b-4307-a79d-fc6fea6db49e.jpg",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "160cm",
+  "measurements": "胸 80 腰 58 臀 85",
+  "cup": "B",
+  "description": "AV女優這麼多，哪一種類型最受歡迎？最新成立的片商「KANBi」的答案是讓人有背德快感的人妻女優，從8月10日開始，這家片商一口氣推出3位新人全是無名指戴著戒指的人妻，就是要影迷知道淫人妻女笑呵呵的快感～首先來看第一位，蓮美柚香。她是三位新人中等級最低的一位，因為其他兩位女優「米倉穂香」和「織笠るみ(織笠留美)」都在作品標題中註明是「專属第一弾」，只有她不是。當然，這家片商要怎麼經營女優、專屬合約簽了多長現在還看不出來，但大家都有的東西她沒有似乎就矮了一截…不過這並不代表她的設定不如其他兩位女優：封面已經寫了，雖然嫁為人妻，但蓮美柚香還有在當看護婦(護士)，只是因為工作壓力太大讓她染上了過度消費的惡習，為了有更多的錢可用所以才下海成了AV女優。而她的賣點可不只是護士服喔，在床上，她是個極度喜歡侍候男人的超M女，男人愈是粗暴她愈有感覺，把手綁起來很不錯、把眼睛蒙起來會更好，當然，抽插時不用憐香惜玉，每一下都要用力地頂到花心她才會爽～每次看到這種女優我的小弟弟都會有爆破的衝動，更何況這位蓮美柚香看起來臉是臉胸是胸而且還有護士服當黃金聖衣穿，更不要說她在正式出道前在AV先修班MGStage的作品「【初撮り】ネットでAV応募→AV体験撮影 690 柚香 35歳 看護師」，我的天啊，那個外型真是神仙姐姐了，我的小弟弟都硬成金剛杵了：怎麼樣？你是不是認為這麼優質人妻怎麼會沒有專屬合約？看著她twiiter的頭像，我好像明白了什麼，8月10日，希望迎接我們的不是殘酷的真相啊！",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "長相溫柔",
+    "嫵媚",
+    "熟女",
+    "人妻",
+    "小乳房",
+    "優雅",
+    "禦姐"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/c5bb6f77-bc93-4dde-8ca2-482791049e0d.html",
+  "aliases": [
+    "Ito Sara",
+    "Asagiri Reika",
+    "Asai Ryoka",
+    "Asakawa Mayumi",
+    "Kisaragi Junko",
+    "Minase Izumi",
+    "Sara Ito",
+    "Shitajima Saori",
+    "Suzuka Asai",
+    "下島紗織",
+    "如月潤子",
+    "朝井涼香",
+    "朝霧れいか",
+    "水無瀬いずみ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-朝霧れいか.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-朝井涼香.jpg",
+    "https://picture.yoshiclub.xyz/20250403/96192768-2b0b-4307-a79d-fc6fea6db49e.jpg",
+    "https://picture.yoshiclub.xyz/20250403/fb68be12-5212-44e7-8017-85f949fad224.jpg",
+    "https://picture.yoshiclub.xyz/20250403/8818ef9f-d7c4-4c41-96ac-8d6c94844541.jpg",
+    "https://picture.yoshiclub.xyz/20250403/c943ba16-3133-43d9-9165-5a5dcf31eab0.jpg",
+    "https://picture.yoshiclub.xyz/20250403/37083ddd-ba64-4c19-af9e-e457206872dc.jpg",
+    "https://picture.yoshiclub.xyz/20250403/f791e35d-67c6-4540-afb4-17e26feddd72.jpg",
+    "https://picture.yoshiclub.xyz/20250403/5d0c4b69-0a9d-4b5c-ab87-c95b2ec6c6df.jpg",
+    "https://picture.yoshiclub.xyz/20250403/f02d727f-6bf3-41f6-a227-ea0a0b0eac9c.jpg"
+  ]
+};

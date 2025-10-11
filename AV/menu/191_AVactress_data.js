@@ -1,0 +1,56 @@
+// 191_AVactress_data.js
+window.actressData = {
+  "id": 191,
+  "name": "市川りく",
+  "age": 23,
+  "birthday_date": "2002-01-29",
+  "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+  "background_img": null,
+  "zodiac": "水瓶座",
+  "height": "162cm",
+  "measurements": "胸 82 腰 58 臀 89",
+  "cup": "D",
+  "description": "還記得上個月女王跟各位介紹今年（2022 年）三月出道「不做偶像要做愛的S1隱藏強者－《東雲美鈴》（東雲みれい）」嗎？！沒想到今年七月又再出現一位不做偶像要做愛的AV新人……《市川理久》（市川りく）。同樣都是放棄偶像轉職AV女優，但《市川理久》（市川りく）與《東雲美鈴》（東雲みれい）因為喜歡做愛而下海不太一樣！今天要跟各位介紹的《市川理久》（市川りく）則是因為不服禁愛令！認為不能交男友、不能SEX太過壓抑不人性，進而導致她對做愛的慾望和渴求與日俱增，最後受不了轉職AV女優徹底解放～想怎麼幹就怎麼幹！",
+  "features": [
+    "美人",
+    "美腳",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "娃娃臉",
+    "小乳房",
+    "蘿莉",
+    "短髮",
+    "呆萌",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f6b1555d-d427-4910-a82c-a0390b5c42b2.html",
+  "aliases": [
+    "Riku Ichikawa",
+    "Ushio Shina",
+    "しいなうしお SIR"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240116/1f8fc191-d5ae-46a0-ae3c-a7039fda3678.jpg",
+    "https://picture.yoshiclub.xyz/20240915/03183102-3c1b-4827-9905-e671ec954ab5.jpg",
+    "https://picture.yoshiclub.xyz/20240915/3fc82979-e741-42b6-9d8d-4a63150bb3a9.jpg",
+    "https://picture.yoshiclub.xyz/20240915/5db4354e-6ad1-4b33-99b3-5861e87bb0d4.jpg",
+    "https://picture.yoshiclub.xyz/20240915/4630fe06-eeca-4d1c-a397-f5a97febc143.jpg",
+    "https://picture.yoshiclub.xyz/20240915/cfee327c-0d5a-4b42-bb65-8451f3b6ca97.jpg",
+    "https://picture.yoshiclub.xyz/20240915/beabf377-06bb-4a0b-8bae-ff93b77a9566.jpg",
+    "https://picture.yoshiclub.xyz/20240915/f6fa02e6-86bf-4303-bc90-fad310e77ef7.jpg",
+    "https://picture.yoshiclub.xyz/20240915/b282d0a7-7e88-427f-9a7d-cd9f5f0c5dd0.jpg",
+    "https://picture.yoshiclub.xyz/20240915/932ec724-a0a3-4d89-850d-0aa03b7abfdc.jpg",
+    "https://picture.yoshiclub.xyz/20240915/216eebea-0d2f-4cee-9923-b029003afc96.jpg",
+    "https://picture.yoshiclub.xyz/20240915/6c511d7b-fa84-4ea0-86d6-67ae8a6df774.jpg",
+    "https://picture.yoshiclub.xyz/20240915/82352237-08cc-4ec8-992f-3f82133aac8c.jpg",
+    "https://picture.yoshiclub.xyz/20240915/94c015e1-72f8-48ab-8459-d684ffd64101.jpg",
+    "https://picture.yoshiclub.xyz/20240915/553b49cd-d86e-4ae6-8534-81006086e703.jpg",
+    "https://picture.yoshiclub.xyz/20240915/bb08eeb3-c191-453a-8603-361bfce2cbc5.jpg",
+    "https://picture.yoshiclub.xyz/20240915/d7322c8e-c955-4a37-b582-5ec94e11fbfb.jpg",
+    "https://picture.yoshiclub.xyz/20240915/6c742078-5ea2-498d-b245-4bead60ed693.jpg",
+    "https://picture.yoshiclub.xyz/20240915/93d78996-49c3-45ed-838f-5324a86c8caa.jpg"
+  ]
+};

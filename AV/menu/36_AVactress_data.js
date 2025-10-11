@@ -1,0 +1,58 @@
+// 36_AVactress_data.js
+window.actressData = {
+  "id": 36,
+  "name": "希島愛理",
+  "age": 37,
+  "birthday_date": "1988-12-24",
+  "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "160cm",
+  "measurements": "胸 77 腰 58 臀 87",
+  "cup": "B",
+  "description": "希岛爱理，1988年12月24日出生于日本，原日本偶像音乐组合惠比寿麝香葡萄九期生。\n\n\n1988年12月24日出生的希岛爱理刚好在今天点燃了她31岁的蜡烛，作为四希中的小希，也是四希整容中唯一一位还在业界的成员，希岛爱理可以说是在这几年时光中无愧于自己的人生，在我看来业界演员中有非常多的天才，比如纱仓真菜的文才，明日花绮罗的商才，西野翔的影才等，而希岛爱理的才华发展则要更广一些，从写真、舞蹈、演技以及音乐方面，希岛爱理都展现出了她丰富的天赋能力。\n\n希岛爱理真正出道时间至今已经有9年了，但实际上她进入业界的时间相比于希崎杰西卡、希美由真、希志爱野来说要晚了几年，希岛爱理是在2011年10月份出现在大众眼中的，当时的她是一名写真模特。\n\n但是她并不是在写真界里走个过场就跳往业界，而是真正在写真界里成为一名写真偶像，而且不是那种走性感路线的偶像。这一待就在写真界中待了两年多，这也是观众们万万没想到的，2012年7月份的时候，希志爱野宣布加入初代惠比寿麝香葡萄。\n\n初代的惠比寿麝香葡萄结构组成有点复杂，它是由业界演员、写真模特、泳装模特组成的，但它最为人津津乐道的依然是它主题是由业界集团所成立的，也因此很多一开始不是业界演员的成员最终也借此跳板进入了业界。\n\n而观众对于希岛爱理进入惠比寿之后以为她会借此跳板进入业界，毕竟初代惠比寿的影响力很大，作为第一个业界女团，它的受众面非常的广，而希岛爱理在初代惠比寿中也是非常突出的存在，她的艺名来自希志爱野和希崎杰西卡，这似乎就象征着她未来也会是希军团的一员，然而观众们翘首以盼，期望着她能进入业界，她却偏偏欲拒还迎的独立在业界之外。\n\n人们对于这位大眼睛的瘦姑娘非常的有好感，希岛爱理并不是走卡哇伊路线的萌态少女，而是有着一种知性成熟的美感，又自带一股空灵的气质，在写真界的发展非常的顺利，这让她拥有非常高的关注度，整个初代惠比寿中，观众们也最希望能看到希岛爱理能进入业界，然而她进入惠比寿之后却独立在业界之外，这也让非常多人心里堵得慌，直到初代惠比寿解散之后，观众们都没有得到希岛爱理加入业界的消息。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大眼睛",
+    "長相溫柔",
+    "別致顔值",
+    "修長癡體",
+    "小乳房",
+    "優雅",
+    "極上美人",
+    "排骨精",
+    "惠比壽麝香葡萄"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9edc84b2-feac-4d19-951e-1d40386f534f.html",
+  "aliases": [
+    "Airi Kijima",
+    "Cindy Sakurai",
+    "希岛爱里",
+    "希島あいり",
+    "希島愛裏",
+    "桜井シンディ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-希島あいり.jpg",
+    "https://picture.yoshiclub.xyz/20230406/ec77a9a4-8ba8-4d92-b38c-668b0e7c304a.jpg",
+    "https://picture.yoshiclub.xyz/20230406/b8d3f8d0-9920-45e5-8dbb-52c7d9444f0c.jpg",
+    "https://picture.yoshiclub.xyz/20230406/34d721e5-9b07-451d-bcd6-9f43180c768d.jpg",
+    "https://picture.yoshiclub.xyz/20230406/6a02d8b3-c771-4809-a644-be3a6e2abbdb.jpg",
+    "https://picture.yoshiclub.xyz/20230406/201ee100-de9b-46b5-a9d3-efc16443a6e2.jpg",
+    "https://picture.yoshiclub.xyz/20230406/2b2e6110-8c32-4ba7-bded-12ee00b8b182.jpg",
+    "https://picture.yoshiclub.xyz/20230406/7843a331-a8e5-4ab1-b062-5677bee1061a.jpg",
+    "https://picture.yoshiclub.xyz/20230406/b031ca53-0c52-43c0-abf8-5c8550c34b19.jpg",
+    "https://picture.yoshiclub.xyz/20230406/372e8496-c81c-4210-9485-394d637fff06.jpg",
+    "https://picture.yoshiclub.xyz/20230406/ce52c707-55d3-45df-b05a-6d71adc2641b.jpg",
+    "https://picture.yoshiclub.xyz/20230406/511d9738-929d-4251-bb4f-85902100a953.jpg",
+    "https://picture.yoshiclub.xyz/20230406/fad39841-7795-41c1-8d20-0d524ab45948.jpg",
+    "https://picture.yoshiclub.xyz/20230406/ddb8dce4-5387-4db1-85eb-76adeaa9013b.jpg",
+    "https://picture.yoshiclub.xyz/20230406/dc6d2254-c91a-4a60-ad1a-4299610f94bf.jpg",
+    "https://picture.yoshiclub.xyz/20230406/6c17b901-cc65-47d7-8d1b-a9a9662e48ad.jpg",
+    "https://picture.yoshiclub.xyz/20230406/58065cb9-f905-469e-b8ae-585521877f7d.jpg",
+    "https://picture.yoshiclub.xyz/20230406/48d307db-7579-4dd0-8b4d-6ffd4adab788.jpg",
+    "https://picture.yoshiclub.xyz/20230406/2b8319a1-b794-4e70-bb9d-cb8beae48e62.jpg"
+  ]
+};

@@ -1,0 +1,58 @@
+// 25_AVactress_data.js
+window.actressData = {
+  "id": 25,
+  "name": "桜空桃",
+  "age": 29,
+  "birthday_date": "1996-12-03",
+  "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+  "background_img": null,
+  "zodiac": "射手座",
+  "height": "160cm",
+  "measurements": "胸 90 腰 55 臀 86",
+  "cup": "G",
+  "description": "樱空桃，第一眼看上去，就是那种温文尔雅、知书达理的大家闺秀。可是，在她温柔的外表下，包藏着刚烈爆炸的真实性情。\n\n樱空桃1996年12月3日出生，身高160cm,三围90-55-86cm。\n\n2017年，以成为歌手为目标去到了东京。虽然有着一副好嗓子，唱功也有一定功底，但还是没能成为一名一直想成为的歌手。欣然步入暗黑界出道发片。\n\n美丽的外貌、出众的身材，温柔的外在气质，使得她的出道顺风顺水，也很受市场欢迎。业内顶尖的经纪公司为她量身打造一切，并有专门的经纪人替不擅长网络社交，连自己的美照都不愿发的她，打理网络社交圈子，和粉丝交流互动。\n\n2018年获得了最佳新人，并成为暗黑界的代言人。眼看着又一位王者将要登基。或许是她爆炸的真实性情所致，她终止了活动，和经纪人也相处不快，经纪人的主要精力也不再放在她的身上。这使得她爆炸的一面彻底展现，在网上发文直接开怼。最后，经纪公司舍掉了一位优秀的经纪人，留下了樱空桃这棵摇钱树。是的，不管樱空桃性情如何，她的作品依然是销量的保证。\n\n此后樱空桃性格中暴走的一面愈发无遗，在网上公开表露想轻生的念头，在直播时讲些不着调的话语和网友互怼到崩溃痛哭。最后因一张照片，樱空桃彻底离开了社交网络。\n\n樱空桃真实的性情渐被人熟知，但她依是大家的心头好，或许是因为她内心和外表这种巨大的反差，更能吸引观众吧。哦，对了，她还怼过你们想成为的那个人——清水健！\n\n所以，不管樱空桃如何情绪不稳定，她的受欢迎程度一直不减，在每年的不同女优排行中，都能看到她的名字。她依然是片商的生财之道，依然是观众喜爱的那个“温柔”女神！",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美臀",
+    "長相清純",
+    "長相甜美",
+    "萌妹子",
+    "別致顔值",
+    "極上身材",
+    "極上美人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/a1def3aa-6910-449b-8ba8-6f22160e1459.html",
+  "aliases": [
+    "Momo Sakura",
+    "桜空もも",
+    "樱空桃",
+    "櫻空桃"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230407/8940b006-8bd8-41a2-ad5c-a27045968df8.jpg",
+    "https://picture.yoshiclub.xyz/20230407/6d75dbb8-1a88-461e-be5a-a045cb9d90f9.jpg",
+    "https://picture.yoshiclub.xyz/20230407/ab9cf651-ccf6-44dd-a3ea-23a327b0e262.jpg",
+    "https://picture.yoshiclub.xyz/20230407/cca4fba0-fce4-4a67-9ae8-a688c7fbbf67.jpg",
+    "https://picture.yoshiclub.xyz/20230407/e26dd403-5bbe-433b-97de-a3fca5b8bfb1.jpg",
+    "https://picture.yoshiclub.xyz/20230407/64cd2799-3ec5-4038-9ad5-f5eabc6957d3.jpg",
+    "https://picture.yoshiclub.xyz/20230407/b9a2fdda-d0c0-41a3-b86a-a5ba49af8c6d.jpg",
+    "https://picture.yoshiclub.xyz/20230407/add01ef1-ffe5-4e27-a16b-e1a46a731bfb.jpg",
+    "https://picture.yoshiclub.xyz/20230407/43ba8b52-ef68-4146-8088-f175873a6912.jpg",
+    "https://picture.yoshiclub.xyz/20230407/9833f70d-43b7-4fea-a6c3-bb5be205e81d.jpg",
+    "https://picture.yoshiclub.xyz/20230407/c3bdf6b6-5811-43d2-8c68-d5b147a30281.jpg",
+    "https://picture.yoshiclub.xyz/20230407/48680994-d3a6-45ea-8464-36df3135def3.jpg",
+    "https://picture.yoshiclub.xyz/20230407/3f6171e6-059a-405c-af70-19622abb5281.jpg",
+    "https://picture.yoshiclub.xyz/20230407/c1903c87-aef5-49ed-91fb-a8105fec4a9f.jpg",
+    "https://picture.yoshiclub.xyz/20230407/ab11e6c0-3256-4eee-b797-b1f361957068.jpg",
+    "https://picture.yoshiclub.xyz/20230407/faa9b642-ce0d-4a4a-8943-d47520be4eed.jpg",
+    "https://picture.yoshiclub.xyz/20230407/81371e96-e556-49e7-bb66-9ae472b19d37.jpg",
+    "https://picture.yoshiclub.xyz/20230407/c63cdc62-70ac-40b8-b619-f4dcce316f4b.jpg",
+    "https://picture.yoshiclub.xyz/20230407/64b15965-396a-4cd3-976e-5238ffcb8ebf.jpg"
+  ]
+};

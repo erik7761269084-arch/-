@@ -1,0 +1,57 @@
+// 87_AVactress_data.js
+window.actressData = {
+  "id": 87,
+  "name": "夕美紫苑",
+  "age": 26,
+  "birthday_date": "1999-04-07",
+  "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+  "background_img": null,
+  "zodiac": "白羊座",
+  "height": "149cm",
+  "measurements": "胸 100 腰 63 臀 95",
+  "cup": "I",
+  "description": "夕美紫苑（日語：夕美 しおん／ゆみ しおん Yumi Shion，1999年4月7日—），日本AV女優。所屬事務所為L-Promotion。簡歷2018年10月，夕美紫苑以S1專屬女優的身份AV出道。2020年4月7日，由夕美紫苑主演的AV《暑假時再會表妹的無防備露奶露內褲 每日充滿慾望和汗水地幹她》（夏休みに再会した従妹の無防備パイチラ、パンチラに欲情して毎日汗だくでヤリまくった）開售。8月19日，她推出了AV《撿到的瘦弱女生變成了豐滿美女 在FANZA・同人中超熱門，下載量破紀錄的CG集+漫畫的真人版！！》（ガリガリ娘を拾ったらムチムチ美女になりまして FANZA・同人で大ヒットDL数を記録したCG集+漫画を実写化！！），她及後表示在出演時有一些虛構體位並不可能於現實中重現，不過仍對於演出此作一事感到高興。10月19日，她跟坂道美琉共演的AV《母親不在的100天裡 我們的身體已離不開繼父的巨大●莖了……》（母が不在の100日間 もう私たち、お義父さんの絶倫チ●ポ無しじゃダメな身体になっちゃいました…。）公開，她在當中飾演妹妹。坂道在接受訪問時讚揚夕美的演技。而夕美則在拍攝前兩天都緊張得失眠。2021年1月7日，夕美紫苑推出了《童貞必殺爆乳天使筆卸》（童貞を殺す爆乳AV天使に筆おろしされたい），當中夕美的對手為號稱以招募活動招募的四位處男。人物夕美紫苑喜歡觀賞電影，擅長做菓子。初次性交是高中二年級的時候，對象為比自己大起碼1年的校友。片商S1標榜她為「天真浪漫Baby Face與神乳的融合」（天真爛漫ベビーフェイスと神乳の融合）。她在就讀初中時便有D至E罩杯。升上高中後，她的乳房亦不斷發育——她表示自己的胸罩為自身帶來的感覺曾在幾週內從「剛剛好」發展到「有點小」。夕美紫苑在出道前曾經有過一次出演AV的機會，但自己卻拒絕了。不過，她之後因為想看看自己的潛力和取得地位，而突然願意出演AV。2020年春天，她因為還是個大學生，所以較難抽出時間舉辦宣傳活動。畢業後則擁有較多的機會。",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "別致顔值",
+    "極上巨乳",
+    "特別騷",
+    "蘿莉",
+    "野性",
+    "辣妹系"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2e6ac18b-3447-4454-95de-1087cac54e67.html",
+  "aliases": [
+    "Shion Yumi",
+    "しおん",
+    "夕美しおん",
+    "妹CLUB 萌えリーンわーるど /"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230924/de3e8930-ee22-4283-bbec-bd80006ea135.jpg",
+    "https://picture.yoshiclub.xyz/20230924/c688e311-3c8c-4e31-8423-b1d2a89a4a2e.jpg",
+    "https://picture.yoshiclub.xyz/20230924/93db81e1-7403-4578-ac64-d8e116d929b5.jpg",
+    "https://picture.yoshiclub.xyz/20230924/06680d39-772c-4ec1-8122-d8a0b9567ada.jpg",
+    "https://picture.yoshiclub.xyz/20230924/25d9dbb0-2d2d-410f-8b84-5ac6d9a81b13.jpg",
+    "https://picture.yoshiclub.xyz/20230924/3bd9513e-1ab8-4ff8-beb6-2579abaf277a.jpg",
+    "https://picture.yoshiclub.xyz/20230924/27469212-061e-4c78-bda7-aefaae9fc824.jpg",
+    "https://picture.yoshiclub.xyz/20230924/0c2965ad-39c8-454d-a49a-2cce45a89f35.jpg",
+    "https://picture.yoshiclub.xyz/20230924/5c1bd0a1-9a42-47ff-bcb7-211f9da5f8de.jpg",
+    "https://picture.yoshiclub.xyz/20230924/66a95de3-7451-4539-b610-f88bcd38c766.jpg",
+    "https://picture.yoshiclub.xyz/20230924/8db4c94f-2b5f-452a-a069-dbbd5beb6053.jpg",
+    "https://picture.yoshiclub.xyz/20230924/ceeb7a02-34ad-4289-a6f5-c520f65becb8.jpg",
+    "https://picture.yoshiclub.xyz/20230924/d43ac5b5-6389-4a55-8ddb-34a3f77f5b5e.jpg",
+    "https://picture.yoshiclub.xyz/20230924/e28b9fdd-918a-42e1-a05c-7c18147ecfbb.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4863619a-7c8b-4d74-ba11-3d100bc6fa15.jpg",
+    "https://picture.yoshiclub.xyz/20230924/6baa0bf9-fa18-45b1-bed9-51364e5b61a0.jpg",
+    "https://picture.yoshiclub.xyz/20230924/d801b317-6fcb-403b-8e38-b6d63986d983.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4690d91a-d8ad-4388-91e5-a1512c4021ff.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4ee41808-3b4c-4f52-bd96-19aac78de9f5.jpg"
+  ]
+};

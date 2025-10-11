@@ -1,0 +1,58 @@
+// 260_AVactress_data.js
+window.actressData = {
+  "id": 260,
+  "name": "羽笑美晴",
+  "age": 33,
+  "birthday_date": "1992-03-03",
+  "img_url": "https://picture.yoshiclub.xyz/20230718/8882ed6a-3831-4631-8174-f6e75734ac71.jpg",
+  "background_img": null,
+  "zodiac": "雙魚座",
+  "height": "151cm",
+  "measurements": "胸 86 腰 59 臀 84",
+  "cup": "F",
+  "description": "羽咲美晴，女，1992年3月3日出生於日本廣島縣，日本演員羽咲美晴有著藝人的背景，除了當過模特，組成偶像團體，還曾與女優之王頭銜的寫真女星兼演員的女神《壇蜜》一同上節目玩遊戲。有著如此強大的資歷傍身，再加上她自身的努力拼一線的決心，讓不少觀眾都高度關注和期待！",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "大眼睛",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "肉嘟嘟",
+    "職業模特",
+    "偶像女團",
+    "大乳暈"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9c87f411-cbb0-4191-bd19-df508ce203ee.html",
+  "aliases": [
+    "Miharu Usa",
+    "Ryoka Nishinaga",
+    "羽咲みはる",
+    "羽咲美晴",
+    "西永嶺花"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/羽咲みはる.jpg",
+    "https://picture.yoshiclub.xyz/20230718/033e1663-13bc-473f-b9bb-3b350f5627b5.jpg",
+    "https://picture.yoshiclub.xyz/20230718/1702ecf3-42cc-48e8-afa1-b0063fbb1fdb.jpg",
+    "https://picture.yoshiclub.xyz/20230718/2f7ef4e9-372b-4f49-bf3a-bc67486b95a4.jpg",
+    "https://picture.yoshiclub.xyz/20230718/55581805-527b-496e-8f13-cd48588547b8.jpg",
+    "https://picture.yoshiclub.xyz/20230718/8129e48f-edf6-4216-841b-6596bc827106.jpg",
+    "https://picture.yoshiclub.xyz/20230718/881e3176-d57e-4534-aacb-5351d04a3238.jpg",
+    "https://picture.yoshiclub.xyz/20230718/2c02820a-b3a5-4ac0-9e26-227e2fc66745.jpg",
+    "https://picture.yoshiclub.xyz/20230718/1177b234-e540-4bbe-8f5d-7036561e33c2.jpg",
+    "https://picture.yoshiclub.xyz/20230718/9e474aca-440f-4446-b5a0-0e8aa5d75d7a.jpg",
+    "https://picture.yoshiclub.xyz/20230718/b3a3469e-7ced-4e12-9694-b570214ae70a.jpg",
+    "https://picture.yoshiclub.xyz/20230718/f81a04b9-d4fb-4704-bf98-8773c96fbe15.jpg",
+    "https://picture.yoshiclub.xyz/20230718/2d45df18-707d-4c10-b208-cf89ff7a446d.jpg",
+    "https://picture.yoshiclub.xyz/20230718/92f0010b-eed0-4c9c-81af-f23bd0d8c7ec.jpg",
+    "https://picture.yoshiclub.xyz/20230718/5e7b903d-9e10-461f-8323-1bfaeb648138.jpg",
+    "https://picture.yoshiclub.xyz/20230718/bf764ec8-3a00-43fd-a506-f5cf7a8748ce.jpg",
+    "https://picture.yoshiclub.xyz/20230718/972f1d8a-96cd-496c-939b-7afc42c7c3c2.jpg",
+    "https://picture.yoshiclub.xyz/20230718/3f979e80-74fa-41d1-b503-52636c3de227.jpg",
+    "https://picture.yoshiclub.xyz/20230718/121b2097-b336-4dbe-91b3-6e14be6f500a.jpg"
+  ]
+};

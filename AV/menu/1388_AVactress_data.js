@@ -1,0 +1,35 @@
+// 1388_AVactress_data.js
+window.actressData = {
+  "id": 1388,
+  "name": "川瀬遥菜",
+  "age": 32,
+  "birthday_date": "1993-05-18",
+  "img_url": "https://picture.yoshiclub.xyz/20230123/63cbc87f-59ec-4c0b-bd65-7b1ec6d34f74.jpg",
+  "background_img": null,
+  "zodiac": "金牛座",
+  "height": "152cm",
+  "measurements": "胸 84 腰 59 臀 82",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "美臀",
+    "別致顔值",
+    "嬌小身材",
+    "矮小",
+    "野性",
+    "極上美人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5b3969df-f3aa-4475-a4bd-e394dc0d5372.html",
+  "aliases": [
+    "Haruna Kawase"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-川瀬遥菜.jpg",
+    "https://picture.yoshiclub.xyz/20230123/9754bc3b-ae35-45dc-a362-9ae23f0bb15c.jpg"
+  ]
+};

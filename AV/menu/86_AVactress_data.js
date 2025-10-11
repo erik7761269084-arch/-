@@ -1,0 +1,57 @@
+// 86_AVactress_data.js
+window.actressData = {
+  "id": 86,
+  "name": "東條夏",
+  "age": 26,
+  "birthday_date": "1999-08-19",
+  "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "156cm",
+  "measurements": "胸 78 腰 55 臀 85",
+  "cup": "C",
+  "description": "東條夏（日文：東條なつ，1999年8月19日—），日本AV女優。 所屬事務所是LINX。履歷2020年2月成為FALENO的內部規劃「FALENOstar」的專屬女優並在AV界出道。2020年4月發售第1張印象DVD，同年8月發售第1本寫真集。2020年11月25日在官方Twitter上宣布脫離專屬女優，成為企劃單體女優。人物出身於栃木縣。 興趣是唱卡拉OK。與FALENO的專屬合約結束後本來想要退，但與經紀人討論過後決定以策劃單體女優的身份繼續活動。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "優雅"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/fc912556-fad8-4487-9d0e-e5b08115cfe0.html",
+  "aliases": [
+    "Natsu Tojo",
+    "Runa Ginza",
+    "Saki Tojo",
+    "东条夏",
+    "東條なつ",
+    "東條咲",
+    "銀座ルナ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231010/16b415fc-e758-46a6-82a6-3dfc7747deb6.jpg",
+    "https://picture.yoshiclub.xyz/20231010/89395729-643d-4e27-b688-c4a49d3fb584.jpg",
+    "https://picture.yoshiclub.xyz/20231010/02d3de72-e5a2-4ead-832d-34e66e0ee6de.jpg",
+    "https://picture.yoshiclub.xyz/20231010/d8c7a0b1-6cdd-41f1-9476-1c344897d91f.jpg",
+    "https://picture.yoshiclub.xyz/20231010/b2c9c683-a458-49f6-a00e-e354e72bf288.jpg",
+    "https://picture.yoshiclub.xyz/20231010/6fc752bd-9700-4436-8393-9a8eb0cf65ba.jpg",
+    "https://picture.yoshiclub.xyz/20231010/d135f626-c098-410b-835a-012c72936dcd.jpg",
+    "https://picture.yoshiclub.xyz/20231010/60a41e19-e45c-4cdd-ad3d-4546b677fd7b.jpg",
+    "https://picture.yoshiclub.xyz/20231010/cbe3d0d6-8169-466f-b7a4-87b17169b52e.jpg",
+    "https://picture.yoshiclub.xyz/20231010/c7841408-7d9f-4b2b-8d46-5f0931e3c0a7.jpg",
+    "https://picture.yoshiclub.xyz/20231010/22dae895-420a-4330-a5f9-235b88649855.jpg",
+    "https://picture.yoshiclub.xyz/20231010/b1930c7f-23aa-48fa-9314-1409e7fa7c4e.jpg",
+    "https://picture.yoshiclub.xyz/20231010/9cf69244-7afb-4020-b62b-53971afcfb2c.jpg",
+    "https://picture.yoshiclub.xyz/20231010/0b38648d-e23c-476e-bc6c-78d51aeccae2.jpg",
+    "https://picture.yoshiclub.xyz/20231010/58629582-7375-4b06-a10e-a9591f014ab6.jpg",
+    "https://picture.yoshiclub.xyz/20231010/82d40a1a-6870-436d-b391-181f5244342a.jpg",
+    "https://picture.yoshiclub.xyz/20231010/a7dd5fac-45fc-499c-9ffd-6bbf61ac636c.jpg",
+    "https://picture.yoshiclub.xyz/20231010/93e41d55-20bc-465e-87d4-8d4c8e42bbd8.jpg",
+    "https://picture.yoshiclub.xyz/20231010/16aac476-5267-4106-9997-f1f8c4e3f361.jpg"
+  ]
+};

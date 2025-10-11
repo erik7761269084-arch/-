@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>连续剧首页</title>
+<title>AV女优目录</title>
 <style>
 body {
   margin: 0;
@@ -13,35 +13,6 @@ body {
   display: flex;
   height: 100vh;
   overflow: hidden;
-}
-
-/* 左侧导航栏 */
-.sidebar {
-  width: 200px;
-  background-color: #111;
-  border-right: 1px solid #222;
-  padding-top: 20px;
-  display: flex;
-  flex-direction: column;
-}
-.sidebar h2 {
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 18px;
-}
-.sidebar button {
-  background: none;
-  color: #ccc;
-  border: none;
-  text-align: left;
-  padding: 12px 20px;
-  font-size: 15px;
-  cursor: pointer;
-}
-.sidebar button:hover,
-.sidebar button.active {
-  background-color: #222;
-  color: #fff;
 }
 
 /* 主内容区域 */
@@ -77,51 +48,56 @@ body {
   text-align: center;
   color: #eee;
 }
+.card-info {
+  font-size: 13px;
+  color: #ccc;
+  text-align: center;
+  padding-bottom: 10px;
+  line-height: 1.6;
+}
 </style>
 </head>
 <body>
 
 <div class="main">
-  <div class="grid" id="dramaGrid"></div>
+  <div class="grid" id="actressGrid"></div>
 </div>
 
 <script>
+let actresses = [];
 
-let dramas = [];
-
-async function loadDramas() {
+// === 加载女优数据 ===
+async function loadActresses() {
   const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/AV/category/2025_AV_actress.json");
-  dramas = await res.json();
-  renderDramas(dramas);
+  actresses = await res.json();
+  renderActresses(actresses);
 }
 
-loadDramas();
-
-
-function renderDramas(list) {
-  const container = document.getElementById('dramaGrid');
+// === 渲染女优卡片 ===
+function renderActresses(list) {
+  const container = document.getElementById('actressGrid');
   container.innerHTML = '';
-  list.forEach(d => {
+
+  list.forEach(a => {
+    if (!a.img_url) return; // 跳过无图片
     const card = document.createElement('div');
     card.className = 'card';
-    card.onclick = () => window.location.href = d.title_play_url;
+    card.onclick = () => alert(`查看 ${a.name} 的详情`);
     card.innerHTML = `
-      <img src="${d.cover_url}" alt="${d.title}">
-      <div class="card-title">${d.title}</div>
+      <img src="${a.img_url}" alt="${a.name}" onerror="this.style.display='none'">
+      <div class="card-title">${a.name}</div>
+      <div class="card-info">
+        ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ""}
+        ${a.height ? `📏 ${a.height}<br>` : ""}
+        ${a.measurements ? `💃 ${a.measurements}` : ""}
+      </div>
     `;
     container.appendChild(card);
   });
 }
 
-function filterCategory(cat) {
-  document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
-  if (cat === '全部') renderDramas(dramas);
-  else renderDramas(dramas.filter(d => d.category === cat));
-}
-
-// 初始加载
-renderDramas(dramas);
+// === 初始加载 ===
+loadActresses();
 </script>
 
 </body>

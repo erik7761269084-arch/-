@@ -1,0 +1,57 @@
+// 53_AVactress_data.js
+window.actressData = {
+  "id": 53,
+  "name": "JULIA",
+  "age": 38,
+  "birthday_date": "1987-05-25",
+  "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "158cm",
+  "measurements": "胸 101 腰 55 臀 84",
+  "cup": "J",
+  "description": null,
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "長相溫柔",
+    "美臀",
+    "人妻",
+    "極上巨乳",
+    "特別騷",
+    "禦姐",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/10c9933e-c8f1-4e46-a3d1-0bc44b34a827.html",
+  "aliases": [
+    "Boin Julia",
+    "Boin Julia",
+    "Julia",
+    "Julia Kyouka",
+    "京香じゅりあ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/.Recycled/Ebody/AI-Fix-JULIA.jpg",
+    "https://picture.yoshiclub.xyz/20230329/6f62767f-0cea-44d1-9d25-0ffc781c7ef1.jpg",
+    "https://picture.yoshiclub.xyz/20230329/7d15597c-11d6-4475-a479-a010c2329fe5.jpg",
+    "https://picture.yoshiclub.xyz/20230329/61a9a33f-a254-4b66-9c01-9dba024212e2.jpg",
+    "https://picture.yoshiclub.xyz/20230329/4c640285-d4ae-4a75-a1d4-96071c180c7c.jpg",
+    "https://picture.yoshiclub.xyz/20230329/c989b55c-88ee-468d-b690-bf8b5e90093c.jpg",
+    "https://picture.yoshiclub.xyz/20230329/f147d97b-4ab1-4abf-adf8-12c891467bdc.jpg",
+    "https://picture.yoshiclub.xyz/20230329/379d9bd6-0c1e-406d-9d1b-55eda9671225.jpg",
+    "https://picture.yoshiclub.xyz/20230329/954d3b30-6b06-48b8-8ac3-e2a88e3c05d8.jpg",
+    "https://picture.yoshiclub.xyz/20230329/e89e5491-8ac0-4999-9f1d-8bd8c259638a.jpg",
+    "https://picture.yoshiclub.xyz/20230329/f17b9951-9b93-429a-9b0f-9cf62b27d99f.jpg",
+    "https://picture.yoshiclub.xyz/20230329/11be8630-cf60-4dac-95d5-c8c344c75dfa.jpg",
+    "https://picture.yoshiclub.xyz/20230329/cef0933c-76c6-45d9-a348-2a64c362cc46.jpg",
+    "https://picture.yoshiclub.xyz/20230329/ffedaa23-e75e-4a4b-a1d7-9e8856805a3e.jpg",
+    "https://picture.yoshiclub.xyz/20230329/6a1f5d4b-6b05-4421-b584-edbb9c1fa756.jpg",
+    "https://picture.yoshiclub.xyz/20230329/501e3f57-2f3c-479c-b0ee-76748c3c9d0f.jpg",
+    "https://picture.yoshiclub.xyz/20230329/d93d0ef3-4e6d-4126-a078-919fc5567a5d.jpg",
+    "https://picture.yoshiclub.xyz/20230329/b3f2c897-51eb-4cc8-bc9b-86ae226d30af.jpg",
+    "https://picture.yoshiclub.xyz/20230329/3f3ffa0c-440d-4568-b34c-7e05aa4e94da.jpg"
+  ]
+};

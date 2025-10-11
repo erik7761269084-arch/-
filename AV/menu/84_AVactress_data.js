@@ -1,0 +1,58 @@
+// 84_AVactress_data.js
+window.actressData = {
+  "id": 84,
+  "name": "小島南",
+  "age": 33,
+  "birthday_date": "1992-12-14",
+  "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+  "background_img": null,
+  "zodiac": "射手座",
+  "height": "150cm",
+  "measurements": "胸 85 腰 56 臀 83",
+  "cup": "E",
+  "description": "小岛南是1992年12月14日出生的90后美女。\n\n随着alice japan官网特设网页的成立，大家也可以看到小岛みなみ(小岛南)的profile，这位1992年年底出生的女孩子当时才刚刚满21岁，相当年轻，上围则是最理想的Ecup，比较令我意外的是她的身高，之前看影片的时候因为都是坐着，所以很难去判断她的身形大小，2013年之前答案出来了，这位小岛みなみ(小岛南)非常娇小，仅有150公分高。\n上一位如此娇小却获得JHV集团重用的女女是谁？答案是在2013年之前已经改名为“杏树纱奈”的くるみひな（kurumi-hia，一样是150公分Ecup）！\n看到这个身高说不担心是骗人的，因为演出虽然没有身高限制，不过“天龙人 （非One Piece）”和“地虎人”却始终和一线天后沾不上边，所以坦白说，看到这个身高我是有点为这位女女担心的。但还好，失去的信心从alice japan提供的影片上又找了回来。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "別致顔值",
+    "嬌小身材",
+    "娃娃臉",
+    "矮小",
+    "蘿莉",
+    "極上美人",
+    "小虎牙"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9d0b9f7f-ea3f-4015-9ad9-7cb48773bf14.html",
+  "aliases": [
+    "Minami Kojima",
+    "小岛南",
+    "小島みなみ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-小島みなみ.jpg",
+    "https://picture.yoshiclub.xyz/20230404/460e1fc6-7028-462d-8f26-e6b2c83ba485.jpg",
+    "https://picture.yoshiclub.xyz/20230404/47776f54-654a-4d18-9651-92ca73fdb291.jpg",
+    "https://picture.yoshiclub.xyz/20230404/46ce3a7d-f389-4ecc-825c-579c83ae62f1.jpg",
+    "https://picture.yoshiclub.xyz/20230404/df7fcfde-01e8-4436-af87-12255362bf4d.jpg",
+    "https://picture.yoshiclub.xyz/20230404/bffb1c14-e8d0-46a8-830e-b265945db91d.jpg",
+    "https://picture.yoshiclub.xyz/20230404/467cbf3b-67f0-4da8-9e53-d94161b6a100.jpg",
+    "https://picture.yoshiclub.xyz/20230404/9836081d-de16-48b3-aa14-dd65aa3f5d19.jpg",
+    "https://picture.yoshiclub.xyz/20230404/28c4282d-f749-4a15-abab-7f07d8f9721f.jpg",
+    "https://picture.yoshiclub.xyz/20230404/86130261-865e-4155-9a0e-9ce65e26dc3f.jpg",
+    "https://picture.yoshiclub.xyz/20230404/13e1654c-a7be-479e-bcd0-9cb8b5f06edf.jpg",
+    "https://picture.yoshiclub.xyz/20230404/fe2740ae-8953-4118-81fc-53654cbe8080.jpg",
+    "https://picture.yoshiclub.xyz/20230404/048eba70-81c1-4c4a-b6c5-24447bb74e38.jpg",
+    "https://picture.yoshiclub.xyz/20230404/75453868-393e-4f9c-bd06-bd2f16c5ca15.jpg",
+    "https://picture.yoshiclub.xyz/20230404/c7fc210b-5b62-440e-9485-139c45410e1e.jpg",
+    "https://picture.yoshiclub.xyz/20230404/a7160608-d5f1-416a-9615-ef662a1670fd.jpg",
+    "https://picture.yoshiclub.xyz/20230404/2e949ea8-5176-4211-a707-9cd85c5a9b69.jpg",
+    "https://picture.yoshiclub.xyz/20230404/f5998b1e-2c8b-404a-a1d0-f348ff533a52.jpg",
+    "https://picture.yoshiclub.xyz/20230404/98dfc493-e806-4606-a8fc-bc8e75d6a733.jpg"
+  ]
+};

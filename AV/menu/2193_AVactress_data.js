@@ -1,0 +1,55 @@
+// 2193_AVactress_data.js
+window.actressData = {
+  "id": 2193,
+  "name": "羽海野まお",
+  "age": 32,
+  "birthday_date": "1993-04-25",
+  "img_url": "https://picture.yoshiclub.xyz/20230816/b505e559-bd40-4cd2-89bb-3fb996e6076e.jpg",
+  "background_img": null,
+  "zodiac": "金牛座",
+  "height": "156cm",
+  "measurements": "胸 101 腰 62 臀 90",
+  "cup": "I",
+  "description": "",
+  "features": [
+    "美乳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "嫵媚",
+    "人妻",
+    "肉嘟嘟",
+    "極上巨乳",
+    "身材豐滿"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/26f44288-d6ca-4d17-94ba-bd34826c53ea.html",
+  "aliases": [
+    "Anna Sakura",
+    "Mao Umino",
+    "Mia Kashiwagi",
+    "咲楽アンナ",
+    "柏木みあ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-咲楽アンナ.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/羽海野まお.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-柏木みあ.jpg",
+    "https://picture.yoshiclub.xyz/20230816/549c9fdb-eaba-4421-ba3f-bc7735b637e2.jpg",
+    "https://picture.yoshiclub.xyz/20230816/87f6d384-9e49-44c8-8252-b47164d7ff57.jpg",
+    "https://picture.yoshiclub.xyz/20230816/9f8f8c49-c438-4240-9e71-bde8bdc1fcc3.jpg",
+    "https://picture.yoshiclub.xyz/20230816/d716486d-428f-40a6-ad0a-b61b54aa7f35.jpg",
+    "https://picture.yoshiclub.xyz/20230816/0e1bc89c-bf79-4320-be11-a9a7c85b23c1.jpg",
+    "https://picture.yoshiclub.xyz/20230816/7d54ff4c-310f-4bf7-9765-23c46fcaaf45.jpg",
+    "https://picture.yoshiclub.xyz/20230816/b505e559-bd40-4cd2-89bb-3fb996e6076e.jpg",
+    "https://picture.yoshiclub.xyz/20230816/ea3e4d8f-8de2-46eb-b7f7-fe79e0152a77.jpg",
+    "https://picture.yoshiclub.xyz/20230816/ed4646d5-6923-4c51-b201-e3745782685f.jpg",
+    "https://picture.yoshiclub.xyz/20230816/f150c9e7-10af-431a-b37c-805cf2f6281e.jpg",
+    "https://picture.yoshiclub.xyz/20230816/86557a47-f6a0-435f-ad1f-2f3833d6f909.jpg",
+    "https://picture.yoshiclub.xyz/20230816/59fdf95b-9960-4740-9401-afe8d195994c.jpg",
+    "https://picture.yoshiclub.xyz/20230816/c00bb287-7dab-46f2-b773-2c862f43aaa7.jpg",
+    "https://picture.yoshiclub.xyz/20230816/aa946de3-e40a-4d6b-a617-8e5990d1e951.jpg",
+    "https://picture.yoshiclub.xyz/20230816/a95ad266-d68f-4da7-9e39-b7217ab7cfbb.jpg",
+    "https://picture.yoshiclub.xyz/20230816/7ff0bde8-f151-47da-9d38-5701b8ac181a.jpg",
+    "https://picture.yoshiclub.xyz/20230816/061337fe-a239-4890-8704-2231c9ffa935.jpg"
+  ]
+};

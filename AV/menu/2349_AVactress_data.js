@@ -1,0 +1,56 @@
+// 2349_AVactress_data.js
+window.actressData = {
+  "id": 2349,
+  "name": "秋野みさき",
+  "age": 33,
+  "birthday_date": "1992-02-16",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924073405988988_92665_s.webp",
+  "background_img": null,
+  "zodiac": "水瓶座",
+  "height": "148cm",
+  "measurements": "胸 80 腰 57 臀 80",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "嬌小身材",
+    "娃娃臉",
+    "矮小",
+    "蘿莉",
+    "小虎牙",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5972baee-c2b4-43f7-8962-655368734631.html",
+  "aliases": [
+    "Misaki Akino"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073156824824_36515_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073159742742_57383_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073200914914_48155_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073204282282_92514_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/202509240732054747_21748_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073205720720_99041_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073206666666_19462_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073210249249_49222_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073212840840_26401_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073213832832_50065_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073214965965_89959_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073217585585_20393_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073217969969_42604_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073218787787_27973_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073219289289_26962_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073220250250_39791_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073220573573_90269_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073226515515_42736_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073227157157_55557_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250924/20250924073227893893_24329_l.webp"
+  ]
+};

@@ -1,0 +1,56 @@
+// 208_AVactress_data.js
+window.actressData = {
+  "id": 208,
+  "name": "向井藍",
+  "age": 32,
+  "birthday_date": "1993-10-24",
+  "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+  "background_img": null,
+  "zodiac": "天蠍座",
+  "height": "157cm",
+  "measurements": "胸 84 腰 56 臀 82",
+  "cup": "C",
+  "description": "向井藍（英語：Ai Mukai）1993年10月24日出生於日本的東京都，屬雞，天蠍座，身高157公分，2015年7月正式出道成為女演員，所屬於Eve-Rest Model Agency事務所。個人形象2015年向井藍就以短髮與男裝的形像出道，也算開闢了業界非主流路線的先例。生活中的她喜歡料理、看電影、看球賽，以及滑雪。個人發展雖然短髮與男裝的形象讓向井藍看起來很吸睛，但她的職業生涯卻並不理想，因為她所屬的事務所Everest向來對旗下藝人毫不憐惜，下海之初向井藍很快就被丟去「東京熱」深造了，當時用了\"羽田真裡\"這個化名，但還是很快被人認出。向井藍的短髮還是業界裡很特殊的存在，至於非主流是褒是貶真的很難定義，至少業界至今也很少有和她相似的選手，後期的椎名空（椎名そら）可能算一個，但差異還是很大，畢竟早期椎名空並不是這個路線。向井藍獨特的外在形象雖然小眾，但也為她收穫了穩定的影迷群體，所以後來也漸漸在業界站穩了腳跟。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "性感",
+    "天然",
+    "別致顔值",
+    "小乳房",
+    "中性風"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/0e2e2072-5379-49e7-a449-d887a7fdbc2b.html",
+  "aliases": [
+    "Ai Mukai",
+    "Mari Haneda",
+    "Mayu Sasaki",
+    "佐々木繭",
+    "向井ａｉ",
+    "向井蓝",
+    "羽田真里",
+    "羽田真里"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/8-Honnaka/向井藍.jpg",
+    "https://picture.yoshiclub.xyz/20230924/d8045e2f-a2be-4b07-bd8c-a5c80f79a747.jpg",
+    "https://picture.yoshiclub.xyz/20230924/cd58d981-c25a-41a4-a2ec-e589c04acc6b.jpg",
+    "https://picture.yoshiclub.xyz/20230924/a9ede746-58d8-45ff-b7d3-04a70eea4d6a.jpg",
+    "https://picture.yoshiclub.xyz/20230924/b1e7375f-8bba-4182-aaf8-2153636d6c0c.jpg",
+    "https://picture.yoshiclub.xyz/20230924/f4ee4c24-4272-45ce-ae76-ead3c4cc7a5d.jpg",
+    "https://picture.yoshiclub.xyz/20230924/48b719f4-f951-4c4c-ae0e-17399bd50a30.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4b436982-6f85-4e13-98fe-b431b60b1e63.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4ebf9d74-d2d3-4193-b62e-b1e5c7257a96.jpg",
+    "https://picture.yoshiclub.xyz/20230924/5b58376d-ff39-4c53-97cb-c92a0c909c1c.jpg",
+    "https://picture.yoshiclub.xyz/20230924/d6489431-487a-4de8-8614-eed52d2407b6.jpg",
+    "https://picture.yoshiclub.xyz/20230924/d28f0eb9-1f65-4275-a813-35ad80963a3e.jpg",
+    "https://picture.yoshiclub.xyz/20230924/c093e87f-9cb2-446e-92ac-a394f1bf15ba.jpg",
+    "https://picture.yoshiclub.xyz/20230924/4c908f25-9f4b-4d46-8d6d-2cc1aed36256.jpg",
+    "https://picture.yoshiclub.xyz/20230924/49b3cfb0-e85d-4407-acf3-8702f47c38bc.jpg",
+    "https://picture.yoshiclub.xyz/20230924/62cac21b-015c-4af0-8489-0ac3634bb2d2.jpg",
+    "https://picture.yoshiclub.xyz/20230924/c1c54d73-3d90-4654-ad19-1c4720649c62.jpg",
+    "https://picture.yoshiclub.xyz/20230924/bcee43f0-bf40-4385-98e7-d2d322c035f1.jpg",
+    "https://picture.yoshiclub.xyz/20230924/bd0bf373-f2c9-4325-9cc6-ee7dcc3202af.jpg"
+  ]
+};

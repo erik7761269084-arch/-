@@ -1,0 +1,48 @@
+// 2873_AVactress_data.js
+window.actressData = {
+  "id": 2873,
+  "name": "杏堂夏",
+  "age": 39,
+  "birthday_date": "1986-12-23",
+  "img_url": "https://picture.yoshiclub.xyz/20230211/486ee477-2ea2-4fe7-9f48-2e4f5ea8ee5f.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "163cm",
+  "measurements": "胸 92 腰 59 臀 87",
+  "cup": "F",
+  "description": "杏堂夏(杏堂なつ，Ando-Natsu)，这位被「美」认为是具备「诱惑曲线」、同时又有美巨乳92公分胸围F罩杯的女优。\n2006年，杏堂なつ以榊れいな的名字出道于Alice Japan，那时的她虽然身材也不错，但并不算突出，主要还是以漂亮的脸蛋为卖点的。\n当然，杏堂なつAV生涯不顺，也有时运不济的因素。前面很多文章都说过，看来“美”是AV厂商高开低走的典型。2009年下半年，与“美”结束合约的专属女优纷纷跳槽不再续约。杏堂なつ也没有与“美”续约，移籍到了MOODYZ。由于在“美”就走重口味痴女路线，在MOODYZ更别指望能“从良”了，移籍后第二部片子就拍《真性中出し》，仅仅拍了两部片子后又被扔到PRESTIGE去当伪素人。在PRESTIGE拍了两部片子后竟然下码了，然后以单体女优的身份继续坚持拍片。此时的杏堂なつ已经开发的所剩无几了，2009年底传出了杏堂なつ隐退的消息。",
+  "features": [],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f01ff2c9-aee1-4edf-aa2c-9c7619403c49.html",
+  "aliases": [
+    "Natsu Andoh",
+    "Natsumi Andou",
+    "Natsumi Matsuyama",
+    "Reina Sakaki",
+    "安藤なつみ",
+    "杏堂なつ",
+    "松山なつみ",
+    "榊れいな"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/安藤なつみ.jpg",
+    "https://picture.yoshiclub.xyz/20230211/ddc70b7f-31a1-4405-8b98-c39ed1cfd3a7.jpg",
+    "https://picture.yoshiclub.xyz/20230211/9b947552-2822-4607-934d-feed1b5cdd8c.jpg",
+    "https://picture.yoshiclub.xyz/20230211/a1d74ffb-661b-4f9b-8766-ab3a1d980090.jpg",
+    "https://picture.yoshiclub.xyz/20230211/d04945c6-0c17-4b78-ba96-0a2cd39a4d31.jpg",
+    "https://picture.yoshiclub.xyz/20230211/86a4c26a-744c-44ba-8453-c28bfc1dd827.jpg",
+    "https://picture.yoshiclub.xyz/20230211/37972f06-bb17-4b34-8e88-3af43ca22526.jpg",
+    "https://picture.yoshiclub.xyz/20230211/df6eff41-40fa-4549-b075-5e632d0f2d02.jpg",
+    "https://picture.yoshiclub.xyz/20230211/4ff67799-d51b-477b-a12c-ce9b3c44226b.jpg",
+    "https://picture.yoshiclub.xyz/20230211/f6abc49a-9609-46fd-8f60-5f7be6ebf02f.jpg",
+    "https://picture.yoshiclub.xyz/20230211/f40cf407-22a9-4dda-845e-f0ed3cd91b17.jpg",
+    "https://picture.yoshiclub.xyz/20230211/0fe5ef13-7ac9-4116-a6ec-aada15b7d7ae.jpg",
+    "https://picture.yoshiclub.xyz/20230211/5ae5ea7e-b0f0-4e70-9cb0-2127696edbf8.jpg",
+    "https://picture.yoshiclub.xyz/20230211/036d676f-e6e0-49cd-a6ed-d638886f6841.jpg",
+    "https://picture.yoshiclub.xyz/20230211/65773606-57e1-4339-ab92-534e5229bd29.jpg",
+    "https://picture.yoshiclub.xyz/20230211/af7d5eef-bf3d-4fd7-b5e9-11d1d9980dcb.jpg",
+    "https://picture.yoshiclub.xyz/20230211/58feafad-cc2a-4537-bc87-76729f3758bc.jpg",
+    "https://picture.yoshiclub.xyz/20230211/e8e880f6-f102-4004-b164-0e586fa1b2d7.jpg",
+    "https://picture.yoshiclub.xyz/20230211/dc039a15-3bae-406b-8999-fa72693ca739.jpg",
+    "https://picture.yoshiclub.xyz/20230211/8d93f8a7-25f7-4729-8b8c-3c3a363dd41d.jpg"
+  ]
+};

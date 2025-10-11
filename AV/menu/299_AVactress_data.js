@@ -1,0 +1,57 @@
+// 299_AVactress_data.js
+window.actressData = {
+  "id": 299,
+  "name": "三葉千春",
+  "age": 28,
+  "birthday_date": "1997-07-24",
+  "img_url": "https://picture.yoshiclub.xyz/20230826/51009324-7de1-4178-86c6-3fe5156678ef.jpg",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "160cm",
+  "measurements": "胸 90 腰 59 臀 94",
+  "cup": "F",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美臀",
+    "長相可愛",
+    "修長癡體",
+    "野性"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/87d534fd-3796-431e-9465-109bf31b4c59.html",
+  "aliases": [
+    "Chiharu Mitsuha",
+    "Chiharu Tsukino",
+    "Tsukino Runrun",
+    "ツキノ・チハル",
+    "るんるん月野",
+    "三葉ちはる",
+    "月野ちはる"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230826/51009324-7de1-4178-86c6-3fe5156678ef.jpg",
+    "https://picture.yoshiclub.xyz/20230826/cffa16ee-3bb8-4dd4-93d8-c2706fb3343c.jpg",
+    "https://picture.yoshiclub.xyz/20230826/a669f3be-9dbe-4156-a146-14a2f59162ce.jpg",
+    "https://picture.yoshiclub.xyz/20230826/8115a44d-bc28-42bb-be9d-95150658dd21.jpg",
+    "https://picture.yoshiclub.xyz/20230826/211744b0-8dd0-411a-9eac-fa296c38b571.jpg",
+    "https://picture.yoshiclub.xyz/20230826/d968f9c8-315e-48d1-b761-3fdc33a57c3d.jpg",
+    "https://picture.yoshiclub.xyz/20230826/07dcd164-353a-4991-b44f-917aec9cc382.jpg",
+    "https://picture.yoshiclub.xyz/20230826/26a12487-1f4c-40e0-85ff-993db3f433c7.jpg",
+    "https://picture.yoshiclub.xyz/20230826/1d4e6591-8781-434c-999e-f518903af4db.jpg",
+    "https://picture.yoshiclub.xyz/20230826/358511a7-a974-41ac-94c1-6f3d1f724665.jpg",
+    "https://picture.yoshiclub.xyz/20230826/9837297a-10c0-48e0-bf72-50b11609fd0a.jpg",
+    "https://picture.yoshiclub.xyz/20230826/1085c2a6-6d14-487d-8bbe-e91b7773ca00.jpg",
+    "https://picture.yoshiclub.xyz/20230826/93b7f1a7-a6e3-468d-a61d-877648576916.jpg",
+    "https://picture.yoshiclub.xyz/20230826/a02a78f5-121e-4759-8f43-5cbe58f824d0.jpg",
+    "https://picture.yoshiclub.xyz/20230826/aa07d688-4cbe-4404-a343-e627cab523c4.jpg",
+    "https://picture.yoshiclub.xyz/20230826/ac53924d-cdb2-4fc4-9fa4-68dbf5b6f0db.jpg",
+    "https://picture.yoshiclub.xyz/20230826/59190a74-34d2-41b4-9883-1bda7621d1b4.jpg",
+    "https://picture.yoshiclub.xyz/20230826/dbda7f01-b8e6-45cc-8757-5b145dc4049a.jpg",
+    "https://picture.yoshiclub.xyz/20230826/6011c358-bfae-4d2f-81d0-fe8377334a0d.jpg"
+  ]
+};

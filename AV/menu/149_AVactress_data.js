@@ -1,0 +1,56 @@
+// 149_AVactress_data.js
+window.actressData = {
+  "id": 149,
+  "name": "松本菜奈実",
+  "age": 31,
+  "birthday_date": "1994-08-23",
+  "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+  "background_img": null,
+  "zodiac": "處女座",
+  "height": "166cm",
+  "measurements": "胸 100 腰 62 臀 100",
+  "cup": "J",
+  "description": "松本菜奈實（日文：松本 菜奈實、，1994年8月23日—）是日本的AV女優及前寫真偶像，Mine's旗下所屬。經歷2015年以100cm胸圍為武器的寫真偶像出道。 附屬辦公室是e2dive entertainment。2016年7月，刊登於《週刊SPA！ 》（扶桑社）《Gravian Soul》（2016年8月2日號）。 年末“Gravian Tamashii Award 2016”，獲得三浦潤個人獎（雷諾阿繪畫獎）。2017 年3 月，從MUTEKI AV首次亮相。 AV出道後，她屬於Bstar 。2017年6月起，她將成為S1 NO.1 STYLE專屬。2017 年11 月 1 日，他在自己的官方推特帳號上宣布，他已將辦公室調至 Mines。2018年5月，獲得DMM R-18 Adult Awards 2018特別獎。2019年1月，她離開S1獨佔，此後一直以策劃單身女演員的身份工作。2019 年 11 月，「make♡」由事務所的志工（成員有鬆本七海、熊野亞由、明美美宇）組成，並出現在 Minds Festival。在 2020 年 4 月公佈的粉紅電影十大中獲得桃熊新人女演員獎。 2020年12月《FLASH 2020最強性感女星BEST 100》讀者投票/巨乳類第4名（總第18名）.2021年6月，她宣布將於7月1日在淺草搖滾劇場以脫衣舞孃身分出道。 同年8月公佈《FLASH 2021年300位讀者評選性感女星排行榜》讀者票選第54位。2021年10月1日，他在推特上宣布轉會All-Pro，與Mines結成 商業聯盟。2022年3月，集英社《週刊花花公子》亮相2022年Elodemy Award，「撿起一件戰後已經過時的豐滿美人兵器帶回家…最快真人版Kichi名作同人！」獲得最佳動畫長片 獎。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "性感",
+    "天然",
+    "美臀",
+    "長相可愛",
+    "極上巨乳",
+    "極上身材",
+    "野性",
+    "寫真女郎"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7898a359-cf80-48a7-b9ba-e0e834882070.html",
+  "aliases": [
+    "Nanami Matsumoto",
+    "松本菜奈实",
+    "松本菜奈實",
+    "片岡めい"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231214/534fc254-da24-4eb8-9d61-751852426bbb.jpg",
+    "https://picture.yoshiclub.xyz/20231214/5eb48ca8-f2db-4360-ae67-f5c3c4f453b6.jpg",
+    "https://picture.yoshiclub.xyz/20231214/8657af5a-245b-4858-b815-178a6cf42671.jpg",
+    "https://picture.yoshiclub.xyz/20231214/a41ccf44-0ff7-45ca-9461-4d8c334f40c5.jpg",
+    "https://picture.yoshiclub.xyz/20231214/cd31020d-97f9-471d-8423-9958385a319d.jpg",
+    "https://picture.yoshiclub.xyz/20231214/b1c58b97-b545-45fd-abb5-a0fb34833bc8.jpg",
+    "https://picture.yoshiclub.xyz/20231214/a1f116d8-5bdb-4877-949d-db39d0e4b0ef.jpg",
+    "https://picture.yoshiclub.xyz/20231214/81405e60-12e1-41a9-9e47-7d05fae0f06c.jpg",
+    "https://picture.yoshiclub.xyz/20231214/00355660-178a-425a-96e3-f7433fa8b8eb.jpg",
+    "https://picture.yoshiclub.xyz/20231214/388afeef-ffb5-40a0-8ace-5d23cb1a2f5b.jpg",
+    "https://picture.yoshiclub.xyz/20231214/032ccec0-482d-44d7-be31-6d9ae15acd2c.jpg",
+    "https://picture.yoshiclub.xyz/20231214/037075d7-d875-43a1-a9f8-69113be48dc5.jpg",
+    "https://picture.yoshiclub.xyz/20231214/4511e15a-bd1a-4fca-a502-5d9d0ae97f46.jpg",
+    "https://picture.yoshiclub.xyz/20231214/7d2d219a-11c9-4292-b56e-c10452060b62.jpg",
+    "https://picture.yoshiclub.xyz/20231214/c0c5b51f-fddd-4fa6-8bdf-ede316d6ba62.jpg",
+    "https://picture.yoshiclub.xyz/20231214/c5ae0160-f7e2-430e-9ce1-30c6cdc38a3b.jpg",
+    "https://picture.yoshiclub.xyz/20231214/7107b6f9-3ff3-420e-a289-ac282d73cf63.jpg",
+    "https://picture.yoshiclub.xyz/20231214/791a87d9-77eb-4837-a647-21b34b25b451.jpg",
+    "https://picture.yoshiclub.xyz/20231214/8c47cee8-43bf-4824-8ffb-1397ee1630dc.jpg"
+  ]
+};

@@ -1,0 +1,56 @@
+// 216_AVactress_data.js
+window.actressData = {
+  "id": 216,
+  "name": "小日向美優",
+  "age": 23,
+  "birthday_date": "2002-07-10",
+  "img_url": "https://picture.yoshiclub.xyz/20230908/47cfce8f-8903-4f3b-96f9-d3b9400a111d.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "160cm",
+  "measurements": "胸 95 腰 58 臀 87",
+  "cup": "H",
+  "description": "清原美優 / 清原みゆう可愛的臉蛋之下，有著不成比例的H等級，還因此非常自卑，是S1讓她重拾信心，清原美優是一位護理實習生，半年前自主寄送了一封報名信到作品商，由於條件實在太完美，只花了7分鐘便結束面試，不能說優秀，只能說太神了，穿衣顯瘦，絕對是S1接下來力捧的人物。顏值：S 身形：SS 話題：SS 潛力：S",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "大眼睛",
+    "長相溫柔",
+    "美少女",
+    "娃娃臉",
+    "極上巨乳"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/b131843e-be0f-4d4e-be8b-0850c0a2bc94.html",
+  "aliases": [
+    "Miyu Kiyohara",
+    "Una Yumeno",
+    "夢乃うな",
+    "小日向みゆう",
+    "小日向美优",
+    "清原みゆう",
+    "清原美优",
+    "清原美優"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230908/0d35acef-1985-4a67-88e2-249f62ae2067.jpg",
+    "https://picture.yoshiclub.xyz/20230908/35093c52-611d-4553-b9cc-5d5208856606.jpg",
+    "https://picture.yoshiclub.xyz/20230908/67e07755-be20-483a-8dc2-0537ee3a756c.jpg",
+    "https://picture.yoshiclub.xyz/20230908/b30d65ef-95eb-4478-a37d-1289995f37c3.jpg",
+    "https://picture.yoshiclub.xyz/20230908/bc8f365c-4afc-49d9-b810-d8e6b6f66d7f.jpg",
+    "https://picture.yoshiclub.xyz/20230908/d3c8bb6b-764a-4401-8f5b-9431243a5dce.jpg",
+    "https://picture.yoshiclub.xyz/20230908/d45e3d0f-c7b1-4321-a2b5-6cfdce5e688c.jpg",
+    "https://picture.yoshiclub.xyz/20230908/934faa5c-c7fd-4c3f-bea8-0c99911110f2.jpg",
+    "https://picture.yoshiclub.xyz/20230908/23bb5445-8e97-4431-8601-577926229aa2.jpg",
+    "https://picture.yoshiclub.xyz/20230908/3cbaacf4-40e6-490a-95f6-bd2f2425748c.jpg",
+    "https://picture.yoshiclub.xyz/20230908/6cff129b-a77a-44fa-a89c-a642c03dd60f.jpg",
+    "https://picture.yoshiclub.xyz/20230908/d4798680-aeb3-4786-a1d0-bec29ce40a69.jpg",
+    "https://picture.yoshiclub.xyz/20230908/d2efb8f7-8271-40a6-9e07-7b20cb1e2e69.jpg",
+    "https://picture.yoshiclub.xyz/20230908/e11028ae-3c44-436d-b475-62f61ae1048f.jpg",
+    "https://picture.yoshiclub.xyz/20230908/b2499307-dca9-41ff-a3fb-2ac6ad1866b3.jpg",
+    "https://picture.yoshiclub.xyz/20230908/87608397-bbdc-470f-86a8-7516bdbdaf34.jpg",
+    "https://picture.yoshiclub.xyz/20230908/a57997e9-dbf5-4b7e-8365-79159c35f9ff.jpg",
+    "https://picture.yoshiclub.xyz/20230908/ee08d60d-b8e3-429c-b406-f290e361ef0b.jpg",
+    "https://picture.yoshiclub.xyz/20230908/f2d18508-dbb3-4de5-b6ce-fc2bc463dc54.jpg"
+  ]
+};

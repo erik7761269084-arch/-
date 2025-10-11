@@ -1,0 +1,58 @@
+// 187_AVactress_data.js
+window.actressData = {
+  "id": 187,
+  "name": "逢見梨花",
+  "age": 26,
+  "birthday_date": "1999-12-30",
+  "img_url": "https://picture.yoshiclub.xyz/20231204/25b4a3df-162c-4e1c-b81b-ad41344cc285.jpg",
+  "background_img": null,
+  "zodiac": "摩羯座",
+  "height": "145cm",
+  "measurements": "胸 79 腰 53 臀 78",
+  "cup": "G",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "長相溫柔",
+    "鄰家女",
+    "娃娃臉",
+    "矮小"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8331b19a-25ba-4458-a8cf-933e4db995b9.html",
+  "aliases": [
+    "Rika Aimi",
+    "Rika Harumi",
+    "Rika Matsuyama",
+    "あいみ 20歳",
+    "晴海梨華",
+    "松山りか",
+    "逢見リカ",
+    "逢见梨花"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231204/1d3a9ff5-6cf2-4609-9e89-570019a7361d.jpg",
+    "https://picture.yoshiclub.xyz/20231204/9ea7716a-4d49-43ab-9b99-4f7cc341e8d0.jpg",
+    "https://picture.yoshiclub.xyz/20231204/d46cc3a4-e8f7-4a97-8894-498b1a9eb378.jpg",
+    "https://picture.yoshiclub.xyz/20231204/e4846364-361c-4da7-bd50-c9714f586a16.jpg",
+    "https://picture.yoshiclub.xyz/20231204/e79aff3e-4145-4ef2-96b5-d78ed5fa42a2.jpg",
+    "https://picture.yoshiclub.xyz/20231204/85595961-ead6-426f-ab6f-3b51b5d26c99.jpg",
+    "https://picture.yoshiclub.xyz/20231204/24316229-37ae-463a-b3b4-e2ef69f55c5d.jpg",
+    "https://picture.yoshiclub.xyz/20231204/8b9ed585-4aa9-45ea-9063-07c377072c18.jpg",
+    "https://picture.yoshiclub.xyz/20231204/76b996eb-4d31-4d55-b494-24d3edf3b71e.jpg",
+    "https://picture.yoshiclub.xyz/20231204/1af3415d-de87-4701-ae85-be352fab6130.jpg",
+    "https://picture.yoshiclub.xyz/20231204/19d592fe-b76e-4aee-bafc-8d847db61778.jpg",
+    "https://picture.yoshiclub.xyz/20231204/1ea2ccfd-43de-49cf-b59e-25d0adb23964.jpg",
+    "https://picture.yoshiclub.xyz/20231204/87679b27-4096-48aa-9792-a6f80cb46fd8.jpg",
+    "https://picture.yoshiclub.xyz/20231204/b13a9d0c-aecd-417b-8bbe-f791c284635a.jpg",
+    "https://picture.yoshiclub.xyz/20231204/eaec0f86-b285-4b55-9234-7024de0e36e1.jpg",
+    "https://picture.yoshiclub.xyz/20231204/01d861b6-856b-4afb-9f62-f557e4d41da6.jpg",
+    "https://picture.yoshiclub.xyz/20231204/18bfefe1-6ae1-4ad4-b2b8-257a55e44b85.jpg",
+    "https://picture.yoshiclub.xyz/20231204/d5d5620b-1803-4813-8ddc-167f23a64edf.jpg",
+    "https://picture.yoshiclub.xyz/20231204/ccb6d993-7b49-4c2f-90e6-6e9dd9371b7c.jpg"
+  ]
+};

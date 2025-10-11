@@ -1,0 +1,58 @@
+// 68_AVactress_data.js
+window.actressData = {
+  "id": 68,
+  "name": "楪可憐",
+  "age": 24,
+  "birthday_date": "2001-03-28",
+  "img_url": "https://picture.yoshiclub.xyz/20230916/1f48a437-7d85-4aa3-977f-7cced42039fa.jpg",
+  "background_img": null,
+  "zodiac": "白羊座",
+  "height": "148cm",
+  "measurements": "胸 96 腰 58 臀 85",
+  "cup": "H",
+  "description": "楪可憐（日語:楪カレン；2001年3月28日— ），沖繩人，日本AV女優，現在隸屬於T-POWERS。出生於沖繩縣。2021年2月，進行了第一次成人視頻演出。同年5月，與OPPAI簽約。2021年8月，在由三百名讀者票選的FLASH雜誌2021性感女演員排行榜中位列第14位。",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "女人味",
+    "長相溫柔",
+    "嫵媚",
+    "美臀",
+    "別致顔值",
+    "嬌小身材",
+    "矮小",
+    "優雅",
+    "極上巨乳",
+    "極上美人",
+    "媚眼",
+    "寫真女郎"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/01aba476-7e27-4b9f-b1fb-a628aa512679.html",
+  "aliases": [
+    "Karen Yuzuriha",
+    "楪カレン",
+    "楪可怜"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230916/466557f2-d25a-415d-a44b-90e40b3e3d12.jpg",
+    "https://picture.yoshiclub.xyz/20230916/56a03ed8-86eb-4409-b2ec-43b8af5e2c07.jpg",
+    "https://picture.yoshiclub.xyz/20230916/5b2554e9-1c51-4799-bf7f-c85b541b0851.jpg",
+    "https://picture.yoshiclub.xyz/20230916/a1878fb2-3729-4be0-bb6f-ea9e3184b6c9.jpg",
+    "https://picture.yoshiclub.xyz/20230916/a30cfb8a-7947-464c-816e-e66198f07c12.jpg",
+    "https://picture.yoshiclub.xyz/20230916/e5656b29-b3bd-4679-a416-a2f2cb80ad6e.jpg",
+    "https://picture.yoshiclub.xyz/20230916/fc8f67b8-e0bf-4c89-9390-6dd1ea505d8d.jpg",
+    "https://picture.yoshiclub.xyz/20230916/95c109b3-155c-4d42-b580-48b4d02047b7.jpg",
+    "https://picture.yoshiclub.xyz/20230916/7e02645a-22ca-40fd-a8af-98bbd5ce6fba.jpg",
+    "https://picture.yoshiclub.xyz/20230916/2ccbe38f-eac2-4590-a3c8-be8ed24826d8.jpg",
+    "https://picture.yoshiclub.xyz/20230916/22187635-3345-4a91-83a9-0e3dd13ff5a8.jpg",
+    "https://picture.yoshiclub.xyz/20230916/3e635ac0-242e-4a0a-9f03-dae54ea7206b.jpg",
+    "https://picture.yoshiclub.xyz/20230916/13cc5307-a05a-4069-9c63-6e53e3e6fada.jpg",
+    "https://picture.yoshiclub.xyz/20230916/0c0b546d-121a-41a7-b512-64539cfd0bfb.jpg",
+    "https://picture.yoshiclub.xyz/20230916/8547b81c-b8d8-4afe-a099-dc30c8044425.jpg",
+    "https://picture.yoshiclub.xyz/20230916/cc478f05-93fc-4fce-b719-26ca4d0a2394.jpg",
+    "https://picture.yoshiclub.xyz/20230916/a94fe94a-84a1-4bf8-a5ee-9b419b165d91.jpg",
+    "https://picture.yoshiclub.xyz/20230916/03bdf2c9-0a33-4f36-b3ec-86362b4e5ea4.jpg",
+    "https://picture.yoshiclub.xyz/20230916/20ee01a2-996e-4c70-a398-e33c99fa18a9.jpg"
+  ]
+};

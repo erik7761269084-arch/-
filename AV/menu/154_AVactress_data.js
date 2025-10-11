@@ -1,0 +1,58 @@
+// 154_AVactress_data.js
+window.actressData = {
+  "id": 154,
+  "name": "星宮一花",
+  "age": 27,
+  "birthday_date": "1998-06-28",
+  "img_url": "https://picture.yoshiclub.xyz/20230912/4e7a483e-d339-49ef-a233-7e39adb61a1b.jpg",
+  "background_img": null,
+  "zodiac": "巨蟹座",
+  "height": "168cm",
+  "measurements": "胸 82 腰 59 臀 89",
+  "cup": "C",
+  "description": "星宮一花（日語：星宮一花，1998年6月28日—），日本的AV女優，神奈川縣出身。目前為“S1”專屬女優，所屬於“LINX”事務所。2018年10月，在日本AV片商“S1”以專屬女優身份AV出道，片商以“彗星のごとく現れた大型新人”（如彗星般的大型新人）作為廣告標語。出道時仍是大學生身份，出道前曾拿過浴衣比賽冠軍。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "性感",
+    "大眼睛",
+    "天然",
+    "美臀",
+    "長相清純",
+    "萌妹子",
+    "別致顔值",
+    "修長癡體",
+    "極上美人",
+    "呆萌",
+    "高妹子",
+    "寫真女郎",
+    "冷豔"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/69feccf8-af4d-4f75-9c5e-d0b579d32021.html",
+  "aliases": [
+    "Ichika Hoshimiya"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-星宮一花.jpg",
+    "https://picture.yoshiclub.xyz/20230912/4fbbb291-ad99-4c83-876d-56541b2385b8.jpg",
+    "https://picture.yoshiclub.xyz/20230912/2764233e-1757-4c8b-b7f4-38095777006b.jpg",
+    "https://picture.yoshiclub.xyz/20230912/7d9e759b-8580-4747-b633-c4a218c80497.jpg",
+    "https://picture.yoshiclub.xyz/20230912/81c709bd-32c6-458e-ac14-55cdf43c3d2a.jpg",
+    "https://picture.yoshiclub.xyz/20230912/0188dd88-b096-4d87-8fa5-130c55cc019a.jpg",
+    "https://picture.yoshiclub.xyz/20230912/acde16e1-88bd-42b8-a773-e8592b2a08cf.jpg",
+    "https://picture.yoshiclub.xyz/20230912/b96b5ba2-4b07-426b-976d-d0fc17a8f592.jpg",
+    "https://picture.yoshiclub.xyz/20230912/c180d0be-d6a7-4d9b-83ae-12f5f56b3c94.jpg",
+    "https://picture.yoshiclub.xyz/20230912/c643fad1-2a05-42a4-ad56-dc80db6fc347.jpg",
+    "https://picture.yoshiclub.xyz/20230912/eca2ad3e-dae6-4746-bb4d-a745372b3481.jpg",
+    "https://picture.yoshiclub.xyz/20230912/fb341059-7b37-451d-bec7-e3b206ae8fb3.jpg",
+    "https://picture.yoshiclub.xyz/20230912/b4869d82-79d3-4346-8173-58401e2b9a61.jpg",
+    "https://picture.yoshiclub.xyz/20230912/d6da37d4-4338-44a6-b4f9-42d428e4de60.jpg",
+    "https://picture.yoshiclub.xyz/20230912/8f73bf9b-5867-4abf-b5a1-2f467c881c28.jpg",
+    "https://picture.yoshiclub.xyz/20230912/7d56994f-5f2d-47d4-83dc-88d4b55a83ce.jpg",
+    "https://picture.yoshiclub.xyz/20230912/13686535-d563-4a95-b4ff-2b37792df054.jpg",
+    "https://picture.yoshiclub.xyz/20230912/e7daab94-b622-4c87-96f8-e875c658595f.jpg",
+    "https://picture.yoshiclub.xyz/20230912/03493f70-8f72-494d-a91a-a3cbb045d5f8.jpg"
+  ]
+};

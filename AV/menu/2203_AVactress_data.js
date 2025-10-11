@@ -1,0 +1,56 @@
+// 2203_AVactress_data.js
+window.actressData = {
+  "id": 2203,
+  "name": "胡桃圓",
+  "age": 27,
+  "birthday_date": "1998-08-08",
+  "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+  "background_img": null,
+  "zodiac": "獅子座",
+  "height": "158cm",
+  "measurements": "胸 88 腰 60 臀 90",
+  "cup": "E",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "性感",
+    "嫵媚",
+    "美臀",
+    "長相甜美",
+    "別致顔值",
+    "鄰家女",
+    "娃娃臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/29da2e3f-a2af-4711-9e48-fcd47159303e.html",
+  "aliases": [
+    "Haruka Takami",
+    "Madoka Kurumi",
+    "胡桃まどか",
+    "高美はるか"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250308/40726c0b-ffc6-4a47-8a43-d38226ef033a.jpg",
+    "https://picture.yoshiclub.xyz/20250308/f17fedef-e07e-4167-bc2a-ac82fb716374.jpg",
+    "https://picture.yoshiclub.xyz/20250308/efebf134-f3f2-43fc-be8b-2a8d9df06027.jpg",
+    "https://picture.yoshiclub.xyz/20250308/3ec4f734-9050-44cd-bfc0-d5be07009bd4.jpg",
+    "https://picture.yoshiclub.xyz/20250308/349191a2-c0a5-4d4e-b5a8-20f67f132bd2.jpg",
+    "https://picture.yoshiclub.xyz/20250308/2aa1f5af-74a7-4e3d-b230-febd051999ab.jpg",
+    "https://picture.yoshiclub.xyz/20250308/9a2c042a-fffb-4fa6-b0f4-096072af217b.jpg",
+    "https://picture.yoshiclub.xyz/20250308/3d888c82-3855-4b38-af91-530138bc4224.jpg",
+    "https://picture.yoshiclub.xyz/20250308/43467994-fb4e-49c8-b899-07af9cc5247c.jpg",
+    "https://picture.yoshiclub.xyz/20250308/d70b5e38-00cf-4bd1-bc2e-5fde1117ca90.jpg",
+    "https://picture.yoshiclub.xyz/20250308/53b8fb8f-4da8-46a0-a5cb-6d2ef6231c84.jpg",
+    "https://picture.yoshiclub.xyz/20250308/020f5be6-6892-42e5-8834-ff1dfbb10441.jpg",
+    "https://picture.yoshiclub.xyz/20250308/36be2e5c-3d22-4f46-b148-d93c58fed8e2.jpg",
+    "https://picture.yoshiclub.xyz/20250308/914f4a7c-f32c-4ee7-9de2-1dd4ec9b21c3.jpg",
+    "https://picture.yoshiclub.xyz/20250308/e74854a9-e56b-4fe9-b832-bc0501336de8.jpg",
+    "https://picture.yoshiclub.xyz/20250308/bd00da3e-c251-4b2c-b67b-e5f90ae8b512.jpg",
+    "https://picture.yoshiclub.xyz/20250308/d56f0715-abbd-4919-82e5-8463e66e9e42.jpg",
+    "https://picture.yoshiclub.xyz/20250308/9e473123-ad07-4eed-93f1-c457b89f421c.jpg",
+    "https://picture.yoshiclub.xyz/20250308/e0b7e243-4eaf-4ed0-9971-3833f094033a.jpg",
+    "https://picture.yoshiclub.xyz/20250308/3acd913a-bb07-4c7b-a833-c6941f18bcce.jpg"
+  ]
+};

@@ -1,0 +1,58 @@
+// 2584_AVactress_data.js
+window.actressData = {
+  "id": 2584,
+  "name": "京野七香",
+  "age": 33,
+  "birthday_date": "1992-06-08",
+  "img_url": "https://picture.yoshiclub.xyz/20230121/57332dac-7da4-4722-8c30-4df051dfe614.jpg",
+  "background_img": null,
+  "zodiac": "雙子座",
+  "height": "158cm",
+  "measurements": "胸 84 腰 60 臀 88",
+  "cup": "D",
+  "description": null,
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "美少女",
+    "萌妹子",
+    "鄰家女",
+    "小虎牙"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/99cab235-1a44-4f59-989f-a69e88b88018.html",
+  "aliases": [
+    "Emiri Aizawa",
+    "Kana Hayasaka",
+    "Nana Koizumi",
+    "Nanaka Kyouno",
+    "Sakura Ayame",
+    "京野ななか",
+    "小泉奈々",
+    "早坂かな",
+    "相沢えみり"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-京野ななか.jpg",
+    "https://picture.yoshiclub.xyz/20230121/1395a687-4aa9-4e8a-910c-b7c87ebda598.jpg",
+    "https://picture.yoshiclub.xyz/20230121/6aeb5e39-a66a-44d5-a7c2-beb20ddf929b.jpg",
+    "https://picture.yoshiclub.xyz/20230121/d199627f-78a3-49f9-8159-d29a3ec91549.jpg",
+    "https://picture.yoshiclub.xyz/20230121/40cd89d5-f615-41dc-a1c5-d9502f5524f3.jpg",
+    "https://picture.yoshiclub.xyz/20230121/5a7dc846-4a7e-4319-bdb8-ce3260b749e3.jpg",
+    "https://picture.yoshiclub.xyz/20230121/0c935152-40f6-491e-8a2f-ac00dc4610bd.jpg",
+    "https://picture.yoshiclub.xyz/20230121/4b01e043-a355-477d-b69e-dbc4de988c44.jpg",
+    "https://picture.yoshiclub.xyz/20230121/14fc1b08-9315-49fe-a40f-6c042fb64617.jpg",
+    "https://picture.yoshiclub.xyz/20230121/e8baa40f-ef44-48ab-b9d3-7fa847c86bf2.jpg",
+    "https://picture.yoshiclub.xyz/20230121/6631f23c-97b2-4fd3-aecb-aee5d7bb3c5d.jpg",
+    "https://picture.yoshiclub.xyz/20230121/40fd7f80-b6b5-4458-8050-d3fc55239a14.jpg",
+    "https://picture.yoshiclub.xyz/20230121/977428b8-0c96-47c2-9373-89fb14735406.jpg",
+    "https://picture.yoshiclub.xyz/20230121/ab13757c-cfc7-42bc-a18e-3108a118f8d9.jpg",
+    "https://picture.yoshiclub.xyz/20230121/9ac246bc-eef4-45cc-b3d7-8108206f824b.jpg",
+    "https://picture.yoshiclub.xyz/20230121/e39e4a70-c45a-483a-b870-ff0346a6fe38.jpg",
+    "https://picture.yoshiclub.xyz/20230121/ed14b987-d822-44ce-97f8-546d502eb9f0.jpg",
+    "https://picture.yoshiclub.xyz/20230121/0ea00498-290c-46c7-a9ce-96fc946fc1d8.jpg",
+    "https://picture.yoshiclub.xyz/20230121/4482ee96-1588-4398-97de-4cd3395967bd.jpg",
+    "https://picture.yoshiclub.xyz/20230121/3a4628df-a51f-42d2-b363-46e15513fcba.jpg"
+  ]
+};

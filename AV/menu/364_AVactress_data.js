@@ -1,0 +1,55 @@
+// 364_AVactress_data.js
+window.actressData = {
+  "id": 364,
+  "name": "岬櫻",
+  "age": 32,
+  "birthday_date": "1993-02-12",
+  "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+  "background_img": null,
+  "zodiac": "水瓶座",
+  "height": "163cm",
+  "measurements": "胸 83 腰 58 臀 89",
+  "cup": "C",
+  "description": "日本AV女優在發片時，都會由片商設定女優的職業或是身分，而所有的身分中「藝能人」就是藝人，最受到影迷的青睞，如果是偶像出身，或是廣告明星， 都會讓女優的身價大好，近日又有一位號稱是「原藝能人」的新人，叫做「岬さくら(岬櫻)」，號稱拍過廣告，也當過模特兒，最驚人的是還拿過 選美比賽的冠軍。「岬さくら(岬)」在國內AV達人一劍驕春秋的了解下，雖然她的選美冠軍頭銜，是來自日本地區性的比賽，但是這樣的設定還是很吸引影迷買單，雖然真實身分還沒 被強大的日本網民解開，但一劍驕春秋形容「比起在大學小姐選美脫穎而出的結城るみな(結城瑠美奈)，岬さくら(岬櫻)真的更像選美比賽的冠軍，她笑 起來很甜、身材雖然不是很暴力但也纖細修長，而且不知道是真的當過藝人還是每天在17平台直播練出膽量，她面對鏡頭完全不會怯場」。",
+  "features": [
+    "美腳",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "美臀",
+    "人妻",
+    "小乳房",
+    "特別騷",
+    "禦姐",
+    "妖媚",
+    "職業模特"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/be19b6a8-1995-4775-8a36-d619aeb74e48.html",
+  "aliases": [
+    "Akiko Misaki",
+    "Sakura Misaki",
+    "岬さくら",
+    "岬暁子"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231024/5fffcc41-f81c-4cca-9273-e2c170e918a0.jpg",
+    "https://picture.yoshiclub.xyz/20231024/c3995b74-e527-4d3d-bea8-dff00022351b.jpg",
+    "https://picture.yoshiclub.xyz/20231024/da99b130-bc7d-4a30-8422-983c88730b4d.jpg",
+    "https://picture.yoshiclub.xyz/20231024/10e21a4b-12d9-40cb-96e8-b83c23bffdec.jpg",
+    "https://picture.yoshiclub.xyz/20231024/69e90b86-3c07-495a-a799-517a795bc828.jpg",
+    "https://picture.yoshiclub.xyz/20231024/9f201f6f-f0b4-42d1-9bfb-06db8ffc446e.jpg",
+    "https://picture.yoshiclub.xyz/20231024/4e163f54-cf39-45f8-a01f-15b29896a383.jpg",
+    "https://picture.yoshiclub.xyz/20231024/f1999e19-e6be-4cd1-ae15-789c070a40b8.jpg",
+    "https://picture.yoshiclub.xyz/20231024/a8e2aa1c-e9ef-4d45-b25b-290d46806739.jpg",
+    "https://picture.yoshiclub.xyz/20231024/fa29c0f5-f067-4f75-9144-923af9589e5c.jpg",
+    "https://picture.yoshiclub.xyz/20231025/e400cc68-d311-41d6-8cb1-30797f48dd52.jpg",
+    "https://picture.yoshiclub.xyz/20231025/d0ef7d3e-2ea0-4d39-8ed3-6ba81443fb46.jpg",
+    "https://picture.yoshiclub.xyz/20231025/a2b35f2f-c6f7-4a2c-80b9-71aeba8472dc.jpg",
+    "https://picture.yoshiclub.xyz/20231025/6d30d450-c51e-482e-bab0-4e60864359c6.jpg",
+    "https://picture.yoshiclub.xyz/20231025/d9769d49-4675-41bd-aa2c-722e299df557.jpg",
+    "https://picture.yoshiclub.xyz/20231025/b2581c55-c418-4053-958c-bf8f830aad18.jpg",
+    "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+    "https://picture.yoshiclub.xyz/20231025/527e3439-96fb-4169-b853-1bbb8e322414.jpg",
+    "https://picture.yoshiclub.xyz/20231025/356dff35-3fcf-4be2-b2ab-27a087ea3db1.jpg"
+  ]
+};
