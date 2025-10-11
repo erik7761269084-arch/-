@@ -99,6 +99,7 @@ function getSeriesName() {
   return params.get('series') || '1'; // 默认 1
 }
 const seriesName = getSeriesName();
+loadSeriesData(seriesName);
 
 // 初始化页面函数
 function initPage() {
@@ -156,10 +157,6 @@ function initPage() {
     galleryDiv.appendChild(img);
   });
 }
-
-// 调用加载函数，传入 JS 文件名（不带 .js）
-loadSeriesData("1");
-// loadSeriesData(seriesName);
 </script>
 
 </body>
