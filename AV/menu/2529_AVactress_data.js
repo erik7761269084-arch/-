@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/藍原かれん.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231002/202310022211076464.jpg",
   "zodiac": "射手座",
   "height": "153cm",
   "measurements": "胸 93 腰 66 臀 88",

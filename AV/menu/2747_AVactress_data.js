@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-11-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/野々村みゆき.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/214714b6-a5db-44cf-b313-577e1ba3f6f6.webp",
   "zodiac": "天蠍座",
   "height": "158cm",
   "measurements": "胸 91 腰 64 臀 91",

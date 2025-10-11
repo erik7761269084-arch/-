@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-08-24",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-白瀬心乙.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231113/20231113232131146146.jpg",
   "zodiac": "處女座",
   "height": "154cm",
   "measurements": "胸 88 腰 59 臀 89",

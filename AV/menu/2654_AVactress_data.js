@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-12-26",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-神波多一花.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250309/84858293-7465-4c65-b990-a14764c27581.jpg",
   "zodiac": "摩羯座",
   "height": "172cm",
   "measurements": "胸 84 腰 60 臀 88",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-05-18",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-西川りおん.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241120/7cd69b35-ade8-416a-b5fe-cca2debdf1c5.jpg",
   "zodiac": "金牛座",
   "height": "157cm",
   "measurements": "胸 101 腰 66 臀 96",

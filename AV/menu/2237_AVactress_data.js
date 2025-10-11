@@ -5,7 +5,7 @@ window.actressData = {
   "age": 42,
   "birthday_date": "1983-09-28",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-来栖もも.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240619/ef9051e0-0672-494b-8700-f0bbeb4d1148.jpg",
   "zodiac": "天秤座",
   "height": "168cm",
   "measurements": "胸 101 腰 72 臀 105",

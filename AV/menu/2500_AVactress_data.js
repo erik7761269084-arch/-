@@ -5,7 +5,7 @@ window.actressData = {
   "age": 25,
   "birthday_date": "2000-01-01",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/小此木ひなの.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250122/0024950c-ca2c-46c9-b3af-579e143ba58c.jpg",
   "zodiac": "摩羯座",
   "height": "155cm",
   "measurements": "胸 91 腰 63 臀 88",

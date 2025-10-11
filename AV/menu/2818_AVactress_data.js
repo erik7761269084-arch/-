@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-10-11",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-春日野結衣.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230123/49a7a79c-c3ac-46e4-bd04-90d9f4c13d4a.webp",
   "zodiac": "天秤座",
   "height": "149cm",
   "measurements": "胸 82 腰 60 臀 88",

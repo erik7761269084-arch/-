@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-10-24",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Prestige/AI-Fix-小橋咲.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230121/71bfddf9-a802-4381-8349-fe546e3e8b36.webp",
   "zodiac": "天蠍座",
   "height": "152cm",
   "measurements": "胸 88 腰 58 臀 85",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 41,
   "birthday_date": "1984-10-29",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-長谷真理香.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230131/6698f320-2f49-4366-886f-42a8e23304c7.webp",
   "zodiac": "天蠍座",
   "height": "158cm",
   "measurements": "胸 85 腰 56 臀 88",

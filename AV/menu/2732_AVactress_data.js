@@ -5,7 +5,7 @@ window.actressData = {
   "age": 29,
   "birthday_date": "1996-11-26",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-矢田ちえみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230211/f8c91b27-5abe-4827-bb5e-e15660405bef.webp",
   "zodiac": "射手座",
   "height": "152cm",
   "measurements": "胸 75 腰 58 臀 86",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-04-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高田美沙.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/1af7b60f-fee7-4f9c-9bee-8cf462064304.jpg",
   "zodiac": "白羊座",
   "height": "159cm",
   "measurements": "胸 88 腰 59 臀 90",

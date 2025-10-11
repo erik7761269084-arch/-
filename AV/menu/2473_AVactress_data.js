@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-02-04",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-WANZ/AI-Fix-高梨あゆみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
   "zodiac": "水瓶座",
   "height": "157cm",
   "measurements": "胸 83 腰 57 臀 85",

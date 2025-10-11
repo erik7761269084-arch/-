@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-溜池ゴロー/AI-Fix-たかせ由奈.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250223/5bd50d32-bf65-4397-b129-e714ec288525.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

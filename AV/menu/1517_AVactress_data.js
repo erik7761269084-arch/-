@@ -5,7 +5,7 @@ window.actressData = {
   "age": 35,
   "birthday_date": "1990-12-15",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Attackers/AI-Fix-ももかりん.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230208/3a47c107-cfed-449f-82e0-c523539861bd.webp",
   "zodiac": "射手座",
   "height": "156cm",
   "measurements": "胸 80 腰 57 臀 83",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 48,
   "birthday_date": "1977-03-25",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Fitch/AI-Fix-石川しずか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241106/2ec90d7d-5105-4850-9427-630db39c8d89.jpg",
   "zodiac": "白羊座",
   "height": "156cm",
   "measurements": "胸 102 腰 65 臀 100",

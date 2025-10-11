@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-10-16",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-佐々木玲奈.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240522/91d4b7e4-2ba9-4bec-b674-1416c71bbb1c.jpg",
   "zodiac": "天秤座",
   "height": "163cm",
   "measurements": "胸 84 腰 58 臀 90",

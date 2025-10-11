@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-遠野春希.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230120/20230120053742516516.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

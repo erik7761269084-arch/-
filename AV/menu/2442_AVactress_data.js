@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/桃尻かなめ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240915/202409150500284949.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

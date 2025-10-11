@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-09-17",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-天宮まりる.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
   "zodiac": "處女座",
   "height": "148cm",
   "measurements": "胸 87 腰 60 臀 88",

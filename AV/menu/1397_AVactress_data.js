@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-加藤麻耶.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230212/f9117159-d6a2-497c-9e0f-004cece33720.webp",
   "zodiac": "射手座",
   "height": "160cm",
   "measurements": "胸 84 腰 58 臀 83",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 37,
   "birthday_date": "1988-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/湯川あゆみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240911/ddf28803-5415-44c2-b486-415161145452.jpg",
   "zodiac": "射手座",
   "height": "152cm",
   "measurements": "胸 86 腰 59 臀 87",

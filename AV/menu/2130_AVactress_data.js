@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-04-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-小宮涼菜.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240814/be563116-950b-46e5-9907-01faf0ae5b6b.jpg",
   "zodiac": "白羊座",
   "height": "170cm",
   "measurements": "胸 97 腰 62 臀 95",

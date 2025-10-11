@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/沢田ユカリ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231206/468ef712-7ac9-4dad-8654-4a4188836feb.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

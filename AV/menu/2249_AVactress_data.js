@@ -5,7 +5,7 @@ window.actressData = {
   "age": 39,
   "birthday_date": "1986-07-18",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-水森あおい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230208/474c4864-2443-487b-9190-97be23d3f19e.webp",
   "zodiac": "巨蟹座",
   "height": "157cm",
   "measurements": "胸 90 腰 58 臀 84",

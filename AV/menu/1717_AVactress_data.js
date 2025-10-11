@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-03-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-七海なな.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/9f48f8bf-17b7-4621-ae79-ced28375029c.jpg",
   "zodiac": "雙魚座",
   "height": "153cm",
   "measurements": "胸 85 腰 57 臀 83",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 29,
   "birthday_date": "1996-01-11",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/西川ちひろ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/591e809a-ba24-448b-baa9-4205603a9023.webp",
   "zodiac": "摩羯座",
   "height": "158cm",
   "measurements": "胸 85 腰 58 臀 90",

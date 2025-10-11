@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/天野美優.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250302/c107b9cf-eb78-4304-9f7d-bb1f1d95a3b2.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

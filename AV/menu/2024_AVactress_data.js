@@ -5,7 +5,7 @@ window.actressData = {
   "age": 26,
   "birthday_date": "1999-08-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\4-Kawaii/平花.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250309/32ae1c43-9db5-4e79-8f01-d1dff85cc769.jpg",
   "zodiac": "獅子座",
   "height": "140cm",
   "measurements": "胸 75 腰 55 臀 82",

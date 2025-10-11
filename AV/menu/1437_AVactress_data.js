@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-06-01",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/雨宮ののか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241216/7345bc10-d259-4b2e-bbd4-d944fb12de1c.jpg",
   "zodiac": "雙子座",
   "height": "150cm",
   "measurements": "胸 82 腰 56 臀 84",

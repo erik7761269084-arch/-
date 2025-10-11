@@ -5,7 +5,7 @@ window.actressData = {
   "age": 59,
   "birthday_date": "1966-07-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/二ノ宮慶子.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240512/50b72f2b-2233-4dc6-afb9-4d669d723028.jpg",
   "zodiac": "巨蟹座",
   "height": "163cm",
   "measurements": "胸 98 腰 60 臀 90",

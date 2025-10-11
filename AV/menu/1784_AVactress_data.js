@@ -5,7 +5,7 @@ window.actressData = {
   "age": 35,
   "birthday_date": "1990-10-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Fitch/AI-Fix-小沢アリス.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250303/df27f3c3-22dc-471a-a7d9-a65d9b8df7d4.jpg",
   "zodiac": "天秤座",
   "height": "167cm",
   "measurements": "胸 100 腰 61 臀 89",

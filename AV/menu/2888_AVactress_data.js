@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/長谷川もも.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231018/202310182312333737.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

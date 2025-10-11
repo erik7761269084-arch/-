@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-02-18",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/辻井美穂.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230131/c37e3fa5-676a-475b-95d3-81849c8d26a4.webp",
   "zodiac": "水瓶座",
   "height": "149cm",
   "measurements": "胸 93 腰 63 臀 86",

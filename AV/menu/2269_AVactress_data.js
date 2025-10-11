@@ -5,7 +5,7 @@ window.actressData = {
   "age": 29,
   "birthday_date": "1996-12-17",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-高井ルナ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230331/14ec6bf2-4f24-4256-bf9d-8426c106d94b.jpg",
   "zodiac": "射手座",
   "height": "163cm",
   "measurements": "胸 83 腰 58 臀 84",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 26,
   "birthday_date": "1999-04-08",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\4-Kawaii/一色さゆり.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
   "zodiac": "白羊座",
   "height": "156cm",
   "measurements": "胸 95 腰 59 臀 90",

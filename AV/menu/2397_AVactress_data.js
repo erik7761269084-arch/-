@@ -5,7 +5,7 @@ window.actressData = {
   "age": 39,
   "birthday_date": "1986-05-04",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/永作亜美.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230504/b230a299-c6e8-412d-93c6-ac0b1761a0cc.webp",
   "zodiac": "金牛座",
   "height": "157cm",
   "measurements": "胸 86 腰 60 臀 87",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/志田紗希.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250906/20250906220212451451_72949_s.webp",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

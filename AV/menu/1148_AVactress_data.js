@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/辻芽愛里.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241020/91513417-eb46-48c0-9e27-5cb8c700a5e8.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 35,
   "birthday_date": "1990-11-14",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/上原保奈美.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230404/4cb48e4a-3973-4a1d-bb6e-4bfa2866f35b.jpg",
   "zodiac": "天蠍座",
   "height": "157cm",
   "measurements": "胸 105 腰 62 臀 88",

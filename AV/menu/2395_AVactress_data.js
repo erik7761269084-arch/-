@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-05-25",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-石原あい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230401/20230401102853499499.jpg",
   "zodiac": "雙子座",
   "height": "152cm",
   "measurements": "胸 85 腰 58 臀 80",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-09-14",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Premium/沙織.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230507/91b794da-ed6e-4808-b9f0-e71265a9323d.webp",
   "zodiac": "處女座",
   "height": "165cm",
   "measurements": "胸 85 腰 56 臀 86",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 25,
   "birthday_date": "2000-02-08",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-和久井まりあ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230331/e9205287-b195-4e3a-95f1-57a8c1023c94.jpg",
   "zodiac": "水瓶座",
   "height": "160cm",
   "measurements": "胸 80 腰 57 臀 81",

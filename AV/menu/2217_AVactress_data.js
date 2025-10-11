@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-林里子.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230927/20230927215758723723.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

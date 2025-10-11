@@ -5,7 +5,7 @@ window.actressData = {
   "age": 28,
   "birthday_date": "1997-10-27",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/月下あいり.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
   "zodiac": "天蠍座",
   "height": "165cm",
   "measurements": "胸 85 腰 65 臀 88",

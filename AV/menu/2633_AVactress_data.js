@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-11-28",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-藤井林檎.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241024/433c22d8-b0a7-4a09-a846-c5538f524150.jpg",
   "zodiac": "射手座",
   "height": "150cm",
   "measurements": "胸 76 腰 58 臀 93",

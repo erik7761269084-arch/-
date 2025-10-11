@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-12-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/瀬戸ひまり.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240814/75663c2b-a18d-4994-8018-98b7a89a06a8.jpg",
   "zodiac": "射手座",
   "height": "155cm",
   "measurements": "胸 88 腰 61 臀 87",

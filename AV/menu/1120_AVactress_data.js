@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-03-19",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-桜もこ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231105/20231105084333321321.jpg",
   "zodiac": "雙魚座",
   "height": "153cm",
   "measurements": "胸 79 腰 55 臀 76",

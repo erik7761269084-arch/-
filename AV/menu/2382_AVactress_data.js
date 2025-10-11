@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-04-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-美咲ひな.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230122/47465d0e-cea8-4226-8fc7-393eb77426cb.webp",
   "zodiac": "白羊座",
   "height": "160cm",
   "measurements": "胸 86 腰 60 臀 88",

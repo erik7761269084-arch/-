@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/立花瑠莉.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231109/20231109000808754754.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

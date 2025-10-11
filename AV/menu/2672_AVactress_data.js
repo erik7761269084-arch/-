@@ -5,7 +5,7 @@ window.actressData = {
   "age": 27,
   "birthday_date": "1998-01-23",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230511/20230511044609123123.jpg",
   "zodiac": "水瓶座",
   "height": "166cm",
   "measurements": "胸 80 腰 58 臀 84",

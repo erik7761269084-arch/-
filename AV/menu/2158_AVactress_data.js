@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-11-04",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-白石優杞菜.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/d29aa2f7-6059-4f9b-b278-8f6faec9d870.jpg",
   "zodiac": "天蠍座",
   "height": "164cm",
   "measurements": "胸 83 腰 56 臀 88",

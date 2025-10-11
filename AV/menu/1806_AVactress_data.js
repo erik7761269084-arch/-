@@ -5,7 +5,7 @@ window.actressData = {
   "age": 27,
   "birthday_date": "1998-06-01",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/柚木結愛.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230606/20230606212332658658.jpg",
   "zodiac": "雙子座",
   "height": "155cm",
   "measurements": "胸 85 腰 56 臀 84",

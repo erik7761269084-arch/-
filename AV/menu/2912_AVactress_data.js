@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-KMP/夢見照うた.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250907/20250907005935897897_54427_s.webp",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

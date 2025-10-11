@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/愛沢さら.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

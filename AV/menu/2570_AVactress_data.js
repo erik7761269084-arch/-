@@ -5,7 +5,7 @@ window.actressData = {
   "age": 28,
   "birthday_date": "1997-09-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-月島舞香.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230914/20230914005253359359.jpg",
   "zodiac": "天秤座",
   "height": "156cm",
   "measurements": "胸 90 腰 60 臀 80",

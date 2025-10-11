@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-04-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/乃々果花.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/4db3737a-4530-4104-aa0c-797e69aacd47.jpg",
   "zodiac": "白羊座",
   "height": "160cm",
   "measurements": "胸 97 腰 60 臀 89",

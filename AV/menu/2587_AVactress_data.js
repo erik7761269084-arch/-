@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-03-21",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Attackers/AI-Fix-星野千紗.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240522/eff5d9cf-10ec-4c08-afb1-556854eda7f6.jpg",
   "zodiac": "白羊座",
   "height": "154cm",
   "measurements": "胸 88 腰 55 臀 85",

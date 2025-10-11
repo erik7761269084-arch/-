@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-04-23",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-松浦まいこ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
   "zodiac": "金牛座",
   "height": "160cm",
   "measurements": "胸 86 腰 60 臀 88",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-03-03",
   "img_url": "https://picture.yoshiclub.xyz/20230121/1cb40cc4-35aa-4899-b281-a42d4d20b477.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230123/93656534-6ae3-4a15-836c-88ad9cee365e.webp",
   "zodiac": "雙魚座",
   "height": "167cm",
   "measurements": "胸 88 腰 59 臀 87",

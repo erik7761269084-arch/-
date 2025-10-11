@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-03-03",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-市川まほ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240218/20240218065028477477.jpg",
   "zodiac": "雙魚座",
   "height": "154cm",
   "measurements": "胸 83 腰 58 臀 83",

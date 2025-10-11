@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/雨宮凜.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250120/2025012011305511.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/20250303/f2d1a619-79b2-496a-964b-c2855ca6d31d.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250303/20250303230951748748.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

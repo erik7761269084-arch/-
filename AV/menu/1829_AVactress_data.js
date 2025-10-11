@@ -5,7 +5,7 @@ window.actressData = {
   "age": 52,
   "birthday_date": "1973-08-17",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-夢野まりあ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250226/20250226122538795795.jpg",
   "zodiac": "獅子座",
   "height": "155cm",
   "measurements": "胸 120 腰 65 臀 95",

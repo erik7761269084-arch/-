@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-03-04",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-朝比奈ゆめの.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241128/0dc78166-fb06-4ecc-9e93-e6aa4699c06c.jpg",
   "zodiac": "雙魚座",
   "height": "153cm",
   "measurements": "胸 81 腰 58 臀 89",

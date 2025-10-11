@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/蒼井朱里.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_s.webp",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

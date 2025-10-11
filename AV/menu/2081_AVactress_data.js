@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-朝川ここみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231220/fbf2fc91-d923-4d0a-865e-e2da5e1682c8.jpg",
   "zodiac": "射手座",
   "height": "152cm",
   "measurements": "胸 89 腰 58 臀 85",

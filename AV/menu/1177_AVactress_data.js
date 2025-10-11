@@ -5,7 +5,7 @@ window.actressData = {
   "age": 45,
   "birthday_date": "1980-07-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-羽月ミリア.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240728/9761e9e2-324c-4508-b3b2-81d2bd309b6e.jpg",
   "zodiac": "巨蟹座",
   "height": "162cm",
   "measurements": "胸 84 腰 59 臀 85",

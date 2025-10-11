@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-06-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/美神あや.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/89b93128-5795-45e7-bf02-ee0d77aaefb7.webp",
   "zodiac": "雙子座",
   "height": "160cm",
   "measurements": "胸 85 腰 58 臀 80",

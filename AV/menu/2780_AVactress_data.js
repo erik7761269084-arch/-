@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/秋月玲奈.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230404/4221c89c-e57b-42da-937f-c76fd6c3590a.jpg",
   "zodiac": "",
   "height": "155cm",
   "measurements": "胸 83 腰 60 臀 84",

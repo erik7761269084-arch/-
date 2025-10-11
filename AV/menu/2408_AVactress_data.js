@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-07-14",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-夜空まひろ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240627/20240627014525233233.jpg",
   "zodiac": "巨蟹座",
   "height": "158cm",
   "measurements": "胸 80 腰 59 臀 83",

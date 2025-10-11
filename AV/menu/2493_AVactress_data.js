@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-07-13",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-ラグジュTV/AI-Fix-水無月レイラ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230331/ba1811ff-f6fe-4c31-b782-baad3cecc2cb.jpg",
   "zodiac": "巨蟹座",
   "height": "165cm",
   "measurements": "胸 88 腰 60 臀 93",

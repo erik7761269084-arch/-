@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-11-11",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/瀬奈まお.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230207/6daed0a2-0484-4767-8e3d-5488baf21991.webp",
   "zodiac": "天蠍座",
   "height": "152cm",
   "measurements": "胸 84 腰 58 臀 85",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-佳山三花.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/cbe1155d-c448-4975-a339-ea77975aa13a.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

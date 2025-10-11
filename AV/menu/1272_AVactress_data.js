@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-10-10",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/西川ゆい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230122/22fb9b5f-287f-40ba-b593-3f3ec436ae9c.webp",
   "zodiac": "天秤座",
   "height": "165cm",
   "measurements": "胸 88 腰 60 臀 86",

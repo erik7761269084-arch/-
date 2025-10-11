@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-12-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/杏.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240501/42e7f6d3-4e9c-4e82-926c-641f9919de7d.jpg",
   "zodiac": "射手座",
   "height": "164cm",
   "measurements": "胸 97 腰 59 臀 95",

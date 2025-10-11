@@ -5,7 +5,7 @@ window.actressData = {
   "age": 35,
   "birthday_date": "1990-07-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-やまぐちりく.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230330/fe569b3a-b8a5-4d10-a307-397f43a617aa.jpg",
   "zodiac": "巨蟹座",
   "height": "158cm",
   "measurements": "胸 85 腰 58 臀 85",

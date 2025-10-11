@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-07-14",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-京野明日香.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240821/781a0d2a-5af9-477a-9007-ceabd26b16a7.jpg",
   "zodiac": "巨蟹座",
   "height": "156cm",
   "measurements": "胸 87 腰 60 臀 89",

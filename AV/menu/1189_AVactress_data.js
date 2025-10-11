@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-08-22",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-風間リナ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231228/20231228005613474474.jpg",
   "zodiac": "獅子座",
   "height": "165cm",
   "measurements": "胸 88 腰 58 臀 89",

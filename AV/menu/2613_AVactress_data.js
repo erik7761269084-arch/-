@@ -5,7 +5,7 @@ window.actressData = {
   "age": 42,
   "birthday_date": "1983-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-倉田恵.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240625/1e83ba35-fd3a-4ae0-8cf5-e3823e36b366.jpg",
   "zodiac": "射手座",
   "height": "163cm",
   "measurements": "胸 90 腰 60 臀 90",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/緒方泰子.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

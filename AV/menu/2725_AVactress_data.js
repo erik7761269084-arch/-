@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-森下美緒.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250324/5a15d7fa-ce3b-4995-bf66-3d956afa490b.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

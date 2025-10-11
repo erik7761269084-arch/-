@@ -5,7 +5,7 @@ window.actressData = {
   "age": 26,
   "birthday_date": "1999-06-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/桃田香織.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712011500373373.jpg",
   "zodiac": "雙子座",
   "height": "154cm",
   "measurements": "胸 86 腰 59 臀 90",

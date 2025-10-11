@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-01-14",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/栗原葵.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241002/40d7a55d-aea3-42b8-9fc0-dfa4645a4921.jpg",
   "zodiac": "摩羯座",
   "height": "158cm",
   "measurements": "胸 89 腰 60 臀 89",

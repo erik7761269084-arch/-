@@ -5,7 +5,7 @@ window.actressData = {
   "age": 46,
   "birthday_date": "1979-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-山口菜穂.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240625/1e83ba35-fd3a-4ae0-8cf5-e3823e36b366.jpg",
   "zodiac": "射手座",
   "height": "153cm",
   "measurements": "胸 78 腰 60 臀 88",

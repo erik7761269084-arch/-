@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-ラグジュTV/AI-Fix-伊東紅蘭.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250302/2f64707d-4149-495d-b744-fca3afe89d88.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

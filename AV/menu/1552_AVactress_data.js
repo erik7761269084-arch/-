@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-09-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/長谷川夏樹.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230211/f0924f42-2f52-45bb-94ac-cd841000d6d0.webp",
   "zodiac": "處女座",
   "height": "162cm",
   "measurements": "胸 80 腰 57 臀 88",

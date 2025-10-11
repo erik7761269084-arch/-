@@ -5,7 +5,7 @@ window.actressData = {
   "age": 46,
   "birthday_date": "1979-03-24",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-水原梨花.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231129/202311290327403535.jpg",
   "zodiac": "白羊座",
   "height": "170cm",
   "measurements": "胸 86 腰 58 臀 85",

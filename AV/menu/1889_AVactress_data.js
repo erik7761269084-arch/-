@@ -5,7 +5,7 @@ window.actressData = {
   "age": 29,
   "birthday_date": "1996-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-三苫うみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250208/20250208215525860860.jpg",
   "zodiac": "射手座",
   "height": "160cm",
   "measurements": "胸 110 腰 70 臀 120",

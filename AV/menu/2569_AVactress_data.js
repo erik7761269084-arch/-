@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/宮島優.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250128/20b8416f-5176-4fa1-8f1e-f88f9fa80090.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

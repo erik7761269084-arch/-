@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-市川サラ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231025/202310250011544343.jpg",
   "zodiac": "射手座",
   "height": "163cm",
   "measurements": "胸 88 腰 60 臀 85",

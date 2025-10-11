@@ -5,7 +5,7 @@ window.actressData = {
   "age": 28,
   "birthday_date": "1997-04-13",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-香純ゆい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/bbcd2ed3-2929-42f8-a787-3b624b34a433.jpg",
   "zodiac": "白羊座",
   "height": "150cm",
   "measurements": "胸 89 腰 59 臀 86",

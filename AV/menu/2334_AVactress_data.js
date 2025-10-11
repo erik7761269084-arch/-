@@ -5,7 +5,7 @@ window.actressData = {
   "age": 29,
   "birthday_date": "1996-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/凪沙ゆう.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240926/22c2bf91-55ca-4cb0-95b1-047b4e4da6bd.jpg",
   "zodiac": "射手座",
   "height": "162cm",
   "measurements": "胸 85 腰 58 臀 92",

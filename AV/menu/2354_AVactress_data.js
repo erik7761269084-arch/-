@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-05-18",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-桜木優希音.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230330/072ac4bd-0049-4942-b437-d8a6c2ae113b.jpg",
   "zodiac": "金牛座",
   "height": "160cm",
   "measurements": "胸 81 腰 58 臀 94",

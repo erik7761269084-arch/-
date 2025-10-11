@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-06-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Honnaka/一条リオン.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/671dbcdd-0b82-406d-86f3-e17f3a05efe3.webp",
   "zodiac": "雙子座",
   "height": "157cm",
   "measurements": "胸 95 腰 60 臀 89",

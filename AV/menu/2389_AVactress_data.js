@@ -5,7 +5,7 @@ window.actressData = {
   "age": 34,
   "birthday_date": "1991-04-15",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/愛葵いちか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250113/20250113084405931931.jpg",
   "zodiac": "白羊座",
   "height": "155cm",
   "measurements": "胸 90 腰 58 臀 86",

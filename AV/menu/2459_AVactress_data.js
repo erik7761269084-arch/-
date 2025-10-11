@@ -5,7 +5,7 @@ window.actressData = {
   "age": 37,
   "birthday_date": "1988-10-08",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/香坂美優.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230120/20230120083524458458.jpg",
   "zodiac": "天秤座",
   "height": "162cm",
   "measurements": "胸 87 腰 58 臀 87",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-03-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Honnaka/立川理恵.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230123/39993073-4ba3-4cdf-88c5-ee8597bfb9d5.webp",
   "zodiac": "雙魚座",
   "height": "160cm",
   "measurements": "胸 90 腰 57 臀 88",

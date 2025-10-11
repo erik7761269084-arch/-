@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/桃ゆりか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230207/3c4d5984-ff1c-4767-b3f8-1711a766e1e3.webp",
   "zodiac": "",
   "height": "163cm",
   "measurements": "胸 89 腰 59 臀 85",

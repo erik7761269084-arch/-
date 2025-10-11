@@ -5,7 +5,7 @@ window.actressData = {
   "age": 39,
   "birthday_date": "1986-07-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Attackers/AI-Fix-花井メイサ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230211/c3ff0fc7-fb8f-44ae-ba02-49f2058f806d.webp",
   "zodiac": "巨蟹座",
   "height": "157cm",
   "measurements": "胸 98 腰 58 臀 89",

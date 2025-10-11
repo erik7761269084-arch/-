@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-01-01",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-藤谷咲.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230403/20230403052416223223.jpg",
   "zodiac": "摩羯座",
   "height": "152cm",
   "measurements": "胸 86 腰 61 臀 88",

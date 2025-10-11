@@ -5,7 +5,7 @@ window.actressData = {
   "age": 27,
   "birthday_date": "1998-06-19",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/泉ゆり.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241227/20241227052253850850.jpg",
   "zodiac": "雙子座",
   "height": "175cm",
   "measurements": "胸 82 腰 54 臀 81",

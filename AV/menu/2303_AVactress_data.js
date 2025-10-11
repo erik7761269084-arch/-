@@ -5,7 +5,7 @@ window.actressData = {
   "age": 51,
   "birthday_date": "1974-03-16",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-新尾きり子.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250309/84858293-7465-4c65-b990-a14764c27581.jpg",
   "zodiac": "雙魚座",
   "height": "160cm",
   "measurements": "胸 86 腰 64 臀 89",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 26,
   "birthday_date": "1999-02-16",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/三田杏.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230404/1e8b0655-12af-4ebd-8a36-dc9064f643cc.jpg",
   "zodiac": "水瓶座",
   "height": "166cm",
   "measurements": "胸 84 腰 59 臀 87",

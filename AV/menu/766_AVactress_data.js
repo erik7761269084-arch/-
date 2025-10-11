@@ -5,7 +5,7 @@ window.actressData = {
   "age": 26,
   "birthday_date": "1999-11-22",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/乾りっか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017072053618618.jpg",
   "zodiac": "射手座",
   "height": "170cm",
   "measurements": "胸 83 腰 56 臀 80",

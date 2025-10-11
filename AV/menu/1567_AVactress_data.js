@@ -5,7 +5,7 @@ window.actressData = {
   "age": 44,
   "birthday_date": "1981-10-02",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-浜田麻由美.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240513/20240513090512458458.jpg",
   "zodiac": "天秤座",
   "height": "170cm",
   "measurements": "胸 80 腰 58 臀 84",

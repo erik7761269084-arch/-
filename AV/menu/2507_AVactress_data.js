@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-02-10",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-加藤かすみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/954a6f5c-8583-44f6-bd2d-441cc276a6f5.webp",
   "zodiac": "水瓶座",
   "height": "159cm",
   "measurements": "胸 88 腰 60 臀 86",

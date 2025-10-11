@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-09-22",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Fitch/AI-Fix-折原ほのか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230812/20230812010418705705.jpg",
   "zodiac": "處女座",
   "height": "154cm",
   "measurements": "胸 92 腰 60 臀 95",

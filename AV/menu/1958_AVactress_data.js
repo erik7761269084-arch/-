@@ -5,7 +5,7 @@ window.actressData = {
   "age": 28,
   "birthday_date": "1997-11-10",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-DAS/AI-Fix-七瀬るい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
   "zodiac": "天蠍座",
   "height": "0cm",
   "measurements": "",

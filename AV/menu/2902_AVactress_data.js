@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-加藤レイラ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250203/20250203100841686686.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-北川レイラ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231113/20231113233049894894.jpg",
   "zodiac": "射手座",
   "height": "158cm",
   "measurements": "胸 82 腰 57 臀 84",

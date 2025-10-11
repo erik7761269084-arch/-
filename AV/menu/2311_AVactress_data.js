@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-02-21",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-早川メアリー.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240806/f39794d0-abbb-42dd-9223-41fb52e13718.jpg",
   "zodiac": "雙魚座",
   "height": "162cm",
   "measurements": "胸 84 腰 58 臀 88",

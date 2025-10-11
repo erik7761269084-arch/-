@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-蒼井るみか.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250303/b8e378ed-2fa3-43d3-aa94-5e4da1d2c04e.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

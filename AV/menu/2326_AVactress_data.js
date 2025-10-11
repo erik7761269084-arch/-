@@ -5,7 +5,7 @@ window.actressData = {
   "age": 28,
   "birthday_date": "1997-03-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/矢野乃々華.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
   "zodiac": "白羊座",
   "height": "155cm",
   "measurements": "胸 92 腰 61 臀 91",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-09-29",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/あかさかゆい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241229/26094a77-d16c-4c2b-be74-99399f26c68f.jpg",
   "zodiac": "天秤座",
   "height": "158cm",
   "measurements": "胸 86 腰 60 臀 87",

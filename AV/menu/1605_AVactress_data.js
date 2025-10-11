@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-04-21",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/黄金むぎ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240722/4a7ead56-89ae-4d0e-8596-170fe2c8a937.jpg",
   "zodiac": "金牛座",
   "height": "158cm",
   "measurements": "胸 83 腰 57 臀 82",

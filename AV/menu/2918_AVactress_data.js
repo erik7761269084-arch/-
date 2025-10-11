@@ -5,7 +5,7 @@ window.actressData = {
   "age": 36,
   "birthday_date": "1989-08-19",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-立花さや.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230122/f1af8f0e-0db3-49a1-b3f7-de342bd45035.webp",
   "zodiac": "獅子座",
   "height": "159cm",
   "measurements": "胸 85 腰 57 臀 88",

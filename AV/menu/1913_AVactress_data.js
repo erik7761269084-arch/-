@@ -5,7 +5,7 @@ window.actressData = {
   "age": 37,
   "birthday_date": "1988-12-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-未満/AI-Fix-長澤あずさ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230121/450cb45c-bb8a-411e-a373-498e79c53c0c.webp",
   "zodiac": "摩羯座",
   "height": "162cm",
   "measurements": "胸 100 腰 63 臀 93",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-06-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-大場ゆい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230207/723c1272-95dc-4be9-a1b1-d11714725c03.webp",
   "zodiac": "雙子座",
   "height": "170cm",
   "measurements": "胸 83 腰 60 臀 96",

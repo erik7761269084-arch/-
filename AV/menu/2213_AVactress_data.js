@@ -5,7 +5,7 @@ window.actressData = {
   "age": 54,
   "birthday_date": "1971-01-01",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-櫻井美保.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20241225/dee022e6-2cad-4a9a-8f02-a575808c6b87.jpg",
   "zodiac": "摩羯座",
   "height": "160cm",
   "measurements": "胸 84 腰 60 臀 88",

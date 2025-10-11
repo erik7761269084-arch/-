@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-斉木ゆあ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250210/09d4f44f-47d3-4807-8318-64f1747e2588.jpg",
   "zodiac": "射手座",
   "height": "155cm",
   "measurements": "胸 80 腰 60 臀 85",

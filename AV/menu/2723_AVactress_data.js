@@ -5,7 +5,7 @@ window.actressData = {
   "age": 41,
   "birthday_date": "1984-11-30",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-ラグジュTV/AI-Fix-夏希結愛.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20231122/20231122005547373373.jpg",
   "zodiac": "射手座",
   "height": "162cm",
   "measurements": "胸 90 腰 59 臀 90",

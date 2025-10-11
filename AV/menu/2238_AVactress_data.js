@@ -5,7 +5,7 @@ window.actressData = {
   "age": 42,
   "birthday_date": "1983-10-21",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\S1/花野真衣.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230121/be2aca9f-a32e-4784-8f42-fe661948d260.webp",
   "zodiac": "天秤座",
   "height": "168cm",
   "measurements": "胸 90 腰 57 臀 88",

@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-06-18",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-有安真里.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230208/6a715f97-21a4-4ce6-b4fc-3ad2d63727d2.webp",
   "zodiac": "雙子座",
   "height": "160cm",
   "measurements": "胸 86 腰 58 臀 88",

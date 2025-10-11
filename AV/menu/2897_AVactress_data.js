@@ -5,7 +5,7 @@ window.actressData = {
   "age": 40,
   "birthday_date": "1985-03-07",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-七瀬ジュリア.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230209/a230678e-7860-42c5-95ee-bebb788e6810.webp",
   "zodiac": "雙魚座",
   "height": "167cm",
   "measurements": "胸 90 腰 58 臀 88",

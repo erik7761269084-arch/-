@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-06-03",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-菜々瀬ゆい.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
   "zodiac": "雙子座",
   "height": "171cm",
   "measurements": "胸 88 腰 58 臀 86",

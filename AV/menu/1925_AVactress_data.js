@@ -5,7 +5,7 @@ window.actressData = {
   "age": 41,
   "birthday_date": "1984-06-10",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/彩夏.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230122/05c3b181-edbd-4c05-9061-72291cbce5fa.webp",
   "zodiac": "雙子座",
   "height": "168cm",
   "measurements": "胸 86 腰 60 臀 89",

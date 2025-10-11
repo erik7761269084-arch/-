@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-笹川蓉子.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250402/20250402111237558558.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

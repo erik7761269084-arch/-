@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002065231971971_54469_s.webp",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

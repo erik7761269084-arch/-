@@ -5,7 +5,7 @@ window.actressData = {
   "age": 32,
   "birthday_date": "1993-12-06",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/有賀ゆあ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240327/83ef6c13-11d3-4f03-85d3-b1bea955f518.jpg",
   "zodiac": "射手座",
   "height": "156cm",
   "measurements": "胸 83 腰 57 臀 83",

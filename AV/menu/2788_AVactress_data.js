@@ -5,7 +5,7 @@ window.actressData = {
   "age": null,
   "birthday_date": null,
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/桜結奈.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240916/20240916060035601601.jpg",
   "zodiac": "",
   "height": "0cm",
   "measurements": "",

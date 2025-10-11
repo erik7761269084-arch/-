@@ -5,7 +5,7 @@ window.actressData = {
   "age": 31,
   "birthday_date": "1994-05-11",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-美波なみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230407/20230407090039110110.jpg",
   "zodiac": "金牛座",
   "height": "163cm",
   "measurements": "胸 83 腰 57 臀 82",

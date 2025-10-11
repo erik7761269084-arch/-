@@ -5,7 +5,7 @@ window.actressData = {
   "age": 30,
   "birthday_date": "1995-11-20",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/木下寧々.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240410/20240410081741872872.jpg",
   "zodiac": "天蠍座",
   "height": "160cm",
   "measurements": "胸 88 腰 59 臀 85",

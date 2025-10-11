@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-11-12",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-蒼井まなみ.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230331/61c4dac4-f662-4f33-9422-909301672244.jpg",
   "zodiac": "天蠍座",
   "height": "172cm",
   "measurements": "胸 95 腰 58 臀 88",

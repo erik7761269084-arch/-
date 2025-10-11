@@ -5,7 +5,7 @@ window.actressData = {
   "age": 33,
   "birthday_date": "1992-12-11",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/三沢明日香.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230123/93656534-6ae3-4a15-836c-88ad9cee365e.webp",
   "zodiac": "射手座",
   "height": "160cm",
   "measurements": "胸 83 腰 58 臀 85",

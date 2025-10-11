@@ -5,7 +5,7 @@ window.actressData = {
   "age": 40,
   "birthday_date": "1985-08-08",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/真鍋あや.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250310/20250310001459970970.jpg",
   "zodiac": "獅子座",
   "height": "171cm",
   "measurements": "胸 96 腰 60 臀 90",

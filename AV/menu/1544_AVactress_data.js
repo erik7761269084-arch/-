@@ -5,7 +5,7 @@ window.actressData = {
   "age": 38,
   "birthday_date": "1987-03-09",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-森野まりな.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20240208/8203ae28-3289-4932-960a-39a95da928f7.png",
   "zodiac": "雙魚座",
   "height": "163cm",
   "measurements": "胸 83 腰 60 臀 86",

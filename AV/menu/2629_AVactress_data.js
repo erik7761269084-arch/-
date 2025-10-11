@@ -5,7 +5,7 @@ window.actressData = {
   "age": 35,
   "birthday_date": "1990-02-21",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-あまねなのは.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20230124/a5618af3-da25-4c3f-b812-39efa0cf7a6e.webp",
   "zodiac": "雙魚座",
   "height": "157cm",
   "measurements": "胸 84 腰 58 臀 85",
