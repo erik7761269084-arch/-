@@ -39,6 +39,7 @@
   .profile {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
   }
 
   .profile img {
@@ -60,8 +61,12 @@
     font-size: 12px;
   }
 
+  .description {
+    margin-top: 40px;
+  }
+
   .gallery {
-    margin-top: 20px;
+    margin-top: 30px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
     gap: 10px;
@@ -90,7 +95,6 @@
       <p>作品数量: <span id="works_count"></span></p>
       <div class="features" id="features"></div>
       <p>别名: <span id="aliases"></span></p>
- 
     </div>
   </div>
 
@@ -113,17 +117,28 @@ function getSeriesName() {
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
   script.src = "menu/" + seriesName + "_AVactress_data.js"; // 目录 + 文件名
-  script.onload = () => initPage();
+  script.onload = () => {
+    // 兼容 window.actressData 或 export default actressData
+    if (window.actressData) {
+      initPage(window.actressData);
+    } else if (typeof actressData !== 'undefined') {
+      initPage(actressData);
+    } else {
+      alert("actressData 未定义，检查数据文件格式。");
+    }
+  };
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
 }
 
 // 初始化页面
-function initPage() {
-  if (!window.actressData) {
-    console.error("actressData 未定义");
+function initPage(actressData) {
+  if (!actressData) {
+    console.error("未获取到 actressData");
     return;
   }
+
+  console.log("加载到的演员数据:", actressData);
 
   // 设置背景图
   if (actressData.background_img) {
@@ -132,47 +147,52 @@ function initPage() {
 
   // 填充信息
   const profileImg = document.getElementById("profile-img");
-  profileImg.src = actressData.img_url;
-  profileImg.alt = actressData.name;
+  profileImg.src = actressData.img_url || "";
+  profileImg.alt = actressData.name || "";
   profileImg.onerror = () => profileImg.style.display = 'none';
 
-  document.getElementById("name").textContent = actressData.name;
-  document.getElementById("age").textContent = actressData.age;
-  document.getElementById("birthday").textContent = actressData.birthday_date;
-  document.getElementById("zodiac").textContent = actressData.zodiac;
-  document.getElementById("height").textContent = actressData.height;
-  document.getElementById("measurements").textContent = actressData.measurements;
-  document.getElementById("cup").textContent = actressData.cup;
+  document.getElementById("name").textContent = actressData.name || "";
+  document.getElementById("age").textContent = actressData.age || "";
+  document.getElementById("birthday").textContent = actressData.birthday_date || "";
+  document.getElementById("zodiac").textContent = actressData.zodiac || "";
+  document.getElementById("height").textContent = actressData.height || "";
+  document.getElementById("measurements").textContent = actressData.measurements || "";
+  document.getElementById("cup").textContent = actressData.cup || "";
   document.getElementById("works_count").textContent = actressData.works_count || 0;
-  document.getElementById("description").textContent = actressData.description;
+  document.getElementById("description").textContent = actressData.description || "";
 
-  // features
+  // 特征标签
   const featuresDiv = document.getElementById("features");
   featuresDiv.innerHTML = "";
-  actressData.features.forEach(f => {
-    const span = document.createElement("span");
-    span.textContent = f;
-    featuresDiv.appendChild(span);
-  });
+  if (Array.isArray(actressData.features)) {
+    actressData.features.forEach(f => {
+      const span = document.createElement("span");
+      span.textContent = f;
+      featuresDiv.appendChild(span);
+    });
+  }
 
-  // aliases
-  document.getElementById("aliases").textContent = actressData.aliases.join(", ");
+  // 别名
+  document.getElementById("aliases").textContent = Array.isArray(actressData.aliases)
+    ? actressData.aliases.join(", ")
+    : (actressData.aliases || "");
 
-  // detail_url
-  const link = document.getElementById("detail_url");
-  link.href = actressData.detail_url;
-  link.textContent = actressData.detail_url;
-
-  // gallery
+  // 图集
   const galleryDiv = document.getElementById("gallery");
   galleryDiv.innerHTML = "";
-  actressData.gallery.forEach(url => {
-    const img = document.createElement("img");
-    img.src = url;
-    img.alt = "写真图集";
-    img.onerror = () => img.style.display = 'none';
-    galleryDiv.appendChild(img);
-  });
+  if (Array.isArray(actressData.gallery)) {
+    actressData.gallery.forEach(url => {
+      const img = document.createElement("img");
+      img.src = url;
+      img.alt = "写真图集";
+      img.onerror = () => img.style.display = 'none';
+      galleryDiv.appendChild(img);
+    });
+  } else {
+    const p = document.createElement("p");
+    p.textContent = "暂无图集";
+    galleryDiv.appendChild(p);
+  }
 }
 
 // 执行加载
