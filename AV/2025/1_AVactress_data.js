@@ -1,4 +1,5 @@
-const actressData = {
+// 2025/1_AVactress_data.js
+window.actressData = {
   id: 1,
   name: "美園和花",
   age: 26,
