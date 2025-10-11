@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AV女优目录</title>
+<style>
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* 主内容区域 */
+.main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+.card {
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255,255,255,0.2);
+}
+.card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+.card-title {
+  padding: 10px;
+  font-size: 15px;
+  text-align: center;
+  color: #eee;
+}
+.card-info {
+  font-size: 13px;
+  color: #ccc;
+  text-align: center;
+  padding-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* 分页按钮样式 */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 15px 0;
+  background-color: #111;
+  border-top: 1px solid #222;
+}
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+button:hover {
+  background-color: #555;
+}
+button:disabled {
+  background-color: #222;
+  color: #666;
+  cursor: not-allowed;
+}
+.page-info {
+  font-size: 14px;
+  color: #ccc;
+}
+</style>
+</head>
+<body>
+
+<div class="main">
+  <div class="grid" id="actressGrid"></div>
+</div>
+
+<div class="pagination">
+  <button id="prevBtn">上一页</button>
+  <span class="page-info" id="pageInfo">第 1 页</span>
+  <button id="nextBtn">下一页</button>
+</div>
+
+<script>
+let actresses = [];
+let currentPage = 1;
+const pageSize = 20; // 每页显示20个女优
+
+// === 加载女优数据 ===
+async function loadActresses() {
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/AV/category/2025_AV_actress.json");
+  const data = await res.json();
+  // 过滤掉无图片的
+  actresses = data.filter(a => a.img_url && a.img_url.trim() !== "");
+  renderActresses();
+}
+
+// === 渲染当前页的女优卡片 ===
+function renderActresses() {
+  const container = document.getElementById('actressGrid');
+  container.innerHTML = '';
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const list = actresses.slice(start, end);
+
+  list.forEach(a => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => alert(`查看 ${a.name} 的详情`);
+    card.innerHTML = `
+      <img src="${a.img_url}" alt="${a.name}" onerror="this.style.display='none'">
+      <div class="card-title">${a.name}</div>
+      <div class="card-info">
+        ${a.zodiac ? `🌟 ${a.zodiac}<br>` : ""}
+        ${a.height ? `📏 ${a.height}<br>` : ""}
+        ${a.measurements ? `💃 ${a.measurements}` : ""}
+      </div>
+    `;
+    container.appendChild(card);
+  });
+
+  updatePagination();
+}
+
+// === 更新分页按钮状态 ===
+function updatePagination() {
+  const totalPages = Math.ceil(actresses.length / pageSize);
+  document.getElementById('pageInfo').textContent = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
+
+  document.getElementById('prevBtn').disabled = currentPage === 1;
+  document.getElementById('nextBtn').disabled = currentPage === totalPages;
+}
+
+// === 切换页码 ===
+document.getElementById('prevBtn').onclick = () => {
+  if (currentPage > 1) {
+    currentPage--;
+    renderActresses();
+  }
+};
+document.getElementById('nextBtn').onclick = () => {
+  const totalPages = Math.ceil(actresses.length / pageSize);
+  if (currentPage < totalPages) {
+    currentPage++;
+    renderActresses();
+  }
+};
+
+// === 初始加载 ===
+loadActresses();
+</script>
+
+</body>
+</html>
