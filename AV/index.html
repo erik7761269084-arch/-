@@ -92,6 +92,13 @@ function loadSeriesData(seriesName) {
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
 }
+ 
+// 从 URL 获取 series 参数
+function getSeriesName() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('series') || '1'; // 默认 1
+}
+const seriesName = getSeriesName();
 
 // 初始化页面函数
 function initPage() {
@@ -152,6 +159,7 @@ function initPage() {
 
 // 调用加载函数，传入 JS 文件名（不带 .js）
 loadSeriesData("1");
+// loadSeriesData(seriesName);
 </script>
 
 </body>
