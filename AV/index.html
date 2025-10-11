@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AV女优目录</title>
+<title>AV女优目录大全</title>
 <style>
 body {
   margin: 0;
@@ -14,6 +14,18 @@ body {
   flex-direction: column;
   height: 100vh;
   overflow: hidden;
+}
+
+/* ======= 顶部标题 ======= */
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #111;
+  border-bottom: 1px solid #222;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffcc66;
+  letter-spacing: 2px;
 }
 
 /* 主内容区域 */
@@ -62,21 +74,22 @@ body {
   line-height: 1.6;
 }
 
-/* 分页按钮样式 */
+/* ======= 分页按钮样式 ======= */
 .pagination {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 15px;
-  padding: 15px 0;
+  gap: 8px;
+  padding: 15px 10px;
   background-color: #111;
   border-top: 1px solid #222;
+  flex-wrap: wrap;
 }
 button {
   background-color: #333;
   color: #fff;
   border: none;
-  padding: 8px 16px;
+  padding: 6px 12px;
   border-radius: 5px;
   cursor: pointer;
   font-size: 14px;
@@ -89,9 +102,14 @@ button:disabled {
   color: #666;
   cursor: not-allowed;
 }
-.page-info {
-  font-size: 14px;
-  color: #ccc;
+.page-btn {
+  background-color: #222;
+  border: 1px solid #333;
+}
+.page-btn.active {
+  background-color: #ffcc66;
+  color: #000;
+  font-weight: bold;
 }
 
 /* 页面淡出动画 */
@@ -103,20 +121,22 @@ button:disabled {
 </head>
 <body>
 
+<header>AV女优目录大全</header>
+
 <div class="main">
   <div class="grid" id="actressGrid"></div>
 </div>
 
-<div class="pagination">
+<div class="pagination" id="paginationBar">
   <button id="prevBtn">上一页</button>
-  <span class="page-info" id="pageInfo">第 1 页</span>
+  <span id="pageNumbers"></span>
   <button id="nextBtn">下一页</button>
 </div>
 
 <script>
 let actresses = [];
 let currentPage = 1;
-const pageSize = 18; // 每页显示20个女优
+const pageSize = 18; // 每页显示18个女优
 
 // === 加载女优数据 ===
 async function loadActresses() {
@@ -133,7 +153,7 @@ async function loadActresses() {
   }
 }
 
-// === 渲染当前页的女优卡片 ===
+// === 渲染女优卡片 ===
 function renderActresses() {
   const container = document.getElementById('actressGrid');
   container.innerHTML = '';
@@ -150,7 +170,7 @@ function renderActresses() {
         document.body.classList.add('fade-out');
         setTimeout(() => {
           window.location.href = a.actress_url;
-        }, 300); // 动画0.3秒后跳转
+        }, 300);
       } else {
         alert("该女优暂无详情页");
       }
@@ -170,22 +190,44 @@ function renderActresses() {
   updatePagination();
 }
 
-// === 更新分页按钮状态 ===
+// === 更新分页 ===
 function updatePagination() {
   const totalPages = Math.ceil(actresses.length / pageSize);
-  document.getElementById('pageInfo').textContent = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
-  document.getElementById('prevBtn').disabled = currentPage === 1;
-  document.getElementById('nextBtn').disabled = currentPage === totalPages;
+  const pageNumbers = document.getElementById("pageNumbers");
+  pageNumbers.innerHTML = "";
+
+  // 显示最多 5 个页码（例如 3,4,5,6,7）
+  const maxVisible = 5;
+  let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+  let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+
+  if (endPage - startPage < maxVisible - 1) {
+    startPage = Math.max(1, endPage - maxVisible + 1);
+  }
+
+  for (let i = startPage; i <= endPage; i++) {
+    const btn = document.createElement("button");
+    btn.className = "page-btn" + (i === currentPage ? " active" : "");
+    btn.textContent = i;
+    btn.onclick = () => {
+      currentPage = i;
+      renderActresses();
+    };
+    pageNumbers.appendChild(btn);
+  }
+
+  document.getElementById("prevBtn").disabled = currentPage === 1;
+  document.getElementById("nextBtn").disabled = currentPage === totalPages;
 }
 
-// === 翻页事件 ===
-document.getElementById('prevBtn').onclick = () => {
+// === 翻页按钮 ===
+document.getElementById("prevBtn").onclick = () => {
   if (currentPage > 1) {
     currentPage--;
     renderActresses();
   }
 };
-document.getElementById('nextBtn').onclick = () => {
+document.getElementById("nextBtn").onclick = () => {
   const totalPages = Math.ceil(actresses.length / pageSize);
   if (currentPage < totalPages) {
     currentPage++;
