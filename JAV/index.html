@@ -177,19 +177,15 @@ body {
 </div>
 
 <script>
-let dramas = [
-  {
-    "id": 1,
-    "IDcode": "1PON-010816_001",
-    "title": "深喉大挑戰 ~ 並木靜香",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/20251007235529862862_67516_thumbnail.webp",
-    "actress": "美園和花",
-    "rating": "4",
-    "type": "无码",
-    "publish_date": "2016-01-08",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1"
-  }
-];
+let dramas = [];
+
+async function loadDramas() {
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/2025_dl_lxj.json");
+  dramas = await res.json();
+  renderDramas(dramas);
+}
+
+loadDramas();
 
 function renderDramas(list) {
   const container = document.getElementById('dramaGrid');
