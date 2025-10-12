@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 88 腰 58 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "德泽绘里香，又名：徳澤エリカ，是女演员。",
   "features": [
     "美人",
     "女人味",

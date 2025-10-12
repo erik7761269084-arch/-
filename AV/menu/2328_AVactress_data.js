@@ -10,7 +10,7 @@ window.actressData = {
   "height": "172cm",
   "measurements": "胸 90 腰 62 臀 92",
   "cup": "G",
-  "description": null,
+  "description": "宫崎爱莉，又名：上原美帆，来自东京都，是日本女演员，所属事务所FUNIT! Entertainment，短发造型，听说她是选美出身。",
   "features": [
     "美人",
     "美乳",

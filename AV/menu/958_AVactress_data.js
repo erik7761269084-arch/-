@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 90 腰 58 臀 90",
   "cup": "F",
-  "description": "",
+  "description": "林由奈，是一位如花似玉的女优，1976年11月30日出生，2013年12月03日在PRESTIGE公司出道。",
   "features": [
     "美人",
     "美乳",

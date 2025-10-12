@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 88 腰 59 臀 85",
   "cup": "D",
-  "description": "",
+  "description": "木下宁宁（木下寧々、きのしたねね、Nene Kinoshita），日本AV女优，身高160cm，E罩杯，1995年11月20日出生于日本神奈川县。",
   "features": [
     "美人",
     "美乳",

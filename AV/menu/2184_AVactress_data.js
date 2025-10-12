@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 80 腰 57 臀 82",
   "cup": "B",
-  "description": "",
+  "description": "今野杏美南，是日本女演员。",
   "features": [
     "美人",
     "大眼睛",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 90 腰 60 臀 94",
   "cup": "H",
-  "description": "",
+  "description": "竹下奈奈美，1989年11月30日出生，是一位闭月羞花的女优，2017年09月08日在S级素人公司第一次发布番号，喜欢美食、探访。",
   "features": [
     "美人",
     "美乳",

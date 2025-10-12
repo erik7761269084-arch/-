@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 84 腰 58 臀 86",
   "cup": "C",
-  "description": "",
+  "description": "大森玲菜，又名：小宮るな，来自东京都，是日本女演员。",
   "features": [
     "美人",
     "美腳",

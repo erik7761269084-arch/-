@@ -10,7 +10,7 @@ window.actressData = {
   "height": "150cm",
   "measurements": "胸 85 腰 55 臀 83",
   "cup": "D",
-  "description": null,
+  "description": "川井真由，又名：川合まゆ，来自东京都，是日本女演员。",
   "features": [
     "矮小",
     "排骨精",

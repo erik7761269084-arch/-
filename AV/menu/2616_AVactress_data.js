@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 89 腰 59 臀 84",
   "cup": "F",
-  "description": "",
+  "description": "笠原诗织，又名：小鸟游翼，来自北海道，是日本女演员，所属事务所Declare Promotion，兴趣爱好是旅游。",
   "features": [
     "美人",
     "美乳",

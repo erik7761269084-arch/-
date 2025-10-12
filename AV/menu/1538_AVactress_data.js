@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 88 腰 59 臀 90",
   "cup": "E",
-  "description": "",
+  "description": "花城步，又名：花城あゆ，是日本女演员，兴趣爱好是舞蹈、瑜伽。",
   "features": [
     "美人",
     "美腳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 90 腰 60 臀 90",
   "cup": "E",
-  "description": "",
+  "description": "今井马多卡，又名：今井まどか，今井圆，来自大阪府，是日本女演员，兴趣爱好是料理、滑雪。",
   "features": [
     "美人",
     "膚白",

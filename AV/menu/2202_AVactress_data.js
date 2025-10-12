@@ -10,7 +10,7 @@ window.actressData = {
   "height": "159cm",
   "measurements": "胸 84 腰 54 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "吉咲明菜，又名：吉咲あきな，来自山口县，是女演员，兴趣爱好是游戏、拼图、篮球、料理。",
   "features": [
     "美人",
     "美腳",

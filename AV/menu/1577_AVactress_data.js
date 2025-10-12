@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 88 腰 58 臀 84",
   "cup": "F",
-  "description": "",
+  "description": "吉田花，是一位眉清目秀的女优，1987年11月08日出生于神奈川县，工作于Capsule Agency事务所，2009年07月16日在MAXING公司出道，兴趣爱好是料理、游泳、电影、浴室。",
   "features": [
     "美人",
     "美乳",

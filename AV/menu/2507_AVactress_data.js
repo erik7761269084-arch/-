@@ -10,7 +10,7 @@ window.actressData = {
   "height": "159cm",
   "measurements": "胸 88 腰 60 臀 86",
   "cup": "E",
-  "description": null,
+  "description": "小衣，又名：こころ，来自东京都，是女演员，兴趣爱好是看书、料理。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 93 腰 60 臀 87",
   "cup": "H",
-  "description": "",
+  "description": "穗花真理绘，又名：穂花まりえ，若葉りせ，是女演员，所属事务所ファイブプロモーション，兴趣爱好是音乐鉴赏、看书。",
   "features": [
     "美人",
     "美乳",

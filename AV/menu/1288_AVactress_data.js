@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 88 腰 59 臀 89",
   "cup": "C",
-  "description": "",
+  "description": "佐佐波莉乃，1995年12月03日出生于东京都，是一位闭月羞花的女优，工作于Bambi Promotion事务所，2017年10月16日在MAXING公司第一次发布番号，喜欢电影、舞蹈。",
   "features": [
     "美人",
     "膚白",

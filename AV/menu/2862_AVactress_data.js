@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 95 腰 60 臀 90",
   "cup": "G",
-  "description": "",
+  "description": "真田美树，是女演员。",
   "features": [
     "美人",
     "美乳",

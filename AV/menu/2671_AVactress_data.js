@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 80 腰 55 臀 78",
   "cup": "B",
-  "description": "",
+  "description": "蛯名里菜，又名：蛯名りな，早乙女茉莉，来自京都府，是日本女演员，所属事务所Declare Promotion，兴趣爱好是购物、按摩。",
   "features": [
     "美人",
     "美腳",

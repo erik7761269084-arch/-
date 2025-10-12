@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 100 腰 59 臀 88",
   "cup": "H",
-  "description": "",
+  "description": "须藤早纪，又名：须藤沙希，是日本女演员，所属事务所KRONE，兴趣爱好是中国购物、中文、英语。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 86 腰 60 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "川崎亚里沙，来自群马县，是女演员，所属事务所L-Promotion，兴趣爱好是看电影。",
   "features": [
     "美人",
     "美乳",

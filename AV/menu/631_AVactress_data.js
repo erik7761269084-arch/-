@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 90 腰 60 臀 95",
   "cup": "F",
-  "description": "",
+  "description": "浅田结梨，来自新泻县，是日本女演员，所属事务所L-Promotion，兴趣爱好是排球、空手道。",
   "features": [
     "美人",
     "美乳",

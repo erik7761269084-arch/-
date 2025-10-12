@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 86 腰 54 臀 85",
   "cup": "D",
-  "description": null,
+  "description": "石神里美，又名：石神さとみ，来自大阪府，是女演员，兴趣爱好是音乐欣赏、看书。",
   "features": [
     "美少女",
     "長相甜美"

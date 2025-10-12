@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 86 腰 60 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "杉浦花音，生日是1994年11月30日，故乡为神奈川县，是一位楚楚动人的女优 ，2017年02月03日首次发行作品，对排球感兴趣。",
   "features": [
     "美人",
     "美乳",

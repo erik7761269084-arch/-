@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 88 腰 59 臀 85",
   "cup": "E",
-  "description": "",
+  "description": "阿久美美，又名：阿久美々，来自京都府，是日本女演员。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 90 腰 58 臀 86",
   "cup": "G",
-  "description": "",
+  "description": "花冈加菜，来自埼玉县，是女演员，所属事务所Declare Promotion，花冈加菜的兴趣爱好是动画鉴赏、按摩。",
   "features": [
     "美人",
     "美乳",

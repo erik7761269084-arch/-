@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 85 腰 58 臀 88",
   "cup": "C",
-  "description": "",
+  "description": "白川莉子，又名：白川りこ，来自神奈川县，是日本女演员。",
   "features": [
     "美人",
     "美乳",

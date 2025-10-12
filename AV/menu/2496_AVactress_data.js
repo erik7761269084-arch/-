@@ -10,7 +10,7 @@ window.actressData = {
   "height": "161cm",
   "measurements": "胸 85 腰 59 臀 89",
   "cup": "E",
-  "description": "",
+  "description": "樱井日菜乃，来自东京都，是女演员。",
   "features": [
     "美人",
     "女人味",

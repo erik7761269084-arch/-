@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 84 腰 58 臀 82",
   "cup": "C",
-  "description": null,
+  "description": "水岛是何，又名：水島にな，是女演员，所属事务所STYLE ONE。",
   "features": [
     "美乳",
     "膚白",

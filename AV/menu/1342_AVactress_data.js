@@ -10,7 +10,7 @@ window.actressData = {
   "height": "164cm",
   "measurements": "胸 85 腰 58 臀 83",
   "cup": "E",
-  "description": null,
+  "description": "绀野真理惠，又名：紺野まりえ，来自东京都，是日本女演员，所属事务所Belltech Production，兴趣爱好是读书，裁缝。",
   "features": [
     "美人",
     "美乳",

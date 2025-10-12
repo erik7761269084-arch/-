@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 92 腰 60 臀 92",
   "cup": "H",
-  "description": "",
+  "description": "玉木未来，又名：玉木くるみ，是女演员。",
   "features": [
     "美人",
     "美乳",

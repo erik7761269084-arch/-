@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 86 腰 57 臀 86",
   "cup": "E",
-  "description": "",
+  "description": "中村奈菜，来自东京都，是日本女演员，所属事务所ALL PROMOTION，兴趣爱好是高温瑜珈、制作面包。",
   "features": [
     "美人",
     "美乳",

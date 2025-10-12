@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 86 腰 57 臀 85",
   "cup": "D",
-  "description": "",
+  "description": "前田沙织，又名：前田さおり，来自东京都，是日本女演员，所属事务所",
   "features": [
     "美人",
     "天然",

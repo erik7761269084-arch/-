@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 90 腰 59 臀 88",
   "cup": "H",
-  "description": "",
+  "description": "和泉紫乃，来自千叶县，是日本女演员，所属事务所STYLE ONE。",
   "features": [
     "美人",
     "美乳",

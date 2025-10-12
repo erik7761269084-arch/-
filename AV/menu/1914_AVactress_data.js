@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 98 腰 65 臀 95",
   "cup": "H",
-  "description": "",
+  "description": "成泽雏，又名：成澤ひなみ，是女演员，兴趣爱好是旅行、看书、料理、点心、卡拉OK。",
   "features": [
     "美人",
     "美乳",

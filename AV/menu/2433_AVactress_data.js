@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 85 腰 58 臀 85",
   "cup": "C",
-  "description": "",
+  "description": "若松玲那，又名：市桥由衣，来自山形县，是日本女演员。",
   "features": [
     "美人",
     "女人味",

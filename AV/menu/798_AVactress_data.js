@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 89 腰 59 臀 85",
   "cup": "E",
-  "description": null,
+  "description": "椎谷爱结，又名：椎名爱莉，来自东京都，是日本女演员，所属事务所ARCHE(アルシェ) Production，兴趣爱好是美食、按摩。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 90 腰 65 臀 95",
   "cup": "H",
-  "description": "",
+  "description": "水城奈绪，来自东京都，是日本女演员，兴趣爱好是茶道，2011年11月到过台湾举办摄影会。",
   "features": [
     "美人",
     "美乳",

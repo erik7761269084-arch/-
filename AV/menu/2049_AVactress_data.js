@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 88 腰 56 臀 90",
   "cup": "G",
-  "description": "",
+  "description": "明，又名：あかり，是女演员。",
   "features": [
     "美人",
     "美乳",
@@ -28,7 +28,10 @@ window.actressData = {
     "風俗妹"
   ],
   "detail_url": "https://www.javrate.com/Actor/Detail/fc8b54b8-d572-4817-8982-1c0ae2240044.html",
-  "aliases": [],
+  "aliases": [
+    "あかり",
+    "Akari"
+  ],
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Nanairo/Akari.jpg"
   ]

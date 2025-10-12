@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 88 腰 57 臀 94",
   "cup": "F",
-  "description": "",
+  "description": "莲实克蕾儿，又名：蓮実クレア，来自神奈川县，是女演员，所属事务所Five Promotion，兴趣爱好是肚皮舞、游泳、芭蕾舞、茶泡饭。",
   "features": [
     "美人",
     "美乳",

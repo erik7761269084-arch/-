@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 100 腰 65 臀 88",
   "cup": "H",
-  "description": "",
+  "description": "真实佳苗，又名：眞実かなえ，是女演员。",
   "features": [
     "美人",
     "美乳",

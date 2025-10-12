@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 82 腰 57 臀 84",
   "cup": "C",
-  "description": "",
+  "description": "北川莉娜，又名：北川レイラ，是女演员。",
   "features": [
     "美人"
   ],

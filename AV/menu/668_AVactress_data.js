@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 85 腰 59 臀 87",
   "cup": "G",
-  "description": null,
+  "description": "舞咲美娜，又名：舞咲みくに，来自兵库县，是日本女演员，所属事务所LOFTY，兴趣爱好是料理、DVD观赏，擅长角色表演。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 88 腰 56 臀 90",
   "cup": "G",
-  "description": "",
+  "description": "水树莉纱，又名：水樹りさ，来自神奈川，是女演员，所属事务所T-POWERS，兴趣爱好是料理。",
   "features": [
     "美人",
     "美乳",

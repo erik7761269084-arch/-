@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 88 腰 58 臀 86",
   "cup": "G",
-  "description": "",
+  "description": "清水理纱，来自东京都，是日本女演员，所属事务所KRONE(クローネ)，兴趣爱好是料理，游泳。",
   "features": [
     "美人",
     "美乳",

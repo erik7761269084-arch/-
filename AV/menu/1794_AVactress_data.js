@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 101 腰 66 臀 96",
   "cup": "H",
-  "description": "",
+  "description": "西川里音，又名：西川りおん，来自大阪府，是日本女演员，所属事务所Vanquish，兴趣爱好是卡拉OK，料理。",
   "features": [
     "美人",
     "美乳",

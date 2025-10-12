@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 86 腰 56 臀 85",
   "cup": "E",
-  "description": null,
+  "description": "南爱梨，又名：みなみ愛梨，来自于福冈县，是日本女演员，兴趣是读书。",
   "features": [
     "膚白"
   ],

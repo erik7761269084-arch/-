@@ -10,7 +10,7 @@ window.actressData = {
   "height": "161cm",
   "measurements": "胸 82 腰 58 臀 87",
   "cup": "E",
-  "description": "",
+  "description": "来栖美纱，又名：来栖みさ，君尾美央，来自北海道，是女演员，兴趣爱好是美容院、化妆、购物、占卜、按摩。",
   "features": [
     "美人",
     "美乳",

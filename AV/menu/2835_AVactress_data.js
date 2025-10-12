@@ -10,7 +10,7 @@ window.actressData = {
   "height": "165cm",
   "measurements": "胸 90 腰 64 臀 92",
   "cup": "D",
-  "description": null,
+  "description": "安藤亚理沙，又名：安藤ありさ，是日本女演员，所属事务所flora，兴趣爱好是美容、卡拉OK、瑜伽。",
   "features": [
     "美少女",
     "長相可愛",

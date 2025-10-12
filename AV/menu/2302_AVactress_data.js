@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 83 腰 57 臀 82",
   "cup": "D",
-  "description": "",
+  "description": "日野沙耶香，又名：日野さやか，是女演员。",
   "features": [
     "美人",
     "膚白",

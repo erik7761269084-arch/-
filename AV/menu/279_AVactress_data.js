@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 85 腰 57 臀 82",
   "cup": "D",
-  "description": "",
+  "description": "夏目彩春，又名：原更沙，来自东京都，是女演员，所属事务所T-POWERS，兴趣爱好是音乐鉴赏、桌球。",
   "features": [
     "美人",
     "美乳",

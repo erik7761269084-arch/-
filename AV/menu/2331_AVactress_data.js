@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 90 腰 59 臀 83",
   "cup": "G",
-  "description": "",
+  "description": "松本芽依，又名：松本メイ，松本芽衣，来自东京都，是日本女演员，所属事务所songbenyayi。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 96 腰 58 臀 89",
   "cup": "H",
-  "description": null,
+  "description": "尾上若叶，来自神奈川县，是日本女演员，被选为2013年十大最具人气女忧第二名。",
   "features": [
     "美人",
     "美乳",

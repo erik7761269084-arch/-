@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 90 腰 59 臀 90",
   "cup": "G",
-  "description": "",
+  "description": "夏希结爱，是女演员，所属事务所JETSTREAM。",
   "features": [
     "美人",
     "美乳",

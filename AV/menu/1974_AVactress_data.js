@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 83 腰 60 臀 88",
   "cup": "C",
-  "description": "",
+  "description": "神田流菜，又名：神田るな，是女演员，兴趣爱好是喝酒、篮球。",
   "features": [
     "美人",
     "膚白",

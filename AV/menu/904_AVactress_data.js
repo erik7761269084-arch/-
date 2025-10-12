@@ -10,7 +10,7 @@ window.actressData = {
   "height": "170cm",
   "measurements": "胸 87 腰 60 臀 86",
   "cup": "F",
-  "description": "",
+  "description": "神山奈奈，又名：神山なな，桜井菜々美，是女演员，兴趣爱好是旅行、乘马。",
   "features": [
     "美人",
     "美乳",

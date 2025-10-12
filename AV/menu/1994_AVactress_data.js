@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 86 腰 59 臀 85",
   "cup": "D",
-  "description": "",
+  "description": "南河茜，又名：南河あかね，是女演员，所属事务所STYLE ONE。",
   "features": [
     "天然"
   ],

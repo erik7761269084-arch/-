@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 88 腰 59 臀 87",
   "cup": "F",
-  "description": "",
+  "description": "三上里穗，来自栃木县，是女演员，所属事务所KRONE，兴趣爱好是购物、舞蹈。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 85 腰 56 臀 86",
   "cup": "D",
-  "description": "",
+  "description": "日向光，又名：日向ひなた，是女演员。",
   "features": [
     "美人",
     "美腳",

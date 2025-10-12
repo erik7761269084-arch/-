@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 88 腰 59 臀 89",
   "cup": "D",
-  "description": "",
+  "description": "白濑心乙，来自东京都，是女演员，兴趣爱好是卡拉OK、打扫。",
   "features": [
     "美人",
     "美腳",

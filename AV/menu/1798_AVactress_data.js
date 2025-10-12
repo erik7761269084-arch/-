@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 84 腰 59 臀 86",
   "cup": "E",
-  "description": "",
+  "description": "绫濑成美，又名：綾瀬なるみ，水树梨香，来自东京都，是日本女演员，所属事务所FUNIT! Entertainment。",
   "features": [
     "美人",
     "美乳",

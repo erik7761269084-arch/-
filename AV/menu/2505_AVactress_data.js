@@ -10,7 +10,7 @@ window.actressData = {
   "height": "171cm",
   "measurements": "胸 87 腰 58 臀 83",
   "cup": "F",
-  "description": "",
+  "description": "真琴凉，又名：真琴りょう，来自东京都，是日本女演员，所属事务所Declare Promotion。",
   "features": [
     "美人",
     "美腳",

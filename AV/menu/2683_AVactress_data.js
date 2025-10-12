@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 83 腰 53 臀 85",
   "cup": "F",
-  "description": "",
+  "description": "双叶良香，是女演员，兴趣爱好是街头篮球。",
   "features": [
     "美人",
     "美乳",

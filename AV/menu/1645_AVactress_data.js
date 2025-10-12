@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 98 腰 59 臀 88",
   "cup": "I",
-  "description": "",
+  "description": "素直惠，又名：すなお恵，是女演员。",
   "features": [
     "美人",
     "美乳",

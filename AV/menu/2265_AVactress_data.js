@@ -8,10 +8,12 @@ window.actressData = {
   "background_img": "https://picture.yoshiclub.xyz/20250130/20250130085103332332.jpg",
   "zodiac": "",
   "height": "0cm",
-  "measurements": "",
-  "cup": "",
-  "description": null,
-  "features": [],
+  "measurements": "胸 87 腰 59 臀 87",
+  "cup": "D",
+  "description": "高坂保奈美，来自东京都，是日本女演员，所属事务所Capsule Agency。",
+  "features": [
+    ""
+  ],
   "detail_url": "https://www.javrate.com/Actor/Detail/3e849051-3400-47c6-ad9e-0e1bd2092477.html",
   "aliases": [
     "澤村レイコ",

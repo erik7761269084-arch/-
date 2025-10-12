@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 88 腰 58 臀 87",
   "cup": "D",
-  "description": null,
+  "description": "佐佐木真理亚，又名：佐々木マリア，是日本女演员，兴趣爱好是音乐欣赏。",
   "features": [
     "美人",
     "性感",

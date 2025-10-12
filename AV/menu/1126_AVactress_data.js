@@ -10,7 +10,7 @@ window.actressData = {
   "height": "148cm",
   "measurements": "胸 108 腰 60 臀 87",
   "cup": "K",
-  "description": null,
+  "description": "优月真里奈，是一位眉清目秀的女优，1993年11月30日出生，工作于STYLE ONE事务所，2017年04月25日在Fitch公司出道。",
   "features": [
     "美乳",
     "大乳房",

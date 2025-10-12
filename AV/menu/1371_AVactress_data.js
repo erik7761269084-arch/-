@@ -10,7 +10,7 @@ window.actressData = {
   "height": "150cm",
   "measurements": "胸 85 腰 58 臀 90",
   "cup": "G",
-  "description": null,
+  "description": "柚木枫，是日本女演员。",
   "features": [
     "大乳房",
     "人妻",

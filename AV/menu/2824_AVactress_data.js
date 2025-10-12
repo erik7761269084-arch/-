@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 84 腰 57 臀 84",
   "cup": "D",
-  "description": "",
+  "description": "凉宫琴音，又名：山本玲奈，白咲碧，来自东京都，是日本女演员，所属事务所LANTANA，兴趣爱好是卡拉OK、宠物店、料理、家务，是个条件很不错的女孩，看过就会有印象的优质好货。",
   "features": [
     "美人",
     "美乳",

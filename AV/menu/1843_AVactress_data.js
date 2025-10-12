@@ -10,7 +10,7 @@ window.actressData = {
   "height": "166cm",
   "measurements": "胸 89 腰 59 臀 90",
   "cup": "E",
-  "description": "",
+  "description": "雨音若菜，又名：雨音わかな，是女演员。",
   "features": [
     "美人",
     "美腳",

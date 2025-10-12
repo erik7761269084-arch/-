@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 84 腰 59 臀 82",
   "cup": "C",
-  "description": "",
+  "description": "川濑遥菜，相貌甜美，还有点肉肉的感觉，来自东京都，是日本女演员。",
   "features": [
     "美人",
     "美腳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 83 腰 56 臀 85",
   "cup": "C",
-  "description": "",
+  "description": "西野亚子，又名：西野なこ，来自神奈川县，是女演员，所属事务所STYLE ONE，兴趣爱好是点心、钢琴。",
   "features": [
     "美人",
     "美腳",

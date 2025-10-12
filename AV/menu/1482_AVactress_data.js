@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 86 腰 58 臀 85",
   "cup": "E",
-  "description": null,
+  "description": "杉崎绘里奈，来自东京都，是女演员。",
   "features": [
     "大乳房",
     "熟女",

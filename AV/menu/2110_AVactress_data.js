@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 88 腰 60 臀 90",
   "cup": "F",
-  "description": "",
+  "description": "森野明音，是女演员，所属事务所Gift Promotion，兴趣爱好是DVD观赏、购物。",
   "features": [
     "美人",
     "美乳",

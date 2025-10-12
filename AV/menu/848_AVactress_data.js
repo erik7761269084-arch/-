@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 86 腰 58 臀 88",
   "cup": "E",
-  "description": "",
+  "description": "YUNA，是女演员，兴趣爱好是舞蹈。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 85 腰 58 臀 86",
   "cup": "F",
-  "description": "",
+  "description": "枢木美栞，又名：枢木みかん，三浦萌花，来自日本静冈县，曾用三浦萌花的名义发布作品，是日本女演员,兴趣是读书，烹饪，柔道。",
   "features": [
     "美人",
     "美乳",

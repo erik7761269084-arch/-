@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 85 腰 58 臀 80",
   "cup": "F",
-  "description": null,
+  "description": "美神彩，又名：川岛亚希，あんざい沙世，来自东京都，是日本女演员，所属事务所Declare Promotion。",
   "features": [
     "膚白",
     "大乳房",

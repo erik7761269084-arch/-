@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 83 腰 56 臀 85",
   "cup": "D",
-  "description": "",
+  "description": "牧村雏，又名：牧村ひな，南菜菜，来自京都府，是日本女演员，所属事务所T-POWERS，兴趣爱好是料理，看书。",
   "features": [
     "美人",
     "美腳",

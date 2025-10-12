@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 97 腰 58 臀 87",
   "cup": "H",
-  "description": null,
+  "description": "成宫晴明，又名：成宮はるあ，阳咲希美，来自东京都，是日本女演员，所属事务所Declare Promotion，兴趣爱好是钢琴。",
   "features": [
     "膚白",
     "大乳房",

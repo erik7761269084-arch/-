@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 85 腰 55 臀 83",
   "cup": "D",
-  "description": "",
+  "description": "南明日香，又名：南あすか，是女演员。",
   "features": [
     "美人",
     "美腳",

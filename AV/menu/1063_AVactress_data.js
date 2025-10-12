@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 85 腰 57 臀 84",
   "cup": "E",
-  "description": null,
+  "description": "咲野之花，又名：咲野の花，来自东京都，是女演员，所属事务所E-point。",
   "features": [
     "美人",
     "美乳",

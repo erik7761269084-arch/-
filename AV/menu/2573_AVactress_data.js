@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 86 腰 57 臀 88",
   "cup": "E",
-  "description": "",
+  "description": "今宫泉，又名：今宮いずみ，来自富山县，是日本女演员，所属事务所L-Promotion，兴趣爱好是剑道。",
   "features": [
     "美人",
     "天然",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 85 腰 58 臀 83",
   "cup": "C",
-  "description": "",
+  "description": "华城麻耶，又名：華城まや，是女演员。",
   "features": [
     "美人",
     "美腳",

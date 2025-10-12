@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 85 腰 58 臀 85",
   "cup": "E",
-  "description": "",
+  "description": "水川枫，是一位闭月羞花的女优，2017年10月07日在E-BODY公司第一次发布番号。",
   "features": [
     "美人",
     "美乳",

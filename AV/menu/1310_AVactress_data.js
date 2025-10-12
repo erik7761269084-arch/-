@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 85 腰 58 臀 84",
   "cup": "E",
-  "description": "",
+  "description": "樱井绫音，来自熊本县，是女演员，兴趣爱好是游戏、游泳。",
   "features": [
     "美人",
     "美乳",

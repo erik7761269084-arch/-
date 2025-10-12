@@ -10,7 +10,7 @@ window.actressData = {
   "height": "150cm",
   "measurements": "胸 80 腰 59 臀 83",
   "cup": "A",
-  "description": "",
+  "description": "神坂雏乃，又名：神坂ひなの，来自山形县，是女演员，所属事务所Duo Entertainment，兴趣爱好是电影鉴赏、乒乓球、舞蹈。",
   "features": [
     "美人",
     "膚白",

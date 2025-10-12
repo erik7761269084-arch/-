@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 87 腰 58 臀 84",
   "cup": "D",
-  "description": "",
+  "description": "水鸟文乃，是女演员。",
   "features": [
     "美人",
     "美乳",

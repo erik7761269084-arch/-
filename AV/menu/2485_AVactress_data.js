@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 83 腰 58 臀 84",
   "cup": "C",
-  "description": "",
+  "description": "岛崎结衣，来自奈良县，是女演员，所属事务所BK Promotion，兴趣爱好是音乐演奏。",
   "features": [
     "美人",
     "美腳",

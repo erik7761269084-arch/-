@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 90 腰 61 臀 86",
   "cup": "H",
-  "description": "",
+  "description": "安洁莉亚，又名：美月アンジェリア，来自东京都，是女演员，所属事务所Five Promotion，兴趣爱好是购物。",
   "features": [
     "美人",
     "美乳",

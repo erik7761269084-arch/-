@@ -10,7 +10,7 @@ window.actressData = {
   "height": "149cm",
   "measurements": "胸 89 腰 62 臀 92",
   "cup": "D",
-  "description": "",
+  "description": "小泉沙彩，是女演员。",
   "features": [
     "美人",
     "美腳",

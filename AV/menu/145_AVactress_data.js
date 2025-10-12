@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 84 腰 59 臀 88",
   "cup": "D",
-  "description": null,
+  "description": "北条麻妃，又名：白石さゆり，来自石川县，是日本女演员，所属事务所DIANA PRODUCTION。",
   "features": [
     "美人",
     "美乳",

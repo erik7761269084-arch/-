@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 89 腰 60 臀 90",
   "cup": "F",
-  "description": "",
+  "description": "桐原莉那，又名：桐原りな，是日本女演员，兴趣爱好是料理。",
   "features": [
     "美人",
     "美乳",

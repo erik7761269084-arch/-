@@ -10,7 +10,7 @@ window.actressData = {
   "height": "168cm",
   "measurements": "胸 93 腰 56 臀 88",
   "cup": "H",
-  "description": null,
+  "description": "一之濑露卡，一之濑露卡，是日本女演员。",
   "features": [
     "美人",
     "美乳",

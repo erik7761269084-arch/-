@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 79 腰 55 臀 76",
   "cup": "B",
-  "description": "",
+  "description": "樱子，1991年03月19日出生，是一位闭月羞花的女优，2017年11月01日在MUTEKI公司第一次发布番号。",
   "features": [
     "美人",
     "美乳",

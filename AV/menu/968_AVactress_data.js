@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 91 腰 58 臀 81",
   "cup": "H",
-  "description": "",
+  "description": "高山玲奈，来自大分县，是日本女演员。",
   "features": [
     "美人",
     "美乳",

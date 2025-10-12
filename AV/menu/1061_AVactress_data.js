@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 90 腰 60 臀 90",
   "cup": "G",
-  "description": "",
+  "description": "梨杏夏，又名：梨杏なつ，是女演员，所属事务所JUN Promotion，兴趣爱好是看电影、料理。",
   "features": [
     "美人",
     "美乳",

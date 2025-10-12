@@ -10,7 +10,7 @@ window.actressData = {
   "height": "164cm",
   "measurements": "胸 85 腰 59 臀 86",
   "cup": "D",
-  "description": "",
+  "description": "观月奏，来自东京都，是日本女演员，所属事务所FUNIT! Entertainment，兴趣爱好是咖啡馆、看书、购物、芭蕾舞。",
   "features": [
     "美人",
     "女人味",

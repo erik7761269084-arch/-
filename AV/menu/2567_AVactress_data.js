@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 81 腰 58 臀 89",
   "cup": "E",
-  "description": "",
+  "description": "吉川美忧，是女演员。",
   "features": [
     "美人",
     "美乳",

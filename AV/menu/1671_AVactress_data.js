@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 90 腰 59 臀 88",
   "cup": "G",
-  "description": "",
+  "description": "柏仓玲华，来自东京都，是日本女演员，兴趣爱好是料理、芭蕾。",
   "features": [
     "美人",
     "美乳",

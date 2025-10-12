@@ -10,7 +10,7 @@ window.actressData = {
   "height": "165cm",
   "measurements": "胸 83 腰 60 臀 83",
   "cup": "C",
-  "description": "",
+  "description": "篠田凉花，又名：水原薫子，来自东京都，是日本女演员。",
   "features": [
     "美人",
     "膚白",

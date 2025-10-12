@@ -10,7 +10,7 @@ window.actressData = {
   "height": "147cm",
   "measurements": "胸 84 腰 57 臀 83",
   "cup": "D",
-  "description": null,
+  "description": "结川优，是女演员。",
   "features": [
     "肉嘟嘟",
     "矮小",

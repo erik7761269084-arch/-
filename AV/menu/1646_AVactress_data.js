@@ -10,7 +10,7 @@ window.actressData = {
   "height": "148cm",
   "measurements": "胸 85 腰 60 臀 90",
   "cup": "D",
-  "description": "",
+  "description": "初音亚梨沙，又名：初音ありさ，是女演员。",
   "features": [
     "美人",
     "大乳房",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "149cm",
   "measurements": "胸 83 腰 60 臀 86",
   "cup": "D",
-  "description": null,
+  "description": "枫优香，又名：楓ゆうか，来自东京都，是日本女演员，所属事务所T-POWERS。",
   "features": [
     "美乳",
     "美少女",

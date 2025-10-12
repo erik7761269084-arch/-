@@ -10,7 +10,7 @@ window.actressData = {
   "height": "149cm",
   "measurements": "胸 80 腰 55 臀 81",
   "cup": "D",
-  "description": null,
+  "description": "杏奈莉香，又名：杏奈りか，杏奈梨香，来自东京都，是日本女演员。",
   "features": [
     "美人",
     "長相溫柔",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "165cm",
   "measurements": "胸 94 腰 61 臀 93",
   "cup": "F",
-  "description": "",
+  "description": "菊川美津叶，又名：菊川みつ葉，来自东京都，是女演员，兴趣爱好是音乐欣赏、动漫鉴赏、料理、网球。",
   "features": [
     "美人",
     "美乳",

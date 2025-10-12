@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 84 腰 58 臀 83",
   "cup": "B",
-  "description": null,
+  "description": "加藤麻耶，又名：平子真里奈，来自东京都，是日本女演员，兴趣爱好是购物。",
   "features": [
     "美人",
     "女人味",

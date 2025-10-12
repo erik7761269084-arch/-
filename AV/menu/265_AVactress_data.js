@@ -10,7 +10,7 @@ window.actressData = {
   "height": "150cm",
   "measurements": "胸 84 腰 59 臀 85",
   "cup": "E",
-  "description": "",
+  "description": "白木优子，来自岐埠县，是女演员，所属事务所Bardot Model Agency，兴趣爱好是料理、园艺。",
   "features": [
     "性感",
     "長相溫柔",

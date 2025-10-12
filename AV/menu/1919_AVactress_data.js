@@ -10,7 +10,7 @@ window.actressData = {
   "height": "161cm",
   "measurements": "胸 85 腰 59 臀 87",
   "cup": "D",
-  "description": "",
+  "description": "速美纹奈，又名：速美もな，是女演员。",
   "features": [
     "性感",
     "野性",

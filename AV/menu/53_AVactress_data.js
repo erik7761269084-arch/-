@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 101 腰 55 臀 84",
   "cup": "J",
-  "description": null,
+  "description": "京香julia，又名：京香じゅりあ，是日本女演员，所属事务所Production CLAP，兴趣爱好是读书、运动、笔记，属于一个叫做“轻熟女”的团队，2013年参加在台北的“潘朵啦夏日女神祭”的记者会。",
   "features": [
     "美人",
     "美乳",

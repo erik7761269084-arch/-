@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 100 腰 63 臀 93",
   "cup": "I",
-  "description": null,
+  "description": "长泽梓（日语：长泽あずさ、ながさわ あずさ），1988年12月30日出生于东京都，日本成人模特，女演员。",
   "features": [
     "美腳",
     "膚白",

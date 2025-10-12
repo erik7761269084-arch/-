@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 84 腰 58 臀 86",
   "cup": "D",
-  "description": "",
+  "description": "中岛京子，来自埼玉县，是日本女演员，兴趣是购物、音乐欣赏。",
   "features": [
     "美人",
     "美腳",

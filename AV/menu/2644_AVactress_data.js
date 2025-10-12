@@ -10,10 +10,16 @@ window.actressData = {
   "height": "0cm",
   "measurements": "",
   "cup": "",
-  "description": null,
-  "features": [],
+  "description": "天野美优，是女演员。",
+  "features": [
+    "漂亮,大胸"
+  ],
   "detail_url": "https://www.javrate.com/Actor/Detail/ad169559-41ae-45b8-be59-2e00e0c9b54a.html",
-  "aliases": [],
+  "aliases": [
+    "天野美優",
+    "あまのみゆ",
+    "Amano Miyu"
+  ],
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/天野美優.jpg"
   ]

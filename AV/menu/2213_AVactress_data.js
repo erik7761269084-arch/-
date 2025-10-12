@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 84 腰 60 臀 88",
   "cup": "F",
-  "description": "",
+  "description": "樱井美保，是女演员，所属事务所Bardot Model Agency，兴趣爱好是看书、占卜、电影鉴赏、塔罗占卜。",
   "features": [
     "天然",
     "熟女",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 88 腰 60 臀 89",
   "cup": "D",
-  "description": "",
+  "description": "生岛凉，是女演员，兴趣爱好是钢琴。",
   "features": [
     "美人",
     "美乳",

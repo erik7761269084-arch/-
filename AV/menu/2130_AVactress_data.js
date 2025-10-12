@@ -10,7 +10,7 @@ window.actressData = {
   "height": "170cm",
   "measurements": "胸 97 腰 62 臀 95",
   "cup": "I",
-  "description": "",
+  "description": "小宫凉菜，又名：小岛夏奈，是日本女演员，兴趣爱好是购物、篮球、空手道。",
   "features": [
     "美人",
     "美乳",

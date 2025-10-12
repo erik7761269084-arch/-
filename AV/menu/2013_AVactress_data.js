@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 91 腰 57 臀 88",
   "cup": "G",
-  "description": "",
+  "description": "永濑里美，又名：早瀬瞳，来自神奈川县，是日本女演员，所属事务所Declare Promotion。",
   "features": [
     "美人",
     "美乳",

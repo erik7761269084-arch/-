@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 85 腰 58 臀 86",
   "cup": "D",
-  "description": null,
+  "description": "川村麻耶，又名：川村まや，川村麻亚，来自东京都，是日本女演员，所属事务所Sun Production，兴趣爱好是卡拉OK。",
   "features": [
     "美乳",
     "美少女",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "148cm",
   "measurements": "胸 87 腰 58 臀 84",
   "cup": "F",
-  "description": null,
+  "description": "樱木梨乃，又名：真名瀬りか，来自岩手县，是日本女演员。",
   "features": [
     "美人",
     "美腳",

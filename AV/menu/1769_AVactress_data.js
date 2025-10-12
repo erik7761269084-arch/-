@@ -10,7 +10,7 @@ window.actressData = {
   "height": "165cm",
   "measurements": "胸 94 腰 63 臀 89",
   "cup": "E",
-  "description": "",
+  "description": "青山茉利奈，又名：赤坂瑠衣，来自岛根县，是女演员，兴趣爱好是看书。",
   "features": [
     "美人",
     "美乳",

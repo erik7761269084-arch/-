@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 82 腰 55 臀 83",
   "cup": "D",
-  "description": "",
+  "description": "幸田由真，又名：幸田ユマ，来自东京都，是日本女演员，所属事务所名東，兴趣爱好是PC游戏。",
   "features": [
     "美人",
     "美乳"

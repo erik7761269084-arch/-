@@ -10,7 +10,7 @@ window.actressData = {
   "height": "164cm",
   "measurements": "胸 86 腰 54 臀 80",
   "cup": "E",
-  "description": null,
+  "description": "天音铃，又名：天音りん，来自东京都，是女演员，所属事务所obentertainment，兴趣爱好是芭蕾舞、瑜伽。",
   "features": [
     "美人",
     "天然",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 78 腰 56 臀 82",
   "cup": "C",
-  "description": "",
+  "description": "美月瑠奈，又名：美月琉奈，来自神奈川县，是日本女演员，所属事务所SELECTION，兴趣爱好是舞蹈。",
   "features": [
     "美人",
     "膚白",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "170cm",
   "measurements": "胸 86 腰 58 臀 85",
   "cup": "F",
-  "description": "",
+  "description": "水原梨花，来自京都府，是日本女演员，所属事务所LEGIT，兴趣爱好是看电影、料理。",
   "features": [
     "大乳房",
     "熟女",

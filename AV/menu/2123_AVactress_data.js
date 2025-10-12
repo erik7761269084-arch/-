@@ -10,7 +10,7 @@ window.actressData = {
   "height": "159cm",
   "measurements": "胸 83 腰 57 臀 88",
   "cup": "F",
-  "description": "",
+  "description": "芽森滴，又名：芽森しずく，来自宫城县，是女演员，所属事务所T-POWERS，兴趣爱好是音乐鉴赏。",
   "features": [
     "美人",
     "美乳",

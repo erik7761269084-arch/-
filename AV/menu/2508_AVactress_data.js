@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 85 腰 60 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "大岛柚子奈，又名：大島ゆず奈，来自秋田县，是日本女演员，所属事务所UNITY PROMOTION。",
   "features": [
     "美人",
     "膚白",

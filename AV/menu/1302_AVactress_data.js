@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 93 腰 65 臀 85",
   "cup": "H",
-  "description": "",
+  "description": "江上志保，又名：江上しほ，来自熊本县，是日本女演员，所属事务所Two Top Promotion。",
   "features": [
     "美人",
     "美乳",

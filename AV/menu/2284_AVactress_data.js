@@ -10,7 +10,7 @@ window.actressData = {
   "height": "165cm",
   "measurements": "胸 91 腰 59 臀 88",
   "cup": "F",
-  "description": "",
+  "description": "保坂绘里，又名：保坂えり，来京都府，是日本女演员，所属事务所T-POWERS，兴趣爱好是读书，料理。",
   "features": [
     "美人",
     "美乳",

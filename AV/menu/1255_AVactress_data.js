@@ -10,7 +10,7 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 83 腰 58 臀 85",
   "cup": "C",
-  "description": null,
+  "description": "爱田樱，又名：あいださくら，来自东京都，是日本女演员，兴趣爱好是看电影、听音乐、英语。",
   "features": [
     "美人",
     "美腳",

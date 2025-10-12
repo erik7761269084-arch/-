@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 90 腰 60 臀 96",
   "cup": "G",
-  "description": "",
+  "description": "仁奈琉亚，又名：仁奈るあ，来自东京都，是女演员，所属事务所Bambi Promotion，兴趣爱好是羽毛球、飞镖。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 85 腰 58 臀 84",
   "cup": "D",
-  "description": "",
+  "description": "姬川优奈，又名：姫川ゆうな，是女演员，所属事务所GIRFY，兴趣爱好是电心、芭蕾舞。",
   "features": [
     "美人",
     "美乳",

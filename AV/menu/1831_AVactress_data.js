@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 86 腰 58 臀 88",
   "cup": "D",
-  "description": "",
+  "description": "折原罗，又名：折原ゆら，是女演员",
   "features": [
     "天然",
     "美少女",

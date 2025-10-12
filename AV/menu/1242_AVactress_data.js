@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 80 腰 60 臀 85",
   "cup": "B",
-  "description": null,
+  "description": "齐木由爱，又名：斉木ゆあ，沢田莉爱，菅野由树菜，来自栃木县，是日本女演员，兴趣爱好是网球、唱歌、喝酒。",
   "features": [
     "美腳",
     "膚白",

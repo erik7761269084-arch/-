@@ -10,8 +10,10 @@ window.actressData = {
   "height": "162cm",
   "measurements": "胸 85 腰 58 臀 92",
   "cup": "C",
-  "description": "",
-  "features": [],
+  "description": "翼美咲，又名：翼みさき，来自神奈川县，是日本女演员，所属事务所KRONE(クローネ)，兴趣爱好是购物。",
+  "features": [
+    "漂亮,90后,步兵"
+  ],
   "detail_url": "https://www.javrate.com/Actor/Detail/55af7ccb-9dd0-48c6-8a42-42af4efdb215.html",
   "aliases": [
     "Tsubasa Misaki",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 80 腰 56 臀 84",
   "cup": "C",
-  "description": "",
+  "description": "宫崎千寻，又名：宮崎ちひろ，来自兵库县，是女演员，兴趣爱好是宠物。",
   "features": [
     "美人",
     "美腳",

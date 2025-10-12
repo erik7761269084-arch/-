@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 98 腰 58 臀 88",
   "cup": "J",
-  "description": "",
+  "description": "绪川凛，1985年02月08日出生于琦玉县，是一位亭亭玉立的女优，工作于Prime Agency事务所，2013年07月01日在IDEA POCKET公司第一次发布番号，喜欢足球。",
   "features": [
     "美人",
     "美乳",

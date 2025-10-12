@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 81 腰 57 臀 83",
   "cup": "C",
-  "description": "",
+  "description": "百田雪菜，是一位如花似玉的已下马女优，1992年09月22日出生，2013年01月01日在IDEA POCKET公司出道。",
   "features": [
     "美人",
     "美腳",

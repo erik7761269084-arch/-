@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 84 腰 58 臀 85",
   "cup": "D",
-  "description": "",
+  "description": "内村里菜，又名：内村りな，桥本美帆，来自千叶县，是日本女演员，她以前可能是练体操的，身体能弯曲成反弓形，脸蛋和身材都还不错。",
   "features": [
     "美人",
     "美腳",

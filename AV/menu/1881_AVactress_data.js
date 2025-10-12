@@ -10,7 +10,7 @@ window.actressData = {
   "height": "158cm",
   "measurements": "胸 72 腰 58 臀 86",
   "cup": "A",
-  "description": "",
+  "description": "澄川鮎，是女演员。",
   "features": [
     "膚白",
     "美少女",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "169cm",
   "measurements": "胸 84 腰 59 臀 93",
   "cup": "C",
-  "description": "",
+  "description": "卯水咲流，又名：森山绫乃，来自东京都，是女演员，所属事务所At Honeys，兴趣爱好是读书、滑雪、电影鉴赏、音乐。",
   "features": [
     "美人",
     "美乳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 88 腰 60 臀 88",
   "cup": "D",
-  "description": null,
+  "description": "桃井希，又名：ももき希，桃井希，来自神奈县，是日本女演员，兴趣爱好是动画鉴赏、网球。",
   "features": [
     "長相可愛",
     "肉嘟嘟"

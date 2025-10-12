@@ -10,7 +10,7 @@ window.actressData = {
   "height": "156cm",
   "measurements": "胸 85 腰 58 臀 88",
   "cup": "C",
-  "description": null,
+  "description": "雅真央，又名：みやび真央，岛崎丽那，来自东京都，是日本女演员，所属事务所WAVE Promotion。",
   "features": [
     "美人",
     "美腳",

@@ -10,7 +10,7 @@ window.actressData = {
   "height": "167cm",
   "measurements": "胸 101 腰 66 臀 99",
   "cup": "I",
-  "description": "",
+  "description": "若槻水菜，又名：若槻みづな，是日本女演员，所属事务所Two Top Promotion，兴趣爱好是做家务、动画、爱猫、闪亮的东西、可爱的化妆品。",
   "features": [
     "美人",
     "美乳",

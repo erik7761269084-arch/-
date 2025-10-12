@@ -10,7 +10,7 @@ window.actressData = {
   "height": "154cm",
   "measurements": "胸 88 腰 58 臀 84",
   "cup": "F",
-  "description": "",
+  "description": "三浦春佳，来自广岛县，是女演员，所属事务所GIRFY，兴趣爱好是饮酒、运动、睡觉、房事、美食。",
   "features": [
     "美人",
     "美乳",

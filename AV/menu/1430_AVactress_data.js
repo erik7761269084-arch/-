@@ -10,7 +10,7 @@ window.actressData = {
   "height": "155cm",
   "measurements": "胸 88 腰 58 臀 87",
   "cup": "E",
-  "description": "",
+  "description": "春日部木叶，又名：春日部このは，是女演员。",
   "features": [
     "美人",
     "美乳",

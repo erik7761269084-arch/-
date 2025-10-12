@@ -10,7 +10,7 @@ window.actressData = {
   "height": "160cm",
   "measurements": "胸 88 腰 59 臀 89",
   "cup": "E",
-  "description": "",
+  "description": "小高里保，来自兵库县，是日本女演员，所属事务所Declare Promotion，兴趣爱好是卡拉OK、游泳、篮球。",
   "features": [
     "美人",
     "美乳",

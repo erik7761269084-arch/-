@@ -10,7 +10,7 @@ window.actressData = {
   "height": "163cm",
   "measurements": "胸 80 腰 58 臀 85",
   "cup": "B",
-  "description": null,
+  "description": "碧志乃，曾用名筱惠美，1990年09月08日出生于栃木县，是一位的已下马女优，2009年08月21日第一次发布番号，喜欢料理，善于按摩、舞蹈。",
   "features": [
     "美人",
     "美乳",

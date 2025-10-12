@@ -10,7 +10,7 @@ window.actressData = {
   "height": "159cm",
   "measurements": "胸 86 腰 58 臀 89",
   "cup": "H",
-  "description": "",
+  "description": "一之濑美雪，又名：一之瀬みき，是女演员。",
   "features": [
     "美人",
     "美乳",

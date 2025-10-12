@@ -10,7 +10,7 @@ window.actressData = {
   "height": "150cm",
   "measurements": "胸 85 腰 59 臀 87",
   "cup": "C",
-  "description": "",
+  "description": "大高赖子，是女演员。",
   "features": [
     "美人",
     "美腳",

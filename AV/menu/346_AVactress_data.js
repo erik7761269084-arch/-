@@ -10,7 +10,7 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 88 腰 58 臀 90",
   "cup": "F",
-  "description": "",
+  "description": "咲乃柑菜，来自东京都，是日本女演员，所属事务所FUNIT! Entertainment，兴趣爱好是美甲。",
   "features": [
     "美人",
     "美乳",

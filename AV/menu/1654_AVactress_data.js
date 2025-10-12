@@ -10,7 +10,7 @@ window.actressData = {
   "height": "161cm",
   "measurements": "胸 83 腰 53 臀 81",
   "cup": "E",
-  "description": "",
+  "description": "莎莉，曾用名佐川怜奈，1993年09月17日出生于神奈川县，是一位亭亭玉立的女优，工作于ARROWS事务所，2015年06月13日在E-BODY公司第一次发布番号，喜欢料理、游泳。",
   "features": [
     "美人",
     "美腳",

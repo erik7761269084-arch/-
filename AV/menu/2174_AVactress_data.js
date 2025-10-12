@@ -10,8 +10,10 @@ window.actressData = {
   "height": "153cm",
   "measurements": "胸 85 腰 60 臀 83",
   "cup": "F",
-  "description": "",
-  "features": [],
+  "description": "佐佐木雏，又名：佐々木ひな，是女演员。",
+  "features": [
+    "漂亮,大胸"
+  ],
   "detail_url": "https://www.javrate.com/Actor/Detail/23110bfb-fa8c-478c-94a0-76f127fd77a6.html",
   "aliases": [
     "Chiyo Kurama",

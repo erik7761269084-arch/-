@@ -10,7 +10,7 @@ window.actressData = {
   "height": "157cm",
   "measurements": "胸 88 腰 56 臀 85",
   "cup": "E",
-  "description": null,
+  "description": "黑川由罗，生日是1992年08月29日，故乡为广岛县，是一位楚楚动人的已下马女优 ，2013年04月19日在IDEA POCKET公司首次发行作品。",
   "features": [
     "美人",
     "美乳",

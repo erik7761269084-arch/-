@@ -10,7 +10,7 @@ window.actressData = {
   "height": "152cm",
   "measurements": "胸 84 腰 57 臀 83",
   "cup": "C",
-  "description": "",
+  "description": "濑名光莉，又名：瀬名きらり，来自岛根县，是女演员，兴趣爱好是卡拉OK、泡温泉。",
   "features": [
     "美腳",
     "膚白",
