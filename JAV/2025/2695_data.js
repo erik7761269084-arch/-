@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://m3u8.hmrvideo.com/play/d7405309937e4e949b504e32e1746bf0.m3u8",
+  "第2集": "https://m3u8.hmrvideo.com/play/72b7c6b13f2a4ed49856addfd8715247.m3u8",
+  "第3集": "https://m3u8.hmrvideo.com/play/891d74ad78a545b7a01738a098024bbd.m3u8",
+  "第4集": "https://m3u8.hmrvideo.com/play/98018f5d48f444a9a0397aa024158c6d.m3u8",
+  "第5集": "https://m3u8.hmrvideo.com/play/eba610bdd8984a308c5527ef394af5fb.m3u8",
+  "第6集": "https://m3u8.hmrvideo.com/play/61a502d64c674be186f557d11a51cfea.m3u8",
+  "第7集": "https://m3u8.hmrvideo.com/play/2f525d53c6254803a29638e44e55a2ef.m3u8",
+  "第8集": "https://m3u8.hmrvideo.com/play/b6b9d83e4f4a4a00a6a74665015d1bab.m3u8",
+  "第9集": "https://m3u8.hmrvideo.com/play/d44eb5d1688a4d76a04114f0e34b25a0.m3u8",
+  "第10集": "https://m3u8.hmrvideo.com/play/adf7f00755734063be83c8552daa8739.m3u8",
+  "第11集": "https://m3u8.hmrvideo.com/play/2d40e943945841aab45faf2f62dac242.m3u8",
+  "第12集": "https://m3u8.hmrvideo.com/play/e064a3ce42f844a285e6f5b8e66ead2c.m3u8",
+  "第13集": "https://m3u8.hmrvideo.com/play/c21c4da1a32444119da88561d1935679.m3u8",
+  "第14集": "https://m3u8.hmrvideo.com/play/1b607d4d7fc34e66b00b06c2babc674d.m3u8",
+  "第15集": "https://m3u8.hmrvideo.com/play/4d3d0ff0230a464db543bd7ff0b27366.m3u8",
+  "第16集": "https://m3u8.hmrvideo.com/play/976d01b21e834d19a4a91c5cfb160670.m3u8",
+  "第17集": "https://m3u8.hmrvideo.com/play/d849f520c77742e9b55d7e4ab67c96a9.m3u8",
+  "第18集": "https://m3u8.hmrvideo.com/play/b22b90a3153f447e8758d87dc442ee3b.m3u8",
+  "第19集": "https://m3u8.hmrvideo.com/play/8e4943d654c54648882b53b151a9a94f.m3u8",
+  "第20集": "https://m3u8.hmrvideo.com/play/67932723e962499abcfcd6a0c7185885.m3u8",
+  "第21集": "https://m3u8.hmrvideo.com/play/e0448ada9ee84943b40f2e0365a63d1c.m3u8",
+  "第22集": "https://m3u8.hmrvideo.com/play/37ddb96c9bab4ce29cdac3c4065381d0.m3u8",
+  "第23集": "https://cos.m3u8hw8.com/share/3af980fd28fd405aaf97201dff40c107.m3u8",
+  "第24集": "https://m3u8.hmrvideo.com/play/c400bbee89c84daa8f8068c66dc6e10d.m3u8",
+  "第25集": "https://m3u8.hmrvideo.com/play/30f4f6d18a5b49e4943f51928f9d3743.m3u8",
+  "第26集": "https://m3u8.hmrvideo.com/play/f2b7c491374a4fa69fb90d861abd1ff7.m3u8",
+  "第27集": "https://vod6.bdzybf11.com/20240223/BFiaXUBX/index.m3u8",
+  "第28集": "https://m3u8.hmrvideo.com/play/09cd6ada809541ffa739867a19f660bc.m3u8",
+  "第29集": "https://m3u8.hmrvideo.com/play/f6fdc7aeedeb4f0ca5164a454b55a70e.m3u8",
+  "第30集": "https://vod6.bdzybf11.com/20240224/MdOTi6pJ/index.m3u8",
+  "第31集": "https://m3u8.hmrvideo.com/play/b1106ab7cca6406a9bf7471dd3e52643.m3u8",
+  "第32集": "https://m3u8.hmrvideo.com/play/308f1952e267470688ac473bed769d7e.m3u8"
+};
+
+seriesInfo = {
+  title: "大唐狄公案DVD版",
+  status: "32集全",
+  category: "大陆电视剧",
+  director: "李云亮",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/大唐狄公案DVD版_109841.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2695" 
+
+};

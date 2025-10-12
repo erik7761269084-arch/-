@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/mF4R3brs/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/U0J76tdf/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/kBSQ7q8Y/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/rGxtLE8e/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/0m1jDt9y/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/EursJt4W/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/6yOw5RQz/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/k9Z3M6Dl/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/NIjOL4eP/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/XSnq8CLk/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/cIu0i2VM/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/G5fLHB0e/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/VWfQsp2m/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/hQ4jC7RS/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/VreaXI6F/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/u7vT0UsM/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/j4n380zD/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/jDrxJ3EV/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/l1KeYWs2/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/zTfDvS5w/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/8i53sfDP/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/MlVvAULR/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/Vo9kUF0a/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/61O89jxo/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/sv1w2E7C/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/726mRMga/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/kNxjI9SQ/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/nwIv0NPo/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/Sf30nU1p/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/BFmyWk4O/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/ZVlBqkXs/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/shZJHkgL/index.m3u8"
+};
+
+seriesInfo = {
+  title: "良言写意",
+  status: "全32集",
+  category: "大陆电视剧",
+  director: "陈畅",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/良言寫意_124200.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5791" 
+
+};

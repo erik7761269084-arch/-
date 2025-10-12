@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vodcnd08.rsfcxq.com/20250213/D1FPL3rr/index.m3u8",
+  "第2集": "https://vodcnd08.rsfcxq.com/20250213/6lAeNUPG/index.m3u8",
+  "第3集": "https://vip.ffzy-online4.com/20240711/291205_0bc4d4a5/index.m3u8",
+  "第4集": "https://vip.ffzy-online4.com/20240711/291203_c39c0b12/index.m3u8",
+  "第5集": "https://vip.ffzy-online4.com/20240711/291208_f6e5b868/index.m3u8",
+  "第6集": "https://vip.ffzy-online4.com/20240711/291207_4a2716b3/index.m3u8",
+  "第7集": "https://vip.ffzy-online4.com/20240711/291213_14f53e3b/index.m3u8",
+  "第8集": "https://vip.ffzy-online4.com/20240711/291210_2d382584/index.m3u8",
+  "第9集": "https://vip.ffzy-online4.com/20240711/291209_47052b4e/index.m3u8",
+  "第10集": "https://vip.ffzy-online4.com/20240711/291211_b56e7511/index.m3u8",
+  "第11集": "https://vip.ffzy-online4.com/20240711/291212_aa089381/index.m3u8",
+  "第12集": "https://vip.ffzy-online4.com/20240711/291214_32c38385/index.m3u8",
+  "第13集": "https://vip.ffzy-online4.com/20240711/291217_db1d3011/index.m3u8",
+  "第14集": "https://vip.ffzy-online4.com/20240711/291215_7e8df768/index.m3u8",
+  "第15集": "https://vip.ffzy-online4.com/20240711/291218_8f49fb77/index.m3u8",
+  "第16集": "https://vip.ffzy-online4.com/20240711/291216_af3f6665/index.m3u8",
+  "第17集": "https://vip.ffzy-online4.com/20240711/291219_94cf3f0a/index.m3u8",
+  "第18集": "https://vip.ffzy-online4.com/20240711/291220_a60a9f01/index.m3u8",
+  "第19集": "https://vip.ffzy-online4.com/20240711/291221_fd88fe00/index.m3u8",
+  "第20集": "https://vip.ffzy-online4.com/20240711/291222_ce3fcb49/index.m3u8",
+  "第21集": "https://vip.ffzy-online4.com/20240711/291226_7dd9cdf4/index.m3u8",
+  "第22集": "https://vip.ffzy-online4.com/20240711/291224_e21a099f/index.m3u8",
+  "第23集": "https://vip.ffzy-online4.com/20240711/291223_4245f83f/index.m3u8",
+  "第24集": "https://vip.ffzy-online4.com/20240711/291225_09aa0d35/index.m3u8",
+  "第25集": "https://vip.ffzy-online4.com/20240711/291228_9881bd13/index.m3u8",
+  "第26集": "https://vip.ffzy-online4.com/20240711/291227_681cf88f/index.m3u8",
+  "第27集": "https://vip.ffzy-online4.com/20240711/291230_10740aa2/index.m3u8",
+  "第28集": "https://vip.ffzy-online4.com/20240711/291229_7b062f80/index.m3u8",
+  "第29集": "https://vip.ffzy-online4.com/20240711/291231_59fbb191/index.m3u8",
+  "第30集": "https://vip.ffzy-online4.com/20240711/291232_ba901e5d/index.m3u8"
+};
+
+seriesInfo = {
+  title: "指尖上的月光",
+  status: "第30集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/指尖上的月光_500255.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3454" 
+
+};

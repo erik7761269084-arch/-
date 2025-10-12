@@ -1,0 +1,47 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/41b64ac5/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/37e7fc11/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/5d241f73/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/0b854473/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/ca884294/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/f6b7138c/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/8fa4f328/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/c55a8930/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/017dedc5/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/51222dac/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/ad24c218/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/ae8bde82/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/f539a0f6/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/22f602f7/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/80af182a/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/c0ba8bef/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/8f19dc5d/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/03062a18/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/03c34434/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/c02e3208/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/9c2bf0a4/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/904fd84b/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/5c530db2/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/f874f76a/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/1c0d0d98/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/b0ff3137/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/a1826e3d/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/2b349f9f/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/f1ff4697/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/4c0c0ad9/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/bee5e029/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/d27932e0/index.m3u8"
+};
+
+seriesInfo = {
+  title: "芥子时光",
+  status: "更新第32集",
+  category: "大陆电视剧",
+  director: "徐驰, 羿坤",
+  actors: "",
+  meta: "其他 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/芥子時光_431612.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=886" 
+
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://wwzycdn.10cong.com/20241018/ADnkDpe1/index.m3u8",
+  "第2集": "https://wwzycdn.10cong.com/20241018/NA8nU14h/index.m3u8",
+  "第3集": "https://wwzycdn.10cong.com/20241018/B6wWVbDp/index.m3u8",
+  "第4集": "https://wwzycdn.10cong.com/20241018/EnGwmFPt/index.m3u8",
+  "第5集": "https://wwzycdn.10cong.com/20241018/kGsayPmZ/index.m3u8",
+  "第6集": "https://wwzycdn.10cong.com/20241018/XegbTyYD/index.m3u8",
+  "第7集": "https://wwzycdn.10cong.com/20241018/A2i6QBp1/index.m3u8",
+  "第8集": "https://wwzycdn.10cong.com/20241018/LXdV8ibr/index.m3u8",
+  "第9集": "https://wwzycdn.10cong.com/20241018/d1Xy7BhD/index.m3u8",
+  "第10集": "https://wwzycdn.10cong.com/20241018/Wwblgrol/index.m3u8",
+  "第11集": "https://wwzycdn.10cong.com/20241018/OUdpHlXp/index.m3u8",
+  "第12集": "https://wwzycdn.10cong.com/20241018/IZnYkqP2/index.m3u8",
+  "第13集": "https://wwzycdn.10cong.com/20241018/roBVJNoa/index.m3u8",
+  "第14集": "https://wwzycdn.10cong.com/20241018/j2K2DYil/index.m3u8",
+  "第15集": "https://wwzycdn.10cong.com/20241018/XWOdaXSZ/index.m3u8",
+  "第16集": "https://wwzycdn.10cong.com/20241018/qv7MLWCi/index.m3u8",
+  "第17集": "https://wwzycdn.10cong.com/20241018/o0View14/index.m3u8",
+  "第18集": "https://wwzycdn.10cong.com/20241018/mkmBt1YI/index.m3u8",
+  "第19集": "https://wwzycdn.10cong.com/20241018/UXFEQSaa/index.m3u8",
+  "第20集": "https://wwzycdn.10cong.com/20241018/FnrphKgs/index.m3u8",
+  "第21集": "https://wwzycdn.10cong.com/20241018/1613fakM/index.m3u8",
+  "第22集": "https://wwzycdn.10cong.com/20241018/pZ3ErcL7/index.m3u8",
+  "第23集": "https://wwzycdn.10cong.com/20241018/Qu8PJCOn/index.m3u8",
+  "第24集": "https://wwzycdn.10cong.com/20241018/u4Vy5sCB/index.m3u8",
+  "第25集": "https://wwzycdn.10cong.com/20241018/XyQmJMOS/index.m3u8",
+  "第26集": "https://wwzycdn.10cong.com/20241018/SwcLnCbY/index.m3u8",
+  "第27集": "https://wwzycdn.10cong.com/20241018/Sv727GK6/index.m3u8",
+  "第28集": "https://wwzycdn.10cong.com/20241018/3CZJiaGP/index.m3u8",
+  "第29集": "https://wwzycdn.10cong.com/20241018/gQcbAMaS/index.m3u8",
+  "第30集": "https://wwzycdn.10cong.com/20241018/SeS9b34n/index.m3u8"
+};
+
+seriesInfo = {
+  title: "志在千里",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/志在千里_385327.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4301" 
+
+};

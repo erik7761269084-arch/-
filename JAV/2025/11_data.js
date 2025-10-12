@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/abfc0969/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/f26ffc56/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/a58a5e89/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/59ebaee1/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/34ddb91c/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/a0cec87a/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/cbb73bf8/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/f9740b38/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/a8e62777/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/3febc818/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/35815275/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/52f13546/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/3cebcb9e/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/48687f1b/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/1fe82dc8/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/fa71e120/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/1dd0d070/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/d1673d8f/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/56e0a3a0/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/9daac89a/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/4c46d604/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/e6e61031/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/bc78ea9f/index.m3u8",
+  "第24集": "https://vip.dytt-cinema.com/20250811/29860_45af559f/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/5071f0bc/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/6965aa24/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/a84ac515/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/1d7562ce/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/8e889ff4/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/68f15017/index.m3u8"
+};
+
+seriesInfo = {
+  title: "凡人修仙传2025",
+  status: "全30集",
+  category: "大陆电视剧",
+  director: "杨阳",
+  actors: "杨洋, 金晨, 汪铎, 赵小棠, 赵晴, 金佳悦, 荣梓希, 张婉儿, 胡宇轩, 张翔, 娜一, 陈震, 施予斐, 李圣佳, 梁咏妮, 刘珂君, 李熹子, 廖语辰, 严丰, 陈柏融, 常荻, 刘天宝, 喻亢, 王海祥, 祖卡尔, 曹明华, 李越, 丁桥, 刘𬱖, 曹赞, 孙一鸣, 柳仕炎, 郭馨钰, 张怀公, 柳岩, 李乃文, 金士杰, 贾冰, 颖儿, 吴樾, 曹骏, 管云鹏, 颜丹晨, 张海宇, 曲高位, 王冠, 宿宇杰, 徐海乔, 张耀, 张晓晨, 车保罗, 宗峰岩, 王同辉, 尹铸胜, 刘亚津, 李明, 穆宁, 罗光旭, 杜奕衡, 朱辉",
+  meta: "大陆 / 汉语普通话 / 2025",
+  description: `该剧改编自忘语的同名小说，讲述了普通的山村穷小子韩立（杨洋饰），偶然之下，跨入到一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。`,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/凡人修仙傳2025_527835.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=11" 
+
+};

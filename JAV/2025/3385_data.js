@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/ddcf9454/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241226/SVHpT8aL/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241226/dojts1kk/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241226/aP2FdMrZ/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241226/gbIONJ9r/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241226/Jpt7b0WG/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241226/jV6vBvf8/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241226/R4MTIUfo/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241226/SIHsz80U/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241226/i76OG7RO/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241226/meJOXWis/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241226/eoX4nff1/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241226/PbZWELe1/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241226/v74JfFCM/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241226/w4PA7BMW/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241226/Op4Fplko/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241226/1FwZtDSd/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241226/FsfGplXY/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241226/haRJ1WbB/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241226/B8XrmYdP/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241226/mbsSPcKd/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241226/MRRECG73/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241226/RE7Ggo0d/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241226/owGX9kaC/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241226/wODIOcl6/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241226/JcaPjNe6/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241226/KsZ1c73V/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241226/qgndx8V3/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241226/ykH8ruOe/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241226/dOTosYDr/index.m3u8",
+  "第31集": "https://play.modujx11.com/20241226/HcwA3DIa/index.m3u8",
+  "第32集": "https://play.modujx11.com/20241226/p6kN2nMR/index.m3u8",
+  "第33集": "https://play.modujx11.com/20241226/PW79kV2E/index.m3u8"
+};
+
+seriesInfo = {
+  title: "不肖子女",
+  status: "第21-33集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/不肖子女_502409.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3385" 
+
+};

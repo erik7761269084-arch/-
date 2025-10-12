@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://play.modujx16.com/20241015/XrP2YoHo/index.m3u8",
+  "第2集": "https://v.cdnlz3.com/20241015/27965_ccea6711/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241015/AGLrVZSY/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241015/mQOjiSVG/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241015/nK8BEGhc/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241015/d5CO5mzX/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241015/FhE84OFj/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241015/rpF9wiGM/index.m3u8",
+  "第9集": "https://vip.dytt-movie.com/20250402/9094_9aa70957/index.m3u8",
+  "第10集": "https://v.cdnlz3.com/20241015/27973_34b2bd9c/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241015/2trUGSRA/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/f7118ec9/index.m3u8",
+  "第13集": "https://v.cdnlz3.com/20241015/27978_999fbb63/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241015/Jbf4NY0b/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241015/XnFq1YRO/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/a1076db0/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/711a4dd9/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/e07f4ff2/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/8070b667/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/14766be9/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241018/9WBLwItk/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241018/RSUtCMpf/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/3315798f/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241019/66TZpLpz/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241020/uagFCcyK/index.m3u8",
+  "第26集": "https://vodcnd08.rsfcxq.com/20250313/faWrCfX9/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241021/1flm6FE0/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/43c0461c/index.m3u8",
+  "第29集": "https://vod12.wgslsw.com/20241022/muJqXSJSHb84/index.m3u8",
+  "第30集": "https://v4.fentvoss.com/yyv4/202410/21/RNQSkYPDpc24/video/index.m3u8"
+};
+
+seriesInfo = {
+  title: "替婚新娘",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "杨世韬",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/替婚新娘_459944.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=387" 
+
+};

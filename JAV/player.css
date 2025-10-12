@@ -1,0 +1,115 @@
+/* 通用播放器样式 */
+body {
+    font-family: Arial, sans-serif;
+    background: #2c2c2c;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 10px;
+}
+
+.player {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    background: black;
+    touch-action: pan-y; /* 禁止左右滑动切换 */
+}
+
+/* 暂停浮层 */
+#overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    z-index: 10;
+    pointer-events: none; /* 不挡住点击 */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    text-align: center;
+    padding: 20px;
+}
+
+/* 控制按钮放大 (仅部分浏览器生效) */
+video::-webkit-media-controls-volume-slider,
+video::-webkit-media-controls-mute-button,
+video::-webkit-media-controls-fullscreen-button {
+    transform: scale(1.5);
+    margin: 0 6px;
+}
+
+/* 上一集 / 下一集按钮 */
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 0;
+}
+.nav-buttons button {
+    background: #444;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+.nav-buttons button:hover {
+    background: #555;
+}
+
+/* 集数列表按钮 */
+.playlist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 0;
+    justify-content: center;
+}
+.playlist button {
+    background: #444;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+.playlist button:hover {
+    background: #555;
+}
+.playlist button.active {
+    background: #1e90ff;
+}
+
+/* 剧情详情 */
+.details {
+    background: #1c1c1c;
+    padding: 15px;
+    border-radius: 8px;
+}
+.details h1 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+}
+.details p {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+.details strong {
+    color: #1e90ff;
+}

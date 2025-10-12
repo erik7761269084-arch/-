@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vodcnd02.rsfcxq.com/20250404/KXyYcLxq/index.m3u8",
+  "第2集": "https://vodcnd02.rsfcxq.com/20250404/FDko5k2o/index.m3u8",
+  "第3集": "https://vodcnd02.rsfcxq.com/20250404/tRdAyI2b/index.m3u8",
+  "第4集": "https://vodcnd02.rsfcxq.com/20250404/mJ4iTvZl/index.m3u8",
+  "第5集": "https://vodcnd02.rsfcxq.com/20250404/C4o9wBwV/index.m3u8",
+  "第6集": "https://vodcnd02.rsfcxq.com/20250404/8iFWe48A/index.m3u8",
+  "第7集": "https://vodcnd02.rsfcxq.com/20250404/kfkMRuDm/index.m3u8",
+  "第8集": "https://vodcnd09.myqqdd.com/20250713/aFincgUs/index.m3u8",
+  "第9集": "https://vodcnd02.rsfcxq.com/20250404/F8h8bHT0/index.m3u8",
+  "第10集": "https://vodcnd02.rsfcxq.com/20250404/vPoNf7FJ/index.m3u8",
+  "第11集": "https://vodcnd02.rsfcxq.com/20250404/brSBG9y0/index.m3u8",
+  "第12集": "https://vodcnd02.rsfcxq.com/20250404/YKmz7UmZ/index.m3u8",
+  "第13集": "https://vodcnd02.rsfcxq.com/20250404/hlPZVUXa/index.m3u8",
+  "第14集": "https://vodcnd02.rsfcxq.com/20250404/xR9RXfAT/index.m3u8",
+  "第15集": "https://vodcnd02.rsfcxq.com/20250404/4Ygjn9gg/index.m3u8",
+  "第16集": "https://vodcnd02.rsfcxq.com/20250404/ctk3qNcS/index.m3u8",
+  "第17集": "https://vodcnd02.rsfcxq.com/20250404/FaI7eX3x/index.m3u8",
+  "第18集": "https://vodcnd02.rsfcxq.com/20250404/v3pEuHNI/index.m3u8",
+  "第19集": "https://vodcnd02.rsfcxq.com/20250404/L2YGGccf/index.m3u8",
+  "第20集": "https://vodcnd02.rsfcxq.com/20250404/pju3XnRD/index.m3u8",
+  "第21集": "https://vodcnd02.rsfcxq.com/20250404/1862cFhu/index.m3u8",
+  "第22集": "https://vodcnd02.rsfcxq.com/20250404/EfpOWrUS/index.m3u8",
+  "第23集": "https://vodcnd02.rsfcxq.com/20250404/vhiY0aBN/index.m3u8",
+  "第24集": "https://vodcnd02.rsfcxq.com/20250404/YL2KiUb2/index.m3u8",
+  "第25集": "https://vodcnd02.rsfcxq.com/20250404/eg42NCPI/index.m3u8",
+  "第26集": "https://vodcnd02.rsfcxq.com/20250404/WAWSig08/index.m3u8",
+  "第27集": "https://vodcnd02.rsfcxq.com/20250404/D63dYtNs/index.m3u8",
+  "第28集": "https://vodcnd02.rsfcxq.com/20250404/vSpo3FFn/index.m3u8",
+  "第29集": "https://vodcnd02.rsfcxq.com/20250404/GZ7ywYf4/index.m3u8",
+  "第30集": "https://vodcnd02.rsfcxq.com/20250404/tA6lIc3p/index.m3u8"
+};
+
+seriesInfo = {
+  title: "家族荣耀之继承者普通话",
+  status: "第30集完结",
+  category: "香港电视剧",
+  director: "蔡晶盛, 陈新侠",
+  actors: "",
+  meta: "大陆 / 粤语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/家族榮耀之繼承者普通話_133983.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2479" 
+
+};

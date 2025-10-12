@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://vod12.wgslsw.com/20240427/Q6eJXq3ZWW82/index.m3u8",
+  "第2集": "https://m3u8.hmrvideo.com/play/27b3ba65de634333a4c9dc6cbe23c46c.m3u8",
+  "第3集": "https://m3u8.hmrvideo.com/play/fad5a14fcdeb46deb399d44ec7072636.m3u8",
+  "第4集": "https://m3u8.hmrvideo.com/play/414791245fc640fa820f79993e4c8ca6.m3u8",
+  "第5集": "https://m3u8.hmrvideo.com/play/6721d871a5ef43de88a82ffcca594206.m3u8",
+  "第6集": "https://m3u8.hmrvideo.com/play/dd78f2ebc2ee4f34919d20d39c8e5954.m3u8",
+  "第7集": "https://m3u8.hmrvideo.com/play/6020258d224745b598402aae9937f7b4.m3u8",
+  "第8集": "https://m3u8.hmrvideo.com/play/b3a9ead933b446e3a94d54b49ca29b64.m3u8",
+  "第9集": "https://m3u8.hmrvideo.com/play/ed8e03867dd4437cb9f050c3dda8f33a.m3u8",
+  "第10集": "https://m3u8.hmrvideo.com/play/1449130cdd664aceab491701f467788d.m3u8",
+  "第11集": "https://m3u8.hmrvideo.com/play/3e5a0ded477d41e7877fd9723351e1bf.m3u8",
+  "第12集": "https://m3u8.hmrvideo.com/play/dec90be2a9d94af48fcee20abfa1ef83.m3u8",
+  "第13集": "https://m3u8.hmrvideo.com/play/56881375d49848349078e13ac227f7d5.m3u8",
+  "第14集": "https://m3u8.hmrvideo.com/play/94e1cb26945f49b98b4d9a17b0c16ed1.m3u8",
+  "第15集": "https://m3u8.hmrvideo.com/play/c008df29d69d4cea83a283d9f2b23a02.m3u8",
+  "第16集": "https://m3u8.hmrvideo.com/play/a062ad3aec6a4a00b86bf608a54cccd8.m3u8",
+  "第17集": "https://m3u8.hmrvideo.com/play/ee96f412971b4f8382b754a08df4b3d4.m3u8",
+  "第18集": "https://m3u8.hmrvideo.com/play/0a58e06ce68d48fc8cb0944f5a104428.m3u8",
+  "第19集": "https://m3u8.hmrvideo.com/play/3df71852236c4f478beff7fafbaf3459.m3u8",
+  "第20集": "https://m3u8.hmrvideo.com/play/20e96077ef58480a8ec317e8a3368685.m3u8",
+  "第21集": "https://m3u8.hmrvideo.com/play/0c087ac2c2c44e7bbca28e2e115c92ab.m3u8",
+  "第22集": "https://cos.m3u8hw8.com/share/1db6813c26934057aae6911ec8f2ba4c.m3u8",
+  "第23集": "https://m3u8.hmrvideo.com/play/0e280c8ecee4437a9e5e26477a55bc22.m3u8",
+  "第24集": "https://m3u8.hmrvideo.com/play/375c4e1b9bbb436290af8517331898ca.m3u8",
+  "第25集": "https://m3u8.hmrvideo.com/play/13881c90a46e45e58286d1956a3b3035.m3u8",
+  "第26集": "https://m3u8.hmrvideo.com/play/ad50151b9c8b496c9a158ef9386655ba.m3u8",
+  "第27集": "https://m3u8.hmrvideo.com/play/e02f1d7a19d241fcaf3e49ac6bb81579.m3u8",
+  "第28集": "https://m3u8.hmrvideo.com/play/4fb7bf352c114f57b9870811a70e378e.m3u8",
+  "第29集": "https://m3u8.hmrvideo.com/play/9357ef972f5548c7a0728f5203ae0e64.m3u8",
+  "第30集": "https://m3u8.hmrvideo.com/play/e7dd2099688645e5a5005aa35eb5165d.m3u8"
+};
+
+seriesInfo = {
+  title: "太阳照不到的地方",
+  status: "完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/太陽照不到的地方_201050.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1658" 
+
+};

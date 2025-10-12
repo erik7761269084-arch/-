@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://play.subokk.com/play/1aMPGGme/index.m3u8",
+  "第2集": "https://play.subokk.com/play/qaQlyyZe/index.m3u8",
+  "第3集": "https://play.subokk.com/play/QeZxLJ8b/index.m3u8",
+  "第4集": "https://play.subokk.com/play/PdyBEVge/index.m3u8",
+  "第5集": "https://play.subokk.com/play/RdGJjB3b/index.m3u8",
+  "第6集": "https://play.subokk.com/play/QeZx7Vgb/index.m3u8",
+  "第7集": "https://play.subokk.com/play/9b6lORNe/index.m3u8",
+  "第8集": "https://play.subokk.com/play/PdyBKnWe/index.m3u8",
+  "第9集": "https://play.subokk.com/play/meppxP6e/index.m3u8",
+  "第10集": "https://play.subokk.com/play/rb2PYAze/index.m3u8",
+  "第11集": "https://play.subokk.com/play/1aMPLmGe/index.m3u8",
+  "第12集": "https://play.subokk.com/play/DdwzoN8b/index.m3u8",
+  "第13集": "https://play.subokk.com/play/pen02A7b/index.m3u8",
+  "第14集": "https://play.subokk.com/play/pen02AWb/index.m3u8",
+  "第15集": "https://play.subokk.com/play/DbDDz9Ab/index.m3u8",
+  "第16集": "https://play.subokk.com/play/pen0BrYb/index.m3u8",
+  "第17集": "https://play.subokk.com/play/DdwzOmgb/index.m3u8",
+  "第18集": "https://vodcnd11.rsfcxq.com/20250309/9v1sKf8b/index.m3u8",
+  "第19集": "https://vodcnd11.rsfcxq.com/20250309/rWBbyWI2/index.m3u8",
+  "第20集": "https://play.subokk.com/play/nellzZMe/index.m3u8",
+  "第21集": "https://play.subokk.com/play/pen0M6Yb/index.m3u8",
+  "第22集": "https://play.subokk.com/play/DdwzY7gb/index.m3u8",
+  "第23集": "https://play.subokk.com/play/DbDDMWAb/index.m3u8",
+  "第24集": "https://play.subokk.com/play/9aAzjBzb/index.m3u8",
+  "第25集": "https://play.subokk.com/play/YerryP6e/index.m3u8",
+  "第26集": "https://play.subokk.com/play/1aKNKPne/index.m3u8",
+  "第27集": "https://play.subokk.com/play/Yerx0m6b/index.m3u8",
+  "第28集": "https://play.subokk.com/play/1aKjOLne/index.m3u8",
+  "第29集": "https://play.subokk.com/play/neloO26d/index.m3u8",
+  "第30集": "https://play.subokk.com/play/BeXzQ7ob/index.m3u8"
+};
+
+seriesInfo = {
+  title: "一路向前",
+  status: "第30集",
+  category: "大陆电视剧",
+  director: "习辛, 张建雄",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/一路向前_137658.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=2179" 
+
+};

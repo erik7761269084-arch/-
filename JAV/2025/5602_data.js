@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/ab855b48/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/8d1a2041/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/f573858c/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/a9580de0/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/56dad87c/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/6cbffb4d/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/0d6ea0d3/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/d19cd78a/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/6e6f7d39/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/b6f4820b/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/5ebad700/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/d8739100/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/cd660383/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/40245c20/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/3b6d3bfc/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/511aca0c/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/49ca92a9/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/9b4cecf0/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/76cb6100/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/0464c6ce/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/708ad0fb/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/9ad54157/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/0ecf3250/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/1377ac2b/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/2423d170/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/9470700f/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/24b73597/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/d7c521a7/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/b5c32626/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/67eb4615/index.m3u8"
+};
+
+seriesInfo = {
+  title: "迎风的青春",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "邢键钧",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/迎風的青春_452056.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5602" 
+
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/b8c960d4/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241225/kouWV4lg/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241225/XMcpnM5W/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241225/k6or8sJX/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241225/netqfKun/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241225/c7xhi4zB/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241225/yEA9EMQs/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241225/dy0zEyCz/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241225/gLekemgo/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241225/tHN5HC1Z/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241225/CGuURwlL/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241225/USCdNzTB/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241225/dziAzmKr/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241225/pis3yp73/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241225/JXBIpW0u/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241225/54cD65jY/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241225/SPxId5TO/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241225/L0NcKllz/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241225/RPYBiE2n/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241225/XaNVGzy6/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241225/ePuTDmo9/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241225/KmHxpmpW/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241225/hYpqsrvq/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241225/XyDAYMI8/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241225/zqnx9kO8/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241225/5MMYKN0u/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241225/f7I7N7do/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241225/WlpECwez/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241225/fTN35zIJ/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241225/BkEBeu67/index.m3u8",
+  "第31集": "https://play.modujx11.com/20241225/i070Sbl5/index.m3u8"
+};
+
+seriesInfo = {
+  title: "引她入局",
+  status: "第31集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/引她入局_500219.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3482" 
+
+};

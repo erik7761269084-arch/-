@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://play.modujx16.com/20241124/CupJFxxt/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241124/hFFaPvff/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241124/8dc5B0kn/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241124/nVmztIbf/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241124/35FVh3yG/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241124/kJCQh6fL/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241124/pse86ELv/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241124/nqaqOUH1/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241124/Reut5p1x/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241124/9lAFluv9/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241124/0p6qYEWj/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241124/ejzrLMPN/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241124/85Nod7bM/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241124/KWH8eOC7/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241124/rCAIkGuf/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241124/3jcylIGM/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241124/fNe8aqDe/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241124/bUWYJH20/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241124/iF8KORTa/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241124/CncFW2CG/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241124/yOWfwd2u/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241124/yZAbvE72/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241124/2FUisUuC/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241124/uSrXSrzc/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241124/WcaAnFjK/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241124/bJTE4N2a/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241124/pBIAoNgO/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241124/wgeiKsMI/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241124/ijDXX1l2/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241124/2qH0yGrv/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241124/hWOYTDTm/index.m3u8"
+};
+
+seriesInfo = {
+  title: "爹亲娘亲大过天",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/爹親娘親大過天_500244.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3463" 
+
+};

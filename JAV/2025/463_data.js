@@ -1,0 +1,46 @@
+episodes = {
+  "第2集": "https://play.modujx16.com/20241003/Hm6mr1ci/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241003/AEzzHY6X/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241003/u5jj0GzV/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241003/Bii1Y4EF/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/8fcc7d84/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/5702ed0a/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/4183fa75/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/600d0128/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/7205af13/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/d67e7f25/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/68a02dac/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/924e9a7d/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/cd8fd5c9/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/f6cd39e3/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/a61c6539/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/7b3c8a24/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/8712ac1a/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/cf84a397/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/6968a970/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/ead14470/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/5a53ad48/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/c4850eb7/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/3ebd402c/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/4f4a6711/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/f573b0da/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/750fbd7f/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/519b623f/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/818bdc2f/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/f5916e82/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241016/i1NI0p7V/index.m3u8",
+  "第32集": "https://play.modujx16.com/20241016/cKuhLjMF/index.m3u8"
+};
+
+seriesInfo = {
+  title: "花开如梦",
+  status: "第32集完结",
+  category: "大陆电视剧",
+  director: "刘惠宁, 惠楷栋",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/花開如夢_457279.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=463" 
+
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn99.com:777/5428b1a2/index.m3u8",
+  "第2集": "https://cdn.wlcdn99.com:777/c984e8a8/index.m3u8",
+  "第3集": "https://cdn.wlcdn99.com:777/a8cb696b/index.m3u8",
+  "第4集": "https://cdn.wlcdn99.com:777/b4f6315a/index.m3u8",
+  "第5集": "https://cdn.wlcdn99.com:777/dbf774af/index.m3u8",
+  "第6集": "https://cdn.wlcdn99.com:777/ebc51ee6/index.m3u8",
+  "第7集": "https://cdn.wlcdn99.com:777/e04bf2d3/index.m3u8",
+  "第8集": "https://cdn.wlcdn99.com:777/22cd58bb/index.m3u8",
+  "第9集": "https://cdn.wlcdn99.com:777/5bca5b1a/index.m3u8",
+  "第10集": "https://cdn.wlcdn99.com:777/a159a346/index.m3u8",
+  "第11集": "https://cdn.wlcdn99.com:777/85d65413/index.m3u8",
+  "第12集": "https://cdn.wlcdn99.com:777/5ba468c9/index.m3u8",
+  "第13集": "https://cdn.wlcdn99.com:777/d3f50fc4/index.m3u8",
+  "第14集": "https://cdn.wlcdn99.com:777/a389d3a5/index.m3u8",
+  "第15集": "https://cdn.wlcdn99.com:777/f9e36071/index.m3u8",
+  "第16集": "https://cdn.wlcdn99.com:777/9fec9d8c/index.m3u8",
+  "第17集": "https://cdn.wlcdn99.com:777/3d052ea7/index.m3u8",
+  "第18集": "https://cdn.wlcdn99.com:777/2e16fec0/index.m3u8",
+  "第19集": "https://play.modujx15.com/20240816/QwCdUdhW/index.m3u8",
+  "第20集": "https://play.modujx15.com/20240816/j1lZnywO/index.m3u8",
+  "第21集": "https://play.modujx15.com/20240817/noS6HhhH/index.m3u8",
+  "第22集": "https://play.modujx15.com/20240817/KxYzpBoh/index.m3u8",
+  "第23集": "https://play.modujx15.com/20240818/rCILJlIi/index.m3u8",
+  "第24集": "https://play.modujx15.com/20240818/5sdSQ1aW/index.m3u8",
+  "第25集": "https://play.modujx15.com/20240819/wEgmY5rZ/index.m3u8",
+  "第26集": "https://play.modujx15.com/20240819/5lPm2N4n/index.m3u8",
+  "第27集": "https://play.modujx15.com/20240820/nlKdZqhf/index.m3u8",
+  "第28集": "https://play.modujx15.com/20240820/1D5avmEU/index.m3u8",
+  "第29集": "https://play.modujx15.com/20240821/UDSV6zHv/index.m3u8",
+  "第30集": "https://play.modujx15.com/20240821/zgu6hQEH/index.m3u8"
+};
+
+seriesInfo = {
+  title: "侯门夫人不好当",
+  status: "全30集",
+  category: "大陆电视剧",
+  director: "杨世韬",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/侯門夫人不好當_445607.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=705" 
+
+};

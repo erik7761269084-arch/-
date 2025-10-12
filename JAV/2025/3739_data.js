@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://wwzycdn.10cong.com/20241230/wgeyeijr/index.m3u8",
+  "第2集": "https://wwzycdn.10cong.com/20241230/FBZn178M/index.m3u8",
+  "第3集": "https://wwzycdn.10cong.com/20241230/shTkSwla/index.m3u8",
+  "第4集": "https://wwzycdn.10cong.com/20241230/uIjp0wm2/index.m3u8",
+  "第5集": "https://wwzycdn.10cong.com/20241230/skof8UsG/index.m3u8",
+  "第6集": "https://wwzycdn.10cong.com/20241230/c25zKkBs/index.m3u8",
+  "第7集": "https://wwzycdn.10cong.com/20241230/u1R2gxFE/index.m3u8",
+  "第8集": "https://wwzycdn.10cong.com/20241230/JhwhIsh5/index.m3u8",
+  "第9集": "https://wwzycdn.10cong.com/20241230/K3LOm7vm/index.m3u8",
+  "第10集": "https://wwzycdn.10cong.com/20241230/cPfcJsZr/index.m3u8",
+  "第11集": "https://wwzycdn.10cong.com/20241230/1F7iEnZ2/index.m3u8",
+  "第12集": "https://wwzycdn.10cong.com/20241230/9hsOWmxF/index.m3u8",
+  "第13集": "https://wwzycdn.10cong.com/20241230/mQaMYsW7/index.m3u8",
+  "第14集": "https://wwzycdn.10cong.com/20241230/87n7G3dg/index.m3u8",
+  "第15集": "https://wwzycdn.10cong.com/20241230/o4Q9Zzs7/index.m3u8",
+  "第16集": "https://wwzycdn.10cong.com/20241230/EXTi2Vvm/index.m3u8",
+  "第17集": "https://wwzycdn.10cong.com/20241230/bVLdiQ4Q/index.m3u8",
+  "第18集": "https://wwzycdn.10cong.com/20241230/Ii1Y6Vg6/index.m3u8",
+  "第19集": "https://wwzycdn.10cong.com/20241230/OQmCn3uz/index.m3u8",
+  "第20集": "https://wwzycdn.10cong.com/20241230/aq4NPXpJ/index.m3u8",
+  "第21集": "https://wwzycdn.10cong.com/20241230/vhg0f0RW/index.m3u8",
+  "第22集": "https://wwzycdn.10cong.com/20241230/rQStHiiU/index.m3u8",
+  "第23集": "https://wwzycdn.10cong.com/20241230/ukXTzWA4/index.m3u8",
+  "第24集": "https://wwzycdn.10cong.com/20241230/EDG18bnn/index.m3u8",
+  "第25集": "https://wwzycdn.10cong.com/20241230/rOdLAqRS/index.m3u8",
+  "第26集": "https://wwzycdn.10cong.com/20241230/pyFZZjBi/index.m3u8",
+  "第27集": "https://wwzycdn.10cong.com/20241230/zQXxMGzY/index.m3u8",
+  "第28集": "https://wwzycdn.10cong.com/20241230/EqxTUdjJ/index.m3u8",
+  "第29集": "https://wwzycdn.10cong.com/20241230/BBOZlesL/index.m3u8",
+  "第30集": "https://wwzycdn.10cong.com/20241230/xd29Mxwq/index.m3u8"
+};
+
+seriesInfo = {
+  title: "簪花女王",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/簪花女王_483099.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3739" 
+
+};

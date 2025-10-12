@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/06827222/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241220/DLx3K9uX/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241220/j3ucESTL/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241220/kCZqgtwt/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241220/lMobyIuS/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241220/iaMVyZ8Y/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241220/FjYENef3/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241220/AT6Mvgbm/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241220/Ox89FGSm/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241220/9pbPJgyH/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241220/X5Z8fWn7/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241220/bZhuYqan/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241220/00PjshJU/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241220/ktteN7OW/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241220/axxoLQbr/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241220/vphMhFMS/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241220/xzhFHtb1/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241220/iTYxT3TP/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241220/rbGUKcF7/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241220/jyQNzNRs/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241220/Rcsx0e74/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241220/mOwFQ1aA/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241220/LTW0vIOT/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241220/Xk3Nm9WK/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241220/7LH0KTNG/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241220/Gh1bX3Ip/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241220/C7xwKCPF/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241220/SrIOoNEM/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241220/7Oo2Q0of/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241220/QXeOslRu/index.m3u8",
+  "第31集": "https://play.modujx16.com/20241220/f6tefwKq/index.m3u8"
+};
+
+seriesInfo = {
+  title: "母亲的决心",
+  status: "全集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/母親的決心_481938.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3772" 
+
+};

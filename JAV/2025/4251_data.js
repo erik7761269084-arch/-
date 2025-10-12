@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://hd.ijycnd.com/play/9aApOO9e/index.m3u8",
+  "第2集": "https://vip.ffzy-online4.com/20240620/254822_71e5d245/index.m3u8",
+  "第3集": "https://vip.ffzy-online4.com/20240620/254823_f1275d9f/index.m3u8",
+  "第4集": "https://vip.ffzy-online4.com/20240620/254824_bd2c29c2/index.m3u8",
+  "第5集": "https://vip.dytt-look.com/20250430/672493_15caff71/index.m3u8",
+  "第6集": "https://vip.ffzy-online4.com/20240620/254826_48548b07/index.m3u8",
+  "第7集": "https://vip.ffzy-online4.com/20240620/254827_f7014262/index.m3u8",
+  "第8集": "https://vip.ffzy-online4.com/20240620/254828_64d1e1cd/index.m3u8",
+  "第9集": "https://vip.ffzy-online4.com/20240620/254829_76b1cb76/index.m3u8",
+  "第10集": "https://vip.ffzy-online4.com/20240620/254830_cfa27056/index.m3u8",
+  "第11集": "https://vip.dytt-look.com/20250430/672542_90815ee3/index.m3u8",
+  "第12集": "https://vip.dytt-look.com/20250430/672535_2332c6be/index.m3u8",
+  "第13集": "https://vip.ffzy-online4.com/20240620/254833_0235a335/index.m3u8",
+  "第14集": "https://vip.ffzy-online4.com/20240620/254834_5c20aa70/index.m3u8",
+  "第15集": "https://vip.dytt-look.com/20250430/672537_7c5201a6/index.m3u8",
+  "第16集": "https://vip.ffzy-online4.com/20240620/254836_061eb29e/index.m3u8",
+  "第17集": "https://vip.dytt-look.com/20250430/672532_ab83bfc0/index.m3u8",
+  "第18集": "https://vip.dytt-look.com/20250430/672530_092f12c4/index.m3u8",
+  "第19集": "https://vip.dytt-look.com/20250430/672531_6482654e/index.m3u8",
+  "第20集": "https://vip.dytt-look.com/20250430/672519_9e57e240/index.m3u8",
+  "第21集": "https://vip.dytt-look.com/20250430/672528_250f7510/index.m3u8",
+  "第22集": "https://vip.dytt-look.com/20250430/672518_3d06195f/index.m3u8",
+  "第23集": "https://vip.ffzy-online4.com/20240620/254843_0d4c1532/index.m3u8",
+  "第24集": "https://vip.ffzy-online4.com/20240620/254844_92f24ab3/index.m3u8",
+  "第25集": "https://vip.ffzy-online4.com/20240620/254845_4f6fc68c/index.m3u8",
+  "第26集": "https://vip.dytt-look.com/20250430/672509_05c186fa/index.m3u8",
+  "第27集": "https://vip.dytt-look.com/20250430/672511_2de10a5e/index.m3u8",
+  "第28集": "https://vip.ffzy-online4.com/20240620/254848_aae32f32/index.m3u8",
+  "第29集": "https://vip.ffzy-online4.com/20240620/254849_20c9791e/index.m3u8",
+  "第30集": "https://vip.ffzy-online4.com/20240620/254850_02046c63/index.m3u8",
+  "第31集": "https://vip.dytt-look.com/20250430/672503_27308df4/index.m3u8"
+};
+
+seriesInfo = {
+  title: "重回2000我开局拿下满分状元",
+  status: "已完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/重回2000我開局拿下滿分狀元_391099.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=4251" 
+
+};

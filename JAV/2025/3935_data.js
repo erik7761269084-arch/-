@@ -1,0 +1,46 @@
+episodes = {
+  "第2集": "https://vod.guoluche.com/20241014/oU5IqJQh/index.m3u8",
+  "第3集": "https://vod.guoluche.com/20241014/OksB7qUT/index.m3u8",
+  "第4集": "https://vod.guoluche.com/20241014/7qbT4VeB/index.m3u8",
+  "第5集": "https://vod.guoluche.com/20241014/en0f48Ws/index.m3u8",
+  "第6集": "https://vod.guoluche.com/20241014/prViKf1k/index.m3u8",
+  "第7集": "https://vod.guoluche.com/20241014/gUoPGPQ5/index.m3u8",
+  "第8集": "https://vod.guoluche.com/20241014/QZ7UA8FM/index.m3u8",
+  "第9集": "https://vod.guoluche.com/20241014/YFoLcXNu/index.m3u8",
+  "第10集": "https://vod.guoluche.com/20241014/HBcKCwiF/index.m3u8",
+  "第11集": "https://vod.guoluche.com/20241014/8hxJMtTW/index.m3u8",
+  "第12集": "https://vod.guoluche.com/20241014/IBUNkH3D/index.m3u8",
+  "第13集": "https://vod.guoluche.com/20241014/9ZWKh9PW/index.m3u8",
+  "第14集": "https://vod.guoluche.com/20241014/RMmU5n1E/index.m3u8",
+  "第15集": "https://vod.guoluche.com/20241014/kS294E2x/index.m3u8",
+  "第16集": "https://vod.guoluche.com/20241014/qpdc3BNn/index.m3u8",
+  "第17集": "https://vod.guoluche.com/20241014/Lnyl8VH7/index.m3u8",
+  "第18集": "https://vod.guoluche.com/20241014/nHOsQBaL/index.m3u8",
+  "第19集": "https://vod.guoluche.com/20241014/C8u77dwR/index.m3u8",
+  "第20集": "https://vod.guoluche.com/20241014/dGgta5CH/index.m3u8",
+  "第21集": "https://vod.guoluche.com/20241014/tzbZZtao/index.m3u8",
+  "第22集": "https://vod.guoluche.com/20241014/9DIJJAMq/index.m3u8",
+  "第23集": "https://vod.guoluche.com/20241014/wvbX2wH3/index.m3u8",
+  "第24集": "https://vod.guoluche.com/20241014/HmhXKC0k/index.m3u8",
+  "第25集": "https://vod.guoluche.com/20241014/7IuKPSPn/index.m3u8",
+  "第26集": "https://vod.guoluche.com/20241014/SMfc57Bj/index.m3u8",
+  "第27集": "https://vod.guoluche.com/20241014/aybN8uKA/index.m3u8",
+  "第28集": "https://vod.guoluche.com/20241014/vxOFoi5u/index.m3u8",
+  "第29集": "https://vod.guoluche.com/20241014/a9v5fWcc/index.m3u8",
+  "第30集": "https://vod.guoluche.com/20241014/aA5o121o/index.m3u8",
+  "第31集": "https://vod.guoluche.com/20241014/Gk5ox4Bz/index.m3u8",
+  "第32集": "https://vod.guoluche.com/20241014/T0mn1cJ4/index.m3u8"
+};
+
+seriesInfo = {
+  title: "滚动吧，小齿轮",
+  status: "全31集",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 /  / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/滾動吧，小齒輪_460116.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3935" 
+
+};

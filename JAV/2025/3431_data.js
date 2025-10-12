@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://play.modujx11.com/20241231/RoztOvpc/index.m3u8",
+  "第2集": "https://play.modujx11.com/20241231/bS6htgQG/index.m3u8",
+  "第3集": "https://play.modujx11.com/20241231/BBEZzRum/index.m3u8",
+  "第4集": "https://play.modujx11.com/20241231/BbF7VoL4/index.m3u8",
+  "第5集": "https://play.modujx11.com/20241231/4m4sgUTB/index.m3u8",
+  "第6集": "https://play.modujx11.com/20241231/KWeMn4xl/index.m3u8",
+  "第7集": "https://play.modujx11.com/20241231/KkgAsPlp/index.m3u8",
+  "第8集": "https://play.modujx11.com/20241231/eTM2OSY0/index.m3u8",
+  "第9集": "https://play.modujx11.com/20241231/XNJq33iw/index.m3u8",
+  "第10集": "https://play.modujx11.com/20241231/E8lQhiJ6/index.m3u8",
+  "第11集": "https://play.modujx11.com/20241231/OK8XUqys/index.m3u8",
+  "第12集": "https://play.modujx11.com/20241231/iM2JLVIq/index.m3u8",
+  "第13集": "https://play.modujx11.com/20241231/XAtMq5sM/index.m3u8",
+  "第14集": "https://play.modujx11.com/20241231/TlRYDESk/index.m3u8",
+  "第15集": "https://play.modujx11.com/20241231/R9wstS6S/index.m3u8",
+  "第16集": "https://play.modujx11.com/20241231/9FV3gwl7/index.m3u8",
+  "第17集": "https://play.modujx11.com/20241231/HeGYrW2z/index.m3u8",
+  "第18集": "https://play.modujx11.com/20241231/7SxGNDIq/index.m3u8",
+  "第19集": "https://play.modujx11.com/20241231/BzHOqmWe/index.m3u8",
+  "第20集": "https://play.modujx11.com/20241231/Atzv4scN/index.m3u8",
+  "第21集": "https://play.modujx11.com/20241231/7rXck1ii/index.m3u8",
+  "第22集": "https://play.modujx11.com/20241231/mwVEeWOk/index.m3u8",
+  "第23集": "https://play.modujx11.com/20241231/8jaIG9Zu/index.m3u8",
+  "第24集": "https://play.modujx11.com/20241231/PlBT4BGp/index.m3u8",
+  "第25集": "https://play.modujx11.com/20241231/WVev3oWE/index.m3u8",
+  "第26集": "https://play.modujx11.com/20241231/NoEAmn1c/index.m3u8",
+  "第27集": "https://play.modujx11.com/20241231/WNMntXg7/index.m3u8",
+  "第28集": "https://play.modujx11.com/20241231/oNU3Q36S/index.m3u8",
+  "第29集": "https://play.modujx11.com/20241231/HGp2e8jn/index.m3u8",
+  "第30集": "https://play.modujx11.com/20241231/IzVwYydy/index.m3u8"
+};
+
+seriesInfo = {
+  title: "我曾在风中遇你",
+  status: "第21-30集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我曾在風中遇你_502356.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=3431" 
+
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/9c9a4543/index.m3u8",
+  "第2集": "https://play.modujx16.com/20241218/s5HyTZ4l/index.m3u8",
+  "第3集": "https://play.modujx16.com/20241218/UjrKv2uY/index.m3u8",
+  "第4集": "https://play.modujx16.com/20241218/5ayKg1ik/index.m3u8",
+  "第5集": "https://play.modujx16.com/20241218/iq4dEguh/index.m3u8",
+  "第6集": "https://play.modujx16.com/20241218/m783AoJC/index.m3u8",
+  "第7集": "https://play.modujx16.com/20241218/6beXBm0Q/index.m3u8",
+  "第8集": "https://play.modujx16.com/20241218/ODo6dgJs/index.m3u8",
+  "第9集": "https://play.modujx16.com/20241218/JwWSdwEa/index.m3u8",
+  "第10集": "https://play.modujx16.com/20241218/qAEHvuRD/index.m3u8",
+  "第11集": "https://play.modujx16.com/20241218/xh4bAXDn/index.m3u8",
+  "第12集": "https://play.modujx16.com/20241218/Xh4EMeeJ/index.m3u8",
+  "第13集": "https://play.modujx16.com/20241218/IEwEKjwt/index.m3u8",
+  "第14集": "https://play.modujx16.com/20241218/sUwgLMJx/index.m3u8",
+  "第15集": "https://play.modujx16.com/20241218/v3XSevUm/index.m3u8",
+  "第16集": "https://play.modujx16.com/20241218/owpS8ava/index.m3u8",
+  "第17集": "https://play.modujx16.com/20241218/VxNMAcBB/index.m3u8",
+  "第18集": "https://play.modujx16.com/20241218/POFhxLyQ/index.m3u8",
+  "第19集": "https://play.modujx16.com/20241218/F6GQ3hNa/index.m3u8",
+  "第20集": "https://play.modujx16.com/20241218/IUYdNPyw/index.m3u8",
+  "第21集": "https://play.modujx16.com/20241218/mi1pyykH/index.m3u8",
+  "第22集": "https://play.modujx16.com/20241218/3vz42Le3/index.m3u8",
+  "第23集": "https://play.modujx16.com/20241218/tZhaczFQ/index.m3u8",
+  "第24集": "https://play.modujx16.com/20241218/KbKqXZ8i/index.m3u8",
+  "第25集": "https://play.modujx16.com/20241218/4e3R9iEe/index.m3u8",
+  "第26集": "https://play.modujx16.com/20241218/4ZOkGKpB/index.m3u8",
+  "第27集": "https://play.modujx16.com/20241218/cWPWAYnO/index.m3u8",
+  "第28集": "https://play.modujx16.com/20241218/HNHCXuHK/index.m3u8",
+  "第29集": "https://play.modujx16.com/20241218/Y67upDUt/index.m3u8",
+  "第30集": "https://play.modujx16.com/20241218/nLXuSdVS/index.m3u8"
+};
+
+seriesInfo = {
+  title: "宽以待人",
+  status: "第30集完结",
+  category: "大陆电视剧",
+  director: "",
+  actors: "",
+  meta: "大陆 / 普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/寬以待人_502500.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5867" 
+
+};

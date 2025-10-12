@@ -1,0 +1,48 @@
+episodes = {
+  "第1集": "https://cdn.wlcdn88.com:777/5Y3VjyhX/index.m3u8",
+  "第2集": "https://cdn.wlcdn88.com:777/h2TSAJWX/index.m3u8",
+  "第3集": "https://cdn.wlcdn88.com:777/ZFzvVI7h/index.m3u8",
+  "第4集": "https://cdn.wlcdn88.com:777/7e2Nmq4y/index.m3u8",
+  "第5集": "https://cdn.wlcdn88.com:777/RXfC2ZMG/index.m3u8",
+  "第6集": "https://cdn.wlcdn88.com:777/xloFN3Gg/index.m3u8",
+  "第7集": "https://cdn.wlcdn88.com:777/MqLn9t5Z/index.m3u8",
+  "第8集": "https://cdn.wlcdn88.com:777/LIcGKN5W/index.m3u8",
+  "第9集": "https://cdn.wlcdn88.com:777/z0wtNKJn/index.m3u8",
+  "第10集": "https://cdn.wlcdn88.com:777/xZ5QIGvO/index.m3u8",
+  "第11集": "https://cdn.wlcdn88.com:777/eFXfym10/index.m3u8",
+  "第12集": "https://cdn.wlcdn88.com:777/Mda5Z912/index.m3u8",
+  "第13集": "https://cdn.wlcdn88.com:777/hpS6Ft9k/index.m3u8",
+  "第14集": "https://cdn.wlcdn88.com:777/3orxIU0G/index.m3u8",
+  "第15集": "https://cdn.wlcdn88.com:777/h86FgSQD/index.m3u8",
+  "第16集": "https://cdn.wlcdn88.com:777/WKQP6Giw/index.m3u8",
+  "第17集": "https://cdn.wlcdn88.com:777/6sanLck5/index.m3u8",
+  "第18集": "https://cdn.wlcdn88.com:777/nWcywFLR/index.m3u8",
+  "第19集": "https://cdn.wlcdn88.com:777/1XGP7tNo/index.m3u8",
+  "第20集": "https://cdn.wlcdn88.com:777/oWbLvJqE/index.m3u8",
+  "第21集": "https://cdn.wlcdn88.com:777/3i2mjYOs/index.m3u8",
+  "第22集": "https://cdn.wlcdn88.com:777/QqbeasU9/index.m3u8",
+  "第23集": "https://cdn.wlcdn88.com:777/aJDjkfX5/index.m3u8",
+  "第24集": "https://cdn.wlcdn88.com:777/XjztZdoT/index.m3u8",
+  "第25集": "https://cdn.wlcdn88.com:777/JCyMYm7B/index.m3u8",
+  "第26集": "https://cdn.wlcdn88.com:777/qpx4c6Sk/index.m3u8",
+  "第27集": "https://cdn.wlcdn88.com:777/JbcAG3hU/index.m3u8",
+  "第28集": "https://cdn.wlcdn88.com:777/vl0AcTfU/index.m3u8",
+  "第29集": "https://cdn.wlcdn88.com:777/A3EOqDVk/index.m3u8",
+  "第30集": "https://cdn.wlcdn88.com:777/ysr3kT4Y/index.m3u8",
+  "第31集": "https://cdn.wlcdn88.com:777/AdPYy24t/index.m3u8",
+  "第32集": "https://cdn.wlcdn88.com:777/KfStZA6a/index.m3u8",
+  "第33集": "https://cdn.wlcdn88.com:777/v3cRtp6S/index.m3u8"
+};
+
+seriesInfo = {
+  title: "我们是一家人",
+  status: "全33集",
+  category: "大陆电视剧",
+  director: "卫瀚韬",
+  actors: "",
+  meta: "大陆 / 普通话,国语 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/我們是一家人_118046.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5399" 
+
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "第1集": "https://vodcnd07.myqqdd.com/20250901/Ct0BBnFe/index.m3u8",
+  "第2集": "https://vodcnd07.myqqdd.com/20250901/xtOH9HZR/index.m3u8",
+  "第3集": "https://vodcnd07.myqqdd.com/20250901/6b8hYVB8/index.m3u8",
+  "第4集": "https://vodcnd07.myqqdd.com/20250901/YTy7ix10/index.m3u8",
+  "第5集": "https://vodcnd07.myqqdd.com/20250901/Tk1oEB0c/index.m3u8",
+  "第6集": "https://vodcnd07.myqqdd.com/20250901/4ss8xeOy/index.m3u8",
+  "第7集": "https://vodcnd07.myqqdd.com/20250901/7PIzDysw/index.m3u8",
+  "第8集": "https://vodcnd07.myqqdd.com/20250901/t1j30DYp/index.m3u8",
+  "第9集": "https://vodcnd07.myqqdd.com/20250901/vCDM0Ihp/index.m3u8",
+  "第10集": "https://vodcnd07.myqqdd.com/20250901/AUuGUJZW/index.m3u8",
+  "第11集": "https://vodcnd07.myqqdd.com/20250901/z8x6WJ7n/index.m3u8",
+  "第12集": "https://vodcnd07.myqqdd.com/20250901/bBYmF1G3/index.m3u8",
+  "第13集": "https://vodcnd07.myqqdd.com/20250901/Hz02VtFu/index.m3u8",
+  "第14集": "https://vodcnd07.myqqdd.com/20250901/i1SuJRAo/index.m3u8",
+  "第15集": "https://vodcnd07.myqqdd.com/20250901/1jaQaPQa/index.m3u8",
+  "第16集": "https://vodcnd07.myqqdd.com/20250901/iBDHHggK/index.m3u8",
+  "第17集": "https://vodcnd07.myqqdd.com/20250901/Y5jFkgZj/index.m3u8",
+  "第18集": "https://vodcnd07.myqqdd.com/20250901/Gi5ifKJO/index.m3u8",
+  "第19集": "https://vodcnd07.myqqdd.com/20250901/kE6toPzj/index.m3u8",
+  "第20集": "https://vodcnd07.myqqdd.com/20250901/4Jrqvs4n/index.m3u8",
+  "第21集": "https://vodcnd07.myqqdd.com/20250901/DUazXHP2/index.m3u8",
+  "第22集": "https://vodcnd07.myqqdd.com/20250901/7AoGeFry/index.m3u8",
+  "第24集": "https://vodcnd07.myqqdd.com/20250901/ljl885Uh/index.m3u8",
+  "第25集": "https://vodcnd07.myqqdd.com/20250901/UG0LZm05/index.m3u8",
+  "第26集": "https://vodcnd07.myqqdd.com/20250901/VlxwpqNL/index.m3u8",
+  "第27集": "https://vodcnd07.myqqdd.com/20250901/8Rj7GC5u/index.m3u8",
+  "第28集": "https://vodcnd07.myqqdd.com/20250901/XCaeZ9Y8/index.m3u8",
+  "第29集": "https://vodcnd07.myqqdd.com/20250901/Naf8jgsc/index.m3u8",
+  "第30集": "https://vodcnd07.myqqdd.com/20250901/AALUa9de/index.m3u8",
+  "第31集": "https://vodcnd07.myqqdd.com/20250901/LpQYRlP3/index.m3u8",
+  "第32集": "https://vodcnd07.myqqdd.com/20250901/sFXuVD2u/index.m3u8"
+};
+
+seriesInfo = {
+  title: "无声恋曲",
+  status: "第32集完结",
+  category: "大陆电视剧",
+  director: "钟少雄",
+  actors: "",
+  meta: "大陆 / 汉语普通话 / 2024",
+  description: ``,
+  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/無聲戀曲_497196.avif",
+  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=5927" 
+
+};
