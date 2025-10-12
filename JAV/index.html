@@ -50,32 +50,113 @@ body {
   overflow-y: auto;
   padding: 20px;
 }
+
+/* 网格布局 */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 20px;
 }
+
+/* 卡片 */
 .card {
+  position: relative;
   background-color: #1a1a1a;
   border-radius: 8px;
   overflow: hidden;
   cursor: pointer;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
 }
 .card:hover {
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(255,255,255,0.2);
 }
+
+/* 图片 */
 .card img {
   width: 100%;
-  height: 260px;
+  aspect-ratio: 16/9;
   object-fit: cover;
 }
-.card-title {
-  padding: 10px;
-  font-size: 15px;
-  text-align: center;
-  color: #eee;
+
+/* type 放在图片右下角 */
+.card-type {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  border: 1px solid #ff0000;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: #ff0000;
+}
+
+/* 图片下方信息区 */
+.card-info {
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* 标题和ID在同一行 */
+.card-info-top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+}
+.card-info-top .idcode {
+  color: #ffcc00;
+  font-weight: bold;
+  font-size: 12px;       /* ✅ 调小字号 */
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card-info-top .title {
+  font-size: 14px;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-grow: 1;
+}
+
+/* 图片下方演员名字 */
+.actor {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background-color: rgba(0,0,0,0.5);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+/* 底部评分+日期 */
+.card-info-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #ccc;
+}
+.star {
+  color: gold;
+  font-weight: bold;
+}
+.date {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.date::before {
+  content: "📅";
+  font-size: 13px;
 }
 </style>
 </head>
@@ -96,17 +177,19 @@ body {
 </div>
 
 <script>
-
-let dramas = [];
-
-async function loadDramas() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/2025_dl_lxj.json");
-  dramas = await res.json();
-  renderDramas(dramas);
-}
-
-loadDramas();
-
+let dramas = [
+  {
+    "id": 1,
+    "IDcode": "1PON-010816_001",
+    "title": "深喉大挑戰 ~ 並木靜香",
+    "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/20251007235529862862_67516_thumbnail.webp",
+    "actress": "美園和花",
+    "rating": "4",
+    "type": "无码",
+    "publish_date": "2016-01-08",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1"
+  }
+];
 
 function renderDramas(list) {
   const container = document.getElementById('dramaGrid');
@@ -115,9 +198,31 @@ function renderDramas(list) {
     const card = document.createElement('div');
     card.className = 'card';
     card.onclick = () => window.location.href = d.title_play_url;
+
+    const rating = parseFloat(d.rating) || 0;
+    let stars = '';
+    const fullStars = Math.floor(rating);
+    const halfStar = rating % 1 >= 0.5 ? 1 : 0;
+    for (let i = 0; i < fullStars; i++) stars += '★';
+    if (halfStar) stars += '☆';
+    for (let i = stars.length; i < 5; i++) stars += '✩';
+
     card.innerHTML = `
-      <img src="${d.cover_url}" alt="${d.title}">
-      <div class="card-title">${d.title}</div>
+      <div style="position: relative;">
+        <img src="${d.cover_url}" alt="${d.title}">
+        <div class="actor">${d.actress}</div>
+        <div class="card-type">${d.type}</div>
+      </div>
+      <div class="card-info">
+        <div class="card-info-top">
+          <span class="idcode">${d.IDcode}</span>
+          <span class="title">${d.title}</span>
+        </div>
+        <div class="card-info-bottom">
+          <div class="star">${stars} ${d.rating}</div>
+          <div class="date">${d.publish_date}</div>
+        </div>
+      </div>
     `;
     container.appendChild(card);
   });
@@ -127,10 +232,9 @@ function filterCategory(cat) {
   document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
   if (cat === '全部') renderDramas(dramas);
-  else renderDramas(dramas.filter(d => d.category === cat));
+  else renderDramas(dramas.filter(d => d.type === cat));
 }
 
-// 初始加载
 renderDramas(dramas);
 </script>
 
