@@ -5,6 +5,7 @@ episodes = {
 
 seriesInfo = {
   id: 1,
+  IDcode: "1PON-010816_001",
   title: "1PON-010816_001 深喉大挑戰 ~ 並木靜香",
   publish_date: "2016-01-08",
   type: "无码",
