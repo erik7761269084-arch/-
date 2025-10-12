@@ -29,14 +29,15 @@ body {
     width: 100%;
     background: #000;
     border-radius: 10px;
+    overflow: hidden;
 }
 #video {
-    position: absolute;
-    top: 0; left: 0;
     width: 100%;
+    height: auto;
     max-height: 900px;
     object-fit: contain;
     border-radius: 10px;
+    display: block; /* ✅ 普通流布局 */
 }
 #overlay {
     position: absolute;
@@ -82,20 +83,22 @@ body {
 }
 .right-panel .cover img {
     width: 150px;
-    height: 150px; /* ✅ 改为头像比例 */
+    height: 200px; /* ✅ 改为矩形头像比例 */
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 8px; /* ✅ 轻微圆角 */
 }
 
-/* ✅ 改动：底部信息栏不再固定在底部 */
+/* ✅ 视频下方信息栏 */
 .down-panel {
-  position: relative; /* ✅ 改这里，不再 fixed */
+  position: relative;
+  bottom: auto;
+  left: auto;
   width: 100%;
   background-color: #202020;
   padding: 12px;
   border-radius: 10px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.6);
-  margin-top: 20px; /* ✅ 在视频下方留一点距离 */
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  margin-top: 15px; /* ✅ 确保与视频有间距 */
 }
 
 .playlist {
@@ -144,26 +147,25 @@ body {
             <div id="overlay"></div>
         </div>
 
-        <div class="video-controls">
-            <button id="prev">上一集</button>
-            <button id="next">下一集</button>
-        </div>
-
-        <!-- ✅ 改动：剧情介绍现在直接显示在视频下方 -->
+        <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
             <h2 id="bottom_title">剧名 - 集数</h2>
             <p><strong>番号:</strong> <span id="idcode"></span></p>
             <p><strong>出品厂商:</strong> <span id="company"></span></p>
             <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
-            <p><strong>剧情介绍:</strong></p>
-            <p id="description" style="white-space: pre-wrap; line-height: 1.6; color:#ccc;"></p>
+            <p><strong>剧情介绍:</strong> <span id="description"></span></p>
+        </div>
+
+        <div class="video-controls">
+            <button id="prev">上一集</button>
+            <button id="next">下一集</button>
         </div>
     </div>
 
     <div class="right-panel">
         <div class="cover">
             <p><strong>出演女优:</strong> <span id="actors"></span></p>
-            <img id="coverImg" src="" alt="女优头像图">
+            <img id="coverImg" src="" alt="女优头像">
         </div>
         <div class="playlist" id="playlist"></div>
         <div class="details">
@@ -188,7 +190,6 @@ const actorsEl = document.getElementById('actors');
 const metaEl = document.getElementById('meta');
 const descriptionEl = document.getElementById('description');
 const publishEl = document.getElementById('publish_date');
-
 let currentIndex = 0;
 
 function getSeriesName() {
@@ -221,8 +222,6 @@ function initPlayer() {
   descriptionEl.textContent = seriesInfo.description || "";
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
-
-  // ✅ 使用 img_url 而不是 cover_url
   if (seriesInfo.img_url) coverImg.src = seriesInfo.img_url;
 
   playlist.innerHTML = "";
