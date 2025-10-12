@@ -82,20 +82,20 @@ body {
 }
 .right-panel .cover img {
     width: 150px;
+    height: 150px; /* ✅ 改为头像比例 */
+    object-fit: cover;
     border-radius: 8px;
 }
 
-/* ✅ 底部信息栏 */
+/* ✅ 改动：底部信息栏不再固定在底部 */
 .down-panel {
-  position: fixed;
-  bottom: 0;
-  left: 0;
+  position: relative; /* ✅ 改这里，不再 fixed */
   width: 100%;
   background-color: #202020;
   padding: 12px;
-  border-radius: 10px 10px 0 0;
-  box-shadow: 0 -3px 15px rgba(0,0,0,0.6);
-  z-index: 99;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.6);
+  margin-top: 20px; /* ✅ 在视频下方留一点距离 */
 }
 
 .playlist {
@@ -128,34 +128,7 @@ body {
     color: #fff;
 }
 .details p { margin: 6px 0; color: #ddd; }
-#descriptionModal {
-    display: none;
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0,0,0,0.6);
-    align-items: flex-start;
-    justify-content: flex-end;
-    padding: 20px;
-}
-#descriptionModal .modal-content {
-    background: #2b2b2b;
-    color: #f2f2f2;
-    width: 300px;
-    height: 100%;
-    overflow-y: auto;
-    padding: 20px;
-    border-radius: 8px;
-}
-#descriptionModal button {
-    margin-top: 10px;
-    padding: 6px 12px;
-    background: #444;
-    color: #fff;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-}
+
 @media (max-width: 900px) {
     .container { flex-direction: column; }
     .right-panel { width: 100%; }
@@ -175,12 +148,22 @@ body {
             <button id="prev">上一集</button>
             <button id="next">下一集</button>
         </div>
+
+        <!-- ✅ 改动：剧情介绍现在直接显示在视频下方 -->
+        <div class="down-panel">
+            <h2 id="bottom_title">剧名 - 集数</h2>
+            <p><strong>番号:</strong> <span id="idcode"></span></p>
+            <p><strong>出品厂商:</strong> <span id="company"></span></p>
+            <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
+            <p><strong>剧情介绍:</strong></p>
+            <p id="description" style="white-space: pre-wrap; line-height: 1.6; color:#ccc;"></p>
+        </div>
     </div>
 
     <div class="right-panel">
         <div class="cover">
             <p><strong>出演女优:</strong> <span id="actors"></span></p>
-            <img id="coverImg" src="" alt="女优封面图">
+            <img id="coverImg" src="" alt="女优头像图">
         </div>
         <div class="playlist" id="playlist"></div>
         <div class="details">
@@ -188,23 +171,6 @@ body {
             <p><strong>类别:</strong> <span id="category"></span></p>
             <p><strong>国家/语言/年代:</strong> <span id="meta"></span></p>
         </div>
-    </div>
-</div>
-
-<!-- ✅ 底部栏 -->
-<div class="down-panel">
-    <h2 id="bottom_title">剧名 - 集数</h2>
-    <p><strong>番号:</strong> <span id="idcode"></span></p>
-    <p><strong>出品厂商:</strong> <span id="company"></span></p>
-    <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
-    <p><strong>剧情介绍:</strong> <a href="#" id="showDescription">点击查看</a></p>
-</div>
-
-<!-- ✅ 简介弹窗 -->
-<div id="descriptionModal">
-    <div class="modal-content">
-        <p id="description"></p>
-        <button onclick="document.getElementById('descriptionModal').style.display='none'">关闭</button>
     </div>
 </div>
 
@@ -222,7 +188,6 @@ const actorsEl = document.getElementById('actors');
 const metaEl = document.getElementById('meta');
 const descriptionEl = document.getElementById('description');
 const publishEl = document.getElementById('publish_date');
-const showDescription = document.getElementById('showDescription');
 
 let currentIndex = 0;
 
@@ -256,12 +221,9 @@ function initPlayer() {
   descriptionEl.textContent = seriesInfo.description || "";
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
-  if (seriesInfo.cover_url) coverImg.src = seriesInfo.cover_url;
 
-  showDescription.onclick = function() {
-    document.getElementById('descriptionModal').style.display = 'flex';
-    return false;
-  };
+  // ✅ 使用 img_url 而不是 cover_url
+  if (seriesInfo.img_url) coverImg.src = seriesInfo.img_url;
 
   playlist.innerHTML = "";
   Object.entries(episodes).forEach(([ep, url], index) => {
