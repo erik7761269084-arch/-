@@ -4,14 +4,19 @@ episodes = {
 };
 
 seriesInfo = {
-  title: "定风波2025",
-  status: "已完结",
-  category: "大陆电视剧",
-  director: "赵锦焘",
-  actors: "",
+  id: 1,
+  title: "1PON-010816_001 深喉大挑戰 ~ 並木靜香",
+  publish_date: "2016-01-08",
+  type: "无码",
+  company:"一本道",
+  genres: ["苗條", "後入", "企畫", "69", "無做愛場面", "超爆乳", "深喉", "乳交", "美乳", "形象俱樂部", "胸控・戀乳癖", "女上位", "口交", "騎乗位", "主觀視角", "舔陰", "高妹", "巨乳", "手指插入", "美人", "真實拍攝", "女優"]
   meta: "大陆 / 国语 / 2025",
-  description: `大婚当日，风波湖上，大齐第一神探萧北冥被嫁祸为恶魔夜煞，背负弑师叛国的罪名落湖逃亡。三年后萧北复重归京城，取得师妹钟雪漫的信任，在黑暗中与一群机智果敢的伙伴，以命为饵，向死而行，联手破获数个奇案，揭开夜煞真相，平定大齐风波，守护天下苍生。`,
-  cover_url: "https://raw.githubusercontent.com/erik7761269084-arch/-/main/video/cover_photo/定風波2025_528896.avif",
-  title_play_url: "https://erik7761269084-arch.github.io/-/video/player_template.html?series=1" 
+  description: `1PON-010816_001为一本道出品,2016年1月8日发行的無碼成人影片由並木静香出演 各位胸控大佬，久等啦！拥有动漫般H杯神乳和蜂腰的极品尤物北山かんな化身顶级风俗妹，挑战潜望镜深喉玩法！小嘴被塞得满满当当，喉咙深处都被顶到，超拼的她真的太给力！不仅有深喉绝技，还有美乳夹击和69全方位服务，简直爽到爆！想看更多かんな妹子的风俗玩法，赶紧点开正片一探究竟吧！`,
+  cover_url: "https://picture.yoshiclub.xyz/compressed/20251007/20251007235529862862_67516_thumbnail.webp",
+  background_img: "https://picture.yoshiclub.xyz/compressed/20251007/20251007235529862862_67516_s.webp",
+  title_play_url: "https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+  actress: "美園和花",
+  img_url: "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+  actress_url: "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1",
 
 };
