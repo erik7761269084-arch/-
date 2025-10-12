@@ -5,7 +5,7 @@ window.actressData = {
   "age": 27,
   "birthday_date": "1998-09-24",
   "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/長谷川古宵.jpg",
-  "background_img": null,
+  "background_img": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
   "zodiac": "天秤座",
   "height": "156cm",
   "measurements": "胸 84 腰 58 臀 83",
