@@ -226,6 +226,9 @@ const publishEl = document.getElementById('publish_date');
 const actressGrid = document.getElementById('actressGrid');
 let currentIndex = 0;
 
+// ✅ 修复 hls 未定义错误
+let hls = null;
+
 function getSeriesName() {
   const params = new URLSearchParams(window.location.search);
   return params.get('series') || 'default';
@@ -274,19 +277,19 @@ function initPlayer() {
     });
   }
 
-  // === 播放列表：仅改这里（按线路名传参，保证中文键也能正确取到） ===
+  // === 播放列表 ===
   playlist.innerHTML = "";
-  Object.entries(episodes).forEach(([epName, epUrl], index) => {
+  Object.entries(episodes).forEach(([epName, epUrl]) => {
     const btn = document.createElement('button');
     btn.textContent = epName;
-    btn.onclick = () => loadEpisode(epName, epUrl, btn); // 改成传名字和 url
+    btn.onclick = () => loadEpisode(epName, epUrl, btn);
     playlist.appendChild(btn);
   });
 
   if (playlist.firstChild) {
     playlist.firstChild.classList.add('active');
     const firstKey = Object.keys(episodes)[0];
-    loadEpisode(firstKey, episodes[firstKey], playlist.firstChild); // 用第一个 key 作为默认播放
+    loadEpisode(firstKey, episodes[firstKey], playlist.firstChild);
   }
 }
 
@@ -294,7 +297,7 @@ function initPlayer() {
 function loadEpisode(epName, url, btn) {
   if (!url) return;
 
-  // 清理旧实例，防止冲突
+  // ✅ 清理旧 HLS 实例
   if (hls) {
     hls.destroy();
     hls = null;
@@ -315,13 +318,13 @@ function loadEpisode(epName, url, btn) {
 
     hls.on(Hls.Events.MANIFEST_PARSED, () => {
       video.play().catch(() => {
-        console.warn("自动播放被阻止，用户需手动点击播放");
+        console.warn("自动播放被阻止，请手动播放");
       });
     });
 
     hls.on(Hls.Events.ERROR, (event, data) => {
       console.error("HLS 错误：", data);
-      if (data.fatal) alert("播放出错，请尝试刷新或更换线路。");
+      if (data.fatal) alert("播放出错，请刷新或更换线路");
     });
 
   } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
@@ -331,18 +334,13 @@ function loadEpisode(epName, url, btn) {
     alert("您的浏览器不支持 HLS 播放。");
   }
 
-  // 更新播放按钮状态
+  // ✅ 更新按钮状态
   document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
 }
 
-// ✅ 播放状态浮层
-video.addEventListener('pause', () => {
-  overlay.style.opacity = 1;
-});
-video.addEventListener('play', () => {
-  overlay.style.opacity = 0;
-});
+video.addEventListener('pause', () => overlay.style.opacity = 1);
+video.addEventListener('play', () => overlay.style.opacity = 0);
 
 loadSeriesData(getSeriesName());
 </script>
