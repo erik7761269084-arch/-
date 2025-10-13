@@ -231,21 +231,21 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 从 JSON 文件加载数据（替换原 script.src）
-async function loadSeriesData(seriesName) {
-  try {
-    const response = await fetch(`2025/${seriesName}_data.json`);
-    if (!response.ok) throw new Error("无法加载数据文件");
-    const data = await response.json();
-
-    // 从 JSON 中取出 episodes 和 seriesInfo
-    window.episodes = data.episodes;
-    window.seriesInfo = data.seriesInfo;
-
-    initPlayer();
-  } catch (err) {
-    alert("加载失败: " + err.message);
-  }
+// ✅ 改成从 JSON 加载（原先是加载 .js）
+function loadSeriesData(seriesName) {
+  fetch(`2025/${seriesName}_data.json`)
+    .then(response => {
+      if (!response.ok) throw new Error("无法加载数据文件");
+      return response.json();
+    })
+    .then(data => {
+      window.episodes = data.episodes;
+      window.seriesInfo = data.seriesInfo;
+      initPlayer();
+    })
+    .catch(err => {
+      alert("剧集数据加载失败: " + err.message);
+    });
 }
 
 function initPlayer() {

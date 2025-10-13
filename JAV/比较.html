@@ -1,250 +1,14 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>播放器 - 线上看</title>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #1f1f1f;  /* 柔和灰黑 */
-    color: #eaeaea;
-}
-
-/* 整体容器 */
-.container {
-    display: flex;
-    max-width: 1800px;
-    margin: 20px auto;
-    gap: 20px;
-}
-
-/* 左侧视频区域 */
-.left-panel {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-}
-
-/* 视频比例 */
-.video-wrapper {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%;
-    background: #000;
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-#video {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 980px;
-    object-fit: contain;
-}
-
-#overlay {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    color: white;
-    font-size: 2em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-/* 视频下方按钮 */
-.video-controls {
-    margin-top: 10px;
-    display: flex;
-    gap: 10px;
-}
-.video-controls button {
-    padding: 5px 15px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-/* 右侧面板 */
-.right-panel {
-    width: 300px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    background-color: #242424;
-    border-radius: 8px;
-    padding: 10px;
-}
-
-/* 封面 */
-.right-panel .cover {
-    text-align: center;
-}
-.right-panel .cover img {
-    width: 150px;
-    border-radius: 6px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-}
-
-/* 剧集按钮排列（重点修改部分） */
-.playlist {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: flex-start;
-}
-
-.playlist button {
-    width: 60px;          /* 固定宽度 */
-    height: 40px;         /* 固定高度 */
-    border-radius: 6px;
-    background-color: #333;
-    color: #eaeaea;
-    border: 1px solid #444;
-    cursor: pointer;
-    font-size: 14px;
-    transition: all 0.2s;
-}
-
-.playlist button:hover {
-    background-color: #555;
-}
-
-.playlist button.active {
-    background-color: #007bff;
-    color: white;
-    border-color: #007bff;
-}
-
-/* 详情卡片 */
-.details {
-    background: #2a2a2a;
-    color: #f0f0f0;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    max-height: 400px;
-    overflow-y: auto;
-}
-.details h1 {
-    font-size: 1.3em;
-    margin: 0 0 10px;
-}
-.details p {
-    margin: 5px 0;
-}
-
-/* 弹出右侧简介 */
-#descriptionModal {
-    display: none;
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0,0,0,0.6);
-    align-items: flex-start;
-    justify-content: flex-end;
-    padding: 20px;
-}
-#descriptionModal .modal-content {
-    background: #fff;
-    width: 300px;
-    height: 100%;
-    overflow-y: auto;
-    padding: 20px;
-    border-radius: 8px;
-}
-#descriptionModal button {
-    margin-top: 10px;
-    padding: 5px 10px;
-}
-
-/* 响应式 */
-@media (max-width: 900px) {
-    .container {
-        flex-direction: column;
-    }
-    .right-panel {
-        width: 100%;
-    }
-    #descriptionModal {
-        align-items: center;
-        justify-content: center;
-    }
-    #descriptionModal .modal-content {
-        width: 90%;
-        height: auto;
-        max-height: 70%;
-    }
-}
-</style>
-</head>
-<body>
-
-<div class="container">
-    <div class="left-panel">
-        <div class="video-wrapper">
-            <video id="video" controls playsinline webkit-playsinline x5-playsinline></video>
-            <div id="overlay"></div>
-        </div>
-        <div class="video-controls">
-            <button id="prev">上一集</button>
-            <button id="next">下一集</button>
-        </div>
-    </div>
-
-    <div class="right-panel">
-        <div class="cover">
-            <img id="coverImg" src="" alt="封面">
-        </div>
-        <div class="playlist" id="playlist"></div>
-        <div class="details">
-            <h1 id="title">剧名 - 集数</h1>
-            <p><strong>状态:</strong> <span id="status"></span></p>
-            <p><strong>类别:</strong> <span id="category"></span></p>
-            <p><strong>导演:</strong> <span id="director"></span></p>
-            <p><strong>主演:</strong> <span id="actors"></span></p>
-            <p><strong>国家/语言/年代:</strong> <span id="meta"></span></p>
-            <p><strong>剧情介绍:</strong> <a href="#" id="showDescription">点击查看</a></p>
-        </div>
-    </div>
-</div>
-
-<!-- 弹出右侧简介 -->
-<div id="descriptionModal">
-    <div class="modal-content">
-        <p id="description"></p>
-        <button onclick="document.getElementById('descriptionModal').style.display='none'">关闭</button>
-    </div>
-</div>
-
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
 const overlay = document.getElementById('overlay');
-const coverImg = document.getElementById('coverImg');
-const titleEl = document.getElementById('title');
-const statusEl = document.getElementById('status');
+const bottomTitle = document.getElementById('bottom_title');
 const categoryEl = document.getElementById('category');
-const directorEl = document.getElementById('director');
-const actorsEl = document.getElementById('actors');
-const metaEl = document.getElementById('meta');
+const companyEl = document.getElementById('company');
+const idcodeEl = document.getElementById('idcode');
 const descriptionEl = document.getElementById('description');
-const showDescription = document.getElementById('showDescription');
-
-let episodes = {};
-let seriesInfo = {};
+const publishEl = document.getElementById('publish_date');
+const actressGrid = document.getElementById('actressGrid');
 let currentIndex = 0;
 
 function getSeriesName() {
@@ -252,34 +16,49 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
+// ✅ 改成从 JSON 加载（原先是加载 .js）
 function loadSeriesData(seriesName) {
-  const script = document.createElement('script');
-  script.src = "2025/" + seriesName + "_data.js";
-  script.onload = () => initPlayer();
-  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
-  document.body.appendChild(script);
+  fetch(`2025/${seriesName}_data.json`)
+    .then(response => {
+      if (!response.ok) throw new Error("无法加载数据文件");
+      return response.json();
+    })
+    .then(data => {
+      window.episodes = data.episodes;
+      window.seriesInfo = data.seriesInfo;
+      initPlayer();
+    })
+    .catch(err => {
+      alert("剧集数据加载失败: " + err.message);
+    });
 }
 
 function initPlayer() {
-  if (!episodes || Object.keys(episodes).length === 0) {
-    alert("当前剧集没有数据");
-    return;
-  }
-  titleEl.textContent = seriesInfo.title || "剧名";
-  statusEl.textContent = seriesInfo.status || "";
-  categoryEl.textContent = seriesInfo.category || "";
-  directorEl.textContent = seriesInfo.director || "";
-  actorsEl.textContent = seriesInfo.actors || "";
-  metaEl.textContent = seriesInfo.meta || "";
+  bottomTitle.textContent = seriesInfo.title || "剧名";
+  idcodeEl.textContent = seriesInfo.IDcode || "";
+  companyEl.textContent = seriesInfo.company || "";
   descriptionEl.textContent = seriesInfo.description || "";
+  publishEl.textContent = seriesInfo.publish_date || "";
+  categoryEl.textContent = seriesInfo.type || "";
 
-  if(seriesInfo.cover_url) coverImg.src = seriesInfo.cover_url;
+  // ✅ 生成女优卡片
+  actressGrid.innerHTML = "";
+  if (Array.isArray(seriesInfo.actresses)) {
+    seriesInfo.actresses.forEach(actor => {
+      const card = document.createElement('div');
+      card.className = "actress-card";
+      card.innerHTML = `
+        <a href="${actor.profile_url}" target="_blank">
+          <img src="${actor.img_url}" alt="${actor.name}">
+          <div class="name">${actor.name}</div>
+        </a>
+      `;
+      actressGrid.appendChild(card);
+    });
+  }
 
-  showDescription.onclick = function() {
-      document.getElementById('descriptionModal').style.display = 'flex';
-      return false;
-  };
-
+  // ✅ 生成播放列表
+  playlist.innerHTML = "";
   Object.entries(episodes).forEach(([ep, url], index) => {
     const btn = document.createElement('button');
     btn.textContent = ep;
@@ -287,10 +66,9 @@ function initPlayer() {
     playlist.appendChild(btn);
   });
 
-  const firstBtn = playlist.querySelector('button');
-  if(firstBtn){
-      firstBtn.classList.add('active');
-      loadEpisode(0, firstBtn);
+  if (playlist.firstChild) {
+    playlist.firstChild.classList.add('active');
+    loadEpisode(0, playlist.firstChild);
   }
 }
 
@@ -309,40 +87,13 @@ function loadEpisode(index, btn) {
   }
 
   document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
+  btn.classList.add('active');
   currentIndex = index;
-  updateOverlay();
-}
-
-document.getElementById('prev').onclick = () => {
-  if (currentIndex > 0) loadEpisode(currentIndex - 1, playlist.children[currentIndex - 1]);
-};
-document.getElementById('next').onclick = () => {
-  if (currentIndex < Object.keys(episodes).length - 1) loadEpisode(currentIndex + 1, playlist.children[currentIndex + 1]);
-};
-
-function updateOverlay() {
-  const epName = Object.keys(episodes)[currentIndex];
-  overlay.textContent = (seriesInfo.title || "剧名") + " - " + epName;
+  overlay.textContent = `${seriesInfo.title} - 第${index+1}集`;
 }
 
 video.addEventListener('pause', () => overlay.style.opacity = 1);
 video.addEventListener('play', () => overlay.style.opacity = 0);
 
-let touchStartX = 0;
-let touchEndX = 0;
-const swipeThreshold = 50;
-video.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; });
-video.addEventListener('touchend', e => {
-  touchEndX = e.changedTouches[0].screenX;
-  const diff = touchEndX - touchStartX;
-  if(Math.abs(diff) > swipeThreshold){
-    if(diff > 0) document.getElementById('prev').click();
-    else document.getElementById('next').click();
-  }
-});
-
 loadSeriesData(getSeriesName());
 </script>
-</body>
-</html>
