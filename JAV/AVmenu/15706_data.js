@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cc5eab8b-4417-4dd8-bc3b-d8443b39b8a4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15706,
+  "IDcode": "CLUB-834",
+  "title": "黑絲襪衆多人妻多次高潮，甚至用極端祕密選項讓你生精的故事3",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "打手槍",
+    "多P",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "放尿",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401032326704704.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240401/20240401032326704704.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15706",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15706&name=森日向子"
+    },
+    {
+      "name": "末広純",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/52b7f8cf-362e-4460-b9d8-a55df7001082.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15706&name=末広純"
+    },
+    {
+      "name": "上田紗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/6f071616-6cec-4a49-a27a-e9d5078d06ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15706&name=上田紗奈"
+    }
+  ]
+};

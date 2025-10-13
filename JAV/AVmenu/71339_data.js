@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/05/5af248de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71339,
+  "IDcode": "JUY-661",
+  "title": "夫の身代りになった人妻 イグイグ奴隷生活 佐々木あき",
+  "publish_date": "2018-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "按摩棒",
+    "乳房",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71339",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71339&name=佐佐木明希"
+    }
+  ]
+};

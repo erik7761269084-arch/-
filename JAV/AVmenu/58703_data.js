@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58703,
+  "IDcode": "HEYZO2161",
+  "title": "宮園ももこ巨乳なサンタ娘にメリクリ口内射精！～ついでに中出しもしちゃいました！！～",
+  "publish_date": "2019-12-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "69",
+    "口爆/吞精",
+    "巨乳爆乳",
+    "美乳",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58703",
+  "actresses": []
+};

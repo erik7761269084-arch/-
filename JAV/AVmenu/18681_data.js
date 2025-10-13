@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/678190c2-2533-4a52-8a79-86c9ce0df72b/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240410/eJVNdahh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18681,
+  "IDcode": "GDRD-007",
+  "title": "紅龍 大月響 波多野結衣",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "乳交",
+    "中出",
+    "風俗娘",
+    "多P",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230917/20230917013559200200.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230917/20230917013559200200.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18681",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18681&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18681&name=大槻响"
+    }
+  ]
+};

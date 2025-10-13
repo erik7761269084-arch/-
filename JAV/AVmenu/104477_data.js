@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/29/18cf9bb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104477,
+  "IDcode": "GVH-528",
+  "title": "母子姦 橘メアリー",
+  "publish_date": "2023-04-04",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "中出",
+    "乱伦",
+    "母亲",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104477",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104477&name=橘瑪麗"
+    }
+  ]
+};

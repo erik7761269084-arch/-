@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221115/95E56BE8B07BC447/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38583,
+  "IDcode": "8A89299575552AB74F642A244E01B0B-6",
+  "title": "变态日本人男子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38583",
+  "actresses": []
+};

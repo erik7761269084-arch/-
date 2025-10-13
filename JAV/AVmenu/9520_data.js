@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/30facaf5-454a-4700-8b60-4a58a09941b6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/f1293477/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9520,
+  "IDcode": "FSDSS-932",
+  "title": "被住在隔壁垃圾房的惡臭絕倫的變態男人一次又一次地中出 ~ 八蜜凜",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "痴漢",
+    "69",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "老頭子",
+    "深喉",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241229/20241229233602418418.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241229/20241229233602418418.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9520",
+  "actresses": [
+    {
+      "name": "八蜜凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/262e7dfd-cd6f-4642-aca7-8c8ceb5429ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9520&name=八蜜凛"
+    }
+  ]
+};

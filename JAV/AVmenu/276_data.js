@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b598cdad-dcf8-4b66-af6a-d80a4e5925ac/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 276,
+  "IDcode": "HEYZO-0294",
+  "title": "首次泡泡浴巧遇前女友！重逢的火花 ~ 春咲ゆりあ",
+  "publish_date": "2013-04-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "濕身",
+    "泡姬",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "前女友",
+    "騎乗位",
+    "風俗娘",
+    "拜金女",
+    "抹油",
+    "辣妹/GAL系"
+  ],
+  "description": "HEYZO-0294为HEYZO出品,2013年4月17日发行的無碼成人影片由春咲ゆりあ出演\n男人嘛，對於前女友總是放不下。隨手翻了翻泡泡浴店的妹子名單，幹，竟然看到三年前分手的她——春咲ゆりあ！一開始還不敢相信，見到本人才確定真的是她！想聊聊往事，她卻冷淡地說：我早就不是你認識的那個ゆりあ了，直接進入服務模式。但隨著時間流逝，過去的甜蜜回憶一點點浮現。她那頂級的舌技舔得我全身發麻，硬到不行，抹滿潤滑液後猛衝她的滑嫩小穴，肉體撞擊的啪啪聲在浴室裡迴盪。三年後的這場激烈交戰，彷彿把我們拉回當初的熱戀時光，真的爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506063127576576_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250506/20250506063127576576_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=276",
+  "actresses": [
+    {
+      "name": "春咲ゆりあ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250506/c7566650-4e9c-4ce1-84f2-cae5e74b3cb2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=276&name=春咲ゆりあ"
+    }
+  ]
+};

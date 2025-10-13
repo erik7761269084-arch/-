@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/BB7E2F45E87A580B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36494,
+  "IDcode": "557A4973E364DAA3BD7A3AA62DEE80A-9",
+  "title": "忙碌了一整天后~巨乳清洁工靠在办公室的座椅上小憩~被加班的领导趁机非礼",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36494",
+  "actresses": []
+};

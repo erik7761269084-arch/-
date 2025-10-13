@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c20922ac-2c13-4c1b-acd4-03918ead7daf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5413,
+  "IDcode": "JUMS-126",
+  "title": "誰也擋不住的情慾禁區 四週年精選8小時 直擊你下體的18場激戰 ~ 愛弓涼 沖宮那美",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "臀控",
+    "乳交",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "緊縛",
+    "美人妻",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "阪道系",
+    "熟女",
+    "極品美人",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "JUMS-126为MADONNA出品,2025年6月6日发行的有碼成人影片由愛弓涼，沖宮那美出演\n專屬女神愛弓涼四週年紀念精選集強勢登場，直射你下體的情慾之箭！從首次緊縛作品到豪華共演，再到超人氣系列，9部大作一次打包！她那如弓般的性感曲線，勾引你的心與身，18場火辣戲碼讓人慾火焚身！8頭身奇蹟身材，G杯美魔女的情慾領域，整整480分鐘讓你爽翻天！Madonna永遠陪你一起high，一起浪！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/202506111000275858_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250611/202506111000275858_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5413",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5413&name=愛弓涼"
+    },
+    {
+      "name": "沖宮那美",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/0fcd9a6c-0c4b-4fa3-86bd-5ac4366ae3e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5413&name=沖宮那美"
+    }
+  ]
+};

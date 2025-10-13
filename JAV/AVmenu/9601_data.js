@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/079b59bc-cfbf-46bc-9828-da4f91f8f072/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9601,
+  "IDcode": "GHAT-156",
+  "title": "接到一個喝多了的家庭主婦並發生性關系",
+  "publish_date": "2024-12-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "苗條",
+    "酒醉",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "酒後亂性",
+    "流汗",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "肉絲",
+    "性感",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "獵豔",
+    "熟女",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241225/fb232691-a816-431e-971c-af8c45d62f42.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241225/fb232691-a816-431e-971c-af8c45d62f42.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9601",
+  "actresses": [
+    {
+      "name": "浅海なな",
+      "img_url": "https://picture.yoshiclub.xyz/20240826/5e5dcbef-6aa5-4ba2-9941-77978a11db91.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9601&name=浅海なな"
+    }
+  ]
+};

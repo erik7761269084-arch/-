@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/19/bce11100/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96837,
+  "IDcode": "RBD-850",
+  "title": "奴隷色の女性記者2 希島あいり",
+  "publish_date": "2017-07-25",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "凌辱",
+    "调教",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/07/19/80539d4fe7509180d859b958e9fc9912.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96837",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96837&name=希島愛理"
+    }
+  ]
+};

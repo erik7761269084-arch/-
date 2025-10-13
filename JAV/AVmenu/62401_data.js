@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/1ea7a806/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62401,
+  "IDcode": "RURB-012",
+  "title": "オホ声 超下品。彼氏あり変態裏垢女子がリアルオジサンに雑魚ま×こ壊れるまで突きまくられて生チ〇ポで楽しまれちゃう理性崩壊オホオホ",
+  "publish_date": "2025-06-29",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62401",
+  "actresses": []
+};

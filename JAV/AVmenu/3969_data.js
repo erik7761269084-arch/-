@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fdeeb7ef-ff49-48eb-8bf1-d0a05c2fb441/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/12b703ab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3969,
+  "IDcode": "ADN-710",
+  "title": "朋友媽媽無自覺的乳首誘惑，讓人把持不住 ~ 流川はる香",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "朋友母親",
+    "美腳",
+    "自慰",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "手指插入",
+    "鬃毛",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "母親",
+    "熟女",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "ADN-710为ATTACKERS出品,2025年8月1日发行的有碼成人影片由流川はる香出演\n夏美是哥们儿的妈妈，第一次见到她是在朋友家帮忙补习的时候。这位阿姨美得冒泡，身材火辣，尤其是那胸前总是毫无防备，弯腰时若隐若现的浮胸和乳头，简直让人血脉喷张！我盯着那晃眼的深沟和尖尖，硬是憋得满头大汗，根本没法集中精神。日子一天天过去，我对夏美的欲望越来越强烈，终于有一天，理智崩盘，我再也忍不住，直接扑了上去……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093750508508_11137_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093750508508_11137_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3969",
+  "actresses": [
+    {
+      "name": "流川はる香",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d223b1bc-2004-4cf4-8e14-afab70fcfc83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3969&name=流川はる香"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3969&name=トイボーイ相沢"
+    }
+  ]
+};

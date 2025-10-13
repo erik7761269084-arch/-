@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/025175ca-34bc-4756-bc7d-412a7b938a8f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10834,
+  "IDcode": "FJIN-046",
+  "title": "性欲目隱村 爆尻豊満誘惑的7日間肉感身精管理 ~ 藤沢麗央",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "鄉下",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "新人面試",
+    "重口味",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "慾求不滿",
+    "巨乳",
+    "女上司",
+    "豐滿"
+  ],
+  "description": "FJIN-046为妄想族出品,2024年11月5日发行的有碼成人影片由藤沢麗央出演\n高中生玉木千明一直過著無聊的生活，直到有一天他被一位身兼多職的人招募。當我欣賞著招募我的大屁股女士的屁股時，我決定加入。 Tamaki 加入的 Multi 是一個名為「蒙眼村」的組織，該組織進行臨床試驗，人們蒙住眼睛一周。在「禁止有任何慾望」的規則下，青春期的環有一個星期甚至無法正常自慰。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/20241104110540571571.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/20241104110540571571.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10834",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10834&name=藤沢麗央"
+    }
+  ]
+};

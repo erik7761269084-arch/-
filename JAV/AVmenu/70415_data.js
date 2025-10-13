@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/JlnxAgPD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70415,
+  "IDcode": "SDDE-602",
+  "title": "男だらけの家族に女性は私1人 毎日忙しく家事をしながら10人兄弟と連続セックス朝生活 新田みれい",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "乱伦",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/ef78e60713748103f91eb6ff5fb77dbe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70415",
+  "actresses": [
+    {
+      "name": "新田みれい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70415&name=新田みれい"
+    }
+  ]
+};

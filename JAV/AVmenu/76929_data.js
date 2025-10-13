@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/06/3cb93a0d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76929,
+  "IDcode": "EMS-006",
+  "title": "都合のいいタダマン記録 みつき（20）",
+  "publish_date": "2023-11-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76929",
+  "actresses": []
+};

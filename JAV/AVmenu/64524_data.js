@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220701/0B118BF635A42B8C/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64524,
+  "IDcode": "100CMICUP",
+  "title": "- 巨乳现役女教师AVデビュー！！ 宝田もなみ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64524",
+  "actresses": []
+};

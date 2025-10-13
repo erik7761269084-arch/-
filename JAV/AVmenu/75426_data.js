@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/6OXxezmH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75426,
+  "IDcode": "MADM-128",
+  "title": "隣の美人奥さんはデリヘルみたいに呼べて射精看護をしてくれるエロ人妻ナース 2 美咲かんな",
+  "publish_date": "2020-01-24",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "潮吹",
+    "护士",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/6fbc1d44e7528c493d3a65fe92c6b1bd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75426",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75426&name=美咲佳奈"
+    }
+  ]
+};

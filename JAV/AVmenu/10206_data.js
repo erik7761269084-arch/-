@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7ed47cc7-3d9e-4e1e-9627-7671397d778c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10206,
+  "IDcode": "MIAB-358",
+  "title": "情色漫畫研究部 班主任被戴平光眼鏡的巨乳地味女部員當成了肉棒素材 ~ 夕美紫苑",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "文藝女",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美少女",
+    "更衣室",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "地味",
+    "抹油",
+    "學校",
+    "眼鏡",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MIAB-358为MOODYZ出品,2024年11月5日发行的有碼成人影片由夕美紫苑出演\n【嚴重=情色】J罩杯巨乳學生戴平光眼鏡的情色覺醒。跟老師學習男人的“實用技巧”，畫情色漫畫！變身舔蛋蛋、舔乳頭、連腋窩的淫蕩學生！雞雞被包裹起來，乳交！大奶搖打樁中出！蜘蛛女牛仔大秀豐滿身材！親吻並保持傳教士姿勢並射出濃稠的精子！色情研究繼續射精以獲得更色情的作品！身為老師，我不得不阻止她，但我無法抗拒她裡裡外外毛茸茸的身體帶來的快感！因為我已經射精了……啊！我又要射精了！性慾因好奇心和青春而瘋狂！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031075209963963.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031075209963963.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10206",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10206&name=夕美紫苑"
+    }
+  ]
+};

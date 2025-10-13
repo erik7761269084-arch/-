@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d829042c-cf64-4158-943b-cde1d0db21d1/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/9c267eed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6511,
+  "IDcode": "MIDA-143",
+  "title": "畢業後不再是師生關係啦！被慾火焚身的性感女老師盯了三年的處男我一畢業就被勾走三天狂榨30發 ~ 葵伊吹",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "女教師",
+    "高顏值",
+    "大姐姐",
+    "劇情",
+    "絕頂高潮",
+    "色誘",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "勾引・誘惑",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "綠茶婊",
+    "極品美人",
+    "處男"
+  ],
+  "description": "MIDA-143为MOODYZ出品,2025年5月2日发行的有碼成人影片由葵伊吹出演\n三年来一直暗恋的学生终于毕业，这位平时温柔可靠、内心却是个性欲怪物的女老师再也忍不住了！毕业典礼一结束就把他拐回家，立马来一发口技诱惑，直接生干破了他的处男身，榨得他蛋蛋都要炸了！三天狂战不停，【初次开苞连射、吃饭时偷摸搞事、厕所里的诱惑波推、互撩到高潮连续中出】，年轻力壮的小伙子被她玩弄于股掌之间，射到腿软，足足榨出30发，满足了她三年的饥渴！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041532103103_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041532103103_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6511",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6511&name=葵伊吹"
+    }
+  ]
+};

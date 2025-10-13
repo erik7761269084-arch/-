@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/cbccfe3c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75476,
+  "IDcode": "MAAN-1039",
+  "title": "精子提供を希望する人妻に夫に代わって孕ませ代行12【かんな】",
+  "publish_date": "2024-12-22",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "按摩",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/cbccfe3c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75476",
+  "actresses": []
+};

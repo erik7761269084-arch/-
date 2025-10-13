@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a3791400-0bea-4875-95fb-9a0d7ca6fb29/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/19c2aec2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8684,
+  "IDcode": "MIRD-250",
+  "title": "排球女子會社超長腳後宮 素股天空杭打騎乘位中出羣交的2泊3日 ~ 滝ゆいな 堤芹奈 木下日葵 辻井ほのか",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "運動",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "比基尼",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "運動女孩",
+    "慾求不滿",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "體育舘",
+    "更衣室",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "MIRD-250为MOODYZ出品,2025年2月4日发行的有碼成人影片由辻井穗乃果，堤芹奈，滝ゆいな，木下日葵出演\n一群高挑、長腿的排球女孩正在大展身手，進行女牛仔式衝擊動作！四位身高都在170cm以上的高挑女孩，提供身高差異自慰！擠奶時被人圍觀俯視的感覺太棒了！緊緻美臀猛乾女牛仔姿勢切換反向3P！無論我射精多少次，它都不會停止！修長美腿夾在大腿之間接著蟹腿女牛仔反向3P！纖細健美的身材，從頭到腳散發著獸性的慾望！反轉5P美臀擺動、爭相旋轉！他不斷讓她達到高潮，直到她的睪丸完全排幹——180 分鐘內射精 13 次！四個高大、豐滿的女孩組成的夢幻後宮追逐併吞噬我的陰莖！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080806973973.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130080806973973.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8684",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8684&name=木下日葵"
+    },
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8684&name=辻井穗乃果"
+    },
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8684&name=滝ゆいな"
+    },
+    {
+      "name": "堤芹奈",
+      "img_url": "https://picture.yoshiclub.xyz/20241108/9eb64f5d-9c4d-4187-9e3a-26c678ae8ed8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8684&name=堤芹奈"
+    }
+  ]
+};

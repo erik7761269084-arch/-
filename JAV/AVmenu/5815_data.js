@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a75998fd-b1f2-44a5-ac3d-46be2213ea5f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5815,
+  "IDcode": "GVH-746",
+  "title": "回鄉探親的巨乳姐姐用完美身材給我上了幾天性教育課，幫我擺脫童貞 ~ 佐山由依",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "探親",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "姐弟・兄妹",
+    "美腳",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "亂倫",
+    "野性",
+    "豐滿",
+    "無毛",
+    "肌肉"
+  ],
+  "description": "GVH-746为GLORY QUEST出品,2025年5月24日发行的有碼成人影片由佐山由依出演\n健太的姐姐由依，五年前嫁人離家，如今離婚後回老家探親。好久不見的姐弟重逢，健太卻發現姐姐已變成超有魅力的熟女，性感到直接讓他小兄弟硬到不行！那對火箭般的爆乳，路上根本看不到的蜂腰，還有下面挺翹渾圓的蜜桃臀，真的讓人慾火焚身！健太完全壓不住心裡的衝動，忍不住求姐姐親自教他開葷，帶他進入大人的世界。這幾天的秘密課程，爽到直接上天啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235821648648_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235821648648_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5815",
+  "actresses": [
+    {
+      "name": "佐山由依",
+      "img_url": "https://picture.yoshiclub.xyz/20241012/25cf31aa-7295-42b2-a1db-9fb5e2e490a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5815&name=佐山由依"
+    }
+  ]
+};

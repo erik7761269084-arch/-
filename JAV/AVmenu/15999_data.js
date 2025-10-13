@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e801f4d5-55b9-4aa8-9330-e48fe4dad5c9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15999,
+  "IDcode": "MIAB-128",
+  "title": "穿絲襪的女老板橘瑪麗有一個大屁股，通過炫耀她鼓起的肛門來引誘我。",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "肛交",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "臀控",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "胸控・戀乳癖",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "按摩棒",
+    "女上司",
+    "熟女",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "MIAB-128为MOODYZ出品,2024年3月5日发行的有碼成人影片由橘瑪麗出演\n【大屁股賤人橘瑪麗、褲襪、】埋在炸藥體內，臀粗94cm，G罩杯！百萬噸級壓樁壓碎雞巴！然後，她展示了她淫穢的肛門並擠壓精液，直到精液以劇烈的研磨爆炸，激怒了她！想要更多，我無法抗拒後活塞命令並顏射我的屁股！舔豐滿屁股的壓倒性戀物角度讓人無法抗拒！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301092858109109.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240301/20240301092858109109.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15999",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15999&name=橘瑪麗"
+    }
+  ]
+};

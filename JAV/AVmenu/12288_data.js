@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4bb33139-b27c-49c4-9408-32847d55f535/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12288,
+  "IDcode": "GUPP-019",
+  "title": "M宣言！我最近才在AV中亮相，請多多關照，讓我被操的一次又一次的高潮 ~ 鳥楽ひな",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "拘束・拷問",
+    "巨乳",
+    "M男・M女",
+    "女優"
+  ],
+  "description": "GUPP-019为妄想族出品,2024年9月3日发行的有碼成人影片由鳥楽ひな出演\n高梨希奈以巨乳女演員身份出道。 為了滿足一個充滿親近感和渴望被指責的超級受虐狂女孩的願望。 我會用柔軟的 SM 挑逗你，用勒死性和玩具折磨讓你高潮！ 被人戲弄、戲弄……我一直忍到了極限。 3P 中盡你所能地射精！ 首先，這是一種性發育按摩和性高潮，看起來就像是女性性商店。 當治療集中在她的胸部時，她立即嘆了口氣， 電動按摩器和轉子立即達到高潮！ 透過屁股打屁股和舔陰讓她更加飢渴， 大公雞以傳教士姿勢插入。 她的大奶顫抖著，最後完成了中出！ 她敏感的全身在高潮挑戰中受到攻擊，痛苦地暈倒了。 作為對立即射精的懲罰，他使用電動按摩器和振動器讓他射得更多！ 徹底走入絕境後，進入3P。 雙大雞巴逼近你已經提升到你記不清發生了什麼的地方！ 傳教士姿勢、女牛仔姿勢、狗狗姿勢等各種姿勢持續尖叫高潮。 她的大奶子沐浴著滾燙的精液，她看起來欣喜若狂。 “這是我第一次如此舒服地達到高潮。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901020924746746.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240901/20240901020924746746.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12288",
+  "actresses": [
+    {
+      "name": "鳥楽ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/c18d37eb-e9bc-43c1-96f0-c0a07a1297da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12288&name=鳥楽ひな"
+    }
+  ]
+};

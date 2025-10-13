@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7f66eac-0c8c-47bd-b655-b4b58ead51e8/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231216/icdf8zKk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18077,
+  "IDcode": "STARS-914",
+  "title": "住在隔壁房間毫無防備的巨乳的巨乳白領太色情了…入室盜竊、立即強姦、強烈中出禁閉、小淵百奈",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "老頭子",
+    "變態",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "口交",
+    "強姦",
+    "性感",
+    "緊縛",
+    "巨乳",
+    "打屁股"
+  ],
+  "description": "STARS-914为SOD出品,2023年11月23日发行的有碼成人影片由戀渕桃菜出演\n～在送货已成为家常便饭的今天～ 毫无防备地收到包裹的白领女郎，厚实的胸部很快就点燃了邻居的强奸欲望。当我像往常一样去取货时，她闯入了我的家并强奸了我。我把我的鸡巴插入他的体内，他的耐心已经到了极限。即使有阻力，我也不会放弃。强授精限制与体内射精。\n～在送货已成为家常便饭的今天～ 毫无防备地收到包裹的白领女郎，厚实的胸部很快就点燃了邻居的强奸欲望。当我像往常一样去取货时，她闯入了我的家并强奸了我。我把我的鸡巴插入他的体内，他的耐心已经到了极限。即使有阻力，我也不会放弃。强授精限制与体内射精。\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20231101/20231101000258911911.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231101/20231101000258911911.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18077",
+  "actresses": [
+    {
+      "name": "戀渕桃菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/58008b9e-9bda-463c-b9b0-dfda22133a2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18077&name=戀渕桃菜"
+    }
+  ]
+};

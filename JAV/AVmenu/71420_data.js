@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/vX8xzLdC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71420,
+  "IDcode": "HAWA-138",
+  "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう 騎乗位が得意なちょいSスレンダー妻 かほさん32歳",
+  "publish_date": "2018-04-12",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/addd41eec511aaea0751cb845d71e523.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71420",
+  "actresses": [
+    {
+      "name": "宮下華奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/f3724058-0480-453b-a726-94ca294b8a7c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71420&name=宮下華奈"
+    }
+  ]
+};

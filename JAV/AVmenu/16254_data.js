@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3ff8e7ba-ef43-47b8-bb9f-1e86cefcf04f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16254,
+  "IDcode": "MIDV-630",
+  "title": "我強迫宅女女友去美容院工作……將伸出紙褲的勃起陰莖2釐米穿過內褲插入！她甚至在沒有告訴我的情況下享受中出......！ ？石原希望",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "泡泡浴店",
+    "蕩婦",
+    "美臀",
+    "水療・泡泡浴",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "風俗娘",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "按摩・美容店",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "MIDV-630为MOODYZ出品,2024年2月20日发行的有碼成人影片由石原希望出演\n爲了恢復自己的NEET身份，男友讓她去熟人的美容院打工。我放心了，這是一家非常健康的商店......天天手淫又愛做愛的女朋友（希望）不可能安靜啊！顧客的雞雞從紙褲裏伸出來，感覺就像打到了他的內褲上，他瞬間興奮起來！她有一個非常淫蕩的誘惑，將她的龜頭穿過布料插入她的陰戶，並與顧客發生原始的性行爲！這不是一個祕密選項，所以不需要付費！與想要性交的女人和想要性交的雞巴進行祕密中出性愛！無論是老顧客還是投訴顧客都對2cm的布料插入感到K.O！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216081004545545.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240216/20240216081004545545.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16254",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16254&name=石原希望"
+    }
+  ]
+};

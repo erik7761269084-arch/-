@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/05/1689de73/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104447,
+  "IDcode": "IESP-721",
+  "title": "奈築りお 女子校生 中出し20連発",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/05/2e1bda4c756ce2b3d9c8b60fcc91ae93.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104447",
+  "actresses": [
+    {
+      "name": "奈築里緒",
+      "img_url": "https://picture.yoshiclub.xyz/20240630/382caea5-a3f2-4589-93ea-8a7b726c7c51.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104447&name=奈築里緒"
+    }
+  ]
+};

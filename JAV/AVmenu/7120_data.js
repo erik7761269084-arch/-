@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bd9128bf-2614-402e-a5f8-42ab2dc83786/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/f1b9bf54/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7120,
+  "IDcode": "SAN-333",
+  "title": "朋友的妹妹太可愛忍不住給睡了 ~ 永山遙",
+  "publish_date": "2025-03-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "變態",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "不倫",
+    "慾求不滿",
+    "少女",
+    "蘿莉控",
+    "姐弟・兄妹",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "地味",
+    "M男・M女",
+    "美人",
+    "亂倫",
+    "寢取",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250331/105de01a-e415-4c82-b634-d6a94ac65853.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250331/105de01a-e415-4c82-b634-d6a94ac65853.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7120",
+  "actresses": [
+    {
+      "name": "永山遥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7120&name=永山遥"
+    }
+  ]
+};

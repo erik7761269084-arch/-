@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250409/bLjNvkhI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68682,
+  "IDcode": "ROE-073",
+  "title": "反抗期の息子ですら愛おしい母は、肉奴●としての日々を受け入れて―。 平岡里枝子",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "凌辱",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/1381412458b9e44fcf8cde0d40322c79.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68682",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68682&name=タイ"
+    },
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68682&name=平冈里枝子"
+    }
+  ]
+};

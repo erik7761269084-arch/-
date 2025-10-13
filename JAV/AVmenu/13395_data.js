@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f4ecba50-6c5e-48bc-b02e-b52e4a75f131/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13395,
+  "IDcode": "BLK-642",
+  "title": "盡管外表看起來很騷，但她實際上是一名護士！ AV 首次亮相 ~ 黑咲華",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "護士",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "肌肉"
+  ],
+  "description": "BLK-642为KIRAKIRA出品,2024年7月16日发行的有碼成人影片由 黒咲華出演\n感謝全國黑妹粉絲們久等了。 Kira☆kira 典型的 GAL 登場了。自從黑人女孩瀕臨滅絕以來已經有好幾年了...夏天終於來了！令和時代的千禧年少女黑崎花AV出道！曬黑的皮膚含有大量黑色素！頭髮染成灰！閃亮的指甲！儘管外表看起來，她實際上是一名護士！而且，她還是個十足的賤人，果然不讓人失望！恰到好處的調情BLACK・GAL・DEBUT！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001954582582.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712001954582582.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13395",
+  "actresses": [
+    {
+      "name": "黒咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/5fb7324b-8e45-412b-83a8-cb19b00cd7c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13395&name=黒咲華"
+    }
+  ]
+};

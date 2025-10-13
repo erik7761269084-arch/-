@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/22/fad2d2e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92186,
+  "IDcode": "MIAA-921",
+  "title": "無自覚なデカ尻妻の透けパン誘惑を不倫OKサインだと勘違いした隣人の僕は、肉尻揺らす暴走ピストンで何度も中出しした件。 月乃ルナ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "姐姐",
+    "口交",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92186",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92186&name=月乃露娜"
+    }
+  ]
+};

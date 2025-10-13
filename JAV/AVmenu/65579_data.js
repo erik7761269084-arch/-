@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65579,
+  "IDcode": "617114DEB13F8B5F94F3CB9C8715CA66",
+  "title": "发射无限制！游玩途中持续发射OK让人尽情射的泡泡浴 楪可怜",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65579",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240107/Yb50xnYN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89727,
+  "IDcode": "ROOM-045",
+  "title": "止められない快楽と愛液、背徳感と羞恥が興奮と欲情に変わる瞬間。～羞恥編～",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "捆绑",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89727",
+  "actresses": [
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89727&name=白桃はな"
+    }
+  ]
+};

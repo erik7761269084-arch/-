@@ -1,0 +1,93 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/234650ff-fb2b-4312-97e2-f3bcdb856e2f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/18/092d1019/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8870,
+  "IDcode": "HMN-671",
+  "title": "完美的搭訕技巧！最高25股紀錄保持者！傳奇男的教科書AV，他曾經無套中出過很多女人。請相信看完本作，肯定會讓你在搭訕方面變得更好 ~ 本田瞳 水端麻美 彌生美月",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "貴婦",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "OL",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "搭訕",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "教學",
+    "奇聞趣事",
+    "美人妻",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "奇異的",
+    "獵豔",
+    "NTR",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "寢取",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HMN-671为本中出品,2025年1月28日发行的有碼成人影片由彌生美月，水端麻美，本田瞳出演\n通姦：不符合道德的行為。尤其是在男女關係方面。置身於某人的戀情之外是一種狂喜，而牆的另一邊就是最好的中出……這是一部為想要有外遇的男人準備的 AV，出自通姦藝術的天才之手。如果你看了這個，從明天起你也成為事務高手了！ ！可愛的白領白領、漂亮的鄰裡已婚女人、浪漫的職業酒廊女郎……勾引各種美女的通姦天才詳細解說！這是一款獨一無二的「通姦專業AV教科書」的誕生，在這裡您不僅可以學習通姦技巧，還可以學習最令人愉悅的通姦中出性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075727875875.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123075727875875.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8870",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8870&name=彌生美月"
+    },
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8870&name=水端麻美"
+    },
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8870&name=本田瞳"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8870&name=弥生美月"
+    },
+    {
+      "name": "アリト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8870&name=アリト"
+    }
+  ]
+};

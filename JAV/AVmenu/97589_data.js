@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220402/8F72100DB2FA00AB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97589,
+  "IDcode": "MIAE-325",
+  "title": "誘惑家庭教師 隙だらけの年上巨乳に犯された僕。 鈴木さとみ",
+  "publish_date": "2018-11-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "数位马赛克",
+    "手淫",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97589",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97589&name=铃木里美"
+    }
+  ]
+};

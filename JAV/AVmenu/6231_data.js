@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2e23b2dd-b1c1-4f4b-9730-96e33734c7c9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6231,
+  "IDcode": "ALDN-464",
+  "title": "被洗腦的媽媽 隨時都能內射的誘惑 ~ 御子柴美花",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "4K",
+    "老太婆",
+    "中出",
+    "五十路",
+    "重口味",
+    "自宅",
+    "媚藥・迷藥",
+    "單體作品",
+    "惡搞",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "ALDN-464为TAKARA出品,2025年5月10日发行的有碼成人影片\n一開始只是夫妻間的整人遊戲，玩起了催眠術。沒想到兒子居然是個催眠高手，連不信這套的媽媽都被他催眠了！媽媽陷入催眠狀態，完全毫無防備，那樣子讓兒子忍不住心動。雖然媽媽意識清楚，但身體卻動不了。面對兒子的各種小壞壞，媽媽竟不自覺地有了反應！兒子完全沉迷於媽媽的身體，甚至想辦法讓催眠狀態一直維持下去。漸漸地，媽媽也搞不清自己到底是被催眠了，還是已經被慾望沖昏頭……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101522241241_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101522241241_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6231",
+  "actresses": []
+};

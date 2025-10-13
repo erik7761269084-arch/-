@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/3a76b557/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68301,
+  "IDcode": "NEWM-105",
+  "title": "真・異常性交 四十路母と子 其の四拾壱 息子の魔羅が忘れられないお漏らし母さん 鈴河めぐみ",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "乱伦",
+    "母亲",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68301",
+  "actresses": [
+    {
+      "name": "鈴河めぐみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240811/5b41d06c-728e-483f-befb-6c3953143c76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68301&name=鈴河めぐみ"
+    }
+  ]
+};

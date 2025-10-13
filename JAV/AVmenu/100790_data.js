@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231024/7idbi28d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100790,
+  "IDcode": "LUXU-1726",
+  "title": "ラグジュTV 1712 人懐っこい笑顔が魅力的なお姉様…しかし脱がせれば見事なグラマラスボディ！敏感な秘部を刺激され徐々に興奮は高まり、手マンやピストンの快楽に乱れイク！",
+  "publish_date": "2023-09-22",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "屁股",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100790",
+  "actresses": [
+    {
+      "name": "美海",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100790&name=美海"
+    }
+  ]
+};

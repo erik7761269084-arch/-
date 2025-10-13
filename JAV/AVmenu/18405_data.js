@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f366f5c1-e883-41d4-ab33-f74f0b776a0e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/27/9278c4b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18405,
+  "IDcode": "JUQ-403",
+  "title": "中出輪姦的日子永遠不會結束",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "凌辱",
+    "中出",
+    "性感",
+    "輪姦",
+    "多P",
+    "人妻",
+    "熟女",
+    "報復"
+  ],
+  "description": "JUQ-403为MADONNA出品,2023年10月10日发行的有碼成人影片由多田有花出演\n最近搬到了一所新學校，擔心唯一的兒子小智是否能適應他的新學校。 那種不好的預感成真了，我親眼目睹了小智被不良同學欺負的情景。 我立刻向學校報告，並被停學，這讓我鬆了一口氣，但那些對我懷恨在心的同學卻把我當作他們的下一個霸凌目標。 無論我道歉多少次，都沒有得到原諒，從那天起，連續輪奸的日子就開始了…\n最近搬到了一所新學校，擔心唯一的兒子小智是否能適應他的新學校。 那種不好的預感成真了，我親眼目睹了小智被不良同學欺負的情景。 我立刻向學校報告，並被停學，這讓我鬆了一口氣，但那些對我懷恨在心的同學卻把我當作他們的下一個霸凌目標。 無論我道歉多少次，都沒有得到原諒，從那天起，連續輪奸的日子就開始了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231009/20231009001154344344.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231009/20231009001154344344.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18405",
+  "actresses": [
+    {
+      "name": "多田有花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/0da288b7-94fc-4972-96ba-5ee0430a623a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18405&name=多田有花"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18405&name=Qべぇ"
+    },
+    {
+      "name": "みっちー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18405&name=みっちー"
+    }
+  ]
+};

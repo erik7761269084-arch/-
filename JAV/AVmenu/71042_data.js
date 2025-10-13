@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/8P7MwXON/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71042,
+  "IDcode": "HUNTA-398",
+  "title": "「えっ！？なんでみんなTバック？」ナースさんだらけのシェアハウスに入居したら男はボク1人で、しかもみんな普段からTバックだった！都会に憧れて引っ越した先はシェアハウスで、そこは欲求不満ナースさんたちが住むシェアハウスだった！しかもしかも、仕事中に下着の線が…",
+  "publish_date": "2018-02-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "淫乱，真实",
+    "多P",
+    "屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71042",
+  "actresses": [
+    {
+      "name": "小野寺梨纱",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/8a890089-f751-4227-9c0c-b4764dadc8c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71042&name=小野寺梨纱"
+    },
+    {
+      "name": "澁谷果歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/b3d3f379-2936-451b-abd5-59de169eeda8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71042&name=澁谷果歩"
+    }
+  ]
+};

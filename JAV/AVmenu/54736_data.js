@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54736,
+  "IDcode": "0F2313AB732BA967F45B637AF4CAD732",
+  "title": "老婆被老爸睡了怎么办？",
+  "publish_date": "",
+  "type": "无码",
+  "company": "DREAMTICKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54736",
+  "actresses": []
+};

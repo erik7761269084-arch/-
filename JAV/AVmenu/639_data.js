@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/381a0579-e492-411c-afee-9090fcb4a3e6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 639,
+  "IDcode": "HEYZO-0768",
+  "title": "偶像的淫穢幕後故事～把麥克風換成振動器 ～ 木村都那",
+  "publish_date": "2015-02-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "偶像",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "兩男一女",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HEYZO-0768为HEYZO出品,2015年2月7日发行的無碼成人影片由木村都那出演\nアイドルの卑猥な裏事情～マイクをバイブに握りかえて～ - 木村つな",
+  "cover_url": "https://picture.yoshiclub.xyz/20241016/660b70c3-d4ff-41d5-876e-eeb12145e45b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241016/660b70c3-d4ff-41d5-876e-eeb12145e45b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=639",
+  "actresses": [
+    {
+      "name": "木村都那",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/1853f9e7-1cbb-45f6-9d95-cddac4d648e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=639&name=木村都那"
+    }
+  ]
+};

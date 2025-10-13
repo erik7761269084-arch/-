@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/04440208/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62588,
+  "IDcode": "REBD-952",
+  "title": "Moe3 成熟美女レボリューション～さよならは波のなか・天使もえ",
+  "publish_date": "2025-07-17",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "介绍影片",
+    "乳房",
+    "性感的",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/19/e07c40e95a0b248ed2c0dfa038834936.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62588",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62588&name=天使萌"
+    }
+  ]
+};

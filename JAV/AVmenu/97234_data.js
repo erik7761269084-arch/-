@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240712/zFeQgRFL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97234,
+  "IDcode": "BLK-460C",
+  "title": "被可以當女兒的婊子帶走的大叔 醒來時在愛情賓館",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97234",
+  "actresses": []
+};

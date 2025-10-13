@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/HSCSw6ir/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90151,
+  "IDcode": "RD-1204",
+  "title": "欲情する熟女 エロドラマ6人4時間 「そんなにキスされたら、私もう…」",
+  "publish_date": "2023-12-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "口交",
+    "舔阴",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90151",
+  "actresses": []
+};

@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02088f3c-1de7-4b4c-bf1a-da996c80b07f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17289,
+  "IDcode": "KATU-079",
+  "title": "乳頭奶瓶變態保母超放蕩雙蕩婦大乳暈",
+  "publish_date": "2021-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "老頭子",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "短裙・迷你裙",
+    "口交",
+    "性感",
+    "緊縛",
+    "雙飛",
+    "巨乳",
+    "兩女一男",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/202312120153298383.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/202312120153298383.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17289",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17289&name=本真友里"
+    },
+    {
+      "name": "今藤霧子",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/67c76ff6-53f9-4e7b-adac-2d1f8a419572.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17289&name=今藤霧子"
+    }
+  ]
+};

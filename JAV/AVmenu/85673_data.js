@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/07/dfab117a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85673,
+  "IDcode": "MTES-035",
+  "title": "令和の夏 日本（ニッポン）性犯罪史",
+  "publish_date": "2020-09-18",
+  "type": "有码",
+  "company": "MUTEKI",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/49f097639e9fe2672c6366c4dd36e5b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85673",
+  "actresses": []
+};

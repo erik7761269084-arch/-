@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/15/b4ba3f02/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106709,
+  "IDcode": "STARS-293",
+  "title": "總是連射！陸上部女教師顧問 情熱的顏射指導、追擊口交 本莊鈴",
+  "publish_date": "2020-10-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "颜射",
+    "苗条",
+    "口交",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106709",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106709&name=本庄鈴"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106709&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106709&name=玉木玲"
+    }
+  ]
+};

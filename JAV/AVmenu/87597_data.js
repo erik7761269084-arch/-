@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/28/e78b1083/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87597,
+  "IDcode": "AVOP-423",
+  "title": "スレンダー巨乳の彼女が俺の親父に寝取られ種付けプレスされていた。 黒川さりな",
+  "publish_date": "2019-02-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230803-1/fc04bfde5a9fee5061039c93f3e0c5ae.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87597",
+  "actresses": [
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87597&name=黑川纱里奈"
+    }
+  ]
+};

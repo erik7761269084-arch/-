@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250315/WKK7SFVT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70296,
+  "IDcode": "SNIS-205",
+  "title": "巨根抽插 宇都宮紫苑",
+  "publish_date": "2014-08-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫乱，真实",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/c241676bcedb39b906722e8e3d12bafc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70296",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70296&name=安斋拉拉"
+    },
+    {
+      "name": "戸川夏也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70296&name=戸川夏也"
+    }
+  ]
+};

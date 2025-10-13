@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230121/2519d1b6-d7b0-4465-b4a9-1f2cead9e63b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2007,
+  "IDcode": "CWPBD-71",
+  "title": "CATWALK POISON 71 ～中出大亂交SP～ : 菜菜瀬結衣, 前田陽菜, 真木今日子, 他計6名",
+  "publish_date": "2012-10-03",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "中出",
+    "美乳",
+    "潮吹",
+    "口交",
+    "女同性戀",
+    "多P",
+    "美腳",
+    "美少女",
+    "海灘",
+    "野外露天"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2007",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=真木今日子"
+    },
+    {
+      "name": "前田阳菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/c57a429a-e16a-47ef-a1af-2a58582f635e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=前田阳菜"
+    },
+    {
+      "name": "遥惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/a843e0ac-3455-4a22-a8c3-ada614fe833a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=遥惠美"
+    },
+    {
+      "name": "愛花沙也",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0787fbe3-5ceb-4ee9-ac1d-194a61d8690d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=愛花沙也"
+    },
+    {
+      "name": "菜菜瀬結衣",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/AI-Fix-菜々瀬ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=菜菜瀬結衣"
+    },
+    {
+      "name": "京野七香",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/57332dac-7da4-4722-8c30-4df051dfe614.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2007&name=京野七香"
+    }
+  ]
+};

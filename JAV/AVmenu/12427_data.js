@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/637eb799-bdd7-47df-821e-bdbcad031985/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12427,
+  "IDcode": "MADV-564",
+  "title": "JK制服女子的監禁調教 ~ 雫月心桜",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "苗條",
+    "素人作品",
+    "劇情",
+    "調教",
+    "深喉",
+    "自拍性愛",
+    "中出",
+    "女上位",
+    "JK校服",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "監禁",
+    "舔陰",
+    "少女",
+    "手指插入",
+    "M男・M女",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240825/3b1c824e-ba57-4d50-b4a5-ee5aca687242.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240825/3b1c824e-ba57-4d50-b4a5-ee5aca687242.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12427",
+  "actresses": [
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12427&name=雫月心桜"
+    }
+  ]
+};

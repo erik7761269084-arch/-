@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4596940a-7a4f-4ade-ba4f-e7a5b34c56c1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/26/fd57a0eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3706,
+  "IDcode": "PRIN-044",
+  "title": "爆乳細腰還有強大的心 ~ 倉多真央 三原穗香",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "劇情",
+    "巨尻",
+    "二次元",
+    "吞精",
+    "超爆乳",
+    "游戲COSPLAY",
+    "色白",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "素人",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "少女",
+    "打手槍",
+    "口爆",
+    "美少女",
+    "奇聞趣事",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "PRIN-044为妄想族出品,2025年8月8日发行的有碼成人影片由仓多真央，三原穗香出演\n爆乳、細腰，還有那份讓人怦然心動的堅韌！一直能感受到，你那根硬挺挺的傢伙朝我撲來…我和她們的夢幻cosplay戀愛性愛大合集！第一個妹子是個隱藏的絕美爆乳layer，腰細得誇張，奶子挺翹得像エロ漫畫裡走出來的，完美到像幅畫，簡直讓人想跪拜！她口水直流的深喉フェラ，嬌喘著求我插到最深處，露出羞恥的阿黑顏高潮，狂吞濃稠唾液，ポルチオ直擊後入式被幹到尖叫，爆乳晃蕩騎乘位求我幹壞她，還有那精液一口吞下的騷樣，真的讓人慾罷不能！第二個妹子是個榨精狂魔，巨乳纖腰美少女layer，奶子彈力十足，翹臀緊實，顏值頂級還超愛雞巴，騷得要命！全身塗滿亮晶晶的油，揉奶到高潮尖叫，龜頭責めフェラ配油手コキ，膣奥猛插正常位幹到她崩潰，杭打騎乘位爽到翻白眼，後入式ハメ潮噴個不停，露出丟臉高潮臉求饒，最後舌射吞精加清理フェラ，騷氣爆棚！純手工自製エロ影片，雙倍豪華內容，超限量版，錯過就沒啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013534742742_48604_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013534742742_48604_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3706",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3706&name=仓多真央"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3706&name=三原穗香"
+    }
+  ]
+};

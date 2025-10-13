@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/7byKngwH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88995,
+  "IDcode": "UMD-892",
+  "title": "潜入！！噂のリンパマッサージ店 18「裏オプション、いかがなさいますか？」",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "按摩",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88995",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88995&name=橘瑪麗"
+    },
+    {
+      "name": "仓木诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88995&name=仓木诗织"
+    }
+  ]
+};

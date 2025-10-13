@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b21ea1fa-4282-4441-a66f-9edadda78ddb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11717,
+  "IDcode": "SGKI-030",
+  "title": "SEX STREET Fighter 在全國各地招募性格鬥家。如果您射了，您將戰鬥失敗！ ！ ~ 九井珠奈緒 沙月惠奈 椿りか",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "SHIGEKI",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "美乳",
+    "真人秀",
+    "格鬥",
+    "美臀",
+    "潮吹",
+    "白眼失神",
+    "小隻馬",
+    "服務生",
+    "性感",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "癡女",
+    "公共場所",
+    "奇異的",
+    "按摩棒",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/ae18d9e9-9d9a-4bcc-ae5b-e5d2c79a2616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/ae18d9e9-9d9a-4bcc-ae5b-e5d2c79a2616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11717",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11717&name=椿莉香"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11717&name=沙月惠奈"
+    },
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11717&name=九井珠奈緒"
+    }
+  ]
+};

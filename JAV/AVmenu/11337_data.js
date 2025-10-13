@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f07fa397-c79f-4732-a915-2ea5b6d0722e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/27/84771b85/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11337,
+  "IDcode": "MIDV-890",
+  "title": "已婚男屈服於絲襪美腳空姐的誘惑，在小惡魔足交下徹底倒下了，黑絲美腿NTR射精15次 ~ 宮下玲奈",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "舔腳",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "美腳",
+    "美少女",
+    "足交",
+    "空姐",
+    "出軌",
+    "NTR",
+    "辣妹/GAL系",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "MIDV-890为MOODYZ出品,2024年10月15日发行的有碼成人影片由宮下玲奈出演\n我以為如果我嫁給了一個空姐，我就可以和她做愛，同時欣賞她穿著衣服的美腿，但她根本不讓我和她做愛，因為她很忙……然後有一天，一位年輕男子加入了同一班機的機組人員…我最喜歡的美腿CA，宮下女士。他其實是個具有戴綠帽屬性的秘密花痴嗎？與他整潔的外表相反，我們一到酒店，他就勾引了我……“用腿蹭不是出軌吧？”雖然我對妻子感到愧疚，但我還是被他的誘惑所誘惑。 CA 的邪惡誘惑，我被她征服了，她一次又一次地用腳交讓我射精，這讓我對美腿的迷戀變得瘋狂。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010100703263263.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010100703263263.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11337",
+  "actresses": [
+    {
+      "name": "宮下玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/e3fefc9b-635d-4098-9b5f-921fd410b0e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11337&name=宮下玲奈"
+    }
+  ]
+};

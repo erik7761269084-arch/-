@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241020/ABffPSQL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94056,
+  "IDcode": "SAN-245",
+  "title": "【FANZA限定】パチンコのためにレジ金に手を出した女 / ちゃんよた チェキとパンティと生写真付き",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94056",
+  "actresses": [
+    {
+      "name": "倉與田",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/35967812-d61d-4b9a-b662-9334d7ff9036.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94056&name=倉與田"
+    }
+  ]
+};

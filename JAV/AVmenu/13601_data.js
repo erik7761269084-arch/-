@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/91b0aad6-ec72-4aa1-a1ee-2fe6135f68c2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13601,
+  "IDcode": "ABF-122",
+  "title": "絕頂性感內衣做愛高潮 ~ 美之島惠理",
+  "publish_date": "2024-07-18",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "過膝襪・小腿襪",
+    "完全着衣",
+    "手指插入",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "ABF-122为蚊香社出品,2024年7月18日发行的有碼成人影片由美之島惠理出演\n榮譽專屬女星「箕島巡」穿著漂亮內衣展現激烈性愛！進入飯店後，兩人立刻互相玩弄著對方的身體，一邊發出抽動的聲音，一邊吸吮著翹起的雞巴。當她的陰戶被觸碰時，愛汁就會大量分泌，拉動她的弦，她就會露出狂喜的表情。當雞巴插入並吃下暴力活塞時，全身顫抖並達到高潮！將大量渾濁的液體淋在臉上後，她吸吮他的雞巴，並透過口交清理剩餘的精子。凸顯女性美麗的內衣讓性愛更加激烈。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240704/05b18509-ee58-4666-be4e-93637a371076.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240704/05b18509-ee58-4666-be4e-93637a371076.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13601",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13601&name=美之島惠理"
+    }
+  ]
+};

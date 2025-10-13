@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/4344c1a8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35453,
+  "IDcode": "SNIS-553",
+  "title": "传奇女优粉丝感谢祭只要撑住十分钟不射就能和女神打炮-明日花绮罗",
+  "publish_date": "2025-08-10",
+  "type": "无码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "苗条",
+    "薄马赛克",
+    "手淫",
+    "感谢祭",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/06/13/8c78456a776280e50ca50e688c6885bb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35453",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35453&name=明日花綺蘿"
+    }
+  ]
+};

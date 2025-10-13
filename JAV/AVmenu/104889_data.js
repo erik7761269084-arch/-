@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/04/823cbf46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104889,
+  "IDcode": "IENF-317",
+  "title": "「妻が若くて綺麗なうちに裸を写真や映像に残したい」メモリアルヌードフォト撮影 私の妻を寝取って下さい。 2",
+  "publish_date": "2024-04-25",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "中出",
+    "企画",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104889",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104889&name=夏川步美"
+    },
+    {
+      "name": "夏目玲香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250904/41b65ed4-ca5b-42ee-b6df-474076e3d768_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104889&name=夏目玲香"
+    }
+  ]
+};

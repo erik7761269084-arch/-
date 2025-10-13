@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a22c0ccc-2634-4d6a-9768-1a95c8640103/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/29/cadf461e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4541,
+  "IDcode": "MIKR-018",
+  "title": "高雅臉蛋卻用小嘴玩出下流花樣 唾液狂流舔遍全身 直視鏡頭口爆絕活 10發暴射 ~ 森日向子",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "網襪",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "MIKR-018为MOODYZ出品,2025年7月11日发行的有碼成人影片由森日向子出演\n光看脸就能让人缴械？不不不，光是眼神和小嘴就能让人腿软的美女天才！这可是专门为森日向子量身打造的镜头直视口技大片！真空吸吮、和谐口技、龟头猛吸、背筋舔弄、蛋蛋挑逗，唾液满溢，眼神勾魂，把那话儿从头到尾舔得干干净净，6个场景10次高潮爆发！光是被她盯着看，爽感就能翻百倍，这痴女的绝技口活，赶紧来感受一下，绝对让你欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313345454_38232_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313345454_38232_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4541",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4541&name=森日向子"
+    },
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4541&name=通野未帆"
+    },
+    {
+      "name": "远藤あいこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4541&name=远藤あいこ"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/Qq5545nW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88170,
+  "IDcode": "OFJE-254",
+  "title": "犯●れた葵 8時間まるごとレ×プCOLLECTION （ブルーレイディスク）",
+  "publish_date": "2020-07-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "淫乱，真实",
+    "拘束",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/d3b76f5e84a263527bdecc2747136ea8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88170",
+  "actresses": [
+    {
+      "name": "小野夕子",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/abb74ccd-f491-4096-9565-ef8214acfbee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88170&name=小野夕子"
+    }
+  ]
+};

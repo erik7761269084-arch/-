@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/baa04393-be3d-43d0-921f-298e933c0961/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/16b308c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9020,
+  "IDcode": "MEYD-961",
+  "title": "新人出道，前24歲的女主播，是沒幾天就要結婚的王牌次世代人妻 首次亮相 AV DEBUT ~ 真北祈",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "出道作品",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "眼鏡",
+    "綠茶婊",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "MEYD-961为溜池出品,2025年1月21日发行的有碼成人影片由真北祈出演\n拍攝時未婚的前當地電視台女播音員Tainori Maki將在該AV發布幾天后結婚，以24歲的年齡首次亮相AV。 「智慧與性感的交叉。」她的外表、說話方式和性感都是獨一無二的。今年結婚並成為AV女優，讓她更加美麗性感。一定！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074608849849.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116074608849849.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9020",
+  "actresses": [
+    {
+      "name": "真北祈",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/2e65b45a-9409-419d-8784-86625a07e2ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9020&name=真北祈"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9020&name=鲛岛"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9020&name=ナイアガラ翔"
+    }
+  ]
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4d047482-d4ea-431c-b425-19255f9a10d1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/08/bb59eedf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11167,
+  "IDcode": "VENX-290",
+  "title": "母子汗流浹背的激烈愛性愛 ~ 永野愛華",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "內衣",
+    "美人妻",
+    "人妻",
+    "母子",
+    "熟女",
+    "短髮",
+    "放尿",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241019/804a9f97-adb7-43cd-bbc7-81a19f53b936.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241019/804a9f97-adb7-43cd-bbc7-81a19f53b936.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11167",
+  "actresses": [
+    {
+      "name": "永野愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/2eb7fd5b-aafe-46d2-88c4-2158de48a431.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11167&name=永野愛華"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11167&name=ひょこり"
+    }
+  ]
+};

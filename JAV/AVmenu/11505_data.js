@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c32e4ffd-2d75-4a9a-bc42-45fa48beb7b9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/23/86263569/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11505,
+  "IDcode": "IPZZ-443",
+  "title": "美人妻裸體模特 NTR 與上司羞恥做愛的人妻衝擊感的浮氣動畫流出 ~ 仲村美羽",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "69",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "若妻",
+    "模特兒",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "性騷擾",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "寫真女郎",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "短髮",
+    "誘騙女性",
+    "羞恥"
+  ],
+  "description": "IPZZ-443为IDEA POCKET出品,2024年10月8日发行的有碼成人影片由仲村美羽出演\n「看來最近『情侶裸露』越來越流行了。」我提出這個建議是因為我想再次錄製自己的『女性』形象，希望對我丈夫的ED For ED有所幫助。 NTR…濕漉漉的私處…膨脹的慾望。興奮的汁水滴下來。一個已婚女人，久沒有見過男性生殖器，就失去理智了！ ！ 「我、我想吸……」 越界了！ ！長時間的性愛感覺真好！ ！羞恥使女人濕透。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003085845261261.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003085845261261.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11505",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11505&name=仲村美羽"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11505&name=日森一"
+    }
+  ]
+};

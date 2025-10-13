@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e2bb670-448b-4515-9099-4b9652f26f8b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13708,
+  "IDcode": "WAAA-398",
+  "title": "淫蕩下流的青梅竹馬玩弄我的雞巴……她的陰道馬上就溼了，突然把雞巴插進去！！粘糊糊的陰戶立即收緊，不肯鬆手，活塞失控地射出，卻沒有拔出。天月梓",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "青梅竹馬",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "WAAA-398为WANZ FACTORY出品,2024年7月2日发行的有碼成人影片由天月梓出演\n我頑皮的兒時朋友取笑我的處女雞巴，我被玩弄我的雞雞...我把它生生地插入她太濕的陰戶！ 「嘿，你把它放進我的體內了！哈！她從性慾旺盛的狀態變成了性慾的火花，她的陰部感覺太棒了，以至於她失去了控制！」而且，不抽身連續中出拍攝！從那天起，她就沉迷於與我的雞巴進行性交，並開始搖晃她的臀部！而我的陰莖，已經停止並達到了其承受極限，性慾爆發，並隨著大屁股後活塞返回兩次！而且，他們一次又一次地互相挑逗，沉浸在理性的性愛中並達到高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628002932683683.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240628/20240628002932683683.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13708",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13708&name=天月梓"
+    }
+  ]
+};

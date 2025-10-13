@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240712/oF8a7NRN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97227,
+  "IDcode": "BF-312",
+  "title": "RQ ～中出しノーパンストッキング！～ 波多野結衣",
+  "publish_date": "2014-05-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "纪录片",
+    "赛车女郎"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bf312/bf312pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97227",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97227&name=波多野结衣"
+    }
+  ]
+};

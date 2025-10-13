@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58507,
+  "IDcode": "b3a1ef4a19db2e5befe0e1f5f1e20fd5",
+  "title": "缺钱人妻被他人内射赚钱",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58507",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/79JHZgB0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85786,
+  "IDcode": "NHDTB-653",
+  "title": "連日絶頂痴● いつも同じ時間に乗車する爆乳娘が中出しを受け入れるまでイカセまくれ！",
+  "publish_date": "2022-04-07",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫乱，真实",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85786",
+  "actresses": []
+};

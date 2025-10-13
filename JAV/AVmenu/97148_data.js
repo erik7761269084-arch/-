@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240708/MSvBhP6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97148,
+  "IDcode": "ABP-059",
+  "title": "NEW TOKYO流儀 03 橋本涼",
+  "publish_date": "2013-10-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "舔阴",
+    "手指插入",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp059/118abp059pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97148",
+  "actresses": [
+    {
+      "name": "桥本凉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97148&name=桥本凉"
+    }
+  ]
+};

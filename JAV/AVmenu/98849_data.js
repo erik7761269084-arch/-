@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230121/D8471188504D7D72/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98849,
+  "IDcode": "ATOM-148",
+  "title": "知花メイサが女性ファンの自宅へアポ無し訪問！本人もファンも初めてのレズ体験！ドキドキファン感謝祭！！",
+  "publish_date": "2013-08-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1atom148/1atom148pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98849",
+  "actresses": [
+    {
+      "name": "荒井由香利",
+      "img_url": "https://picture.yoshiclub.xyz/20240424/0e591804-49ad-4b80-b712-03719bad247c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98849&name=荒井由香利"
+    },
+    {
+      "name": "知花メイサ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98849&name=知花メイサ"
+    }
+  ]
+};

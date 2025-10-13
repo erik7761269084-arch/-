@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/3yoWqFvP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84817,
+  "IDcode": "HUNTB-173",
+  "title": "仲良し姉妹は彼氏もセフレもチ○ポも精子も何でもシェア！妹がSEXしていたら姉を、姉がSEXしていたら妹を呼んで仲良く3Pするんです！勃起…",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "多P",
+    "女上位",
+    "荡妇",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/09c0cac1f340bfe7a48d5b66c469f52c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84817",
+  "actresses": []
+};

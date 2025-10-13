@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b363705-b51a-4374-b89f-a8dbf693ad43/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18660,
+  "IDcode": "SORA-482",
+  "title": "登山圈●NTR同窓会 被討厭的前男友羞辱 被輪奸的實錄",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "凌辱",
+    "潮吹",
+    "調戲",
+    "人妻",
+    "出軌",
+    "NTR",
+    "野外露天"
+  ],
+  "description": "SORA-482为妄想族出品,2023年9月19日发行的有碼成人影片由玉城夏帆出演\n攀岩圈好友10年來首次重聚。等待著和好朋友一起參加的嘉帆的是…/當我得知登山社的前女友結婚後，我就和當時的朋友勾結，策劃了一場性騷擾訓練營。在山間小徑和觀景台的性騷擾和公共性行為中，嘉穗想起了自己過去的變態傾向，不斷潮吹和射精——“你不能對你丈夫的雞巴感到滿意，不是嗎？” 'NTR潮吹並倒在她熟睡的丈夫旁邊！！連內心抗拒的嘉帆，也一臉噁心地享受眼前的雙姦棒哈哈\n攀岩圈好友10年來首次重聚。等待著和好朋友一起參加的嘉帆的是…/當我得知登山社的前女友結婚後，我就和當時的朋友勾結，策劃了一場性騷擾訓練營。在山間小徑和觀景台的性騷擾和公共性行為中，嘉穗想起了自己過去的變態傾向，不斷潮吹和射精——“你不能對你丈夫的雞巴感到滿意，不是嗎？” 'NTR潮吹並倒在她熟睡的丈夫旁邊！！連內心抗拒的嘉帆，也一臉噁心地享受眼前的雙姦棒哈哈\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918233427489489.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230918/20230918233427489489.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18660",
+  "actresses": [
+    {
+      "name": "玉城夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/38bdeeca-b286-487d-9966-b060917d40a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18660&name=玉城夏帆"
+    }
+  ]
+};

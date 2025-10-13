@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/cd4fc3f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115439,
+  "IDcode": "FC2-4747672",
+  "title": "我终于和前AV女优拍摄了期待已久的3P",
+  "publish_date": "2025-08-31",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/30/1c6d9a0a233dfb75344c24729dae3bb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115439",
+  "actresses": []
+};

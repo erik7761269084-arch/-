@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/KxTugWJY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81098,
+  "IDcode": "NTK-695",
+  "title": "【隠れ巨乳ぴえん美少女ガン突きナンパ！！】【トー横ビッチ美少女Wナンパ：後半戦！！】【淫尻ぴえん系美少女と連続昇天2NN！！】リアルドキュ軟派！？今話題の界隈を突撃！！SEX観も奔放なガチヤリマンを路上で確保！！太陽と北風作戦であったかラブホ誘導に成功！！お酒もSEXもストロング！！チ○コもストロー感覚でチューチューフェラ！！吞み会から即パコ会に…！！これがトー横界隈のリアル性事情…！？友達の前で大昇天4P乱交SP編！！後編です！！",
+  "publish_date": "2022-03-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "多P",
+    "业余",
+    "乳房",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81098",
+  "actresses": [
+    {
+      "name": "くるみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81098&name=くるみ"
+    }
+  ]
+};

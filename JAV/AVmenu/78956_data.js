@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/51jD6HlF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78956,
+  "IDcode": "CHN-086",
+  "title": "- 新・絶対的美少女、お貸しします。 ACT.47 春川せせら - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/1cc5392bdb41d1032ef7aca08e24e6d2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78956",
+  "actresses": [
+    {
+      "name": "春川せせら",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/20aa9d16faee662d0fab348801ee486f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78956&name=春川せせら"
+    }
+  ]
+};

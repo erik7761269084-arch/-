@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/07/d2ffdd10/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81140,
+  "IDcode": "HMN-134",
+  "title": "SNSフォロワー1万人達成でAVデビューした美少女のもひとつ上のチャレンジ 初めてのナマ中出し 花芽ありす",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "偶像",
+    "肛交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/2ba355d4b80d633a3393392285c2a90e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81140",
+  "actresses": [
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81140&name=花芽有朱"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81140&name=鲛岛"
+    }
+  ]
+};

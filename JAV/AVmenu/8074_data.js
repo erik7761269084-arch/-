@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cac2f33b-5b02-4d4e-a456-93fd3dd7c3be/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8074,
+  "IDcode": "CJOB-174",
+  "title": "捏着乳頭的騎乘位中出爽暴了 大合集 ~ 月乃露娜 乙愛麗絲 藤森裏穂 黑川堇 森日向子 沙月惠奈 森澤佳奈 JULIA 鬆本一香",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "後入",
+    "企畫",
+    "純粹的慾望",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "淫語",
+    "精選總編集",
+    "精選綜合",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "CJOB-174为癡女特化出品,2025年2月25日发行的有碼成人影片由藤森里穂，森澤佳奈，JULIA，松本一香，黑川堇，森日向子，乙愛麗絲，月乃露娜，沙月惠奈出演\n乳頭和陰莖的快感是男人終極的高潮！令和時代M男人評選出的能產生最濃密精子的最佳遊戲No.1！在被人鄙視的同時，她以女上位姿勢衝刺！甜蜜地揉捏、扭動乳頭……！你的乳頭和陰莖同時受到刺激，對大腦造成直接打擊！即使只射精一次，你的乳頭和陰莖還會保持堅硬很久！當他的乳頭被用力撞擊時，他射精了多次！ 22次女上位俯視並徹底侵犯男人乳頭的場景，導致45次射精！如果常規自慰對您來說還不夠，請嘗試 +Chikushiko 以獲得更好的自慰體驗！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250222/20250222043554994994.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250222/20250222043554994994.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8074",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=森澤佳奈"
+    },
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=乙愛麗絲"
+    },
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=松本一香"
+    },
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=森日向子"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=沙月惠奈"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=藤森里穂"
+    },
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=JULIA"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=黑川堇"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8074&name=月乃露娜"
+    }
+  ]
+};

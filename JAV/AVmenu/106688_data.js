@@ -1,0 +1,29 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 106688,
+  "IDcode": "ABP-083",
+  "title": "鈴村愛里、滿是萌系的角色扮演！",
+  "publish_date": "2013-12-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "多P",
+    "角色扮演",
+    "手淫",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106688",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106688&name=鈴村愛里"
+    }
+  ]
+};

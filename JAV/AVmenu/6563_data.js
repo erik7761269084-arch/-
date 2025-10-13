@@ -1,0 +1,88 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d4ad7797-f66b-4b9d-8a33-b81ab4ae5cb1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6563,
+  "IDcode": "TENN-034",
+  "title": "美少女 野外青奸 露出調教輪奸 ~ 鳥楽ひな 露梨あやせ 皆瀨明裏 如月りいさ",
+  "publish_date": "2025-04-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "調教",
+    "深喉",
+    "校花",
+    "凌辱",
+    "野戰",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "露出",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "野外露天",
+    "極品美人",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "TENN-034为FIRST STAR出品,2025年4月27日发行的有碼成人影片由皆瀨明里，如月りいさ，鳥楽ひな，露梨あやせ出演\n在藍天白雲下的大自然中，上演一場超刺激的野外露出調教多人玩法！小美人的哭喊聲慢慢變成嬌喘聲，完全沉淪在本能的快感中無法自拔。濃烈的性愛場面一個不漏，260分鐘的永久收藏版，絕對讓你血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427112134635635_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250427/20250427112134635635_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6563",
+  "actresses": [
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6563&name=皆瀨明里"
+    },
+    {
+      "name": "如月りいさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/d7700eb3-262c-4135-99be-f216cdd6c8df.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6563&name=如月りいさ"
+    },
+    {
+      "name": "鳥楽ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/c18d37eb-e9bc-43c1-96f0-c0a07a1297da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6563&name=鳥楽ひな"
+    },
+    {
+      "name": "露梨あやせ",
+      "img_url": "https://picture.yoshiclub.xyz/20230707/1bdee04a-5dea-4f4a-a82e-13a9039b8934.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6563&name=露梨あやせ"
+    }
+  ]
+};

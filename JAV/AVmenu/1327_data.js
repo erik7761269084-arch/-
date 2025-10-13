@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ccb7908a-d1d7-4b99-8f7a-83c1f4ecfabb/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220810/UDL1wtNM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1327,
+  "IDcode": "HEYZO-2614",
+  "title": "美麗巨乳妹身體的每個細節都收到了！ Vol.3 - 森田美優",
+  "publish_date": "2021-09-25",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806205338125125.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806205338125125.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1327",
+  "actresses": [
+    {
+      "name": "春風コウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1327&name=春風コウ"
+    }
+  ]
+};

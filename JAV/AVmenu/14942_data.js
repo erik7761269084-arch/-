@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f8310ca9-768b-47ea-84f3-406f3c6acd54/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/17/723bc046/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14942,
+  "IDcode": "SSNI-226",
+  "title": "被文學少女鈴木心春吃雞巴的原作漫畫真人版，下載量創下紀錄！~ 鈴木心春",
+  "publish_date": "2018-06-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "勾引・誘惑",
+    "清純",
+    "巨乳",
+    "M男・M女",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "SSNI-226为S1出品,2018年6月7日发行的有碼成人影片由鈴木心春出演\nDMM.在同人中記錄了超級熱門DL號碼的原作漫畫現在與原作合作的第一名女演員鈴木小春進行了真人表演！以細膩的筆觸描繪女性的漫畫家神種野的戀物情色故事的真實再現！一個處女男孩被一個平常安靜安靜的小女孩溫柔而暴力地吃掉。一個愛撩男人的戀物藝術女孩徹底射精，透過性愛告白的酸甜純愛故事！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240507/20240507202107650650.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240507/20240507202107650650.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14942",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14942&name=鈴木心春"
+    }
+  ]
+};

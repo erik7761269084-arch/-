@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240623/umAgXUFq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91983,
+  "IDcode": "JURA-110",
+  "title": "初撮り人妻、ふたたび。 天海梓",
+  "publish_date": "2024-04-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91983",
+  "actresses": [
+    {
+      "name": "天海梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240530/9b8fa947-d91b-43fe-9f5a-246b1d6d739c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91983&name=天海梓"
+    }
+  ]
+};

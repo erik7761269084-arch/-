@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/372f31fa-137a-49da-a2b9-c195ef33d1d6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/09/84abb586/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13519,
+  "IDcode": "IPZZ-297",
+  "title": "木島先生是一名大學事務員，他把一名俱樂部女孩希島愛理強奸了 ~ 希島愛理",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "性虐癖",
+    "調教",
+    "凌辱",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "輪姦",
+    "美少女",
+    "女同事",
+    "手指插入",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-297为IDEA POCKET出品,2024年7月9日发行的有碼成人影片由希島愛理 出演\n木島先生是一位普通的上班族，正當她正期待著自己的婚禮時，卻在幸福的頂峰被白痴 F 蘭·艾維薩強姦了。她最終被迫以強姦影片為素材進行性服務，並把她的肛門和肛門張開並用作玩具。被男人們傳遞後，她最終不得不當場射精......可憐的木島桑，被那些分不清是非的男人羞辱，卻不知何故屈服於性快感…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705013431704704.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705013431704704.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13519",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13519&name=希島愛理"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13519&name=いち"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13519&name=小田切ジュン"
+    }
+  ]
+};

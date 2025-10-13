@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ea476c9-9155-49aa-9a6d-6f930bdaff1b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/15/5096dcba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12339,
+  "IDcode": "ADN-604",
+  "title": "我的嶽父對我有什麼想法？ ~ 七海蒂娜",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "ADN-604为ATTACKERS出品,2024年9月3日发行的有碼成人影片由七海蒂娜出演\n我在記事之前就失去了父親，所以也許我一直在尋找父親的形象。當我剛畢業、剛參加工作時，我現在的丈夫，也就是我的老闆，很好地給了我建議，我們就這樣結婚了。然而，距離我離開壽已經五年了。雖然為了生孩子，她很努力…我先生的父母來看我們，也許是擔心我們。我突然想起有一次我去他父母家迎接他的婚禮。當我見到我的岳父時，我第一次感受到了父親的安全感…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014846779779.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830014846779779.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12339",
+  "actresses": [
+    {
+      "name": "七海蒂娜",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/9eda1dbf-0b8f-43dc-9863-bd3f262ffe86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12339&name=七海蒂娜"
+    }
+  ]
+};

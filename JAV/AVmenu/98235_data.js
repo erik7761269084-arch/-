@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98235,
+  "IDcode": "BBAN-268-",
+  "title": "お嬢様学校お仕置き倶楽部レズビアンEpisode",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "捆绑",
+    "SM",
+    "女同性恋",
+    "肛交",
+    "饮尿"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98235",
+  "actresses": [
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98235&name=羽月希"
+    },
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98235&name=持田栞里"
+    }
+  ]
+};

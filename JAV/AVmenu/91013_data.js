@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/21/9ae26e8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91013,
+  "IDcode": "JUQ-311",
+  "title": "永遠に終わらない、中出し輪●の日々。 藤かんな",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91013",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91013&name=藤環奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91013&name=左慈半造"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91013&name=Qべぇ"
+    }
+  ]
+};

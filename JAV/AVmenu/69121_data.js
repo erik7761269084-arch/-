@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/B58OKjrm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69121,
+  "IDcode": "XRW-628",
+  "title": "地味なメガネっ子のクセにビンビン感じちゃう爆乳を持余すドスケベ女の懇願調教！ ここ 真白ここ",
+  "publish_date": "2019-01-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "眼镜",
+    "巨乳",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69121",
+  "actresses": [
+    {
+      "name": "真白湖子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/df40c4ee-872f-43bf-bc86-4df41fc08af6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69121&name=真白湖子"
+    },
+    {
+      "name": "望月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69121&name=望月"
+    }
+  ]
+};

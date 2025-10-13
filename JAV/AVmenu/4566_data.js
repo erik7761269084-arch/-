@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e0925f7e-f72c-4e9a-8e23-2c33debd6909/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/ee2d05df/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4566,
+  "IDcode": "HNTRZ-014",
+  "title": "姐妹丼雙飛爽到爆，我是不是幹了啥逆天的事？先懷孕就能結婚的超乳對決 ~ 出演女優：姫咲華 大島愛里亞",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "校花",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "M男・M女",
+    "美人",
+    "極品美人",
+    "女學生",
+    "豐滿"
+  ],
+  "description": "HNTRZ-014为HUNTER出品,2025年7月4日发行的有碼成人影片由姫咲華，大島愛里亞出演\n【姐妹丼】因為家庭因素姓氏不同的姐妹花‘花’跟‘胡桃’，老師小島現在跟學生花熱戀中，但幾年前他可是胡桃的前任！發現兩人是姐妹後小島整個傻眼。這對情敵姐妹為了搶奪小島展開超激烈戰鬥，肉彈身材的她們化身痴女前后夾擊小島，雖然他表面裝出一臉為難，但內心早就爽到不行，簡直是‘天堂模式’啦！這種超幸運的後宮SEX讓人High到爆，濃到不行的孕ませ中出姐妹丼套餐，兄弟們快來爽一波！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703072138236236_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703072138236236_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4566",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4566&name=姫咲華"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4566&name=大島愛里亞"
+    }
+  ]
+};

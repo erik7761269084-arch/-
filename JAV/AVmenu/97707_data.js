@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220418/4E580F82D65330BF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97707,
+  "IDcode": "SOJU-015",
+  "title": "カメラを止めないで… 河北麻衣",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "户外",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97707",
+  "actresses": [
+    {
+      "name": "河北麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97707&name=河北麻衣"
+    }
+  ]
+};

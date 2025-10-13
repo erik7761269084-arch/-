@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230121/9787dcda-9c25-4b59-bbc1-dbc95dfd3afd/index.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/a090f39a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1943,
+  "IDcode": "CWPBD-84",
+  "title": "CATWALK POISON 84 ～羞澀的現役女大學生中出出道～ : 石原步美",
+  "publish_date": "2013-06-20",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "苗條",
+    "中出",
+    "口交",
+    "美腳",
+    "美少女",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/8208db59-ddcd-40d0-a336-96a1eb261ff2.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/8208db59-ddcd-40d0-a336-96a1eb261ff2.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1943",
+  "actresses": [
+    {
+      "name": "石原あゆむ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1943&name=石原あゆむ"
+    }
+  ]
+};

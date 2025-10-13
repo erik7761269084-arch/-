@@ -1,0 +1,27 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99082,
+  "IDcode": "STAR-274",
+  "title": "中出し超高級ソープ嬢 芸能人 原紗央莉",
+  "publish_date": "2011-04-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "艺人",
+    "女同性恋",
+    "妓女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99082",
+  "actresses": [
+    {
+      "name": "原纱央莉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99082&name=原纱央莉"
+    }
+  ]
+};

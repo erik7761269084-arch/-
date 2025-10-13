@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220908/C91C56B68FB46AAE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64858,
+  "IDcode": "98F7B0B095D33E7A1FC3027E80911ADB",
+  "title": "我与老公3周间禁欲生活被公公肉棒打破闷绝疯狂 藤森里穂",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64858",
+  "actresses": []
+};

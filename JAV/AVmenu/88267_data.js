@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230929/0rd1zMPQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88267,
+  "IDcode": "MTALL-040",
+  "title": "【FANZA限定】【4K撮影】Hip100cm下半神デカ尻アクメ開発 黒木逢夢 パンティとチェキ付き",
+  "publish_date": "2022-09-15",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "多P",
+    "屁股",
+    "乳液",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230929-1/6cb3c27fb01a40f04652440a3d3003ed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88267",
+  "actresses": [
+    {
+      "name": "黒木逢夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4f60e84c-72f8-4463-8fd4-6b9ae68afa0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88267&name=黒木逢夢"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2712511-cfed-454c-a1d3-58e22067b868/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14460,
+  "IDcode": "VEC-646",
+  "title": "我對隔壁那個每天自慰的色情人妻的耐心已經到了極限，欲望無法阻擋的強烈狂喜性愛 三嶽祐奈",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240524/3b5d37a1-baff-4e96-bd3d-8f25cf33ec66.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240524/3b5d37a1-baff-4e96-bd3d-8f25cf33ec66.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14460",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14460&name=三岳祐奈"
+    }
+  ]
+};

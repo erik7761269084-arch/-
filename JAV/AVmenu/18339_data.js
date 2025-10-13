@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88302020-3e8e-42e2-a37b-fb8d9e09d58c/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240223/76K3Xj8F/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18339,
+  "IDcode": "MIAA-996",
+  "title": "超豪華中出專用肥皂",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "中出",
+    "美乳",
+    "水療・泡泡浴",
+    "口交",
+    "風俗娘",
+    "性感",
+    "內衣",
+    "按摩・美容店",
+    "抹油"
+  ],
+  "description": "MIAA-996为MOODYZ出品,2023年10月17日发行的有碼成人影片由森日向子出演\n在某個地方，有一家頂級會員專營的肥皂屋，專門從事內射，設立在城市的高層。 店裡禁止同伴穿戴衛生用具，並維持完全以顧客為中心的政策，讓顧客可以在最舒適的狀態下、想什麼時候、想射多少就射精。 這次是有著性感又敏感的纖細身材的森小姐。 你可以隨心所欲地進行原始性愛，並隨心所欲地射精！ 只有MOODYZ才能看到的無皮超高級中出專用肥皂！\n在某個地方，有一家頂級會員專營的肥皂屋，專門從事內射，設立在城市的高層。 店裡禁止同伴穿戴衛生用具，並維持完全以顧客為中心的政策，讓顧客可以在最舒適的狀態下、想什麼時候、想射多少就射精。 這次是有著性感又敏感的纖細身材的森小姐。 你可以隨心所欲地進行原始性愛，並隨心所欲地射精！ 只有MOODYZ才能看到的無皮超高級中出專用肥皂！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231014/1dfae6eb-c37a-40ec-a472-a7a65954d045.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231014/1dfae6eb-c37a-40ec-a472-a7a65954d045.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18339",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18339&name=森日向子"
+    }
+  ]
+};

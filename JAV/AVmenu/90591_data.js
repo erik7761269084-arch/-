@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/C5PLP6il/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90591,
+  "IDcode": "OPPW-143",
+  "title": "結婚を間近に控えた元彼が忘れられなくて… 早乙女ありす",
+  "publish_date": "2023-05-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "肛交",
+    "变性者",
+    "白天出轨",
+    "女装人妖",
+    "恐怖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90591",
+  "actresses": []
+};

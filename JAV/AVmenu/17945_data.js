@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c333935-1da4-4b8c-9ad6-43323d027af0/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241031/buIteBvj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17945,
+  "IDcode": "SUWK-002",
+  "title": "被鎖定的美女網紅 我被村莊的男人們「監禁、飼養、輪姦」的紀錄片",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "鄉下",
+    "調教",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "潮吹",
+    "口交",
+    "強姦",
+    "監禁",
+    "輪姦",
+    "多P",
+    "美少女",
+    "暗黑系",
+    "緊縛",
+    "手指插入",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231109/557b0227-35f3-4136-855a-5f9a510c6d55.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231109/557b0227-35f3-4136-855a-5f9a510c6d55.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17945",
+  "actresses": [
+    {
+      "name": "佐々木ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20230927/551603d2-3fb4-4eab-86c2-601028a69418.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17945&name=佐々木ひな"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/af03d88c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69461,
+  "IDcode": "MVG-124",
+  "title": "- 【FANZA限定】近所の学生達のギンギンチ○ポイラマで喉奥をめちゃくちゃに犯●れたい若妻 清巳れの パンティとチェキセット - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "调教",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69461",
+  "actresses": [
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69461&name=清巳麗乃"
+    }
+  ]
+};

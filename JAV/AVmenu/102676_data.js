@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220311/B0CA80A22F4F2B23/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102676,
+  "IDcode": "DD-017",
+  "title": "BONDAGE DOLL 夢野まりあ",
+  "publish_date": "2002-08-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "紧缚",
+    "SM"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102676",
+  "actresses": [
+    {
+      "name": "梦野まりあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102676&name=梦野まりあ"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/11/c2ca4278/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107646,
+  "IDcode": "HMN-425",
+  "title": "解禁 はじめての真正中出し 現役アイドルがナマの快感でどスケベになった日 前田美波 生写真2枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "偶像",
+    "颜射",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107646",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107646&name=前田美波"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107646&name=Qべぇ"
+    },
+    {
+      "name": "ゆーきゅん×",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107646&name=ゆーきゅん×"
+    }
+  ]
+};

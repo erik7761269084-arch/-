@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/aa507715/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67671,
+  "IDcode": "FOCS-245",
+  "title": "清純JDがヤリサー堕ちした記録 性欲暴走して連続中出しチ●ポ駅伝乱交 精子を繋げ！サークル内共有中出し専用マ●コ 桃瀬ひまり",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "滥交",
+    "运动",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67671",
+  "actresses": [
+    {
+      "name": "桃瀨日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240928/862b358a-4a20-4abd-a93c-58d4cdfc9f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67671&name=桃瀨日葵"
+    }
+  ]
+};

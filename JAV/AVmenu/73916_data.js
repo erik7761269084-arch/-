@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/vXLfIHe7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73916,
+  "IDcode": "JUFE-074",
+  "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 美甘りか",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "流汗",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/33f759d420b79d95c6bc4f90b6a407c2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73916",
+  "actresses": []
+};

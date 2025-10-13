@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/4514907D57DA19CF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98994,
+  "IDcode": "MAKT-014",
+  "title": "世間の厳しさを知らないお嬢様育ちの箱入り娘に強制中出し 加賀美まり",
+  "publish_date": "2019-10-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1133makt014/h_1133makt014pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98994",
+  "actresses": [
+    {
+      "name": "加贺美まり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98994&name=加贺美まり"
+    }
+  ]
+};

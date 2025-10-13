@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3a937e3-2b87-4e2c-a517-7086c276af1e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/a97f611a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10500,
+  "IDcode": "WAWA-029",
+  "title": "和被大雨淋的溼透的巨乳女友的濡溼做愛SEX ~ 浜辺栞帆",
+  "publish_date": "2024-11-21",
+  "type": "有码",
+  "company": "HAWAII",
+  "genres": [
+    "後入",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "純愛・戀愛",
+    "性感",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241120/20241120210418774774.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241120/20241120210418774774.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10500",
+  "actresses": [
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10500&name=浜辺栞帆"
+    }
+  ]
+};

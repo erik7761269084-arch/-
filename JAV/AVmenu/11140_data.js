@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7a37ffe-ca08-4789-9348-2b6fbb7056fa/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/29/e6b1f6c7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11140,
+  "IDcode": "NSFS-326",
+  "title": "新・不倫淫亂妻 - 操到雞巴痛的受不了了！性欲無法阻擋 ~ 西野繪美",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "帐篷",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "野外露天",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241020/c0326969-e836-43f4-8cdb-30563ed49341.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241020/c0326969-e836-43f4-8cdb-30563ed49341.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11140",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11140&name=西野絵美"
+    }
+  ]
+};

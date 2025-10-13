@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a17f185-df31-4d45-807b-4e6ae99f9b94/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17046,
+  "IDcode": "SSNI-060",
+  "title": "平時很嚴肅的高級白領OL，穿着緊身裙和緊實的屁股溫柔地誘惑着我。",
+  "publish_date": "2017-11-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "OL",
+    "制服",
+    "性感",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "辦公室",
+    "女上司"
+  ],
+  "description": "SSNI-060为S1出品,2017年11月25日发行的有碼成人影片由柳美憂出演\n我的女上司柳美憂學姐總是穿着短褲和緊身短裙。而且，屁股太大了，工作的時候也只能產生調皮的幻想……柳美憂學姐問我“對我的屁股感興趣嗎？”並讓我摸它。 。 它在這裏！如果你的工作中遇到了平時嚴厲卻又調皮誘惑的前輩怎麼辦……這是一部讓你幻想成真的情景作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227100445218218.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231227/20231227100445218218.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17046",
+  "actresses": [
+    {
+      "name": "柳美憂",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/aaa1ef88-cbcb-4c83-ba17-8c66f01496e3.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17046&name=柳美憂"
+    }
+  ]
+};

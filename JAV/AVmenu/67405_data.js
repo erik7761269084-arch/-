@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250501/2RQTbMeV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67405,
+  "IDcode": "EBOD-770",
+  "title": "早熟Iカップに無自覚すぎるノーブラおっとり姪っ子 凪沙ゆきの",
+  "publish_date": "2020-10-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "恋乳癖",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67405",
+  "actresses": [
+    {
+      "name": "凪沙雪乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67405&name=凪沙雪乃"
+    }
+  ]
+};

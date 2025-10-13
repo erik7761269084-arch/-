@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/27/41275854/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73310,
+  "IDcode": "PRTD-017",
+  "title": "緊縛麻薬捜査官～救出まで2時間、私は絶対に諦めない～ 山岸逢花",
+  "publish_date": "2018-08-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "凌辱",
+    "捆绑",
+    "数位马赛克",
+    "深喉",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73310",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73310&name=山岸逢花"
+    }
+  ]
+};

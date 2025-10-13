@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/03/27807d8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70705,
+  "IDcode": "JUL-245",
+  "title": "マドンナ専属・東凛が悶えイク本気絶頂！！ 密着セックス～悲しみを分かち合う愛欲性交～",
+  "publish_date": "2020-06-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70705",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70705&name=大岛丈"
+    },
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70705&name=东凛"
+    }
+  ]
+};

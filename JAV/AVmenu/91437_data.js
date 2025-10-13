@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/02/f88c66c4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91437,
+  "IDcode": "CJOD-395",
+  "title": "【FANZA限定】エッチなお姉さんが痴女ってくる中出しOK回春アジアンメンズエステ 黒川すみれ 生写真2枚付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "手淫",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240501-1/0abce2e7713e600d1a82cc58a793c82a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91437",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91437&name=黑川堇"
+    }
+  ]
+};

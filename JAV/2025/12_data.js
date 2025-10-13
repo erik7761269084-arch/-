@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b9ff564b-c984-4d9a-80b4-5a93977f22d7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12,
+  "IDcode": "1PON-010919_795",
+  "title": "火辣尤物誘惑無限 ~ 南未果子",
+  "publish_date": "2019-01-09",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "情趣內衣",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "豐滿",
+    "女優"
+  ],
+  "description": "1PON-010919_795为一本道出品,2019年1月9日发行的無碼成人影片由南未果子出演\nG罩杯火爆身材配上超勾人的性感內衣，簡直是色氣爆棚！南未果子在《火辣尤物》中大展魅力，內衣一滑，巨乳直接呼之欲出，雙腿一張，小陰唇都從內褲邊緣露出來，挑逗得人小鹿亂撞！誰能抗拒這種致命的誘惑啦？巨乳專屬玩法應有盡有，滿身油光滑溜溜的身體閃著光，貼身纏綿的激烈性愛，真的讓人看得心癢癢，絕對不能錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/20251007233831799799_30593_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251007/20251007233831799799_30593_s.webp",
+  "title_play_url": null,
+  "actresses": [
+    {
+      "name": "南未果子",
+      "img_url": "https://picture.yoshiclub.xyz/20231029/e476288f-fa20-48e5-afa9-10cdea1f4024.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12&name=南未果子"
+    }
+  ]
+};

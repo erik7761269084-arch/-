@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b9dc3ef-7b67-43ff-8974-ffb957d62ad3/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/04/4ed8eefd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15012,
+  "IDcode": "WAAA-376",
+  "title": "讓他的膝蓋顫抖，臀部凸出，潮吹，並在高潮時射精 都月楓",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "WAAA-376为WANZ FACTORY出品,2024年5月7日发行的有碼成人影片由都月楓出演\n【性愛的王道！蓋奇活塞最強！ 】性感爆肌淫蕩運動員VS肌肉力量！她的背部在顫抖，而且她因為向後站而劇烈抽搐操！然後，在飛向快感彼岸的高潮恍惚狀態下，汗水、潮水、唾液、尿液等體液散發出高潮！而且，衝擊子宮的動力活塞讓她爆炸，腹肌崩潰！粉碎無底的性慾怪物並讓它高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503024732706706.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503024732706706.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15012",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15012&name=都月楓"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15012&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/9f97bc91/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78536,
+  "IDcode": "CJOD-214",
+  "title": "こっそりノーパンノーブラお姉ちゃん達に一斉攻撃で誘惑されちゃったボク。 晶エリー 波多野結衣",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "姐姐",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78536",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78536&name=波多野结衣"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78536&name=新井爱丽"
+    }
+  ]
+};

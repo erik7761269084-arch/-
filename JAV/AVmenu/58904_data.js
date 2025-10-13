@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230323/C48D898D67DF5B35/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58904,
+  "IDcode": "CWPBD-133",
+  "title": "キャットウォーク ポイズン 133【淫乱欲情妻】ジャポルノ降臨",
+  "publish_date": "2015-09-15",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "雪白皮肤",
+    "店长推荐",
+    "写真",
+    "无套内射",
+    "乳液",
+    "立即口交",
+    "背后插入",
+    "站立性交",
+    "骑乘位",
+    "背部骑乘位",
+    "跳",
+    "口爆/吞精",
+    "口交",
+    "巨乳爆乳",
+    "束缚",
+    "美女",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58904",
+  "actresses": []
+};

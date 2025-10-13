@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2322d6d0-d84e-45c5-bea5-49b57201350c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16253,
+  "IDcode": "MIFD-470",
+  "title": "新人出道！包子形大奶子，忍不住想把它們吃掉。即使是暴力3P，她也達到了顫抖的高潮！AV DEBUT",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美少女",
+    "出道作品",
+    "巨乳",
+    "女優"
+  ],
+  "description": "MIFD-470为MOODYZ出品,2024年2月20日发行的有碼成人影片由南本まや出演\n有一種東西可以給你的生活帶來滋潤，提高你的生活質量……但只有陰莖能滋潤你的陰部，提高你的性生活質量！平時嚴肅冷靜的花店首次身着微服AV出道！想要被狠狠攻擊，又喜歡自慰……其實是個陰鬱淫蕩的女孩。包子形狀的乳房，讓人忍不住想把它們吃掉。一只軟軟的貓。即使是暴力3P，她也達到了顫抖的高潮！噴！第一次面部射精與禮貌的口交！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216080739868868.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240216/20240216080739868868.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16253",
+  "actresses": [
+    {
+      "name": "南本まや",
+      "img_url": "https://picture.yoshiclub.xyz/20240217/5e40ab0f-8ac5-4126-80c7-3fbbb84d7f49.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16253&name=南本まや"
+    }
+  ]
+};

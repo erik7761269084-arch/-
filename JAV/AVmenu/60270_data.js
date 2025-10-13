@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/303414ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60270,
+  "IDcode": "OKK-099",
+  "title": "山口由愛 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "親父の個撮",
+  "genres": [
+    "乳液",
+    "学校泳装",
+    "偷窥",
+    "局部特写",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60270",
+  "actresses": [
+    {
+      "name": "山口由愛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250825/7889b177-5fb8-4388-906d-888909afd7c9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60270&name=山口由愛"
+    }
+  ]
+};

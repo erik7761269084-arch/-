@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/00e8a5b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59811,
+  "IDcode": "FTHTD-145",
+  "title": "- 性FALENO学●強化合宿 もっと私たちにプロテイン（精子）をください！貪欲な部員たちによる酒池肉林の集団合同トレーニング！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FALENO TUBE",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/00e8a5b2/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59811",
+  "actresses": []
+};

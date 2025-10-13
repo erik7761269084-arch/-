@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/WWm7Fkzv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93958,
+  "IDcode": "RCTD-606",
+  "title": "近親相姦が当たり前の岡本一家。",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "巨乳",
+    "多P",
+    "乱伦",
+    "母亲",
+    "企画",
+    "巨大屁股",
+    "妹妹",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/3f2e3f97dad8145a9f5fb329bc17a0d4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93958",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93958&name=宇流木沙羅"
+    },
+    {
+      "name": "岡本莉里",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/66611161-4af8-4c68-a2bd-1591ee0fe3ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93958&name=岡本莉里"
+    }
+  ]
+};

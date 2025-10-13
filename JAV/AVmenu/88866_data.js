@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/tDX498GW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88866,
+  "IDcode": "UKH-028",
+  "title": "同窓会で酔って寝ている所を襲われて… 三岳ゆうな",
+  "publish_date": "2023-08-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/060223ad9888ad01a1851aabdd99c058.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88866",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88866&name=三岳祐奈"
+    }
+  ]
+};

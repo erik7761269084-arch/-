@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/p27UjmpD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74480,
+  "IDcode": "JUY-877",
+  "title": "消えてなくなりそうな儚い透明感 艶肌人妻 水美れい 28歳 AVデビュー！！",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "乳房",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74480",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74480&name=鲛岛"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74480&name=しみけん"
+    },
+    {
+      "name": "水美れい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74480&name=水美れい"
+    }
+  ]
+};

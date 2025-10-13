@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250407/bQ30kP0B/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67938,
+  "IDcode": "SSIS-499",
+  "title": "與最愛的人睽違數年再會…想一起度過的僅僅數小時沒有睡覺時刻的性愛。 河北彩花",
+  "publish_date": "2022-08-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "口交",
+    "接吻",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250407-1/a5b793e72e1c4371c3d74d6c87fa0376.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67938",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67938&name=河北彩花"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67938&name=イセドン内村"
+    }
+  ]
+};

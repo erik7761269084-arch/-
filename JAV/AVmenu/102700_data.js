@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220406/A591A829DB70DD9A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102700,
+  "IDcode": "HODV-21337",
+  "title": "星奈あい ～あどけない瞳のエッチな妖精～",
+  "publish_date": "2018-11-02",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "4小时以上作品",
+    "乱伦",
+    "女同性恋",
+    "妹妹",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102700",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102700&name=星奈爱"
+    }
+  ]
+};

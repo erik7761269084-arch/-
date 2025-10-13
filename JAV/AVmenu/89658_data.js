@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/QAdNZHav/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89658,
+  "IDcode": "SDAM-075",
+  "title": "令和ギャルが参戦!なりきりダッチワイフカップルゲーム!彼氏が見ている目の前で一流AV男優に激ピストンされても彼女が動かなければ100万円!!2",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/f89fafd9325fbeb35c30ab4d0ded25de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89658",
+  "actresses": []
+};

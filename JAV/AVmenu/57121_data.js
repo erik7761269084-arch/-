@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221020/2333997D661FDC9B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57121,
+  "IDcode": "0232C0A3BF405D0187E1A74F6547B1AF",
+  "title": "【無】濃密まぐわい ～本気でヤッちゃいました～ パート2",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57121",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/da80460e-a087-4be5-a085-238a98a4fee6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18966,
+  "IDcode": "IPX-483",
+  "title": "催淫豐胸沙龍 變態中年按摩師的春藥按摩讓女友覺醒乳頭高潮",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "按摩・物理治療・美容",
+    "潮吹",
+    "按摩・美容店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818204346677677.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818204346677677.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18966",
+  "actresses": [
+    {
+      "name": "萌波鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/7b1d7e87-924c-4409-a3d9-4ad7c62b8799.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18966&name=萌波鈴"
+    }
+  ]
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/ZOK102Co/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79175,
+  "IDcode": "ROYD-056",
+  "title": "- 女に飢えた男子寮へお手伝いにやってきた防御力ゼロな寮母の娘ちゃん。 百瀬あいり - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9dd26cde964fdf79c953723e0b6b6d46.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79175",
+  "actresses": [
+    {
+      "name": "百瀬アイリ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79175&name=百瀬アイリ"
+    }
+  ]
+};

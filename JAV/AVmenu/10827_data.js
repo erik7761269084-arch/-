@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d591722a-887b-4e0d-822f-bbcd59d634a0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10827,
+  "IDcode": "GS-2109",
+  "title": "人妻溫泉愛情之旅166 完整版",
+  "publish_date": "2024-08-02",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "後入",
+    "素人作品",
+    "劇情",
+    "淫亂",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "出軌",
+    "NTR",
+    "溫泉",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241106/ccdef57d-a234-45ec-8103-3c788bdb7942.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241106/ccdef57d-a234-45ec-8103-3c788bdb7942.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10827",
+  "actresses": []
+};

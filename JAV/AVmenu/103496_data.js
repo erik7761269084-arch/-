@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/10/46b941ba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103496,
+  "IDcode": "ABP-001",
+  "title": "水咲ローラがご奉仕しちゃう超最新やみつきエステ",
+  "publish_date": "2013-06-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "妓女",
+    "手淫",
+    "美容院",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103496",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103496&name=田渊正浩"
+    },
+    {
+      "name": "水咲萝拉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103496&name=水咲萝拉"
+    }
+  ]
+};

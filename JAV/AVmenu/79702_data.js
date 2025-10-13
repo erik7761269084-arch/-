@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/72fa4c87/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79702,
+  "IDcode": "HBAD-337",
+  "title": "妻の不倫相手は父 夜毎おこなわれる若夫婦の営みに耐えている50過ぎの義父の優しさに心も体も許してゆく嫁 倉多まお",
+  "publish_date": "2016-11-10",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "出轨",
+    "乱伦",
+    "企画",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ba5628ce4d8315f7d3753c8861672ae1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79702",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79702&name=仓多真央"
+    }
+  ]
+};

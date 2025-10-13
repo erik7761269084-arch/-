@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cd5838d1-f0dc-4d3b-be9a-efceabc73d37/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/30/2d0f9577/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15246,
+  "IDcode": "FOCS-192",
+  "title": "新人登場，擁有透明身材的美少女，是一名活躍的護士，我會滿足你所有淫蕩的願望 ~ 一宮みほの",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "女看護",
+    "美乳",
+    "兩男一女",
+    "出道作品",
+    "女優"
+  ],
+  "description": "FOCS-192为妄想族出品,2024年4月23日发行的有碼成人影片由一宮みほの出演\n一宮美穗乃，充滿透明感的活躍護士，滿足你所有調皮的願望！我想怪罪一個人，我想蒙著眼睛玩，我想跟多個人玩！請期待美穗野滿足各種慾望、享受巨大曲線的美妙身體、最後在體內射精的震撼出道作品吧♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420034114220220.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240420/20240420034114220220.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15246",
+  "actresses": [
+    {
+      "name": "一宮みほの",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/67e84128-248f-4f1d-8591-5dd8acf4a84c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15246&name=一宮みほの"
+    }
+  ]
+};

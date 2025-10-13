@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/FTUTejgz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87076,
+  "IDcode": "ONEZ-367",
+  "title": "けつあな確定 アナルはオマ●コの代わり…そう教えられている妹たちとひたすら肛門性交 ダブルサンドすぺしゃる ゆう まりえ",
+  "publish_date": "2023-06-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "制服",
+    "肛交",
+    "妹妹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87076",
+  "actresses": [
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87076&name=小西真理繪"
+    }
+  ]
+};

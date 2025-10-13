@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/ClwXXZWx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69392,
+  "IDcode": "PPPE-080",
+  "title": "- はじめて彼女ができたのに！年下の女上司に痴女られ残業と営業と出張が増えた僕 楪カレン - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69392",
+  "actresses": []
+};

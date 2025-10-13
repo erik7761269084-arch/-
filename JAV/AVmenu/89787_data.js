@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240107/BjAaUvnW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89787,
+  "IDcode": "RVG-211",
+  "title": "禁断介護BEST VOL.19",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89787",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=辻井穗乃果"
+    },
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=小早川怜子"
+    },
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=加藤あやの"
+    },
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=铃木里美"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=久留木玲"
+    },
+    {
+      "name": "中野七绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89787&name=中野七绪"
+    }
+  ]
+};

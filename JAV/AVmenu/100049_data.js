@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230309/0FD7DD3B31DD8EA3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100049,
+  "IDcode": "DDKM-005",
+  "title": "縛交 狂乱交尾・ドマゾ女を縛肉連続ファック 早川瑞希",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "SM",
+    "羞耻",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ddkm005/ddkm005pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100049",
+  "actresses": [
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100049&name=若宫はずき"
+    }
+  ]
+};

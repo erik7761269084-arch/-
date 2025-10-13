@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230221/AA760595BC9DAB81/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99802,
+  "IDcode": "JBD-177",
+  "title": "自宅出張SM4 みおり舞",
+  "publish_date": "2014-09-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "SM",
+    "羞耻",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99802",
+  "actresses": [
+    {
+      "name": "美织舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/d4d05a5d-624c-4584-93c7-8a43ac8711b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99802&name=美织舞"
+    }
+  ]
+};

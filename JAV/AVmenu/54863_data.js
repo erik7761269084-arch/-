@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220514/E7395ACF0158D6EF/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54863,
+  "IDcode": "C670CCC827430F4FB3E9B9AB9DCF0BBF",
+  "title": "内裤重生荡妇美学 不耐烦的礼貌脏话 直到射精才回来 木岛爱理",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54863",
+  "actresses": []
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/130fcb68-766d-45be-b92e-1cac21165525/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1014,
+  "IDcode": "HEYZO-1415",
+  "title": "看上去很普通的女人，脫掉衣服後卻很迷人",
+  "publish_date": "2017-02-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "咖啡店",
+    "乳交",
+    "中出",
+    "制服",
+    "職員",
+    "服務生",
+    "性感"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020936496496.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240118/20240118020936496496.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1014",
+  "actresses": [
+    {
+      "name": "星咲ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20240118/92c6b512-ec6c-4ef2-841a-e889eed8c89e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1014&name=星咲ひな"
+    }
+  ]
+};

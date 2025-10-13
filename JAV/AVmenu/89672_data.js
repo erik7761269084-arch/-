@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/bKGB4cVb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89672,
+  "IDcode": "SDDE-698",
+  "title": "インテリ女子〇生達が激突! 全国〇校生ピストンバイブクイズ選手権 ～答えられなかったらおマ〇コピストンの勢い倍増!波乱万丈の青春クイズバラエティ～",
+  "publish_date": "2023-07-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89672",
+  "actresses": [
+    {
+      "name": "姫野らん",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/e8c74bfa-a4ca-4879-8060-3df057e3a8ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89672&name=姫野らん"
+    },
+    {
+      "name": "白石環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/1b9431b5-57c0-4fe3-916f-90f05c52a063.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89672&name=白石環奈"
+    },
+    {
+      "name": "泉田栞",
+      "img_url": "https://picture.yoshiclub.xyz/20241110/cf92f5c8-9f58-49c1-bd6b-ac119dda0efb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89672&name=泉田栞"
+    },
+    {
+      "name": "丸山結愛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89672&name=丸山結愛"
+    }
+  ]
+};

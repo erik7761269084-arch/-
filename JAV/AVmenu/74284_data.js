@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/13/e5ca8cf7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74284,
+  "IDcode": "MXGS-159",
+  "title": "風俗頻道 11",
+  "publish_date": "2009-02-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "已婚妇女",
+    "女上位",
+    "SM",
+    "妓女",
+    "手淫",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/13/8bff284bf2e5e8edc4626932922d1e88.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74284",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74284&name=吉沢明歩"
+    }
+  ]
+};

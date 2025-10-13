@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/732a888c-2b71-4a15-8b98-6e2d46855201/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/11/bd9d1079/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9063,
+  "IDcode": "PPPE-302",
+  "title": "搬進隔壁房子的想要懷孕的巨乳人妻，真空巨乳誘惑，發生了足以受孕的性交 ~ 夏川步美",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "黑絲",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "勾引・誘惑",
+    "鄰居",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "美人",
+    "短髮"
+  ],
+  "description": "PPPE-302为OPPAI出品,2025年1月21日发行的有碼成人影片由夏川步美出演\n白天，已婚婦女的懷孕事件與她搬入的公寓旁的年輕人糾纏在一起……步美因搬家後的興高采烈而期待丈夫對她的懷孕事件充滿熱情，但她的丈夫依然冷漠。精疲力盡的亞由美不穿胸罩勾引隔壁的年輕人，併計劃嘗試與丈夫以外的男人懷孕……在確認與丈夫相同的血型和風險日期後，女性開始了為了懷孕而發生的外遇。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074549681681.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116074549681681.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9063",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9063&name=夏川步美"
+    }
+  ]
+};

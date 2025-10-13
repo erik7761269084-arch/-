@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d739f720-0e2d-4c3c-a7b8-e80838f4f9d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 584,
+  "IDcode": "HEYZO-0703",
+  "title": "賽車女郎的作品 浸泡在乳液中 ~ 井上英李",
+  "publish_date": "2014-10-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "制服",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "打手槍",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "巨乳",
+    "高跟鞋",
+    "抹油",
+    "美少女電影",
+    "賽車女郎",
+    "COSPLAY服飾"
+  ],
+  "description": "HEYZO-0703为HEYZO出品,2014年10月11日发行的無碼成人影片由井上英李出演\nキャンギャルのお仕事～ローションでぐちょぐちょ～ - 井上英李",
+  "cover_url": "https://picture.yoshiclub.xyz/20241106/1a388750-af46-4556-8982-006a5ab5f755.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241106/1a388750-af46-4556-8982-006a5ab5f755.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=584",
+  "actresses": [
+    {
+      "name": "井上英李",
+      "img_url": "https://picture.yoshiclub.xyz/20241016/e95f5d99-f2f5-4167-a5e9-b21cce8591ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=584&name=井上英李"
+    }
+  ]
+};

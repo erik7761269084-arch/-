@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1114ce64-2cf4-4ba0-a6fc-4eed3025d791/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/aca9f3a8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3036,
+  "IDcode": "IPZZ-656",
+  "title": "替身肉便器：與絕倫極道大佬的10天監禁調教生活 ~ 花守夏歩",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "二次元",
+    "調教",
+    "傲嬌",
+    "臀控",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "監禁",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "欠債肉償",
+    "美人",
+    "淫蕩・硬核",
+    "阪道系",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "IPZZ-656为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由花守夏歩出演\n嘿，這小妹也太正了吧…真他媽誘人！想救你弟弟？那就乖乖當我10天的女人！為了幫弟弟還債，姐姐被絕倫極道大佬關在家裡，強迫用肉體伺候。想玩就玩，隨時隨地，屁股一翹就得給我上！不管在哪，只要大佬硬了，當場就開幹，猛力衝刺！每天都被快感淹沒，滿身都是精液…這騷身體，簡直讓老子停不下來！每一次被狠狠插入，身體都變得越來越淫蕩，完全沉淪在這無盡的慾望中！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025204924924_85088_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025204924924_85088_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3036",
+  "actresses": [
+    {
+      "name": "花守夏歩",
+      "img_url": "https://picture.yoshiclub.xyz/20250207/d739dc5b-0c7f-479e-badc-d399c3fbad46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3036&name=花守夏歩"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/21/e01cb8cb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78134,
+  "IDcode": "SIM-053",
+  "title": "『マジでオナってる！？』隣に駐車している車でオナニー中の美女を発見！しかも見られていることに気づき見せつけるように誘惑してきた…",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "自慰",
+    "汽车性爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78134",
+  "actresses": [
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78134&name=向理来"
+    }
+  ]
+};

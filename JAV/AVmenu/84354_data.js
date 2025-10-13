@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/20/15005c4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84354,
+  "IDcode": "DLDSS-111",
+  "title": "嗑藥做愛 被討厭的老公部下下藥高潮連連的傲慢妻子 本田桃",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "苗条",
+    "药物",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/1ed9b80c691d39700eb29f266058370d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84354",
+  "actresses": []
+};

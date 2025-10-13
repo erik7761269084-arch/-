@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221128/8B9FEAF412EE2079/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38940,
+  "IDcode": "FC569B3DF16CAF7FC6CEFAB-271186917",
+  "title": "寝取らせ 中出し",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "G.M.E",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38940",
+  "actresses": []
+};

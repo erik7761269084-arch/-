@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/08/74c2d265/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100075,
+  "IDcode": "MIDE-753",
+  "title": "像初次射精般的快感爽到漏尿 白阪有以",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "放尿",
+    "颜射",
+    "潮吹",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/01/08/ebc09ed2dfa43d0d990a2e043621dbe8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100075",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100075&name=鲛岛"
+    },
+    {
+      "name": "白坂有以",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100075&name=白坂有以"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250408/bkZh7lzf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68761,
+  "IDcode": "ROE-089",
+  "title": "絶対に手を出してはイケナイはずの美しい母と僕は血の繋がらない母子関係で…。 平岡里枝子",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68761",
+  "actresses": [
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68761&name=平冈里枝子"
+    }
+  ]
+};

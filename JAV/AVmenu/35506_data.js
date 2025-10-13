@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/2b20f82a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35506,
+  "IDcode": "DRM-002",
+  "title": "被囚禁的奴隶薰櫻子无码流出版",
+  "publish_date": "2025-07-24",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/23/3c1471cdd8d86623b1903007449c1ae2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35506",
+  "actresses": []
+};

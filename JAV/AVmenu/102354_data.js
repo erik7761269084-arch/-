@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240603/jRA0LWy2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102354,
+  "IDcode": "NACR-392C",
+  "title": "被於求不滿的兒媳誘惑 川上優",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102354",
+  "actresses": []
+};

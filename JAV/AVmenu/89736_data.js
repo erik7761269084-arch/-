@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/25/dd871be2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89736,
+  "IDcode": "ROE-166",
+  "title": "主人が出張で不在中の3日間、愛する息子の子供を孕むまで幾度となく搾精し続けました―。 友田真希",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89736",
+  "actresses": [
+    {
+      "name": "友田真希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/024a3bbf-99af-4b33-9026-aa6a1e98dfd3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89736&name=友田真希"
+    }
+  ]
+};

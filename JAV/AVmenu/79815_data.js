@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/2ZL8W004/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79815,
+  "IDcode": "LUXU-1475",
+  "title": "ラグジュTV 1454 透明感と癒しと独特の魔性を秘めた美人エステティシャンが登場！自慢のエステテクで勃起させた巨根を目の当たりにし妖艶な表情を浮かべる彼女。オイルで怪しくイヤらしい艶を纏った美スレンダースタイルとその乱れゆく姿は必見！",
+  "publish_date": "2021-09-08",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "屁股",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79815",
+  "actresses": []
+};

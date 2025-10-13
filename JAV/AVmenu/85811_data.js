@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230129/Fs5qzqAP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85811,
+  "IDcode": "NXG-372",
+  "title": "S級人妻ベストセレクション 通野未帆 旦那の前で死ぬほどイカされて…180分",
+  "publish_date": "2022-03-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85811",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85811&name=通野未帆"
+    }
+  ]
+};

@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240430/ZgGHuphp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91346,
+  "IDcode": "CJOB-135",
+  "title": "チ○ポ丸呑み舐めじゃくり精子を何度も搾り取る蛇舌フェラBEST",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "淫乱，真实",
+    "荡妇",
+    "口交",
+    "恋物癖",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91346",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=大槻响"
+    },
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=辻井穗乃果"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=本真友里"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=深田詠美"
+    },
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=西村ニーナ"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=枢木葵"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=久留木玲"
+    },
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=佐伯由美香"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=安倍亜沙美"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91346&name=篠田优"
+    }
+  ]
+};

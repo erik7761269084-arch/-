@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/014BAB2F45122311/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64210,
+  "IDcode": "58B47C249C4843F57042A13D16115C-06",
+  "title": "最新2019极品爆乳女神私人玩物新年首部作品化身日系校服学妹 360度展露修长美腿",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64210",
+  "actresses": []
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/606578f7-7a6e-42d0-9425-5c418c88ebbc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4249,
+  "IDcode": "DOA-123",
+  "title": "黑人巨大陽具震撼體驗 好奇素人妹子誤入狼窩被超大雞巴徵服瘋狂高潮2 ~ 工藤ひなた 永瀬愛菜",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "黑人男優",
+    "搭訕",
+    "女上位",
+    "素人",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "舔陰",
+    "美少女",
+    "鬼畜片",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "短髮",
+    "大雞巴",
+    "美少女電影"
+  ],
+  "description": "DOA-123为妄想族出品,2025年7月19日发行的有碼成人影片由永瀬愛菜，工藤ひなた出演\n街頭搭訕大成功，兩個黑人老哥直接把兩個純情素人妹子拐回家！妹子們一看到那超大尺寸的黑武器，當場嚇傻眼！但等她們忍不住嘗了一口那又黑又粗的巨屌，馬上暴露淫蕩本性，爽到停不下來！黑人兄弟的長距離衝刺加上狂野活塞，頂到小腹都鼓起來，衝擊力直接爆表！那肉棒的厚實感緊貼黏膜，爽到不行啊！這種從未體驗過的黑人巨屌的壓倒性震撼，普通的尺寸根本滿足不了她們，徹底淪陷啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211158691691_51214_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211158691691_51214_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4249",
+  "actresses": [
+    {
+      "name": "永瀬愛菜",
+      "img_url": "https://picture.yoshiclub.xyz/20250212/8c982f41-38da-4cd3-9cc1-5462b2468840.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4249&name=永瀬愛菜"
+    },
+    {
+      "name": "工藤ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250720/9befa66e-486e-444f-89ff-21960e3af655_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4249&name=工藤ひなた"
+    }
+  ]
+};

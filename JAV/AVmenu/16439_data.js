@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/54c03ff0-a643-4516-90b2-758e94586e8c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16439,
+  "IDcode": "FPRE-014",
+  "title": "星明日菜（21 歲）帶着燦爛溫柔的笑容和讓人想永遠擁有的豐滿身材。第一次中出性愛！",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "企畫",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "口交",
+    "巨乳",
+    "女優"
+  ],
+  "description": "FPRE-014为FITCH出品,2024年2月6日发行的有碼成人影片由星明日菜出演\n來公園迎接我的是笑容可愛的星明日菜（21歲）。 170公分的身高，隔着衣服也能看到豐滿的胸臀，非常性感，擁有所謂的惠身材。還是一個用友好的關西方言說話，讓周圍的人微笑的角色。上節目的動機是想給奶奶一次旅行作爲禮物。當然，本身也熱愛性，所以遊戲進展順利，感覺很好，當雞巴插入時，感覺太好了",
+  "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205102026946946.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240205/20240205102026946946.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16439",
+  "actresses": [
+    {
+      "name": "星明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240113/8440afe2-37f9-4684-bee8-1dd1fcc223a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16439&name=星明日菜"
+    }
+  ]
+};

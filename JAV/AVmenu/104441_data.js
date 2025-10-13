@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/06/96dc9b1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104441,
+  "IDcode": "YMDS-131",
+  "title": "爆発奥さん 背徳感にイキ狂うGカップ美人妻！泥●した夫のそばでそのまま他人凸を受け入れ欲求爆発！（新感覚NTR） 橘メアリー",
+  "publish_date": "2023-03-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/05/6ba28b4a2e9035d0f458c57f710ecd62.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104441",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104441&name=橘瑪麗"
+    }
+  ]
+};

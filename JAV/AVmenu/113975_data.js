@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/30/77dc0c0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113975,
+  "IDcode": "FC2-3081487",
+  "title": "苗条性感的美人妻",
+  "publish_date": "2025-10-01",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/29/bcabc6328ee40866d1b788a39772cf77.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113975",
+  "actresses": []
+};

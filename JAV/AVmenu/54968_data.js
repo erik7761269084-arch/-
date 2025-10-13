@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54968,
+  "IDcode": "1A66F210044A2CD764307EC382F62BD5",
+  "title": "桃尻的诱惑!生理期还不忘爱爱~ナツ",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54968",
+  "actresses": []
+};

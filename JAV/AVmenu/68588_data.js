@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/25/e89aa811/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68588,
+  "IDcode": "YMDS-125",
+  "title": "いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 安達ゆらが彼女になった日",
+  "publish_date": "2022-12-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "玩具",
+    "连裤袜",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250407-1/c83f9e30f15b1a64077ed82d6d28c065.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68588",
+  "actresses": [
+    {
+      "name": "安達ゆら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68588&name=安達ゆら"
+    }
+  ]
+};

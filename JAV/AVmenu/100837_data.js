@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/18/7e2c4699/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100837,
+  "IDcode": "MIFD-251",
+  "title": "新人 「勝手にイッてごめんなさい」エッチに夢中になり過ぎて何度もサイレントイキ敏感娘AV DEBUT 大森ゆあ （BOD）",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "苗条",
+    "首次亮相",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100837",
+  "actresses": [
+    {
+      "name": "大森ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100837&name=大森ゆあ"
+    }
+  ]
+};

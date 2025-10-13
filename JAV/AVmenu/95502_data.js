@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/29/ac2353be/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95502,
+  "IDcode": "MEYD-043",
+  "title": "男根的誘惑 東凜",
+  "publish_date": "2015-07-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗条",
+    "巨大阴茎",
+    "新娘，年轻妻子",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95502",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95502&name=森林原人"
+    },
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95502&name=东凛"
+    }
+  ]
+};

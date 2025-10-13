@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/A79vfRhF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75640,
+  "IDcode": "MIAA-214",
+  "title": "～夫の上司に犯●れる最強美女～捜査官を辞めて妻になったのに… 倉多まお",
+  "publish_date": "2020-02-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75640",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75640&name=仓多真央"
+    }
+  ]
+};

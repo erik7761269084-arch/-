@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/02/1257c822/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107665,
+  "IDcode": "IPZZ-083",
+  "title": "出向先へ向かう通勤電車の2時間ずっと焦らされ…開発されて… 1ヶ月に及ぶ電車痴●で全身性感帯にされてしまった私… 古川ほのか",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "凌辱",
+    "淫乱，真实",
+    "苗条",
+    "OL",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/03/5c648db92477ffe4eacec0e66f6f531b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107665",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f623a7b6-985e-48a0-8c62-9d3b4bdc08d5/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/07/e34b1d88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3078,
+  "IDcode": "MMUS-101",
+  "title": "小惡魔挑逗美少女 ~ 宮城理惠",
+  "publish_date": "2025-08-29",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "游戲COSPLAY",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "癡女",
+    "校園生活",
+    "手指插入",
+    "美人",
+    "學校",
+    "真實拍攝",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "羞恥"
+  ],
+  "description": "MMUS-101为MARRION出品,2025年8月29日发行的有碼成人影片由宮城理惠出演\n這期小惡魔挑逗系列，帶來了一位超正的美少女！身材纖細、逆天長腿，宮城理惠根本是天菜等級的存在！她換上各種制服和cosplay，擺出超誘人的內褲走光姿勢，還會親自教你怎麼爽，化身小惡魔把你撩到心癢癢，停不下來！快來感受她的致命魅力啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210113649649_78830_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210113649649_78830_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3078",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3078&name=宮城理惠"
+    }
+  ]
+};

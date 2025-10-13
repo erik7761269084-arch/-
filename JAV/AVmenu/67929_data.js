@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250418/VozpmutQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67929,
+  "IDcode": "HODV-21703",
+  "title": "性交覚醒 人生初ポルチオ開発！理性が吹き飛ぶ激ピストン痙攣大絶頂Special 九十九メイ パンティと生写真付き",
+  "publish_date": "2022-09-02",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "玩具",
+    "高",
+    "苗条",
+    "子宫颈",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67929",
+  "actresses": [
+    {
+      "name": "九十九メイ",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/32428801-d061-402c-9f80-0a1db7a24be0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67929&name=九十九メイ"
+    }
+  ]
+};

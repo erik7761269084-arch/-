@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231109/D4QyY2wW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100846,
+  "IDcode": "GANA-2937",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 315 ゲーム大好き超インドア娘を自宅に連れ込み！家から滅多にでないので肌が真っ白！ちょっぴり恥ずかしがりながらもニコニコでSEXを楽しむ姿を隠しカメラので盗撮！",
+  "publish_date": "2023-10-30",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "屁股",
+    "业余",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100846",
+  "actresses": [
+    {
+      "name": "小島美子",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/94e36d78-25f4-4161-9ea7-97da1a4f25eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100846&name=小島美子"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/27/c4f54b14/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106993,
+  "IDcode": "NHDTB-831",
+  "title": "温泉媚薬中出し痴● 千石もなかさんのパンティとチェキ付き",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "女大学生",
+    "乳房",
+    "和服，丧服",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/12/26/ab7610a30a5e18a899df5f37dcf60102.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106993",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106993&name=美澄玲衣"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/ahm3tZYH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74470,
+  "IDcode": "JUY-850",
+  "title": "現役人妻キャビンアテンダント 第2弾！！ 美巨尻ぷるんぷるん初体験4本番Special 桜樹玲奈",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乳液",
+    "纪录片",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/d58ee4ef5384b4032407b5f9dff52209.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74470",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74470&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74470&name=玉木玲"
+    },
+    {
+      "name": "桜树玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74470&name=桜树玲奈"
+    }
+  ]
+};

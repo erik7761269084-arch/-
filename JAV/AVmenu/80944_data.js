@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/z0XQqixS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80944,
+  "IDcode": "LUXU-1559",
+  "title": "ラグジュTV 1526 周りの視線を集める魅惑的なボディを持つ肉食系美容師が登場！愛でるように巨根を味わう濃厚フェラ！自慢のIカップでチ●ポを包むご奉仕パイズリ！さらに男に跨り腰を振ってイキ乱れる騎乗位は必見！",
+  "publish_date": "2022-02-23",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "屁股",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80944",
+  "actresses": []
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/562224d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62310,
+  "IDcode": "MDVIJ-014",
+  "title": "姑と嫁の禁断レズビアン（3） パンティ2枚と江澄ゆゆさんと杉岡恵美子さんのチェキ付き",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62310",
+  "actresses": [
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62310&name=朝比ゆの"
+    },
+    {
+      "name": "鈴河めぐみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240811/5b41d06c-728e-483f-befb-6c3953143c76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62310&name=鈴河めぐみ"
+    },
+    {
+      "name": "江澄ゆゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250220/fd984833-955b-410d-b66b-7b78bd9bb4a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62310&name=江澄ゆゆ"
+    }
+  ]
+};

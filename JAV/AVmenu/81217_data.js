@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/3UxMo8Ll/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81217,
+  "IDcode": "PRED-386",
+  "title": "知ってしまった最高の身体。友達の姉の美マンとデカパイで発情ピストン中出しが止められない…！ JULIA",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81217",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81217&name=JULIA"
+    }
+  ]
+};

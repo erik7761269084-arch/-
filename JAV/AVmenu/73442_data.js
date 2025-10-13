@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/Bb7I9LXg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73442,
+  "IDcode": "SNIS-385",
+  "title": "宴会コンパニオン 新山らん",
+  "publish_date": "2015-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫乱，真实",
+    "薄马赛克",
+    "伴侣",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/d48930ef84aed8ebd5ff80434891cc39.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73442",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73442&name=小田切ジュン"
+    },
+    {
+      "name": "新山らん",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/6991020a952ab3b1462b6e217cfe36b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73442&name=新山らん"
+    }
+  ]
+};

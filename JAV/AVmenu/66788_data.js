@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250430/7LMjBFEa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66788,
+  "IDcode": "FOCS-097",
+  "title": "清楚般文學少女是小惡魔癡女 拘束中年大蛇盡情玩弄貪求精子中出性交 篠宮花音",
+  "publish_date": "2022-11-11",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "眼镜",
+    "中出",
+    "淫语",
+    "荡妇",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/c1eb170dedd7bc4bc3f99d281bffeb69.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66788",
+  "actresses": [
+    {
+      "name": "篠宮花音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66788&name=篠宮花音"
+    }
+  ]
+};

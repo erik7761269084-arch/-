@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/09/9c023947/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107263,
+  "IDcode": "JUY-707",
+  "title": "水泳教室NTR インストラクターの優しさに溺れた妻の衝撃的浮気映像 大浦真奈美",
+  "publish_date": "2018-12-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107263",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107263&name=大浦真奈美"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107263&name=イセドン内村"
+    }
+  ]
+};

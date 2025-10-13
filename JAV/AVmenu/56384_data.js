@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56384,
+  "IDcode": "A2196694FF6A6B6BA9ED56923DC2D145",
+  "title": "ドスケベサンタに大量中出し 高速フェラに极上骑乘位-あっという间にホワイトクリスマス２０２０",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56384",
+  "actresses": []
+};

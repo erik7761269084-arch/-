@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/01/635a9510/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90899,
+  "IDcode": "BOBB-364",
+  "title": "BOBB-364",
+  "publish_date": "2023-02-10",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "乳液",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90899",
+  "actresses": [
+    {
+      "name": "纱雾ひなた",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90899&name=纱雾ひなた"
+    }
+  ]
+};

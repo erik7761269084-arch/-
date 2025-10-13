@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/69d01280/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68809,
+  "IDcode": "MAAN-1066",
+  "title": "【敏感保育士がびしょ濡れ生ハメ】めちゃカワ泣き虫ガールに杭打ちピストン！中に出したらエッチなコスプレニ回戦突入！シックスナインで尻穴丸見え！バックから膣奥刺激で絶頂しまくりセックス！！【東京 Bitch Girl】【れな】",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "乳交",
+    "中出",
+    "角色扮演",
+    "玩具",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68809",
+  "actresses": []
+};

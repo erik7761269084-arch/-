@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230906/VT1jaURo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88047,
+  "IDcode": "IPZ-976",
+  "title": "揺れまくりぷるるんおっぱい激突きFUCK 桜空もも",
+  "publish_date": "2017-07-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "艺人",
+    "女上位",
+    "潮吹",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88047",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88047&name=桜空桃"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88047&name=南佳也"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231001/YOaQ4LJJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58135,
+  "IDcode": "SKY-216",
+  "title": "好色妻降臨 Vol.24",
+  "publish_date": "2012-06-07",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "二穴同插",
+    "渔网裤袜",
+    "人气标题",
+    "店长推荐",
+    "知名女优",
+    "立即口交",
+    "1v1性交",
+    "深喉",
+    "背后插入",
+    "潮吹",
+    "骑乘位",
+    "肛交",
+    "肛交",
+    "口交",
+    "巨乳爆乳",
+    "痴女",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58135",
+  "actresses": []
+};

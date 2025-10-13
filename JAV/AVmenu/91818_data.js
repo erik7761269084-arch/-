@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/28/322b3d2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91818,
+  "IDcode": "JUQ-603",
+  "title": "これは部下に厳しいムチムチ女上司にセクハラしたら怒られるどころかセックスまで出来た話です。 黒木れいな",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91818",
+  "actresses": [
+    {
+      "name": "黑木玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/35ebc30b-31e7-4132-832e-abfe4d005785.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91818&name=黑木玲奈"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250111/AeHC73Bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74468,
+  "IDcode": "SHN-009",
+  "title": "姉のガールズトークでキスに興味を持った姪っ子にやり方を教えてあげたら暴走した姪っ子の獣のようなディープキス騎乗位でイカされた",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "乱伦",
+    "接吻",
+    "瘦小身型",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250112-1/20b798bb9a293d47bdfb7cf0e733c511.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74468",
+  "actresses": [
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74468&name=泉莉音"
+    }
+  ]
+};

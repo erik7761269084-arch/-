@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e65145a-9828-4392-a896-2610b767a1a0/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/09/339c5a5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13545,
+  "IDcode": "JUQ-742",
+  "title": "裸模NTR震撼出軌視頻，老板和人妻陷入恥辱 小野りんか",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "模特兒",
+    "性感",
+    "舔陰",
+    "美少女",
+    "寫真女郎",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "偷竊",
+    "按摩棒",
+    "熟女",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUQ-742为MADONNA出品,2024年7月9日发行的有碼成人影片由小野梨花出演\n我和妻子 Rin 最近慶祝了我們的結婚七週年紀念日。我和我先生都喜歡攝影，所以Rinka問我們願不願意拍一張裸照作為紀念。有人建議。我不想不尊重妻子的感受，所以我和我的老闆大島先生談了這件事。我的老闆大島先生一聽說拍攝裸照的消息，就改變了主意，並把拍攝日期定在了當天。拍攝當天，我和妻子一起前往拍攝地，妻子看起來既焦急又焦急。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705010233179179.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705010233179179.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13545",
+  "actresses": [
+    {
+      "name": "小野梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20240407/7fd3637e-8dfa-4f39-afa9-1dcd34f00239.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13545&name=小野梨花"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13545&name=大岛丈"
+    }
+  ]
+};

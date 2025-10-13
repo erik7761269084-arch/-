@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eb474f97-0258-40e8-a7d7-6f09d86b0613/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241012/V6lAbBTk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14514,
+  "IDcode": "NHDTB-919",
+  "title": "露營時那些被拖進帳篷的女孩們",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "NATURAL HIGH",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "帐篷",
+    "口交",
+    "強姦",
+    "旅行",
+    "少女",
+    "輪姦",
+    "巨乳",
+    "真實拍攝",
+    "野外露天",
+    "羞恥"
+  ],
+  "description": "NHDTB-919为NATURAL HIGH出品,2024年5月1日发行的有碼成人影片\n我們在僅限女性的營地中所擔心的危險已經成為現實！ 當他們帶我們進入帳篷時，他們露出了獠牙……讓我們脫掉衣服！朋友們，如果你被發現了，你就會被抓到。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523020139471471.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240523/20240523020139471471.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14514",
+  "actresses": []
+};

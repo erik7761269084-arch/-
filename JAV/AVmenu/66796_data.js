@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/MxyRWCgT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66796,
+  "IDcode": "DVDMS-911",
+  "title": "DVDMS-911",
+  "publish_date": "2023-02-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "足交",
+    "潮吹",
+    "连裤袜",
+    "恋腿癖",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66796",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66796&name=大槻响"
+    }
+  ]
+};

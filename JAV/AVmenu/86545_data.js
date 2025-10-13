@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/10/8db7f815/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86545,
+  "IDcode": "VENX-116",
+  "title": "もう息子なしでは生きていけない…。母親が絶頂70回突破するエロス極限トランス中出し 織田真子",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86545",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86545&name=織田真子"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ef2d167d-ce86-4c7d-b08b-b3b47a78fbfc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19130,
+  "IDcode": "IPX-315",
+  "title": "千葉縣T市出身地下偶像團體前成員AV出道",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "偶像",
+    "乳交",
+    "JK校服",
+    "出道作品",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230712/20230712024902349349.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230712/20230712024902349349.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19130",
+  "actresses": [
+    {
+      "name": "音羽留衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230712/0f00aa8f-a1e2-4e54-9ce1-f9b1440b43fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19130&name=音羽留衣"
+    }
+  ]
+};

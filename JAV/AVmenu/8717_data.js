@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41f4bc55-0c47-4fdd-8bca-7ee397c10b6a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/13/b0292b04/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8717,
+  "IDcode": "ABF-195",
+  "title": "越被凌辱她就越發情興奮。派遣實習OL工作能力差但性欲絕倫 ~ 鈴村愛里",
+  "publish_date": "2025-01-30",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "加班",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "實習生",
+    "勾引・誘惑",
+    "厠所",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "辦公室",
+    "M男・M女",
+    "美人",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/53d09733-b2ea-4d28-8b24-ddb426823cce.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/53d09733-b2ea-4d28-8b24-ddb426823cce.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8717",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8717&name=鈴村愛里"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8717&name=鲛岛"
+    }
+  ]
+};

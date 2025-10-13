@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/21/1655f659/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104726,
+  "IDcode": "SNIS-970",
+  "title": "大好きなデカチンで1日中 膣中イキさせてください 橋本ありな",
+  "publish_date": "2017-08-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "女上位",
+    "潮吹",
+    "薄马赛克",
+    "巨大阴茎"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104726",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104726&name=新有菜"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104726&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104726&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104726&name=玉木玲"
+    }
+  ]
+};

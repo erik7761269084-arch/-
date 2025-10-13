@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14a8eda4-2c44-4e62-961f-31847276ac5a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1459,
+  "IDcode": "HEYZO-2881",
+  "title": "如果你想要一份工作，就給我吧！ ~如果這代表出名的話我會接受的！ ~ - 樫野裡奈",
+  "publish_date": "2022-10-04",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230603/20230603212427712712.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230603/20230603212427712712.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1459",
+  "actresses": [
+    {
+      "name": "桜華みゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20230603/41db0973-937a-4071-bff8-211c86977fbe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1459&name=桜華みゆ"
+    }
+  ]
+};

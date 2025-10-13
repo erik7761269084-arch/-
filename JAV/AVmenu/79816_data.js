@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/7806NNjj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79816,
+  "IDcode": "NACR-470",
+  "title": "パパ活美少女はちくび責めと全身ペロペロ愛撫が大好物！！ 三浦乃愛",
+  "publish_date": "2021-10-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "玩具",
+    "恋物癖",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79816",
+  "actresses": []
+};

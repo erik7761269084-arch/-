@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e89b014-7fbc-46af-8898-04e3e27c3f2c/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250318/RvHcOuZL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10356,
+  "IDcode": "SSNI-468",
+  "title": "【異常高潮大絕頂】愛欲覺醒最大化，不停的操，直到本氣耗盡！ ~ Miru",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "抹油",
+    "女優訪談",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-468为S1出品,2019年5月7日发行的有碼成人影片由Miru出演\n坂道美露憑藉著出色的性愛技巧和深不見底的性慾，擁有令人驚嘆的性愛。他們本能地透過不停地、無情地互相活塞來尋找雞巴，直到他們肆無忌憚的性慾耗盡為止。愛欲被喚醒到有史以來的最高水平，在真正的性交中爆發而沒有任何生產的大量噴射，以及超越極限並達到異常高潮的反復高潮！ ！請看看這個還可以看到無底斜坡的世界。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241127/20241127033927527527.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241127/20241127033927527527.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10356",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10356&name=Miru"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10356&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10356&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10356&name=玉木玲"
+    }
+  ]
+};

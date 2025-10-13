@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230203/EEEDD05DD2CE0F46/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99417,
+  "IDcode": "SHKD-398",
+  "title": "隣のお姉さんを犯したあの日… 2 麻倉まみ",
+  "publish_date": "2010-02-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "凌辱",
+    "女上位",
+    "姐姐",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99417",
+  "actresses": [
+    {
+      "name": "麻仓まみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99417&name=麻仓まみ"
+    }
+  ]
+};

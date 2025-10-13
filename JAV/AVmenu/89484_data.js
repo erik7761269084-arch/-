@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241031/Si6k1itH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89484,
+  "IDcode": "SUN-098",
+  "title": "駅弁露出 抱っこSEXが大好き！！パイパン微少女をパンパンパンパンパン！ パンティとチェキ付き",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "放尿",
+    "户外"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89484",
+  "actresses": []
+};

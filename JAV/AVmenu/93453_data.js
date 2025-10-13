@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/OcxY4SAY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93453,
+  "IDcode": "NASK-084",
+  "title": "熟年交尾 ねっとり濃厚に快楽を貪る中高年男女のナイトライフ 10人4時間",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/65637c685a2a416c66539f0a080322aa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93453",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93453&name=川上優"
+    },
+    {
+      "name": "伊织凉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250524/39f28971-1e7d-4d1d-8601-e569aae3cba9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93453&name=伊织凉子"
+    },
+    {
+      "name": "山口珠理",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/96fe89f5-9b81-4d84-8009-f9d78344c352.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93453&name=山口珠理"
+    },
+    {
+      "name": "森美希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93453&name=森美希"
+    }
+  ]
+};

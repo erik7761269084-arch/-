@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3d796eec-8f2f-42fe-a156-68bdffbe9134/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18885,
+  "IDcode": "KNMB-059",
+  "title": "超絕美腿 主導中出的美女人妻",
+  "publish_date": "2023-08-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "自拍性愛",
+    "中出",
+    "美乳",
+    "姐姐・妹妹",
+    "人妻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230829/20230829014200504504.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230829/20230829014200504504.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18885",
+  "actresses": [
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18885&name=廣瀨里緒菜"
+    }
+  ]
+};

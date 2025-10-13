@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/28/c152fd12/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70317,
+  "IDcode": "KSBJ-366",
+  "title": "家出妻 居候をさせてもらう条件は中出し肉便器 蒼山愛奈 （BOD）",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/03/28/c7788ec8f9ab88de42e57feb451396f3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70317",
+  "actresses": [
+    {
+      "name": "蒼山愛奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/98689eb3-b3ac-4b49-8104-414ed426ec64.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70317&name=蒼山愛奈"
+    }
+  ]
+};

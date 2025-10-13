@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231011/rBoLY50U/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88521,
+  "IDcode": "RCT-203",
+  "title": "息子なら母親の裸当ててみて！",
+  "publish_date": "2010-04-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乱伦",
+    "母亲",
+    "舔阴",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88521",
+  "actresses": [
+    {
+      "name": "倖田李梨",
+      "img_url": "https://picture.yoshiclub.xyz/20250106/5443a24a-850e-47ad-95b6-6eadf4032b6f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88521&name=倖田李梨"
+    },
+    {
+      "name": "菊川麻里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88521&name=菊川麻里"
+    }
+  ]
+};

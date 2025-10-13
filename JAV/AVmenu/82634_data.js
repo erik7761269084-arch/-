@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/plgmfszG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82634,
+  "IDcode": "HND-559",
+  "title": "彼女の妹に愛されすぎてこっそり子作り性活 岩瀬りな",
+  "publish_date": "2018-08-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "数位马赛克",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82634",
+  "actresses": [
+    {
+      "name": "岩瀨里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/4e3f95ea-8ca7-47aa-b6bf-a6da2d154543.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82634&name=岩瀨里奈"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/46fab76b-c6de-4cf0-be01-036c508a0c16/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/ea4660d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3967,
+  "IDcode": "ADN-709",
+  "title": "老婆三個月被外男內射125次，而我只有可憐的1次 ~ 夏目彩春",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "傲嬌",
+    "流汗",
+    "色白",
+    "性感睡衣",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "蒙面・面罩",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "同學"
+  ],
+  "description": "ADN-709为ATTACKERS出品,2025年8月1日发行的有碼成人影片由夏目彩春出演\n结婚15年了，女儿上大学住宿舍，本以为一家人和夫妻感情都挺好，天天联系没啥问题。可最近女儿发消息说联系不上妈妈，我才觉得有点不对劲。想想她上次同学会后就怪怪的，我偷偷瞄了眼她的手机，发现日历上标着数字，总共125次，可我完全不懂啥意思。等到我终于搞明白的时候，一切都晚了，心都碎了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085249997997_75687_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085249997997_75687_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3967",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3967&name=夏目彩春"
+    }
+  ]
+};

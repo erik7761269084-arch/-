@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5ff51afe-d7e6-4bfc-98d1-db1ea029b64b/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/08/c7f32ac7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17663,
+  "IDcode": "SSIS-950",
+  "title": "出差在飯店，意外的和兩位美女老闆同住一個房間…奇蹟般的一晚，被雙J罩杯的奶子挤了一晚上",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "中出",
+    "蕩婦",
+    "OL",
+    "胸控・戀乳癖",
+    "正太控",
+    "性感",
+    "舔陰",
+    "多P",
+    "勾引・誘惑",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "出差",
+    "女上司",
+    "飯店",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交"
+  ],
+  "description": "SSIS-950为S1出品,2023年11月28日发行的有碼成人影片由鷲尾芽衣，凪光出演\n兩個擁有業界頂級罩杯的人終於聯袂主演了。J罩杯「鷲尾芽衣」×J罩杯「凪光」比圖像生成AI繪製的AI裸體更刺激的色情肉體。合租房間NTR劇】與工作能力強的美女老闆出差。沒想到能和兩個才華洋溢又漂亮的大胸部老闆同住一間房間……（太開心了）。然後，兩個情色超巨乳女老闆捏著乳房一遍又一遍地擠壓精子，直到早上。（大喜）強大的雙乳乳交。令人印象深刻的動態乳房震動性交。現在...那些胸部真是太棒了。請享受世界上最刺激的性愛。\n兩個擁有業界頂級罩杯的人終於聯袂主演了。J罩杯「鷲尾芽衣」×J罩杯「凪光」比圖像生成AI繪製的AI裸體更刺激的色情肉體。合租房間NTR劇】與工作能力強的美女老闆出差。沒想到能和兩個才華洋溢又漂亮的大胸部老闆同住一間房間……（太開心了）。然後，兩個情色超巨乳女老闆捏著乳房一遍又一遍地擠壓精子，直到早上。（大喜）強大的雙乳乳交。令人印象深刻的動態乳房震動性交。現在...那些胸部真是太棒了。請享受世界上最刺激的性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231125/8e6bc5d3-5f69-428f-8ac7-d18c05aa4911.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231125/8e6bc5d3-5f69-428f-8ac7-d18c05aa4911.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17663",
+  "actresses": [
+    {
+      "name": "鷲尾芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e7c9a2b7-8190-4db3-846f-d44a217fd9ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17663&name=鷲尾芽衣"
+    },
+    {
+      "name": "凪光",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/3baa99f0-6f17-43ce-b119-a6b639c59061.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17663&name=凪光"
+    },
+    {
+      "name": "笕纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17663&name=笕纯"
+    },
+    {
+      "name": "有栖花绯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17663&name=有栖花绯"
+    }
+  ]
+};

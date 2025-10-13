@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de6e3061-8279-4041-a2c1-6f0f2a7676ad/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240410/18IKKm15/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17884,
+  "IDcode": "GDRD-011",
+  "title": "Red Dragon 花柳杏奈",
+  "publish_date": "2023-11-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "自拍性愛",
+    "乳交",
+    "中出",
+    "風俗娘",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231112/20231112072322990990.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231112/20231112072322990990.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17884",
+  "actresses": [
+    {
+      "name": "花柳杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/f4758eb4-420e-4a4f-9d93-f6d6767f8c0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17884&name=花柳杏奈"
+    }
+  ]
+};

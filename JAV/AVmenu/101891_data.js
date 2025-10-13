@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.hgplayer00.com/20240429/rKKvpPvP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101891,
+  "IDcode": "ESK-278",
+  "title": "エスカレートするドしろーと娘 278",
+  "publish_date": "2016-06-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "业余",
+    "过膝袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101891",
+  "actresses": [
+    {
+      "name": "今野美奈",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f6a87f7e1572d586ece4e16d12f577fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101891&name=今野美奈"
+    }
+  ]
+};

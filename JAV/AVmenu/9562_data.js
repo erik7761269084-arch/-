@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6d36a1ca-e710-45b4-812f-e6c683827b4b/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250317/puBEc3DW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9562,
+  "IDcode": "SSNI-516",
+  "title": "女友外出旅行期間，與青梅竹馬從早到晚不間斷連續48小時做愛的記錄 ~ 三上悠亞",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "偶像",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "青梅竹馬",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "奇異的",
+    "NTR",
+    "綠茶婊",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-516为S1出品,2019年7月19日发行的有碼成人影片由三上悠亜出演\n和青梅竹馬的禁忌關係……我無法忍受眼前豐滿的身體…… 「她很快就會回來的……如果她知道了，她會生氣的……」整整兩天沒有她在床上，我們一遍又一遍地躺在對方身上，吞噬對方。早上、中午、晚上，在睡夢中，我和電視另一邊我一直喜歡的偶像一遍又一遍地做愛……三上悠亞和【7次豐富的性交】210分鐘特輯一部禁忌的情慾劇。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227053054440440.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241227/20241227053054440440.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9562",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9562&name=三上悠亜"
+    }
+  ]
+};

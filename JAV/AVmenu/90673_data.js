@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240123/S6uzg9vw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90673,
+  "IDcode": "NNNC-026",
+  "title": "Kcupおっぱいニット爆乳美人2SEX 大胆に巨乳丸開き◇フェラもパイズリも優しくしてくれる◇ 小梅えな",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "第一人称摄影",
+    "角色扮演者",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90673",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90673&name=小梅惠奈"
+    }
+  ]
+};

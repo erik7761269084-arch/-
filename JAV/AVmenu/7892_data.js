@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/faf44158-1c59-4dde-be82-8ed8da59071d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7892,
+  "IDcode": "FPRE-161",
+  "title": "每天僅限一組。一家令人煥發活力的旅館，美麗的豐滿女主人會用淫穢的談話和緩慢、親密的手淫來撫慰你，慢慢讓你射精 ~ 菊乃らん",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "深喉",
+    "按摩・物理治療・美容",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "淫語",
+    "舔陰",
+    "口爆",
+    "拜金女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "足交",
+    "獵豔",
+    "抹油",
+    "美人",
+    "溫泉",
+    "老闆娘，女主人"
+  ],
+  "description": "FPRE-161为FITCH出品,2025年3月4日发行的有碼成人影片由菊乃らん出演\n位於僻靜自然環境中的日式旅館，每天僅接待一組客人。擁有巨乳的年輕老闆娘蘭將穿著美麗的透明和服來迎接客人。在這個沒有電視或廣播訊號的旅館裡，老闆娘會一直陪伴著你，慢慢地撫慰你的疲勞。緩慢的自慰和緩慢的性愛是一種奢華的方式，可以讓您忘記忙碌的日常生活，在您不知不覺中，您就會在女房東體內射精多次。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227070429961961.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/20250227070429961961.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7892",
+  "actresses": [
+    {
+      "name": "菊乃らん",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a49b88c-dc69-46b4-814f-d3bb72d3ce53.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7892&name=菊乃らん"
+    }
+  ]
+};

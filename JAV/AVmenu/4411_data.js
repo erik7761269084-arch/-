@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/640b0e6f-53fe-4ce0-b3bf-65f2b5711fca/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/344e6c35/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4411,
+  "IDcode": "SQTE-619",
+  "title": "週末與女友的狂熱之旅：性上癮的她與溫泉播種行 ~ 虹村由美",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "旅行",
+    "純愛・戀愛",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "溫泉",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "SQTE-619为S-CUTE出品,2025年7月12日发行的有碼成人影片由虹村由美出演\n性慾炸裂！從早幹到晚，停不下來！虹村由美這小浪貨一大早就慾火焚身，起床先來一發口技，到了旅館就忍不住撒嬌求愛：「快進來嘛，人家好想要！」房間裡一發，溫泉裡再一發，爽到瘋狂尖叫。中出完還不滿足，馬上又想要，小穴貪得無厭怎麼都填不滿！這趟溫泉之旅，簡直就是不要臉的愛愛馬拉松，超嗨！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024316231231_84122_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024316231231_84122_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4411",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4411&name=虹村由美"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4411&name=タイ"
+    }
+  ]
+};

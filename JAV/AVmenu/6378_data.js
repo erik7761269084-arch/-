@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/96a56cfa-03e3-41d5-b445-73c006638d86/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/00a09c58/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6378,
+  "IDcode": "XVSR-809",
+  "title": "淫蕩小妹愛口活到爆 把哥榨幹到一滴不剩真受不了 ~ 夢莉梨花",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "企畫",
+    "劇情",
+    "深喉",
+    "蘿莉",
+    "蕩婦",
+    "形象俱樂部",
+    "口交",
+    "小隻馬",
+    "主觀視角",
+    "少女",
+    "口爆",
+    "美少女",
+    "單體作品",
+    "清純",
+    "過膝襪・小腿襪",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "XVSR-809为MAX-A出品,2025年5月3日发行的有碼成人影片由夢莉梨花出演\n夢莉梨花這小妹簡直是口活女王，專攻フェラチオ的硬核企劃來啦！這位有嚴重兄控的小騷妹，從主觀視角的フェラ到深喉イラマチオ，各種角度全方位舔弄吸吮，技術屌爆！從學生妹慢條斯理的濃情口技，到榨得你精盡人亡的第一視角フェラ加啪啪，兄控小騷妹的口穴爽到讓人射不停！滿滿的愛意啦！敏感肉棒被她嘬得啧啧作響，舔得欲仙欲死，這ロリビッチ的口活時光絕對必看！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102513765765_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102513765765_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6378",
+  "actresses": [
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6378&name=夢莉梨花"
+    }
+  ]
+};

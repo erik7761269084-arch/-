@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9a6d7d18-f9ca-40b2-b0cb-b017bf14c631/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17728,
+  "IDcode": "MUDR-227",
+  "title": "复出 ~ 好想和大家再次相逢 奏音かのん 無垢専属 復活 RE DEBUT",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "中出",
+    "亂交 • 群P",
+    "JK校服",
+    "口交",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "手指插入",
+    "女優訪談",
+    "紀錄片",
+    "美少女電影",
+    "女學生",
+    "女優"
+  ],
+  "description": "MUDR-227为無垢出品,2023年11月21日发行的有碼成人影片\n清纯纤细美少女奏音かのん时隔一年再次回归复出！穿着JK制服，她害羞的勾引老男人。用可爱的关西口音低语诱惑，吸吮把弄老男人的鸡巴！鸡巴不断的射入大眼睛看着他并淫荡的美丽女孩。\n清纯纤细美少女奏音かのん时隔一年再次回归复出！穿着JK制服，她害羞的勾引老男人。用可爱的关西口音低语诱惑，吸吮把弄老男人的鸡巴！鸡巴不断的射入大眼睛看着他并淫荡的美丽女孩。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231120/20231119235623863863.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231120/20231119235623863863.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17728",
+  "actresses": []
+};

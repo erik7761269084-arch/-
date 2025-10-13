@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e83d99a3-f0fd-45a6-b100-370e047ba51b/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240113/wibuXcls/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18733,
+  "IDcode": "REBD-772",
+  "title": "Suzu7 Lucky heaven・本庄鈴",
+  "publish_date": "2023-09-07",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "無做愛場面",
+    "美乳",
+    "感官作品",
+    "唯美寫真",
+    "性感",
+    "寫真偶像",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911233042741741.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230911/20230911233042741741.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18733",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18733&name=本庄鈴"
+    }
+  ]
+};

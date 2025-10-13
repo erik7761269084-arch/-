@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/10/464d30ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77361,
+  "IDcode": "SNIS-157",
+  "title": "官能美體師 奧田咲",
+  "publish_date": "2014-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "薄马赛克",
+    "手淫",
+    "美容院",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77361",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77361&name=奥田咲"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77361&name=大岛丈"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77361&name=しみけん"
+    }
+  ]
+};

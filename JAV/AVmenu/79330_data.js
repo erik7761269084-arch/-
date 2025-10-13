@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/RD3Tz8jA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79330,
+  "IDcode": "FSDSS-254",
+  "title": "ガマンからの快楽漬けで嬉ションお漏らし超アクメSEX 三浦乃愛",
+  "publish_date": "2021-07-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "放尿",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79330",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79330&name=鲛岛"
+    }
+  ]
+};

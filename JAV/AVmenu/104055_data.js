@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240612/iI8tiUHt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104055,
+  "IDcode": "KTKZ-100",
+  "title": "【FANZA限定】遊んでそうなボーイッシュな彼女は現役名門女子大生の処女 すずちゃん パンティと写真付き",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "处女",
+    "首次亮相",
+    "业余",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104055",
+  "actresses": []
+};

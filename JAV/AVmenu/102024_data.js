@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240511/qUQZXu5K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102024,
+  "IDcode": "MEYD-428",
+  "title": "どこにでもいる普通の子育てママさんがドスケベな性欲を満たすためAVに応募 脱いだらすんごいGcup巨乳人妻だったのでAVデビュー！！ 岸上莉子",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/meyd428/meyd428pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102024",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102024&name=鲛岛"
+    },
+    {
+      "name": "岸上莉子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102024&name=岸上莉子"
+    }
+  ]
+};

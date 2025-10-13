@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240625/dbHBbPuZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96995,
+  "IDcode": "CJOD-244C",
+  "title": "對著從小就照顧我的中年大叔露內褲誘惑 那天後與黑臀辣妹打樁背後位中出！ 今井夏帆",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96995",
+  "actresses": []
+};

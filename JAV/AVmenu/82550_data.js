@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/25/7680e59c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82550,
+  "IDcode": "IESP-529",
+  "title": "麻薬捜査官 ヤク漬け膣痙攣 雪見紗弥",
+  "publish_date": "2010-02-04",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "凌辱",
+    "多P",
+    "各种职业",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82550",
+  "actresses": [
+    {
+      "name": "雪见纱弥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82550&name=雪见纱弥"
+    }
+  ]
+};

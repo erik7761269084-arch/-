@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/F6AhiQc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79656,
+  "IDcode": "HUNTB-105",
+  "title": "「ゴメンなさい…！イッちゃいます！」出張先で相部屋になった傲慢後輩女子社員が帯拘束ピストンで汗だく謝りイキ！ボクのミスで出張中の宿が後輩女子",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "口交",
+    "拘束",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/49f3cb8bf8657469ac265e52781df453.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79656",
+  "actresses": [
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79656&name=星仲ここみ"
+    },
+    {
+      "name": "宇佐美雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0b2fa763-45f4-44f6-9c75-9b45049ba14f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79656&name=宇佐美雪"
+    },
+    {
+      "name": "爱须みのん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79656&name=爱须みのん"
+    },
+    {
+      "name": "生田みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79656&name=生田みく"
+    }
+  ]
+};

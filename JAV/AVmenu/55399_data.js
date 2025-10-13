@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55399,
+  "IDcode": "F16F2E6854975587571313110EBBE609",
+  "title": "干净整洁的已婚女人-用情色衣服勾引别人",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55399",
+  "actresses": []
+};

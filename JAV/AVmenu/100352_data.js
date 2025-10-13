@@ -1,0 +1,28 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100352,
+  "IDcode": "SIRO4881",
+  "title": "性經驗人數只有一人的肉感可愛妹子被插得失控呻吟",
+  "publish_date": "2022-06-18",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "无毛",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100352",
+  "actresses": [
+    {
+      "name": "遥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100352&name=遥"
+    }
+  ]
+};

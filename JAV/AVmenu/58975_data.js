@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230903/TCRTYLvN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58975,
+  "IDcode": "122922-001",
+  "title": "緊縛羞恥プレイを欲するマゾ和服美女",
+  "publish_date": "2022-12-29",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "捆绑",
+    "其他",
+    "巨乳爆乳",
+    "和服",
+    "美乳",
+    "痴女",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58975",
+  "actresses": []
+};

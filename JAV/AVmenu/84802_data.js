@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/2t4wSHj2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84802,
+  "IDcode": "HUNTB-194",
+  "title": "格安シェアハウスの入居審査はチ○コ？内見に行ったら入居者全員ヤリマン女子で入居審査という名の強●セックスでヤラれまくったボクは合格した…",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "口交",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84802",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84802&name=沙月惠奈"
+    },
+    {
+      "name": "加贺美さら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84802&name=加贺美さら"
+    }
+  ]
+};

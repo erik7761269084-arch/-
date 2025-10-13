@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/31/e84571e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75229,
+  "IDcode": "BLK-434",
+  "title": "都合のいい愛人ギャル オヤジ大好きねっちょりSEXを求めるビッチと朝まで中出し不倫02",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "口交",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75229",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75229&name=永井瑪麗亞"
+    }
+  ]
+};

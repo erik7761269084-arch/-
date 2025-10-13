@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/46728d26-479a-44fd-85bc-5256c0d81ad0/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/6b811b2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10259,
+  "IDcode": "CLUB-857",
+  "title": "極小水着的誘惑 乳頭被扭曲到到最大的敏感度，巨乳癡女生中出 ~ 有岡みう 美術雛乃 夕美紫苑 天馬唯",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "後入",
+    "故事集",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "膚黑",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "偷窺",
+    "辣妹/GAL系",
+    "美少女電影",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128095628602602.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128095628602602.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10259",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10259&name=天馬唯"
+    },
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10259&name=夕美紫苑"
+    },
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10259&name=有岡みう"
+    },
+    {
+      "name": "美木雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/1d93f59c-062f-4858-be1b-8eac0c24242b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10259&name=美木雛乃"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10259&name=椎叶みくる"
+    }
+  ]
+};

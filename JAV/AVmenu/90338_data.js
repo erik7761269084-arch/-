@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/SLOJ2DGU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90338,
+  "IDcode": "PBD-455",
+  "title": "アナタを見つめながらどっちゅどっきゅ精子搾る騎乗位BEST",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90338",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=希島愛理"
+    },
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=山岸逢花"
+    },
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=星奈爱"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=篠田优"
+    },
+    {
+      "name": "麻仓忧",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=麻仓忧"
+    },
+    {
+      "name": "樱井まみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90338&name=樱井まみ"
+    }
+  ]
+};

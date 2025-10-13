@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240613/UdxxDi7A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102470,
+  "IDcode": "HUNT-891",
+  "title": "誰のでもいいから、とにかくオッパイを揉んでみたい！",
+  "publish_date": "2014-09-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "乱伦",
+    "企画",
+    "妹妹",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102470",
+  "actresses": [
+    {
+      "name": "上野真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/146a092b-f942-44ea-b487-b6cf853070ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102470&name=上野真奈美"
+    },
+    {
+      "name": "音羽蕾恩",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/3653c510-eb28-40e7-902b-587ef864e9ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102470&name=音羽蕾恩"
+    },
+    {
+      "name": "冴岛かおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102470&name=冴岛かおり"
+    }
+  ]
+};

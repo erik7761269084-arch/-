@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/gWYPNJBW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89375,
+  "IDcode": "SUJI-204",
+  "title": "【FANZA限定】性欲と願望を叶えてくれる癒しの美少女大人買い そら/ひかる 菜月ひかるちゃんのパンティと生写真付き",
+  "publish_date": "2023-10-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女大学生",
+    "纪录片",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/a37b704b28800a03b3ecf2b13d4c3c3f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89375",
+  "actresses": [
+    {
+      "name": "菜月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/f75dbc85-4a6e-4721-a0da-fcae7ddf1f85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89375&name=菜月光"
+    },
+    {
+      "name": "仲川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/eb7ce03b-4a45-43d1-a940-82529277e5d2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89375&name=仲川空"
+    }
+  ]
+};

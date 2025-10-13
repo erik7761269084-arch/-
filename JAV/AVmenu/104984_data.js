@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/21/55d7a1e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104984,
+  "IDcode": "NACR-796",
+  "title": "佐久間楓におまかせあれ お悩みなんでも相談室「チェリー大学生の場合」 パンティと生写真付き",
+  "publish_date": "2024-04-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "纪录片",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104984",
+  "actresses": [
+    {
+      "name": "佐久間楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240523/7d265f5d-d04b-4ea8-9ce6-ded94b7a935c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104984&name=佐久間楓"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104984&name=まーち"
+    }
+  ]
+};

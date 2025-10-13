@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240515/3ElkQuPA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91505,
+  "IDcode": "APAA-433",
+  "title": "スゴ～く！制服の似合う素敵な娘 小野寺舞",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/16e6efaf973c4261c6776ab8bd132b3e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91505",
+  "actresses": [
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91505&name=小野寺舞"
+    }
+  ]
+};

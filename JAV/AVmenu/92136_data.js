@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240714/xe1L5TDS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92136,
+  "IDcode": "MFCW-019",
+  "title": "『気持ち良すぎて泣いちゃう…』人妻メンエス嬢が一目惚れの巨根を目当てに中出し不倫！外でハメ撮りを見せられ即発情♪恥じらいながら解放されてく艶感。強すぎる快楽を得て嬉しさのあまり涙…！短小夫じゃ満たせない欲望を貪り尽くす！【ゆうな/26歳/結婚2年目】",
+  "publish_date": "2024-02-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "无毛",
+    "第一人称摄影",
+    "颜射",
+    "苗条",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92136",
+  "actresses": [
+    {
+      "name": "長谷川夕奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/5bb30062-3dcc-418b-94dc-00ab747ad25d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92136&name=長谷川夕奈"
+    }
+  ]
+};

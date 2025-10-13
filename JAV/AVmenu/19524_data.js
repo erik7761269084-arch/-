@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230409/84ce8e17-a5f1-48df-a753-3d044b8f2df6/index.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250128/TSLVpFjf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19524,
+  "IDcode": "SSNI-369",
+  "title": "色情護士看護完全不能動的病人 ~ 橋本有菜",
+  "publish_date": "2018-12-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "蕩婦",
+    "淫語",
+    "打手槍",
+    "美少女",
+    "護士",
+    "薄碼"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230409/7b693a56-fd0c-4a80-bb14-5da444f759e8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230409/7b693a56-fd0c-4a80-bb14-5da444f759e8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19524",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19524&name=新有菜"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19524&name=鲛岛"
+    }
+  ]
+};

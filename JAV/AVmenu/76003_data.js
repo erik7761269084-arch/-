@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241221/YQy4Dn0M/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76003,
+  "IDcode": "TKWA-020",
+  "title": "みりな",
+  "publish_date": "2021-06-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "无毛",
+    "女大学生",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/36df37bbc4830e53bdfaae8d6780e97f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76003",
+  "actresses": [
+    {
+      "name": "香坂みりな",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2d0e463c-2cfd-47f1-b4ad-1e859eed7015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76003&name=香坂みりな"
+    }
+  ]
+};

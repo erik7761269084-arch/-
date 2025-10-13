@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231004/56viBy6A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88329,
+  "IDcode": "DCOL-048",
+  "title": "魅惑の性感エステサロン 鈴木心春",
+  "publish_date": "2014-04-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "巨乳",
+    "苗条",
+    "妓女",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88329",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88329&name=鈴木心春"
+    }
+  ]
+};

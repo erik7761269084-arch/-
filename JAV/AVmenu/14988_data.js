@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2cab73f6-51e7-4a73-899b-7eef93758765/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14988,
+  "IDcode": "NACR-798",
+  "title": "十年後重逢的清純同學，搖身一變，變成了性感放蕩的美人妻！ ~ 響かれん",
+  "publish_date": "2024-05-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "劇情",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "性感",
+    "接吻",
+    "美腳",
+    "人妻",
+    "美少女電影",
+    "同學"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505033854793793.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240505/20240505033854793793.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14988",
+  "actresses": [
+    {
+      "name": "響かれん",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/dac6ecc3-932d-47de-9c46-98b1dcdd5b3a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14988&name=響かれん"
+    }
+  ]
+};

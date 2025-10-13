@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fd9f55b0-ff92-4629-a6ed-c000b3228306/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5978,
+  "IDcode": "AKDL-325",
+  "title": "公司裏不起眼的地味女前輩太會玩了，性愛直接戳中爽點 ~ 五十嵐清華 浜辺栞帆 桂木春香",
+  "publish_date": "2025-05-14",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "故事集",
+    "劇情",
+    "絕頂高潮",
+    "吞精",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "制服",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "地味",
+    "美人",
+    "出差",
+    "職場",
+    "眼鏡",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "AKDL-325为AKNR出品,2025年5月14日发行的有碼成人影片由浜辺栞帆，五十嵐清華，桂木春香出演\n【公司裡不受歡迎的樸素前輩太會撩，性愛直擊爽點】出差時跟公司裡那個內向又不討喜的前輩一起，真的心情超差。結果酒店訂房搞錯，竟然跟這前輩共住一間房，簡直是最慘的一夜！本來沒啥興趣，但抱著試試看的心態就像抽到個不怎麼樣的風俗小姐一樣動手了…結果，天啊！前輩也太猛了吧！？外表看起來不起眼，一上床直接大變身，把我玩弄於股掌之間。她還一臉嫌棄地說：“喂，你這技術也太爛了吧？”“你對女人的身體根本一無所知啦！”完全高高在上的痴女姿態，把我整得暈頭轉向！曾經那麼討厭的前輩，性愛居然這麼對味！【超色氣的口水吻】【眼鏡妹變痴女】【精液直接吞】",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521083141752752_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250521/20250521083141752752_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5978",
+  "actresses": [
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5978&name=浜辺栞帆"
+    },
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5978&name=五十嵐清華"
+    },
+    {
+      "name": "桂木春香",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d0165529-937f-48e6-bcb1-67499febe520.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5978&name=桂木春香"
+    }
+  ]
+};

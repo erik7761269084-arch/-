@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/3821228b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71889,
+  "IDcode": "FTHTD-082",
+  "title": "ボクの住むアパートの隣室のお姉さんは欲求不満だった…痴話喧嘩で空いた穴から壁穴越しに立ちバックで膣奥を突きまくった夏の日の思い出",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "FALENO TUBE",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "无毛",
+    "姐姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71889",
+  "actresses": []
+};

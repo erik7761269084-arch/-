@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3ac6cb2f-35fd-4944-b882-42d9dc52e89a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/18/ce423678/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17622,
+  "IDcode": "DLDSS-246",
+  "title": "蒼山愛奈在打工的商店偷东西被店长抓包，店长的暴力强奸制裁",
+  "publish_date": "2023-12-21",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [],
+  "description": "DLDSS-246为DAHLIA出品,2023年12月21日发行的有碼成人影片由蒼山愛奈出演\n在便利商店工作的人妻蒼山愛奈，與丈夫很少有性爱的激情了，過著毫無刺激的生活，她以從商店偷竊商品的快感來滿足自己的慾望。直到有一天，商店經理發現她在商店行竊，以暴力强奸来惩罚蒼山愛奈。起初奋力抵抗的蒼山愛奈，慢慢的找到了自己想要的刺激和快乐，并逐渐沉迷其中。\n在便利商店工作的人妻蒼山愛奈，與丈夫很少有性爱的激情了，過著毫無刺激的生活，她以從商店偷竊商品的快感來滿足自己的慾望。直到有一天，商店經理發現她在商店行竊，以暴力强奸来惩罚蒼山愛奈。起初奋力抵抗的蒼山愛奈，慢慢的找到了自己想要的刺激和快乐，并逐渐沉迷其中。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231125/20231125065223343343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231125/20231125065223343343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17622",
+  "actresses": [
+    {
+      "name": "蒼山愛奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/98689eb3-b3ac-4b49-8104-414ed426ec64.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17622&name=蒼山愛奈"
+    }
+  ]
+};

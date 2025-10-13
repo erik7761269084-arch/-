@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119645,
+  "IDcode": "FC2PPV-1206134",
+  "title": "FC2-PPV-1206134 ★激カワ☆続・美乳クビレのエロＢＯＤＹりあらちゃん19歳☆若いパワーでイキまくるエロギャル 激ハメ騎乗位で暴れまくり最後は中出し射精 【個人撮影】※レビュー特典付き！",
+  "publish_date": "2019-11-21",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "私人摄影",
+    "素人",
+    "内射",
+    "口交",
+    "美女",
+    "无套性交",
+    "骑乘位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119645",
+  "actresses": []
+};

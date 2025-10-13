@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241104/7JRfQxxt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91838,
+  "IDcode": "SYKH-099",
+  "title": "ワイセツ産婦人科 不妊治療に訪れた人妻を治療と称してやりたい放題弄ぶ個人診療所の変態医師 VOL.4 美人妻編",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "已婚妇女",
+    "潮吹",
+    "恶作剧",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91838",
+  "actresses": []
+};

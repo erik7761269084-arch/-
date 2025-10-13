@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3e74c0df-f129-4ea6-b174-a993f264d0b8/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/iLfY6MDK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14634,
+  "IDcode": "MUDR-266",
+  "title": "通過體內射精，女孩的身體繼續被注入快感...... ~ 有馬美玖",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "性感",
+    "迷姦",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MUDR-266为無垢出品,2024年5月21日发行的有碼成人影片由有馬美玖出演\n睡覺學習。他半夜闖入一個女孩的房間，對她熟睡的女孩身體進行捉弄。並擅自插入旋塞。敏感女孩的陰部開始在不知不覺中記住「未知跟蹤者」的味道…由於繼續進行徹底的體育教育...然後，最終的日子終於到來了。什麼都不懂的女孩放學後突然遭到男人的襲擊……不知不覺中不斷灌輸快感的女孩的身體，被男人的雞巴逼得精液射出。一部引起爭議的作品，讓一個無辜的女孩陷入困惑和絕望。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517043646478478.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517043646478478.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14634",
+  "actresses": [
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14634&name=有馬美玖"
+    }
+  ]
+};

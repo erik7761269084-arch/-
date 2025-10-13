@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/07/e240f65e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63654,
+  "IDcode": "ALDN-478",
+  "title": "洗脳された母 いつでも中出しさせてくれる 成宮いろは",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63654",
+  "actresses": [
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63654&name=ひょこり"
+    },
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63654&name=成宫いろは"
+    }
+  ]
+};

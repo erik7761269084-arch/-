@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a3c3f6ce-fc0a-4215-a96f-4b7458cc04b0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4894,
+  "IDcode": "YSN-643",
+  "title": "被五十嵐清華狂舔狂親，乳頭被玩到爽翻天根本逃不掉 ~ 出演女優 五十嵐清華",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "手指插入",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "極品美人",
+    "女優"
+  ],
+  "description": "YSN-643为WAAP GROUP出品,2025年6月28日发行的有碼成人影片由五十嵐清華出演\n超辣身材的五十嵐清華小姐姐，性感到爆表！她用那又長又濕的舌頭，把兩個M男的乳頭和老二舔到欲仙欲死，吊足胃口後再來一波超濃烈的濕吻，直接讓人腿軟到站不起來！更不用說她那緊到爆的小穴，夾得你毫無還手之力，瘋狂扭腰直接逼你內射，爽到靈魂出竅！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628100737108108_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250628/20250628100737108108_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4894",
+  "actresses": [
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4894&name=五十嵐清華"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/09/362873e5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91180,
+  "IDcode": "GVH-555",
+  "title": "母子姦 岡西友美",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "中出",
+    "乱伦",
+    "母亲",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91180",
+  "actresses": [
+    {
+      "name": "岡西友美",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/2af6dac7-a743-42da-afbf-99ba642d7eb7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91180&name=岡西友美"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91180&name=左慈半造"
+    }
+  ]
+};

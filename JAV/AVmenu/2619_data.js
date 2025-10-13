@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d94350a6-1a0b-4757-a27e-f51e46c6d728/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/02/f0faf3a5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2619,
+  "IDcode": "DASS-796",
+  "title": "某風俗店知名的人妻美魔女身份曝光，邂逅偷情背德不倫SEX ~ 通野未帆",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "按摩女郎",
+    "臀控",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "拜金女",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "同学母亲",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "野性",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "DASS-796为DASDAS出品,2025年9月18日发行的有碼成人影片由通野未帆出演\n跟老婆吵架心情糟透了，忍不住大白天跑去箱ヘル消遣，结果竟然撞见儿子班上最正的妈妈友未帆！气氛一度尴尬到爆，但她温柔一笑说：这是咱俩的小秘密哦，然后直接上手帮我舒压。虽然事后有点内疚，但比起自家黄脸婆，这位美艳妈妈友的贴心服务带来的背德快感简直让人上瘾。不知不觉，脚已经迈向了箱ヘル，再也停不下来！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918041838941941_60023_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918041838941941_60023_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2619",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2619&name=通野未帆"
+    }
+  ]
+};

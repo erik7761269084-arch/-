@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/13/56b31d9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90789,
+  "IDcode": "BBAN-104",
+  "title": "「貴女にまた愛されたくて…。」元カノ溺愛レズビアン 通野未帆 森沢かな",
+  "publish_date": "2016-09-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "女同性恋",
+    "苗条",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240219-1/c85ac9678dfbca19ae5804dfa13f5adc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90789",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90789&name=森澤佳奈"
+    },
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90789&name=通野未帆"
+    }
+  ]
+};

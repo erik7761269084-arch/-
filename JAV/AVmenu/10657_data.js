@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ba7d93a-39f4-4b79-b1e0-59d39a06e0b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10657,
+  "IDcode": "GAJK-017",
+  "title": "田舍娘爲了償還爛酒鬼父親的借債不得不被關在倉庫裏接受奴役調教 當繩子穿過屁股將她吊起，蠟燭噝噝的滴在她的乳頭上時，她哭了 ~ 河合陽菜",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "GLOBAL MEDIA ANNEX",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "巨尻",
+    "灌腸",
+    "蠟燭",
+    "調教",
+    "深喉",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "拘束・拷問",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "監禁",
+    "舔陰",
+    "少女",
+    "口爆",
+    "唾液敷面",
+    "SM",
+    "美少女",
+    "緊縛",
+    "清純",
+    "手指插入",
+    "欠債肉償",
+    "M男・M女",
+    "插入異物",
+    "短髮",
+    "放尿",
+    "口球",
+    "紋身刺字",
+    "打屁股",
+    "美少女電影",
+    "女學生",
+    "拳擊交",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241113/8bb8d519-ae27-4d2d-b429-083eaf144f50.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241113/8bb8d519-ae27-4d2d-b429-083eaf144f50.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10657",
+  "actresses": [
+    {
+      "name": "河合陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240704/1df72745-df9d-4467-b773-298af2b539a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10657&name=河合陽菜"
+    }
+  ]
+};

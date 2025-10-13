@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/vvFFk3du/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79122,
+  "IDcode": "MSFH-058",
+  "title": "- 知性溢れるお姉さんがいやらしい焦らしと舌技で極上の射精へと導く無制限発射メンズエステ 吉永このみ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "制服",
+    "按摩",
+    "口交",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7057bd8d27ee75d2c15ee639a633456f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79122",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79122&name=鲛岛"
+    },
+    {
+      "name": "吉永このみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79122&name=吉永このみ"
+    }
+  ]
+};

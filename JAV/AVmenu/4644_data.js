@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b2097d2-18d5-477f-89c3-9a09c151df8a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4644,
+  "IDcode": "CHRV-212",
+  "title": "爆乳保險小姐姐籤約率100%的祕密武器！M杯128cm巨乳誘惑，午後枕營業直接開幹 ~ 秋月まりな",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "女業務",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "勾引・誘惑",
+    "巨乳",
+    "手指插入"
+  ],
+  "description": "CHRV-212为妄想族出品,2025年7月5日发行的有碼成人影片\n一位保險小姐姐上門推銷，沒想到闖進了AV男優的家！這男優是自由工作者，收入不穩定，根本沒資格買保險。本來想聊聊保險的事，結果男優的目光完全被小姐姐的M杯爆乳吸引，早就心癢難耐，下身硬到不行！保險什麼的早就被丟到一邊，直接撲向小姐姐的巨乳，火熱開戰，現場直接中出，爽到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/202507062300254545_48675_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250706/202507062300254545_48675_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4644",
+  "actresses": []
+};

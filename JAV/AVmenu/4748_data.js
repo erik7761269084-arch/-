@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9791630f-3742-4051-8724-2024ef764e53/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/c9bfbb40/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4748,
+  "IDcode": "JUR-443",
+  "title": "寝取らせ狂熱串刺玩法 把我最愛的妻子交給陌生男人盡情蹂躪 ~ 椎名由奈",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "變態",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "奇聞趣事",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "猥褻穿著",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "JUR-443为MADONNA出品,2025年7月4日发行的有碼成人影片由椎名由奈出演\n一直以來都藏在心裡不敢說出口的秘密：我竟然想看世界上最美、最愛的妻子被一群陌生男人輪流侵犯！這種扭曲的寝取らせ慾望讓我無法繼續平靜過夫妻生活。於是，我鼓起勇氣向她坦白，把她送進了一群中年大叔的懷抱。看著她被男人们包圍，上下其手，嘴跟下面都被玩到不行，那種“串刺”般的刺激畫面，真的讓我興奮到爆炸！這種禁忌快感，真的會上癮啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051440182182_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051440182182_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4748",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4748&name=椎名由奈"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4748&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e85b52b0-efe1-47bf-802b-e51b4f94ba76/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1306,
+  "IDcode": "HEYZO-2570",
+  "title": "第一天接客的泡泡浴技師就被我上了！ 相馬朱里",
+  "publish_date": "2021-07-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230815/20230815212310290290.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230815/20230815212310290290.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1306",
+  "actresses": []
+};

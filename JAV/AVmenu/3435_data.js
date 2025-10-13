@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/162e7a94-7209-40ff-a27a-c01f6bf729c7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3435,
+  "IDcode": "SW-1015",
+  "title": "黑絲誘惑 滑溜溜的黑絲讓我硬到不行忍不住和妹妹開幹了 ~ 有棲舞衣 宮本聡美 若月もあ",
+  "publish_date": "2025-08-20",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "局部特寫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清純",
+    "手指插入",
+    "足交",
+    "美人",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "SW-1015为SWITCH出品,2025年8月20日发行的有碼成人影片由宮本聡美，若月もあ，有栖舞衣出演\n妹妹的黑絲美腿跟翹臀實在太正點，害我忍不住一直偷看。沒想到妹妹發現我的視線，還故意秀出黑絲包著的小屁屁跟內褲，真的超級撩人！我硬到不行的傢伙直接貼著她的黑絲臀部磨來磨去，爽到不行！她還用黑絲小腳幫我足交，爽得我快不行了！聞著黑絲的香味，整個人淪陷！妹妹的小穴都濕透了，超想要我的大棒棒，我直接狠狠頂進去，爽到天上去啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021251776776_53819_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021251776776_53819_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3435",
+  "actresses": [
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3435&name=有栖舞衣"
+    },
+    {
+      "name": "若月もあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/d8a4379b-f63b-4090-87c2-abb08b6d60c6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3435&name=若月もあ"
+    },
+    {
+      "name": "宮本聡美",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/dacfc2e4-5eb9-4f19-b470-3b128e0158d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3435&name=宮本聡美"
+    }
+  ]
+};

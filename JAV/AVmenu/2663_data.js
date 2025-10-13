@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c4de837-8735-4021-8e6c-8b4a37f9e99b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2663,
+  "IDcode": "MMBF-002",
+  "title": "Boots fetish 足控福利大放送 ~ 倉木詩織",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "舔腳",
+    "4K",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "女王",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "靴子",
+    "單體作品",
+    "御姐系",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "足交",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MMBF-002为MARRION出品,2025年9月12日发行的有碼成人影片由倉木詩織出演\nAV女优倉木詩織的私藏靴子大公开！被小姐姐闻脚时的羞涩模样简直撩爆，忍不住自己也闻了起来，香得让人上头！透明靴子里那双闷热的小脚丫，诱惑力直接拉满，想不想来尝一口？还有特典映像，脚底被整个吞没的画面，绝对让足控们疯狂！沉浸在这113分钟的足控天堂，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913210022904904_27375_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250913/20250913210022904904_27375_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2663",
+  "actresses": [
+    {
+      "name": "倉木詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/84fcb004-8c5b-48c5-b9f5-eaf01dc75d92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2663&name=倉木詩織"
+    }
+  ]
+};

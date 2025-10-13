@@ -1,0 +1,85 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f114b64-5b45-4430-a1f7-2c7d13e0984c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11340,
+  "IDcode": "MIH-010",
+  "title": "使用應用程序將人氣性感女優送到淫蕩酒會，後宮亂交PARTY的中出之夜 ~ 倉本菫 美園和花 鬆本一香",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "酒醉",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "KTV夜總會",
+    "兩女一男",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "MIH-010为本中出品,2024年10月15日发行的有碼成人影片由美園和花，松本一香，倉本菫出演\n娛樂喝酒、工資喝酒、獵爹這種隨意喝酒的人還有嗎？ ？我們想做的是一個酒會，在那裡我們可以享受色情和有趣的中出！ ！ ！在港區成為熱門話題的色情飲酒應用程式「CHINNPO」派遣的三位AV女優將在緊張的氣氛中與您乾杯！能做多少取決於價格！取決於勃起！這取決於公雞！有點極端調皮的遊戲，AV女優特有的體液口交，惡魔活塞女牛仔姿勢，雞雞、緊張、精液全部暴露↑↑",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010101124986986.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010101124986986.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11340",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11340&name=美園和花"
+    },
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11340&name=倉本菫"
+    },
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11340&name=松本一香"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7f4ac861-60f9-44c6-831a-b3b0a27164b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1186,
+  "IDcode": "HEYZO-1982",
+  "title": "最喜歡舔了！癡女杏里",
+  "publish_date": "2019-04-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "癡女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015211314527527.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231015/20231015211314527527.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1186",
+  "actresses": [
+    {
+      "name": "立花杏里",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/d66d4fb2-5bbe-4c4e-bcea-9e27cef04690.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1186&name=立花杏里"
+    }
+  ]
+};

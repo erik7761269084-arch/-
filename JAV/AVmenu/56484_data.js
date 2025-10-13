@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220616/1258DC6A58F8A020/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56484,
+  "IDcode": "FEE18E2742FE4E6DAEBB5A44F084D3AD",
+  "title": "身バレしたら即削除を条件に口说き落とせましたぁ～质感が伝わる超光沢パンスト（直穿き）フェチアングルで鬼イキ！",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56484",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/90C885887093FDEA/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35939,
+  "IDcode": "DE8882910B78A02F5036B1751DD54E-38",
+  "title": "【學校泳裝×無套抽插】SS級美巨乳經驗人數僅僅２人！超認真美女第一次的砲友體驗",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35939",
+  "actresses": []
+};

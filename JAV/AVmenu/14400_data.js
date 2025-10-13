@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7a911242-ef39-473d-83b3-b09cdc30db83/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/06/8af455bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14400,
+  "IDcode": "MKMP-557",
+  "title": "終極治愈射精紅燈區-高級浴衣養生服務，日本巨乳美女帶你升天快感 ~ 胡桃櫻花 五十嵐星蘭",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "風俗夜場",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240526/1f220fa9-31e0-4d27-b166-e20a0e5c1bf6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240526/1f220fa9-31e0-4d27-b166-e20a0e5c1bf6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14400",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14400&name=胡桃櫻花"
+    },
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14400&name=蘭々"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14400&name=椎叶みくる"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/0d9d575a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78151,
+  "IDcode": "DASD-581",
+  "title": "中年童貞と施し天使。ブラの外し方、教えてあげる。 河奈亜依",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女生",
+    "手淫",
+    "瘦小身型",
+    "平胸",
+    "处男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78151",
+  "actresses": [
+    {
+      "name": "河奈亜依",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/8e4f7f9c-94ed-476f-b2d2-ce6dd2a336fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78151&name=河奈亜依"
+    }
+  ]
+};

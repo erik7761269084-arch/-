@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/CBQJnjeo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84307,
+  "IDcode": "DASS-039",
+  "title": "あざと可愛い小悪魔な後輩に身も心も寝取られ、雌イキまでさせられたボク。 さつき芽衣",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "肛交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/1a6b019fde8f4cec5fd7c8161f3e2dc5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84307",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84307&name=沙月芽衣"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84307&name=向理来"
+    }
+  ]
+};

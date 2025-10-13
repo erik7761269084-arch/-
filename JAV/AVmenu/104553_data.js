@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/23/41e9f580/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104553,
+  "IDcode": "JUQ-163",
+  "title": "隨著甘甜呢喃、我直到大學留級、沉溺在與人妻窩在家做愛…。 明里紬",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "淫语",
+    "苗条",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104553",
+  "actresses": [
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104553&name=明里䌷"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104553&name=タイ"
+    }
+  ]
+};

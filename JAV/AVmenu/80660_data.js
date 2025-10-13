@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/8Qy1o96o/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80660,
+  "IDcode": "SIRO-4770",
+  "title": "【初撮り】【ふんわり美乳】【激グラインド騎乗位】見た目は清純系だけど中身は小悪魔的な美人LIVE配信者が登場。可愛い顔を蕩けさせ巨根を膣奥まで迎え入れると、美尻を痙攣させながら感じていき.. ネットでAV応募→AV体験撮影 1741",
+  "publish_date": "2022-01-29",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "屁股",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/aaf20fdf8bbaa0a22ef83020fafd62c9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80660",
+  "actresses": [
+    {
+      "name": "南乃そら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80660&name=南乃そら"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/af3f3558-4569-4931-b716-43d8264a6aee/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/06/1020f775/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8178,
+  "IDcode": "START-289",
+  "title": "本氣的接吻。他們交織在一起，拼命的抽插，直到性欲耗盡 ~ 星乃莉子",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "美人",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250217/12b921c7-a1cd-4a4a-ba33-f995342fad23.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250217/12b921c7-a1cd-4a4a-ba33-f995342fad23.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8178",
+  "actresses": [
+    {
+      "name": "星乃莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/ac4cdd9b-a9ee-47a0-a206-669f2d143db8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8178&name=星乃莉子"
+    }
+  ]
+};

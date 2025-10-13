@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/vzxxtqK9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70280,
+  "IDcode": "SDMU-320",
+  "title": "マジックミラー号 ゲレンデで見つけた卒業旅行中の友達同士の男女が「素股マッサージ」体験 初めて触れ合うチ○ポとマ○コは火が付いて、そのまま生挿入真正中出し！",
+  "publish_date": "2016-05-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "其他恋物癖",
+    "女大学生",
+    "按摩",
+    "企画",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70280",
+  "actresses": [
+    {
+      "name": "宫崎彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/5391bf25-c850-4c23-8f3b-e8947519f2bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70280&name=宫崎彩"
+    },
+    {
+      "name": "森星いまり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70280&name=森星いまり"
+    },
+    {
+      "name": "逢沢るる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70280&name=逢沢るる"
+    },
+    {
+      "name": "夏希みなみ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/575c13c5e3ca50b4d36096081c8f6c2d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70280&name=夏希みなみ"
+    }
+  ]
+};

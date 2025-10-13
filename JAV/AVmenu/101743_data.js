@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240409/Y2YCkAqd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101743,
+  "IDcode": "GML-268",
+  "title": "美しすぎる中高年ヘルパーが訪問先のお客に言い寄られこっそりと中出し パート6 奈々子さん（41歳）",
+  "publish_date": "2024-03-24",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "中出",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101743",
+  "actresses": []
+};

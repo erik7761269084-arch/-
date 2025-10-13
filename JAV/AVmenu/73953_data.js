@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/6y6oOZoB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73953,
+  "IDcode": "SHKD-861",
+  "title": "特命刑護官の女2 大浦真奈美",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "捆绑",
+    "各种职业",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73953",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73953&name=大浦真奈美"
+    }
+  ]
+};

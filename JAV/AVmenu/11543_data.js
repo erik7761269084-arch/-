@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16f74504-d982-48f3-999e-a16436d2e437/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11543,
+  "IDcode": "SSNI-403",
+  "title": "白濁催情乳液顏射大量射發！爆炸粘性高潮 ~ 羽笑美晴",
+  "publish_date": "2019-02-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "多P",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "女優",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆"
+  ],
+  "description": "SSNI-403为S1出品,2019年2月7日发行的有碼成人影片由羽笑美晴出演\n波崎美春全身沾滿渾濁的乳液，達到了高潮。含有濃縮催情成分、具有催情效果的渾濁催情乳液。透過直接注射到體內，包括體外，以及口腔和陰道，整個身體都被春藥浸透，身體的每個部位都成為性感帶。在這樣的情況下做愛，我的大腦因刺激和愉悅而一片空白，我享受了有史以來最好的高潮。這是喚醒女演員情慾的新S1系列。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/202410030131213131.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/202410030131213131.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11543",
+  "actresses": [
+    {
+      "name": "羽笑美晴",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/8882ed6a-3831-4631-8174-f6e75734ac71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11543&name=羽笑美晴"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/12/e35d49c9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91146,
+  "IDcode": "HTHD-213",
+  "title": "友達の母親～最終章～ 相河沙季",
+  "publish_date": "2023-12-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240324-1/c7be56182773da2b1de17f5c18501cc3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91146",
+  "actresses": [
+    {
+      "name": "相河沙季",
+      "img_url": "https://picture.yoshiclub.xyz/20241226/c5ed9536-adbb-458f-987b-162a6d4936b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91146&name=相河沙季"
+    }
+  ]
+};

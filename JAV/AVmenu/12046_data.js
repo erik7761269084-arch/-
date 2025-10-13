@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2adaa14e-9707-4610-9eb8-e542547e421f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/03/7a806110/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12046,
+  "IDcode": "PRED-706",
+  "title": "在溫泉熱氣騰騰的約會。浸泡在淫水、汗水和唾液中！追求極致性愛快感 ~ 橋本葵",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "溫泉",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "PRED-706为PREMIUM出品,2024年9月17日发行的有碼成人影片由橋本葵出演\n與G罩杯溫泉記者橋本葵的熱辣約會！忘記城市的喧囂...去一處僻靜的溫泉吧！沒有劇本！充滿即興創作的愛情約會！濕漉漉的身材和浴衣的水氣美女看起來很好看…！激烈的舌吻SEX！奶子他媽的滴著口水！站在浴室裡，保持傳教士姿勢！即使在晚上也是奇聞趣事！大量臉部射精！和你一直夢想的女人…接吻、口交、糾纏…3SEX！太有愛了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912105851170170.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912105851170170.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12046",
+  "actresses": [
+    {
+      "name": "橋本葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/0fd24c47-046a-4dde-9115-738189026299.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12046&name=橋本葵"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12046&name=小田切ジュン"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/31e60a1f-3ed9-44b3-8088-ac3df320d19f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6645,
+  "IDcode": "GOUL-013",
+  "title": "夫妻吵架的下場：和隔壁大學生偷情中出 ~ 水端麻美",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "鄰居",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "無毛",
+    "報復"
+  ],
+  "description": "GOUL-013为熟女人妻最強廠出品,2025年4月24日发行的有碼成人影片由水端麻美出演\n29歲的全職主婦麻美，天天跟花心老公吵架，夫妻感情早就破裂。某個週日早上洗衣服時，發現老公襯衫上的吻痕，氣到炸裂直接開戰，結果被老公吼著滾出家門！剛好在公寓走廊遇到隔壁年輕大學生小龍，暖男小龍看她狀態不對，主動邀她進屋聊心事。面對小龍的溫柔貼心，麻美的感情瞬間爆發，寂寞人妻和小鮮肉的禁忌之火一燒就停不下來，公寓裡直接上演激情中出大戲，刺激到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424013138947947_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250424/20250424013138947947_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6645",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6645&name=水端麻美"
+    }
+  ]
+};

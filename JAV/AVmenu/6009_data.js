@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c01c3db9-9e80-43f7-a409-9aaddb366d6b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6009,
+  "IDcode": "MIZD-457",
+  "title": "超可愛妹子口爆精選合集 ~ 七澤美亞 石川澪 八木奈奈 石原希望 新有菜 宮下玲奈 小野六花",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "企畫",
+    "無做愛場面",
+    "吞精",
+    "美乳",
+    "形象俱樂部",
+    "4小時以上作品",
+    "口交",
+    "局部特寫",
+    "性感",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "美人",
+    "精選綜合",
+    "美少女電影"
+  ],
+  "description": "MIZD-457为MOODYZ出品,2025年5月16日发行的有碼成人影片由石川澪，新有菜，小野六花，宮下玲奈，七泽美亚，石原希望，八木奈々出演\nMOODYZ獨家簽約的超萌美少女，舌頭上滿滿被射爆的精選合輯！知道啥叫舌上發射嗎？就是在高潮前，妹子們一臉放蕩地張開小嘴，伸出舌頭等著接精的那種騷樣，真的色到爆！肉棒射出濃精的瞬間全都能看個一清二楚！七澤美亞、石川澪、小野六花、八木奈奈等超正妹的舌頭被徹底征服，絕對的支配感！快來品嚐這濃到不行的精液盛宴吧，超滿足der！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063023966966_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063023966966_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6009",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=新有菜"
+    },
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=七泽美亚"
+    },
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=石原希望"
+    },
+    {
+      "name": "宮下玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/e3fefc9b-635d-4098-9b5f-921fd410b0e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=宮下玲奈"
+    },
+    {
+      "name": "小野六花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/8394037c-d440-49bd-8a55-c543588d55ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=小野六花"
+    },
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=八木奈々"
+    },
+    {
+      "name": "石川澪",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/6a84337f-8c38-460e-8358-7462c4379dc4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6009&name=石川澪"
+    }
+  ]
+};

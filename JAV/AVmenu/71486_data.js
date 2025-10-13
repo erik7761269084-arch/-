@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/p6hgEAtX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71486,
+  "IDcode": "ECB-127",
+  "title": "君が、メスイキできますように 稲場るか",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "M男",
+    "肛交",
+    "企画",
+    "手淫",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71486",
+  "actresses": [
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71486&name=Qべぇ"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71486&name=稻场流花"
+    }
+  ]
+};

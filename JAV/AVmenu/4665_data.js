@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e98bd8b3-a0d2-4997-8820-94143cb0e152/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4665,
+  "IDcode": "MUCH-192",
+  "title": "巨乳媽媽的豐滿肉感性愛精選2 4小時合集 ~ 福本芽衣 小西美香 鬼塚萌奈美 優木衣織",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "家庭主妇",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "精選綜合",
+    "豐滿"
+  ],
+  "description": "MUCH-192为妄想族出品,2025年7月5日发行的有碼成人影片由小西美香，鬼塚萌奈美，優木衣織，福本芽衣出演\n滿滿溫柔的笑容，一抱就能把你整個人包圍的豐滿肉感身軀！充滿母性的大奶媽媽，帶你進入治癒與淫蕩的極致反差世界。不管是煩惱、不安還是滿滿的慾火，她那軟綿綿的肉體都能全部接納，讓你的心和下面都酥麻到不行……瘋狂吸吮那對渾圓的大奶，濕潤的私密處滿是母愛的溫柔，輕輕挑逗你的小兄弟……甜美又貼心，4小時的母性性愛讓你爽到魂都飛了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706100455119119_44844_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250706/20250706100455119119_44844_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4665",
+  "actresses": [
+    {
+      "name": "鬼塚萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/89370c6f-0d8f-4d61-9a37-c21e0c95c4b5_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4665&name=鬼塚萌奈美"
+    },
+    {
+      "name": "優木衣織",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/ff1f3617-7d78-4f56-86a3-4a887da33e32_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4665&name=優木衣織"
+    },
+    {
+      "name": "福本芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/967520c3-c6db-4415-8cd1-c65dcf10a581_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4665&name=福本芽衣"
+    },
+    {
+      "name": "小西美香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/f6812178-a077-4a99-bb46-9f23eb422b97_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4665&name=小西美香"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/090f984c-0abe-4121-bade-6e2c02a70dfd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 472,
+  "IDcode": "HEYZO-0565",
+  "title": "放學後美少女檔案No.5～透明美白蓬鬆巨乳 ～ 柏倉玲華",
+  "publish_date": "2014-04-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "金髮",
+    "美人",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "HEYZO-0565为HEYZO出品,2014年4月29日发行的無碼成人影片由柏倉玲華出演\n放課後美少女ファイル No.5～透明美白とふわふわ巨乳～ - 柏倉玲華",
+  "cover_url": "https://picture.yoshiclub.xyz/20250107/d480aedd-da9d-459e-88e5-95fbe5e27106.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250107/d480aedd-da9d-459e-88e5-95fbe5e27106.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=472",
+  "actresses": [
+    {
+      "name": "柏倉玲華",
+      "img_url": "https://picture.yoshiclub.xyz/20241229/d503beb2-5615-4b60-9e04-5daecf4a562e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=472&name=柏倉玲華"
+    }
+  ]
+};

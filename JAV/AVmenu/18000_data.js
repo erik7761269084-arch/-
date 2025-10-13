@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/084b4c4d-c3f4-4b72-bc98-09f9dfd97f2c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18000,
+  "IDcode": "ADN-507",
+  "title": "老婆是村裡公用的肉便器",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "性感",
+    "慾求不滿",
+    "多P",
+    "人妻",
+    "出軌"
+  ],
+  "description": "ADN-507为ATTACKERS出品,2023年11月7日发行的有碼成人影片由三宮椿出演\n三宮つばき夫妇遇到了大麻烦，因为先生精子数量很少，所以怀不上孕，治疗不孕症也要花大笔的钱，丈夫都绝望了。某天，妻子三宮つばき受到村长的邀请参加村里的活动，大家却以治疗不孕症为理由对三宮つばき进行了无礼的羞辱。\n三宮つばき夫妇遇到了大麻烦，因为先生精子数量很少，所以怀不上孕，治疗不孕症也要花大笔的钱，丈夫都绝望了。某天，妻子三宮つばき受到村长的邀请参加村里的活动，大家却以治疗不孕症为理由对三宮つばき进行了无礼的羞辱。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105222909489489.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231105/20231105222909489489.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18000",
+  "actresses": [
+    {
+      "name": "三宮椿",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/d66b829a-f8fa-4acd-8dc2-af9769573e6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18000&name=三宮椿"
+    }
+  ]
+};

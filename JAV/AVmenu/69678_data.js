@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250324/k4khTt1X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69678,
+  "IDcode": "YST-204",
+  "title": "誘惑する肉妻 篠崎かんな",
+  "publish_date": "2019-10-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "已婚妇女",
+    "女优按摩棒",
+    "胖女人",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69678",
+  "actresses": [
+    {
+      "name": "篠崎环奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69678&name=篠崎环奈"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dde1ffec-48ce-429b-a9c2-630a41032b36/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/31/05641d2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16898,
+  "IDcode": "IPZZ-189",
+  "title": "一經發現，將被開除！ ！但我無法拒絕！ ！在學校裏偷偷做愛，同時忍住聲音，不應該讓任何人發現",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "制服",
+    "騎乗位",
+    "兩男一女",
+    "少女",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "女學生"
+  ],
+  "description": "IPZZ-189为IDEA POCKET出品,2024年1月9日发行的有碼成人影片由鈴乃宇都出演\n一經發現，將被開除！ ！但我無法拒絕！ ！在學校裏做愛，你永遠不應該被發現，同時抑制你的心跳聲。當你發不出聲音的時候射精就是最好的快感！ ① 備課期間偷偷口交 ② 抓到偷窺者在更衣室裏偷偷做愛 ③ 開會時偷偷用玩具指責他 ④ 在男廁所裏低聲說愛 ⑤ 躲在護士房的被子下進行三人行。盡管我叫她安靜點，鈴乃宇都還是忍不住尖叫起來！我激動得忍不住喘氣！ ！\n一經發現，將被開除！ ！但我無法拒絕！ ！在學校裏做愛，你永遠不應該被發現，同時抑制你的心跳聲。當你發不出聲音的時候射精就是最好的快感！ ① 備課期間偷偷口交 ② 抓到偷窺者在更衣室裏偷偷做愛 ③ 開會時偷偷用玩具指責他 ④ 在男廁所裏低聲說愛 ⑤ 躲在護士房的被子下進行三人行。盡管我叫她安靜點，鈴乃宇都還是忍不住尖叫起來！我激動得忍不住喘氣！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/202401060007536363.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/202401060007536363.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16898",
+  "actresses": [
+    {
+      "name": "鈴乃宇都",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/da9d023f-97b6-401c-8d56-dda818d97563.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16898&name=鈴乃宇都"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16898&name=タツ"
+    }
+  ]
+};

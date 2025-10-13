@@ -1,0 +1,80 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2301,
+  "IDcode": "JNKD-015",
+  "title": "JK素人終極約炮 Vol.11 ~ 白石桃 琴音華 天宮奈月",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "游戲COSPLAY",
+    "傲嬌",
+    "校花",
+    "臀控",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "素人",
+    "4小時以上作品",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "高妹",
+    "少女",
+    "打手槍",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "癡女",
+    "精選總編集",
+    "完全着衣",
+    "手指插入",
+    "按摩棒",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "泳裝"
+  ],
+  "description": "JNKD-015为DOC出品,2025年10月2日发行的有碼成人影片由琴音華，白石桃， 天宮奈月出演\n這次可是貨真價實的制服cosplay誘惑啦！大叔們跟小鮮肉妹子的約會終極篇登場！青春無敵的妹子跟你甜蜜約會，撒嬌賣萌超心動！不過，真正的重頭戲當然是約會後的私密時光啦~她們那滑溜溜的肌膚，青澀未熟的身材，年輕的小穴真的是爽到不行！那種背德感，簡直讓人上癮！果然年輕就是王道！這絕對是新一代素人妹子的激情實錄，四位小可愛一次滿足你！19歲的萌妹子，個個都是極品！【個人撮影、美少女、素人、cosplay、約會、情侶、穿衣play、生插、顏射、內射、口爆、電摩、玩具、口交、揉奶、手活、舔穴、活塞運動、潮吹、清純、美腿、美臀、美胸、巨臀、白皙、纖細、泳裝、體操服】",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002074916265265_90857_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002074916265265_90857_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2301",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2301&name=白石桃"
+    },
+    {
+      "name": "琴音華",
+      "img_url": "https://picture.yoshiclub.xyz/20240128/0952ac9a-6b45-4d8e-a980-4d03c8559471.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2301&name=琴音華"
+    },
+    {
+      "name": "天宮奈月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2301&name=天宮奈月"
+    }
+  ]
+};

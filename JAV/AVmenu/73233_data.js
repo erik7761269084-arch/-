@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/lHNR8GE5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73233,
+  "IDcode": "DLDSS-120",
+  "title": "見た目は上品、中身はド淫乱 異常なる性欲で痴女る騎乗位 徳永しおり パンティと写真付き",
+  "publish_date": "2022-09-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "骑乗位",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73233",
+  "actresses": [
+    {
+      "name": "徳永しおり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250425/539fe1cc-1705-4827-852c-56815e128ad3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73233&name=徳永しおり"
+    }
+  ]
+};

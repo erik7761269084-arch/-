@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240328/yKSPyZbY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101587,
+  "IDcode": "SIMM-877",
+  "title": "【せいら(18)・ギャルだけど中身はとってもマジメな最新令和J♪！大好きなおじさんに全力投球DEいちゃラブSEXしちゃうZE！！】《J♪彼女とおじさん彼氏のえちらぶ記録》",
+  "publish_date": "2024-03-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "女上位",
+    "第一人称摄影",
+    "吞精",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101587",
+  "actresses": [
+    {
+      "name": "セイラ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101587&name=セイラ"
+    }
+  ]
+};

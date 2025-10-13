@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7c0b167c-bc05-43f0-bfda-166ea4fe43fa/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241025/6WgRAMSD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13813,
+  "IDcode": "SONE-332",
+  "title": "乳頭、乳房，曲線…徹底美麗的美乳開發！蘿莉巨乳偏向 AV，女孩與她的乳房性感區 ~ 宇野美玲",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "SONE-332为S1出品,2024年6月25日发行的有碼成人影片由宇野美玲出演\n說到宇野美玲…Gcup美白美胸，形狀優美！ 「她很瘦，她很白，而且她有很好的胸部，」她在她的處女作中說道，這是她的強項。其實你知道嗎，只有右邊的乳頭凹陷了？當我感覺良好時，我會勃起。出道兩年後，我發現沒有一部作品是描寫胸部的。如果她完全發展出她標誌性的白桃胸，它們會成為性感帶嗎？不是嗎？乳頭、史賓乳腺、乳線……我花了時間仔細地發展它們……！令人難以置信的勃起乳頭完全勃起！ ！似乎整個乳房都變成了和陰蒂一樣的性感帶。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621011256335335.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621011256335335.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13813",
+  "actresses": [
+    {
+      "name": "宇野美玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3f8f9fff-0692-4f44-b99b-15a547d3eeb1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13813&name=宇野美玲"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13813&name=鲛岛"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13813&name=田渊正浩"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13813&name=イセドン内村"
+    }
+  ]
+};

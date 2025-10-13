@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230108/2FB205C980DEA451/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98630,
+  "IDcode": "NTTR-030",
+  "title": "乗っ取った女体を科学する 2019年度 闇TSF研究レポート",
+  "publish_date": "2019-08-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "监禁",
+    "企画",
+    "调教",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98630",
+  "actresses": [
+    {
+      "name": "幸田ユマ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-幸田ユマ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98630&name=幸田ユマ"
+    },
+    {
+      "name": "平花",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\4-Kawaii/平花.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98630&name=平花"
+    },
+    {
+      "name": "相泽ゆりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98630&name=相泽ゆりな"
+    }
+  ]
+};

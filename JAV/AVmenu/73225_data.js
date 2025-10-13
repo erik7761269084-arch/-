@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/ysx2KxH7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73225,
+  "IDcode": "FSDSS-469",
+  "title": "追撃乳首ハラスメント学校中で乳首を犯●れまくった女子校生 夏木りん パンティと写真付き",
+  "publish_date": "2022-09-22",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "学校作品",
+    "制服",
+    "乳房",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/dc6f82f15ebc9ae80bf65af94db81457.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73225",
+  "actresses": []
+};

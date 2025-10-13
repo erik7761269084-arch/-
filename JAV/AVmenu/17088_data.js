@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f7f5444-11f0-47f8-b50e-867ea4590d65/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/10/50e41d88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17088,
+  "IDcode": "CJOD-407",
+  "title": "出乎意料的是，我和兩個大奶子女孩同住一個房間，她們的奶子劇烈搖晃，反復以騎乘式姿勢高潮。",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "後入",
+    "淫亂",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "少女",
+    "叔叔・姪女",
+    "雙飛",
+    "巨乳",
+    "兩女一男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231225/e72a54ba-87d7-406d-9942-a818f077621f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231225/e72a54ba-87d7-406d-9942-a818f077621f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17088",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17088&name=美園和花"
+    },
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17088&name=夕美紫苑"
+    }
+  ]
+};

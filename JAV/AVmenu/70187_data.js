@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/1c2f39c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70187,
+  "IDcode": "AGMX-220",
+  "title": "マ〇コぶっかけザーメンオナニー狂",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "自慰",
+    "荡妇",
+    "手淫",
+    "恋物癖",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70187",
+  "actresses": [
+    {
+      "name": "天乃のあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/11323ce3-390d-4768-ab59-6eb113e89679.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70187&name=天乃のあ"
+    },
+    {
+      "name": "七藤優亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/5f530468-c174-4eeb-8511-93d8469f5946.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70187&name=七藤優亜"
+    },
+    {
+      "name": "乃木ちはる",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/bd42706f-0f7c-40ea-8517-eddba0bc30e2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70187&name=乃木ちはる"
+    },
+    {
+      "name": "木之内奈々葉",
+      "img_url": "https://picture.yoshiclub.xyz/20250326/e2827d5c-324a-4d44-83ef-dbc1ab46a069.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70187&name=木之内奈々葉"
+    },
+    {
+      "name": "蓝芽水月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70187&name=蓝芽水月"
+    }
+  ]
+};

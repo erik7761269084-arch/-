@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/82f05e1a-b8ec-48c4-88ed-1cd7d6bbffd4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1285,
+  "IDcode": "HEYZO-2528",
+  "title": "放課後美少女檔案No.36 時東久留美",
+  "publish_date": "2021-05-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "美乳",
+    "JK校服",
+    "素人",
+    "少女",
+    "女學生",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230824/20230824030817887887.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230824/20230824030817887887.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1285",
+  "actresses": []
+};

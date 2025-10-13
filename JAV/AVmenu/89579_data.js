@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/lsSmHeg1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89579,
+  "IDcode": "SCOP-822",
+  "title": "とある深夜番組には好みのシロウト出演者を誘惑してチ●ポをしゃぶり散らかす美人痴女スタッフがいるという噂が！収録前の確認と称して楽屋に入り込みザーメン欲を満たす職権乱用オンナを徹底SCOOOOOP！！",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89579",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89579&name=美園和花"
+    }
+  ]
+};

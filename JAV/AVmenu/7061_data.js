@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f0511a4-9d50-4c0b-921b-67fba4cae5de/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7061,
+  "IDcode": "SONE-674",
+  "title": "深吻、舔穴、大力抽插，啥爽的都教你的色色家教姐姐一對一私密SEX課程 ~ 花愛麗絲",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "家庭教師",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "熟女",
+    "無毛"
+  ],
+  "description": "SONE-674为S1出品,2025年4月8日发行的有碼成人影片由花愛麗絲出演\n一位美麗的老太太教給我的 ABC 對我來說比考試更重要……・舌頭纏繞的成人法式接吻・舔陰，舌頭舔 G 點・握住讓你搖動臀部感覺良好的活塞“來吧……我會讓你成為一個成年男人”",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093358752752.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403093358752752.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7061",
+  "actresses": [
+    {
+      "name": "花愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240706/c50dc3fe-d28c-4c59-9f4d-ff9f005f18ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7061&name=花愛麗絲"
+    }
+  ]
+};

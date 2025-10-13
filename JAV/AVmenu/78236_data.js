@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/m4WKGSqq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78236,
+  "IDcode": "JUY-852",
+  "title": "危険な恋は蜜の味 ～昼下がりに隣家の青年と燃え上がる不貞関係～ 菅野真穂",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/165783a51e6ec0de8eccd67695bee615.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78236",
+  "actresses": [
+    {
+      "name": "菅野真穂",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78236&name=菅野真穂"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e5c66313-adf9-403e-af53-ef872389c104/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7618,
+  "IDcode": "SSNI-591",
+  "title": "酥麻淫語療法與慢熱性愛沙龍 ~ 葵司",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "拜金女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "獵豔",
+    "抹油",
+    "美人",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "SSNI-591为S1出品,2019年10月19日发行的有碼成人影片由葵司出演\n如果真的有這樣的沙龍的話… 就會開一家淫蕩沙龍，葵司會在那裡用盡她所有的技巧來服務顧客。緩慢地手淫，用指尖挑逗你，同時低聲說著髒話。女牛仔式按摩方法，其中臀部緩慢地上下和前後移動。排毒自慰可以徹底挑逗陰莖頭並使男人射精。口腔按摩是將陰莖慢慢放入口中並用舌頭舔遍全身。透過極致緩慢的性愛來撫慰自己。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312045208539539.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250312/20250312045208539539.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7618",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7618&name=葵司"
+    }
+  ]
+};

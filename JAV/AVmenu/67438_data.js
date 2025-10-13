@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/20/4028b071/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67438,
+  "IDcode": "MIDV-248",
+  "title": "ソープ部を新たにつくった生徒会長澪ちゃんがエッチな衣装で大奮闘！発射無制限サービス 石川澪",
+  "publish_date": "2023-03-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "乳房",
+    "角色扮演者",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250413-1/46430d213d2a772d341b6009689adf6e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67438",
+  "actresses": []
+};

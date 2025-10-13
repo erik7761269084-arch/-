@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/RxOIIkiD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90454,
+  "IDcode": "ONIN-088",
+  "title": "服をまくったら「ぶるんっ」って飛び出る大きなおっぱい または「ぷるんっ」って控えめに揺れるちっぱい",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "乳房",
+    "恋物癖",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/f9b17fab96bc0438b40e8862a195e70d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90454",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=瀬那瑠美奈"
+    },
+    {
+      "name": "瓊·洛夫喬伊",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/15d750f6-3af9-4072-bd19-c8c9bf59a421.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=瓊·洛夫喬伊"
+    },
+    {
+      "name": "奈津野こはく",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8127be1e-e63f-4a31-ae3b-4e19d63d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=奈津野こはく"
+    },
+    {
+      "name": "茅野亜美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=茅野亜美"
+    },
+    {
+      "name": "夏花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=夏花"
+    },
+    {
+      "name": "姫宮すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90454&name=姫宮すみれ"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/HcJ7kdDl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77637,
+  "IDcode": "SABA-406",
+  "title": "完全顔出しガチナンパ！とっても優しい天使みたいなナースさんに包茎インポ童貞3重苦男子のオナニーの介抱してもらいました！！かわいすぎる裸体にズル剥けフル勃起したち●ぽを白衣の奥にズブリ！金玉空になるまで何度も中に出しました！2",
+  "publish_date": "2018-04-27",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "业余",
+    "猎艳",
+    "护士",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/4883cc309e39d4d6634ccfa23d8f36e4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77637",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77637&name=星奈爱"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77637&name=神宫寺奈绪"
+    },
+    {
+      "name": "天野美优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77637&name=天野美优"
+    },
+    {
+      "name": "ななせ麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77637&name=ななせ麻衣"
+    }
+  ]
+};

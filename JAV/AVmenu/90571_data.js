@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/fIqsNMcj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90571,
+  "IDcode": "PIYO-184",
+  "title": "こんな子、●すしかないやろ～～【発掘素人】初体験は中学の時に、部活の顧問の先生と…！？真っ白い肌、触れるだけで可愛く喘いじゃう超敏感ドMのFカップちゃん。その辺を歩いてそうな地味めな女子校生が早熟でむちゃくちゃエロかった！ パンティとチェキ付き",
+  "publish_date": "2023-10-26",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "吞精",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/9d97acd2ee1754ebd6a48cce68204a4a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90571",
+  "actresses": []
+};

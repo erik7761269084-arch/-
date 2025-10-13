@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/YtUXvzBl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68131,
+  "IDcode": "ATID-536",
+  "title": "幼い頃お世話になったオジサンの入浴介助をしていたら、性処理させられました。 二宮ひかり",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/7535f015f02a651f995b97253e81cc41.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68131",
+  "actresses": [
+    {
+      "name": "二宫ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68131&name=二宫ひかり"
+    }
+  ]
+};

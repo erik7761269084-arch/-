@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/445ad106/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72438,
+  "IDcode": "SW-991",
+  "title": "黒タイツ女子 成長した従姉妹の黒タイツむっちりスベスベ尻が僕を興奮させる！好き勝手にエッチした！",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "足交",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72438",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230122/Jg6nEpsO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85376,
+  "IDcode": "MIAA-640",
+  "title": "【FANZA限定】彼女のムチムチお姉さんにアナル開発されてこっそりメスイキしたボク 夕季ちとせ 生写真3枚付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "荡妇",
+    "肛交",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85376",
+  "actresses": [
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85376&name=七草千歲"
+    }
+  ]
+};

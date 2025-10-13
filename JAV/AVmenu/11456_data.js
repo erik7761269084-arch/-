@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6db189c8-16aa-48d6-8455-3e9d94b050a6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/16/c2bd7694/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11456,
+  "IDcode": "JUQ-901",
+  "title": "在父親身邊沉默着陷入絕頂高潮的繼母 ~ 赤井美希",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "繼母",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "兩男一女",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "短髮",
+    "羞恥"
+  ],
+  "description": "JUQ-901为MADONNA出品,2024年10月8日发行的有碼成人影片由赤井美希出演\n父親再婚已經半年了，每天晚上…每天晚上…我每天都在痛苦中度過，因為米希總是不厭其煩地被父親抱在懷裡，大聲呻吟著。有一天，我趁父母熟睡時偷偷溜進他們的臥室，趁著父親的注視，帶米奇出去夜爬。美希對突如其來的事情感到驚訝，但她沒有發出任何聲音，而是反抗著，看到她痛苦地扭動著，眼裡含著淚水拼命屏住呼吸的樣子，我感到了興奮，更加用力地用力拍打著臀部。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003104202226226.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003104202226226.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11456",
+  "actresses": [
+    {
+      "name": "赤井美希",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/d3c8c6ee-63ff-458f-90b0-25f590b30dd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11456&name=赤井美希"
+    },
+    {
+      "name": "トンガ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11456&name=トンガ"
+    }
+  ]
+};

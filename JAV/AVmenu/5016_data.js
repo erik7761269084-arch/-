@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6fda16d-a1c4-4f28-86bb-4265d552d268/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/03/a4c92d4f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5016,
+  "IDcode": "IENF-393",
+  "title": "街頭搭訕素人人妻 幫童貞小哥哥洗小弟弟好不好？3 看到硬邦邦的小弟弟直接發情！溫柔開苞性愛超貼心 ~ 菜月光 三舩美鈴 羽月乃蒼",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "濕身",
+    "企畫",
+    "巨尻",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "形象俱樂部",
+    "搭訕",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "舔陰",
+    "清楚系",
+    "拜金女",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "綠茶婊",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "IENF-393为IENERGY出品,2025年6月26日发行的有碼成人影片由羽月乃蒼，菜月光，三舩美鈴出演\n在街頭隨機搭訕溫柔的人妻，用小報酬引誘她們幫忙給童貞小哥哥清洗包莖小弟弟。問她們“會介意包莖嗎？”，人妻們都笑著說：“完全不介意啦！”她們溫柔地剝開包皮，細心地清洗小弟弟，看到硬梆梆的傢伙，臉上滿是迷醉的表情。最後還貼心地幫小哥哥開苞，溫柔性愛直接讓人超心動！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001004735735_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001004735735_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5016",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5016&name=羽月乃蒼"
+    },
+    {
+      "name": "菜月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/f75dbc85-4a6e-4721-a0da-fcae7ddf1f85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5016&name=菜月光"
+    },
+    {
+      "name": "三舩美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20250119/5c13839e-2348-4762-a0af-7aa90d11fb4e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5016&name=三舩美鈴"
+    }
+  ]
+};

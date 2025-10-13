@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/0aef62c4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63963,
+  "IDcode": "EUUD-065",
+  "title": "原田千花が浮世を忘れ本性むき出しでハメ倒す種付け混浴温泉旅行",
+  "publish_date": "2025-05-22",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/0aef62c4/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63963",
+  "actresses": [
+    {
+      "name": "原田千花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63963&name=原田千花"
+    }
+  ]
+};

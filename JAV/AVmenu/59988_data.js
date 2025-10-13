@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/06/f418f9f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59988,
+  "IDcode": "RBD-795",
+  "title": "川の字レイプ 吐息をこらえて犯されて… 桜木凛",
+  "publish_date": "2016-08-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59988",
+  "actresses": [
+    {
+      "name": "桜木凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ae705f3a-bdba-431e-b102-4da7bd047e68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59988&name=桜木凛"
+    }
+  ]
+};

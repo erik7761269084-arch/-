@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41924a4f-49b7-4701-8f52-6ab6c11523c3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11744,
+  "IDcode": "TLDC-018",
+  "title": "Oho 100分 性感婊子 ~ 有加裏乃乃花",
+  "publish_date": "2024-10-18",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "主觀視角",
+    "美少女",
+    "情趣內衣",
+    "癡女",
+    "猥褻穿著"
+  ],
+  "description": "TLDC-018为BOTAN出品,2024年10月18日发行的有碼成人影片由有加里乃乃花出演\n新 POV 系列第二彈【Ohho】！這是一個與天月亞津版本完全不同的故事，主角是野乃香由香里，一位有著令人尖叫的淫蕩個性的人氣女演員！這是一個讓所有男人都滿意的新影片！您可以立即享受 oho 聲音和 oho 臉部！音量太大會吹掉錶針，所以使用耳機聆聽時請小心。現在，可能還有人沒有看過天月篇，那我們就在這裡回顧一下。 「隨著快樂的增加，美麗女孩的呻吟聲！她美麗的臉扭曲，每次感覺到時她都會呻吟！」這就是新系列[Ohho]的全部內容。更重要的是，一旦由香里英俊的臉突然變成一張陌生的臉，就像她被裝上尖叫機器一樣，你可以欣賞到她臉上瘋狂的表情，伴隨著大帆的聲音和尖叫聲。請觀看公關影片。嗯，太不可思議了，多麼美妙！這也是新系列最精彩的部分！諾諾卡小姐正在用力地噴尿和尿尿。拍攝採用POV方式，給人一種完全主觀、身臨其境的體驗。我們在最後的剪輯過程中也仔細調整了音量。我們充滿信心地推薦它！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240923/20240923060716473473.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240923/20240923060716473473.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11744",
+  "actresses": [
+    {
+      "name": "有加里乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/77054015-b861-45c2-b1be-71ec9c680bd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11744&name=有加里乃乃花"
+    }
+  ]
+};

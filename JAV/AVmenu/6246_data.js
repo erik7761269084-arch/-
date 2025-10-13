@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/37ce46a4-b3d1-4b57-98cb-b278899227b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6246,
+  "IDcode": "BABD-020",
+  "title": "每月危險日瘋狂無套激戰 020 ~ 佐山由依",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "拜金女",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "BABD-020为妄想族出品,2025年5月10日发行的有碼成人影片由佐山由依出演\n這次鎖定的目標是個從沒談過戀愛卻願意接受無套內射的妹子！身高164cm，G罩杯大奶，腰圍64cm，鞋碼24.5，絕對是爆乳變態正妹降臨！直接來一場生猛內射趴，爽到翻天啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052631729729_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052631729729_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6246",
+  "actresses": [
+    {
+      "name": "佐山由依",
+      "img_url": "https://picture.yoshiclub.xyz/20241012/25cf31aa-7295-42b2-a1db-9fb5e2e490a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6246&name=佐山由依"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/ce0e7a9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67490,
+  "IDcode": "LULU-373",
+  "title": "大人しく押しに弱いデカ尻叔母さんの無自覚挑発に我慢できず若硬性欲ち○ぽで即ハメ中出しピストンしたら白目ベロ出しアヘ顔！ヨダレ垂れっぱなし！ガクガク痙攣！するほど乱れ潮射イキしまくっていた。 水川潤",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/28/ce0e7a9c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67490",
+  "actresses": [
+    {
+      "name": "大志",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67490&name=大志"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67490&name=由爱可奈"
+    }
+  ]
+};

@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58c7088d-c7f4-4370-bf2a-4a284a5e6001/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6843,
+  "IDcode": "FSBK-007",
+  "title": "偶像特典會大揭秘：被黑心營運出賣，淪為宅男玩物的悲慘小偶像 5P狂歡 ~ 天美めあ",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "偶像",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "顏射",
+    "口交",
+    "貓耳裝飾",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "少女",
+    "口爆",
+    "多P",
+    "貧乳",
+    "蘿莉控",
+    "美少女",
+    "自慰",
+    "女僕制服",
+    "過膝襪・小腿襪",
+    "粉絲福利",
+    "粉丝",
+    "M男・M女",
+    "真實拍攝",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥"
+  ],
+  "description": "FSBK-007为FIRST STAR出品,2025年4月12日发行的有碼成人影片由天美めあ出演\n小偶像めあ出道五年，演唱會結束後卻被無良營運告知了一個喪盡天良的周邊福利活動！啥？五萬塊能買自慰影片，十萬塊能解鎖口技服務，二十萬直接全壘打，三十萬還能開群P派對？！這根本是把她當肉玩具賣給死宅啊！被一群土豪粉絲輪番玩弄，濃厚的精華噴滿全身，為了業績她只能含淚墮落，徹底變成宅男們的洩慾工具，二次元小姐姐的悲慘命運讓人揪心到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/499bbdd7-b17b-4b41-b64e-4fa8a605ba36_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250414/499bbdd7-b17b-4b41-b64e-4fa8a605ba36_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6843",
+  "actresses": [
+    {
+      "name": "天美めあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240524/f18d9f31-53bc-4a92-983c-f22bb4f71d4f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6843&name=天美めあ"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02b51bc1-8c54-4a2c-8154-cbfe98bcae55/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/16/ca95048e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16854,
+  "IDcode": "MMUS-083",
+  "title": "擅長本職工作的漂亮白領宮西光的誘惑陰戶",
+  "publish_date": "2024-01-10",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "後入",
+    "黑絲",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "女上位",
+    "短裙・迷你裙",
+    "制服",
+    "口交",
+    "騎乗位",
+    "女同事",
+    "手指插入",
+    "辦公室"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240108/678a5d09-ed73-49b8-823a-a5e6a0cc9df8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240108/678a5d09-ed73-49b8-823a-a5e6a0cc9df8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16854",
+  "actresses": [
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16854&name=宮西光"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b25e5f9-1be0-4a4d-8afb-822d11193d8b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18051,
+  "IDcode": "MILK-189",
+  "title": "做夢都想要吞掉她的苗條美少女被猥褻調教到瘋狂",
+  "publish_date": "2023-11-02",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "調教",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "JK校服",
+    "口交",
+    "強姦",
+    "監禁",
+    "輪姦",
+    "美少女",
+    "緊縛",
+    "女學生",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231103/2935dea8-d4d3-463e-acf8-363c993f0db8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231103/2935dea8-d4d3-463e-acf8-363c993f0db8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18051",
+  "actresses": [
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18051&name=冬愛琴音"
+    }
+  ]
+};

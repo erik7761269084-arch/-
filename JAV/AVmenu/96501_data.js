@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/20/197bc6ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96501,
+  "IDcode": "NNPJ-243",
+  "title": "離家出走的童乳巨乳少女下海！把妹JAPAN EXPRESS Vol.54",
+  "publish_date": "2017-07-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "萝莉塔",
+    "苗条",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/20/24877cda446bd2d2d29074cace45e9b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96501",
+  "actresses": [
+    {
+      "name": "双葉良香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/6bf7dc0f-c684-4e40-888e-907ebb04dad5_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96501&name=双葉良香"
+    }
+  ]
+};

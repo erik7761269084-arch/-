@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230222/783F3BE2310E448D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99780,
+  "IDcode": "ABP-375",
+  "title": "天然成分由来 若菜奈央汁120％",
+  "publish_date": "2015-10-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "制服",
+    "潮吹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99780",
+  "actresses": [
+    {
+      "name": "若菜奈央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723224636646646_32231_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99780&name=若菜奈央"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99780&name=しみけん"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250118/z5WsZGDb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73990,
+  "IDcode": "345SIMM-776",
+  "title": "こずえ(18)/顔より大きいバイブ突っ込んでガチイキしちゃうツンデレJ●【1限目】バイブオナニーがマイブーム♪スクールバッグから取り出し公開オナ→イッたばっかの敏感マ●コにセフレの巨ちん挿入！絶頂痙攣&amp;潮吹き→無責任膣内射精【2限目】人生初のコスプレにテンション爆上がり！『えっちしたいニャン♪』雌豹に変身...///本能のままナマ交尾→顔射フィニッシュ",
+  "publish_date": "2022-10-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250119-1/f2b725a6afeda123cb83833cdb1d6913.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73990",
+  "actresses": []
+};

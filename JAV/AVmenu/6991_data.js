@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cbab79ae-b26c-4bfa-85b2-9a778e559965/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/355d0d4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6991,
+  "IDcode": "ALDN-448",
+  "title": "旅奸 母子二人之旅 ~ 玉城夏帆",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "母子",
+    "美人",
+    "母親",
+    "熟女",
+    "溫泉",
+    "亂倫",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250406/d15d89c9-4985-49bc-9d39-45d1cb0cfae5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250406/d15d89c9-4985-49bc-9d39-45d1cb0cfae5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6991",
+  "actresses": [
+    {
+      "name": "玉城夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/38bdeeca-b286-487d-9966-b060917d40a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6991&name=玉城夏帆"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6991&name=いち"
+    }
+  ]
+};

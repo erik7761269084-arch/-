@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240621/qkwXk2j9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96871,
+  "IDcode": "KIR-014C",
+  "title": "太太的妹妹從鄉下來到東京、而且、妻子剛好回老家…真宮彩",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96871",
+  "actresses": []
+};

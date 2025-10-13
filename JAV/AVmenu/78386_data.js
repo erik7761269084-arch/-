@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/ERKIYLbD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78386,
+  "IDcode": "JUY-814",
+  "title": "人妻下着モデルNTR ～出張先のホテルで観てしまった妻の流出ビデオ～ 河北麻衣",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "内衣",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/81602dd85bac0d891f2f71c0936a80f0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78386",
+  "actresses": [
+    {
+      "name": "河北麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78386&name=河北麻衣"
+    }
+  ]
+};

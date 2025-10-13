@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/55844ba0-4ac5-4850-be85-0e5a5872ab02/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4342,
+  "IDcode": "KBR-028",
+  "title": "拜託來寝取我那超變態的性感老婆 ~ 松岡鈴",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "調教",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "緊縛",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "淫蕩・硬核",
+    "眼鏡",
+    "寢取",
+    "女優",
+    "羞恥"
+  ],
+  "description": "KBR-028为KANBi出品,2025年8月1日发行的有碼成人影片由松岡鈴出演\nKANBi獨家女優松岡鈴，滿足老公那扭曲的性癖好！結婚幾年，我的妻子鈴比誰都騷，比誰都對我胃口。平時她優雅又低調，但在老公面前卻能一次次變成徹底的變態。為了讓她墮落得更深，我把她獻給了一群慾求不滿的男人，開始了寝取的刺激遊戲。一開始鈴還有點猶豫，但被陌生男人的猛烈衝刺搞得神魂顛倒，完全沉溺在快感的漩渦裡。最後，她的深處被毫不留情地灌滿了滾燙的精液。而我，就在興奮和嫉妒中顫抖著目睹這一切。變態老婆松岡鈴墮入禁忌快感的NTR真實記錄，真的讓人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033152420420_21387_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033152420420_21387_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4342",
+  "actresses": [
+    {
+      "name": "松岡鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/38ff5263-c408-4a71-b91b-9a90e62ccb94.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4342&name=松岡鈴"
+    }
+  ]
+};

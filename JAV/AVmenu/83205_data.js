@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/GjbfhU4Q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83205,
+  "IDcode": "REBD-437",
+  "title": "Rei teenage・久留木玲",
+  "publish_date": "2020-01-02",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "性感的",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/83f36eefb381a55481d8179efb1c2033.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83205",
+  "actresses": [
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83205&name=久留木玲"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240111/nu8FqK55/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90074,
+  "IDcode": "QRDA-173",
+  "title": "尿道脳パニック 二本刺し",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "SM女王",
+  "genres": [
+    "SM",
+    "肛交",
+    "拘束",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90074",
+  "actresses": [
+    {
+      "name": "RURIKO",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90074&name=RURIKO"
+    }
+  ]
+};

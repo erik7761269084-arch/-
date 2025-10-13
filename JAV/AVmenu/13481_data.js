@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cff69c76-277c-4d68-acd6-32f62b6cab5b/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/d3ttSfxg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13481,
+  "IDcode": "MOPT-036",
+  "title": "瘦妹的M男狩獵行動！~ 美澄玲衣",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "牛仔褲",
+    "劇情",
+    "性虐癖",
+    "無做愛場面",
+    "變態",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女王",
+    "性感",
+    "美腳",
+    "美少女",
+    "完全着衣",
+    "高跟鞋",
+    "M男・M女",
+    "美少女電影",
+    "戀物癖",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240708/3f5c336e-45e5-4084-803f-568f7f271662.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240708/3f5c336e-45e5-4084-803f-568f7f271662.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13481",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13481&name=美澄玲衣"
+    }
+  ]
+};

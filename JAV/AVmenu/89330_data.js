@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/16/92192aad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89330,
+  "IDcode": "STARS-873",
+  "title": "【夏といえば水着！SODstar全員ビキニ祭】彼氏にデートをドタキャンされた先輩から突然の呼び出し！後輩の僕を一日中連れ回し当てつけベロチュウ&amp;ヤケクソ杭打ち騎乗位 宮島めい",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "泳装",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89330",
+  "actresses": [
+    {
+      "name": "宫岛めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89330&name=宫岛めい"
+    }
+  ]
+};

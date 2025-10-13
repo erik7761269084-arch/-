@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/ae32a6ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78773,
+  "IDcode": "CAWD-042",
+  "title": "九州生まれで方言バリバリのピュアな田舎娘発掘！ でも脱いだらEカップ！しかもオナニーもエッチも大好き！くしゃくしゃ笑顔が可愛い 馬場のん AVデビュー",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "潮吹",
+    "首次亮相",
+    "乳房",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78773",
+  "actresses": [
+    {
+      "name": "马场のん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78773&name=马场のん"
+    }
+  ]
+};

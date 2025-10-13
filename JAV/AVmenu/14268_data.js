@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/189e3d35-79bb-4fbe-88ce-3c91bbc736f0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14268,
+  "IDcode": "VENX-272",
+  "title": "1泊2日 被姐姐要求留下的桜木美音",
+  "publish_date": "2024-05-31",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "打手槍",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "出軌",
+    "NTR",
+    "小姨子",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240601/373c831b-d627-4601-8bdc-de33bfff9479.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240601/373c831b-d627-4601-8bdc-de33bfff9479.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14268",
+  "actresses": [
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14268&name=桜木美音"
+    }
+  ]
+};

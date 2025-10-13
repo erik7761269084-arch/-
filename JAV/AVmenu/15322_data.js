@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2e33ea0c-53bd-4053-843c-aaec5f6f9df1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/06/79849896/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15322,
+  "IDcode": "ROYD-171",
+  "title": "被離家出走的失意嫂子給寵壞了，我在工作室裏與她發生性關系，同時沉浸在不道德的感覺中 ~ 橘瑪麗",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "嫂嫂",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "ROYD-171为HUNTER出品,2024年4月23日发行的有碼成人影片由橘瑪麗出演\n我哥哥有一份好工作，還有一個漂亮的大胸部妻子。我希望有一天能嫁給這樣的人！然後有一天，我哥哥的妻子突然來看我！明明是和弟弟打架然後離家出走的……但他卻住在我的房間裡！ ？突然開始跟弟媳同居了！太尷尬了，但是當有人抱怨挫折感時，我的理性就崩潰了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419043444988988.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240419043444988988.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15322",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15322&name=橘瑪麗"
+    }
+  ]
+};

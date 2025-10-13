@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250409/CN4OhXJq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68621,
+  "IDcode": "JUY-636",
+  "title": "妻が他人に抱かれてる…。～ねとりネトラレ寝取らせて～ あかぎ碧",
+  "publish_date": "2018-10-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68621",
+  "actresses": [
+    {
+      "name": "木南日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f64418c6-524e-4e34-9a6f-c0665d817011.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68621&name=木南日菜"
+    }
+  ]
+};

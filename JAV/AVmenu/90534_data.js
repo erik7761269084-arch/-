@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/10/dd1a685e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90534,
+  "IDcode": "PPPE-160",
+  "title": "巨乳女教師の誘惑 安位薫",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "荡妇",
+    "乳房",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90534",
+  "actresses": [
+    {
+      "name": "安位薫",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/bf0e7d96-e7c4-430b-b352-60886b45c24d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90534&name=安位薫"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90534&name=タイ"
+    }
+  ]
+};

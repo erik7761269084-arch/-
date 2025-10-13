@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230128/pfOorWPS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85801,
+  "IDcode": "NHDTB-700",
+  "title": "拘束した客を無理やり連続射精でM男に開発するドS美容師 弥生みづきさんのパンティとチェキ付き",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "各种职业",
+    "荡妇",
+    "M男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85801",
+  "actresses": []
+};

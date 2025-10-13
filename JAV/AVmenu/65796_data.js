@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65796,
+  "IDcode": "BD993B8AB4C4CF01BB47F5CD463C0930",
+  "title": "新人刷新智能女大学生AV首次亮相东条夏",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65796",
+  "actresses": []
+};

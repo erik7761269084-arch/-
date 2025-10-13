@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff3405be-8344-444e-8d8b-90ceb3dbe32f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14717,
+  "IDcode": "SSNI-237",
+  "title": "酷刑輪奸強奸大奶子女搜查官凜音とうか",
+  "publish_date": "2018-06-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "監獄",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "多P",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "自慰",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女搜查官",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "SSNI-237为S1出品,2018年6月19日发行的有碼成人影片由凛音とうか出演\n凜內。她的代號是組織內能力最高的特務。凜音前往單獨組織，拯救被邪惡組織「Oreum」抓獲的調查小組長大木。然而，由於大木的背叛，NINNE 成為階下囚，並被迫承受組織成員難以置信的羞辱。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240514/20240514100950123123.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240514/20240514100950123123.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14717",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14717&name=凛音とうか"
+    }
+  ]
+};

@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/463dbfc0-da90-47c5-a2be-4e246a67f5c5/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/e79cd37e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5885,
+  "IDcode": "CJOB-181",
+  "title": "最強苗條御姐誘惑BEST精選集 ~ 森日向子 木下日葵",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "大姐姐",
+    "故事集",
+    "企畫",
+    "4K",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "清楚系",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "精選總編集",
+    "手指插入",
+    "足交",
+    "美人",
+    "女上司",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "野性",
+    "肌肉"
+  ],
+  "description": "CJOB-181为癡女特化出品,2025年5月23日发行的有碼成人影片由森日向子，木下日葵出演\n想被最強纖細御姐瘋狂挑逗嗎？森日向子精選集來了！絕美顏值，模特級的身材，簡直無可挑剔！更別說那讓人臉紅心跳的痴女技巧！從J系口技到舌吻女上司，再到回春按摩，還有和木下日葵的超人氣共演，6部作品17場戲，‘もりひな’的魅力直接滿載！騎乘、口技、熱吻、足技，樣樣都是一流！天啊，誰能抗拒這種誘惑？快來一起淪陷吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080536828828_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080536828828_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5885",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5885&name=森日向子"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5885&name=木下日葵"
+    }
+  ]
+};

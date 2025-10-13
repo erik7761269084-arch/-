@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230111/DF3FDDAFE2615CE4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103033,
+  "IDcode": "SHKD-403",
+  "title": "在老公的面前被侵犯- 小叔的欲望 西野翔",
+  "publish_date": "2010-04-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "强奸",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd403/shkd403pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103033",
+  "actresses": [
+    {
+      "name": "西野翔",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/fb6a7a91-1623-44ad-918c-5f08533a1d44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103033&name=西野翔"
+    }
+  ]
+};

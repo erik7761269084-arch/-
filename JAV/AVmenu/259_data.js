@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f716df8-ccfb-41d7-ade9-3c27ee9b4e89/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 259,
+  "IDcode": "HEYZO-0277",
+  "title": "後門爽翻天的呆萌情侶 ~ こずえまき",
+  "publish_date": "2013-03-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "肛交",
+    "素人作品",
+    "企畫",
+    "劇情",
+    "中出",
+    "真人秀",
+    "女上位",
+    "素人",
+    "跳蛋",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "美人",
+    "真實拍攝",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0277为HEYZO出品,2013年3月26日发行的無碼成人影片\n乍看就是一對平凡到不行的情侶檔，一開場就在床上各種甜膩互動，互相挑逗乳頭，甜到讓人看得臉紅心跳。這對小情侶的性愛之旅竟然走向超乎想像的方向！男友直接來真的，手指跟玩具通通往後門招呼！雙穴玩法一開始她還說有點怪怪的，結果越玩越沉迷。正面被肉棒猛力衝擊，後門玩具也沒停下，尖叫連連卻爽到爆，最後竟然在後門直接高潮！那被徹底開發的緊緻後庭吞下肉棒的畫面，絕對是必看，保證讓你看得心癢癢！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071228714714_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071228714714_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=259",
+  "actresses": []
+};

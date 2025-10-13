@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/iG7687Ak/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78854,
+  "IDcode": "SNIS-094",
+  "title": "交わる体液、濃密セックス 宇佐美まい",
+  "publish_date": "2014-02-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "淫乱，真实",
+    "颜射",
+    "薄马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78854",
+  "actresses": [
+    {
+      "name": "宇佐美まい",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/d93daf29aa617d894ae5348345680e4f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78854&name=宇佐美まい"
+    }
+  ]
+};

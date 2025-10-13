@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65600,
+  "IDcode": "0E9F0D4A087E07912E700F551CFA4E25",
+  "title": "这样子看、是小孩们的偶像。现役保母H罩杯人妻 永田莉雨 30歳 AV出道！ ！",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65600",
+  "actresses": []
+};

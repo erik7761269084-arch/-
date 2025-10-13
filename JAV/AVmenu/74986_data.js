@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241226/bQ1F4dFe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74986,
+  "IDcode": "SW-669",
+  "title": "満員バスで黒パンストむっちり尻が思春期学生のチ○コに触れて即反応！元気すぎるビン勃ち具合に性欲全開したお姉さんは握りしめるだけでは満足できず、他の乗客がいるのにその場でハメちゃった。",
+  "publish_date": "2019-11-21",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "姐姐",
+    "屁股",
+    "连裤袜",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74986",
+  "actresses": []
+};

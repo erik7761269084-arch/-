@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230102/Ke5Y5u7N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83930,
+  "IDcode": "FSDSS-394",
+  "title": "あざと可愛い彼女の親友が密着しながら囁き淫語でおねだり誘惑！ 吉高寧々",
+  "publish_date": "2022-04-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "淫语",
+    "女上位",
+    "荡妇",
+    "主观视角",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83930",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83930&name=吉高寧寧"
+    }
+  ]
+};

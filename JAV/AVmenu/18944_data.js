@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a250fa8c-f6d9-444b-829d-ad881dae334a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18944,
+  "IDcode": "STARS-734",
+  "title": "掌握住身材出眾過頭部下弱點讓她肉奴隸化。權力騷擾上司的公司內內衣調教！！",
+  "publish_date": "2022-12-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "調教",
+    "OL",
+    "無碼破解",
+    "內衣",
+    "調戲",
+    "巨乳",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230821/20230821055412356356.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230821/20230821055412356356.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18944",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18944&name=神木麗"
+    }
+  ]
+};

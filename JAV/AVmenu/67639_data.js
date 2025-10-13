@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230119/gOPvoqDG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67639,
+  "IDcode": "JUQ-106",
+  "title": "妻子在身旁被爆乳按摩師引誘…極上施術與幽會做愛讓身心都爽到骨子裡的我 葉愛",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67639",
+  "actresses": []
+};

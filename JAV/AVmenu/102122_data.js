@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240519/4GOgB6ON/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102122,
+  "IDcode": "PPPD-895C",
+  "title": "挑戰色情片就看的到！？銀座喜歡下流玩法Icup巨乳酒店妹AV出道 青山真子",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102122",
+  "actresses": []
+};

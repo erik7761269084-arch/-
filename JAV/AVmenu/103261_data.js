@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230226/255B53142434934E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103261,
+  "IDcode": "NITR-476",
+  "title": "悪エロガキのデカパイ先生狩り 中村知恵",
+  "publish_date": "2019-11-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "轮奸",
+    "拘束",
+    "女教师",
+    "正太控",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103261",
+  "actresses": [
+    {
+      "name": "中村知恵",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b7ef88ad7ff1dff73a6ceb9556fc4f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103261&name=中村知恵"
+    }
+  ]
+};

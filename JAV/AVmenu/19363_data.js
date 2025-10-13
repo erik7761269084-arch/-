@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/24bed292-c845-41b2-a257-c0dd3258d774/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19363,
+  "IDcode": "IPX-078",
+  "title": "爽到高潮敏感正姊幹4砲！",
+  "publish_date": "2018-01-06",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "女上位",
+    "姐姐・妹妹",
+    "膚黑",
+    "數位馬賽克"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230525/202305250325172727.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230525/202305250325172727.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19363",
+  "actresses": [
+    {
+      "name": "植村恵名",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/193e1658-b7d3-415e-bfa2-a46bcec32769.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19363&name=植村恵名"
+    }
+  ]
+};

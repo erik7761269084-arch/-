@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241007/DmjErerN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93537,
+  "IDcode": "PPPE-065-C",
+  "title": "合宿先で巨乳後輩に誘われてヤリ相部屋で発情 汗だくおっぱい舐めしゃぶって何度も中出ししまくった！",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93537",
+  "actresses": []
+};

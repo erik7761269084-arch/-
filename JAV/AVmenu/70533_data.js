@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/15/2eac1141/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70533,
+  "IDcode": "NDWQ-014",
+  "title": "喉奥鬼調教 粘膜姦通虐め編 伊澄みつき",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫乱，真实",
+    "捆绑",
+    "颜射",
+    "吞精",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/2eac1141/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70533",
+  "actresses": [
+    {
+      "name": "伊澄みつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70533&name=伊澄みつき"
+    }
+  ]
+};

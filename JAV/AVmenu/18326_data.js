@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2dc597e9-1710-46c2-8d76-a3b1d0a0eaae/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18326,
+  "IDcode": "MIFD-254",
+  "title": "新人 20歲 她拍AV是想讓男友後悔 其它男人的肉棒插入大量潮吹 AV DEBUT",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "中出",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "兩男一女",
+    "少女",
+    "出道作品",
+    "女優訪談",
+    "女優"
+  ],
+  "description": "MIFD-254为MOODYZ出品,2023年10月17日发行的有碼成人影片由長谷川礼奈出演\n我有男朋友，但我覺得他最近不太關注我，我有點沮喪，所以我決定出演AV讓他嫉妒（可以嗎...？）其他比我男朋友（AV演員））如果你被活塞擊中......是的！ 超靈敏的反應，讓你思考！ 一個有才華又充滿活力的女孩！ 她的腿、大腿、全身都在抽搐，激動極了！ ！ 所有的角落——所有的角落都充滿了高潮，所以有很多東西可以看！ 男友，能有這樣反應的女孩不多了！ 真是浪費啊！ ！\n我有男朋友，但我覺得他最近不太關注我，我有點沮喪，所以我決定出演AV讓他嫉妒（可以嗎...？）其他比我男朋友（AV演員））如果你被活塞擊中......是的！ 超靈敏的反應，讓你思考！ 一個有才華又充滿活力的女孩！ 她的腿、大腿、全身都在抽搐，激動極了！ ！ 所有的角落——所有的角落都充滿了高潮，所以有很多東西可以看！ 男友，能有這樣反應的女孩不多了！ 真是浪費啊！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231015/4c456731-c27a-4faa-ad8c-9195283799c9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231015/4c456731-c27a-4faa-ad8c-9195283799c9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18326",
+  "actresses": [
+    {
+      "name": "長谷川礼奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/9107198c-b60c-410b-b630-4c2e12e43792.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18326&name=長谷川礼奈"
+    }
+  ]
+};

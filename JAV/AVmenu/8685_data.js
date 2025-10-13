@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dc6c9844-d4ca-4c16-a0a0-7945f81e1751/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/38f9687b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8685,
+  "IDcode": "MIDA-027",
+  "title": "害羞而善良的美人娘，被隔壁垃圾房裏的變態鄰居用媚藥後寢取，操的淫水橫流 ~ 宮崎千尋",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "變態",
+    "校花",
+    "凌辱",
+    "中出",
+    "美乳",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "監禁",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "寢取",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "MIDA-027为MOODYZ出品,2025年2月4日发行的有碼成人影片由宮崎千尋出演\n【純情美少女被關在垃圾房，發瘋成為玩具！ ] 千尋擔心她的鄰居，她的健康狀況惡化，房間變得一片狼藉。他利用她的善良，讓她幫他打掃衛生，然後把她帶進他的房間，用春藥強姦了她！美麗女孩不敢反抗，被他舔舐、侵犯！透過用壯陽藥覆蓋正在發育的身體來提高其性敏感度！她全身沾滿垃圾，爸爸隨時都可以幹她，直到她達到高潮！她純真的心靈和身體被一隻雞巴玷污了！美麗的女孩逐漸失去理智，淪為污穢房間的性玩具…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080506401401.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130080506401401.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8685",
+  "actresses": [
+    {
+      "name": "宮崎千尋",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/46823117-47cf-4d14-b242-99c2c2980e35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8685&name=宮崎千尋"
+    }
+  ]
+};

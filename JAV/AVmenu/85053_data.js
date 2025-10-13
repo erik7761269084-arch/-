@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/22/17eacebb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85053,
+  "IDcode": "JUQ-056",
+  "title": "待ち合わせ場所に居たのはまさかのゆうさん…。 マッチングアプリで出会った隣家の高慢妻を僕専用！！いいなり中出しペットにした話。 篠田ゆう",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230119-1/0853c47754fbf56566d79fe5e7db8afa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85053",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85053&name=篠田优"
+    }
+  ]
+};

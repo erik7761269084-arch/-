@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e99c3e5e-2e29-4b4d-9ab7-1cbe48b49aff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8527,
+  "IDcode": "DRPT-079",
+  "title": "滿員電車上敏感系GAL金發辣妹的乳首被徹底無限開發 ~ 瀨那瑠美奈",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "電脳ラスプーチン",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "猥亵",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "變態",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "電車",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "性騷擾",
+    "金髮",
+    "巨乳",
+    "公共場所",
+    "美人",
+    "辣妹/GAL系",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/e1c2d596-4f38-4e3a-b7ae-61fa9b18e98e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/e1c2d596-4f38-4e3a-b7ae-61fa9b18e98e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8527",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8527&name=瀬那瑠美奈"
+    }
+  ]
+};

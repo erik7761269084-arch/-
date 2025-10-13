@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/02/2029fb21/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75546,
+  "IDcode": "UMSO-284",
+  "title": "「お母さんの代わりに抱いてもいいよ」と服を脱ぐ娘… 成長した我が子の裸を目の当たりにした父親は！？",
+  "publish_date": "2019-11-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "自慰",
+    "乱伦",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/3f810c18bb379ac6196dbea111505245.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75546",
+  "actresses": [
+    {
+      "name": "咲々原リン",
+      "img_url": "https://picture.yoshiclub.xyz/20230614/98fea1c2-3d92-4ea5-b44f-938b37401eac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75546&name=咲々原リン"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75546&name=香苗レノン"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75546&name=神宫寺奈绪"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75546&name=篠田优"
+    }
+  ]
+};

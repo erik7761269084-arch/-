@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/e0dd3384/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100618,
+  "IDcode": "SSIS-689",
+  "title": "濡らして、噴いて、イキ止まらない…超早漏インフルエンサーうんぱいと恥ずかしすぎるお漏らしイカセ温泉旅行大失禁スペシャル （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "户外",
+    "潮吹",
+    "薄马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100618",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100618&name=小田切ジュン"
+    }
+  ]
+};

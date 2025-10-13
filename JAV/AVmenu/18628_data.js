@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7bcb229e-49b5-477e-a396-cd0afb5ca22d/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/01/f3fe39c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18628,
+  "IDcode": "NACR-709",
+  "title": "好色的家庭主婦中出乞求兼職工作",
+  "publish_date": "2023-09-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "吞精",
+    "中出",
+    "蕩婦",
+    "人妻",
+    "巨乳",
+    "猥褻穿著",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230920/20230920230408161161.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230920/20230920230408161161.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18628",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18628&name=波多野结衣"
+    }
+  ]
+};

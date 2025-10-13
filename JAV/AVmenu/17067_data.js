@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/931d3cf4-fa59-482a-8e0c-b7230002ea4f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17067,
+  "IDcode": "MGMQ-123",
+  "title": "加藤桃香是个蕩婦護士在醫院里喜欢玩弄受虐倾向的男人们的肛门",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "後入",
+    "醫院・診所",
+    "蠟燭",
+    "乳交",
+    "中出",
+    "美乳",
+    "制服",
+    "口交",
+    "白絲",
+    "護士制服",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "M男・M女",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231225/ede41067-33a9-480d-8ea5-6f9a41e1e787.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231225/ede41067-33a9-480d-8ea5-6f9a41e1e787.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17067",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17067&name=加藤桃香"
+    }
+  ]
+};

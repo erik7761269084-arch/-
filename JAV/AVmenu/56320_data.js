@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56320,
+  "IDcode": "C0652F98E3658A89EFB3B573C6DA6A77",
+  "title": "公司前辈同意跟我交往~没想到第一天就被他内射了",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56320",
+  "actresses": []
+};

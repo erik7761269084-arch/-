@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/fmkSzUqE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71407,
+  "IDcode": "DVDMS-413",
+  "title": "一般男女モニタリングAV 大手企業の内定を夢見る就活女子大生を面接中にノンストップザーメンぶっかけ！合計51発 溜まりにたまった濃厚精子を大量に浴びせられてリクルートスーツ・髪・顔まで精子でべっとり！初々しいJDオマ○コにデカち○ぽをねじ込みザーメンまみれSEX！！",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "业余",
+    "手淫",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/1327feb3f489f9530d29d5bfe9f28e33.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71407",
+  "actresses": []
+};

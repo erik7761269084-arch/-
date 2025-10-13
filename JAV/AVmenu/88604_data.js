@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/25/4888be32/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88604,
+  "IDcode": "DRPT-042",
+  "title": "連日のアナル夜●いで感度が上がり自ら肛門SEXを求めるデカ尻義妹【玉木くるみアナル解禁！！】 パンティとチェキ付き",
+  "publish_date": "2023-03-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "肛交",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231024-1/b2a9b9cd276dfd9a50e333c487a72d11.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88604",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88604&name=大島愛里亞"
+    }
+  ]
+};

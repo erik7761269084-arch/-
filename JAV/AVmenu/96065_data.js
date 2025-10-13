@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/23/094e052f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96065,
+  "IDcode": "VEC-661",
+  "title": "母の親友 真木今日子",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/23/b63a7b8e4be4cbe0523c091284fb03e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96065",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96065&name=真木今日子"
+    }
+  ]
+};

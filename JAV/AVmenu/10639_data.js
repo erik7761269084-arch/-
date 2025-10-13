@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e74795ef-e628-4e12-b676-dbce15ab1fb8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/01/2727b988/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10639,
+  "IDcode": "BLK-646",
+  "title": "上門派送的野獸系GAL母狗女優 ~ 黑咲花",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "後入",
+    "上門福利",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "金髮",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "M男・M女",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "女優"
+  ],
+  "description": "BLK-646为KIRAKIRA出品,2024年11月19日发行的有碼成人影片由 黒咲華出演\n他們永遠不會見面！ ……本來應該是初次見面的人！令和的黑妹黑崎花被派往尼特族和家庭保安人員的家中！禁慾一個月後來到這次拍攝的小花，從第一間屋就全力以赴！一開門就進去看看！連洗澡都不用就中出性愛！與他的外表相反，他表現出了有教養的一面，甚至還給他拜訪的家庭帶來禮物！但當性行為開始時，她就會變得瘋狂，為所欲為！送出最強黑辣妹淫獸！ ！接下來你會去誰家呢？ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10639",
+  "actresses": [
+    {
+      "name": "黒咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/5fb7324b-8e45-412b-83a8-cb19b00cd7c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10639&name=黒咲華"
+    },
+    {
+      "name": "大村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10639&name=大村"
+    }
+  ]
+};

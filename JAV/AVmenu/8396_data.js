@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/49666788-a015-46ce-acb5-d7b0cb276279/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/6f9b65e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8396,
+  "IDcode": "GVH-721",
+  "title": "母子奸 ~ 胡桃多惠",
+  "publish_date": "2025-02-12",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "母子",
+    "美人",
+    "母親",
+    "熟女",
+    "亂倫",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/aa650776-26a4-4aa9-9806-a89494b56ebc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/aa650776-26a4-4aa9-9806-a89494b56ebc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8396",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8396&name=胡桃多惠"
+    },
+    {
+      "name": "トンガ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8396&name=トンガ"
+    }
+  ]
+};

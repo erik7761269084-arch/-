@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/6C53A4A31608E399/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99322,
+  "IDcode": "SNIS-203",
+  "title": "イラマチオ奴隷志願 同僚の足を引っ張る野暮なOLは、優秀な口便器 緒川りお",
+  "publish_date": "2014-08-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "薄马赛克",
+    "调教",
+    "OL",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99322",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99322&name=森林原人"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99322&name=沢井亮"
+    },
+    {
+      "name": "绪川りお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99322&name=绪川りお"
+    }
+  ]
+};

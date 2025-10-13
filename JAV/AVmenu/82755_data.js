@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221122/V17kAiUl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82755,
+  "IDcode": "WANZ-492",
+  "title": "素股痴漢 通学中の女子校生の子宮にチ○ポを擦り続け孕ませ中出し懇願！！",
+  "publish_date": "2016-05-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "淫语",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82755",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82755&name=塚田詩織"
+    }
+  ]
+};

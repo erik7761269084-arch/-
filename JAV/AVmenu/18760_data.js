@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6cb19917-ffe1-4e0c-b9f1-b51ee96b8b04/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18760,
+  "IDcode": "IPX-616",
+  "title": "學生濕透的制服讓人受不了般的美味… ～我在下雨天一定會被侵犯",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "濕身",
+    "劇情",
+    "JK校服",
+    "潮吹",
+    "強姦",
+    "少女",
+    "學校",
+    "女學生",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230909/20230909234546939939.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230909/20230909234546939939.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18760",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18760&name=西宮夢"
+    }
+  ]
+};

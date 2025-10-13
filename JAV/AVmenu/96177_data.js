@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/13/9f6a7d43/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96177,
+  "IDcode": "CLUB-851",
+  "title": "債務者おま●こ返済中出しレ×プ撮影",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "凌辱",
+    "第一人称摄影",
+    "潮吹",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96177",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96177&name=美園和花"
+    }
+  ]
+};

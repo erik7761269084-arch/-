@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d5de37a-0b64-4502-bcce-0477194cab55/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18503,
+  "IDcode": "MIAA-922",
+  "title": "M男把一直當女王的她綁起來強姦！ 調教成一個聽話的母狗",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "潮吹",
+    "女王",
+    "監禁",
+    "慾求不滿",
+    "SM",
+    "緊縛",
+    "足交",
+    "M男・M女",
+    "放尿",
+    "口球",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230930/20230930020443605605.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930020443605605.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18503",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18503&name=柊有希"
+    }
+  ]
+};

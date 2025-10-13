@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/02/8fd880b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63747,
+  "IDcode": "SPRO-128",
+  "title": "ミニ系小悪魔女子とのわりきり交際 ハメ撮りの記録 学生2/地下アイドル1/ニート1",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "苗条",
+    "业余",
+    "平胸",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63747",
+  "actresses": []
+};

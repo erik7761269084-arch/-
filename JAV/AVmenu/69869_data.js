@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/3k4WahFw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69869,
+  "IDcode": "XVSR-450",
+  "title": "処女 有花もえ",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "美少女",
+    "处女",
+    "4小时以上作品",
+    "巨乳",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69869",
+  "actresses": [
+    {
+      "name": "有花萌",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/5f97b984b221b3955cc360b595e16aea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69869&name=有花萌"
+    }
+  ]
+};

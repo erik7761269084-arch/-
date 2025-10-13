@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230128/48F9FDDCEAFAB85B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99091,
+  "IDcode": "ZKRA-020",
+  "title": "若妻レイプ願望 ある日の出来事 2 桜井あゆ",
+  "publish_date": "2014-09-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫乱，真实",
+    "强奸",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_307zkra020/h_307zkra020pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99091",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99091&name=樱井步"
+    }
+  ]
+};

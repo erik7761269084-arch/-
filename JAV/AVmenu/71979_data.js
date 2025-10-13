@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/25/fe0233fc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71979,
+  "IDcode": "DVMM-210",
+  "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 巨乳ビキニ娘が初めてのキメセク体験！敏感オマ○コに媚薬を直塗りしたら汗だく大量潮吹き！フル勃起デカチ○ポに自らまたがりヤバすぎる腰振り騎乗位でアヘ顔アクメ！全員生中出し！in海水浴場",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/25/9663083ad9644e40bbfefe2917d9a03f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71979",
+  "actresses": []
+};

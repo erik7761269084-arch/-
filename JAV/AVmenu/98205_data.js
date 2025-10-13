@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/27/11738365/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98205,
+  "IDcode": "ABP-950",
+  "title": "絶対的鉄板シチュエーション 18 完全主観！涼森れむが贈るとてもHな4シチュエーション",
+  "publish_date": "2020-02-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "颜射",
+    "角色扮演者",
+    "主观视角",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp950/118abp950pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98205",
+  "actresses": [
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98205&name=凉森玲梦"
+    }
+  ]
+};

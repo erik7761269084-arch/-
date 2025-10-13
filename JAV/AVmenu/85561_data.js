@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/07/cafc70a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85561,
+  "IDcode": "MOND-231",
+  "title": "【FANZA限定】憧れの女上司と 川上ゆう チェキ付き",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85561",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85561&name=川上優"
+    }
+  ]
+};

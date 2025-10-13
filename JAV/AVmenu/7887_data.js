@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/85ba87be-8de3-4837-9e4b-f7e3c04227d3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/30/bb89fc3f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7887,
+  "IDcode": "NPJS-132",
+  "title": "九州某肌肉酒吧玩耍的女子徹底淪陷 被肌肉猛男中出SEX一夜實錄 ~ 水川蓳",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "濕身",
+    "舔腳",
+    "絕頂高潮",
+    "酒後亂性",
+    "流汗",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "肌肉"
+  ],
+  "description": "NPJS-132为NAPA-JAPAN出品,2025年3月4日发行的有碼成人影片由水川蓳出演\n來肌肉酒吧閒晃的女孩秀出她淫蕩的臉！連酒吧關門後，她還被這個肌肉男抱住，和他進行赤裸裸的性愛！對一根訓練有素、堅硬如石的雞巴進行一次愉快的口交！強烈而劇烈的活塞運動導致完全高潮！精子肌肉注射進無保護的陰道！他的體力每天都經過訓練，性慾旺盛，享受整夜性愛！看到這個大男人主義的實力，有種敗北的感覺！就算是平常意志堅強的女人，在肌肉麵前，也不過是個婊子而已！一段被本能打敗的、非常性感的性愛錄影帶！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073404284284.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/20250227073404284284.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7887",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7887&name=水川蓳"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/B1kyn3y9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78864,
+  "IDcode": "GVG-987",
+  "title": "町医者老人の顔舐め中出し変態カルテ 紺野ひかる",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "恋物癖",
+    "接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/db6e08af3500b1fd66c1138472219473.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78864",
+  "actresses": [
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78864&name=绀野光"
+    }
+  ]
+};

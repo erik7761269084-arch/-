@@ -1,0 +1,38 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98976,
+  "IDcode": "BBAN-036-",
+  "title": "レズビアンに囚われた女潜入捜査官～地下キャットファイトクラブ",
+  "publish_date": "2015-04-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "多P",
+    "女同性恋",
+    "女同接吻",
+    "战斗行动",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98976",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98976&name=真木今日子"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98976&name=蓮実クレア"
+    },
+    {
+      "name": "希咲エマ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617084141281281_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98976&name=希咲エマ"
+    }
+  ]
+};

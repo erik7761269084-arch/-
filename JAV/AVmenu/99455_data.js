@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230210/F73E4EF649C25E79/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99455,
+  "IDcode": "BOBB-312-",
+  "title": "従順爆乳 制服美少女の美爆乳を恥辱責め ピンク乳首は歓びに",
+  "publish_date": "2019-05-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "制服",
+    "恋乳癖",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99455",
+  "actresses": [
+    {
+      "name": "高野しずか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99455&name=高野しずか"
+    }
+  ]
+};

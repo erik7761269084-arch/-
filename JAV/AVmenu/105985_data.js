@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/bc1262bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105985,
+  "IDcode": "FSDSS-114",
+  "title": "No Make 吉高寧々 素顔のSEX",
+  "publish_date": "2020-10-22",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "第一人称摄影",
+    "羞耻",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fsdss114/1fsdss114pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105985",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105985&name=吉高寧寧"
+    }
+  ]
+};

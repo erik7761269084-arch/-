@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230203/57c229c0-6fab-4443-8a7a-4fadc758326a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1887,
+  "IDcode": "SKYHD-107",
+  "title": "天空天使藍 Vol.107 江波龍",
+  "publish_date": "2013-07-11",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "中出",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230210/52026c8b-6e60-4049-8c79-25f454c7d71e.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230210/52026c8b-6e60-4049-8c79-25f454c7d71e.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1887",
+  "actresses": [
+    {
+      "name": "江波亮",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/bb35074f-bb69-4f95-a19e-d1ac1eec42b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1887&name=江波亮"
+    }
+  ]
+};

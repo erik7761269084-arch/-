@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/12/05/c30a6413/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82406,
+  "IDcode": "HND-511",
+  "title": "30本のチ○ポに無制限射精させまくり生中出し大乱交 君島みお",
+  "publish_date": "2018-04-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "数位马赛克",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82406",
+  "actresses": []
+};

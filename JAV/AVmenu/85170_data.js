@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230119/cpzFIgQS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85170,
+  "IDcode": "KATU-105",
+  "title": "乳首びんびんドスケベ介護士 でか尻ガン黒ギャルの猥褻肉欲枕営業",
+  "publish_date": "2022-09-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "屁股",
+    "女生",
+    "晒黑"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/e09ba470d1701f72bbf0540dbb786b31.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85170",
+  "actresses": [
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85170&name=蘭華"
+    }
+  ]
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/822e8251-4826-4e9e-b815-ab9a2bdee18b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/3f360c69/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4504,
+  "IDcode": "MIFD-639",
+  "title": "新人出道！在SNS上向數千人公開菊花大戰的狠角色！發獸性後庭高潮視頻被永久封號的肛交上癮妹子AVDEBUT ~ 本田凜",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "肛交",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "性虐癖",
+    "網襪",
+    "調教",
+    "變態",
+    "紀念作",
+    "中出",
+    "蕩婦",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "多P",
+    "單體作品",
+    "出道作品",
+    "鬼畜片",
+    "情趣內衣",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "野性",
+    "二穴同入",
+    "女優",
+    "網路紅人"
+  ],
+  "description": "MIFD-639为MOODYZ出品,2025年7月11日发行的有碼成人影片由 本田凛出演\n「后庭爽到尖叫啊啊啊！！」千年一遇的极致菊花高潮，本田凛震撼登场！敏感度：小穴<<<<后庭！这位曾有万粉的地下账号妹子（ID：凛凛），线下后庭玩法人数高达1000人，简直逆天！因为上传的肛门高潮视频太劲爆被某社交平台永久封杀，但她完全不care，决心在AV里继续用后庭爽翻天！轻轻一碰菊花就抽搐，用超粗玩具插到肠壁都露出来，高潮时狂喊「谢谢你！」，双穴齐插让她爽到哭，松垮后庭还被中出…这才是真正的肛门上瘾女王，AV界的菊花革命不容错过！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710033058247247_30850_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710033058247247_30850_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4504",
+  "actresses": [
+    {
+      "name": "本田凛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250711/4f58bd29-86be-4b81-be38-d5b6c3e9b578_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4504&name=本田凛"
+    }
+  ]
+};

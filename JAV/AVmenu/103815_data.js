@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/23/dda3891b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103815,
+  "IDcode": "CAWD-643",
+  "title": "同級生の現役アイドルめいさを催●アプリでいいなり中出し奴●にしてやった 西元めいさ",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "偶像",
+    "学校作品",
+    "制服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103815",
+  "actresses": [
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103815&name=日森一"
+    }
+  ]
+};

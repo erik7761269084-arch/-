@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/08f13bd3-0100-4db9-9e1c-637c9fc4191b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 320,
+  "IDcode": "HEYZO-0368",
+  "title": "刺激十足的不倫約會 後編：溫泉旅館4P！4倍快感 ~ 月野アン",
+  "publish_date": "2013-07-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "色白",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "慾求不滿",
+    "口爆",
+    "多P",
+    "人妻",
+    "地味",
+    "按摩棒",
+    "兩男兩女",
+    "熟女",
+    "溫泉",
+    "短髮",
+    "豐滿"
+  ],
+  "description": "HEYZO-0368为HEYZO出品,2013年7月17日发行的無碼成人影片由月野アン出演\nダブルデートは刺激がいっぱい 後編～温泉旅館で4P！快感も4倍～ - 月野アン - ちはる",
+  "cover_url": "https://picture.yoshiclub.xyz/20250331/51c898e5-c8fa-4eb6-b216-e0a638074f6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250331/51c898e5-c8fa-4eb6-b216-e0a638074f6e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=320",
+  "actresses": [
+    {
+      "name": "月野アン",
+      "img_url": "https://picture.yoshiclub.xyz/20250331/0b10177d-af56-4f0a-9ab7-9cb348408b06.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=320&name=月野アン"
+    }
+  ]
+};

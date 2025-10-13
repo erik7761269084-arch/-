@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d1006943-46aa-453d-8314-9ca3fb5e94ae/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10882,
+  "IDcode": "YMDD-416",
+  "title": "素人粉絲現場調查！ 精巢全部吸空！真正魅魔在這裏 DVD販殼店編 ~ 若宮葉月",
+  "publish_date": "2024-11-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "商店",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "口爆",
+    "美少女",
+    "自慰",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "公共場所",
+    "粉絲福利",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/eb2c5e68-4269-4590-a17e-99b58e3785bf.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/eb2c5e68-4269-4590-a17e-99b58e3785bf.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10882",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10882&name=若宮葉月"
+    }
+  ]
+};

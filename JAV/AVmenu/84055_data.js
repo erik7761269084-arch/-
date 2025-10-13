@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230103/kHX6roR9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84055,
+  "IDcode": "CAWD-288",
+  "title": "B.B.ボーイズを愛して止まないチクビ弄りで理性をシャットダウンさせちゃう甘サド制服美少女 琴石ゆめる",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "制服",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84055",
+  "actresses": [
+    {
+      "name": "琴石ゆめる",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/b9d67258-b4c2-47bb-ab17-b7f6e371c958.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84055&name=琴石ゆめる"
+    }
+  ]
+};

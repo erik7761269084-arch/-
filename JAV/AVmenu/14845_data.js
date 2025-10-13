@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfec5268-18c0-4393-919f-b4bd7e0e6f59/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/09/82963d8b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14845,
+  "IDcode": "RKI-668",
+  "title": "京都發現的舞妓AV出道，紅燈區預約爆滿！可愛微笑的舞妓脫下和服在榻榻米房間裏射精！ ~ 賀川かのこ",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "古風",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "古裝",
+    "美腳",
+    "美少女",
+    "搞笑・模仿",
+    "奇聞趣事",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "獵豔",
+    "熟女",
+    "美少女電影",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "RKI-668为ROOKIE出品,2024年5月14日发行的有碼成人影片由賀川かのこ出演\nROOKIE 15週年紀念作品！拍了新人出道的照片！但如果新的ROOKIE只是普通的話那就沒什麼意思了！在京都很難預約的作為大叔殺手而大受歡迎的舞妓AV出道！ ！ ！而且，她還是個色狼，喜歡毛骨悚然的男人！所以雖然這是我的處女作，但我還是準備了一些令人毛骨悚然的男人！請欣賞可愛的舞妓用令人毛骨悚然的陰莖射精的景象！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510040245281281.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510040245281281.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14845",
+  "actresses": [
+    {
+      "name": "賀川かのこ",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/8ac0b45f-314b-48d7-81b1-ada8234fd975.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14845&name=賀川かのこ"
+    }
+  ]
+};

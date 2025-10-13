@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230930/xhynKn4N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65357,
+  "IDcode": "AFAF4E86BD68237553F00137FDB0894B",
+  "title": "「即使為了守護我深愛的丈夫，我的身體也無法抵抗…」-- 加藤結衣",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65357",
+  "actresses": []
+};

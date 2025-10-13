@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/48a17493-5966-4aca-8c85-a3fb58b6ba98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4376,
+  "IDcode": "HRSM-103",
+  "title": "獵豔美容顧問3 日本橋頂級百貨一樓化妝品專櫃3位美女 ~ 前田美波 花衣つばき 綾波蓮",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "癡漢廠",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "4K",
+    "美乳",
+    "女業務",
+    "美臀",
+    "搭訕",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "清楚系",
+    "鬼畜片",
+    "清純",
+    "手指插入",
+    "約炮",
+    "美人",
+    "淫蕩・硬核",
+    "極品美人",
+    "寢取",
+    "美少女電影"
+  ],
+  "description": "HRSM-103为癡漢廠出品,2025年7月11日发行的有碼成人影片由前田美波，綾波蓮，花衣つばき出演\n日本橋頂級百貨，入職門檻超級硬核，堪稱地獄級難度！一樓化妝品專櫃根本是百貨公司的顏值擔當，聚集了一票氣質超仙、顏值逆天的美容顧問小姐姐。每天在眾人目光下工作，隨時保持完美姿態的4位極品正妹，竟然在休息時被偷襲，在後台被狠狠壓制！這些高冷女神被徹底玷汙，被垃圾般的男人瘋狂輸出，畫面刺激到不行，絕對讓你血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710043225403403_95395_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710043225403403_95395_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4376",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4376&name=前田美波"
+    },
+    {
+      "name": "花衣つばき",
+      "img_url": "https://picture.yoshiclub.xyz/20240927/7b95adfc-a57c-411b-9c35-30d23774b174.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4376&name=花衣つばき"
+    },
+    {
+      "name": "綾波蓮",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/0f23ea09-9eae-4b95-9264-68f08051b692.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4376&name=綾波蓮"
+    }
+  ]
+};

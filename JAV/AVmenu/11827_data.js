@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ef74730-25b0-4a03-837a-8c025a5e2c72/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/05/9242b7e5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11827,
+  "IDcode": "JUQ-895",
+  "title": "纖細又美麗的G罩杯胸，溫柔又超刺激的性愛，極度缺操的已婚人妻再次出道 ~ 瑤真由香(原真田春香)",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "女優"
+  ],
+  "description": "JUQ-895为MADONNA出品,2024年9月24日发行的有碼成人影片由瑶真由香出演\n麥當娜大新人麻由香彌代，34歲AV出道，纖細卻「超美乳G罩杯」，溫柔又「性慾超刺激」，極度不平衡的已婚女人！ ！結婚已經6年了，和女朋友身材比例和剛結婚時一樣的情況相比，我老公體重增加了20公斤左右，而且我們已經有3年左右沒有過性生活了。我透過獨自露營來平息自己的性慾，但這已經是極限了。這次騙了老公來拍AV…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919042305462462.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919042305462462.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11827",
+  "actresses": [
+    {
+      "name": "瑶真由香",
+      "img_url": "https://picture.yoshiclub.xyz/20240921/f7ce3488-11dd-48ee-ac9f-0fa2ad98d268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11827&name=瑶真由香"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11827&name=小田切ジュン"
+    }
+  ]
+};

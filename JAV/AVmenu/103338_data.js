@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230301/D6D9799E36E019DA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103338,
+  "IDcode": "HBAD-492",
+  "title": "学校で先生と… 女子○生に恋した教師にチ○ポを入れられ反応してしまう若いカラダ 有村のぞみ",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "高中女生",
+    "水手服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1hbad492/1hbad492pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103338",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103338&name=有村希"
+    }
+  ]
+};

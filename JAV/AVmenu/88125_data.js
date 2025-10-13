@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230908/l4QWGpN0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88125,
+  "IDcode": "MIST-235",
+  "title": "J○見学倶楽部の特殊なサービス4 富田優衣",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "高中女生",
+    "妓女",
+    "内衣",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/407adece91f3faabf173d8d4553f4fd0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88125",
+  "actresses": [
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88125&name=富田优衣"
+    }
+  ]
+};

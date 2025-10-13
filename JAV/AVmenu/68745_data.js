@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/r0jG35gM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68745,
+  "IDcode": "IPZ-770",
+  "title": "隨時隨地啪啪插入中！ 立花陽未",
+  "publish_date": "2016-06-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "放尿",
+    "姐姐",
+    "苗条",
+    "妓女",
+    "数位马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68745",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68745&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68745&name=玉木玲"
+    },
+    {
+      "name": "立花はるみ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/1b2d4ea7bb07a6be01414af54f4d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68745&name=立花はるみ"
+    }
+  ]
+};

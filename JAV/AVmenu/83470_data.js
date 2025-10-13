@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/g6y6OwTL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83470,
+  "IDcode": "AGAV-014",
+  "title": "性癖が歪んだ妻に性調教されて一日に何度も無理矢理射精させられた 水谷あおい",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "精选，综合",
+    "荡妇",
+    "M男",
+    "口交",
+    "处男",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/821f852cbdd0b717d3fdcf4c0b311c57.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83470",
+  "actresses": [
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83470&name=水谷あおい"
+    }
+  ]
+};

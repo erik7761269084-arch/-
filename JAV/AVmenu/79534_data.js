@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/29/2f2fb82b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79534,
+  "IDcode": "JUL-680",
+  "title": "汗ほとばしる人妻の圧倒的な腰振りで、僕は一度も腰を動かさずに中出ししてしまった。 叶愛",
+  "publish_date": "2021-08-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/32b51a5069576f01dfa853e964feeb01.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79534",
+  "actresses": []
+};

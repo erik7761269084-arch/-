@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/OHM97YbV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84703,
+  "IDcode": "GVH-413",
+  "title": "お尻大好きしょう太くんのHなイタズラ 久留木玲",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "中出",
+    "屁股",
+    "恶作剧",
+    "巨大屁股",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84703",
+  "actresses": [
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84703&name=久留木玲"
+    }
+  ]
+};

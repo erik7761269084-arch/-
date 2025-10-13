@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/iSTFQLjM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71102,
+  "IDcode": "DVDMS-374",
+  "title": "一般男女モニタリングAV 愛されお嬢様女子大生vsぼっち童貞男子 平成最後のヤれんのか！？素人参加型一泊二日のリアルお泊りドキュメント 初めましてから童貞卒業筆おろしまでの一部始終を合計31カメラで徹底モニタリング！一度の射精では収まらない童貞くんの性欲を受け入…",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "女大学生",
+    "女上位",
+    "业余",
+    "偷窥",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71102",
+  "actresses": []
+};

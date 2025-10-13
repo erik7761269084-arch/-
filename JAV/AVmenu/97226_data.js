@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240712/dfsAXGWZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97226,
+  "IDcode": "BF-316",
+  "title": "工作的巨乳女教師 美波瀨奈",
+  "publish_date": "2014-06-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "纪录片",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bf316/bf316pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97226",
+  "actresses": [
+    {
+      "name": "美波瀬奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97226&name=美波瀬奈"
+    }
+  ]
+};

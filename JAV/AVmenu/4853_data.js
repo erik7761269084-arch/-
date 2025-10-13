@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0c4dd5fb-9031-4927-aae1-502e9ee74060/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4853,
+  "IDcode": "SGKI-056",
+  "title": "絕對搞笑逗樂又能讓你雞巴硬暴了的企劃 男女組合超硬核版 ~ 天馬唯",
+  "publish_date": "2025-06-23",
+  "type": "有码",
+  "company": "SHIGEKI",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女王",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "綜藝",
+    "美腳",
+    "搞笑・模仿",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "無毛",
+    "女優"
+  ],
+  "description": "SGKI-056为SHIGEKI出品,2025年6月23日发行的有碼成人影片由天馬唯出演\n跟拍成立兩年的搞笑男女組合，負責吐槽的文治和負責搞怪的唯醬，帶你一窺只有少數人能出頭的搞笑圈。這對搭檔為了紅什麼都敢拼，但面對殘酷現實，兩人關係也變得火藥味十足……這次因為是男女組合，唯醬一個人扛下雙倍刺激，超硬核玩法上線！不管發生啥，舞台上搞笑永遠是第一要務！下半身抖到不行，上半身還在秀段子！一邊搞怪一邊潮吹，新時代的爆笑女王唯醬閃亮登場，保證讓你笑到噴飯又臉紅心跳！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629213726756756_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250629/20250629213726756756_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4853",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4853&name=天馬唯"
+    }
+  ]
+};

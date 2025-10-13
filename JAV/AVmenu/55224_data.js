@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55224,
+  "IDcode": "1F639B7370B1DAB57786083A2F363353",
+  "title": "妖しい色気をまきちらす美熟女を好き胜手に调教",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55224",
+  "actresses": []
+};

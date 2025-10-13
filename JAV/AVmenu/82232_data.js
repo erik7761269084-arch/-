@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/05/07a79665/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82232,
+  "IDcode": "BBI-194",
+  "title": "女教師 桜木凛の淫語教室",
+  "publish_date": "2015-05-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫语",
+    "女上位",
+    "荡妇",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82232",
+  "actresses": [
+    {
+      "name": "桜木凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ae705f3a-bdba-431e-b102-4da7bd047e68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82232&name=桜木凛"
+    }
+  ]
+};

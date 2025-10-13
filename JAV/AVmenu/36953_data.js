@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220531/F59FAB441DFFCE82/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36953,
+  "IDcode": "940DFB036E362954424B4C4F18D-79763",
+  "title": "ななこ - わたしのおへや - B- 82 W- 57 H- 83",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36953",
+  "actresses": []
+};

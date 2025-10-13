@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/28/f10e0a53/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102075,
+  "IDcode": "RS-024",
+  "title": "あいる",
+  "publish_date": "2008-08-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "口交",
+    "舔阴",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/02/28/a1b645950d0ddfd2cb0e2b13f8ea2df5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102075",
+  "actresses": []
+};

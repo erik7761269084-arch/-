@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e41b34d-618e-4044-aa59-b4b63048196e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/efcfca6c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10391,
+  "IDcode": "APGH-026",
+  "title": "【無邪氣變態娘】放學後美少女 H G 神乳乳交，痙攣高潮 童顏巨乳女學生 ~ 白石なぎさ",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "少女",
+    "美少女",
+    "清純",
+    "巨乳",
+    "抹油",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241124/9d790a72-dac5-4e49-89c2-929084276b01.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241124/9d790a72-dac5-4e49-89c2-929084276b01.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10391",
+  "actresses": [
+    {
+      "name": "白石渚",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/2bf3dd17-2b68-4fdc-99a0-353abd274001.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10391&name=白石渚"
+    }
+  ]
+};

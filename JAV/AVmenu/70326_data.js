@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/15/04cf090a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70326,
+  "IDcode": "NSFS-370",
+  "title": "あなたの嫌うあの人と・・ベスト 愛する夫のために肉体を捧げる",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70326",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=美谷朱里"
+    },
+    {
+      "name": "尾上若叶",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/149a4db1-b7b2-4b0f-aef8-10df181c7f86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=尾上若叶"
+    },
+    {
+      "name": "森萤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=森萤"
+    },
+    {
+      "name": "清城雪",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b845a5516e8065de44f96e4f03cebc72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=清城雪"
+    },
+    {
+      "name": "内海みう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=内海みう"
+    },
+    {
+      "name": "大石香织",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/262ac9cf99cd665cdc871e0a6f18cb0a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=大石香织"
+    },
+    {
+      "name": "伊东真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70326&name=伊东真绪"
+    }
+  ]
+};

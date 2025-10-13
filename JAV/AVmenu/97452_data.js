@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/11/20a0e699/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97452,
+  "IDcode": "AP-624",
+  "title": "万引き若妻バックヤード拘束輪姦2 万引きをした主婦を捕まえ、バックヤードに拘束して従業員全員で入れ替わり立ち替わり性的制裁を加えて犯しまくる！",
+  "publish_date": "2019-01-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "凌辱",
+    "强奸",
+    "拘束",
+    "新娘，年轻妻子",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97452",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97452&name=葵百合香"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97452&name=春菜华"
+    },
+    {
+      "name": "桜木优希音",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-桜木優希音.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97452&name=桜木优希音"
+    },
+    {
+      "name": "枢木美栞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97452&name=枢木美栞"
+    },
+    {
+      "name": "冲田里绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97452&name=冲田里绪"
+    }
+  ]
+};

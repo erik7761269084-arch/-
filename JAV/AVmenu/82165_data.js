@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/O2Zp4Vh9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82165,
+  "IDcode": "PARATHD-2873",
+  "title": "極上おっぱい美女が逆ナンパ「私のおっぱい見てくれませんか？」",
+  "publish_date": "2020-04-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "介绍影片",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82165",
+  "actresses": [
+    {
+      "name": "三岛奈津子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9727b9923af1f3fc59264baa0c48b31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82165&name=三岛奈津子"
+    },
+    {
+      "name": "相泽ゆりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82165&name=相泽ゆりな"
+    }
+  ]
+};

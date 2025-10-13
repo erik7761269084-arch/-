@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/15/cae8d2ca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76282,
+  "IDcode": "SNIS-281",
+  "title": "下着モデルをさせられて… 奥田咲",
+  "publish_date": "2014-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "内衣",
+    "出轨",
+    "薄马赛克",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76282",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76282&name=奥田咲"
+    }
+  ]
+};

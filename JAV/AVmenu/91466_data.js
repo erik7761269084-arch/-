@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240507/SPvE0hBw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91466,
+  "IDcode": "BONY-062",
+  "title": "種付け特化 孕ませ中出し 葉月もえ",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "颜射",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91466",
+  "actresses": [
+    {
+      "name": "叶月もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91466&name=叶月もえ"
+    }
+  ]
+};

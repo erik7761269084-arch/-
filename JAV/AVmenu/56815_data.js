@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56815,
+  "IDcode": "C3F9BBAAC2CBAC41F2D80FD7A6C33E85",
+  "title": "想做爱到受不了的女子 -马上口交后浓厚中出性爱- 高山千里",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56815",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/14/acd676db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90931,
+  "IDcode": "BONY-044",
+  "title": "【FANZA限定】ママはGカップコスプレイヤー 朝倉ここな パンティとチェキ付き",
+  "publish_date": "2023-04-26",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "婆婆",
+    "巨乳",
+    "荡妇",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240303-1/9c84451f21072b25d1567dc8221a9d7e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90931",
+  "actresses": []
+};

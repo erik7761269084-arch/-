@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ffb512b-72f7-4def-93f9-cf49c66ed3c1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11473,
+  "IDcode": "JUQ-931",
+  "title": "爲了心愛的丈夫成爲周末肉便器吧。我被這個極其邪惡的老頭一次又一次的中出內射 ~ 葉愛",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美少女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "欠債肉償",
+    "熟女",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "羞恥",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "老頭子",
+    "調教",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出"
+  ],
+  "description": "JUQ-931为MADONNA出品,2024年10月8日发行的有碼成人影片由叶愛出演\n有一天，他們一帆風順的婚姻生活破裂了。經營公司的丈夫被自己信任的放債人朋友背叛，背負龐大債務被迫破產。妻子艾想要回到那些快樂的日子，她決定瞞著丈夫去見一個放債人。 「如果你想幫助你的丈夫，週末就做我的女人吧！！」如果她能忍住就好了……懷著這樣的想法，艾決定犧牲自己的身體。從那天起，一個屈辱的周末開始了，直到她懷孕才結束。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003092121995995.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003092121995995.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11473",
+  "actresses": [
+    {
+      "name": "叶愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/1ed68a2e-0062-4418-94b0-d26efbd02118.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11473&name=叶愛"
+    }
+  ]
+};

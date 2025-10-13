@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57200,
+  "IDcode": "72920D181C8B92C809A1C8C35B80AF18",
+  "title": "面部射液，尿射",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57200",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241009/7ADwCwsA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93252,
+  "IDcode": "MOOR-022",
+  "title": "軟体インストラクターと温泉NTR情交 千早まりあ",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "拘束",
+    "浴衣",
+    "讲师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93252",
+  "actresses": [
+    {
+      "name": "千早麻里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/55a83ce3-297b-43e5-ba7b-c457a6f9e011.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93252&name=千早麻里亞"
+    }
+  ]
+};

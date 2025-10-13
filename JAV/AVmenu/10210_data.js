@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cec4765a-a6ca-48de-8217-82a4da44fc01/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10210,
+  "IDcode": "SDJS-291",
+  "title": "「制服、下着、全裸」用陰部招待客人的SOD航空女子社員的飛行商務禮儀訓練 ~ 本多そら 友田彩也香",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "美腳",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "辦公室",
+    "空姐",
+    "兩女一男",
+    "真實拍攝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241203/9dd2b0ae-ef1b-4dc7-91cb-7eaddad7a4cd.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241203/9dd2b0ae-ef1b-4dc7-91cb-7eaddad7a4cd.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10210",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10210&name=友田彩也香"
+    },
+    {
+      "name": "本多そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/34c58f9a-2364-4dc8-b06e-e050bb72390e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10210&name=本多そら"
+    }
+  ]
+};

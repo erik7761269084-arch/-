@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/13/e8ee3517/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100548,
+  "IDcode": "MIAA-809",
+  "title": "【FANZA限定】ワタシのブラが盗まれた！？ 朝練で水泳部の巨乳先輩のブラジャーを隠したら一日中乳首ビンビン透けまくり勝手に誘惑ノーブラ生活 綾瀬こころ 生写真3枚付き",
+  "publish_date": "2023-03-31",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "制服",
+    "学校泳装",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100548",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100548&name=绫濑心"
+    }
+  ]
+};

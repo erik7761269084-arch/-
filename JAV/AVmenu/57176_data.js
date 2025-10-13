@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57176,
+  "IDcode": "F8930FD442B5E5AF1729C6356FE8FA36",
+  "title": "性感天使喜欢性游戏",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57176",
+  "actresses": []
+};

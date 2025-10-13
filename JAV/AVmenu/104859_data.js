@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/31/b74d4134/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104859,
+  "IDcode": "MEYD-500",
+  "title": "ある日、妻がとんでもない動画を誤爆して送ってきた NTR 東凛",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/31/f7212e5419891668ce2faff9436015b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104859",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104859&name=イセドン内村"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104859&name=大岛丈"
+    },
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104859&name=东凛"
+    }
+  ]
+};

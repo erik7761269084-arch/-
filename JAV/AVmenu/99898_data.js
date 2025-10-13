@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/14/50aae10f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99898,
+  "IDcode": "DASD-607",
+  "title": "聖水領域 嫌いな教師にお漏らし調教された女子○生は褐色肌の太ももを濡らす。 根尾あかり",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "放尿",
+    "过膝袜",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99898",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99898&name=根尾朱里"
+    }
+  ]
+};

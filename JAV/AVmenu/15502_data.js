@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e178058-5202-41b3-8c6e-b501e773ec7c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15502,
+  "IDcode": "FOCS-189",
+  "title": "和男朋友（陰莖大、射精慢）連續中出性愛【NTR】葵美玲",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "勾引・誘惑",
+    "美少女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "FOCS-189为妄想族出品,2024年4月9日发行的有碼成人影片由葵美玲出演\n有一天，Mirei 的男友要她請朋友幫他拍張照片，但她不願意。只有一個原因。我男友早洩，一旦射精，當天就不能再射精了。正如預期的那樣，他在拍攝當天大發脾氣，也許是因為感到尷尬，把米雷和他的攝影師朋友拋在了後面。剩下的男男女女只剩下一件事要做了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407210000272272.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240407/20240407210000272272.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15502",
+  "actresses": [
+    {
+      "name": "葵美玲",
+      "img_url": "https://picture.yoshiclub.xyz/20231115/9aae1f8f-8a15-4b2b-bae1-caaf3ee94a4c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15502&name=葵美玲"
+    }
+  ]
+};

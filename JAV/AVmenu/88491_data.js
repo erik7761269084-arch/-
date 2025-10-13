@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231012/uK8QJEz5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88491,
+  "IDcode": "JUY-840",
+  "title": "肉感美女ついに《解禁》！！ 恥辱の人妻オフィスアナルレディ 牧村柚希",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "凌辱",
+    "各种职业",
+    "肛交",
+    "素人作品",
+    "二穴同时挿入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231012-1/4bb27906035aa4c98850575ea0d4a723.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88491",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88491&name=大岛丈"
+    },
+    {
+      "name": "牧村柚希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88491&name=牧村柚希"
+    }
+  ]
+};

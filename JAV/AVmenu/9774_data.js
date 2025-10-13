@@ -1,0 +1,87 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f37e949-92b9-4fad-a4cb-d6c3552cc191/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/21/d04de6b1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9774,
+  "IDcode": "DASS-534",
+  "title": "射精挑戰遊戲：巨乳彼女爲了救我而被她最討厭的男人中出內射 ~ 美園和花 彌生美月",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "吞精",
+    "深喉",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "運動服裝",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "唾液敷面",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "明星臉",
+    "惡搞",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "DASS-534为DASDAS出品,2024年12月24日发行的有碼成人影片由美園和花，彌生美月出演\n瓦卡收到愛人的坦白，說她患有不治之症。據他說，治療費用根本不是他能負擔的。瓦卡在回家的路上，無法接受現實，一個男人叫住了她。她跟隨一個男人，男人告訴她，如果她參加一場特殊的比賽並獲勝，她將獲得一大筆錢，但當她下次醒來時，她穿著一件帶有號碼的綠色球衣並被扔來丟去。他決定與七名男女穿著同一服裝參加的遊戲的名稱是「池瀨遊戲」。這是一場瘋狂的遊戲，他們發生性關係，誰先到誰就被淘汰。第一個遊戲是「口交」。瓦卡的搭檔是她的前老闆，因指控她性騷擾和權力騷擾而被解僱。這是唯一的選擇，並將雞巴含在嘴裡。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218100040446446.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218100040446446.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9774",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9774&name=美園和花"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9774&name=彌生美月"
+    },
+    {
+      "name": "幾田真知",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/a83356ac-d1df-4288-bc4a-ef5f359a2143.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9774&name=幾田真知"
+    },
+    {
+      "name": "五十嵐美月",
+      "img_url": "https://picture.yoshiclub.xyz/20240707/0230a6ef-83b4-4c2e-aa3c-129cb19f7541.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9774&name=五十嵐美月"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9774&name=弥生美月"
+    }
+  ]
+};

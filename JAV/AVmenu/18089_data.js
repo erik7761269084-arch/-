@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7be6a8ec-2d54-4f3a-bfe4-6546ea2696d6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/04/16/ada03998/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18089,
+  "IDcode": "IPX-854",
+  "title": "讓年輕高傲OL喝下利尿劑強制失禁高潮 計畫下被抽插無法忍耐尿意停不下小便！ 西宮夢",
+  "publish_date": "2022-04-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "凌辱",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "女同事",
+    "辦公室",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031233823440440.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231031/20231031233823440440.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18089",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18089&name=西宮夢"
+    }
+  ]
+};

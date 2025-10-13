@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/48b78a33-f6ca-4d2e-b57d-2b801f73bf8a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/b4645dfe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8921,
+  "IDcode": "SSNI-568",
+  "title": "女友的姐姐不戴胸罩真空秀H罩杯美乳，而我是最經不住誘惑的人 ~ 夢乃愛華",
+  "publish_date": "2019-09-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "JK校服",
+    "口交",
+    "女友姐姐",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "慾求不滿",
+    "勾引・誘惑",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "SSNI-568为S1出品,2019年9月19日发行的有碼成人影片由夢乃愛華出演\n「噓！我對姊姊很神祕。」我快要徹底屈服於姊姊無胸巨乳的誘惑了。可愛巨乳正妹搖著H罩杯邀你的神級發育，你根本無法抗拒。姊姊的壓力乳交和誘人的口交讓我大爆發！雖然她就在我身邊，但感覺太好了，我忍不住顫抖臀部！ 「愛卡的陰戶感覺比你妹妹的更好！」我是最糟糕的，我現在不能回去了......",
+  "cover_url": "https://picture.yoshiclub.xyz/20250122/20250122014554294294.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250122/20250122014554294294.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8921",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8921&name=夢乃愛華"
+    }
+  ]
+};

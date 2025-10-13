@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240223/rAwkgGhg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90839,
+  "IDcode": "MOND-249",
+  "title": "憧れの女上司と 紗々原ゆり",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240223-1/f4ee80586ed35b16f597f7625b86b74a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90839",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90839&name=左慈半造"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90839&name=纱々原ゆり"
+    }
+  ]
+};

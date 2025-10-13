@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2593f0ff-6f62-42cf-93ce-a1eef21dbc51/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14950,
+  "IDcode": "SETM-013",
+  "title": "魔鏡特刊：讓東京頂尖女子大學的高學歷女大學生說100句騷話，看她會不會弄髒她的純白褲子",
+  "publish_date": "2023-10-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "中出",
+    "真人秀",
+    "素人",
+    "口交",
+    "淫語",
+    "少女",
+    "綜藝",
+    "美少女",
+    "奇聞趣事",
+    "公共場所",
+    "奇異的",
+    "真實拍攝",
+    "女學生"
+  ],
+  "description": "SETM-013为SOD出品,2023年10月1日发行的有碼成人影片\n這次，我們盯準了關東地區的某所著名女子大學，並把她們撿了起來！我們請教了一位不懂成人世界的天真的女大學生，看看言語和身體之間是否有連結！光是讓她說出「陰戶」、「蛋蛋」、「精液」等下流的話，內褲就全被弄髒了……調皮心情的少女根本停不下來……【里美版】",
+  "cover_url": "https://picture.yoshiclub.xyz/20240507/eac126e9-7206-4b41-b07c-7effdd9f9585.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240507/eac126e9-7206-4b41-b07c-7effdd9f9585.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14950",
+  "actresses": []
+};

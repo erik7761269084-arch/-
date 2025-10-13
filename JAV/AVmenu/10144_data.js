@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7885ee74-98d2-45c2-9670-99397a7baaab/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/9fdcdfaf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10144,
+  "IDcode": "JUR-007",
+  "title": "每天晚上都聽到隔壁人妻氣喘籲籲的聲音……～ 汗流浹背、與失意已婚人妻做愛的午後 ~ 吹石玲奈",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "勾引・誘惑",
+    "鄰居",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "野性",
+    "肌肉"
+  ],
+  "description": "JUR-007为MADONNA出品,2024年12月10日发行的有碼成人影片由吹石玲奈出演\n我第一次搬去獨自生活，心情很高。我的鄰居Rena也是個很好的人...每天晚上我都能聽到她野獸般的呻吟聲，我每天晚上都睡不著。有一天，我突然收到了麗娜小姐的邀請，當我走進隔壁時，我很困惑…她性感的身體慢慢靠近我！蕾娜一邊摸我的胯部，一邊問我：“你總是聽到我的呻吟聲，感覺怎麼樣？”",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205091137912912.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205091137912912.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10144",
+  "actresses": [
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10144&name=吹石玲奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10144&name=左慈半造"
+    }
+  ]
+};

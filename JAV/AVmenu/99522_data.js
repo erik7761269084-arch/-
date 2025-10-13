@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230209/436473DB7E3AFA20/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99522,
+  "IDcode": "XV-815",
+  "title": "女教師狩り in 葉月しおり",
+  "publish_date": "2010-01-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "强奸",
+    "数位马赛克",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/60xv815/60xv815pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99522",
+  "actresses": [
+    {
+      "name": "叶月しおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99522&name=叶月しおり"
+    }
+  ]
+};

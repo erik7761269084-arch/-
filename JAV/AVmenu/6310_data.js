@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d392b328-4695-46f1-8d61-285d35ccda42/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/25/db0bb8d8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6310,
+  "IDcode": "JUR-323",
+  "title": "汗如雨下的人妻狂甩臀部，我一次都沒動就直接內射啦 ~ 椎名由奈",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "大姐姐",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "嬸嬸",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "單體作品",
+    "美人妻",
+    "叔叔・姪女",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUR-323为MADONNA出品,2025年5月9日发行的有碼成人影片由椎名由奈出演\n大夏天热得要命，暑假我去老爸朋友家玩，期间他老婆由奈姐姐帮我补习功课。由奈姐姐气质超有知性美，关键是那对大胸真的让人挪不开眼！每次补习我都盯着她汗湿的领口，心跳加速个不停。今天又是我俩独处做作业的时候，我眼神又被她那湿透的胸口勾走，结果她突然把汗津津的胸贴过来，带着一抹妖媚的笑，直接扑上来把我给办了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063541863863_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063541863863_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6310",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6310&name=椎名由奈"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6310&name=日森一"
+    }
+  ]
+};

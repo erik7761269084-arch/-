@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/07E638EFEC66C8BA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98153,
+  "IDcode": "MMGH-168",
+  "title": "ともえ先生 20歳豊満な肉体を揉みしだくと恥ずかし汁が溢れ出す！メタボ可愛い素人女の母性にマザコン男子の射精が止まらない！",
+  "publish_date": "2019-04-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "制服",
+    "企画",
+    "业余",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1mmgh168/1mmgh168pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98153",
+  "actresses": [
+    {
+      "name": "三苫海",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-三苫うみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98153&name=三苫海"
+    }
+  ]
+};

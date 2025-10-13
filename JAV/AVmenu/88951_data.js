@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/nMksaHoB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88951,
+  "IDcode": "UMD-886",
+  "title": "【悲報】このあとこの巨乳ちゃんたちがマッサージ師のおじさん達に美味しくいただかれるっ！！ 6",
+  "publish_date": "2023-09-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "按摩"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88951",
+  "actresses": [
+    {
+      "name": "佐知子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250722/86057d1f-f0b8-487e-aae4-bb288be267d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88951&name=佐知子"
+    },
+    {
+      "name": "水川かえで",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/1732c987-cf42-4339-a20b-3f0d23177f45.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88951&name=水川かえで"
+    },
+    {
+      "name": "桜庭ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88951&name=桜庭ひかり"
+    }
+  ]
+};

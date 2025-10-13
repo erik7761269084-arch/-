@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/GHyf0ypE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78285,
+  "IDcode": "MDBK-071",
+  "title": "ぷっくりつるつるオマ●コへ狙い撃ち！！ぱいぱん×なかだし×BEST たっぷり30人 4時間 3",
+  "publish_date": "2019-11-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "无毛",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/d06a45dd1d4405d4588fe13630eb47c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78285",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=佐倉陽菜"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=安部未華子"
+    },
+    {
+      "name": "河音くるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250210/38d977cf-634b-4d5c-84cc-6a764e367caa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=河音くるみ"
+    },
+    {
+      "name": "桃尻かのん",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/a50d2415-1002-4f26-8f39-2a6deebe896d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=桃尻かのん"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=优梨まいな"
+    },
+    {
+      "name": "山井すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=山井すず"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=七海ゆあ"
+    },
+    {
+      "name": "一乃瀬るりあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78285&name=一乃瀬るりあ"
+    }
+  ]
+};

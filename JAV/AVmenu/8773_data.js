@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62a2e231-9f9a-4e95-ba35-e79088685103/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8773,
+  "IDcode": "ACHJ-059",
+  "title": "對不起，我的胸部太大了。在這種地方，M罩杯的巨乳無處可安！！勃起誘惑超爆乳癡女中出 ~ 叶愛",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "超爆乳",
+    "酒吧",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "厠所",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "約炮",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "極品美人",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "ACHJ-059为MADONNA出品,2025年1月28日发行的有碼成人影片由叶愛出演\n「對不起，我的胸部太大了，不是嗎？ 「即使在這樣的地方，M罩杯親密接觸！ ！刺激度120%！ ！無法逃脫勃起...超極限戶外約會！ ！散步約會時的巨大乳房 munyumunyu ！ ！在酒吧吃吃喝喝，巨乳咀嚼起來！ ！拍攝大頭貼時巨乳爆出！ ！ 「我在這樣的地方勃起，變態…」勃起後，我們有超級性感的乳交和無盡的中出性愛！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072628287287.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123072628287287.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8773",
+  "actresses": [
+    {
+      "name": "叶愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/1ed68a2e-0062-4418-94b0-d26efbd02118.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8773&name=叶愛"
+    }
+  ]
+};

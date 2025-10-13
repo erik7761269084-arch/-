@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250409/RYSkLqbt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68504,
+  "IDcode": "XVSR-665",
+  "title": "濃交 ～色白な美巨乳美少女「さつき芽衣」が本気で求め愛し合う生中出しSEX～ さつき芽衣 （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68504",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68504&name=沙月芽衣"
+    }
+  ]
+};

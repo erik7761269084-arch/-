@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a243d22a-07dc-44fa-9a73-aa28c19e7b2b/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/10/4c5e99f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16512,
+  "IDcode": "MIDV-572",
+  "title": "新人出道！20歲 MOODYZ獨家AV女優 一色さら 首次亮相！一個美麗的女孩，卻沒有意識到自己的身體非常敏感",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒"
+  ],
+  "description": "MIDV-572为MOODYZ出品,2023年12月19日发行的有碼成人影片由一色さら出演\n見到20歲的女孩，3秒就能看出她性格很好，笑容溫柔。好像最近做了腰部手術，所以他穿着緊身胸衣來參加AV拍攝（他很期待拍攝，等不及完全康復了……）他穿着特殊的衣服四處走動。手推車來照顧他的腰部哈哈，但即使他必須休息，演員的雞巴也噴了！被潮水打溼的鬃毛（現在很珍貴！）太色情了！さら是一位敏感的美麗女孩，擁有柔軟的 F 罩杯乳房。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240201/20240201043806818818.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240201/20240201043806818818.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16512",
+  "actresses": [
+    {
+      "name": "一色さら",
+      "img_url": "https://picture.yoshiclub.xyz/20240201/9ef739b4-782b-4a71-90cc-1bc2fb479d2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16512&name=一色さら"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230511/8d5a58a7-c3eb-4564-8cb0-4fcbabe8c5d0/index.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/14/ab91262e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19430,
+  "IDcode": "IPX-005",
+  "title": "可幹到內射的奶子摸摸茶！F罩杯巨乳風俗妹猛幹肏到爽！ 桃乃木香奈",
+  "publish_date": "2017-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "風俗娘",
+    "美少女",
+    "數位馬賽克",
+    "巨乳",
+    "偷窺"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230511/20230511040203289289.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230511/20230511040203289289.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19430",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19430&name=桃乃木香奈"
+    }
+  ]
+};

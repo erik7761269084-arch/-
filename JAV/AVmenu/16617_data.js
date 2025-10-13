@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c1a754d-e9f6-4e65-9acf-6d3880d1d7e4/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/27/3590d9ec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16617,
+  "IDcode": "STARS-973",
+  "title": "173cm×F杯大奶子高挑美腿美女綾瀬天",
+  "publish_date": "2024-02-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "巨尻",
+    "網襪",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "性感",
+    "高妹",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "短髮"
+  ],
+  "description": "STARS-973为SOD出品,2024年2月8日发行的有碼成人影片由綾瀬天出演\n173cm×F罩杯大奶子美腿美女綾瀬天的纖細身體看起來更加色情美麗！精心挑選的迷人緊身服裝！緊身連衣裙、美腿賽車女王、緊身排球運動員、全身網襪、極情色變態泳衣！變態十足的穿着調皮的衣服，性欲全開，興奮不已！\n173cm×F罩杯大奶子美腿美女綾瀬天的纖細身體看起來更加色情美麗！精心挑選的迷人緊身服裝！緊身連衣裙、美腿賽車女王、緊身排球運動員、全身網襪、極情色變態泳衣！變態十足的穿着調皮的衣服，性欲全開，興奮不已！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123110752308308.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240123/20240123110752308308.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16617",
+  "actresses": [
+    {
+      "name": "綾瀬天",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/81f07390-78ff-4827-89fc-f48be57d8b29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16617&name=綾瀬天"
+    }
+  ]
+};

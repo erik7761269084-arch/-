@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/02/7cb267d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79255,
+  "IDcode": "NGOD-154",
+  "title": "家計の為に非正規雇用で就職した企業で試用期間に助平な上司に目を付けられ性器雇用された妻…2 小早川怜子",
+  "publish_date": "2021-09-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79255",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79255&name=小早川怜子"
+    }
+  ]
+};

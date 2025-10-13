@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/6DE57093CC3E407B/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58244,
+  "IDcode": "112715-032",
+  "title": "恍惚 〜激しく求め合う濃厚なセックス〜",
+  "publish_date": "2015-11-27",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "69",
+    "立即口交",
+    "打手枪",
+    "美乳",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58244",
+  "actresses": []
+};

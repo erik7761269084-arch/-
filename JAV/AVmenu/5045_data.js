@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c254918-3090-4d74-bee8-24264d8e14e0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5045,
+  "IDcode": "SDNM-518",
+  "title": "新人出道！東京都內保險公司F杯少婦理財師 素人妻首次下海拍片 AV DEBUT ~ 三上咲",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "三十路",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "女業務",
+    "OL",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "出道作品",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "豐滿",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SDNM-518为SOD出品,2025年6月24日发行的有碼成人影片由三上咲出演\n三上咲，32岁，在都内保险公司当业务员，性格开朗又亲切，是个让人心动的结婚三年的小少妇。正准备和老公开始备孕，却突然冒出想被当做女人疼爱的渴望！于是她大胆选择了AV出道。西装下藏着的那对F杯诱人身材，简直让人垂涎三尺，面对陌生男人的冲击，她忍不住颤抖着沉沦在快感中，欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204634302302_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204634302302_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5045",
+  "actresses": [
+    {
+      "name": "三上咲",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/854cfc2d-f190-471c-824a-50bc51a2fa8f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5045&name=三上咲"
+    }
+  ]
+};

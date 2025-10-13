@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/10/7eba1964/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91985,
+  "IDcode": "JURA-108",
+  "title": "初撮り人妻、みたび。 工藤りおな",
+  "publish_date": "2024-04-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240623-1/3692606e22a6cc10067a39e9658eee4c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91985",
+  "actresses": [
+    {
+      "name": "工藤りおな",
+      "img_url": "https://picture.yoshiclub.xyz/20240801/8ac074c6-eb38-47be-88ce-ee38ba22a585.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91985&name=工藤りおな"
+    }
+  ]
+};

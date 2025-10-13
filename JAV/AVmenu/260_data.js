@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8350cf6d-5cd4-4690-801d-3607864d0a5f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 260,
+  "IDcode": "HEYZO-0279",
+  "title": "真空和服誘惑大作戰 ~ 椎名光",
+  "publish_date": "2013-03-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "和服・浴衣・喪服",
+    "偶像",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0279为HEYZO出品,2013年3月29日发行的無碼成人影片由椎名光出演\n椎名光這妹子，根本就是人間極品！長得像某個偶像，甜美小臉蛋超吸睛，飽滿的美巨乳摸起來手感一流，白皙纖細的身材更是完美到不行！別看她一臉純情，內心其實超愛玩刺激！這次我們給她全身抹滿潤滑油，濕透的衣服下，挺翹的乳頭和私密處若隱若現，色氣值直接爆表！雖然她平時騷氣十足，但穿上和服瞬間變成清純和風美人。不過，這小妮子可沒那麼單純，和服底下居然是無內無胸，隨時準備開戰！慢慢脫下和服，露出那對誘人的美巨乳和柔軟纖細的身軀，濕漉漉的私處搭配她羞羞地說著‘快進來啦’，這表情真的是又色又萌，絕對不能錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071204558558_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071204558558_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=260",
+  "actresses": [
+    {
+      "name": "椎名光",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b6a31bb4-7fbb-4c7e-b8c1-4b10b8f6377c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=260&name=椎名光"
+    }
+  ]
+};

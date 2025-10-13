@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/aQGIdUTt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82840,
+  "IDcode": "KIL-015",
+  "title": "スキだらけの若奥さまが混浴温泉に一人きり… 裸同士でナンパしたら中出しまでヤれた！",
+  "publish_date": "2013-09-03",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82840",
+  "actresses": []
+};

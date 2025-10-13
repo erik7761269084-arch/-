@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/87049bd9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62078,
+  "IDcode": "EMBZ-327",
+  "title": "［閲覧注意］熟女輪●レ●プ映像 File＃16 「被害者:30代孕み頃早熟主婦」",
+  "publish_date": "2025-08-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "凌辱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62078",
+  "actresses": [
+    {
+      "name": "雨宫凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62078&name=雨宫凛"
+    },
+    {
+      "name": "莲美柚香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62078&name=莲美柚香"
+    },
+    {
+      "name": "栄川まりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62078&name=栄川まりな"
+    }
+  ]
+};

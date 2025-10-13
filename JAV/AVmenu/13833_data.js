@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7740cc72-948e-4833-a350-1cb2735985f8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/19/da0aa47e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13833,
+  "IDcode": "JUQ-764",
+  "title": "我的大學生涯，在甜蜜的耳語中，沉迷於與已婚人妻的做愛 ~ 廣瀨百合",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "不倫",
+    "美腳",
+    "鄰居",
+    "人妻",
+    "偷竊",
+    "熟女"
+  ],
+  "description": "JUQ-764为MADONNA出品,2024年6月25日发行的有碼成人影片由廣瀨百合出演\n早上鄰居的鬧鐘一直響個不停，瘋狂的居民，而我這個看不到未來的大學生，住在破舊的公寓裡，環境又那麼差…有一天，當我住在沒有夢想和希望的時候，尤里搬進了這間破舊的公寓。雖然她很漂亮，但卻有一種陰暗的氣息。她利用某事並邀請我做某事。我無法抗拒那些似乎觸及耳膜的甜蜜低語，我服從了，在我意識到之前，我已經淹沒在與已婚女人的性愛中。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621003216530530.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621003216530530.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13833",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13833&name=廣瀨百合"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13833&name=左慈半造"
+    }
+  ]
+};

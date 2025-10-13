@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/26/55774230/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82894,
+  "IDcode": "PPPD-778",
+  "title": "OPPAIナーススペシャル 巨乳痴女医科大学 パイズリ中出し精液採取科",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/eb8070641957d4571d876c081ed47d66.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82894",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=葵百合香"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=真木今日子"
+    },
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=铃木里美"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=春菜华"
+    },
+    {
+      "name": "彩奈莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/72bb4b00-c5f3-40f8-a6d2-eb03c451b0f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=彩奈莉娜"
+    },
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=優月真裡奈"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82894&name=イセドン内村"
+    }
+  ]
+};

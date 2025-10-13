@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230211/1025330CE6180F92/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99582,
+  "IDcode": "PDV-164",
+  "title": "ザ・レイプ狂い",
+  "publish_date": "2014-05-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "颜射",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99582",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=大槻响"
+    },
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=葵司"
+    },
+    {
+      "name": "木南日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f64418c6-524e-4e34-9a6f-c0665d817011.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=木南日菜"
+    },
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=上原亞衣"
+    },
+    {
+      "name": "辰巳ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/2f18a01c-1b71-40a3-9762-6337ae90b85b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=辰巳ゆい"
+    },
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=麻美由真"
+    },
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=川上奈奈美"
+    },
+    {
+      "name": "伊东红",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/6ea29c2799e1e61c97c90561076c3b98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=伊东红"
+    },
+    {
+      "name": "朝日奈あかり",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/90eeaa7cac45b19be43329c05a4e9df1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99582&name=朝日奈あかり"
+    }
+  ]
+};

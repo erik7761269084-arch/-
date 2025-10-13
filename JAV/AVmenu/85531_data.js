@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230125/lJjNOG46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85531,
+  "IDcode": "MILK-144",
+  "title": "地下アイドルとオタクの秘密の関係 私、ファンと普通にオフパコしちゃってますw 中出しOK コスプレSEXでイキ狂い4本番 倉本すみれ チェキ付き",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "偶像",
+    "第一人称摄影",
+    "角色扮演者",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/367d873d84546735647eec0824f5dc42.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85531",
+  "actresses": [
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85531&name=向理来"
+    }
+  ]
+};

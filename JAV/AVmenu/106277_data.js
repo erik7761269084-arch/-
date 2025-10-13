@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/01/f024fe5a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106277,
+  "IDcode": "SHKD-750",
+  "title": "脱獄者 八神さおり",
+  "publish_date": "2017-07-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106277",
+  "actresses": [
+    {
+      "name": "八神沙織",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250627/748e785f-42dd-45b5-b10e-17b128d11b50_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106277&name=八神沙織"
+    }
+  ]
+};

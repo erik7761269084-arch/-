@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/28/50f7962f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107494,
+  "IDcode": "MIFD-245",
+  "title": "新人 20歳 こう見えて、脱いだら超絶品スレンダーちゃん！ 笑顔が可愛い敏感ピンク美乳赤毛の美少女AVdebut 天美しおり （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "苗条",
+    "首次亮相",
+    "乳房",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/29/241322c4d6696977f0f384571739b9a7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107494",
+  "actresses": [
+    {
+      "name": "ハメ鳥の人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107494&name=ハメ鳥の人"
+    },
+    {
+      "name": "天美しおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107494&name=天美しおり"
+    }
+  ]
+};

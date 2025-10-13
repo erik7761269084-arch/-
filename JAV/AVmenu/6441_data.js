@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36e3238e-3534-4803-89ed-5204d8197349/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/7b79cba7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6441,
+  "IDcode": "MIDA-151",
+  "title": "全是初體驗！性愛大開發 3本番特別篇 ~ 宮地莉央",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDA-151为MOODYZ出品,2025年5月2日发行的有碼成人影片由宮地莉央出演\n宮地莉央第二部專屬片來了！這身材根本是天神打造，流線型身軀毫無阻力，性感和敏感度直接爆表！這次開啟超刺激的性愛訓練，J罩杯巨乳塗滿油亮晶晶，和大肉棒糾纏摩擦；跟大叔舌吻黏膩膩地開幹；還有巨根直衝花心，狂野衝刺讓她徹底覺醒！那對超軟的巨乳抖得不要不要的，高潮一次又一次，忙得不可開交，爽到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042646121121_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042646121121_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6441",
+  "actresses": [
+    {
+      "name": "宮地莉央",
+      "img_url": "https://picture.yoshiclub.xyz/20250327/eb94141e-2e63-4d1f-85b3-3c0ab0becfd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6441&name=宮地莉央"
+    }
+  ]
+};

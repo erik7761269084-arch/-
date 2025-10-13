@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230217/9896589971B85409/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99702,
+  "IDcode": "JBJB-010",
+  "title": "神対応！ニット帽美少女 おじさんチ●ポへのねっとりご奉仕と本気イキのプライベート撮影会 水谷あおい",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99702",
+  "actresses": []
+};

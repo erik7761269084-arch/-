@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/FZRFWssD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80457,
+  "IDcode": "HUNTB-158",
+  "title": "「姉ちゃんもしかしてオナニーしてる？」姉が四つん這いになって股間にペンを挟んでオナニーしていると思ったら下半身のトレーニングと聞いてビックリ",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "乱伦",
+    "屁股",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80457",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80457&name=吉根柚莉爱"
+    },
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80457&name=佐伯由美香"
+    },
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80457&name=乃木遥"
+    }
+  ]
+};

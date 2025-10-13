@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a99b14ec-b451-45c4-bec5-c131104640ed/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9433,
+  "IDcode": "SAME-146",
+  "title": "父女之間的禁斷性交記錄映像 ~ 五芭",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "女兒",
+    "潮吹",
+    "父女",
+    "口交",
+    "自宅",
+    "白眼失神",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "美人",
+    "亂倫",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SAME-146为ATTACKERS出品,2025年1月7日发行的有碼成人影片由五芭出演\n我女兒有男朋友了。就在那時我意識到了。一種嫉妒的感覺在我的肚子深處盤旋。自從我開始把我的女兒視為一個“女人”，我就不知道該如何面對她。當時，我的女兒無法知道我的感受，讓我為她拍一個家庭影片。鏡頭裡映出來的女孩就是「我理想中的女人」。我已經不再壓抑自己的情緒了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102080109714714.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102080109714714.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9433",
+  "actresses": [
+    {
+      "name": "五芭",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/52fde9c6-3d51-4aeb-8190-5ff88995feb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9433&name=五芭"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/4pW4Er4n/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77401,
+  "IDcode": "RCTD-286",
+  "title": "第2回早漏女子陸上部イクイク潮吹き選手権",
+  "publish_date": "2019-11-21",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "潮吹",
+    "舔阴",
+    "业余",
+    "女优按摩棒",
+    "运动",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/46fd8b4a3d8475a7804322d9ec9d60f4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77401",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77401&name=胡桃多惠"
+    },
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77401&name=小泉真理"
+    }
+  ]
+};

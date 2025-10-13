@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/09/d768c097/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84241,
+  "IDcode": "CJOD-356",
+  "title": "痴女ギャルナイトプール 淫乱ビッチに囲まれ挟まれ超ハーレムタイム☆何度も射精させられた僕 AIKA 浜崎真緒 百永さりな 逢見リカ",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "女生",
+    "泳装",
+    "共演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84241",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84241&name=AIKA"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84241&name=鲛岛"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84241&name=浜崎真绪"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84241&name=黑川纱里奈"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/28/67548b07/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105786,
+  "IDcode": "DASS-361",
+  "title": "旦那との子作りセックス直後の濃厚上書き中出し不倫SEX 妃ひかり",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/28/a7797d3968db98f9c1e10db6e602aaf9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105786",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105786&name=妃光莉"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/07/26/55d3135e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77092,
+  "IDcode": "ONEZ-141",
+  "title": "子供が欲しい夫婦による最初から最後まで子作り映像 FILE.002 広告代理店勤務 綾（25歳）",
+  "publish_date": "2018-06-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "中出",
+    "已婚妇女",
+    "口交",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77092",
+  "actresses": [
+    {
+      "name": "佐佐波绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77092&name=佐佐波绫"
+    }
+  ]
+};

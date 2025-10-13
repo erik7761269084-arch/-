@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/07/7a11888c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69183,
+  "IDcode": "XVSR-800",
+  "title": "森沢かなの我慢できない極上騎乗位中出しSEX （BOD）",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69183",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69183&name=森澤佳奈"
+    }
+  ]
+};

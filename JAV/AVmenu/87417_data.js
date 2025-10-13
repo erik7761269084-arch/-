@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230726/m2SmdvR8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87417,
+  "IDcode": "DORI-061",
+  "title": "パコ撮りNo.61 生チンをギュゥっと締め付けてくる細身白ギャルJ●のマン●に「オジサンの精子、オマン●に出して下さい♪」とお願いさせて、結局3回中出しした！",
+  "publish_date": "2022-08-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "高中女生",
+    "中出",
+    "女生",
+    "校服",
+    "泡泡袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87417",
+  "actresses": []
+};

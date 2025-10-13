@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240321/lnnI7kDz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101501,
+  "IDcode": "HZGD-255",
+  "title": "タイムリープ-過去を変え親友の爆乳妻を俺の嫁にした禁断寝取り性交- 有村のぞみ",
+  "publish_date": "2023-08-11",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "制服",
+    "深喉",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101501",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101501&name=有村希"
+    }
+  ]
+};

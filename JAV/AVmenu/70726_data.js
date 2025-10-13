@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250306/n5XT6oz6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70726,
+  "IDcode": "JAC-018",
+  "title": "【変態ドM看護師×中出し】1000年に1人のドすけべぇ～現る！まさに逸材！！本当に逸材！！だが…逸材！！ガンガンスパンキング真性ドM！からの～本気汁ダダ漏れ！からの～お漏らし！からの～中出し！からの～2回戦！これまさに～永久保証ヌキ過ぎ注意の家宝するべき至高の1本！！！(ご満足できなかった場合返金したい気持ちでいっぱいです)【スポえろジャーニー2人目ゆかりちゃん】",
+  "publish_date": "2019-10-26",
+  "type": "有码",
+  "company": "Jackson Stars",
+  "genres": [
+    "中出",
+    "角色扮演",
+    "颜射",
+    "苗条",
+    "潮吹",
+    "企画",
+    "业余",
+    "运动"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250306-1/a7b86b2471eba3430fb83e3f466d314f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70726",
+  "actresses": [
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70726&name=水谷あおい"
+    }
+  ]
+};

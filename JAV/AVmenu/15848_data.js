@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b604e52-0117-4279-8a56-3c4f9c15f2b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15848,
+  "IDcode": "IBW-949",
+  "title": "順從春藥指令 鬆岡美桜 菊池春",
+  "publish_date": "2024-03-22",
+  "type": "有码",
+  "company": "IB WORKS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240327/48dd57ec-afd1-41c1-91f8-ff0163107f67.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240327/48dd57ec-afd1-41c1-91f8-ff0163107f67.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15848",
+  "actresses": [
+    {
+      "name": "菊池春",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/5ca175b8-1c74-41eb-8d3e-a37b5a6270af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15848&name=菊池春"
+    },
+    {
+      "name": "松岡美桜",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/3d418746-7767-4c19-9bf0-01f36b43202e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15848&name=松岡美桜"
+    }
+  ]
+};

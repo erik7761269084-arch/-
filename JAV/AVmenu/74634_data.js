@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/Ma4ekTBb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74634,
+  "IDcode": "JUY-875",
+  "title": "名もなき素人妻、中出しライダー01。 高速騎乗位で膣内射精を求める専業主婦 Aさん 32歳",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/a8094ce75b466d2f9e8c6ffc2912867a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74634",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/ij8jQTz7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85682,
+  "IDcode": "NACR-522",
+  "title": "元恋人は夫の弟…背徳の肉体契約 夏目藍果",
+  "publish_date": "2022-03-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "荡妇",
+    "玩具",
+    "口交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85682",
+  "actresses": []
+};

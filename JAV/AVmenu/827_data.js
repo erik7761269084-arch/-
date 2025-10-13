@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/997c4238-418a-4837-9e90-902aacac2134/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220416/1324B306EF9F9FC1/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 827,
+  "IDcode": "HEYZO-1026",
+  "title": "我的願望！幹爽這個蘿莉——阪西真由美",
+  "publish_date": "2015-12-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "乳交",
+    "蘿莉",
+    "中出",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "舔陰",
+    "少女",
+    "接吻",
+    "蘿莉控",
+    "美少女",
+    "美少女電影"
+  ],
+  "description": "HEYZO-1026为HEYZO出品,2015年12月11日发行的無碼成人影片由坂本愛海出演\n口嫌體正直幹到爽！ - 阪西真由美",
+  "cover_url": "https://picture.yoshiclub.xyz/20240529/9ded19f1-189f-4be5-9f99-125e992ea51a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240529/9ded19f1-189f-4be5-9f99-125e992ea51a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=827",
+  "actresses": [
+    {
+      "name": "坂本愛海",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/b5727d21-be4d-485d-b36e-6af48bdf7cc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=827&name=坂本愛海"
+    }
+  ]
+};

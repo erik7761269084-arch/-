@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/tTnxNUIk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77145,
+  "IDcode": "MYBA-009",
+  "title": "人妻の花びらめくり 北川礼子",
+  "publish_date": "2019-04-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77145",
+  "actresses": [
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77145&name=姫川礼子"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77145&name=イセドン内村"
+    }
+  ]
+};

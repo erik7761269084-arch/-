@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240627/3rm19V2X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97010,
+  "IDcode": "MBYD-365",
+  "title": "ハードピストンで人妻に精子ぶち込みNTR！肉弾着床種付けプレス58連発",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "巨大阴茎",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mbyd365/mbyd365pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97010",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=深田詠美"
+    },
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=白木優子"
+    },
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=織田真子"
+    },
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=初川南"
+    },
+    {
+      "name": "月島花",
+      "img_url": "https://picture.yoshiclub.xyz/20230523/f79b63f6-4214-400a-b3f4-3495c59d32e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=月島花"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=水野朝陽"
+    },
+    {
+      "name": "松下纱栄子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=松下纱栄子"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=安倍亜沙美"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=篠田优"
+    },
+    {
+      "name": "松永纱奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=松永纱奈"
+    },
+    {
+      "name": "小向美奈子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97010&name=小向美奈子"
+    }
+  ]
+};

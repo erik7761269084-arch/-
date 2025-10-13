@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a32cbdb6-6408-42a3-b75d-ac8f1b5cbcad/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8743,
+  "IDcode": "SAN-307",
+  "title": "從日本AV史上最大的雞巴榨取精液的人妻 ~ 川上優",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "鄰居",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "大雞巴",
+    "寢取",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250128/c6f9f57d-4a36-4047-acd3-ff6c5acfe400.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250128/c6f9f57d-4a36-4047-acd3-ff6c5acfe400.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8743",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8743&name=川上優"
+    }
+  ]
+};

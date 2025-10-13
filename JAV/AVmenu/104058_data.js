@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240612/MgyBVLXG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104058,
+  "IDcode": "MYBA-049",
+  "title": "人妻の花びらめくり 香澄せな",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/myba049/myba049pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104058",
+  "actresses": [
+    {
+      "name": "香澄せな",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/d3e3db0b-d3f5-4fb0-93a0-db02a1ad7c3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104058&name=香澄せな"
+    }
+  ]
+};

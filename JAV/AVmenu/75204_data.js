@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/29/f5133a08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75204,
+  "IDcode": "STARS-147",
+  "title": "憑依バカッター 小倉由菜 エロバカ行為怒涛の20連発 大大大炎上SP",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "凌辱",
+    "淫乱，真实",
+    "调教",
+    "纪录片",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75204",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75204&name=小倉由菜"
+    }
+  ]
+};

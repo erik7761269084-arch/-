@@ -1,0 +1,62 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2475,
+  "IDcode": "HNTRZ-022",
+  "title": "姐妹雙飛局，我是不是幹了啥不該幹的？ ~ 西尾真裏奈 西野繪美",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "少女",
+    "美腳",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "美人",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "HNTRZ-022为HUNTER出品,2025年9月18日发行的有碼成人影片由西尾真里奈，西野絵美出演\n阿俊是「真里奈」的班主任兼男友，但你知道吗，他以前还跟真里奈的亲姐姐「绘美」有过一段！某天，他意外发现这俩人竟然是姐妹，震惊到下巴都掉了！姐妹俩也发现了这个秘密，瞬间变成情敌，为了抢阿俊直接开撕！当然啦，肉棒争夺战那是一刻没停过！四个大奶子前后夹击，脸都被埋进去了！双倍美臀轮番上阵，手指和肉棒双管齐下！明明是同一个基因，但无论是传教士体位、女上位还是后入式，感觉都完全不一样，爽到爆！最后阿俊霸气宣言：你们俩我都要宠上天，直接中出爽翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051619906906_13713_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051619906906_13713_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2475",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2475&name=西野絵美"
+    },
+    {
+      "name": "西尾真里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/24bdd887-15ed-4728-9d5b-b7568e4807ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2475&name=西尾真里奈"
+    }
+  ]
+};

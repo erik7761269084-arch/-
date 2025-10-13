@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/19/015f6833/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105313,
+  "IDcode": "ALDN-318",
+  "title": "僕が会社を辞めない理由 神坂朋子",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/19/c46f0eb586c3b8c34bffb6a5b5273502.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105313",
+  "actresses": []
+};

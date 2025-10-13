@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220411/14B44C71C35EBE22/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97639,
+  "IDcode": "MIAA-055",
+  "title": "お正月で年に一回会うだけの遠い親戚で憧れだった年上のお姉さん。上京をきっかけに同居させてもらう事になった僕の切なくも淡い初恋。 八乃つばさ",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "姐姐",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97639",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97639&name=八乃翼"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97639&name=蓝井优太"
+    }
+  ]
+};

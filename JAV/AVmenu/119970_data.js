@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119970,
+  "IDcode": "FC2PPV-4317726",
+  "title": "Fc2 PPV 4317726 【無修正】露・リ系貧乳スレンダー女性が逆ナンパ。中年男性を自ら誘い出してスケベ晒してイキ果てる！ラストは性癖を満たす膣内射精♡",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/6ed3c3e7/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119970",
+  "actresses": []
+};

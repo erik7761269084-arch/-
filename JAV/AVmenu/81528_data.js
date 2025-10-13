@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221028/kcPEPPa2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81528,
+  "IDcode": "BUG-023",
+  "title": "金粉令嬢 輝く美少女の変態交尾 ひなた澪",
+  "publish_date": "2019-04-17",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/0bd484c3f8ea2efad9151f0a5fe3e50b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81528",
+  "actresses": []
+};

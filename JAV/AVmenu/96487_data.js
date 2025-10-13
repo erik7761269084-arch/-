@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/19/d13157a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96487,
+  "IDcode": "YSN-624",
+  "title": "【FANZA限定】頭は悪いけど性欲の強い新しい義姉に飼われてます。 沙月恵奈 パンティと生写真付き",
+  "publish_date": "2024-07-05",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "恋物癖",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96487",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96487&name=沙月惠奈"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/pVXi0p7u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77879,
+  "IDcode": "JUY-987",
+  "title": "バレたらやばい…妻の妊娠中に義姉の囁き淫語と密着性交で精子を絞り尽くされる僕 秋山祥子",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "姐姐",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/455942bbe77b3de23ea82c6a3f0e2b99.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77879",
+  "actresses": [
+    {
+      "name": "秋山祥子",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/826137fa-94ff-4e9f-b0be-e64cee41a56d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77879&name=秋山祥子"
+    }
+  ]
+};

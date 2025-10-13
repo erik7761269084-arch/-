@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230727/Bt52MRiT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87455,
+  "IDcode": "DVDMS-856",
+  "title": "色白デカ尻の家事代行おばさんに即ハメ！デカチンの虜になった人妻が翌日勝手に押しかけてきたので満足するまで何度も中出ししてあげた 16 妃ひかり",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "屁股",
+    "立即口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230727-1/e3fc19311d034e8b013622a1db0b3d64.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87455",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87455&name=妃光莉"
+    }
+  ]
+};

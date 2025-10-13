@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/h3APAn5H/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88902,
+  "IDcode": "UKM-013",
+  "title": "濡れまくり勃ちまくり不倫温泉 VOL.13",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "第一人称摄影",
+    "纪录片",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88902",
+  "actresses": []
+};

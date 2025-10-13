@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b12c16a-1f1d-4a64-ad3b-57720d2e1a4b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6372,
+  "IDcode": "HOKS-195",
+  "title": "現代肉欲劇場 由美子30歲 爸爸我愛你到不行 ~ 大島愛梨",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美臀",
+    "繼父",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "巨乳",
+    "昭和系",
+    "NTR",
+    "淫蕩・硬核",
+    "寢取",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "HOKS-195为FAプロ出品,2025年5月3日发行的有碼成人影片由大島愛里亞出演\n遠藤由美子，30歲的火辣熟女一枚。自從18歲母親過世後，她就跟再婚的義父一起生活。表面上看起來是個老實的父女家庭，但實際上兩人的關係早就跟夫妻沒差！為了不讓外人發現，這對禁忌戀人一直藏得滴水不漏。可就在秋意正濃的這一天，來自德島的五郎叔叔住進家裡，睡在隔壁房間。結果這兩人忍不住在隔壁開幹，激情滿滿的聲音全被五郎聽得一清二楚……這秘密還能守得住嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102820222222_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102820222222_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6372",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6372&name=大島愛里亞"
+    }
+  ]
+};

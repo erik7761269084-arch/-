@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d07baeb1-a133-4542-9c29-50a6a51613b4/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/10/23f4df61/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18447,
+  "IDcode": "NACR-711",
+  "title": "白皙身材的美女都喜歡接吻嗎?美澄玲衣的本番做愛",
+  "publish_date": "2023-10-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "口交",
+    "打手槍",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231006/e28ffc1c-6d96-4eab-be59-735b6ab228fa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231006/e28ffc1c-6d96-4eab-be59-735b6ab228fa.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18447",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18447&name=美澄玲衣"
+    }
+  ]
+};

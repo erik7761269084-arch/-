@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a4541c9-d5a3-4e12-9c51-77a00609399d/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/28/1cc1c8f2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18806,
+  "IDcode": "IPX-586",
+  "title": "喜歡肉棒打手槍癡女護理師 呢喃淫語與緩急打手槍引導射精的極上手穴癡療",
+  "publish_date": "2020-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "蕩婦",
+    "淫語",
+    "打手槍",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906010653712712.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230906/20230906010653712712.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18806",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18806&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18806&name=明里䌷"
+    }
+  ]
+};

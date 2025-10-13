@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa9fe813-e726-4e56-8f09-76a762b86a39/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/ee376d40/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10426,
+  "IDcode": "MISM-354",
+  "title": "可以肛交的風俗援交妹 ~ 天晴乃愛",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "後入",
+    "肛交",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "重口味",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "SM",
+    "美少女",
+    "緊縛",
+    "巨乳",
+    "獵豔",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "插入異物",
+    "短髮",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "二穴同入",
+    "拳擊交"
+  ],
+  "description": "MISM-354为えむっ娘ラボ出品,2024年11月26日发行的有碼成人影片由天晴乃愛出演\n我們可以多做一些諾亞和莫奇嗎？用腹凹 SM 球棒從內部敲擊乙狀結腸 Skene 腺。一隻洞穴狗伸出舌頭享受生活，儘管他說他不能再這麼做了。 1m 長的假陽具完全容納在肥皂水中。努魯·內喬魯。用 Pinsaro 吞下一個 50 公分的熔岩玩具。正在舉辦季節性肛門花園展覽，肛門玫瑰盛開。一名送貨健康服務的顧客猛烈攻擊她的三個洞，讓她射精。突破肛門超人的極限。 *據該人本人說。看來Haraboko真的感覺很好。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010154960960.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122010154960960.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10426",
+  "actresses": [
+    {
+      "name": "天晴乃愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/7131d9cb-5b7b-4e26-9265-278cb35933d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10426&name=天晴乃愛"
+    }
+  ]
+};

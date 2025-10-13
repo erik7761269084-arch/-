@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a33d5031-0c9f-44a2-9a6d-5de320f92ca0/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/21/f292a8ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16920,
+  "IDcode": "SSIS-936",
+  "title": "I罩杯大奶子想你摸她乳頭",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "多P",
+    "明星臉",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒"
+  ],
+  "description": "SSIS-936为S1出品,2024年1月9日发行的有碼成人影片由山手梨愛出演\n山手梨愛送給你！ I罩杯巨乳、超瘦曲線的業界第一身材突然降臨你家！ “我想在親熱時舔你的整個身體！”“我想讓你摸我的乳頭......”“我可以和我最好的朋友三人行嗎？哈哈”選定的粉絲透露了他們的性愛最大限度地實現自己的願望。！回應的溫柔敏感女神也連連射精！她的第一部粉絲答謝作品！請享受！\n山手梨愛送給你！ I罩杯巨乳、超瘦曲線的業界第一身材突然降臨你家！ “我想在親熱時舔你的整個身體！”“我想讓你摸我的乳頭......”“我可以和我最好的朋友三人行嗎？哈哈”選定的粉絲透露了他們的性愛最大限度地實現自己的願望。！回應的溫柔敏感女神也連連射精！她的第一部粉絲答謝作品！請享受！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105091230675675.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240105/20240105091230675675.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16920",
+  "actresses": [
+    {
+      "name": "山手梨愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0c3448b2-1809-4a29-873e-f6c5fc4f4544.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16920&name=山手梨愛"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16920&name=まーち"
+    }
+  ]
+};

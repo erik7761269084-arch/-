@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/vKB3s7RO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80468,
+  "IDcode": "300MAAN-727",
+  "title": "〈贞操観念ガバガバ若妻！禁欲2日间でもう限界！？露出オナニーから逆ナンフェラ、生ハメ中出しまでしちゃう完全暴走SEX！〉自分が一番エロイと豪语する社长令嬢！突如アパートの非常阶段で电マオナニー！逆ナンで男を落とし乳首舐め手コキ&amp;フェラ！2日ぶりのSEXに禁欲解放！感度爆上がり覚醒オーガズム！「これぇ！駄目ぇええ！気持ぢいぃ」大声で喘ぎ叫ぶ绝顶しまくり中出し3连発！！！メグさん 26歳 専业主妇(社长令嬢)",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ab7163e3b94950826a6df3f52d2f3f4b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80468",
+  "actresses": []
+};

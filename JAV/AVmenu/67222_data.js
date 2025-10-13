@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/jifZaLzR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67222,
+  "IDcode": "FSDSS-556",
+  "title": "私のヨダレ飲んでくれる？清純なのに狂おしいほどベロキス好き休み時間限定で濃厚接吻イチャラブ部 神木蘭 パンティと写真付き",
+  "publish_date": "2023-03-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "高中女生",
+    "口交",
+    "水手服",
+    "接吻",
+    "运动短裤",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/5b796ee618e19adf55aa43840c4115a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67222",
+  "actresses": [
+    {
+      "name": "神木蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20230822/2bbe5977-8ee0-4a36-83a7-fa43387bc36c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67222&name=神木蘭"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67222&name=鲛岛"
+    }
+  ]
+};

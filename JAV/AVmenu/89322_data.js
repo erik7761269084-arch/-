@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231216/vq5vAube/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89322,
+  "IDcode": "STARS-870",
+  "title": "【夏といえば水着！SODstar全員ビキニ祭】こんなはずじゃなかったけど・・・気持ち良すぎてもうどうでもいいやwグラビアアイドルに枕営業させてキメセク堕ち 本庄鈴",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "模特儿",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/6ca0a2dbb0495b1cefef780519330315.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89322",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89322&name=本庄鈴"
+    }
+  ]
+};

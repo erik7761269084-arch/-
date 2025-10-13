@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b1f36bec-93fd-4125-820c-35a3a0cc9984/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241019/KN7KDOFp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13155,
+  "IDcode": "REXD-525",
+  "title": "對不起，都是我的錯 7 ~ 新村朱裏",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "監獄",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "多P",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240721/43c623be-3c19-433a-aba4-4ce8b442109a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240721/43c623be-3c19-433a-aba4-4ce8b442109a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13155",
+  "actresses": [
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13155&name=新村朱里"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13155&name=岩下たろう"
+    },
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13155&name=新村晶"
+    }
+  ]
+};

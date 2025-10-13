@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 97887,
+  "IDcode": "a778e2fbd1913224c6f2bf7badb64964",
+  "title": "和岳父住在一起7天",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97887",
+  "actresses": []
+};

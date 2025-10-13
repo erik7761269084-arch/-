@@ -1,0 +1,88 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/638db594-f85c-4e13-aafe-69b89ba35b50/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/4f6421f9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9643,
+  "IDcode": "REAL-883",
+  "title": "就算你再後悔再求饒，我也不會停下來。平時看不起男人的已婚人妻被悽慘強奸，拘束中被一直操成肉便器 ~ 美丘さとみ 望月綾香 大槻響",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "緊縛",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "打屁股",
+    "美少女電影",
+    "羞恥",
+    "報復"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241223/4c8aaa2a-aa9a-4f1f-b5b1-9e7608af3c19.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241223/4c8aaa2a-aa9a-4f1f-b5b1-9e7608af3c19.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9643",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9643&name=大槻响"
+    },
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9643&name=望月綾香"
+    },
+    {
+      "name": "美丘さとみ",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/80eed317-cc28-46ae-b51f-85d3d97b524d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9643&name=美丘さとみ"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9643&name=いち"
+    },
+    {
+      "name": "爱花みちる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9643&name=爱花みちる"
+    }
+  ]
+};

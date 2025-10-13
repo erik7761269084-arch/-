@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240218/1bQgB6xH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101241,
+  "IDcode": "SIRO-5206",
+  "title": "撮影にガチガチに緊張しているGカップちゃん。仕草や言葉遣い、男性経験まで全てが真面目なウブ娘に性教育。 【初撮り】ネットでAV応募→AV体験撮影 2099",
+  "publish_date": "2024-01-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101241",
+  "actresses": [
+    {
+      "name": "いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101241&name=いろは"
+    }
+  ]
+};

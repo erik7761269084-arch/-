@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241221/VGFD3tNU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75083,
+  "IDcode": "VNDS-3335",
+  "title": "コタツの中で息子にイカされる義母",
+  "publish_date": "2020-02-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "乱伦",
+    "母亲",
+    "口交",
+    "恶作剧"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75083",
+  "actresses": [
+    {
+      "name": "天野弥生",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250507/2eebfde6-9ca9-4d58-81c8-ac40f6e0f5cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75083&name=天野弥生"
+    },
+    {
+      "name": "鹫尾明美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75083&name=鹫尾明美"
+    },
+    {
+      "name": "春日部一美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75083&name=春日部一美"
+    }
+  ]
+};

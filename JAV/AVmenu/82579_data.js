@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221117/yiloWsZz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82579,
+  "IDcode": "IENE-386",
+  "title": "若かりし頃の母さんとの性交 一之瀬すず",
+  "publish_date": "2014-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "处女",
+    "校服",
+    "科幻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/26db29b3fea09988e319178dd12415e8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82579",
+  "actresses": [
+    {
+      "name": "一之濑铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/92261f7f-db61-4387-9176-805198b12a6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82579&name=一之濑铃"
+    }
+  ]
+};

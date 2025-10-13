@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39997,
+  "IDcode": "30E5490F3FD4210190246D0D40A0F312",
+  "title": "双重卡司 &lt;4P乱交篇&gt; IG-393",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39997",
+  "actresses": []
+};

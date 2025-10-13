@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56846,
+  "IDcode": "0456C062D712C7FD9736C6DA3952B708",
+  "title": "【个撮32】県立K③现役モデルパイパン- 旅馆で露出徘徊!!",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56846",
+  "actresses": []
+};

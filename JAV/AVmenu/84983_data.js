@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/09/2dcab7e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84983,
+  "IDcode": "JUFE-383",
+  "title": "祝・桃園怜奈 共演解禁！ W天然爆乳美女に挟み込まれる逆3P快感密着メンズエステ 本真ゆり",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "多P",
+    "荡妇",
+    "屁股",
+    "乳液",
+    "美容院",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/6d0f26740567ac242a1351af2bccb00c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84983",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84983&name=本真友里"
+    },
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84983&name=桃園怜奈"
+    }
+  ]
+};

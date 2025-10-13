@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118514,
+  "IDcode": "E391394234E47EC9A251B105DAA7F5C5",
+  "title": "[FC2] 淫荡人妻下班后的极乐派对～被同事们绑起来强制高潮 (FC2-PPV-2251845)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118514",
+  "actresses": []
+};

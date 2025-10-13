@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bd3d8a47-2a80-4daf-a6cb-1797cbc075f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13246,
+  "IDcode": "DASS-429",
+  "title": "現實還是夢境？像夢一樣一次又一次高潮！時間軸狂無限的被射精快感 ~ 春陽モカ",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "傳播妹",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "DASS-429为DASDAS出品,2024年7月23日发行的有碼成人影片由春陽萌花出演\n一種極其令人愉悅的毀滅性高潮，感覺就像一場夢。沒有聖人時間。朱波朱波嘴裡含著大量甲魚的唾液。我已經高潮了！那一刻，【別管它了。 】雞-萬古-萬和莫的爆發。這是卡明嗎？你還沒來嗎？哪個！ ？現實！ ？濃稠的精子滴啊滴。射精後的釋放感將持續一輩子。進入 MEGA Trip Zone 並在陰莖極限痛苦中翻滾。終極戲弄遊戲會讓你的頭腦和蛋蛋驚慌失措。你也能射在我體內嗎？女孩確實是最好的。永遠的加爾。加爾永垂不朽。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719002031101101.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240719/20240719002031101101.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13246",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13246&name=春陽萌花"
+    }
+  ]
+};

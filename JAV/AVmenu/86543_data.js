@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/31/f3816a72/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86543,
+  "IDcode": "VENX-099",
+  "title": "もう息子なしでは生きていけない…。母親が絶頂60回突破するエロス極限トランス中出し 北野未奈 （ブルーレイディスク） （BOD）",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/14a1bd093c4d6220e41670bed3f00991.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86543",
+  "actresses": []
+};

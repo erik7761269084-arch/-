@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 86913,
+  "IDcode": "BLACKED_2017-07-19__NORMALLY_I_WOULD_NEVER_DO_THIS",
+  "title": "欧美",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86913",
+  "actresses": []
+};

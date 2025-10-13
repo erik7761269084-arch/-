@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/05/d2de5621/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106865,
+  "IDcode": "ABF-009",
+  "title": "新人教師が完堕ちするまでぶっ壊された ずぶ濡れ性交 濡れ透けNTR 河合あすな【MGSだけのおまけ映像付き+15分】",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "多P",
+    "乳液",
+    "白天出轨",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/10/05/de582becfa0f800b136ac198bd388bac.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106865",
+  "actresses": [
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106865&name=河合明日菜"
+    }
+  ]
+};

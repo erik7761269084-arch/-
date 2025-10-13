@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d8f5b1a-5ec1-4604-ab18-58b6521cbe59/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/7vrYadCi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14591,
+  "IDcode": "SQTE-541",
+  "title": "從來沒有見過這樣的口交！害羞又漂亮的肉食性女人 ~ 橘京花",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "口交",
+    "性感",
+    "美腳",
+    "艷遇",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240519/b57b4aeb-5e60-432f-9b5f-3ab9dbc9692b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240519/b57b4aeb-5e60-432f-9b5f-3ab9dbc9692b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14591",
+  "actresses": [
+    {
+      "name": "橘京花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/3d31758b-41a8-4ccf-bd55-d1d540e35e55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14591&name=橘京花"
+    }
+  ]
+};

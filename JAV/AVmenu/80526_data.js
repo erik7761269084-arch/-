@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/19/134dd8f2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80526,
+  "IDcode": "JUL-895",
+  "title": "入社時から憧れていた北条先輩が研修旅行で同僚に輪●されても、僕は興奮して立ち尽くすだけだった…。 北条麻妃",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80526",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80526&name=北条麻妃"
+    }
+  ]
+};

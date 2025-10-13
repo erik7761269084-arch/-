@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/04/787688b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86275,
+  "IDcode": "SSIS-379",
+  "title": "將禁欲下對性愛飢渴的葵司派遣到絶倫自豪M男家後… 無法相信般的情色相性契合。",
+  "publish_date": "2022-04-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "荡妇",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230205-1/9e487a9bad171dea2030732b719128d4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86275",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86275&name=葵司"
+    }
+  ]
+};

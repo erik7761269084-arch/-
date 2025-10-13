@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230106/35BD965F686CD23B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98554,
+  "IDcode": "RCTD-248",
+  "title": "TSFふたなり教師びんびん夏物語",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "女同性恋",
+    "调教",
+    "女教师",
+    "双性人",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98554",
+  "actresses": [
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98554&name=持田栞里"
+    },
+    {
+      "name": "桥本丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98554&name=桥本丽华"
+    },
+    {
+      "name": "水无瀬怜奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98554&name=水无瀬怜奈"
+    }
+  ]
+};

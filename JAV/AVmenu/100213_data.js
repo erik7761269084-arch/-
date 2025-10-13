@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230323/FDE647E3BB1C26E8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100213,
+  "IDcode": "KTKL-065",
+  "title": "レンタル女子校生、4人まとめて呼んでみた。 神貧乳ガリ天使たちとハーレム乱交 「どうかウチの引きこもりの息子を元気づけてください」",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "荡妇",
+    "滥交",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100213",
+  "actresses": []
+};

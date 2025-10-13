@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/17/cb914805/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85565,
+  "IDcode": "MOGI-068",
+  "title": "可愛口交辣妹！ 全顏射10發 4角色扮演 白花暖（20） 現役大學法學部",
+  "publish_date": "2022-11-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "角色扮演",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85565",
+  "actresses": [
+    {
+      "name": "白花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/a758ea88-fecb-4008-8b59-a7fe4b555b55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85565&name=白花暖"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85565&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/16/35602743/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66830,
+  "IDcode": "AARM-147",
+  "title": "完全CFNM 全裸ですけべ椅子に拘束されフェザータッチ性感で全身焦らされながらフェラチオされ続ける",
+  "publish_date": "2022-12-29",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "荡妇",
+    "口交",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66830",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66830&name=有村希"
+    },
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66830&name=緒川春"
+    },
+    {
+      "name": "铃木理沙",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66830&name=铃木理沙"
+    },
+    {
+      "name": "辻芽爱里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66830&name=辻芽爱里"
+    }
+  ]
+};

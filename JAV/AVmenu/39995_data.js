@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39995,
+  "IDcode": "021EB366A94DD0C2C21861CAC9145CC6",
+  "title": "万人迷日本妹 3 JAV-98666",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39995",
+  "actresses": []
+};

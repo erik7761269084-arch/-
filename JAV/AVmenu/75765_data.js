@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241210/jHFarWCk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75765,
+  "IDcode": "HOKS-057",
+  "title": "中年女4狂態（ファック） 映画館で性欲発散/男が欲しい英会話講師/兄50才の竿が欲しい妹40才/犬になりたい三十路主婦",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241210-1/9181dd437a3945d8cffbfee9f9b284f5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75765",
+  "actresses": [
+    {
+      "name": "寺島志保",
+      "img_url": "https://picture.yoshiclub.xyz/20250223/9ca369d3-2f3f-4a3b-8246-3a9b2458eda6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75765&name=寺島志保"
+    },
+    {
+      "name": "香澄莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75765&name=香澄莉绪"
+    },
+    {
+      "name": "南凉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75765&name=南凉"
+    },
+    {
+      "name": "松永雪子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75765&name=松永雪子"
+    }
+  ]
+};

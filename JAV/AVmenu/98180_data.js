@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221229/81BEE7720E4A770C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98180,
+  "IDcode": "SGM-010-",
+  "title": "レズビアン異常同性愛エロマゾ淫乱交尾 SGM-10",
+  "publish_date": "2019-02-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "苗条",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98180",
+  "actresses": [
+    {
+      "name": "円城ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98180&name=円城ひとみ"
+    },
+    {
+      "name": "福田由贵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98180&name=福田由贵"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/19/467ebf54/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103803,
+  "IDcode": "ABF-084",
+  "title": "【抽選でサイン入り衣装プレゼント実施中】子宮で欲しがる河合あすなの中出し懇願 4シチュエーション【MGSだけのおまけ映像付き+15分】",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "角色扮演",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/19/30bb9265ec4260f4653c6897e50a01dd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103803",
+  "actresses": [
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103803&name=河合明日菜"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103803&name=イセドン内村"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103803&name=南佳也"
+    }
+  ]
+};

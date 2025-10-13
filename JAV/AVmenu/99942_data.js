@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/CC85394D458E7F26/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99942,
+  "IDcode": "ABP-400",
+  "title": "彼女のお姉さんは、誘惑ヤリたがり娘。 北野のぞみ",
+  "publish_date": "2015-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "妹妹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99942",
+  "actresses": [
+    {
+      "name": "北野望",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c0f421cd8f98ac9848c592e32f86bf7b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99942&name=北野望"
+    }
+  ]
+};

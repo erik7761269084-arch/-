@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21a416c1-509f-4818-b943-5674937f4c0e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/27/54cf037e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6296,
+  "IDcode": "JUR-343",
+  "title": "被算準生理期…大屌男狂吃不停，辦公室偷情妊娠確定的不倫SEX ~ 岬光莉",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "不倫",
+    "舔陰",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "NTR",
+    "阪道系",
+    "職場",
+    "熟女",
+    "寢取",
+    "豐滿",
+    "報復"
+  ],
+  "description": "JUR-343为MADONNA出品,2025年5月9日发行的有碼成人影片由岬光莉出演\n最近剛在公司裡結了婚，準備辭職當全職太太的我，本來打算登記前就離職，但公司好心幫我搞定交接跟婚後一堆手續，我就厚著臉皮多留了兩個月。結果離辭職不到一個月的時候，帶我的前輩鈴木突然爆料，說我老公在外頭偷吃！我一聽整個人傻眼，他卻趁機甜言蜜語地靠近我，那股男人味加上花言巧語，弄得我心癢癢，身體也開始不聽話…最後就在辦公室裡，被他一次次攻陷，危險日還被算得死死的，真的要命啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065118785785_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065118785785_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6296",
+  "actresses": [
+    {
+      "name": "岬光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20250403/f8b36ebd-60de-4df8-86a9-f94f669a96f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6296&name=岬光莉"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6296&name=ニック"
+    }
+  ]
+};

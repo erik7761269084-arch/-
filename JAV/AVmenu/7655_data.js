@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ffa7f854-7e76-4881-a684-9c03d043484b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7655,
+  "IDcode": "CEMD-644",
+  "title": "強烈高潮操到流淚SEX 50~ 月野香橙",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "蕩婦",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "熟女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250223/1b8f1c39-5073-4023-8a52-4d1db96c57ec.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250223/1b8f1c39-5073-4023-8a52-4d1db96c57ec.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7655",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7655&name=月野香澄"
+    }
+  ]
+};

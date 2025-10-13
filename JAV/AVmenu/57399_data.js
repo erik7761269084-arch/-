@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57399,
+  "IDcode": "E8731C7DDDE1CE61B682E4E2F78FE699",
+  "title": "パンツを売る女 VOL.21 弄りたおしてみました 後半",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57399",
+  "actresses": []
+};

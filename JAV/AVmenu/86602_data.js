@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/15/4e77aa85/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86602,
+  "IDcode": "WAAA-167",
+  "title": "いきなりチンしゃぶ欲求不満モンスター！ 中出し大好き蛇舌ド変態人妻を絶倫シロウト宅へ突撃派遣します！",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86602",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86602&name=佐伯由美香"
+    }
+  ]
+};

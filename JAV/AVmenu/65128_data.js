@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65128,
+  "IDcode": "68FB2EEB563B56FB25E82B41A1B2E0A8",
+  "title": "女体拷问研究所 THE THIRD JUDAS Episode-21",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65128",
+  "actresses": []
+};

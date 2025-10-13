@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/469ff9b4-f0fd-442e-8371-360e6fb2f58a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/01/1fd2b80a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17335,
+  "IDcode": "JUQ-476",
+  "title": "我的NTR故事 對妻子愚蠢的考驗 妻子和我找來的同事單獨呆了三個小時的多次中出內射",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "劇情",
+    "中出",
+    "口交",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-476为MADONNA出品,2023年12月12日发行的有碼成人影片由水川蓳出演\n我和妻子水川蓳結婚已經好幾年了。雖然工作上升職了，工作上也惹出了麻煩，但和妻子過得還不錯。有一天，我和學弟左慈瞎聊夫妻生活上的事，他告诉我他对女人没有任何欲望和想法，我不信和他打赌，决定让他和我妻子体验一次伪情侣体验，让他看看女人有多好。在和我妻子独处的三个小时后，左慈似乎明白了结婚的好处，可是过了几天，他又说要来我家。我就偷偷装了个隐藏的摄像头，想拍下来好玩，但是。。。\n我和妻子水川蓳結婚已經好幾年了。雖然工作上升職了，工作上也惹出了麻煩，但和妻子過得還不錯。有一天，我和學弟左慈瞎聊夫妻生活上的事，他告诉我他对女人没有任何欲望和想法，我不信和他打赌，决定让他和我妻子体验一次伪情侣体验，让他看看女人有多好。在和我妻子独处的三个小时后，左慈似乎明白了结婚的好处，可是过了几天，他又说要来我家。我就偷偷装了个隐藏的摄像头，想拍下来好玩，但是。。。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/e6a367b6-9c55-45ab-8b11-64e5d8103412.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/e6a367b6-9c55-45ab-8b11-64e5d8103412.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17335",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17335&name=水川蓳"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17335&name=左慈半造"
+    }
+  ]
+};

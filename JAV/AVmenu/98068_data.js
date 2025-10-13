@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98068,
+  "IDcode": "MIDD-538_B",
+  "title": "お漏らし恥辱オフィスレディ 美人OLを狂わす女の罠 西野翔 星優乃 Part 2",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98068",
+  "actresses": []
+};

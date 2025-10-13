@@ -1,0 +1,102 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/326ff75b-906c-4895-b2b5-ec2721903813/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/9ebccc3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8413,
+  "IDcode": "NSFS-357",
+  "title": "強奸的快感：生意氣人妻被侵犯！ ~ 花笑一杏 逢見梨花 若宮葉月 吹石玲奈 等",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "痴漢",
+    "家庭主妇",
+    "舔腳",
+    "性虐癖",
+    "吞精",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美人妻",
+    "人妻",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "熟女",
+    "精選綜合",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/80a5304b-6722-4bba-9cfa-2b6450a96635.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/80a5304b-6722-4bba-9cfa-2b6450a96635.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8413",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=若宮葉月"
+    },
+    {
+      "name": "逢見梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231204/25b4a3df-162c-4e1c-b81b-ad41344cc285.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=逢見梨花"
+    },
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=吹石玲奈"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=羽生ありさ"
+    },
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=佐佐木明希"
+    },
+    {
+      "name": "潮见百合子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250526/a988b90e-6192-4978-a3dc-ae8f283f15cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=潮见百合子"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=花笑一杏"
+    },
+    {
+      "name": "藤木オリエ",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/5cba709f-a3bc-44e5-b091-81051e9ea861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=藤木オリエ"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=若宫はずき"
+    },
+    {
+      "name": "SHIN",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8413&name=SHIN"
+    }
+  ]
+};

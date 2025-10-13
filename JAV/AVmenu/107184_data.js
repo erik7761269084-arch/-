@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/4083deb4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107184,
+  "IDcode": "SDJS-205",
+  "title": "SOD女子社員 まだ撮影現場に行ったことない制作部新卒ちゃん3人のマジックミラー号逆ナンパ研修！ 男性器サイズ調査の為、恥ずかしながらち●ぽ測定！勃起が収まらなくて困っている男性を放っておけず、 あの手この手で全員発射させちゃいました 合計8発射！",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "多P",
+    "业余",
+    "倒追"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107184",
+  "actresses": [
+    {
+      "name": "長井彩智",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107184&name=長井彩智"
+    },
+    {
+      "name": "野内ふうか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107184&name=野内ふうか"
+    },
+    {
+      "name": "新田花音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107184&name=新田花音"
+    }
+  ]
+};

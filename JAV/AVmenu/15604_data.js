@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c070279-523e-454c-a2ca-2d855c9a6cc9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15604,
+  "IDcode": "IPZZ-285",
+  "title": "新人出道 ~ 北岡果林",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "OL",
+    "口交",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "癡女",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "IPZZ-285为IDEA POCKET出品,2024年4月9日发行的有碼成人影片由北岡果林出演\n太可愛了，你會愛上它的！ ！就讀超名牌大學的現役女大學生！新人AV出道！我不敢相信我能看到如此可愛的女大學生做愛！現在的女大學生脫衣服了！太可愛了！這麼可愛的女孩還舔肛門！ ？美麗的臉龐沾滿精液的特別口交！素人般的奇聞趣事 H 首次亮相是獨一無二的！ ！與中年男子做愛時氣喘吁籲！痛苦地翻滾！我高潮了！ ？推倒女大學生！ ！剩180分鐘！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405042909245245.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405042909245245.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15604",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15604&name=北岡果林"
+    }
+  ]
+};

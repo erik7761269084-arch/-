@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221227/qgcaenER/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83587,
+  "IDcode": "HIKR-150",
+  "title": "巨乳と巨尻そして黒パンスト…ただいまエイデン39歳",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "白人",
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "连裤袜",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/cf7f6bf28733df7ed7aa5ce00c1df185.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83587",
+  "actresses": []
+};

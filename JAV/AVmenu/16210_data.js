@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a66d6a0-c99b-41da-b813-203b32a8afe4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16210,
+  "IDcode": "JUNY-109",
+  "title": "巨乳超豐滿J型正妹喜歡口交，暑假期間闖入中年老師家，盡情做愛。",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "JK校服",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "口爆",
+    "勾引・誘惑",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "女學生"
+  ],
+  "description": "JUNY-109为FITCH出品,2024年2月20日发行的有碼成人影片由藤沢麗央出演\n暑假啦！社團活動歸來，滿頭大汗的女學生ふじさわれお前往住在附近的梅田老師家洗澡。當老師看到她溼漉漉的、透明的、胖乎乎的豐滿身體時，她說：“啊？勃起了。”然後她把溼漉漉的身體與老師勃起的雞巴緊密接觸，露出來，用嘴吮吸。！ ふじさわれお 享受大雞巴，不用擔心老師的抵抗。超性感巨乳J型的淫亂暑假開始了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240218/202402180654396464.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240218/202402180654396464.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16210",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16210&name=藤沢麗央"
+    }
+  ]
+};

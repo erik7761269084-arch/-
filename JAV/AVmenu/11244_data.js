@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ca834fdc-9bc4-4155-80d5-5aa103ced18b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11244,
+  "IDcode": "MXGS-1353",
+  "title": "品質保證！擁有美顏和性感身材的綺麗美女招待您的特殊風俗服務 ~ 尾崎惠梨香",
+  "publish_date": "2024-10-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "丁字裤",
+    "風俗娘",
+    "性感",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "招待",
+    "情趣內衣",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241016/6d85618a-9764-466a-a7fc-15eee86192b3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241016/6d85618a-9764-466a-a7fc-15eee86192b3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11244",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11244&name=尾崎惠梨香"
+    }
+  ]
+};

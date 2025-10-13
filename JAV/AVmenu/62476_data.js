@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/30/05ee1731/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62476,
+  "IDcode": "NASK-273",
+  "title": "我慢できない五十路の性欲！雌の快感は熱い精液とともに蘇る6",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/30/05ee1731/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62476",
+  "actresses": []
+};

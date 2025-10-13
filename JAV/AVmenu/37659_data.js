@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220725/20F0C43A9C35BACB/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37659,
+  "IDcode": "26C99E593E233FA2823D40C1659C6E-07",
+  "title": "天真可爱的S级童颜巨乳娘-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37659",
+  "actresses": []
+};

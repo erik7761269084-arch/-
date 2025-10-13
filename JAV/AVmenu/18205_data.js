@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6404dbe1-77dc-4c25-bad2-cee977b59d92/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18205,
+  "IDcode": "APNS-324",
+  "title": "年輕人妻輪姦後調教成性奴，學生時代最好閨蜜的陷阱。",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "劇情",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "顏射",
+    "刺青紋身",
+    "口交",
+    "輪姦",
+    "多P",
+    "人妻",
+    "兩男兩女",
+    "羞恥",
+    "報復"
+  ],
+  "description": "APNS-324为AURORA PROJECT ANNEX出品,2023年10月24日发行的有碼成人影片由柊有希，広瀬みつき出演\n學生時代最好的朋友柊有希和広瀬みつき在畢業後變得疏遠，但當広瀬みつき的丈夫調到東京並搬進新房時，她碰巧與住在隔壁的柊有希重逢。 然而，自從柊有希與広瀬みつき分開後，她嫁給了一個黑社會勢力的男人，並在她的身上紋了身，使她變成了性奴隸。 柊有希的丈夫也注意到 広瀬みつき的美麗，併計劃將她變成像 柊有希一樣的性奴隸...\n學生時代最好的朋友柊有希和広瀬みつき在畢業後變得疏遠，但當広瀬みつき的丈夫調到東京並搬進新房時，她碰巧與住在隔壁的柊有希重逢。 然而，自從柊有希與広瀬みつき分開後，她嫁給了一個黑社會勢力的男人，並在她的身上紋了身，使她變成了性奴隸。 柊有希的丈夫也注意到 広瀬みつき的美麗，併計劃將她變成像 柊有希一樣的性奴隸...",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022083643255255.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022083643255255.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18205",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18205&name=柊有希"
+    },
+    {
+      "name": "広瀬みつき",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/227a0ecb-f572-4f93-bae2-4c6003831f7e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18205&name=広瀬みつき"
+    }
+  ]
+};

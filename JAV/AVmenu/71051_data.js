@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250305/z0zxbrsr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71051,
+  "IDcode": "JUFD-710",
+  "title": "上から目線で男を挟む淫語パイズリエステサロン 中村知恵",
+  "publish_date": "2017-03-01",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫语",
+    "荡妇",
+    "数位马赛克",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71051",
+  "actresses": [
+    {
+      "name": "中村知恵",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b7ef88ad7ff1dff73a6ceb9556fc4f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71051&name=中村知恵"
+    }
+  ]
+};

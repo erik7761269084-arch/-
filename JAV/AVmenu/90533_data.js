@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/01/17e95d9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90533,
+  "IDcode": "PRED-353",
+  "title": "僕をダメにする痴女セフレお姉さん 即フェラごっくん＆杭打ち中出しで朝まで何度も射精され続けて… 竹内有紀",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇",
+    "苗条",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90533",
+  "actresses": []
+};

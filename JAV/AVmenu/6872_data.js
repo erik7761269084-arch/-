@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a9d880e-64ae-41e7-8c0e-275eb3e53203/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/c3ff5f82/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6872,
+  "IDcode": "MIZD-447",
+  "title": "騎乗位女王葵伊吹火力全開！MOODYZ最強腰線扭到炸的4小時精選合集 ~ 葵伊吹",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "明星臉",
+    "巨乳",
+    "精選總編集",
+    "美人",
+    "精選綜合",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "MIZD-447为MOODYZ出品,2025年4月15日发行的有碼成人影片由葵伊吹出演\n伊吹葵的女上位姿勢......太不可思議了！ ！上上下下，前後擺動…她那令人難以置信的臀部擺動活塞技術簡直太棒了！收錄了從嚴選作品中精選出的23個場景！研磨、衝擊、近距離接觸、蜘蛛……當然還有 32 發的射精場景！還有 creampie（不錯）。對於喜歡女上位的人和喜歡伊吹葵的人來說這是必看的…！來看看MOODYZ No.1精緻身材的技巧吧！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412005435902902.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250412/20250412005435902902.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6872",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6872&name=葵伊吹"
+    }
+  ]
+};

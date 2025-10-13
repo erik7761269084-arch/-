@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/27/90fdbcda/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107083,
+  "IDcode": "NSPS-086",
+  "title": "借金まみれの女子社員",
+  "publish_date": "2010-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "制服",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/27/86b19ff9af6789a9f6247d24d8bbe3b0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107083",
+  "actresses": [
+    {
+      "name": "南まりん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107083&name=南まりん"
+    },
+    {
+      "name": "秋乃ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107083&name=秋乃ひとみ"
+    },
+    {
+      "name": "菊岛夕子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107083&name=菊岛夕子"
+    },
+    {
+      "name": "冈山凉花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107083&name=冈山凉花"
+    }
+  ]
+};

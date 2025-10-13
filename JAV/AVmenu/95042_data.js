@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/07/1bfc6c2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95042,
+  "IDcode": "SDNM-217",
+  "title": "愛くるしい君の笑顔、守りたい。 橋本菜々 35歳 最終章 家族3人で暮らすマイホームで禁断の撮影 幸せな家庭を精子で汚す中出し4P乱交",
+  "publish_date": "2019-10-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "滥交",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95042",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95042&name=森林原人"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95042&name=イセドン内村"
+    },
+    {
+      "name": "桥本菜々",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95042&name=桥本菜々"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/f5174e8d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105102,
+  "IDcode": "REBD-841",
+  "title": "Nana3 うきうきハイテンション！！・前乃菜々 パンツと写真付き",
+  "publish_date": "2024-05-16",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "巨乳",
+    "介绍影片",
+    "性感的",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105102",
+  "actresses": [
+    {
+      "name": "前乃菜菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/886ce837-0a74-41dd-9645-35a63f255a74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105102&name=前乃菜菜"
+    }
+  ]
+};

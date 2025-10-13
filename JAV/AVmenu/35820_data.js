@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/70BB1BF86568665C/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35820,
+  "IDcode": "54AF73A0FE8100F280A07C8C51DBD-839",
+  "title": "排球宝贝用排球自慰",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35820",
+  "actresses": []
+};

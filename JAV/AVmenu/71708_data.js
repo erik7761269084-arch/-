@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/JIK5KG38/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71708,
+  "IDcode": "HND-619",
+  "title": "学生結婚で休学中の現役女子大生母乳幼妻 同級生の夫に内緒で大人の男根と初不倫！ かな20歳 産後直後で感度抜群の子宮に子作り中出しAV出演ドキュメント",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "女大学生",
+    "出轨",
+    "数位马赛克",
+    "母乳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/81b8afa7d8ed5b1286e1b49b813d2f93.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71708",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71708&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71708&name=イセドン内村"
+    }
+  ]
+};

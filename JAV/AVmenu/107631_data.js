@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/04/0aa47c02/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107631,
+  "IDcode": "ALDN-191",
+  "title": "保険屋の叔母さんの誘惑 上島美都子",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107631",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107631&name=左慈半造"
+    },
+    {
+      "name": "上岛美都子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107631&name=上岛美都子"
+    }
+  ]
+};

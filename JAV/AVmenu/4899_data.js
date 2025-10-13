@@ -1,0 +1,100 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66f1819f-736f-490b-bc94-b07d6d9dab13/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4899,
+  "IDcode": "NEKK-004",
+  "title": "扭曲NTR警告：小心上癮！性欲爆棚的NTR愛好者混亂素人私拍影像 ~ 乙愛麗絲 橘京花 鈴音杏夏 千石もなか 倉木詩織",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "故事集",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "調教",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "職員",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "小三・情人",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "金髮",
+    "自慰",
+    "明星臉",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "護士",
+    "精選綜合",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "飯店"
+  ],
+  "description": "NEKK-004为妄想族出品,2025年6月28日发行的有碼成人影片由乙愛麗絲，鈴音杏夏，橘京花，倉木詩織，千石もなか出演\n【小心上癮警告】 這是一部性慾超強的NTR愛好者拍攝的超混亂素人私密影像，真的會讓人停不下來！ 【第一組】 RUKA（29歲） 職業：牙科櫃檯人妻 純情到不行，只跟老公有過經驗的害羞櫃檯小姐姐，竟然在老公面前被NTR調教，畫面超刺激！ 【第二組】 A醬（21歲） 職業：大學生 K醬（23歲） 職業：護理師 一邊打電話一邊自慰，還被狠狠插入！挑逗到濕透，高潮連連，爽到不行啦！ 【第三組】 奈子（23歲） 職業：家務助手 光（24歲） 職業：服裝店員 活潑辣妹和溫柔小妹的雙人組合，金髮潮吹小穴和清純敏感小穴被NTR玩個遍，爽到爆！ 這波NTR，真的會上癮，注意點啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095809651651_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095809651651_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4899",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4899&name=乙愛麗絲"
+    },
+    {
+      "name": "倉木詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/84fcb004-8c5b-48c5-b9f5-eaf01dc75d92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4899&name=倉木詩織"
+    },
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4899&name=千石もなか"
+    },
+    {
+      "name": "橘京花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/3d31758b-41a8-4ccf-bd55-d1d540e35e55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4899&name=橘京花"
+    },
+    {
+      "name": "鈴音杏夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/9c3ff1bd-5789-494b-a078-8f29f210e02e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4899&name=鈴音杏夏"
+    }
+  ]
+};

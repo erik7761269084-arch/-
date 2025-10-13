@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/02/d37e31b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63426,
+  "IDcode": "MBRBA-134",
+  "title": "美女のハダカ/中山ふみか",
+  "publish_date": "2025-06-25",
+  "type": "有码",
+  "company": "香料視覺",
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/d37e31b5/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63426",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63426&name=中山文香"
+    }
+  ]
+};

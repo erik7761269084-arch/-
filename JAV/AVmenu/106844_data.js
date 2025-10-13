@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/01/8b6b8707/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106844,
+  "IDcode": "NUKA-063",
+  "title": "抜かずの六発中出し 近親相姦密着交尾 大石紗季",
+  "publish_date": "2023-06-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/01/b46be29fe4bf664f4fd20598b52b2e49.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106844",
+  "actresses": []
+};

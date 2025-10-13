@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/454f6d2c-1e7e-44cb-bbb2-81d89c86d905/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/942af330/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5981,
+  "IDcode": "NACX-153",
+  "title": "為了深愛的丈夫，我和他的上司上床 精選合輯 ~ 花狩舞 廣瀨成美 天馬唯",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "家庭主妇",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "身體換業務",
+    "脚控・戀足癖",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美腿",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "精選綜合",
+    "短髮",
+    "寢取",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "NACX-153为PLANETPLUS出品,2025年5月20日发行的有碼成人影片由天馬唯，廣瀨成美，花狩舞出演\n有個老公看到老婆被寝取就興奮得不得了，而小嬌妻也是超愛這個有點變態的老公。兩人聯手設局，把老公的上司給套路了，計畫拍下他和小嬌妻的偷情畫面。上司這老實人啥也不知道，被邀請到家裡喝酒就屁顛屁顛來了。面對美艷小嬌妻的勾引，他完全沒察覺自己的一舉一動都被偷拍了……本片收錄了三位又萌又騷的小嬌妻，絕對讓你血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233153945945_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233153945945_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5981",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5981&name=天馬唯"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5981&name=花狩舞"
+    },
+    {
+      "name": "廣瀨成美",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/c3f9cefa-c546-4e04-b43f-e34ba4b29663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5981&name=廣瀨成美"
+    }
+  ]
+};

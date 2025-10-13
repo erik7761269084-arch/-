@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/545f5914/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80509,
+  "IDcode": "SSIS-265",
+  "title": "恵体グラドル×追撃ピストンイッてもイッてもおま●こを突きまくる終わらない無限絶頂おかわりイカセ性交 安位カヲル",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "偶像",
+    "薄马赛克",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80509",
+  "actresses": [
+    {
+      "name": "安位薫",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/bf0e7d96-e7c4-430b-b352-60886b45c24d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80509&name=安位薫"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80509&name=イセドン内村"
+    }
+  ]
+};

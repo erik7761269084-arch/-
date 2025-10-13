@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/256f58e1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75937,
+  "IDcode": "JURA-124",
+  "title": "初撮り人妻ドキュメント第二章 有坂祥子",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/12/21/762958b2b7492d92cf1aad116c56d153.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75937",
+  "actresses": [
+    {
+      "name": "有坂祥子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75937&name=有坂祥子"
+    }
+  ]
+};

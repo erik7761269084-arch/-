@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/YAgSSJnr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73688,
+  "IDcode": "YMDD-161",
+  "title": "絶対にイヤと言わない騎乗位の天使は僕だけの従順いいなり彼女 望月りさ",
+  "publish_date": "2019-08-07",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "戏剧",
+    "中出",
+    "淫乱，真实",
+    "女上位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73688",
+  "actresses": [
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73688&name=望月理沙"
+    }
+  ]
+};

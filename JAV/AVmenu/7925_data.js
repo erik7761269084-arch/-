@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b4b1266d-70dd-417a-8400-ecc3e39919c9/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/7d9c73cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7925,
+  "IDcode": "FGAN-139",
+  "title": "傳聞中的信金銷售小姐會勾引顧客。用她的性感身體來換取顧客購買高價商品 ~ 潤うるる 花乃春日",
+  "publish_date": "2025-02-27",
+  "type": "有码",
+  "company": "萌眼社",
+  "genres": [
+    "後入",
+    "上門福利",
+    "劇情",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "美腿",
+    "女業務",
+    "形象俱樂部",
+    "女上位",
+    "短裙・迷你裙",
+    "肉絲",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "拜金女",
+    "艷遇",
+    "巨乳",
+    "美人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/c13ec14e-343b-4944-843b-0a08ee339eb5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/c13ec14e-343b-4944-843b-0a08ee339eb5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7925",
+  "actresses": [
+    {
+      "name": "潤うるる",
+      "img_url": "https://picture.yoshiclub.xyz/20240913/f5f40a41-e077-4fee-a83d-14a0e8c7b8b2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7925&name=潤うるる"
+    },
+    {
+      "name": "花乃春日",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/50537ab5-f6e1-415b-b2d0-9d7faa087eb5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7925&name=花乃春日"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240430/o0ajA99e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39461,
+  "IDcode": "4FCF9E3004E73DDD73C75DE0A09A1DB-0",
+  "title": "就像刚出炉的小雏仔，粉阴唇 丰满的蜜臀，白白嫩嫩的妹子可怜兮兮地被大鸡吧大叔狂卤内射",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39461",
+  "actresses": []
+};

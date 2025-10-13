@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/03/b68e9718/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113852,
+  "IDcode": "FC2-3191774",
+  "title": "爱笑女孩的第一次",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/03/73d65bcf8fa4e373db4fa09fcd40df91.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113852",
+  "actresses": []
+};

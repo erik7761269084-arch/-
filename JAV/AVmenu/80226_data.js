@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/a88e7414/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80226,
+  "IDcode": "ATID-487",
+  "title": "初アナル ザ ドキュメント 壮絶アナル処女喪失に絶句！ 碓氷れん",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "肛交",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/cd3bf7a68f6a8e778a1fe196954a231f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80226",
+  "actresses": [
+    {
+      "name": "碓冰莲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80226&name=碓冰莲"
+    }
+  ]
+};

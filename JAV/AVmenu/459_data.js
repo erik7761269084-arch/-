@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f38e1759-bfea-46a4-a7b0-5c3b063c1393/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 459,
+  "IDcode": "HEYZO-0548",
+  "title": "美癡女 - 女醫生的至極性感帶 ~ 黒木歩",
+  "publish_date": "2014-03-08",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "慾求不滿",
+    "女醫生",
+    "打手槍",
+    "勾引・誘惑",
+    "美腳",
+    "金髮",
+    "艷遇",
+    "癡女",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系"
+  ],
+  "description": "HEYZO-0548为HEYZO出品,2014年3月8日发行的無碼成人影片由黒木歩出演\n美痴女～女医が教える至極の性感帯～ - 宮村恋",
+  "cover_url": "https://picture.yoshiclub.xyz/20250114/75f38bf8-f446-4ed6-b1a1-097efe3dd642.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250114/75f38bf8-f446-4ed6-b1a1-097efe3dd642.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=459",
+  "actresses": [
+    {
+      "name": "黒木歩",
+      "img_url": "https://picture.yoshiclub.xyz/20250114/d6d90cb5-ace1-473f-b393-35cdde27806f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=459&name=黒木歩"
+    }
+  ]
+};

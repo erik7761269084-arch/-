@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fcaf3ba2-ae67-4709-87bb-c3c25bf2269b/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/28/a4fda63b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18723,
+  "IDcode": "STARS-913",
+  "title": "小仓由菜为你秘密表演！ ？甚至讓你連續追撃乳首折磨打手槍中出的美容院！ ！",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "黑絲",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "中出",
+    "風俗娘",
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230913/20230913041057937937.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230913/20230913041057937937.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18723",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18723&name=小倉由菜"
+    }
+  ]
+};

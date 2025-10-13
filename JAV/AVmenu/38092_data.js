@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221006/EA7501D74424C22D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38092,
+  "IDcode": "C50221B3B068A529CA1F3DFF3C8C-0840",
+  "title": "元カノ　フェラ　女子大生",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38092",
+  "actresses": []
+};

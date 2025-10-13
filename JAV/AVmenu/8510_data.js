@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/100f2f8a-b81b-411f-b8fd-b3ed51b9f689/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/c763cd50/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8510,
+  "IDcode": "ABF-198",
+  "title": "超清晰插入特寫 ~ 瀨緒凜",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "濕身",
+    "企畫",
+    "絕頂高潮",
+    "健身房",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "局部特寫",
+    "性感",
+    "運動女孩",
+    "少女",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "學校",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "無毛",
+    "泳裝",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/6264a2bd-3071-4bc7-9732-68a457dc6cb8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/6264a2bd-3071-4bc7-9732-68a457dc6cb8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8510",
+  "actresses": [
+    {
+      "name": "瀬緒凛",
+      "img_url": "https://picture.yoshiclub.xyz/20240801/8d1e6482-164e-4710-96c9-9492236d2c43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8510&name=瀬緒凛"
+    }
+  ]
+};

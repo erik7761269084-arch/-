@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/DnyoUuJV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73051,
+  "IDcode": "VEC-332",
+  "title": "母の親友 有坂深雪",
+  "publish_date": "2018-11-07",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/97931ca64438593d971aafadd6a9dec0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73051",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73051&name=有坂深雪"
+    }
+  ]
+};

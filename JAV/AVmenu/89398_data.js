@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231217/FMshxnsq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89398,
+  "IDcode": "STSK-095",
+  "title": "1週間ぶっかけ ムカつく女上司に毎日セクハラした記録映像",
+  "publish_date": "2023-10-05",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "业余",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/0c76490b1cb862e9f24f4070fbb6633f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89398",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89398&name=永野司"
+    }
+  ]
+};

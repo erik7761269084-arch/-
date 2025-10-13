@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/S3TBLxIy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68800,
+  "IDcode": "ROE-095",
+  "title": "母の柔肌 ～愛欲に溺れる母と息子の中出し交尾～ 水野優香",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "母亲",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68800",
+  "actresses": [
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68800&name=水野優香"
+    },
+    {
+      "name": "栗原良",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68800&name=栗原良"
+    }
+  ]
+};

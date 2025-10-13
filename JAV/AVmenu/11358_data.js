@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa7554c1-cd3d-4ce8-80a7-34a75df9632f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11358,
+  "IDcode": "SW-971",
+  "title": "新租的公寓裏的人妻喜歡用她們豐滿的乳溝和大屁股來挑釁我，不管我用大雞巴操了她們多少次，我都無法阻止",
+  "publish_date": "2024-10-10",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "鄰居",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/445699de-c78f-4863-ae75-ef81bdcbd0e2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/445699de-c78f-4863-ae75-ef81bdcbd0e2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11358",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/22/3695f874/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106399,
+  "IDcode": "HOKS-169",
+  "title": "現代肉欲劇場 義父と娘 母を抱いた父に抱かれる",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "淫乱，真实",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106399",
+  "actresses": [
+    {
+      "name": "市成心海",
+      "img_url": "https://picture.yoshiclub.xyz/20250113/82d9db53-16d6-46bf-956d-3a7768cde4aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106399&name=市成心海"
+    },
+    {
+      "name": "磐井玲子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106399&name=磐井玲子"
+    }
+  ]
+};

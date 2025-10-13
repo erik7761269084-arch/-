@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250409/eWvnYZCK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68905,
+  "IDcode": "MVSD-525",
+  "title": "【FANZA限定】彼女の妹は噂の爆乳グラビアアイドル たぷんたぷんのミルクタンクを暴走もみもみ中出し激ピストン！ 綾瀬こころ 生写真3枚付き",
+  "publish_date": "2022-10-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "偶像",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/b5c1657f4c7b07a1a9e37dec0d484c9d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68905",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68905&name=绫濑心"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68905&name=Qべぇ"
+    }
+  ]
+};

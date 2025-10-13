@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/9Hqt8XqQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80757,
+  "IDcode": "STARS-546",
+  "title": "敏感Gカップ美巨乳マニアMAXフルコース!おっぱいで10発させちゃいましたSpecial!! 朝田ひまり",
+  "publish_date": "2022-02-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/4ee316a4933d21ea586608610ee457ce.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80757",
+  "actresses": []
+};

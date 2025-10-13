@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/08/a3be7b7a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76941,
+  "IDcode": "MEYD-073",
+  "title": "愛する妻を信じていたのに 東凛",
+  "publish_date": "2015-10-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "出轨",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76941",
+  "actresses": [
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76941&name=东凛"
+    }
+  ]
+};

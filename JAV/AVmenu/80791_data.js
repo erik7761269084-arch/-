@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/8m2gXa1F/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80791,
+  "IDcode": "JUNY-057",
+  "title": "中学時代めちゃ巨乳と有名だったみそのが同窓会で終電を逃し僕の家に来て…より成長した爆乳とマ○コで精子を搾り取られ続けたボク 水原みその",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80791",
+  "actresses": []
+};

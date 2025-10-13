@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/12/f4268de5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82549,
+  "IDcode": "HND-813",
+  "title": "親不孝×NTR 昨晩家出した娘からウェイウェイ野郎共との中出し乱交ビデオが送られてきた最悪の日。 今井夏帆",
+  "publish_date": "2020-03-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "滥交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82549",
+  "actresses": [
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82549&name=市川润"
+    },
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82549&name=今井夏帆"
+    }
+  ]
+};

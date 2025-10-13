@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250420/ZWLLAQJF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68178,
+  "IDcode": "MEYD-768",
+  "title": "今天來肏爽射到我懷孕吧… 山口珠理",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "婆婆",
+    "中出",
+    "荡妇",
+    "乱伦",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68178",
+  "actresses": [
+    {
+      "name": "山口珠理",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/96fe89f5-9b81-4d84-8009-f9d78344c352.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68178&name=山口珠理"
+    },
+    {
+      "name": "岩沢香代",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/686dcb21-2726-4747-859a-5efb3f4de284_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68178&name=岩沢香代"
+    }
+  ]
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/413093c9-b9ce-4db3-b743-5227c6b4330d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13092,
+  "IDcode": "DLDSS-339",
+  "title": "因爲太大了插不進去…… 以前的女友都不行！峯玲子接受了一個太大而無法做愛的雞巴，但仍因無法控制的性交而射精 ~ 峯玲子",
+  "publish_date": "2024-08-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "嫂嫂",
+    "美腳",
+    "奇聞趣事",
+    "人妻",
+    "出軌",
+    "奇異的",
+    "NTR",
+    "短髮",
+    "大雞巴"
+  ],
+  "description": "DLDSS-339为DAHLIA出品,2024年8月22日发行的有碼成人影片由峰玲子出演\n玲子嫁給了一個有伴的男人，而她的公婆卻是處女，因為她因為他的大雞巴而無法發生性關係。知道這一點後，她在衝突中扮演了母親的角色，奪走了他的童貞，但玲子也沉浸在與大雞巴的性愛中，這是她以前從未經歷過的，因為強烈的性慾和無法控制的雞巴是典型的年輕人的。 「我的身體在尋找你的雞巴。」由於充滿陰道的大雞巴的刺激，玲子無法停止以女牛仔的姿勢騎行。我現在只能喜歡大雞巴了！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240726/20240726215417155155.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240726/20240726215417155155.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13092",
+  "actresses": [
+    {
+      "name": "峰玲子",
+      "img_url": "https://picture.yoshiclub.xyz/20240119/158ff95c-3563-48f9-97db-c3a2d564cf7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13092&name=峰玲子"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/143ab166/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60688,
+  "IDcode": "SKMJ-667",
+  "title": "仲良し兄妹がタオル一枚密着混浴！？せまーいお風呂で10年ぶりの裸のつきあいを徹底モニタリング！過激ミッションでみるみる勃起するデカチンに恥じらいながらも妹マ○コからは期待汁が止まらない！禁断の一線を越えた生ハメ中出しSEX！ パンティと生写真付き",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "乱伦",
+    "企画",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60688",
+  "actresses": []
+};

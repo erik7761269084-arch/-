@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220913/D5C0E48CFCA02A84/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64892,
+  "IDcode": "F6B8EBA8AEA272AE4E2ABDB32888C1CB",
+  "title": "居然在出差处与女上司住同房 新婚的我一整晚被当作性奴隶的逆NTR 凛音桃花",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64892",
+  "actresses": []
+};

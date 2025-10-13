@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/81d92c9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106913,
+  "IDcode": "GNAX-057",
+  "title": "夫には絶対見せられない白昼の絶叫熟練テクニックの不妊治療師に調教された巨乳妻彩奈リナ",
+  "publish_date": "2021-07-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/gnax057/gnax057pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106913",
+  "actresses": [
+    {
+      "name": "彩奈莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/72bb4b00-c5f3-40f8-a6d2-eb03c451b0f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106913&name=彩奈莉娜"
+    }
+  ]
+};

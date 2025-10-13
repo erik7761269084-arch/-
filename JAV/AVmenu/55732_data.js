@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/D5EEED78F25C63B1/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55732,
+  "IDcode": "A14B0928C2025947480E2F6C1D76240C",
+  "title": "土豪高级约啪服务S级外表清纯高素质美女白领无毛鲍鱼肥美啪啪啪内射白浆泛滥",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55732",
+  "actresses": []
+};

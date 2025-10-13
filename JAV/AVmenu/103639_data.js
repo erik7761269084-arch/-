@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240130/k9QkMHdO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103639,
+  "IDcode": "SIRO-5202",
+  "title": "思わず二度見してしまうほどのスレンダー美人OL！「バックで責められたい」と話すドMお姉さんは少し触れただけでビクビク反応してしまい... 【初撮り】ネットでAV応募→AV体験撮影 2095",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "无毛",
+    "姐姐",
+    "第一人称摄影",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103639",
+  "actresses": []
+};

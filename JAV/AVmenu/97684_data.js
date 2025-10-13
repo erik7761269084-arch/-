@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220416/01F601BFBF6517A7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97684,
+  "IDcode": "NHDTB-271",
+  "title": "親戚のエロガキ2人を預かった夜に川の字で両乳首を責められ発情3Pしてしまう叔母3",
+  "publish_date": "2019-05-23",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "乱伦",
+    "口交",
+    "企画",
+    "正太控",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97684",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97684&name=葵百合香"
+    },
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97684&name=吉永塔子"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97684&name=凛音とうか"
+    }
+  ]
+};

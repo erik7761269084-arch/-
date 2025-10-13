@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/13/c7155108/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90996,
+  "IDcode": "JUQ-392",
+  "title": "【FANZA限定】愛を確かめたくて妻と絶倫の後輩を2人きりにして3時間…抜かずの追撃中出し計16発で妻を奪われた僕のNTR話 水戸かな パンティと生写真付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90996",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90996&name=水户香奈"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90996&name=ニック"
+    }
+  ]
+};

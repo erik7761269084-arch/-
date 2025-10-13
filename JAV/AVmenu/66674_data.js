@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250428/C5SjjhLi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66674,
+  "IDcode": "GVG-870",
+  "title": "媽媽正太實話 寶田萌奈美",
+  "publish_date": "2019-05-16",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "母亲",
+    "正太控",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66674",
+  "actresses": []
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240713/NSVkui2G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97257,
+  "IDcode": "DVDMS-428",
+  "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 オフィス街で声をかけた才色兼備なインテリ秘書はノンストップで何度もイカされてもまんぐりポーズをキープできるのか！？ オマ○コとアナル丸出しの恥ずかしすぎる体勢で限界までイカされたハイスペックOLのオマ○コ…",
+  "publish_date": "2019-08-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "潮吹",
+    "业余",
+    "女优按摩棒",
+    "巨大阴茎",
+    "秘书",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97257",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230128/EAFF19F169E8A6EB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57716,
+  "IDcode": "9F5B7C581F3933238118E5329B9A19AE",
+  "title": "10mu 030410_01 地味目ですが脱いだらすごいんです 倉橋このか",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57716",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56493,
+  "IDcode": "A0DF62CFAF96CE988CF4AE932B76F2F3",
+  "title": "完全颜出し19歳スレンダーパイパン スジマン⑥ 野外露出で生中出し",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56493",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/639dba9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62205,
+  "IDcode": "RCTD-674",
+  "title": "ROCKET17周年記念ユーザーリクエスト祭り もしもTVの中に自由に飛び込んでブッカケできたら… 女子アナに顔射！リメイク どんな汚い顔になってもガマンしながら笑顔で生放送",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "颜射",
+    "企画",
+    "恋物癖",
+    "女主播",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/639dba9c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62205",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62205&name=星乃夏月"
+    },
+    {
+      "name": "羽田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/78479562-963b-4b13-8d06-54450800ebd8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62205&name=羽田真子"
+    }
+  ]
+};

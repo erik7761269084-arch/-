@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/18/d94ea3c8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82671,
+  "IDcode": "FSET-638",
+  "title": "これぞ興奮の真骨頂！ バレないように彼女の親友とこっそりヤル！12",
+  "publish_date": "2016-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "企画",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82671",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82671&name=通野未帆"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82671&name=花笑一杏"
+    },
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82671&name=水谷あおい"
+    }
+  ]
+};

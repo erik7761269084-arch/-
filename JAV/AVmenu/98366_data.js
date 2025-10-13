@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221230/AFB1418CB372FF8F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98366,
+  "IDcode": "BOKD-172",
+  "title": "オナ禁1ヶ月で全身性感帯になった美しすぎるニューハーフの馬並み発射！ 滝沢レマ",
+  "publish_date": "2020-02-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "肛交",
+    "变性者",
+    "女装人妖",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98366",
+  "actresses": [
+    {
+      "name": "滝沢レマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98366&name=滝沢レマ"
+    }
+  ]
+};

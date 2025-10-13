@@ -1,0 +1,27 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58659,
+  "IDcode": "HEYZO2132",
+  "title": "秋山佳苗突然ですが！ボクの粗チン见ませんか？",
+  "publish_date": "2019-11-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "口爆/吞精",
+    "出轨",
+    "熟女",
+    "美乳",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58659",
+  "actresses": []
+};

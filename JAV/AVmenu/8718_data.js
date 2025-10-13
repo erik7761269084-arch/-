@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/615e0854-aa66-47d7-94ff-3c8f467add3e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8718,
+  "IDcode": "ABF-196",
+  "title": "絕頂氣質美人 ~ 釋愛麗絲",
+  "publish_date": "2025-01-30",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/474d520b-d0b8-45e4-994b-fdcfd9c0ac0d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/474d520b-d0b8-45e4-994b-fdcfd9c0ac0d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8718",
+  "actresses": [
+    {
+      "name": "釋愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240905/23a6ce3c-7f5a-4b46-a798-0f228eebb176.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8718&name=釋愛麗絲"
+    }
+  ]
+};

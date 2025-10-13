@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/19/8f29dae7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78566,
+  "IDcode": "MWNQ-001",
+  "title": "喉奥ドM田舎少女調教 小磯さちこ",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "制服",
+    "吞精",
+    "深喉",
+    "运动短裤",
+    "迷你裙",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78566",
+  "actresses": [
+    {
+      "name": "小磯さちこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78566&name=小磯さちこ"
+    }
+  ]
+};

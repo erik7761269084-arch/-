@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/DBG58c9r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86784,
+  "IDcode": "ATID-457",
+  "title": "牝墮女體化 朋友成為女人後強暴了她 深田詠美",
+  "publish_date": "2021-04-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "凌辱",
+    "调教",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86784",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86784&name=深田詠美"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86784&name=蓝井优太"
+    }
+  ]
+};

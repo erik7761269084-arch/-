@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/002a9725-f876-4bbc-bb45-c0c5b870a52f/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/pfLPx4VR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14556,
+  "IDcode": "SDJS-259",
+  "title": "制作部一年生水谷いずみ（21歲） 休息日突然衝進她父母家！就算哥哥知道了，也不會停止在屋子裏做的！ ！",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "OL",
+    "制服",
+    "素人",
+    "口交",
+    "女同事",
+    "羞恥"
+  ],
+  "description": "SDJS-259为SOD出品,2024年6月1日发行的有碼成人影片由水谷いずみ出演\n他們以調查女員工假期為幌子，週末突襲水穀父母家！她拼命抗拒突如其來的造訪，但當她得知自己仰慕的男演員就在那裡時，他決定帶她去他家！客廳、浴室、水穀的房間…房子裡到處都是性愛和潮吹！發生了一次他自己的兄弟回家後被發現的事件，但拍攝仍在繼續。把每個人的精子都捕捉到你的陰道！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240521/0e26f0cb-17cb-4b29-ad52-1d55d8a28ecb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240521/0e26f0cb-17cb-4b29-ad52-1d55d8a28ecb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14556",
+  "actresses": [
+    {
+      "name": "水谷いずみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/6c1fe51f-39a7-4501-8d05-d964b77fa8ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14556&name=水谷いずみ"
+    }
+  ]
+};

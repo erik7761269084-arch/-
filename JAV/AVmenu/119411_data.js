@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221228/BB9EA73CBA3A726D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119411,
+  "IDcode": "FC2-1197861",
+  "title": "[无码流出] 小岛流出(3) DV-1326 爱丽丝日本独家女星小岛南的超豪华香皂！",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119411",
+  "actresses": []
+};

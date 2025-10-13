@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240608/F8y09Rg2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91824,
+  "IDcode": "JUQ-591",
+  "title": "ママ友に誘われたマッチングアプリで、‘推しの年下’を一緒に甘く飼い慣らす。（JUQ-591）",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "多P",
+    "出轨",
+    "M男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91824",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91824&name=椎名由奈"
+    },
+    {
+      "name": "五十嵐美月",
+      "img_url": "https://picture.yoshiclub.xyz/20240707/0230a6ef-83b4-4c2e-aa3c-129cb19f7541.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91824&name=五十嵐美月"
+    }
+  ]
+};

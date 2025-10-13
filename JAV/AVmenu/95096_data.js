@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/85f63aa1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95096,
+  "IDcode": "NACX-145",
+  "title": "未亡人の義母と嫁の留守を狙い禁断の中出し性交5人VOL.02 （BOD）",
+  "publish_date": "2024-11-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "婆婆",
+    "中出",
+    "寡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95096",
+  "actresses": [
+    {
+      "name": "久保今日子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-久保今日子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95096&name=久保今日子"
+    },
+    {
+      "name": "加山なつ子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/1855e6b0-af8c-48bc-988d-59e26c269961_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95096&name=加山なつ子"
+    },
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95096&name=音羽文子"
+    },
+    {
+      "name": "円城ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95096&name=円城ひとみ"
+    },
+    {
+      "name": "柏木舞子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95096&name=柏木舞子"
+    }
+  ]
+};

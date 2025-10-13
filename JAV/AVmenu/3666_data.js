@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/925e6943-7e5a-4f5e-97db-58d3e7629ee2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/27/f36b8da3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3666,
+  "IDcode": "ALDN-491",
+  "title": "同事的性感前妻 離婚後每次都求我內射的超欲女 ~ 都月楓",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "同事女友・妻子",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "4K",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "無毛"
+  ],
+  "description": "ALDN-491为TAKARA出品,2025年8月8日发行的有碼成人影片由都月楓出演\n在交友APP上意外邂逅前同事的離婚前妻，一見鍾情後直接升級成內射關係的激情戀情！但隨著深入了解，發現她骨子裡就是個超級淫蕩的女人，男主也逐漸真心愛上了這樣的她。然而她的變態程度遠不止如此，最愛的癖好就是勾引男人後，當著他們的面炫耀自己的性愛技巧，真的讓人慾罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093418897897_78933_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093418897897_78933_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3666",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3666&name=都月楓"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3666&name=ひょこり"
+    }
+  ]
+};

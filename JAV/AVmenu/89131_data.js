@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/micKuBYA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89131,
+  "IDcode": "WA-509",
+  "title": "素人妻ナンパ全員生中出し5時間セレブDX 88",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/7fa078600d72ad858625a4f409b508c3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89131",
+  "actresses": []
+};

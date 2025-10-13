@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/53d1f740-8183-4855-a6f3-e628ec3157aa/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 895,
+  "IDcode": "HEYZO-1120",
+  "title": "HAMEZO ～奇聞趣事收藏～ vol.33 - 夏目綾",
+  "publish_date": "2016-03-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出",
+    "潮吹",
+    "素人",
+    "打手槍",
+    "辣妹/GAL系"
+  ],
+  "description": "HEYZO-1120为HEYZO出品,2016年3月27日发行的無碼成人影片\nHAMEZO～ハメ撮りコレクション～vol.33 - 夏目あや",
+  "cover_url": "https://picture.yoshiclub.xyz/20240424/202404232224081818.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240424/202404232224081818.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=895",
+  "actresses": []
+};

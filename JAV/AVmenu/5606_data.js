@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/03715b4f-396b-4f3d-a031-d69df19d50e1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5606,
+  "IDcode": "START-300",
+  "title": "禁慾和服尤物 汗水潮吹愛液狂飆的極致性愛 ~ 矢埜愛茉",
+  "publish_date": "2025-06-03",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "和服・浴衣・喪服",
+    "流汗",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "溫泉",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "START-300为SOD出品,2025年6月3日发行的有碼成人影片由矢埜愛茉出演\n矢埜愛茉首次解鎖超淫蕩肉慾玩法，憋了一個月禁慾後直接爆發，渾身抽搐汁水橫流，爽到大絕頂！慾望炸裂，猛烈活塞抽插讓她蝦弓高潮，抖個不停！最後還有連續高潮4P追擊，濕透到洪水氾濫，真的不要太刺激，趕快來看啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085831465465_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085831465465_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5606",
+  "actresses": [
+    {
+      "name": "矢埜愛茉",
+      "img_url": "https://picture.yoshiclub.xyz/20240206/49794802-ee93-4341-8ad7-2d5f4e8de90f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5606&name=矢埜愛茉"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/0034f5a5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100658,
+  "IDcode": "SSIS-685",
+  "title": "極上美女と湯けむりとセックスと 河北彩花",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗条",
+    "口交",
+    "薄马赛克",
+    "接吻",
+    "浴衣",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/10/8e5775ac0cbfbef07e0cd1d457834461.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100658",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100658&name=河北彩花"
+    }
+  ]
+};

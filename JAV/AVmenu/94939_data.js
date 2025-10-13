@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241107/Ov8mwvsR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94939,
+  "IDcode": "IPX-410CN",
+  "title": "IPX410CN「トロけるくらいキスしてあげる&amp;hellip;」中年好き小悪魔制服少女のべろキス誘惑もなみ鈴.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241108-1/9dcb2fd1968282d066c03b080de5d6d3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94939",
+  "actresses": []
+};

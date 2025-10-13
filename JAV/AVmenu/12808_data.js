@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9e053568-9248-49d6-81c4-3f1888749e12/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/28/6fb7fbdc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12808,
+  "IDcode": "JUQ-835",
+  "title": "無法控制的絕倫交尾，兒子的朋友一直中出內射我...... ~ 椎名由奈",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "偷竊",
+    "熟女",
+    "儿子的朋友"
+  ],
+  "description": "JUQ-835为MADONNA出品,2024年8月13日发行的有碼成人影片由椎名由奈出演\n最近無性失意的尤奈得知兒子的好友光介與自己自慰後，偷偷地接他…浩介是個勢不可擋的傢伙，射精一兩次後就不會褪色。起初，尤娜幾乎每天都享受被強暴的樂趣，但漸漸地她開始感受到自己的極限。即便如此，浩介還是繼續拼盡全力讓她射精，她的身體終於達到了極限，發出尖叫聲…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809002208345345.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240809/20240809002208345345.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12808",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12808&name=椎名由奈"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12808&name=日森一"
+    }
+  ]
+};

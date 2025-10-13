@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3f1d1398-3ae4-4a96-9840-14264cc80611/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19351,
+  "IDcode": "IPX-095",
+  "title": "高傲女社長肉棒監禁調教！",
+  "publish_date": "2018-02-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "調教",
+    "強姦",
+    "監禁",
+    "輪姦",
+    "數位馬賽克"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230528/202305280259482424.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230528/202305280259482424.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19351",
+  "actresses": [
+    {
+      "name": "有原あゆみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/f7a5b2c5-6925-479a-bafc-69963ada41c8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19351&name=有原あゆみ"
+    }
+  ]
+};

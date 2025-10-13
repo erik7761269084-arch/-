@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230601/v4npoTpf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87006,
+  "IDcode": "KH-001",
+  "title": "一般主婦 ごくごくフツーの近所に住んでる奥さんのお下劣な変態姿 7人のちょっと綺麗な一般主婦をAV女優みたいに撮ってみた",
+  "publish_date": "2017-03-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "已婚妇女",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87006",
+  "actresses": []
+};

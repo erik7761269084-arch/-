@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/IXGvzlBl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83242,
+  "IDcode": "UMSO-287",
+  "title": "爆乳女子特有の肩こりの悩みを解決する！？マッサージ店のおっぱいもみほぐし治療！！VOL.06",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "姐姐",
+    "恋乳癖",
+    "OL",
+    "超乳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/906ad30b93b94918e99fd87dac4d0a67.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83242",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83242&name=凛音とうか"
+    },
+    {
+      "name": "水澄光",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/b0d45a63-b2a9-48c6-8554-bd08228493e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83242&name=水澄光"
+    },
+    {
+      "name": "逢澤理衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/7a596a53-16e7-4d13-9446-cdb1739a0c79_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83242&name=逢澤理衣奈"
+    },
+    {
+      "name": "优木いおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83242&name=优木いおり"
+    }
+  ]
+};

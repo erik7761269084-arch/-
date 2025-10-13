@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/05/53c3b58d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71327,
+  "IDcode": "GTJ-065",
+  "title": "串刺し拷問 宮崎あや",
+  "publish_date": "2018-10-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "萝莉塔",
+    "凌辱",
+    "捆绑",
+    "SM",
+    "洗澡"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/03/05/242083ceab11e20c9d013b11de6700cf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71327",
+  "actresses": [
+    {
+      "name": "宫崎彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/5391bf25-c850-4c23-8f3b-e8947519f2bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71327&name=宫崎彩"
+    }
+  ]
+};

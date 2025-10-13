@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/889a2956-0d7a-41ab-adfa-18e5848d8b21/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/16/382463f9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16491,
+  "IDcode": "MIDV-618",
+  "title": "令人垂涎欲滴的全套課程，有一個美麗的女孩一心惠裏香和一個有錢的老男人",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "警察制服",
+    "3P・4P",
+    "老頭子",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "性感",
+    "舔陰",
+    "多P",
+    "唾液敷面",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "飯店"
+  ],
+  "description": "MIDV-618为MOODYZ出品,2024年2月6日发行的有碼成人影片由一心惠里香出演\n【H罩杯現役女大學生一心惠裏香與年長男人交換體液，恩愛接吻做愛！ 】 口水全部咽下去！女大學生的舌頭糾纏在一起，嘴裏充滿了陰液！就連光頭老頭也是神採飛揚！制服舔舌頭帶着調皮氣息！秀出H罩杯美乳搖曳生姿，誘惑你！與 老男人深吻 3P 性愛！喝光老爺子口水，三度高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240202/202402020914136060.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240202/202402020914136060.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16491",
+  "actresses": [
+    {
+      "name": "一心惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/7e062e7e-ef30-47f1-8b6c-eec6dc9a3cd7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16491&name=一心惠里香"
+    }
+  ]
+};

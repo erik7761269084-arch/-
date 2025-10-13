@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/KHhl2EtO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72887,
+  "IDcode": "SSNI-166",
+  "title": "寝ている夫のすぐそばで義父に毎晩犯され続けるセレブ巨乳妻 明日花キララ （ブルーレイディスク）",
+  "publish_date": "2018-03-30",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "强奸",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/e0e718e260501978518f33a98e183d35.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72887",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72887&name=明日花綺蘿"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72887&name=大岛丈"
+    }
+  ]
+};

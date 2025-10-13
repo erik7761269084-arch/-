@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/6sjpIt6y/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68419,
+  "IDcode": "SDMF-025",
+  "title": "桃色家族VOL.27 三葉芹",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "乱伦",
+    "制服",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250411-1/c8e5b7e97dab4088202ee721b6945b3b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68419",
+  "actresses": [
+    {
+      "name": "三葉せり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68419&name=三葉せり"
+    }
+  ]
+};

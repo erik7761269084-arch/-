@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de679d56-3f51-4dc3-814d-1d165888086b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/72add875/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4542,
+  "IDcode": "MIKR-028",
+  "title": "你是正職員工對吧？被性騷擾女上司用淫語訓話和美腿調教狂榨精加班的悲慘社畜 ~ 白岩冬萌",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "辦公室",
+    "美人",
+    "阪道系",
+    "職場",
+    "女上司",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "MIKR-028为MOODYZ出品,2025年7月11日发行的有碼成人影片由 白岩冬萌出演\n從約聘工爬上正職員工寶座的超級能幹女上司白岩，效率至上，對我這種老是失誤的廢柴下屬毫不手軟，罵我沒責任心，訓到我頭都要炸了……為了紓解壓力和慾望，她用甜膩又陰暗的淫語調教，還用足交瘋狂榨精，把我當工具人使喚，簡直就是個性慾怪物上司啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031431135135_98002_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031431135135_98002_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4542",
+  "actresses": [
+    {
+      "name": "白岩冬萌",
+      "img_url": "https://picture.yoshiclub.xyz/20241012/d4384490-de7d-4f8b-ad6e-1220d030330e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4542&name=白岩冬萌"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4542&name=いち"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6110685a-68af-44dc-bb8d-e67082aac648/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18634,
+  "IDcode": "IPX-678",
+  "title": "不貞色之戀 與打工處人妻沉溺中出不倫性愛",
+  "publish_date": "2021-06-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR",
+    "眼鏡"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230920/20230920224640933933.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230920/20230920224640933933.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18634",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18634&name=岬奈奈美"
+    },
+    {
+      "name": "結城結弦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18634&name=結城結弦"
+    }
+  ]
+};

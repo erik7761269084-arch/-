@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/11/4cf1a65a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82249,
+  "IDcode": "CAWD-037",
+  "title": "はじめての中出し解禁♪人生初のノンストップ10連発SEX 桜もこ",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "吞精",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82249",
+  "actresses": [
+    {
+      "name": "櫻萌子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-桜もこ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82249&name=櫻萌子"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82249&name=イセドン内村"
+    }
+  ]
+};

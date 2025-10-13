@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/17/e784fe45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69163,
+  "IDcode": "SAME-039",
+  "title": "SAME-039",
+  "publish_date": "2022-12-30",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250330-1/d7989fa5e8bd05997c6c379bfab0aea4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69163",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69163&name=鳳美優"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69163&name=田渊正浩"
+    }
+  ]
+};

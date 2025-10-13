@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/ruXUt26o/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90555,
+  "IDcode": "OPPW-155",
+  "title": "新宿NO.1 Barで働くニューハーフ嬢 平手志帆梨",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "肛交",
+    "羞耻",
+    "变性者",
+    "礼仪小姐",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90555",
+  "actresses": [
+    {
+      "name": "平手志帆梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90555&name=平手志帆梨"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/16/2a75c7c3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103697,
+  "IDcode": "RBD-160",
+  "title": "貞操帶之女 10 大橋未久",
+  "publish_date": "2009-08-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "颜射",
+    "和服，丧服",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/11/bc64f03cc7c5c48390b712a085e04aaf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103697",
+  "actresses": [
+    {
+      "name": "大橋未久",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/aefa0263-2d5a-41aa-97a2-298dcc454fc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103697&name=大橋未久"
+    }
+  ]
+};

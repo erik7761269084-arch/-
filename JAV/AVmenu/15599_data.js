@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bb5db9f1-393b-413e-94be-ded1c2567d87/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/03/205a988e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15599,
+  "IDcode": "IPZZ-246",
+  "title": "NTR 女友在大學社團酒會上被渣男逼喝酒，喝醉了被操。桃乃木香奈",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "多P",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "美少女電影",
+    "同學",
+    "飯店"
+  ],
+  "description": "IPZZ-246为IDEA POCKET出品,2024年4月9日发行的有碼成人影片由桃乃木香奈出演\n我以為這些天在網路上常看到的那種「戴綠帽」與我無關。我和加奈是大學二年級的學生。距離我們開始約會已經整整一年了。我們已經同居快半年了。她美麗、可愛、善良、身材很好，我現在是最幸福的。 ……我很高興……就是這樣！無論如何！我不敢相信竟然發生了這樣的事...那天我偶然看到了圈酒會的影片…裡面有她不可思議的畫面…她被裸體男人包圍，高興地吸吮雞巴。她輪流將雞巴插入她的體內，並以一張阿赫高的臉一遍又一遍地射精。我非常沮喪和沮喪，無法原諒也不想原諒，但出於某種原因，我被我戴綠帽勃起的影片所激發。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405070724846846.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405070724846846.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15599",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15599&name=桃乃木香奈"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15599&name=Qべぇ"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15599&name=まーち"
+    },
+    {
+      "name": "みけだ実希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15599&name=みけだ実希"
+    }
+  ]
+};

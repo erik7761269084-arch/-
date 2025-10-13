@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230209/75D303A4F12ACB10/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99511,
+  "IDcode": "HBAD-250",
+  "title": "純朴な娘は義父に犯されても母にも言えず、性的悪戯をくり返され、性欲処理娘にされてしまう 鈴木心葉",
+  "publish_date": "2014-04-24",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "强奸",
+    "羞耻",
+    "企画",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99511",
+  "actresses": []
+};

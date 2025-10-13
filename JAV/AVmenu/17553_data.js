@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0c3b14d3-0989-4f87-b221-c8efbe4d7c59/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250412/Md7HWCb9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17553,
+  "IDcode": "IPX-955",
+  "title": "我的妻子與實習生出軌了",
+  "publish_date": "2022-11-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "劇情",
+    "中出",
+    "口交",
+    "性感",
+    "人妻",
+    "辦公室",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231128/df093f05-c91c-4319-ab0b-41b96da8a85d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231128/df093f05-c91c-4319-ab0b-41b96da8a85d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17553",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17553&name=希島愛理"
+    }
+  ]
+};

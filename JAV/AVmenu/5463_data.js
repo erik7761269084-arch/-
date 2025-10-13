@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/75596f49-74fd-47e0-bffa-35d4b2a7913b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/d143eef4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5463,
+  "IDcode": "NGOD-270",
+  "title": "手機掉落的女上司 被汗臭工人骯髒大棒征服的才女人妻 ~ 波多野結衣",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "三十路",
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "阪道系",
+    "職場",
+    "女上司",
+    "熟女",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "羞恥",
+    "芸能人"
+  ],
+  "description": "NGOD-270为卍GROUP出品,2025年6月6日发行的有碼成人影片由波多野结衣出演\n每天都幹練俐落地處理工作的才色兼備女上司波多野結衣，某天上班路上不小心弄丟了手機，心裡直犯愁：「哎呀，到底掉到哪去了…」職場上她是個超能幹的菁英女強人，但私下手機裡卻存了不少「超級私密的羞羞小秘密」。結果，這台滿載人妻隱私的手機，竟然被一個滿身汗臭、邋遢不堪的工人大叔撿到了…後面會發生啥事，懂的都懂，嘿嘿！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045833750750_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045833750750_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5463",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5463&name=波多野结衣"
+    },
+    {
+      "name": "青沼",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5463&name=青沼"
+    }
+  ]
+};

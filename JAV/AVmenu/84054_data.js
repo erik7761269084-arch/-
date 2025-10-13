@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230104/DSt7hEB0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84054,
+  "IDcode": "BLK-577",
+  "title": "TOKYOストナンプロフェッショナル 体育大生のギャラ飲み大好き20歳・エリカちゃんと弾丸即パコ！！",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "女生",
+    "业余",
+    "猎艳",
+    "靴子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84054",
+  "actresses": []
+};

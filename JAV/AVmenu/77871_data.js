@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/YaNXlOBx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77871,
+  "IDcode": "JUY-499",
+  "title": "隣の人妻は、休日はいつもノーブラ。 マドンナ専属《巨乳》No，1美熟女 第5弾！！ 森ほたる",
+  "publish_date": "2018-05-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "数位马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77871",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77871&name=小田切ジュン"
+    },
+    {
+      "name": "森萤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77871&name=森萤"
+    }
+  ]
+};

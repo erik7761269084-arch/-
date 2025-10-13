@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103082,
+  "IDcode": "MIDD-634-",
+  "title": "家庭教師レズビアン 年の差を越えた禁断の愛 北条麻妃 松乃涼",
+  "publish_date": "2010-06-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "成熟的女人",
+    "女同性恋",
+    "数位马赛克",
+    "女同接吻",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103082",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103082&name=北条麻妃"
+    },
+    {
+      "name": "松乃凉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103082&name=松乃凉"
+    }
+  ]
+};

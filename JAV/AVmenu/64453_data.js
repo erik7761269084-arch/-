@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220708/FFFF46457AF70C3F/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64453,
+  "IDcode": "D92B0FB1051D954133AE36882FD85F-18",
+  "title": "- エレベーターの故障で2人っきり… 汗だく密着性交 波多野結衣 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64453",
+  "actresses": []
+};

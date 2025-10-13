@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241003/GNklJe4U/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93034,
+  "IDcode": "NUKA-56-C",
+  "title": "抜かずの六発中出し 近親相姦密着交尾",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93034",
+  "actresses": []
+};

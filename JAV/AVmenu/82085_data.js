@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221106/tpwkrMtt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82085,
+  "IDcode": "TCD-247",
+  "title": "ニューハーフ強●ドM化実験 被験者＃01 さくや",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "荡妇",
+    "肛交",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82085",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82085&name=小泉真理"
+    },
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82085&name=雨村梨花"
+    }
+  ]
+};

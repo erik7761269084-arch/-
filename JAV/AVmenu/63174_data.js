@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/081fb4cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63174,
+  "IDcode": "DASS-693",
+  "title": "媚薬で容赦なくド変態だと絶頂らされたニューハーフ。雄ち〇ぽ汁ダダ漏れ確定。 柊かな",
+  "publish_date": "2025-07-08",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "潮吹",
+    "变性者",
+    "女装人妖",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63174",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63174&name=タイ"
+    },
+    {
+      "name": "柊かな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63174&name=柊かな"
+    }
+  ]
+};

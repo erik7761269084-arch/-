@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae3aed64-c1d2-49ca-a24d-9a98b17e1f0b/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/03/790e1374/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16663,
+  "IDcode": "JUQ-533",
+  "title": "我通過內射強奸懲罰我兒媳，變成了一個聽話的人妻",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "調教",
+    "乳交",
+    "中出",
+    "美乳",
+    "口交",
+    "自宅",
+    "強姦",
+    "公公",
+    "兒媳",
+    "接吻",
+    "人妻",
+    "手指插入",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-533为MADONNA出品,2024年1月30日发行的有碼成人影片由栗山莉緒出演\n有一天，我親眼目睹了我兒子的妻子慄山莉緒不忠。她和兒子結婚三年了，雖然一直盡心盡責地做家務，但卻表現出粗暴的樣子，經常遲到回家。爲我兒子着想，我詢問了慄山莉緒，她似乎態度開放，否認出軌。當我生氣並從慄山莉緒的智能手機中發現不忠的證據時，我爲我兒子不平，也爲兒子的妻子感到興奮，而直到現在我才意識到這一點。我決定好好訓練這個不忠的妻子，把她變成一個聽話的妻子……\n有一天，我親眼目睹了我兒子的妻子慄山莉緒不忠。她和兒子結婚三年了，雖然一直盡心盡責地做家務，但卻表現出粗暴的樣子，經常遲到回家。爲我兒子着想，我詢問了慄山莉緒，她似乎態度開放，否認出軌。當我生氣並從慄山莉緒的智能手機中發現不忠的證據時，我爲我兒子不平，也爲兒子的妻子感到興奮，而直到現在我才意識到這一點。我決定好好訓練這個不忠的妻子，把她變成一個聽話的妻子……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240120/20240120062248653653.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240120/20240120062248653653.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16663",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16663&name=栗山莉緒"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16663&name=大岛丈"
+    },
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16663&name=栗山莉绪"
+    }
+  ]
+};

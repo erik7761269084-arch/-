@@ -1,0 +1,38 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2244,
+  "IDcode": "NACT-023",
+  "title": "熟女肉體火力全開，色技爆棚！超強宅男拯救大師 ~ 井上綾子",
+  "publish_date": "2025-10-04",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "4K",
+    "老太婆",
+    "美乳",
+    "女上位",
+    "五十路",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "單體作品",
+    "手指插入",
+    "熟女",
+    "宅男・宅女"
+  ],
+  "description": "NACT-023为PLANETPLUS出品,2025年10月4日发行的有碼成人影片由井上綾子出演\n這次我們近距離跟拍了超厲害的宅男支援專家井上綾子！她對那些不敢出門的宅男可謂是貼心到不行，啥需求都能滿足！這次的對象是一個一年多沒踏出家門的兄弟，井上姐使出渾身解數，從溫柔安撫到膝枕關懷，甚至連那種羞羞的事情都不拒絕！為了幫他找回自信，各種要求她都來者不拒，簡直是色氣爆表的救贖之旅！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251005/20251005004450345345_36868_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251005/20251005004450345345_36868_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2244",
+  "actresses": [
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2244&name=井上綾子"
+    }
+  ]
+};

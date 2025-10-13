@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfc8bc99-c3ec-4259-8ad1-4a377f774cf9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/01/09b750ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11159,
+  "IDcode": "ROYD-205",
+  "title": "父母都不在的時候，青梅竹馬的小櫻來我家裏住。巨乳的她比我想象的還要成熟性感 ~ 胡桃櫻花",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "ROYD-205为HUNTER出品,2024年10月22日发行的有碼成人影片由胡桃櫻花出演\n浴缸裡突然出現了青梅竹馬的巨乳好友，一下子就接近她了！小櫻決定在她父母外出旅行期間住在我家。我的父母因為有緊急事務而外出，夜晚就只有我們兩個人開始。一起洗澡、一起睡覺，從小到大都是司空見慣的事，現在卻感覺怪怪的尷尬。然後，在一個不眠之夜，小櫻走近我，我們互相撫摸…一段懷舊與興奮交織的青春之旅！一旦他們發現有什麼頑皮的事情，即使父母在場，他們也不會停止！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017092537913913.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017092537913913.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11159",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11159&name=胡桃櫻花"
+    }
+  ]
+};

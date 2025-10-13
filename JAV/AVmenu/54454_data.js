@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220715/C5CAE1B559AB2DE7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54454,
+  "IDcode": "67FDAC835B57E5834807087A7A64345B",
+  "title": "AVに興味があって応募しました",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54454",
+  "actresses": []
+};

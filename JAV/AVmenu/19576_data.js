@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230407/c729e05d-d7a4-422b-aaf7-8adad4171b96/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19576,
+  "IDcode": "IPZ-508",
+  "title": "不道德的牢籠 - 禁止監禁和強迫交換攻擊兩對幸福的夫婦",
+  "publish_date": "2015-01-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "亂交 • 群P",
+    "強姦",
+    "監禁",
+    "輪姦",
+    "數位馬賽克",
+    "人妻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230407/20230407090039110110.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230407/20230407090039110110.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19576",
+  "actresses": [
+    {
+      "name": "愛田奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/9c636c74-8383-4e0c-917e-58a82c691db6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19576&name=愛田奈々"
+    },
+    {
+      "name": "美波娜美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-美波なみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19576&name=美波娜美"
+    }
+  ]
+};

@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f87098af-c825-4d9f-aa3d-fcd14f45b38f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/f3e65fc1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10619,
+  "IDcode": "MIDV-923",
+  "title": "俱樂部的絕倫巨乳性欲處理肉使器，我的陰道每天都被隊員無償使用，每天都因高潮而暈倒 ~ 水卜櫻",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "大亂交",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "運動服裝",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "運動女孩",
+    "少女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美少女",
+    "明星臉",
+    "體育舘",
+    "更衣室",
+    "清純",
+    "巨乳",
+    "猥褻穿著",
+    "M男・M女",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIDV-923为MOODYZ出品,2024年11月19日发行的有碼成人影片由水卜櫻出演\n[超能力輪姦15射精為無辜的苗條大胸經理！ ] 小櫻是一家著名橄欖球俱樂部的經理，每天努力工作來支持她的會員，但他們的興趣卻轉向了她美麗的白色身體。最終，她被性慾爆炸的強者強暴了！無法拒絕的膽怯小櫻每天用自己的陰戶和巨乳擠出大量精子作為性慾處理MG！她因俱樂部成員的極端活塞而忘記發球並暈倒！我們將繼續作為一個團隊，與隨時可以操的最好的肉小便池一起戰鬥...",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114074850254254.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114074850254254.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10619",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10619&name=水卜櫻"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10619&name=七尾神"
+    }
+  ]
+};

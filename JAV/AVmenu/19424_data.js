@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230512/5cd289c0-4a25-4f78-bc6b-b16885f3e99e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19424,
+  "IDcode": "IPX-012",
+  "title": "高潮覺醒－美女性感區發達！強行叫醒安奶咲沉睡的性愛！",
+  "publish_date": "2017-09-23",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "拘束・拷問",
+    "潮吹",
+    "多P",
+    "數位馬賽克",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512212121287287.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/20230512212121287287.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19424",
+  "actresses": [
+    {
+      "name": "美国沙耶",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/b80f696f-c0f8-4f73-8eb5-4be70d01181b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19424&name=美国沙耶"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19424&name=森林原人"
+    }
+  ]
+};

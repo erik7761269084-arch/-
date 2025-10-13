@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/29/481833b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104665,
+  "IDcode": "SDDE-406",
+  "title": "溜った精子は貴金属と同じ！オマ○コの奥深く預金出来る。ぐちょぐちょ 真正中出し ごっくん銀行",
+  "publish_date": "2015-06-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "各种职业",
+    "制服",
+    "吞精",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/29/f0fdf897e16987da35670086e0b8b3e8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104665",
+  "actresses": [
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104665&name=羽月希"
+    },
+    {
+      "name": "小野麻里亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240717/e7bc9a24-4a32-406f-bc65-1ddf9f91c221.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104665&name=小野麻里亜"
+    },
+    {
+      "name": "二宫ナナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104665&name=二宫ナナ"
+    },
+    {
+      "name": "原羽瑠",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104665&name=原羽瑠"
+    }
+  ]
+};

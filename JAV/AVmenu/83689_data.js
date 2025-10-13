@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221230/E5D4uK9N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83689,
+  "IDcode": "MMB-294",
+  "title": "過激すぎるメンズエステワゴンがやって来た！本番以外は何でもアリだったハズ、でも時に先っぽだけは…",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "按摩",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83689",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83689&name=神宫寺奈绪"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83689&name=浜崎真绪"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83689&name=君岛美绪"
+    }
+  ]
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4194cc7-e581-414b-b5ab-55f7204256db/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/07/16/acbabb13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7622,
+  "IDcode": "SSNI-589",
+  "title": "三上悠亞全力以赴的高潮騎乘位狂熱 ~ 三上悠亞",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "SSNI-589为S1出品,2019年10月19日发行的有碼成人影片由三上悠亜出演\n「你看，我的小穴裡面，都能清晰的看到……」國民偶像的魄力！女牛仔狂人！徹底展現臀部360°前後左右搖晃的角度！她用盡全身力氣搖晃著纖腰和豐臀！當她吸吮陰莖時，牛仔式的狂野舞蹈！射精後也不會停止的高速研磨！ ！神聖的角度，展現讓人高潮的驚艷細腰與臀部！噴出高潮液後仍持續進行的激烈工作！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312044259959959.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250312/20250312044259959959.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7622",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7622&name=三上悠亜"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/64e8c4d1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82612,
+  "IDcode": "GS-203",
+  "title": "夏休み 暑くてパンツ丸出しで寝ている妹。その汗ばんだ胸元や股間にソソられ思わず勃起！我慢も限界！！寝がえりを打つたびに食い込むメコスジに勃起チ○ポを擦りつけていると…パンツの上から半分入っちゃった！？",
+  "publish_date": "2018-08-01",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "乱伦",
+    "企画",
+    "妹妹",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82612",
+  "actresses": []
+};

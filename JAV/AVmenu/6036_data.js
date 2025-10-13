@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23f704e1-fbbd-4af1-bc34-f166db0c6eb3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/2b8972c3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6036,
+  "IDcode": "MFYD-005",
+  "title": "疑似違法的究極女性用風俗店偷拍證據初錄 ~ 九井珠奈緒 綾瀨心",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "偷拍・盜撮",
+    "按摩・美容店",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "誘騙女性",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "MFYD-005为溜池出品,2025年5月16日发行的有碼成人影片由绫濑心，九井珠奈緒出演\n偷偷在女性專屬風俗服務中裝了攝影機，全程偷窺她們的終極享受！第一個妹子悠娜初次體驗女性風俗，緊張得藏不住，但隨著香氛按摩慢慢放鬆下來，害羞的表情和瘋狂潮吹的身體反差實在太誘惑了！第二個妹子直美則是性感按摩控，超主動的那種，貪婪地追求極致快感，絕對是色氣爆棚的OL！女性在風俗裡原來能這麼甜膩又騷氣，真的讓人hold不住啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063604827827_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063604827827_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6036",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6036&name=九井珠奈緒"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6036&name=绫濑心"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6036&name=向理来"
+    }
+  ]
+};

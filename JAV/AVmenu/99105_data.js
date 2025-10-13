@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/19/11cd007a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99105,
+  "IDcode": "DV-1246",
+  "title": "女教師凌辱教室 辰巳優衣",
+  "publish_date": "2011-03-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "凌辱",
+    "学校作品",
+    "强奸",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99105",
+  "actresses": [
+    {
+      "name": "辰巳ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/2f18a01c-1b71-40a3-9762-6337ae90b85b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99105&name=辰巳ゆい"
+    }
+  ]
+};

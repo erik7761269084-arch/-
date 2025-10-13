@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/14/b26dbdf8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102055,
+  "IDcode": "RS-028",
+  "title": "可凛",
+  "publish_date": "2008-09-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女上位",
+    "跳蛋",
+    "口交",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102055",
+  "actresses": []
+};

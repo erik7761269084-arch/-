@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220701/B244414C8E7666F3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37409,
+  "IDcode": "04C35AA6171CF004D0BB46BF60A2BB-42",
+  "title": "淫らな桃尻奴隷",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37409",
+  "actresses": []
+};

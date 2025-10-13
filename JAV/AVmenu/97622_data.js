@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220405/B6B8D8E4A28E38D0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97622,
+  "IDcode": "GETS-020",
+  "title": "発育してむちエロくなったツンデレ幼馴染が両親の留守中に俺の世話しにやってきた！！「全裸家政婦になれよ」と命令したら「仕方なく見せてあげてるんだからねッ」と言いながらも淫乱マゾ化したので…",
+  "publish_date": "2016-11-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女大学生",
+    "调教",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97622",
+  "actresses": [
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97622&name=若槻みづな"
+    },
+    {
+      "name": "月本爱",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7d0b033599ddf752a987c726c39327ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97622&name=月本爱"
+    },
+    {
+      "name": "羽田璃子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97622&name=羽田璃子"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/2Djg3I0h/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86771,
+  "IDcode": "BLK-479",
+  "title": "エグい程下品な女たち 円山町裏路地で見つけたイカれた肉弾ムチムチビッチと一日中ラブホに籠ってハーレム生ハメ中出し",
+  "publish_date": "2020-12-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86771",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86771&name=美園和花"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86771&name=本真友里"
+    }
+  ]
+};

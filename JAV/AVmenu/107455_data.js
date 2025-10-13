@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/6f4721ae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107455,
+  "IDcode": "MMUS-078",
+  "title": "挑発パンチラ絶対誘惑ハーレムオフィス",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "荡妇",
+    "OL",
+    "内衣",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107455",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107455&name=斋藤亚美里"
+    }
+  ]
+};

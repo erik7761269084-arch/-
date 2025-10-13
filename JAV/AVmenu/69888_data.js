@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250308/afjTaiIR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69888,
+  "IDcode": "JUL-014",
+  "title": "赤瀬尚子 最初で最高のアナル解禁！！ もう私、アナル以外愛せない…。",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "肛交",
+    "调教",
+    "巨大屁股",
+    "二穴同时挿入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/8265eeb80ee8fef83ff758af9e472f0a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69888",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69888&name=赤瀬尚子"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69888&name=大岛丈"
+    }
+  ]
+};

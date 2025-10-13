@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240403/LSY26qxN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101682,
+  "IDcode": "GANA-3007",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 338 仕事熱心なバリキャリ清楚美女を連れ込み！スレンダーな色白ボディを好き勝手しちゃいます！クールな彼女もドMに開眼！拘束されても腰だけは動いてチ●ポを離さない！",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "姐姐",
+    "屁股",
+    "苗条",
+    "业余",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101682",
+  "actresses": [
+    {
+      "name": "かれん",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/1038c9ba368a570b72bf68b1a133a87e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101682&name=かれん"
+    }
+  ]
+};

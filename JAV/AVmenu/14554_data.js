@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b21a75b-2f10-448c-b805-88bf98f5e4f3/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241031/fEs7tiHv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14554,
+  "IDcode": "SUWK-020",
+  "title": "大樓內是禁止開按摩店的！按摩店女主人天川しずく被無良業主釣魚當場正法！",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "感官作品",
+    "制服",
+    "口交",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "鄰居",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SUWK-020为SOD出品,2024年6月1日发行的有碼成人影片由天川しずく出演\n查處公寓無證經營「非法男士美容院」真相！我聽說他們分散在東京各地，但我不知道他們在我管理的物業中提供“性服務”！如果警察介入，居民的信任度就會直線下降。為了懲罰，女店長被威脅，要求實際性愛！我一邊按摩她的大乳房，一邊給她內射。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240521/2659e8d0-5a4b-414d-94b9-e195ee975d92.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240521/2659e8d0-5a4b-414d-94b9-e195ee975d92.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14554",
+  "actresses": [
+    {
+      "name": "天川しずく",
+      "img_url": "https://picture.yoshiclub.xyz/20240424/d5555c0f-7b05-46ec-b54a-672bbbd9b027.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14554&name=天川しずく"
+    }
+  ]
+};

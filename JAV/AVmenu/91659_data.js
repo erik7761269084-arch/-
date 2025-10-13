@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/05/0d8edcdc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91659,
+  "IDcode": "ALDN-204",
+  "title": "母さんに乳房を揉んでとせがまれて… 京野美沙",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91659",
+  "actresses": []
+};

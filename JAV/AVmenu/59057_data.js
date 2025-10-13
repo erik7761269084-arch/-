@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240318/uBDjRv4V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59057,
+  "IDcode": "030824-001",
+  "title": "上品な一流セラピストのマンズリ施術と無防備状態の下半身",
+  "publish_date": "2024-03-08",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "最新影片",
+    "写真",
+    "正在上映",
+    "无套内射",
+    "69",
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "潮吹",
+    "骑乘位",
+    "背部骑乘位",
+    "口交",
+    "巨乳爆乳",
+    "熟女",
+    "美乳",
+    "痴女",
+    "白虎",
+    "晒黑",
+    "太太",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59057",
+  "actresses": [
+    {
+      "name": "carib_030824-001",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59057&name=carib_030824-001"
+    }
+  ]
+};

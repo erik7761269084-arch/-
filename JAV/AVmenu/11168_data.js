@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d200dfff-4afb-49e7-a7e4-25b29b894646/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/02/80469a95/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11168,
+  "IDcode": "DASS-513",
+  "title": "被爆乳人妻集團在丈夫不在的下等NTR完全攻略 ~ 真木今日子 美泉咲 初音實",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "多P",
+    "美腳",
+    "艷遇",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR"
+  ],
+  "description": "DASS-513为DASDAS出品,2024年10月22日发行的有碼成人影片由初音實，美泉咲，真木今日子出演\n鈴木是三島林業公司宿舍的管理員，他的真實身分是朵拉的兒子，三島林業的董事。住在公司宿舍的一名男員工知道鈴木是董事的兒子。身為公司職員，雖然無能，但對性卻有著無與倫比的熱愛，父母委託他看管公司住房。有一天，在稔和杏子的戀情發生後，他決定用自己的雞巴來控制公司宿舍裡已婚婦女的心。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017093642220220.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017093642220220.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11168",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11168&name=真木今日子"
+    },
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11168&name=初音實"
+    },
+    {
+      "name": "美泉咲",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250508/c6110630-9aba-4a3b-ae1b-fe543e70315c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11168&name=美泉咲"
+    }
+  ]
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4d4adf61-259c-43ef-9cae-aea848708ae9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11145,
+  "IDcode": "CEMD-594",
+  "title": "潮噴的太多了，好羞恥……50 美木雛乃",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "網襪",
+    "深喉",
+    "臀控",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "美少女",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "高跟鞋",
+    "放尿",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241020/d4662786-9a72-4397-ae27-a005d8856420.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241020/d4662786-9a72-4397-ae27-a005d8856420.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11145",
+  "actresses": [
+    {
+      "name": "美木雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/1d93f59c-062f-4858-be1b-8eac0c24242b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11145&name=美木雛乃"
+    }
+  ]
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7823b101-38af-455c-877e-50dbfe8667b0/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/K1tbzAS3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14652,
+  "IDcode": "PRWF-007",
+  "title": "巨乳人妻初體驗玩3遍理智崩潰",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "內衣",
+    "多P",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "熟女",
+    "美少女電影"
+  ],
+  "description": "PRWF-007为PREMIUM出品,2024年5月21日发行的有碼成人影片由七原紗由出演\n【超調皮的巨乳老婆高級獨家判定！ 】 無法忘記出道樂趣的已婚婦女紗由再次出現在AV中！感官開發精油按摩 SEX，即使您以前沒有過性生活，也會讓您的身體變得更加敏感！與一個雞巴比她丈夫還大的男人進行猛烈的小便性交，大量射精！蒙住眼睛並用玩具戲弄，她撒尿並射精！被兩個男人包圍的塗滿乳液的3P！持續讓I罩杯身子抽搐的極致！第一次體驗日常生活不可能的體驗，我的理智崩潰了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517041644500500.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517041644500500.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14652",
+  "actresses": [
+    {
+      "name": "七原紗由",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/a701166b-fe36-4c58-aaad-6b8c7269d4c6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14652&name=七原紗由"
+    }
+  ]
+};

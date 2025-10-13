@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/16/9830ce5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89323,
+  "IDcode": "STARS-874",
+  "title": "【夏といえば水着！SODstar全員ビキニ祭】最高の芸能人を最良のトロマン状態で 禁欲明けに理性がブッ飛ぶ 淫汁 汗 唾液とろだく漏らしっぱなし性交 小湊よつ葉",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "潮吹",
+    "接吻",
+    "战斗行动",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/77ad6f7829386e5c188339057b6b82c8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89323",
+  "actresses": [
+    {
+      "name": "小湊四葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/8efba086-0ee3-439d-8559-aa2f4b9bb9a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89323&name=小湊四葉"
+    }
+  ]
+};

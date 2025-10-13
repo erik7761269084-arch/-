@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/s8PQCNLw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84828,
+  "IDcode": "HUNTB-323",
+  "title": "「やめてください…」と言いながらも手コキし続けてしまう新人エステ嬢。手で抜いてくれないかとお願いするも「当店はそういうお店では…」と断られ",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "手淫",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84828",
+  "actresses": []
+};

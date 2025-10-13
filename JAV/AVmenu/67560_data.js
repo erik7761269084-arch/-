@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/12/80e1956c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67560,
+  "IDcode": "DLDSS-173",
+  "title": "絶対にハマってはイケない上司の最高の愛人に溺れるとろとろ沼不倫セックス 美乃すずめ パンティと写真付き",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "出轨",
+    "秘书",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/22a7ab72921845257bad69326d895caf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67560",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67560&name=美乃雀"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67560&name=ニック"
+    }
+  ]
+};

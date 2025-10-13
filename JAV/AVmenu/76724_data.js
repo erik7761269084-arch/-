@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/kvofrXkh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76724,
+  "IDcode": "409BZDC-013",
+  "title": "【#借金返済裏￥サポ映像1】アイドルそっくりの色白むっ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241212-1/58596689473c6af3b023ed4900b6ef10.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76724",
+  "actresses": []
+};

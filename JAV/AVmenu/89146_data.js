@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/57CYEUFe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89146,
+  "IDcode": "VSED-223",
+  "title": "団地妻 旦那の居ない昼下がりの情事",
+  "publish_date": "2023-09-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89146",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89146&name=北条麻妃"
+    },
+    {
+      "name": "伊藤まい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89146&name=伊藤まい"
+    }
+  ]
+};

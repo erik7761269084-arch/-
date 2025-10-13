@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e9dc2244-b291-4df5-8042-552a111af10b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4779,
+  "IDcode": "IPZZ-611",
+  "title": "甜系抖S辣妹痴女舔到你腳軟 ~ 佐佐木紗希",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IPZZ-611为IDEA POCKET出品,2025年7月4日发行的有碼成人影片由佐佐木紗希出演\n佐佐木紗希變身甜美又抖S的小惡魔辣妹，真的不要太正！一次兩次哪夠啦，兄弟，給我撐住！這小妖精的痴女玩法直接炸裂，瘋狂榨乾你的精華，口技超猛，舔到你魂都要飛了！跟她玩的日子，禁止自己解決，懂沒？她的小惡魔玩法會讓你精盡人亡，含著棒棒糖一樣含著你，挑逗到你爆炸！最後再來一波狂野衝刺，直接帶你上天，性感誘惑滿載，快來一起嗨翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051519525525_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051519525525_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4779",
+  "actresses": [
+    {
+      "name": "佐佐木紗希",
+      "img_url": "https://picture.yoshiclub.xyz/20231111/4d2c43ef-a8b0-41fc-9506-9a85eda2aae4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4779&name=佐佐木紗希"
+    }
+  ]
+};

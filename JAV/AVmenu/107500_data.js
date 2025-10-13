@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/25/5b716ffe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107500,
+  "IDcode": "ADN-478",
+  "title": "妻が妊娠中でセックスが出来ない僕は禁欲状態で我慢の限界。隣の人妻に誘われて何度もセックスしてしまった。 末広純",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "潮吹",
+    "口交",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107500",
+  "actresses": []
+};

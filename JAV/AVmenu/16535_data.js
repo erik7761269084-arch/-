@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6b9a38f-d08d-41e3-a1cc-1d88c479b599/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/07/b946c54e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16535,
+  "IDcode": "DLDSS-258",
+  "title": "因爲我想讓你擁有最好的快感.....水川潤",
+  "publish_date": "2024-02-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "企畫",
+    "中出",
+    "美乳",
+    "網襪",
+    "口交",
+    "性感",
+    "美腳",
+    "癡女",
+    "學校",
+    "女優"
+  ],
+  "description": "DLDSS-258为DAHLIA出品,2024年2月22日发行的有碼成人影片由水川潤出演\n“我會讓你全身融化♡”擁有絕美臉蛋的水川潤，在最好的5種情況下自慰時總是盯着你！光聽聲音就能高潮的特別ASMR！完全主觀的雙耳作品，刺激所有感官：視覺、聽覺和觸覺！靈活的雙手，粘稠的舌頭，還有夢幻般光滑的陰戶！終極耐嚼支撐，融化你的整個身體！ *我們建議自慰一周後觀看本作品。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240130/20240130053705264264.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240130/20240130053705264264.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16535",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16535&name=水川潤"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16535&name=由爱可奈"
+    }
+  ]
+};

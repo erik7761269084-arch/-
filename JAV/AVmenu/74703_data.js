@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/06/7a2a7948/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74703,
+  "IDcode": "XRW-444",
+  "title": "イクイク◆早漏妹と排卵日子作り生活 坂咲みほ ACT.005",
+  "publish_date": "2018-03-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "中出",
+    "自慰",
+    "口交",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74703",
+  "actresses": [
+    {
+      "name": "坂咲美穗",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/6529e7eb-a03e-4fda-91cf-477e1a72afa5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74703&name=坂咲美穗"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/31/1bf895f4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104874,
+  "IDcode": "MRXD-031",
+  "title": "平成日本サラリーマン応援プロジェクト「お宅にドマゾを向かわせます。」 菅野さゆき",
+  "publish_date": "2017-06-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "纪录片",
+    "感谢祭"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/31/3e64b205a46f2eff21bada323de7aa0d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104874",
+  "actresses": [
+    {
+      "name": "菅野松雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/086229ee-a402-433d-b1ac-c7a36b793f6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104874&name=菅野松雪"
+    }
+  ]
+};

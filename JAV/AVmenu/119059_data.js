@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/27/01043dec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119059,
+  "IDcode": "FC2-4625703",
+  "title": "美容加克生",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/27/6d2880d435d5ec39288629330a1d3a9b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119059",
+  "actresses": []
+};

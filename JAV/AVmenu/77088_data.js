@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/NN5DCDHa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77088,
+  "IDcode": "NDRA-047",
+  "title": "隣人の情婦になってしまった妻9 ～捻り込まれし巨根～ 神宮寺ナオ",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "淫乱，真实",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/20a2c4d3846d9a93ac0c0441af662f76.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77088",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77088&name=神宫寺奈绪"
+    }
+  ]
+};

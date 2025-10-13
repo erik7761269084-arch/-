@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240422/OER6bGNm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101829,
+  "IDcode": "NTK-865",
+  "title": "【お金じゃない快楽求めるSEXガチ勢ギャルのロハぱこSP！！】【クールな美女なのにシンプルにドスケベのギャップに勃起不可避！！】【途中から目的快楽で自ら腰振るド淫乱ギャル最高です！！】神スタイルお姉さんGALがスーパー濃厚P活でオジ生ちんご奉仕搾精！！ロハ娘6人目！！",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "屁股",
+    "高",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250509-1/727c667b96c804707131a06dc4571202.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101829",
+  "actresses": [
+    {
+      "name": "りな",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/e30edd5e22e73a4f68d08e5dbfb796c7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101829&name=りな"
+    }
+  ]
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220907/Mm60cUTp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81258,
+  "IDcode": "HODV-21705",
+  "title": "人妻である事を隠してまで他の男性が誘える雰囲気を作り繁華街のラブホテルに消えて行く…行きずりの不倫",
+  "publish_date": "2022-09-02",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "潮吹",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81258",
+  "actresses": []
+};

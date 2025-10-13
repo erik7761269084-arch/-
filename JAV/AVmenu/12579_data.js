@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e69866dc-f949-45bf-9847-bfb165f14683/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12579,
+  "IDcode": "AQSH-116",
+  "title": "被丈夫的下屬中出，人妻突然豹變成色情魔 ~ 岬さくら",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "上司女友・妻子",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "艷遇",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "AQSH-116为妄想族出品,2024年8月20日发行的有碼成人影片由岬櫻出演\n美咲經理是典型的壞老闆，不顧自己的錯誤，還責罵下屬。今天又讓我的下屬去拿我忘記的東西，這是不公平的。當我戀戀不捨地來到經理家時，迎接我的是他優雅的妻子。他與陪同他的一名晚輩密謀襲擊他的妻子。當妻子反抗時，得知下屬的爭吵，又得知丈夫有外遇，為了報復，她親自誘發猥褻行為。從那時起，她就表現出勇氣，利用這種情況，緩解自己對丈夫下屬的不滿。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240818/20240818020716241241.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240818/20240818020716241241.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12579",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12579&name=岬櫻"
+    }
+  ]
+};

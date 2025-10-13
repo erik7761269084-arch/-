@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230725/lE9C90UA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87375,
+  "IDcode": "DBER-162",
+  "title": "女スパイの惨い事 REAL TIME INFERNO ver. 超残酷強●昇天！24時間の地獄絵図 星川まい",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "魔鬼系",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87375",
+  "actresses": []
+};

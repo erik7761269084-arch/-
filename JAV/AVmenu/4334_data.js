@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/264458d8-c9ad-43a7-9ddf-ee7a296789ec/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/598c4451/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4334,
+  "IDcode": "CJOD-467",
+  "title": "同學會上重逢，當年羞澀的青梅竹馬變身超級辣妹，醉後被拉進情人酒店瘋狂舌吻內射中出 ~ 春陽萌花",
+  "publish_date": "2025-07-18",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "苗條",
+    "後入",
+    "酒醉",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "酒後亂性",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "金髮",
+    "拜金女",
+    "單體作品",
+    "明星臉",
+    "同學聚會",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "同學",
+    "無毛",
+    "飯店"
+  ],
+  "description": "CJOD-467为癡女特化出品,2025年7月18日发行的有碼成人影片由春陽萌花出演\n被心仪的人一边说着‘喜欢你’一边吻的感觉，简直爽到上天！在老家同学会上重逢的青梅竹马萌花，竟然摇身一变成了超正ギャル！酒劲上头，直接被她拉进ラブホ，疯狂舌吻，吻个不停，舌头缠绵到不行。她轻声说：‘其实从以前就一直喜欢你…’ 多年未见的思念爆发，吻得越深越上瘾，一边吻一边告白，感觉整个人都要融化了！醉酒后的她吸力超强，腰肢扭得像是要榨干我，爽到射了好几次！ギャル一边告白一边用舌吻锁住我的骑乘位，真的太销魂了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003004593593_43512_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003004593593_43512_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4334",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4334&name=春陽萌花"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4334&name=ナイアガラ翔"
+    }
+  ]
+};

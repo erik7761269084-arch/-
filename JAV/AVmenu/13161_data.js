@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e5649ae4-4ef7-4bba-8a02-1039cbf33db3/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/smPQ3Jwl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13161,
+  "IDcode": "NACR-828",
+  "title": "工作太忙請來打掃的家政婦，穿着緊身運動褲，打掃時大屁股誘惑我無法抗拒立即就操了她 ~ 黒木逢夢",
+  "publish_date": "2024-07-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "劇情",
+    "巨尻",
+    "臀控",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "自宅",
+    "運動服裝",
+    "家政婦",
+    "性感",
+    "自慰",
+    "人妻",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240721/35295527-ce52-405d-9761-23ce2b4596cc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240721/35295527-ce52-405d-9761-23ce2b4596cc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13161",
+  "actresses": [
+    {
+      "name": "黒木逢夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4f60e84c-72f8-4463-8fd4-6b9ae68afa0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13161&name=黒木逢夢"
+    }
+  ]
+};

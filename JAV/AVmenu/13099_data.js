@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21dcb390-cedf-4ea7-bfe9-4da053785bb1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/06/a4a9a65b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13099,
+  "IDcode": "ABF-132",
+  "title": "新來的老師被操直到完全被性愛摧毀 ~ 七嶋舞",
+  "publish_date": "2024-08-01",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "黑絲",
+    "女教師",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "帐篷",
+    "口交",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "接吻",
+    "美少女",
+    "校園生活",
+    "學校",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥"
+  ],
+  "description": "ABF-132为蚊香社出品,2024年8月1日发行的有碼成人影片由七嶋舞出演\n*本作品以穿著制服的成人角色扮演為特色。吞噬名牌女星「七島麻衣」濕漉漉的身體！麥是一位新老師，她與她的學生發生了關係。有一天，他看到麥在雨中濕透後很興奮，他向她施壓，最後他們在學校內發生了性關係。然而，她的同事目睹了她，並在提及她與他的關係後，她的男性同事對她進行了身體撫摸。快感逐漸增強，她濕漉漉的陰戶受到猛烈的活塞衝擊。從那天起，麥的生活徹底改變了，她大聲呻吟，從他身上得到從未有過的快感，達到了高潮，迴響在整個房間。一位新老師在與學生的關係中感受到了一點幸福，卻被摧毀，直到徹底失敗！無法忍受裸露肌膚潮濕的全身濕透透明AV。 *本作品的所有表演者均為19歲以上的成年人。 （本作品的所有表演者均為19歲以上的成年人。）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240725/9be5df7e-5022-4d2e-9e3e-a8f74fe6c8f1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240725/9be5df7e-5022-4d2e-9e3e-a8f74fe6c8f1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13099",
+  "actresses": [
+    {
+      "name": "七嶋舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/57aaee8c-c74b-4282-bd80-3059e8a4f3e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13099&name=七嶋舞"
+    }
+  ]
+};

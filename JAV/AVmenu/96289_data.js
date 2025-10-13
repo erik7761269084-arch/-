@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/2075619e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96289,
+  "IDcode": "MAAN-1009",
+  "title": "【真性Mっ子発見！！Gカップ美女】責められるたびにエロくなる！！G巨乳をふり乱し肉便器に変貌する姿に刮目せよ！！肉厚巨尻に堪らず連続発射！！【即ヤリゲッチュー】【るい】 足立るい",
+  "publish_date": "2024-09-06",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96289",
+  "actresses": []
+};

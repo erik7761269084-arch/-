@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/27/ffa50a90/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67374,
+  "IDcode": "FWTR-019",
+  "title": "汗でじっとり濡れたムチムチ巨乳のアカスリおばちゃん～カチカチの勃起チ●コを見せつけたらSEX出来るはず！",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "胖女人",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67374",
+  "actresses": [
+    {
+      "name": "西島美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67374&name=西島美里"
+    }
+  ]
+};

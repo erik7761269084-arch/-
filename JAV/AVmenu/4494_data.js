@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/539dd4a2-7eb3-4970-91b8-1e68e64fad6f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/73a9c1aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4494,
+  "IDcode": "MIAB-497",
+  "title": "波多野老師的爆乳夾擊狂熱 貧乳女友拒絕夾奶求助後被巨乳女教師用胸器開小灶 ~ 波多野結衣",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "口爆",
+    "貧乳",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "學校",
+    "熟女",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "芸能人"
+  ],
+  "description": "MIAB-497为MOODYZ出品,2025年7月11日发行的有碼成人影片由波多野结衣出演\n【波多野結衣的爆乳夾奶狂熱】跟貧乳女友提了想試試夾奶，結果被嗆得說不出話，正emo的時候，超辣爆乳女教師結衣主動說：“來，用姐姐的胸爽一波！”那軟嫩又緊緻的胸器直接讓人上癮，存貨全射在她胸上！舔蛋夾奶、穿衣潤滑液、口水滴答的乳溝、垂直夾奶各種玩法隨便挑，爽到起飛！甚至還解鎖了Pto胸的禁忌玩法，年輕力壯的精華一發爆射臉部！小丫頭的那點料哪還能滿足，波多野老師的胸才是真絕活啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032536949949_51878_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032536949949_51878_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4494",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4494&name=波多野结衣"
+    }
+  ]
+};

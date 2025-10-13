@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241102/b97jb9Ry/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78218,
+  "IDcode": "SW-919",
+  "title": "旦那が相手をしてくれない欲求不満の色白むっちりデカ尻巨乳の奥様達が近所のモテない君たちを誘惑しちゃう！？ムチムチ爆乳奥様達に密着誘惑されてフル勃起したチンポを勝手に騎乗位挿入されちゃって満足するまでご奉仕させられちゃいました！！",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78218",
+  "actresses": []
+};

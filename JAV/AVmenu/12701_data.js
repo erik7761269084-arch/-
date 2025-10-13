@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/52ccd015-babc-4885-888f-7be16a135f0d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12701,
+  "IDcode": "SSNI-364",
+  "title": "交換體液，激烈的性愛，一刀未減的特別本番 ~ 夕美紫苑",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-364为S1出品,2018年12月7日发行的有碼成人影片由夕美紫苑出演\n由美音今年19歲，皮膚白皙，Icup自然。第三個S1獨家是熱門系列「體液交叉，激烈的性愛」。當她第一次出於本能地暴露自己的「性」時，她平時的氣氛就完全改變了。一開始，他們就互相舌吻，一邊流著口水，一邊神壓乳交。一根雞巴插入她變厚的陰部，她因猛烈的活塞而瘋狂。完全未切割的性愛，在讓巨乳爆炸的同時攀登快感！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240813/20240813232051419419.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240813/20240813232051419419.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12701",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12701&name=夕美紫苑"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/802d94c9-d4df-47da-a6d6-41d55392422f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/3bdd8548/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4698,
+  "IDcode": "NACR-980",
+  "title": "油壓狂熱做愛 ~ 似鳥日菜",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "素股",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "單體作品",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "無毛",
+    "女優"
+  ],
+  "description": "NACR-980为PLANETPLUS出品,2025年7月5日发行的有碼成人影片由似鳥日菜出演\n日菜醬全身抹滿厚厚的油，滑溜溜亮晶晶地等著男人到來。男人一進門，就忍不住動手摸遍她那油光閃亮的胴體，享受每一吋肌膚的滑嫩手感……胸推、素股、玩具調教，各種玩法接連上場，日菜醬那閃耀的美體在油光中扭動，徹底被油滑玩法給喚醒啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705043808510510_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250705/20250705043808510510_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4698",
+  "actresses": [
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4698&name=似鳥日菜"
+    }
+  ]
+};

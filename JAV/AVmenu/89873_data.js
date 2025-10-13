@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240108/JuykQeSX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89873,
+  "IDcode": "SABA-867",
+  "title": "即ハメOK！変態裏垢女子発掘！オフパコレポ 毛深い女子好き必見 何でもご奉仕してくれる剛毛オマ●コうららちゃん Vol.04",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "业余",
+    "角色扮演者",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/054a9cddb05e9b946cdc11fae047329c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89873",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fd9da9be-f81c-4974-8222-7df0d72e97a3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3193,
+  "IDcode": "MIKR-033",
+  "title": "絕美姐姐限定在籍完全會員制頂級風俗店 ~ 朝妃莉緒",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "大姐姐",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "按摩女郎",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "素股",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "單體作品",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "手指插入",
+    "獵豔",
+    "抹油",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "MIKR-033为MOODYZ出品,2025年8月28日发行的有碼成人影片由朝妃莉緒出演\n進化版的痴女技巧超猛，泡泡公主朝妃りお震撼登場！顏值跟服務都是頂級的極品小姐姐親自迎接你！這位美到不行的技師，技術騷氣爆棚，撩得你硬到停不下來！直接開吸，精液被真空吸乾，乳頭play加上泡沫洗體，滿身潤滑油連蛋蛋後面都被舔到爽爆！服務完還有驚喜加時福利！隨你內射幾次都行，榨乾最後一滴不留！只有這裡才能感受到的極品正妹真心戀愛玩法，超值享受啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030048669669_33272_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030048669669_33272_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3193",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3193&name=朝妃莉緒"
+    }
+  ]
+};

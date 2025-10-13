@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/847a8731-14cf-4a79-aaba-eaa759418d01/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/e35a9cd4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6682,
+  "IDcode": "NACR-946",
+  "title": "老公不在家，我只好找鄰居來幫我中出播種啦 ~ 桜木美音",
+  "publish_date": "2025-04-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "貧乳",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "清楚系",
+    "自慰",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "NACR-946为PLANETPLUS出品,2025年4月20日发行的有碼成人影片由桜木美音出演\n爲了備孕和未來打算，桜木夫婦搬到了更大更寬敞的房子。新鄰居人超好，啥事兒都熱心幫忙介紹，就是老公那方面太拉胯，每次都秒射，根本滿足不了我，只能自己偷偷解決。那天，鄰居突然說聽到我房間傳來的聲音，我還以爲要被警告，結果卻發現了一場超刺激的展開！老夫老妻的日常被徹底打破，鄰居的‘熱情’讓我欲罷不能",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420201732902902_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250420/20250420201732902902_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6682",
+  "actresses": [
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6682&name=桜木美音"
+    }
+  ]
+};

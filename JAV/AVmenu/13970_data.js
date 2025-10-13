@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88091d9a-3353-411b-a907-54ba72f10a17/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13970,
+  "IDcode": "MIFD-495",
+  "title": "溫泉旅館工作的超可愛女服務員新人AV出道！ ~ 雨井理奈",
+  "publish_date": "2024-06-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "巨乳",
+    "溫泉",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIFD-495为MOODYZ出品,2024年6月18日发行的有碼成人影片由雨井理奈出演\n在提前六個月都無法預約的溫泉工作的超可愛女服務員AV出道！儘管有著可愛的臉孔，但她在學生時代就熱衷於柔道！運動型的她，連最大的工作人員都紛紛向她撲來，甚至還獲得了比賽的第二名！當她第一次脫衣服時，尷尬得緊張又煩躁……臉上天真的表情讓你對即將開始的性愛充滿期待！當她脫下和服時，美麗的白皙皮膚和乳房暴露出來，露出敏感的身體。當你插入時，這是一種嚴肅的性愛，每次插入你的子宮都會讓你達到高潮，這與光滑、溫柔的氛圍不同。旅館和性的熱情好客精神！她堅定地接受連續的面部射精，並微笑著在她人生的第一次三人行中用力射到溢出的陰戶汁液和男演員的雞巴上。我期待看到 Rina Amai 未來的成長，因為她又學到了關於性的另一件事！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614013720844844.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240614/20240614013720844844.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13970",
+  "actresses": [
+    {
+      "name": "雨井理奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/085308a8-61ff-4910-a59e-4f3a293ad19b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13970&name=雨井理奈"
+    }
+  ]
+};

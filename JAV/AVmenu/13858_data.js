@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c1a98595-250d-41ea-a3e2-18b302e9a6e6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13858,
+  "IDcode": "HDKA-302",
+  "title": "居住在小金井市的裸體家庭主婦加藤妃乃 (37)",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "家庭主妇",
+    "劇情",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "HDKA-302为PLANETPLUS出品,2024年6月1日发行的有碼成人影片由加藤妃乃出演\n加藤日野今年 37 歲。她與身為律師的丈夫以及兩個孩子住在一起。我和老公是大學同學，26歲就結婚了。我仍然想要孩子，但現在我甚至沒有性生活...當我還是個學生的時候，我每次見面都會這樣做…有時我想進行激烈而充滿激情的性愛，而不用擔心孩子的眼睛！報道組走近這樣一個已婚女人的真實感受！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014032480480.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240620/20240620014032480480.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13858",
+  "actresses": [
+    {
+      "name": "加藤妃乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/8a239878-0b10-4364-8452-aa08334fb670.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13858&name=加藤妃乃"
+    }
+  ]
+};

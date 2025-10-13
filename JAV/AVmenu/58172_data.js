@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221014/ORrv6g2p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58172,
+  "IDcode": "GACHI-1144",
+  "title": "真由子　−スクールデイズ50−",
+  "publish_date": "2017-05-31",
+  "type": "无码",
+  "company": "MILK",
+  "genres": [
+    "苗条",
+    "素人",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221014-1/d5abadad7fead797ba41b0f62f66677b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58172",
+  "actresses": []
+};

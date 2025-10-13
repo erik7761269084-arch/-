@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221013/52DC60D7DED26A84/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38154,
+  "IDcode": "28C26994CF1A26C0B4B4328ADDB4B-181",
+  "title": "约会黑发女孩摩擦 f 杯",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38154",
+  "actresses": []
+};

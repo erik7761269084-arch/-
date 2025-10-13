@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/N0WoGayz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78635,
+  "IDcode": "NACR-417",
+  "title": "息子の嫁とのセックス記録 あの優しかった義父が鬼畜となった日 篠原ちとせ",
+  "publish_date": "2021-05-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "口交",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78635",
+  "actresses": [
+    {
+      "name": "篠原ちとせ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78635&name=篠原ちとせ"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/FF1754929AEF7013/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36370,
+  "IDcode": "F95823D7F1F5F0B841FEB0CD4A520D-14",
+  "title": "摩擦她的陰道和撫弄著山雀在浴",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36370",
+  "actresses": []
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250106/kzYQCcwo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74796,
+  "IDcode": "KAWD-993",
+  "title": "禁欲後の敏感マ●コを猛烈圧迫 ポルチオ性感開発 全身ガクガク膣中イキ大絶頂オーガズム 笠木いちか",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "潮吹",
+    "纪录片",
+    "子宫颈",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74796",
+  "actresses": [
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74796&name=笠木いちか"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74796&name=南佳也"
+    }
+  ]
+};

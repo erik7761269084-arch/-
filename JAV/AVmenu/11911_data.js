@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/671edcaa-11dc-47a8-bcab-1f227c2d13c9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11911,
+  "IDcode": "PARATHD-4043",
+  "title": "發情20連發！從普通人妻到淫亂熟女的絕對祕藏映像(8)",
+  "publish_date": "2024-09-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "人妻",
+    "精選總編集",
+    "熟女",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240918/ea04f274-d26c-4f2a-848e-b682bc85f226.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240918/ea04f274-d26c-4f2a-848e-b682bc85f226.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11911",
+  "actresses": []
+};

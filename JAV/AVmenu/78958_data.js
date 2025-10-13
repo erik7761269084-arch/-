@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/15/d039ba0a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78958,
+  "IDcode": "JUL-073",
+  "title": "- 某有名ドラマ出演―。元子役タレントの人妻 谷花紗耶32歳 AV Debut！！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/d7ef62fe706e2cd21c56693ba6b06095.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78958",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78958&name=しみけん"
+    },
+    {
+      "name": "谷花纱耶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78958&name=谷花纱耶"
+    }
+  ]
+};

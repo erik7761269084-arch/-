@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/QrXxSIye/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78628,
+  "IDcode": "NTK-569",
+  "title": "成長中Hカップのロケット生意気ボイン美少女が水着で大暴れ！！揉まれ吸われ感じまくりナカから濡れまくる！！お礼のガチパイズリご奉仕は超見もの！！どこで覚えてきたんだパイズリテクシャンめ！！騎乗位でも乳テク発揮の生ナカ出し誘発！！搾精の騎乗位は必見！！/ラブホドキュメンタリー休憩2時間/104",
+  "publish_date": "2021-05-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78628",
+  "actresses": [
+    {
+      "name": "斎藤みくる",
+      "img_url": "https://picture.yoshiclub.xyz/20240812/90191e77-9546-4d90-8c77-6128cd945ea5.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78628&name=斎藤みくる"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d30ed4a6-daf5-4269-b201-d8a9ba69764a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15211,
+  "IDcode": "MIBB-038",
+  "title": "情色幻想 搖臀挑釁男人的美腿美女，穿着緊身衣 大力活塞操她！ ~ 橘瑪麗",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "緊身衣",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "口交",
+    "性感",
+    "美腳",
+    "人妻",
+    "猥褻穿著",
+    "辣妹/GAL系",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240422/d9d2a9e3-0961-4cdc-95f6-c5c4fe8341a3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240422/d9d2a9e3-0961-4cdc-95f6-c5c4fe8341a3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15211",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15211&name=橘瑪麗"
+    }
+  ]
+};

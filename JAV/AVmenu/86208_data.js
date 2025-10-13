@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/19/f5a6b9a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86208,
+  "IDcode": "SSIS-269",
+  "title": "最高峰J罩杯‘安齋拉拉’的神乳奉仕男士按摩",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "美容院",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86208",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86208&name=安斋拉拉"
+    }
+  ]
+};

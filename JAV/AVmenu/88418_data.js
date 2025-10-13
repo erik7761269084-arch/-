@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/ad1cfb5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88418,
+  "IDcode": "MIDE-795",
+  "title": "家庭教師ナオ先生の中出しOK淫語と誘惑パンチラ 神宮寺ナオ",
+  "publish_date": "2020-07-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇",
+    "内衣",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231007-1/6d6cc42cb3e520e0932d0970c9cf7bab.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88418",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88418&name=神宫寺奈绪"
+    }
+  ]
+};

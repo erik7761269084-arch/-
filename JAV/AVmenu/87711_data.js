@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/05/c0cdeb9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87711,
+  "IDcode": "SSIS-728",
+  "title": "出張先で軽蔑している中年セクハラ上司とまさかの相部屋に…朝まで続く絶倫性交に不覚にも絶頂を繰り返すGカップ童顔新入社員 安達夕莉 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "接吻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87711",
+  "actresses": [
+    {
+      "name": "安達夕莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e2c4dbd3-b98d-44e4-aad6-083b0cb67070.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87711&name=安達夕莉"
+    }
+  ]
+};

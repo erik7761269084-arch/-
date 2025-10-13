@@ -1,0 +1,120 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2da7244-4da7-47a0-95e0-9748104e174b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5134,
+  "IDcode": "DAZD-246",
+  "title": "不行啦！不要內射嘛！！爆乳抖不停深插猛幹強制種付50連發精選集 ~ 石原希望 美園和花 五日市芽依 小花暖 神野雛 深田詠美 乙愛麗絲 都月楓 田中寧寧 彌生美月",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優",
+    "芸能人"
+  ],
+  "description": "DAZD-246为DASDAS出品,2025年6月20日发行的有碼成人影片由美園和花，深田詠美，小花暖，田中寧寧，乙愛麗絲，都月楓，彌生美月，石原希望，神野雛，五日市芽依出演\n限定爆乳！一邊狂揉大奶一邊猛插小穴，強制內射50連發精選集！每次奶子抖得誇張，腰部動作就越發激烈到爆炸！人氣女優被狠狠操到高潮連連，就算不甘心也爽到痙攣！子宮被灌滿大量精液，種付狂熱整整4小時！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092024342342_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092024342342_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5134",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=美園和花"
+    },
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=都月楓"
+    },
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=乙愛麗絲"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=彌生美月"
+    },
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=五日市芽依"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=田中寧寧"
+    },
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=小花暖"
+    },
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=石原希望"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=深田詠美"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5134&name=神野雛"
+    }
+  ]
+};

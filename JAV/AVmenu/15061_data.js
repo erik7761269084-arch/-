@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/90dd91b3-d30b-4f9d-b635-1303c2dfaa9c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/07/5e3108af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15061,
+  "IDcode": "ADN-562",
+  "title": "我和丈夫的繼子越界了 ~ 通野未帆",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "繼母",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "口交",
+    "自宅",
+    "不倫",
+    "人妻",
+    "出軌",
+    "NTR"
+  ],
+  "description": "ADN-562为ATTACKERS出品,2024年5月7日发行的有碼成人影片由通野未帆出演\n當我開始記起時，我的母親已經過世了。從那時起，我就和父親住在一起了。對於在男性家庭長大的我來說，父親的新伴侶美穗是個難以形容的人，她聞起來很香，只要和她在一起就讓我緊張。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503043317155155.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503043317155155.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15061",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15061&name=通野未帆"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15061&name=左慈半造"
+    }
+  ]
+};

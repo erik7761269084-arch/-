@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241009/0uxTFRXB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93220,
+  "IDcode": "MOPP-087",
+  "title": "痴女でM男好きな小悪魔彼女のアナル責めを僕は何年もずっと遠くから見ていた。若宮はずき",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93220",
+  "actresses": [
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93220&name=若宫はずき"
+    }
+  ]
+};

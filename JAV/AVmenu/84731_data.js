@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/02/deaec5ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84731,
+  "IDcode": "IENF-210",
+  "title": "美乳風俗・エステ作品 GW一気見SP",
+  "publish_date": "2022-05-12",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "中出",
+    "已婚妇女",
+    "按摩",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84731",
+  "actresses": [
+    {
+      "name": "相泽ゆりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84731&name=相泽ゆりな"
+    },
+    {
+      "name": "美咲みなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84731&name=美咲みなみ"
+    },
+    {
+      "name": "兼子美笛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84731&name=兼子美笛"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240430/xDwJZTgi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101912,
+  "IDcode": "SQTE-446",
+  "title": "魅惑の口内発射33連発 S-Cuteフェラチオコレクション2023",
+  "publish_date": "2022-12-31",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101912",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=美園和花"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=沙月惠奈"
+    },
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=橘瑪麗"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=枢木葵"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=安部未華子"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=安倍亜沙美"
+    },
+    {
+      "name": "姬川优奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101912&name=姬川优奈"
+    }
+  ]
+};

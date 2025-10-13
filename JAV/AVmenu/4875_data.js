@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb5c9ed0-84d3-42be-97ba-eba6bb7e3534/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/3543b8c0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4875,
+  "IDcode": "YMDD-456",
+  "title": "甜美笑容加上國寶級J杯爆乳！微胖可愛小天使精選輯 ~ 水原みその",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "偶像",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "清楚系",
+    "女僕制服",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "COSPLAY服飾",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "YMDD-456为桃太郎映像出版出品,2025年6月28日发行的有碼成人影片由水原みその出演\n天真無邪的笑容甜到不行，但身材卻辣到爆炸，肉感滿滿的火辣曲線直接炸開！超驚人的天然J杯爆乳，晃動起來讓人目不轉睛，高潮不斷的畫面色氣爆棚！她那舔得超帶勁的頂級口技，真的讓人慾火焚身，還有能把肉棒完全包覆的超震撼乳交，簡直隨時都要讓人噴發！就算咬牙忍住，插進她那緊實濕潤的無毛小穴，爽到根本忍不住，直接內射失控！不管是爆乳還是爆臀，哪裡都軟嫩得像棉花糖，肉肉界的頂級偶像水原みその精選輯登場啦！誰不想親手摸一摸這對國寶級大奶，真的想瘋了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224632819819_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224632819819_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4875",
+  "actresses": [
+    {
+      "name": "水原みその",
+      "img_url": "https://picture.yoshiclub.xyz/20240111/08b89e09-be7e-4410-a76a-3252f5c987ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4875&name=水原みその"
+    }
+  ]
+};

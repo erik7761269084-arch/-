@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230122/KIeeeeT7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85362,
+  "IDcode": "MIAA-677",
+  "title": "【FANZA限定】背後からの耳元囁きと布越し乳首カリカリでロングオーガズムに誘う悪魔的焦らしメンズエステ 森沢かな 生写真3枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫语",
+    "女上位",
+    "荡妇",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/bb98ebad4518fae0282391916c6cca0d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85362",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85362&name=森澤佳奈"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85362&name=Qべぇ"
+    }
+  ]
+};

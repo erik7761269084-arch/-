@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/VoygOeKJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93597,
+  "IDcode": "NOSKN-097",
+  "title": "魅惑のラッキーハーレム！W小悪魔美少女逆3P せいら＆りょう",
+  "publish_date": "2024-08-02",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93597",
+  "actresses": [
+    {
+      "name": "久和原聖羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231226/cb1705e9-bd24-4056-bd4f-99cb7c6bb505.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93597&name=久和原聖羅"
+    },
+    {
+      "name": "月美りょう",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/e48b6201-37a4-4d8f-8339-2209fee20cd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93597&name=月美りょう"
+    }
+  ]
+};

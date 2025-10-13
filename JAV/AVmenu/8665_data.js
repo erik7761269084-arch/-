@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/175148a7-185e-451b-a179-49d8468e0f14/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/25/d1721306/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8665,
+  "IDcode": "NPJS-133",
+  "title": "[不倫調查] 衝擊... 明天結婚的女友正在經歷她最後的約會！ ？爲NTR證據而截獲的原始性愛視頻被公開 ~ 藤原真帆",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "素人",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "偷拍・盜撮",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "飯店"
+  ],
+  "description": "NPJS-133为NAPA-JAPAN出品,2025年2月4日发行的有碼成人影片由藤原真帆出演\n這對幸福的情侶已經見過對方的父母，併計劃第二天去辦理結婚登記，其中的男方要求對其不忠行為進行調查。在過去的幾個月裡，她一直下班很晚回家，也沒有回覆 LINE 訊息，而他顯然碰巧看到了她與一個不認識的男人的通信。於是，為了弄清楚到底發生了什麼事，他們決定在他晚回家的日子裡跟蹤他…從另一名男子身上截獲的記錄了他多次不忠行為的錄影現在將被公之於眾。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084545947947.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130084545947947.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8665",
+  "actresses": [
+    {
+      "name": "藤原真帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240807/90199c77-b61a-4f79-a2f5-ceda6f0bfff3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8665&name=藤原真帆"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41bc8a42-2943-491c-a94f-e79ef445ee1a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18422,
+  "IDcode": "IPZZ-143",
+  "title": "出差時遇到了暴雨 和男下屬被困在飯店的同一房間 打濕的性感肉體被下屬操了9次",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "偶像",
+    "流汗",
+    "中出",
+    "OL",
+    "口交",
+    "勾引・誘惑",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "出差",
+    "女上司",
+    "飯店"
+  ],
+  "description": "IPZZ-143为IDEA POCKET出品,2023年10月11日发行的有碼成人影片由仲村美羽出演\n女老闆和處女下屬出差，因創紀錄的大雨被迫過夜。 然而，只有一間房間可用。 老闆中村認為不會有問題，因為他的下屬由希沒有男子氣概，不習慣女性，所以他們住在一個共用房間，但當他頑皮地引誘由希時，他突然襲擊了他......和最漂亮的女上司做愛。因為感覺太好而無法停止勃起的下屬的汗流浹背的SEX太色情了！\n女老闆和處女下屬出差，因創紀錄的大雨被迫過夜。 然而，只有一間房間可用。 老闆中村認為不會有問題，因為他的下屬由希沒有男子氣概，不習慣女性，所以他們住在一個共用房間，但當他頑皮地引誘由希時，他突然襲擊了他......和最漂亮的女上司做愛。因為感覺太好而無法停止勃起的下屬的汗流浹背的SEX太色情了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231008/678b3fe5-d2e8-41f7-a4e4-410718e188be.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231008/678b3fe5-d2e8-41f7-a4e4-410718e188be.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18422",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18422&name=仲村美羽"
+    }
+  ]
+};

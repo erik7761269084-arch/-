@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff4eecca-e26e-4a52-97a3-6f3ac45dbb97/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12492,
+  "IDcode": "HMN-593",
+  "title": "被爸爸的朋友吃掉！ 他將妻子帶來的繼女賣給了朋友 ，強迫她在不採取避孕措施的情況下被中出 ~ 西野乙音",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "老頭子",
+    "蘿莉",
+    "中出",
+    "亂交 • 群P",
+    "繼父",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "KTV夜總會",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "HMN-593为本中出品,2024年8月27日发行的有碼成人影片由西野乙音出演\n「爸爸，這個老男人是誰？」他把他妻子的繼女賣給了性愛俱樂部的朋友們。他們帶著天真的、沒有性知識的小女孩去遊樂園約會並讓她們愛上她們後，帶她們到酒店，讓她們學習不使用避孕藥的原始性行為。即使她不喜歡，我也會用力地親吻她，擁抱她，並將我的生雞巴插入她體內。 「老頭兒，你的胯部感覺真好，感覺要熱到要裂開了。」漸漸地，他開始感覺到快感，不斷地和老頭們一起射精。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/202408222249499393.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/202408222249499393.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12492",
+  "actresses": [
+    {
+      "name": "西野乙音",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/120758fa-4329-41b8-9634-f6b5615bb56f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12492&name=西野乙音"
+    }
+  ]
+};

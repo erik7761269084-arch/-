@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16badd7d-2c61-422a-b30b-81ce5610bb4b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/c4d836b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8815,
+  "IDcode": "ROE-296",
+  "title": "連續7天，我都在隔壁S女風格的風俗按摩裏操美人妻，我勃起的陰莖不肯拔出，一次又一次的射 ~ 水野優香",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "按摩・美容店",
+    "鄰居",
+    "人妻",
+    "巨乳",
+    "獵豔",
+    "抹油",
+    "美人",
+    "熟女",
+    "處男"
+  ],
+  "description": "ROE-296为MADONNA出品,2025年1月28日发行的有碼成人影片由水野優香出演\n作為一名浪人學生，我正在準備今年冬天的普通考試。距離考試只剩下10天了，我連一天都不能浪費，但每天……我都聽到隔壁房間傳來猥褻的聲音。有一天，兩天……我忍無可忍，決定向隔壁的人投訴。當我按下門鈴時，一男一女赤裸著衣服從房間裡跳了出來。這名女子是這棟房子的主人，她的名字叫Yuka，她似乎在家裡經營一家美容沙龍。當由香發現我的絕境後，她主動提出給我一個美容院作為道歉…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073302212212.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123073302212212.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8815",
+  "actresses": [
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8815&name=水野優香"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8815&name=ニック"
+    }
+  ]
+};

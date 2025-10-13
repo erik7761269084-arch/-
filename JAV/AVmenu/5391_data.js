@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fcffe2fd-0da0-4b71-a356-e2db98d497b5/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/17/8d21274e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5391,
+  "IDcode": "PIYO-219",
+  "title": "新人出道！這種妹子不推倒還等啥 AV出道新星 AV DEBUT ~ 咲愛あやか",
+  "publish_date": "2025-06-12",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "貓耳裝飾",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "自慰",
+    "女僕制服",
+    "出道作品",
+    "清純",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "母親",
+    "眼鏡",
+    "美少女電影",
+    "女學生",
+    "女優",
+    "飯店",
+    "網路紅人"
+  ],
+  "description": "PIYO-219为Hiyoko出品,2025年6月12日发行的有碼成人影片由咲愛あやか出演\n遇到的這妹子，乍看就是路邊隨處可見的普通眼鏡女學生，文靜內斂，社團是吹奏樂部，負責吹長號的那種。第一次見面就覺得她特乖，老叔說啥她都笑著點頭，有點宅女氣質，但真的好惹人憐！有點像某個新聞主播，長得挺清秀。初體驗是跟SNS上認識的大一歲男生，還沒正式談過戀愛呢。不過她爆料說：「我從小學三年級就開始自慰了，偷看媽媽藏的粉色小本本，性意識就覺醒了，慾望超強…」 腦子裡全是各種妄想，簡直讓人想狠狠欺負她！正式開拍時，她對性愛還很生疏，但天啊，那水量驚人，男優舔完下巴都濕透了！第一次被這麼猛烈的抽插搞得尖叫連連，慾望終於被滿足，整個人爽到不行，臉上全是餍足的表情。",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090505275275_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090505275275_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5391",
+  "actresses": [
+    {
+      "name": "咲愛あやか",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250612/a756b294-23c8-40dd-8fb2-2817792d13bf_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5391&name=咲愛あやか"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5391&name=鲛岛"
+    }
+  ]
+};

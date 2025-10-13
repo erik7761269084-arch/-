@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/01/cdde99cd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92141,
+  "IDcode": "MEYD-862",
+  "title": "「映像関係」というパート募集に応募して採用された会社はAVメーカー。ADとして働き始めたのにいつのまにか人妻女優としてAVデビュー 初音みのり",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92141",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92141&name=初音實"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92141&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92141&name=イセドン内村"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92141&name=日森一"
+    }
+  ]
+};

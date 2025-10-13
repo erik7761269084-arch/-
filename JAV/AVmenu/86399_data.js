@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/03/c84af36c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86399,
+  "IDcode": "STARS-552",
+  "title": "学園祭でMINAMOがえっちすぎるほぼ全裸コスプレでお店は大行列!大繁盛!逆バニー・逆スク水・逆制服・逆チアガールで誘惑!",
+  "publish_date": "2022-05-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "角色扮演",
+    "乳房",
+    "猥亵穿着",
+    "兔女郎"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230207-1/9162fd76bbffed904ba4cdbf24528263.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86399",
+  "actresses": []
+};

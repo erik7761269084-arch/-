@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/eBuMD5IS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89376,
+  "IDcode": "SUJI-191",
+  "title": "【FANZA限定】小さなパイパン田舎少●中出し～性癖異常者の猥褻行為～つばさ148cm 南見つばさ パンティと生写真付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "无毛",
+    "女生",
+    "瘦小身型",
+    "魔鬼系",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89376",
+  "actresses": [
+    {
+      "name": "南見つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/9bdd7ad9-39b8-4640-b46c-93255c39f9db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89376&name=南見つばさ"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3f8367c4-9b4b-444c-9d66-ca0476534247/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/07/0c06924c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17081,
+  "IDcode": "DASS-302",
+  "title": "我從纖細大奶子姐姐黑川堇那裏得到的是一張可以在任何地方操她陰道的門票。",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "打手槍",
+    "姐弟・兄妹",
+    "美腳",
+    "情趣內衣",
+    "按摩棒"
+  ],
+  "description": "DASS-302为DASDAS出品,2023年12月26日发行的有碼成人影片由黑川堇出演\n黑川堇的性欲太強烈，男友向她提出分手。有一天，我在弟弟克彥的房間裏找東西時，發現了一張我很久以前制作的未使用過的門票。當我的父母出去旅行，我正在盡情自慰時，我發現克彥在房間外面自慰。把我制作的門票，當作“拍陰道票”，這將幫助她這次用完所有的安全套。當父母不在的時候，兄弟姐妹能夠互相釋放性欲。\n黑川堇的性欲太強烈，男友向她提出分手。有一天，我在弟弟克彥的房間裏找東西時，發現了一張我很久以前制作的未使用過的門票。當我的父母出去旅行，我正在盡情自慰時，我發現克彥在房間外面自慰。把我制作的門票，當作“拍陰道票”，這將幫助她這次用完所有的安全套。當父母不在的時候，兄弟姐妹能夠互相釋放性欲。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231225/20231225031104873873.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231225/20231225031104873873.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17081",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17081&name=黑川堇"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17081&name=ニック"
+    }
+  ]
+};

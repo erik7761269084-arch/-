@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221201/F5cYWoRw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82914,
+  "IDcode": "ZIZG-018",
+  "title": "監獄戦艦 ANOTHER STORY ～非道の寝取られ洗脳改造～ かすみ果穂",
+  "publish_date": "2016-03-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "监禁",
+    "白天出轨",
+    "催眠"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221201-1/745ec750fcdddb21dd59f0d9b3c2eb6e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82914",
+  "actresses": [
+    {
+      "name": "香澄果穗",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/54568575f77b65d15ed16440f765f99c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82914&name=香澄果穗"
+    }
+  ]
+};

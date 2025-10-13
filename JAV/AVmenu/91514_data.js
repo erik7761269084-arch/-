@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240515/hPGrdcuS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91514,
+  "IDcode": "APAA-411",
+  "title": "栗の華の匂いと愛液に塗れた、御籠りセックス。 柊ゆうき",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "苗条",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91514",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91514&name=柊有希"
+    }
+  ]
+};

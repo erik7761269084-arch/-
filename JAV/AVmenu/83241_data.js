@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/dGqSzVlo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83241,
+  "IDcode": "SW-673",
+  "title": "友達の姉さんはミニスカ極上プリ尻パンチラで誘惑しては寸止めする小悪魔！仕返しにイタズラで持ってきたバイブを突刺しパンティでふたをすると腰ガクブル状態。友達やお母さんの目を盗んでデカ尻に「絶倫チ○ポもっとちょーだい」言わせたったわ！",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "按摩棒",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/aa5648d70c6d5d76dc434e033cee9fa2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83241",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83241&name=大浦真奈美"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83241&name=纱々原ゆり"
+    },
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83241&name=水谷あおい"
+    }
+  ]
+};

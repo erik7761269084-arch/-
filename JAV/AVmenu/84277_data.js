@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230107/IP1xUtWZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84277,
+  "IDcode": "DASS-047",
+  "title": "催淫洗脳された巨乳な彼女は嫌がりながらもアナル肉便器になっていた 夏目みらい",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "肛交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84277",
+  "actresses": [
+    {
+      "name": "夏目未來",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ff2def96-3bcb-4536-ae3c-7abf8587feb3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84277&name=夏目未來"
+    }
+  ]
+};

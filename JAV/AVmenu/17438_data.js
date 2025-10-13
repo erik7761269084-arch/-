@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/df97d36b-83b0-47b9-b111-ff72a2965363/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/18/a8234b6a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17438,
+  "IDcode": "DLDSS-254",
+  "title": "暴雨夜NTR 鄰居妻子丟了鑰匙 和她進行的一場濕淋淋的性愛",
+  "publish_date": "2023-08-24",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "濕身",
+    "劇情",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "強姦",
+    "性感",
+    "性騷擾",
+    "鄰居",
+    "人妻",
+    "巨乳",
+    "NTR"
+  ],
+  "description": "DLDSS-254为DAHLIA出品,2023年8月24日发行的有碼成人影片由広瀬美結出演\n男人厭倦了城市的生活，搬到了鄉村，儘管對陌生和不方便的生活方式感到困惑，但他過著充實的生活。 同時，與鄉村的鄰居建立新的關係令人耳目一新，隔壁的夫婦對我很好。 某天，一場突如其來的大雨，入田真綾來我家求助，說是丟了鑰匙，老公也不在家，回不去了。 平常沒注意到入田真綾的奶子這麼大，被雨水弄濕後，變的透明。 我的理智瞬間就被吹走了，將她推倒了。\n男人厭倦了城市的生活，搬到了鄉村，儘管對陌生和不方便的生活方式感到困惑，但他過著充實的生活。 同時，與鄉村的鄰居建立新的關係令人耳目一新，隔壁的夫婦對我很好。 某天，一場突如其來的大雨，入田真綾來我家求助，說是丟了鑰匙，老公也不在家，回不去了。 平常沒注意到入田真綾的奶子這麼大，被雨水弄濕後，變的透明。 我的理智瞬間就被吹走了，將她推倒了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231203/1b188393-03c3-4be4-9905-6c7500510daa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231203/1b188393-03c3-4be4-9905-6c7500510daa.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17438",
+  "actresses": [
+    {
+      "name": "入田真綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/87df9d7b-a930-4897-a17d-d32a523ae348.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17438&name=入田真綾"
+    },
+    {
+      "name": "広瀬美結",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/5eeaab9f-8dca-43a2-ae9e-7f8628257891.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17438&name=広瀬美結"
+    }
+  ]
+};

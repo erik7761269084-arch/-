@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/30/9359a499/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96343,
+  "IDcode": "VENZ-010",
+  "title": "性欲強めの人妻がお色気むんむんベロキス誘惑 よだれダラダラ濃密フェラでデカチン爆勃ち大量射精 びらびら全開オ●ンコ魅せつけバイブオナニー 夫不在の家に連れ込まれ中出しセックス 田所百合",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96343",
+  "actresses": [
+    {
+      "name": "田所百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/e68f208f-cd84-4490-b22c-00e740f313c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96343&name=田所百合"
+    }
+  ]
+};

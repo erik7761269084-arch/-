@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/JDZOH623/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77358,
+  "IDcode": "SDDE-606",
+  "title": "催●光線で支配された上流家族 史上最悪のクリスマスパーティー",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "企画",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77358",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77358&name=皆月光"
+    },
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77358&name=美谷朱里"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77358&name=凛音とうか"
+    }
+  ]
+};

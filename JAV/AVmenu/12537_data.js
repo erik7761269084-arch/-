@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f7d86cb4-12d7-45a4-b242-b734acb9e09a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12537,
+  "IDcode": "MILK-218",
+  "title": "援交枕營業 可愛又傷痕累累的地下偶像的祕密性接待，讓老男人着迷 Cosplay SEX 隨時可以射精 ~ 南梨央奈",
+  "publish_date": "2024-08-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "劇情",
+    "游戲COSPLAY",
+    "偶像",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "美少女",
+    "女僕制服",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/a48ed197-67c5-41f3-9c71-491292e5172e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/a48ed197-67c5-41f3-9c71-491292e5172e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12537",
+  "actresses": [
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12537&name=南梨央奈"
+    }
+  ]
+};

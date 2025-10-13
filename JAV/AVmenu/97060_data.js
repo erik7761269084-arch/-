@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240702/2lyUX9Sg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97060,
+  "IDcode": "SW-323",
+  "title": "友達の家に遊びに行ったら、お姉さん達の大人カラダに思春期チ○ポが破裂寸前。「弟には内緒で初体験させてあげよっか◆」僕の童貞誘惑されちゃいました！",
+  "publish_date": "2015-04-09",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "其他恋物癖",
+    "姐姐",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97060",
+  "actresses": [
+    {
+      "name": "百合川紗羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/76f8f261-059a-487f-8cdb-267407e81b2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97060&name=百合川紗羅"
+    },
+    {
+      "name": "大场唯",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-大場ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97060&name=大场唯"
+    },
+    {
+      "name": "仲里纱羽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97060&name=仲里纱羽"
+    }
+  ]
+};

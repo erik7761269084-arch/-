@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231215/2jHP33dG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89257,
+  "IDcode": "STARS-824",
+  "title": "僕たちイジメられっ子の陰キャはこの調子に乗ったヤンキーギャルを逆襲レ×プします。 MINAMO",
+  "publish_date": "2023-07-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89257",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230117/x8bN1nKD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85003,
+  "IDcode": "JUFE-393",
+  "title": "人生初の中出し解禁！ 常に若女将が密着つきっきりで丁寧に貴方の肉棒をもてなす最高の射精旅館 伊織羽音",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "老板娘，女主人",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/aac4189e116233c39cde78406be723a1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85003",
+  "actresses": []
+};

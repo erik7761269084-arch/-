@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d06a423d-b9dc-4c76-971b-b5ff0bbab0c0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9909,
+  "IDcode": "VENZ-031",
+  "title": "性欲極強的人妻空姐，只接待全世界最頂級的VIP客人，起飛前先用甜蜜粘稠的吻引導你射精。出色的口交服務吸引了來自世界各地的貴賓 ~ 月野香澄",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "接吻",
+    "拜金女",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "空姐",
+    "熟女",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241214/f907320e-0b66-466d-aa3a-0d546214a876.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241214/f907320e-0b66-466d-aa3a-0d546214a876.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9909",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9909&name=月野香澄"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5a4b767a-3bb1-448e-9890-cd34a4324a90/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220809/0AseGhFa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18123,
+  "IDcode": "IPX-822",
+  "title": "女優突擊詭異風俗店！ 仲村美羽",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "偶像",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "風俗夜場",
+    "艷遇",
+    "粉絲福利",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029005511129129.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231029/20231029005511129129.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18123",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18123&name=仲村美羽"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18123&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,154 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4815a866-ed89-448f-97dc-95c8b03f8a55/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/9c3a7434/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5289,
+  "IDcode": "MKCK-388",
+  "title": "細腰扭到斷 美胸狂搖晃 神級身材ポルチオ直擊M8.0級高潮地震 極致女體爽翻天 30場硬戰 ~ 清宮仁愛 雨宮響 宮本留衣 天月梓 森下琴乃 藤子未央 柏木小夏 佐藤鹽 七瀨愛麗絲",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "深喉",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "MKCK-388为E-BODY出品,2025年6月13日发行的有碼成人影片由柏木小夏，七瀨愛麗絲，清宮仁愛，天月梓，佐藤しお，森下ことの， 宮本留衣，藤子未央，雨宮響出演\n纖細巨乳身材，簡直要被玩壞啦！超粗大肉棒狠狠塞進細腰妹子的嫩穴，頂到最深處猛烈抽插，爽到爆！ポルチオ被刺激到極限，硬挺挺的大棒讓她全身扭曲，瘋狂高潮，尖叫著直衝雲霄，欲罷不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072854653653_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072854653653_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5289",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=柏木小夏"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=天月梓"
+    },
+    {
+      "name": "七瀨愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240114/6d8ca794-c12e-4de8-8f5d-c8433e029fc2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=七瀨愛麗絲"
+    },
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=藤井蘭々"
+    },
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=雨宮響"
+    },
+    {
+      "name": "佐藤しお",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/ac3e3b51-2350-4290-aa83-96c48fc3e0d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=佐藤しお"
+    },
+    {
+      "name": "宮本留衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240317/5a67da63-6ee5-4545-816b-83b2643e97e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=宮本留衣"
+    },
+    {
+      "name": "清宮仁愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240414/61d09530-6aa9-4dbe-983f-1243fff4c365.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=清宮仁愛"
+    },
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=有坂深雪"
+    },
+    {
+      "name": "藤子未央",
+      "img_url": "https://picture.yoshiclub.xyz/20240422/5a4b056a-20c5-40d9-b164-dfcc61dd5b40.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=藤子未央"
+    },
+    {
+      "name": "森下ことの",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/85274818-989d-4131-85d4-5d96c209c16a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=森下ことの"
+    },
+    {
+      "name": "衣吹花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230711/9f2d00f2-39ee-455d-b8d6-2e3061a25020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=衣吹花音"
+    },
+    {
+      "name": "百田胡桃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527100343348348_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=百田胡桃"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=安倍亜沙美"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=浅田结梨"
+    },
+    {
+      "name": "高丘大空",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5289&name=高丘大空"
+    }
+  ]
+};

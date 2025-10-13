@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250415/ylueBv1S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68053,
+  "IDcode": "STARS-642",
+  "title": "神木麗 一條浴巾闖男湯 石和溫泉編",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "羞耻",
+    "滥交",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68053",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68053&name=神木麗"
+    }
+  ]
+};

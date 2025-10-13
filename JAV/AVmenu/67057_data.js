@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250425/tn9fhrcq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67057,
+  "IDcode": "ABW-257",
+  "title": "大嫂的子宮在咆哮，中出+α11發射！！ 真人版 松岡鈴",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "无码破解",
+    "原作改编",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67057",
+  "actresses": [
+    {
+      "name": "松冈すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67057&name=松冈すず"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67057&name=タツ"
+    }
+  ]
+};

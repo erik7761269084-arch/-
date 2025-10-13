@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/VAwHcF6U/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93503,
+  "IDcode": "NKD-317",
+  "title": "性玩少女ハメ撮り 天乃のあ",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "第一人称摄影",
+    "口交",
+    "瘦小身型",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/1f111d36c946dc1d538bac2aae0b7db3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93503",
+  "actresses": [
+    {
+      "name": "天乃のあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/11323ce3-390d-4768-ab59-6eb113e89679.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93503&name=天乃のあ"
+    }
+  ]
+};

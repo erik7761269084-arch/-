@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/01/6e3b208c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67631,
+  "IDcode": "DRPT-035",
+  "title": "ギリギリ挿入してない？超密着系膣コキ騎乗位エステ 玉木くるみ 市川愛茉 花宮レイ パンティとチェキ付き",
+  "publish_date": "2023-01-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "按摩",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/b0504c72979df62b7b2c53746355acad.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67631",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67631&name=大島愛里亞"
+    },
+    {
+      "name": "花宫レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67631&name=花宫レイ"
+    }
+  ]
+};

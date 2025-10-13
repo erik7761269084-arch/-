@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5fff528-de2c-4ad4-a794-0f291e237766/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/30/241c9d73/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14315,
+  "IDcode": "JUNY-118",
+  "title": "上下大口連續吞精！爆乳密着泡泡浴 ~ 柳可憐",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "按摩女郎",
+    "色白",
+    "中出",
+    "美乳",
+    "泡泡浴店",
+    "蕩婦",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "巨乳",
+    "猥褻穿著",
+    "抹油",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "JUNY-118为FITCH出品,2024年6月4日发行的有碼成人影片由柳可憐出演\n只收集豐滿巨乳精緻美女的高級肥皂店。精心挑選的優雅女性將歡迎您。這次招待大家的豐滿美女是武田麗香。她溫柔，充滿母性，會用她溫柔妖嬈的身體包裹著你。她巨大的乳房緊密接觸，將整個身體舔得乾乾淨淨，並用上下嘴吸吮他的陰莖，直到他睪丸中的精液被排空。請享受獨特的樂趣和奢華的時光。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531011125440440.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531011125440440.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14315",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14315&name=柳可憐"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14315&name=ひょこり"
+    }
+  ]
+};

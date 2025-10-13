@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36d8f18f-d1dc-4a70-80a9-3e9b29ec4687/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/20/3a44b654/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18725,
+  "IDcode": "CAWD-559",
+  "title": "【無碼破解】瘋狂變態的著衣做愛 幾乎全裸的下體",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "游戲COSPLAY",
+    "中出",
+    "角色扮演",
+    "JK校服",
+    "無碼破解",
+    "白眼失神",
+    "兔女郎妝扮",
+    "巨乳",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230913/20230913041636437437.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230913/20230913041636437437.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18725",
+  "actresses": [
+    {
+      "name": "設樂夕日",
+      "img_url": "https://picture.yoshiclub.xyz/20230913/6a9bf07d-7cd5-4a21-9242-2b39d6faad1a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18725&name=設樂夕日"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18725&name=小田切ジュン"
+    }
+  ]
+};

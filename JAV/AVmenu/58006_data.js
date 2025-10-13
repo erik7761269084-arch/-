@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220922/JlvjcvVo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58006,
+  "IDcode": "MT-001",
+  "title": "マスターズ タッチ",
+  "publish_date": "2022-07-13",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [
+    "艺人",
+    "企画",
+    "纪录片",
+    "模特儿",
+    "重印版",
+    "女佣",
+    "萝莉",
+    "店长推荐",
+    "最新影片",
+    "正在上映",
+    "精品收藏",
+    "立即口交",
+    "口交",
+    "巨乳爆乳",
+    "束缚"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58006",
+  "actresses": [
+    {
+      "name": "可愛い系",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58006&name=可愛い系"
+    },
+    {
+      "name": "セクシー系",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58006&name=セクシー系"
+    },
+    {
+      "name": "田中露央沙",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58006&name=田中露央沙"
+    }
+  ]
+};

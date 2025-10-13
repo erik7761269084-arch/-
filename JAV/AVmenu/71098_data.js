@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250218/hWsjmdXP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71098,
+  "IDcode": "AP-663",
+  "title": "スーパーで働く美女たちが万引きで捕まった少年をバックヤードで拘束！性欲の堪った美女たちがウブ少年に性的制裁！よってたかって少年チ●ポを弄んで犯しまくる！",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫乱，真实",
+    "女上位",
+    "姐姐",
+    "各种职业",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71098",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71098&name=黑川堇"
+    },
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71098&name=葵百合香"
+    },
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71098&name=有栖露露"
+    },
+    {
+      "name": "桥本丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71098&name=桥本丽华"
+    },
+    {
+      "name": "后藤里香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2483effa658afadc84442d80f1731b75.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71098&name=后藤里香"
+    }
+  ]
+};

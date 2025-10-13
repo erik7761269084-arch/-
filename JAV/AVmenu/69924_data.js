@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/00118168/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69924,
+  "IDcode": "MRSS-166",
+  "title": "夫が多忙でセックスレスの人妻が、義父に寝取られて嫌々ながらも発情して白目オホ声で絶叫絶頂中出し三昧！ 橘内ひなた",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69924",
+  "actresses": [
+    {
+      "name": "橘日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/72d5e9fe-64e7-4966-9fe5-d356632397db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69924&name=橘日向"
+    }
+  ]
+};

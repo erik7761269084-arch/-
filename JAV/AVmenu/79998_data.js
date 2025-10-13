@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/pnKnfUXH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79998,
+  "IDcode": "TIKB-126",
+  "title": "デカパイでクソエロボディーのセフレを晒します！",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "女生",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79998",
+  "actresses": []
+};

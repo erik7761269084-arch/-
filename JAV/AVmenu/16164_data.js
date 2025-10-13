@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0c71a2a-0a27-4bd9-9a7c-fc5b2ee90044/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/28/af726494/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16164,
+  "IDcode": "SSNI-152",
+  "title": "強奸大奶子女教師羣輪奸 三上悠亜",
+  "publish_date": "2018-03-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "強姦",
+    "性感",
+    "輪姦",
+    "多P",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "學校"
+  ],
+  "description": "SSNI-152为S1出品,2018年3月19日发行的有碼成人影片由三上悠亜出演\n“不不不不！！停下來！！！” 女教師三上悠亜被分配到東京附近的一所私立男子學校。她年輕漂亮，衣服底下也太引人注目的巨乳對男學生的陰莖刺激太大了……公開處決一個受過罪犯洗禮、受過欲望羞辱的娘們！ 「老師的胸好軟好舒服。」她化身肉便器，被貼上猥褻老師的標籤，被強暴。國民偶像×首次強奸作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240221/20240221071046724724.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240221/20240221071046724724.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16164",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16164&name=三上悠亜"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16164&name=田渊正浩"
+    }
+  ]
+};

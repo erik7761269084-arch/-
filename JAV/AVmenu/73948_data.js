@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/bbce258a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73948,
+  "IDcode": "PRED-182",
+  "title": "上司の爆乳妻がまさかの元・同級生。 凛音とうか",
+  "publish_date": "2019-09-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73948",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73948&name=凛音とうか"
+    }
+  ]
+};

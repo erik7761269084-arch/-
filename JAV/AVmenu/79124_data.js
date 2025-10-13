@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/pFWOAjPH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79124,
+  "IDcode": "RKI-612",
+  "title": "- はじめは嫌いだった「こどおじ」なのに監禁されて犯●れている内にだんだん気になる存在になって最後は自分から仕返し中出しSEX 深田えいみ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "巨乳",
+    "中出",
+    "乳房",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9a02da1c3dc38ea67e60950e84f1acc2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79124",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79124&name=深田詠美"
+    }
+  ]
+};

@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/670f377a-d9be-4f9f-ab80-21f389ccf3ba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 212,
+  "IDcode": "HEYZO-0221",
+  "title": "退引作！101cm I罩杯！超爆乳蘿莉臉的最後大亂交FUCK ~ 北嶋あん",
+  "publish_date": "2013-01-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "蘿莉",
+    "紀念作",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "美少女",
+    "地雷系",
+    "自慰",
+    "退休作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "豐滿",
+    "女優"
+  ],
+  "description": "HEYZO-0221为HEYZO出品,2013年1月11日发行的無碼成人影片由北嶋あん出演\n整整兩年，作為AV女優活躍在螢幕上的101cm I罩杯爆乳女神大島あいる，終於迎來她的告別之作！這次HEYZO獨家獻上她的最終篇章！開場先是真情流露，聊聊這兩年的酸甜苦辣，還有一些不為人知的小秘密，句句戳心。接著她嬌聲細語地說：這是我最後一次自慰，快來看看，盡情打飛機啦！雖然知道這是最後一次，心裡有點小難過，但她的超萌超色情自慰秀瞬間讓人忘卻悲傷！從揉胸開始，慢慢進入狀態，再往那對巨乳上抹滿潤滑油，簡直讓人血脈噴張！當然，招牌爆乳パイズリ也是必不可少的福利！大島あいる的最終之作，兄弟們千萬別錯過，趕快來爽一波啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604001454594594_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250604/20250604001454594594_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=212",
+  "actresses": [
+    {
+      "name": "北嶋あん",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604105304646646_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=212&name=北嶋あん"
+    }
+  ]
+};

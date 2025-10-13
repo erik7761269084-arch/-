@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57260,
+  "IDcode": "E8099E184726C9926A2BE587D2E85784",
+  "title": "喜欢狗的性爱姿势",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57260",
+  "actresses": []
+};

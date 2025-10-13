@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/05/028d56c2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67085,
+  "IDcode": "ADN-396",
+  "title": "唾液混合 密室接吻社長室 白峰美羽",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "中出",
+    "秘书",
+    "接吻",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67085",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67085&name=白峰美羽"
+    }
+  ]
+};

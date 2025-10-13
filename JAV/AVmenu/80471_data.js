@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/zfc5obLd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80471,
+  "IDcode": "336KNB-184",
+  "title": "【元グラドルの人妻降临】自分で応募してきたくせに",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/1ee1f3a33a2d4729600ee86032f65e7a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80471",
+  "actresses": []
+};

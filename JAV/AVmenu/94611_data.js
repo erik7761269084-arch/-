@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241028/fULod7PB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94611,
+  "IDcode": "START-045",
+  "title": "電車でお漏らししてしまった泥●OLをお持ち帰り輪● 出してもすぐ満タンになる膀胱をガン突きして、アクメ失禁させまくった一夜 唯井まひろ",
+  "publish_date": "2024-04-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P",
+    "潮吹",
+    "烂醉如泥的"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94611",
+  "actresses": [
+    {
+      "name": "唯井真寻",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bf2b9699-b121-462f-ba29-548f845a13d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94611&name=唯井真寻"
+    }
+  ]
+};

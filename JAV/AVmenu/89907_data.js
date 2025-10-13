@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/bewf3Ebm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89907,
+  "IDcode": "SDDE-710",
+  "title": "パパママ頑張れ！！ 仲良し家族対抗ぬるぬるローションハメハメ合戦2023 個性派家族たちの異種混合本気バトル 体格・お○んぽ捌き・ヌルテクを制して優勝賞金100万円を勝ち取れ！ 藤田こずえ 宇佐美みおん 南畑颯花 赤城穂波 広末みゆ",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "艺人",
+    "乳液",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89907",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89907&name=藤田梢"
+    },
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89907&name=白河花清"
+    },
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89907&name=赤城穂波"
+    },
+    {
+      "name": "宇佐美みおん",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/f958e0a8-a240-4c46-8134-7697162e44e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89907&name=宇佐美みおん"
+    },
+    {
+      "name": "広末みゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89907&name=広末みゆ"
+    }
+  ]
+};

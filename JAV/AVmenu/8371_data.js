@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4ed84d70-6dc5-4492-8d1b-b728b4fd5eff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8371,
+  "IDcode": "TLDC-025",
+  "title": "英俊騎士團長對戀人的溺愛SEX ~ 皆月光",
+  "publish_date": "2025-03-07",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "純粹的慾望",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "女性向",
+    "手指插入",
+    "正太",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "野性"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250210/202502100435047474.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250210/202502100435047474.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8371",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8371&name=皆月光"
+    }
+  ]
+};

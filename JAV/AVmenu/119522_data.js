@@ -1,0 +1,18 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119522,
+  "IDcode": "FC2PPV-835964",
+  "title": "FC2-PPV-835964 初撮り 完全颜出し☆清楚でおしとやかな美人エレベーターガールの乱れる様子をとくとご覧あれ！",
+  "publish_date": "2018-05-16",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "美女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119522",
+  "actresses": []
+};

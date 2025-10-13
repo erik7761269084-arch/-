@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240327/Ueywpnjm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101570,
+  "IDcode": "SNIS-276",
+  "title": "全裸宿舍管理人 小島南",
+  "publish_date": "2014-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "苗条",
+    "薄马赛克",
+    "裸体围裙",
+    "手淫",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/snis276/snis276pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101570",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101570&name=小島南"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101570&name=しみけん"
+    }
+  ]
+};

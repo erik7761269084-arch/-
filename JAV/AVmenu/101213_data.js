@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240214/csxIhScU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101213,
+  "IDcode": "LUXU-1734",
+  "title": "ラグジュTV 1756 エロの伸びしろ半端ないって！！！全身剥き出し性感帯！！！男なら分かる！！ちょうどいい肉付きのスーパーホテルウーマンが登場！",
+  "publish_date": "2024-01-15",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101213",
+  "actresses": [
+    {
+      "name": "あずさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101213&name=あずさ"
+    }
+  ]
+};

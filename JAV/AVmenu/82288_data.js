@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221113/IoeA3zvH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82288,
+  "IDcode": "SMSD-021",
+  "title": "奴●誓約書 今井夏帆",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "捆绑",
+    "监禁",
+    "SM",
+    "拘束",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82288",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82288&name=今井夏帆"
+    }
+  ]
+};

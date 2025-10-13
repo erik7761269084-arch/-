@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99009,
+  "IDcode": "TOTSUGEKI0010",
+  "title": "美腳で可愛い年上お姉さんに目隠しして本番中ゴムを外して無許可中出し！",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99009",
+  "actresses": []
+};

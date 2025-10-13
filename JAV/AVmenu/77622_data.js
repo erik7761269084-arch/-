@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/29/a281e9e1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77622,
+  "IDcode": "CAWD-301",
+  "title": "手塩にかけた娘は俺の子じゃなかった…だから妻に隠れて種付け交尾。これで本当の家族になれるね。 琴石ゆめる",
+  "publish_date": "2021-11-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "高中女生",
+    "中出",
+    "乱伦",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77622",
+  "actresses": [
+    {
+      "name": "琴石ゆめる",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/b9d67258-b4c2-47bb-ab17-b7f6e371c958.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77622&name=琴石ゆめる"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0dea19c7-fdaa-4b25-ac94-591f759857d0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17222,
+  "IDcode": "MXGS-1315",
+  "title": "突破極限！春藥讓齋藤亞美里出水太多，以至於她失去知覺，在性交中達到高潮",
+  "publish_date": "2023-12-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "後入",
+    "中出",
+    "美乳",
+    "美臀",
+    "口交",
+    "女友・妻子",
+    "媚藥・迷藥",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳"
+  ],
+  "description": "MXGS-1315为MAXING出品,2023年12月16日发行的有碼成人影片由齋藤亞美里出演\n春藥讓齋藤亞美里出水太多，一般的型爱到不了高潮，唯有在超高速的活塞运动中達到高潮\n春藥讓齋藤亞美里出水太多，一般的型爱到不了高潮，唯有在超高速的活塞运动中達到高潮",
+  "cover_url": "https://picture.yoshiclub.xyz/20231216/f5f6def0-9763-4a07-b307-1f3ae3256b2b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231216/f5f6def0-9763-4a07-b307-1f3ae3256b2b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17222",
+  "actresses": [
+    {
+      "name": "齋藤亞美里",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/e0e8100c-8051-4b7a-90a9-44bfdd3280f7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17222&name=齋藤亞美里"
+    }
+  ]
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/wKEJPJ6i/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87131,
+  "IDcode": "NACX-122",
+  "title": "パイパン熟女12人BEST VOL.05 パンティと生写真付き",
+  "publish_date": "2023-06-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "无毛"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87131",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=美園和花"
+    },
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=森澤佳奈"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=吉根柚莉爱"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=大槻响"
+    },
+    {
+      "name": "二宮和香",
+      "img_url": "https://picture.yoshiclub.xyz/20240620/4eed77a4-0ee7-4b22-8adc-1efdb2f67b3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=二宮和香"
+    },
+    {
+      "name": "佐々木咲和",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/61c6cc7f-4818-4b85-ac85-dc51e686e388.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=佐々木咲和"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=安倍亜沙美"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=新井爱丽"
+    },
+    {
+      "name": "瞳リョウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87131&name=瞳リョウ"
+    }
+  ]
+};

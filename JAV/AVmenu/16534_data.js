@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c0cc2467-4219-4b44-a222-f9a1589d68d9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16534,
+  "IDcode": "KKBT-004",
+  "title": "活躍的風俗娘一条のぞみ的漂亮身體淫蕩地顫抖，她被大雞巴操翻了",
+  "publish_date": "2024-02-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "3P・4P",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "口交",
+    "舔陰",
+    "少女",
+    "口爆",
+    "多P",
+    "美少女",
+    "情趣內衣",
+    "手指插入",
+    "女優"
+  ],
+  "description": "KKBT-004为SOD出品,2024年2月1日发行的有碼成人影片由一条のぞみ出演\n高級演藝界演員“布倫達”一條希美以AV女優的技術高潮！這是一條的第一次亮相，他被大雞巴無休止地插入，並做愛，讓她美麗的身體一點點抽搐！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240131/5ced5052-8ae4-4766-852e-0dca3104c7ac.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240131/5ced5052-8ae4-4766-852e-0dca3104c7ac.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16534",
+  "actresses": [
+    {
+      "name": "一条のぞみ",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/3dedfe04-2e7e-46c9-8148-ce67e61596a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16534&name=一条のぞみ"
+    }
+  ]
+};

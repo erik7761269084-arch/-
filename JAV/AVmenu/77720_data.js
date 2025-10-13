@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/8Z8H0H0t/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77720,
+  "IDcode": "NACR-222",
+  "title": "隣の美人妻 泥●し部屋を間違え「ただいま～！」 横山みれい",
+  "publish_date": "2019-03-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77720",
+  "actresses": [
+    {
+      "name": "横山みれい",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a6167fbe-2a86-4933-a009-854ec0b01685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77720&name=横山みれい"
+    }
+  ]
+};

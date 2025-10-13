@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/08/cd9d2651/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75374,
+  "IDcode": "DASD-562",
+  "title": "校則を守れない生徒たち。理不尽な三者面談。 永瀬ゆい",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "调教",
+    "运动短裤",
+    "平胸",
+    "校服",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75374",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75374&name=永濑唯"
+    }
+  ]
+};

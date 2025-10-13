@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb042c77-9a8c-4ba9-9e34-f83a7281a5cf/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/192beda7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10451,
+  "IDcode": "SONE-452",
+  "title": "女上司是一個只有148cm高的總是蔑視我的可愛小女人......騎在我身上，一遍又一遍地以騎乘式的姿勢引誘我射精，這很尷尬 ~ 夢乃愛華",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "加班",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "勾引・誘惑",
+    "美腳",
+    "艷遇",
+    "癡女",
+    "辦公室",
+    "NTR",
+    "女上司",
+    "羞恥"
+  ],
+  "description": "SONE-452为S1出品,2024年11月26日发行的有碼成人影片由夢乃愛華出演\n雖然被老闆罵了，但有時還是會笑，因為……我的老闆夢乃桑，個子小，可愛，又不起眼。 「我得為你所有的錯誤收拾你的屁股，所以我會感到壓力很大，嚇壞了......」「你只是因為我很小而取笑我，不是嗎？」你表現得像個大人物。她脫掉褲子並扭動乳頭的可恥遊戲，她的嘴和我的乳頭的位置不是很完美嗎？我們的身高差是。出擊姿勢……這太嚴厲了，“你只是個小混混”，這和之前嘲笑他的老大的立場完全顛倒了……不，他只是回到了原來的位置，雖然有女朋友了，但被夢野同學玩弄的感覺也漸漸地變得……了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122002042689689.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122002042689689.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10451",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10451&name=夢乃愛華"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220330/B92C17755CC2DD0D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97553,
+  "IDcode": "ARBB-033",
+  "title": "＃新宿神待ち家出女子校生 しゅり 03 跡美しゅり",
+  "publish_date": "2016-12-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出",
+    "多P",
+    "颜射",
+    "苗条",
+    "口交",
+    "平胸",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1092arbb033/h_1092arbb033pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97553",
+  "actresses": [
+    {
+      "name": "迹美珠里",
+      "img_url": "https://picture.yoshiclub.xyz/20250209/68745e14-acbf-4d33-bf8e-716ff9a5b9b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97553&name=迹美珠里"
+    }
+  ]
+};

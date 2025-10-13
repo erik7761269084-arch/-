@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240602/wSjAkg0p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102330,
+  "IDcode": "SPRO-057",
+  "title": "家出少女ハメ撮りナンパ☆ ワケありそうな少女をナンパしたら家出中！話を聞いて慰めてホテルでハメ撮りした記録",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "业余",
+    "猎艳",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1594spro057/h_1594spro057pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102330",
+  "actresses": []
+};

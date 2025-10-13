@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241017/z3NJSinG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93857,
+  "IDcode": "PYM-489",
+  "title": "ちっぱい娘おしゃぶりパイ擦り射精",
+  "publish_date": "2024-08-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "口交",
+    "手淫",
+    "恋物癖",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/68b73537b01a62979739e1f7e645c6e6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93857",
+  "actresses": []
+};

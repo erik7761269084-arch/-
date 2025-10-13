@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/78a8e86f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76836,
+  "IDcode": "JUL-009",
+  "title": "緊貼幹砲 ～與老公朋友追求溫暖的不貞交尾～ 三浦步美",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "接吻",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76836",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76836&name=愛弓涼"
+    }
+  ]
+};

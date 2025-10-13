@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2bede3cd-9eb8-4d3e-ad52-bf935f6c4fd1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3254,
+  "IDcode": "START-408",
+  "title": "福岡小妹人生初東京遊！用超撩人的博多騷話把東京M男榨幹 ~ 天神羽衣",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "START-408为SOD出品,2025年8月25日发行的有碼成人影片由 天神羽衣出演\n来自福冈的天神小妹几乎没咋逛过东京，这次跟她一边小酌一边来场大人的东京约会！她那句“咋硬成这样啦？”一出口，超萌的博多骚话直接把东京M男迷得晕头转向！甜甜的笑容加上博多腔再配上挑逗技巧，简直色气爆棚，连续射都停不下来！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212138557557_29189_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212138557557_29189_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3254",
+  "actresses": [
+    {
+      "name": "天神羽衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250415/c59f2e00-4099-423f-b6f2-28606873eef3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3254&name=天神羽衣"
+    }
+  ]
+};

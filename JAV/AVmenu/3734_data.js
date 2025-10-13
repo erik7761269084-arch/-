@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/04a29b4e-aaac-40f6-8583-609dbf88ed69/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/eba0728b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3734,
+  "IDcode": "NGOD-278",
+  "title": "全日本寢取大賞：鄉下侄子進城秀巨根，叔叔地位GG，賢妻秒變騷妹 ~ 波多野結衣",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "嬸嬸",
+    "女上位",
+    "肉絲",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "女神",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "芸能人"
+  ],
+  "description": "NGOD-278为卍GROUP出品,2025年8月7日发行的有碼成人影片由波多野结衣出演\n老公老家来的侄子，几年没见居然进城了，说是入选了足球县选拔队，要在城里集训。小时候还是个可爱的小屁孩，现在个头窜得老高，变成了一个帅气的小伙子。叔叔摆出一副人生前辈的架子，牛气哄哄地说：那就住叔叔家吧！结果某天晚上洗澡前，夫妻俩不小心撞见了侄子那根黑亮亮的超粗巨根，简直让人目瞪口呆！一向正经的老婆看到这画面，眼神都变了，露出了一副饥渴小母狗的表情，叔叔的地位瞬间崩塌，这场面简直要命啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031016462462_73394_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031016462462_73394_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3734",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3734&name=波多野结衣"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3734&name=タクト"
+    }
+  ]
+};

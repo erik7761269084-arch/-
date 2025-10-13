@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/26963579-9225-498a-ba65-506bd1d7590a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/20/e3068c6a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17878,
+  "IDcode": "ALDN-232",
+  "title": "母子的溫泉之旅",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "苗條",
+    "和服・浴衣・喪服",
+    "中出",
+    "旅行",
+    "母子",
+    "母親",
+    "熟女",
+    "溫泉",
+    "亂倫"
+  ],
+  "description": "ALDN-232为TAKARA出品,2023年11月14日发行的有碼成人影片由小松杏出演\n安安在商圈抽獎中中了一次溫泉之旅。搬到東京工作的兒子陽介，我瞞著丈夫去泡了溫泉。事實上，安對丈夫不忠，並考慮離婚。我之所以瞞著老公去旅行，是因為我想解決各種問題……當他向兒子坦白這件事時，兒子很驚訝……這才是讓兒子意識到的觸發因素。他從小就對母親隱藏著浪漫的感情。身為異性的一員，她對母親產生了色欲……受創的安蘇，尋找兒子的身體來填補孤獨……\n安安在商圈抽獎中中了一次溫泉之旅。搬到東京工作的兒子陽介，我瞞著丈夫去泡了溫泉。事實上，安對丈夫不忠，並考慮離婚。我之所以瞞著老公去旅行，是因為我想解決各種問題……當他向兒子坦白這件事時，兒子很驚訝……這才是讓兒子意識到的觸發因素。他從小就對母親隱藏著浪漫的感情。身為異性的一員，她對母親產生了色欲……受創的安蘇，尋找兒子的身體來填補孤獨……\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20231113/2651953f-9fa2-4d5d-9790-7de52d8604df.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231113/2651953f-9fa2-4d5d-9790-7de52d8604df.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17878",
+  "actresses": [
+    {
+      "name": "小松杏",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/546418e6-c184-47d5-a5ec-883e8ca0203b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17878&name=小松杏"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17878&name=ひょこり"
+    }
+  ]
+};

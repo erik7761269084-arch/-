@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231003/TET31AJb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88295,
+  "IDcode": "Beautiful",
+  "title": "Nurse",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/6c576732717b992042e8ab386f93922e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88295",
+  "actresses": []
+};

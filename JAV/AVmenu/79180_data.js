@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/OFLv9f0y/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79180,
+  "IDcode": "DKWT-013",
+  "title": "- ヤりたくてヤりたくて堪らないの…超爆乳のS級グラマラスボディを持つSEX依存症のS級ド淫乱妻 夕季ちとせ29歳 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "自慰",
+    "潮吹",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/2b6d80d1c2cf0f23092cba26598c97ea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79180",
+  "actresses": [
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79180&name=七草千歲"
+    }
+  ]
+};

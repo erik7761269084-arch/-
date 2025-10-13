@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230202/78cbf6c9-b4e7-468a-9e22-c6f867acaae8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1790,
+  "IDcode": "SKYHD-091",
+  "title": "SKY ANGEL 91 初降臨3P中出 ~ 木村都那",
+  "publish_date": "2012-12-26",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "苗條",
+    "3P・4P",
+    "中出",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230210/ba9ca309-bc33-467d-97c6-84e1cab73b21.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230210/ba9ca309-bc33-467d-97c6-84e1cab73b21.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1790",
+  "actresses": [
+    {
+      "name": "木村都那",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/1853f9e7-1cbb-45f6-9d95-cddac4d648e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1790&name=木村都那"
+    }
+  ]
+};

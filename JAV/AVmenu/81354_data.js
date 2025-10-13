@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220927/FWKJp4X1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81354,
+  "IDcode": "JUL-713",
+  "title": "叶愛レズ解禁！！ レズを愛し、ビアンに溺れた私。 ～女を知り尽くした姑に揉みしだかれた嫁のKカップ～",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220927-1/a48ea8038e2db9b50454c4a453f8dc1d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81354",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81354&name=風間由美"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/188532eb-c19d-499e-b71a-f826995c3251/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240429/FrSKTSRI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18391,
+  "IDcode": "DASS-234",
+  "title": "上門按摩師偷偷觸碰我的乳房和私處 無法忍受渴望中出 只能NTR男友了",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "劇情",
+    "按摩・物理治療・美容",
+    "中出",
+    "口交",
+    "慾求不滿",
+    "巨乳",
+    "出軌",
+    "抹油",
+    "女學生"
+  ],
+  "description": "DASS-234为DASDAS出品,2023年10月10日发行的有碼成人影片由佐藤しお出演\n佐藤汐是一名舞蹈社女大學生。 她一直毫無怨言地和深愛的男友一起生活。 有一天，佐藤薰在家練習跳舞時拉傷了雙腿，於是打電話給按摩服務機構尋求治療。 當按摩師觸摸她的敏感部位時，她一直隱藏的性慾突然升起，她逐漸要求觸摸她的敏感部位。\n佐藤汐是一名舞蹈社女大學生。 她一直毫無怨言地和深愛的男友一起生活。 有一天，佐藤薰在家練習跳舞時拉傷了雙腿，於是打電話給按摩服務機構尋求治療。 當按摩師觸摸她的敏感部位時，她一直隱藏的性慾突然升起，她逐漸要求觸摸她的敏感部位。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231009/202310090058546666.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231009/202310090058546666.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18391",
+  "actresses": [
+    {
+      "name": "佐藤しお",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/ac3e3b51-2350-4290-aa83-96c48fc3e0d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18391&name=佐藤しお"
+    }
+  ]
+};

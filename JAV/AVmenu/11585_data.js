@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ccd14ece-7d7b-4047-9ca2-3b25bc5e55e8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11585,
+  "IDcode": "FJIN-041",
+  "title": "《蒙眼村》講述了欲望催生欲望村莊的恐怖。這是一家之主與年輕人瘋狂的故事 ~ 山瀨美紀",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "鄉下",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蒙面・面罩",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "原作改編",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "神話故事",
+    "兩男一女",
+    "多P",
+    "美腳",
+    "緊縛",
+    "奇聞趣事",
+    "女祭司",
+    "人妻",
+    "巨乳",
+    "奇異的",
+    "熟女"
+  ],
+  "description": "FJIN-041为妄想族出品,2024年10月1日发行的有碼成人影片由山瀬美紀出演\n蒙眼村莊五年來首次出現男性祭祀。射精管理。精子是生命所必需的。然而，普通的精子是不夠的。讓我們利用濃密的精子吧。因此，男性如果容易射精的話，就會有問題吧？一邊享受男人的過度反應，一邊等待年輕粗壯的精子吧。現在，儀式開始",
+  "cover_url": "https://picture.yoshiclub.xyz/20240929/20240929020544877877.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240929/20240929020544877877.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11585",
+  "actresses": [
+    {
+      "name": "山瀬美紀",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/658e9bbc-c41c-45cd-aace-36b3168e2dd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11585&name=山瀬美紀"
+    }
+  ]
+};

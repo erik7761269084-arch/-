@@ -1,0 +1,150 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e33470e-f0e5-4b12-a45a-294cd9e94809/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16654,
+  "IDcode": "JUQ-511",
+  "title": "片廠Madonna成立20周年紀念！ 全世界最奢華紀念之作！巨大的狂歡感謝祭 無限量的中出内射！",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "大亂交",
+    "乳交",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "一男多女",
+    "舔陰",
+    "多P",
+    "美腳",
+    "感謝祭",
+    "AV拍攝現場",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "溫泉"
+  ],
+  "description": "JUQ-511为MADONNA出品,2024年1月30日发行的有碼成人影片由椎名由奈，愛弓涼，向井藍，白石茉莉奈，一色桃子，風間由美，上羽絢，大島優香，友田真希，佐田茉莉子，流川はる香，栗山莉緒，水野優香，一乃葵，水户香奈，沖宮那美，木下凜々子，藤環奈，葉山小百合，多田有花，竹内有紀出演\n這是世界上最豪華的紀念作品，成熟巴士之旅”的二部分!! [獨家]大島由香和葉山小百合也加入驚喜！ ！總共21人在【史上最大規模狂歡】中反復高潮！ ！第二天就是女演員們自由活動的日子了！ ！有從中午開始喝酒、發生性行爲的集體派對，也有獸性女演員吞噬男演員的混浴！ ？第二部分也充滿高潮！ ！請看一下感人又高潮的大結局！ ！\n這是世界上最豪華的紀念作品，成熟巴士之旅”的二部分!! [獨家]大島由香和葉山小百合也加入驚喜！ ！總共21人在【史上最大規模狂歡】中反復高潮！ ！第二天就是女演員們自由活動的日子了！ ！有從中午開始喝酒、發生性行爲的集體派對，也有獸性女演員吞噬男演員的混浴！ ？第二部分也充滿高潮！ ！請看一下感人又高潮的大結局！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121090720147147.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240121/20240121090720147147.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16654",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=葉山小百合"
+    },
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=栗山莉緒"
+    },
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=椎名由奈"
+    },
+    {
+      "name": "竹内有紀",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d5d5021b-67a2-4f42-88dd-d2222f6efb3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=竹内有紀"
+    },
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=向井藍"
+    },
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=愛弓涼"
+    },
+    {
+      "name": "沖宮那美",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/0fcd9a6c-0c4b-4fa3-86bd-5ac4366ae3e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=沖宮那美"
+    },
+    {
+      "name": "多田有花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/0da288b7-94fc-4972-96ba-5ee0430a623a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=多田有花"
+    },
+    {
+      "name": "一乃葵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/dac957b6-4ace-4288-9032-f3c3ca213c2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=一乃葵"
+    },
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=風間由美"
+    },
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=水户香奈"
+    },
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=白石茉莉奈"
+    },
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=藤環奈"
+    },
+    {
+      "name": "木下凜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20240511/c1a5a9d6-6708-4a6b-8bbd-24d72cbc6018.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=木下凜々子"
+    },
+    {
+      "name": "上羽絢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/fec8fad2-a2cc-4e79-940b-b5d5f985bb5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=上羽絢"
+    },
+    {
+      "name": "流川はる香",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d223b1bc-2004-4cf4-8e14-afab70fcfc83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=流川はる香"
+    },
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=水野優香"
+    },
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=一色桃子"
+    },
+    {
+      "name": "大島優香",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/5b64d364-169d-4cae-9d3f-d743cc0286a3.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=大島優香"
+    },
+    {
+      "name": "佐田茉莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/3442bc99-0d64-4ae4-bc09-087cedaa1bd0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=佐田茉莉子"
+    },
+    {
+      "name": "友田真希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/024a3bbf-99af-4b33-9026-aa6a1e98dfd3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16654&name=友田真希"
+    }
+  ]
+};

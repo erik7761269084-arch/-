@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de22ae32-2125-403d-95e7-74e976cdd8a1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/24da4919/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8495,
+  "IDcode": "HZGD-294",
+  "title": "兼職工作中寢取了這個已婚人妻同事... 和超美爆乳職場女的性欲大戰！ ~ 羽月乃蒼",
+  "publish_date": "2025-02-14",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "加班",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "辦公室",
+    "出軌",
+    "獵豔",
+    "NTR",
+    "美人",
+    "寢取"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250207/3840d463-ab92-4da3-a462-993009b4cb86.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250207/3840d463-ab92-4da3-a462-993009b4cb86.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8495",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8495&name=羽月乃蒼"
+    }
+  ]
+};

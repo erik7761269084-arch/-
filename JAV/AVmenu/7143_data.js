@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ec1266a3-58bf-4093-b40b-beea89605588/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7143,
+  "IDcode": "MGNL-086",
+  "title": "甜蜜大學生情侶限定！心跳加速寢取剪影猜謎大挑戰♪",
+  "publish_date": "2025-03-28",
+  "type": "有码",
+  "company": "MAGNOLIA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "AV拍攝現場",
+    "清純",
+    "特效",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330032426730730.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250330/20250330032426730730.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7143",
+  "actresses": []
+};

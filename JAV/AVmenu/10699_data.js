@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0cb71587-729d-4f16-8d92-de8c137d46a7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10699,
+  "IDcode": "AVSA-344",
+  "title": "性服務專用 特別航線CA空姐的新人研修 ~ 小阪ひまり",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "新人面試",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "空姐",
+    "按摩棒",
+    "抹油"
+  ],
+  "description": "AVSA-344为妄想族出品,2024年11月12日发行的有碼成人影片由小坂ひまり出演\n名人中似乎有傳言說，CA 經營著一家性服務航空公司。我們竭盡全力為客戶服務，旨在提供最高品質、獨一無二的服務和最高品質的性關注！ ！胸圍100cm！ ！ I罩杯巨乳CA提供全套性服務！對新 CA 進行全面培訓，使他們能夠處理各種色情情況！ ！為名人表演自慰！ VIP客戶服務人員培訓！一邊被服務一邊被指責的中出3P玩法！ ！監獄束縛剝削玩法，適合喜歡酷刑的顧客！她被塗上油、戴上腳鐐和塞球，然後用電動按摩器和振動器讓她高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241110/20241110074609589589.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241110/20241110074609589589.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10699",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10699&name=小坂ひまり"
+    }
+  ]
+};

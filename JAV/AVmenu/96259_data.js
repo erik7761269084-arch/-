@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/04/0f2b7323/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96259,
+  "IDcode": "VAGU-067",
+  "title": "鈴木里美的鬼爆高潮！！被淫語斥責還一邊被尻槍的我。",
+  "publish_date": "2014-01-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "淫语",
+    "内衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/03/8028d7a0a2fbfe064d8cf8884f2cef14.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96259",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96259&name=铃木里美"
+    }
+  ]
+};

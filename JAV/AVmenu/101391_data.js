@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240303/0NlgKfPZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101391,
+  "IDcode": "LUXU-1774",
+  "title": "ラグジュTV 1760 証券会社勤務の黒髪清楚美女が、キスを合図にびしょ濡れ美女に大変身！恥ずかしい言葉を言わされたご褒美に、デカ○ンを挿入！プロのセックステクニックに喘ぎ声が止められない！",
+  "publish_date": "2024-02-08",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "美少女",
+    "姐姐",
+    "业余",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101391",
+  "actresses": [
+    {
+      "name": "東條えみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101391&name=東條えみ"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230901/iuHCWYaN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87987,
+  "IDcode": "GANA-1688",
+  "title": "マジ軟派、初撮。 1059",
+  "publish_date": "2018-04-03",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "女大学生",
+    "荡妇",
+    "苗条",
+    "手指插入",
+    "业余",
+    "女优按摩棒",
+    "猎艳",
+    "平胸",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/8d53c2b7c27ed489d86b657de52dc66c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87987",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230215/8E570972A6D1C1A1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99624,
+  "IDcode": "FNEO-031",
+  "title": "『私を見て…』母の男は私のトップヲタ…エスカレートする性的要求を止めるべく証拠映像を撮影するハズが、見られる快感に目覚め狂っていく喫茶キャストの女学生 加藤ももか",
+  "publish_date": "2019-07-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "高中女生",
+    "制服",
+    "潮吹",
+    "纪录片",
+    "角色扮演者",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_491fneo031/h_491fneo031pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99624",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99624&name=加藤桃香"
+    }
+  ]
+};

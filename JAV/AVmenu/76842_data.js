@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241209/NDDKH9J1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76842,
+  "IDcode": "JUFE-137",
+  "title": "新婚の僕が出張先で女上司とまさかの相部屋 朝から晩まで性奴●にされた逆NTR 根尾あかり",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241209-1/43d8c3561ea9fa014ef69dc73435dfc1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76842",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76842&name=根尾朱里"
+    }
+  ]
+};

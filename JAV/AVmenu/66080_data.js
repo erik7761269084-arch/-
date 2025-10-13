@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250514/tyuh5SQN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66080,
+  "IDcode": "ADN-582",
+  "title": "ADN-582 妻がデッサンモデルになって寝取られた。",
+  "publish_date": "2025-05-15",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "羞耻",
+    "白天出轨",
+    "模特儿",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66080",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66080&name=白峰美羽"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66080&name=大岛丈"
+    }
+  ]
+};

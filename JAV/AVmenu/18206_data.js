@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c98be399-cce3-41ab-8195-5dddd0197507/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18206,
+  "IDcode": "AMBI-180",
+  "title": "畢業前，我和老師相處的那一晚",
+  "publish_date": "2023-10-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "劇情",
+    "巨尻",
+    "中出",
+    "JK校服",
+    "制服",
+    "口交",
+    "勾引・誘惑",
+    "美少女",
+    "艷遇",
+    "出軌",
+    "NTR",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "AMBI-180为PLANETPLUS出品,2023年10月20日发行的有碼成人影片由千石もなか出演\n在畢業前，老師接到了千石もなか同學的電話，想尋求一些幫助和建議。 從而，老師家訪時卻聽到這樣的話：“老師，今天，你能和我在一起嗎？” ，他被學生的深情一吻，吻的糊塗了，理智漸漸崩潰。 兩人從晚上一直做愛到早上。\n在畢業前，老師接到了千石もなか同學的電話，想尋求一些幫助和建議。 從而，老師家訪時卻聽到這樣的話：“老師，今天，你能和我在一起嗎？” ，他被學生的深情一吻，吻的糊塗了，理智漸漸崩潰。 兩人從晚上一直做愛到早上。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022083606233233.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022083606233233.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18206",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18206&name=千石もなか"
+    }
+  ]
+};

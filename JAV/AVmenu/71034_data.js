@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250303/YzCpYstC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71034,
+  "IDcode": "HUSR-175",
+  "title": "ハンガリーでダメ元ナンパした尋常じゃないオーラの爆乳グラビアモデル級金髪美女がまさかのAVデビュー！",
+  "publish_date": "2019-03-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "白人",
+    "巨乳",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250304-1/910ea839b7b71b4e57bd34d4c47ce90f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71034",
+  "actresses": [
+    {
+      "name": "イザベラ クラーク",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71034&name=イザベラ クラーク"
+    },
+    {
+      "name": "フロラナ・ラッセル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71034&name=フロラナ・ラッセル"
+    }
+  ]
+};

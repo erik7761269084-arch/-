@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/Odufto5U/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78790,
+  "IDcode": "SVOKS-061",
+  "title": "怜美ちゃん",
+  "publish_date": "2019-12-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "药物",
+    "魔鬼系",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/b2e837c8aee3d4d07ba9149e3d626360.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78790",
+  "actresses": []
+};

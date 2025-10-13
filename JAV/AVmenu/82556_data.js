@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221117/IhqkPtSB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82556,
+  "IDcode": "HND-668",
+  "title": "不倫中で嫌がる妻にねっちょりバック中出し 八乃つばさ",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/a784aff251d29b7d9563848a09b3052d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82556",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82556&name=八乃翼"
+    }
+  ]
+};

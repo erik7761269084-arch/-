@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f9ed6c6b-e3b3-4ca8-a80f-ef285c4620f6/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2022/10/18/e2aac012/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17698,
+  "IDcode": "IPX-937",
+  "title": "五感制壓＜＜完全虛擬＞＞包覆ASMR 超幫技巧狂擼自慰協助 「給您最棒的自慰協助」 明里紬",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "按摩・物理治療・美容",
+    "自拍性愛",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231123/94abca2d-872a-4519-97db-54abab03c4c5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231123/94abca2d-872a-4519-97db-54abab03c4c5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17698",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17698&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17698&name=明里䌷"
+    }
+  ]
+};

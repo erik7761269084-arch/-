@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/10/08b3428c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105722,
+  "IDcode": "ADN-196",
+  "title": "あなた、許して…。 思い出迷子3 榎本美咲",
+  "publish_date": "2019-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/11/de9274a24a94308b055208bbcf0f243c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105722",
+  "actresses": [
+    {
+      "name": "榎本美咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230501/bb647997-4ded-4d1d-93ff-e02509c2b3d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105722&name=榎本美咲"
+    }
+  ]
+};

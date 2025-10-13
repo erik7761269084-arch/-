@@ -1,0 +1,34 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98576,
+  "IDcode": "BBAN-228-",
+  "title": "あずみひなは枢木あおいのことが好きすぎる変態女媚薬を仕込むイ",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "精选，综合",
+    "女同性恋",
+    "潮吹",
+    "女同接吻",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98576",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98576&name=枢木葵"
+    },
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98576&name=佐倉陽菜"
+    }
+  ]
+};

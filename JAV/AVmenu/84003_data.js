@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/22/f5d8d73b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84003,
+  "IDcode": "BLK-563",
+  "title": "未だに現役ヤリマンママをGET！ ヒップ90cmのデカ尻とベージュTバックで挑発！旦那がいるのに他人棒と種付けパーティーしちゃうヤバま●こ！",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84003",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84003&name=小早川怜子"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84003&name=小田切ジュン"
+    }
+  ]
+};

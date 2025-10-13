@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c673589-464a-4e69-96ee-fd911e2c8f3c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16021,
+  "IDcode": "SSNI-159",
+  "title": "不自覺挑釁男人的着衣巨乳人妻",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "企畫",
+    "劇情",
+    "美乳",
+    "人妻",
+    "巨乳",
+    "完全着衣",
+    "女優"
+  ],
+  "description": "SSNI-159为S1出品,2018年4月1日发行的有碼成人影片由白雪雛乃出演\n五個淫蕩的場景，可以玩弄日菜菜彩音着衣的乳房。就算她完全着衣，乳房也很堅挺有手感！有勇氣伸手去抓那讓你多看兩眼的衣着巨乳！夢幻美乳超享受性愛！精彩的 3 小時特別節目！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229035302906906.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240229/20240229035302906906.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16021",
+  "actresses": [
+    {
+      "name": "白雪雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/efa6d781-89a6-4e66-a633-39d47a0a50d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16021&name=白雪雛乃"
+    }
+  ]
+};

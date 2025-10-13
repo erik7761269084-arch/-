@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/06/d4ecc81b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98186,
+  "IDcode": "WANZ-804",
+  "title": "悶絶クンニMANIAX 篠田ゆう",
+  "publish_date": "2018-12-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "69",
+    "女同性恋",
+    "舔阴",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/wanz804/wanz804pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98186",
+  "actresses": [
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98186&name=南佳也"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98186&name=篠田优"
+    }
+  ]
+};

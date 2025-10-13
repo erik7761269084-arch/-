@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/5tfrH2he/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81957,
+  "IDcode": "SDNT-018",
+  "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case15 エステ勤務・大友京香（仮名）30歳 東京都在住 AVデビュー 主人のためにネトラレます",
+  "publish_date": "2020-02-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/1cd9dce4a312494de21590af072ab766.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81957",
+  "actresses": [
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81957&name=市川润"
+    },
+    {
+      "name": "大友京香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81957&name=大友京香"
+    }
+  ]
+};

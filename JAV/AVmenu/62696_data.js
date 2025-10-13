@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/28/2e190989/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62696,
+  "IDcode": "HODV-21947",
+  "title": "小悪魔生徒会長の甘サド誘惑パンチラ 椎名心春 パンティと生写真付き",
+  "publish_date": "2025-02-28",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "巨乳",
+    "中出",
+    "学校作品",
+    "乳房",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62696",
+  "actresses": [
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62696&name=椎名心春"
+    }
+  ]
+};

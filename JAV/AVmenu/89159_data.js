@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231214/vAkw7nFI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89159,
+  "IDcode": "TANP-024",
+  "title": "たんぽぽ☆プレゼンツ！ 女子校生男の娘3人とハメ撮り乱交撮影会＃01",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "肛交",
+    "变性者",
+    "校服",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/f73e21594355b063237ae27860a4024d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89159",
+  "actresses": []
+};

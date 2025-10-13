@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230318/2C790CD06E727066/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104209,
+  "IDcode": "ABP-479",
+  "title": "天然成分由来 水稀みり汁120％",
+  "publish_date": "2016-05-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "潮吹",
+    "接吻",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp479/118abp479pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104209",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104209&name=水川蓳"
+    }
+  ]
+};

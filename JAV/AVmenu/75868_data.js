@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241217/laYsljBk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75868,
+  "IDcode": "BKD-230",
+  "title": "母子交尾 【那須高雄温泉路】 今泉佐保",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/ff06c32b56f5b51c3d00377556c840b5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75868",
+  "actresses": [
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75868&name=平井シンジ"
+    },
+    {
+      "name": "今泉佐保",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75868&name=今泉佐保"
+    }
+  ]
+};

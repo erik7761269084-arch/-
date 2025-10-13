@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/03/d625ff5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88302,
+  "IDcode": "EBOD-759",
+  "title": "「中学時代からバストへの目線で興奮してました…」 男子からのおっぱい視線セクハラで超敏感Iカップになっちゃった現役女子大生コンプレックス開放！乳首イキAVデビュー 形の整った100cm天然巨乳 神坂朋子19歳",
+  "publish_date": "2020-08-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女大学生",
+    "首次亮相",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88302",
+  "actresses": []
+};

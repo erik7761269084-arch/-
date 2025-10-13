@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/9f501769/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72691,
+  "IDcode": "GOOD-030",
+  "title": "翔田千里とAV監督が一日デート",
+  "publish_date": "2025-02-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "第一人称摄影",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/03/3edb0a0ac58f3c6f1b94f20354ffb8a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72691",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72691&name=翔田千里"
+    }
+  ]
+};

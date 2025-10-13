@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/626f4675-6173-4227-ab5f-f49155a45feb/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/06/57fa9e6a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17022,
+  "IDcode": "MIDV-583",
+  "title": "遇到了我兒時的朋友，她已經長大成爲蕩婦，和她在三天三夜內射精了十二次的做愛",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "青梅竹馬",
+    "艷遇"
+  ],
+  "description": "MIDV-583为MOODYZ出品,2024年1月2日发行的有碼成人影片由八木奈々出演\n時隔多年重逢的青梅竹馬“八木奈々”……變成了蕩婦！我對曝光量感到困惑！我忍不住偷偷拍了她洗澡的視頻，看她自慰，但即使我發現了，也沒事！她的性欲太強，三天不停的做愛射精，瘋狂中出生活！在混浴中，從後面插入，連續口交和打手槍，跨坐在打樁騎乘式的位置，在父母不在的時候連續做愛四次！可愛又性感，想射多少次就射多少次！最美好的回憶......！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231230/20231230014846831831.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231230/20231230014846831831.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17022",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17022&name=八木奈々"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17022&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241119/yrFkcQGn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77084,
+  "IDcode": "SNIS-205CN",
+  "title": "SNIS205CN 巨根ズボズボ 宇都宮しをん.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241120-1/3cc18b73e8307f87cb12a983ad74c01e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77084",
+  "actresses": []
+};

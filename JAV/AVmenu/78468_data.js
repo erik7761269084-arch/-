@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/0a3xjOZi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78468,
+  "IDcode": "MDTM-575",
+  "title": "イクイク早漏敏感妹と排卵日子作り物語 森本つぐみ ACT.003",
+  "publish_date": "2019-11-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "妹妹",
+    "主观视角",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78468",
+  "actresses": [
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78468&name=森本つぐみ"
+    }
+  ]
+};

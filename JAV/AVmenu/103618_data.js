@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/04/94eeb992/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103618,
+  "IDcode": "VOD-022",
+  "title": "本物素人妻ドキュメント第2弾 天然小悪魔Gカップ妻、初めての連続中出し3Pセックス 宮ノ木しゅんか （BOD）",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103618",
+  "actresses": [
+    {
+      "name": "宮ノ木しゅんか",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/8e78ecb6-9c8b-4cc0-8c87-649eab5bbf1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103618&name=宮ノ木しゅんか"
+    }
+  ]
+};

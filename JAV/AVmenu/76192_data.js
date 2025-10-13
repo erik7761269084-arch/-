@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/FaClIY9t/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76192,
+  "IDcode": "GIGL-580",
+  "title": "盗撮-温泉仲居-",
+  "publish_date": "2020-01-31",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "猎艳",
+    "浴衣",
+    "老板娘，女主人",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76192",
+  "actresses": []
+};

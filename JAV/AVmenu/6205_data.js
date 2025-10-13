@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e1899e7-5479-4ab7-8283-6d142e940494/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6205,
+  "IDcode": "MGBB-009",
+  "title": "街頭素人監控 MAGNOLIA極致版",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MAGNOLIA",
+  "genres": [
+    "企畫",
+    "劇情",
+    "游戲COSPLAY",
+    "中出",
+    "OL",
+    "真人秀",
+    "形象俱樂部",
+    "素人",
+    "4小時以上作品",
+    "口交",
+    "口爆",
+    "綜藝",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "即時插入"
+  ],
+  "description": "MGBB-009为MAGNOLIA出品,2025年5月9日发行的有碼成人影片\n性感大奶人妻挑戰無手口技大考驗，從10根大肉棒中找出老公的那根！猜錯了就得當場被大肉棒狠狠懲罰插入☆【♯りほ♯32歲】I杯爆乳人妻被突然的大肉棒猛插，瞬間高潮到失控！NTR中出讓陌生人的精液從小穴裡流出來打招呼☆【♯なつ♯27歲】身材火辣的艷麗人妻被大肉棒突襲，理智直接崩盤！NTR中出爽到讓她欲罷不能☆【♯ひかり♯28歲】超性感身材的人妻被大肉棒猛幹，瞬間淪陷快感！刺激深處讓她抖個不停，NTR大量中出爽爆♪【♯あきか♯30歲】性欲爆棚的已婚媽媽被大肉棒插入，壓抑的慾望瞬間炸裂！NTR中出SEX說不定會再懷一個！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093803675675_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093803675675_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6205",
+  "actresses": []
+};

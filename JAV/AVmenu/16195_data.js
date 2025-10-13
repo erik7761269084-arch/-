@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/950ed6a1-0ae3-4fb2-9302-9e12f5cdcc67/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/07/f5897a77/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16195,
+  "IDcode": "MVSD-589",
+  "title": "來到媽媽爸爸身邊，我的乳頭被玩弄、發育，我也從它們身上學會了如何達到高潮。",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "後入",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "女兒",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "性感",
+    "不倫",
+    "舔陰",
+    "少女",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "亂倫",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "MVSD-589为MVG GROUP出品,2024年2月20日发行的有碼成人影片由響乃詩出演\n多麼頑皮的乳頭......它們看起來像生殖器......慢慢地……慢慢地……他玩弄着她敏感的乳頭，乳頭像少女的陰蒂一樣勃起。一個病態、安靜的美麗女孩，淪爲變態母親騙子老師的異常性習慣的犧牲品！乳頭快感是通過反復的乳頭折磨而產生的。一次又一次的挑逗、捏捏、舔舐，讓她全身抽搐，失禁達到高潮！我不應該喜歡它......我應該感到尷尬......但出於某種原因我的身體不聽我的。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218082033848848.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240218/20240218082033848848.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16195",
+  "actresses": [
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16195&name=響乃詩"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16195&name=田渊正浩"
+    }
+  ]
+};

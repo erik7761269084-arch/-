@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/25/70191527/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85740,
+  "IDcode": "NSFS-099",
+  "title": "ザ・和姦13 犯●れた男に狂う妻 ～独身上司の狂った性欲～ 八乃つばさ （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85740",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85740&name=八乃翼"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4cb02ec2-7aec-41ad-9461-a21d57db0915/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/02/17/fcb494dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18171,
+  "IDcode": "IPX-805",
+  "title": "出差住同房NTR 被上司內射一晚上的美人女社員 神菜美舞",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "酒醉",
+    "黑絲",
+    "劇情",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "女同事",
+    "NTR",
+    "出差",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231026/20231025235705444444.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231026/20231025235705444444.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18171",
+  "actresses": [
+    {
+      "name": "神彩美舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230926/baf74b83-5b89-41b3-aeab-c2493ad0f1da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18171&name=神彩美舞"
+    }
+  ]
+};

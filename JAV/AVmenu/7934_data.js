@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/00539ed3-1fa9-4ded-baf5-deedb59d06d0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/c86322e4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7934,
+  "IDcode": "GGP-008",
+  "title": "零距離特寫神対応 fVIP專享 無限射精現役偶像後臺中出全套 ~ 西元美紗 沙月惠奈",
+  "publish_date": "2025-02-26",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "4K",
+    "偶像",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "性感",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "拜金女",
+    "女僕制服",
+    "癡女",
+    "雙飛",
+    "獵豔",
+    "兩女一男",
+    "美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/da4e8bce-2472-41ee-8995-340ceef4b5a3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/da4e8bce-2472-41ee-8995-340ceef4b5a3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7934",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7934&name=沙月惠奈"
+    },
+    {
+      "name": "西元美紗",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/a7fe0179-2cce-4abd-a799-a044fa72b631.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7934&name=西元美紗"
+    }
+  ]
+};

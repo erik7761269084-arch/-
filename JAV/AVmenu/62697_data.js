@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/29/6c252ab3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62697,
+  "IDcode": "HODV-21946",
+  "title": "親に言えない秘密のボランティア活動 性欲にまみれた変態おじさんに性調教されてます 白石なぎさ パンティと生写真付き",
+  "publish_date": "2025-02-28",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "女生",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62697",
+  "actresses": [
+    {
+      "name": "白石渚",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/2bf3dd17-2b68-4fdc-99a0-353abd274001.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62697&name=白石渚"
+    }
+  ]
+};

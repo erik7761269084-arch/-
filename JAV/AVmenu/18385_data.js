@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/231a3f2f-ab36-43dc-9662-375e34118ab7/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/11/5e7c3cf4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18385,
+  "IDcode": "STARS-923",
+  "title": "超凡脫俗地欣賞神木麗「美臀」 其實我……不僅有驚人的胸部，還有驚人的屁股 ~ 神木麗",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "絕頂高潮",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "兩男一女",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "女優訪談",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010052353472472.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231010/20231010052353472472.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18385",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18385&name=神木麗"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221114/OuXDA5ZQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82390,
+  "IDcode": "CLUB-591",
+  "title": "美人OL専門中野区にある患者の極所ツボを突き必ず痙攣失禁させる施術院5",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "淫乱，真实",
+    "潮吹",
+    "按摩",
+    "连裤袜",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221115-1/ed1a74d1061d7b9e234df076acd3a5af.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82390",
+  "actresses": []
+};

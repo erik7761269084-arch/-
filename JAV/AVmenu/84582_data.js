@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230112/VdgPcVqQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84582,
+  "IDcode": "HMN-205",
+  "title": "【FANZA限定】えっ！ママとヤリたいの！！？ 旦那の単身赴任中にチ●ポビンビンでお願いしてくる絶倫早漏息子の挑発を真に受けた巨乳母さん 中出ししてないフリして暴走ピストン JULIA 生写真2枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84582",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84582&name=JULIA"
+    }
+  ]
+};

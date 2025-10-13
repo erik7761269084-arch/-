@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c178b3a6-f881-4780-97c3-9e6869ad24af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14482,
+  "IDcode": "FOCS-198",
+  "title": "可愛的接吻咖啡館店員引誘小惡魔，從突然的吻 開始的甜蜜中出事件！ ~ 天美めあ",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "不倫",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "按摩棒",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "FOCS-198为妄想族出品,2024年5月28日发行的有碼成人影片由天美めあ出演\n為您介紹熱門系列的最新一期，您可以享受從與惡魔咖啡館的海報女孩突然接吻開始的甜蜜戀情！塔米亞正在秘密瞄準她兼職的商店經理。然而，已婚的店長根本不會搭理梅亞…遇到這種情況，你就沒有辦法了，只能用你的力量了！ Mea 親吻經理並說她會治愈他並帶他去酒店！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524062051630630.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240524/20240524062051630630.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14482",
+  "actresses": [
+    {
+      "name": "天美めあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240524/f18d9f31-53bc-4a92-983c-f22bb4f71d4f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14482&name=天美めあ"
+    }
+  ]
+};

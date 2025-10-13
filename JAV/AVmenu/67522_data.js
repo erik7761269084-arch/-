@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/27ca445c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67522,
+  "IDcode": "DDHC-021",
+  "title": "このか",
+  "publish_date": "2025-04-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "第一人称摄影",
+    "出轨",
+    "白天出轨",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67522",
+  "actresses": []
+};

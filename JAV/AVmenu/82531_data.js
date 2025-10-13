@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/12/0d8260eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82531,
+  "IDcode": "EKW-035",
+  "title": "全身舐めほぐし◆ヒーリングリップサロン 佐々木あき",
+  "publish_date": "2018-03-02",
+  "type": "有码",
+  "company": "素人Only",
+  "genres": [
+    "各种职业",
+    "荡妇",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/eccb60c5d655bf6812c45e8a6ed7da5e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82531",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82531&name=佐佐木明希"
+    }
+  ]
+};

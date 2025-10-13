@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2aa7e892-7b43-4c28-bd32-c538dbec640d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11425,
+  "IDcode": "APAK-288",
+  "title": "中出受虐絕頂高潮 145cm身高蘿莉 騎乘式女學生高潮！淫亂絕頂生徒指導 放送部 ~ 鬆井日菜子",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清純",
+    "M男・M女",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241006/b8e3ed30-000f-476c-8b49-8c9782e9c8b3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241006/b8e3ed30-000f-476c-8b49-8c9782e9c8b3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11425",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11425&name=松井日奈子"
+    }
+  ]
+};

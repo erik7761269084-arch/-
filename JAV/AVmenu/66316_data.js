@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/26/625b04fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66316,
+  "IDcode": "SCOP-873",
+  "title": "兄弟2人暮らしハウスでお風呂上がりの兄の巨乳セフレとばったり遭遇！互いに驚きつつも神ボディを見て超勃起！！それ見てムラついた女からの即パイズリ→生ピストンで我慢できずに中出し！！",
+  "publish_date": "2025-05-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66316",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66316&name=弥生美月"
+    }
+  ]
+};

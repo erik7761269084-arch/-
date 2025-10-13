@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/CiEZzmcj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85701,
+  "IDcode": "NGOD-174",
+  "title": "パワハラ気質で生理的にぜったい無理な夫の上司に同行した地方出張で悶絶の絶倫巨根で突かれまくった僕の妻が健闘むなしく翌朝までには快楽堕ちしてしまった……的な話です 春菜はな",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "已婚妇女",
+    "巨大阴茎",
+    "巨大屁股",
+    "白天出轨",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/a6722bef47c37591710e3f0d91c98a47.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85701",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85701&name=春菜华"
+    }
+  ]
+};

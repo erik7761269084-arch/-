@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230125/27eed967-bed9-4a81-8b50-e82c5bd93c13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1995,
+  "IDcode": "MKBD-S69",
+  "title": "KIRARI 69 在妹妹的羅莉小穴中出 : 大桃梨沙",
+  "publish_date": "2014-04-10",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "美乳",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/3f2c1398-856f-4805-b509-394cd9e07e16.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/3f2c1398-856f-4805-b509-394cd9e07e16.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1995",
+  "actresses": [
+    {
+      "name": "大桃理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230207/86faa163-98b8-4978-ade0-5edf03234f33.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1995&name=大桃理沙"
+    }
+  ]
+};

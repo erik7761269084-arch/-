@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/55A62FFF1222968F/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36306,
+  "IDcode": "748553B6103EB8D9CFA0E3B4972C-3500",
+  "title": "【日韩】F罩杯美人妻浴室内帮丈夫洗澡用B毛当搓澡工具，",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36306",
+  "actresses": []
+};

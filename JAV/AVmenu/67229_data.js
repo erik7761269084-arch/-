@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/f0d0dfb1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67229,
+  "IDcode": "EBOD-571",
+  "title": "僕の好きな幼なじみのピュアなあの子が最近知り合ったチンピラ野郎と子作り交尾でメス化していた話 鈴木心春",
+  "publish_date": "2017-04-01",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67229",
+  "actresses": []
+};

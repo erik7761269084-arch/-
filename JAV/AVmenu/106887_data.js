@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/04/15cd894c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106887,
+  "IDcode": "DASS-227",
+  "title": "本番禁止の人妻セクキャバでスレンダー美巨乳妻とアフター不倫SEX 黒川すみれ 橘メアリー",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "礼仪小姐",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106887",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106887&name=橘瑪麗"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106887&name=黑川堇"
+    }
+  ]
+};

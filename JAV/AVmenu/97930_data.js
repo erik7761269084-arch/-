@@ -1,0 +1,36 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 97930,
+  "IDcode": "AP-129-",
+  "title": "酔った女子の唇がボクの目の前1cm！！小、中、高と女性と全く接點がな第09集",
+  "publish_date": "2014-06-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "企画",
+    "烂醉如泥的"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97930",
+  "actresses": [
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97930&name=南梨央奈"
+    },
+    {
+      "name": "葵野真鈴",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-石原あい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97930&name=葵野真鈴"
+    },
+    {
+      "name": "星咲优菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97930&name=星咲优菜"
+    }
+  ]
+};

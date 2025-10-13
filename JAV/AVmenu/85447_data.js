@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230123/BXO6Cngq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85447,
+  "IDcode": "MIDV-020",
+  "title": "夫の転勤先のド田舎で…暇で退屈するワタシは近所の男を誘惑して、勝手にまたがり腰を振り続けて… 中山ふみか",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "女同性恋",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85447",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=中山文香"
+    },
+    {
+      "name": "夏目ミュウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=夏目ミュウ"
+    },
+    {
+      "name": "寺泽しのぶ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=寺泽しのぶ"
+    },
+    {
+      "name": "水泽アイサ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=水泽アイサ"
+    },
+    {
+      "name": "亜佐仓みんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=亜佐仓みんと"
+    },
+    {
+      "name": "长谷川葵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85447&name=长谷川葵"
+    }
+  ]
+};

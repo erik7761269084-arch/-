@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/798d8a3a-a1de-4d56-8653-6344b166ec45/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/189eacdc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10070,
+  "IDcode": "MKMP-598",
+  "title": "酒會結束後，我決定讓下屬留宿一晚…屈服於妻子所沒有的白皙皮膚、柔軟胸部的侵略性誘惑，一次又一次地做愛到早上 ~ 月野香澄",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "女上司",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241208/bc47af6e-648c-4166-9e8f-f977e186279a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241208/bc47af6e-648c-4166-9e8f-f977e186279a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10070",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10070&name=月野香澄"
+    }
+  ]
+};

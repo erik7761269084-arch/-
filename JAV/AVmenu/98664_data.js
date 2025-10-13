@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98664,
+  "IDcode": "GIGL-564-",
+  "title": "逝く～！！エッチご無沙汰マッサージおばちゃん ほらほらこの勃",
+  "publish_date": "2019-09-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "制服",
+    "按摩",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98664",
+  "actresses": []
+};

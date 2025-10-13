@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/02/bc9bbd0a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91001,
+  "IDcode": "JUQ-374",
+  "title": "毎晩響く隣の奥さんの喘ぎ声が気になった僕は…～欲求不満な人妻と汗だくになってヤリまくった昼下がり～ 木下凛々子",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/25f3ce3e062387410b798157fc73771a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91001",
+  "actresses": [
+    {
+      "name": "木下凛凛子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91001&name=木下凛凛子"
+    }
+  ]
+};

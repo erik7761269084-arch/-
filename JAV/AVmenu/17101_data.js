@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd604767-15e5-47f8-b5d3-1bbd4b83c166/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/07/1ecb9629/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17101,
+  "IDcode": "JUQ-515",
+  "title": "女播音員NTR. 在溫泉地點與導演中出的妻子。",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "在丈夫面前被操",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "女主持・主播",
+    "女上位",
+    "口交",
+    "多P",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "溫泉"
+  ],
+  "description": "JUQ-515为2023年12月26日发行的有碼成人影片由廣瀨百合出演\n現在，我被阪東導演訓斥了。他作爲外景巴士司機，正前往目的地，但地址有誤，水族館外景被取消。阪東先生被他的妻子、播音員尤裏安撫下來，情況似乎已經解決了。然而，尤裏本人經常受到阪東先生的性騷擾和侮辱性指示。然後，中午時分，阪東先生給了我一杯飲料，但不知爲何裏面有一個避孕套……\n現在，我被阪東導演訓斥了。他作爲外景巴士司機，正前往目的地，但地址有誤，水族館外景被取消。阪東先生被他的妻子、播音員尤裏安撫下來，情況似乎已經解決了。然而，尤裏本人經常受到阪東先生的性騷擾和侮辱性指示。然後，中午時分，阪東先生給了我一杯飲料，但不知爲何裏面有一個避孕套……",
+  "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004732482482.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231224/20231224004732482482.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17101",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17101&name=廣瀨百合"
+    }
+  ]
+};

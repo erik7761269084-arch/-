@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/54dc15f5-3f72-4df5-8a60-af760d35f5db/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15639,
+  "IDcode": "DLDSS-299",
+  "title": "黒木奈美是極其淫蕩的情婦將自己鎖在溫泉旅館中，並發生中出事件",
+  "publish_date": "2024-05-09",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "後入",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "小三・情人",
+    "性感",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "熟女",
+    "溫泉",
+    "無毛",
+    "飯店"
+  ],
+  "description": "DLDSS-299为DAHLIA出品,2024年5月9日发行的有碼成人影片由黒木奈美出演\n<操性感又迷人的淫蕩小三！體內射精！ 〉他把所有的時間都花在與一個享受與他妻子無法比擬的性愛的女人的非法性交上。她的身材、技術、性格，無不勾起男人的慾望。為期兩天、一晚的風流韻事之旅，讓您像野獸一樣被吞噬並淹沒在慾望之中。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240404232556212212.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240404232556212212.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15639",
+  "actresses": [
+    {
+      "name": "黒木奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/7d6103e3-63dd-4460-8237-77fc0ee2f49a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15639&name=黒木奈美"
+    }
+  ]
+};

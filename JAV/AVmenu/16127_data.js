@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9a49e500-17fe-45e7-bfce-a662232ab682/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16127,
+  "IDcode": "SONE-085",
+  "title": "交換體液，激烈的性愛，完全未剪輯的 AV春野拉拉 隱退特輯",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SONE-085为S1出品,2024年2月27日发行的有碼成人影片由春野拉拉出演\n限定3次AV出場，天真爛漫的美少女“春野拉拉”最終魅力十足！一個害羞、矜持的女孩逐漸變成了一個女人……我想讓大家看到我是如何成長爲一個真正的女人的……春野拉拉潔白的皮膚隨着不斷的高潮而被染紅。最後三部以豐富的吻開始，這是性的最後一幕。既然是最後一次，我想解放自己的思想和身體，感受純淨。一定要看美少女拉拉的大結局！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223082142652652.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240223/20240223082142652652.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16127",
+  "actresses": [
+    {
+      "name": "春野拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231224/d09a68d0-8401-49f6-85b3-ba16e4ffd50d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16127&name=春野拉拉"
+    }
+  ]
+};

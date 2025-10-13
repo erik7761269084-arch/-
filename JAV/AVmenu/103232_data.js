@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230208/667D87C87BC4221A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103232,
+  "IDcode": "Carib072210-433",
+  "title": "縛られたロリ娘AoyamaHikaru(青山ひかる)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103232",
+  "actresses": []
+};

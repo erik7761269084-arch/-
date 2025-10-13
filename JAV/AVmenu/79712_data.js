@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/BrQy73rn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79712,
+  "IDcode": "CLUB-655",
+  "title": "相席居酒屋でナンパした仲良し2人組をお持ち帰り。コソコソHしていると隣の部屋にいるガードの堅い女友達はヤラせてくれるか 其の28",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "按摩",
+    "OL",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79712",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79712&name=沙月芽衣"
+    }
+  ]
+};

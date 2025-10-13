@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e7f8a6e-d87b-4e6c-9d23-58eff4a31e1a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/09/fc4f23f4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7023,
+  "IDcode": "DASS-637",
+  "title": "跟我一起上京的可愛女友，爲了我被超猛權勢大叔種馬式SEX了 ~ 東條夏",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "口交",
+    "職員",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "女同事",
+    "M男・M女",
+    "美人",
+    "謝罪",
+    "女學生",
+    "羞恥",
+    "飯店",
+    "田舍娘"
+  ],
+  "description": "DASS-637为DASDAS出品,2025年4月8日发行的有碼成人影片由東條夏出演\n夏和男友和真坐著餐車來到東京，過著幸福快樂的生活。為了開一家便當店，一位熟人介紹了我在營業前使用餐廳廚房的機會。有一天，富有而專橫的餐廳老闆片山嘲笑和真的午餐，並抓住了他。納茲招致了片山的憤怒，並道歉以試圖讓他冷靜下來。為了守護男友的夢想，她不得不接受片山的電話，以阻止商店倒閉。 「納茲」的身體，漸漸被強者的技巧所染色…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092942387387.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403092942387387.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7023",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7023&name=東條夏"
+    }
+  ]
+};

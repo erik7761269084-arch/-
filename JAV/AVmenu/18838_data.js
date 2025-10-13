@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c6c40fc9-7dff-419f-937e-a1996c46d2bc/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/20/7b09e7d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18838,
+  "IDcode": "ADN-483",
+  "title": "藤井いよな、AV引退。代替我的父親讓繼母懷孕",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "繼母",
+    "劇情",
+    "中出",
+    "性感",
+    "退休作品",
+    "人妻",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230901/20230901214353633633.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230901/20230901214353633633.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18838",
+  "actresses": [
+    {
+      "name": "藤井一夜",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/b97f52b8-529b-439b-9a8d-fd90a3de1cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18838&name=藤井一夜"
+    }
+  ]
+};

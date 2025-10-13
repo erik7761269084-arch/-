@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220930/qPEe0k19/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58018,
+  "IDcode": "020918-600",
+  "title": "女熱大陸 File No. 059",
+  "publish_date": "2018-02-09",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "店长推荐",
+    "写真",
+    "无套内射",
+    "2018畅销Top100",
+    "背后插入",
+    "骑乘位",
+    "口交",
+    "巨乳爆乳",
+    "美女",
+    "美脚",
+    "美穴",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220930-2/69ccda7b54c3aa829d3459ed6b086132.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58018",
+  "actresses": []
+};

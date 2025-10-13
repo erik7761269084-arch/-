@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14aa934f-320e-43aa-a357-1ad2070f144e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13845,
+  "IDcode": "FOCS-204",
+  "title": "放學後和老師在情趣酒店裏操到高潮～一夜後變成了能被乳頭潮吹的變態 ~ 望月蕾",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "潮吹",
+    "口交",
+    "蠻橫嬌羞",
+    "不倫",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "癡女",
+    "偷竊",
+    "猥褻穿著",
+    "美少女電影",
+    "女學生",
+    "情趣飯店"
+  ],
+  "description": "FOCS-204为妄想族出品,2024年6月25日发行的有碼成人影片由望月蕾出演\n看了一段調皮的乳頭射精影片後，Tsubomi 忍不住懇求她最喜歡的老師在情趣酒店玩她的乳頭。長著小芽。經過一整夜的玩弄後，乳頭和陰蒂一樣敏感，Tsubomi 達到了她期待已久的高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621014647863863.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621014647863863.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13845",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13845&name=望月蕾"
+    }
+  ]
+};

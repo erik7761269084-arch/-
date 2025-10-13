@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/LTSGZu36/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74614,
+  "IDcode": "LUXU-1114",
+  "title": "ラグジュTV 1097 ムチムチグラマラスボディを持つ卑猥な美容部員。久しぶりのセックスに興奮を抑えきれず、巨乳を揺らしてイキ乱れる。",
+  "publish_date": "2019-05-01",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "业余",
+    "娃娃",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/87d9342b992e25d09609706352aadd54.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74614",
+  "actresses": []
+};

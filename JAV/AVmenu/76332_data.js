@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/14/c9c5a285/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76332,
+  "IDcode": "CAWD-329",
+  "title": "把自我表現欲的我當作垃圾對待的高傲女人撕毀自尊復仇輪姦 伊藤舞雪",
+  "publish_date": "2022-02-01",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "戏剧",
+    "中出",
+    "乳房",
+    "调教",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76332",
+  "actresses": [
+    {
+      "name": "伊藤舞雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/8926413a-85ad-46dd-897e-24b65bcb4d3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76332&name=伊藤舞雪"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76332&name=蓝井优太"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76332&name=Qべぇ"
+    }
+  ]
+};

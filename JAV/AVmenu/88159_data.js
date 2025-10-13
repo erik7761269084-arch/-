@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/EkMrkTBG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88159,
+  "IDcode": "PPT-099",
+  "title": "斎藤あみり 8時間 BEST PRESTIGE PREMIUM TREASURE vol.01 全6作品＋未公開映像で「斎藤あみり」の軌跡をたどる永久保存盤！！",
+  "publish_date": "2020-09-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/69d2b35aee4641b750f0f33edd46cf23.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88159",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88159&name=斋藤亚美里"
+    }
+  ]
+};

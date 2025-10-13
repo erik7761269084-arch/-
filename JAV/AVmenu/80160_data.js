@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/PEHYNZ8b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80160,
+  "IDcode": "SSIS-252",
+  "title": "河北彩花10変化 極上オナニーサポート （ブルーレイディスク）",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "4小时以上作品",
+    "无毛",
+    "口交",
+    "手淫",
+    "连裤袜",
+    "女佣",
+    "接吻",
+    "美少女电影",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f7a31275dca0e92f6de66dacb43939ec.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80160",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80160&name=河北彩花"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/226phdbz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87294,
+  "IDcode": "BLOR-201",
+  "title": "人懐っこくて可愛い洋食屋の店員さん チャキチャキしてるけど実はめちゃくちゃされたいドM 顔真っ赤にしてイキまくりチ●ポ堕ち",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "颜射",
+    "各种职业",
+    "按摩",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87294",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/25/8eba5253/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63721,
+  "IDcode": "MOND-295",
+  "title": "綺麗な近所の奥さんが 武田怜香",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "眼镜",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/25/b942623f9736ac61fe1b128e11699eef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63721",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63721&name=柳可憐"
+    },
+    {
+      "name": "なっつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63721&name=なっつ"
+    }
+  ]
+};

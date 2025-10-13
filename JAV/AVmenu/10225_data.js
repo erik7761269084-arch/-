@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3db28c98-0e16-4314-b116-cb8cc69e60cb/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/0dded959/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10225,
+  "IDcode": "YMDS-187",
+  "title": "密着特濃做了一晚上的愛。我終於獨佔了憧憬中最喜歡的女優 ~ 友田彩也香",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "真實拍攝",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241203/7379758e-08f7-4d92-aa33-2a269a6f2955.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241203/7379758e-08f7-4d92-aa33-2a269a6f2955.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10225",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10225&name=友田彩也香"
+    }
+  ]
+};

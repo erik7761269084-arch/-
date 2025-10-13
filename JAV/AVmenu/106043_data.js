@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/06/0c8225cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106043,
+  "IDcode": "CLUB-562",
+  "title": "ヒップ100cm以上のデカ尻妻限定 出産後の巨尻ママばかりを狙う悪徳骨盤矯正マッサージ",
+  "publish_date": "2019-06-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "屁股",
+    "按摩",
+    "巨大阴茎",
+    "巨大屁股",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106043",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106043&name=推川悠里"
+    },
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106043&name=加藤あやの"
+    },
+    {
+      "name": "川菜美铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/f475ef92-3b3c-4641-a10c-78cc5f5ce09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106043&name=川菜美铃"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106043&name=凛音とうか"
+    }
+  ]
+};

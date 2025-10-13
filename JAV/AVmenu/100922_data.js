@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/17/9bde35ca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100922,
+  "IDcode": "HMN-497",
+  "title": "美脚CAの受難 連絡先をきいてきたけど、冷たくあしらったエコノミー客にデリヘルで働いていた過去の秘密を握られーSNSで集めた輪●メンバーの 見知らぬ男に犯●れ、また別の見知らぬ男に犯●れ、次々に生で中に出され続ける終わらない… 天川そら 生写真2枚付き",
+  "publish_date": "2023-11-22",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "姐姐",
+    "连裤袜",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hmn497/hmn497pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100922",
+  "actresses": [
+    {
+      "name": "天川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d640bb79-ff7b-47ff-9619-fa99350b0b9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100922&name=天川空"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100922&name=日森一"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100922&name=Qべぇ"
+    }
+  ]
+};

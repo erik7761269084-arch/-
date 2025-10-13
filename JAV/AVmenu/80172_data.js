@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/ZbDNaNmO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80172,
+  "IDcode": "MILK-135",
+  "title": "昏○中出しレ○プ 狙われた女子○生、れな。 児玉れな",
+  "publish_date": "2022-02-03",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "凌辱",
+    "水手服",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80172",
+  "actresses": [
+    {
+      "name": "儿玉玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80172&name=儿玉玲奈"
+    }
+  ]
+};

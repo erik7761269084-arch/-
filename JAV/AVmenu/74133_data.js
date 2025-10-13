@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250107/lCiU8rLh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74133,
+  "IDcode": "JUY-941",
+  "title": "始動 人妻・熟女No.1メーカーMadonnaがひと目惚れした人妻 妃ひかり 30歳 専属決定Special",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "纪录片",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250108-1/433f2f0aedad0c0af48667b9ad854bc9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74133",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74133&name=妃光莉"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74133&name=しみけん"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230905/idtT8fwJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88032,
+  "IDcode": "HND-541",
+  "title": "禁欲女×絶倫男ナマで覚醒！本能剥き出し真正中出し解禁！！ 西野翔",
+  "publish_date": "2018-07-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "荡妇",
+    "潮吹",
+    "数位马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88032",
+  "actresses": [
+    {
+      "name": "西野翔",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/fb6a7a91-1623-44ad-918c-5f08533a1d44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88032&name=西野翔"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88032&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/3B77244AD29688C0/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36333,
+  "IDcode": "4BB2FEB29A14684BBC80425A6B-162723",
+  "title": "极上名媛妇人 Vol 15 朝桐光",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36333",
+  "actresses": []
+};

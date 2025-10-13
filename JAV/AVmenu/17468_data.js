@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9093d5e9-0020-4a4f-ad2f-b259a1d5d1f6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17468,
+  "IDcode": "CAWD-587",
+  "title": "我想繼續在這個黑暗陰險的世界裡被人操",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "企畫",
+    "劇情",
+    "淫亂",
+    "凌辱",
+    "小隻馬",
+    "強姦",
+    "性感",
+    "美少女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "CAWD-587为KAWAII出品,2023年12月5日发行的有碼成人影片由吉村卓，松岡美桜出演\n【松岡美桜・専屬第２弾！ 】她有一種扭曲的戀物癖，喜歡看強姦作品，她的提議是「我想拍一部在陰險世界中被強姦時射精的作品！」這不只是三段式的高潮，而是她陰沉 的M性慾在一個充滿犯罪味道的世界中綻放！ 綁架、訓練、闖入、懲罰……敏感到讓你覺得自己在做壞事的變態。 她的臉很可愛，而且很煩♪\n【松岡美桜・専屬第２弾！ 】她有一種扭曲的戀物癖，喜歡看強姦作品，她的提議是「我想拍一部在陰險世界中被強姦時射精的作品！」這不只是三段式的高潮，而是她陰沉 的M性慾在一個充滿犯罪味道的世界中綻放！ 綁架、訓練、闖入、懲罰……敏感到讓你覺得自己在做壞事的變態。 她的臉很可愛，而且很煩♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/cc548d68-6fd7-4dfa-9e42-e9339d632118.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/cc548d68-6fd7-4dfa-9e42-e9339d632118.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17468",
+  "actresses": [
+    {
+      "name": "松岡美桜",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/3d418746-7767-4c19-9bf0-01f36b43202e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17468&name=松岡美桜"
+    },
+    {
+      "name": "吉村卓",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17468&name=吉村卓"
+    }
+  ]
+};

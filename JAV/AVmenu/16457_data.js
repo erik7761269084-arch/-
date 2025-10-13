@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0eb15be1-8493-4f4a-b0fd-fe66fb9c2d38/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/23/a33b77cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16457,
+  "IDcode": "FSDSS-748",
+  "title": "前當地電臺播音員森彩美首次以令人驚嘆的騎乘式姿勢從禁欲中釋放性欲",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "中出",
+    "蕩婦",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "情趣內衣",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "FSDSS-748为FALENO出品,2024年3月7日发行的有碼成人影片由森彩美出演\n自出道以來就以淫蕩騎乘式形象俘獲粉絲的森彩美，以禁欲超越了自己的極限！ 「這是我一生中最棒的高潮……」連對方自己都感到驚訝！請欣賞前播音員瘋狂的景象，比如用部分發展自己並射精的騎乘式姿勢，讓她達到巨大高潮的媚藥姿勢，帶有粗大假陽具的女牛仔姿勢，連續的騎乘式姿勢、3P等",
+  "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205021244186186.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240205/20240205021244186186.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16457",
+  "actresses": [
+    {
+      "name": "森彩美",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/c1ed7900-41cd-4741-bb72-b7ee8065a963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16457&name=森彩美"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16457&name=小田切ジュン"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/JIS7KEXa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78748,
+  "IDcode": "300MAAN-802",
+  "title": "从不放鬆自己的健身、热爱运动的超美BODY人妻登场！",
+  "publish_date": "2023-08-29",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/267d77da8790f3a6500a65ccb5388e10.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78748",
+  "actresses": []
+};

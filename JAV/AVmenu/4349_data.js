@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d27d5621-7133-4f14-bc32-b25ee5f007cf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4349,
+  "IDcode": "TEND-026",
+  "title": "桃色吐息性教育，青澀魅惑玩弄家教！完整版242分鍾 ~ 皆月光",
+  "publish_date": "2025-06-30",
+  "type": "有码",
+  "company": "Tender",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "傲嬌",
+    "校花",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "勾引・誘惑",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "手指插入",
+    "美人",
+    "短髮",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "TEND-026为Tender出品,2025年6月30日发行的有碼成人影片由皆月光出演\n別看小光長著一張蘿莉臉，她可是個超愛啪啪的小妖精！身邊的男人一個都逃不過她的魔爪！在上家教課時，她用勾魂的小眼神對老師放電，各種撩撥暗示，老師直接中招，被她玩弄於股掌之間，完全淪陷！但這還不夠，小光連親弟弟都不放過，給純情弟弟蒙上眼睛，用禁忌的玩法一步步帶他走進大人的世界，簡直欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716082747590590_64611_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250716/20250716082747590590_64611_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4349",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4349&name=皆月光"
+    }
+  ]
+};

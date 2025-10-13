@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240422/ntZgwACG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91267,
+  "IDcode": "EBOD-669",
+  "title": "人類が初めて目にするS字カーブ究極裸体スレンダーGcupE-BODYデビュー女子大生とあさん 騎乗位・バック・正常位とあらゆるSEX体位が最高にハマる女体",
+  "publish_date": "2018-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240423-1/1ef311a21f1687768ebe3b32f19980a4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91267",
+  "actresses": [
+    {
+      "name": "星宮虹乃",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/bf02cac3-867d-41b0-96e3-3106eeba0df2.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91267&name=星宮虹乃"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91267&name=玉木玲"
+    }
+  ]
+};

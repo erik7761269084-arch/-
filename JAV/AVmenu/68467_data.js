@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/10/d04e8d43/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68467,
+  "IDcode": "MVG-126",
+  "title": "【FANZA限定】2人のケツ穴奴●が繰り広げる異次元レベルのぶっ壊れアナルWクソマゾ野外調教 音琴るい/安堂はるの 安堂はるのさんのパンティとチェキセット",
+  "publish_date": "2025-04-23",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "肛交"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/d04e8d43/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68467",
+  "actresses": [
+    {
+      "name": "安堂はるの",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/a99a3667-810d-4742-8eba-53534ad3f779.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68467&name=安堂はるの"
+    },
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68467&name=妃月るい"
+    }
+  ]
+};

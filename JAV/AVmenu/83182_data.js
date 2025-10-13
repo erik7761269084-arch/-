@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/4INjCHjy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83182,
+  "IDcode": "RCTD-313",
+  "title": "真・時間が止まる腕時計パート16",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "妄想",
+    "各种职业",
+    "羞耻",
+    "恶作剧"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/961e39cd79e0c794d38d1d70bbaf9ecc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83182",
+  "actresses": [
+    {
+      "name": "月宫ねね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83182&name=月宫ねね"
+    },
+    {
+      "name": "NIMO",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83182&name=NIMO"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83182&name=森本つぐみ"
+    },
+    {
+      "name": "星岛るり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83182&name=星岛るり"
+    },
+    {
+      "name": "世罗いのり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83182&name=世罗いのり"
+    }
+  ]
+};

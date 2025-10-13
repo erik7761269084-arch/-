@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231121/t91IRBJb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103513,
+  "IDcode": "NHDTB-297",
+  "title": "遭癡漢摳穴到不斷潮吹黑絲美腿正妹2",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "潮吹",
+    "连裤袜",
+    "恋腿癖",
+    "OL",
+    "性骚扰",
+    "素人作品",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1nhdtb297/1nhdtb297pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103513",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103513&name=通野未帆"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103513&name=香苗レノン"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103513&name=纱々原ゆり"
+    },
+    {
+      "name": "桥本丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103513&name=桥本丽华"
+    }
+  ]
+};

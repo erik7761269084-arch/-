@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230116/5CEBFFF5B05E5A7C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103112,
+  "IDcode": "FSDSS-210",
+  "title": "吾輩は痴女である。美少女が繰り出す性欲おじさん吐精術 白坂有以",
+  "publish_date": "2021-04-22",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103112",
+  "actresses": [
+    {
+      "name": "白坂有以",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103112&name=白坂有以"
+    }
+  ]
+};

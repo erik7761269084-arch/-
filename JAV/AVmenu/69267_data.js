@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/meEbTfef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69267,
+  "IDcode": "ZMEN-065",
+  "title": "- 教え子にバイブをパンスト固定され必死にイキそうになるのを我慢していたが媚薬と追撃ピストンで自分から腰を振り始める完堕ち女教師 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "按摩棒",
+    "拘束",
+    "恋物癖",
+    "连裤袜",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69267",
+  "actresses": [
+    {
+      "name": "如月夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/3cbb73d0-2ca0-4ee6-972b-d45f835ca081.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69267&name=如月夏希"
+    },
+    {
+      "name": "河合乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20240515/e12cbcad-671b-481c-af70-b128439fce23.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69267&name=河合乃乃花"
+    },
+    {
+      "name": "中里美穂",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/172d75ef0cc8fd0a80f6d895d25b7a77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69267&name=中里美穂"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230404/cec3b17d-e918-454e-9294-3aefc56b9088/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1655,
+  "IDcode": "SDDE-578",
+  "title": "主持新聞節目中抽搐~做愛 也能從容讀稿的女播音員",
+  "publish_date": "2019-04-11",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "素人作品",
+    "企畫",
+    "女主持・主播",
+    "潮吹",
+    "無碼流出",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/20230403081051439439.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/20230403081051439439.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1655",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1655&name=黑川堇"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1655&name=富田优衣"
+    },
+    {
+      "name": "君野步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/fe6c4784-82b2-42b4-a855-8ff26a434f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1655&name=君野步美"
+    }
+  ]
+};

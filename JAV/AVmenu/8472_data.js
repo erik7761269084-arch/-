@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8f40c2fc-531b-472a-8a51-2a04673f828f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/3dfed6a9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8472,
+  "IDcode": "ROE-320",
+  "title": "我在備考期間和媽媽的短期性生活：利用20分鍾的休息時間的中出性愛，媽媽一直支持我直到我通過考試的那一天...... ~ 岡江凜",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "變態",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "重口味",
+    "自宅",
+    "騎乗位",
+    "內衣",
+    "巨乳",
+    "母子",
+    "母親",
+    "熟女",
+    "短髮",
+    "亂倫",
+    "豐滿"
+  ],
+  "description": "ROE-320为MADONNA出品,2025年2月11日发行的有碼成人影片由岡江凛出演\n今年是我重考的第二年，整天待在家裡複習，心裡很忐忑。我的母親一直很善良，鼓勵我、支持我，為了她，我必須度過這段時光。有一天，媽媽在休息時間提出要給我按摩，我就答應了……但我整天被關在房間裡，性慾受挫，看到媽媽無助的樣子，我勃起了。媽媽一時顯得有些驚訝，但很快便露出了誘人的笑容，並把手放在了我的褲襠上，彷彿她明白發生了什麼事情。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075913712712.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206075913712712.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8472",
+  "actresses": [
+    {
+      "name": "岡江凛",
+      "img_url": "https://picture.yoshiclub.xyz/20240908/e992e81a-2ffe-4c4d-8655-ce8654c92445.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8472&name=岡江凛"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/Hl0DnDtH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81557,
+  "IDcode": "ETQR-126",
+  "title": "生中出しOKセーラー服美少女リフレ 悠月リアナ",
+  "publish_date": "2020-03-28",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "中出",
+    "制服",
+    "口交",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81557",
+  "actresses": [
+    {
+      "name": "悠月リアナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81557&name=悠月リアナ"
+    }
+  ]
+};

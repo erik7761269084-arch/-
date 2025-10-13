@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/9YtgeDRm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85724,
+  "IDcode": "NHDTB-612",
+  "title": "ナチュラルハイ年末スペシャル 忘年会痴●",
+  "publish_date": "2021-12-23",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "手指插入",
+    "滥交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/103533802baaa6995503718b0687dd6c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85724",
+  "actresses": []
+};

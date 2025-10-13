@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250120/L45TntEg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64089,
+  "IDcode": "DDHP-084",
+  "title": "めあ",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "哈姆 MEDIA",
+  "genres": [
+    "中出",
+    "偶像",
+    "第一人称摄影",
+    "女优按摩棒",
+    "角色扮演者",
+    "美少女电影",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64089",
+  "actresses": []
+};

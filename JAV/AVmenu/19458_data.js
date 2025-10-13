@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230504/40804cd7-1da8-4068-a2ed-93c28233ca23/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19458,
+  "IDcode": "STARS-054",
+  "title": "與一面好奇一面摸老二的下流巨乳妹隱瞞的近親相姦 ~ 小泉日向",
+  "publish_date": "2019-03-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "蠻橫嬌羞",
+    "巨乳",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230504/20230504213042534534.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230504/20230504213042534534.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19458",
+  "actresses": [
+    {
+      "name": "小泉日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/9a550037-f39f-46c3-b959-030d8859accc.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19458&name=小泉日向"
+    }
+  ]
+};

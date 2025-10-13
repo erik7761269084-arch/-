@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0054fda-c1e5-48db-90e0-a498c3fa79c6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/01/338643a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14533,
+  "IDcode": "SSNI-256",
+  "title": "已婚人妻爲了心愛的丈夫而陷入成人娛樂圈 ~ 葵司",
+  "publish_date": "2018-07-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "身體換業務",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "應召・援交",
+    "若妻",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "按摩・美容店",
+    "過膝襪・小腿襪",
+    "人妻",
+    "抹油",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-256为S1出品,2018年7月19日发行的有碼成人影片由葵司出演\n為了贍養因裁員而失業的丈夫，美麗的妻子踏入了一份宣傳高薪兼職的工作。還有無良經理利用已婚婦女感情的陷阱。 「一開始我只是應該給顧客做按摩……」她被引誘去給顧客做情色按摩，因為她以為這樣可以賺錢，但一覺醒來卻發現性快感卻無法告訴她丈夫，她說，「為了那個人，一個已婚女人反覆對自己說：「如果是這樣的話…」的衝突。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522223907342342.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/20240522223907342342.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14533",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14533&name=葵司"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14533&name=田渊正浩"
+    }
+  ]
+};

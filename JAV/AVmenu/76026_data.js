@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/B4HScpca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76026,
+  "IDcode": "HAWA-195",
+  "title": "ヤリマンに憧れて… 一日で何人もの男とエッチしまくりたい経験の浅いオクテ妻 ひかるさん34歳",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "已婚妇女",
+    "荡妇",
+    "内衣",
+    "舔阴",
+    "平胸",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/f1f771d869b096710b6cd83a37c4727a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76026",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/06/1fc04d75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74637,
+  "IDcode": "CHN-174",
+  "title": "新・絶対的美少女、お貸しします。 90 涼森れむ（AV女優）21歳。",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "颜射",
+    "潮吹",
+    "角色扮演者",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/970f6aa108ad2d0285208941e6bcf799.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74637",
+  "actresses": [
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74637&name=凉森玲梦"
+    }
+  ]
+};

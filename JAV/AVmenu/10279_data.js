@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/42404ffb-0849-4331-a028-f215583e9b4e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/17/e67240cd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10279,
+  "IDcode": "CAWD-766",
+  "title": "新來的美容師，熱愛大雞巴，有着燦爛的笑容和柔軟的緊致身材，以及非常適合做愛的氣味 ~ 桃瀨日葵",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "中囯服裝",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "拜金女",
+    "癡女",
+    "巨乳",
+    "獵豔",
+    "抹油",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "CAWD-766为KAWAII出品,2024年12月3日发行的有碼成人影片由桃瀨日葵出演\n受虐狂喜萬裡百瀨致力於一點點惡魔般的色情服務的美容院作品。樣？ 想被羞辱嗎？ 希瑪麗·百瀨知道什麼樣的玩法會讓她興奮，而且她在進攻時看起來很高興。纏住Chi柔軟肌膚的超近距離接觸遊戲，從她的蘿莉外表來看，她的挑逗技巧是難以想像的。時，她有時會偷偷地插入，當她變得被動時。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128103020796796.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128103020796796.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10279",
+  "actresses": [
+    {
+      "name": "桃瀨日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240928/862b358a-4a20-4abd-a93c-58d4cdfc9f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10279&name=桃瀨日葵"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10279&name=鲛岛"
+    }
+  ]
+};

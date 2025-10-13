@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/k24BJzQi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93679,
+  "IDcode": "PAIS-069",
+  "title": "地味なのに神乳H-cupを隠し持つ女教師は潮吹きという秘密兵器を持つ最強エロスペックの素人さん",
+  "publish_date": "2024-07-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "业余",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93679",
+  "actresses": [
+    {
+      "name": "石田美久",
+      "img_url": "https://picture.yoshiclub.xyz/20240301/503ca6d6-00d9-44c7-bd68-cb8536c2a627.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93679&name=石田美久"
+    }
+  ]
+};

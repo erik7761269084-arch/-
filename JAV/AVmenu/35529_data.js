@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/ec269ed8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35529,
+  "IDcode": "CWPBD-18",
+  "title": "步毒药-石川瑞樹",
+  "publish_date": "2025-07-15",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/ec269ed8/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35529",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221206/Pr7EM0ql/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83010,
+  "IDcode": "NSSTN-004",
+  "title": "尻の穴まで舐められ尽くされた人妻 南真悠",
+  "publish_date": "2020-03-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "已婚妇女",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/a9d64298495416104acf419a540eacfe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83010",
+  "actresses": [
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83010&name=南真悠"
+    }
+  ]
+};

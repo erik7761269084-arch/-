@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/1WNUNhBP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80113,
+  "IDcode": "ABW-167",
+  "title": "軽蔑する上司に出張先の相部屋で媚薬を盛られて…ブッ壊れキメセク結婚直前NTR 野々浦暖【MGSだけのおまけ映像付き+10分】",
+  "publish_date": "2021-11-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "苗条",
+    "药物",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ca78401be86789fb52b2c2fdfe9726f8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80113",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80113&name=野野浦暖"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80113&name=小田切ジュン"
+    }
+  ]
+};

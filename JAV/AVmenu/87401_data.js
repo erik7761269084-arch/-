@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230725/dSOFC1yB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87401,
+  "IDcode": "DDK-212",
+  "title": "メ豚小屋 女体家畜PLANT 最上一花",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "中出",
+    "捆绑",
+    "监禁",
+    "拘束",
+    "深喉",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230725-1/00a7ff09becf030b13d67463bc74328a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87401",
+  "actresses": [
+    {
+      "name": "最上一花",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/bb112741-c7f4-4852-8144-36e8ff19edde.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87401&name=最上一花"
+    }
+  ]
+};

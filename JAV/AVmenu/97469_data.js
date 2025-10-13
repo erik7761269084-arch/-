@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220323/6E5F49D76E217541/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97469,
+  "IDcode": "VENU-503",
+  "title": "一回きりの約束のはずが、朝から晩までチ○ポ狂いになった義母 飯岡かなこ",
+  "publish_date": "2015-05-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97469",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97469&name=森澤佳奈"
+    }
+  ]
+};

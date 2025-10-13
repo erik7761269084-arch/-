@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240619/fQzXetSQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102602,
+  "IDcode": "DVDMS-423",
+  "title": "一般男女モニタリングAV みんなの憧れの巨乳女子マネージャー限定！合宿中の男湯で男子部員たちのチ○ポの悩みを大きなおっぱいと手コキとフェラで解決してくれませんか！？初めて見る想像以上の巨乳に勃起が収まらない童貞部員を優しく筆おろし！我慢できなくなった男子全…",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "女大学生",
+    "业余",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dvdms423/dvdms423pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102602",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102602&name=岬梓沙"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102602&name=大島愛里亞"
+    },
+    {
+      "name": "杉咲しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c21c81a4-3a97-4ff7-a774-ee9d2ca09ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102602&name=杉咲しずか"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102602&name=浅田结梨"
+    }
+  ]
+};

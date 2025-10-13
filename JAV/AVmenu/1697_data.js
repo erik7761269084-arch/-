@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230401/9258b7c7-b050-48ee-b355-7036b2c913bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1697,
+  "IDcode": "MXGS-891",
+  "title": "一部關於曾經的不良少女的紀錄片！～ 吉沢明歩",
+  "publish_date": "2016-08-16",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "媚藥・迷藥",
+    "無碼流出",
+    "多P",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/b48b17b1-24c4-4858-9529-45342953318f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/b48b17b1-24c4-4858-9529-45342953318f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1697",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1697&name=吉沢明歩"
+    }
+  ]
+};

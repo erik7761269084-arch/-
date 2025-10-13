@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ffc8cdce-f152-4f77-a6a9-76e1799a579e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5417,
+  "IDcode": "MDTM-860",
+  "title": "美谷朱裏 超神級巨星傳說 精選紀念合集 4小時 ~ 美谷朱裏",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "宇宙企畫",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "肉絲",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "美腳",
+    "女僕制服",
+    "明星臉",
+    "御姐系",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "眼鏡",
+    "精選綜合",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "MDTM-860为宇宙企畫出品,2025年6月7日发行的有碼成人影片由美谷朱里出演\n2017年如彗星般登場的超級巨星美谷朱里，這部精選合集根本是可愛與性感的極致結合！精心挑選了6部超適合她的cosplay作品，保證讓你看得心癢癢！這顏值、這身材，絕對是未來都要傳唱的絕世美女！她那甜到爆又超會撩的笑容，搭配讓人心臟狂跳的嫵媚表情，誰能不淪陷啦？高清重製版，畫質滿分，值得永久珍藏！從害羞的初體驗到大膽的潮吹噴水，再到真槍實彈的無套內射，各種玩法一次網羅！一部片就能讓你徹底迷上美谷朱里，快點收進口袋，陪你度過每個孤單的夜晚啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607015222455455_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250607/20250607015222455455_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5417",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5417&name=美谷朱里"
+    }
+  ]
+};

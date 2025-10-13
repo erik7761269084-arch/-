@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/28/28cc2919/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90883,
+  "IDcode": "BIJN-243",
+  "title": "THE ドキュメント 本能丸出しでする絶頂SEX ムンムン淫乱女教師欲望剥き出し乱交ファック 初音みのり パンティと生写真付き",
+  "publish_date": "2023-05-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "眼镜",
+    "姐姐",
+    "纪录片",
+    "滥交",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240226-1/5394c70bedc0e597cc7a0ca14861f66c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90883",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90883&name=初音實"
+    }
+  ]
+};

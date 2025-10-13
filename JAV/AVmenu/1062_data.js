@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dbb42c26-c6e0-4955-bab5-d5867631d662/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1062,
+  "IDcode": "HEYZO-1493",
+  "title": "一起來享受豐滿的身材吧！！～ - 白石真琴",
+  "publish_date": "2017-07-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "美乳",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231220/0068a845-a6df-49e0-b1ec-8d6b7c0556c1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/0068a845-a6df-49e0-b1ec-8d6b7c0556c1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1062",
+  "actresses": [
+    {
+      "name": "白石真琴",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/333601b2-2f5d-4f29-aca5-d51881d3c631.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1062&name=白石真琴"
+    }
+  ]
+};

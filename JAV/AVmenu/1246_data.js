@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32799ef2-7a5b-4fe0-b228-9262c2259c1b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1246,
+  "IDcode": "HEYZO-2443",
+  "title": "手淫和傻笑 與放蕩女孩的絶頂性交Vol.11",
+  "publish_date": "2021-01-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "美乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230910/202309102110434848.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230910/202309102110434848.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1246",
+  "actresses": [
+    {
+      "name": "西島ゆいか",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/4c72e235-d24d-4c8b-b075-a3e08244996f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1246&name=西島ゆいか"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4834e304-b97e-4aa8-8001-5c423b279317/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/15/8723ce29/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18308,
+  "IDcode": "EBWH-024",
+  "title": "學校裡的NTR 今天我無法停止操一個一邊做愛一邊在我耳邊說著淫蕩的下流話的蘿莉",
+  "publish_date": "2023-10-18",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "JK校服",
+    "制服",
+    "淫語",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "學校",
+    "女學生"
+  ],
+  "description": "EBWH-024为E-BODY出品,2023年10月18日发行的有碼成人影片由天月梓出演\n[ASMR錄音錄製] “老師，你在意淫我的身體吧......？” “你可以用我豐滿的身體做任何你想做的事，老師？” F罩杯的天月あず，在 學校裡用甜美的貓式呢喃誘惑著你。 「我想和老師一起到高潮。」我的雞巴在年輕而有彈性的身體面前即將失控......！ 「渾身都顫抖起來了……」因為豐滿巨乳蘿莉的誘惑而無法停止……！\n[ASMR錄音錄製] “老師，你在意淫我的身體吧......？” “你可以用我豐滿的身體做任何你想做的事，老師？” F罩杯的天月あず，在 學校裡用甜美的貓式呢喃誘惑著你。 「我想和老師一起到高潮。」我的雞巴在年輕而有彈性的身體面前即將失控......！ 「渾身都顫抖起來了……」因為豐滿巨乳蘿莉的誘惑而無法停止……！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231016/a84ec934-97a8-4915-be03-9057e60a9ece.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231016/a84ec934-97a8-4915-be03-9057e60a9ece.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18308",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18308&name=天月梓"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57643,
+  "IDcode": "77BCA972984CBA85E5C891E4F9806155",
+  "title": "[中文字幕][無碼]私人別墅裡的激情性愛-岬里沙",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57643",
+  "actresses": []
+};

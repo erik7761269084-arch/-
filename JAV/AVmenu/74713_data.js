@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/62AIdf1D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74713,
+  "IDcode": "LUXU-1139",
+  "title": "ラグジュTV 1128 美スレンダースタイルが輝かしい美人家庭教師！「激しく責められたい…」疼きの抑えられない秘部から溢れ出る大量の潮！貪るように喉奥まで男根を咥え込み、ズブ濡れになった秘部に挿入され連続昇天！欲情した家庭教師が本能のままに酔いしれる淫乱セックス！",
+  "publish_date": "2019-07-12",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "自慰",
+    "姐姐",
+    "颜射",
+    "苗条",
+    "泳装",
+    "业余",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74713",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74713&name=向井藍"
+    }
+  ]
+};

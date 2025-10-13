@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/68015a8b-8da2-42e9-85b4-5fba5f73d8de/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/30/c023e4f8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7735,
+  "IDcode": "SONE-607",
+  "title": "超絕可愛又嬌俏的美少女露出妮可妮可笑臉迎接精液洗禮的大量顏射助攻 ~ 乃阪日和",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "明星臉",
+    "癡女",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SONE-607为S1出品,2025年3月11日发行的有碼成人影片由乃坂日和出演\n什麼樣的女孩值得做臉部護理？最重要的是，她有一張非常可愛的臉。接下來她就會微笑著接受我的精液。然而，她的目光和言語卻讓我興奮射精。原因是，光是射在某人的臉上就會讓我感到難以置信的罪惡感和不道德感。看著她接受精液時的笑容，我一次又一次的勃起不停…為了獲得最佳的自慰體驗，請對 Nosaka Hiyori 做任何你想做的事，並給她無情的猛烈衝擊！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123617597597.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305123617597597.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7735",
+  "actresses": [
+    {
+      "name": "乃坂日和",
+      "img_url": "https://picture.yoshiclub.xyz/20240907/eae5be54-819f-4937-a772-8916bdd6c2a3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7735&name=乃坂日和"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/16/dfa615f0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80711,
+  "IDcode": "IPIT-026",
+  "title": "アイドル制服美少女 お潮びちゃびちゃセックス大好き3本番 上坂めい",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "高中女生",
+    "淫乱，真实",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/a3d9be030c2aa2ce668d348eb75dcf2b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80711",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80711&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80711&name=イセドン内村"
+    }
+  ]
+};

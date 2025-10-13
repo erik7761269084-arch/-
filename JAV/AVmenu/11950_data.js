@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/50803a8d-a866-4eea-a248-e3964a87c621/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11950,
+  "IDcode": "GTJ-147",
+  "title": "串刺拷問，巨乳＆剛毛天使 ~ 天晴乃愛",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "導尿",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "蠟燭",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "和服・浴衣・喪服",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "SM",
+    "美腳",
+    "暗黑系",
+    "緊縛",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "M男・M女",
+    "辣妹/GAL系",
+    "插入異物",
+    "短髮",
+    "女優",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240916/022510ed-0380-4906-bbc8-eebbd8d0fc60.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240916/022510ed-0380-4906-bbc8-eebbd8d0fc60.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11950",
+  "actresses": [
+    {
+      "name": "天晴乃愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/7131d9cb-5b7b-4e26-9265-278cb35933d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11950&name=天晴乃愛"
+    }
+  ]
+};

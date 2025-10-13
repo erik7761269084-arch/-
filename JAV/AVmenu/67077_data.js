@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/e27ce29b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67077,
+  "IDcode": "ALDN-454",
+  "title": "母姦中出し 息子に初めて中出しされた母 成宮いろは",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/05/6e10dbfebf3fae6844ed7129ebecd4c8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67077",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67077&name=成宫いろは"
+    }
+  ]
+};

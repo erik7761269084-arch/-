@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/331766ec-50d8-493a-afce-cae215f2dc7c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/24/0e27c7e4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16416,
+  "IDcode": "WAAA-342",
+  "title": "擁有神乳的護士用熟練的技術乳交、吮吸、舔舐、射精！坎塔瑪卡拉波診所",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "劇情",
+    "醫院・診所",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "口交",
+    "慾求不滿",
+    "護士制服",
+    "勾引・誘惑",
+    "巨乳",
+    "護士"
+  ],
+  "description": "WAAA-342为WANZ FACTORY出品,2024年2月6日发行的有碼成人影片由佐山爱出演\n乳交神乳護士，豐胸技術純熟！捏、吸、舔、射精！用球和肉彈的服務淹沒在乳房中！奶壓三明治，軟軟的H罩杯快要熟了！快搖！全部晉級工匠級別！而且，她還用百萬噸級的打樁機，將她豐滿厚實的大屁股從陰道裏擠出每一滴精液！這部作品是13年來的首部護士作品，充滿了驚人的美乳技術和與周圍完全不同的成人治愈信息素！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240207/202402070811506565.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240207/202402070811506565.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16416",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16416&name=佐山爱"
+    }
+  ]
+};

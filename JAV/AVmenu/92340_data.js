@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/11/5cc1adc1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92340,
+  "IDcode": "MILK-167",
+  "title": "大嫌いな上司のデカチンがドストライクすぎて思わずおねだり…執拗なおっぱいハラスメントで理性を奪われ中出し性交が病みつきになった私… 瀬名未来",
+  "publish_date": "2023-03-16",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "口交",
+    "OL",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92340",
+  "actresses": []
+};

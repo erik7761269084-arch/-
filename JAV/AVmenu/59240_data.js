@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220503/0E59896A9B5B414D/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59240,
+  "IDcode": "HEYZO-1123",
+  "title": "ナンパ即エッチ！～股のユルいコスプレイヤー～ - 舞坂仁美",
+  "publish_date": "2016-03-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "萝莉",
+    "恶搞",
+    "知名女优",
+    "淫荡手淫",
+    "背后插入",
+    "骑乘位",
+    "苗条",
+    "美脚",
+    "漂亮屁股",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59240",
+  "actresses": []
+};

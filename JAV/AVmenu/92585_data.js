@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240906/6Qpexk7t/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92585,
+  "IDcode": "IAA-104",
+  "title": "IAA104最近できた彼女のギャル姉2人にこっそり密著ピストンで癡女られたボクAIKA桐嶋莉乃。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240907-1/c1b8c3d728259fcfc3d8789bb12ac84c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92585",
+  "actresses": []
+};

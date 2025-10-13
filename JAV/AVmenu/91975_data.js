@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240623/N4UiK81g/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91975,
+  "IDcode": "WO-015",
+  "title": "おっぱい道 森沢かな",
+  "publish_date": "2024-04-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "自慰",
+    "玩具",
+    "苗条",
+    "乳液",
+    "女优按摩棒",
+    "乳房",
+    "和服，丧服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91975",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91975&name=森澤佳奈"
+    }
+  ]
+};

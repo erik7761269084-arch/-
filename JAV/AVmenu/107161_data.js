@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/15/199ff81a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107161,
+  "IDcode": "SDDE-404",
+  "title": "性欲処理専門 セックス外来医院 9 真正中出し科 ひとりで50人の患者と生性交する人妻看護師の1日に密着！碧しの＋シリーズ初のBEST盤付き 2枚組",
+  "publish_date": "2015-06-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "企画",
+    "护士",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/15/66a76f7b05d2db75ec81b63b84a1587b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107161",
+  "actresses": [
+    {
+      "name": "篠惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/97827d0d-951d-46e4-8738-9f2dd1f342e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=篠惠美"
+    },
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=羽月希"
+    },
+    {
+      "name": "新山枫",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/25df542a-2a2e-4355-86bf-1354adf84168.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=新山枫"
+    },
+    {
+      "name": "佳苗瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/854d200e-c0ea-4818-afeb-f1d27c90a2a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=佳苗瑠華"
+    },
+    {
+      "name": "葵野真鈴",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-石原あい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=葵野真鈴"
+    },
+    {
+      "name": "みなみ爱梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=みなみ爱梨"
+    },
+    {
+      "name": "水希杏",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=水希杏"
+    },
+    {
+      "name": "椿かなり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107161&name=椿かなり"
+    }
+  ]
+};

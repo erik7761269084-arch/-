@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240519/UbB0W1Yk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102119,
+  "IDcode": "MVSD-453C",
+  "title": "最初且最讚的屁眼解禁！許久沒有的肛門性交下Ｍ爆乳亂晃性福 吉根柚莉愛",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102119",
+  "actresses": []
+};

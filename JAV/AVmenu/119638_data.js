@@ -1,0 +1,23 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119638,
+  "IDcode": "FC2PPV-1254817",
+  "title": "無修正 アイカ19歳 超大人気！Gカップ美爆乳×アイドル級美少女とカラオケSEX",
+  "publish_date": "2020-01-24",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "私人摄影",
+    "素人",
+    "内射",
+    "巨乳",
+    "无套性交",
+    "美少女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119638",
+  "actresses": []
+};

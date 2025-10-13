@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ced3c6de-be3e-4d90-87bd-5d9c27057823/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/12/03596cb7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14854,
+  "IDcode": "SONE-179",
+  "title": "活塞輪奸，被大量男人（共20人）包圍，陸續插入 ~ 七森莉莉",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "多P",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "放尿",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SONE-179为S1出品,2024年5月14日发行的有碼成人影片由七森莉莉出演\n沒有任何表演或戲劇化！以最真實的方式進行認真的性愛！多達20名強者將陸續用雞巴撞你！她的嘴裡和陰戶裡總是塞滿了雞巴，四面八方總是有男人在等待！由於肌肉活塞的無情交換，她受到按摩並陷入抽搐，這是我以前從未見過的！ 「我快要崩潰了！」她的陰部尖叫著，超越了部分的極限……但還沒結束！男人們像公共廁所一樣排成一排，追逐、戳、戳、戳！即使在他頭暈的時候，他也被抓住了，最後的神轎被強行塞進了活塞！最後，大量的精液濺到了她的身上，她渾身是渾濁的乳汁，神情恍惚。據他事後回憶，事發後他有一段時間無法站立。這是七森莉莉期待已久的認真狂歡！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418234937982982.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240418/20240418234937982982.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14854",
+  "actresses": [
+    {
+      "name": "七森莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230819/2199c99b-1dc3-47f9-bb93-14388f02dc17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14854&name=七森莉莉"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14854&name=南佳也"
+    }
+  ]
+};

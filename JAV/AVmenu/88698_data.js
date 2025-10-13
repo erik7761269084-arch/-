@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231207/V1CECy7P/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88698,
+  "IDcode": "YLWN-278",
+  "title": "ガチ本物素人エロ女の生つば手コキフェラ4時間",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "姐姐",
+    "女生",
+    "口交",
+    "业余",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/b341fec2e268bdd7f70ad16ef65fdaea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88698",
+  "actresses": []
+};

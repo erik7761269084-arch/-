@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240306/MY73viyn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90943,
+  "IDcode": "KING-215",
+  "title": "思い出し痴●告白・満員電車で見知らぬ男の指にパンティの中がグチュグチュになるまで捏ね繰り回された体験をセカンドアクメ堕ち～ひなさん編～",
+  "publish_date": "2023-11-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90943",
+  "actresses": [
+    {
+      "name": "清水ひな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90943&name=清水ひな"
+    }
+  ]
+};

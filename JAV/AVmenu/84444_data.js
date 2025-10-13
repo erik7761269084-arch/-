@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/27/85268141/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84444,
+  "IDcode": "FOCS-037",
+  "title": "花火大会中止！？Wナンパでハメ撮りした 大量潮吹き奏音かのん 敏感即イキ巨乳弥生みづき W最強美少女4Pスワップ中出し大乱交！",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84444",
+  "actresses": [
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84444&name=奏音花音"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84444&name=弥生美月"
+    }
+  ]
+};

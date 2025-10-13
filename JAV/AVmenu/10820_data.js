@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a2cea241-8714-494c-99b3-a9bcc949ded8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/1beaa500/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10820,
+  "IDcode": "HBAD-696",
+  "title": "喜歡口交，總是穿着超短裙秀內褲鏡頭誘惑我的巨乳表妹，太騷了…… ~ 逢月ひまり",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "表姐・表妹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "巨乳",
+    "足交",
+    "猥褻穿著",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/8aeccabf-8832-42af-8699-3c77b87daae5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/8aeccabf-8832-42af-8699-3c77b87daae5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10820",
+  "actresses": [
+    {
+      "name": "逢月日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/609da667-f958-4c2a-b729-d636d67e2edb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10820&name=逢月日葵"
+    }
+  ]
+};

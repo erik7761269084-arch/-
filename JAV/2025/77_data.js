@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a722e15d-53a4-4c6e-b1a8-4e3dfb580d60/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 77,
+  "IDcode": "1PON-010114_727",
+  "title": "新年和服姬開葷！口爆秀 ~ 椎名優",
+  "publish_date": "2014-01-01",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "吞精",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "御姐系",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "節日限定",
+    "辣妹/GAL系",
+    "極品美人",
+    "女優",
+    "羞恥"
+  ],
+  "description": "1PON-010114_727为一本道出品,2014年1月1日发行的無碼成人影片由椎名優出演\n新年快樂啦！一開年就看到正妹優醬穿上超美的和服，準備來場火熱的姫始め！為了讓新年第一發爽到翻，囤積的精華得好好來個大掃除！從濃烈的舌吻到全身舔舐服務，優醬可是誠意滿滿！從棒棒到龜頭，舔得那叫一個細膩到位，口爆的精華一滴不剩全吞下去！既然是喜氣洋洋的日子，乾脆來個全身毛筆play啦！乳頭被毛筆刷得癢癢的，小穴也被挑逗得濕答答。再加上大人的玩具刺激穴穴和豆豆，優醬直接喘得不要不要的，真的欲仙欲死啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280742327373_91669_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/202508280742327373_91669_s.webp",
+  "title_play_url": null,
+  "actresses": [
+    {
+      "name": "椎名優",
+      "img_url": "https://picture.yoshiclub.xyz/20250325/15d6ea34-ebe2-4522-abbb-40feedf93ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77&name=椎名優"
+    }
+  ]
+};

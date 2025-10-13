@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b09af92-92ee-4f6c-a977-1c3f158777fe/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/d60dd5ea/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9987,
+  "IDcode": "HMN-656",
+  "title": "認識很久很熟的女閨蜜，她抱怨工作抱怨上司，喝醉後送她去了酒店，卻想不到.... ~ 五日市芽依",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "酒醉",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "酒後亂性",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HMN-656为本中出品,2024年12月17日发行的有碼成人影片由五日市芽依出演\n梅是我的好朋友，她經常打電話給我，因為我是自由工作者，有很多空閒時間。今天又聯絡上了她，讓她聽聽她對公司的抱怨，所以我決定下班後和她一起喝一杯。她來的有點晚，穿著白色的緊身褲和外套，看起來就像一個貴婦人。然而，他似乎因為公司這樣看他而感到壓力......「有時我也只是想被寵著。」也許是因為他受到酒精的影響，但他決定搭計程車回家，而不是跳過末班車。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073427470470.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211073427470470.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9987",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9987&name=五日市芽依"
+    }
+  ]
+};

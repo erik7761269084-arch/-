@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241225/zXguJ3Ax/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75387,
+  "IDcode": "KNMD-062",
+  "title": "夫の残した遺恨を背負わされる母と娘...。一条綺美香・琴音芽衣",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "和服，丧服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75387",
+  "actresses": [
+    {
+      "name": "一条绮美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75387&name=一条绮美香"
+    },
+    {
+      "name": "琴音芽衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75387&name=琴音芽衣"
+    }
+  ]
+};

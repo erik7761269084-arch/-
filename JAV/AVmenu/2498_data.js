@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/30/bba33b0c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2498,
+  "IDcode": "START-410",
+  "title": "外表冷豔超能幹的夏目部長其實是個廢柴 上班甩鍋給我 下班帶我喝酒還讓我爽到家 超貼心傲嬌女上司 ~ 夏目響",
+  "publish_date": "2025-09-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "文藝女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "御姐系",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "職場",
+    "女上司",
+    "眼鏡",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "START-410为SOD出品,2025年9月22日发行的有碼成人影片由夏目響出演\n夏目部長是IT公司的銷售部長，表面上看起來冷酷又能幹，實際上卻是靠關係進來的擺設員工。身為她的下屬，我每天都被甩鍋，任務多到爆，加班加到天亮。某天晚上她居然破天荒請我喝酒，醉後開始撒嬌賣萌，靠過來黏得我心癢癢。那緊身襯衫下性感爆表的火辣身材，真的讓人慾火焚身，忍不住想一探究竟……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211119388388_68988_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211119388388_68988_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2498",
+  "actresses": [
+    {
+      "name": "夏目響",
+      "img_url": "https://picture.yoshiclub.xyz/20240716/ec528bca-b23f-466f-bf41-2fa4c9b031dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2498&name=夏目響"
+    },
+    {
+      "name": "夏目响",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2498&name=夏目响"
+    }
+  ]
+};

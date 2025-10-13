@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/29/69e894c7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100442,
+  "IDcode": "STARS-773",
+  "title": "もしネトゲで知り合った恋愛経験の少ない同世代男子にデートに誘われたらどうする? 唯井まひろ",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "第一人称摄影",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/28/fc2573d5e8cb1e30098ef9197825b3b4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100442",
+  "actresses": [
+    {
+      "name": "唯井真寻",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bf2b9699-b121-462f-ba29-548f845a13d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100442&name=唯井真寻"
+    }
+  ]
+};

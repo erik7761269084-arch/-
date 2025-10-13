@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1e040cf-e699-493d-97f6-fff011cd6dad/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18963,
+  "IDcode": "IPX-487",
+  "title": "錯過了末班車，卻住在了一個可愛同事的家裡，沒穿褲子，沒戴胸罩，整晚都乾的很嗨",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "口交",
+    "勾引・誘惑",
+    "女同事",
+    "出軌",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818205256979979.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818205256979979.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18963",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18963&name=西宮夢"
+    }
+  ]
+};

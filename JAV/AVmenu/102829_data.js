@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/GdobTnjy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102829,
+  "IDcode": "BBAN-251-",
+  "title": "狩りにくる女霧島レオナレズ解禁！本格レズビアン-サス",
+  "publish_date": "2019-10-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "女同性恋",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102829",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102829&name=黑川堇"
+    },
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102829&name=雾岛里绪菜"
+    }
+  ]
+};

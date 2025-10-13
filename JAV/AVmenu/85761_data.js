@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230128/oYGNT9K6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85761,
+  "IDcode": "NNPJ-521",
+  "title": "≪脱いだらめちゃくちゃエロかった≫ 彼氏とついさっき破局したばかりのドスケベボディギャル口説いたら… 寂しさの反動でヤケクソに腰振って中出し放題AV出演決定！ なお",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "苗条",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85761",
+  "actresses": []
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/05/d663677e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107266,
+  "IDcode": "HMN-455",
+  "title": "イクイク敏感ボディがナマでイクッ！！ 超新人級のセックス3冠王さらなる飛躍 中出し解禁 響蓮 生写真2枚付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "苗条",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107266",
+  "actresses": [
+    {
+      "name": "響蓮",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/748f7995-98be-476d-822c-c99fd764e862.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107266&name=響蓮"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107266&name=タイ"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107266&name=Qべぇ"
+    }
+  ]
+};

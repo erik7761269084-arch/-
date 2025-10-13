@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/iV2nuoLR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93483,
+  "IDcode": "NKKD-336",
+  "title": "【FANZA限定】嫁の母親 バカ嫁が浮気して出てったので嫁の母親を呼びつけて抗議したら…「娘がごめんなさい…戻るまで家のこと私が代わりにしますから…」なんて言うもんで嫁の代わりに色々やらせた件 橘メアリー 生写真とパンツ付き",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "婆婆",
+    "巨乳",
+    "已婚妇女",
+    "高",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93483",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93483&name=橘瑪麗"
+    }
+  ]
+};

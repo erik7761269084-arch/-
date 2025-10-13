@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/cowt04fp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73030,
+  "IDcode": "SNIS-983",
+  "title": "交わる体液、濃密セックス 水卜さくら",
+  "publish_date": "2017-08-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "苗条",
+    "薄马赛克",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/b16532f8f3a38b45dca612430c3a2375.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73030",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73030&name=水卜櫻"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73030&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73030&name=玉木玲"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55437,
+  "IDcode": "F7392DD54FD5B76A8B1DBDF3B38E8AF3",
+  "title": "高颜值漂亮可爱幼师，长像刘亦菲",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55437",
+  "actresses": []
+};

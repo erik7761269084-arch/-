@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a03efc4-03cf-4973-85bb-ca478da5d0d3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14030,
+  "IDcode": "SSNI-281",
+  "title": "激烈的活塞式性愛，無情地刺入高潮時抽搐的陰戶。 ~ 小島南",
+  "publish_date": "2018-08-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "過膝襪・小腿襪",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-281为S1出品,2018年8月19日发行的有碼成人影片由小島南出演\n如果讓S1中性慾最高的「小島南」無休無止地製作的話，會發生什麼事…？ 「我射了！我射了！我快要興奮了！」在高潮後，我無休止地打她敏感的陰戶，她潮吹，潮吹，痛苦地抽搐！一個受虐狂男人的驚喜後續活塞，一個強大的演員從頭到尾操你的完整三人行，以及拍攝一個月後的驚喜性愛......小島南因為第一次高潮超過了高潮而崩潰。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240613/20240613034155942942.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240613/20240613034155942942.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14030",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14030&name=小島南"
+    }
+  ]
+};

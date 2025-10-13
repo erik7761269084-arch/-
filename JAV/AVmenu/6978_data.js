@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3c820dd2-2c8f-43af-8a61-1f34eb3462e4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6978,
+  "IDcode": "MDON-072",
+  "title": "配信限定 Madonna專屬女優的『真實』解禁。 MADOOOON!!!! ~ 通野未帆",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "解禁作",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "美腳",
+    "拜金女",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MDON-072为MADONNA出品,2025年4月1日发行的有碼成人影片由通野未帆出演\n光是看著就讓人襠部性感起來，美麗的遠野美穗在Madoon首次登場！ ！她的聲音能夠誘惑任何男人！ ？ （那是聲音嗎？哈哈）當我想要責備或被責備時，這完全取決於我的心情！ ？那麼，美穗今天會穿哪一件呢？他們開始調情和做愛♪我已經嫉妒了哈哈甚至在超級有男子氣概的演員射精後，她還問“我們可以再做一次嗎？”他們在房間裡享受激烈的性愛♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20250407/20250407122806169169.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250407/20250407122806169169.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6978",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6978&name=通野未帆"
+    }
+  ]
+};

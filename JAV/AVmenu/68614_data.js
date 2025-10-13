@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250413/xNKEsEo6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68614,
+  "IDcode": "PRTD-032",
+  "title": "為了小孩子持續被侵犯的英雄秀大姊 竹內有紀",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "凌辱",
+    "淫乱，真实",
+    "姐姐",
+    "巨大屁股",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/146673af038ebb6adcd8cc272fcce5b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68614",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68614&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/YmMNgnKK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84316,
+  "IDcode": "DGCEMD-119",
+  "title": "★配信限定！特典映像付★母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として義母のアナルを責める淫らな変態娘！",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "乱伦",
+    "女同性恋",
+    "肛交",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84316",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84316&name=望月綾香"
+    },
+    {
+      "name": "岩沢香代",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/686dcb21-2726-4747-859a-5efb3f4de284_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84316&name=岩沢香代"
+    }
+  ]
+};

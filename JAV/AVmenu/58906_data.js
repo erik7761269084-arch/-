@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230323/28E0531FA6332850/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58906,
+  "IDcode": "CWPBD-146",
+  "title": "キャットウォーク ポイズン 146 無修正はじめました",
+  "publish_date": "2016-06-30",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "雪白皮肤",
+    "店长推荐",
+    "写真",
+    "无套内射",
+    "立即口交",
+    "深喉",
+    "背后插入",
+    "颜射",
+    "站立性交",
+    "骑乘位",
+    "背部骑乘位",
+    "车站性交",
+    "粉红",
+    "跳",
+    "口爆/吞精",
+    "口交",
+    "巨乳爆乳",
+    "束缚",
+    "美女",
+    "美脚",
+    "美穴",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58906",
+  "actresses": []
+};

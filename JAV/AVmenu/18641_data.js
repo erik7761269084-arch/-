@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8cb9f71-b53b-4b76-88a8-7155d526a993/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18641,
+  "IDcode": "MXDLP-176",
+  "title": "第一次AV拍攝～天真的美少女4小時9",
+  "publish_date": "2023-09-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "素人作品",
+    "4小時以上作品",
+    "出道作品",
+    "精選總編集",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230918/202309182340036363.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230918/202309182340036363.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18641",
+  "actresses": [
+    {
+      "name": "愛瀬るか",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/a8452584-8fda-49e9-aceb-f3001b88f529.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=愛瀬るか"
+    },
+    {
+      "name": "山岸詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230723/88509314-478a-4a3f-80d9-2f83187803b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=山岸詩織"
+    },
+    {
+      "name": "綾瀬なるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/41137b0e-1f83-4cdb-bca1-5b1146382e98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=綾瀬なるみ"
+    },
+    {
+      "name": "南条由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/3d8e311e-8471-45c4-98b5-b4a15ed61507.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=南条由奈"
+    },
+    {
+      "name": "川崎亜里沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/304e738d-1a9c-4950-8fcf-c9e063bf5dc8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=川崎亜里沙"
+    },
+    {
+      "name": "佐野葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/4255c8d4-3c2e-409e-9568-d49a6bbf40e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=佐野葵"
+    },
+    {
+      "name": "北乃ちか",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/a4503d12-56fb-480d-b042-d46aedb5c088.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=北乃ちか"
+    },
+    {
+      "name": "向井しほ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-向井しほ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18641&name=向井しほ"
+    }
+  ]
+};

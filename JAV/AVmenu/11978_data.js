@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1ff3ec87-d74e-49ce-b7be-d092b66955d2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11978,
+  "IDcode": "KAM-216",
+  "title": "實錄淫溼家庭內親族相奸 和美人大嫂的禁斷性行爲 ~ 森澤佳奈",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "內衣",
+    "嫂嫂",
+    "美腳",
+    "明星臉",
+    "人妻",
+    "出軌",
+    "NTR",
+    "真實拍攝",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240914/bb92d30f-838d-49a2-9c94-051cbbd65f46.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240914/bb92d30f-838d-49a2-9c94-051cbbd65f46.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11978",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11978&name=森澤佳奈"
+    }
+  ]
+};

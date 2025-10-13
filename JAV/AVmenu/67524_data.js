@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/8202b256/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67524,
+  "IDcode": "SVLEZ-001",
+  "title": "レズ解禁 イキグルイ。キツネコスレズ永野鈴 涼花くるみ パンツとチェキ付き",
+  "publish_date": "2025-05-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "69",
+    "学校作品",
+    "制服",
+    "女同性恋",
+    "舔阴",
+    "女同接吻",
+    "女教师",
+    "恋爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67524",
+  "actresses": [
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67524&name=永野鈴"
+    },
+    {
+      "name": "凉南佳奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67524&name=凉南佳奈"
+    }
+  ]
+};

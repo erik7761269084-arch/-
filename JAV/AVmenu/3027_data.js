@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e463826e-cb63-43ba-8607-528829421cac/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/a38511e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3027,
+  "IDcode": "IPZZ-658",
+  "title": "超美的女上司錯過末班車借宿我家，超小單間貼身到不行，極品巨乳又超纖細的運動身材讓我徹底淪陷，上班前一直在瘋狂纏綿 ~ 月城莉莉香",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "自宅",
+    "同住一屋・相部屋",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "職場",
+    "女上司",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "IPZZ-658为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由月城莉莉香出演\n错过了末班车，只能临时借宿后辈家里，本以为只是凑合到天亮，谁知道她家是个超小的单间，两个人挤得贴身到不行！明知道不能对下属动手，但她那极品纤瘦大胸的运动身材，睡前还来一波性感拉伸，我直接理智崩盘！那紧致到爆的运动员Body，简直让人忘掉家庭，直接出轨开干！一整晚没睡，疯狂缠绵，这种情况下谁能忍得住啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045418260260_93680_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045418260260_93680_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3027",
+  "actresses": [
+    {
+      "name": "月城莉莉香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250606/98916d75-dc0d-4ee5-b1e5-f652b9ce3bac_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3027&name=月城莉莉香"
+    }
+  ]
+};

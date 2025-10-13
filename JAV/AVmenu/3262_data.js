@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3afab267-b228-46f4-918e-e7504203979a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3262,
+  "IDcode": "NATR-758",
+  "title": "滿滿的致命吸引力！本田瞳的誘人風采 ~ 本田瞳",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "NATR-758为Nadeshiko出品,2025年8月22日发行的有碼成人影片由本田瞳出演\n本田瞳那双仿佛能把人魂儿勾走的大眼睛，配上D杯美乳和肉感十足的身材，神秘又妖艳的气质，简直让无数男人为之疯狂！这次咱们把她的魅力一网打尽，全部呈现给你！偷偷摸摸和同居的义兄搞起了禁忌的不伦关系，刺激到不行，结果却…《老公的哥哥与NTR家庭内不伦》；而作为护士的瞳，面对患者猛烈的追求攻势，最终没忍住嫁了过去，但婚后却…《偷腥上瘾的坏坏少妇》，两部劲爆作品完整收录，绝对让你看得心痒痒！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823051459968968_76437_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823051459968968_76437_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3262",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3262&name=本田瞳"
+    }
+  ]
+};

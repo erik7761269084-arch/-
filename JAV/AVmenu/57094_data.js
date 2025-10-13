@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57094,
+  "IDcode": "81FB86F520EF42035008A92663F01197",
+  "title": "小菊穴喜欢热辣狂暴性交",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57094",
+  "actresses": []
+};

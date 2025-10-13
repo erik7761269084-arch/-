@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/6827147b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63981,
+  "IDcode": "OFSD-018",
+  "title": "ガテン系巨乳女子のパワフルピストン騎乗位で職場の男たちを喰い散らかし！ 萎えても追撃フェラで自分が満足するまで何度も勃起させてヤリまくって中出しさせまくり！！",
+  "publish_date": "2025-05-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "企画",
+    "滥交",
+    "骑乗位",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/6827147b/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63981",
+  "actresses": []
+};

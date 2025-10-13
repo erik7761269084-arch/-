@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/5227d43b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78297,
+  "IDcode": "IPZZ-410",
+  "title": "月に一度のAV撮影を心から待ち侘びるむっつりドスケベさくらわかなが30日間のハメ禁オナ禁を解禁して挑む理性が吹き飛ぶ愛のない発情ケダモノSEX さくらわかな",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫乱，真实",
+    "姐姐",
+    "颜射",
+    "苗条",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78297",
+  "actresses": [
+    {
+      "name": "櫻若菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/0ed752a5-7691-4179-bde2-41cbf468fca9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78297&name=櫻若菜"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78297&name=イセドン内村"
+    }
+  ]
+};

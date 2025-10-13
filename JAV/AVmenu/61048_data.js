@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/4B57648DE57E7FED/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61048,
+  "IDcode": "BBAN-008",
+  "title": "椎名ゆなと桜井あゆの旅ビアン",
+  "publish_date": "2014-07-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "女同性恋",
+    "苗条",
+    "户外",
+    "纪录片",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61048",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61048&name=椎名由奈"
+    },
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61048&name=樱井步"
+    }
+  ]
+};

@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b39ba84d-2bfa-415f-9292-977c8348e876/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15230,
+  "IDcode": "EKDV-740",
+  "title": "清純美女新人藤野つかさ突然以instax 3連AV再次出道",
+  "publish_date": "2024-04-24",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "69",
+    "深喉",
+    "紀念作",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "多P",
+    "自慰",
+    "手指插入",
+    "按摩棒",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421035919111111.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240421/20240421035919111111.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15230",
+  "actresses": [
+    {
+      "name": "藤野つかさ",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/429e106c-1719-4104-8df3-da0c40f40236.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15230&name=藤野つかさ"
+    }
+  ]
+};

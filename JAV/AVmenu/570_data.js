@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45eb563c-09e7-4ad5-b6fc-96cb04b6e649/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 570,
+  "IDcode": "HEYZO-0683",
+  "title": "極太黑炮 VS 絕倫美女 - 初次挑戰黑屌 ~ 櫻井知香",
+  "publish_date": "2014-09-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "69",
+    "淫亂",
+    "絕頂高潮",
+    "紀念作",
+    "中出",
+    "美乳",
+    "黑人男優",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "癡女",
+    "奇異的",
+    "真實拍攝",
+    "大雞巴",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0683为HEYZO出品,2014年9月14日发行的無碼成人影片由樱井知香出演\n極太黒砲 VS 絶倫美女～初めての黒マラ～ - 櫻井ともか",
+  "cover_url": "https://picture.yoshiclub.xyz/20241112/6f8bf731-e1c5-4a26-b9ac-2cbae2e4fcf5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241112/6f8bf731-e1c5-4a26-b9ac-2cbae2e4fcf5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=570",
+  "actresses": [
+    {
+      "name": "樱井知香",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/3d659151-a72d-42ca-8de4-345859f0bd36.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=570&name=樱井知香"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c326b8d-f464-4088-908f-abe91b42db8d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 493,
+  "IDcode": "HEYZO-0589",
+  "title": "費洛蒙受偵探的無恥事件薄 - 用緊致的陰戶來抓捕疑犯 ~ 一之瀬愛理",
+  "publish_date": "2014-05-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "色誘",
+    "身體換業務",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "打手槍",
+    "人妻",
+    "熟女"
+  ],
+  "description": "HEYZO-0589为HEYZO出品,2014年5月3日发行的無碼成人影片由一之瀬愛理出演\nフェロモン探偵ゆなのハレンチ事件簿～ギュッとしまるアソコでスパイを捕獲～ - 白崎由奈",
+  "cover_url": "https://picture.yoshiclub.xyz/20241231/7eae2c3f-7fa8-4432-9e00-43f54f7d2cb0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241231/7eae2c3f-7fa8-4432-9e00-43f54f7d2cb0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=493",
+  "actresses": [
+    {
+      "name": "一之瀬愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20241231/d4424f9f-9bb1-4c48-ad20-63d2a5c85440.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=493&name=一之瀬愛理"
+    }
+  ]
+};

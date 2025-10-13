@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/M7K40lvc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79127,
+  "IDcode": "MDBK-176",
+  "title": "- 【奇跡】デリヘル呼んだら地元の巨乳な友達で非常においしい思いをした件！！6 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "凌辱",
+    "纪录片",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/4d3395b08f64ddaf5901c0fff2107437.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79127",
+  "actresses": [
+    {
+      "name": "爱花みちる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79127&name=爱花みちる"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79127&name=椎叶みくる"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79127&name=稻场流花"
+    },
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79127&name=若宫穂乃"
+    }
+  ]
+};

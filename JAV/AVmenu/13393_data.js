@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff4634c8-f1f0-4daf-93dd-d57f64a27863/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/16/1616523a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13393,
+  "IDcode": "MIMK-154",
+  "title": "販殼數超過20000乳頭玩弄系列的真人版！！ 沉迷於乳頭的青梅竹馬 ~ -新井裏真",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "雙馬尾",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美少女",
+    "青梅竹馬",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "學校",
+    "大奶头",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "羞恥"
+  ],
+  "description": "MIMK-154为MOODYZ出品,2024年7月16日发行的有碼成人影片由新井里真出演\nCircle Momiko將原版熱門乳頭折磨系列真人改編！起來。刷子摩擦，棒子插入，油刑，揉捏乳頭性交等等，乳頭不斷地被挑逗和挑逗，我感到很興奮！ 性愛的感覺很好，但僅憑這些還不足以滿足我，所以我發現自己在玩弄我的乳頭。如果乳頭發達，感覺比陰蒂好！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712002126695695.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712002126695695.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13393",
+  "actresses": [
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13393&name=新井里真"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13393&name=Qべぇ"
+    }
+  ]
+};

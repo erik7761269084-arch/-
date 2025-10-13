@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a47ccf7-6262-4483-b5e1-54f64af041f5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14749,
+  "IDcode": "MADV-555",
+  "title": "做愛奇聞趣事",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "69",
+    "吞精",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240513/b18f6d13-27be-46b1-bb05-e98e0b16a1e4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240513/b18f6d13-27be-46b1-bb05-e98e0b16a1e4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14749",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14749&name=小梅惠奈"
+    },
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14749&name=有馬美玖"
+    }
+  ]
+};

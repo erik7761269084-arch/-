@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/13/f79f6fc3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82438,
+  "IDcode": "HAR-050",
+  "title": "娘と家庭教師の女を媚薬発情させ近親＆レズ3PでW中出しセックス",
+  "publish_date": "2016-11-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "多P",
+    "乱伦",
+    "女同性恋",
+    "业余",
+    "家教",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/3fad0d303e550b3dd4d58e628aef23bc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82438",
+  "actresses": [
+    {
+      "name": "小谷みのり",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b3bb6f0674f2154bd932c98aab90e4ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82438&name=小谷みのり"
+    },
+    {
+      "name": "大石香织",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/262ac9cf99cd665cdc871e0a6f18cb0a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82438&name=大石香织"
+    },
+    {
+      "name": "坂本すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82438&name=坂本すみれ"
+    },
+    {
+      "name": "星乃ゆづき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82438&name=星乃ゆづき"
+    }
+  ]
+};

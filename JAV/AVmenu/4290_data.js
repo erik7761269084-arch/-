@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8271bd61-45e9-4ba9-808a-88f95d0cb20f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4290,
+  "IDcode": "JUR-412",
+  "title": "禁忌纏綿：家裏偷情的氣息，與公公的濃烈不倫之戀 ~ 瑤真由香",
+  "publish_date": "2025-07-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "淫亂",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "報復",
+    "三十路",
+    "後入",
+    "劇情"
+  ],
+  "description": "JUR-412为MADONNA出品,2025年7月18日发行的有碼成人影片由瑶真由香出演\n結婚三年，我一直對老公掏心掏肺，但他對我冷若冰霜，常常晚歸不回家。住在一起的義父總是關心我，經常陪我聊心事。沒想到，老公竟然出軌了！我崩潰離家，在公園長椅上哭得撕心裂肺，是義父來接我回家。他也曾被背叛離婚，特別懂我的痛，溫柔地安慰我。情緒失控下，我再也忍不住，狠狠吻上了義父的唇…從此，我們在家裡偷嘗禁果，糾纏的喘息讓人心跳加速，濃烈的不倫之愛一發不可收拾！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717032751431431_82336_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250717/20250717032751431431_82336_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4290",
+  "actresses": [
+    {
+      "name": "瑶真由香",
+      "img_url": "https://picture.yoshiclub.xyz/20240921/f7ce3488-11dd-48ee-ac9f-0fa2ad98d268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4290&name=瑶真由香"
+    }
+  ]
+};

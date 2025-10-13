@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/QOE1zaF1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76484,
+  "IDcode": "SABA-549",
+  "title": "童貞さんいらっしゃい！天使のような優しい巨乳介護士さんチャレンジ・ザ・ミッション！授乳手コキ＆おっぱいハグ！恥じらい赤面素股プレイ中ぐちょぐちょマ●コにヌルッと挿入筆おろし5",
+  "publish_date": "2019-08-23",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "手淫",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/89fa02ed1c33171a3daf964910459994.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76484",
+  "actresses": [
+    {
+      "name": "咲々原リン",
+      "img_url": "https://picture.yoshiclub.xyz/20230614/98fea1c2-3d92-4ea5-b44f-938b37401eac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76484&name=咲々原リン"
+    },
+    {
+      "name": "あゆみ莉花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76484&name=あゆみ莉花"
+    }
+  ]
+};

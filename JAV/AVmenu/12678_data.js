@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e43513df-3d00-495e-8ef7-3158aec68504/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/26/11e1676d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12678,
+  "IDcode": "FSDSS-861",
+  "title": "創紀錄的大雨而無法回家，居然和最出名的女主持在公司共住一個房間……作爲一個新人，我卻被給予了神聖的口交，被勾引誘惑中出到早上 ~ 森彩美",
+  "publish_date": "2024-09-12",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "加班",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "女主持・主播",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "勾引・誘惑",
+    "美腳",
+    "艷遇",
+    "女同事",
+    "出軌",
+    "NTR",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "FSDSS-861为FALENO出品,2024年9月12日发行的有碼成人影片由森彩美出演\n有一天，在當地拍完戲後，突如其來的大雨無法回家，我就和陪同的女播音員阿亞美住了一個房間。當我因為和一位受歡迎的女播音員單獨待在密閉的房間里而感到緊張時，彩美小姐用她的神舌調皮地誘惑了我…我忘了工作和女朋友，繼續一遍又一遍地進行禁忌的性行為。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815213235173173.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815213235173173.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12678",
+  "actresses": [
+    {
+      "name": "森彩美",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/c1ed7900-41cd-4741-bb72-b7ee8065a963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12678&name=森彩美"
+    }
+  ]
+};

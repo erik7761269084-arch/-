@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/15/d8b12fc9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95117,
+  "IDcode": "PPPD-404",
+  "title": "內射巨乳女大生家教 北川繪理香",
+  "publish_date": "2015-09-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女大学生",
+    "姐姐",
+    "家教",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95117",
+  "actresses": [
+    {
+      "name": "北川爱莉香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/489441ba348341feefd5155ed212b2c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95117&name=北川爱莉香"
+    }
+  ]
+};

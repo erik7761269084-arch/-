@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/849b53c6-b8da-423c-9ccd-e18134b31a2a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4614,
+  "IDcode": "HZGD-309",
+  "title": "幫變態繼們清理垃圾房間裏，發現了海量用來打飛機的紙巾，結果天天被迫玩變態SEX ~ 結月莉亞",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "老頭子",
+    "4K",
+    "變態",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "繼父",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HZGD-309为人妻花園劇場出品,2025年7月4日发行的有碼成人影片由結月莉亞出演\n因為房子翻修不得不跟義父同居，這老傢伙變態到連手沖用過的紙巾都不收拾，噁心得我快吐了。房間臭得受不了，我硬著頭皮去清理，沒想到這老變態竟然發飆，直接強行對我上下其手。從那天開始，我每天都被迫陪他滿足那噁心的變態慾望……天啊，這死變態義父真的噁心到爆，今天又逼我跟他上床，救命啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703090001411411_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703090001411411_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4614",
+  "actresses": [
+    {
+      "name": "結月莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/1427264d-0d19-4c3d-85d8-a432b027ad47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4614&name=結月莉亞"
+    }
+  ]
+};

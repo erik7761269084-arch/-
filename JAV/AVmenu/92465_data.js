@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240905/wKpneq7n/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92465,
+  "IDcode": "ASD-785",
+  "title": "ASD785現出欲望汗水愛液滴落濃密情交。深田詠美。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/d57c3767cb061b1d84fc0fdab27af47a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92465",
+  "actresses": []
+};

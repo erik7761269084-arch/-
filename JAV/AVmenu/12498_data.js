@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9a17a91e-1a82-46c1-b605-f9407747bbca/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/13/5682ea7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12498,
+  "IDcode": "JUQ-849",
+  "title": "特寫性愛 - 我因在學校與學生家長發生外遇而感到內疚 ~ 竹內有紀",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "絕頂高潮",
+    "老頭子",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女",
+    "野性"
+  ],
+  "description": "JUQ-849为MADONNA出品,2024年8月27日发行的有碼成人影片由竹内有紀出演\n由希是一位已婚婦女，她的丈夫經常獨自工作，已經結婚五年了。由於自己是一名教師，她無法跟隨丈夫，過著孤獨的生活。同時，在學校裡，他被一個麻煩的學生龍馬所困擾。龍馬最終對獨自撫養他長大的父親透施暴力。沒多久，由紀和徹就成為了親密的朋友，因為他們都在自己的家庭環境中遇到了麻煩。由希和小澤在成為朋友並互相教導對方如何在家做飯後最終分享了一個吻。從此，一個開關被打開，兩人沉浸在親密的交往中，彷彿在治癒彼此的傷口。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223724232232.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822223724232232.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12498",
+  "actresses": [
+    {
+      "name": "竹内有紀",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d5d5021b-67a2-4f42-88dd-d2222f6efb3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12498&name=竹内有紀"
+    }
+  ]
+};

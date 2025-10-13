@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250411/AIM48pCm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68736,
+  "IDcode": "MEYD-435",
+  "title": "織田真子の凄テクを我慢できれば生★中出しSEX！",
+  "publish_date": "2018-11-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250412-1/8636d392bb31d7b69880cce1a52e2845.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68736",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68736&name=織田真子"
+    }
+  ]
+};

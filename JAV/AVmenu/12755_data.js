@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8821698e-5169-44bd-a195-c5baa2f98950/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12755,
+  "IDcode": "GVH-675",
+  "title": "有肌肉的男人的感覺最好，視頻主播繼續用盡一切辦法弄我的雞巴 ~ 加藤桃香",
+  "publish_date": "2024-08-14",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女主持・主播",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240811/65e7e2fb-0293-4389-8dd0-4037eec0f649.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240811/65e7e2fb-0293-4389-8dd0-4037eec0f649.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12755",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12755&name=加藤桃香"
+    }
+  ]
+};

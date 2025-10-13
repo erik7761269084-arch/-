@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230409/1ce82580-d4ff-403d-be72-e499dca0d54f/index.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250128/RNs95A1J/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19571,
+  "IDcode": "SSNI-424",
+  "title": "敗給女友巨乳正姊春光誘惑的我 葵",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女上位",
+    "短裙・迷你裙",
+    "口交",
+    "姐姐・妹妹",
+    "主觀視角",
+    "巨乳",
+    "薄碼"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230409/8d488861-be62-47d0-ae2e-c6a2500a9b31.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230409/8d488861-be62-47d0-ae2e-c6a2500a9b31.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19571",
+  "actresses": [
+    {
+      "name": "小野夕子",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/abb74ccd-f491-4096-9565-ef8214acfbee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19571&name=小野夕子"
+    }
+  ]
+};

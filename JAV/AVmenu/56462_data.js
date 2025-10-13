@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56462,
+  "IDcode": "9413E7D187932E2B7CC2E57F80287915",
+  "title": "黑丝女高中生公园口交",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56462",
+  "actresses": []
+};

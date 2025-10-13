@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220401/0142CB24F97218FB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97564,
+  "IDcode": "BLKW-006",
+  "title": "＃おけまる＃うえーい",
+  "publish_date": "2020-04-24",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "高中女生",
+    "颜射",
+    "口交",
+    "女优按摩棒",
+    "过膝袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97564",
+  "actresses": []
+};

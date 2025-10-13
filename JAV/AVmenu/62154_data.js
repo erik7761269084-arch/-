@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/15443996/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62154,
+  "IDcode": "SW-1013",
+  "title": "ラブラブしたい従妹はお従兄ちゃん大好きっ子だから、勃起するまでパンツ全力誘惑してきます！",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "企画",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/12/0b84fb671c2f4ff8a29f4fed708cf134.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62154",
+  "actresses": []
+};

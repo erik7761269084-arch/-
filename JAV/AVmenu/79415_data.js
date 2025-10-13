@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/28/49ed95c2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79415,
+  "IDcode": "PRED-337",
+  "title": "免許合宿NTR【専属女優スペシャル！】～女子大生の彼女とチャラ男の最低な浮気中出し映像～ 星奈あい",
+  "publish_date": "2021-09-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "女大学生",
+    "苗条",
+    "口交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c261a106f407ff92da008dd69a281c7f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79415",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79415&name=星奈爱"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240905/zEu8xFxT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92618,
+  "IDcode": "AWD-331",
+  "title": "AWD331隣の4姉妹に前後左右を囲まれて痴女られまくって抜かれまくる夢の中出しハーレム松本一香百瀨飛鳥櫻井千春倉本蓳。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92618",
+  "actresses": []
+};

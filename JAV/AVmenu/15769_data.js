@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/08914316-149a-401f-970c-17047f73ac7c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15769,
+  "IDcode": "ATID-594",
+  "title": "監視強奸 - 一個女人的私生活被跟蹤者監視直到她懷孕的整個故事。優梨舞奈",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "尾行",
+    "絕頂高潮",
+    "深喉",
+    "凌辱",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美少女",
+    "自慰",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "ATID-594为ATTACKERS出品,2024年4月2日发行的有碼成人影片由優梨舞奈出演\n一個男人愛上了他在街上偶然看到的一個女人。他繼續跟蹤該女子並找到了她的家。男子趁女子不在的時候潛入房間，設置監視器，監視她的私生活。男子對此並不滿意，決定搬到女子居住的公寓。我繼續在隔壁房間以最近的距離監視那個女人，而隔壁房間剛好是空的。男人的慾望一天升級……終於……！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331011836100100.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240331/20240331011836100100.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15769",
+  "actresses": [
+    {
+      "name": "優梨舞奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15769&name=優梨舞奈"
+    }
+  ]
+};

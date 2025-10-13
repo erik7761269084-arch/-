@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/nKGUyRag/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66688,
+  "IDcode": "DLDSS-143",
+  "title": "卑猥扮裝連續讓人射的風俗全套！ 美乃雀",
+  "publish_date": "2022-12-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "口交",
+    "角色扮演者",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66688",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66688&name=美乃雀"
+    }
+  ]
+};

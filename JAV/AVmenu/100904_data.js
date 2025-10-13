@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/02/5e7b909e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100904,
+  "IDcode": "AARM-191",
+  "title": "ガーターベルトのふともも×腿コキ6",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "荡妇",
+    "屁股",
+    "口交",
+    "恋腿癖",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100904",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100904&name=望月綾香"
+    },
+    {
+      "name": "今藤雾子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100904&name=今藤雾子"
+    },
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100904&name=爱乃零"
+    },
+    {
+      "name": "美園マリカ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100904&name=美園マリカ"
+    }
+  ]
+};

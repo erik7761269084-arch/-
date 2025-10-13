@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/1160bcb6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106274,
+  "IDcode": "URE-043",
+  "title": "名作復活！！中華なると原作 人気コミック「義父」シリーズの初期作品を再実写化！！ 義父 ～百合子～ 森ほたる",
+  "publish_date": "2018-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/21/ce72eee1c273a26bb7bc660c8bd7ab3c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106274",
+  "actresses": []
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/137f42c6-c6f9-46ed-b055-c38176986538/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/12/1ef33a34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8040,
+  "IDcode": "ROE-316",
+  "title": "在丈夫遺像前被兒子反復中出的母親 ~ 鬆本翔子",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "喪夫",
+    "臀控",
+    "乳交",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "人妻",
+    "巨乳",
+    "母子",
+    "母親",
+    "熟女",
+    "未亡人・寡婦",
+    "亂倫",
+    "羞恥"
+  ],
+  "description": "ROE-316为MADONNA出品,2025年2月25日发行的有碼成人影片由松本翔子出演\n因病失去丈夫的翔子，呆呆地望著丈夫的畫像。她的兒子 Hajime 在代表母親來家裡接待客人時表現得很堅決。那天晚上，Hajime 懷疑母親與叔叔單獨待在空蕩蕩的客廳裡。當母親在父親的畫像前呻吟時，肇對她充滿了慾望，並且有一種佔有欲，想阻止他的叔叔把母親從他身邊奪走…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092537363363.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220092537363363.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8040",
+  "actresses": [
+    {
+      "name": "松本翔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/d1acf4b8-baf9-44d4-961b-049e3e22ed17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8040&name=松本翔子"
+    }
+  ]
+};

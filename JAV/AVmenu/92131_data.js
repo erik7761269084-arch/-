@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240714/El2vxLM7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92131,
+  "IDcode": "MFCS-105",
+  "title": "【陸上部並みの腹筋美がエロ映えするグラインド騎乗位！美尻美脚の女子大生と生ハメSEX！】出会って5秒で即フェラ抜きゴックン！危ないブルマに着替えてリモコンローターお散歩！からのホテイン！J○のようなカラダでガチイキ連発する女子大生に膣奥ガン突きピストンも高速化！膣と顔に特濃ザーメンぶちまける！！【あまちゅあハメREC＃のあ＃女子大生】",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "第一人称摄影",
+    "颜射",
+    "吞精",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240714-1/9aba7aa26b696cd2634c3f317b2c4632.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92131",
+  "actresses": [
+    {
+      "name": "菊池春",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/5ca175b8-1c74-41eb-8d3e-a37b5a6270af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92131&name=菊池春"
+    },
+    {
+      "name": "のあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92131&name=のあ"
+    }
+  ]
+};

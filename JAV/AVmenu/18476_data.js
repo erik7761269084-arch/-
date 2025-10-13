@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/91e8c812-e2f1-436c-acd1-2a61d2b8ca72/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18476,
+  "IDcode": "FSDSS-682",
+  "title": "用體液持續進行性愛 Elisa Kusunoki",
+  "publish_date": "2023-10-02",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "口交",
+    "性感",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "明星臉",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "飯店"
+  ],
+  "description": "FSDSS-682为FALENO出品,2023年10月2日发行的有碼成人影片由楠愛里紗出演\n丑闻缠身的 G-cup 名媛 楠エリサ 与一名男子在酒店秘密会面......她迷人的身体和性欲都暴露无遗。 真正的性爱无需多言......他们只是在彼此的欲望中碰撞、交织。 感官性爱，不仅让你射精，也让男人达到高潮。 看到她美丽的 G 罩杯奶子在淫乱中反复达到高潮，让她成为一个饥渴的女性......她潜藏的情欲被释放出来，无论高潮多少次，她无底的性欲都在继续寻求快感。 这就是......她的真实形态。 不加掩饰的性交充满了淫荡情欲。\n丑闻缠身的 G-cup 名媛 楠エリサ 与一名男子在酒店秘密会面......她迷人的身体和性欲都暴露无遗。 真正的性爱无需多言......他们只是在彼此的欲望中碰撞、交织。 感官性爱，不仅让你射精，也让男人达到高潮。 看到她美丽的 G 罩杯奶子在淫乱中反复达到高潮，让她成为一个饥渴的女性......她潜藏的情欲被释放出来，无论高潮多少次，她无底的性欲都在继续寻求快感。 这就是......她的真实形态。 不加掩饰的性交充满了淫荡情欲。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002225023185185.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/20231002225023185185.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18476",
+  "actresses": [
+    {
+      "name": "楠愛里紗",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/b2700cfb-1c5c-4a4c-a502-bc15120ec1fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18476&name=楠愛里紗"
+    }
+  ]
+};

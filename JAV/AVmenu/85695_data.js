@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/M4qFBlC2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85695,
+  "IDcode": "NACR-548",
+  "title": "元カレの冷酷な罠 寝取られた婚約者 妃ひかり パンティと生写真付き",
+  "publish_date": "2022-06-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85695",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85695&name=妃光莉"
+    }
+  ]
+};

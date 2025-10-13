@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/2KJ3Gce2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90410,
+  "IDcode": "PKPD-266",
+  "title": "中出しするだけの簡単なお仕事 Fカップのパパ活看護学生 あやの 20歳 小沢彩乃 （BOD）",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90410",
+  "actresses": [
+    {
+      "name": "小沢彩乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90410&name=小沢彩乃"
+    }
+  ]
+};

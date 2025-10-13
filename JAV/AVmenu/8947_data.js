@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f66ce813-1ff3-4fda-babd-0e656521d97f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8947,
+  "IDcode": "START-248",
+  "title": "首次全裸運動會 ~ 星乃莉子",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "運動",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "綜藝",
+    "美腳",
+    "搞笑・模仿",
+    "奇聞趣事",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "奇異的",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "野外露天",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250121/8e22589d-95cd-4538-ae1a-27704f23222d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250121/8e22589d-95cd-4538-ae1a-27704f23222d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8947",
+  "actresses": [
+    {
+      "name": "星乃莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/ac4cdd9b-a9ee-47a0-a206-669f2d143db8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8947&name=星乃莉子"
+    }
+  ]
+};

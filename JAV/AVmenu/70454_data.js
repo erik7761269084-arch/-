@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/2fd6f33d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70454,
+  "IDcode": "VTMN-016",
+  "title": "私の一番ヤリたいコト。世界で一番あなたを愛してヌいてくれる圧倒的誘惑痴女 尾崎えりか",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "多P",
+    "淫语",
+    "荡妇",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70454",
+  "actresses": []
+};

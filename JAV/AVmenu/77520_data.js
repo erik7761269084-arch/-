@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/18/93bb2a19/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77520,
+  "IDcode": "SSIS-816",
+  "title": "スーパースター女優と大乱交 激レア共演S1ファン感謝祭 （ブルーレイディスク） ノベルティパッケージ付き",
+  "publish_date": "2023-07-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "淫乱，真实",
+    "纪录片",
+    "滥交",
+    "感谢祭",
+    "4K",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/19/6a0541642e77326e9ec93206752547ce.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77520",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=Miru"
+    },
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=葵司"
+    },
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=架乃由羅"
+    },
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=三上悠亜"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=タイ"
+    },
+    {
+      "name": "ようく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77520&name=ようく"
+    }
+  ]
+};

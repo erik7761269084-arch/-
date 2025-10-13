@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231204/r3JBE25K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100968,
+  "IDcode": "DASD-019",
+  "title": "悶絶アクメ無制限潮吹き 鈴木杏里",
+  "publish_date": "2007-07-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "潮吹",
+    "手指插入",
+    "拘束",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dasd019/dasd019pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100968",
+  "actresses": [
+    {
+      "name": "铃木杏里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100968&name=铃木杏里"
+    }
+  ]
+};

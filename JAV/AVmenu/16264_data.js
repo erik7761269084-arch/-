@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47bc5bc1-2e09-4a47-8fe7-9a6d13b307e1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16264,
+  "IDcode": "BKYNB-044",
+  "title": "我的房間是哥哥們來洗泡泡浴的限定喲 ~ 五日市芽衣",
+  "publish_date": "2024-02-16",
+  "type": "有码",
+  "company": "BonBon",
+  "genres": [
+    "企畫",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "美乳",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "美少女",
+    "手指插入",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "BKYNB-044为BonBon出品,2024年2月16日发行的有碼成人影片由五日市芽依出演\n小時候，你們中的一些人可能有過和姐姐、妹妹或者鄰居女孩一起扮演醫生的經歷，你還記得那種興奮嗎？這些年幼的兄妹不滿足於“扮演醫生”，每天都在玩“肥皁劇”。我愛你大哥！我的妹妹梅非常想和她哥哥做愛，她在她的房間裏建了一個簡單的肥皁地。禁止的兄妹亂倫，您可以在深夜父母熟睡時爲哥哥營業的成人娛樂場所，享受無限量的射精課程，提供各種選擇，直到早上。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216043303691691.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240216/20240216043303691691.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16264",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16264&name=五日市芽依"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32dcc790-23b7-4cf5-807b-70c5efbe3a00/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/04/c32b7195/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17926,
+  "IDcode": "SSIS-929",
+  "title": "派對結束後，和已婚人妻老闆滿身是汗的抱在一起做愛，操到小便失禁",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "酒醉",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "女上司",
+    "放尿",
+    "老闆娘，女主人",
+    "飯店"
+  ],
+  "description": "SSIS-929为S1出品,2023年11月14日发行的有碼成人影片由奥田咲出演\n我的老闆奧田女士是一位才華洋溢的職業女性，能夠勝任自己的工作，是我尊敬的前輩。她很严厉，老是追究我的错误，不过，她的酒力可不好。某次因为我的错误，而需要去参加一场酒会给客户道歉。奥田姐喝醉了，变成了一个性欲超强的淫荡女人。\n我的老闆奧田女士是一位才華洋溢的職業女性，能夠勝任自己的工作，是我尊敬的前輩。她很严厉，老是追究我的错误，不过，她的酒力可不好。某次因为我的错误，而需要去参加一场酒会给客户道歉。奥田姐喝醉了，变成了一个性欲超强的淫荡女人。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231111/bb7749da-bcf4-4ebc-8d74-6bcc1be8961f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231111/bb7749da-bcf4-4ebc-8d74-6bcc1be8961f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17926",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17926&name=奥田咲"
+    }
+  ]
+};

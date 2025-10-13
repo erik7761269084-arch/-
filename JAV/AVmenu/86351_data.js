@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230205/mH5LBIOh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86351,
+  "IDcode": "SSIS-513",
+  "title": "10発射精しても、朝を迎えても、miruにひたすら犯●れたい… （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "荡妇",
+    "M男",
+    "女生",
+    "薄马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230206-1/a95404ea118536dc16bffc512b44115a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86351",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86351&name=Miru"
+    },
+    {
+      "name": "ようく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86351&name=ようく"
+    }
+  ]
+};

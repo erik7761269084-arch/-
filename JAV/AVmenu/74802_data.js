@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250107/ROyEyzTv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74802,
+  "IDcode": "JUY-898",
+  "title": "ドM一家の嫁 遥あやね",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "放尿",
+    "SM",
+    "苗条",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74802",
+  "actresses": [
+    {
+      "name": "遥彩音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/4a6ae78c-7a1c-4665-8b81-e3a85335c9ae_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74802&name=遥彩音"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74802&name=鲛岛"
+    }
+  ]
+};

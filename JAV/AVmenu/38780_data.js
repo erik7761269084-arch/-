@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221123/9566F78147EAFCF3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38780,
+  "IDcode": "FEFC9BAD480380E31511C0E376D02EF-5",
+  "title": "隐藏的巨乳",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38780",
+  "actresses": []
+};

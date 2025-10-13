@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/849f9ef6-0c90-44ea-a880-a588e5780bc2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1150,
+  "IDcode": "CWPBD-120",
+  "title": "秀場毒藥 120 終於！！退休：大橋未來",
+  "publish_date": "2015-03-10",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "紀念作",
+    "中出",
+    "美乳",
+    "美臀",
+    "口交",
+    "美腳",
+    "退休作品"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231030/f7a6f757-350b-464c-92d2-4cf8d06df005.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231030/f7a6f757-350b-464c-92d2-4cf8d06df005.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1150",
+  "actresses": [
+    {
+      "name": "大橋未久",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/aefa0263-2d5a-41aa-97a2-298dcc454fc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1150&name=大橋未久"
+    }
+  ]
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230101/5FD6E1E06F1E9BF4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98468,
+  "IDcode": "BTHA-034",
+  "title": "パイパンヌード～無●正・永遠のロ●ータ・美少女・セクシー女優～/つぼみ",
+  "publish_date": "2018-11-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "艺人"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/5433btha034/5433btha034pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98468",
+  "actresses": [
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98468&name=蕾"
+    }
+  ]
+};

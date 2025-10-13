@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/kimwW1yG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93530,
+  "IDcode": "NHDTB-936",
+  "title": "清純な顔して連日マンズリ狂いの女子を校内観察 ノーパンオナニー中をおそったら怒涛のドMイキ 天宮奈月さんのパンティとチェキ付き",
+  "publish_date": "2024-07-11",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "自慰",
+    "巨大屁股",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93530",
+  "actresses": [
+    {
+      "name": "天宮奈月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93530&name=天宮奈月"
+    }
+  ]
+};

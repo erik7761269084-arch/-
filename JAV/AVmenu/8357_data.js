@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d33e7427-4949-4e73-99fd-2bb31830b553/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/103b1e89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8357,
+  "IDcode": "VENZ-042",
+  "title": "充滿欲望的騷貨人妻美容師。洗發的時候，她會提供給你口交、打飛機，本番中出 ~ 一色さら",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "打手槍",
+    "口爆",
+    "其他職業",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250210/2876f908-cb6f-4cd3-98be-296ea8d7767e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250210/2876f908-cb6f-4cd3-98be-296ea8d7767e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8357",
+  "actresses": [
+    {
+      "name": "一色さら",
+      "img_url": "https://picture.yoshiclub.xyz/20240201/9ef739b4-782b-4a71-90cc-1bc2fb479d2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8357&name=一色さら"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0d960a56-f2e4-44f2-b599-e5dad869beae/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 776,
+  "IDcode": "HEYZO-0954",
+  "title": "操了一次又一次，長的漂亮也沒用 ~ 真野優莉亞",
+  "publish_date": "2015-09-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "69",
+    "絕頂高潮",
+    "偶像",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "感官作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "高跟鞋",
+    "按摩棒",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0954为HEYZO出品,2015年9月19日发行的無碼成人影片由真野優莉亞出演\n続々生中～美少女でも容赦なしにブチこむ～ - 真野ゆりあ",
+  "cover_url": "https://picture.yoshiclub.xyz/20240710/aa3d8604-60ca-48f4-9db9-ecaec0924ffe.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240710/aa3d8604-60ca-48f4-9db9-ecaec0924ffe.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=776",
+  "actresses": [
+    {
+      "name": "真野優莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/8d975f7e-0c93-4ebd-905f-cd0c26b11135.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=776&name=真野優莉亞"
+    }
+  ]
+};

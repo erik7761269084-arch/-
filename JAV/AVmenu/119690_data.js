@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119690,
+  "IDcode": "FC2PPV-4036195",
+  "title": "初撮影・顔出し！",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/25/c7d178e2/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119690",
+  "actresses": []
+};

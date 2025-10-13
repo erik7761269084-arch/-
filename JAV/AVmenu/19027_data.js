@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/74682b50-0f84-476f-a9d6-3b1d1249eb32/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241107/WeoLcsKU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19027,
+  "IDcode": "IPX-426",
+  "title": "濕濡透通7愛好 濕濡少女的卑猥通透感7場景！",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "潮吹",
+    "女學生",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805213125914914.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805213125914914.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19027",
+  "actresses": [
+    {
+      "name": "優月心菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230704/d9f89af0-ffaf-47a2-861c-823554346993.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19027&name=優月心菜"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19027&name=森林原人"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19027&name=イセドン内村"
+    },
+    {
+      "name": "优月心菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19027&name=优月心菜"
+    }
+  ]
+};

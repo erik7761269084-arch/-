@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fdafcc4d-6246-4b38-95dc-92bc0744dd9e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/2674b983/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4357,
+  "IDcode": "IENF-408",
+  "title": "最頂級風俗泡泡浴店 最高級美女中出內射 ~ 依本詩織",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "泡姬",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "美腳",
+    "拜金女",
+    "單體作品",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "抹油",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "IENF-408为IENERGY出品,2025年6月26日发行的有碼成人影片由依本詩織出演\n在都市某個角落，有個能讓你隨心所欲內射的夢幻風俗店！詩織小姐姐身材絕贊，抱起來軟綿綿超舒服，長得甜美又溫柔，回头客絡繹不絕。她那巨乳服務和軟糯糯的墊子玩法簡直讓人上癮！超親切還能體驗戀人般的甜蜜氛圍，服務用心又爽到爆！想射幾次都可以，快來體驗啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629212612433433_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250629/20250629212612433433_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4357",
+  "actresses": [
+    {
+      "name": "依本詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c45b8acc-1cbc-4413-96ea-f3493e184bc7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4357&name=依本詩織"
+    }
+  ]
+};

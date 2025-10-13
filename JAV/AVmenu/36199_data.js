@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/8949524B80E5A673/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36199,
+  "IDcode": "371D03A52BC90CA6FBF2CE83588707A-5",
+  "title": "对着镜头露出淫乱神情给你看",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36199",
+  "actresses": []
+};

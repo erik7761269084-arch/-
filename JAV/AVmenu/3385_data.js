@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a44f8502-3792-411e-a3a6-40bdce355860/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3385,
+  "IDcode": "FOCS-267",
+  "title": "90cm以上巨臀T字褲無防備誘惑！兄嫂做家務時緊身褲走光忍耐到極限NTR臀部狂射SEX ~ 小泉渚",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "傲嬌",
+    "臀控",
+    "凌辱",
+    "脚控・戀足癖",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "局部特寫",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "嫂嫂",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "NTR",
+    "美人",
+    "阪道系",
+    "短髮",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "FOCS-267为妄想族出品,2025年8月21日发行的有碼成人影片由小泉渚出演\n失业后我暂时寄住在哥哥嫂嫂家，虽然心里有点愧疚，但看着嫂嫂渚无防备地露出T字裤，那肥美的大臀简直要人命，欲望直接爆棚！忍不住抓住她那肉感十足的臀部，强行发生关系。渚好像跟哥哥好久没做了，虽然嘴上拒绝，但身体却被我搞得高潮连连，欲罢不能……从此我们背着哥哥，偷偷在家里玩起了禁忌的家庭内不伦，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821035455336336_13124_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821035455336336_13124_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3385",
+  "actresses": [
+    {
+      "name": "小泉渚",
+      "img_url": "https://picture.yoshiclub.xyz/20250301/6fc15c7c-f254-4219-9b9b-d4b550e29cad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3385&name=小泉渚"
+    }
+  ]
+};

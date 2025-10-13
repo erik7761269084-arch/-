@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/23/97c2d013/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77933,
+  "IDcode": "MIDE-578",
+  "title": "ビクビク痙攣が止まらない 性感開発オイルマッサージ 七沢みあ",
+  "publish_date": "2018-09-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "萝莉塔",
+    "颜射",
+    "按摩",
+    "数位马赛克",
+    "瘦小身型",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77933",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77933&name=七泽美亚"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77933&name=イセドン内村"
+    }
+  ]
+};

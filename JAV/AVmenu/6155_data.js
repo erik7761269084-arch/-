@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/04c95555-1a79-4687-9913-d0b8db692575/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6155,
+  "IDcode": "FNS-006",
+  "title": "只有2人獨處的私密全裸自拍視頻！無劇本下的酒店一整晚4次本番SEX ~ 與田鈴",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "劇情",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美腳",
+    "奇聞趣事",
+    "癡女",
+    "巨乳",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "FNS-006为FALENO出品,2025年5月16日发行的有碼成人影片由與田鈴出演\n擁有火辣爆乳身材的與田鈴小可愛，之前拍攝時就大爆料自己的撩漢史和超早熟的性啟蒙，這次我們好奇她在私下會不會更加放飛自我？於是直接來了一場一泊兩日的酒店封閉式激情生活！車內採訪時她就迫不及待地說想找個地方好好放鬆，電梯裡直接上手摸棒棒，門一開幾秒鐘就熱吻起來……連澡都沒洗就在玄關後入開幹，直接內射爽翻天！第一次逛成人用品店興奮到不行，買了件超騷的情趣緊身衣又來一發！酒後更是欲罷不能，一插再插，到了早上還在騎乘位尖叫高潮，簡直停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515164908518518_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515164908518518_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6155",
+  "actresses": [
+    {
+      "name": "與田鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/153391c2-6418-4948-a981-988b3dc1c9bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6155&name=與田鈴"
+    }
+  ]
+};

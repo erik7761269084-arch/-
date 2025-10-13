@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/452bd260-df64-4aae-b8a4-5ddc19a63f93/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/9a4d3833/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5633,
+  "IDcode": "YST-335",
+  "title": "不管高雅低俗就是要狠狠玩弄小野寺小姐 ~ 小野寺舞",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "光夜蝶",
+  "genres": [
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "約炮",
+    "美人",
+    "淫蕩・硬核",
+    "女優"
+  ],
+  "description": "YST-335为光夜蝶出品,2025年5月30日发行的有碼成人影片由小野寺舞出演\n今天小舞又來找炮友搞些色色的事情啦！她那緊緻又有彈性的完美身材被輕輕挑逗，深吻幾下就整個軟掉，直接求著要被生插入。當然被狠狠灌滿深處，但這騷浪的小妖精好像還不滿足，眼裡滿是欲求不滿的勾人神情！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175835735735_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175835735735_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5633",
+  "actresses": [
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5633&name=小野寺舞"
+    }
+  ]
+};

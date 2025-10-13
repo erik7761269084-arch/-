@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/FsHcUhUk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66731,
+  "IDcode": "ALDN-086",
+  "title": "想要抱住的前妻 乃木遙",
+  "publish_date": "2022-11-05",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66731",
+  "actresses": [
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66731&name=乃木遥"
+    }
+  ]
+};

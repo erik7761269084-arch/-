@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240326/yF8gvl5j/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59092,
+  "IDcode": "HEYZO-1748",
+  "title": "マシュマロおっぱいで遊んでみました！ - 梨木萌",
+  "publish_date": "2018-06-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "萝莉",
+    "知名女优",
+    "69",
+    "玩具",
+    "按摩",
+    "背后插入",
+    "骑乘位",
+    "乳交",
+    "巨乳爆乳",
+    "美乳",
+    "白虎",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59092",
+  "actresses": []
+};

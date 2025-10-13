@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a92169c6-891a-424b-b12c-685eacf54e29/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2812,
+  "IDcode": "MIDA-321",
+  "title": "中途退學的小太妹，10年後的奇跡再會！爆乳Q杯妹每天都幫我釋放 ~ Himari",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "流汗",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "局部特寫",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "學校",
+    "女學生",
+    "無毛",
+    "泳裝"
+  ],
+  "description": "MIDA-321为MOODYZ出品,2025年9月11日发行的有碼成人影片由Himari出演\n【Q杯巨乳×滿滿費洛蒙學園風制服誘惑不停！】從全日制轉到定時制當老師，竟然意外重逢多年前輟學的學生妹（如今已發育成大胸女神）！對老師愛得死去活來的制服小妖精Himari，化身痴女瘋狂勾引！襯衫、水手服、體操服、透視泳裝……這種極品身材絕對不該穿的禁忌反差裝扮輪番上陣，撩得人心癢癢！濕吻舔得黏糊糊，口技猛到讓人腿軟！巨乳夾擊加上大屁股騎乘，爆乳亂顫高潮不斷！老師……咱們還有好多舒服的事兒沒做完呢，繼續來嘛～",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014431898898_90350_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014431898898_90350_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2812",
+  "actresses": [
+    {
+      "name": "Himari",
+      "img_url": "https://picture.yoshiclub.xyz/20240413/b745c0b9-e4ea-4aa3-b24f-fd6359111922.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2812&name=Himari"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1f4f0fb-4793-49a3-9585-321b0a9f822e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/24/7514e72b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16356,
+  "IDcode": "JUQ-573",
+  "title": "傲慢的商業夥伴總裁不斷中出她的出差娛樂，專屬美麗",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "招待",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-573为MADONNA出品,2024年2月13日发行的有碼成人影片由清巳麗乃出演\n清巳麗乃受託參加一場事關公司命運的商務會議，決定出差。我之所以被委託進行這次商務談判......這是因爲該公司的商業夥伴小澤社長以“熱愛女性”和“傲慢”而聞名。本來打算把她這個公司裏最漂亮的女人帶過來，讓交易成功，但是……當娛樂活動開始時，清巳麗乃被迫進行羞辱性的性娛樂，在老板面前玩弄她的身體。她從棘手的性騷擾中幸存下來，回到了住處，但小澤的性娛樂才剛剛開始……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240211/20240211003205535535.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240211/20240211003205535535.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16356",
+  "actresses": [
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16356&name=清巳麗乃"
+    }
+  ]
+};

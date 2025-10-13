@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cf1c592b-41b3-4624-8f0c-7e584ad5c292/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241012/35kRIfBP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14526,
+  "IDcode": "NHDTB-920",
+  "title": "[女同]餐廳工作的大奶子招牌女孩，她在店裏讓你隨心所欲地達到高潮……一個成爲頻繁女同性戀的計劃",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "NATURAL HIGH",
+  "genres": [
+    "劇情",
+    "無做愛場面",
+    "感官作品",
+    "女同性戀",
+    "服務生",
+    "美少女",
+    "奇聞趣事",
+    "癡女",
+    "巨乳",
+    "女性向",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "NHDTB-920为NATURAL HIGH出品,2024年5月1日发行的有碼成人影片\n愛上城裡餐廳的大胸海報女郎的女同每天來到店裡，卻意外被同性顧客搭訕，女同的求愛升級！ 她變成了一個蕩婦！我無法拒絕！ 我幾乎每天都被灌輸著女性的快感，我沉浸其中。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/202405222302383737.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/202405222302383737.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14526",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14526&name=渚光希"
+    },
+    {
+      "name": "竹内夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/8a26c5ab-4c31-4e32-9aca-af032d4e4e73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14526&name=竹内夏希"
+    }
+  ]
+};

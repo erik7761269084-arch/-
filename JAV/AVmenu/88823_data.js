@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231209/5o14QRRH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88823,
+  "IDcode": "TIKB-170",
+  "title": "【シコり過ぎ注意】ちょろまんギャルのパコパコフレンド えりかたん 尾崎えりか",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "无毛",
+    "苗条",
+    "女生",
+    "口交",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/8f9a2d48d827a3962718bc639fdb07f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88823",
+  "actresses": []
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/05/bb505ac0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96477,
+  "IDcode": "IPZ-268",
+  "title": "秘密女捜査官 並木優",
+  "publish_date": "2013-12-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "强奸",
+    "数位马赛克",
+    "拘束",
+    "女检察官",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/20/63422127a6557909804ab74c8963db67.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96477",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96477&name=森林原人"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96477&name=田渊正浩"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96477&name=玉木玲"
+    },
+    {
+      "name": "并木优",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/ec5b3d77f5b8d15e1e9717c2e7372ee6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96477&name=并木优"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250429/4IQs9x33/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67127,
+  "IDcode": "EBOD-918",
+  "title": "聖華女學院公認肉棒大叔 真人版 小梅惠奈 南條一香",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/4a556f9955040fe66a195dbe3156df72.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67127",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67127&name=小梅惠奈"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67127&name=田渊正浩"
+    }
+  ]
+};

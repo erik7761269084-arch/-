@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/06/63941063/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118627,
+  "IDcode": "FC2-4615687",
+  "title": "最疯狂的黑屌男婊子被大屌逼疯",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/06/381940b9e5745cc3d6bd436718245283.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118627",
+  "actresses": []
+};

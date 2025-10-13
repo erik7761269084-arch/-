@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/04d3dab4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82335,
+  "IDcode": "DASD-578",
+  "title": "妊活中の巨乳妻は俺の親父に寝取られ種付けプレスされていた。 篠田ゆう",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "接吻",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82335",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82335&name=篠田优"
+    }
+  ]
+};

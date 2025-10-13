@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250127/Ew1oKu0A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72876,
+  "IDcode": "WA-303",
+  "title": "童貞君の持続ボッキに釘付け！！ メガチンDeepピストンで絶頂しまくる失神妻",
+  "publish_date": "2016-01-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "处男",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72876",
+  "actresses": [
+    {
+      "name": "神波多一花",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-神波多一花.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72876&name=神波多一花"
+    },
+    {
+      "name": "SHIN",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72876&name=SHIN"
+    },
+    {
+      "name": "水菜丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72876&name=水菜丽"
+    }
+  ]
+};

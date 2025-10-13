@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/6eV8tY6F/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73955,
+  "IDcode": "SHKD-863",
+  "title": "女教師完全支配 結城のの",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "中出",
+    "女教师",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73955",
+  "actresses": []
+};

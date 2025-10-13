@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/13/95b465de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95758,
+  "IDcode": "MIDV-882",
+  "title": "激イキ243回！マン汁7549cc！膣痙攣3341回！禁欲焦らしオーガズム大覚醒スペシャル！！～28日間溜め込んだ性欲が爆発した一日～ 虹村ゆみ",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "女上位",
+    "颜射",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/13/190bd1efae2e353fc3c8284af483c397.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95758",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95758&name=虹村由美"
+    },
+    {
+      "name": "ハメ鳥の人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95758&name=ハメ鳥の人"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/15/6c72e248/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92052,
+  "IDcode": "MDBK-301",
+  "title": "ダイナマイトボディで強●勃起させ何度も何度も寸止めを楽しむイジワル巨乳妻から受ける射精管理",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "M男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92052",
+  "actresses": [
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92052&name=若宫はずき"
+    }
+  ]
+};

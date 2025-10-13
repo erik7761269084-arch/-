@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6125e055-35d7-490b-8eca-6e087bf78944/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/28/a4c62d59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10378,
+  "IDcode": "SGKI-035",
+  "title": "我想被大人狠狠的操 ~ 九井珠奈緒",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": "SHIGEKI",
+  "genres": [
+    "後入",
+    "黑絲",
+    "故事集",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "女醫生",
+    "美少女",
+    "女鬼・女妖",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "醫生製服",
+    "猥褻穿著",
+    "學校",
+    "眼鏡",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241125/52c132cf-866e-4f80-b4e4-714c93783f50.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241125/52c132cf-866e-4f80-b4e4-714c93783f50.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10378",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10378&name=九井珠奈緒"
+    }
+  ]
+};

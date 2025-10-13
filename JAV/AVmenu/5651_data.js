@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d182fc74-800c-4216-ad27-4f0e1a4a4150/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/24/ace1c75d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5651,
+  "IDcode": "JJDA-061",
+  "title": "慾求不滿的嫂子勾搭小叔 哥哥養病中我用硬挺挺的小弟之力讓她爽翻天 ~ 多田有花",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "嫂嫂",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "無毛"
+  ],
+  "description": "JJDA-061为卍GROUP出品,2025年5月30日发行的有碼成人影片由多田有花出演\n聽說住在隔壁鎮的哥哥生病了，小叔特地去探望。嫂子尤卡熱情招呼：「謝謝你特地過來，小Hayato！今晚要不要住下來啊？」小叔心跳加速，羞澀地答應留宿一晚。到了半夜，大家都睡著了，小叔卻和嫂子在廚房獨處。聊著聊著才發現，哥哥忙著工作，嫂子早就被冷落，滿臉欲求不滿的表情讓人看了心癢癢。小叔年輕力壯，下面瞬間硬到不行，氣氛一下就曖昧到炸…！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173148423423_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173148423423_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5651",
+  "actresses": [
+    {
+      "name": "多田有花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/0da288b7-94fc-4972-96ba-5ee0430a623a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5651&name=多田有花"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5651&name=じゅうもんじ"
+    }
+  ]
+};

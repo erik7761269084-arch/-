@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/0daa006a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116929,
+  "IDcode": "FC2-4521937",
+  "title": "稍微长大但还是可爱",
+  "publish_date": "2025-07-24",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/23/317e6e2c0e60d95fbe1347594caaa948.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116929",
+  "actresses": []
+};

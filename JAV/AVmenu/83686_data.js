@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/8gNe8hLr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83686,
+  "IDcode": "MBRBA-055",
+  "title": "新井恵美 癒しすぎるお天気キャスターデビュー",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": "香料視覺",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/cf69e30779aa1c1120b23e0afe101587.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83686",
+  "actresses": []
+};

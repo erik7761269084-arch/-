@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/7rpf8RWs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79000,
+  "IDcode": "SDMM-044",
+  "title": "- 逆転マジックミラー号 自慢のムチ尻で抜きまくれ！どスケベダンサー娘たちの トゥワーク 腰振り騎乗位童貞ザーメン大量抜き競争！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "女上位",
+    "企画",
+    "业余",
+    "猎艳",
+    "处男",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79000",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230123/IzVSzFuC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85382,
+  "IDcode": "MIAA-701",
+  "title": "彼女が実家に帰省中、ヤリマンで有名な「彼女の親友」に杭打ちピストンで中出し射精させられ続けた絶倫の僕 森下ことの （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "中出",
+    "荡妇",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85382",
+  "actresses": []
+};

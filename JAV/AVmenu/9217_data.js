@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/993de9c8-30d4-4c25-9586-244c8ed2a5f6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9217,
+  "IDcode": "JUR-179",
+  "title": "被商業夥伴的傲慢總裁不斷中出的商務接待出差 ~ 吉澤友貴",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "招待",
+    "御姐系",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "出差",
+    "熟女",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUR-179为MADONNA出品,2025年1月14日发行的有碼成人影片由吉泽友贵出演\n由希被指派去出差，因為他被指派進行一項關係到公司命運的商務談判。我之所以被委託進行這次商務談判...這是因為該公司的商業夥伴小澤社長是一個以「熱愛女性」和「傲慢」而聞名的男人。他的本意是要帶上她這個公司裡最漂亮的女人，讓交易成功，但…當娛樂開始時，裡約被迫進行羞辱性的性娛樂，在老闆面前玩弄她的身體。她從棘手的性騷擾中倖存下來，回到了住處，但小澤的性娛樂才剛開始…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109075304264264.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250109/20250109075304264264.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9217",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9217&name=吉泽友贵"
+    }
+  ]
+};

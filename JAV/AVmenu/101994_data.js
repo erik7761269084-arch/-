@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240510/Z5ljSZ0R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101994,
+  "IDcode": "EBOD-636",
+  "title": "10発中出しさせてもまた勃起させちゃう制服とJcup まほちゃん",
+  "publish_date": "2018-05-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod636/ebod636pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101994",
+  "actresses": [
+    {
+      "name": "平真凛",
+      "img_url": "https://www.hhkoo.com/d/file/20170620/ec95a952244d081ccdd970328cd807a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101994&name=平真凛"
+    }
+  ]
+};

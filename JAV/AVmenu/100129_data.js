@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230312/52446DF556C98989/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100129,
+  "IDcode": "DASD-605",
+  "title": "男の娘プール痴漢 七瀬るい",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "学校泳装",
+    "变性者",
+    "性骚扰",
+    "女装人妖",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dasd605/dasd605pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100129",
+  "actresses": [
+    {
+      "name": "七瀬るい",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-DAS/AI-Fix-七瀬るい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100129&name=七瀬るい"
+    }
+  ]
+};

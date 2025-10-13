@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230417/66A7B894A7023D85/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65234,
+  "IDcode": "B2BF2BF3B0BF2F0E46C005A607281F0B",
+  "title": "[韩国] 三级电影《as wife》夏日度假居然会是模范夫妻的决裂之旅！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65234",
+  "actresses": []
+};

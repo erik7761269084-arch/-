@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240905/4CRigRaY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92614,
+  "IDcode": "PH-080",
+  "title": "肉棒求めて五十路と四十路が6人 第3巻",
+  "publish_date": "2006-02-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "捆绑",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240906-1/2f79ff67b7ca58f90104daa3d90b2cf0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92614",
+  "actresses": [
+    {
+      "name": "高木三枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92614&name=高木三枝子"
+    },
+    {
+      "name": "小桥早苗",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92614&name=小桥早苗"
+    },
+    {
+      "name": "爱田恭子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92614&name=爱田恭子"
+    },
+    {
+      "name": "加藤悦子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92614&name=加藤悦子"
+    }
+  ]
+};

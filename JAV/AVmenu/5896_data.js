@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0fffc2b4-8703-4e8b-b863-db3ffbe0fcab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5896,
+  "IDcode": "ROE-351",
+  "title": "和同在便利店打工的人妻葵姐的超合拍濃密約會，每次都讓我秒射不停 ~ 吉瀬葵",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "便利商店",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "加班",
+    "流汗",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "女上位",
+    "制服",
+    "口交",
+    "職員",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "貧乳",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "地味",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "職場",
+    "熟女",
+    "大奶头",
+    "短髮",
+    "飯店"
+  ],
+  "description": "ROE-351为MADONNA出品,2025年5月23日发行的有碼成人影片由吉瀬葵出演\n葵姊在便利店打工，老公是個性冷淡的常客，不管在家還是店裡，天天見面讓她煩到不行。這時，一個年輕小鮮肉達也成了她的打工後輩。跟老公完全不一樣，這小伙子年輕又貼心，葵姊瞬間就被吸引了。她借著歡迎會的名義，約他單獨喝酒，從那天起兩人就搞上了。工作場所變成他們的偷情基地，不管是上班還是休息時間，直接在店裡毫無顧忌地幹柴烈火。後來，葵姊甚至只要一打卡就濕到不行，簡直欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080201561561_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080201561561_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5896",
+  "actresses": [
+    {
+      "name": "吉瀬葵",
+      "img_url": "https://picture.yoshiclub.xyz/20250323/6de44697-4db3-439e-917e-a80dbb6c7adb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5896&name=吉瀬葵"
+    }
+  ]
+};

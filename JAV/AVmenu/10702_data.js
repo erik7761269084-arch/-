@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d8da6f22-b923-41a7-8233-56ea3fb7d96a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/18/f2d9f7d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10702,
+  "IDcode": "REAL-875",
+  "title": "迷奸學業優秀的高中女生表妹，未成熟的身體被晚都被不斷的強奸 ~ 柏木小夏",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "劇情",
+    "變態",
+    "蘿莉",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "表姐・表妹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "迷姦",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241110/0891b780-77d4-4277-9f7b-7d274f75cae1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241110/0891b780-77d4-4277-9f7b-7d274f75cae1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10702",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10702&name=柏木小夏"
+    }
+  ]
+};

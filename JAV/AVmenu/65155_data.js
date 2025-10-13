@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65155,
+  "IDcode": "8454684D5CAD6CFDDEBC8A393D862A18",
+  "title": "女子校生孕ませレイプ中出し20连発 高杉麻里",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65155",
+  "actresses": []
+};

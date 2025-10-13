@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f24f46c1-6f6d-4a5c-93fd-d3e2bf6974dd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16343,
+  "IDcode": "GDRD-016",
+  "title": "君野步美 酒店色情服務",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "手指插入",
+    "紀錄片",
+    "飯店小姐・援交妹",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240213/7a49b23f-42c2-4fb1-856d-fd2149cf1048.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240213/7a49b23f-42c2-4fb1-856d-fd2149cf1048.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16343",
+  "actresses": [
+    {
+      "name": "君野步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/fe6c4784-82b2-42b4-a855-8ff26a434f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16343&name=君野步美"
+    }
+  ]
+};

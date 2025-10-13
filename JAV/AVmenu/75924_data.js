@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/d770818f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75924,
+  "IDcode": "MKMP-590",
+  "title": "「私のセックスって変ですか？」婚活女子の裏側に完全密着 マミさん（仮） 31歳",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75924",
+  "actresses": [
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75924&name=长瀬麻美"
+    }
+  ]
+};

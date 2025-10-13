@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7b66da34-9fd8-4ae8-9e61-bac4b70b829a/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220816/X7z6wV1O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 526,
+  "IDcode": "HEYZO-0624",
+  "title": "清純素人的私人攝影 ～綾瀨唯",
+  "publish_date": "2014-06-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "打手槍",
+    "美少女",
+    "癡女",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "HEYZO-0624为HEYZO出品,2014年6月23日发行的無碼成人影片由綾瀬唯出演\nワケあり素人～私のプライベートビデオ撮影して下さい～ - 綾瀬ゆい",
+  "cover_url": "https://picture.yoshiclub.xyz/20241216/6c656daf-3897-4ef9-9a1b-3fe74799d59d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241216/6c656daf-3897-4ef9-9a1b-3fe74799d59d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=526",
+  "actresses": [
+    {
+      "name": "綾瀬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/ca46bbab-db12-437b-b181-07c36b81bbf6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=526&name=綾瀬唯"
+    }
+  ]
+};

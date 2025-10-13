@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/abe888d3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72262,
+  "IDcode": "CAWD-018",
+  "title": "美乳の彼女が巨漢センパイに圧迫固定で寝取られ中出しされた時の話です 深田えいみ",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "苗条",
+    "乳房",
+    "白天出轨",
+    "烂醉如泥的"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/ff1317fdec886d1e654718a9a140dd55.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72262",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72262&name=深田詠美"
+    }
+  ]
+};

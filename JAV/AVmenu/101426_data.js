@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240306/aSeGl4lQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101426,
+  "IDcode": "MAAN-951",
+  "title": "【神感シンフォニーが止まらないッ美尻ピアニスト】清楚な外見だけど実はチョロい変態シンガーソングライターがヤリモクで弾き語り！？スベスベ美脚×卑猥な形のエロ尻BODY！綺麗な指先で包み込んでシゴキ上げるピアニスト手コキ！潮吹き敏感BODYがガチ絶頂連発！巨根ピストンからの強烈刺激！立ちバックの嵐！種付け確定レクイエム中出し3連発！！！【なまハメT☆kTok】【しき】",
+  "publish_date": "2024-02-10",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "美少女",
+    "中出",
+    "女大学生",
+    "屁股",
+    "苗条",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1711maan951/h_1711maan951pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101426",
+  "actresses": [
+    {
+      "name": "しき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101426&name=しき"
+    }
+  ]
+};

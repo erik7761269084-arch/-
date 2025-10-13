@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36435352-372e-4c3d-b0f0-a0f8d57af4d9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7190,
+  "IDcode": "FPRE-166",
+  "title": "4K設備拍攝的美熟女身材徹底享用！極限角度逼近的色色Cos爆乳特寫自慰輔助 淫語特別版！ ~ 白石茉莉奈",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "4K",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "美人妻",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "豐滿",
+    "女優"
+  ],
+  "description": "FPRE-166为FITCH出品,2025年4月1日发行的有碼成人影片由白石茉莉奈出演\n國民AV媽媽偶像、瑪丹娜專屬白石瑪莉娜緊急登場！她的魅力散發著成人的優雅，使用4K設備精心拍攝，並以雙耳聲音錄製！除了逼真的特寫鏡頭外，這次還會有被「罵」的髒話讓人興奮不已！穿著性感cosplay的Maririn近距離注視著你，用她的情色玩法直接刺激你，時而溫柔時而嚴厲地斥責你！我們將全力支持您，幫助您達到一生中最佳的射精效果！享受五場激烈、性感的遊戲！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082056943943.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327082056943943.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7190",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7190&name=白石茉莉奈"
+    }
+  ]
+};

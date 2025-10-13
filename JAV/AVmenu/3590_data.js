@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1aac0642-dc60-4528-935e-531317f22404/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/04/bfacfd59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3590,
+  "IDcode": "PRED-804",
+  "title": "邊緣社畜沒前途卻慾火焚身，帶公司眼鏡會計妹回家後她眼神突變，暴露超淫本性狂榨精液 ~ 白峰美羽",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "厠所",
+    "寫真女郎",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "寫真偶像",
+    "約炮",
+    "美人",
+    "阪道系",
+    "職場",
+    "眼鏡"
+  ],
+  "description": "PRED-804为PREMIUM出品,2025年8月14日发行的有碼成人影片由白峰美羽出演\n【白峰美羽史上最淫荡一战！】我这种公司边缘社畜，升职无望却满脑子都是色色，每天憋得慌。为了解压，约了公司里那个不起眼又闷骚的会计妹白峰去喝酒，没想到她一口答应！直接带回家想发泄一下，结果一进门她眼神秒变，化身小野猫！口水横流的深吻，吸得我灵魂出窍的真空口技，长腿大开骑乘位疯狂输出，榨得我精尽人亡！从此和这个极品淫荡炮友开启了肉欲满满的日子，简直爽翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603471471_67529_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603471471_67529_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3590",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3590&name=白峰美羽"
+    }
+  ]
+};

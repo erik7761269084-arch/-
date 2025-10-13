@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240314/Bj5eMfIq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91063,
+  "IDcode": "CAWD-536",
+  "title": "透明感・清楚感あるこの子…500人斬り 呼吸をするようにSEXするエッチ大好きな博多生まれの女子大生を自我崩壊寸前までイキ果てさせる衝撃AVデビュー 朝日いつき",
+  "publish_date": "2023-03-31",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "淫乱，真实",
+    "女大学生",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91063",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91063&name=鲛岛"
+    },
+    {
+      "name": "朝日いつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91063&name=朝日いつき"
+    }
+  ]
+};

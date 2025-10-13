@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/21/248e8112/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75910,
+  "IDcode": "SNIS-218",
+  "title": "爆乳健身教練 奧田咲",
+  "publish_date": "2014-08-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "薄马赛克",
+    "恋乳癖",
+    "讲师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/12/21/9eae27c3c79e99885787a30fe63bc372.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75910",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75910&name=奥田咲"
+    }
+  ]
+};

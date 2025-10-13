@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/14/bd98b7ab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103954,
+  "IDcode": "SNIS-619",
+  "title": "美乳がポロリ 早乙女美々",
+  "publish_date": "2016-03-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "乳交",
+    "苗条",
+    "薄马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103954",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103954&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103954&name=玉木玲"
+    },
+    {
+      "name": "早乙女美々",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/a3070171337da832cb5a7ea8e5473b63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103954&name=早乙女美々"
+    }
+  ]
+};

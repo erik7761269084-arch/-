@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a76cb2fd-68d7-4f3d-be1d-b38ca0f2d1cf/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/28/7df9386a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8540,
+  "IDcode": "FSDSS-979",
+  "title": "全肯定愛人 寵你入骨的不倫生活 ~ 女神純",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "小三・情人",
+    "純愛・戀愛",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "FSDSS-979为FALENO出品,2025年3月6日发行的有碼成人影片由女神純出演\n每天都是同樣單調的例行公事。當我回到家時，妻子給我端來了微波爐加熱的飯菜，但當我穿著粗俗的家居服、沒有化妝地要求做愛時，她卻不理我。現在我已經擁有我夢想中的情婦了！她的名字叫女神君。她完全接受了我，儘管我很自私，性慾很強，我對她的身體越來越上癮，讓我想一次又一次地和她做愛。她會為所欲為，而且她的外表、性感、個性等都是SS級的。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250204/202502042334082121.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250204/202502042334082121.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8540",
+  "actresses": [
+    {
+      "name": "女神純",
+      "img_url": "https://picture.yoshiclub.xyz/20240908/2d919b15-3b06-4b30-91ae-33aa2a161dfd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8540&name=女神純"
+    }
+  ]
+};

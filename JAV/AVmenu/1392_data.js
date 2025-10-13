@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/976baa73-1609-4e2a-b095-090324c34b44/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1392,
+  "IDcode": "HEYZO-2722",
+  "title": "快看我~一定要盯著我操 Vol.3 - 佐藤由香里",
+  "publish_date": "2022-02-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "乳交",
+    "中出",
+    "素人",
+    "人妻",
+    "出軌",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230707/20230707000807738738.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230707/20230707000807738738.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1392",
+  "actresses": []
+};

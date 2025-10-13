@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/5YZNmI80/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81946,
+  "IDcode": "SDNM-235",
+  "title": "本物人妻レーベル史上最高のFカップ柔餅おっぱい 片瀬千紗 30歳 AV DEBUT",
+  "publish_date": "2020-04-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81946",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81946&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81946&name=小田切ジュン"
+    },
+    {
+      "name": "片瀬千纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81946&name=片瀬千纱"
+    }
+  ]
+};

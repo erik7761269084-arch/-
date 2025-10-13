@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230124/645d2116-0393-4b2a-815a-8d8154844215/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1870,
+  "IDcode": "MCBD-20",
+  "title": "MERCIBOKU 20 迷人的野性 : 篠田步美",
+  "publish_date": "2018-03-01",
+  "type": "无码",
+  "company": "MERCI BEAUCOUP",
+  "genres": [
+    "苗條",
+    "乳交",
+    "中出",
+    "美乳",
+    "口交",
+    "美腳",
+    "野外露天"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/19e904fb-0293-48df-adea-769c3ed411c7.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/19e904fb-0293-48df-adea-769c3ed411c7.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1870",
+  "actresses": [
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1870&name=篠田步美"
+    }
+  ]
+};

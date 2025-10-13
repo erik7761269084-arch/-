@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/NtjmIz5J/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81950,
+  "IDcode": "RBD-962",
+  "title": "美肉の流刑地 倉木しおり",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "戏剧",
+    "凌辱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81950",
+  "actresses": [
+    {
+      "name": "仓木诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81950&name=仓木诗织"
+    },
+    {
+      "name": "及川大智",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81950&name=及川大智"
+    }
+  ]
+};

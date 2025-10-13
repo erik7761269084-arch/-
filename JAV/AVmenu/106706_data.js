@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/13/5b4b3fc6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106706,
+  "IDcode": "MIDV-192",
+  "title": "【FANZA限定】SUPER STAR welcome back！！ 大型移籍 新ありな 二ヶ月間密着 大禁欲・覚醒4本番スペシャル！！ （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2022-09-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "颜射",
+    "苗条",
+    "美少女电影",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106706",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106706&name=新有菜"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106706&name=鲛岛"
+    }
+  ]
+};

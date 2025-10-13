@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240501/5dILukSA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101915,
+  "IDcode": "JUL-402C",
+  "title": "不論和朋友吵架…還是被喜歡的女孩甩掉…，繼母的胸部，總是可以讓我忘記討厭的事…。春菜花",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101915",
+  "actresses": []
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/XC8BFyky/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69615,
+  "IDcode": "SW-569",
+  "title": "ガリ勉学生の僕の目の前に突然ミニスカパンチラが！イタズラ好きなお姉さん達は僕の性欲を見抜いて勃起チ○ポをじっくり楽しんちゃうのです",
+  "publish_date": "2018-07-12",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "企画",
+    "内衣",
+    "迷你裙",
+    "倒追"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69615",
+  "actresses": [
+    {
+      "name": "君野步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/fe6c4784-82b2-42b4-a855-8ff26a434f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69615&name=君野步美"
+    },
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69615&name=爱乃零"
+    },
+    {
+      "name": "斎藤ミオリ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69615&name=斎藤ミオリ"
+    }
+  ]
+};

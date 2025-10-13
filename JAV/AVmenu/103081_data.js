@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103081,
+  "IDcode": "BBAN-068_B",
+  "title": "リアル女友達3人組が仲良しデート後のレズSEXを自撮りしちゃいまし",
+  "publish_date": "",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103081",
+  "actresses": []
+};

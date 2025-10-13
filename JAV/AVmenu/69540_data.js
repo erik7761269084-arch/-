@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250317/AXih3Iwy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69540,
+  "IDcode": "SSNI-625",
+  "title": "最高級Jカップ風俗マンションへようこそ 筧ジュンの密着性感テクニック150分フルコース",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "乳液",
+    "薄马赛克",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69540",
+  "actresses": [
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69540&name=南佳也"
+    },
+    {
+      "name": "笕纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69540&name=笕纯"
+    }
+  ]
+};

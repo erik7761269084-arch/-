@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/JiT4357Q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88947,
+  "IDcode": "UMSO-513",
+  "title": "【FANZA限定】これぞナイスバディ！！スレンダー美巨乳厳選8人 パンティと生写真付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88947",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88947&name=辻井穗乃果"
+    },
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88947&name=夏希栗"
+    },
+    {
+      "name": "乙叶カレン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88947&name=乙叶カレン"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a60ec76f-8b3b-492e-a886-55f2ce31f0c4/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/26/5b3e1c07/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16130,
+  "IDcode": "SONE-075",
+  "title": "「哥哥，你又硬了哈哈」妹妹對我微笑，用色情伎倆讓我的陰莖勃起，讓我一遍又一遍地射精。可憐的哥哥",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "乳交",
+    "雙馬尾",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "少女",
+    "姐弟・兄妹",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "亂倫",
+    "女學生"
+  ],
+  "description": "SONE-075为S1出品,2024年2月27日发行的有碼成人影片由宇野美玲出演\n哥哥又被女友甩了，心情鬱悶。我以爲我不喜歡那些優柔寡斷、不可靠、不受歡迎的老男人，所以我問了他，發現他可能在性方面有困難……但我從未見過他，所以我不知道我不知道。所以我決定給他診斷，並對他進行性別測試！他太不擅長處理女孩的身體，他太貪看色情片，他太自私，不爲女孩着想……這樣不好。但我有一個好雞雞！既然如此，我何不教教你什麼是女人？哥哥一開始對兄妹關系很困惑，但他也愛上了我胸部的誘惑！我的意思是，你對乳房太敏感了，不是嗎？男人的胸部太多了外星人！不知不覺間，哥哥晚上來找我，我覺得這真是糟糕透了，但我發現她那可憐兮兮的樣子太可愛了，我讓她蕩婦高潮了！你討厭這個調皮的小妹妹嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223082015777777.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240223/20240223082015777777.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16130",
+  "actresses": [
+    {
+      "name": "宇野美玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3f8f9fff-0692-4f44-b99b-15a547d3eeb1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16130&name=宇野美玲"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16130&name=まーち"
+    }
+  ]
+};

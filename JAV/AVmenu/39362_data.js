@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240118/klJ8cCFv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39362,
+  "IDcode": "1PON-010124-001-FHD",
+  "title": "和服が似合う妖艶な女になった同級生と逆3Pハーレム同窓会江波りゅう,りおん",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39362",
+  "actresses": []
+};

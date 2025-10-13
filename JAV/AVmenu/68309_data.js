@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/d2e66c75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68309,
+  "IDcode": "JUTA-165",
+  "title": "極上！！四十路奥さま初脱ぎAVドキュメント 水谷千奈",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/24/a0de2c6340f113d296d43a3978363f35.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68309",
+  "actresses": [
+    {
+      "name": "水谷千奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68309&name=水谷千奈"
+    }
+  ]
+};

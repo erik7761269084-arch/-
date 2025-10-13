@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b80033ee-ae02-4980-80b7-82a3602be857/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/f1f4a973/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9498,
+  "IDcode": "SAN-304",
+  "title": "可以隨便睡的女孩 2 ~ 櫻佳奈",
+  "publish_date": "2024-12-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "白絲",
+    "美少女",
+    "癡女",
+    "約炮",
+    "綠茶婊",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241231/0d155514-bdea-41fb-b509-61b76d9589b0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241231/0d155514-bdea-41fb-b509-61b76d9589b0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9498",
+  "actresses": [
+    {
+      "name": "櫻佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/39ef81a5-31ab-4206-9844-8ff4de7d36d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9498&name=櫻佳奈"
+    }
+  ]
+};

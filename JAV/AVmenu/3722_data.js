@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b954f35b-31bf-4823-b600-b1e1033efe85/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/22/fa0ecd1f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3722,
+  "IDcode": "GVH-767",
+  "title": "舔狗小弟被癡女大姐瘋狂折騰，沉淪在下品調教中 ~ 彌生美月",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "調教",
+    "臀控",
+    "酒吧",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "單體作品",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "極品美人",
+    "殘忍畫面"
+  ],
+  "description": "GVH-767为GLORY QUEST出品,2025年8月8日发行的有碼成人影片由彌生美月出演\n超辣痴女彌生美月的色氣根本停不下來！她的支配遊戲從口水洪流開始，乖巧的舔狗小弟完全不敢反抗，被她黏糊糊的濃郁口水一次次灌滿嘴，吞下的每一滴都直衝喉嚨深處，簡直要把人拽進快感的深淵！濕答答的口水拉絲，搭配超濃烈的濕吻，瞬間讓人理智崩盤！這位S系痴女的頂級調教技巧，讓你身心徹底臣服，準備好被高潮浪潮淹沒了嗎？#老司機",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013743519519_91395_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013743519519_91395_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3722",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3722&name=彌生美月"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3722&name=弥生美月"
+    }
+  ]
+};

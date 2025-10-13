@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241127/AsogeK8M/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76892,
+  "IDcode": "MKMP-229",
+  "title": "大槻ひびき 波多野結衣デビュー10周年記念SPECIAL SELECTION",
+  "publish_date": "2018-06-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/fa75bf71ac179bb4ecc94097d4ffd781.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76892",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76892&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76892&name=大槻响"
+    }
+  ]
+};

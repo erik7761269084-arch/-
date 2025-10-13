@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220506/EF0122FC4B6D884B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97845,
+  "IDcode": "DSD-748",
+  "title": "セレブ夫妻とエロカワ娘 PART2",
+  "publish_date": "2018-11-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "白人",
+    "国外进口",
+    "多P",
+    "女上位"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dsd748/dsd748pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97845",
+  "actresses": [
+    {
+      "name": "ダリル・ハンナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=ダリル・ハンナ"
+    },
+    {
+      "name": "グレイシー グラム",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=グレイシー グラム"
+    },
+    {
+      "name": "ダイアモンド・フォックス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=ダイアモンド・フォックス"
+    },
+    {
+      "name": "インデイア・サマー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=インデイア・サマー"
+    },
+    {
+      "name": "クリスティナ・ローズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=クリスティナ・ローズ"
+    },
+    {
+      "name": "ニコール・レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=ニコール・レイ"
+    },
+    {
+      "name": "エミー・レイス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=エミー・レイス"
+    },
+    {
+      "name": "ケイシー・ジョーダン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97845&name=ケイシー・ジョーダン"
+    }
+  ]
+};

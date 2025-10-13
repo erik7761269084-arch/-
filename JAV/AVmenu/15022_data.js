@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5cc902c9-5ac8-4d32-b623-0246f0e762a9/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240801/YugpM35Z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15022,
+  "IDcode": "MIAB-191",
+  "title": "每周五放學後，我都會在特定地點偷偷地與朋友的女友見面，並一次又一次地與她發生性關系。放學後與各有情人的同學進行中出 ~ 透美かなた",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "JK校服",
+    "口交",
+    "蠻橫嬌羞",
+    "舔陰",
+    "厠所",
+    "美腳",
+    "美少女",
+    "朋友女友・妻子",
+    "更衣室",
+    "清純",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "學校",
+    "短髮",
+    "夫妻交換",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MIAB-191为MOODYZ出品,2024年5月7日发行的有碼成人影片由透美かなた出演\n兩人在無聊的日常生活中尋求刺激，想要表達僅靠戀人無法滿足的性慾。我們的秘密例行公事...... [每個星期五放學後就是我們做愛的日子] 在老師和學生較少的學校裡做頑皮的事情的興奮讓我的身體變得更加敏感。我並不是戀愛，只是沉浸在美好的感覺和不道德的感覺中。在只有我們兩個人的世界裡，我們發出嘎吱嘎吱的聲音，漠不關心地互動。今天，下週，同一時間……這個例行公事一直持續到變得無聊為止。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/202405032316321717.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/202405032316321717.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15022",
+  "actresses": [
+    {
+      "name": "透美かなた",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2004bea4-bc98-4b9b-8762-1b22bd0426e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15022&name=透美かなた"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15022&name=Qべぇ"
+    }
+  ]
+};

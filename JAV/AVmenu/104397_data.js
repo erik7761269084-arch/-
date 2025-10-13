@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/21/dba40abf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104397,
+  "IDcode": "MIDV-307",
+  "title": "「キスして欲しい…」バイト先の後輩がまさかのベロキス魔…我慢なんて出来なかった僕はカノジョの事を忘れてヤリまくった週末。 八木奈々 （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-03-31",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "口交",
+    "接吻",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/21/7daf0029c6d49403c4cb245e83196c1b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104397",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104397&name=八木奈々"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104397&name=蓝井优太"
+    }
+  ]
+};

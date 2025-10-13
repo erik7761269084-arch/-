@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/dd927425/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113750,
+  "IDcode": "FC2-3057199",
+  "title": "在休假日的海滩上和一位美丽的办公室女士进行了一场激情约会",
+  "publish_date": "2025-10-05",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113750",
+  "actresses": []
+};

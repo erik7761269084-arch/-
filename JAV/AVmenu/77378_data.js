@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/zKnIpB9E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77378,
+  "IDcode": "RCTD-222",
+  "title": "淫語女子アナ17 新元号は爆乳！？W爆乳アナSP",
+  "publish_date": "2019-05-09",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "女主播"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77378",
+  "actresses": [
+    {
+      "name": "三岛奈津子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9727b9923af1f3fc59264baa0c48b31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77378&name=三岛奈津子"
+    },
+    {
+      "name": "中村知恵",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b7ef88ad7ff1dff73a6ceb9556fc4f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77378&name=中村知恵"
+    }
+  ]
+};

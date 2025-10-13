@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240403/eO6icMp7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101683,
+  "IDcode": "GANA-3008",
+  "title": "マジ軟派、初撮。 2027 日の目を夢見る美少女地下アイドルをナンパ！アイドルなのにセックスは大好き！？148cmのミニマムボディが男の欲望を受け止める！",
+  "publish_date": "2024-03-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "苗条",
+    "业余",
+    "恋乳癖",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101683",
+  "actresses": [
+    {
+      "name": "このみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101683&name=このみ"
+    }
+  ]
+};

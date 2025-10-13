@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221225/78E269AC87EF0314/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98221,
+  "IDcode": "ATID-180",
+  "title": "捜査官、堕ちるまで… 愛澄玲花",
+  "publish_date": "2011-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "捆绑",
+    "各种职业"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98221",
+  "actresses": [
+    {
+      "name": "爱澄玲花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98221&name=爱澄玲花"
+    }
+  ]
+};

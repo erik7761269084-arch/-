@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240909/seQmnkKZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92707,
+  "IDcode": "PNS-296",
+  "title": "PNS296強●スワッピング＆種付け輪●川上優黑川菫。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240909-1/ceef6e510c3fab9b0f9083e9fb920a84.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92707",
+  "actresses": []
+};

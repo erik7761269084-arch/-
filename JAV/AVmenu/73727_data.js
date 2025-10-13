@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/19/b33f431b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73727,
+  "IDcode": "WANZ-867",
+  "title": "こっそり何度も中出し命令する資産家のお嬢様の性処理係になった執事（ボク） つぼみ",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "大小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/ec7c0d8cd20cadca554d95796a534c77.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73727",
+  "actresses": [
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73727&name=蕾"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/198ea21e-a57f-41c8-aa88-1e55a4c4cd88/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10305,
+  "IDcode": "MIKR-004",
+  "title": "我要喝掉你所有的精液，可恥的汁液，口水，唾液，汗水，愛汁液都浸泡在SEX 3本番中。 ~ 工藤百合",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "真實拍攝",
+    "女優"
+  ],
+  "description": "MIKR-004为MOODYZ出品,2024年12月3日发行的有碼成人影片由工藤百合出演\n「我喜歡男人的體液，它讓我興奮。」漂亮女士品牌 Yuri Kudo 有性習慣。親吻並交換唾液。她舔舐著男人流汗的身體，彷彿在品嚐他的體液，她們發生了激烈的性愛。我也舔了回去，就像我被舔了一樣。舔陰充滿了女人的氣味。全身的津液交匯，膨脹。我想讓你看到我所有的羞恥果汁……三個場景，我將暴露我所有的尷尬外表。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128093104654654.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128093104654654.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10305",
+  "actresses": [
+    {
+      "name": "工藤百合",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/bf846095-e357-46ce-a41f-5f9bf9669c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10305&name=工藤百合"
+    }
+  ]
+};

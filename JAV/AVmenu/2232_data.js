@@ -1,0 +1,56 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2232,
+  "IDcode": "PFAS-038",
+  "title": "真實暴力：女性地獄之家庭虐待與瘋狂跟蹤 ~ 高城渚 七藤優亞 河北笑茉",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "苗條",
+    "後入",
+    "大姐姐",
+    "劇情",
+    "4K",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "鬼畜片",
+    "人妻",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "女學生"
+  ],
+  "description": "PFAS-038为FAプロ出品,2025年10月3日发行的有碼成人影片由河北笑茉，七藤優亜，高城なぎさ出演\n绝望悄悄侵蚀日常，家庭里的黑暗、告发的代价、潜伏的魔爪，还有匿名的疯狂。四段故事集结成册，撕开女性面对性暴力的残酷现实。女大学生、举报者、网红主播……她们的生活被真实暴力摧毁，地狱之门就此开启！隐藏在日常中的恐怖恶意，你能承受得了吗？来吧，一起直面这让人心颤的黑暗深渊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004014445932932_98709_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004014445932932_98709_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2232",
+  "actresses": [
+    {
+      "name": "高城なぎさ",
+      "img_url": "https://picture.yoshiclub.xyz/20241208/3846b740-50da-422c-b400-d89b2da83f56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2232&name=高城なぎさ"
+    },
+    {
+      "name": "七藤優亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/5f530468-c174-4eeb-8511-93d8469f5946.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2232&name=七藤優亜"
+    },
+    {
+      "name": "河北笑茉",
+      "img_url": "https://picture.yoshiclub.xyz/20250116/237f1707-981d-417b-b259-ff29c3b3eca7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2232&name=河北笑茉"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220522/C220E1D5A39D8797/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36892,
+  "IDcode": "1DE925B39EEDA341F009E1ECBE-027193",
+  "title": "美容室特殊服201",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "WAAP GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36892",
+  "actresses": []
+};

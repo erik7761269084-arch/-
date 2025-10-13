@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/dB9hlW1C/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77883,
+  "IDcode": "KRU-048",
+  "title": "本番ができると噂になっている欲求不満な美人妻が多数在籍している回春マッサージに入店したら…中出しまでさせてくれる超優良店だった！",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77883",
+  "actresses": [
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=桐香悠裡"
+    },
+    {
+      "name": "浅美结花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250526/454864d7-0202-495d-b009-45ee0b46dd90_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=浅美结花"
+    },
+    {
+      "name": "海空花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=海空花"
+    },
+    {
+      "name": "后藤里香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2483effa658afadc84442d80f1731b75.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=后藤里香"
+    },
+    {
+      "name": "瀬乃ひなた",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=瀬乃ひなた"
+    },
+    {
+      "name": "仓科もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77883&name=仓科もえ"
+    }
+  ]
+};

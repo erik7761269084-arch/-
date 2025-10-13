@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220418/2C828A402203DE2F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97719,
+  "IDcode": "SDDE-372",
+  "title": "「長女・次女・三女・四女・五女・六女・母の性欲処理はボクの役割」7人連続セックスで精子からっぽ朝生活",
+  "publish_date": "2014-11-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "荡妇",
+    "乱伦",
+    "企画",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97719",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=通野未帆"
+    },
+    {
+      "name": "百瀬凛花",
+      "img_url": "https://picture.yoshiclub.xyz/20241219/45b24ecd-9e65-4152-a172-88be4163dbf1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=百瀬凛花"
+    },
+    {
+      "name": "一之濑铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/92261f7f-db61-4387-9176-805198b12a6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=一之濑铃"
+    },
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=小西真理繪"
+    },
+    {
+      "name": "竹内真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=竹内真琴"
+    },
+    {
+      "name": "桐岛绫子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=桐岛绫子"
+    },
+    {
+      "name": "松下美雪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97719&name=松下美雪"
+    }
+  ]
+};

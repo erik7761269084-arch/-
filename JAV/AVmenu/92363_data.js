@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/03/c99c111f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92363,
+  "IDcode": "MKMP-510",
+  "title": "天性のしゃぶり魔な幼馴染にイチャペロ攻めで指先からチクビ、チ●ポまで舐められ続ける情けないボク… 沙月恵奈",
+  "publish_date": "2023-04-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "口交",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92363",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92363&name=沙月惠奈"
+    }
+  ]
+};

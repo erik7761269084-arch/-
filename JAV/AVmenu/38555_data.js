@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221115/14A81ADDC81CDC85/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38555,
+  "IDcode": "3E0AF8B09C06C8D655B507F18DB61A-17",
+  "title": "上班必搭的电车上已订婚的我被巨乳痴女OL根尾朱里公然玩弄无法反抗",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38555",
+  "actresses": []
+};

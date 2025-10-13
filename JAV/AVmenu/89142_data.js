@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/LbnDrnYW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89142,
+  "IDcode": "VIO-043",
+  "title": "女×女×女3人の欲望が絡み合う激情レズ",
+  "publish_date": "2023-07-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89142",
+  "actresses": []
+};

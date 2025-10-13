@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/15/5ee7db7a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99552,
+  "IDcode": "SHKD-428",
+  "title": "ミスキャンパス 私はあなたに逆らえない…2 鈴音りおな",
+  "publish_date": "2010-12-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "强奸",
+    "羞耻",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd428/shkd428pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99552",
+  "actresses": [
+    {
+      "name": "铃音りおな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99552&name=铃音りおな"
+    }
+  ]
+};

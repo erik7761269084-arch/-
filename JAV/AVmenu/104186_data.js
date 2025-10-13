@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/abe9b8ec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104186,
+  "IDcode": "MIAD-941",
+  "title": "塩対応アイドルに腹を立てて犯してやったらカラダはまさかの神反応 あべみかこ",
+  "publish_date": "2016-11-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "凌辱",
+    "艺人",
+    "潮吹",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/miad941/miad941pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104186",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104186&name=安部未華子"
+    }
+  ]
+};

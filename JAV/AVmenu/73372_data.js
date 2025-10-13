@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/25/52520eff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73372,
+  "IDcode": "FSDSS-569",
+  "title": "隣のゴミ部屋キモオッサンに軟禁され絶倫チ○ポで犯●れ続けた私 神木蘭 パンティと写真付き",
+  "publish_date": "2023-04-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "凌辱",
+    "苗条",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73372",
+  "actresses": [
+    {
+      "name": "神木蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20230822/2bbe5977-8ee0-4a36-83a7-fa43387bc36c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73372&name=神木蘭"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c1cb78c-c08c-4d71-9ac4-4154a5ed3cb4/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/edc06d25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13540,
+  "IDcode": "ACHJ-046",
+  "title": "她知道一切酸甜苦辣，吸幹男人的所有精液。 有時候我也想當個蕩婦……風間由美",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "熟女"
+  ],
+  "description": "ACHJ-046为MADONNA出品,2024年7月9日发行的有碼成人影片由風間由美出演\n「麥當娜的AV是性愛聖經？還記得嗎…」傳說中的美熟女「風間由美」來家訪系列！肆意地吃男人、蹂躪男人的失控甜蜜虐待狂紀錄片！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705010804214214.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705010804214214.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13540",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13540&name=風間由美"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13540&name=タツ"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13540&name=ナイアガラ翔"
+    },
+    {
+      "name": "ダンディ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13540&name=ダンディ"
+    }
+  ]
+};

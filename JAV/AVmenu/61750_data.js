@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/17/16ad6853/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61750,
+  "IDcode": "HUNTC-225",
+  "title": "ギャル女子○生のたまり場と化したボクの部屋でギャルたちと川の字数珠つなぎFUCK！ボクの部屋をたまり場として利用しているギャルたちはボクを男として意識していないので余裕でお泊り！一緒に川の字で寝てると寝相が超悪く服がかなりはだけて派手な下着が見えたり…",
+  "publish_date": "2025-08-12",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/16ad6853/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61750",
+  "actresses": []
+};

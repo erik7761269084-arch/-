@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23472481-dc51-4fb1-b880-e53a96efb723/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 299,
+  "IDcode": "HEYZO-0337",
+  "title": "無恥的姐姐 與和我的大屌男友內射中出 ~ 希咲彩",
+  "publish_date": "2013-06-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友姐姐",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "艷遇",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0337为HEYZO出品,2013年6月2日发行的無碼成人影片由希咲彩出演\n破廉恥お姉さん～巨根彼氏と中出しFuck～ - 希咲あや",
+  "cover_url": "https://picture.yoshiclub.xyz/20250407/34044ab5-31ee-45a3-b292-fa8d9ae49659.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250407/34044ab5-31ee-45a3-b292-fa8d9ae49659.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=299",
+  "actresses": [
+    {
+      "name": "希咲彩",
+      "img_url": "https://picture.yoshiclub.xyz/20240327/5341e978-f4c4-491f-8491-1ada767ea967.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=299&name=希咲彩"
+    }
+  ]
+};

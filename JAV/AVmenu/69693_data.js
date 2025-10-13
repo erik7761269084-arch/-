@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/1e7d803e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69693,
+  "IDcode": "DOKS-634",
+  "title": "口の中の感触をじっくりと味わう、優しいスロ～フェラチオ（4）",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "内衣",
+    "口交",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/1e7d803e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69693",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=宇流木沙羅"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=雅子裡菜"
+    },
+    {
+      "name": "橘日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/72d5e9fe-64e7-4966-9fe5-d356632397db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=橘日向"
+    },
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=藤田梢"
+    },
+    {
+      "name": "乙羽あむ",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/7e090ae6-dc02-494a-a096-060ba6b4b1b7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=乙羽あむ"
+    },
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69693&name=朝比ゆの"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/A038543A1A8B2862/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118485,
+  "IDcode": "54B18D7A6A8AE5C60084674372E5F78A",
+  "title": "【黑客门】AV女优长谷川留衣无修正无码作品流出  高清码率 值得收藏 FC2PPV-1040072",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118485",
+  "actresses": []
+};

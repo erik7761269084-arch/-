@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/16/33f74c84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105066,
+  "IDcode": "ABP-563",
+  "title": "絶対的下から目線 おもてなし庵 乳エロ小町 園田みおん 11",
+  "publish_date": "2017-02-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "玩具",
+    "口交",
+    "肛交",
+    "和服，丧服"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/17/d834ce807bb5ca3594dc05a7ca091f09.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105066",
+  "actresses": [
+    {
+      "name": "园田美樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/49d60faa-ccb3-491a-96ac-19bc1bcca92f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105066&name=园田美樱"
+    }
+  ]
+};

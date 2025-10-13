@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/14/fb61b66b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86583,
+  "IDcode": "WAAA-137",
+  "title": "メンズエステで嫌いな義父と遭遇 ネチネチ乳首を開発され続けて乳首イキ性処理ペットになった JULIA",
+  "publish_date": "2022-02-01",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "苗条",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86583",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86583&name=JULIA"
+    }
+  ]
+};

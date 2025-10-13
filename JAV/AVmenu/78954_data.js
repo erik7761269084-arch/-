@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/uWicCaHn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78954,
+  "IDcode": "ATID-159",
+  "title": "- 女武術家アナルレイプ 犯されたプライド 管野しずか - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "多P",
+    "强奸",
+    "SM",
+    "肛交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/2c09888f46f9d93f885217721c7502ca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78954",
+  "actresses": [
+    {
+      "name": "管野静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78954&name=管野静香"
+    }
+  ]
+};

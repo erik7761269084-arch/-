@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/0340a374/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75180,
+  "IDcode": "SSNI-623",
+  "title": "僕の彼女が不在中に、彼女の親友のAV女優と好き放題ハメまくった3日間 架乃ゆら",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "偶像",
+    "苗条",
+    "薄马赛克",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75180",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75180&name=架乃由羅"
+    }
+  ]
+};

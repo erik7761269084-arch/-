@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241230/qCpzYWi2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74975,
+  "IDcode": "AP-654",
+  "title": "温泉旅館 巨乳娘 目隠し拘束固定バイブ放置痴●",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "按摩棒",
+    "拘束",
+    "和服，丧服"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/64c1012b4b0c8011c5a357eb830f0ba3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74975",
+  "actresses": [
+    {
+      "name": "河音くるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250210/38d977cf-634b-4d5c-84cc-6a764e367caa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74975&name=河音くるみ"
+    },
+    {
+      "name": "音海里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74975&name=音海里奈"
+    },
+    {
+      "name": "北川りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74975&name=北川りこ"
+    },
+    {
+      "name": "后藤里香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2483effa658afadc84442d80f1731b75.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74975&name=后藤里香"
+    }
+  ]
+};

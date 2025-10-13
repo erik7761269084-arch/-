@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250121/2XrL2NQM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73257,
+  "IDcode": "SHN-077",
+  "title": "同じマンションに住む女の子を連日指入れ痴●でイキ潮するほど敏感早漏マ○コに開発",
+  "publish_date": "2022-07-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "制服",
+    "苗条",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73257",
+  "actresses": []
+};

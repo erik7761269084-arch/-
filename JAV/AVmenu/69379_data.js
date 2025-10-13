@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/6efa2d7e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69379,
+  "IDcode": "CEMD-668",
+  "title": "- 引き篭りのボクが毎日SEXで誘惑して中出し調教した義母 那賀崎ゆきね - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "婆婆",
+    "中出",
+    "乱伦",
+    "恶作剧",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/6efa2d7e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69379",
+  "actresses": [
+    {
+      "name": "那賀崎雪音",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/87ab423c-c619-4ccd-ae2f-88fcabc03bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69379&name=那賀崎雪音"
+    }
+  ]
+};

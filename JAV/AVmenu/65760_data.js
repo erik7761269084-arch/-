@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65760,
+  "IDcode": "5B7A16869C1E0DC76C9035CFA271C376",
+  "title": "世界上最令人愉快的口交的安抚奶嘴哈林3000",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65760",
+  "actresses": []
+};

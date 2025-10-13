@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250422/QOM85eUM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67298,
+  "IDcode": "MIAA-661",
+  "title": "【FANZA限定】義父さんの子種を貰えませんか？田舎滞在の3日間、種無し息子の嫁に中出し懇願されたので孕むまでハメまくった。 蜜美杏 生写真3枚付き",
+  "publish_date": "2022-07-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67298",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67298&name=藤井蘭々"
+    }
+  ]
+};

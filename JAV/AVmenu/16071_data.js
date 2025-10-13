@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cbbfb438-b56b-48d8-a95f-11cb3b72882c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16071,
+  "IDcode": "DASS-313",
+  "title": "傲慢的大屁股女老板用潮溼、光滑的黑色連褲襪讓我可憐的雞雞勃起",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "OL",
+    "倉庫",
+    "制服",
+    "口交",
+    "勾引・誘惑",
+    "足交",
+    "辦公室",
+    "女上司"
+  ],
+  "description": "DASS-313为DASDAS出品,2024年2月27日发行的有碼成人影片由美咲佳奈出演\n忙碌生活中我唯一的樂趣就是自慰視頻！那麼，這個賬號……美咲小姐，女boss的惡魔boss……！ ？當我試圖告訴公司我有弱點時，我被她的大屁股和溼潤的黑色連褲襪誘惑了！ 20 旦光澤，包裹您的白桃臀。柔軟的肌膚包裹着挑逗的內衣。立即勃起！我忍不住揉揉這個屁股！下班後的悶熱氣味直擊我的頭。用你調皮的腳步讓你的陰莖蓬鬆。美麗的雙腿保持足交和射精！搖動臀部的靠背姿勢、面對面的坐姿、打樁的女牛仔姿勢。隨時隨地大量原始中出。輸給黑人罷工大屁股的社會奴隸生活。很高興。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240225/2024022505482911.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240225/2024022505482911.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16071",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16071&name=美咲佳奈"
+    }
+  ]
+};

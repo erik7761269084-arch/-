@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/ee2e7f98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76030,
+  "IDcode": "GDHH-180",
+  "title": "ガールズバーに行ったら、店員さんがセクシーな水着姿で超ラッキー！それだけでもテンションMAXなのに、巨乳からまさかの乳首ポロリで当然…",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "各种职业",
+    "口交",
+    "泳装"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241212-1/e772ad6ad7bd4b8c9656f2dc611f9ec8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76030",
+  "actresses": []
+};

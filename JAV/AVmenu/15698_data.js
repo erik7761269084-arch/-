@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1d984afb-499c-4007-97cc-2ce7f291b7ef/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15698,
+  "IDcode": "SAN-229",
+  "title": "亂倫媽媽的異常性愛3/ 成田紬",
+  "publish_date": "2024-03-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "內衣",
+    "美腳",
+    "緊縛",
+    "自慰",
+    "情趣內衣",
+    "人妻",
+    "按摩棒",
+    "母親",
+    "亂倫",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401045730814814.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240401/20240401045730814814.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15698",
+  "actresses": [
+    {
+      "name": "成田紬",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/9558b34c-765a-4e72-9146-37d0761515ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15698&name=成田紬"
+    }
+  ]
+};

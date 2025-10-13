@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230115/E5082E245D290572/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102311,
+  "IDcode": "MXGS-1150",
+  "title": "隣に住んでる女子大生は見た目は地味だけどエッチになるとエロ可愛い女の子だった 伊藤かえで",
+  "publish_date": "2020-09-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "女大学生",
+    "乳房",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_068mxgs01150/h_068mxgs01150pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102311",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102311&name=左慈半造"
+    },
+    {
+      "name": "伊藤かえで",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102311&name=伊藤かえで"
+    }
+  ]
+};

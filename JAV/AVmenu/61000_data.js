@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/15/047aec5b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61000,
+  "IDcode": "BEAF-174",
+  "title": "サビ残100時間超え労基アウト忙しすぎて男も作る暇なしオナニーしまくりww 生徒たちから大人気の新任数学講師、ガチヤバストレスで闇落ち社会奉仕系マゾビッチ ゆみかちゃん24歳",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "深喉",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61000",
+  "actresses": []
+};

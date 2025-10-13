@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7803dce2-06a4-4d04-8048-fc010c753f84/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1323,
+  "IDcode": "HEYZO-2605",
+  "title": "我操了一個一米八身高的淫蕩妹子",
+  "publish_date": "2021-09-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "乳交",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806211732830830.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806211732830830.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1323",
+  "actresses": [
+    {
+      "name": "工藤梨乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230807/c1bee7ee-ac75-4043-bca7-697fd650176f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1323&name=工藤梨乃"
+    }
+  ]
+};

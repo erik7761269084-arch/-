@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ca4afe78-79b5-4046-96e9-11974b3105f6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/c42c86fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10266,
+  "IDcode": "WAAA-452",
+  "title": "15年後再次在同學聚會上遇見了曾經我最喜歡的巨乳老師……被變得更性感她所吸引，我和她發生了性關系，一直到早上！ ~ JULIA",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "美腳",
+    "聚會・PARTY",
+    "美人妻",
+    "同學聚會",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "獵豔",
+    "熟女",
+    "飯店"
+  ],
+  "description": "WAAA-452为WANZ FACTORY出品,2024年12月3日发行的有碼成人影片由JULIA出演\n「我已經是老太太了……你還愛我嗎？」我十五年來第一次在同學會上見到了學生時崇拜的巨乳老師。那天晚上，我被神奇的費洛蒙引誘，讓我變得更加性感，我們做愛直到早上…一位淫蕩的女老師吞食了她學生正在成長的雞巴，並說道：“我會因為做一些讓我的乳房感覺良好的事情而感到興奮。”隨後，兩人回憶起了年輕時的興奮，並進行了原始交配。而且，其他學生也聚集在一起，發展成中出狂歡派對！失意的女性汁液和無與倫比的雞巴汁液的氣味相交，房間裡充滿了淫蕩的熱氣…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128093915985985.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128093915985985.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10266",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10266&name=JULIA"
+    }
+  ]
+};

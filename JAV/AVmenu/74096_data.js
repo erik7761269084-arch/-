@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250116/aB0ZwLvm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74096,
+  "IDcode": "MIAA-127",
+  "title": "おねだりバックピストン パンチラ挑発で勃起を誘うヤリたがり制服美少女 根尾あかり",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "荡妇",
+    "屁股",
+    "内衣",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74096",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74096&name=根尾朱里"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74096&name=タツ"
+    }
+  ]
+};

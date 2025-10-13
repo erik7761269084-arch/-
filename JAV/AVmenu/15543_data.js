@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1ad7667d-54dd-445b-958f-b1676d197917/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241031/mciisqfI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15543,
+  "IDcode": "SUWK-017",
+  "title": "楓きらり是一名酒店廚師，前偶像，被迫成爲一位著名美食評論家的奴隸，這位美食評論家通過發布騷擾性的低評價對她進行性騷擾",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "脅迫做愛",
+    "廚房",
+    "劇情",
+    "凌辱",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "制服",
+    "口交",
+    "性感",
+    "美腳",
+    "美少女",
+    "其他職業",
+    "癡女",
+    "獵豔",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240409/c106fff8-fe82-4986-b40e-71c4d45e75ec.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240409/c106fff8-fe82-4986-b40e-71c4d45e75ec.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15543",
+  "actresses": [
+    {
+      "name": "楓きらり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15543&name=楓きらり"
+    }
+  ]
+};

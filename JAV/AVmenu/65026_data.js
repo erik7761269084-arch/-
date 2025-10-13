@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220513/81CE1E2DFB75F8DE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65026,
+  "IDcode": "6154B7F2B846A9BBAA5A257BC5EB6D3D",
+  "title": "工作结束后就做爱的性欲女子。 26歳 橘萌萌香 AV出道",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65026",
+  "actresses": []
+};

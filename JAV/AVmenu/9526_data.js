@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5370acda-bea6-4309-b677-796aa0587772/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9526,
+  "IDcode": "HMRK-029",
+  "title": "【美腳模特被NTR中出】刺激不肯分手的男友給他看NTR性愛！ 八頭身的極品身體在夜色中格外性感！大雞巴一遍又一遍地重重的撞擊她的屁股！ ~ 木下日葵",
+  "publish_date": "2024-12-21",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "業餘",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "模特兒",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "兔女郎妝扮",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "金髮",
+    "明星臉",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "約炮",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241229/28625613-08e4-4641-b08b-7841841997a5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241229/28625613-08e4-4641-b08b-7841841997a5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9526",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9526&name=木下日葵"
+    }
+  ]
+};

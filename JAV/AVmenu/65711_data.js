@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65711,
+  "IDcode": "155B74155E97CD08D95DEB35915E50B2",
+  "title": "Re出道！电击移籍 田原凛花 持续玩弄肉棒到饱2小时",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65711",
+  "actresses": []
+};

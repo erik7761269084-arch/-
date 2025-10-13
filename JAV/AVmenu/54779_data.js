@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54779,
+  "IDcode": "9B291087E4E4A5302E5B99726B81DC74",
+  "title": "萝莉控专用泡泡浴 3 希美环奈 caribbeancom_100916-277",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54779",
+  "actresses": []
+};

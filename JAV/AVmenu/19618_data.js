@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230407/a475f5cc-6ae9-45cd-8cdf-b757e9448d3b/index.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20221117/CkKmoSfZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19618,
+  "IDcode": "IPTD-598",
+  "title": "寡妇 老公對不起… 松島楓",
+  "publish_date": "2010-07-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "69",
+    "舔陰",
+    "多P",
+    "數位馬賽克",
+    "未亡人・寡婦"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230407/b0fd3196-2c85-4c56-a231-a9a391c3c1ea.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230407/b0fd3196-2c85-4c56-a231-a9a391c3c1ea.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19618",
+  "actresses": [
+    {
+      "name": "松島楓",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/cfe0b808-574e-4932-ac1f-a9c3d42532b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19618&name=松島楓"
+    }
+  ]
+};

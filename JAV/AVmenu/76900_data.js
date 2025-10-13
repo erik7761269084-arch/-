@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241118/nEf2Mdmw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76900,
+  "IDcode": "RCTD-282",
+  "title": "マジックミラー号 友達同士の男女がローション1リットルぬるぬる素股チャレンジ",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "中出",
+    "女上位",
+    "乳液",
+    "企画",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76900",
+  "actresses": []
+};

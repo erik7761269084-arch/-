@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/22a069ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106922,
+  "IDcode": "ATID-469",
+  "title": "浣腸魔 肛悶絶の婚前調教 武田エレナ",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "肛交",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106922",
+  "actresses": [
+    {
+      "name": "夏目未來",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ff2def96-3bcb-4536-ae3c-7abf8587feb3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106922&name=夏目未來"
+    }
+  ]
+};

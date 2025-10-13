@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/27/0d54120e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105711,
+  "IDcode": "IPZZ-258",
+  "title": "携帯ナースコールで24時間口内射精OK！ 即尺超好きおしゃぶり痴女ナース 鈴乃ウト",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "荡妇",
+    "苗条",
+    "口交",
+    "护士",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105711",
+  "actresses": [
+    {
+      "name": "鈴乃宇都",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/da9d023f-97b6-401c-8d56-dda818d97563.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105711&name=鈴乃宇都"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81546527-1be9-4d61-bc1a-d5512227de6c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12419,
+  "IDcode": "CEAD-618",
+  "title": "悶絕！絕頂！淫亂自慰套餐 ~ 彌生美月 白木優子",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "無做愛場面",
+    "調教",
+    "蕩婦",
+    "拘束・拷問",
+    "跳蛋",
+    "慾求不滿",
+    "SM",
+    "緊縛",
+    "自慰",
+    "人妻",
+    "按摩棒",
+    "猥褻穿著",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240826/a2462dc4-8ee8-4395-a644-7f5ebad85ee4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240826/a2462dc4-8ee8-4395-a644-7f5ebad85ee4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12419",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12419&name=彌生美月"
+    },
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12419&name=白木優子"
+    }
+  ]
+};

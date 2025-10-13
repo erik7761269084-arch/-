@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230312/3EAFFFF236BC7A4D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100124,
+  "IDcode": "GETS-127",
+  "title": "他人のカラダと交換できる憑依銃で、ギャルのカラダになったら悪友たちにTSF入替り3Pされちゃった僕…",
+  "publish_date": "2019-08-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "多P",
+    "女生",
+    "口交",
+    "调教",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118gets127/118gets127pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100124",
+  "actresses": [
+    {
+      "name": "REN(月乃なつき)",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/42281051-31a7-47b5-8756-54aa6b676d54.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100124&name=REN(月乃なつき)"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100124&name=岩下たろう"
+    },
+    {
+      "name": "永瀬爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100124&name=永瀬爱菜"
+    },
+    {
+      "name": "星咲せいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100124&name=星咲せいら"
+    },
+    {
+      "name": "富永舞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100124&name=富永舞"
+    }
+  ]
+};

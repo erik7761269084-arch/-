@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/061c7d47-8363-4b38-bd89-99eb53e15ed2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/bc28a9b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8462,
+  "IDcode": "JUR-181",
+  "title": "被串刺輪奸寢取，請對我的愛妻進行更深層次的侵犯吧 ~ 竹田夢",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "美人妻",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "美人",
+    "熟女",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "JUR-181为MADONNA出品,2025年2月11日发行的有碼成人影片由竹田夢出演\n我久久無法說出這句話。我一生都把它銘記在心。他渴望他心愛的妻子，Mahiro，世界上最美麗、最可愛的女人，被陌生男人輪姦......然而，他們無法帶著這些感情繼續他們的婚姻生活。因此他坦白了想讓她給他戴綠帽子的願望，並把 Mahiro 獻給了一群中年男子。我心愛的妻子被一群男人圍著，他們的嘴和陰部正在被戳來戳去…那是一種如同被串起來一般非凡的景象，讓我感到無比興奮……",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075217874874.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206075217874874.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8462",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8462&name=竹田夢"
+    }
+  ]
+};

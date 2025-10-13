@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230328/9e30e93e-416b-41c7-9cb1-3924d8fe604e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1591,
+  "IDcode": "mxgs-823",
+  "title": "褐色妹夏日幹到爽 小西悠",
+  "publish_date": "2015-11-16",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "顏射",
+    "膚黑",
+    "無碼流出",
+    "野外露天",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/225939f1-efea-482f-a518-a65cee051015.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/225939f1-efea-482f-a518-a65cee051015.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1591",
+  "actresses": [
+    {
+      "name": "小西悠",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/9b2f296b-5e72-46f5-ac1b-4811b95fdd12.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1591&name=小西悠"
+    }
+  ]
+};

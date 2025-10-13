@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/27/a29c9814/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79838,
+  "IDcode": "HODV-21612",
+  "title": "セフレ彼女関係が丁度良い 8.5頭身エグカワG乳ギャル 百永さりな",
+  "publish_date": "2021-10-01",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "高",
+    "新娘，年轻妻子",
+    "猎艳",
+    "美容院",
+    "偷窥",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79838",
+  "actresses": [
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79838&name=黑川纱里奈"
+    }
+  ]
+};

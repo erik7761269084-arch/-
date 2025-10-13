@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/17/9bd3cbda/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106947,
+  "IDcode": "JUQ-138",
+  "title": "與老公做愛後總是被公公接力持續內射…。 明里紬",
+  "publish_date": "2022-11-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "接吻",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106947",
+  "actresses": [
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106947&name=明里䌷"
+    }
+  ]
+};

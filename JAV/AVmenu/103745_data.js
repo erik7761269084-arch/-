@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240315/V6uM4kHq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103745,
+  "IDcode": "NHDTB-90404",
+  "title": "接客中に顔を紅潮させながら感じまくるバイト娘 15 居酒屋の色白娘",
+  "publish_date": "2024-03-04",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "潮吹",
+    "企画",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1nhdtb90404/1nhdtb90404pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103745",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103745&name=藤田梢"
+    }
+  ]
+};

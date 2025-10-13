@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221217/NPQcMw5i/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83062,
+  "IDcode": "ARM-834",
+  "title": "JOIを奪い合え！競う2人のオナニーサポート",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "淫语",
+    "荡妇",
+    "内衣",
+    "主观视角",
+    "局部特写",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221217-1/e1bead6c369c3f0b65b5967e7638b752.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83062",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=大島愛里亞"
+    },
+    {
+      "name": "沙藤由梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/6af67405-d04b-4612-b0d0-58ce9e9176c8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=沙藤由梨"
+    },
+    {
+      "name": "植村恵名",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/193e1658-b7d3-415e-bfa2-a46bcec32769.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=植村恵名"
+    },
+    {
+      "name": "夏原唯",
+      "img_url": "https://picture.yoshiclub.xyz/20250212/2690f5b5-fed0-40e9-ac45-35a9de35a910.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=夏原唯"
+    },
+    {
+      "name": "松坂美纪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/22c81e82-4e6f-4a3d-9e9f-1d8e8a797b82_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=松坂美纪"
+    },
+    {
+      "name": "喜多方凉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=喜多方凉"
+    },
+    {
+      "name": "梦乃美咲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=梦乃美咲"
+    },
+    {
+      "name": "一乃瀬るりあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83062&name=一乃瀬るりあ"
+    }
+  ]
+};

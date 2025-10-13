@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/UBH3TcV1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71006,
+  "IDcode": "BAZX-165",
+  "title": "ラグジュOL ランチタイムにAV出演する働くオンナたち VOL.009",
+  "publish_date": "2018-12-28",
+  "type": "有码",
+  "company": "BAZOOKA",
+  "genres": [
+    "中出",
+    "姐姐",
+    "口交",
+    "业余",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71006",
+  "actresses": []
+};

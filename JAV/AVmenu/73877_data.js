@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/9fafcbb1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73877,
+  "IDcode": "DANDY-958",
+  "title": "先生はレズビアン？！優しい家庭教師にマ○コが敏感過ぎて困っていると相談したばかりに早漏改善レズセックスをされてしまった敏感女子VOL.3",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "女同性恋",
+    "潮吹",
+    "女同接吻",
+    "家教",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73877",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73877&name=皆月光"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73877&name=雅子裡菜"
+    }
+  ]
+};

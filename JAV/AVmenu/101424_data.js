@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240306/1bOBWPl7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101424,
+  "IDcode": "328HMDNV-694",
+  "title": "【清楚女子アナ系】夏○三○似のショートカット若妻27歳 浮気相手と夏の海に逃避行 美顔美声美ボデ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101424",
+  "actresses": []
+};

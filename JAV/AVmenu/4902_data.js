@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5230cd3d-3372-46eb-915d-0e733241981d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4902,
+  "IDcode": "PKYS-015",
+  "title": "簡單內射小任務 夢想當甜點師的G杯學生妹 20歲 ~ 佐々木かんな",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "素人作品",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "女上位",
+    "素人",
+    "口交",
+    "貓耳裝飾",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "PKYS-015为妄想族出品,2025年6月28日发行的有碼成人影片\nかんな醬的夢想是開一間甜點店，為了達成這個目標，她現在正在專科學校認真學習。但開店需要一大筆資金，所以今天她又得被大叔內射啦。雖然是為了賺錢，但她卻忍不住在過程中感受到快感，身體超誠實，真的讓人停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095235460460_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095235460460_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4902",
+  "actresses": []
+};

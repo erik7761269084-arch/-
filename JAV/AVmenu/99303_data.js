@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230129/681CED0B3C13A149/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99303,
+  "IDcode": "SHKD-407",
+  "title": "隣のお姉さんを犯したあの日…3 ましろ杏",
+  "publish_date": "2010-05-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "姐姐",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99303",
+  "actresses": [
+    {
+      "name": "真城杏",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/389f107a3671aea29c8d49d40657ceb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99303&name=真城杏"
+    }
+  ]
+};

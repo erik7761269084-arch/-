@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/27/e86f6813/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95107,
+  "IDcode": "IPZ-752",
+  "title": "突發幹砲旅整人秀！ 輝月杏梨",
+  "publish_date": "2016-05-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "第一人称摄影",
+    "苗条",
+    "数位马赛克",
+    "纪录片",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95107",
+  "actresses": [
+    {
+      "name": "辉月杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230726/21029c51-346d-47c1-b7ba-29be40141e80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95107&name=辉月杏梨"
+    }
+  ]
+};

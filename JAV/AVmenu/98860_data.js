@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230120/1975750BC2FC2A4E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98860,
+  "IDcode": "OKP-048",
+  "title": "神パンスト 南なつき 制服ロリ美少女の美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！顔騎や足コキ、時には中出し時にはお尻にコスってぶっかけとやりたい放題！発情させられた女の変態調教絶頂プレイを楽しむフェチAV 南なつき",
+  "publish_date": "2019-11-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "屁股",
+    "制服",
+    "足交",
+    "调教",
+    "连裤袜",
+    "瘦小身型",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98860",
+  "actresses": [
+    {
+      "name": "南なつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98860&name=南なつき"
+    }
+  ]
+};

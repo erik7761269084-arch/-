@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221115/fXB0ta77/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82517,
+  "IDcode": "EBOD-531",
+  "title": "巨尻いじめ クビレからの曲線しり肉を縛って叩いて味わい尽くす 鈴木心春",
+  "publish_date": "2016-08-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "淫乱，真实",
+    "屁股",
+    "拘束",
+    "巨大屁股",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82517",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82517&name=鈴木心春"
+    }
+  ]
+};

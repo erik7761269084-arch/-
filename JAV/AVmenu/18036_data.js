@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8e9ff79b-8265-4ba6-9039-861d46fbd900/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18036,
+  "IDcode": "MIAB-016",
+  "title": "呃!我在酒吧被兩個騷貨給反向強姦了？",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "中出",
+    "蕩婦",
+    "正太控",
+    "口交",
+    "打手槍",
+    "艷遇",
+    "雙飛",
+    "巨乳",
+    "兩女一男",
+    "M男・M女",
+    "羞恥"
+  ],
+  "description": "MIAB-016为MOODYZ出品,2023年11月7日发行的有碼成人影片由美園和花，彌生美月出演\n愛喝酒、泡酒吧女孩的新標準！大胸後宮賤人版！在酒吧里，我被反方向強姦了。她们捏着我的乳头揉捻，玩弄我的鸡巴，还不让我射精！当我实在忍受不住时，她们用手，用嘴口交!我被两个喝多了的骚货当成鸡巴玩具羞辱的悲惨经历！可怜的鸡巴那天晚上射了10次!\n愛喝酒、泡酒吧女孩的新標準！大胸後宮賤人版！在酒吧里，我被反方向強姦了。她们捏着我的乳头揉捻，玩弄我的鸡巴，还不让我射精！当我实在忍受不住时，她们用手，用嘴口交!我被两个喝多了的骚货当成鸡巴玩具羞辱的悲惨经历！可怜的鸡巴那天晚上射了10次!",
+  "cover_url": "https://picture.yoshiclub.xyz/20231104/cb418ad2-dfa2-49b8-8144-0fb6ad027187.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231104/cb418ad2-dfa2-49b8-8144-0fb6ad027187.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18036",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18036&name=美園和花"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18036&name=彌生美月"
+    }
+  ]
+};

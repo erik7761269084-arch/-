@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/PwmU3ULK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81676,
+  "IDcode": "GENM-034",
+  "title": "終電車で男を誘惑して味見 高杉麻里",
+  "publish_date": "2020-03-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "自慰",
+    "荡妇",
+    "恶作剧",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81676",
+  "actresses": [
+    {
+      "name": "高杉麻里",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/2a480853-ceac-47fb-9c72-98296d6963f6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81676&name=高杉麻里"
+    }
+  ]
+};

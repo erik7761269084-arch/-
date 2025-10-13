@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241008/ahQLQHyJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93081,
+  "IDcode": "MKMP-566",
+  "title": "親に内緒で遊んだ夏 日焼け跡の●学生",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "多P",
+    "学校泳装",
+    "平胸",
+    "晒黑",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93081",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93081&name=藤田梢"
+    },
+    {
+      "name": "姫野らん",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/e8c74bfa-a4ca-4879-8060-3df057e3a8ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93081&name=姫野らん"
+    }
+  ]
+};

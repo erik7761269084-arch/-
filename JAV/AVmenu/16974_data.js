@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/89fa283d-231e-4929-ad75-3055b14af9f2/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/14/21a5c6d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16974,
+  "IDcode": "ADN-518",
+  "title": "我被女兒的男朋友操了。自從我強奸的那天起我們相愛了",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "強姦",
+    "性感",
+    "人妻",
+    "熟女"
+  ],
+  "description": "ADN-518为ATTACKERS出品,2024年1月2日发行的有碼成人影片由白木優子出演\n我在大學期間懷孕並生了孩子。自從孩子父親離開後，心愛的女兒晴美就只能由我親手撫養她長大。 ……不想讓晴美和我一樣受苦。我一直這麼認爲，但女兒的男朋友是一個不可思議的男人......他強奸了我 。“我要離開我的女兒了。”當我說出這些慈母的話時，我感到非常沮喪。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240101/202401011003571818.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240101/202401011003571818.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16974",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16974&name=白木優子"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16974&name=日森一"
+    }
+  ]
+};

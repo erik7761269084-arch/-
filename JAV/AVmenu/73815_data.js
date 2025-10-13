@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/mJdDIemW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73815,
+  "IDcode": "ATOM-082",
+  "title": "矛盾 ～むじゅん～",
+  "publish_date": "2012-05-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "企画",
+    "女优按摩棒",
+    "恋物癖",
+    "格斗家"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73815",
+  "actresses": []
+};

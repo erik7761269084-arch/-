@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/3FC04BE4CECD8A3C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98182,
+  "IDcode": "SSPD-087",
+  "title": "若妻牝レイプ 食べ頃な獲物たち… 川上ゆう 風間ゆみ",
+  "publish_date": "2012-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/sspd087/sspd087pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98182",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98182&name=風間由美"
+    },
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98182&name=川上優"
+    }
+  ]
+};

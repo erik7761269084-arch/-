@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231024/1zC6zJ4K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100793,
+  "IDcode": "LUXU-1729",
+  "title": "ラグジュTV 1715 ネットリとしたセックスが好きな美女と恋人の様な濃厚セックス！デカ○ンに何度も奥を蹂躙され蕩けた顔で喘ぎ何度も絶頂！！",
+  "publish_date": "2023-09-25",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100793",
+  "actresses": [
+    {
+      "name": "絵里香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100793&name=絵里香"
+    }
+  ]
+};

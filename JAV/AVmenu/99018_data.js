@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/7446AFE3F2F7FF8B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99018,
+  "IDcode": "MADM-080",
+  "title": "初イキナンパ！街で声をかけた奥様たちがカメラの前で初イキに挑戦！！一度イク快感を覚えた妻たちが超敏感変態覚醒！4名収録 君島みお",
+  "publish_date": "2018-03-09",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/49madm080/49madm080pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99018",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99018&name=君岛美绪"
+    }
+  ]
+};

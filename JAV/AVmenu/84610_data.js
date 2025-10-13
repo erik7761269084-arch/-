@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/14/4e2edbe2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84610,
+  "IDcode": "HMN-112",
+  "title": "マジ！？乳首だけでイケちゃうの！？ノーハンドこねくり暴発チクシャッ！射精直後の落ち着く暇無しおねだり連射中出しチクビっ痴お姉さん 北野未奈",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84610",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84610&name=鲛岛"
+    }
+  ]
+};

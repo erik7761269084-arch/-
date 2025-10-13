@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230119/v0MkVwrV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85171,
+  "IDcode": "JYMA-027",
+  "title": "與老公上司和同事搞上的超下流太太 被睡走肉感身軀爆乳臀被虐妻 巨乳巨臀被玩弄興奮的超M媳婦 塚田詩織",
+  "publish_date": "2022-10-25",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/07b8eef97fb546f540ce80caa13bd2c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85171",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85171&name=塚田詩織"
+    }
+  ]
+};

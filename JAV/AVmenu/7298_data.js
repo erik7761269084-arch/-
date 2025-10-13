@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41b3ffc7-479a-42f6-a387-fe80eb7fa381/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7298,
+  "IDcode": "KTDH-009",
+  "title": "人妻美腳戀足癖 ~ Yukine",
+  "publish_date": "2025-03-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "企畫",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "足交",
+    "美人",
+    "真實拍攝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250323/d7642f50-9572-4099-a3c7-5984114f9c2e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250323/d7642f50-9572-4099-a3c7-5984114f9c2e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7298",
+  "actresses": []
+};

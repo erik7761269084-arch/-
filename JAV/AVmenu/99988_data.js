@@ -1,0 +1,27 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99988,
+  "IDcode": "IENE-938-",
+  "title": "三田杏朝から晩まで中出しセックス34",
+  "publish_date": "2018-10-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "多P",
+    "纪录片",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99988",
+  "actresses": [
+    {
+      "name": "三田杏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/三田杏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99988&name=三田杏"
+    }
+  ]
+};

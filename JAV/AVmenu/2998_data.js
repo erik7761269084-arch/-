@@ -1,0 +1,100 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a68fdd40-05ff-41d7-901c-2f2d449742a6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/29/607ad969/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2998,
+  "IDcode": "DASS-733",
+  "title": "家族大亂鬥計畫：媽媽女兒外婆一起上變姐妹 ~ 葵百合香 冬愛琴音",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "唾液敷面",
+    "蘿莉控",
+    "美少女",
+    "清楚系",
+    "美人妻",
+    "鬼畜片",
+    "清純",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "母親",
+    "熟女",
+    "大奶头",
+    "美少女電影",
+    "叛逆少女",
+    "無毛"
+  ],
+  "description": "DASS-733为DASDAS出品,2025年9月4日发行的有碼成人影片由葵百合香，冬愛琴音出演\n【全家姐妹大亂鬥特別篇】在日本某個角落有個超特別的家庭，他們有個硬到不行的規定：禁止跟沒血緣關係的異性有任何接觸！所以家裡的大支柱「武」不只是經濟來源，還是全家性慾的唯一發洩口，簡直就是家族大肉棒本棒！跟媽媽的激烈戰鬥爽到翻天！嘴上胸上全面包圍，滿滿母愛直衝腦門，極致乳交讓人嗨到不行！跟女兒的床戰根本停不下來！身材超辣性慾爆強，潮吹騎乘位騷到爆表，活脫脫人間極品！跟孫女的禁忌玩法背德感直接拉滿！用大肉棒好好教育，敏感發育中的小美少女讓人慾火燒身！備註：我們家最看重的就是血緣關係，中出滿載，爽到噴汁！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045430792792_59108_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045430792792_59108_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2998",
+  "actresses": [
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2998&name=冬愛琴音"
+    },
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2998&name=葵百合香"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2998&name=しみけん"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2998&name=冬爱琴音"
+    }
+  ]
+};

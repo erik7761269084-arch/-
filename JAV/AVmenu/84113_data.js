@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230105/kqdg69gN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84113,
+  "IDcode": "CJOD-341",
+  "title": "ラブホ女子会に呼び出され朝までお泊り中出しさせられた僕 小悪魔女子二人に挟まれ甘サド淫語で痴女られる！ 木下ひまり 森日向子",
+  "publish_date": "2022-04-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/c48c2f498eb94fb525ff6083b6260bf8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84113",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84113&name=森日向子"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84113&name=木下日葵"
+    }
+  ]
+};

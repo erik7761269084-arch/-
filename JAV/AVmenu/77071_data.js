@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/n3K7LLP4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77071,
+  "IDcode": "MOND-190",
+  "title": "憧れの女上司と 高瀬智香",
+  "publish_date": "2020-05-28",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "恋爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77071",
+  "actresses": [
+    {
+      "name": "高瀬智香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77071&name=高瀬智香"
+    }
+  ]
+};

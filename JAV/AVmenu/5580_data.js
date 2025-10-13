@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21b0f1eb-38f9-4f5f-9b93-092bf92908f0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/04/af90ae13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5580,
+  "IDcode": "SQTE-613",
+  "title": "汗水氣味與激情交織 ~ 天月梓",
+  "publish_date": "2025-05-31",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "企畫",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "短髮",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "飯店"
+  ],
+  "description": "SQTE-613为S-CUTE出品,2025年5月31日发行的有碼成人影片由天月梓出演\n汗水跟體香可不是只有男人才會興奮！濕熱的腳丫、腋下，還有那神秘地帶，被舔得全身黏答答，天月梓小姐姐直接慾火難耐，騷氣爆棚！“要插進來嗎？”她用勾人的語氣誘惑著你。緊貼纏綿的激烈交戰，體液交融，爽到讓人失控！快來跟梓醬一起開啟新玩法，high到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604112219599599_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250604/20250604112219599599_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5580",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5580&name=天月梓"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5580&name=タツ"
+    }
+  ]
+};

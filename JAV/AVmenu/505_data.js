@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/270b9f42-3480-4ace-9cb3-296ccee992c9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 505,
+  "IDcode": "HEYZO-0605",
+  "title": "炮友紹介社 Vol.3～色白M女想要被虐的願望 ~ 大崎かおる",
+  "publish_date": "2014-05-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0605为HEYZO出品,2014年5月26日发行的無碼成人影片由大崎かおる出演\nセフレ紹介所Vol.3～色白M女の責められ願望～ - あかさかゆい",
+  "cover_url": "https://picture.yoshiclub.xyz/20241229/26094a77-d16c-4c2b-be74-99399f26c68f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241229/26094a77-d16c-4c2b-be74-99399f26c68f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=505",
+  "actresses": [
+    {
+      "name": "大崎かおる",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/あかさかゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=505&name=大崎かおる"
+    }
+  ]
+};

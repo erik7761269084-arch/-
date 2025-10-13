@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/RopPaw8H/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77940,
+  "IDcode": "MKON-016",
+  "title": "生意気な妹に彼氏が出来たので中古品になる前に兄である俺が寝取って中出し性奴隷にしてやった 冬愛ことね",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "多P",
+    "妹妹",
+    "校服",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77940",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77940&name=岩下たろう"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77940&name=冬爱琴音"
+    }
+  ]
+};

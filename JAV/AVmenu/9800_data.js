@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bf96a74d-caf5-47ab-8b60-563d973595a0/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250318/XJZAvQso/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9800,
+  "IDcode": "SSNI-496",
+  "title": "被討厭的要死的公公強暴了，每天喝醉後他都要來強奸我 ~ 夢乃愛華",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "酒醉",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "酒後亂性",
+    "變態",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "公公",
+    "兒媳",
+    "美腳",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-496为S1出品,2019年6月19日发行的有碼成人影片由夢乃愛華出演\n每天，暴躁的公公從中午就讓我喝酒，把我灌醉。當我和丈夫出去喝酒時，我的行為暴露了我以前從事過水務工作，我的親戚岳父對我進行了勒索。岳父把不會喝酒的兒子灌醉，然後在旁邊強暴了他。她一定很討厭自己有喝酒壞習慣的公公，但她那沾滿口水的吻和他無與倫比的雞巴卻讓她濕透了下體。我一直盼望岳父喝醉酒來接近我。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241217/20241217201300979979.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241217/20241217201300979979.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9800",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9800&name=夢乃愛華"
+    }
+  ]
+};

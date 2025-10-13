@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230410/nyHm8lQv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86965,
+  "IDcode": "DB-01",
+  "title": "緊縛強制バイブ大全 I",
+  "publish_date": "2015-02-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "其他恋物癖",
+    "巨乳",
+    "捆绑",
+    "按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86965",
+  "actresses": [
+    {
+      "name": "笠木忍",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623084952744744_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86965&name=笠木忍"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/06/fcfc1939/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105822,
+  "IDcode": "HODV-21848",
+  "title": "新人OLに仕組まれた逆NTR 不倫の沼 夏木りん パンティと生写真付き",
+  "publish_date": "2024-02-23",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "荡妇",
+    "OL",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105822",
+  "actresses": []
+};

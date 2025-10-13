@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/da651705/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105190,
+  "IDcode": "RBD-514",
+  "title": "奈落の女 みなせ優夏 工藤美紗 あいださくら",
+  "publish_date": "2013-09-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "强奸",
+    "大小姐"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/03/32d1a2d91ab511bbeef653aebcb52446.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105190",
+  "actresses": [
+    {
+      "name": "爱田樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/3f770382-48ee-4176-88cd-4fc1111112c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105190&name=爱田樱"
+    },
+    {
+      "name": "水无瀬优夏",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105190&name=水无瀬优夏"
+    },
+    {
+      "name": "工藤美纱",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/ed145052a73b9c6a0b5ef6f9ec83055d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105190&name=工藤美纱"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/61a5b7ea-28b4-4dce-9fec-77d249addb53/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9387,
+  "IDcode": "MADM-194",
+  "title": "打電話叫了上門援交，進來的竟然是我的嫂子，原來哥哥的妻子是個蕩婦！ ？與大嫂的中出性交，她用最好的口交幫我中出 ~ 彩音遙菜",
+  "publish_date": "2025-01-08",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "吞精",
+    "網襪",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "短裙・迷你裙",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "嫂嫂",
+    "接吻",
+    "口爆",
+    "美腳",
+    "拜金女",
+    "自慰",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "熟女",
+    "飯店小姐・援交妹",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/e72c6741-228a-4292-b935-5a16087cd10d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/e72c6741-228a-4292-b935-5a16087cd10d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9387",
+  "actresses": [
+    {
+      "name": "彩音遙菜",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/a0aa4947-ba65-466f-a1d5-b90a1eee24cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9387&name=彩音遙菜"
+    }
+  ]
+};

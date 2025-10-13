@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/Z7s8SSIA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79013,
+  "IDcode": "ABP-930",
+  "title": "- 風俗タワー 性感フルコース3時間SPECIAL ACT.30 顔も声も反応も可愛すぎる美少女が貴方の欲望を全て叶える180分 野々浦暖 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "无毛",
+    "乳房",
+    "角色扮演者",
+    "深喉",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79013",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79013&name=野野浦暖"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79013&name=鲛岛"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79013&name=田渊正浩"
+    }
+  ]
+};

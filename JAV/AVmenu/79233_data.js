@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/25/5f3fda9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79233,
+  "IDcode": "NKKD-224",
+  "title": "親方の巨根がすごすぎて…（惚） 通野未帆",
+  "publish_date": "2021-09-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "巨大阴茎",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79233",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79233&name=通野未帆"
+    }
+  ]
+};

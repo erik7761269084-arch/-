@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/wAp8272p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78734,
+  "IDcode": "390JAC-140",
+  "title": "【禁断！NTR人妻中出し！】夫に見せつけるベク自ら応募してきた欲求不満セレブ妻！超肉体派巨根男優との3P+中出しを見せられて鬱勃起した旦那も緊急参戦！【妄想ちゃん。28人目 ありささん】",
+  "publish_date": "2022-11-30",
+  "type": "有码",
+  "company": "Jackson Stars",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78734",
+  "actresses": []
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/429ee92b-5a30-4a79-b822-26403cc10c0c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15215,
+  "IDcode": "MOPP-084",
+  "title": "小魔女讓我陷入受虐狀態！沙月惠奈",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "劇情",
+    "無做愛場面",
+    "凌辱",
+    "蕩婦",
+    "口交",
+    "SM",
+    "猥褻穿著",
+    "M男・M女",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240421/68ef96a1-99dc-49fe-bee2-433e3c91aa43.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240421/68ef96a1-99dc-49fe-bee2-433e3c91aa43.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15215",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15215&name=沙月惠奈"
+    }
+  ]
+};

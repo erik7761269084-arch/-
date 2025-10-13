@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ac82bc03-5716-4879-8189-a5e825a8fde2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 785,
+  "IDcode": "HEYZO-0968",
+  "title": "他人妻味～享受成熟的身體～ - 上條藍",
+  "publish_date": "2015-10-01",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "家庭主妇",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "口交",
+    "自宅",
+    "性感",
+    "慾求不滿",
+    "打手槍",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "HEYZO-0968为HEYZO出品,2015年10月1日发行的無碼成人影片由上条藍出演\n他人妻味～熟したボティを召し上がれ～ - 上条藍",
+  "cover_url": "https://picture.yoshiclub.xyz/20240710/1054fd90-6db5-4fbe-9425-bc12d587bc84.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240710/1054fd90-6db5-4fbe-9425-bc12d587bc84.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=785",
+  "actresses": [
+    {
+      "name": "上条藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240710/cfeac053-f02f-4f6b-bd82-756b2c8e9832.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=785&name=上条藍"
+    }
+  ]
+};

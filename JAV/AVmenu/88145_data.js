@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230909/amKtuJgg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88145,
+  "IDcode": "KIR-023",
+  "title": "「誘ったわけじゃないんです。エアコンが壊れて薄着なだけで」無意識に男を勃たせてしまった団地妻 大浦真奈美",
+  "publish_date": "2020-12-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230909-1/a5286d6287edf6fde9f6d02127c7bd92.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88145",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88145&name=大浦真奈美"
+    }
+  ]
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9e9afd30-ff48-4bcd-87e3-1c5dde1c4e99/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/7c4d2632/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7213,
+  "IDcode": "CAWD-820",
+  "title": "請原諒我，我將我的寫真偶像女友獻給你...抓住弱點，強暴現實生活中的芸能偶像操到懷孕的NTR中出 ~ 天羽梨梨花",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "偶像",
+    "凌辱",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "女友・妻子",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "欠債肉償",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "美少女電影",
+    "謝罪",
+    "羞恥"
+  ],
+  "description": "CAWD-820为KAWAII出品,2025年4月1日发行的有碼成人影片由天羽梨梨花出演\n本来以为幸福日子会永远持续下去，像我这种货色居然能跟刚出道的偶像正妹交往，生活爽到不行。可因为自己犯的错，今天一切日常突然崩塌…「对不起，饶了我吧…我女友是艺人哦…啥？带她来就能一笔勾销？谢啦！」欠债还不下，被抓住把柄，为了自保，我亲手把那个对我超温柔、把我当宝的女友献给了地下世界的可怕大叔。后来咋样我不知道，但她的联络方式突然发来她被当肉便器的照片，从那之后就失联了。她那变得惨兮兮的样子刻在我脑子里，怎么都忘不掉…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083644614614.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327083644614614.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7213",
+  "actresses": [
+    {
+      "name": "天羽梨梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5dc8ef57-bccd-406c-8c5a-fe4e459ec89f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7213&name=天羽梨梨花"
+    }
+  ]
+};

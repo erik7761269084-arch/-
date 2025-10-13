@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221209/XmCzYXpI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83041,
+  "IDcode": "M-854",
+  "title": "天使さまっ （11） KAORIEL model.真中かおり",
+  "publish_date": "2008-04-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "中出",
+    "女佣",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83041",
+  "actresses": [
+    {
+      "name": "真中かおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83041&name=真中かおり"
+    }
+  ]
+};

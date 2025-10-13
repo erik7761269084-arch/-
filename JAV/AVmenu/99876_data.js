@@ -1,0 +1,43 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99876,
+  "IDcode": "MIST-103-",
+  "title": "ママ友のヤリサー！！子供が同じ幼○園に通うママたち大人のサークル",
+  "publish_date": "2016-03-17",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99876",
+  "actresses": [
+    {
+      "name": "南星愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240717/ada49ee5-cd06-48f3-b6c8-04ee559b2f9a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99876&name=南星愛"
+    },
+    {
+      "name": "北川爱莉香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/489441ba348341feefd5155ed212b2c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99876&name=北川爱莉香"
+    },
+    {
+      "name": "月岛杏奈",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/8e00e3d750747030325c268331b1329d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99876&name=月岛杏奈"
+    },
+    {
+      "name": "水树まゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99876&name=水树まゆ"
+    }
+  ]
+};

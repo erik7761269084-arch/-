@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230111/VxBo81bw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84611,
+  "IDcode": "HMN-240",
+  "title": "【FANZA限定】種無し旦那のためにボロ屋敷へ行き30日間精子を溜めた独身男と濃厚種付けセックスを楽しむ人妻 ゆうり 生写真2枚付き",
+  "publish_date": "2022-08-24",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84611",
+  "actresses": []
+};

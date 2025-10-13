@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1b939986-dac4-4f79-8d1e-bd2c5355612c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9317,
+  "IDcode": "DVMM-189",
+  "title": "以成爲知名網紅爲目標的美人女子大生，挑戰男湯浴巾突擊挑戰！毫無疑問的被一羣男人的雞巴包圍了",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "業餘",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "少女",
+    "多P",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "明星臉",
+    "巨乳",
+    "奇異的",
+    "美人",
+    "真實拍攝",
+    "溫泉",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250108/784c892e-5241-45ac-902f-21820820a10f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250108/784c892e-5241-45ac-902f-21820820a10f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9317",
+  "actresses": [
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9317&name=宮西光"
+    },
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9317&name=堀北実来"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9317&name=愛瀬優里"
+    },
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9317&name=有馬美玖"
+    }
+  ]
+};

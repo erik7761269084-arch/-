@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/rCpbM4Mc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79076,
+  "IDcode": "MEYD-672",
+  "title": "- 溜池ゴロー15周年YEARコラボ第4弾 友人の母 息子の友人に犯●れ、幾度もイカされてしまったんです… 白木優子 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/53b604cca97bf18421be7f82c485b1cb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79076",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79076&name=白木優子"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/20b22cd9-ef18-467c-ac58-dd5286920df1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/fe49c4b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9736,
+  "IDcode": "REXD-548",
+  "title": "我……我感覺我被操的要飛到天上去了。 5 ~ 鬆本梨穂",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "同事女友・妻子",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "輪姦",
+    "多P",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "辦公室",
+    "M男・M女",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241220/e7779a28-3e26-40ec-88cb-1044a434c7b4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241220/e7779a28-3e26-40ec-88cb-1044a434c7b4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9736",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9736&name=松本梨穂"
+    }
+  ]
+};

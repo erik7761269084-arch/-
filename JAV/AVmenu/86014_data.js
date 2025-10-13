@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/22/63195cc5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86014,
+  "IDcode": "RBK-051",
+  "title": "父娘無残 怨恨のアナル調教 南梨央奈",
+  "publish_date": "2022-07-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "肛交",
+    "大小姐",
+    "灌肠",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/01e5d39f8a53f40320431bcb2a83a628.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86014",
+  "actresses": [
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86014&name=南梨央奈"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86014&name=大岛丈"
+    }
+  ]
+};

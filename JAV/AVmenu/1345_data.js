@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b76754b5-3d20-4f5a-a66b-633f2cb3f5a6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1345,
+  "IDcode": "HEYZO-2645",
+  "title": "新的泳池女王 長著洛麗塔面容的人妻",
+  "publish_date": "2021-10-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "美乳",
+    "泳池",
+    "人妻",
+    "出軌",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729003927984984.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729003927984984.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1345",
+  "actresses": [
+    {
+      "name": "穂高ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20230707/f9ac2df3-57a2-4333-97fc-332a8a698b2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1345&name=穂高ひな"
+    }
+  ]
+};

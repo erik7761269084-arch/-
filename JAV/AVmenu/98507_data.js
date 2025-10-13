@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230105/4DD60A241CE27025/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98507,
+  "IDcode": "LZDM-024",
+  "title": "義母と娘の偏愛レズビアン ～色気付いた娘に股間を湿らせるムッツリスケベな継母～ 久保今日子 白鳥すず",
+  "publish_date": "2019-02-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "婆婆",
+    "乱伦",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98507",
+  "actresses": [
+    {
+      "name": "久保今日子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-久保今日子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98507&name=久保今日子"
+    },
+    {
+      "name": "白鸟すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98507&name=白鸟すず"
+    }
+  ]
+};

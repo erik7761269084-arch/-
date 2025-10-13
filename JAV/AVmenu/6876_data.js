@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e9d5afad-2499-4ef9-a16f-f17ca88dcfce/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/a63dd94b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6876,
+  "IDcode": "MIAB-428",
+  "title": "女性向風俗NTR！禁忌快感背叛未婚夫 ~ 靜河",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "清楚系",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "地味",
+    "抹油",
+    "NTR",
+    "美人",
+    "豐滿"
+  ],
+  "description": "MIAB-428为MOODYZ出品,2025年4月15日发行的有碼成人影片由静河出演\n工作疲憊，與未婚夫相處無聊……為了擺脫纏繞著自己的憂鬱，靜香決定去女子妓院嘗試一次。徹底的按摩和挑逗可增加敏感度......精湛的技術。 「請稍等一下……我馬上就來……！」這種難以置信的快樂讓我平日裡的所有壓力都消失了。沒多久，她就上癮了，並懇求被插入。他甚至邀請她到他家裡，然後他失去了控制，多次在她體內射精。比和男友做愛感覺好 100 倍的性愛。她告訴自己這是身為女人對自己的獎勵，她沉浸在這短暫的快樂之中，任由自己的身心被掌控。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412004349296296.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250412/20250412004349296296.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6876",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6876&name=静河"
+    }
+  ]
+};

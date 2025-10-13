@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230325/06145E62047D8593/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100248,
+  "IDcode": "ABP-510",
+  "title": "ヲタサーの姫。01 長谷川るい",
+  "publish_date": "2016-08-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "轮奸",
+    "玩具",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp510/118abp510pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100248",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100248&name=イセドン内村"
+    },
+    {
+      "name": "长谷川るい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100248&name=长谷川るい"
+    }
+  ]
+};

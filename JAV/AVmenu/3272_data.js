@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ace74eab-a07f-4b3c-93ae-190535a85e80/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/01/4f279267/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3272,
+  "IDcode": "MADM-207",
+  "title": "【4K】水晶影像40周年紀念鉅作 令和版 人妻溫泉 治癒系誘惑 ~ 大槻響 羽月乃蒼",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "臀控",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "女神",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "溫泉",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "無毛"
+  ],
+  "description": "MADM-207为水晶映像出品,2025年8月22日发行的有碼成人影片由大槻响，羽月乃蒼出演\n從昭和到平成，再到令和，一眨眼水晶影像迎來40周年！經典系列《人妻溫泉》在令和時代強勢回歸！傳說在這世界的某個角落，有一處神秘的治癒之地——人妻溫泉。在這裡，溫柔的人妻會一邊幫你搓背，一邊傾聽你內心的苦悶，給你最貼心的安慰。●治癒系光滑美人妻‘響’小姐姐，用甜美笑容和溫柔嗓音，貼心陪伴，幫20多歲的害羞小哥哥解決和女生交流的困擾，徹底解放身心！●纖細巨乳美人妻‘乃蒼’小姐姐，雪白肌膚配上如大海般包容的心，治癒30多歲對女性失去信任的大叔，讓他的心和身體都重新燃起渴望！●爆乳光滑小嬌妻‘乃蒼’小姐姐，滑嫩肌膚加上肉感身材，用那對傲人的大胸，幫40多歲的巨根自卑大叔找回自信！三位極品人妻帶來的頂級款待，生活疲憊的你還不快來體驗這無與倫比的溫柔鄉？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044216688688_73928_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044216688688_73928_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3272",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3272&name=森澤佳奈"
+    },
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3272&name=羽月乃蒼"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3272&name=大槻响"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3272&name=七尾神"
+    }
+  ]
+};

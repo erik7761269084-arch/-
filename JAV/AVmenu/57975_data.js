@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/27/b30437b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57975,
+  "IDcode": "MKBD-S07",
+  "title": "KIRARI 07",
+  "publish_date": "2012-10-05",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "渔网裤袜",
+    "写真",
+    "无套内射",
+    "乳液",
+    "立即口交",
+    "淫荡手淫",
+    "M字开腿",
+    "背后插入",
+    "站立性交",
+    "骑乘位",
+    "跳",
+    "口交",
+    "巨乳爆乳",
+    "束缚",
+    "美女",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/11/27/73becd37ba3dccaac12164645ec25bf3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57975",
+  "actresses": []
+};

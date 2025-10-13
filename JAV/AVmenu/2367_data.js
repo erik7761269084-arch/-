@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5927b7a-4a2c-4148-b8ac-2342a399454d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2367,
+  "IDcode": "DANDY-980",
+  "title": "混浴溫泉被媽媽的巨乳閨蜜雙飛玩弄 VOL.5 ~ 有岡みう",
+  "publish_date": "2025-08-06",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "不倫",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "美人",
+    "熟女",
+    "溫泉",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "DANDY-980为DANDY出品,2025年8月6日发行的有碼成人影片由有岡みう出演\n本來以為只有媽媽，沒想到她還找了兩個巨乳閨蜜一起去溫泉旅行，心臟都快跳出來啦！我這種害羞的小男生，竟然跟兩個大姊姊一起泡混浴溫泉！她們的胸器實在太兇猛，害我小老弟直接硬起來…結果被她們倆輪流調戲，忍不住狂噴一發！在露天溫泉和房間裡，被她們用胸包夾、下面也插到爽歪歪，胸上、臉上、下面全都噴滿，這趟旅行真的是爽到不行，幸福感直接爆表啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014134333333_89293_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014134333333_89293_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2367",
+  "actresses": [
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2367&name=有岡みう"
+    }
+  ]
+};

@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d03b116f-fc41-43f1-9b98-ba58d07b47f7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/24/3f7f39de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4697,
+  "IDcode": "REAL-921",
+  "title": "態度超差但身材臉蛋頂級的辣妹打工妹被狠狠修理 ~ 瀬那瑠美奈",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "便利商店",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "超爆乳",
+    "傲嬌",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "乳釘、穿孔、乳環",
+    "潮吹",
+    "刺青紋身",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "服務生",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "輪姦",
+    "金髮",
+    "自慰",
+    "單體作品",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "寢取",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "REAL-921为K.M.P出品,2025年7月5日发行的有碼成人影片由瀬那瑠美奈出演\n大學生瑠美奈是個態度極爛的辣妹，工作隨便應付，還老愛嘲笑身邊的陰沉宅男。宅男雖然氣得要命，但面對她那火辣身材和絕美臉蛋，內心早就蠢蠢欲動，偷偷拿她的衣服當道具發洩，結果被當場抓包！被罵得體無完膚的宅男終於爆發，直接撲上去把她壓制，甚至在她男友趕來時，當著他的面瘋狂進攻，簡直是一場羞辱感爆棚的NTR大戲！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705044354478478_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250705/20250705044354478478_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4697",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4697&name=瀬那瑠美奈"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4697&name=いち"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/18/1a6eb1a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66043,
+  "IDcode": "NVH-053",
+  "title": "新人 長身スレンダー ニューハーフAVDebut 藍野ありさ",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "肛交",
+    "首次亮相",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/18/1a6eb1a7/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66043",
+  "actresses": [
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66043&name=タクト"
+    },
+    {
+      "name": "藍野ありさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66043&name=藍野ありさ"
+    }
+  ]
+};

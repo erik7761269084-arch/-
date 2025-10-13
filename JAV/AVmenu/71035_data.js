@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/r9VdZME6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71035,
+  "IDcode": "HND-761",
+  "title": "巨乳副担任に誘われて2人きりで行った相部屋旅館 誰も来ない貸切り部屋で一泊二日めちゃくちゃにハメまくった中出し温泉旅行 凛音とうか",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/3fbd7e0706178fefdc31e797b4b38c61.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71035",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71035&name=凛音とうか"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71035&name=真琴"
+    }
+  ]
+};

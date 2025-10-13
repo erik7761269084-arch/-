@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/06/c5cf6f32/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74688,
+  "IDcode": "SSNI-205",
+  "title": "ネチネチ焦らされゾクゾク快感 ビックンビックン性感開発 オイルマッサージサロン 三上悠亜",
+  "publish_date": "2018-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "艺人",
+    "按摩",
+    "薄马赛克",
+    "美容院",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/06/5434d77ab4b0f4348e80bce38dbcdf02.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74688",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74688&name=三上悠亜"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74688&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74688&name=玉木玲"
+    }
+  ]
+};

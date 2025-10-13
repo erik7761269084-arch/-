@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/CJlfqjjy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89457,
+  "IDcode": "SVSHA-011",
+  "title": "思春期恥垢が溜まった男女性器！夜の営みと性病リスク、円満愛撫テクニックを生徒同士のロープレ実習で学ぶ羞恥特別家庭科授業",
+  "publish_date": "2023-07-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "制服",
+    "口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89457",
+  "actresses": [
+    {
+      "name": "市井結夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/001e998c-aaf9-4fde-97c5-c91b0625e328.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89457&name=市井結夏"
+    }
+  ]
+};

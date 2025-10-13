@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 97873,
+  "IDcode": "a10bbe7fd3b0c7531a13f8cda6adc437",
+  "title": "超絶伦夫の马并みデカチンに人生を狂わされ…突然のDVセックスにも拒みつつ内心嫌じゃない贞淑妻 II",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97873",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/12/89481b10/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85320,
+  "IDcode": "MIAA-685",
+  "title": "前戯を知らない外国人嫁を日本式ベロ舐めで早漏体質に仕込み、何度も乳首イキさせてやった。 リリー・ハート （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "接吻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85320",
+  "actresses": []
+};

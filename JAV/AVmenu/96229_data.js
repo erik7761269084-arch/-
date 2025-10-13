@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/06/ee06ec58/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96229,
+  "IDcode": "IPTD-591",
+  "title": "HyperIdeaPocket 終極美臀癖性愛 香澄果穂",
+  "publish_date": "2010-06-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "多P",
+    "屁股",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96229",
+  "actresses": [
+    {
+      "name": "香澄果穗",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/54568575f77b65d15ed16440f765f99c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96229&name=香澄果穗"
+    }
+  ]
+};

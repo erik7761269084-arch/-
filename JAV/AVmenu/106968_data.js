@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/15/99b72bbb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106968,
+  "IDcode": "SNIS-717",
+  "title": "9子家族妹幹砲照顧全家！ 夢乃愛華",
+  "publish_date": "2016-08-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "淫乱，真实",
+    "乱伦",
+    "薄马赛克",
+    "滥交",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106968",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106968&name=夢乃愛華"
+    }
+  ]
+};

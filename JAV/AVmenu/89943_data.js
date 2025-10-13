@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/oAS7mlmj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89943,
+  "IDcode": "SAN-160",
+  "title": "【FANZA限定】人の良さそうな外国人に拉致監禁され飲まず食わずで犯●れる人妻 / 浜崎真緒 パンティとチェキ付き",
+  "publish_date": "2023-08-29",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89943",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89943&name=浜崎真绪"
+    }
+  ]
+};

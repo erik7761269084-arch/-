@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/742ac4aa-54ac-4666-9784-406b4dfcf94e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8794,
+  "IDcode": "DLDSS-396",
+  "title": "對面房間的已婚人妻自慰被人偷拍，不敢告訴丈夫被人威脅淪爲肉便器 ~ 美乃雀",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "口爆",
+    "美腳",
+    "鄰居",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "辣妹/GAL系",
+    "短髮",
+    "羞恥"
+  ],
+  "description": "DLDSS-396为DAHLIA出品,2025年2月20日发行的有碼成人影片由美乃雀出演\n和年長丈夫的夜生活已經是很多年前的事了…我今天也這樣安慰自己。一個男人在對面房間偷偷地觀察著這一幕…男人終於採取了行動。一名男子決定對隔壁豐滿的妻子下手，並試圖透過告訴她他看到她自慰來讓她做他想做的事。我只原諒了一次，但最終……當然，性慾處理螺旋不會立即結束。一個妻子在不告訴丈夫的情況下被隨心所欲地操，開始感到快樂......",
+  "cover_url": "https://picture.yoshiclub.xyz/20250125/20250125225453584584.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250125/20250125225453584584.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8794",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8794&name=美乃雀"
+    }
+  ]
+};

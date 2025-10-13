@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221227/38E0BA4D2EAE39AC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98230,
+  "IDcode": "GS-175",
+  "title": "激イキ！！ガクガク痙攣！！ソソる固定バイブブルマ女教師",
+  "publish_date": "2018-03-21",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "按摩棒",
+    "企画",
+    "运动短裤",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1gs175/1gs175pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98230",
+  "actresses": [
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98230&name=若槻みづな"
+    },
+    {
+      "name": "桜结奈",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/桜結奈.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98230&name=桜结奈"
+    },
+    {
+      "name": "ちなみん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98230&name=ちなみん"
+    }
+  ]
+};

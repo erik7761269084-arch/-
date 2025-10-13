@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a5cc1069-216a-4aa7-8d08-a98c2bd0245a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 850,
+  "IDcode": "HEYZO-1055",
+  "title": "最高級到府傳播妹 - 羽月美麗愛",
+  "publish_date": "2016-02-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "打手槍",
+    "美腳",
+    "自慰",
+    "傳播妹",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HEYZO-1055为HEYZO出品,2016年2月2日发行的無碼成人影片由羽月ミリア出演\n最高級到府傳播妹 - 羽月美麗愛",
+  "cover_url": "https://picture.yoshiclub.xyz/20240513/20240513091056475475.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240513/20240513091056475475.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=850",
+  "actresses": [
+    {
+      "name": "羽月ミリア",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-羽月ミリア.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=850&name=羽月ミリア"
+    }
+  ]
+};

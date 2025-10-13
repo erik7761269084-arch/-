@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/01/cdd8beda/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67715,
+  "IDcode": "HAME-041",
+  "title": "毒親～18年間大切に育てた娘ふたりと無邪気な混浴 Vol.2～寝込SEX編～",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "和服，丧服",
+    "浴衣",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67715",
+  "actresses": []
+};

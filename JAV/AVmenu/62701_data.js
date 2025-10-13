@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/f5c4a688/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62701,
+  "IDcode": "KOJA-022",
+  "title": "「今からですか…」面接に来たやりたがりスレンダーJDをテストと言って即日ハメ倒しで連続イカせ中出しして沼らせる 有馬みずき",
+  "publish_date": "2025-06-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女大学生",
+    "高",
+    "苗条",
+    "乳房",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62701",
+  "actresses": [
+    {
+      "name": "有馬美月",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/c49652ca-dbaf-4ab1-91ef-afe67151c678.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62701&name=有馬美月"
+    }
+  ]
+};

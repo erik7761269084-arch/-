@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/10/0e0a65f7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72806,
+  "IDcode": "NKKD-348",
+  "title": "【FANZA限定】真・交通事故示談NTR 身代わりの代償 大槻ひびき チェキ付き",
+  "publish_date": "2025-02-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72806",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72806&name=大槻响"
+    }
+  ]
+};

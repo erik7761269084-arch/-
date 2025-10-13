@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240504/JfM69Rh5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39434,
+  "IDcode": "F8ACCF7415010BF26496B7A28B430A-82",
+  "title": "今夜骚女蜕变户外简单便利移动肉便器 口交 爆操",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39434",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221125/5A7F0F2E18787DDC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38912,
+  "IDcode": "2772944A45B5695DB8A39AFDC6C12EBC",
+  "title": "韩国BJ高颜值巨胸女主播，国产福利HJK",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38912",
+  "actresses": []
+};

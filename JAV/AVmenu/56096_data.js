@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56096,
+  "IDcode": "A41BF36889E464CA7DA5C64E3D6EF654",
+  "title": "童颜少妇",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56096",
+  "actresses": []
+};

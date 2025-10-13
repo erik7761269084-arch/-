@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/03/23b8f8fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85712,
+  "IDcode": "NACR-511",
+  "title": "催淫暗示 夫の部下に操られた美人妻 佐伯由美香",
+  "publish_date": "2022-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "放尿",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85712",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85712&name=佐伯由美香"
+    }
+  ]
+};

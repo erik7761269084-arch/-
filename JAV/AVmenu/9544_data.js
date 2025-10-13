@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2951ce5c-5859-4456-9c52-a1c1e132cd83/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9544,
+  "IDcode": "HRSM-077",
+  "title": "迷奸東京觀光旅遊小姐4名 ~ 響かれん 惠沙也香 美木雛乃 神村美月",
+  "publish_date": "2024-12-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "企畫",
+    "痴漢",
+    "業餘",
+    "變態",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "迷姦",
+    "女導游",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241228/43f16845-4cac-40c1-ac44-03ca5e9df8c7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241228/43f16845-4cac-40c1-ac44-03ca5e9df8c7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9544",
+  "actresses": [
+    {
+      "name": "美木雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/1d93f59c-062f-4858-be1b-8eac0c24242b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9544&name=美木雛乃"
+    },
+    {
+      "name": "恵沙也香",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8b3f628e-e7ce-42d4-953d-5e935ccc8851.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9544&name=恵沙也香"
+    },
+    {
+      "name": "神村彩月",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/bb50ab89-47bd-4077-887b-9a4ae0095501.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9544&name=神村彩月"
+    },
+    {
+      "name": "響かれん",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/dac6ecc3-932d-47de-9c46-98b1dcdd5b3a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9544&name=響かれん"
+    }
+  ]
+};

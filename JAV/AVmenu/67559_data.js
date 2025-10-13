@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250428/UINrN8UY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67559,
+  "IDcode": "ECB-125",
+  "title": "あぁ、男殺し 3ヵ所同時責め続け快楽漬け 麻里梨夏",
+  "publish_date": "2019-11-29",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "手淫",
+    "骑乗位",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/e48084ba1d66f0321ebc7d0474afc7f0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67559",
+  "actresses": [
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67559&name=麻里梨夏"
+    }
+  ]
+};

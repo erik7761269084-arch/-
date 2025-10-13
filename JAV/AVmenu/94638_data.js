@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241028/WkVnYXPC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94638,
+  "IDcode": "START-089",
+  "title": "ロケ帰り相部屋NTR 大雪で帰れなくなったお天気お姉さんが陰険な中年ディレクターの粘着パワハラチ○ポで開発され続けた一晩。矢埜愛茉",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "口交",
+    "企画",
+    "女主播",
+    "白天出轨",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94638",
+  "actresses": [
+    {
+      "name": "矢埜愛茉",
+      "img_url": "https://picture.yoshiclub.xyz/20240206/49794802-ee93-4341-8ad7-2d5f4e8de90f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94638&name=矢埜愛茉"
+    }
+  ]
+};

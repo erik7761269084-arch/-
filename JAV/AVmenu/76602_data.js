@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/ymWlLG6K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76602,
+  "IDcode": "FSDSS-009",
+  "title": "無鉄砲テレビディレクターvs友田彩也香 AVぶった斬りSHOW 4days",
+  "publish_date": "2020-01-23",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "第一人称摄影",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/74dfe18c557ee02de2f7a1730216126e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76602",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76602&name=友田彩也香"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76602&name=Qべぇ"
+    },
+    {
+      "name": "浜口リュウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76602&name=浜口リュウ"
+    }
+  ]
+};

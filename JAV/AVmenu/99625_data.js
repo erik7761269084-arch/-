@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230215/0A616F6D272972BF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99625,
+  "IDcode": "MDTM-445",
+  "title": "新人限定ベロチュウ舐めまくり制服リフレ Vol.002 岬澪",
+  "publish_date": "2018-11-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "美少女",
+    "中出",
+    "角色扮演",
+    "制服",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/61mdtm445/61mdtm445pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99625",
+  "actresses": [
+    {
+      "name": "岬澪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99625&name=岬澪"
+    }
+  ]
+};

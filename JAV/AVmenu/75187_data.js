@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/cL3O5SrQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75187,
+  "IDcode": "MISM-159",
+  "title": "優等生はやがてMになる。制服少女調教録 柊るい",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "户外",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/4a296d704629c5bf1278cd6c437f7c6b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75187",
+  "actresses": [
+    {
+      "name": "柊留衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/27dc95b2-345b-406e-8dba-556ca6e47082_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75187&name=柊留衣"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d82fb75-0cd0-44b3-be6e-0f9428c8c716/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/08/d4503046/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3114,
+  "IDcode": "BAB-166",
+  "title": "多年硬邦邦 一朝生中出 素人貧乳妹第8彈 ~ 遠藤小春",
+  "publish_date": "2025-08-29",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "顏射",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清純",
+    "手指插入",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "BAB-166为妄想族出品,2025年8月29日发行的有碼成人影片由遠藤小春出演\n這妹子光是露個身子就緊張得要死，滿臉不安，但她鼓起勇氣各種挑戰的模樣真的是超卡哇伊！幾年後她會變成啥樣，真讓人期待啦。從生中出し開始，一路玩到多人亂鬥，生口爆臉射啥的都來一輪……以後咱們還得多多交尾唷，嘿嘿！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120318322322_14604_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120318322322_14604_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3114",
+  "actresses": [
+    {
+      "name": "遠藤小春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250529/13cc14b0-7096-4f61-96de-8ad70bfbada9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3114&name=遠藤小春"
+    }
+  ]
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27a0c78c-0d0e-44b6-9aa9-f1c5f7a58fae/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/080d5e45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9064,
+  "IDcode": "EBWH-186",
+  "title": "本爲無敵之人，卻爲隔壁的爆乳女大學生而生氣，讓她陷入昏迷吧，把她變成性處理器的極致交尾 ~ 雨宮響",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "痴漢",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "監禁",
+    "迷姦",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "宅男・宅女"
+  ],
+  "description": "EBWH-186为E-BODY出品,2025年1月21日发行的有碼成人影片由雨宮響出演\n我要把隔壁的I罩杯大胸女大學生全裸軟禁，然後把她染成我自己的顏色。很髒，如果一個男人不愛撫這麼漂亮的乳房，那將是一種恥辱。不，我不這麼認為，請高興地把它一直吸到你的喉嚨後面，即使我舔你的陰部，我也不會醒來……你在做什麼。為所欲為，她已經完全睡著了~ww受精完成，並且確認了不情願的懷孕哈哈。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074511723723.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116074511723723.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9064",
+  "actresses": [
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9064&name=雨宮響"
+    }
+  ]
+};

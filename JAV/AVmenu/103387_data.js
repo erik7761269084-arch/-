@@ -1,0 +1,36 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103387,
+  "IDcode": "GIRO-024-",
+  "title": "居酒屋チェーン店でパートしている妻が年下ヤリチン男達に泥酔させ",
+  "publish_date": "2018-05-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "已婚妇女",
+    "多P",
+    "烂醉如泥的"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103387",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103387&name=武藤彩香"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103387&name=翔田千里"
+    },
+    {
+      "name": "枡田ゆう子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103387&name=枡田ゆう子"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58626,
+  "IDcode": "Paco101919_192",
+  "title": "樱木梨乃美人で淫乱ボディの女ととことんヤリまくる",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58626",
+  "actresses": []
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/c6YJArzG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77043,
+  "IDcode": "POST-473",
+  "title": "巷では貧困家庭の女の子たちを支援する聖人と言われています。 私は社長という立場を利用して上京し預かった中卒女子社員たちとセックスしまくっています。 極悪非道！全女子社員たちを性奴隷！処女から調教！避妊薬を飲ませ中出し！",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "制服",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77043",
+  "actresses": []
+};

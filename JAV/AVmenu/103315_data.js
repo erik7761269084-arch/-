@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/03/d9681281/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103315,
+  "IDcode": "DV-1302",
+  "title": "痴漢バスおとり捜査官 麻美ゆま",
+  "publish_date": "2011-08-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "各种职业",
+    "强奸",
+    "性骚扰",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/04/d86fe4dcfade69cf92b733c2fc6f3858.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103315",
+  "actresses": [
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103315&name=麻美由真"
+    }
+  ]
+};

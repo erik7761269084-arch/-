@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/72a4e2b3-0511-4e7f-b7da-3edc67b9bba8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/08/8f8e8a40/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6548,
+  "IDcode": "START-288",
+  "title": "首次吞精解禁！19發深喉口爆加連續激戰硬核10P亂交大片 ~ 戀渕桃菜",
+  "publish_date": "2025-04-29",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "4K",
+    "深喉",
+    "大亂交",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "唾液敷面",
+    "女僕制服",
+    "單體作品",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "START-288为SOD出品,2025年4月29日发行的有碼成人影片由戀渕桃菜出演\n戀渕桃菜首次挑戰吞精，直接一口吞下20發！濃稠苦澀的真貨精華一滴不剩，全部下肚！最後一場更是毫不留情的硬核10P大亂鬥，被輪番上陣操到腿軟！兄弟們，快來圍觀這場視覺盛宴啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/2b8b6a93-7066-48ef-aa65-5a20cd52a764_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250428/2b8b6a93-7066-48ef-aa65-5a20cd52a764_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6548",
+  "actresses": [
+    {
+      "name": "戀渕桃菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/58008b9e-9bda-463c-b9b0-dfda22133a2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6548&name=戀渕桃菜"
+    }
+  ]
+};

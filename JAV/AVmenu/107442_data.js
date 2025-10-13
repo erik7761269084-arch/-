@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/11/8d9bfd03/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107442,
+  "IDcode": "SSIS-730",
+  "title": "激イキ189回！痙攣5022回！イキ潮1800cc！無邪気な笑顔で天才的SEX エロス覚醒 はじめての大・痙・攣スペシャル 美晴のん 生写真3枚付き",
+  "publish_date": "2023-08-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "薄马赛克",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/10/ae19afca17bad14b927595f105055e69.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107442",
+  "actresses": [
+    {
+      "name": "美晴のん",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/9dfd383d-e2b0-47ba-896d-2567827bd0e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107442&name=美晴のん"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107442&name=小田切ジュン"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107442&name=イセドン内村"
+    }
+  ]
+};

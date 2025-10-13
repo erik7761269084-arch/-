@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/15/da6456b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85316,
+  "IDcode": "MIAA-627",
+  "title": "合宿レ×プ輪● 憧れの陸上女子が絶倫部員達の種付けプレスで肉便器化 倉本すみれ （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "苗条",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/535ee4ca2a1601bd1ca5784a54b694e7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85316",
+  "actresses": []
+};

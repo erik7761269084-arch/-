@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65701,
+  "IDcode": "0F576A1D64B4977FA45E416B7EF04683",
+  "title": "出差时和H罩杯妹妹从早到晚扭动的72小时记录",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65701",
+  "actresses": []
+};

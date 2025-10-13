@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b56540d0-5c35-4b47-a810-01197ce467c6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/09/09/50367b27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16571,
+  "IDcode": "SSIS-838",
+  "title": "在不允許裸露的時代，因勾引乳房而被當作女巫受審的大胸癡女",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "口交",
+    "白絲",
+    "性感",
+    "勾引・誘惑",
+    "緊縛",
+    "女祭司",
+    "巨乳",
+    "完全着衣",
+    "奇異的"
+  ],
+  "description": "SSIS-838为S1出品,2023年8月22日发行的有碼成人影片由鷲尾芽衣出演\n巨乳復興，不可原諒的暴露、衣着色情和乳房戀物癖混合在一起]在這個時代，引誘男人的女人被認爲是女巫，女巫審判和獵巫活動猖獗。生活在這個時代，美的爆乳巨乳足以讓男人瘋狂。盡管她只是穿着衣服，玩得很開心，但她毫無防備、毫無意識的外表卻誘惑着男人。強奸，然後譴責強奸……在這個允許男人暴力行爲的世界裏，身體和靈魂都被摧毀了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240128/20240127234538729729.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240128/20240127234538729729.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16571",
+  "actresses": [
+    {
+      "name": "鷲尾芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e7c9a2b7-8190-4db3-846f-d44a217fd9ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16571&name=鷲尾芽衣"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16571&name=イセドン内村"
+    },
+    {
+      "name": "笕纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16571&name=笕纯"
+    }
+  ]
+};

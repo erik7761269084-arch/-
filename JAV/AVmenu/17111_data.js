@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2032b996-8fa1-4361-b479-dcf83e9fb47e/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240308/F4PhJAUg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17111,
+  "IDcode": "JUQ-485",
+  "title": "傲慢的商業夥伴總裁不斷中出她的出差娛樂女。專屬肉便器，衝宮奈美",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "調教",
+    "調教",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "女上位",
+    "制服",
+    "口交",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-485为MADONNA出品,2023年12月26日发行的有碼成人影片由沖宮那美出演\n沖宮那美被指派去出差，因為她被指派進行一項關係到公司命運的商業談判。之所以委託他進行這次商務談判，是因為他的商業夥伴大木社長是個以「愛女人」和「傲慢」著稱的男人。本來打算把她這個公司裡最漂亮的女人帶過來，讓交易成功，但… 當娛樂活動開始時，沖宮那美被迫進行羞辱性的性娛樂，在同事面前玩弄她的身體。她從棘手的性騷擾中倖存下來，回到了住處，但大木的「強迫」性娛樂才剛開始…\n沖宮那美被指派去出差，因為她被指派進行一項關係到公司命運的商業談判。之所以委託他進行這次商務談判，是因為他的商業夥伴大木社長是個以「愛女人」和「傲慢」著稱的男人。本來打算把她這個公司裡最漂亮的女人帶過來，讓交易成功，但… 當娛樂活動開始時，沖宮那美被迫進行羞辱性的性娛樂，在同事面前玩弄她的身體。她從棘手的性騷擾中倖存下來，回到了住處，但大木的「強迫」性娛樂才剛開始…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231223/bc9df184-9d83-4598-a34f-309a7e5ebcd5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231223/bc9df184-9d83-4598-a34f-309a7e5ebcd5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17111",
+  "actresses": [
+    {
+      "name": "沖宮那美",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/0fcd9a6c-0c4b-4fa3-86bd-5ac4366ae3e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17111&name=沖宮那美"
+    }
+  ]
+};

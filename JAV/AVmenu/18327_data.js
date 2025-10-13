@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/53c34af8-ac39-40a0-9505-df14c34e7608/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20231105/1EqTzK3u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18327,
+  "IDcode": "FSDSS-672",
+  "title": "「我一直被強暴……」農村美麗妻子被丈夫身邊的城裡小夥調教，陷入性侵",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "劇情",
+    "鄉下",
+    "凌辱",
+    "中出",
+    "口交",
+    "強姦",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "人妻"
+  ],
+  "description": "FSDSS-672为FALENO出品,2023年11月23日发行的有碼成人影片由吉高寧寧出演\n人妻吉高寧々正在慶祝她的結婚第六週年。 她們家在農村經營一家烤肉店。 吉高寧々僱用了一名老實男人兼職工作，但這名男子是一名強姦犯，曾在東京強奸了同事，沒有被起訴，被公司解僱，回到了父母家。 已經三年沒有和丈夫發生性關係的吉高寧々被強大的惡魔盯上並被強姦，她的身體和靈魂都被奪走了。 「我對不起你，我正在高潮…啊」 」 她在她心愛的丈夫附近射精，全身變得滾燙。\n人妻吉高寧々正在慶祝她的結婚第六週年。 她們家在農村經營一家烤肉店。 吉高寧々僱用了一名老實男人兼職工作，但這名男子是一名強姦犯，曾在東京強奸了同事，沒有被起訴，被公司解僱，回到了父母家。 已經三年沒有和丈夫發生性關係的吉高寧々被強大的惡魔盯上並被強姦，她的身體和靈魂都被奪走了。 「我對不起你，我正在高潮…啊」 」 她在她心愛的丈夫附近射精，全身變得滾燙。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231014/20231014225617680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231014/20231014225617680680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18327",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18327&name=吉高寧寧"
+    }
+  ]
+};

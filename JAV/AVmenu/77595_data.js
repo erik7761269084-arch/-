@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/27290ded/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77595,
+  "IDcode": "JUQ-211",
+  "title": "ワシ専用！！いいなり人妻中出しメイド 叔父の命令は絶対服従。種付け調教の日々ー。 上戸まり",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "女佣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/10/c18803d4feee40872e0eef46029290c3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77595",
+  "actresses": [
+    {
+      "name": "上戶真理",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/5a916915-4355-4d71-8d00-199c67923120.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77595&name=上戶真理"
+    }
+  ]
+};

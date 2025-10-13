@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4401b80d-c29c-41ea-8b50-f76140252ba3/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/05/d28ed498/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15473,
+  "IDcode": "MIAB-172",
+  "title": "迷奸 ~ 用安眠藥讓厚顏無恥的侄女失去知覺，弄她的逼，無休止的活塞開發她無毛的陰戶，讓她瞬間達到高潮 ~ 鬆岡美桜",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "自宅",
+    "媚藥・迷藥",
+    "性感",
+    "迷姦",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "叔叔・姪女",
+    "手指插入",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "MIAB-172为MOODYZ出品,2024年4月16日发行的有碼成人影片由松岡美桜出演\n「你叔叔不值得活著嗎？」這個厚臉皮的姪女到底是什麼？ ！沒辦法，只能忍著……雖然我只是碰巧被解雇了……！啊，我已經生氣了。讓我們透過自慰來分散自己的注意力。我在裡面放了一顆安眠藥，在我意識到之前，我犁了她的陰戶，把所有的精液倒進了我的宮殿！同時，我還和厚臉皮的栗子一起捏捏、玩耍，訓練她做小魚兒的感性！用那張厚臉皮的嘴把我的雞巴含在嘴裡！一個花了很多時間做愛的女臭小子被告知完成位置並被強姦！喔不，我懷孕了…我該怎麼辦…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/202404120506299191.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/202404120506299191.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15473",
+  "actresses": [
+    {
+      "name": "松岡美桜",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/3d418746-7767-4c19-9bf0-01f36b43202e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15473&name=松岡美桜"
+    }
+  ]
+};

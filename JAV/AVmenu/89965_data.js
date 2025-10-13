@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/RlPksR3V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89965,
+  "IDcode": "SAN-153",
+  "title": "THE 盗撮 プライベートを覗いたれ！！",
+  "publish_date": "2000-12-15",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "自慰",
+    "业余",
+    "护士",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89965",
+  "actresses": []
+};

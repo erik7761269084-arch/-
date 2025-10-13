@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221220/D0D5E93F6F8F62A3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98074,
+  "IDcode": "XRW-743",
+  "title": "あなたは私なしでは生きられないカラダなの、―美人セラピストの膣トレッスン―美咲結衣・美咲かんな",
+  "publish_date": "2019-09-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "淫乱，真实",
+    "荡妇",
+    "玩具",
+    "女同性恋",
+    "舔阴",
+    "手指插入",
+    "乳房",
+    "调教",
+    "恋物癖",
+    "女同接吻",
+    "给女性观众",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98074",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98074&name=美咲佳奈"
+    },
+    {
+      "name": "美咲结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98074&name=美咲结衣"
+    }
+  ]
+};

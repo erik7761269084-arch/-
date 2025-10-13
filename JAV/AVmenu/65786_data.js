@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65786,
+  "IDcode": "3C9F6728B87159F9DB0D4317BC24D640",
+  "title": "10mu 040110_01 高木あい 2次面接はコスプレで！",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65786",
+  "actresses": []
+};

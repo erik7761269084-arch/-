@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240908/mkgqcUxR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92662,
+  "IDcode": "JOD-358",
+  "title": "JOD358帰省先のド田舎で再会した幼馴染二人に密着挟まれ身動き出来ず奪い合い中出しされて汗だく痴女られた三日間松本一香倉本蓳。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/97982524ba8eb9c00feba5b567559fb4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92662",
+  "actresses": []
+};

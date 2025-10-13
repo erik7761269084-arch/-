@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241119/quqm1ARV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78138,
+  "IDcode": "XRW-801",
+  "title": "女社長強● お金持ちの美人社長を●す",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "监禁",
+    "高",
+    "立即口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241120-1/7b80cfcce442f14c35adacdac48a953a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78138",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78138&name=波多野结衣"
+    },
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78138&name=北条麻妃"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78138&name=水野朝陽"
+    }
+  ]
+};

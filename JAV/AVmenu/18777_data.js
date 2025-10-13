@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bcc8259e-7471-4736-8cc6-656ffe2404b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18777,
+  "IDcode": "IPX-605",
+  "title": "5個未經驗玩法 真正寫真偶像專屬第2彈",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "蕩婦",
+    "兩男一女",
+    "打手槍",
+    "大雞巴"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/202309082103216767.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/202309082103216767.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18777",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18777&name=白峰美羽"
+    }
+  ]
+};

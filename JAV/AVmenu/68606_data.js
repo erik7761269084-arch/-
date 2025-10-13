@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/2401f98f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68606,
+  "IDcode": "OKB-173",
+  "title": "七藤優亜 ムチムチ美尻 神ブルマ 美少女やぽっちゃり娘らにピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！さらに尻コキ、着衣お漏らし放尿やブルマぶっかけ等ブルマ好きに送る完全着衣フェチAV",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "第一人称摄影",
+    "屁股",
+    "乳液",
+    "运动短裤",
+    "偷窥",
+    "局部特写",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68606",
+  "actresses": [
+    {
+      "name": "七藤優亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/5f530468-c174-4eeb-8511-93d8469f5946.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68606&name=七藤優亜"
+    }
+  ]
+};

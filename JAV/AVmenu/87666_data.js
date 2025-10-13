@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230808/kiyp2BzH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87666,
+  "IDcode": "THTP-087",
+  "title": "素人投稿ファイル01",
+  "publish_date": "2023-07-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "捆绑",
+    "SM",
+    "羞耻",
+    "投稿",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230809-1/15af8cea4b49dae66b7d845467bba8a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87666",
+  "actresses": []
+};

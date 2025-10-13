@@ -1,0 +1,90 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ac5e47df-5c3e-413b-aad5-e71cb25394b3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/d6594a11/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5355,
+  "IDcode": "PRED-772",
+  "title": "女上司的失誤全讓我背鍋，隨時隨地淪爲部下的肉便器，美臀無內褲絲襪上班露出後庭狂中出輪流上陣 ~ 山岸逢花",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "高顏值",
+    "肛交",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "肉絲",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "女神",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "厠所",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "高跟鞋",
+    "手指插入",
+    "辦公室",
+    "按摩棒",
+    "美人",
+    "阪道系",
+    "職場",
+    "女上司",
+    "熟女",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "謝罪",
+    "羞恥"
+  ],
+  "description": "PRED-772为PREMIUM出品,2025年6月13日发行的有碼成人影片由山岸逢花出演\n【山岸綾花×真咲南朋】【超硬核復仇神作】職場戀愛兩不誤的女上司山岸部長，把跟客戶的大失誤全推給小弟我，真的氣炸了啦！拿出證據逼她跪地求饒，還得簽下肉便器合約！上班加班沒差，就算在跟老闆報告，也得隨時給我秀出那勾人的後庭！表面裝高冷，內裡騷到不行的山岸部長，就是大家的公用洩慾玩具！為了出一口鳥氣，同事們輪流上場，狂野調教復仇戰！這種美豔職場女上司，平時只認識帥哥的傢伙，現在被咱們用肉棒徹底壓制，爽到翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120557287474_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/202506120557287474_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5355",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5355&name=山岸逢花"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5355&name=タクト"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5355&name=タイ"
+    }
+  ]
+};

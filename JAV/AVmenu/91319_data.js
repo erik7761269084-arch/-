@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240428/XiC8hiCd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91319,
+  "IDcode": "EBOD-713",
+  "title": "ロシアより襲来！！エロ過ぎ騎乗位ロデオファッカー ヴァレンタリッチ E-BODYデビュー！！",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "白人",
+    "精选，综合",
+    "巨乳",
+    "女上位",
+    "自慰",
+    "首次亮相",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240429-1/4d85c84b646219dcd3046f948fb9ae3a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91319",
+  "actresses": [
+    {
+      "name": "ヴァレンタリッチ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91319&name=ヴァレンタリッチ"
+    }
+  ]
+};

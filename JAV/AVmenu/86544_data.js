@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/15/3176f272/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86544,
+  "IDcode": "URE-060",
+  "title": "人妻の熟れた肉体を気づかぬうちに快楽堕ちへと誘う無自覚NTRの名作！！ 原作・こくだかや 15分の残業 店長視点・夫視点を描いたオリジナルエピソードも収録！！ 向井藍",
+  "publish_date": "2020-11-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "出轨",
+    "原作改编",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86544",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86544&name=向井藍"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86544&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/FH8YbETu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68376,
+  "IDcode": "SDMUA-014",
+  "title": "テレワークのために初めて行ったシェアオフィスで・・・ 性欲を持て余した働く女性達に入れ替わり立ち代わりで精子を搾り取られてしまった1日。",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/bcdc9c225e1f33292d8d604059bb916c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68376",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68376&name=佐倉陽菜"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68376&name=若宫はずき"
+    },
+    {
+      "name": "広瀬结香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68376&name=広瀬结香"
+    }
+  ]
+};

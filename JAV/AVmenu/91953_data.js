@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240618/6XM2ILCG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91953,
+  "IDcode": "JUQ-697",
+  "title": "母をイジメっ子の同級生にNTRれたいじめられっ子の僕 月野ゆりね",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "羞耻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91953",
+  "actresses": [
+    {
+      "name": "月野ゆりね",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/95b029a3-a179-4ed5-b405-5151fd036726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91953&name=月野ゆりね"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91953&name=左慈半造"
+    }
+  ]
+};

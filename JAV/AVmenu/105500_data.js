@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/03/5b82464c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105500,
+  "IDcode": "DV-1599",
+  "title": "本能を呼び覚ます濃厚なる4つのSEX 小島みなみ",
+  "publish_date": "2014-02-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "女上位",
+    "颜射",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/07/23955545b34e3937dea9541e64123943.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105500",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105500&name=小島南"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/181f5947/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60033,
+  "IDcode": "SYKH-158",
+  "title": "ブーツの美魔女とナマ交尾 即ズボチ〇ポの快感に美貌が蕩ける… らんかさん32歳",
+  "publish_date": "2025-09-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "恋腿癖",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60033",
+  "actresses": []
+};

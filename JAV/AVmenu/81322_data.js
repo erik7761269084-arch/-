@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220915/BNMYSB04/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81322,
+  "IDcode": "HAVD-1022",
+  "title": "いやらしい接吻 同棲レズカップル 愛し求めイカセ合うマジのレズセックス",
+  "publish_date": "2022-07-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81322",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81322&name=岬梓沙"
+    }
+  ]
+};

@@ -1,0 +1,27 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 92402,
+  "IDcode": "WIFE-06-",
+  "title": "完生WIFE06-稲森美忧。",
+  "publish_date": "2008-02-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "数位马赛克",
+    "拘束",
+    "调教",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92402",
+  "actresses": [
+    {
+      "name": "小鸟游恋",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92402&name=小鸟游恋"
+    }
+  ]
+};

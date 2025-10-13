@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/02/3dd62742/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107582,
+  "IDcode": "FSDSS-632",
+  "title": "おチ○ポの味が大好きいきなり即尺いいなりメイド 神木蘭 パンティと写真付き",
+  "publish_date": "2023-07-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "荡妇",
+    "苗条",
+    "口交",
+    "女佣",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107582",
+  "actresses": [
+    {
+      "name": "神木蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20230822/2bbe5977-8ee0-4a36-83a7-fa43387bc36c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107582&name=神木蘭"
+    }
+  ]
+};

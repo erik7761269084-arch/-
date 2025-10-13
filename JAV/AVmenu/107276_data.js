@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/10/3517bbdc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107276,
+  "IDcode": "HZGD-155",
+  "title": "絶倫チ○ポの上司と一晩中ヤリまくって中出しされ続けた人妻 椎名のあ",
+  "publish_date": "2020-06-26",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "戏剧",
+    "乳交",
+    "巨乳",
+    "自慰",
+    "出轨",
+    "新娘，年轻妻子",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd155/h_1100hzgd155pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107276",
+  "actresses": [
+    {
+      "name": "しいなのあ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/椎名のあ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107276&name=しいなのあ"
+    }
+  ]
+};

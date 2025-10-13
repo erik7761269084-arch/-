@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/6820ec8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68548,
+  "IDcode": "JRZE-236",
+  "title": "初撮り人妻ドキュメント 原田千花",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68548",
+  "actresses": [
+    {
+      "name": "原田千花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68548&name=原田千花"
+    }
+  ]
+};

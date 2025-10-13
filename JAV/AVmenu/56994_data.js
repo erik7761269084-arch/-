@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56994,
+  "IDcode": "4E8F2B9C0E206EAEF00A5B36D95E30A4",
+  "title": "【無】早抜き 水谷心音BEST 2 パート1",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56994",
+  "actresses": []
+};

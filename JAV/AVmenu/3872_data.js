@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ecc91d4-7799-4ff9-a988-baeb8cb7cc89/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/d3e7bc67/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3872,
+  "IDcode": "START-373",
+  "title": "趁老婆回娘家時和兒子保育園的漂亮老師的一周瘋狂絕倫不倫性愛偷情 ~ 青空光",
+  "publish_date": "2025-08-04",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "幼稚園老師",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "父親",
+    "NTR",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "START-373为SOD出品,2025年8月4日发行的有碼成人影片由青空光出演\n兒子幼稚園的導師光光，超受小朋友喜愛，沒想到她跟孩子的爸趁老婆回娘家時搞在一起啦！兩人三天兩頭就在家裡偷偷約會，簡直是日夜纏綿停不下來。眼看老婆跟兒子明天就要回來了，光光竟然做出了超震撼的舉動……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20ad4de1-224a-4445-9244-0dd557c3207c_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250804/20ad4de1-224a-4445-9244-0dd557c3207c_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3872",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3872&name=青空光"
+    }
+  ]
+};

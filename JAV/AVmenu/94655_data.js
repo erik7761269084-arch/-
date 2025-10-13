@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241029/MU68nDdc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94655,
+  "IDcode": "STC-073",
+  "title": "「監禁」金髪人妻緊縛強●8 NTR復讐代行 性悪寝取り東欧女に私刑執行！女体破壊強●妊娠人誅罰 キャンディー・リシャス",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "白人",
+    "中出",
+    "捆绑",
+    "拘束",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241030-1/3da75d60507d6c6982826f6e2f687937.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94655",
+  "actresses": [
+    {
+      "name": "キャンディー・リシャス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94655&name=キャンディー・リシャス"
+    }
+  ]
+};

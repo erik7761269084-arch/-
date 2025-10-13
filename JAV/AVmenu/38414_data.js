@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221111/1436F41190D4575D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38414,
+  "IDcode": "AAA0E4B7F75FDAC43CB-5386634019029",
+  "title": "温暖的而毛茸茸-卷102",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38414",
+  "actresses": []
+};

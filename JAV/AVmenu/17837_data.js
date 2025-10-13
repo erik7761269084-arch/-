@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dc4f9a3e-2f1d-4034-93fb-f5de4c8c60d6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/08/08/76ed8cbe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17837,
+  "IDcode": "IPX-889",
+  "title": "新入社員歡迎會喝醉酒的我被公司櫃姐帶回家榨取精子到早上的一夜。 相澤南",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "酒醉",
+    "劇情",
+    "淫亂",
+    "OL",
+    "口交",
+    "姐姐・妹妹",
+    "性感",
+    "艷遇",
+    "癡女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113235418742742.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231113/20231113235418742742.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17837",
+  "actresses": [
+    {
+      "name": "相澤南",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/e6f1f2e9-2fa9-424b-bf11-7aa2aabf6de4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17837&name=相澤南"
+    }
+  ]
+};

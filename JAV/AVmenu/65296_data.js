@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65296,
+  "IDcode": "1F953BBAC00A6C80FCDBA8D569C636A1",
+  "title": "[日本] 小松杏破坏版AV～返乡探亲间与成为人妻的同班同学忘我交合～ (JUL-780)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65296",
+  "actresses": []
+};

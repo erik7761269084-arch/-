@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a3129e70-217f-41a0-8bb7-16a11c4791d6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8075,
+  "IDcode": "REXD-553",
+  "title": "熱血教師！ ~ 滝ゆいな",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "色白",
+    "凌辱",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "迷姦",
+    "兩男一女",
+    "多P",
+    "美腳",
+    "M男・M女",
+    "美人",
+    "學校",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250222/1a7089a4-097f-4b81-a876-99a112e2a68c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250222/1a7089a4-097f-4b81-a876-99a112e2a68c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8075",
+  "actresses": [
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8075&name=滝ゆいな"
+    }
+  ]
+};

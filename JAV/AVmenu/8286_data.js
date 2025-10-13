@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ccb906b-9eda-4a89-84d7-a48b923c1ffb/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/bacdbe00/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8286,
+  "IDcode": "PRST-018",
+  "title": "高級舞臺專屬！白雪日乃的第一次中出！",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "69",
+    "3P・4P",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "真人秀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "奇異的",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "PRST-018为PREMIUM出品,2025年2月18日发行的有碼成人影片由白雪雛乃出演\n高級舞台專屬！白雪日乃的第一次中出！當這個超級敏感、苗條的美女的黏膜與未成熟的陰莖接觸時，她就會達到高潮！雖然是危險的一天，但還是大量中出！我完全沉迷於我的第一次「原始」體驗的快感！在用玩具使其達到高潮後，抽搐的陰部會受到後續的中出和精子群射！被兩名男子包圍，連續被3P中出！她感覺到精子進入了她的子宮深處並達到了高潮！我不能再使用避孕套進行性交了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073240790790.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213073240790790.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8286",
+  "actresses": [
+    {
+      "name": "白雪雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/efa6d781-89a6-4e66-a633-39d47a0a50d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8286&name=白雪雛乃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8286&name=イセドン内村"
+    }
+  ]
+};

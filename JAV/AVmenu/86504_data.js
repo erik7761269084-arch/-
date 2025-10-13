@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230207/bc9cp2lJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86504,
+  "IDcode": "SW-873",
+  "title": "妹ニーハイ絶対領域でシコシコしたい！ 妹のニーハイ太ももパンチラを見るたびにムラムラしていた兄！ついに我慢できなくなって、絶対領域に顔を埋めてしまった！でも妹もキャッキャッ言いながら感じてくれたので、思う存分味わい、ついでに妹マ○コに挿入しちゃいました！",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "4小时以上作品",
+    "内衣",
+    "迷你裙",
+    "妹妹",
+    "过膝袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86504",
+  "actresses": []
+};

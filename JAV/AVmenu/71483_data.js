@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/RnH7bVNV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71483,
+  "IDcode": "BLK-391",
+  "title": "スーパーヤリマン女子大サークルから緊急AV参戦！どの飲み会でも必ず一番にフェラする即尺隊長！いま渋谷で一番フェラが好きな女子大生AVデビュー！！",
+  "publish_date": "2018-12-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女大学生",
+    "女生",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71483",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b96cec2-6517-48fa-b640-a2eb93cc7169/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231215/JljfKEZv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18246,
+  "IDcode": "SSIS-998",
+  "title": "厚臉皮的妹妹竟然要我插入她",
+  "publish_date": "2023-10-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "中出",
+    "蕩婦",
+    "制服",
+    "口交",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "姐弟・兄妹",
+    "巨乳",
+    "亂倫"
+  ],
+  "description": "SSIS-998为S1出品,2023年10月25日发行的有碼成人影片由日向陽葵出演\n我的妹妹日向陽葵是我父親再婚後，繼母帶過來的。 我一直覺得她太冷了，很難相處。 但是當妹妹知道我有女朋友後，竟然跟我說：你這個討厭的傢伙，竟然交到了女朋友，反正你也沒什麼經驗，我可以屈尊幫你練習，免得到時候人家討厭你。 「 從一開始，她只是讓我的雞雞摩擦，只插入不到1厘米，然後接下來，再也忍耐不信了，她用她令人驚嘆的身體做為我練習性愛的平台，沉浸在快感 中無法自拔。\n我的妹妹日向陽葵是我父親再婚後，繼母帶過來的。 我一直覺得她太冷了，很難相處。 但是當妹妹知道我有女朋友後，竟然跟我說：你這個討厭的傢伙，竟然交到了女朋友，反正你也沒什麼經驗，我可以屈尊幫你練習，免得到時候人家討厭你。 「 從一開始，她只是讓我的雞雞摩擦，只插入不到1厘米，然後接下來，再也忍耐不信了，她用她令人驚嘆的身體做為我練習性愛的平台，沉浸在快感 中無法自拔。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231021/de55208c-b8e0-4589-86b0-4cba57cdd287.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231021/de55208c-b8e0-4589-86b0-4cba57cdd287.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18246",
+  "actresses": [
+    {
+      "name": "日向陽葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e491c9dd-50ae-4b46-ae57-f7732414fc54.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18246&name=日向陽葵"
+    }
+  ]
+};

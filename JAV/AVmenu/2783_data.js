@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5df82d8-40b3-4d5e-9e40-1212d4f741a6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/c3342d1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2783,
+  "IDcode": "MFYD-043",
+  "title": "回鄉下老家發現前女友變身離異浪女單親媽媽，一夜兩天狂幹10發爽到爆 ~ 黑島玲衣",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "鄉下",
+    "4K",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "前女友",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "探親",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "MFYD-043为溜池出品,2025年9月11日发行的有碼成人影片由黒島玲衣出演\n好久没回乡下老家，一回去竟然撞见前女友黑岛玲衣！学生时代那会儿的她跟现在完全不一样，听她说现在成了“离异+骚货+单亲妈妈”，这变化也太大了吧！而且她身上散发出一种莫名的性感，巨乳若隐若现，简直让人把持不住，我直接沦陷跟她滚了床单。经历过结婚、生娃、离婚的前女友，床上功夫真是绝了，骚到骨子里。我们俩疯狂缠绵，一次又一次，汗流浃背，欲罢不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020651472472_67560_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020651472472_67560_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2783",
+  "actresses": [
+    {
+      "name": "黒島玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/f8e4a31b-c4c9-4a29-81b5-31c786e3e10a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2783&name=黒島玲衣"
+    }
+  ]
+};

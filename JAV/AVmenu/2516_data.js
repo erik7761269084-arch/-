@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/80d75c89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2516,
+  "IDcode": "GVH-781",
+  "title": "垂涎岳母那對勾魂巨乳的餓狼女婿 ~ 山本香織",
+  "publish_date": "2025-09-19",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "超爆乳",
+    "老太婆",
+    "乳交",
+    "色白",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "岳母",
+    "五十路",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "寢取",
+    "豐滿"
+  ],
+  "description": "GVH-781为GLORY QUEST出品,2025年9月19日发行的有碼成人影片由山本かをり出演\n裕一作為上門女婿被老婆家接納，但每晚讓他輾轉反側的卻是岳母香織那對散發致命誘惑的巨乳！就連跟老婆翻雲覆雨時，腦海裡浮現的都是岳母那火辣的身材……實在忍不住的裕一，硬著頭皮坦白了自己那見不得光的慾望。香織被當成女人注視的快感搞得心癢難耐，不自覺用自己的風騷把裕一一步步勾引。壓抑已久的慾火瞬間炸開，裕一再也剋制不住，對岳母的巨乳發動了猛烈進攻……真的是刺激到不行！#老司機推爆",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919090957702702_33701_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250919/20250919090957702702_33701_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2516",
+  "actresses": [
+    {
+      "name": "山本かをり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250922/7dc2ba11-81c2-4dcb-aece-5111e6a870c8_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2516&name=山本かをり"
+    },
+    {
+      "name": "なっつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2516&name=なっつ"
+    }
+  ]
+};

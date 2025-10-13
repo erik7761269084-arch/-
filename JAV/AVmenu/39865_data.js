@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39865,
+  "IDcode": "84AA16F8C28D8B68E1B66FD785115C89",
+  "title": "専业主妇のつまらない日常に别れをしたい29歳色白人妻 刺激が欲しくてたまらない",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39865",
+  "actresses": []
+};

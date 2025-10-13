@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/13/3d5ddc98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84066,
+  "IDcode": "CAWD-330",
+  "title": "ヤリマンなんて嘘だった…見た目は派手ギャルで強そうで遊んでそうだけど、中身はめっちゃ一途でキス魔で甘えん坊な最高の彼女 大島せな",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "中出",
+    "制服",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/fa86c1f1d138d731208d9ebaadc27266.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84066",
+  "actresses": []
+};

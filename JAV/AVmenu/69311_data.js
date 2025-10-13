@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/59c2f52f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69311,
+  "IDcode": "ZRK-001",
+  "title": "- 淫獣女縛殺腹パン奴● 内蔵躾編 朝霧わかな - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "捆绑",
+    "颜射",
+    "吞精",
+    "拘束",
+    "深喉",
+    "饮尿",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/59c2f52f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69311",
+  "actresses": [
+    {
+      "name": "朝霧わかな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69311&name=朝霧わかな"
+    }
+  ]
+};

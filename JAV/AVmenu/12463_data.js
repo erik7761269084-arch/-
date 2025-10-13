@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21dd3d4e-cd09-4b34-83e3-61345eed6e42/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/16/1adcf087/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12463,
+  "IDcode": "SONE-322",
+  "title": "給你帶來最好的自慰體驗 [全主觀，輕聲淫語，滿足射精] 全方位服務的女僕 ~ 兒玉七海",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女僕",
+    "後入",
+    "劇情",
+    "淫亂",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "淫語",
+    "少女",
+    "美少女",
+    "女僕制服",
+    "巨乳"
+  ],
+  "description": "SONE-322为S1出品,2024年8月27日发行的有碼成人影片由兒玉七海出演\n【全集全主觀】【雙耳錄音，驚心動魄】只用臉就能打飛機的超可愛女僕，為主人的最佳射精提供最好的淫蕩性幫助！自始至終，我都會以您為中心，盡力為您服務！充滿口水的舌吻，美味的雞巴吮吸，還有讓你立刻射精的女牛仔姿勢，都是近距離和私人的！射精滿意度120%！只考慮雞雞最強的ona應援作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822220738993993.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822220738993993.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12463",
+  "actresses": [
+    {
+      "name": "兒玉七海",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/64c17f35-2db4-4964-b70d-2310c597791d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12463&name=兒玉七海"
+    }
+  ]
+};

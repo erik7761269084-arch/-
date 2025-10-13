@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3a9e55a-986d-41ee-b8e9-fe29e37d6e22/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/15/e51ce601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17105,
+  "IDcode": "ACHJ-031",
+  "title": "竹內有紀降臨!! 性愛浸泡在濃油中，融化到骨髓爆炸裸露連拍!! 痛苦快感★成人SPA",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "網襪",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "情趣內衣",
+    "抹油",
+    "熟女"
+  ],
+  "description": "ACHJ-031为2023年12月26日发行的有碼成人影片由竹内有紀出演\n才華橫溢，身材姣好！ ！麥當娜專屬“竹內由紀”登場！ ！與最棒的塗油美女一起玩耍的終極時刻！ ！爆炸性的連續射擊！ ！痛苦的快感★成人SPA！ ！才華橫溢的竹內由紀和天才薩摩裏的首次合作，一部充滿粘滑性感油的三性紀錄片，讓你融化到骨頭裏！ ！\n才華橫溢，身材姣好！ ！麥當娜專屬“竹內由紀”登場！ ！與最棒的塗油美女一起玩耍的終極時刻！ ！爆炸性的連續射擊！ ！痛苦的快感★成人SPA！ ！才華橫溢的竹內由紀和天才薩摩裏的首次合作，一部充滿粘滑性感油的三性紀錄片，讓你融化到骨頭裏！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224010125111111.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231224/20231224010125111111.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17105",
+  "actresses": [
+    {
+      "name": "竹内有紀",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d5d5021b-67a2-4f42-88dd-d2222f6efb3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17105&name=竹内有紀"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17105&name=ナイアガラ翔"
+    }
+  ]
+};

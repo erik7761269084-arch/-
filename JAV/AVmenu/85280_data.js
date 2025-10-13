@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/13/72a566c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85280,
+  "IDcode": "MIAA-553",
+  "title": "「もう射精してるってばぁ！」状態でも追撃痴女してくるイジワル家庭教師 天音ゆい",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫语",
+    "女上位",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85280",
+  "actresses": [
+    {
+      "name": "天音ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85280&name=天音ゆい"
+    }
+  ]
+};

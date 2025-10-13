@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c447631-edd4-4732-b969-740bd4298e20/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18776,
+  "IDcode": "IPX-606",
+  "title": "【完絶】 子宮口開發！性器激震高潮性愛",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "亂交 • 群P",
+    "潮吹",
+    "口交",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908210409327327.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/20230908210409327327.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18776",
+  "actresses": [
+    {
+      "name": "藤井一夜",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/b97f52b8-529b-439b-9a8d-fd90a3de1cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18776&name=藤井一夜"
+    },
+    {
+      "name": "清水健",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18776&name=清水健"
+    }
+  ]
+};

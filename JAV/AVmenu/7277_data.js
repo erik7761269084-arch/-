@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b436de4b-33bf-4cd9-bbd1-0e7b81818917/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/f23656b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7277,
+  "IDcode": "SDJS-306",
+  "title": "新卒二年級 編輯部 生田優梨 請了帶薪假沉溺於精子顏射",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "素人作品",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "業餘",
+    "4K",
+    "深喉",
+    "中出",
+    "OL",
+    "真人秀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "出道作品",
+    "辦公室",
+    "地味",
+    "按摩棒",
+    "真實拍攝",
+    "紀錄片",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SDJS-306为SOD出品,2025年4月24日发行的有碼成人影片由生田優梨出演\n新卒2年目 編集部 生田優梨 有給取って、ぶっかけ精子に溺れました",
+  "cover_url": "https://picture.yoshiclub.xyz/20250325/2c83918b-664a-431c-a210-b066dc840a0d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250325/2c83918b-664a-431c-a210-b066dc840a0d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7277",
+  "actresses": [
+    {
+      "name": "生田優梨",
+      "img_url": "https://picture.yoshiclub.xyz/20250325/01330a3b-cb0a-4660-878e-34f057057d74.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7277&name=生田優梨"
+    }
+  ]
+};

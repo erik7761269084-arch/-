@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230105/9E992E257CC78BCF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103012,
+  "IDcode": "326URF-004",
+  "title": "【裏風俗】全国裏風俗紀行 in 中野 自宅に招いてくれたエリカさんとリアル制服イメクラプレ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103012",
+  "actresses": []
+};

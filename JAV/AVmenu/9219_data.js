@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83a8fedd-6c0a-4823-9c4f-72da69b16b97/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/28/45d62cf6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9219,
+  "IDcode": "JUR-123",
+  "title": "接納了離家出走的少年，人妻的祕密的調教計劃 ~ 白石茉莉奈",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "睡衣",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "口交",
+    "自宅",
+    "廢青",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUR-123为MADONNA出品,2025年1月14日发行的有碼成人影片由白石茉莉奈出演\n瑪麗娜是一位全職家庭主婦，並在一所大房子裡過著舒適的生活。然而，忙碌的丈夫不照顧她，身為夫妻的她無能為力，只能靠自己安慰自己度過日子。有一天，瑪麗娜買完東西回家，看到一個男孩蹲在傾盆大雨中，她想都沒想就決定帶他回家，“我要感冒了，你來我家吧” ？當我脫下她的濕衣服並照顧她時，瑪麗娜充滿惡作劇和沮喪地說：「如果你能聽我說的話，你就可以讓我一個人呆著…」對他低聲說…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250109/202501090751458181.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250109/202501090751458181.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9219",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9219&name=白石茉莉奈"
+    },
+    {
+      "name": "トンガ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9219&name=トンガ"
+    }
+  ]
+};

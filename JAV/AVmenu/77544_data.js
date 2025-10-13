@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/09/392083ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77544,
+  "IDcode": "SILK-136",
+  "title": "共犯関係 II ただ愛して、罪を犯した僕ら",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "戏剧",
+    "出轨",
+    "恋爱",
+    "给女性观众"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/11/ed13fa3612e2422d3fff93856ddb195f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77544",
+  "actresses": [
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77544&name=緒川春"
+    },
+    {
+      "name": "上原千明",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/川原梨央.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77544&name=上原千明"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77544&name=向理来"
+    },
+    {
+      "name": "东希美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77544&name=东希美"
+    },
+    {
+      "name": "新川爱七",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77544&name=新川爱七"
+    }
+  ]
+};

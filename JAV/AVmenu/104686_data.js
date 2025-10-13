@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/22/663d480c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104686,
+  "IDcode": "HOKS-181",
+  "title": "なかよし中年夫婦生活 円満の秘訣はやっぱりアレです",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/22/86077d458f964484ba427bea117c9494.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104686",
+  "actresses": [
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104686&name=森下美绪"
+    }
+  ]
+};

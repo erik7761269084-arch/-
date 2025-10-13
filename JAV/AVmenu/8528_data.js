@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c2bd0ad-5d85-4a5a-920d-d0134914227a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/b3bd433d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8528,
+  "IDcode": "AARM-275",
+  "title": "請你雞巴再硬一點... 耳邊低語，同時睾丸和龜頭被挑逗和折磨，直到達到勃起的極限 ~ 相沢澪 和久井美兎 音羽美鈴 伊東沙蘭 有賀千裏 川上優",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "企畫",
+    "無做愛場面",
+    "蕩婦",
+    "形象俱樂部",
+    "淫語",
+    "打手槍",
+    "口爆",
+    "多P",
+    "雙飛",
+    "精選總編集",
+    "兩女一男",
+    "精選綜合",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/7a839c6d-f0cf-40b0-81b7-33d9f75e7415.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/7a839c6d-f0cf-40b0-81b7-33d9f75e7415.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8528",
+  "actresses": [
+    {
+      "name": "和久井美兎",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=和久井美兎"
+    },
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=川上優"
+    },
+    {
+      "name": "有賀千里",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/2c5d6583-f71f-4c1a-8270-1c83baecc8e4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=有賀千里"
+    },
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=音羽美鈴"
+    },
+    {
+      "name": "伊東沙蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20250403/96192768-2b0b-4307-a79d-fc6fea6db49e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=伊東沙蘭"
+    },
+    {
+      "name": "相沢澪",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/6df3c9ed-7450-44c6-b162-e10cb018c32d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=相沢澪"
+    },
+    {
+      "name": "有贺みなほ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8528&name=有贺みなほ"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/27/8e1602cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67845,
+  "IDcode": "JKSR-683",
+  "title": "絶叫人妻20人 声が枯れるまで喘ぎまくる！！美女とのワンナイトカーニバル4時間",
+  "publish_date": "2025-04-26",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/8e1602cf/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67845",
+  "actresses": []
+};

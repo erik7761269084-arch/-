@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/DIEJr9y1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93759,
+  "IDcode": "PJAM-018",
+  "title": "麗しの兄嫁 巨乳兄嫁の激しい不倫SEXをたまたま目撃したオレは兄嫁と目が合った途端ベットに押し倒されて中出しまでさせられました！！田中ねね",
+  "publish_date": "2024-07-29",
+  "type": "有码",
+  "company": "Purple Jam",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "超乳",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93759",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93759&name=田中寧寧"
+    }
+  ]
+};

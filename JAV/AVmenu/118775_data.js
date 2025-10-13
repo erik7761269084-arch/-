@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/13/2178552c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118775,
+  "IDcode": "FC2-4602037",
+  "title": "当我脱掉一个认真的求职学生的西装时",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/13/ac8b1e390ca9f153f7d81b84ee2fda85.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118775",
+  "actresses": []
+};

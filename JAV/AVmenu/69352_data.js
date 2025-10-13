@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/08/992e9978/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69352,
+  "IDcode": "VDD-147",
+  "title": "- 女医in… ［脅迫スイートルーム］ 葵百合香 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "多P",
+    "高",
+    "调教",
+    "女医生",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69352",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69352&name=葵百合香"
+    }
+  ]
+};

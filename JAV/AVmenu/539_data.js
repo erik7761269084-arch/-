@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47d48799-92c3-438a-bd7f-471c2ea9b8f1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 539,
+  "IDcode": "HEYZO-0638",
+  "title": "人氣脫衣舞娘和粉絲之間的淫交 舞臺下很危險 ~ 若林美保",
+  "publish_date": "2014-07-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "舞女",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "兩男一女",
+    "打手槍",
+    "美腳",
+    "拜金女",
+    "艷遇",
+    "粉丝",
+    "約炮",
+    "熟女",
+    "綠茶婊",
+    "辣妹/GAL系"
+  ],
+  "description": "HEYZO-0638为HEYZO出品,2014年7月14日发行的無碼成人影片由若林美保出演\n人気ストリッパーとファンの淫らな関係～ステージの外は危険がいっぱい～ - 若林美保",
+  "cover_url": "https://picture.yoshiclub.xyz/20241204/54520ddc-bfd7-4e18-aaa9-49b1ed72b8f3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241204/54520ddc-bfd7-4e18-aaa9-49b1ed72b8f3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=539",
+  "actresses": [
+    {
+      "name": "若林美保",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=539&name=若林美保"
+    }
+  ]
+};

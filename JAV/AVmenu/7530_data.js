@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2874715d-8d8e-4a44-adf9-41f8ae466658/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/9f2e81e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7530,
+  "IDcode": "MEYD-995",
+  "title": "我的老婆對我的雞巴不滿意，然後被有大雞巴的侄子寢取了！ 超級敏感的人妻 x 大屌 NTR ~ 澪真央",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女",
+    "阿姨・侄子",
+    "寢取"
+  ],
+  "description": "MEYD-995为溜池出品,2025年3月18日发行的有碼成人影片由澪真央出演\n「我感覺老婆毛對我的雞巴不太滿意……」當我讓毛給我的大屌侄子真嗣當家教的時候，我們兩人的距離果然突然拉近了！光是想像毛澤東被一根大雞巴逼射精的情景我就興奮不已！這根雞巴太粗了，無法塞進她的陰道，而且又太長，深深地插入她的陰道，讓她敏感的妻子達到強烈的高潮！ ！一直想看看像毛澤東這樣的性感表情…大屌萬歲！性感老婆萬歲！超刺激的NTR！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/202503130848551414.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/202503130848551414.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7530",
+  "actresses": [
+    {
+      "name": "澪真央",
+      "img_url": "https://picture.yoshiclub.xyz/20241011/1c189788-fb93-49f6-9c43-d6ebcd2ec985.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7530&name=澪真央"
+    }
+  ]
+};

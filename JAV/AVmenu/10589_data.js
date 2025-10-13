@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0ed32144-5eb2-4af1-bb8c-81e84e509cb2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/972f2561/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10589,
+  "IDcode": "PPPE-266",
+  "title": "乳首特別調教的行列，排起了長隊 ~ 楪可憐",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "跳蛋",
+    "口交",
+    "白眼失神",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "多P",
+    "美少女",
+    "暗黑系",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "PPPE-266为OPPAI出品,2024年11月19日发行的有碼成人影片由楪可憐出演\n有一天，凱倫突然被綁架，並被帶到一個叫做Chon-ma的地方，表面上是一家餐廳。開始進行乳頭發育培訓，以便她能夠繼續作為標誌性產品賺錢。凱倫的心智已經疲憊不堪，但隨著日復一日的訓練，她的敏感度卻越來越高，一時間凱倫淪為乳頭奴隸。男人依照口碑在藍線區域排隊。攻擊已成為陰蒂的乳頭，以高旋轉率重複中出！正當他們以為神清氣爽的時候，很多人又排隊重新插入中出！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085131299299.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114085131299299.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10589",
+  "actresses": [
+    {
+      "name": "楪可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/1f48a437-7d85-4aa3-977f-7cced42039fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10589&name=楪可憐"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10589&name=七尾神"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/NsoZAmqS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83532,
+  "IDcode": "DAVK-050",
+  "title": "美巨乳Gカップ清楚おさな妻「あなたのために中年たちのセックス玩具にされてきます…」 【野外ノーブラ連れ回し精子ごっくん発情】【未洗アナル舌掃除人間ウォシュレット】…",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "户外",
+    "肛交",
+    "吞精",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83532",
+  "actresses": [
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83532&name=森本つぐみ"
+    }
+  ]
+};

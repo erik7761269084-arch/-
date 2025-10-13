@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/21/32ebb709/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104737,
+  "IDcode": "IPTD-935",
+  "title": "地味女？モテ女？あいの1/2 希志あいの",
+  "publish_date": "2012-08-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "戏剧",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104737",
+  "actresses": [
+    {
+      "name": "希志爱野",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/e3a956d5-5439-4fcb-b145-ebe8d5d15528.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104737&name=希志爱野"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104737&name=しみけん"
+    }
+  ]
+};

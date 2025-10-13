@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87c41e46-f395-4edf-b8b3-ac08e3643b44/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15045,
+  "IDcode": "FPRE-045",
+  "title": "充滿粘液的汗流浹背的性交 似鳥日菜",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "FPRE-045为FITCH出品,2024年5月7日发行的有碼成人影片由似鳥日菜出演\nH 罩杯大胸凹印偶像似鳥希娜電擊專屬！ ！我在找爸爸的網站上找到了希娜（Hina），一個豐滿的大胸部女大學生，給她買了一晚，然後在家裡和她一起玩。全身被雨淋濕的希娜用懷疑、可以理解為蔑視的眼神看著我。我不在乎，這樣我更興奮。骯髒的老頭，變態的老頭……越是這樣，他的慾望就越強烈。我強行吸吮受驚的雛。然後，正在反抗的希娜開始發出甜蜜的嘆息…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503024935865865.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503024935865865.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15045",
+  "actresses": [
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15045&name=似鳥日菜"
+    }
+  ]
+};

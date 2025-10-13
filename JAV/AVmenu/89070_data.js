@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/Vm1EL4V6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89070,
+  "IDcode": "VOTAN-037",
+  "title": "『IKUNA＃2.0 』身長140cmGAMANKO最幼対決！ 合法JIPOミニマム級女王決定戦！「奇跡のリアル妖精 神の贈り物」工藤ららvs「魂の人生2回目感 無想転生小悪魔ガール」由良かな 絶頂決戦！いつもイキ潮まくるAVスター競演＜イキガマン狂い＞イキガマンの果てに手にする絶頂は…",
+  "publish_date": "2023-06-02",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "中出",
+    "潮吹",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89070",
+  "actresses": [
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89070&name=工藤拉拉"
+    }
+  ]
+};

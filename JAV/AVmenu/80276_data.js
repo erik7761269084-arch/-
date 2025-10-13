@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/GPlQIX01/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80276,
+  "IDcode": "RBK-038",
+  "title": "セレブ妻 監禁拘束調教の果てに 九条みちる",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6192da3fbb20e30a0ab679600038f072.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80276",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80276&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241231/d1gjvP46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74890,
+  "IDcode": "DDKM-002",
+  "title": "縛物語bakumonogatari 岬あずさ",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "中出",
+    "捆绑",
+    "SM",
+    "羞耻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74890",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74890&name=岬梓沙"
+    }
+  ]
+};

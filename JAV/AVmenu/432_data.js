@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1592f12f-55a6-47a0-936e-a0e774bbdc38/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 432,
+  "IDcode": "HEYZO-0513",
+  "title": "妖豔！美熟女 大狂放～大和撫子的豐滿巨尻 ～ 村上涼子",
+  "publish_date": "2014-01-12",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "臀控",
+    "和服・浴衣・喪服",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "昭和系",
+    "美人",
+    "熟女",
+    "極品美人",
+    "女優",
+    "肌肉"
+  ],
+  "description": "HEYZO-0513为HEYZO出品,2014年1月12日发行的無碼成人影片由村上涼子出演\n妖艶！美熟女・村上涼子が乱れ咲く～大和撫子のムッチリ巨尻～ - 村上涼子",
+  "cover_url": "https://picture.yoshiclub.xyz/20250127/fc58c797-229d-40b2-9475-9110466c4124.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250127/fc58c797-229d-40b2-9475-9110466c4124.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=432",
+  "actresses": [
+    {
+      "name": "村上涼子",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/e32a1800-18a8-4a37-90d5-33880fa0fc5b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=432&name=村上涼子"
+    }
+  ]
+};

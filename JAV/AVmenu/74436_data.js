@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/FpvgZMfd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74436,
+  "IDcode": "JUFE-082",
+  "title": "レ×プされ逃げてきた女子大生を軟禁 犯され全身性器になった肉体を貪る異常な絶頂性交 真奈りおな",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74436",
+  "actresses": [
+    {
+      "name": "心菜りお",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/7b6a1c24-90c7-412c-af19-b2b9fa9ae663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74436&name=心菜りお"
+    },
+    {
+      "name": "芹沢ゆず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74436&name=芹沢ゆず"
+    }
+  ]
+};

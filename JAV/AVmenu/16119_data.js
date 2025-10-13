@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/77b4b6c0-994c-4a3b-815e-b857a3250d77/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16119,
+  "IDcode": "SONE-048",
+  "title": "出道30天大高潮，第一次高潮！顔射！ 3P！早阪ひめ",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SONE-048为S1出品,2024年2月27日发行的有碼成人影片由早坂ひめ出演\n？再過幾天就要成爲AV女優了……引起熱議的早阪ひめ倒計時出道第2彈！噴！抽搐！卷曲！追求！她的大腦因尖叫而一片空白……她猛烈地搖動臀部，用全身和靈魂懇求射精！一個擁有令人難以置信的色情潛力的超級新人誕生了！一個已經達到極限的陰戶？ ？ 就這樣吧！你將在人生中第一次獲得終極的快樂！克制！充分利用您的玩具！大量面部射精！大雞巴波爾蒂奧！ 3P！解鎖SP，暴露一切。早阪姬出道30天後2nd STAGE，三次強烈高潮。 “我很高興成爲一名 AV 女演員......”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223091255908908.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240223/20240223091255908908.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16119",
+  "actresses": [
+    {
+      "name": "早坂ひめ",
+      "img_url": "https://picture.yoshiclub.xyz/20240120/6635338b-8b85-4aa3-b950-dd2556cdcae6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16119&name=早坂ひめ"
+    }
+  ]
+};

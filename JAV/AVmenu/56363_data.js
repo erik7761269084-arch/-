@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220528/04325BAAAFF47189/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56363,
+  "IDcode": "2F64CE5B0DB7B448D512C5137B7174BE",
+  "title": "パコパコママお漏らしおばさん ～弥富乃里子さんの場合～ 弥富乃里子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56363",
+  "actresses": []
+};

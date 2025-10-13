@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4fce18c1-1d02-498b-bc71-003a08957d2d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/10787835/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14161,
+  "IDcode": "IPZZ-289",
+  "title": "暑假從鄉下來到東京的處男被哥哥女友無自覺誘惑的3日間，再也無法保持理智！暴走8發射精！~ 西宮夢",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "嫂嫂",
+    "勾引・誘惑",
+    "美腳",
+    "艷遇",
+    "出軌",
+    "NTR",
+    "辣妹/GAL系"
+  ],
+  "description": "IPZZ-289为IDEA POCKET出品,2024年6月11日发行的有碼成人影片由西宮夢出演\n爸爸媽媽…東京的成年女性在很多方面都令人驚嘆。暑假...我從農村老家探望了哥哥，去了我夢想的東京...不幸的是，哥哥出差了四天...那段時間，我的女朋友，我的女朋友一起住，決定照顧我...竟然跟哥哥的女朋友同居了！ ？你是想用色情衣服來誘惑我嗎？這是成年人可以承受的嗎？我是否因為長得跟我哥哥一模一樣而放鬆警戒？一連串不知不覺的誘惑在我面前太過大膽。啊……我為你感到難過，但是……我想和你做一些非常淘氣的事情……嗯，你可以給我狗屎，但請閉上眼睛...永遠不要打開它...我興奮得一發不可收拾，一遍又一遍猛烈地活塞運動，渾身大汗淋漓……圖片！ ？別讓它從裡面出來！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607011808314314.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240607/20240607011808314314.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14161",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14161&name=西宮夢"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14161&name=日森一"
+    }
+  ]
+};

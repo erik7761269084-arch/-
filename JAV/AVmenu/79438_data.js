@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/FqXgkDDn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79438,
+  "IDcode": "PPPD-949",
+  "title": "陽キャになりたい陰キャアニオタ巨乳女子AVデビュー！ 有馬凛",
+  "publish_date": "2021-08-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女上位",
+    "自慰",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/33f0357f1efe7f65d41802ad291a099e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79438",
+  "actresses": []
+};

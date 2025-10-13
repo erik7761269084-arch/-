@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/ba683691/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61358,
+  "IDcode": "VNDS-5224",
+  "title": "五十路美母の完熟肉壺180分",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "苗条",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61358",
+  "actresses": [
+    {
+      "name": "安野由美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/e4843f6e-3df9-4aa1-b730-14ed4bdc04cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=安野由美"
+    },
+    {
+      "name": "矢口東子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=矢口東子"
+    },
+    {
+      "name": "小原よしえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=小原よしえ"
+    },
+    {
+      "name": "浦野明美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=浦野明美"
+    },
+    {
+      "name": "如月丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=如月丽华"
+    },
+    {
+      "name": "立石ひな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=立石ひな"
+    },
+    {
+      "name": "藤田爱子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=藤田爱子"
+    },
+    {
+      "name": "峰岸洋子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=峰岸洋子"
+    },
+    {
+      "name": "福浦那绪美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61358&name=福浦那绪美"
+    }
+  ]
+};

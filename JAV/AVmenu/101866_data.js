@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240428/gVOKSIj8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101866,
+  "IDcode": "FLAV-305",
+  "title": "HYPER FETISH ハイレグいやらしクィーン 姫咲はな",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "DIGITALARK",
+  "genres": [
+    "屁股",
+    "连裤袜",
+    "恋乳癖",
+    "赛车女郎",
+    "紧身衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101866",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101866&name=姫咲華"
+    }
+  ]
+};

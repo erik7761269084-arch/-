@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240319/r2DsWuw6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91132,
+  "IDcode": "JIM-014",
+  "title": "暴走する熟女の性欲（JIM-014）",
+  "publish_date": "2023-08-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "荡妇",
+    "口交",
+    "舔阴",
+    "和服，丧服",
+    "老板娘，女主人",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91132",
+  "actresses": []
+};

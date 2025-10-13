@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0bf90057-8ad4-45f9-8ee4-0080b2bea141/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 261,
+  "IDcode": "HEYZO-0278",
+  "title": "HEYZO流 微美乳敏感度大檢測 ~ 木下あげは",
+  "publish_date": "2013-03-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "大奶头",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0278为HEYZO出品,2013年3月27日发行的無碼成人影片由木下あげは出演\n今天要對蘿莉臉的木下あげは進行一場敏感度大檢測！她笑呵呵地說：「最愛一邊被玩弄乳頭一邊被插進去啦～」聽完這話，馬上讓她脫下衣服檢查，乳頭早就硬到不行，敏感度根本爆棚！她還說被盯著看會更興奮，手指一玩弄下面，咕嘰咕嘰的水聲就響不停，黏稠稠的愛液直接從下面溢出來，敏感得一塌糊塗！再用電棒一陣猛刺激，直接讓她高潮到不行，自己忍不住扭腰，上下都超敏感，簡直太讚了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071153593593_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250513/20250513071153593593_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=261",
+  "actresses": [
+    {
+      "name": "木下あげは",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250513/b90e8fa0-45a6-4f73-826f-3d0c6d9e8c6e_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=261&name=木下あげは"
+    }
+  ]
+};

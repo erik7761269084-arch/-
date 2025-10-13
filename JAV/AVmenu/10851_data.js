@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/697d5dff-0fd3-4075-a3c2-09fc40ba858f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10851,
+  "IDcode": "NACR-872",
+  "title": "全身塗滿油後的狂熱做愛 ~ 藤沢麗央",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "重口味",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "情趣內衣",
+    "巨乳",
+    "猥褻穿著",
+    "抹油",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241105/069fa240-9406-42da-b91b-fbabab4aec87.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241105/069fa240-9406-42da-b91b-fbabab4aec87.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10851",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10851&name=藤沢麗央"
+    }
+  ]
+};

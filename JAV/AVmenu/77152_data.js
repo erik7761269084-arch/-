@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/6A74S06e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77152,
+  "IDcode": "MXBD-205",
+  "title": "アンドロイド明歩 ～Adult電影美女～ 吉沢明歩 in HD（ブルーレイディスク）",
+  "publish_date": "2015-02-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "其他恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77152",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77152&name=吉沢明歩"
+    }
+  ]
+};

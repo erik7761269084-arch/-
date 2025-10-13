@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240329/RZwlDQ7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101590,
+  "IDcode": "LUXU-1343",
+  "title": "ラグジュTV 1315 スラリとした高身長モデルスタイルの人妻が緊張の面持ちでAV出演！男の温もりを忘れた寂しさとセックスレスで欲求不満となった淫熟ボディ…久しぶりに受け入れた巨根の刺激に恍惚の表情を浮かべ乱れる！",
+  "publish_date": "2020-10-19",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "颜射",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101590",
+  "actresses": []
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/06acf2ae-c079-4cb1-a063-3920f54773ab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 262,
+  "IDcode": "HEYZO-0292",
+  "title": "風騷熟女房產仲介的濕身開放日 ~ 神谷戀",
+  "publish_date": "2013-04-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "房產中介",
+    "潮吹",
+    "制服",
+    "口交",
+    "看房",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "混血",
+    "金髮",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "野性",
+    "羞恥"
+  ],
+  "description": "HEYZO-0292为HEYZO出品,2013年4月14日发行的無碼成人影片由神谷恋出演\n身材火爆、笑容迷人，熟到剛好的美熟女神谷戀又來啦！這次她在開放日的房產展示中，被客戶拿合約誘惑，半推半就地就把身體奉上了。一開始還有點不情願，但架不住客戶的挑逗，敏感的小穴很快就濕得一塌糊塗，被玩弄得汁水直流，騷氣爆棚。濕透的小穴被大肉棒狠狠插入，簡直停不下來的狂幹，性感的呻吟聲在房間裡迴盪，真的讓人血脈賁張！開放日連小穴都一起開放，這服務也太貼心了吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506080100192192_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250506/20250506080100192192_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=262",
+  "actresses": [
+    {
+      "name": "神谷恋",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250506/6939d479-e6b0-4933-b0b4-273a14292efc_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=262&name=神谷恋"
+    }
+  ]
+};

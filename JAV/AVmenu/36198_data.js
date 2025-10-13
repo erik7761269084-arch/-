@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/E05D84A42493476A/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36198,
+  "IDcode": "FBF952C30CD856A6E26D913F39783F-68",
+  "title": "带音乐进行曲的房间内操着美女小娇妻真的太爽了",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36198",
+  "actresses": []
+};

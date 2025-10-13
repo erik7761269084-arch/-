@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/682d2181/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61182,
+  "IDcode": "EMBZ-329",
+  "title": "熟れた女の熟れた敏感デカ乳首 フル勃起したボテ乳首を吸う、噛む、舐める、弄びイカす 4 御子柴美花",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "羞耻",
+    "恋物癖",
+    "恋乳癖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61182",
+  "actresses": [
+    {
+      "name": "御子柴美花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61182&name=御子柴美花"
+    }
+  ]
+};

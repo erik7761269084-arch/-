@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/37480FBE149D9B25/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99195,
+  "IDcode": "HKD-008",
+  "title": "あの頃、制服美少女と。 泉りおん",
+  "publish_date": "2019-10-04",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "口交",
+    "手指插入",
+    "水手服",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/24hkd008/24hkd008pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99195",
+  "actresses": [
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99195&name=泉莉音"
+    }
+  ]
+};

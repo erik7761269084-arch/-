@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d754649d-8134-4382-b53f-c41c6222eaf9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17861,
+  "IDcode": "BBAN-452",
+  "title": "我愛了那麼久的人只有你 ~ 女同溫泉之旅",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "無做愛場面",
+    "和服・浴衣・喪服",
+    "美乳",
+    "女同性戀",
+    "淫語",
+    "女性向"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231113/4f8e64b3-26e1-4e19-8e7a-3a5886066090.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231113/4f8e64b3-26e1-4e19-8e7a-3a5886066090.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17861",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17861&name=沙月惠奈"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17861&name=大槻响"
+    }
+  ]
+};

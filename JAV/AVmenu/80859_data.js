@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/LMhguac6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80859,
+  "IDcode": "FCP-078",
+  "title": "【配信専用】貴方のチ○ポも必ず抜かれる…！美少女手コキ！&lt;&gt; 6",
+  "publish_date": "2022-03-17",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "手淫",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80859",
+  "actresses": [
+    {
+      "name": "永泽ゆきの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80859&name=永泽ゆきの"
+    }
+  ]
+};

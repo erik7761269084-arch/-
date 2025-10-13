@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/06/2c8140b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81273,
+  "IDcode": "MLW-2159",
+  "title": "巨乳美脚キャリアの逆セクハラ～部長はセックスモンスター 藤下梨花",
+  "publish_date": "2016-10-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "自慰",
+    "荡妇",
+    "口交",
+    "恋腿癖",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220913-1/e63aa23ef4f2e68118c9f80080feb635.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81273",
+  "actresses": [
+    {
+      "name": "藤下梨花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81273&name=藤下梨花"
+    }
+  ]
+};

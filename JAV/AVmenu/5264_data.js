@@ -1,0 +1,95 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1ed0d5aa-d009-4aeb-aa7c-2c07678369fd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5264,
+  "IDcode": "HOIZ-165",
+  "title": "素人Tower (5)：與極品美女的狂野之夜個撮 自宅・素人・美少女・お姉さん・美乳・顔射・潮吹き・黒髪・変態・色白・肉體美 ~ 夢莉梨花 葉月まゆ 柊有希 桃咲乃亞",
+  "publish_date": "2025-06-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "臀控",
+    "偶像",
+    "色白",
+    "健身教練",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "素人",
+    "刺青紋身",
+    "口交",
+    "自宅",
+    "白眼失神",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "拜金女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "放尿",
+    "紀錄片",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HOIZ-165为妄想族出品,2025年6月14日发行的有碼成人影片由柊有希，桃咲乃亞，葉月まゆ，夢莉梨花出演\n嘿，兄弟們，晚上好！歡迎來到素人塔樓，這裡有你想要的一切刺激！俗話說，錢能買到愛，雖然愛不生錢，但錢能換來尊重，尊重最後也能變成愛——某大佬的第三任夫人如是說。所以，掏點小錢就能get到頂級正妹的私密自拍影片，超值！ #YUUHI (25歲) #設計師 #刺青辣妹 #變態屬性 #超M體質 #潮吹狂魔 刺青加持，性感爆棚的短髮小妖精，床上潮吹到失控，簡直是個小變態！ #momono (21歲) #大學生 #混血氣質 #純情少女 #害羞屬性 #天然呆 像是西洋畫裡走出來的高級風俗妹，害羞歸害羞，床上本能爆發，超帶感！ #HAZU (25歲) #健身教練 #烈酒屬性 #完美身材 #肉體誘惑 身材緊緻到爆的冷豔美女，平時超有親和力，到了高潮卻半哭半叫，反差萌max！ #limeca (21歲) #大學生 #偶像級顏值 #重口性癖 #M屬性爆棚 #潮吹不停 顏值天花板，性癖超硬核！這麼美的臉蛋，竟然能在失禁中瘋狂高潮，絕了！ 兄弟們，我隨時等著你們釋放激情哦，掰掰！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617091129747747_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250617/20250617091129747747_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5264",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5264&name=柊有希"
+    },
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5264&name=夢莉梨花"
+    },
+    {
+      "name": "葉月まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/0a488baa-554a-49f8-8f8f-4106c1fe91f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5264&name=葉月まゆ"
+    },
+    {
+      "name": "桃咲乃亞",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/a8837d4d-d943-489f-920f-0b7cf868a285.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5264&name=桃咲乃亞"
+    }
+  ]
+};

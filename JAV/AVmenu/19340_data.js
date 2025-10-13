@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8929c6b-00a4-4fc0-897e-8f66fe5e4657/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/07/88487883/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19340,
+  "IDcode": "IPX-107",
+  "title": "女優突擊詭異風俗店！ 希崎潔希卡",
+  "publish_date": "2018-03-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "亂交 • 群P",
+    "風俗夜場",
+    "風俗娘",
+    "數位馬賽克",
+    "偷窺",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528220919692692.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230528/20230528220919692692.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19340",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19340&name=希崎潔西卡"
+    }
+  ]
+};

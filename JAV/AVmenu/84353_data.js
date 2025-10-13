@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230108/EawxoAW9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84353,
+  "IDcode": "DLDSS-102",
+  "title": "玄関先誘惑で若い来訪者たちの絶倫チ○ポを貪り尽くす欲求不満妻の日替わり連射不倫 穂高結花 パンティと写真付き",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/09201c8d78d99f72b160d5c38d2fccf6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84353",
+  "actresses": []
+};

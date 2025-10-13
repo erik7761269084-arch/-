@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f2a32e8-1cec-4502-a8ff-a39334de6820/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/3f76be4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6464,
+  "IDcode": "ADN-694",
+  "title": "曾超合拍的前女友過上了豪門生活，被我用偷拍視頻威脅，逼她來給我操，直到懷上我的種爲止 ~ 白峯美羽",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "前女友",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "巨乳",
+    "美人"
+  ],
+  "description": "ADN-694为ATTACKERS出品,2025年5月2日发行的有碼成人影片由白峰美羽出演\n當初看不慣不務正業的男友，果斷跟他說了拜拜。兩年過去，我遇到了現在的富豪老公，日子過得甜蜜又滋潤。但可惜的是，怎麼都懷不上寶寶，身體的契合度也總是差那麼一點。偶爾還是會想起那個唯一合拍的前男友，雖然其他方面爛透了，但那方面的默契真的是頂級。本以為這輩子不會再見面，沒想到命運偏偏安排了一場突如其來的重逢，簡直讓人又心動又害怕啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043001942942_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043001942942_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6464",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6464&name=白峰美羽"
+    }
+  ]
+};

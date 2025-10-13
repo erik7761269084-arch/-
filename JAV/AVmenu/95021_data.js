@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/539b3240/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95021,
+  "IDcode": "PRED-197",
+  "title": "イメビアイドルNTR～芸能人志望の彼女とスケベ制作会社の浮気中出し映像～ 琴音ちゃん",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "偶像",
+    "苗条",
+    "口交",
+    "角色扮演者",
+    "白天出轨",
+    "过膝袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95021",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95021&name=蓝井优太"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95021&name=冬爱琴音"
+    }
+  ]
+};

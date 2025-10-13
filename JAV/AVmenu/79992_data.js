@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/Zfwc8cGh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79992,
+  "IDcode": "MXGS-1210",
+  "title": "限界突破！媚薬で引き出す最高潮キメセクFUCK 枢木あおい",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "中出",
+    "玩具",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8c6b9854ece2aa5a6a88ea7af045ec59.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79992",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79992&name=枢木葵"
+    }
+  ]
+};

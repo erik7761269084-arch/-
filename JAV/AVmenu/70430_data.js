@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/53b276ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70430,
+  "IDcode": "UMSO-589",
+  "title": "無駄なものなど何もない！スリムボディの美女に中出し！厳選9人VOL.02",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70430",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70430&name=竹田夢"
+    },
+    {
+      "name": "竹内夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/8a26c5ab-4c31-4e32-9aca-af032d4e4e73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70430&name=竹内夏希"
+    },
+    {
+      "name": "堀内美香",
+      "img_url": "https://picture.yoshiclub.xyz/20241107/032c2195-c558-4806-a43c-9252cb184e6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70430&name=堀内美香"
+    },
+    {
+      "name": "瀨名光",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/e5cff8c8-6ae1-4d54-8726-77c0da8c78e4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70430&name=瀨名光"
+    }
+  ]
+};

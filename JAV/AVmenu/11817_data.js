@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9ebf02c9-bf0e-49f4-b5ae-0738f0aa6c51/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11817,
+  "IDcode": "AARM-252",
+  "title": "認證口交少女 ~ 美澄玲衣",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "劇情",
+    "吞精",
+    "按摩女郎",
+    "深喉",
+    "按摩・物理治療・美容",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "癡女",
+    "獵豔",
+    "眼鏡",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919063157344344.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919063157344344.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11817",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11817&name=美澄玲衣"
+    }
+  ]
+};

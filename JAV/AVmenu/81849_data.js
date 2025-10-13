@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/mHtVkFc2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81849,
+  "IDcode": "NASH-206",
+  "title": "【胸糞注意】NTR 寝取られた嫁「あなた、ごめんなさい…」 夫の知らない所で他人に抱かれた人妻4人の物語",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81849",
+  "actresses": [
+    {
+      "name": "高城彩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81849&name=高城彩"
+    },
+    {
+      "name": "高木千里",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/aad3734ea03dceb8a9deefa4568e1c2a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81849&name=高木千里"
+    },
+    {
+      "name": "二ノ宫庆子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81849&name=二ノ宫庆子"
+    },
+    {
+      "name": "福田凉子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81849&name=福田凉子"
+    }
+  ]
+};

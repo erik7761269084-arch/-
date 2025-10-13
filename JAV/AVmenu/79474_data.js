@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/tYDqIxgO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79474,
+  "IDcode": "HMN-042",
+  "title": "美肌コンテストグランプリ 肌年齢3才少女は、マ○コもぴちぴち！ 天然柔肌童顔少女 はじめてのナマ中出し 八神未来",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "颜射",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79474",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79474&name=鲛岛"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79474&name=Qべぇ"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/6pDtTQCz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81193,
+  "IDcode": "PPPE-017",
+  "title": "おっぱい丸出し痴女ハーレム！ 小悪魔W逆バニー性感エステ チ○ポがバカになるまで2度ヌキ中出し！ 朝倉ここな 百永さりな",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "美容院",
+    "兔女郎",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81193",
+  "actresses": [
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81193&name=黑川纱里奈"
+    }
+  ]
+};

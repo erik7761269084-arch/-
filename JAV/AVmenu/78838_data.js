@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/VX3VWY8W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78838,
+  "IDcode": "TIKF-040",
+  "title": "【生パコ天使】性欲処理の激カワ貧乳娘！愛液と精液まみれの濃厚セックス！",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "女生",
+    "口交",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/b300f67b0acbcdd3b4200af707e9b7fd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78838",
+  "actresses": []
+};

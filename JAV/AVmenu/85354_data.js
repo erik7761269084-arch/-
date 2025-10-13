@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/14/40bccdb8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85354,
+  "IDcode": "MIAA-608",
+  "title": "先生、喉フェラごっくんするのでわたしのことイジメから守ってくれませんか？学校にも家にも居場所がない、イジメられっこ制服少女の10発ごっくん 天馬ゆい",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "制服",
+    "口交",
+    "吞精",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85354",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85354&name=天馬唯"
+    }
+  ]
+};

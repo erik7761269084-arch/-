@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/28655ab6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72442,
+  "IDcode": "OFSD-005",
+  "title": "パンチラ＆おっぱいポロンてんこ盛り！くすぐりイキ我慢 街行くお嬢さん！ちょっとエッチなゲームにチャレンジして楽しくお小遣い稼ぎませんか？",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "跳蛋",
+    "姐姐",
+    "按摩",
+    "乳液",
+    "按摩棒",
+    "业余",
+    "女优按摩棒",
+    "恶作剧",
+    "猎艳",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72442",
+  "actresses": []
+};

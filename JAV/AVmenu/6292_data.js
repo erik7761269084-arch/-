@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d3003398-e60b-4aa6-ba8a-1c862922dbe8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/25/ab8177f8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6292,
+  "IDcode": "JUR-248",
+  "title": "30歲還是處男的小叔子太可憐，我心軟幫他實現願望，沒想到默契爆棚忍不住多次求愛內射 ~ 竹田夢",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "嫂嫂",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "羞恥",
+    "處男"
+  ],
+  "description": "JUR-248为MADONNA出品,2025年5月9日发行的有碼成人影片由竹田夢出演\n贵博这小伙子被公司炒了鱿鱼，还被赶出家门，只能暂时寄住在哥哥嫂嫂家。可是在哥嫂家，他完全没地位，每天被哥哥骂得狗血淋头，说他30岁了还是个处男，简直丢人现眼。贵博为了找回自信，竟然厚着脸皮求嫂嫂帮他破处！嫂嫂看他可怜，心一软就答应了，只说试一下下就好。谁知道刚进去的那一刻，双方都爽到不行，电流般的快感直冲脑门，之后根本停不下来，疯狂求欢内射，简直欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065931658658_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065931658658_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6292",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6292&name=竹田夢"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6292&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/da0fe23a-7847-45fb-95a5-f7c9bf01e612/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18191,
+  "IDcode": "MGMJ-064",
+  "title": "誰都無法阻止皆瀬あかり的黑絲美腳誘惑",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "黑絲",
+    "舔腳",
+    "無做愛場面",
+    "脚控・戀足癖",
+    "蕩婦",
+    "口交",
+    "打手槍",
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023231534418418.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231023/20231023231534418418.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18191",
+  "actresses": [
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18191&name=皆瀨明里"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/Rw9HwqGX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84501,
+  "IDcode": "GVH-378",
+  "title": "義父と嫁、密着中出し交尾 羽咲美亜",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230110-1/41c79ef7527d57c7524adb11e185923a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84501",
+  "actresses": [
+    {
+      "name": "羽咲美亜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84501&name=羽咲美亜"
+    }
+  ]
+};

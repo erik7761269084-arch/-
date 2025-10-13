@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/vv8ts0HQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81907,
+  "IDcode": "NSSTH-039",
+  "title": "人妻 あやか まじめな人妻のセカンドバージン 武藤あやか",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/f9f1ee21c6886040ab3be219fdf799de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81907",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81907&name=武藤彩香"
+    }
+  ]
+};

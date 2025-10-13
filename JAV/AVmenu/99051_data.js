@@ -1,0 +1,29 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99051,
+  "IDcode": "DFDM-014-",
+  "title": "中年オヤジの粘着ベロちゅうで舐め堕ちする制服美少女 琴音芽衣",
+  "publish_date": "2019-11-29",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "玩具",
+    "制服",
+    "舔阴",
+    "拘束",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99051",
+  "actresses": [
+    {
+      "name": "琴音芽衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99051&name=琴音芽衣"
+    }
+  ]
+};

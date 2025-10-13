@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221013/B54B2B96D3F684C8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57034,
+  "IDcode": "D10ACCCB3F68DB8982AF6B5F8F7770BE",
+  "title": "韩国BJ女主播潮吹性玩具，口活好",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57034",
+  "actresses": []
+};

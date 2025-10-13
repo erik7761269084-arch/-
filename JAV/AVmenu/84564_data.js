@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/3d7ed8af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84564,
+  "IDcode": "HMN-086",
+  "title": "僕だけが知っている女上司の裏顔。もの凄いジュポフェラで竿がバカになるまで焦らされ続けたデート後の猛烈なベロキス中出し あれから200日後 人事部:主任 由美香さん 佐伯由美香",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84564",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84564&name=佐伯由美香"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84564&name=タイ"
+    }
+  ]
+};

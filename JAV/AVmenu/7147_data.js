@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/13/cd302260/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7147,
+  "IDcode": "WSA-001",
+  "title": "胎尼出道！超火台灣新人 世界的美少女 AV Debut ~ 胎尼",
+  "publish_date": "2025-04-05",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "傲嬌",
+    "偶像",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "出道作品",
+    "國產女優",
+    "台灣女優",
+    "癡女",
+    "巨乳",
+    "中日合作",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250329/b3c64550-15ad-4460-ba1e-bb3310c4e607.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250329/b3c64550-15ad-4460-ba1e-bb3310c4e607.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7147",
+  "actresses": [
+    {
+      "name": "胎尼",
+      "img_url": "https://picture.yoshiclub.xyz/20250329/780b9b19-d378-4622-8d0f-020bf745485e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7147&name=胎尼"
+    },
+    {
+      "name": "東雲怜弥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7147&name=東雲怜弥"
+    }
+  ]
+};

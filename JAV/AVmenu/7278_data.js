@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/094c4e2d-1811-4a8d-ad1e-6aa9df98dc4a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/1f49c17c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7278,
+  "IDcode": "FSDSS-996",
+  "title": "被人強奸後，沒想到救我的男人也是個渣。被肉棒調教到成爲順從肉便器 ~ 善場麻美",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "調教",
+    "酒後亂性",
+    "深喉",
+    "流汗",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "肉絲",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "拜金女",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "綠茶婊",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250325/20250325004836433433.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250325/20250325004836433433.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7278",
+  "actresses": [
+    {
+      "name": "善場麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/5cb58970-bd57-4357-b110-785c7b31c6e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7278&name=善場麻美"
+    }
+  ]
+};

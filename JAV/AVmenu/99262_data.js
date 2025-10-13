@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230129/AA979FD5B91BA676/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99262,
+  "IDcode": "VRTM-465",
+  "title": "媚薬と睡眠薬を同時混入！スクール水着姿で眠るデカ尻娘を全身拘束させひたすらオモチャ責め！覚醒したカラダは父に激ピストンされエビ反りしっぱなし！3",
+  "publish_date": "2019-11-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "玩具",
+    "乱伦",
+    "屁股",
+    "按摩棒",
+    "企画",
+    "女优按摩棒",
+    "拘束",
+    "学校泳装",
+    "巨大屁股",
+    "药物",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_910vrtm465/h_910vrtm465pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99262",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99262&name=枢木葵"
+    },
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99262&name=胡桃圓"
+    }
+  ]
+};

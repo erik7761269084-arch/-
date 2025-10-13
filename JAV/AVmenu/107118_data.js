@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/13/896f0c16/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107118,
+  "IDcode": "MIDV-467",
+  "title": "潮・汗・涎 美白Gカップ激ピストン全身体液噴出アクメ 月雲よる",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "颜射",
+    "潮吹",
+    "流汗",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107118",
+  "actresses": [
+    {
+      "name": "月雲夜",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/dfaef203-ad5b-446e-9ed2-a988cae22fb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107118&name=月雲夜"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107118&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/lWwiO9zo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89948,
+  "IDcode": "SAN-170",
+  "title": "【FANZA限定】遊び半分で妻をベットした夫は寝取られに目覚め全てを失い、ベットされた純愛妻は夫を裏切り他人チ〇ポにのめり込む / 仲川そら パンティとチェキ付き",
+  "publish_date": "2023-09-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/8c66d42615cfd1bdb93c56420730e940.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89948",
+  "actresses": [
+    {
+      "name": "仲川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/eb7ce03b-4a45-43d1-a940-82529277e5d2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89948&name=仲川空"
+    }
+  ]
+};

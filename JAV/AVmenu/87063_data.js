@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/z4NAQibI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87063,
+  "IDcode": "ONEZ-366",
+  "title": "※注意※お下品ドスケベ娘 ヤリマントーーーク！パリピちゃん性欲強すぎ問題大調査！バズりまくって大人気！過激すぎるヤリマンGAL切り抜きまとめ動画Vol.001",
+  "publish_date": "2023-06-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "荡妇",
+    "女生",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87063",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87063&name=藤森里穂"
+    },
+    {
+      "name": "樱美雪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87063&name=樱美雪"
+    },
+    {
+      "name": "冴木エリカ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87063&name=冴木エリカ"
+    }
+  ]
+};

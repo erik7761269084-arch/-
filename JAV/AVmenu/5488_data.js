@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c05290b-5d9a-4cb8-a412-0ec1c06a4a9e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/24/8975b074/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5488,
+  "IDcode": "REAL-917",
+  "title": "看上去對性沒什麼樂趣的知性美少女爲了肉棒拋棄友情的雙女媚藥調教 ~ 藤田柚 皆月光",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "調教",
+    "流汗",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "小隻馬",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "手指插入",
+    "兩女一男",
+    "美人",
+    "淫蕩・硬核",
+    "眼鏡",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "REAL-917为K.M.P出品,2025年6月7日发行的有碼成人影片由皆月光，藤田柚出演\n兩個美少女之間的深厚友情，在媚藥帶來的極致快感面前瞬間崩塌！被非法媚藥強迫高潮，腦子明明知道不對卻完全無法抗拒這惡魔般的藥物！身體被媚藥改造後，只知道瘋狂渴求肉棒，理性和思維徹底淪陷，而這一切的背後，那個男人露出詭異的微笑，欣賞著她們墮落的模樣，簡直爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013857661661_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013857661661_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5488",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5488&name=皆月光"
+    },
+    {
+      "name": "藤田柚",
+      "img_url": "https://picture.yoshiclub.xyz/20250126/b0588496-81df-40ba-b9a1-cd29615c489d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5488&name=藤田柚"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5488&name=ラヴズ"
+    }
+  ]
+};

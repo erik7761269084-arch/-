@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 78775,
+  "IDcode": "3499_MBKD-016",
+  "title": "激安！100円でもヌケる 母子交尾 朝桐光",
+  "publish_date": "",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78775",
+  "actresses": []
+};

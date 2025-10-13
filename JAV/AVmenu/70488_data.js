@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/e90a5fc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70488,
+  "IDcode": "FNS-003",
+  "title": "新人 1億人のヒロイン 浜辺やよい 20歳 Avdebut 生写真5枚付き",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "苗条",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/e90a5fc4/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70488",
+  "actresses": [
+    {
+      "name": "濱邊彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/c69882cf-89fa-4d14-80ac-43c43c0cdfd6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70488&name=濱邊彌生"
+    }
+  ]
+};

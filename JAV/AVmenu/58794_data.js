@@ -1,0 +1,32 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58794,
+  "IDcode": "HEYZO2118",
+  "title": "藤嶋直おしゃぶり大好き痴女のごっくん精饮三昧",
+  "publish_date": "2019-10-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "女教师",
+    "69",
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "潮吹",
+    "3P",
+    "骑乘位",
+    "口爆/吞精",
+    "痴女与M男",
+    "颜面骑乘",
+    "熟女",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58794",
+  "actresses": []
+};

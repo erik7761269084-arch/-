@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/28/3ec392c2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71915,
+  "IDcode": "LULU-364",
+  "title": "素行不良でウチに預けられた地雷系デカ尻姪っ子がト●横界隈で立ちんぼしたがるのでアヘ顔潮射反省イキするまでデカチン中出し説教ピストンした。 皆月ひかる",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "潮吹",
+    "巨大阴茎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71915",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71915&name=皆月光"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71915&name=ひょこり"
+    }
+  ]
+};

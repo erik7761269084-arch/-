@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/8rpMm9EY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89576,
+  "IDcode": "SCOP-813",
+  "title": "セクキャバ嬢と生本番 極限イチャイチャタイム 240分BEST",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "乳房",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89576",
+  "actresses": []
+};

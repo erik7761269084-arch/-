@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/BHBQuylk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79856,
+  "IDcode": "NKKD-227",
+  "title": "夫婦念願の田舎暮らし…だがそこで農業従事者様のデカチンをめりめり挿れられてめろめろにされた妻 谷あづさ",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "淫乱，真实",
+    "巨大阴茎",
+    "白天出轨",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79856",
+  "actresses": [
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79856&name=谷梓"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/15/f1ba4248/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73981,
+  "IDcode": "NHDTC-2704",
+  "title": "巨乳少女羞恥電車2 発育した胸を変態性癖で汚しまくれ！ 推定Hカップ 喉奥イラマ屈服娘",
+  "publish_date": "2025-01-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "羞耻",
+    "深喉",
+    "魔鬼系",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73981",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/58323638/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35515,
+  "IDcode": "CWPBD-20",
+  "title": "猫步毒药-愛菜りな",
+  "publish_date": "2025-07-20",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35515",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29423289-2fb4-44a4-b730-0f8a0d1d1714/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16951,
+  "IDcode": "JUFE-543",
+  "title": "把積攢的精液和煩惱都射了吧！大奶子電臺DJ的淫蕩聲音",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "ASMR顱内高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "淫語",
+    "DJ",
+    "情趣內衣",
+    "巨乳"
+  ],
+  "description": "JUFE-543为FITCH出品,2024年1月2日发行的有碼成人影片由新村朱里出演\n天才Bebop導演稔歸來第二部2.0是說髒話的蕩婦AV！大奶子的電臺DJ會把你所有的煩惱和精液都傾訴出來！ “大家好。新村朱裏的四子時間到了。現在，讓我向您介紹第一封淫穢的信。現在，戴上耳機，和我一起看看髒話AV的世界吧。 ” 壓倒性的視覺美感、ASMR、猥褻語言、主觀發揮、巨乳蕩婦！歡迎來到猥褻聲音的世界！\n天才Bebop導演稔歸來第二部2.0是說髒話的蕩婦AV！大奶子的電臺DJ會把你所有的煩惱和精液都傾訴出來！ “大家好。新村朱裏的四子時間到了。現在，讓我向您介紹第一封淫穢的信。現在，戴上耳機，和我一起看看髒話AV的世界吧。 ” 壓倒性的視覺美感、ASMR、猥褻語言、主觀發揮、巨乳蕩婦！歡迎來到猥褻聲音的世界！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060448747747.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240102/20240102060448747747.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16951",
+  "actresses": [
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16951&name=新村朱里"
+    }
+  ]
+};

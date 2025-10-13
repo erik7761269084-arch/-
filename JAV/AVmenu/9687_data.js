@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6d55d715-af32-42fb-8f7f-7b2d8d9df868/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9687,
+  "IDcode": "EKDV-762",
+  "title": "和SNS社羣軟體上認識的黑發美少女在情趣酒店的初次約炮...她是一個比我想象中的更淫蕩癡女,不斷的要求我操 ~ 水端麻美",
+  "publish_date": "2024-12-25",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "苗條",
+    "劇情",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "舔陰",
+    "接吻",
+    "手指插入",
+    "按摩棒",
+    "約炮",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241222/4273449b-3090-4c4e-a8b3-bed57c13ac46.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241222/4273449b-3090-4c4e-a8b3-bed57c13ac46.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9687",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9687&name=水端麻美"
+    }
+  ]
+};

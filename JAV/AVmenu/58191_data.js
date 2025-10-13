@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58191,
+  "IDcode": "071623_001",
+  "title": "SEXパーソナルトレーナー",
+  "publish_date": "2023-07-16",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "女同性恋",
+    "最新影片",
+    "写真",
+    "正在上映",
+    "69",
+    "玩具",
+    "立即口交",
+    "跳",
+    "口交",
+    "巨乳爆乳",
+    "美少女",
+    "美乳",
+    "白虎",
+    "美脚",
+    "漂亮屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58191",
+  "actresses": []
+};

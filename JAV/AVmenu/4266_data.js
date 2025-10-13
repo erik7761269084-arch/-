@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14d3ebdc-cf5e-4826-929c-5d9cc8484767/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/92e6a316/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4266,
+  "IDcode": "REAL-925",
+  "title": "絕美素人妹子被強制玩弄 害羞美少女如今被顏射滿臉 ~ 泉莉音",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "尾行",
+    "二次元",
+    "校花",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "監禁",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "口爆",
+    "貧乳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "鬼畜片",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "REAL-925为K.M.P出品,2025年7月19日发行的有碼成人影片由泉莉音出演\n我一直在背後默默支持她，連她的小臉蛋都沒碰過，更別說上床了。但她卻被逼到崩潰，哭著喊著想逃，卻無路可走。嬌嫩的臉蛋被濃稠的精華糊滿，像是白色的暴雨一次次傾瀉而下。她的私處被無情侵犯，肉棒肆虐不停，濃烈的精華不斷噴射。最後，還要被狠狠抹滿整張臉，羞辱又絕望，真的讓人看了心塞到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210425623623_12405_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210425623623_12405_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4266",
+  "actresses": [
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4266&name=泉莉音"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4266&name=いち"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4266&name=七尾神"
+    }
+  ]
+};

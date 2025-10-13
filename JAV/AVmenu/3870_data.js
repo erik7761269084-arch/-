@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fad089c3-0bf2-4274-be99-85849dac0833/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/878ce996/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3870,
+  "IDcode": "NACR-992",
+  "title": "陌生辣妹姊姊莫名其妙住進我家啦 ~ AIKA",
+  "publish_date": "2025-08-04",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "明星臉",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "無毛",
+    "肌肉"
+  ],
+  "description": "NACR-992为PLANETPLUS出品,2025年8月4日发行的有碼成人影片由AIKA出演\n早上醒来，床上居然躺着一个不认识的辣妹姐姐！？这个肆无忌惮的ギャルAIKA把我生活搅得天翻地覆，但不知不觉我竟然习惯了和她同居的日子。慢慢地，我发现没有AIKA的生活根本无法想象，彻底被她迷得神魂颠倒，每天都心痒痒想和她更进一步！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101538376376_89714_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101538376376_89714_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3870",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3870&name=AIKA"
+    }
+  ]
+};

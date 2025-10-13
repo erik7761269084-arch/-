@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e9541a4-8c3d-4997-89ce-c8ef8deacf61/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/14/ee286516/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10634,
+  "IDcode": "FPRE-118",
+  "title": "中出性愛與令人窒息的吻。豐滿的人妻祕書在充滿欲望的社長辦公室被寢取 ~ 佐野由真",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "女秘書",
+    "美腳",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "高跟鞋",
+    "手指插入",
+    "足交",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "FPRE-118为FITCH出品,2024年11月19日发行的有碼成人影片由佐野由真出演\n尤瑪是一位妻子，嫁給了一位年輕的丈夫，這位年輕的丈夫在她還是模特兒時擔任她的經紀人。兩人離開娛樂圈，丈夫創業。雖然家境貧寒，但她們滿懷希望開始了幸福的生活，但丈夫的生意並不穩定，她在模特期間曾多次工作過的一家應用遊戲公司的總裁找到她，談了一份贊助合同。被要求擔任短期秘書。社長的目標從一開始就是遊馬的身體…在慾望漩渦的總裁辦公室重複強制中出高潮的美腿人妻秘書！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114105448242242.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114105448242242.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10634",
+  "actresses": [
+    {
+      "name": "佐野由真",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250424/ea7f51fd-67ed-4856-992f-5a044ee511c9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10634&name=佐野由真"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10634&name=小田切ジュン"
+    }
+  ]
+};

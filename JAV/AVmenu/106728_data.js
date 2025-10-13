@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/12/87134f46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106728,
+  "IDcode": "AARM-052",
+  "title": "ノーパン痴首いじり",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "M男",
+    "恋腿癖",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106728",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=有村希"
+    },
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=岬梓沙"
+    },
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=赤瀬尚子"
+    },
+    {
+      "name": "上野真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/146a092b-f942-44ea-b487-b6cf853070ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=上野真奈美"
+    },
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=南真悠"
+    },
+    {
+      "name": "野々宫兰",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=野々宫兰"
+    },
+    {
+      "name": "菊池リナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106728&name=菊池リナ"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/Ekrze2hm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87104,
+  "IDcode": "NHDTB-79703",
+  "title": "生中痴●集団6 女子○生SP バイブとチ○ポを挿入されっぱなしでヤられ続けたJ○",
+  "publish_date": "2023-05-22",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "制服",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87104",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/PtroUK7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93404,
+  "IDcode": "NEWM-081",
+  "title": "真・異常性交 四十路母と子 其の参拾四 枯れた夫の代わりにマ○コを満たしてくれた息子棒 山本かをり",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "乱伦",
+    "母亲",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/434dfe71546b172c78811720e52a5bf7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93404",
+  "actresses": [
+    {
+      "name": "山本かをり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250922/7dc2ba11-81c2-4dcb-aece-5111e6a870c8_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93404&name=山本かをり"
+    }
+  ]
+};

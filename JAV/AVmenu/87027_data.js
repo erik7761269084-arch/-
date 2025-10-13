@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/MX5HfL99/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87027,
+  "IDcode": "ONEZ-368",
+  "title": "「縛られると…感じちゃう…」●教されたがる緊●制服美少女 01",
+  "publish_date": "2023-06-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "捆绑",
+    "制服",
+    "妹妹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87027",
+  "actresses": [
+    {
+      "name": "小高里保",
+      "img_url": "https://picture.yoshiclub.xyz/20240327/9f1861d3-0b86-418b-84e0-f55d2fc78b87.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87027&name=小高里保"
+    },
+    {
+      "name": "凉宫琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87027&name=凉宫琴音"
+    }
+  ]
+};

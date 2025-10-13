@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/25/4a123007/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71942,
+  "IDcode": "DVMM-212",
+  "title": "一般男女モニタリングAV 夫婦熱を再燃させる愛妻交換企画 初対面の夫婦同士がタオル一枚で相席混浴スワッピング！旦那の目の前で他人に抱かれて喘ぐ人妻たちのスケベ本性が剥き出し！お互いの旦那が嫉妬するほどイキ乱れる生ハメ連続射精セックス！",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71942",
+  "actresses": []
+};

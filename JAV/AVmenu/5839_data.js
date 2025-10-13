@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3c2f7ab-9586-4622-932c-28c60d6f2a28/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5839,
+  "IDcode": "ALDN-469",
+  "title": "心裡掙扎卻又渴望被綁縛的快感 ~ 田所百合",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "4K",
+    "凌辱",
+    "中出",
+    "四十路",
+    "拘束・拷問",
+    "女上位",
+    "顏射",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "唾液敷面",
+    "SM",
+    "緊縛",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "熟女",
+    "插入異物",
+    "豐滿",
+    "女優"
+  ],
+  "description": "ALDN-469为TAKARA出品,2025年5月24日发行的有碼成人影片由田所百合出演\n百合被老公的控制慾壓得喘不過氣，結婚8年，沒能有個孩子，但小倆口日子還算過得去。可幾年前老公在公司升職壓力爆棚，脾氣越來越怪，開始對百合各種限制，逼得她辭了工作，成了全職主婦。甚至連出門都不准，唯一能喘口氣的時間就是老公上班時偷溜出去。某天跟後輩吐槽家裡的事，後輩給她推薦了個神秘網站。百合雖然受不了老公的束縛，但又不想離婚，心裡憋得慌，只想找點刺激的玩法解解悶。後來她意外發現，最近好多女性都有被綁縛的隱秘慾望！在後輩的慫恿下，百合帶著點罪惡感和好奇心，踏進了這個未知的世界。沒想到，新的刺激讓她徹底釋放了壓抑已久的性感一面，被綁縛的快感讓她欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010951614614_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010951614614_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5839",
+  "actresses": [
+    {
+      "name": "田所百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/e68f208f-cd84-4490-b22c-00e740f313c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5839&name=田所百合"
+    }
+  ]
+};

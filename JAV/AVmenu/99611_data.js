@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99611,
+  "IDcode": "JUL-071_BPRECIOUSMADONNA",
+  "title": "トリプル専屬ゴージャス初共演！！プレシャスな美",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99611",
+  "actresses": []
+};

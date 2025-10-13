@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/82edf588-d185-4132-b686-7dc7bf032d48/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/d1679b86/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5321,
+  "IDcode": "PRST-022",
+  "title": "港區極品美女首次解禁無套中出 火辣身材挑逗慾望被濃精填滿 ~ 椎名七海",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "顏射",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "PRST-022为PREMIUM出品,2025年6月13日发行的有碼成人影片由椎名七海出演\n獨家首播！椎名七海人生頭一遭無套中出體驗，真的太猛了！這位港區頂級正妹，帶出門超有牌面，現在卻要被徹底灌滿！明明是危險日，還瘋狂中出，過去只玩安全套的她，第一次感受到生的快感，直接爽到崩潰！那完美身材抽搐著高潮連連，蝦背式反弓超勾人！穿著兔女郎裝騎乘榨精，濃精直接射滿美穴！還有陌生男人的超濃精液狂噴，甚至子宮都裝不下，精液逆流噴湧的輪番中出！玩玩的性愛早就過時，這次是認真的孕育中出，絕不手軟！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020372372_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020372372_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5321",
+  "actresses": [
+    {
+      "name": "椎名七海",
+      "img_url": "https://picture.yoshiclub.xyz/20250411/576e30ff-37a0-4e92-a09c-44ba87946cac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5321&name=椎名七海"
+    }
+  ]
+};

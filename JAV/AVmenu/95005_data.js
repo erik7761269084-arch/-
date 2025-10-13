@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/16/9065698c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95005,
+  "IDcode": "JUL-086",
+  "title": "新米専業主夫の僕が、隣の奥さんにエプロン姿のまま弄ばれて―。 大島優香",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95005",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/YcYXWvUu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83336,
+  "IDcode": "SHYN-078",
+  "title": "初撮り女子社員！「AVに興味がない」と言い張るクールな女子なのに本当はオナニーでめちゃくちゃお漏らししちゃうむっつりスケベでした！ SOD女子社員 総務部3年目 千葉多香子ちゃん",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "自慰",
+    "放尿",
+    "羞耻",
+    "首次亮相",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83336",
+  "actresses": [
+    {
+      "name": "东条りお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83336&name=东条りお"
+    }
+  ]
+};

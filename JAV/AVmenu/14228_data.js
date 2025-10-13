@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b26f40b-71cf-4d18-a597-3242293cb853/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14228,
+  "IDcode": "DSJH-002",
+  "title": "四位家政婦裸露的屁股被摩擦和猥褻",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "家政婦",
+    "性感",
+    "美腳",
+    "巨乳",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "DSJH-002为OFFICE K’S出品,2024年6月1日发行的有碼成人影片由渚光希，日乃詩織，NATSUKA出演\n家政婦の無防備な四つん這い尻揉みしだき痴●",
+  "cover_url": "https://picture.yoshiclub.xyz/20240603/953717a9-f24c-40e5-9cfe-8a6638793fda.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240603/953717a9-f24c-40e5-9cfe-8a6638793fda.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14228",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14228&name=渚光希"
+    },
+    {
+      "name": "日乃詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/428cd4c8-54ab-4877-b010-bd1f06cd2d1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14228&name=日乃詩織"
+    },
+    {
+      "name": "NATSUKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/41d19127-5a5f-4562-a555-cf4b70a3cc52.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14228&name=NATSUKA"
+    }
+  ]
+};

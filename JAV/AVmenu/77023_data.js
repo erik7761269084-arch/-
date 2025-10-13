@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/3Qqwuw8O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77023,
+  "IDcode": "PPPD-792",
+  "title": "新婚夫婦の夫から子種を搾り尽くす温泉旅館の巨乳女将 赤瀬尚子",
+  "publish_date": "2019-09-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "和服，丧服",
+    "老板娘，女主人",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77023",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77023&name=赤瀬尚子"
+    }
+  ]
+};

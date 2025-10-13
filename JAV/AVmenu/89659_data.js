@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/Q8iO5d30/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89659,
+  "IDcode": "SDAM-078",
+  "title": "部活終わりの女子校生に寝たフリして勃起チ○ポ見せつけたら二度見三度見され…潤んだ瞳で唾液たっぷり発情オシャブリ&amp;まんずりオナニーされた教育実習生のボク",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出",
+    "制服",
+    "泳装"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/913d48f34911075ec58f646f77551e46.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89659",
+  "actresses": []
+};

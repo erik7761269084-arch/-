@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8462862d-52c5-4be8-bfa2-0751a599d682/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241012/9U9qdfE0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14530,
+  "IDcode": "NHDTB-922",
+  "title": "地雷型女孩的中出猥褻者，粉碎她的高潮 ~ 皆月光",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "NATURAL HIGH",
+  "genres": [
+    "痴漢",
+    "劇情",
+    "變態",
+    "電車",
+    "美少女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "NHDTB-922为NATURAL HIGH出品,2024年5月1日发行的有碼成人影片由皆月光出演\n我對一個在城市裡閒逛的生病的可愛女孩感到好奇，所以我追她，當我在擁擠的火車上接觸她時，她很困惑，但我用強力的手指強迫她潮吹直到她崩潰！ 攻擊！她暴露了她的受虐臉並崩潰了！ 她的陰道深處被陰莖插入，她一次又一次地高潮，甚至她的女兒也變得超級依賴老男人！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522225423444444.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/20240522225423444444.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14530",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14530&name=皆月光"
+    }
+  ]
+};

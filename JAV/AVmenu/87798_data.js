@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230817/xLngd2xW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87798,
+  "IDcode": "PKPD-244",
+  "title": "完全プライベート映像 結婚したいAV女優NO.1の性格もSEXも良すぎる・若宮穂乃ちゃんと初めての二人きりお泊まり （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230817-1/f3422f08afc8ab38d72aa05711853a66.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87798",
+  "actresses": [
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87798&name=若宫穂乃"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230104/7Mf29Qj3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84072,
+  "IDcode": "BOBB-343",
+  "title": "性感開発乳腺オイルエステで感じちゃうIカップ Boin「有岡みう」Box2",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "乳液",
+    "恋乳癖",
+    "美容院",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84072",
+  "actresses": [
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84072&name=椎叶みくる"
+    }
+  ]
+};

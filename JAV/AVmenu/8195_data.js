@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/22fd26cc-11d0-4fbf-8061-adef45185145/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8195,
+  "IDcode": "DVMM-206",
+  "title": "男女監控AV 又騎又動狂射！！陸上部女大學生橫排十根巨屌連騎連射大挑戰！滿溢精液的高潮不停歇！！四人全中出…",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "業餘",
+    "傲嬌",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "運動",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "運動服裝",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "運動女孩",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "巨乳",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250217/2bb55d76-7fc0-4dfa-bef2-20e39d8b0e98.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250217/2bb55d76-7fc0-4dfa-bef2-20e39d8b0e98.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8195",
+  "actresses": [
+    {
+      "name": "木野野葉惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20240316/b6637edd-a100-49c5-b22a-eb8c2822f9c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8195&name=木野野葉惠里香"
+    },
+    {
+      "name": "西尾真里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/24bdd887-15ed-4728-9d5b-b7568e4807ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8195&name=西尾真里奈"
+    }
+  ]
+};

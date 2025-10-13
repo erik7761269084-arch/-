@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/afcaf0ed-56a6-4103-904a-9ca45b85826f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16772,
+  "IDcode": "JUFE-550",
+  "title": "老男人的奇聞趣事紀錄片 - 流汗的性交美食與豐富、粘稠的體液",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "濕身",
+    "劇情",
+    "中出",
+    "口交",
+    "應召・援交",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "美少女",
+    "巨乳"
+  ],
+  "description": "JUFE-550为FITCH出品,2024年1月23日发行的有碼成人影片由愛寶鈴出演\n我買了愛寶鈴，一個皮膚白皙、胖乎乎的巨乳J型女孩，我在找爸爸網站上找到了她，住了一晚，然後在家裏和她一起玩。透過透明制服，鈴被雨淋溼的性感身材讓人無法抗拒。她用懷疑的眼神看着我，可以理解爲蔑視。我不在乎，這樣我更興奮。骯髒的老頭，變態的老頭……越是這樣，他的欲望就越強烈。老鷹強行吸住了受驚的蘇祖。然後，正在反抗的蘇，開始發出甜蜜的嘆息聲……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113064759814814.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240113/20240113064759814814.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16772",
+  "actresses": [
+    {
+      "name": "愛寶鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/8a4b0db0-67d0-448f-9b65-6c444a9a499b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16772&name=愛寶鈴"
+    }
+  ]
+};

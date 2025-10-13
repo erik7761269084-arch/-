@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/27/9b9c232c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106596,
+  "IDcode": "IENF-304",
+  "title": "【FANZA限定】只今、お兄ちゃんを調教中 ゆめ莉りか パンティとチェキ付き",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "乱伦",
+    "恶作剧",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106596",
+  "actresses": [
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106596&name=夢莉梨花"
+    }
+  ]
+};

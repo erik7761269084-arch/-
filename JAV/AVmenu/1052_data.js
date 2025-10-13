@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/06c29b54-dd04-4b0c-91e1-1fbca1bc8015/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1052,
+  "IDcode": "HEYZO-1464",
+  "title": "我勾引了一個優柔寡斷的男人～ - 春見風歌",
+  "publish_date": "2017-08-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231227/edc6817a-3c3e-4fd7-923d-45e21bdc7e93.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231227/edc6817a-3c3e-4fd7-923d-45e21bdc7e93.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1052",
+  "actresses": [
+    {
+      "name": "春見風歌",
+      "img_url": "https://picture.yoshiclub.xyz/20231227/c1eb8bfc-a3e9-43bf-9a86-3b325ec640ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1052&name=春見風歌"
+    }
+  ]
+};

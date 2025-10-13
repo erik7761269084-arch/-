@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2dfa3bf1-95fc-4c8f-a3e4-122ba43cc8b8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12438,
+  "IDcode": "MVG-098",
+  "title": "Ma○ko 裝置束縛XXX 鐵束縛陰部酷刑 水端麻美",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "性虐癖",
+    "蠟燭",
+    "吞精",
+    "調教",
+    "深喉",
+    "色白",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "口交",
+    "監獄",
+    "白眼失神",
+    "強姦",
+    "騎乗位",
+    "多P",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "暗黑系",
+    "緊縛",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "打屁股",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240825/671be17d-f355-4b68-8728-0e3dddbd63d3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240825/671be17d-f355-4b68-8728-0e3dddbd63d3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12438",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12438&name=水端麻美"
+    }
+  ]
+};

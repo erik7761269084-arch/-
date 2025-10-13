@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cc8fe732-4ea9-43f1-a2b2-6035fde96d1d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18741,
+  "IDcode": "IPX-622",
+  "title": "出差住同房NTR 被上司內射一晚上的美人女社員",
+  "publish_date": "2021-03-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "脅迫做愛",
+    "酒後亂性",
+    "OL",
+    "口交",
+    "性感",
+    "女同事",
+    "NTR",
+    "出差",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911230225591591.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230911/20230911230225591591.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18741",
+  "actresses": [
+    {
+      "name": "藤井一夜",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/b97f52b8-529b-439b-9a8d-fd90a3de1cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18741&name=藤井一夜"
+    }
+  ]
+};

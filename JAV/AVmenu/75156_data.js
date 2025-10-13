@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/9yXTJFfU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75156,
+  "IDcode": "MIAA-204",
+  "title": "しっとり上品な巨乳妻は町内会では淫乱中出し肉便器 永井マリア",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "潮吹",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75156",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75156&name=永井瑪麗亞"
+    }
+  ]
+};

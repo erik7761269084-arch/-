@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/472288f3-ee83-405e-a88f-5d6285228e3f/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2023/01/06/b40b5d22/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16024,
+  "IDcode": "SSNI-156",
+  "title": "大亂交!! 24根雞巴VS夢乃愛華 25連発肉棒不斷插入 超亂交特別t版",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "大亂交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-156为S1出品,2018年4月1日发行的有碼成人影片由夢乃愛華出演\n夢乃愛華出現在S1人氣系列“Super Orgy Special”中！被24個能量無與倫比的男人包圍……連續25次超級狂歡，所有人都激烈交織！它們涌向愛卡最小的身體，不停地插入陰莖。 “把你的雞巴給我越來越多。”她從不放開她的雞巴，無論是她的手、嘴還是陰戶。 「能嘗到這麼多雞巴真是太幸福了……」美麗的臉蛋和全身都沾滿了精液，她愣住了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229033854496496.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240229/20240229033854496496.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16024",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16024&name=夢乃愛華"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16024&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16024&name=鲛岛"
+    },
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16024&name=市川润"
+    }
+  ]
+};

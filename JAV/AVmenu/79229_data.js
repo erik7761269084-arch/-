@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/LMBCOejK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79229,
+  "IDcode": "NTK-599",
+  "title": "【顔面偏差値ガチ高】【G乳GAL】【びんかん痙攣体質】これぞNEOスケベ！！不機嫌そうな理由は欲求不満と発覚！！ガチ溜まり性欲を愛液と一緒に大量噴出！！抱き応え最高のエロギャルに生チン挿入で甘エロSEXに…ナイスなギャップハメ撮り！！/ラブホドキュメンタリー休憩2時間/111",
+  "publish_date": "2021-07-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79229",
+  "actresses": [
+    {
+      "name": "衣吹花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230711/9f2d00f2-39ee-455d-b8d6-2e3061a25020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79229&name=衣吹花音"
+    }
+  ]
+};

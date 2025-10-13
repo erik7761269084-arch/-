@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221224/32205F944C0DDCF7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102873,
+  "IDcode": "CMC-232",
+  "title": "レスボスの掟 初恋地獄篇 鬼百合の蜜壺",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": "CineMagic",
+  "genres": [
+    "精选，综合",
+    "捆绑",
+    "SM",
+    "女同性恋",
+    "水手服",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102873",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102873&name=有村希"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102873&name=大島愛里亞"
+    }
+  ]
+};

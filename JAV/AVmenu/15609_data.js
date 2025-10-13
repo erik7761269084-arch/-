@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c5f19c7-607c-40c7-90bd-2777557fe598/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/11/afe3f571/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15609,
+  "IDcode": "SONE-135",
+  "title": "我成為護士的原因……是因為我可以騎在一個被動的男人身上，隨心所欲地操他。",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "醫院・診所",
+    "中出",
+    "蕩婦",
+    "口交",
+    "騎乗位",
+    "護士制服",
+    "勾引・誘惑",
+    "艷遇",
+    "看病・住院",
+    "護士"
+  ],
+  "description": "SONE-135为S1出品,2024年4月9日发行的有碼成人影片由小島南出演\n是否存在性慾太強而被甩的情況？如果她熱愛性，你會不高興嗎？當我們第一次開始約會時，他告訴我他想每天都做愛...我無法和其他女孩相比，但我的性慾真的很強烈……似乎……很多男人都因為同樣的原因離開了我……我想知道我是不是一個變態，因為我即使我沒有男朋友，也渴望發生性行為。 ?有一天，在公園裡，她無意間聽到醫院裡一名男病人的談話。 「當你在醫院的時候，這很難，因為你不能做愛。」「如果你在一個大房間裡，你就不能手淫，你就會變得性慾旺盛，這太瘋狂了。」我明白了，醫院裡的男病人不擅長性或自慰……我明白了。我決定成為一名護士，因為我想騎在毫無抵抗力的病人禁慾的雞巴上，我不斷地強姦病人，直到我的性慾得到滿足。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405055325667667.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405055325667667.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15609",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15609&name=小島南"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221108/EKTB46pS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82133,
+  "IDcode": "WKD-027",
+  "title": "オ・ン・ナ♀ざかり 美咲かんな",
+  "publish_date": "2020-04-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女上位",
+    "荡妇",
+    "口交",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82133",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82133&name=美咲佳奈"
+    }
+  ]
+};

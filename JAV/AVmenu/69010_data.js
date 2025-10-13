@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/06/ecdb6df4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69010,
+  "IDcode": "MOGI-081",
+  "title": "こう見えて照れ屋なドスケベ娘がそこら中でイキまくり汁出しまくり!青姦・リモバイ声我慢デート 奈築りお(仮名・20)",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "第一人称摄影",
+    "潮吹",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69010",
+  "actresses": [
+    {
+      "name": "奈築里緒",
+      "img_url": "https://picture.yoshiclub.xyz/20240630/382caea5-a3f2-4589-93ea-8a7b726c7c51.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69010&name=奈築里緒"
+    }
+  ]
+};

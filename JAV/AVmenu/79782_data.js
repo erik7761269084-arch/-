@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/IkgKAkn4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79782,
+  "IDcode": "LULU-099",
+  "title": "透けパンデカ尻妻の無自覚挑発に乗せられデカチン即ハメでイキ果てるまで鬼ピストンしまくって何回も中出しした。 黒川すみれ",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "屁股",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79782",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79782&name=黑川堇"
+    }
+  ]
+};

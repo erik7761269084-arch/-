@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1750bfc2-9733-4b9b-ae80-8f6dfcd6a3d8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/3f1a6313/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7121,
+  "IDcode": "SAN-331",
+  "title": "色色書法老師2：勾引學生和爸爸大玩3P ~ 岡西友美",
+  "publish_date": "2025-03-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "家庭教師",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "巨乳",
+    "美人",
+    "熟女",
+    "大奶头",
+    "綠茶婊"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250331/2a2614c3-8b12-4cea-8a97-77ec7132e051.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250331/2a2614c3-8b12-4cea-8a97-77ec7132e051.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7121",
+  "actresses": [
+    {
+      "name": "岡西友美",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/2af6dac7-a743-42da-afbf-99ba642d7eb7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7121&name=岡西友美"
+    }
+  ]
+};

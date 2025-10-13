@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d12dc243-d10c-4c91-9f62-cfbe69daf1bf/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/03/b0ba7fe3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16668,
+  "IDcode": "JUQ-508",
+  "title": "已婚人妻在脫衣舞劇院跳舞",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "舞女",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "女上位",
+    "口交",
+    "風俗夜場",
+    "多P",
+    "美腳",
+    "朋友女友・妻子",
+    "情趣內衣",
+    "跳舞",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-508为MADONNA出品,2024年1月30日发行的有碼成人影片由流川はる香出演\n由攝像師的弟子制作。雄一天、另一位妻子和孩子、流川遙等人。結果，你在服裝舞劇院表演了。當我走開時，我看到流川遙在舞臺上跳躍……一個欣賞別人的女人正在淫蕩的舞蹈中。流川春、笠田等人，“接下來就是要來劇場了……”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031650736736.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240121/20240121031650736736.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16668",
+  "actresses": [
+    {
+      "name": "流川はる香",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d223b1bc-2004-4cf4-8e14-afab70fcfc83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16668&name=流川はる香"
+    }
+  ]
+};

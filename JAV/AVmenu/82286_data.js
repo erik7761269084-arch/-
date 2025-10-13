@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/18/c95dbaac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82286,
+  "IDcode": "SSNI-673",
+  "title": "美少女4人を僕ひとりで独占！超ハーレム5Pスペシャル",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "潮吹",
+    "薄马赛克",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82286",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82286&name=Miru"
+    },
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82286&name=架乃由羅"
+    },
+    {
+      "name": "羽笑美晴",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/8882ed6a-3831-4631-8174-f6e75734ac71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82286&name=羽笑美晴"
+    },
+    {
+      "name": "伊贺まこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82286&name=伊贺まこ"
+    }
+  ]
+};

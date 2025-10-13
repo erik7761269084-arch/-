@@ -1,0 +1,21 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98491,
+  "IDcode": "SGSR-247-",
+  "title": "ノンケ素人娘の初レズ体験 女性器が女性器をイカせる レズビアン",
+  "publish_date": "2019-11-23",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "4小时以上作品",
+    "女同性恋",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98491",
+  "actresses": []
+};

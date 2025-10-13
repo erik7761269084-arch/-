@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4cf031e2-044f-4697-ba02-d88acd0adff2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18705,
+  "IDcode": "MTALL-082",
+  "title": "【FANZA限定】灌腸耐力深喉大師的深喉潮喷和中出性愛",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "淫亂",
+    "醫院・診所",
+    "灌腸",
+    "凌辱",
+    "中出",
+    "多P",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230915/20230915004349166166.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230915/20230915004349166166.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18705",
+  "actresses": [
+    {
+      "name": "石川雲丹",
+      "img_url": "https://picture.yoshiclub.xyz/20230915/eab53a6d-5f55-41ec-a59a-1da54b4ec6ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18705&name=石川雲丹"
+    }
+  ]
+};

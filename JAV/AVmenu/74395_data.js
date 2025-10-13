@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/1UV5KM9h/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74395,
+  "IDcode": "OKYH-055",
+  "title": "ゆの（22）推定Eカップ 尾瀬高原温泉で見つけた山ガール タオル一枚 男湯入ってみませんか？",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "户外",
+    "羞耻",
+    "业余",
+    "浴衣",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/70070bd6000ebe10cbc7e4b4f95df1c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74395",
+  "actresses": [
+    {
+      "name": "后藤由乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74395&name=后藤由乃"
+    }
+  ]
+};

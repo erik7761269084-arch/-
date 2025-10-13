@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240504/c86kPxzr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103847,
+  "IDcode": "SAD-045",
+  "title": "働くオンナ2 14",
+  "publish_date": "2011-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103847",
+  "actresses": [
+    {
+      "name": "梨果メリア",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103847&name=梨果メリア"
+    }
+  ]
+};

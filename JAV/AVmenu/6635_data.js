@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e44783d9-34c8-482c-8ee8-c957bd32c5a0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/6d599b70/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6635,
+  "IDcode": "ABF-223",
+  "title": "爲了挽留公司大客戶，新自上門就投訴道歉卻被無情拿下 ~ 八掛海",
+  "publish_date": "2025-04-02",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "身體換業務",
+    "中出",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "小隻馬",
+    "蠻橫嬌羞",
+    "舔陰",
+    "口爆",
+    "美少女",
+    "清純",
+    "手指插入",
+    "辦公室",
+    "M男・M女",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "謝罪",
+    "羞恥"
+  ],
+  "description": "ABF-223为蚊香社出品,2025年4月2日发行的有碼成人影片\n這部片讓成人穿上制服cosplay，超有fu！プレステージ專屬女優八掛うみ（24歲）為了拯救公司，甘願犧牲自己！うみ在一家老牌佃煮店上班，卻被大客戶弁当店無理刁難，公司面臨倒閉危機。面對客戶的無理投訴，うみ跪地土下座求饒卻沒用，對方竟要求她用身體展現誠意！為了公司，うみ只能聽從對方擺佈，主動張開雙腿迎接肉棒。明明心裡痛苦又不甘，但她的小穴卻開始蠢蠢欲動，邊道歉邊被幹的過程中，竟然慢慢感受到快感…最後，她用身體接下所有不公的精液，用滿滿的愛社精神證明了自己的誠意！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424060937143143_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250424/20250424060937143143_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6635",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6635&name=小田切ジュン"
+    },
+    {
+      "name": "八挂うみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6635&name=八挂うみ"
+    }
+  ]
+};

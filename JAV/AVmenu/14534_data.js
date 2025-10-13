@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d58e80f3-4cd9-40f9-b1bf-bc18876e7242/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/90fbb0bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14534,
+  "IDcode": "SSNI-252",
+  "title": "被潛入家中的小偷強奸了 ~ 彩美旬果",
+  "publish_date": "2018-07-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "強姦",
+    "若妻",
+    "美腳",
+    "潛入",
+    "明星臉",
+    "巨乳",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-252为S1出品,2018年7月7日发行的有碼成人影片由彩美旬果出演\n綾美俊花的第三部 S1 獨家作品是她的第一部成熟的強姦劇。她被一個潛入她家的竊賊發現，他的雞巴深深地插進了她的喉嚨，她的陰部被用一根粗暴的棍子隨心所欲地攪動，她被強姦了。那就是導火線...救她的鄰居還威脅要讓她丈夫保持安靜，每天都把玩他的全身當作性治療。最後，她在丈夫面前暴露了自己的猥褻行為，並在愛撫中被強姦…她扮演一位絕望的年輕妻子，她的幸福生活崩潰了，她陷入了強姦地獄。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522223758277277.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/20240522223758277277.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14534",
+  "actresses": [
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14534&name=彩美旬果"
+    }
+  ]
+};

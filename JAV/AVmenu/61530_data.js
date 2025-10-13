@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/9c65422d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61530,
+  "IDcode": "SQIS-109",
+  "title": "現代肉欲劇場 ウチの愛娘2 あぶない父娘関係6組",
+  "publish_date": "2025-08-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "淫乱，真实",
+    "乱伦",
+    "苗条",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/21/446bfe0d9e60b8d3031530c10cdbdf7a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61530",
+  "actresses": []
+};

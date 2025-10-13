@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230309/E17A061820938EF2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100041,
+  "IDcode": "CHN-132",
+  "title": "新・絶対的美少女、お貸しします。 ACT.70 成海つばさ",
+  "publish_date": "2017-03-31",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "巨乳",
+    "角色扮演",
+    "颜射",
+    "肛交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100041",
+  "actresses": [
+    {
+      "name": "成海つばさ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/699c42e19a3ebf1e8b9cd8691819ddd2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100041&name=成海つばさ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240709/oKpoGUkv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97176,
+  "IDcode": "ABS-060",
+  "title": "スプラッシュ・キララ 明日花キララ",
+  "publish_date": "2011-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "潮吹",
+    "手指插入",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abs060/118abs060pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97176",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97176&name=明日花綺蘿"
+    }
+  ]
+};

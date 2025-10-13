@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250324/rnl5SObL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69123,
+  "IDcode": "ZEX-317",
+  "title": "ぷるんっとGカップ つるんっとパイパン 現役大学生AVデビュー 森谷美穂",
+  "publish_date": "2017-03-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "无毛",
+    "多P",
+    "女大学生",
+    "玩具",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69123",
+  "actresses": [
+    {
+      "name": "森谷美穂",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b0c0bf94da8b8636c75a7381c7bacbbe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69123&name=森谷美穂"
+    }
+  ]
+};

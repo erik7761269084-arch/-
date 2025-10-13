@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220417/50DDC855804F5732/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102713,
+  "IDcode": "TEK-089",
+  "title": "完美肉體 寫真偶像來幹砲啦 夢川繪麻",
+  "publish_date": "2017-04-01",
+  "type": "有码",
+  "company": "MUTEKI",
+  "genres": [
+    "艺人",
+    "首次亮相",
+    "纪录片",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/tek089/tek089pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102713",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102713&name=大岛丈"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102713&name=しみけん"
+    },
+    {
+      "name": "梦川エマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102713&name=梦川エマ"
+    }
+  ]
+};

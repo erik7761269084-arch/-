@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/3L1JcmAM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88959,
+  "IDcode": "UMSO-504",
+  "title": "オイルで光る美しい裸体！フェラ・パイズリ・玩具責め！！",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "乳交",
+    "玩具",
+    "乳液",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88959",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=姫咲華"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=沙月芽衣"
+    },
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=松本菜奈実"
+    },
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=鳳美優"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=春菜华"
+    },
+    {
+      "name": "佐知子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250722/86057d1f-f0b8-487e-aae4-bb288be267d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=佐知子"
+    },
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88959&name=白桃はな"
+    }
+  ]
+};

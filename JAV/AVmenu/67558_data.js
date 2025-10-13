@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250428/TS1D91lF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67558,
+  "IDcode": "EBOD-696",
+  "title": "渋谷道玄坂発！！日焼け巨乳ギャルを超悶絶させる性感★覚醒オイルマッサージ 今井夏帆",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "女生",
+    "按摩",
+    "晒黑",
+    "子宫颈"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/c3f0452c011b70995f7f542a4d98aad9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67558",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67558&name=今井夏帆"
+    }
+  ]
+};

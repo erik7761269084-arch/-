@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240111/DtFmE1xP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101116,
+  "IDcode": "SIRO-5189",
+  "title": "『普段は絵を描いてます』大人しそうに振舞っているけど、顔にエロい事大好きって書いてある絵描きお姉さん！濃厚フェラからのガン突きで『ダメー！！』って言いながらしっかりイクまでち●こを離さず！最後はイキすぎて『ゆっくりでもいいですか？』ってお願いされちゃってます！www【初撮り】ネットでAV応募→AV体験撮影 2082",
+  "publish_date": "2023-12-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101116",
+  "actresses": [
+    {
+      "name": "あお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101116&name=あお"
+    }
+  ]
+};

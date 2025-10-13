@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241230/gZ4TCQJu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74988,
+  "IDcode": "ABP-887",
+  "title": "風俗タワー 性感フルコース3時間SPECIAL ACT.29 攻め受け優秀！Gカップグラマーが貴方の欲望を全て叶える185分 永瀬みなも",
+  "publish_date": "2019-08-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "颜射",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74988",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74988&name=田渊正浩"
+    },
+    {
+      "name": "永濑未萌",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74988&name=永濑未萌"
+    }
+  ]
+};

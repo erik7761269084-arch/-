@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/ba3004ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69066,
+  "IDcode": "UMD-956",
+  "title": "潜入！！噂のリンパマッサージ店 21「裏オプション、いかがなさいますか？」",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "按摩",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/ba3004ef/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69066",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69066&name=宮城理惠"
+    },
+    {
+      "name": "美波汐里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b6dec06f-fa25-4057-a11d-ced6b50f9c00.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69066&name=美波汐里"
+    }
+  ]
+};

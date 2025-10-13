@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/14b7fff4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115198,
+  "IDcode": "FC2-3645103",
+  "title": "长着明星脸的美女被骗发生性关系",
+  "publish_date": "2025-09-03",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/14b7fff4/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115198",
+  "actresses": []
+};

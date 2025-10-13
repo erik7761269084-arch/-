@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/5hm7Twhz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70238,
+  "IDcode": "UMSO-210",
+  "title": "妻に逃げられバツイチシングルファーザーになったボクにまさかのモテ期！？不憫な父子家庭に同情して何かと世話を焼いてくれる近所のママ友たちと真っ昼間から不倫にハマってしまったvol.7",
+  "publish_date": "2018-10-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "口交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70238",
+  "actresses": []
+};

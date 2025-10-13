@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/PfDbek42/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75383,
+  "IDcode": "MDBK-078",
+  "title": "ハレンチ指導で泳ぎがぐんぐん上達！！競泳水着巨乳インストラクター",
+  "publish_date": "2020-01-17",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "学校泳装",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/59ac4674043d3514d7ef80b4acc5b280.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75383",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75383&name=蓮実クレア"
+    },
+    {
+      "name": "野野原薺",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ddc8286c-a8a3-4658-b234-f724ff12c3dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75383&name=野野原薺"
+    },
+    {
+      "name": "真田さな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/1d18f3fe-4bf7-4daa-8310-a3cc8589d82e_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75383&name=真田さな"
+    },
+    {
+      "name": "古贺まつな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75383&name=古贺まつな"
+    }
+  ]
+};

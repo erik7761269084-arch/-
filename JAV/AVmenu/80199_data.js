@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/S01nA3aK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80199,
+  "IDcode": "DVAJ-557",
+  "title": "行き遅れた三十路女に気のある素振り見せたらマジ惚れされて一発ハメて終わるつもりがカニばさみロックと杭打ちピストンで逃げられず何度も中出しさせられた 川上奈々美",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "成熟的女人",
+    "女上位",
+    "荡妇",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80199",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80199&name=タイ"
+    },
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80199&name=川上奈奈美"
+    }
+  ]
+};

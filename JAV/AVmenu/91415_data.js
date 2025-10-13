@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/19/add03fa8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91415,
+  "IDcode": "CJOD-400",
+  "title": "【FANZA限定】布1mmの超焦らし誘惑！ パンッ！パンッ！にチ○ポ勃起するまでマン肉デカ尻こすり付けてからのギアチェンジ！ 爆速杭打ち騎乗位でノンストップ連続中出しで精子枯渇させるド痴女エステティシャン 弥生みづき 生写真2枚付き",
+  "publish_date": "2023-10-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "荡妇",
+    "巨大屁股",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240501-1/964e770a2584a7f707642ae3aa684f7a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91415",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91415&name=弥生美月"
+    }
+  ]
+};

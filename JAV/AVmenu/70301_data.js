@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/13/bd02b3fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70301,
+  "IDcode": "SSNI-783",
+  "title": "布団の中で寝取られ続けたわたし… 彼氏のすぐ側で巨漢先輩の馬乗り密着性交に背徳イキした2泊3日の卒業旅行 架乃ゆら",
+  "publish_date": "2020-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "苗条",
+    "薄马赛克",
+    "和服，丧服",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70301",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70301&name=架乃由羅"
+    }
+  ]
+};

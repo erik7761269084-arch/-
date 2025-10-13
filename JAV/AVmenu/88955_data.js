@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/1nhj1Y9R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88955,
+  "IDcode": "UMSO-509",
+  "title": "全裸でお掃除する女性をただただ観察するビデオ23人VOL.06",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "恋物癖",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88955",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=沙月惠奈"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=吉根柚莉爱"
+    },
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=水川蓳"
+    },
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=推川悠里"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=高瀬りな"
+    },
+    {
+      "name": "瓊·洛夫喬伊",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/15d750f6-3af9-4072-bd19-c8c9bf59a421.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=瓊·洛夫喬伊"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88955&name=安倍亜沙美"
+    }
+  ]
+};

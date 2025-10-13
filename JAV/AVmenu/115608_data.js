@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/f493d0c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115608,
+  "IDcode": "FC2-3757686",
+  "title": "神赐的纯白天使棉花糖",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/27/f3923c5e326258b9d1a0246fa67b5afb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115608",
+  "actresses": []
+};

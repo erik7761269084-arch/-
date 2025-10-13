@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/RPBhQRUY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82027,
+  "IDcode": "SGM-014",
+  "title": "人妻捕鯨船 水着の三十路美熟女 大量潮吹きドキュメント 川上ゆう",
+  "publish_date": "2019-06-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "SM",
+    "苗条",
+    "拘束",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/0ae3b729a34dcc559a07bb5db83a80a9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82027",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82027&name=川上優"
+    }
+  ]
+};

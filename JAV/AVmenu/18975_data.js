@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ad121321-64b2-4055-ad7a-3a584ae7eac0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18975,
+  "IDcode": "IPX-479",
+  "title": "宮園ことね的5大絕招 傲人超强吸力口交",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "自拍性愛",
+    "偶像",
+    "口交",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230816/20230816223629539539.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230816/20230816223629539539.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18975",
+  "actresses": [
+    {
+      "name": "宮園ことね",
+      "img_url": "https://picture.yoshiclub.xyz/20230815/25e1de3b-7677-4000-a07f-6fbb5def12b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18975&name=宮園ことね"
+    },
+    {
+      "name": "清水健",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18975&name=清水健"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18975&name=森林原人"
+    }
+  ]
+};

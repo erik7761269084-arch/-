@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a66cd988-3d50-43a8-9784-8e1d18f120c0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/8be30936/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6071,
+  "IDcode": "MFYD-004",
+  "title": "極品人妻禁慾後無限高潮，中出解禁三連發 ~ 相葉美沙子",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "多P",
+    "貧乳",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "熟女",
+    "大奶头",
+    "辣妹/GAL系",
+    "無毛",
+    "女優"
+  ],
+  "description": "MFYD-004为溜池出品,2025年5月16日发行的有碼成人影片由相葉美沙子出演\n这才是人妻的巅峰性感！超辣人妻相葉美沙子直接冲破欲望极限！整整一个月禁欲，5发中出，无数次高潮，3场硬核大战！不管怎么猛烈冲击，这禁欲后的小穴就是不崩溃，被大肉棒狠狠搅拌，尖叫到嗓子哑，高潮到腿软！禁欲后的反应真实得炸裂！中出后性感直接觉醒，爆棚！这女人每一次高潮，每一次被中出，都变得更美更骚，简直是人间尤物！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515051801640640_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515051801640640_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6071",
+  "actresses": [
+    {
+      "name": "相葉美沙子",
+      "img_url": "https://picture.yoshiclub.xyz/20250410/1ef777cc-383b-42d8-b9ff-ff391ce1d0b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6071&name=相葉美沙子"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6071&name=鲛岛"
+    }
+  ]
+};

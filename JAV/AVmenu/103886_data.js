@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240521/uTeO30Mx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103886,
+  "IDcode": "EMTH-033",
+  "title": "絶品人妻 最高クラスの奥様をナンパで堕とす 12名",
+  "publish_date": "2022-08-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "业余",
+    "猎艳",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103886",
+  "actresses": []
+};

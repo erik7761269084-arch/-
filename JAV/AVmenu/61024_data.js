@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/2b0da8a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61024,
+  "IDcode": "LULU-395",
+  "title": "彼女の巨乳姉の過激水着姿に無自覚誘惑され我慢できずフル勃起ち○ぽをハイレグ越し素股で…ヌルッと生挿入！焦らされ続きで感度が上がった即濡れ羞恥マ○コに何度も中出し！ わか菜ほの",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "泳装",
+    "模特儿",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61024",
+  "actresses": [
+    {
+      "name": "若宮穂乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241209/e7f3cc00-9e68-4e42-995b-c6e9b787c913.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61024&name=若宮穂乃"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61024&name=タイ"
+    }
+  ]
+};

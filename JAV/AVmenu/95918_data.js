@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/30/3239a783/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95918,
+  "IDcode": "IPZZ-377",
+  "title": "キ○タマに溜まった濃厚ザーメンを一滴残らず吸い絞る精子吸引バキュームフェラチオ RARA 生写真3枚付き",
+  "publish_date": "2024-09-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "姐姐",
+    "荡妇",
+    "口交",
+    "手淫",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95918",
+  "actresses": [
+    {
+      "name": "RARA",
+      "img_url": "https://picture.yoshiclub.xyz/20240525/e27c2140-f52f-4666-af7f-523c9df3dd19.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95918&name=RARA"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95918&name=タツ"
+    }
+  ]
+};

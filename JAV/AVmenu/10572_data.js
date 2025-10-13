@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3168d313-3261-4ed2-b481-16c0961a49f7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/d2fe6e76/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10572,
+  "IDcode": "MVSD-620",
+  "title": "勃起的大雞巴就在你陰道1釐米以下！要是你堅持不住，就會被操！仲夏提臀氣墊特訓：女田徑隊員騎乘位股失禁 ~ 宮城理惠",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "猥亵",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "運動女孩",
+    "性騷擾",
+    "美腳",
+    "美少女",
+    "體育舘",
+    "更衣室",
+    "誘騙女性",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MVSD-620为MVG GROUP出品,2024年11月19日发行的有碼成人影片由宮城理惠出演\n對不起老師……我已經到了極限了……我再也受不了了，當硬挺的雞巴插入我體內1厘米和2厘米時，我的屁股和大腿在顫抖……女子田徑俱樂部傳統盛夏下半身強化訓練「空氣椅」！這就是核心訓練！跨騎在雞巴上進行100次胯下深蹲！臀部波濤洶湧！每次龜頭摩擦陰道口時，男人的精液就會滴落！老師！對不起！它出來了！她的陰戶被從下面插入，她的屁股顫抖，讓她的失禁達到了極致！後女牛仔位置！後退！往後站！坐姿！充滿屁股角度SEX！大屁股 x 出汗 x 田徑服 x 戀物癖鏡頭！感謝您的辛勤工作！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114090836468468.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114090836468468.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10572",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10572&name=宮城理惠"
+    }
+  ]
+};

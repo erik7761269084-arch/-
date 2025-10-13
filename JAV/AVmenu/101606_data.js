@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240331/4Bk7YVs6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101606,
+  "IDcode": "LUXU-1371",
+  "title": "ラグジュTV 1361 美巨乳が魅力の美人歌手が登場！愛撫でとろとろになった膣内に巨根を挿入すればうっとりとした表情で受け入れ、自らも腰振り美巨乳を揺らしながら本能で感じる妖艶な姿を曝け出す！",
+  "publish_date": "2021-02-03",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "颜射",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101606",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101606&name=小田切ジュン"
+    },
+    {
+      "name": "花宫あむ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101606&name=花宫あむ"
+    }
+  ]
+};

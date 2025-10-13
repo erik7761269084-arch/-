@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250121/fvISMOE5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73742,
+  "IDcode": "ABW-285",
+  "title": "※胸糞NTR 最悪の鬱勃起映像 幸せを約束した大好きな彼女がおっさんに寝取られて、壊されました。 流川夕【MGSだけのおまけ映像付き+15分】",
+  "publish_date": "2022-09-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "苗条",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73742",
+  "actresses": []
+};

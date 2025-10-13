@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/27/843f0d52/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89687,
+  "IDcode": "SDAB-255",
+  "title": "ママには言えないかくしごと「放課後、やさしいおじさんとイチャイチャしてくるんだ」 148cmのミニミニ身体に入りきらないたっくさんの快感 源川ゆずな",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "运动短裤",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/b9d620d2f84d5bf8a3ff584a16853206.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89687",
+  "actresses": [
+    {
+      "name": "源川ゆずな",
+      "img_url": "https://picture.yoshiclub.xyz/20240217/f2c3ef5b-5070-4aef-90cc-91f228f1dfa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89687&name=源川ゆずな"
+    }
+  ]
+};

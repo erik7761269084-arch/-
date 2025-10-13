@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/01/a6709e45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67767,
+  "IDcode": "JUFE-440",
+  "title": "【FANZA限定】修学旅行で爆乳の人妻女教師にねっとり調教され生バイブにされた僕 佐山愛 生写真3枚付き",
+  "publish_date": "2023-01-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67767",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67767&name=佐山爱"
+    }
+  ]
+};

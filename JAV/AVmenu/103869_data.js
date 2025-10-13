@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240505/yY9NNKLL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103869,
+  "IDcode": "PPPD-534",
+  "title": "超爆乳パイズリ密着エステサロン 挟射中出しフルコース Hitomi",
+  "publish_date": "2017-02-01",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "恋乳癖",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/pppd534/pppd534pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103869",
+  "actresses": [
+    {
+      "name": "田中瞳",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/188e71b46fd4b376e545cd76ce28fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103869&name=田中瞳"
+    }
+  ]
+};

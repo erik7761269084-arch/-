@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eaead944-173f-40d2-a417-3f20e27e3939/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18202,
+  "IDcode": "CEMD-421",
+  "title": "自由被剝奪後感覺身體持續受到侵犯的女性2",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "吞精",
+    "凌辱",
+    "中出",
+    "女奴",
+    "拘束・拷問",
+    "潮吹",
+    "口交",
+    "強姦",
+    "性感",
+    "淫語",
+    "SM",
+    "緊縛",
+    "自慰",
+    "按摩棒",
+    "大雞巴",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022084722219219.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022084722219219.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18202",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18202&name=胡桃櫻花"
+    }
+  ]
+};

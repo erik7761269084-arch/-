@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2cdcfcc8-45ae-4f05-928f-91f7437bfcd1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/27/785df885/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3019,
+  "IDcode": "SONE-782",
+  "title": "肉感誘惑，媚藥融化身心，極致高潮不停歇的狂野性愛 ~ 南澤海香",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "超爆乳",
+    "調教",
+    "4K",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "正統派",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "多P",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SONE-782为S1出品,2025年9月4日发行的有碼成人影片由南澤海香出演\n全身濕透，潮吹噴個不停，身體在高潮中顫抖不停！【這肉感身材，簡直色氣爆棚！】南澤海香第一次嘗試媚藥玩法，爽到失控，潮水狂湧，連續高潮根本停不下來！一次又一次被幹到嗓子都喊啞了，發出那種羞恥的叫聲，整個人瘋掉了！各種媚藥齊上陣，藥片、液體、噴霧，樣樣不落。普通性愛已經滿足不了她這副被調教過的騷身體了，可能再也回不去了吧。希望我們可愛的海香還能找回自己，別徹底淪陷啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035487487_16780_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035487487_16780_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3019",
+  "actresses": [
+    {
+      "name": "南澤海香",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/53df41ef-64f7-4be6-a90c-0c6674f1e9ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3019&name=南澤海香"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3019&name=じゅうもんじ"
+    }
+  ]
+};

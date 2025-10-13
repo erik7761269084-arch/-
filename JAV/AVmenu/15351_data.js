@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e787d56c-fa15-4c12-ad67-df4a443d1ffc/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/02/96d93f2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15351,
+  "IDcode": "MVSD-587",
+  "title": "無論如何……讓我操你最後一次吧！ ！ ！一個冷漠的美少女，容貌姣好，成績優秀，但她喜歡釋放了性欲。",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "無毛",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MVSD-587为MVG GROUP出品,2024年3月19日发行的有碼成人影片由根尾朱里出演\n一切都毫無價值……已經不重要了……活著沒有意義……對吧……尼奧先生……？無論如何…讓我操你最後一次…一個不受歡迎的處女和令人毛骨悚然的宅男釋放他的性慾！射在昏昏欲睡、顏值高、成績優秀的美少女體內的七夕種子活塞！無論如何，做很多 AV 的事情可以嗎？享受仔細觀察黏糊糊的女性身體並把你的雞巴放進去！既然是最後一次了，射到裡面就可以了吧？猛烈地搖晃你的臀部，一次又一次地射在她體內！累了，不斷地被插入並射精，形勢逆轉了！ ？昏昏欲睡的美少女性慾爆發！ ？嘿……尼奧桑……太棒了……太棒了！你，現在……從我身邊！我正在隨意地搖動我的臀部！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240417/20240417004311791791.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240417/20240417004311791791.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15351",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15351&name=根尾朱里"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15351&name=いち"
+    }
+  ]
+};

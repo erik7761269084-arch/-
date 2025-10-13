@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/15/71af6bdd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86234,
+  "IDcode": "SORA-253",
+  "title": "【同人投稿】ザー汁輪●パラダイス 落札された少女みく（仮名）",
+  "publish_date": "2020-05-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "多P",
+    "放尿",
+    "女生",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86234",
+  "actresses": [
+    {
+      "name": "本桥実来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86234&name=本桥実来"
+    }
+  ]
+};

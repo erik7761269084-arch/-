@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231207/ZiGCT92e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88676,
+  "IDcode": "YLWN-283",
+  "title": "母と叔母が僕のチ○ポを奪り合う！何度も射精＆潮吹きしちゃう 近親相姦4時間",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "婆婆",
+    "已婚妇女",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/6f89bfc86c0cb3a706889e4d8dbe2d4d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88676",
+  "actresses": [
+    {
+      "name": "矢吹凉华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=矢吹凉华"
+    },
+    {
+      "name": "加贺ゆり子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=加贺ゆり子"
+    },
+    {
+      "name": "北村早苗",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=北村早苗"
+    },
+    {
+      "name": "真木静乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=真木静乃"
+    },
+    {
+      "name": "竹原さおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=竹原さおり"
+    },
+    {
+      "name": "吉冈奈々子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=吉冈奈々子"
+    },
+    {
+      "name": "平松恵理香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88676&name=平松恵理香"
+    }
+  ]
+};

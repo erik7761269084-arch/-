@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/03b67ffa-fb32-4713-ab04-bf3448e37caf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11766,
+  "IDcode": "REAL-866",
+  "title": "獻身亂倫相奸：我永遠不會讓弟弟成爲性犯罪者......我會犧牲自己，讓弟弟操我來泄欲 ~ 月野香橙",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "舔陰",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清純",
+    "手指插入",
+    "亂倫",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240923/cabd5b7d-59e7-4cff-bfd7-98fcc72f08b9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240923/cabd5b7d-59e7-4cff-bfd7-98fcc72f08b9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11766",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11766&name=月野香澄"
+    }
+  ]
+};

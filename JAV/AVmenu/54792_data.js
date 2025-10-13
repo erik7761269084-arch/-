@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220407/DA0F6B6BAAF91C93/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54792,
+  "IDcode": "B9A7FA13A19E0AF46DCB4560EAC6ABDC",
+  "title": "美痴女～身材超赞淫乱女的戏弄～ - 枢木美栞 HEYZO-1747",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54792",
+  "actresses": []
+};

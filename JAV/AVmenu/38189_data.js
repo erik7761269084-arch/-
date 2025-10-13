@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221026/26B925AE88422AB0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38189,
+  "IDcode": "3B762B7E9F8FA4E6C371270791213E-51",
+  "title": "【無】社長秘書のお仕事 VOL.10 パート2",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38189",
+  "actresses": []
+};

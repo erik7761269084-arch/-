@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9232a060-6e3c-432e-85d8-ca309072adc3/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2021/07/28/8020379f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18574,
+  "IDcode": "IPX-692",
+  "title": "出差我和討厭的要死的醜八怪上司在溫泉酒店同住一屋",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "和服・浴衣・喪服",
+    "流汗",
+    "中出",
+    "OL",
+    "迷姦",
+    "巨乳",
+    "女同事",
+    "出差",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926015132110110.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230926/20230926015132110110.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18574",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18574&name=天海翼"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/08/ccf05081/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81973,
+  "IDcode": "SDNT-020",
+  "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case15 エステ勤務・大友京香（仮名）30歳 東京都在住 【再出演】ぶっかけ輪●了承 主人のためにネトラレます",
+  "publish_date": "2020-03-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "潮吹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81973",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81973&name=鲛岛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81973&name=南佳也"
+    },
+    {
+      "name": "大友京香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81973&name=大友京香"
+    }
+  ]
+};

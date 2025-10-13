@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241206/hY7sCgXn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77113,
+  "IDcode": "MVSD-414",
+  "title": "オス豚じじいを悶絶射精で極楽堕とし！ SポテンシャルがハンパないBlingBlingの白ギャルれぇらちゃんが変態じじい相手にナマ中ごっくん裏バイト！ 葉月レイラ",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "荡妇",
+    "制服",
+    "女生",
+    "吞精"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77113",
+  "actresses": [
+    {
+      "name": "久远れいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77113&name=久远れいら"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/0c98d070/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63363,
+  "IDcode": "DSJH-015",
+  "title": "新入社員ワイセツ指導 パンスト固定バイブ 連続痙攣アクメ",
+  "publish_date": "2025-06-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "巨乳",
+    "各种职业",
+    "恋物癖",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63363",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63363&name=宇流木沙羅"
+    },
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63363&name=千石もなか"
+    },
+    {
+      "name": "白石渚",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/2bf3dd17-2b68-4fdc-99a0-353abd274001.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63363&name=白石渚"
+    },
+    {
+      "name": "美咲音",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/6ee78fe8-b265-4a7d-a342-351f7c908232.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63363&name=美咲音"
+    }
+  ]
+};

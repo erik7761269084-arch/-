@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/28a0c05a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72436,
+  "IDcode": "NACX-148",
+  "title": "【オイルマニア総集編】光り輝く肉感ボディ！ぬるぬるオイルセックス10人 生写真とパンティ付き",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "乳液",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72436",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=姫咲華"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=沙月芽衣"
+    },
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=松本菜奈実"
+    },
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=鳳美優"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=春菜华"
+    },
+    {
+      "name": "佐知子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250722/86057d1f-f0b8-487e-aae4-bb288be267d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=佐知子"
+    },
+    {
+      "name": "一宫みかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72436&name=一宫みかり"
+    }
+  ]
+};

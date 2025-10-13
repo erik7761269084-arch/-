@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240522/P2t14mvw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103927,
+  "IDcode": "VENU-996C",
+  "title": "已經沒有兒子就活不下去了…。母親高潮突破50回情色極限高潮中出 篠田優",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103927",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250220/ugf9ReKE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72087,
+  "IDcode": "CLUB-555",
+  "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に連れ込んでめちゃくちゃセックスした件。其の33",
+  "publish_date": "2019-05-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "按摩",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72087",
+  "actresses": []
+};

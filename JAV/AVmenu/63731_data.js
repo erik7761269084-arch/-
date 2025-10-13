@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/25/c1329405/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63731,
+  "IDcode": "MOPP-106",
+  "title": "尿道×アナル責め M男脳バグパニック！M責め誘惑痴女小悪魔に弄ばれて脳みそバグってイキまくり！ 星仲ここみ",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63731",
+  "actresses": [
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63731&name=星仲ここみ"
+    }
+  ]
+};

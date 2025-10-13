@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230409/d2542c2e-4ad0-4a19-a728-b39fa7ff736d/index.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2025/01/10/4ac08403/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19526,
+  "IDcode": "PRED-099",
+  "title": "就愛誘惑人！美尻超讚女教師 山岸逢花",
+  "publish_date": "2018-09-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "女教師",
+    "美臀",
+    "女上位",
+    "姐姐・妹妹",
+    "數位馬賽克",
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230408/11b71f84-d5c6-4fd1-9b6c-2f11032a7bde.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230408/11b71f84-d5c6-4fd1-9b6c-2f11032a7bde.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19526",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19526&name=山岸逢花"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19526&name=鲛岛"
+    }
+  ]
+};

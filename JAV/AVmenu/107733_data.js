@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/30/e8c54093/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107733,
+  "IDcode": "MIDV-091",
+  "title": "性感覺醒子宮口開發小穴激烈抽插潮吹高潮 水卜櫻",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "多P",
+    "苗条",
+    "潮吹",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midv091/midv091pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107733",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107733&name=水卜櫻"
+    }
+  ]
+};

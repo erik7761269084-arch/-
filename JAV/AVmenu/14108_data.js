@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a9c4b213-5c70-40c3-8ac2-dfd53cfa4412/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/0ab6fda8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14108,
+  "IDcode": "JUQ-767",
+  "title": "神賜！國寶顏值，Madonna麥當娜電擊移籍 成人感溢出的野獸，SEX 3本番 ~ 朝日莉緒",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "熟女",
+    "美少女電影",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUQ-767为MADONNA出品,2024年6月11日发行的有碼成人影片由朝妃莉緒出演\n上帝所賜的面寶「朝日里歐」決定麥當娜專屬！ ！她有著壓倒性的美貌，讓人望而卻步，但友善的個性和調皮的性格卻讓她成為一個非常有魅力的女孩！ ！第一部令人難忘的全裸獨家電影的主題是麥當娜風格的“超激烈舌吻SEX”。她第一次沉浸在原始的性愛中，唾液和愛液交織在一起，就像麥當娜一樣…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607013744548548.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240607/20240607013744548548.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14108",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14108&name=朝妃莉緒"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14108&name=鲛岛"
+    }
+  ]
+};

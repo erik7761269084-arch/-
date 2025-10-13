@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8473221b-ddc3-4ce5-88f5-6ecd8c65a347/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18099,
+  "IDcode": "IPX-844",
+  "title": "性愛飢渴的女人真實禁欲後的熱情一刀未剪性交 神菜美舞",
+  "publish_date": "2022-04-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "4K",
+    "中出",
+    "女上位",
+    "潮吹",
+    "口交",
+    "姐姐・妹妹",
+    "慾求不滿",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031003630575575.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231031/20231031003630575575.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18099",
+  "actresses": [
+    {
+      "name": "神彩美舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230926/baf74b83-5b89-41b3-aeab-c2493ad0f1da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18099&name=神彩美舞"
+    }
+  ]
+};

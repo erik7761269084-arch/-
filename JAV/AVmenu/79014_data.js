@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/U2oDMIqb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79014,
+  "IDcode": "PPPD-816",
+  "title": "- 集団痴●でイカされて… 見知らぬ男たちにオッパイを揉み倒される異常快感に溺れていく巨乳OL 長瀬麻美 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79014",
+  "actresses": [
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79014&name=长瀬麻美"
+    }
+  ]
+};

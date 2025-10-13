@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/YntBEWRQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89075,
+  "IDcode": "VNDS-3405",
+  "title": "普通の人妻さんが一番スケベ なのこさん（35） 巴なのこ",
+  "publish_date": "2023-11-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "出轨",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89075",
+  "actresses": [
+    {
+      "name": "巴なのこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89075&name=巴なのこ"
+    }
+  ]
+};

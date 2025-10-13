@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/191039a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59792,
+  "IDcode": "MIMK-098",
+  "title": "- 戦争が終わって用済みになった人間兵器の巨乳美少女を拾って家に持ち帰ってみたら… オトナテイコク・山羊野メェ吉が描く傑作同人を最速実写化！ （ブルーレイディスク） （BOD） - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女佣",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59792",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59792&name=松本菜奈実"
+    }
+  ]
+};

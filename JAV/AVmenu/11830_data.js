@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/30c99896-b120-437a-bd87-811e54205de9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/27/35526ee2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11830,
+  "IDcode": "ROE-265",
+  "title": "晚上7點媽媽的兼職工作結束後就會回家…… ~ 水野優香",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "朋友母親",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "ROE-265为MADONNA出品,2024年9月24日发行的有碼成人影片由水野優香出演\n我的父親獨自工作，我和母親由香住在一起。我內向，媽媽很擔心我，但上個月我和搬到隔壁的同學裕太成了朋友。他們開始每天出去玩，甚至告訴佑太他正在開始做兼職，這是被禁止的。然而，佑太將青春期對美麗母親的性慾置於保守秘密之上。那天，當媽媽告訴我她要在晚上7點回家，因為她正在做兼職時，我擔心媽媽根本沒有回家，就跑出了門，然後我聽到悠太的房間裡傳來了一聲喘息聲。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919035306178178.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919035306178178.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11830",
+  "actresses": [
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11830&name=水野優香"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11830&name=ニック"
+    }
+  ]
+};

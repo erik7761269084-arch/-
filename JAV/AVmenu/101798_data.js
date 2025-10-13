@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240418/xwONsXZf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101798,
+  "IDcode": "GANA-3017",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 342 街で出会った色白お姉さんを連れ込み！大人しそうなのに下着が激エロで電マが大好き！美巨乳を揺らして濃厚SEX！",
+  "publish_date": "2024-04-12",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "业余",
+    "乳房",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101798",
+  "actresses": [
+    {
+      "name": "ゆいの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101798&name=ゆいの"
+    },
+    {
+      "name": "岡部侑衣乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101798&name=岡部侑衣乃"
+    }
+  ]
+};

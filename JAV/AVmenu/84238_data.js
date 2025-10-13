@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/JMB8786T/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84238,
+  "IDcode": "CJOD-353",
+  "title": "Wギャル尻ド痴女ハーレム 巨尻に囲まれ挟まれ交互に中出し逆レ●プ 乙アリス 今井夏帆",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "女生",
+    "巨大屁股",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/3a73341e0392f6fdc0cedba971af198b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84238",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84238&name=乙愛麗絲"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84238&name=鲛岛"
+    },
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84238&name=今井夏帆"
+    }
+  ]
+};

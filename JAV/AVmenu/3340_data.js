@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e163f4d0-3403-4ee6-8b3b-cdb6c2531709/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/4b41ef84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3340,
+  "IDcode": "ROE-384",
+  "title": "絕對絕對保密的不倫之戀！人妻周末偷腥，女性風俗店偶遇兒子的好友 ~ 水野優香",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "按摩・美容店",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "儿子的朋友"
+  ],
+  "description": "ROE-384为MADONNA出品,2025年8月21日发行的有碼成人影片由水野優香出演\n老公在外地單身赴任居然搞外遇，人妻氣不過決定小小報復一下，跑去女性風俗店找刺激，沒想到竟然遇到兒子的好友小矢！明明知道這關係不被允許，但人都叫來了，實在不好意思拒絕，在對方保證絕對保密的情況下，兩人還是忍不住越界了……那從未感受過的強烈衝擊和腰力，真的讓人一次次高潮到腳軟，完全停不下來啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024224754754_98675_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024224754754_98675_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3340",
+  "actresses": [
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3340&name=水野優香"
+    }
+  ]
+};

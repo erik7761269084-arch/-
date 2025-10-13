@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/d2b4c5e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63819,
+  "IDcode": "ENKI-083",
+  "title": "従順ドMメチャクチャに回されたい願望ハンパない ご主人様に飼われて幸せいっぱいの中出し専用肉便器 しずね",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实",
+    "调教",
+    "滥交",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/05/e41f6e37d5708dc0edce40e4fca6d7c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63819",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220704/C6E0C17F6A30592F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37415,
+  "IDcode": "8F60542EDA383885FE401391D4EB-8589",
+  "title": "朝ゴミ出しする近所の遊び好きノーブラ奥さん 水原麗子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37415",
+  "actresses": []
+};

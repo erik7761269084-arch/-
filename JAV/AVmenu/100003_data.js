@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230308/371E229466446097/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100003,
+  "IDcode": "MMUS-030",
+  "title": "小悪魔挑発美少女 加藤ももか",
+  "publish_date": "2019-02-01",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "高中女生",
+    "淫语",
+    "女生",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mmus030/mmus030pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100003",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100003&name=加藤桃香"
+    }
+  ]
+};

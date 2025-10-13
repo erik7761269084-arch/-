@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f846cf35-dc16-4519-a458-9e83092d812c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/22/e124fd7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2680,
+  "IDcode": "SDMM-209",
+  "title": "這個夏天在海灘出道！新人救生員限定性騷擾的講習 ~ 川上しずく 依本詩織 綾波蓮 及川莉央",
+  "publish_date": "2025-09-15",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "4K",
+    "魔鏡號",
+    "乳交",
+    "色白",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "海灘",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "無毛",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "SDMM-209为SOD出品,2025年9月15日发行的有碼成人影片由綾波蓮，依本詩織，川上しずく，及川莉央出演\n暑假前急著拿救生員資格的大學生小姐姐，被騙上車參加所謂免費培訓，結果發現這根本不是正經課程，而是超色指導！胸部被揉，私密處被摸，甚至還被強吻，4位素人小姐姐在快感的海洋中完全沉淪，超刺激SP！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2680",
+  "actresses": [
+    {
+      "name": "依本詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c45b8acc-1cbc-4413-96ea-f3493e184bc7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2680&name=依本詩織"
+    },
+    {
+      "name": "川上しずく",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/19490754-ba5a-4f7e-a3ee-5e264cd0c441.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2680&name=川上しずく"
+    },
+    {
+      "name": "綾波蓮",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/0f23ea09-9eae-4b95-9264-68f08051b692.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2680&name=綾波蓮"
+    },
+    {
+      "name": "及川莉央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250429/7af47491-e67b-4714-a3a2-9e2c90449bc4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2680&name=及川莉央"
+    }
+  ]
+};

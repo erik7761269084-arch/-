@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/07/bacd2d2b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 117506,
+  "IDcode": "FC2-4559762",
+  "title": "与偶像匹敌的美女",
+  "publish_date": "2025-07-08",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/07/5c9133e74d78637fdf1cc557b5fedbce.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=117506",
+  "actresses": []
+};

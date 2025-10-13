@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b3272e88-0725-4f5a-a50c-f7411fddfc8e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/88ea85eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14067,
+  "IDcode": "DVAJ-655",
+  "title": "已婚人妻因丈夫性無能只能拜託他的單身男人同事來操了！被淹沒在性愛裏！ ~ 橘瑪麗",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "貴婦",
+    "同事女友・妻子",
+    "劇情",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "口交",
+    "性感",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/89d4a51d-6b9f-4694-871e-e1aca4e1ff4b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/89d4a51d-6b9f-4694-871e-e1aca4e1ff4b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14067",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14067&name=橘瑪麗"
+    }
+  ]
+};

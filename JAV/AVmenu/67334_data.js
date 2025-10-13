@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/84e00499/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67334,
+  "IDcode": "MMPB-078",
+  "title": "アイドル美少女オナホレイヤー",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "妄想",
+    "角色扮演者",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67334",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=松本一香"
+    },
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=小坂ひまり"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=绫濑心"
+    },
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=星乃夏月"
+    },
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=夢莉梨花"
+    },
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67334&name=若宫穂乃"
+    }
+  ]
+};

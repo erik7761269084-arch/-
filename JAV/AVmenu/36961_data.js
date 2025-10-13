@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220531/7C20D9A283C97604/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36961,
+  "IDcode": "B901D16EBB5F12C2EF18E774B1F74A-21",
+  "title": "霓虹素人妹子的自慰首秀",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36961",
+  "actresses": []
+};

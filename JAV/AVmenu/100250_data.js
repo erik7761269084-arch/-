@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230325/433F5681F37B9A9A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100250,
+  "IDcode": "MIDE-120",
+  "title": "女教師レイプ輪姦 秋山祥子",
+  "publish_date": "2014-06-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "轮奸",
+    "强奸",
+    "数位马赛克",
+    "深喉",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mide120/mide120pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100250",
+  "actresses": [
+    {
+      "name": "秋山祥子",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/826137fa-94ff-4e9f-b0be-e64cee41a56d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100250&name=秋山祥子"
+    }
+  ]
+};

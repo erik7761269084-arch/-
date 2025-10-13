@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240609/PzUsvjJ0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103975,
+  "IDcode": "ROYD-042C",
+  "title": "只有我知道。清楚系眼鏡女社員、其實是有著白皙爆乳超淫亂妹子的秘密 高瀨里奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103975",
+  "actresses": []
+};

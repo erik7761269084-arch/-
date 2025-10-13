@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/14/22acaea8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73076,
+  "IDcode": "HMDNV-774",
+  "title": "【美容サロン勤務】クール系むっつり美人妻 欲求不満ムラムラ性欲MAX ハードピストンでイキ狂う淫乱中出しNTR【美顔美乳最強美ボディ！！】",
+  "publish_date": "2025-02-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "各种职业",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/14/22acaea8/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73076",
+  "actresses": [
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73076&name=爱乃零"
+    }
+  ]
+};

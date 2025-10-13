@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/15/c1067c53/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82244,
+  "IDcode": "AVSA-119",
+  "title": "カリナ女王様のM男調教 西田カリナ",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "SM",
+    "M男",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/7bdf37845b1e344c103fdbec2f1afedd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82244",
+  "actresses": [
+    {
+      "name": "西田卡莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723230156158158_27005_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82244&name=西田卡莉娜"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57103,
+  "IDcode": "4301C73EADB78D5E906A0C435AFB8787",
+  "title": "胖日本人与大屁股自慰，并得到性玩具。 BBW 海滩 2 大阪色情",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57103",
+  "actresses": []
+};

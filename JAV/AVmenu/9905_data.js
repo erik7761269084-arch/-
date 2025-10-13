@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/be925ea3-1dce-4789-89ee-8dc93dd63122/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/08/4671d194/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9905,
+  "IDcode": "VAGU-278",
+  "title": "酒吧、泡泡浴、男士美容院……無論去哪家店，寵愛兒子的媽媽都會來找你的 ~ 都月楓",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "網襪",
+    "按摩・物理治療・美容",
+    "變態",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "蕩婦",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "按摩・美容店",
+    "奇聞趣事",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "奇異的",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241214/ff8c7800-604b-4325-8074-a580b5a186d5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241214/ff8c7800-604b-4325-8074-a580b5a186d5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9905",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9905&name=都月楓"
+    }
+  ]
+};

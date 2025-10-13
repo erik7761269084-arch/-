@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240403/XE9gg1w2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59114,
+  "IDcode": "060518-680",
+  "title": "禁欲解放日に溺れさせて",
+  "publish_date": "2018-06-05",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "69",
+    "立即口交",
+    "淫荡手淫",
+    "打手枪",
+    "口爆/吞精",
+    "美乳",
+    "苗条",
+    "贫乳",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59114",
+  "actresses": []
+};

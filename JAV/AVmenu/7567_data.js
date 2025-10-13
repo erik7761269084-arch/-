@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/190a8a02-4f05-4d3a-ad3a-26558250eabc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/04/02/f9ba893d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7567,
+  "IDcode": "MUCD-325",
+  "title": "超可愛制服美少女和我瘋狂幹到爽翻天的情侶愛愛SEX 精液榨幹爲止的濃厚種付 ~ 赤名伊都 北岡果林",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "純粹的慾望",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "正統派",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "MUCD-325为無垢出品,2025年3月18日发行的有碼成人影片由北岡果林，赤名いと出演\n與穿著制服的超級可愛女孩發生親密性愛。正統美少女「花梨」與愛流汗又調皮的「伊藤」登場。美麗到爆的女孩，與情人做愛時射精不斷。她的微笑、她的口交臉、她的高潮臉以及她大汗淋漓、全神貫注的姿勢都充滿色情和性感。該影片包含兩個人以一種肯定會讓你興奮的方式進行內射的鏡頭。所有製服愛好者必看的。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/202503130851435151.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/202503130851435151.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7567",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7567&name=北岡果林"
+    },
+    {
+      "name": "赤名いと",
+      "img_url": "https://picture.yoshiclub.xyz/20240531/c81429f7-a9ef-4971-87ef-5013f8c2795a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7567&name=赤名いと"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7567&name=向理来"
+    }
+  ]
+};

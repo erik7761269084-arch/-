@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/22/0667e882/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82981,
+  "IDcode": "HUNTA-710",
+  "title": "義理の姉妹のおかげで毎日エッチなことができています。親が再婚し一緒に住むことになったひきこもりの義兄は性欲モンスター！義妹を守るため義姉は…",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "凌辱",
+    "妹妹",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82981",
+  "actresses": [
+    {
+      "name": "星空萌愛",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/5633e352-9d50-4abc-a0fa-7afd25737f80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82981&name=星空萌愛"
+    }
+  ]
+};

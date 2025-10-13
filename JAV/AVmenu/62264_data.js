@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240429/B2Gj2HnD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62264,
+  "IDcode": "DPMI-082",
+  "title": "【FANZA限定】ワンダフルクイーン 夏川あゆみ 写真とチェキ付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "屁股",
+    "身体意识",
+    "连裤袜",
+    "恋腿癖",
+    "兔女郎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62264",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62264&name=夏川步美"
+    }
+  ]
+};

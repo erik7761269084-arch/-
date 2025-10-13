@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230131/2A1ED774D681F32E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99176,
+  "IDcode": "GVG-832",
+  "title": "母子姦 音羽文子",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99176",
+  "actresses": [
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99176&name=音羽文子"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/18/991c2582/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85136,
+  "IDcode": "KAM-099",
+  "title": "職場の親睦会で飲み過ぎたパート人妻さんをお持ち帰りして宅飲みでナマまんゲットした盗撮素材をせっかくなのでそのままAV転売します10",
+  "publish_date": "2022-01-18",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "偷窥",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85136",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85136&name=田中寧寧"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221229/n4YZYr1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83653,
+  "IDcode": "KRU-074",
+  "title": "「旦那以外の男のモノははじめて…」無知で恥らう美人妻ソープランド中出し面接盗撮動画",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83653",
+  "actresses": []
+};

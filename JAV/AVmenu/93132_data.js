@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/38ELd29S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93132,
+  "IDcode": "PPPD-908",
+  "title": "歌舞伎町で出会ったタダマン巨乳ギャル！！ オヤジ大好き女子大生と朝までイチャパコ！！",
+  "publish_date": "2021-02-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "第一人称摄影",
+    "女生",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93132",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93132&name=鲛岛"
+    },
+    {
+      "name": "梁井一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93132&name=梁井一"
+    }
+  ]
+};

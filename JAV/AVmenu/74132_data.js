@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/19/501e725f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74132,
+  "IDcode": "JUY-963",
+  "title": "地元へ帰省した三日間、人妻になっていた憧れの同級生と時を忘れて愛し合った記録―。 神宮寺ナオ",
+  "publish_date": "2019-09-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250108-1/6504e3a990c44e25cbf04d45b63d03f9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74132",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74132&name=神宫寺奈绪"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e8c3f16-85de-4df4-bece-401d0e89d7ef/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/23/018654da/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12884,
+  "IDcode": "JUTA-146",
+  "title": "極上！ ！ 40路熟人妻的第一次AV ~ 桐島かほり",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "熟女JAPAN",
+  "genres": [
+    "苗條",
+    "企畫",
+    "色白",
+    "紀念作",
+    "中出",
+    "重口味",
+    "人妻",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240807/2eca57d5-5a07-47cf-848b-9dbcfc68d506.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240807/2eca57d5-5a07-47cf-848b-9dbcfc68d506.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12884",
+  "actresses": [
+    {
+      "name": "三枝木玲実",
+      "img_url": "https://picture.yoshiclub.xyz/20240807/32983d07-4430-404b-a34b-a421c32a7f12.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12884&name=三枝木玲実"
+    }
+  ]
+};

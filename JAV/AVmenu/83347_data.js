@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/Yw9BA87a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83347,
+  "IDcode": "TIKB-074",
+  "title": "【ハメログ】今井夏帆ちゃんにお酒を飲ませたらドスケベオーラがムンムンだったのでそのままハメ撮りしちゃいました！",
+  "publish_date": "2020-03-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "女生",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/69d98e4dc6a4c10e204569051afffd44.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83347",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83347&name=今井夏帆"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f2cb0ef-d2c9-444d-8136-f38029fe7d78/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 83,
+  "IDcode": "HEYZO-0005",
+  "title": "離別前的最後一炮 ~ 西尾香織",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "純粹的慾望",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0005为HEYZO出品,2012年8月31日发行的無碼成人影片由西尾かおり出演\n決定出國留學，妹子硬著頭皮打電話跟男友坦白，沒想到聊著聊著兩人都慾火難耐，直接玩起了電話性愛，妹子自慰到高潮潮吹！幾天後，男友在留學前趕來，床上來場離別前的最後纏綿，捨不得分開啊！妹子敏感的小穴被一碰就潮吹，忍不住嬌喘著求他再用力點！加上電棒猛攻，爽到翻天！濕透的小穴被心愛的肉棒狠狠頂入，她還主動求深入，腰肢狂擺，一次次高潮不斷！最後達到頂峰，濃濃的精液從小穴流出，這離別前的中出體驗真的是極致享受！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820045213935935_98150_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/20250820045213935935_98150_s.webp",
+  "title_play_url": null,
+  "actresses": [
+    {
+      "name": "西尾かおり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421103809174174_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83&name=西尾かおり"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59090,
+  "IDcode": "062818_706",
+  "title": "062818_706 むっちりメイドはFカップ！！",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59090",
+  "actresses": []
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f0f13fb3-3ca6-4a1d-a3aa-98afe3beb1aa/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/b39f057d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9431,
+  "IDcode": "MIDV-981",
+  "title": "口交後，被連續10發中出追擊 ~ 野宮杏",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "口爆",
+    "多P",
+    "美少女",
+    "癡女",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIDV-981为MOODYZ出品,2025年1月7日发行的有碼成人影片由野宮杏出演\n野宮 獨家第 3 版 x 第一部蕩婦作品！ ！他用可愛的眼睛和魔鬼般的手勢微笑。吸吮男孩的雞巴！她把它吸進嘴裡，吸吮它，給它口交，拍攝臉部射精，甚至給它一個清潔口交！嘴裡叼著公雞的臉就像松鼠吃橡實一樣，可愛極了！連續6只雞巴口交！一天吸了很多雞雞的小安看起來很滿足很幸福！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102080205265265.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102080205265265.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9431",
+  "actresses": [
+    {
+      "name": "野宮杏",
+      "img_url": "https://picture.yoshiclub.xyz/20241101/020049c9-345d-4766-b233-a70d40d8114b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9431&name=野宮杏"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9431&name=鲛岛"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9431&name=日森一"
+    }
+  ]
+};

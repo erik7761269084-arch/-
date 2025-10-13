@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/9QP1qV5K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83146,
+  "IDcode": "OKAX-575",
+  "title": "「こんな場所で舐めるんですか？」可愛いOLに職場内でフェラチオしてもらったらジュポジュポ音がしちゃって…4時間",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "各种职业",
+    "制服",
+    "口交",
+    "业余",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83146",
+  "actresses": []
+};

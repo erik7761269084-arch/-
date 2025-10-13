@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/856f6470-6719-42bf-aabe-3bf57f0411dd/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/14fec3b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4598,
+  "IDcode": "SDJS-322",
+  "title": "SOD女子社員 全裸遊泳大會2025 各部門代表G到J級爆乳 溼身大對決 ~ 雲越莉奈 真鍋聖菜 新木成美 久住咲良 奧井咲歩",
+  "publish_date": "2025-07-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "4K",
+    "大亂交",
+    "色白",
+    "中出",
+    "OL",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "泳池",
+    "制服",
+    "素人",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "多P",
+    "綜藝",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "眼鏡",
+    "放尿",
+    "羞恥"
+  ],
+  "description": "SDJS-322为SOD出品,2025年7月8日发行的有碼成人影片\n为了下季预算，各部门精选的爆乳女职员在泳池里火拼到底！6大竞技项目让你看得血脉喷张，还有感谢男同事的口活福利，以及临时厕所放尿的刺激画面，4小时满满的湿身诱惑！史上首次4K60fps超清高速拍摄，湿透的画面简直让人受不了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707202940679679_37166_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250707/20250707202940679679_37166_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4598",
+  "actresses": [
+    {
+      "name": "雲越莉奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4598&name=雲越莉奈"
+    },
+    {
+      "name": "真鍋聖菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4598&name=真鍋聖菜"
+    },
+    {
+      "name": "新木成美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4598&name=新木成美"
+    },
+    {
+      "name": "久住咲良",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4598&name=久住咲良"
+    },
+    {
+      "name": "奥井咲歩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4598&name=奥井咲歩"
+    }
+  ]
+};

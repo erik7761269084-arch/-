@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d759750f-8763-4751-9421-5539dac61cf2/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/tyaM2amy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12598,
+  "IDcode": "PPPE-254",
+  "title": "Icup大奶頭豐滿的性治療師用精油和巨乳帶您連續15射，色白美巨乳的乳房按摩",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "網襪",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "美腳",
+    "按摩・美容店",
+    "過膝襪・小腿襪",
+    "人妻",
+    "巨乳",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "PPPE-254为OPPAI出品,2024年8月20日发行的有碼成人影片\n由乳交愛好者為乳交愛好者提供的乳交年輕化美學。皮膚白皙、大胸部、I罩杯身材的物理治療師，會為你解除疲勞和精液。油與豐胸技術相結合，為黏滑柔軟的乳房提供親密接觸服務。即使顧客對一道菜不滿意，也保證對所有課程都滿意。連續口交乳交、PtoP連續乳交性愛、壓胸臉部護理、油乳連拍性愛。毫無疑問，你會沉迷於擠壓的快感，享受神聖的乳交待遇。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816000345923923.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240816/20240816000345923923.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12598",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12598&name=タイ"
+    }
+  ]
+};

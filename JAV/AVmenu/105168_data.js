@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/c668b4f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105168,
+  "IDcode": "MIDV-674",
+  "title": "元上司の乳首こねくり調教で即イキ早漏体質に開発され再三にわたる乳頭イジりで私の理性も夫への愛も… 八木奈々 （BOD）",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "多P",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105168",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105168&name=八木奈々"
+    }
+  ]
+};

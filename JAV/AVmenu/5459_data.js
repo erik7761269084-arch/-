@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f8b5cdd6-3dbb-432e-a2a3-114c637c4f4e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/e9964c34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5459,
+  "IDcode": "HZGD-307",
+  "title": "成爲繼子的專屬中出肉便器 ~ 沙月惠奈",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "繼母",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "4K",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "大奶头",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HZGD-307为人妻花園劇場出品,2025年6月6日发行的有碼成人影片由沙月惠奈出演\n老公在床上總是索然無味，讓人妻慾火難耐，憋到不行。某天忍不住自己動手解決需求，卻被老公的繼子給撞見了。“要不要我幫你一下啊？”就這一句話，開啟了禁忌的偷情關係。繼子的超強技巧加上年輕又猛的持久力，完全不是老公能比的，讓人妻徹底淪陷，從早到晚都沉溺在中出的快感中，欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/2025060504511800_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/2025060504511800_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5459",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5459&name=沙月惠奈"
+    }
+  ]
+};

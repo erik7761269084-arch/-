@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/6A24FF312B2D7E21/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36589,
+  "IDcode": "35984B56DD54E0DF9F2189909818D0D-2",
+  "title": "结婚前悔婚~立马去找前男友干一炮",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36589",
+  "actresses": []
+};

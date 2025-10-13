@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221018/541C2564F090E1DE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65704,
+  "IDcode": "BEFF7FCA392CA3F64173FA489E1C48FF",
+  "title": "处女尹家和骄傲高 3 天初川南",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65704",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/30/90b04d82/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88292,
+  "IDcode": "CAWD-115",
+  "title": "相部屋中出しNTR 彼氏の目の前で絶倫上司に初めて種付絶頂を教え込まれた出張先の夜 桜もこ",
+  "publish_date": "2020-09-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/6da189c946d48e265dfb272bbc002363.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88292",
+  "actresses": [
+    {
+      "name": "櫻萌子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-桜もこ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88292&name=櫻萌子"
+    }
+  ]
+};

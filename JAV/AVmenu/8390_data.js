@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f5f0e49c-0ab1-4a9a-a54f-383bd9ff5c8c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8390,
+  "IDcode": "ALDN-423",
+  "title": "沉迷於中出快感的人妻 ~ 真木今日子",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "69",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "吞精",
+    "深喉",
+    "流汗",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "多P",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "羞恥",
+    "報復"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/417521a8-9ae2-4691-b348-f38a914bf609.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/417521a8-9ae2-4691-b348-f38a914bf609.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8390",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8390&name=真木今日子"
+    }
+  ]
+};

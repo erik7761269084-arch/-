@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/15/4c4bc688/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62037,
+  "IDcode": "HTHD-231",
+  "title": "友達の母親～最終章～ 東ふうか",
+  "publish_date": "2025-07-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/4c4bc688/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62037",
+  "actresses": [
+    {
+      "name": "東ふうか",
+      "img_url": "https://picture.yoshiclub.xyz/20250227/e8d23a58-6a74-45cb-baf9-7e0259aadf1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62037&name=東ふうか"
+    }
+  ]
+};

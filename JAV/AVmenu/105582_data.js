@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/17/3a0d32ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105582,
+  "IDcode": "MIMK-053",
+  "title": "クリムゾン×MOODYZ親友のカレシに犯された私 希崎ジェシカ",
+  "publish_date": "2018-03-23",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "强奸",
+    "羞耻",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105582",
+  "actresses": []
+};

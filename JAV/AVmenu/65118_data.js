@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220623/F8FBF3006074FA61/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65118,
+  "IDcode": "BF49F3154107FA0A24AB5AF8A6E1BB9C",
+  "title": "【帰ってきた】おじさんぽ 17 「キンタマ空っぽになるまで気持ち良くしてあげる…」とか言っちゃう爆乳若妻と下町探索お散歩…",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65118",
+  "actresses": []
+};

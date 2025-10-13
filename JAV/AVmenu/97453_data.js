@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220317/1C36D3A8050F754D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97453,
+  "IDcode": "GANA-1738",
+  "title": "マジ軟派、初撮。 1088",
+  "publish_date": "2018-05-17",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "女大学生",
+    "颜射",
+    "苗条",
+    "潮吹",
+    "业余",
+    "女优按摩棒",
+    "乳房",
+    "猎艳",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97453",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97453&name=美谷朱里"
+    }
+  ]
+};

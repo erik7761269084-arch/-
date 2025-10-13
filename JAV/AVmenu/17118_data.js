@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e8ebdfe0-de2f-4209-9072-b891259edef8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17118,
+  "IDcode": "SSIS982",
+  "title": "一個充滿愛心的經理，無論你要求什麼，他都能滿足你，並支持你參加俱樂部性活動和自慰。",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "制服",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "運動女孩",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "學校",
+    "女學生"
+  ],
+  "description": "SSIS982为S1出品,2023年12月26日发行的有碼成人影片由架乃由羅出演\n「我想我會給你努力的獎勵！」他盯著我輕聲低語，讓我勃起！用黏稠的舌頭親吻，從龜頭到睪丸的口交，張開的指法，改變早洩的女上位姿勢，以及從前戲到性愛的支持！一個幸福的學校性活動，無論你多麼沮喪，都會讓你的心和雞巴振奮起來！\n「我想我會給你努力的獎勵！」他盯著我輕聲低語，讓我勃起！用黏稠的舌頭親吻，從龜頭到睪丸的口交，張開的指法，改變早洩的女上位姿勢，以及從前戲到性愛的支持！一個幸福的學校性活動，無論你多麼沮喪，都會讓你的心和雞巴振奮起來！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231223/8d348bf0-8009-44eb-ae97-d6772d17dd5f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231223/8d348bf0-8009-44eb-ae97-d6772d17dd5f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17118",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17118&name=架乃由羅"
+    }
+  ]
+};

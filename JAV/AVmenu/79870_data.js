@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/23/821a9e5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79870,
+  "IDcode": "JUL-731",
+  "title": "甘い囁きに流されるまま、僕は大学を留年するまで、人妻との巣篭もりSEXに溺れて…。 水戸かな",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "淫语",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/3e2402fd69eefa7a62f47d61f285c2de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79870",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79870&name=水户香奈"
+    }
+  ]
+};

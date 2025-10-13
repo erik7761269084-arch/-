@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2c81c298-9eb9-4ff9-887f-42158b67c347/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/07/7099c429/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12445,
+  "IDcode": "MDBK-337",
+  "title": "用絕技治愈主人的巨臀家政婦 ~ 尾崎惠梨香 早川瑞希 椿りか",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "故事集",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "裸體圍裙",
+    "騎乗位",
+    "家政婦",
+    "性感",
+    "美腳",
+    "艷遇",
+    "巨乳",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240825/32281b00-1959-4790-a359-a1d5d1423eef.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240825/32281b00-1959-4790-a359-a1d5d1423eef.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12445",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12445&name=椿莉香"
+    },
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12445&name=尾崎惠梨香"
+    },
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12445&name=若宮葉月"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12445&name=若宫はずき"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/FAPaI2uo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73571,
+  "IDcode": "ABP-894",
+  "title": "強制中出し 射精執行官 01 園田みおん",
+  "publish_date": "2019-09-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "肛交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73571",
+  "actresses": [
+    {
+      "name": "园田美樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/49d60faa-ccb3-491a-96ac-19bc1bcca92f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73571&name=园田美樱"
+    }
+  ]
+};

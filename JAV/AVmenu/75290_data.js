@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/79d01f73/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75290,
+  "IDcode": "MIDV-974",
+  "title": "新人 Iカップ 王道グラドルボイン あんづ杏AV Debut！",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "偶像",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/02/9cdf7bd33088d88862025a1943c2ea8f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75290",
+  "actresses": [
+    {
+      "name": "杏津杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250103/4d556e67-2ec1-4870-8fe1-cbd969a08b18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75290&name=杏津杏"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75290&name=鲛岛"
+    }
+  ]
+};

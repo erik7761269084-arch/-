@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240123/mzTRuTHA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90670,
+  "IDcode": "NNPJ-573",
+  "title": "男の人とデートしたことがない清楚系女子大生をデート後、ホテルに誘ってみたら… 超絶敏感・●トゥー・大量潮吹き…ギャップの天使降臨 さつき",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "苗条",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/7ea34f2792e3fa9f94963608e63d8240.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90670",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90670&name=柊有希"
+    }
+  ]
+};

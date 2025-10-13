@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/47d68eaf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68975,
+  "IDcode": "KAM-244",
+  "title": "欲求不満の肉体が疼いて我慢できず ヤリマン巨乳妻がマンションの両隣の男達と不倫SEX 夫が長期出張中に乱れまくる 三田サクラ",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "纪录片",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/47d68eaf/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68975",
+  "actresses": []
+};

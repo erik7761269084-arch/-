@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/25/9f8930bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80165,
+  "IDcode": "STARS-477",
+  "title": "朝ドラ系現役アイドルT〇kT〇ker 西元めいさ 初体験で初絶頂 #初イキ #初巨根 #初3P #キャパオーバー #快感 #くびれボディ #ビクッビク",
+  "publish_date": "2021-11-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "多P",
+    "苗条",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80165",
+  "actresses": []
+};

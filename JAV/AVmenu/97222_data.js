@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240711/Qt5xJKJU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97222,
+  "IDcode": "BAGR-009",
+  "title": "【FANZA限定】ギャルチューバ―めるのM男イジり大好きチャンネル 伊東める パンティと生写真付き",
+  "publish_date": "2022-09-14",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "放尿",
+    "荡妇",
+    "M男",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bagr009/bagr009pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97222",
+  "actresses": []
+};

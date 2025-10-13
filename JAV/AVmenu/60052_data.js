@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/11/47c86b21/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60052,
+  "IDcode": "374SHOW-016",
+  "title": "374show-016走在街上看着很时尚的女孩子其实私底下很好色喜欢和大叔做爱",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/11/47c86b21/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60052",
+  "actresses": []
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ebedebda-24a8-4d4a-9b11-498baa9fe52f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5804,
+  "IDcode": "MCSR-602",
+  "title": "熟透人妻的身材太誘人，直接開幹內射不停！12位大姐姐200分鍾！",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "即時插入",
+    "熟女",
+    "精選綜合"
+  ],
+  "description": "MCSR-602为Big Morkal出品,2025年5月24日发行的有碼成人影片\n這些姐姐皮膚滑溜到想咬下去，肉感爆棚的身軀，胸部軟嫩到讓人捨不得放手！完美曲線從頭摸到腳，理智瞬間爆炸，人妻的色氣模式全開！身體熱到不行，深處癢得受不了，她們主動求愛，慾望根本停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525213617180180_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250525/20250525213617180180_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5804",
+  "actresses": []
+};

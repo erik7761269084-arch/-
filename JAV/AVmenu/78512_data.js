@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241107/InRPYeEj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78512,
+  "IDcode": "IPX-402CN",
+  "title": "IPX402CN絶頂117回！大痙攣141回！潮吹き8100cc！エロス極限突破トランス絶頂FUCK相沢みなみ.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78512",
+  "actresses": []
+};

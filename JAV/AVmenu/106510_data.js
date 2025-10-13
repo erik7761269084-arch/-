@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/25/18df15b7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106510,
+  "IDcode": "FSDSS-517",
+  "title": "催眠洗腦 對侮蔑我的嫁給好野人OL完全支配用底層肉棒搞到她不要不要。吉高寧寧",
+  "publish_date": "2022-12-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "凌辱",
+    "女上位",
+    "接吻",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/25/9dfdce860670bb4ebfcf57c8a0067def.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106510",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106510&name=吉高寧寧"
+    }
+  ]
+};

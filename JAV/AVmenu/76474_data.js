@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/wr6MMXTw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76474,
+  "IDcode": "NASH-118",
+  "title": "肌色の下着をつけたおばさん 上品でしっとりとした奥様方の生々しい色気…",
+  "publish_date": "2019-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "内衣",
+    "母亲",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76474",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/24/2a68b70b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85558,
+  "IDcode": "MRSS-129",
+  "title": "最愛の妻が中出しされてる寝取られ動画が後輩のチャラ男のスマホ内にたくさん保存してあった 久留木玲",
+  "publish_date": "2022-02-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/e6f13da16a63fdf14b05b6e0298fbf2c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85558",
+  "actresses": [
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85558&name=久留木玲"
+    }
+  ]
+};

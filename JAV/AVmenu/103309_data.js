@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230227/BED1990A3333D5D5/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103309,
+  "IDcode": "KCPJ-022",
+  "title": "巨乳中出し妻・人には言えない淫乱願望 渡辺美羽",
+  "publish_date": "2014-06-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103309",
+  "actresses": [
+    {
+      "name": "渡辺美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/9a5eb0a3-5d40-4316-8c61-5a1cdfc3e8b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103309&name=渡辺美羽"
+    }
+  ]
+};

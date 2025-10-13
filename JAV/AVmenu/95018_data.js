@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/25/223eeb1c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95018,
+  "IDcode": "KBI-028",
+  "title": "神戸妻の究極筆おろし 美人妻が母性愛で童貞のすべてを包み込む！ 米倉穂香",
+  "publish_date": "2020-01-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "口交",
+    "处男",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95018",
+  "actresses": []
+};

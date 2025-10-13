@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/f5c15b53/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61120,
+  "IDcode": "DROP-125",
+  "title": "恥じらう素人娘たちの生おっぱいモミまくり！！ 7",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "羞耻",
+    "业余",
+    "乳房",
+    "恋物癖",
+    "恋乳癖",
+    "平胸",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61120",
+  "actresses": []
+};

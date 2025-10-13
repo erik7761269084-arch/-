@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ca5eb6f1-b61f-44d9-a128-df45b062ebbc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/da10a55a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7766,
+  "IDcode": "MILK-237",
+  "title": "陽光辣妹J○的乖順寵物 舔狗老師被我收服啦 ~ 皆瀨明里",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "癡女",
+    "手指插入",
+    "足交",
+    "醫生製服",
+    "M男・M女",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250306/7d155dde-88c7-4896-af26-87822330bf16.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250306/7d155dde-88c7-4896-af26-87822330bf16.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7766",
+  "actresses": [
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7766&name=皆瀨明里"
+    }
+  ]
+};

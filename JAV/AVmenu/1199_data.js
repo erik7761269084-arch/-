@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cce35719-9229-4e86-9e51-ef22395c1ec3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1199,
+  "IDcode": "HEYZO-2139",
+  "title": "美巨乳！保險大姊的枕營業",
+  "publish_date": "2019-11-30",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "上門推銷",
+    "黑絲",
+    "69",
+    "劇情",
+    "身體換業務",
+    "中出",
+    "女業務",
+    "人妻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002220254811811.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/20231002220254811811.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1199",
+  "actresses": [
+    {
+      "name": "立花杏里",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/d66d4fb2-5bbe-4c4e-bcea-9e27cef04690.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1199&name=立花杏里"
+    }
+  ]
+};

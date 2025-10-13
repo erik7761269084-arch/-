@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/19/38a74177/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86924,
+  "IDcode": "IPZ-847",
+  "title": "ノンフィクション…ほんとうにあったレ○プ事件を実写化「天海つばさ最後の凌辱作品」",
+  "publish_date": "2016-11-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "第一人称摄影",
+    "强奸",
+    "妓女",
+    "数位马赛克",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230328-37/37e60a2b7052cfe74b3ac5b18d714fb7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86924",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86924&name=天海翼"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86924&name=森林原人"
+    }
+  ]
+};

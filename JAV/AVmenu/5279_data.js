@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f6581585-a77e-456d-9f65-82532538b98f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/2a3a077e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5279,
+  "IDcode": "GBSA-089",
+  "title": "人妻Resort 30歲 ~ 那賀崎雪音",
+  "publish_date": "2025-06-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "色白",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "旅行",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "清楚系",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "溫泉",
+    "短髮",
+    "寢取",
+    "無毛"
+  ],
+  "description": "GBSA-089为妄想族出品,2025年6月14日发行的有碼成人影片由那賀崎雪音出演\n雪音，30歲，結婚5年了。受到愛旅遊的爸媽影響，對旅行超著迷，直接進了旅行社工作。26歲時在旅途中邂逅了做醫療事務的老公，兩人甜甜蜜蜜結了婚。為了備孕，她辭職回家當全職太太，但沒想到…老公漸漸硬不起來，現在完全變成性冷淡！她擔心老公身體出問題，一問才發現，他竟然有被寝取的癖好！老公還希望她去拍AV，雪音一開始超震驚，但為了夫妻的未來，糾結再三還是接受了這變態癖好，豁出去了啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095947404404_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095947404404_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5279",
+  "actresses": [
+    {
+      "name": "那賀崎雪音",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/87ab423c-c619-4ccd-ae2f-88fcabc03bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5279&name=那賀崎雪音"
+    }
+  ]
+};

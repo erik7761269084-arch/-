@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62aee4a3-fab1-413c-95c0-98a5b82a43a6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13789,
+  "IDcode": "JUQ-790",
+  "title": "中出輪奸的日子永遠不會結束。月野ゆりね",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "輪姦",
+    "多P",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-790为MADONNA出品,2024年6月25日发行的有碼成人影片由月野ゆりね出演\n丈夫外出打工，現在與兒子健人生活，過著平靜的生活。有一天，健人邀請他的同學到他家來，說他們是他的朋友，但他們卻因為他為他們準備的自製餅乾而食物中毒。後來他們來我家，我一再道歉，但他們始終不原諒我，果然強迫我成為他們的女朋友，從那天起，我就開始被輪姦了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621021749131131.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621021749131131.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13789",
+  "actresses": [
+    {
+      "name": "月野ゆりね",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/95b029a3-a179-4ed5-b405-5151fd036726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13789&name=月野ゆりね"
+    }
+  ]
+};

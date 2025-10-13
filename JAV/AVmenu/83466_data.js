@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/E3k6dKXj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83466,
+  "IDcode": "390JAC-027",
+  "title": "【ドM爆乳×中出し2連発】「ごめんね♪素直じゃなくッて♪」普段はドS、エロはドMのツンデレ爆乳戦士現る！おしおき大好きドエムーン！潮吹きびしゃびしゃマーキューリー！スパンキング●●大好きど淫乱マーズ！痙攣ビクビク稲妻ジュピター！神スタイルボンキュンボンまさにヴィーナス！思考回路はショート寸前！爆イキ中出しの巻【ギャルしべ長者13人目 エレン】",
+  "publish_date": "2022-12-06",
+  "type": "有码",
+  "company": "Jackson Stars",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/def23fca025f25d386dc47e7efafd3a2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83466",
+  "actresses": []
+};

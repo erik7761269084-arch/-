@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/20/067882ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107151,
+  "IDcode": "JJDA-018",
+  "title": "讓室內裝修實習的我搓揉胸部溫柔破處的午後巨乳主婦 岩澤香代",
+  "publish_date": "2021-06-01",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107151",
+  "actresses": [
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107151&name=若槻みづな"
+    }
+  ]
+};

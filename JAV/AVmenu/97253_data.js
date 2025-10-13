@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240713/xc3ZcyNs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97253,
+  "IDcode": "BANK-004C",
+  "title": "超可愛無毛陰部S美少女 最愛內射的女學生 平手結愛",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "ま○こ銀行",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97253",
+  "actresses": []
+};

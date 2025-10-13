@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/481f5324-0d74-41a5-b871-de57533eb15b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/ce85f7f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9002,
+  "IDcode": "DVMM-193",
+  "title": "一般男女監控拍攝 AV素人女大學生限定 友達同士的男女 20ML潮吹愛液指定脫出挑戰！ ~ 如月りいさ 宮本聡美 月見若葉",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "苗條",
+    "企畫",
+    "業餘",
+    "校花",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "蠻橫嬌羞",
+    "性感",
+    "少女",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "巨乳",
+    "奇異的",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250119/8c4fb9fd-9c95-4ae5-92f0-e7fc74eb2287.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250119/8c4fb9fd-9c95-4ae5-92f0-e7fc74eb2287.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9002",
+  "actresses": [
+    {
+      "name": "月見若葉",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/654e69ae-4525-4aa8-88e6-b7bd6162a471.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9002&name=月見若葉"
+    },
+    {
+      "name": "如月りいさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/d7700eb3-262c-4135-99be-f216cdd6c8df.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9002&name=如月りいさ"
+    },
+    {
+      "name": "宮本聡美",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/dacfc2e4-5eb9-4f19-b470-3b128e0158d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9002&name=宮本聡美"
+    },
+    {
+      "name": "しょーと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9002&name=しょーと"
+    },
+    {
+      "name": "モンチ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9002&name=モンチ"
+    }
+  ]
+};

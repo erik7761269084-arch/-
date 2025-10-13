@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/tULFYZCM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80114,
+  "IDcode": "DVDMS-739",
+  "title": "色白デカ尻の家事代行おばさんに即ハメ！デカチンの虜になった人妻が翌日勝手に押しかけてきたので満足するまで何度も中出ししてあげた 9 桐嶋くるみ",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "屁股",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/4d5a35044eb7e7b2c26f29bbfec04715.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80114",
+  "actresses": []
+};

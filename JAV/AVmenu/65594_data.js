@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220921/6647E99DFB6E7352/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65594,
+  "IDcode": "5417B41196FE05B8ACE4605D66C792AC",
+  "title": "集训时与性欲体力MAX的巨汉前辈部员们住同房的新人女子经理 七泽美亚",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65594",
+  "actresses": []
+};

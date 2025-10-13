@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240224/Q9yjjYyK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59449,
+  "IDcode": "092813-443",
+  "title": "パーフェクトボディ 9",
+  "publish_date": "2018-03-02",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "比基尼",
+    "店长推荐",
+    "无套内射",
+    "乳液",
+    "立即口交",
+    "淫荡手淫",
+    "背后插入",
+    "站立性交",
+    "背部骑乘位",
+    "乳交",
+    "跳",
+    "口交",
+    "巨乳爆乳",
+    "美女",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59449",
+  "actresses": []
+};

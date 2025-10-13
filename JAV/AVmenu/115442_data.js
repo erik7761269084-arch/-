@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/d39e4f89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115442,
+  "IDcode": "FC2-3640002",
+  "title": "与真正的巨乳写真偶像的POV",
+  "publish_date": "2025-08-31",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/30/298cee344e5f0c3f2a0354a5cbdf044c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115442",
+  "actresses": []
+};

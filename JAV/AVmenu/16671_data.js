@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6fcae94a-d7c8-435a-b732-e58f6dfafd6c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/04/7812a067/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16671,
+  "IDcode": "HMN-514",
+  "title": "公公那帶着唾沫的吻比老公的還好，經過6天的被舔全身，到了第7天，我就開始回舔，用我的親吻和舌頭，並要求體內射精。",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "老頭子",
+    "乳交",
+    "中出",
+    "美乳",
+    "口交",
+    "自宅",
+    "不倫",
+    "公公",
+    "兒媳",
+    "情趣內衣",
+    "人妻",
+    "出軌",
+    "NTR",
+    "亂倫"
+  ],
+  "description": "HMN-514为本中出品,2024年1月30日发行的有碼成人影片由二葉惠麻出演\n艾瑪與丈夫的婚姻生活很順利，但有一點她不滿意。那是因爲她的丈夫不擅長接吻。有一天，她覺得自己每天早上的吻都少了點什麼，而她的公公卻忍不住在她熟睡時親吻了艾瑪……！盡管她說一個退休老人給她一個粘糊糊的舌吻很惡心，但她還是溼透了，透過他的褲子都能看到。不知不覺中，她愛上了每晚都來找她親吻的公公，不知不覺中，她開始向他索取……\n艾瑪與丈夫的婚姻生活很順利，但有一點她不滿意。那是因爲她的丈夫不擅長接吻。有一天，她覺得自己每天早上的吻都少了點什麼，而她的公公卻忍不住在她熟睡時親吻了艾瑪……！盡管她說一個退休老人給她一個粘糊糊的舌吻很惡心，但她還是溼透了，透過他的褲子都能看到。不知不覺中，她愛上了每晚都來找她親吻的公公，不知不覺中，她開始向他索取……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031905723723.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240121/20240121031905723723.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16671",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16671&name=二葉惠麻"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16671&name=田渊正浩"
+    },
+    {
+      "name": "二叶エマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16671&name=二叶エマ"
+    }
+  ]
+};

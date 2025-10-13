@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220323/A38DF1E9D7DC54EC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97473,
+  "IDcode": "ABP-816",
+  "title": "本番オーケー！？噂の裏ピンサロ 05 AV界随一のG乳＆美尻を味わい尽くせ！ 園田みおん",
+  "publish_date": "2019-01-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "颜射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97473",
+  "actresses": [
+    {
+      "name": "园田美樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/49d60faa-ccb3-491a-96ac-19bc1bcca92f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97473&name=园田美樱"
+    }
+  ]
+};

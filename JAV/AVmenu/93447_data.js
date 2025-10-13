@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/ycsUWzW6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93447,
+  "IDcode": "NASK-098",
+  "title": "薄着な母のチラ見え乳首 男を惑わせる無防備すぎる艶肌 9人4時間",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93447",
+  "actresses": [
+    {
+      "name": "松桥美世子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=松桥美世子"
+    },
+    {
+      "name": "永山丽子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=永山丽子"
+    },
+    {
+      "name": "麻生千春",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=麻生千春"
+    },
+    {
+      "name": "花冈よし乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=花冈よし乃"
+    },
+    {
+      "name": "绪方泰子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=绪方泰子"
+    },
+    {
+      "name": "松下理彩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=松下理彩"
+    },
+    {
+      "name": "緋咲茉莉花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=緋咲茉莉花"
+    },
+    {
+      "name": "真白兰",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=真白兰"
+    },
+    {
+      "name": "仲川舞子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93447&name=仲川舞子"
+    }
+  ]
+};

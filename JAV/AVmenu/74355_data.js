@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/12/b27263a3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74355,
+  "IDcode": "MIAA-073",
+  "title": "乳首イジり回春マッサージ 限界突破で連続射精デトックス 椎名そら",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "按摩",
+    "手淫",
+    "恋物癖",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74355",
+  "actresses": [
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74355&name=椎名空"
+    }
+  ]
+};

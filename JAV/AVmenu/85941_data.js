@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/1cYv2NfH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85941,
+  "IDcode": "RAPD-004",
+  "title": "野外レ●プ 人里離れた山奥でサイコパス強●魔に襲われ、泣き叫ぶ声も虚しく欲望のままに犯●れた人妻たち 成宮いろは・田所百合・鈴木真夕",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "户外",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/efb482db53d71f30785c5864a8c7155a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85941",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85941&name=鈴木真夕"
+    },
+    {
+      "name": "田所百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/e68f208f-cd84-4490-b22c-00e740f313c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85941&name=田所百合"
+    },
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85941&name=成宫いろは"
+    }
+  ]
+};

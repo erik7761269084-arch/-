@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29668a2d-509e-49c2-bddb-0df9be71fa64/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10907,
+  "IDcode": "HZGD-287",
+  "title": "我感到很難過…… 在容量懷孕的危險期，我卻不情願的被繼子內射授精…… ~ 若宮葉月",
+  "publish_date": "2024-11-08",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "繼母",
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "短髮",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241101/cc0aec73-7fea-42e4-923b-4d3534565a6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241101/cc0aec73-7fea-42e4-923b-4d3534565a6e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10907",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10907&name=若宮葉月"
+    }
+  ]
+};

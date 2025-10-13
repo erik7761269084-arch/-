@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/11/d9eea115/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82062,
+  "IDcode": "SSNI-692",
+  "title": "低身長華麗女友被巨漢前輩騎馬壓住寢取快樂墮落 阪道美琉",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "淫乱，真实",
+    "薄马赛克",
+    "白天出轨",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82062",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82062&name=Miru"
+    }
+  ]
+};

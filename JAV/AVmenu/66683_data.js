@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/07/5d4bf5b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66683,
+  "IDcode": "HMN-304",
+  "title": "デリヘルでは2年間フェラだけの付き合いだったのに 彼女が出来た僕に嫉妬した巨乳風俗お姉さんから店外デートに誘われて真昼間から中出ししまくった。 弥生みづき 生写真2枚付き",
+  "publish_date": "2023-01-13",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "接吻",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66683",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66683&name=弥生美月"
+    }
+  ]
+};

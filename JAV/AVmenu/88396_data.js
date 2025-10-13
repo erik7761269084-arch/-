@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/16/aea6b8c1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88396,
+  "IDcode": "JUL-269",
+  "title": "綺麗なお姉さん系Gカップ《母乳ママ》シリーズ初登場！！ 抱かれたくない男に死にたくなるほどイカされて… さとう白音",
+  "publish_date": "2020-07-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "凌辱",
+    "母乳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/d315d627ab3c0979534041c758604b15.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88396",
+  "actresses": [
+    {
+      "name": "さとう白音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88396&name=さとう白音"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250501/RwRz15CY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67408,
+  "IDcode": "EBOD-798",
+  "title": "圧倒的イイ女のビンビン乳首を責めて責めてからの最後は中出し！！ 成美このは",
+  "publish_date": "2021-01-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "中出",
+    "姐姐",
+    "玩具",
+    "乳液",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67408",
+  "actresses": [
+    {
+      "name": "矢乃花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/4b2d3b2b-3ae0-4293-9a4e-91aaa91c809b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67408&name=矢乃花音"
+    }
+  ]
+};

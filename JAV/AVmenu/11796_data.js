@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d8b99980-60ca-4b90-83ed-6d35b4a23e37/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11796,
+  "IDcode": "MASM-028",
+  "title": "住在隔壁的女孩未經允許就住在我家，我想讓她理解J系女孩隨便睡在單身男人牀上會發生些什麼 ~ 高瀬りな",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "臀控",
+    "色白",
+    "中出",
+    "美腿",
+    "美臀",
+    "女上位",
+    "JK校服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "少女",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "金髮",
+    "艷遇",
+    "M男・M女",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "MASM-028为妄想族出品,2024年9月24日发行的有碼成人影片由高瀬りな出演\n好久沒回家了，所以我想看看我累積的一些動漫。當我帶著這個想法回到家時，我發現一個女孩躺在我的床上看漫畫。是啊……我都快忘記這個傢伙的存在了……這位女孩是住在隔壁的高瀨的女兒裡奈。由於她和父母相處不好，她盡量不願意回家，就擅自住在我的房間裡。我已經警告過他很多次了，“不要穿著制服上床”，但他根本不聽，說的是“我太高興了！”之類的話。我已經生氣了！我會告訴你當J-kei走進獨居男人的房間時會發生什麼事！ （*這是男人都能聽懂的故事）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240921/20240921063400295295.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240921/20240921063400295295.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11796",
+  "actresses": [
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11796&name=高瀬りな"
+    }
+  ]
+};

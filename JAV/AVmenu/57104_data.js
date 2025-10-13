@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221015/C58B9E0D3425B287/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57104,
+  "IDcode": "46E6FB272A308B0C56521294AF81F36F",
+  "title": "韩国人的口活儿",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57104",
+  "actresses": []
+};

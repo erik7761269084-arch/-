@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57378,
+  "IDcode": "9DB791E48B4DA25889E6B7829D2C72E8",
+  "title": "制服オナ2動画の詳細求む",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57378",
+  "actresses": []
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/15/9855ebf2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75860,
+  "IDcode": "CAWD-045",
+  "title": "愛嬌満点！ドキドキ勘違いしちゃう人懐っこさ！雨にも負けず風にも負けずめちゃくちゃイキまくるデビュー作！ 柳井める",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "多P",
+    "女大学生",
+    "颜射",
+    "潮吹",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75860",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75860&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75860&name=玉木玲"
+    },
+    {
+      "name": "柳井める",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75860&name=柳井める"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/irUtFzdK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83655,
+  "IDcode": "LZDM-030",
+  "title": "レンタルレズ彼女 美谷朱里 野々原なずな",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "女同性恋",
+    "乳房",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83655",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83655&name=美谷朱里"
+    },
+    {
+      "name": "野野原薺",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ddc8286c-a8a3-4658-b234-f724ff12c3dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83655&name=野野原薺"
+    }
+  ]
+};

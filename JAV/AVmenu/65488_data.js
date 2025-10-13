@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65488,
+  "IDcode": "4CAE2DD4A1E6EB9B6F00DE2CB63F1EA9",
+  "title": "プレミアム风俗VIPフルコース in 大槻ひびき",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65488",
+  "actresses": []
+};

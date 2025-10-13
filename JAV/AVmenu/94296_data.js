@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241023/FrFrdbh8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94296,
+  "IDcode": "SKMJ-533",
+  "title": "祝2024年夏！花火大会に参加する浴衣女子限定 羞恥野球拳対決 素人女子大生4名収録 生写真とパンティ付き",
+  "publish_date": "2024-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "业余",
+    "和服，丧服",
+    "猎艳",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94296",
+  "actresses": [
+    {
+      "name": "美好柚伽",
+      "img_url": "https://picture.yoshiclub.xyz/20231226/23dbc374-8850-4f64-85e4-5313b6061d2a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94296&name=美好柚伽"
+    }
+  ]
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8eceb0fe-4ca9-417d-b9ea-d52067a56262/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/dd217e5b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3925,
+  "IDcode": "SQDE-017",
+  "title": "週末與女友的溫泉約會，興奮到潮吹不停 ~ 宮城理惠",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "和服・浴衣・喪服",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "旅行",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "溫泉",
+    "大奶头",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "SQDE-017为S-CUTE出品,2025年8月2日发行的有碼成人影片由宮城理惠出演\n刚到酒店就欲火焚身的宮城理惠，和她来一场超刺激的温泉约会！一边爱抚一边直奔浴池，忍不住直接在温泉里就内射了！精液还在滴，她又被手指玩到潮吹高潮，爽到不行！但她还是娇喘着说不够，骑乘位的时候兴奋到尿喷，潮水四溅，简直是用全身心在享受这场SEX！甜蜜又浓烈的温泉激情之旅，绝对让人血脉喷张！（提醒：本片包含素人内容，购买时请注意哦！）",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032138850850_24079_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032138850850_24079_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3925",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3925&name=宮城理惠"
+    }
+  ]
+};

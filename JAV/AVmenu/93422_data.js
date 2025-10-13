@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/9uad8laU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93422,
+  "IDcode": "NASK-077",
+  "title": "昇給の為にオフィスで肉体営業する五十路母2",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93422",
+  "actresses": []
+};

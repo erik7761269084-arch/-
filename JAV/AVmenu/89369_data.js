@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231217/habqAObj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89369,
+  "IDcode": "GANA-2308",
+  "title": "マジ軟派、初撮。 1498 話題のドラマにあやかって【レンタル(ほぼ)なんもしない人】と看板を掲げて、ただ待っていただけでとびっきりカワイイGALが釣れちゃった♪&quot;(ほぼ)なんもしない人&quot;に何度も潮吹かされて、何度もイカされ、企画も理性も完全崩壊♪",
+  "publish_date": "2020-07-04",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "颜射",
+    "屁股",
+    "苗条",
+    "潮吹",
+    "业余",
+    "猎艳",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/6d14dc581e57715252ad91e8782b177c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89369",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89369&name=渚光希"
+    }
+  ]
+};

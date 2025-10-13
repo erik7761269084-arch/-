@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/790a8af7-b4be-4337-8941-0ddda1cc0fdf/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/08/20a91fba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12090,
+  "IDcode": "FSDSS-911",
+  "title": "17年的來的性欲一朝完全覺醒 4本番 ~ 小沢菜穂",
+  "publish_date": "2024-10-10",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "人妻",
+    "手指插入",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "FSDSS-911为FALENO出品,2024年10月10日发行的有碼成人影片由小沢菜穂出演\n安裝最新的 AV 給傳說中的小澤奈穗，她作為 FALENO 獨家的令人震驚的 AV 復出！離開現場17年後忘記的感覺！暨！通過取笑它完全更新了！體液交換的激烈性愛、被蕩婦操的受虐狂、束縛玩具極致、Portio開發油SEX、無限追求活塞3P等回歸第二部作品全油門4作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240909/20240909195141516516.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240909/20240909195141516516.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12090",
+  "actresses": [
+    {
+      "name": "小沢菜穂",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/40a55211-02c4-4e28-b616-f817b62a6235.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12090&name=小沢菜穂"
+    }
+  ]
+};

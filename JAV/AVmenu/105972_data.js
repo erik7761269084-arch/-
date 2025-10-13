@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/02/aa4f8be3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105972,
+  "IDcode": "ACHJ-034",
+  "title": "時には勝手に痴女りたい…。 Madonna専属 超肉感美女『藤沢麗央』お貸しします―。",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "荡妇",
+    "胖女人",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105972",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105972&name=藤沢麗央"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105972&name=タイ"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105972&name=ナイアガラ翔"
+    }
+  ]
+};

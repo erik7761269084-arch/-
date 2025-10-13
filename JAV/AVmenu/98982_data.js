@@ -1,0 +1,28 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98982,
+  "IDcode": "MUDR-097-",
+  "title": "個撮性交02制服少女とオジサン汗っかきのハニカミ少女が",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "第一人称摄影",
+    "颜射",
+    "制服",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98982",
+  "actresses": [
+    {
+      "name": "香坂みりな",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2d0e463c-2cfd-47f1-b4ad-1e859eed7015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98982&name=香坂みりな"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 40026,
+  "IDcode": "1DBAE40CBAD7FD0EC3EFC0C1DEF88C77",
+  "title": "您~请原谅我。-透视思路2-鲁米·奥",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=40026",
+  "actresses": []
+};

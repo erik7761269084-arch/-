@@ -1,0 +1,87 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/64c31f09-abd0-4542-8712-90acefc490b6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/11/a3803bfa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4002,
+  "IDcode": "MIDA-262",
+  "title": "致命誘惑的Cosplay女神勾引粉絲開房枕營業！超刺激狂野中出亂交派對 ~ 月雲夜",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "貓耳裝飾",
+    "小隻馬",
+    "比基尼",
+    "港區女子",
+    "私房攝影",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "奇聞趣事",
+    "清楚系",
+    "拜金女",
+    "單體作品",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛"
+  ],
+  "description": "MIDA-262为MOODYZ出品,2025年8月1日发行的有碼成人影片由月雲夜出演\n【致命Cosplay×私密開房中出亂交！】這位超火辣的Cosplay妹子用騷氣爆棚的造型把粉絲迷得不要不要的！在秘密攝影會上大秀深V事業線，緊身高叉裝勾勒出完美曲線，簡直是福利滿滿的神級服務！被死宅們盯著看太久，她自己也興奮得不行，羞紅了臉卻內褲濕透，色氣直接爆表！慾望徹底爆發，解鎖超羞恥的隱藏玩法：極限暴露的Cos裝連菊花都快遮不住，挑逗自拍、盯著你舔棒的私密影片，尺度直接拉爆！最後還召集了一群精力旺盛的粉絲，舉辦了一場瘋狂中出亂交派對，爽到起飛！這變態小姐姐完全沉淪在肉棒的快感中，欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094246466466_44896_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094246466466_44896_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4002",
+  "actresses": [
+    {
+      "name": "月雲夜",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/dfaef203-ad5b-446e-9ed2-a988cae22fb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4002&name=月雲夜"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4002&name=ニック"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4002&name=タイ"
+    }
+  ]
+};

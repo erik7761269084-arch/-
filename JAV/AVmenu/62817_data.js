@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/17/f8f29542/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62817,
+  "IDcode": "GMJK-024FUCK",
+  "title": "gmjk-024FUCK NIGHT PARTY 廃工場（秘）乱交パーティ 七原さゆ",
+  "publish_date": "2025-06-18",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62817",
+  "actresses": []
+};

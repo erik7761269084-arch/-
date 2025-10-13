@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/NLOHkQoh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85788,
+  "IDcode": "NNPJ-495",
+  "title": "マッチングアプリで釣ったグラドル志望爆乳女子大生 「業界の人紹介できるよ！」テンション上げたらガードもマ●コも緩みまくって即ヤッちゃう爆イキおねだりドスケベボイン ＃超弾力Hカップ＃某有名私立大学生＃中出しはノリで りほ",
+  "publish_date": "2022-02-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85788",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231010/kXirJ9FZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88475,
+  "IDcode": "NNPJ-307",
+  "title": "相席居酒屋で見つけたエロ可愛くて感度が良すぎるイキ潮ダダ漏れナースえみちゃん（22才）がAV出演！！決めちゃいました！！ ナンパJAPAN EXPRESS Vol.84",
+  "publish_date": "2018-11-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "淫乱，真实",
+    "潮吹",
+    "猎艳",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88475",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88475&name=深田詠美"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88475&name=鲛岛"
+    }
+  ]
+};

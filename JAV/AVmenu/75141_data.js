@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/08/b1c53704/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75141,
+  "IDcode": "ABP-870",
+  "title": "涼森玲夢來伺候您 超最新讓你上癮美體沙龍",
+  "publish_date": "2019-06-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "角色扮演者",
+    "美容院",
+    "素人作品",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/54d0c361e808db648ef1557e6fc90b1f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75141",
+  "actresses": [
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75141&name=凉森玲梦"
+    }
+  ]
+};

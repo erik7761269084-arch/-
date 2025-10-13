@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/nxtZRNQj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84397,
+  "IDcode": "EBOD-916",
+  "title": "ラブホお泊り女子会デカ乳逆バニーハーレム 全裸よりエロい格好をしたコスプレサークルの同期たちに朝が来るまで寝ずに9回射精させられ続けたカメコの僕 姫咲はな 水原みその 神坂朋子",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "角色扮演者",
+    "兔女郎"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84397",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84397&name=姫咲華"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84397&name=Qべぇ"
+    }
+  ]
+};

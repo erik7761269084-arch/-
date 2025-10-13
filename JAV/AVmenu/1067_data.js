@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/428ba2b0-c110-45fb-84ab-6d297e11b6fc/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20221013/en7BN2gX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1067,
+  "IDcode": "HEYZO-1500",
+  "title": "6點下班後 能操的女人都想操",
+  "publish_date": "2017-05-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "OL",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231220/0fdf9fce-de4b-4f4f-adc8-497805c38733.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/0fdf9fce-de4b-4f4f-adc8-497805c38733.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1067",
+  "actresses": [
+    {
+      "name": "葵千恵",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/d8fa9472-690b-4532-bfc0-30dfe7085225.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1067&name=葵千恵"
+    }
+  ]
+};

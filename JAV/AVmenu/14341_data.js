@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/01529525-cc95-4c76-ac10-7a071dbadc96/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/06/88105fe0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14341,
+  "IDcode": "MIAB-215",
+  "title": "我得到了一個可以讓女孩敏感度提高100倍的安全套，瘋狂報復淫蕩的J系女孩，竟然笑話我早泄 ~ 森日向子",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "美少女",
+    "癡女",
+    "美少女電影",
+    "女學生",
+    "報復"
+  ],
+  "description": "MIAB-215为MOODYZ出品,2024年6月4日发行的有碼成人影片由森日向子出演\n「我……決定了！這個保險套……是真的！！」我得到了讓女孩的敏感度提高100倍的夢想保險套！我向學校的Madonna Mori告白並且成功了，這就是我的第一次性行為！ ……然而，他突然變成了青蛙，幻滅了。正當我一籌莫展的時候，卻遇到了一個無論怎麼看都可疑的老者！遞給他的，是可疑的避孕藥！低頭申請復仇性，給霸道女人插橡皮筋！然後，當它插入的那一刻，她尖叫起來，“這是什麼雞巴？噗噗！！”當它扭動和射精時，它會變成核心！我現在擁有了最強的橡皮，可以讓我從處女變成『漢』！高潮的最高點！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531031059854854.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531031059854854.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14341",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14341&name=森日向子"
+    }
+  ]
+};

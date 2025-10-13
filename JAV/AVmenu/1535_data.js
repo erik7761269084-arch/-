@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230504/29d7fffa-2b36-4341-a4bc-a66b5303ec17/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1535,
+  "IDcode": "SKYHD-129",
+  "title": "天天使藍 Vol.123：星空友盛",
+  "publish_date": "2014-08-12",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "肛交",
+    "中出",
+    "美乳",
+    "顏射",
+    "口交",
+    "人妻",
+    "按摩棒",
+    "熟女",
+    "二穴同入"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230504/01a45508-4586-4e1d-ab62-b7173f35d4c1.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230504/01a45508-4586-4e1d-ab62-b7173f35d4c1.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1535",
+  "actresses": [
+    {
+      "name": "都盛星空",
+      "img_url": "https://picture.yoshiclub.xyz/20230504/872a083a-9077-44ce-9406-daac829ad9f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1535&name=都盛星空"
+    }
+  ]
+};

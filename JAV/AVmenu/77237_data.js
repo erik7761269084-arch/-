@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/VLeBjyJq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77237,
+  "IDcode": "PRED-210",
+  "title": "綺麗なお姉さんの極上フェラ 深田えいみ",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77237",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77237&name=深田詠美"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77237&name=タツ"
+    }
+  ]
+};

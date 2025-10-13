@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/49b51a3c-808c-4739-bd2a-32fb0b875ce4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/07511671/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9388,
+  "IDcode": "JUTA-159",
+  "title": "新人出道 - 極上！ ！三十路人妻初脫下海 首次亮相 AVDEBUT ~ 大島絢香",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "熟女JAPAN",
+  "genres": [
+    "企畫",
+    "巨尻",
+    "臀控",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美人妻",
+    "出道作品",
+    "人妻",
+    "巨乳",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/aa0ef4a2-3db8-48de-bdaa-713efe23edb2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/aa0ef4a2-3db8-48de-bdaa-713efe23edb2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9388",
+  "actresses": [
+    {
+      "name": "大島絢香",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/98354e8b-9260-4396-a9e8-509a95def16d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9388&name=大島絢香"
+    }
+  ]
+};

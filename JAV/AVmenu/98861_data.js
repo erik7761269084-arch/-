@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230120/2C77050969320E9B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98861,
+  "IDcode": "MUDR-083",
+  "title": "あの日からずっと…。 緊縛調教中出しされる制服美少女 美谷朱里",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "戏剧",
+    "捆绑",
+    "SM",
+    "潮吹",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98861",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98861&name=美谷朱里"
+    }
+  ]
+};

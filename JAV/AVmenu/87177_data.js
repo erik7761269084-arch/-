@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230713/OpI1RLmR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87177,
+  "IDcode": "KAM-131",
+  "title": "「君がわが校に新たに赴任してきた新任教師かね？」 変態エロ校長による新任女教師昏●わいせつ動画 菊池まや",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "羞耻",
+    "偷窥",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87177",
+  "actresses": []
+};

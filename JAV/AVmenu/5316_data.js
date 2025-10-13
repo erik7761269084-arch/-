@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a87ac30-8f48-4352-bc07-ae17c43c1cb1/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/e3aaa23d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5316,
+  "IDcode": "HMN-699",
+  "title": "老婆和兒子回老家的一周，我在老婆閨蜜家瘋狂偷情中出不停 ~ 五日市芽依",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女友閨蜜",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HMN-699为本中出品,2025年6月13日发行的有碼成人影片由五日市芽依出演\n芽依年轻时就生了孩子，却因为老公家暴而离婚，成了单亲妈妈，一个人辛苦工作带娃。认识了一个同托儿所的闺蜜，还有她老公‘一哥’。有天芽依去帮忙搬家具，发现闺蜜回老家了，本想拒绝帮忙觉得对不起闺蜜，但一哥热情邀请还是留下了。好久没这么近距离接触男人，芽依心里小鹿乱撞，明知不对却还是忍不住亲了上去…明知是偷情，可就是控制不住内心的渴望。趁着闺蜜回老家的一周，芽依和一哥在她家疯狂缠绵，一次又一次中出，简直欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062210196196_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062210196196_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5316",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5316&name=五日市芽依"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5316&name=いち"
+    }
+  ]
+};

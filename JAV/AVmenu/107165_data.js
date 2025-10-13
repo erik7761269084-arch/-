@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/06/ebac3b46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107165,
+  "IDcode": "SNIS-413",
+  "title": "壽險女業務簽約陪睡 夢乃愛華",
+  "publish_date": "2015-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107165",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107165&name=夢乃愛華"
+    }
+  ]
+};

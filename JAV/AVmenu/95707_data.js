@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/17/6c874ff4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95707,
+  "IDcode": "VEC-189",
+  "title": "肏媽媽朋友 香澄果穗",
+  "publish_date": "2016-03-01",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "处男",
+    "无码破解",
+    "单体作品",
+    "妈妈的朋友"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/17/04f48785dfa6a472eab6cb7fd4e9bdbe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95707",
+  "actresses": [
+    {
+      "name": "香澄果穗",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/54568575f77b65d15ed16440f765f99c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95707&name=香澄果穗"
+    }
+  ]
+};

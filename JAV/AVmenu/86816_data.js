@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/21/c4aecee8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86816,
+  "IDcode": "CAWD-148",
+  "title": "Wパイパン潮吹きおもらし大絶頂スペシャル 松本いちか 永瀬ゆい （ブルーレイディスク）",
+  "publish_date": "2020-11-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "无毛",
+    "多P",
+    "潮吹",
+    "流汗",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86816",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86816&name=松本一香"
+    },
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86816&name=永濑唯"
+    }
+  ]
+};

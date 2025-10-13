@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/60fa116d-450d-44ba-aee6-5664cba86e83/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6360,
+  "IDcode": "EK-048",
+  "title": "月刊人妻女子專刊 你的身體就是犯罪 第48期 ~ 水原梨花 谷梓 涼花胡桃 萌雨拉梅 持田由香里 櫻和琴子 朝倉麻琳",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "素人Only",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "性虐癖",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "投稿",
+    "形象俱樂部",
+    "素人",
+    "強姦",
+    "若妻",
+    "性感",
+    "少女",
+    "輪姦",
+    "美腳",
+    "美少女",
+    "清純",
+    "人妻",
+    "精選總編集",
+    "美人",
+    "精選綜合",
+    "美少女電影"
+  ],
+  "description": "EK-048为素人Only出品,2025年5月2日发行的有碼成人影片由谷梓，水原りか，涼花くるみ，桜和ことこ出演\n一群欲求不满、只为高潮而活的骚货今天又张开双腿，被狠狠地操到爽翻天！漫画里才会出现的极品大奶妹，直接生吞肉棒，爆乳晃得让人眼花，爽到脸都扭曲了！性感爆棚的炮友美熟女，超爱被粗暴对待，简直是天生的抖M！被情人猛烈冲刺，尖叫着一次次高潮！肉感十足的丰满少妇，被两根大棒轮番干到没力气，喘得停不下来！这些常年发情的女人，真实性爱的模样全收录，绝对让你血脉喷张！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250507/202505071035112121_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250507/202505071035112121_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6360",
+  "actresses": [
+    {
+      "name": "涼花くるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20241207/33d16b2c-7d34-4e3b-b8df-5c08a5ce6f6f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6360&name=涼花くるみ"
+    },
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6360&name=谷梓"
+    },
+    {
+      "name": "水原りか",
+      "img_url": "https://picture.yoshiclub.xyz/20230511/f044fcd1-4ee2-4eae-800a-16383e880e41.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6360&name=水原りか"
+    },
+    {
+      "name": "桜和ことこ",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/8bc454a4-dbbe-4d14-aaf6-cf15533b64a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6360&name=桜和ことこ"
+    }
+  ]
+};

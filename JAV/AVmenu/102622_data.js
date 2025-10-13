@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240621/Nc4yErmC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102622,
+  "IDcode": "USBA-057",
+  "title": "美少女輪●調教 憧れの清楚なクラス委員長はチ○ポ大好きなマゾ娘 市来まひろ",
+  "publish_date": "2022-12-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/usba057/usba057pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102622",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102622&name=竹田夢"
+    }
+  ]
+};

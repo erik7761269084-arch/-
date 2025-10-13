@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221114/7FyATmCF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82309,
+  "IDcode": "CJOD-098",
+  "title": "スロ～で射精させてからギアチェンジ爆速中出しSEX 水野朝陽",
+  "publish_date": "2017-08-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82309",
+  "actresses": [
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82309&name=水野朝陽"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221028/xfaeyWji/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81520,
+  "IDcode": "CEAD-283",
+  "title": "黒パンストの下半身が卑猥にクネるオナニー快楽",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "自慰",
+    "连裤袜",
+    "恋腿癖",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81520",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=大槻响"
+    },
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=渚光希"
+    },
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=雨村梨花"
+    },
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=小西真理繪"
+    },
+    {
+      "name": "野野原薺",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ddc8286c-a8a3-4658-b234-f724ff12c3dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=野野原薺"
+    },
+    {
+      "name": "花宫レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=花宫レイ"
+    },
+    {
+      "name": "石川ありす",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81520&name=石川ありす"
+    }
+  ]
+};

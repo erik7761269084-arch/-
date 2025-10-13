@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/06/9cc1d945/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104359,
+  "IDcode": "ZEX-412",
+  "title": "A moment of bliss ～大好きな2人との最高のレズ～",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "女同性恋",
+    "企画",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104359",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104359&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104359&name=大槻响"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104359&name=黑川纱里奈"
+    }
+  ]
+};

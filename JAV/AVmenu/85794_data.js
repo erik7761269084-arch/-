@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230128/ENySBndH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85794,
+  "IDcode": "NHDTB-678",
+  "title": "合宿中にイラマチオ夜●いされ逆らえず喉奥を犯●れた敏感女子○生 雪乃えるさんのパンティとチェキ付き",
+  "publish_date": "2022-06-23",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "女生",
+    "口交",
+    "深喉",
+    "运动短裤"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230129-1/b253ff85a3445a5929b8cb3e6cf981cb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85794",
+  "actresses": [
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85794&name=雫月心桜"
+    },
+    {
+      "name": "白川柚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/29865739-e674-4aa4-a00a-ddde9e535ee7.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85794&name=白川柚子"
+    },
+    {
+      "name": "幸田ユマ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-幸田ユマ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85794&name=幸田ユマ"
+    }
+  ]
+};

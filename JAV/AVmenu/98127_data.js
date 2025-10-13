@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/33FCAB195EC9CB44/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98127,
+  "IDcode": "CEAD-209",
+  "title": "妻失格3 波多野結衣",
+  "publish_date": "2017-02-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98127",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98127&name=波多野结衣"
+    }
+  ]
+};

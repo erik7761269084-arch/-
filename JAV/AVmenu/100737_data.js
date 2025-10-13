@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/08/86f58803/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100737,
+  "IDcode": "SNIS-748",
+  "title": "和最愛我的羽咲美晴從早幹到晚同居生活",
+  "publish_date": "2016-10-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "艺人",
+    "女上位",
+    "薄马赛克",
+    "主观视角",
+    "情侣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100737",
+  "actresses": [
+    {
+      "name": "羽笑美晴",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/8882ed6a-3831-4631-8174-f6e75734ac71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100737&name=羽笑美晴"
+    }
+  ]
+};

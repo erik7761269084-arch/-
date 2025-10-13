@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/439f37fb-e2ce-4648-a499-7e64251114cf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7233,
+  "IDcode": "KIT-005",
+  "title": "職場電影院裏不敢出聲被偷偷玩到高潮好多次的我… ~ 南條彩",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "角色扮演",
+    "潮吹",
+    "顏射",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "按摩棒",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/07ab561f-4736-432f-b603-f2888aef192f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/07ab561f-4736-432f-b603-f2888aef192f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7233",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7233&name=南條彩"
+    }
+  ]
+};

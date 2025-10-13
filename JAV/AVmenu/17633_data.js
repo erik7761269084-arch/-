@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e80c1d17-a7ea-4e32-a8c5-a8b6c5a89f19/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/17/b7bc7e4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17633,
+  "IDcode": "DASS-269",
+  "title": "附身大叔霸佔了大胸纖細美少女胡桃櫻花",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "老頭子",
+    "脚控・戀足癖",
+    "中出",
+    "亂交 • 群P",
+    "催眠",
+    "口交",
+    "強姦",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "美少女",
+    "奇聞趣事",
+    "巨乳",
+    "奇異的"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231126/098ee3f9-ca82-4624-82a7-8482798f52a1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231126/098ee3f9-ca82-4624-82a7-8482798f52a1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17633",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17633&name=胡桃櫻花"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17633&name=ニック"
+    }
+  ]
+};

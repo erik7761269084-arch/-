@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a435334-c469-4135-a48c-b17f9fb42da8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/27/2af564d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6403,
+  "IDcode": "FNS-030",
+  "title": "超絕口交的最高美少女 ~ 濱邊彌生",
+  "publish_date": "2025-05-05",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "校花",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "FNS-030为FALENO出品,2025年5月5日发行的有碼成人影片由濱邊彌生出演\n笑容閃到爆的太陽系美少女濱邊彌生，帶來了一部專攻口技的AV！這位超愛舔的元氣辣妹，可愛到不行，用嘴把你弄得爽翻天，直接噴射啦！雖然她剛出道才第三部片，面對硬挺挺的傢伙還是會臉紅害羞，青澀中透著小純情。但只要一進入狀態，她就大膽開舔，瘋狂吸吮，元氣滿滿的口技直接讓人high爆！這部片就是讓你感受到她對口技的狂熱痴迷，舔到你腿軟沒商量！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/20250505021131134134_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250505/20250505021131134134_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6403",
+  "actresses": [
+    {
+      "name": "濱邊彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/c69882cf-89fa-4d14-80ac-43c43c0cdfd6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6403&name=濱邊彌生"
+    }
+  ]
+};

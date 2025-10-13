@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/B07D70CD08FDAB3F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57760,
+  "IDcode": "8E19EB5B72D6DEA9CE7E493B970F827E",
+  "title": "1pon 010120_951 HITOMI 高級ソープへようこそ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57760",
+  "actresses": []
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/73fa6d9c-e634-4a74-a732-34e5c1026b14/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/1ab593b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4617,
+  "IDcode": "HZGD-310",
+  "title": "老爸再婚對象慾求不滿太騷了…用淫語和巨乳夾擊我的變態爆乳後媽 ~ 小野坂唯香",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "繼母",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "豐滿"
+  ],
+  "description": "HZGD-310为人妻花園劇場出品,2025年7月4日发行的有碼成人影片由小野坂唯香出演\n老爸再婚才一個月…我就掉進了這種破事！「怎麼會變成這樣啦…」我滿腦子都是糾結。老爸幸福到不行，我卻對不起他，心裡愧疚到想掉淚。年輕又爆乳的繼母，表面正經，其實是個超愛啪啪啪的變態後媽！「被那種身材勾引，誰受得了啊…老爸對不起！」我啥也不敢說，今天又沉淪在後媽的誘惑肉體裡了…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083035370370_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083035370370_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4617",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4617&name=小野坂唯香"
+    }
+  ]
+};

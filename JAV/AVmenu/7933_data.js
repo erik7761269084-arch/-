@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4005711e-879c-426a-b22a-fd9f148da51f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/e1bc1c54/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7933,
+  "IDcode": "SHYN-227",
+  "title": "剛進公司的清楚系，其實是個癡女！ ？比裸體還要丟臉啊！ 全裸野球拳 制作部 新卒1年目 ~ 吉井彩葉",
+  "publish_date": "2025-02-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "業餘",
+    "4K",
+    "中出",
+    "OL",
+    "女上位",
+    "文藝女",
+    "制服",
+    "口交",
+    "騎乗位",
+    "口爆",
+    "惡搞",
+    "辦公室",
+    "地味",
+    "真實拍攝",
+    "眼鏡",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/1a3280cc-3e6c-48a3-99ef-ba013f2e321f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/1a3280cc-3e6c-48a3-99ef-ba013f2e321f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7933",
+  "actresses": [
+    {
+      "name": "吉井彩葉",
+      "img_url": "https://picture.yoshiclub.xyz/20250227/49b36477-1485-4632-a67b-7e938cbee252.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7933&name=吉井彩葉"
+    }
+  ]
+};

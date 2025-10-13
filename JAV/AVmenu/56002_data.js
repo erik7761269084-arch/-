@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/69D9321F1DD7DE35/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56002,
+  "IDcode": "5E19C3519979A9D35F6FFE30793CD40D",
+  "title": "欢迎我们女孩子~我们一起干她",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56002",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220414/AFD929BB5CB16EC9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55684,
+  "IDcode": "E735F2F9DFE9AE139299625FE380249B",
+  "title": "乱交学校 4486",
+  "publish_date": "2024-07-18",
+  "type": "无码",
+  "company": "WAAP GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55684",
+  "actresses": []
+};

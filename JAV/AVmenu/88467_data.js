@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231010/HXD0BYCD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88467,
+  "IDcode": "RBD-601",
+  "title": "哀虐の奴隷市場3 佳苗るか",
+  "publish_date": "2014-07-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231010-1/c6a212eb928f2585cea77ea821781962.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88467",
+  "actresses": [
+    {
+      "name": "佳苗瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/854d200e-c0ea-4818-afeb-f1d27c90a2a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88467&name=佳苗瑠華"
+    }
+  ]
+};

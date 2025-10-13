@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/09/b393a365/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107336,
+  "IDcode": "HND-839",
+  "title": "彼女の浮気実験NTR 僕の彼女が絶倫の親友と猿みたいに求め合って中出し交尾しまくっていた件。 根尾あかり",
+  "publish_date": "2020-05-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "口交",
+    "接吻",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107336",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107336&name=根尾朱里"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6d5e8543-0151-41f3-b6c6-3a9322219460/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13656,
+  "IDcode": "YMDD-391",
+  "title": "爆發的人妻 - 激烈的性愛來報復不忠 - 臀部誘人性感性愛和祕密性愛 ~ 水川潤",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "NTR",
+    "約炮",
+    "飯店"
+  ],
+  "description": "YMDD-391为桃太郎映像出版出品,2024年7月2日发行的有碼成人影片由水川潤出演\n一個淫蕩的已婚辦公室女士在 SNS 上給我發了一條私訊。看似平淡，但一旦打開開關，攻擊力就十分強大。吻很深。我想讓人用力捏我的乳頭。我想被打屁股。張開的陰戶和欣喜若狂的已婚婦女的表情給我留下了奇怪的印象。沮喪的妻子隱密的性爆發、與公公的第一次經歷、夜行……無法與他人討論的令人震驚的經歷導致了爆發。一個很酷的已婚女人為一根雞巴而瘋狂！黏油按摩中出的高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240630/20240630053140625625.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240630/20240630053140625625.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13656",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13656&name=水川潤"
+    }
+  ]
+};

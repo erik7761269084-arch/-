@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4efc9626-845f-4b7b-bd0d-b929108f9337/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/d35aef5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9904,
+  "IDcode": "JJEE-002",
+  "title": "【初回完全無料】【完全個室】【中出】【隱藏攝像頭視頻泄露】帥哥滑雪場一定會愛上的人妻度假村美容院 002",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "熟女JAPAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "按摩・美容店",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "偷窺",
+    "真實拍攝",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241214/3af9a28c-7e29-4d03-810e-e63953862781.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241214/3af9a28c-7e29-4d03-810e-e63953862781.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9904",
+  "actresses": []
+};

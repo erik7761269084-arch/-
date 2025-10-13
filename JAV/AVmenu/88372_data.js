@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/pkimsDjY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88372,
+  "IDcode": "HNDB-111",
+  "title": "本物女子大生30人の中出しコレクション 2017年春",
+  "publish_date": "2017-04-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "美少女",
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "女大学生"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/b34c3df222fcdeb55e07f99ee7de51f2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88372",
+  "actresses": [
+    {
+      "name": "尾上若叶",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/149a4db1-b7b2-4b0f-aef8-10df181c7f86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=尾上若叶"
+    },
+    {
+      "name": "樱美雪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=樱美雪"
+    },
+    {
+      "name": "桥本さゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=桥本さゆり"
+    },
+    {
+      "name": "藤川千夏",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/258e5f6fe0a77cf68e2992ed83b328f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=藤川千夏"
+    },
+    {
+      "name": "美歩さやか",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/aef4ace40ec4a6eb7c4272272e57aa22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=美歩さやか"
+    },
+    {
+      "name": "板野ユイカ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/e732a9e60340d8ac983b76ec08358e86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=板野ユイカ"
+    },
+    {
+      "name": "加々美ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=加々美ゆい"
+    },
+    {
+      "name": "桜ちずる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=桜ちずる"
+    },
+    {
+      "name": "日向曜",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7eef8dcde7f82cd273f07353b9944395.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=日向曜"
+    },
+    {
+      "name": "相川润",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c274798e8822a21dbb7484f854fd72da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88372&name=相川润"
+    }
+  ]
+};

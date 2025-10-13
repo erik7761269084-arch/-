@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/12/5ac7a2d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63215,
+  "IDcode": "GASS-041",
+  "title": "やっぱり肉が好き 藤沢麗央の豊満な肉体に包まれたい",
+  "publish_date": "2025-06-01",
+  "type": "有码",
+  "company": "GAS",
+  "genres": [
+    "巨乳",
+    "屁股",
+    "胖女人",
+    "巨大屁股",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63215",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63215&name=藤沢麗央"
+    }
+  ]
+};

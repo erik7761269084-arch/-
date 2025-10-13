@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/17/203f19dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77525,
+  "IDcode": "CAWD-569",
+  "title": "はじめてのナマ中出し！訳ありGカップミニマムインフルエンサーおっぱいプルンプルン連撃ピストン絶頂開発 沙優七羽",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77525",
+  "actresses": [
+    {
+      "name": "沙優七羽",
+      "img_url": "https://picture.yoshiclub.xyz/20240328/199758f0-8726-4a47-88bf-3d6757f4cbb8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77525&name=沙優七羽"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77525&name=鲛岛"
+    }
+  ]
+};

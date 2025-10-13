@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/70fdfada-3945-47c6-93da-3ef9e0dbf715/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/a0a816e9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2591,
+  "IDcode": "MISM-403",
+  "title": "極致調教的完美乳頭 黃金螺旋的極樂誘惑 ~ 足立友梨",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "性虐癖",
+    "調教",
+    "深喉",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "刑架",
+    "高妹",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "SM",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "鬼畜片",
+    "御姐系",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "女優",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MISM-403为えむっ娘ラボ出品,2025年9月18日发行的有碼成人影片由足立友梨出演\n人气爆棚的抖M女神足立友梨，乳头被狠狠玩弄时快感直接飙升到爆表！这次我们特别针对乳头进行了一场硬核调教。挂上1公斤的重物，像钟摆一样晃荡，同时深喉折磨，她直接痉挛，眼眸迷离，爽到不行。乳头被疯狂旋转，简直要被扯断，刺激到极致！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021326437437_56870_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021326437437_56870_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2591",
+  "actresses": [
+    {
+      "name": "足立友梨",
+      "img_url": "https://picture.yoshiclub.xyz/20240818/ecf7c772-2a36-414a-b861-42fcacaba9cd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2591&name=足立友梨"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2591&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/23/32ef70bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90859,
+  "IDcode": "MESU-116",
+  "title": "いつでもどこでも定額挿れ放題サービスが人気の人妻家政婦 大石紗季",
+  "publish_date": "2023-09-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "各种职业",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240223-1/09fb17a6f4ad8244657cddb1114e09ea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90859",
+  "actresses": []
+};

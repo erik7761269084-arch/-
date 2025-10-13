@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fd3c0a7d-3f50-4042-bdd2-cd3f5ac33696/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/5ccd7e1c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3946,
+  "IDcode": "XVSR-826",
+  "title": "NUKI-Heaven 射精無制限的極樂風俗按摩店 ~ 十束流羽",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "按摩・美容店",
+    "寫真女郎",
+    "拜金女",
+    "單體作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "抹油",
+    "寫真偶像",
+    "美人",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "XVSR-826为MAX-A出品,2025年8月2日发行的有碼成人影片由十束流羽出演\n保證讓你爽到起飛！滿意度爆表100%！這家按摩店有神級手法跟全身放鬆服務，絕對能讓你射精排毒爽到不行！偷偷跟你說，這裡暗藏本番服務，VIP專屬回春按摩還能根據你的需求客製玩法，射到你腿軟為止！從油壓按摩到超濃烈的口手服務，再到全身放鬆的SEX，連射三次還有內射福利！更有泰式古法按摩跟中式風俗場景，包你射到滿足，簡直就是射精天堂啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032747639639_65580_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032747639639_65580_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3946",
+  "actresses": [
+    {
+      "name": "十束流羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/cef8997f-6b2e-457e-87e5-8c3764e85e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3946&name=十束流羽"
+    }
+  ]
+};

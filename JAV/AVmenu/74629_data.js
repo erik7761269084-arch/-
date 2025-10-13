@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250101/E2nnkPHJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74629,
+  "IDcode": "CETD-304",
+  "title": "黒人生中出しNTR 不倫相手は逞しい黒光りチ○ポの外国人…そのデカマラに貫かれた人妻は肉欲愛に身を焦がす… 特典版2枚組 森沢かな",
+  "publish_date": "2019-08-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "中出",
+    "巨大阴茎",
+    "黑人演员",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74629",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74629&name=森澤佳奈"
+    }
+  ]
+};

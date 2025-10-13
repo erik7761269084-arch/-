@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/e25c4bfb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62164,
+  "IDcode": "NHDTC-090",
+  "title": "満員電車で巨乳を顔に押しつけからかっていたらウブ少年がエロガキに豹変！ちゅうちゅう乳首を吸いつかれ感じてしまった高身長女 碓井せりなさんの紙パンティとチェキ付き",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "高",
+    "巨大屁股",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62164",
+  "actresses": []
+};

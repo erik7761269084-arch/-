@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6c494358-360f-43b7-85a3-6aa019bd6f28/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/638b63fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4921,
+  "IDcode": "XVSR-823",
+  "title": "超下流性愛爽到翻白眼嗷嗷叫高潮 ~ 小那海綾",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "高顏值",
+    "淫亂",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "拜金女",
+    "女僕制服",
+    "單體作品",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "女優"
+  ],
+  "description": "XVSR-823为MAX-A出品,2025年6月28日发行的有碼成人影片由小那海綾出演\n外表是個優雅小姊姊，床上卻騷到不行！人氣女優小那海綾這次玩得超下流，性愛中直接翻白眼，嗷嗷叫著高潮不斷！「啊啊啊！抖個不停！爽到不行啦！」明明長得超可愛，卻騷氣爆棚，潮吹噴得滿床都是！被蒙眼綑綁玩玩具，爽到抽搐，雙腿大開失禁，潮吹直接爆表！舌頭伸出來一臉淫蕩的高潮表情，真的不要太誘人，這種極品下流的小那海綾，絕對必看！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224337485485_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224337485485_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4921",
+  "actresses": [
+    {
+      "name": "小那海綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/1f4dc819-5d18-4526-9273-6eba7b32fa08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4921&name=小那海綾"
+    },
+    {
+      "name": "佐佐波绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4921&name=佐佐波绫"
+    }
+  ]
+};

@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ce8f8913-1270-4192-ac71-3c349260a659/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/14/fdd1b2a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17172,
+  "IDcode": "SSNI-043",
+  "title": "NTR曾經的蕩婦女人終於在公司旅行中做了點什麼！ ！背叛宴會視頻 ~ 明日花綺蘿",
+  "publish_date": "2017-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "酒醉",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "口交",
+    "騎乗位",
+    "多P",
+    "美腳",
+    "巨乳",
+    "女同事",
+    "出軌",
+    "偷窺",
+    "NTR",
+    "飯店",
+    "薄碼"
+  ],
+  "description": "SSNI-043为S1出品,2017年11月19日发行的有碼成人影片由明日花綺蘿出演\n明日花綺蘿首部NTR作品！曾經是蕩婦的超級淫蕩女友ゆうき是拉拉，結果在公司旅行中做了錯事… 她心情大好，開始喝酒，一邊玩棒球拳，一邊打開淫蕩開關，淫蕩不停！一邊舔男職員的雞巴，一邊對著鏡頭微笑和平！一根雞巴插入她潮濕醉酒的陰戶，她失去了所有正常的感覺，開始呻吟和高潮！\n明日花綺蘿首部NTR作品！曾經是蕩婦的超級淫蕩女友ゆうき是拉拉，結果在公司旅行中做了錯事… 她心情大好，開始喝酒，一邊玩棒球拳，一邊打開淫蕩開關，淫蕩不停！一邊舔男職員的雞巴，一邊對著鏡頭微笑和平！一根雞巴插入她潮濕醉酒的陰戶，她失去了所有正常的感覺，開始呻吟和高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231221/103665d7-6029-4cc9-9216-9a3fa421fb41.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231221/103665d7-6029-4cc9-9216-9a3fa421fb41.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17172",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17172&name=明日花綺蘿"
+    },
+    {
+      "name": "ゆうき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/AI-Fix-ゆうき.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17172&name=ゆうき"
+    }
+  ]
+};

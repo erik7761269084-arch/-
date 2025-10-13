@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/05/a7c9a3f4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107300,
+  "IDcode": "SDNM-391",
+  "title": "4人の子どもはわんぱく盛り。学校がある日、ママはオンナになってきます。片岡恵美 36歳 AV DEBUT",
+  "publish_date": "2023-08-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "首次亮相",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/06/43b3e0360cab7387299a9e7e37296b87.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107300",
+  "actresses": [
+    {
+      "name": "片岡恵美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107300&name=片岡恵美"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/EFufOp7B/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69868,
+  "IDcode": "XVSR-358",
+  "title": "清純女学生強制中出し性交 若月まりあ",
+  "publish_date": "2018-03-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "高中女生",
+    "中出",
+    "乱伦",
+    "水手服",
+    "数位马赛克",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/9ceccad48419d6727b9070e7ba93e4a1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69868",
+  "actresses": [
+    {
+      "name": "若月玛丽亚",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/451a695b-97b1-427f-acfe-d38be23477b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69868&name=若月玛丽亚"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69868&name=玉木玲"
+    }
+  ]
+};

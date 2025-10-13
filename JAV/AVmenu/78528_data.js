@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/IJa45nfG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78528,
+  "IDcode": "CLO-036",
+  "title": "痙攣！失禁！！ガクブルFUCK！！！ 夏目優希",
+  "publish_date": "2020-04-17",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "苗条",
+    "口交",
+    "舔阴",
+    "手指插入",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241107-1/1223fa1d2fbc310ede6651465604f48b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78528",
+  "actresses": [
+    {
+      "name": "夏目优希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78528&name=夏目优希"
+    }
+  ]
+};

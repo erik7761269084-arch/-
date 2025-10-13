@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f376653a-1328-4cad-a992-9d60808a41bd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16935,
+  "IDcode": "LULU-263",
+  "title": "在約會APP上遇到的一位美麗人妻 從我第一次見到她時就要和我立即肛交",
+  "publish_date": "2024-01-03",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "肛交",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "人妻",
+    "約炮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073448914914.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240103/20240103073448914914.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16935",
+  "actresses": [
+    {
+      "name": "石川雲丹",
+      "img_url": "https://picture.yoshiclub.xyz/20230915/eab53a6d-5f55-41ec-a59a-1da54b4ec6ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16935&name=石川雲丹"
+    }
+  ]
+};

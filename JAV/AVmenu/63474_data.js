@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/03/04a8cc89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63474,
+  "IDcode": "IBW-985ZIBW",
+  "title": "ibw-985zIBW厳選 親がいない日、僕は妹とむちゃくちゃSEXした。映像集4時間",
+  "publish_date": "2025-06-03",
+  "type": "有码",
+  "company": "IB WORKS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/04a8cc89/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63474",
+  "actresses": []
+};

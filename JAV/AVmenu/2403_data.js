@@ -1,0 +1,40 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2403,
+  "IDcode": "YST-340",
+  "title": "不管高雅低俗只想狠狠玩弄小坂小姐 ~ 小坂ひまり",
+  "publish_date": "2025-09-26",
+  "type": "有码",
+  "company": "光夜蝶",
+  "genres": [
+    "後入",
+    "劇情",
+    "超爆乳",
+    "大乳暈",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "豐滿",
+    "網路紅人"
+  ],
+  "description": "YST-340为光夜蝶出品,2025年9月26日发行的有碼成人影片由小坂ひまり出演\n最近性生活變得有點無聊的一對男女，但只要一開幹，互相舔弄起來，那種心有靈犀的默契馬上點燃彼此的變態開關！深喉、掐脖子、狂抓爆乳、大量潮吹，各種下流又刺激的玩法對他們來說根本是家常便飯。黏糊糊的小穴被濃稠的精液灌滿，兩人瘋狂釋放體液，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926231740413413_82460_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250926/20250926231740413413_82460_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2403",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2403&name=小坂ひまり"
+    }
+  ]
+};

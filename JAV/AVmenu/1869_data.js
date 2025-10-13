@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230124/5a3d6d86-e441-4090-8efc-1f856a18a238/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1869,
+  "IDcode": "MCB3DBD-51B",
+  "title": "MERCIBOKU DV 51 美人崩壊 : 篠田步美 【下集】",
+  "publish_date": "2018-07-06",
+  "type": "无码",
+  "company": "MERCI BEAUCOUP",
+  "genres": [
+    "苗條",
+    "深喉",
+    "中出",
+    "美乳",
+    "口交",
+    "美腳"
+  ],
+  "description": "MCB3DBD-51B为MERCI BEAUCOUP出品,2018年7月6日发行的無碼成人影片由篠田步美出演\nメルシーボークー DV 51 美人崩壊 : 篠田あゆみ",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/443c56dc-df2e-4914-a8da-30356b188657.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/443c56dc-df2e-4914-a8da-30356b188657.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1869",
+  "actresses": [
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1869&name=篠田步美"
+    }
+  ]
+};

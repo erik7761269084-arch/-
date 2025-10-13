@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240328/CaQOciAF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101580,
+  "IDcode": "SILKBT-050",
+  "title": "攻められる快感に目覚めちゃう、じっくり開発エッチ 保志健斗",
+  "publish_date": "2024-03-06",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "乳房",
+    "巨大阴茎",
+    "情侣",
+    "恋爱",
+    "给女性观众",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101580",
+  "actresses": []
+};

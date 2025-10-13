@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/18/a27d145f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107303,
+  "IDcode": "NDRA-075",
+  "title": "隣人の情婦になってしまった妻27 松本菜奈実",
+  "publish_date": "2020-07-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "巨大屁股",
+    "白天出轨",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ndra075/ndra075pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107303",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107303&name=松本菜奈実"
+    }
+  ]
+};

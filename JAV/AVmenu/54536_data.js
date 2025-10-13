@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54536,
+  "IDcode": "869EF885DBE993A0CB8B6ABD694F88E9",
+  "title": "正在享受的女孩",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54536",
+  "actresses": []
+};

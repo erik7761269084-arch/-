@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/ohqybb0m/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67988,
+  "IDcode": "JUQ-185",
+  "title": "錯過末班車的我被性慾過剩的豐滿上司太太不給休息地持續榨到天亮 風間由美",
+  "publish_date": "2022-12-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250403-1/91cef7f689e4bbe37ba1113b925a124a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67988",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67988&name=風間由美"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67988&name=タイ"
+    }
+  ]
+};

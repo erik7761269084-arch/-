@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54501,
+  "IDcode": "E37B1436BE106E76863C09C0198D29C7",
+  "title": "她丢掉了她的假阳具",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54501",
+  "actresses": []
+};

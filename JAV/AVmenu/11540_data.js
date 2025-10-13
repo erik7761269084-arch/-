@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d81f377b-a3bb-4fc4-b1da-a7380f277e0f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11540,
+  "IDcode": "MILK-222",
+  "title": "急募！與熱愛性愛、中出、潮吹的飢渴角色扮演者的大亂交志願素人 ~ 千石もなか 百咲未色",
+  "publish_date": "2024-10-03",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "少女",
+    "多P",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "粉絲福利",
+    "真實拍攝",
+    "兩男兩女",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/fcf9707f-43d0-40ae-a08d-376523c25c0e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/fcf9707f-43d0-40ae-a08d-376523c25c0e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11540",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11540&name=千石もなか"
+    },
+    {
+      "name": "百咲未色",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/9d7f9a81-1b2a-4faa-bd3d-f42f02f86de5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11540&name=百咲未色"
+    }
+  ]
+};

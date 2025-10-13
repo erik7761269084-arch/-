@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b30ed58-bd76-4bb5-88b1-ededd903c1b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7135,
+  "IDcode": "DFDM-056",
+  "title": "嗑藥色色大冒險 ~ 西野乙音",
+  "publish_date": "2025-04-05",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "蘿莉",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "口交",
+    "貓耳裝飾",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "兩男一女",
+    "少女",
+    "多P",
+    "貧乳",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250330/7c94d67a-ed1e-448e-9ea9-291f6dcd7d1c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250330/7c94d67a-ed1e-448e-9ea9-291f6dcd7d1c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7135",
+  "actresses": [
+    {
+      "name": "西野乙音",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/120758fa-4329-41b8-9634-f6b5615bb56f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7135&name=西野乙音"
+    }
+  ]
+};

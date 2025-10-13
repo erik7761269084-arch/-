@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/dklB9PgU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76885,
+  "IDcode": "NGOD-092",
+  "title": "僕のねとられ話しを聞いてほしい 婦人服チラシのモデルを渋々引き受けたら助平な写真家に下着モデルで撮りまくられて寝盗られた妻 三原ほのか",
+  "publish_date": "2019-02-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨大屁股",
+    "白天出轨",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76885",
+  "actresses": [
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76885&name=三原穗香"
+    }
+  ]
+};

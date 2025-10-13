@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221220/3A0051361164EC69/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98070,
+  "IDcode": "AUKS-093",
+  "title": "ど変態なま唾レズ接吻狂",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "荡妇",
+    "女同性恋",
+    "潮吹",
+    "寡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98070",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98070&name=成宫いろは"
+    },
+    {
+      "name": "桃瀬ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98070&name=桃瀬ゆり"
+    }
+  ]
+};

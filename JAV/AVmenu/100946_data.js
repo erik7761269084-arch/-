@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231202/Qf1McRsl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100946,
+  "IDcode": "GANA-2957",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 321 おっとり系の巨乳美女をヤり部屋に連れ込んでイチャラブセックス！ふわふわのおっぱいを揺らしながら男の肉棒に翻弄される姿を隠しカメラで激写！！",
+  "publish_date": "2023-11-18",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "业余",
+    "猎艳",
+    "巨大屁股",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100946",
+  "actresses": [
+    {
+      "name": "のん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100946&name=のん"
+    }
+  ]
+};

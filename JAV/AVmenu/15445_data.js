@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f0b6bc4-e444-4b89-9ee1-e48a4eee4524/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/30/ebd8493c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15445,
+  "IDcode": "PRED-683",
+  "title": "春陽モカ正在笑着洗澡！口交與可愛的臉！春陽モカ",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "PRED-683为PREMIUM出品,2024年4月16日发行的有碼成人影片由春陽萌花出演\n白天是女大學生，晚上是休息室小姐！充滿間隙的春世茂華醬似乎也很喜歡口交！ ？事實證明，當我準備雞巴時，我會進行真空口交，以粗俗的方式扭曲她可愛的臉！抱著這個本能地想要逃跑的男人，把他一直含在嘴裡，一直到了基地！清潔口交，同時微笑著濃密的精子！真實又舒服的讓男人顫抖的口技！她笑著吸吮雞巴，變成了蕩婦！當然，她也非常喜歡陰部口交，以至於她有噴出的 PtoM 性愛！擠壓直到球空了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412220520418418.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412220520418418.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15445",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15445&name=春陽萌花"
+    }
+  ]
+};

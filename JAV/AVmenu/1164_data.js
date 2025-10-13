@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e0d77380-3c88-4ab5-a158-f6c395c1bd77/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220406/80031BCE2A2CC4F5/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1164,
+  "IDcode": "HEYZO-1873",
+  "title": "就寢中雞巴突然被插入到性感美麗的小穴裡",
+  "publish_date": "2018-12-01",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "人妻",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231025/20231025000635713713.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231025/20231025000635713713.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1164",
+  "actresses": [
+    {
+      "name": "日高千晶",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/日高千晶.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1164&name=日高千晶"
+    }
+  ]
+};

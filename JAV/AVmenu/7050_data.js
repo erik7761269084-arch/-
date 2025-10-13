@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d5c7a148-4de1-4835-a9f9-e3d759849fd3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7050,
+  "IDcode": "IPZZ-525",
+  "title": "「大家一起操我吧！」 婚禮二次會宅飲，發情的騷未婚女要把所有男人吃幹抹淨，精液榨取狂潮！！ ~ 明裏紬",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "酒醉",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "酒後亂性",
+    "深喉",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "聚會・PARTY",
+    "清楚系",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "極品美人"
+  ],
+  "description": "IPZZ-525为IDEA POCKET出品,2025年4月8日发行的有碼成人影片由明里紬出演\n「嘿，我現在想做愛，哈哈」 一名女子和三名男子在婚禮後聚會。一個淫蕩的女人在家庭聚會上吃掉了所有的雞巴！ ？她有一張甜美可愛的臉，但她是個蕩婦！ ！一個孤獨的未婚女子喝醉了，開始向一個又一個男人示愛，以滿足她的慾望！ ？你想對這個女人做什麼就做什麼！ ！ 「我要吃掉所有人的雞巴，哈哈」她被叫進一個私人房間，並立即被口交！只需插入即可！跨坐活塞！我受不了了，所以我們都做愛吧！讓我們在客廳舉行一次大狂歡吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093207669669.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403093207669669.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7050",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7050&name=明里紬"
+    }
+  ]
+};

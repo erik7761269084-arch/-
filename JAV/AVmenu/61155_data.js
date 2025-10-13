@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/07/ad1c3b0c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61155,
+  "IDcode": "GOJI-069",
+  "title": "旦那だけでは満たされず義理の弟で欲求を満たす兄の嫁",
+  "publish_date": "2025-08-31",
+  "type": "有码",
+  "company": "五次元",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "乳房",
+    "白天出轨",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/07/7aa223a6ecc4b475a5b6c306241c94f5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61155",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20240930/VC5DLuch/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93011,
+  "IDcode": "NSFS-101-C",
+  "title": "新·償い7 身代わりになってくれた男に身も心も捧げた妻",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93011",
+  "actresses": []
+};

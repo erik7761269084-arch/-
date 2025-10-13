@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250501/WVitZm2V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66839,
+  "IDcode": "EBOD-947",
+  "title": "ヤリたい時にすぐ呼べる 俺の女友達はムッチリ巨乳のイクイク敏感マゾペット～すんげえカラダの言いなりバイト女子～ 鬼塚もなみ 生写真3枚付き",
+  "publish_date": "2022-10-19",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "胖女人",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250502-1/3e741775faa798102372ef501ff7d507.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66839",
+  "actresses": [
+    {
+      "name": "鬼塚萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/89370c6f-0d8f-4d61-9a37-c21e0c95c4b5_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66839&name=鬼塚萌奈美"
+    }
+  ]
+};

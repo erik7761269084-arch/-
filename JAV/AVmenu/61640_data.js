@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/8e58e785/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61640,
+  "IDcode": "336KNB-370",
+  "title": "336knb-370 【8等身173cmの摩天楼ボディ人妻】「旦那が射精障害になりまして…」高身長な神スタイル",
+  "publish_date": "2025-07-20",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61640",
+  "actresses": []
+};

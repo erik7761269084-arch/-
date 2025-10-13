@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/oZB1fvw0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81672,
+  "IDcode": "FONE-096",
+  "title": "福島から上京、そのまま処女喪失。華奢で貧乳の素朴な田舎娘さゆり",
+  "publish_date": "2020-01-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "处女",
+    "中出",
+    "业余",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/85015c5eb225e06b0bad9dd3bf7691d9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81672",
+  "actresses": []
+};

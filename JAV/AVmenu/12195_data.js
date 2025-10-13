@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a041f6d3-94bb-4212-8c33-1a211570953f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/25/777699a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12195,
+  "IDcode": "JUQ-816",
+  "title": "目光相遇的那一刻，你會在十分之一秒內墜入愛河。 電擊移籍專屬 本氣接吻中出3本番 ~ 橘瑪麗",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "流汗",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "內衣",
+    "口爆",
+    "多P",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "辣妹/GAL系",
+    "野性",
+    "女優"
+  ],
+  "description": "JUQ-816为MADONNA出品,2024年9月10日发行的有碼成人影片由橘瑪麗出演\n當我們目光相遇的那一刻，你就會在十分之一秒內墜入愛河。幸福的臉龐，幸福的身材，卻又平易近人，人見人愛的國民最愛「瑪麗橘」Madonna & Das！ W獨家決定！ ！她是個完美的女人，可以去掉她的臉、她的胸部、她的屁股！ ！令人難忘的完全裸體的獨家第一部電影的主題是麥當娜風格“超級豐富”舌吻中出SEX 3製作文件！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906053416136136.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906053416136136.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12195",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12195&name=橘瑪麗"
+    }
+  ]
+};

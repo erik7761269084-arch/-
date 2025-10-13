@@ -1,0 +1,47 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98508,
+  "IDcode": "RCTD-269",
+  "title": "クルンと性別反転！TSFアバターミラー2",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "妄想",
+    "女同性恋",
+    "调教",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98508",
+  "actresses": [
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98508&name=川越ゆい"
+    },
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98508&name=雨村梨花"
+    },
+    {
+      "name": "水城奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241023/abadb674-e201-4632-8844-7b0dc78e2ded.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98508&name=水城奈緒"
+    },
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98508&name=望月理沙"
+    },
+    {
+      "name": "小川ひまり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98508&name=小川ひまり"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/13/7864fd80/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68803,
+  "IDcode": "HUNTB-452",
+  "title": "「キスだけ。それ以上はダメ…」兄に隠れて兄嫁とキスだけの約束のはずが…。舌が絡み合う情熱的なキスに燃え上がってしまった2人は我慢しきれず…。",
+  "publish_date": "2023-01-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "新娘，年轻妻子",
+    "接吻",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250327-1/4bcea46c3aeb83bfb058267f09bfa55b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68803",
+  "actresses": []
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4e44b9ad-4931-4c6f-8277-ea6216570d35/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/22/eafa76a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2684,
+  "IDcode": "MXGS-1397",
+  "title": "被討厭的同事抓住把柄任人擺布的美女OL ~ 蒼山愛奈",
+  "publish_date": "2025-09-15",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "按摩女郎",
+    "調教",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "跳蛋",
+    "口交",
+    "港區女子",
+    "風俗夜場",
+    "騎乗位",
+    "風俗娘",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "拜金女",
+    "單體作品",
+    "女同事",
+    "手指插入",
+    "足交",
+    "辦公室",
+    "獵豔",
+    "按摩棒",
+    "美人",
+    "職場",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "野性",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "MXGS-1397为MAXING出品,2025年9月15日发行的有碼成人影片由蒼山愛奈出演\n愛奈是個外表超正的美女OL，但私底下卻是個有點毒舌、看不起同事的傲嬌小辣椒。沒想到她偷偷在風俗店兼差賺外快，結果被點名的客人竟然是公司裡的死對頭同事！把柄被抓，愛奈只能乖乖聽話，從高冷女神一步步墮落成對方的玩物，簡直欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220101745745_95649_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220101745745_95649_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2684",
+  "actresses": [
+    {
+      "name": "蒼山愛奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/98689eb3-b3ac-4b49-8104-414ed426ec64.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2684&name=蒼山愛奈"
+    }
+  ]
+};

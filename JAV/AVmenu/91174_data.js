@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/Plyifyam/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91174,
+  "IDcode": "HJMO-629",
+  "title": "アナウンサー志望の名門校女子大生限定！「女子アナはどんな状況下でも原稿を読めるはず！？」 固定バイブ淫語ニュース超過激リポート4 イタズラ妨害に屈せず原稿読み終えたら100万円！途中で断念したら即ハメ中出し罰ゲーム！",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "巨大阴茎",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/80e375d3d908fadd8dead4f85d9e20ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91174",
+  "actresses": []
+};

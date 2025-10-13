@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/613cb5fd-0e10-40ee-98fc-c3caff0a8de8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5099,
+  "IDcode": "SIHB-029",
+  "title": "熟女人妻風俗 慾求不滿的肉體濕透了真實服務偷拍合輯",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "後入",
+    "素人作品",
+    "故事集",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "4小時以上作品",
+    "口交",
+    "港區女子",
+    "風俗夜場",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "精選綜合"
+  ],
+  "description": "SIHB-029为NEXT出品,2025年6月20日发行的有碼成人影片\n不是正規風俗店，而是在公寓小房間裡偷偷營業的有點神秘的服務……素人人妻兼職下海賺錢！潛入拍攝了這些有故事的人妻與客人的秘密淫亂現場，超多精彩內容收錄。人妻為了快速賺現金，不惜展現身體，各種騷姿媚態盡顯！在簡陋的房間裡，等待你的是性慾爆棚的超濃厚服務，絕對讓人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051146753753_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051146753753_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5099",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/07/1a329c70/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62098,
+  "IDcode": "AED-245",
+  "title": "熟女の戯れ 女性向け出張風俗にハマる五十路母 翔田千里",
+  "publish_date": "2025-08-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "按摩",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62098",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62098&name=翔田千里"
+    }
+  ]
+};

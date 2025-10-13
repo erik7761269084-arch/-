@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/742355d3-8bf7-4aa0-a142-19666c7ad457/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/05/9484b1b1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5987,
+  "IDcode": "NACR-959",
+  "title": "被絕倫公公狂侵犯，調教成淫蕩小嬌妻 ~ 柏木小夏",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "童顔",
+    "高顏值",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "老頭子",
+    "4K",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "蘿莉控",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "人妻",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "大奶头",
+    "寢取",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "NACR-959为PLANETPLUS出品,2025年5月20日发行的有碼成人影片由柏木小夏出演\n為了去老公老家掃墓，小嬌妻跟著回鄉下。本以為公公是個溫柔老爺子，沒想到卻被他撞見自己偷偷自慰的尷尬場面。隔天獨處時，公公直接霸氣開撩：我比你老公更能滿足你！小嬌妻一開始還掙扎，但在絕倫公公的猛烈攻勢下一次次被送上高潮，徹底淪陷成慾望的奴隸，欲罷不能啦…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233020877877_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233020877877_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5987",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5987&name=柏木小夏"
+    }
+  ]
+};

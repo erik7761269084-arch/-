@@ -1,0 +1,155 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c6c2f729-b2d5-4b83-ad7b-942a3c5515ec/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10251,
+  "IDcode": "BMW-321",
+  "title": "唾液溼吻，超棒手技的雙重樂趣，W快樂壓榨 BEST 合集",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "企畫",
+    "無做愛場面",
+    "形象俱樂部",
+    "精選總編集",
+    "美少女電影"
+  ],
+  "description": "BMW-321为WANZ FACTORY出品,2024年12月3日发行的有碼成人影片由藤森里穂，森澤佳奈，深田詠美，JULIA，松本一香，君島美緒，倉本菫，佐山爱，水川蓳，森日向子，辻井穗乃果，朝比奈七瀨，月乃露娜，北野未奈，沙月芽衣，日下部加奈，永瀬ゆい，新井里真，皇柚子，佐野由真，木下日葵，花狩舞，長谷川夕奈，末広純，沙月惠奈，蕾出演\n她被她迷人的舌頭所誘惑，無法說出「我射了......！」就射精了。她用性感的表情將嘴唇貼近她的臉，挑逗她，用舌頭攪動她，甚至在她流口水的同時，她用手給他打手槍……生澀……！ 240 分鐘的 2 點快感會讓您頭暈目眩，長時間感覺棒極了！盡你所能地搖動你的臀部是件好事，但向一個蕩婦投降並讓她射精也是不可抗拒的！閉上你的眼睛和嘴巴......這是最好的工作，你可以用最好的射精來完成！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102111652652.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128102111652652.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10251",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=森澤佳奈"
+    },
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=倉本菫"
+    },
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=松本一香"
+    },
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=森日向子"
+    },
+    {
+      "name": "末広純",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/52b7f8cf-362e-4460-b9d8-a55df7001082.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=末広純"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=沙月惠奈"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=木下日葵"
+    },
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=北野未奈"
+    },
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=新井里真"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=藤森里穂"
+    },
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=JULIA"
+    },
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=辻井穗乃果"
+    },
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=佐山爱"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=月乃露娜"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=沙月芽衣"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=花狩舞"
+    },
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=水川蓳"
+    },
+    {
+      "name": "日下部加奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b31aecda-0408-4ba7-be0d-33024ffc71d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=日下部加奈"
+    },
+    {
+      "name": "佐野由真",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250424/ea7f51fd-67ed-4856-992f-5a044ee511c9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=佐野由真"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=深田詠美"
+    },
+    {
+      "name": "君島美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230619/95759a80-b4cc-4ccf-ad53-3152e39af8aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=君島美緒"
+    },
+    {
+      "name": "永瀬ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20240619/a67b639c-4760-4cc8-9f06-615f23ed46be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=永瀬ゆい"
+    },
+    {
+      "name": "長谷川夕奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/5bb30062-3dcc-418b-94dc-00ab747ad25d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=長谷川夕奈"
+    },
+    {
+      "name": "皇柚子",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/3babe808-3cdc-43d9-8863-aab18793505a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=皇柚子"
+    },
+    {
+      "name": "朝比奈七瀨",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/e37444af-3172-48be-b1ec-ac58f1829d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=朝比奈七瀨"
+    },
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10251&name=蕾"
+    }
+  ]
+};

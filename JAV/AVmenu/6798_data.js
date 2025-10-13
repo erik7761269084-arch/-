@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11628002-876f-43fe-a3e9-35e91bfb5dc9/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/3899c9d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6798,
+  "IDcode": "SONE-689",
+  "title": "野球部小哥哥和美少女經理被暴雨困在部室裏獨處…溼透的身子讓青春期的欲望爆炸，溫柔撫慰到射不停 ~ 淺野心",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "性感",
+    "運動女孩",
+    "少女",
+    "美腳",
+    "美少女",
+    "更衣室",
+    "艷遇",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-689为S1出品,2025年4月18日发行的有碼成人影片由淺野心出演\n小可愛淺野心雖然有個三年級的男友，但心裏卻偷偷暗戀同在野球部的結城。某天夏天，野球部活動結束後，她一個人在屋頂收拾東西，突然被一場突如其來的暴雨澆了個透心涼。通往校舍的門被鎖了，沒辦法只能躲進部室，結果卻發現結城也被困住了，兩個人意外獨處！手機信號差到爆，根本聯系不上外界，狹小的空間裏，溼熱到讓人心癢癢的空氣中，青春的荷爾蒙徹底炸裂，兩個年輕人忍不住貼近彼此，身體交疊，釋放出最原始的衝動…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/202504170847459898_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/202504170847459898_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6798",
+  "actresses": [
+    {
+      "name": "淺野心",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e82d408d-ffb4-4feb-9a6a-78f4a4affd1a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6798&name=淺野心"
+    }
+  ]
+};

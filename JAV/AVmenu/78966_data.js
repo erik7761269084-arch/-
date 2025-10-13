@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/SAQWM8In/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78966,
+  "IDcode": "MIGD-444",
+  "title": "- TripleHoles クチ・マ●コ・アナルの贅沢な使い方 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "口交",
+    "肛交",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78966",
+  "actresses": [
+    {
+      "name": "しほのちさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78966&name=しほのちさ"
+    }
+  ]
+};

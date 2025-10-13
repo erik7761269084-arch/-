@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56204,
+  "IDcode": "56B2F3E07982E566599539C398394834",
+  "title": "父亲请一堆老头子探究女儿的秘密",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56204",
+  "actresses": []
+};

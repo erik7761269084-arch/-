@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230402/1b41ab62-81cc-4dbe-b095-3e5e8c8a3b9e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1647,
+  "IDcode": "SERO-0025",
+  "title": "我要跟秋月麗奈一起去！混浴露天巴士之旅",
+  "publish_date": "2010-06-25",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [
+    "泡泡浴店",
+    "女上位",
+    "無碼流出",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/4221c89c-e57b-42da-937f-c76fd6c3590a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/4221c89c-e57b-42da-937f-c76fd6c3590a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1647",
+  "actresses": [
+    {
+      "name": "秋月玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/秋月玲奈.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1647&name=秋月玲奈"
+    }
+  ]
+};

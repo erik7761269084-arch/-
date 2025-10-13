@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230201/xfETkrmh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86061,
+  "IDcode": "ROYD-105",
+  "title": "寸止めで快感倍増！童貞君の早漏チ○ポを延々と焦らす幼馴染の凄テク射精コントロール 東條なつ",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "颜射",
+    "童年朋友",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/3e809b1f05c8d8d37e02487688e44be7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86061",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86061&name=東條夏"
+    }
+  ]
+};

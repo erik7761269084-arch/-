@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/260eee46-5bb2-4344-9f2a-5ee956f6499f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8403,
+  "IDcode": "NKD-325",
+  "title": "性玩志願 ~ 安堂はるの",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "後入",
+    "素人作品",
+    "濕身",
+    "企畫",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "中出",
+    "蒙面・面罩",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "SM",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "癡女",
+    "手指插入",
+    "奇異的",
+    "M男・M女",
+    "真實拍攝",
+    "插入異物",
+    "打屁股",
+    "拳擊交",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/20250208100703574574.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/20250208100703574574.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8403",
+  "actresses": [
+    {
+      "name": "安堂はるの",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/a99a3667-810d-4742-8eba-53534ad3f779.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8403&name=安堂はるの"
+    }
+  ]
+};

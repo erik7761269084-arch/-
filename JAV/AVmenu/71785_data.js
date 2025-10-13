@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/LR2twrD0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71785,
+  "IDcode": "HOKS-031",
+  "title": "リフォーム詐欺の女 川崎亜里沙",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "巨大屁股",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71785",
+  "actresses": [
+    {
+      "name": "川崎亜里沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/304e738d-1a9c-4950-8fcf-c9e063bf5dc8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71785&name=川崎亜里沙"
+    }
+  ]
+};

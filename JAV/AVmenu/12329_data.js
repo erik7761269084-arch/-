@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e987d0ac-dd6d-4a73-8077-aafa3e5261c6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/26/22f3f77d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12329,
+  "IDcode": "FPRE-092",
+  "title": "最高級的巨乳美女按摩院，能徹底榨幹睾丸裏存貨的爆射精誘惑 ~ 似鳥日菜",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "淫語",
+    "按摩・美容店",
+    "巨乳",
+    "抹油"
+  ],
+  "description": "FPRE-092为FITCH出品,2024年9月3日发行的有碼成人影片由似鳥日菜出演\n歡迎來到最好的男士美容院！這是為成年男性打造的放鬆排毒空間。美麗的美容師會把你的巨乳併攏，在你耳邊低聲甜言蜜語，慢慢小心地用手法讓你發瘋。像女孩一樣抬起臀部，呻吟著，盡情釋放充滿睪丸的濃稠精液。我們將精心邀請您享受緩慢的油手按摩帶來的愉悅極限！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014556475475.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830014556475475.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12329",
+  "actresses": [
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12329&name=似鳥日菜"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/28de8305/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64035,
+  "IDcode": "MMPB-076",
+  "title": "一生に一度の神体験！ 街を歩いてたらあの人気女優からまさかの逆ナン！ まさかの生中出し！",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "荡妇",
+    "倒追",
+    "汽车性爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64035",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=森澤佳奈"
+    },
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=森日向子"
+    },
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=橘瑪麗"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=田中寧寧"
+    },
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=友田彩也香"
+    },
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=小梅惠奈"
+    },
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=奏音花音"
+    },
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64035&name=斋藤亚美里"
+    }
+  ]
+};

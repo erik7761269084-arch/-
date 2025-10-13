@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221203/0666A075B08C22DE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39157,
+  "IDcode": "29119B47D1781CC18448D2429364B-433",
+  "title": "細身のパイパン娘と野外で生中出し①",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39157",
+  "actresses": []
+};

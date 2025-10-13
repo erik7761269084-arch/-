@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e98279c3-9d26-4965-bdd1-85ebd9d5354d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2025/01/04/375393ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10021,
+  "IDcode": "ALDN-398",
+  "title": "陷入無盡中出快樂地獄的人妻 ~ 加藤ツバキ",
+  "publish_date": "2024-12-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "蒙面・面罩",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "兩男一女",
+    "慾求不滿",
+    "內衣",
+    "多P",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/2555373c-9c43-4140-b73b-7eefa38c6071.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/2555373c-9c43-4140-b73b-7eefa38c6071.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10021",
+  "actresses": [
+    {
+      "name": "加藤ツバキ",
+      "img_url": "https://picture.yoshiclub.xyz/20230509/0836e5f4-86e2-4f7c-9d01-7f1ddf3f1ed6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10021&name=加藤ツバキ"
+    },
+    {
+      "name": "夏树カオル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10021&name=夏树カオル"
+    }
+  ]
+};

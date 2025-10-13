@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/gnXFURqo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93528,
+  "IDcode": "NHDTB-923",
+  "title": "図書館で声も出せず糸引くほど愛液が溢れ出す敏感娘30 ロングヒット記念！全裸オイル羞恥315分SP 若月もあさんのパンティとチェキ付き",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "潮吹",
+    "羞耻",
+    "裸体围裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93528",
+  "actresses": []
+};

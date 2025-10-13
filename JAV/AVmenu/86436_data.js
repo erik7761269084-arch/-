@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/14/a801e6b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86436,
+  "IDcode": "STARS-652",
+  "title": "底辺Y〇uTuberが渋谷で大暴走!?紗倉まなに転生できました!",
+  "publish_date": "2022-07-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "处女",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86436",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86436&name=纱仓真菜"
+    }
+  ]
+};

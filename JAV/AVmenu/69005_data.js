@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250408/wKzt4yTW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69005,
+  "IDcode": "JUQ-068",
+  "title": "夫には口が裂けても言えません、お義父さんに孕ませられたなんて…。-1泊2日の温泉旅行で、何度も何度も中出しされてしまった私。- 栗山莉緒",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69005",
+  "actresses": [
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69005&name=栗山莉绪"
+    }
+  ]
+};

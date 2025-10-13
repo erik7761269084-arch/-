@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240301/AYSEa7WR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90916,
+  "IDcode": "MADV-537",
+  "title": "【FANZA限定】追撃の達人 一回の射精で終わると思ったら大間違いなんだから… 森日向子 チェキ付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "乳交",
+    "中出",
+    "女上位",
+    "荡妇",
+    "足交",
+    "苗条",
+    "口交",
+    "按摩棒",
+    "乳房",
+    "巨大阴茎",
+    "手淫",
+    "连裤袜",
+    "恋腿癖",
+    "迷你裙",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90916",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90916&name=森日向子"
+    }
+  ]
+};

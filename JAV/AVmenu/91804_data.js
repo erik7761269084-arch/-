@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241023/84FhrwB6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91804,
+  "IDcode": "SLAP-133",
+  "title": "今時女子校生は楽しくゲームでダイエット！パンチラパンモロフィットネス（SLAP-133）",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "屁股",
+    "恋腿癖",
+    "内衣",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91804",
+  "actresses": []
+};

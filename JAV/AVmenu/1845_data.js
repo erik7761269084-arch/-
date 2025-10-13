@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230125/723bfb28-ce23-4b90-95b0-926d396016b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1845,
+  "IDcode": "MKBD-S75",
+  "title": "KIRARI 75 「見面〇秒合體」一看到就馬上幹！ : 大場唯",
+  "publish_date": "2014-07-03",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "美乳",
+    "潮吹",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/723c1272-95dc-4be9-a1b1-d11714725c03.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/723c1272-95dc-4be9-a1b1-d11714725c03.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1845",
+  "actresses": [
+    {
+      "name": "大场唯",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-大場ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1845&name=大场唯"
+    }
+  ]
+};

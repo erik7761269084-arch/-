@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/02/c784e676/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80832,
+  "IDcode": "MEYD-740",
+  "title": "私、実は夫の上司に犯●れ続けてます… 白桃はな",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0bc60ab68a34e5b89d81e9d55724994a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80832",
+  "actresses": [
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80832&name=白桃はな"
+    }
+  ]
+};

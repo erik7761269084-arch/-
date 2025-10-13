@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/17/ea8e067b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80272,
+  "IDcode": "WAAA-122",
+  "title": "中出しOK美巨乳エステ嬢が賢者タイムに入る余裕もないくらい何発もヌキにくる回春メンズエステ さつき芽衣",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "美容院",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80272",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80272&name=沙月芽衣"
+    }
+  ]
+};

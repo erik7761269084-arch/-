@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240120/QO979zot/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90525,
+  "IDcode": "PPX-004",
+  "title": "野々浦暖 8時間 BEST PRESTIGE PREMIUM EXCLUSIVE vol.06",
+  "publish_date": "2023-10-05",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/071325ad2d049c95c4540ef722219edc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90525",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90525&name=野野浦暖"
+    }
+  ]
+};

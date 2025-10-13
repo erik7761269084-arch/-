@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241209/1x83aPnH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76501,
+  "IDcode": "MIDE-710",
+  "title": "新人AVデビュー19歳八木奈々 新世代スター候補10年に1人の純真ピュア美少女",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "自慰",
+    "颜射",
+    "首次亮相",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76501",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76501&name=八木奈々"
+    },
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76501&name=市川润"
+    }
+  ]
+};

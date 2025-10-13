@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/413b1789-12f9-4964-bd06-a2c201c7aaf7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/05/87393947/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6976,
+  "IDcode": "DLDSS-397",
+  "title": "S級美女首次償試野性＆中出SPECIAL ~ 角奈保",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "變態",
+    "臀控",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "M男・M女",
+    "美人",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "DLDSS-397为DAHLIA出品,2025年5月8日发行的有碼成人影片由仁藤沙耶香出演\n擁有神聖乳房和苗條身材的神秘業餘美女 Naoko Kado 已經在她的第二部獨家 DAHLIA 影片中首次以原始中出動作亮相！一根未經加工的陰莖插入一個迄今為止只使用過安全套進行性交的美麗陰道，從未感受過的原始感覺讓她比平時更加淫蕩地弓起後背，多次達到高潮！三個激烈的場景，被保護著的、依然不受污點侵擾的女人的陰道裡充滿了男人的精液！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250407/20250407123423827827.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250407/20250407123423827827.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6976",
+  "actresses": [
+    {
+      "name": "仁藤沙耶香",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/13a84080-5305-42a0-8296-69a1f16d7093.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6976&name=仁藤沙耶香"
+    }
+  ]
+};

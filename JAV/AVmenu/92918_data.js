@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240911/9NWxhyG0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92918,
+  "IDcode": "VSR-527",
+  "title": "VSR527目の前で憧れのあの娘がイキまくり！！男優目線で超密着SEX涼宮琴音。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92918",
+  "actresses": []
+};

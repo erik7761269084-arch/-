@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/900c544e-8df0-4fba-917c-5181e1fdba51/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2020/09/25/8252dd6b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18893,
+  "IDcode": "IPX-532",
+  "title": "能夠無制限射精神神對應泡泡浴女郎 連續11發大興奮射精！！ 矢乃花音",
+  "publish_date": "2020-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "女上位",
+    "口交",
+    "姐姐・妹妹",
+    "風俗娘",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230829/20230829011813614614.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230829/20230829011813614614.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18893",
+  "actresses": [
+    {
+      "name": "矢乃花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/4b2d3b2b-3ae0-4293-9a4e-91aaa91c809b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18893&name=矢乃花音"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18893&name=大岛丈"
+    }
+  ]
+};

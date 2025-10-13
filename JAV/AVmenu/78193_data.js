@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/zb9wB2hr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78193,
+  "IDcode": "MIAA-209",
+  "title": "女として意識した事なかった幼なじみが隠れ巨乳だったのを知ってその場のノリでSEXを頼んでみた 佐藤りこ",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "玩具",
+    "制服",
+    "巨大阴茎",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78193",
+  "actresses": [
+    {
+      "name": "夏川海",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/757995ee-c9d3-4073-a3c8-5bf79bd7084a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78193&name=夏川海"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78193&name=蓝井优太"
+    }
+  ]
+};

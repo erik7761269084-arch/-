@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ad02b6f-f698-4351-9156-68a20384dbaa/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/28/97379fc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16762,
+  "IDcode": "EBWH-052",
+  "title": "在當地女排聯賽中引起轟動的偶像級巨乳攻擊手雨宮響（20歲）AV出道",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "美腳",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "泳裝"
+  ],
+  "description": "EBWH-052为E-BODY出品,2024年1月23日发行的有碼成人影片由雨宮響出演\n【AV世界No.1運動員身材AV參與】白皙肌膚 Hcup！命運不佳的黑發女排運動員，因擁有超越凹凸的身材而成爲熱門話題！經過訓練而變得強壯的修長四肢，以及意外長得過大的乳房……深邃而充滿優雅的至尊軀體。而且是令人難以置信的生動的SEX，這是她天然的體力所帶來的出道作品。爲了進一步飛躍，她世界一流的運動身體正在向她最活躍的AV世界邁進。\n【AV世界No.1運動員身材AV參與】白皙肌膚 Hcup！命運不佳的黑發女排運動員，因擁有超越凹凸的身材而成爲熱門話題！經過訓練而變得強壯的修長四肢，以及意外長得過大的乳房……深邃而充滿優雅的至尊軀體。而且是令人難以置信的生動的SEX，這是她天然的體力所帶來的出道作品。爲了進一步飛躍，她世界一流的運動身體正在向她最活躍的AV世界邁進。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113092649973973.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240113/20240113092649973973.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16762",
+  "actresses": [
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16762&name=雨宮響"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16762&name=小田切ジュン"
+    }
+  ]
+};

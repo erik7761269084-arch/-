@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f65d424a-e651-4dbf-abdb-aeb0231a59b7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10359,
+  "IDcode": "SSNI-470",
+  "title": "絕頂高潮開發 巨根 x 陰道高潮 ~ 乾立夏",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-470为S1出品,2019年5月7日发行的有碼成人影片由乾立夏出演\n隱藏在陰道後部、只有女性才能了解的性感帶，「Portio」 如果我們嚴重發展出敏感、容易早洩的乾燥Portio，會發生什麼事？當她被AV界最大的雞巴之一充滿她的陰戶揉捏和扭曲時，她從身體的核心達到了劇烈的抽搐高潮！從體外插入陰莖，刺激陰道深處的陰道內外W部刺激，讓170cm的纖細身材強力狂野，超色情！覺醒愛神後波西奧發育，太噁心了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241127/20241127060737255255.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241127/20241127060737255255.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10359",
+  "actresses": [
+    {
+      "name": "乾立夏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/乾りっか.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10359&name=乾立夏"
+    }
+  ]
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8a74a5e-b628-439b-80a4-18fb7b382a87/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250318/qUNF0tse/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11100,
+  "IDcode": "SSNI-434",
+  "title": "寢取NTR的1泊2日的社員旅行，丈夫上司一直在強奸我 ~ 葵司",
+  "publish_date": "2019-03-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "在丈夫面前被操",
+    "變態",
+    "和服・浴衣・喪服",
+    "乳交",
+    "凌辱",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "美少女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "溫泉",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-434为S1出品,2019年3月19日发行的有碼成人影片由葵司出演\n司是結婚兩年的年輕妻子，在辦公室戀情後結婚。她過著幸福快樂的生活，但丈夫被老闆強迫去做非法金工，開始被以此開玩笑來敲詐。一次與家人一起度過一晚、兩天的公司旅行就是在這樣的情況下進行的。司無法抗拒性慾異常強烈的男人，在澡堂、宴會廳、甚至當著丈夫的面被徹底強姦，迫使她的身體體驗到理智被擊垮的快感。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024024407862862.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241024/20241024024407862862.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11100",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11100&name=葵司"
+    }
+  ]
+};

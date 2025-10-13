@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7aa61ce2-d49b-4c6b-b18b-cc8862aacd66/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/19/548e7c9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18232,
+  "IDcode": "JUQ-456",
+  "title": "接待員NTR～獨自工作時被傲慢老闆戴綠帽一週的妻子～",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "強姦",
+    "性騷擾",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-456为MADONNA出品,2023年10月24日发行的有碼成人影片由橘瑪麗出演\n「吉野經理，你被降職了……」公司的接待員~我的妻子橘メアリー每天都受到吉野經理的性騷擾。橘メアリー說她想保持冷靜，但我無法接受越來越暴力的性騷擾，所以我向人力資源部門報告了。然後，經理被降職為科長……鬆了一口氣，我正在和同事談論這件事，吉野經理偷聽了。第二天，經理命令大家在手機上安裝監控應用程序，還命令我出差一周。\n「吉野經理，你被降職了……」公司的接待員~我的妻子橘メアリー每天都受到吉野經理的性騷擾。橘メアリー說她想保持冷靜，但我無法接受越來越暴力的性騷擾，所以我向人力資源部門報告了。然後，經理被降職為科長……鬆了一口氣，我正在和同事談論這件事，吉野經理偷聽了。第二天，經理命令大家在手機上安裝監控應用程序，還命令我出差一周。\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/202310220236432828.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/202310220236432828.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18232",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18232&name=橘瑪麗"
+    }
+  ]
+};

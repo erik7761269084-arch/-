@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f0c9032-387c-4f20-9373-71f3b8cfba82/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 38,
+  "IDcode": "1PON-010518_628",
+  "title": "脫了內褲也不摘眼鏡！性感文藝系美人家庭教師的誘惑教學 ~ 月村ひかる",
+  "publish_date": "2018-01-06",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "家庭教師",
+    "高妹",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "清純",
+    "艷遇",
+    "手指插入",
+    "美人",
+    "眼鏡"
+  ],
+  "description": "1PON-010518_628为一本道出品,2018年1月6日发行的無碼成人影片由月村ひかる出演\n戴着眼镜的家教小姐姐，那勾魂的眼神简直要命！被学生表白后，直接抛开课本开干！学生说“老师，我暗恋你好久了”，小姐姐瞬间被点燃，口活、开腿秀、玩具自慰、潮吹，连生插实战课程都安排上了！全程眼镜不离身，尖叫着高潮迭起，高速冲刺时还得扶住快掉的眼镜，那骚气又聪慧的模样，绝对让你看得血脉喷张，快来一探究竟吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031952741741_23092_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031952741741_23092_s.webp",
+  "title_play_url": null,
+  "actresses": [
+    {
+      "name": "月村ひかる",
+      "img_url": "https://picture.yoshiclub.xyz/20231109/d94c4069-d282-4239-98dc-c3b4ae298713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=38&name=月村ひかる"
+    }
+  ]
+};

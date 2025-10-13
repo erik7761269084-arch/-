@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240512/u66Ir0BW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102045,
+  "IDcode": "PH-060",
+  "title": "人妻痴女揃って参上 第2弾",
+  "publish_date": "2012-02-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/67ph060/67ph060pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102045",
+  "actresses": []
+};

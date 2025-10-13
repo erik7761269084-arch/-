@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/fNbpGrEa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70847,
+  "IDcode": "BAZX-124",
+  "title": "生中出し巨乳制服美少女 Vol.001",
+  "publish_date": "2018-03-23",
+  "type": "有码",
+  "company": "BAZOOKA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "制服",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250222-1/05f8723d842c9a4bf05fdd15d7603895.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70847",
+  "actresses": [
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70847&name=浅田结梨"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70847&name=优梨まいな"
+    },
+    {
+      "name": "海空花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70847&name=海空花"
+    },
+    {
+      "name": "星咲伶美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a636318789c3600760e873d3017c81c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70847&name=星咲伶美"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/25/23054eda/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106491,
+  "IDcode": "NNPJ-536",
+  "title": "喜歡NTR男友命令下與陌生男人做愛的大小姐女大生用交友軟體把上！ 主觀視線讓男友看懇求中出做愛到早上 優",
+  "publish_date": "2022-12-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "女大学生",
+    "第一人称摄影",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/25/5fba6235b5d6722e4ffdb11b70cfc171.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106491",
+  "actresses": [
+    {
+      "name": "北山憂",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/d987c48a-5e67-4112-806a-cfdc5e18d8d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106491&name=北山憂"
+    }
+  ]
+};

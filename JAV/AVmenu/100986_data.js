@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/17/f2601c3d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100986,
+  "IDcode": "JUL-767",
+  "title": "汗ばむ乳房、淫靡な視線、喫茶店で働く人妻ウェイトレスは閉店後、主人の命で常連に抱かれて―。 神宮寺ナオ",
+  "publish_date": "2021-11-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "各种职业",
+    "流汗",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jul767/jul767pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100986",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100986&name=左慈半造"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100986&name=神宫寺奈绪"
+    }
+  ]
+};

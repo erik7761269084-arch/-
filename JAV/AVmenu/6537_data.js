@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4d56873a-5463-407a-931a-dd061e914562/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6537,
+  "IDcode": "SAN-342",
+  "title": "嘗過繼子嫩棒就停不下的騷氣繼母 ~ 翔田千里",
+  "publish_date": "2025-04-29",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "繼母",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "單體作品",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "SAN-342为マザー出品,2025年4月29日发行的有碼成人影片由翔田千里出演\n性生活空虛的千里和一樣飢渴的繼子，兩個孤獨的靈魂碰撞在一起，擦出了禁忌的火花！為了釋放壓抑已久的慾望，他們不顧倫理直接開幹，最後連千里的老公也加入這場混亂的激戰，真的超辣眼啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428103518706706_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250428/20250428103518706706_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6537",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6537&name=翔田千里"
+    }
+  ]
+};

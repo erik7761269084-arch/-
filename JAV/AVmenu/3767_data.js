@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a2780d5-bb46-4c6f-b914-567ebbcb9642/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/13/28c7e108/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3767,
+  "IDcode": "FNS-088",
+  "title": "曾經覺得是小孩的妹妹居然不穿內衣引誘我，乘爸媽旅遊時忍不住幹了好幾炮 ~ 濱邊彌生",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "超爆乳",
+    "校花",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "探親",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "亂倫",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "FNS-088为FALENO出品,2025年8月8日发行的有碼成人影片由濱邊彌生出演\n好久沒回老家，這次回去發現小時候跟我超鐵的妹妹長大了，身材變得超火辣，真的看傻眼！雖然她看起來還沒完全成熟，但老是故意讓內褲若隱若現地秀給我看……這絕對是故意的吧？那片緊貼私處的布料，完全包不住她的大屁股，誘惑力直接爆表！雖然她是我妹，但我真的快要hold不住了……剛好爸媽去旅遊，家裡只剩我們兩個，她的內褲秀還是沒停，我的慾望也徹底失控。一旦動手就停不下來，趁爸媽不在，瘋狂幹到天亮。沒想到我妹能這麼可愛、這麼騷，理智直接崩潰，根本停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250808/20250807235936778778_12921_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250808/20250807235936778778_12921_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3767",
+  "actresses": [
+    {
+      "name": "濱邊彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/c69882cf-89fa-4d14-80ac-43c43c0cdfd6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3767&name=濱邊彌生"
+    }
+  ]
+};

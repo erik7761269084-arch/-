@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c57b041-36e9-4afc-a729-9b2366981735/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18495,
+  "IDcode": "IPX-734",
+  "title": "愛愛情侶 不論睡覺還是清醒時都用療癒深吻與癡女技巧 抽插愛愛絶倫性活",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "純粹的慾望",
+    "中出",
+    "感官作品",
+    "口交",
+    "女友・妻子",
+    "姐姐・妹妹",
+    "主觀視角",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/202310020038417070.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/202310020038417070.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18495",
+  "actresses": [
+    {
+      "name": "神彩美舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230926/baf74b83-5b89-41b3-aeab-c2493ad0f1da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18495&name=神彩美舞"
+    }
+  ]
+};

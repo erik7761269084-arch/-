@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/debf9f94-04fb-44ef-af0b-1955225e10ad/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14996,
+  "IDcode": "SQTE-539",
+  "title": "由良佳奈 雅子裏菜 的三角戀",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "劇情",
+    "中出",
+    "形象俱樂部",
+    "JK校服",
+    "女友・妻子",
+    "純愛・戀愛",
+    "多P",
+    "清純",
+    "雙飛",
+    "兩女一男",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240505/2f6cf7c1-0a4a-4fea-af7f-fdf35f4a4864.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240505/2f6cf7c1-0a4a-4fea-af7f-fdf35f4a4864.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14996",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14996&name=由良佳奈"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14996&name=雅子裡菜"
+    }
+  ]
+};

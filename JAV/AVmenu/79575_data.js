@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/19/90eacde2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79575,
+  "IDcode": "SDJS-124",
+  "title": "初中出し 会社終わりにホテルで朝までずっとマ●コに精子入れっぱなし… 中山琴葉",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "第一人称摄影",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79575",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79575&name=鲛岛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79575&name=南佳也"
+    },
+    {
+      "name": "中山琴叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79575&name=中山琴叶"
+    }
+  ]
+};

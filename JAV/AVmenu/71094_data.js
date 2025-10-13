@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/SLNREnzG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71094,
+  "IDcode": "GS-260",
+  "title": "本屋で立ち読みする制服姿の女子○生の短いスカートにソソられ思わずパンチラ盗撮。でも真剣で気がつかないからガッツリ覗き込んでいると…何と！その子が万引き！！思わず「あっ」と声が出てしまうと目が合った！お互いにヤバイ状況のまま、周りにバレないよう本屋痴漢！",
+  "publish_date": "2019-05-23",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "内衣",
+    "迷你裙",
+    "偷窥",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71094",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71094&name=タツ"
+    }
+  ]
+};

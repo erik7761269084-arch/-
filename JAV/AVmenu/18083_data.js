@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ca5f662e-e62e-4fd6-a588-df54e30eee1c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/04/16/130037d8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18083,
+  "IDcode": "IPX-856",
+  "title": "與遠距離戀愛的女友睽違半年再會。 持續思念著的我們在有限時間中激烈求合持續中出做愛。 希島愛理",
+  "publish_date": "2022-04-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "劇情",
+    "絕頂高潮",
+    "流汗",
+    "中出",
+    "女友・妻子",
+    "純愛・戀愛",
+    "慾求不滿",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031234103928928.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231031/20231031234103928928.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18083",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18083&name=希島愛理"
+    }
+  ]
+};

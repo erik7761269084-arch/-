@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240702/CSBHhAHN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97051,
+  "IDcode": "ACZD-075",
+  "title": "ACZD-075",
+  "publish_date": "2023-01-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "SM",
+    "女同性恋",
+    "肛交",
+    "纪录片",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_019aczd075/h_019aczd075pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97051",
+  "actresses": [
+    {
+      "name": "西山真由子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97051&name=西山真由子"
+    }
+  ]
+};

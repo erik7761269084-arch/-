@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241230/eMSLomCp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74974,
+  "IDcode": "AP-656",
+  "title": "親友の母親で脱！童貞夜這い連続中出し！",
+  "publish_date": "2019-05-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "新娘，年轻妻子",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/1638a0d93c23088564f55fd0e03ac94e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74974",
+  "actresses": [
+    {
+      "name": "明里友香",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/5d03863f-f8f6-4fff-a36a-94c9430ee9b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74974&name=明里友香"
+    },
+    {
+      "name": "神ユキ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/e14aec81-25d5-4313-aeeb-8084050579d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74974&name=神ユキ"
+    },
+    {
+      "name": "秋本詩音",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/0f7811f1-239a-4c1a-9c24-1e8c543bd67f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74974&name=秋本詩音"
+    }
+  ]
+};

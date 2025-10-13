@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230908/Kk2AMvtk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88065,
+  "IDcode": "MKON-024",
+  "title": "なんか弱み握れないかな～とか軽いノリでムカつく教師のスマホを勝手に覗いたら、俺の彼女とハメ撮りしてる動画が大量に保存してあった 柊るい",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "多P",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/7070a077006b9471bfd7e26e3735f62f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88065",
+  "actresses": [
+    {
+      "name": "柊留衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/27dc95b2-345b-406e-8dba-556ca6e47082_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88065&name=柊留衣"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88065&name=岩下たろう"
+    }
+  ]
+};

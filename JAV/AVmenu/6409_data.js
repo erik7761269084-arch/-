@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8536b8a5-58a9-4407-93d3-235c8d9c5241/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/5cc88f4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6409,
+  "IDcode": "SORA-596",
+  "title": "爲求職甘爲肉便器 順從求職妹子高潮連連 猥瑣跳蛋調教讓她臉紅潮吹爽到不行加倍媚藥 ~ 実田あのん",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "中出",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "迷姦",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "地味",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "野外露天",
+    "眼鏡",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SORA-596为妄想族出品,2025年5月3日发行的有碼成人影片由実田あのん出演\n求職壓力爆棚的漂亮女大學生あのん醬！面試被虐得心力交瘁，結果遙控跳蛋一開，身體直接過激反應，戶外潮吹噴得滿地都是！平時累壞了吧，再來一波跳蛋追擊，又忍不住尿了一地。當然，下面早就濕得一塌糊塗，但我們還是不放過她，周圍人隱約察覺前讓她高潮了一次又一次！不管下雨還是在商場正中央，あのん醬照樣爽到飛起。一旦發情就煞不住車，主動舌吻求愛，簡直欲罷不能…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503101825604604_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250503/20250503101825604604_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6409",
+  "actresses": [
+    {
+      "name": "実田あのん",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/16798002-5311-4ee1-96ae-65406c48dcb7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6409&name=実田あのん"
+    }
+  ]
+};

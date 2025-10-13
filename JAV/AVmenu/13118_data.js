@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e0295ee8-a132-4f02-a99d-a6ca75bfdafa/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13118,
+  "IDcode": "SSNI-337",
+  "title": "每天早上倒垃圾的時候，都會碰到隔壁那連胸罩都不戴的巨服人妻，受不了誘惑當場就操了她 ~ 奧田咲",
+  "publish_date": "2018-11-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "鄰居",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "短髮"
+  ],
+  "description": "SSNI-337为S1出品,2018年11月7日发行的有碼成人影片由奥田咲出演\n每天早上倒垃圾的時候，大胸飄逸胸罩人妻，已經色情到受不了了……已婚人胸口探出的飄逸胸罩誘惑住在同一間公寓裡的女人，身體前傾。只需伸出手即可到達的性區域。每個人都喜歡他們妻子的浮動胸罩。我想了一會兒，然後我就當場操了她，我們進行了很多次性愛！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240723/202407232230304747.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240723/202407232230304747.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13118",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13118&name=奥田咲"
+    }
+  ]
+};

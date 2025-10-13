@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/04/e4e92083/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104254,
+  "IDcode": "CLUB-835",
+  "title": "生徒による教師パンチラ盗撮・レ×プ輪●中出しワイセツ調教記録バリキレ筋肉体育教師肉便器",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "多P",
+    "苗条",
+    "内衣",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/07/04/887cea8878578f570469bdf76d02bc94.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104254",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104254&name=タツ"
+    }
+  ]
+};

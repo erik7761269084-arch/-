@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/08/db01208c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84359,
+  "IDcode": "DLDSS-108",
+  "title": "隣の地味な団地妻が派手ブラのみを干した日は犯○てほしいサインです。 本田もも 生写真5枚付き",
+  "publish_date": "2022-05-26",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "苗条",
+    "乳房",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/b82ad27839128428604f3a2ebbecbbc5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84359",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84359&name=蓝井优太"
+    }
+  ]
+};

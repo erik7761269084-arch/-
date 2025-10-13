@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/136cdea8-896d-41f8-bf58-05a9eb635261/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7005,
+  "IDcode": "NGOD-257",
+  "title": "墮入肌肉回春沙龍的妻子 被猛男們的肌肉和大屌濃情蜜意地愛撫不停 ~ 小野阪唯香",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "多P",
+    "美腳",
+    "按摩・美容店",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "綠茶婊"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250405/b570cfb7-31c3-46b4-a95d-462d921aa834.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250405/b570cfb7-31c3-46b4-a95d-462d921aa834.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7005",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7005&name=小野坂唯香"
+    }
+  ]
+};

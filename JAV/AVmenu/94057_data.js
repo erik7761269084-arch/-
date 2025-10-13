@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241020/ywYW5AGc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94057,
+  "IDcode": "SBMO-1270",
+  "title": "幼なじみ ～エッチ少女漫画の体験～/高橋未来VS若林美穂 チェキ付き",
+  "publish_date": "2024-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94057",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94057&name=皆月光"
+    },
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94057&name=音羽美鈴"
+    }
+  ]
+};

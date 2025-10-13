@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221030/EE15570B3D562BDA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57326,
+  "IDcode": "A917E068094ABA92C1D19A10CAC3468D",
+  "title": "【無】早抜き 水谷心音BEST 2 パート2",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57326",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/29/c1afe1a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79864,
+  "IDcode": "NKKD-229",
+  "title": "交通事故示談NTR2 橘メアリー",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "白天出轨",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79864",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79864&name=橘瑪麗"
+    }
+  ]
+};

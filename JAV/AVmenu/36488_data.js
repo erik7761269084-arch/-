@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/A5489BBAA48D9678/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36488,
+  "IDcode": "B13F756E91683AFC12E5BD0DF9B020F-9",
+  "title": "黑客入侵AV片商蚊香社事件之可愛女神長谷川るい長谷川留衣正兒八經母片",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36488",
+  "actresses": []
+};

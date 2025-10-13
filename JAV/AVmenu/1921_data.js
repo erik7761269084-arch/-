@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230210/adb70999-44f1-4cb5-bb15-e072da31d2aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1921,
+  "IDcode": "SKYHD-073",
+  "title": "SKY ANGLE 73 可愛美少女純真無邪尻穴精液連注入敏感身体 ~ 双叶美佳",
+  "publish_date": "2012-05-02",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "少女",
+    "美少女電影",
+    "二穴同入"
+  ],
+  "description": "SKYHD-073为SKY HIGH出品,2012年5月2日发行的無碼成人影片由双叶美佳出演\n双叶美佳出现在 Red Hot Fetish Collection 的最新作品中。剃光肛门。我想有一个反应灵敏的天真屁股。 屁股恋物癖自慰版 - 可爱的屁股闪闪发光的自慰秀。每次激活隐藏在肛门中的遥控振动器时，都感觉狂欢！",
+  "cover_url": "https://picture.yoshiclub.xyz/20230202/20230202040153227227.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230202/20230202040153227227.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1921",
+  "actresses": [
+    {
+      "name": "双叶美佳",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/7407e0c8-1fef-4cfd-97d5-5043d8760fc3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1921&name=双叶美佳"
+    }
+  ]
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d67c4e65-ad6c-418a-b37e-4321ff69a067/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/74ae5451/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6359,
+  "IDcode": "AARM-291",
+  "title": "按摩店潛規則【特別篇】 男性機能恢復項目超有料 ~ 相沢澪 黒木奈美",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "制服",
+    "按摩・美容店",
+    "抹油",
+    "熟女"
+  ],
+  "description": "AARM-291为AROMA PLANNING出品,2025年5月8日发行的有碼成人影片由相沢澪，黒木奈美出演\n超人气按摩系列的特别篇来啦！这次聚焦那些让人心痒痒的菜单，尤其是《男性功能恢复》！明明没啥问题，但光想想就硬到不行，还不是得装出一副有困扰的样子去体验一把？相信不少按摩爱好者都这么想吧！这次我们深入探索了《男性功能恢复》和《睾丸按摩》这种又神秘又勾人的甜蜜世界，画面香艳到爆，绝对让你血脉喷张！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508040222678678_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508040222678678_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6359",
+  "actresses": [
+    {
+      "name": "黒木奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/7d6103e3-63dd-4460-8237-77fc0ee2f49a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6359&name=黒木奈美"
+    },
+    {
+      "name": "相沢澪",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/6df3c9ed-7450-44c6-b162-e10cb018c32d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6359&name=相沢澪"
+    },
+    {
+      "name": "豊崎清香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250809/f2748d13-79b9-4e44-8e2f-929eb4f9abae_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6359&name=豊崎清香"
+    },
+    {
+      "name": "TAE",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6359&name=TAE"
+    }
+  ]
+};

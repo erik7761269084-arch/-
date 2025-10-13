@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241116/VCTwSDkF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95016,
+  "IDcode": "KRI-091",
+  "title": "泥酔ハンター vol.01",
+  "publish_date": "2019-11-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "玩具",
+    "潮吹",
+    "烂醉如泥的",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95016",
+  "actresses": []
+};

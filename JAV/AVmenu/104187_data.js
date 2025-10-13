@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220602/21B68326066CD4F9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104187,
+  "IDcode": "KANBi",
+  "title": "【人妻発掘プロジェクト】初撮りAV動画 06 仮名)松岡愛莉 色白マシュマロ肌の感度良好むっちり妻！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104187",
+  "actresses": []
+};

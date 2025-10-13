@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230126/mlHeONEV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85636,
+  "IDcode": "MTALL-005",
+  "title": "裏垢未成年だと思ってノコノコとパパ活にやってきたオジサンをガチ顔出しでAV出演！ 四宮繭",
+  "publish_date": "2021-12-23",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "制服",
+    "女生",
+    "纪录片",
+    "瘦小身型",
+    "平胸",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85636",
+  "actresses": []
+};

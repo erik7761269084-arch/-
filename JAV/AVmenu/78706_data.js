@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/TItQsEcr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78706,
+  "IDcode": "DTT-077",
+  "title": "上司にお尻を狙われた人妻   密室オフィス不倫 巨尻中出し 佐山しほ",
+  "publish_date": "2021-05-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "屁股",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78706",
+  "actresses": [
+    {
+      "name": "星野みき",
+      "img_url": "https://picture.yoshiclub.xyz/20230523/cf1f7a45-3c39-49ac-a4ca-0692f5575df2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78706&name=星野みき"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78706&name=小田切ジュン"
+    }
+  ]
+};

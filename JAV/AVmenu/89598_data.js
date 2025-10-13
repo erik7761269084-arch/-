@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/toLPm88D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89598,
+  "IDcode": "SCPX-458",
+  "title": "優しい現役保育士さんにお願いしてみました。 「童貞君の皮かむりチ○ポを洗ってくれませんか？」 勃起が抑えきれない童貞チ○ポを見捨てれない心優しい保母さんが自ら進んで中出しを許した筆おろしSEX",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "各种职业",
+    "猎艳",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89598",
+  "actresses": [
+    {
+      "name": "中園めいな",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/a991ce8a-dbd2-4080-85fa-b2af4dbca27f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89598&name=中園めいな"
+    },
+    {
+      "name": "高梨有纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89598&name=高梨有纱"
+    }
+  ]
+};

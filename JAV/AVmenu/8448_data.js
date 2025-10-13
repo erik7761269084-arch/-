@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/643ffd23-f43d-4468-bb04-d2f565b5e9fb/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/646c80f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8448,
+  "IDcode": "JUR-161",
+  "title": "你老婆的滋味真好！ 入職才三個月的新員工在辭職信中意外暴露出的NTR故事 ~ 木下凜々子",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "上司女友・妻子",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取"
+  ],
+  "description": "JUR-161为MADONNA出品,2025年2月11日发行的有碼成人影片由木下凜々子出演\n人力資源部的內部電話通知他們，新來的擅自離職員工左慈已經透過代理辭職服務離開了公司。正當我為現在的年輕人連辭職都不敢說而惱火的時候，我收到了一張寫著「附上辭職通知」的文件。我惱火地打開信封，發現裡面除了那封“辭職信”外，還有一張紙條，上面潦草地寫著“您的妻子是最好的”，這句話吸引了我的目光。當我想起我的妻子，我的同事，出差還沒回來時，我衝動地跑出了辦公室，但是......",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075033332332.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206075033332332.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8448",
+  "actresses": [
+    {
+      "name": "木下凜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20240511/c1a5a9d6-6708-4a6b-8bbd-24d72cbc6018.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8448&name=木下凜々子"
+    },
+    {
+      "name": "木下凛凛子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8448&name=木下凛凛子"
+    }
+  ]
+};

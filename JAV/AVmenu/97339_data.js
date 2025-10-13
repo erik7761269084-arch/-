@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/CCA86CC9937B216E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97339,
+  "IDcode": "DG-140",
+  "title": "この地下アイドルをボコボコに●す ＃04",
+  "publish_date": "2022-09-30",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "无毛",
+    "角色扮演",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1596dg140/h_1596dg140pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97339",
+  "actresses": []
+};

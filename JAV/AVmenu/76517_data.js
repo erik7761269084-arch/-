@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/nsiZWa7N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76517,
+  "IDcode": "MIAA-119",
+  "title": "おれの最愛の妹が中年オヤジとの望まない結婚を強いられた 深田えいみ",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "苗条",
+    "新娘，年轻妻子",
+    "妹妹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76517",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76517&name=深田詠美"
+    }
+  ]
+};

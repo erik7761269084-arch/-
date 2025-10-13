@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/BrcD8tyj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93730,
+  "IDcode": "PAIS-068",
+  "title": "とんでもねえ逸材見っけ！奇跡の田舎っぺ天然Jカップ素人娘ドキュメント 6SEX収録 4時間",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "业余",
+    "胖女人",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93730",
+  "actresses": []
+};

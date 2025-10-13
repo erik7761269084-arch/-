@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/3eb44bbe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100434,
+  "IDcode": "ADN-357",
+  "title": "人妻美人秘書 被舔舐侵犯的社長室 希島愛理",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "舔阴",
+    "秘书",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn357/adn357pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100434",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100434&name=希島愛理"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100434&name=田渊正浩"
+    }
+  ]
+};

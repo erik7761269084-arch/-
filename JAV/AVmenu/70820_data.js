@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/nugCOnOo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70820,
+  "IDcode": "SHKD-801",
+  "title": "絶対レイプ オフィスレディ編 松下紗栄子",
+  "publish_date": "2018-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "强奸",
+    "纪录片",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/8c06d9862fe4ac49c455a8d32ed088d1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70820",
+  "actresses": []
+};

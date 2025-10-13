@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/be636ce7-ae99-443a-a9ed-a2fba6259eff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16320,
+  "IDcode": "BACJ-096",
+  "title": "努力懷上孩子的妻子，早上起就一直在挑逗我，我已經超出了極限",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "巨尻",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "裸體圍裙",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240213/6cc091dd-fd0b-4602-afa7-2a05352e5d86.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240213/6cc091dd-fd0b-4602-afa7-2a05352e5d86.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16320",
+  "actresses": [
+    {
+      "name": "橘京花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/3d31758b-41a8-4ccf-bd55-d1d540e35e55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16320&name=橘京花"
+    }
+  ]
+};

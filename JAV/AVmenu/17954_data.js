@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff17d1eb-7642-4fcd-9b77-f4214219a8e5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17954,
+  "IDcode": "IPX-876",
+  "title": "未體驗AV性愛4本番 古川穗花",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "3P・4P",
+    "絕頂高潮",
+    "中出",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "跳蛋",
+    "口交",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "打手槍",
+    "按摩棒",
+    "大雞巴",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231107/20231107050744556556.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231107/20231107050744556556.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17954",
+  "actresses": [
+    {
+      "name": "古川穗花",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/7dab9a3d-3455-49dd-be59-501680e655d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17954&name=古川穗花"
+    }
+  ]
+};

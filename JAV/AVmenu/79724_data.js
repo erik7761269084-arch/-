@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/12/54a11115/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79724,
+  "IDcode": "JUFD-367",
+  "title": "断りきれないノーブラ肉感居酒屋店員 荒木りな",
+  "publish_date": "2014-05-01",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "已婚妇女",
+    "屁股",
+    "羞耻",
+    "数位马赛克",
+    "恋乳癖",
+    "紧身衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb0494ff809af6d488191d365ca7c552.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79724",
+  "actresses": [
+    {
+      "name": "荒木里菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/667c58be-df67-47a6-aa15-00542004d6de.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79724&name=荒木里菜"
+    }
+  ]
+};

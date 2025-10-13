@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/M6aWUkRL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90414,
+  "IDcode": "PKPD-262",
+  "title": "恋人いちゃラブドキュメント 低身長甘えんぼだけどHな事は無限大 一条みおちゃんと1日イチャイチャデート （BOD）",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90414",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90414&name=一条美绪"
+    }
+  ]
+};

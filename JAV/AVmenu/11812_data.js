@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c78801cd-a4c8-4844-b2bd-8febbebf5750/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11812,
+  "IDcode": "YOCH-015",
+  "title": "我被我兒子的朋友強奸，這麼大年紀了，但我每天仍然對雞巴發瘋 ~ 平岡裏枝子",
+  "publish_date": "2024-09-19",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "重口味",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "慾求不滿",
+    "朋友母親",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240921/0afabc16-b39e-4b81-8788-7d3ea3e80e63.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240921/0afabc16-b39e-4b81-8788-7d3ea3e80e63.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11812",
+  "actresses": [
+    {
+      "name": "平岡里枝子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250503/9000b184-41bb-4837-8791-98d94461b263_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11812&name=平岡里枝子"
+    }
+  ]
+};

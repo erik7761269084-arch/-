@@ -1,0 +1,28 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98003,
+  "IDcode": "APKH-084-",
+  "title": "嬲り撮り3Pセックスウチのお店の可愛いバイト女子大生は、真面目",
+  "publish_date": "2018-11-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "多P",
+    "第一人称摄影",
+    "颜射",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98003",
+  "actresses": [
+    {
+      "name": "茜はるか",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/eba6483e3181a71100bd2c95066f477e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98003&name=茜はるか"
+    }
+  ]
+};

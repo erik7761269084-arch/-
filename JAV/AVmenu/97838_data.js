@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/b5c6fe2c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97838,
+  "IDcode": "MIDE-736",
+  "title": "高級ランジェリー試着モニターでやってきた内気なバイト女子大生をセクハラ公開羞恥レ×プ輪● 水卜さくら",
+  "publish_date": "2020-02-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "内衣",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97838",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97838&name=水卜櫻"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97838&name=イセドン内村"
+    }
+  ]
+};

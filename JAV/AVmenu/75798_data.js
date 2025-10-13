@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241210/rCsuW6Nk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75798,
+  "IDcode": "HOKS-056",
+  "title": "48手 夫婦の営み",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75798",
+  "actresses": [
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75798&name=羽月希"
+    },
+    {
+      "name": "真城杏",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/389f107a3671aea29c8d49d40657ceb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75798&name=真城杏"
+    },
+    {
+      "name": "凉城りおな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75798&name=凉城りおな"
+    },
+    {
+      "name": "三高由莉子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75798&name=三高由莉子"
+    }
+  ]
+};

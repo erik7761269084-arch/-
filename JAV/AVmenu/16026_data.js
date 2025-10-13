@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02df2728-a2f1-4131-bb4c-3ae028bf4efb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16026,
+  "IDcode": "FSDSS-737",
+  "title": "用可愛的技巧讓你徹底勃起 不斷射精的美容院 ~ 茉城真美",
+  "publish_date": "2024-03-20",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "中囯服裝",
+    "美少女",
+    "按摩・美容店",
+    "情趣內衣",
+    "猥褻穿著",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "FSDSS-737为FALENO出品,2024年3月20日发行的有碼成人影片由善場麻美出演\n[用精子來排毒你的日常壓力！ 】最受歡迎、不可預約的美容按摩師茉城真美，會細心地讓你勃起，讓你看着你一次射精的夢想回春美容院！ 180分鍾的特別課程，5個場景充滿亮點！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229010711985985.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240229/20240229010711985985.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16026",
+  "actresses": [
+    {
+      "name": "善場麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/5cb58970-bd57-4357-b110-785c7b31c6e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16026&name=善場麻美"
+    }
+  ]
+};

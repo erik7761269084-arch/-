@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230405/dcd90460-2ff6-42c4-b222-abcc740ccecc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1610,
+  "IDcode": "OKAD-381",
+  "title": "挑戰任務 含著的按摩棒沒有掉的話可以獲得100萬圓！ 櫻理緒＆安西瑠菜",
+  "publish_date": "2011-04-22",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "企畫",
+    "口交",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/af8ad7cb-8182-4084-9f80-ef828f2f7f09.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/af8ad7cb-8182-4084-9f80-ef828f2f7f09.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1610",
+  "actresses": [
+    {
+      "name": "安西瑠菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/53fd46ec-7c71-4ba7-b19f-ae3172d07eef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1610&name=安西瑠菜"
+    },
+    {
+      "name": "櫻理緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/9b9a93c9-0012-47ef-9764-29674ec6a4c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1610&name=櫻理緒"
+    }
+  ]
+};

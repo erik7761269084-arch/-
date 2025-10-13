@@ -1,0 +1,94 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f5627480-b42b-484c-bbf3-de4b58a8ef25/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/13/825ac38f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3205,
+  "IDcode": "WAAA-576",
+  "title": "不行了啦！我還要，請繼續中出幹我！ ~ 白峯美羽",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "臀控",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "女優"
+  ],
+  "description": "WAAA-576为WANZ FACTORY出品,2025年8月28日发行的有碼成人影片由白峰美羽出演\n身材高挑、肤白奶美的大姐姐白峰美羽，被无情活塞搞到高潮不停歇！明明已经到极限了，还要被追击中出，爽到直接发疯！一开始还优雅得像个贵妇，转眼就被猛烈的冲刺搞得满身大汗，娇喘连连！每一次高潮都让她的敏感度飙升，纤细的身子一次又一次被灌满，溢出来的量简直爆表，喘到快断气！这么有气质的美女被干到失控的模样，绝对不容错过！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022218381381_64119_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022218381381_64119_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3205",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3205&name=白峰美羽"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3205&name=ラヴズ"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3205&name=トイボーイ相沢"
+    },
+    {
+      "name": "羽田貴史",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3205&name=羽田貴史"
+    }
+  ]
+};

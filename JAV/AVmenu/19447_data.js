@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230507/be20f32b-1e59-49de-aa36-daca2f4c2837/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19447,
+  "IDcode": "HOBD-00015",
+  "title": "明日花綺羅身穿角色扮演服裝嬌喘連連 嚴選性愛☆BEST10",
+  "publish_date": "2010-05-21",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "運動",
+    "運動服裝",
+    "精選綜合",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230507/9966ccff-72f1-4be9-b36b-2214dfe9e5d4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230507/9966ccff-72f1-4be9-b36b-2214dfe9e5d4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19447",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19447&name=明日花綺蘿"
+    }
+  ]
+};

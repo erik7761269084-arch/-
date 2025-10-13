@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/20/44b3f4bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72197,
+  "IDcode": "AVSA-358",
+  "title": "歪んだ性癖夫の願いで他の男たちに寝取らされた美人妻は唇を貪られる濃厚な接吻に興奮して淫乱な本性を現す 森沢かな",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "接吻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72197",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72197&name=森澤佳奈"
+    }
+  ]
+};

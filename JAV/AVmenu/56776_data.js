@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220830/CCE214CE89A30C73/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56776,
+  "IDcode": "CBE5B2FF68F8CD9B7008CB832F19F79A",
+  "title": "耻辱が快楽へと変わったのか？无抵抗の巨乳妻の膣が2本分の精液で溢れていく",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56776",
+  "actresses": []
+};

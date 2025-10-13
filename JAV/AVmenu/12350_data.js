@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8456112b-7f8a-4c37-8bb9-50a9f1a4235a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12350,
+  "IDcode": "FPRE-095",
+  "title": "剛毛姐姐把童貞的我變爲舔陰的奴隸，只能她自己爽，不讓我插入，所以我不斷地給她用最強力的媚藥……操起來真的比我想象的更爽 ~ 一色さら",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "慾求不滿",
+    "少女",
+    "姐弟・兄妹",
+    "癡女",
+    "巨乳",
+    "鬃毛",
+    "短髮",
+    "亂倫",
+    "豐滿"
+  ],
+  "description": "FPRE-095为FITCH出品,2024年9月3日发行的有碼成人影片由一色さら出演\n薩拉暗自擔心自己濃密的陰毛，她用弟弟的舌頭舔陰來緩解她日益增長的挫敗感。然而，當翼到了她這個年紀的時候，她要求將它插入姐姐的陰戶，但她巧妙地告訴她，因為他們是姐姐和弟弟，所以這不好。然而，真正想要做愛的翼，繼續偷偷地給妹妹餵她在網上找到的春藥……有一天，莎拉的身體變得比平時更加敏感，她終於要求弟弟的雞巴。一個帶有春藥的亂倫故事，扭轉了局面！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830002103627627.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830002103627627.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12350",
+  "actresses": [
+    {
+      "name": "一色さら",
+      "img_url": "https://picture.yoshiclub.xyz/20240201/9ef739b4-782b-4a71-90cc-1bc2fb479d2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12350&name=一色さら"
+    }
+  ]
+};

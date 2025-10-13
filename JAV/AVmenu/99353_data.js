@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/63496F2022D3B051/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99353,
+  "IDcode": "DGCESD-739",
+  "title": "★配信限定！特典映像付★百岡いつかのレズ処女を川上ゆうが奪う同性愛（レズビアン）SEX",
+  "publish_date": "2019-03-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "淫乱，真实",
+    "淫语",
+    "女同性恋",
+    "女同接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dgcesd739/dgcesd739pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99353",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99353&name=川上優"
+    },
+    {
+      "name": "百冈いつか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99353&name=百冈いつか"
+    }
+  ]
+};

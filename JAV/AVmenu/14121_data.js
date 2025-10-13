@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/af2900ad-eecb-470a-bc77-a6568dc94ccf/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/26b2e2f8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14121,
+  "IDcode": "JUQ-774",
+  "title": "被傳爲J罩杯的人妻OL女職員渾身是汗上班遲到後，被男同事騷擾做愛！ ~ 上羽絢",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "脅迫做愛",
+    "中出",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-774为MADONNA出品,2024年6月11日发行的有碼成人影片由上羽絢出演\n「上羽小姐的胸部好像是J罩杯。」上班族綾總是在上班，但總是遲到。這是因為她的丈夫上夜班，她要等到半夜才能陪他。每天早上，綾跑步時都會大汗淋漓，搖晃胸部，成為員工中的謠言對象。有一天，國中生細田在雨中看到她的巨乳從透明襯衫中露出來，並問綾“也請照顧我”，因為她正在上班。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607015141702702.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240607/20240607015141702702.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14121",
+  "actresses": [
+    {
+      "name": "上羽絢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/fec8fad2-a2cc-4e79-940b-b5d5f985bb5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14121&name=上羽絢"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241220/sIvJAHzM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75602,
+  "IDcode": "IENF-049",
+  "title": "同級生とネットリ舌を絡める濃密べちょべちょキス！！",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "制服",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75602",
+  "actresses": [
+    {
+      "name": "内海みう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75602&name=内海みう"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75602&name=今井まい"
+    },
+    {
+      "name": "ふわり结爱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75602&name=ふわり结爱"
+    }
+  ]
+};

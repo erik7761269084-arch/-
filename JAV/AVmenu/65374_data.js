@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220701/4FE074440E6949F3/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65374,
+  "IDcode": "751591F453BA3F5945DDF761DC61869D",
+  "title": "女友巨乳姐内射OK诱惑 宝生莉莉",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65374",
+  "actresses": []
+};

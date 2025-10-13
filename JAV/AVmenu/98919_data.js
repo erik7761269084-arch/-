@@ -1,0 +1,105 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230123/A30C8428C50E2F04/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98919,
+  "IDcode": "HFD-184",
+  "title": "昼間っから制服美少女と淫口 3 村西まりな 大沢美加 加藤なつみ 花井りん 広瀬奏",
+  "publish_date": "2019-02-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "4小时以上作品",
+    "颜射",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98919",
+  "actresses": [
+    {
+      "name": "大沢美加",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/a890b723-b49d-476a-bf12-a9a1f483719b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=大沢美加"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=篠田优"
+    },
+    {
+      "name": "西野まお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=西野まお"
+    },
+    {
+      "name": "凉宫ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=凉宫ゆい"
+    },
+    {
+      "name": "花井りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=花井りん"
+    },
+    {
+      "name": "樱井ともか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=樱井ともか"
+    },
+    {
+      "name": "弘前亮子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=弘前亮子"
+    },
+    {
+      "name": "青岛すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=青岛すみれ"
+    },
+    {
+      "name": "初美ありす",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=初美ありす"
+    },
+    {
+      "name": "神河美音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=神河美音"
+    },
+    {
+      "name": "结月こはる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=结月こはる"
+    },
+    {
+      "name": "羽田桃子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=羽田桃子"
+    },
+    {
+      "name": "村西まりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=村西まりな"
+    },
+    {
+      "name": "広瀬奏",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=広瀬奏"
+    },
+    {
+      "name": "大岛みなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=大岛みなみ"
+    },
+    {
+      "name": "加藤なつみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98919&name=加藤なつみ"
+    }
+  ]
+};

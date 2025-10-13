@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98692,
+  "IDcode": "BBAN-009-",
+  "title": "緊縛美姉妹レズ調教橘ひなた羽月希",
+  "publish_date": "2014-07-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "淫乱，真实",
+    "捆绑",
+    "女同性恋",
+    "女同接吻",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98692",
+  "actresses": [
+    {
+      "name": "橘日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/72d5e9fe-64e7-4966-9fe5-d356632397db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98692&name=橘日向"
+    },
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98692&name=羽月希"
+    }
+  ]
+};

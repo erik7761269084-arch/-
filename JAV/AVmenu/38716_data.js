@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221122/E3581137AC9447EB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38716,
+  "IDcode": "35CD32915FE5B05DD14C8318A58B0B-66",
+  "title": "日本旅馆约炮无码实录",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38716",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/50b0aefd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61685,
+  "IDcode": "PGD-777",
+  "title": "プレミアム スタイリッシュソープ ゴールド 沖田杏梨",
+  "publish_date": "2015-05-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "妓女",
+    "乳液",
+    "数位马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61685",
+  "actresses": [
+    {
+      "name": "沖田杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/2eae04c6-5c92-4209-8b5b-aa4de0fccb96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61685&name=沖田杏梨"
+    }
+  ]
+};

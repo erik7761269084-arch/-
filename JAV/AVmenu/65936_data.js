@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230504/08E8C66D2B2BC561/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65936,
+  "IDcode": "5B121637D2D98A969C2E0E99114DFB9F",
+  "title": "[日本] 梦乃爱华破坏版AV～邻居人妻午后在阳台晒内裤是老公不在的信号！(SSIS-064)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65936",
+  "actresses": []
+};

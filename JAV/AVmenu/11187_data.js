@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0654578a-64b6-44a8-9406-c2b95e97fc88/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/08/a6531252/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11187,
+  "IDcode": "SONE-418",
+  "title": "可愛地看着您，刺激您的陰莖，並微笑着一次又一次地接受中出，大量顏射。都是爲了您更好的自慰！ ~ 白上咲花",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女僕",
+    "後入",
+    "企畫",
+    "游戲COSPLAY",
+    "色白",
+    "中出",
+    "美腿",
+    "美臀",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "少女",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "清純",
+    "護士",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "SONE-418为S1出品,2024年10月22日发行的有碼成人影片由白上咲花出演\n白神彩香想用精子顏射！ ？無論你在這麼可愛的女孩臉上射精多少次……這都是讓你開心的世界線！對你最友善的人「白神早香」…用燦爛的笑容和臉部自慰來支持你！ 「我要你多多自慰，多塗在我臉上。」國寶公雞支持者，會用最好的微笑來幫助你！ [作品內容] ① 可愛的臉，帶著天真的笑容JOI（自慰指導）！ ② 護士微笑醫療支持性交！ ③鼓勵你的女朋友進行臉部性交！ ④治癒你的女僕的專注性愛！沙卡醬一看到你的臉就興奮不已，直到精液耗盡都不會停止全力為你服務！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017081423492492.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017081423492492.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11187",
+  "actresses": [
+    {
+      "name": "白上咲花",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/c4c22386-5449-41e4-87f4-790e57e9abab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11187&name=白上咲花"
+    }
+  ]
+};

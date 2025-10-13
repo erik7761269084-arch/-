@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/26/f6b59a4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76829,
+  "IDcode": "DOCP-177",
+  "title": "突然離婚を言い渡されシングルファザーになった僕を不憫に思ったご近所の巨乳奥様たちが家事の手伝いをしてくれる事に！奥様の不意な胸チラとパンチラについ勃起してしまったのがバレて「奥さんと別れてからシてないんですよね…？」と誘惑され慰めの生ハメ淫乱SEX！",
+  "publish_date": "2019-10-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "内衣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76829",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76829&name=美園和花"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76829&name=羽生ありさ"
+    },
+    {
+      "name": "菊川みつ叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76829&name=菊川みつ叶"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76829&name=森本つぐみ"
+    }
+  ]
+};

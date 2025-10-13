@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/09b1277c-c3de-4fc5-a783-6870f571545a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/07/c26356ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6064,
+  "IDcode": "GVH-745",
+  "title": "屈辱接待宴會：巨乳女部長淪為玩物 ~ 蘆名穗花",
+  "publish_date": "2025-05-17",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "猥亵",
+    "淫亂",
+    "巨尻",
+    "調教",
+    "深喉",
+    "乳交",
+    "身體換業務",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "招待",
+    "聚會・PARTY",
+    "單體作品",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "職場",
+    "女上司",
+    "紋身刺字",
+    "羞恥"
+  ],
+  "description": "GVH-745为GLORY QUEST出品,2025年5月17日发行的有碼成人影片由蘆名穗花出演\n蘆名可是廣告公司裡的頂尖女部長，剛被拔擢為銷售一部的領頭羊，顏值和能力都超強，尤其那快要撐爆的傲人巨乳，簡直是公司內外的焦點人物！但她的直屬上司滝本課長卻嫉妒她的成功，還因被拒絕而心生怨恨，暗地裡設局要搞她。在一次重要客戶接待宴會上，蘆名被逼淪為乖乖聽話的性奴，巨乳女部長在眾人面前被玩弄到潮吹不斷，羞恥到炸卻又爽到翻天，畫面超級火辣又帶勁！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517110603107107_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250517/20250517110603107107_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6064",
+  "actresses": [
+    {
+      "name": "蘆名穗花",
+      "img_url": "https://picture.yoshiclub.xyz/20240129/831d50f4-c90b-4496-8acb-3dfccfccb4da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6064&name=蘆名穗花"
+    }
+  ]
+};

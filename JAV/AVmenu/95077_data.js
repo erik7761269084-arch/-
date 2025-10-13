@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/297c9e85/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95077,
+  "IDcode": "NEO-920",
+  "title": "唾液天国 木下ひまり",
+  "publish_date": "2024-11-21",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "姐姐",
+    "高",
+    "M男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95077",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95077&name=木下日葵"
+    }
+  ]
+};

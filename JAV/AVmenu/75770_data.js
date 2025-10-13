@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/70a9ede4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75770,
+  "IDcode": "SW-982",
+  "title": "夫婦交換スワッピングパーティー！奥手な若夫婦がヤリマン＆ヤリチン夫婦にSEXの新しい快楽を垂らし込まれました",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75770",
+  "actresses": []
+};

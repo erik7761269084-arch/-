@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b6e06c7c-b4e4-4c77-9197-7458f3425a55/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/23938557/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6857,
+  "IDcode": "ATYA-019",
+  "title": "老屌狂熱巨乳人妻！婚後騷欲難耐偷操亂幹到爆 ~ 椿りか",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "家庭主妇",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "約炮",
+    "美人",
+    "熟女",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "ATYA-019为妄想族出品,2025年4月15日发行的有碼成人影片由椿莉香出演\n看似溫柔善良的巨乳人妻莉卡小姐，卻不斷被淫穢老頭按照自己的慾望折磨，最後變得狂野！他們結婚很久了，還沒有進行過如此激情的性愛。當一個男人的陰莖在你面前晃來晃去時，你根本無法控制自己！每次推入，她那豐滿的 G 罩杯身材都會搖晃！因為這是她第一次見到這個男人，所以當他深深地插入她的陰道時，她暴露了她色情的真實本性並一次又一次地達到高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250413/20250413112136777777.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250413/20250413112136777777.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6857",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6857&name=椿莉香"
+    }
+  ]
+};

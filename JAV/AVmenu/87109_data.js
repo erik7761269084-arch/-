@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/19/9e8d9e9a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87109,
+  "IDcode": "NACR-674",
+  "title": "僕の彼女は結城りの パンティと生写真付き",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "玩具",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87109",
+  "actresses": []
+};

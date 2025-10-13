@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220604/9216DC1CF8033D98/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64408,
+  "IDcode": "2A67E16DB2B1F6B69DDE3804A9AE-1608",
+  "title": "20岁淫酒交尾美少女~1",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64408",
+  "actresses": []
+};

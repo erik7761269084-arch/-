@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231011/HWgf81M3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88490,
+  "IDcode": "MYAB-009",
+  "title": "出産適齢期を迎えた息子の嫁 息子と子作りした嫁は義父にも中出しされている 黒崎みか",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/5679802607da6c688758d3613b9f616f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88490",
+  "actresses": [
+    {
+      "name": "黒崎みか",
+      "img_url": "https://picture.yoshiclub.xyz/20230621/54988bd6-ecca-48a7-9226-fd8125a8b4c7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88490&name=黒崎みか"
+    }
+  ]
+};

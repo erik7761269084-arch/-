@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c5cd88c-e987-4338-876a-3f9aff0d289e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/03/c78e5a89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10660,
+  "IDcode": "DNJR-131",
+  "title": "女子學校專長乳頭狩獵自慰～集體乳頭強暴～",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "雙飛",
+    "手指插入",
+    "兩女一男",
+    "M男・M女",
+    "兩男兩女",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "DNJR-131为妄想族出品,2024年11月12日发行的有碼成人影片由由良佳奈，冬愛琴音，皆月光，百咲未色，夢乃陽菜出演\n一直被J●女孩追著玩，乳頭被玩弄的受虐狂男人…對這些女孩的集體強姦開始了，她們的終極樂趣是透過讓男人感到恐懼、扭動和感覺來讓男人射精！ 「誰來幫幫我吧！」她繼續反抗，但她摸、舔、咬……無情的蕩婦遊戲永遠不會結束。女學生們看到自己的雞雞硬起來了，簡直欣喜若狂！ 「我會榨乾你的最後一滴，哈哈」這是集體強暴地獄嗎？天堂？他們今天還在尋找獵物！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241110/20241110092215531531.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241110/20241110092215531531.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10660",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=皆月光"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=由良佳奈"
+    },
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=冬愛琴音"
+    },
+    {
+      "name": "百咲未色",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/9d7f9a81-1b2a-4faa-bd3d-f42f02f86de5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=百咲未色"
+    },
+    {
+      "name": "夢乃陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/620860ca-f06a-4b09-8287-e5d52403b3bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=夢乃陽菜"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10660&name=冬爱琴音"
+    }
+  ]
+};

@@ -1,0 +1,88 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cd9b8a9b-bd73-473a-9fa2-b7db6d732fec/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/8d176894/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7185,
+  "IDcode": "WAAA-502",
+  "title": "「我已經高潮啦！」狀態下還被多次中出！ ~ 希島愛理",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "正統派",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "女神",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "女僕制服",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "大奶头",
+    "短髮",
+    "極品美人",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "WAAA-502为WANZ FACTORY出品,2025年4月1日发行的有碼成人影片由希島愛理 出演\n中出性愛讓美麗、苗條、大牌女星木島愛理瘋狂，即使她已經達到高潮，仍會以持續的活塞式推力和隨後的高潮！這與職業或性格無關！她被毫無節制的硬射精淋濕，痛苦地一次又一次地達到高潮！ 「請你溫柔一點...停下來！」即使在高潮後精液從她敏感的陰道流回來，他仍然繼續抽插！我會把我的小精子送入她的子宮深處，確保她懷孕！你可以看到這位傳奇女星被激烈的性愛徹底打敗的整個故事！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082131767767.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327082131767767.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7185",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7185&name=希島愛理"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7185&name=ラヴズ"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7185&name=小田切ジュン"
+    }
+  ]
+};

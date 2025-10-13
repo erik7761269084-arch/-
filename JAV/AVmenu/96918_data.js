@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240624/PgUd7Mft/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96918,
+  "IDcode": "SVFTI-003",
+  "title": "糞とゲロ、BITCH",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "调教",
+    "粪便",
+    "排便"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96918",
+  "actresses": []
+};

@@ -1,0 +1,84 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6020fc63-e767-41e0-a9e6-5ab824b8028b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/a995dbb9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3526,
+  "IDcode": "DVMM-280",
+  "title": "雙飛青梅竹馬！短發青梅竹馬當我是兄弟卻在旅行中瘋狂挑逗乳頭和溼吻 ~ 小鬆本果 虹村由美",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "旅行",
+    "蠻橫嬌羞",
+    "中性",
+    "後宮系",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "手指插入",
+    "足交",
+    "兩女一男",
+    "美人",
+    "短髮",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "DVMM-280为DEEP'S出品,2025年8月14日发行的有碼成人影片由虹村由美， 小松本果出演\n一直把她当兄弟的短发青梅竹马，这次一起旅行却发生了大事件！“本果”偷偷带了小玩具被发现，气氛瞬间变得暧昧又尴尬……结果“由美”直接开玩笑说要试试看，轻轻一碰就娇喘连连，越来越过火，两个妹子直接露出超骚的表情，色气爆棚，简直可爱到犯规！全程口水直流，长舌头舔弄的湿吻加上超密集乳头责罚，青梅竹马还争着抢我的命根子，逆3P后宫体验爽到飞起！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025352399399_41936_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025352399399_41936_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3526",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3526&name=虹村由美"
+    },
+    {
+      "name": "小松本果",
+      "img_url": "https://picture.yoshiclub.xyz/20250404/a50dd531-82e5-4046-9e2b-18c3eaf48460.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3526&name=小松本果"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3526&name=ニック"
+    }
+  ]
+};

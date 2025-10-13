@@ -1,0 +1,100 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d873bc3d-17b1-44d2-9c8c-e822b6609d55/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/25/c5036b1d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2707,
+  "IDcode": "GVH-780",
+  "title": "飲酒！飲尿！飲潮！酒精加體液一起嗨，醉了就開幹！ ~ 藤田柚 前田美波 葉月まゆ",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "清楚系",
+    "拜金女",
+    "清純",
+    "喝尿",
+    "癡女",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "淫蕩・硬核",
+    "大奶头",
+    "放尿",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "陪酒女",
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "傲嬌",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "餐廳",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "正統派",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "服務生",
+    "顔面騎乘",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "蘿莉控",
+    "美腳",
+    "美少女"
+  ],
+  "description": "GVH-780为GLORY QUEST出品,2025年9月12日发行的有碼成人影片由前田美波，葉月まゆ，藤田柚出演\n聽說東京某處有個超扯的居酒屋，店內隨便哪都能開幹，製作組二話不說直接衝過去一探究竟！表面上看就是個普通小酒館，但仔細瞧就覺得不對勁…我們瞄到最裡面一桌有三個妹子在喝酒，試著搭個話，沒想到…全程真·狂飲！喝尿喝潮，清醒時絕對不敢想的超嗨性愛！喝下去的酒精變成尿液、潮吹、愛液，然後再喝回去，這群變態的狂歡派對根本炸裂！#養老P",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045819283283_20718_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045819283283_20718_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2707",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2707&name=前田美波"
+    },
+    {
+      "name": "藤田柚",
+      "img_url": "https://picture.yoshiclub.xyz/20250126/b0588496-81df-40ba-b9a1-cd29615c489d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2707&name=藤田柚"
+    },
+    {
+      "name": "葉月まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/0a488baa-554a-49f8-8f8f-4106c1fe91f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2707&name=葉月まゆ"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2707&name=岩下たろう"
+    }
+  ]
+};

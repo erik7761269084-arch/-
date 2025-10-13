@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9b50b9e1-226d-4261-8f7d-6159854d26bc/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/d7386a6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3842,
+  "IDcode": "MDON-079",
+  "title": "獨家配信 麥當娜專屬女優真實解禁 火熱自拍視角 ~ 新妻優香",
+  "publish_date": "2025-08-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "臀控",
+    "自拍性愛",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "解禁作",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "奇聞趣事",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "MDON-079为MADONNA出品,2025年8月4日发行的有碼成人影片由新妻優香出演\n天降神顏新人！麥當娜的新星新妻優香首次登場啦！光看那張臉就讓人硬到爆！小奶音撒嬌，甜到骨子裡，差點直接噴發！別看她這麼萌，床上卻超級飢渴，嘴上喊著不要不要，身體卻老實地抖不停，高潮一波接一波！天啊，真的太可愛啦！這顏值這身材這騷氣，簡直讓人停不下來，完全淪陷惹！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101533231231_28925_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101533231231_28925_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3842",
+  "actresses": [
+    {
+      "name": "新妻優香",
+      "img_url": "https://picture.yoshiclub.xyz/20250306/f77dde85-ae21-486f-b122-e1112372e919.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3842&name=新妻優香"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230202/qE1z62az/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86144,
+  "IDcode": "SAN-034",
+  "title": "勤務先のクリニックの院長に寝取られた美しすぎる美乳を持つ人妻 / 冨安れおな",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86144",
+  "actresses": []
+};

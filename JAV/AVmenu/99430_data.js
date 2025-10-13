@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/2C3DACCF4C7494D3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99430,
+  "IDcode": "LZPL-034",
+  "title": "M女がこぞって押しかける ベロキスクンニレズエステサロン 八乃つばさ 中谷玲奈",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "按摩",
+    "舔阴",
+    "女同接吻",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/lzpl034/lzpl034pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99430",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99430&name=八乃翼"
+    }
+  ]
+};

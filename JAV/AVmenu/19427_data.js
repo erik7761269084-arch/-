@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230511/62c13295-f271-4135-a05f-409806aadb77/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19427,
+  "IDcode": "IPX-003",
+  "title": "痙攣絕頂幹砲！肏到流出淫水狂噴潮！ 星川光希",
+  "publish_date": "2017-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "潮吹",
+    "姐姐・妹妹",
+    "數位馬賽克"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230511/20230511030650429429.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230511/20230511030650429429.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19427",
+  "actresses": [
+    {
+      "name": "星川光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230511/182e4b37-21e6-474a-9cb5-08bbdb1267fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19427&name=星川光希"
+    }
+  ]
+};

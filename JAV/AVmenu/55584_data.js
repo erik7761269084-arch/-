@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55584,
+  "IDcode": "A5FC06E54B06A4E4EF4912B3F5890EC0",
+  "title": "1pon 101519_914 白季マリア働きウーマン-美人看护师はフェラチオの达人-",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55584",
+  "actresses": []
+};

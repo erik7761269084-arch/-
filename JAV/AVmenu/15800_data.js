@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae61b498-7496-4a57-bc7c-07baafcd02c5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15800,
+  "IDcode": "PFES-077",
+  "title": "「我是賣二手內衣的」在約炮app上認識的妹子，原來是個大奶子美女！Vol.3",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "手指插入",
+    "偷竊",
+    "按摩棒",
+    "約炮",
+    "辣妹/GAL系",
+    "女學生",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330020059438438.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240330/20240330020059438438.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15800",
+  "actresses": []
+};

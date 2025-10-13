@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/02/341f190f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97591,
+  "IDcode": "BF-366",
+  "title": "ナースの告白 Fカップ絶頂潮性交 林ゆな",
+  "publish_date": "2015-02-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "纪录片",
+    "护士",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97591",
+  "actresses": [
+    {
+      "name": "林由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240223/a971ec67-15b3-4151-a292-320e2982b9c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97591&name=林由奈"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aef38b97-fc4d-4367-b7b7-ed21a6364059/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14625,
+  "IDcode": "FPRE-042",
+  "title": "相愛已久的學長和巨乳女友...我們練習乳交 祕密的乳交性愛 ~ 桃園憐奈",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "FPRE-042为FITCH出品,2024年5月21日发行的有碼成人影片由桃園怜奈出演\n雷娜一直對住在她家附近的前輩有感情，直到現在她對她的愛依然堅定不移，她加入了這位前輩工作的公司。不過，我的前輩有女朋友了…雷娜感到無處可去，一位前輩向她諮詢與她發生性關係的事宜。 「……那你要不要試著跟我一起練習呢？」不管是什麼原因，蕾娜都感受到了能夠和自己喜歡的人近距離接觸的短暫快樂，但是…這是一個色情愛情故事，一個秘密的練習讓兩個人的關係更加親密。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517041235467467.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517041235467467.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14625",
+  "actresses": [
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14625&name=桃園怜奈"
+    }
+  ]
+};

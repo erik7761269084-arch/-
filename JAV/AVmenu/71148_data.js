@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/24/4ab312bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71148,
+  "IDcode": "HOMA-087",
+  "title": "僕が好きな同級生と僕を好きな同級生 エッチな好奇心全開の同級生から自宅に誘われ家族が留守のあいだノリノリでハメられ続けて性奴●になった僕",
+  "publish_date": "2020-05-25",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "多P",
+    "女大学生",
+    "恋爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71148",
+  "actresses": [
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71148&name=神野雛"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71148&name=蓝井优太"
+    },
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71148&name=一条美绪"
+    }
+  ]
+};

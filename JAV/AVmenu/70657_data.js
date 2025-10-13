@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/RAR7Acm7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70657,
+  "IDcode": "SDDE-583",
+  "title": "【擬人化 AV】僕のスマホが敏感な女の子になってしまったのだが 加藤ももか",
+  "publish_date": "2019-05-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "自慰",
+    "恋物癖",
+    "角色扮演者",
+    "处男",
+    "素人作品",
+    "无码流出",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70657",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70657&name=加藤桃香"
+    }
+  ]
+};

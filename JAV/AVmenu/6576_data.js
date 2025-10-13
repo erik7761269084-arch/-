@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b92f4a44-761c-4ecb-adcc-3bcd26ffb0d7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/27/498adb28/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6576,
+  "IDcode": "CHC-019",
+  "title": "絕色妹子被大叔玩弄私人攝影～完全服從的羞恥性愛 ~ 音羽美鈴",
+  "publish_date": "2025-04-26",
+  "type": "有码",
+  "company": "CHC工作室",
+  "genres": [
+    "企畫",
+    "形象俱樂部",
+    "少女",
+    "美少女",
+    "奇聞趣事",
+    "單體作品",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "CHC-019为CHC工作室出品,2025年4月26日发行的有碼成人影片由音羽美鈴出演\n一個清純又帶點稚氣笑容的妹子，竟然被一個老色鬼大叔完全掌控，成了私人攝影裡的玩物！這位叫美鈴的妹子，笑起來甜美得像個小妹妹，回話也老實得讓人心動，感覺要是自家妹妹肯定寵上天！她那無暇的嫩白身軀，竟然被這老傢伙隨便擺弄，真是P活的極致享受啊！年輕妹子的肌膚就是不一樣，粉嫩嫩的光滑小穴被電棒玩弄，舌頭舔弄，再被逼著含住那話兒，純真小臉瞬間變成淫蕩小妖精！等那根東西狠狠插進去，她徹底化身騷浪小母狗，瘋狂追求快感，嬌喘連連，高潮不斷！這種介於少女和女人之間的反差，簡直讓人欲罷不能！一個變態大叔和一個光滑妹系女大學生的真實性愛紀錄片，刺激到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003733725725_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003733725725_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6576",
+  "actresses": [
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6576&name=音羽美鈴"
+    }
+  ]
+};

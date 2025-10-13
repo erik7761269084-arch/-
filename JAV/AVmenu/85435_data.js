@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230123/7Hzxg3aC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85435,
+  "IDcode": "MIAA-725",
+  "title": "【FANZA限定】進学のために大嫌いな進路指導の先生にアナルを捧げて… イヤだけどこっそり自ら媚薬をアナルとマ●コに塗りたくり2穴昇天！何度も中出しおねだりしちゃった早漏ケツ穴ギャル 乙アリス 生写真3枚付き",
+  "publish_date": "2022-10-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "潮吹",
+    "肛交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230124-1/7f4b7e201db42732e431a6c328964e40.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85435",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85435&name=乙愛麗絲"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85435&name=イセドン内村"
+    }
+  ]
+};

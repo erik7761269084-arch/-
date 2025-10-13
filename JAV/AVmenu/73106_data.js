@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/YuBQkCYD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73106,
+  "IDcode": "STARS-688",
+  "title": "無限制發射OK連續讓人無套中出完全會員制泡泡浴 羅倫花戀",
+  "publish_date": "2022-10-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/40a5c84df83ea120524eb41f491db6a7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73106",
+  "actresses": []
+};

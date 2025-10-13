@@ -1,0 +1,25 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58612,
+  "IDcode": "HEYZO1943",
+  "title": "あいらZ～ギャルのボディを完全性霸～",
+  "publish_date": "2019-09-21",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "69",
+    "玩具",
+    "淫荡手淫",
+    "背后插入",
+    "骑乘位",
+    "辣妹",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58612",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221210/pKVWhMVA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83045,
+  "IDcode": "AB-020",
+  "title": "世界の（激）アナルファック！ 020 ぶっ太い刺激が欲しいド変態アナル＆マ●コ！アナル＆イラマ",
+  "publish_date": "2014-04-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "多P",
+    "肛交",
+    "业余",
+    "西洋片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83045",
+  "actresses": []
+};

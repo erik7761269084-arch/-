@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/40df0fbb-93c6-466a-8386-11dc93569e98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1373,
+  "IDcode": "HEYZO-2702",
+  "title": "無盡高潮天國！～享受晃動巨乳",
+  "publish_date": "2022-01-16",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "美乳",
+    "素人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230714/20230714233706337337.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230714/20230714233706337337.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1373",
+  "actresses": [
+    {
+      "name": "玉乃愛彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230715/e3bb67ab-e2a7-4d10-8d39-72f3245ee725.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1373&name=玉乃愛彩"
+    }
+  ]
+};

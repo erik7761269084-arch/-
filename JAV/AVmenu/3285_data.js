@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1b5c1964-a0c6-466f-a71c-91fc9b935201/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/54bdd4ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3285,
+  "IDcode": "MKMP-663",
+  "title": "網紅小姐姐性慾爆棚，舔遍全身調教獵物男 ~ 辻井穗乃果",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "大姐姐",
+    "劇情",
+    "超爆乳",
+    "中出",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "舔陰",
+    "高妹",
+    "被妹子搭訕",
+    "寫真女郎",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "寫真偶像",
+    "美人"
+  ],
+  "description": "MKMP-663为K.M.P出品,2025年8月22日发行的有碼成人影片由辻井穗乃果出演\n一天跟拍網紅小姐姐逆推素人男，從瘋狂舌吻到連續中出，口水愛液精液混在一起，簡直是性慾怪獸上線！這位SNS上的超人氣網紅，私底下就是個變態大姐姐，一旦被她盯上就別想跑！她的蛇舌比啥都誘人，完全無碼呈現，絕對是突破底線的AV神作！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033929555555_15946_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033929555555_15946_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3285",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3285&name=辻井穗乃果"
+    }
+  ]
+};

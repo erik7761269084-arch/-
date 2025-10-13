@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230407/329a24d2-f66f-421c-9b05-d7ce5ff608f3/index.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/aea0f48e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19549,
+  "IDcode": "IPX-398",
+  "title": "出差住同房NTR 被上司內射一晚上的女社員 楓花戀",
+  "publish_date": "2019-11-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "自拍性愛",
+    "口交",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230407/ea98cf4c-0293-4fc0-83f0-6bf9e86a51a9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230407/ea98cf4c-0293-4fc0-83f0-6bf9e86a51a9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19549",
+  "actresses": [
+    {
+      "name": "楓花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19549&name=楓花戀"
+    },
+    {
+      "name": "枫可怜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19549&name=枫可怜"
+    }
+  ]
+};

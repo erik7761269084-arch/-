@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/H6Akclf3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70815,
+  "IDcode": "SDNM-196",
+  "title": "あなたの自宅から100m以内にいるかもしれない…そんな、近所の親しみ奥様。加藤沙季 34歳 第3章 「時間が許す限りSEXに没頭したい…」旦那が仕事中の7時間15本の他人棒でひたすら突かれっぱなし ず～っとSEXず～っと絶頂",
+  "publish_date": "2019-04-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P",
+    "和服，丧服",
+    "浴衣",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70815",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70815&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70815&name=鲛岛"
+    },
+    {
+      "name": "加藤沙季",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70815&name=加藤沙季"
+    }
+  ]
+};

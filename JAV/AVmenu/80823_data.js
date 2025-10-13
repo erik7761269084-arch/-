@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/XTps664G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80823,
+  "IDcode": "GVH-361",
+  "title": "生理的に無理なアイツのチ○ポの餌食にされ続けた夫のいない魔の13日間 北野未奈",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "监禁",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80823",
+  "actresses": []
+};

@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/90c1a1c6-abb6-4cb9-9ac8-1e9c7fd57b5b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/f503f1e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2672,
+  "IDcode": "MYBA-086",
+  "title": "人妻の花 ~ 吉澤友貴",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "臀控",
+    "御姐控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "熟女",
+    "極品美人",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "MYBA-086为妄想族出品,2025年9月12日发行的有碼成人影片由吉泽友贵出演\n吉泽小姐姐是个混得风生水起的时尚设计师，本以为会是个穿着超前卫的怪咖，结果一见面却是个清纯可爱的小姐姐！但别看她外表甜美，内心可是憋了一年多的欲火啊！工作太拼，完全没时间解决需求，积攒的渴望直接爆棚。她说就算跟老公求欢，也总是被敷衍了事，那小眼神里满是寂寞和不甘，简直让人心疼又心动！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050309496496_26810_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050309496496_26810_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2672",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2672&name=吉泽友贵"
+    }
+  ]
+};

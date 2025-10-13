@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/b8e1ed3c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70846,
+  "IDcode": "JUL-067",
+  "title": "会社も、妻も、奪われた―。社長夫人NTR 北条麻妃",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/89c1a74ec5383d4e6e1798d894027e4f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70846",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70846&name=北条麻妃"
+    }
+  ]
+};

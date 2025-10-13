@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231003/TncMp1M4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88278,
+  "IDcode": "CAWD-102",
+  "title": "芸能カメラマンの美少女アシスタントのえげつない壮絶アクメ！朝までイキまくって最後はナマ中出し 樋口みつは",
+  "publish_date": "2020-07-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "首次亮相",
+    "深喉",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88278",
+  "actresses": [
+    {
+      "name": "樋口三葉",
+      "img_url": "https://picture.yoshiclub.xyz/20240520/4de4e57d-23d5-4dbe-8ceb-9e9aee925c9e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88278&name=樋口三葉"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88278&name=鲛岛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88278&name=南佳也"
+    }
+  ]
+};

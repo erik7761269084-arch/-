@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0c024695-69f2-487b-afa0-67252f9d0f5f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/b38cc15d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9721,
+  "IDcode": "JUQ-977",
+  "title": "密着性愛 - 深夜在酒吧與經理發生的不倫密會 ～ 武藤あやか",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "酒吧",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "足交",
+    "出軌",
+    "NTR",
+    "熟女",
+    "情趣飯店",
+    "羞恥",
+    "飯店",
+    "報復"
+  ],
+  "description": "JUQ-977为MADONNA出品,2024年12月24日发行的有碼成人影片由武藤彩香出演\n我跟老公結婚三年了，我們的關係也不好說，常常吵架。晚上沒什麼活動，我想解決孤獨感，於是我決定去辦公室附近的酒吧消磨時間，然後回家。這家店是店長小澤先生經營的，我覺得很舒服，所以就常去那裡。正當我想要原諒丈夫的時候，卻發現他出軌了。感覺很累，我去了一家酒吧。然後，她懇求小澤先生幫她忘記她的丈夫…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218104639676676.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218104639676676.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9721",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9721&name=武藤彩香"
+    }
+  ]
+};

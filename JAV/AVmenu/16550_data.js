@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1db9c78e-1d5d-4e37-b7ac-1397a91ef6ee/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/28/e72180de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16550,
+  "IDcode": "SSNI-126",
+  "title": "巨乳女教師RION",
+  "publish_date": "2018-02-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女教師",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "家庭教師",
+    "多P",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "學校",
+    "無毛"
+  ],
+  "description": "SSNI-126为S1出品,2018年2月19日发行的有碼成人影片由安斋拉拉出演\n新老師Rion因爲性格溫柔、可愛、奶子大而受到學生們的歡迎。六個月後就要結婚了，與未婚夫正處於幸福的頂峯，學校一次重要考試的試卷卻弄丟了，副校長以此開玩笑來敲詐她，讓她剃光毛毛。當學生看到這一幕，都來欺負她，她的受虐本性逐漸覺醒。 大奶子女演員RION挑戰放開剃光陰部的正統電視劇！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240128/20240128104216778778.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240128/20240128104216778778.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16550",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16550&name=安斋拉拉"
+    }
+  ]
+};

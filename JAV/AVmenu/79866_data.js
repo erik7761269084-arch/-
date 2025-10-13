@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/KcqHSER5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79866,
+  "IDcode": "DANDY-778",
+  "title": "「看護師さんに惚れられ過ぎて彼女がそばにいるのにコソコソ誘惑（胸チラ/尻見せ/超密着）されてヤられた」VOL.2",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "巨乳",
+    "制服",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9408ec04af6501e4b35fe2c667d2e21c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79866",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79866&name=小梅惠奈"
+    },
+    {
+      "name": "初爱ねんね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79866&name=初爱ねんね"
+    }
+  ]
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ed0f2d3-b868-4a76-b43d-267ac0a72839/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 694,
+  "IDcode": "HEYZO-0832",
+  "title": "他人妻味 - 女兒同班同學的媽媽 ~ 村上涼子",
+  "publish_date": "2015-04-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "同学母亲",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女"
+  ],
+  "description": "HEYZO-0832为HEYZO出品,2015年4月11日发行的無碼成人影片由村上涼子出演\n他人妻味～娘の同級生のお父さんにしゃぶりつく～ - 村上涼子",
+  "cover_url": "https://picture.yoshiclub.xyz/20240911/c60d5352-30d7-42c2-b6b8-02ca72b530d8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240911/c60d5352-30d7-42c2-b6b8-02ca72b530d8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=694",
+  "actresses": [
+    {
+      "name": "村上涼子",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/e32a1800-18a8-4a37-90d5-33880fa0fc5b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=694&name=村上涼子"
+    }
+  ]
+};

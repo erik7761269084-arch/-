@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/17/b99b1f89/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96421,
+  "IDcode": "MIDV-817",
+  "title": "ホテルに巣ごもり淫らに交わる極濃SEXデート 爆乳揺らして汗だくワイルドオーガズム 優木とあ",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "接吻",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96421",
+  "actresses": [
+    {
+      "name": "優木友愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240616/a91f9b7b-3de7-487d-9374-d97745cc4d47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96421&name=優木友愛"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96421&name=鲛岛"
+    }
+  ]
+};

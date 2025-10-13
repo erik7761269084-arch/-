@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56c8a900-762d-489f-b76d-d1d55c904151/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/2536eb55/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4405,
+  "IDcode": "SKMN-004",
+  "title": "人妻跟炮友在一起更能解放真本性 ~ 彌生美月",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "SKMN-004为TAKARA出品,2025年7月11日发行的有碼成人影片由彌生美月出演\n老公常常出差的人妻，內心是不是早就慾求不滿？老公不在家的時候，炮友一上門，玄關都還沒關好就直接開戰，口技秀到不行！隔天更是直接在浴室裡放飛自我，各種花樣隨便玩。對老公還會裝羞澀，面對炮友卻徹底展現野性一面，想怎麼玩就怎麼玩，騷勁十足！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714205102699699_51792_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250714/20250714205102699699_51792_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4405",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4405&name=彌生美月"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4405&name=弥生美月"
+    }
+  ]
+};

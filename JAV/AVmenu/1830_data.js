@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230204/54f33dd7-6116-4fb4-8e71-3af6308ce572/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1830,
+  "IDcode": "SMBD-60",
+  "title": "S Model 60 ～海邊蕩婦的挑逗肉體～ : 遥惠美",
+  "publish_date": "2012-08-06",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "乳交",
+    "中出",
+    "美乳",
+    "口交",
+    "美少女",
+    "海灘"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230212/cd6f2298-eb60-4206-8487-fcd91d6b728e.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230212/cd6f2298-eb60-4206-8487-fcd91d6b728e.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1830",
+  "actresses": [
+    {
+      "name": "遥惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/a843e0ac-3455-4a22-a8c3-ada614fe833a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1830&name=遥惠美"
+    }
+  ]
+};

@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b94dad32-2952-4d20-9f4f-a851e6b863e4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/8da80923/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9861,
+  "IDcode": "DVMM-181",
+  "title": "普通素人男女監控AV 大學生情侶在特殊的魔鏡房裏被分開，忍受AV女優和男優的驚人技術！ ！高挑細長美腿癡女女優 x 素人男大學生（男友）/（女友） 素人女大學生 x 巨大雞巴... ~ 木下日葵",
+  "publish_date": "2024-12-18",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "業餘",
+    "網襪",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "AV拍攝現場",
+    "情趣內衣",
+    "癡女",
+    "惡搞",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "猥褻穿著",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241215/96048aed-774a-433b-b982-73bc7c790df7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241215/96048aed-774a-433b-b982-73bc7c790df7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9861",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9861&name=木下日葵"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9861&name=イセドン内村"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9861&name=タイ"
+    }
+  ]
+};

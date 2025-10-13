@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7ed06735-c405-4028-8c19-f9f61a8065d2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14043,
+  "IDcode": "SDJS-266",
+  "title": "SOD女子社員 絕頂高潮公司說明會2024 - 觸發高潮訓練，就算漏了85次也不會鬆懈",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "OL",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "奇聞趣事",
+    "女同事",
+    "辦公室",
+    "奇異的",
+    "真實拍攝",
+    "羞恥"
+  ],
+  "description": "SDJS-266为SOD出品,2024年7月1日发行的有碼成人影片\n三名管理候補女性員工將在忍受被射精的同時，首次挑戰公司說明會。假裝平靜的上半身和沾滿魷魚的下半身接受著求職生嚴肅的目光，無論多麼痙攣或跪倒在地，他都在不被察覺的情況下繼續射精。請看一位認真工作的女員工介紹公司的英姿，總共85發爆炸噴射，飛行距離和數量非凡。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/242ec0ab-6171-4e56-83df-28e65095fc46.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/242ec0ab-6171-4e56-83df-28e65095fc46.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14043",
+  "actresses": []
+};

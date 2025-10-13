@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a986ce29-c55c-48f8-8582-edcdcbd3b6d4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1095,
+  "IDcode": "HEYZO-1568",
+  "title": "6點下班後~插入蘿莉OL女郎！ ~",
+  "publish_date": "2017-09-10",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "蘿莉",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "小隻馬",
+    "美少女",
+    "高跟鞋"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129034523290290.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231129/20231129034523290290.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1095",
+  "actresses": [
+    {
+      "name": "千野くるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20231129/fc4b2e63-8344-4eff-81de-fc0e30f2812a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1095&name=千野くるみ"
+    }
+  ]
+};

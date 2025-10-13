@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58991,
+  "IDcode": "H4610-ori1844-FHD-",
+  "title": "上浦 玲奈 24歳",
+  "publish_date": "",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58991",
+  "actresses": []
+};

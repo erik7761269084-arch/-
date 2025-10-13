@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9bcd9e30-b8d0-4fa6-ab91-500485ad3760/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2022/09/20/dc2c721d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17704,
+  "IDcode": "IPX-932",
+  "title": "實驗檔案！！ 24小時監視軟禁性愛！ 一整天連續不斷與加美做愛會變得如何呢… 加美杏奈",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "流汗",
+    "中出",
+    "蒙面・面罩",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "潮吹",
+    "口交",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "女優訪談",
+    "紀錄片",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231123/a3ea5290-6a4a-4a9f-9b89-257370bd6a8b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231123/a3ea5290-6a4a-4a9f-9b89-257370bd6a8b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17704",
+  "actresses": [
+    {
+      "name": "加美杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230806/e3d8a99b-71b8-4f09-b9b2-3f1b4356c96d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17704&name=加美杏奈"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17704&name=イセドン内村"
+    }
+  ]
+};

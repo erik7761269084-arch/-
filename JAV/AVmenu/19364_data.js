@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5800a1b6-5ef7-49f4-b06a-e666a41af9b6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/27/e2047118/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19364,
+  "IDcode": "IPX-079",
+  "title": "超讚美巨乳隨你玩！",
+  "publish_date": "2018-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "乳交",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "數位馬賽克",
+    "芸能人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230525/20230525033308223223.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230525/20230525033308223223.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19364",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19364&name=桜空桃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19364&name=鲛岛"
+    }
+  ]
+};

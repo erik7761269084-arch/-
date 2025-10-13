@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103070,
+  "IDcode": "AUKG-447-",
+  "title": "リベンジレズポルノ～新人ホステスに復讐される熟女ママ～華月さくら桃山凛",
+  "publish_date": "2019-02-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "女同性恋",
+    "羞耻",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103070",
+  "actresses": [
+    {
+      "name": "山本铃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103070&name=山本铃"
+    },
+    {
+      "name": "华月さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103070&name=华月さくら"
+    }
+  ]
+};

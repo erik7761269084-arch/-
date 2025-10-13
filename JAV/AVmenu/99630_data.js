@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230215/6F34B20AF1CFFC80/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99630,
+  "IDcode": "IPTD-952",
+  "title": "新卒ガールのヤリまくり就職戦線 シュウカツ！！ 相沢恋",
+  "publish_date": "2012-09-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "制服",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99630",
+  "actresses": [
+    {
+      "name": "相沢恋",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99630&name=相沢恋"
+    }
+  ]
+};

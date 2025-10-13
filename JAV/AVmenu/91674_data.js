@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240524/A3v0F1WJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91674,
+  "IDcode": "AED-225",
+  "title": "近親相姦 五十路のお母さんに膣中出し 末藤さより",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/f1545fec651c46a8e6b426657ed5ab4d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91674",
+  "actresses": [
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91674&name=ミチくん"
+    },
+    {
+      "name": "末藤さより",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91674&name=末藤さより"
+    }
+  ]
+};

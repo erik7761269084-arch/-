@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/5vca4a2v/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86646,
+  "IDcode": "ANZD-056",
+  "title": "コスプレHが大好きな巨乳図書館司書 みずき",
+  "publish_date": "2021-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "颜射",
+    "业余",
+    "角色扮演者",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86646",
+  "actresses": [
+    {
+      "name": "柏木あみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86646&name=柏木あみ"
+    }
+  ]
+};

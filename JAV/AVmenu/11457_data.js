@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/edacd334-be58-4508-bd22-d82b499bf62f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11457,
+  "IDcode": "VENX-287",
+  "title": "當我盯着有着性感成熟女性身體的嶽母時，我看到了她臉紅了 ~ 星明日菜",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "岳母",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "情趣內衣",
+    "巨乳",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241005/b0383d6e-7e39-485d-b68a-fe679d7b42c1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241005/b0383d6e-7e39-485d-b68a-fe679d7b42c1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11457",
+  "actresses": [
+    {
+      "name": "星明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240113/8440afe2-37f9-4684-bee8-1dd1fcc223a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11457&name=星明日菜"
+    }
+  ]
+};

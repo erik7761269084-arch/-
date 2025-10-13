@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/18/9a6953b1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92173,
+  "IDcode": "MIAA-904",
+  "title": "【FANZA限定】義姉のピタパンデカ尻誘惑にガマン出来ず兄の不在中にケツ穴ぱっくりバックピストンで何度も中出しした居候のボク。 末広純 生写真2枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "姐姐",
+    "屁股",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92173",
+  "actresses": []
+};

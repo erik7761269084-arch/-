@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/8F32A3094E8B4A34/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99365,
+  "IDcode": "BBAN-056",
+  "title": "オフィスレディレズ痴漢～蒸れた黒パンスト、真夏の汗だく女性専用車両～",
+  "publish_date": "2015-10-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "屁股",
+    "女同性恋",
+    "OL",
+    "女同接吻",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99365",
+  "actresses": [
+    {
+      "name": "神ユキ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/e14aec81-25d5-4313-aeeb-8084050579d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99365&name=神ユキ"
+    },
+    {
+      "name": "大场唯",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-大場ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99365&name=大场唯"
+    },
+    {
+      "name": "千乃杏美",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cad5ba42130c383298721dc8cb58ef94.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99365&name=千乃杏美"
+    }
+  ]
+};

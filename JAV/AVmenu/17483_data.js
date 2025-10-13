@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7502f1a2-6ff3-4a69-9a5b-1b1fd0d375f5/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/25/3eaf2f79/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17483,
+  "IDcode": "MIDV-543",
+  "title": "帶著溫柔微笑的純潔天使的第一次中出",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "兩男一女",
+    "接吻",
+    "女僕制服",
+    "女優訪談",
+    "紀錄片",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "MIDV-543为MOODYZ出品,2023年12月5日发行的有碼成人影片由武田萌奈美出演\n清純美少女武田萌奈美終於解除中出禁令了！ 「我很緊張......」人生中第一次令人興奮的無套插入！ 武田萌奈美很嬌弱，但是當她感覺到雞巴的抽插時呻吟的很淫蕩！ 很敏感呀，很容易到達高潮全身抽搐！ 天真女孩的漂亮陰道裡流出了內射的精液！ 很高興能夠和她享受純粹的性愛。\n清純美少女武田萌奈美終於解除中出禁令了！ 「我很緊張......」人生中第一次令人興奮的無套插入！ 武田萌奈美很嬌弱，但是當她感覺到雞巴的抽插時呻吟的很淫蕩！ 很敏感呀，很容易到達高潮全身抽搐！ 天真女孩的漂亮陰道裡流出了內射的精液！ 很高興能夠和她享受純粹的性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/ba9fee82-e2cf-4581-beb7-0b54defa1c44.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/ba9fee82-e2cf-4581-beb7-0b54defa1c44.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17483",
+  "actresses": [
+    {
+      "name": "武田萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/367c8532-0ca0-485f-918b-f5cc8e6a1a55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17483&name=武田萌奈美"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/09/f092b087/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91612,
+  "IDcode": "EBOD-962",
+  "title": "【FANZA限定】長年目を付けていた隣家の娘がGcupに急成長したから催●アプリを悪用して俺専用のパイズリメイドにしてやる！！ 星乃夏月 生写真3枚付き",
+  "publish_date": "2023-03-22",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "恋乳癖",
+    "女佣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91612",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91612&name=星乃夏月"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91612&name=田渊正浩"
+    }
+  ]
+};

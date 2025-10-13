@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/YVHxU04t/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74615,
+  "IDcode": "LUXU-1091",
+  "title": "ラグジュTV 1075 『彼氏にお願いされて応募しました…』不倫(彼：寝取られ願望アリ)現在進行中の巨乳美容部員！普段味わえないプロのテクに頬を染め、ボリューム感たっぷりの巨乳を揺らしながら巨根に酔いしれる！",
+  "publish_date": "2019-03-11",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "业余",
+    "巨大屁股",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/fbd21c0a2edbee13b148592d7f591f86.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74615",
+  "actresses": [
+    {
+      "name": "园山美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74615&name=园山美月"
+    }
+  ]
+};

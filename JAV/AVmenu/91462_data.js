@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240507/AJgLI2K4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91462,
+  "IDcode": "BOKD-273",
+  "title": "前立腺をガン突きされてミルクだだ漏れトコロテンSEX 桃谷りり",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "多P",
+    "肛交",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240507-1/3fef52111ffbdb295179e3ec93a5b552.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91462",
+  "actresses": []
+};

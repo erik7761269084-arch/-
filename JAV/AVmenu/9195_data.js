@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e694197d-0c90-41b5-a993-094bade6e185/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9195,
+  "IDcode": "NKKD-346",
+  "title": "近親相奸 被兒子堅硬的雞巴引誘的母親 ~ 水川潤",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "變態",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "人妻",
+    "巨乳",
+    "母子",
+    "美人",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250111/a207f943-4699-4281-9949-985a9904fb8f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250111/a207f943-4699-4281-9949-985a9904fb8f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9195",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9195&name=水川潤"
+    }
+  ]
+};

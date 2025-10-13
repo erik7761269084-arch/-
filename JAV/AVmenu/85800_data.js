@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230128/5q3UCPpw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85800,
+  "IDcode": "NHDTB-674",
+  "title": "色っぽい喪服尻に我慢できずバック挿入！即ハメされて不謹慎な本気汁を垂らし感じまくる人妻",
+  "publish_date": "2022-06-09",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "巨大屁股",
+    "寡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85800",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85800&name=美園和花"
+    },
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85800&name=望月綾香"
+    },
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85800&name=赤瀬尚子"
+    }
+  ]
+};

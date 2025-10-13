@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f62e0cce-80ef-4e1c-a426-00d42109dc2f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1190,
+  "IDcode": "HEYZO-2034",
+  "title": "6點下班後～ - 神尾舞",
+  "publish_date": "2019-07-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "中出",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015210424615615.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231015/20231015210424615615.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1190",
+  "actresses": [
+    {
+      "name": "神尾舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/3132df1f-a264-40fc-9316-340b4bd96a6c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1190&name=神尾舞"
+    }
+  ]
+};

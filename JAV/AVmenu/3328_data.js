@@ -1,0 +1,97 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6213873f-d33c-488c-9038-26224c31a532/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/06/082810e0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3328,
+  "IDcode": "ROE-385",
+  "title": "繼女每天叫來男同學把我一次又一次的輪⬤ ~ 大島優香",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "調教",
+    "深喉",
+    "臀控",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "貧乳",
+    "唾液敷面",
+    "美腳",
+    "鬼畜片",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "插入異物",
+    "極品美人",
+    "羞恥",
+    "報復"
+  ],
+  "description": "ROE-385为MADONNA出品,2025年8月21日发行的有碼成人影片由大島優香出演\n不久前才跟一個帶著拖油瓶的男人結了婚，繼女美羽這小妮子年紀不大，心機可不少，想跟她打好關係看來得費點功夫。本以為能過上幸福小日子，沒想到某天美羽這丫頭竟然把她學校的一群男同學叫到家裡，直接命令他們對我下手！我拼了命求她救命，她卻在一旁看著我被欺負，臉上掛著冷笑，眼神滿是輕蔑！從那天開始，我就掉進了被她同學輪流羞辱的噩夢，每天都活在屈辱和絕望中……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023633818818_84576_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023633818818_84576_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3328",
+  "actresses": [
+    {
+      "name": "大島優香",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/5b64d364-169d-4cae-9d3f-d743cc0286a3.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3328&name=大島優香"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3328&name=ラヴズ"
+    },
+    {
+      "name": "太刀茜祢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3328&name=太刀茜祢"
+    },
+    {
+      "name": "磯山道",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3328&name=磯山道"
+    }
+  ]
+};

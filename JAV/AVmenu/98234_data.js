@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250218/7LR3tpSk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98234,
+  "IDcode": "AUKB-093-",
+  "title": "内緒の浴室濡れ肌密着レズビアン240分",
+  "publish_date": "2019-01-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "姐姐",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98234",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=葵百合香"
+    },
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=武藤彩香"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=翔田千里"
+    },
+    {
+      "name": "一条绮美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=一条绮美香"
+    },
+    {
+      "name": "円城ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=円城ひとみ"
+    },
+    {
+      "name": "绪方泰子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=绪方泰子"
+    },
+    {
+      "name": "松うらら",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/d7d9fce49cacb239664aab9194809070.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=松うらら"
+    },
+    {
+      "name": "水上由纪恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=水上由纪恵"
+    },
+    {
+      "name": "あいだ飞鸟",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=あいだ飞鸟"
+    },
+    {
+      "name": "真山由夏",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98234&name=真山由夏"
+    }
+  ]
+};

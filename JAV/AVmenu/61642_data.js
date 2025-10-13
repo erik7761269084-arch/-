@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/5fee4af5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61642,
+  "IDcode": "KEED-88",
+  "title": "彼氏のスマホを覗いたら私の母親と激しくセックスしてました",
+  "publish_date": "2025-07-20",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61642",
+  "actresses": []
+};

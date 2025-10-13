@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/wXwGoc9r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93508,
+  "IDcode": "NMGT-018",
+  "title": "訳アリZ世代 vol.02",
+  "publish_date": "2023-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "女生",
+    "业余",
+    "滥交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93508",
+  "actresses": []
+};

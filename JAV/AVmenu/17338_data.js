@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/df34b7a0-87a1-48ab-af6a-fe8b0807ad35/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/30/cee3fd7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17338,
+  "IDcode": "JUQ-477",
+  "title": "容姿端麗、頭脳明晰差距巨大的超級變態人妻專用第2卷！！關於NTR事業夥伴的性騷擾經理戴綠帽的故事抱怨和他的妻子",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "中出",
+    "OL",
+    "口交",
+    "其他職業",
+    "人妻",
+    "女同事",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/24e790c0-49fb-4529-8495-c3b1a69974d2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/24e790c0-49fb-4529-8495-c3b1a69974d2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17338",
+  "actresses": [
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17338&name=清巳麗乃"
+    }
+  ]
+};

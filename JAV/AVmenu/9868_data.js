@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8413b237-9a7f-4aac-95cd-0d505059f608/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/2f5b4620/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9868,
+  "IDcode": "HMN-640",
+  "title": "毫不猶豫地將粗大雞巴塞進淫穢的豐滿大屁股，可以讓精液射在奶子上的淫蕩熟女粗俗而又極端的鬼枕營業 ~ 北野未奈",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "美腳",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "獵豔",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "辣妹/GAL系",
+    "飯店小姐・援交妹",
+    "飯店"
+  ],
+  "description": "HMN-640为本中出品,2024年12月17日发行的有碼成人影片由北野未奈出演\n'性慾極強的零食媽媽，秀出大屁股後引誘我！乳頭也很大！被她淫蕩的臀部和淫蕩的身體迷住了！他毫不猶豫地將粗大的雞巴插入她的陰戶，並以打樁女牛仔的姿勢擠出體內射精！ 她用她性感的屁股給了他一次雞巴工作！ Kito Jupojupo 口交 ！一個有嘴、奶子、屁股、陰戶的蕩婦，所有的胖顧客都被骨頭束縛了！遍地射精的技術！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/202412110708127979.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/202412110708127979.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9868",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9868&name=北野未奈"
+    }
+  ]
+};

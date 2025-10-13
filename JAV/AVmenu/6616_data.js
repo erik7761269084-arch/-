@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87c67b99-c086-4e76-9727-256cff099b3b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6616,
+  "IDcode": "FNS-011",
+  "title": "便利店打工的馬尾女神女友被渣男店長NTR調教成肉便器了 ~ 吉沢梨亜",
+  "publish_date": "2025-04-25",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "便利商店",
+    "高顏值",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "潮吹",
+    "口交",
+    "職員",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "NTR",
+    "美人",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "FNS-011为FALENO出品,2025年4月25日发行的有碼成人影片由 吉沢梨亜出演\n【最垃圾的NTR劇情】在便利店打工時，經常和我同班的馬尾小可愛梨亜醬總是笑眯眯的，我們因爲一起吐槽討厭的店長而越走越近，最後成了情侶。交往後我們在便利店裏各種甜蜜互動，甚至偷偷幹些羞羞的事，幸福到爆！但某天開始，梨亜醬突然沒了精神，排班也老是和店長撞一起，事情好像越來越不對勁了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425003231298298_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250425/20250425003231298298_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6616",
+  "actresses": [
+    {
+      "name": "吉沢梨亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240207/8811b549-03b3-4104-b5fd-01804ccae8ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6616&name=吉沢梨亜"
+    }
+  ]
+};

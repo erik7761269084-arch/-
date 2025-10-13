@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/23/a6ce1d66/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107236,
+  "IDcode": "MEYD-600",
+  "title": "ケバいけどカラダの相性は最高にいい愛人とビジホ不倫 黒谷咲紀",
+  "publish_date": "2020-07-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "内衣",
+    "出轨",
+    "性感的"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107236",
+  "actresses": [
+    {
+      "name": "黒谷咲纪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107236&name=黒谷咲纪"
+    }
+  ]
+};

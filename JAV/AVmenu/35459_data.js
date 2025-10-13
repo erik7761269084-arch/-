@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/b9dfd22c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35459,
+  "IDcode": "HEYZO-2001",
+  "title": "不知天高地厚的素人娘拍摄AV看低男优被狠狠教训干到服气",
+  "publish_date": "2025-08-08",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "知名女优",
+    "背后插入",
+    "骑乘位",
+    "白虎",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35459",
+  "actresses": []
+};

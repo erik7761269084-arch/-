@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/07/bb794f7f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85166,
+  "IDcode": "KIRE-081",
+  "title": "超希少!NTR好きで濡れる女 現役エステティシャン「私、嫉妬でしか興奮できないんです…」 長谷川ゆかり 34歳 AV DEBUT",
+  "publish_date": "2022-08-11",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "成熟的女人",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85166",
+  "actresses": [
+    {
+      "name": "長谷川ゆかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85166&name=長谷川ゆかり"
+    }
+  ]
+};

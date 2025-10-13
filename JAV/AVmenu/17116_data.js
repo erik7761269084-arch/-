@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/850362e6-899d-48c2-a049-2a6b19768094/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/10/6ba1f780/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17116,
+  "IDcode": "JUQ-487",
+  "title": "我兒子的朋友無法控制的性交讓他不斷射精.... 赤井美希",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "流汗",
+    "乳交",
+    "中出",
+    "美臀",
+    "女上位",
+    "口交",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "熟女",
+    "大雞巴",
+    "豐滿"
+  ],
+  "description": "JUQ-487为MADONNA出品,2023年12月26日发行的有碼成人影片由赤井美希出演\n赤井美希最後目睹了來她家住的兒子的朋友康介自慰。赤井美希被害羞的小介的調皮逗樂了，陪他一起吃晚飯并引誘他，但是… 小介那硕大的雞巴，一次射精就無法滿足，一次又一次吞噬赤井美希的身體，反覆射精… 那天之後，赤井美希繼續與多次造訪她家的小介發生身體關係，但赤井美希的身體終於因為他無與倫比的愛而開始尖叫。\n赤井美希最後目睹了來她家住的兒子的朋友康介自慰。赤井美希被害羞的小介的調皮逗樂了，陪他一起吃晚飯并引誘他，但是… 小介那硕大的雞巴，一次射精就無法滿足，一次又一次吞噬赤井美希的身體，反覆射精… 那天之後，赤井美希繼續與多次造訪她家的小介發生身體關係，但赤井美希的身體終於因為他無與倫比的愛而開始尖叫。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231223/82809b14-3996-4a8a-88c2-22d3cbbb248f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231223/82809b14-3996-4a8a-88c2-22d3cbbb248f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17116",
+  "actresses": [
+    {
+      "name": "赤井美希",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/d3c8c6ee-63ff-458f-90b0-25f590b30dd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17116&name=赤井美希"
+    }
+  ]
+};

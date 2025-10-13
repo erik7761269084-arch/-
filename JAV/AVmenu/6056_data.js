@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0d9c474-9bf1-4a5c-874b-6bc9c7d00b79/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6056,
+  "IDcode": "HALE-062",
+  "title": "閨蜜男友偷食者 第57彈 ~ 南條彩",
+  "publish_date": "2025-05-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女友閨蜜",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "情趣飯店"
+  ],
+  "description": "HALE-062为妄想族出品,2025年5月17日发行的有碼成人影片由南條彩出演\n這次是由上一集理惠介紹的沙耶香登場！這位笑容燦爛的年輕媽媽有著G罩杯巨乳，身材火辣到不行！跟老公的夜生活越來越少，慾求不滿的她超想來場出軌激情釋放壓力！第一次嘗試大尺寸陌生棒棒，她完全沉淪在不倫的快感中，真的讓人看了心癢癢！胸部被猛攻，激烈交纏，潮吹不停，高潮一波接一波！閨蜜獵人這遊戲，根本停不下來，下一集還有更多好康等著你！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517111713420420_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250517/20250517111713420420_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6056",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6056&name=南條彩"
+    }
+  ]
+};

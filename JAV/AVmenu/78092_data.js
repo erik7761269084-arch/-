@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/12/57a1d733/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78092,
+  "IDcode": "DVMM-177",
+  "title": "一般男女モニタリングAV 巨乳妻限定！ノーハンドフェラでズラ～ッと並んだチ○ポ10本の中から愛する旦那のチ○ポ当ててみて！3 ハズレたらいきなりデカチン即ハメ！形・大きさの異なるフル勃起チ○ポと大量ザーメンを味わって発情した人妻オマ○コは旦那の目の前なのに絶…",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "企画",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/57a1d733/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78092",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/10/27e8b895/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100605,
+  "IDcode": "SABA-813",
+  "title": "SABA-813",
+  "publish_date": "2023-02-14",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "女大学生",
+    "业余",
+    "主观视角",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/10/652e42e0d91d5309aea77160b890f6f7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100605",
+  "actresses": [
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100605&name=若宫はずき"
+    }
+  ]
+};

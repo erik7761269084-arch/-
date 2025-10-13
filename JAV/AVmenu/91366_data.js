@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240429/fmhzbVXY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91366,
+  "IDcode": "CHUC-045",
+  "title": "海外勤務の夫に隠れてお気持ち程度の小遣いで中出しさせる港区人妻 まり（31） 上戸まり",
+  "publish_date": "2023-09-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240430-1/541fcdd34a88a950fe31a10cd26e2a0c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91366",
+  "actresses": [
+    {
+      "name": "上戶真理",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/5a916915-4355-4d71-8d00-199c67923120.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91366&name=上戶真理"
+    }
+  ]
+};

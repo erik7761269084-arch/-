@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240120/dnEztXDK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90549,
+  "IDcode": "PPPE-140",
+  "title": "W巨乳ナースと13射精パイズリ1泊2日ハーレム検査入院 白花のん 田中ねね",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫乱，真实",
+    "淫语",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/c9802fdbf028c96eb6fe608eddcd0832.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90549",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90549&name=田中寧寧"
+    },
+    {
+      "name": "白花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/a758ea88-fecb-4008-8b59-a7fe4b555b55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90549&name=白花暖"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90549&name=Qべぇ"
+    }
+  ]
+};

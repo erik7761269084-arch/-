@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86f2a540-03ab-4ede-b6ff-7d80d487eecb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 343,
+  "IDcode": "HEYZO-0401",
+  "title": "Harmar World 9 後編 淚的意味 ~ 櫻瀨奈",
+  "publish_date": "2013-08-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "美人",
+    "溫泉",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "HEYZO-0401为HEYZO出品,2013年8月27日发行的無碼成人影片由大高舞出演\nHamar's World 9 後編～涙の意味～ - 桜瀬奈",
+  "cover_url": "https://picture.yoshiclub.xyz/20250317/a2eed2bf-3a73-4268-9452-7a4866461781.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250317/a2eed2bf-3a73-4268-9452-7a4866461781.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=343",
+  "actresses": [
+    {
+      "name": "大高舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230520/d03e3f18-bc76-4b8c-add3-1a204304cd1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=343&name=大高舞"
+    }
+  ]
+};

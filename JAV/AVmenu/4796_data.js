@@ -1,0 +1,117 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7dd777d0-606d-4814-b64b-db926c529d03/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4796,
+  "IDcode": "MMPB-083",
+  "title": "被強行侵犯的高嶺之花，絕望中沉淪快感！強制中出調教 ～把遙不可及的女人硬上並種下服從的種子～ ~ 胡桃櫻花 通野未帆 柏木小夏 水原みその 妃光莉 美咲佳奈 矢澤なの 由良佳奈",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "苗條",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "故事集",
+    "家庭主妇",
+    "劇情",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "港區女子",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "輪姦",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "精選綜合",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "MMPB-083为桃太郎映像出版出品,2025年6月28日发行的有碼成人影片由胡桃櫻花，美咲佳奈，柏木小夏，由良佳奈，通野未帆，妃光莉，矢澤なの，水原みその，長谷川礼奈出演\n高不可攀的花，就是那種只能遠遠看著，永遠得不到的夢中情人，只能暗自意淫，覺得自己根本配不上的存在。但老子就是想要！硬到不行的小兄弟已經不受控制啦！從鄰家可愛妹子到上司的老婆，再到公司裡的OL小姐姐，老子要從每晚的幻想生活畢業，把她們通通變成我的專屬！小嫩芽被我狠狠欺負，玩到崩潰！就算你討厭我，也別討厭我的大兄弟啊！一開始還拼命反抗，現在眼睛都迷離了，完全被我征服了吧。抱歉啦，弄疼你了，可你實在太可愛，我忍不住想狠狠折磨你！就連我最討厭的上司的老婆也一樣，整天一副幸福樣，害我多丟臉啊！那我就給你種下別人的種子，讓你知道我也不是好惹的！還有那個巨乳OL同事，老是被上司用色眯眯的眼神盯著，你還一副不討厭的樣子……我的滿腔愛意全在這根大兄弟上，獻給我心儀的你！我想舔遍你的每一寸肌膚，腳趾、後庭、汗濕的腋下，當然還有胸部和下面，我通通都愛！再也不是高不可攀的花了，這些花我要用強硬手段徹底摧毀！全部中出，讓你們都屬於我！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/2025070207454222_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250702/2025070207454222_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4796",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=柏木小夏"
+    },
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=胡桃櫻花"
+    },
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=美咲佳奈"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=由良佳奈"
+    },
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=通野未帆"
+    },
+    {
+      "name": "水原みその",
+      "img_url": "https://picture.yoshiclub.xyz/20240111/08b89e09-be7e-4410-a76a-3252f5c987ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=水原みその"
+    },
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=妃光莉"
+    },
+    {
+      "name": "矢澤なの",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/32d14a14-5e37-4b11-8539-bf7f3193151f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=矢澤なの"
+    },
+    {
+      "name": "長谷川礼奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/9107198c-b60c-410b-b630-4c2e12e43792.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4796&name=長谷川礼奈"
+    }
+  ]
+};

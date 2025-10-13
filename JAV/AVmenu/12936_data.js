@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3e1dadc8-5885-45d9-b71e-4f7be0d9a8ac/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/MB5qL1Fv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12936,
+  "IDcode": "SQTE-555",
+  "title": "小生意氣的女孩喜歡不斷搖晃屁股的騎乘式做愛 ~ 菊池春",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "中出",
+    "女上位",
+    "JK校服",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "少女",
+    "自慰",
+    "清純",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240804/356cc31e-7f72-49ba-9daf-144b03519de5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240804/356cc31e-7f72-49ba-9daf-144b03519de5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12936",
+  "actresses": [
+    {
+      "name": "菊池春",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/5ca175b8-1c74-41eb-8d3e-a37b5a6270af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12936&name=菊池春"
+    }
+  ]
+};

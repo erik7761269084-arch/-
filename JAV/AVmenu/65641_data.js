@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220927/8523E53EA6B79D27/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65641,
+  "IDcode": "076F56DC7CFCEFEBCCAE22D5F4C48E6B",
+  "title": "强制アナル快楽地狱 M男拘束トリップ 吹石れな",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65641",
+  "actresses": []
+};

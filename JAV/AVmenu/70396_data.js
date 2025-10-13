@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/RLEcP3Kr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70396,
+  "IDcode": "XRW-591",
+  "title": "脳殺！淫語手コキ",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "口交",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70396",
+  "actresses": [
+    {
+      "name": "秋野千尋",
+      "img_url": "https://picture.yoshiclub.xyz/20240522/31433123-4811-4dc3-b6bd-21d78d3bbb00.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70396&name=秋野千尋"
+    },
+    {
+      "name": "柊木のあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70396&name=柊木のあ"
+    },
+    {
+      "name": "树花凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70396&name=树花凛"
+    },
+    {
+      "name": "青山葵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70396&name=青山葵"
+    }
+  ]
+};

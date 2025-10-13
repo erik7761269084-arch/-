@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250319/8z45kmzR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70506,
+  "IDcode": "STAR-911",
+  "title": "市川まさみ もしSOD女子社員時代の後輩男性に口説かれたらどうする？",
+  "publish_date": "2018-05-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "姐姐",
+    "苗条",
+    "纪录片",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/aaee1ce17ed1eb9b39bfaf96d9391b96.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70506",
+  "actresses": [
+    {
+      "name": "市川雅美",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/659b1fe6-bc01-4486-b40b-110cc54dd371.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70506&name=市川雅美"
+    }
+  ]
+};

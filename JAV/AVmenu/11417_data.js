@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6a8ea6a5-00d5-41e5-850e-46f175ff0b98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11417,
+  "IDcode": "BAGR-044",
+  "title": "渴望被操的癡女偶像攝影會 ~ 栄川乃亜",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "偶像",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "女僕制服",
+    "癡女",
+    "M男・M女",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241006/4274efbb-2942-455e-9537-6a8a5f75491e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241006/4274efbb-2942-455e-9537-6a8a5f75491e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11417",
+  "actresses": [
+    {
+      "name": "栄川乃亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bc731d12-2d4f-426f-a573-18db4ef5f6fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11417&name=栄川乃亜"
+    }
+  ]
+};

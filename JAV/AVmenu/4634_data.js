@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e860db2c-c10d-41cf-a0ab-cc93d6c54dbb/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/5c7a46bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4634,
+  "IDcode": "URKK-115",
+  "title": "大學生女友沉迷牛郎欠下巨債被迫肉償淪陷新宿歌舞伎町 ~ 皆濑明里",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "舔陰",
+    "少女",
+    "美少女",
+    "奇聞趣事",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "欠債肉償",
+    "M男・M女",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "URKK-115为UNFINISHED出品,2025年7月5日发行的有碼成人影片由皆瀨明里出演\n小明里本來和男友甜甜蜜蜜，窮是窮但對未來充滿憧憬，誰知道她背地裡早就迷上了牛郎！欠下No.1牛郎一大筆賣掛金還不上，只能用身體去賺錢還債！為了錢，她一步步墮入性愛沼澤，完全無法自拔……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033455751751_21088_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033455751751_21088_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4634",
+  "actresses": [
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4634&name=皆瀨明里"
+    },
+    {
+      "name": "トミフミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4634&name=トミフミ"
+    }
+  ]
+};

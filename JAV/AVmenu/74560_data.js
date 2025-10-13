@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250103/tDQ4rvrS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74560,
+  "IDcode": "HND-698",
+  "title": "彼女のお姉さんがとんでもないボイン！！ こっそり誘惑されて声ガマン中出しさせられちゃった僕。 松本菜奈実",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74560",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74560&name=松本菜奈実"
+    }
+  ]
+};

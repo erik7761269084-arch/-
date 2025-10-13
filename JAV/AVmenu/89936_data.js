@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/kn1PjhfF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89936,
+  "IDcode": "SAN-137",
+  "title": "夫の仏前で男二人に犯●れる未亡人三人のセックス150分",
+  "publish_date": "2023-05-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89936",
+  "actresses": [
+    {
+      "name": "松本痲里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/346d12fd-c026-4613-8466-cb7339d9d40c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89936&name=松本痲里奈"
+    },
+    {
+      "name": "松嶋友里恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89936&name=松嶋友里恵"
+    }
+  ]
+};

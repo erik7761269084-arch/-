@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ee07bdaa-4a6a-4874-8320-9ec48c81a8c9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/21/6d7ca6a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12204,
+  "IDcode": "IPZZ-398",
+  "title": "乳房極其柔軟的護士給你最舒服的乳交 ~ 海老咲あお",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "慾求不滿",
+    "護士制服",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "看病・住院",
+    "抹油",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "IPZZ-398为IDEA POCKET出品,2024年9月10日发行的有碼成人影片由海老咲碧出演\n天生的G罩杯護士小青，得到了從小就夢想的護士工作，為了讓病人微笑而努力工作。為了解除住院病人的後顧之憂，我會用我的專長爆乳來鼓勵他們！她無法拒絕，最終導致她和他發生了性關係！第二天，醫院傳出謠言，有病人要求她幫他操奶，三個人同時射精！ 「小青的乳房是最好的藥。」乳房護理師用她神聖的 G 罩杯乳房為病人提供能量並管理射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906014114436436.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906014114436436.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12204",
+  "actresses": [
+    {
+      "name": "海老咲碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/48b52330-5465-4e18-8d80-4944b87eee01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12204&name=海老咲碧"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12204&name=鲛岛"
+    },
+    {
+      "name": "大村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12204&name=大村"
+    }
+  ]
+};

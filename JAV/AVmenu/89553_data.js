@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/18/522d5aae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89553,
+  "IDcode": "AARM-169",
+  "title": "完全CFNM パンティー猿轡で乳首弄りされながらフル勃起ち○ぽしゃぶられ続ける。",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "荡妇",
+    "M男",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89553",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89553&name=小早川怜子"
+    },
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89553&name=八乃翼"
+    },
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89553&name=廣瀨里緒菜"
+    },
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89553&name=水卜麻衣奈"
+    },
+    {
+      "name": "希望美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89553&name=希望美"
+    }
+  ]
+};

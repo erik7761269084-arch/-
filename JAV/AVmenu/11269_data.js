@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b7968889-590d-4cb6-81f3-9ea390ff1bcd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11269,
+  "IDcode": "EBWH-157",
+  "title": "7種巨乳特色的COSPLAY和感覺好到暴的乳交 ~ 莉莉遙香",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "游戲COSPLAY",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "抹油",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "EBWH-157为E-BODY出品,2024年10月15日发行的有碼成人影片由莉莉遙香出演\n莉莉醬！今天我們準備了7種美胸cosplay，讓你最可愛的方式展現你強大的Hcup！ ① 學校泳衣 ② 女學生 ③ 旗袍 ④ 反轉兔女郎 ⑤ Cal○in Cl○in ⑥ Z 代新人 ⑦ 胸獸... 你知道它們都適合你嗎？莉莉醬你要做什麼？如果發生這種情況，那你就很擅長了！為了讓大家滿意，乳交藝人Haruka Riri會盡力！ 7個角落充滿乳交，有無限的圖案和所有的鏡頭！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/202410100907112525.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/202410100907112525.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11269",
+  "actresses": [
+    {
+      "name": "莉莉遙香",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/0482cb9f-4857-4c5f-b538-86b741ba7999.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11269&name=莉莉遙香"
+    }
+  ]
+};

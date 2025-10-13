@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230729/OXMzxPXD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87502,
+  "IDcode": "JKSR-550",
+  "title": "【流出】女子●生 家庭内近親SEX4 これが真実！みんな家族とヤっていた… 父×娘・兄×妹など禁断SEX3家族",
+  "publish_date": "2022-07-23",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "乱伦",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/b8f1b43d0558bdd3f70dbd0412605ed2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87502",
+  "actresses": []
+};

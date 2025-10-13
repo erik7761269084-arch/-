@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/DTx76AJ6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94593,
+  "IDcode": "NSFS-306",
+  "title": "拘束された人妻 手足を縛られ抵抗できないままぶち込まれる VOL.4",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "戏剧",
+    "已婚妇女",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94593",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94593&name=美園和花"
+    },
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94593&name=東條夏"
+    },
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94593&name=向井藍"
+    },
+    {
+      "name": "莲美柚香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94593&name=莲美柚香"
+    }
+  ]
+};

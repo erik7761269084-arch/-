@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0829a420-d7b1-47c7-a4ad-59ad1cb796e0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/31/6f7c0ca2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7554,
+  "IDcode": "MIDA-082",
+  "title": "晃動Q杯巨乳！從早到晚12小時全程弟弟狂插亂交高潮 絕頂抽搐後小穴還被無休猛幹 ~ Himari",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "豐滿",
+    "女優"
+  ],
+  "description": "MIDA-082为MOODYZ出品,2025年3月18日发行的有碼成人影片由Himari出演\n一部從早到晚連續 12 小時不間斷行動的紀錄片！唯一的休息時間就是換服裝的時候！她一進入工作室，就開始進行口交、性愛和三人行！當她在工作室裡被操弄和移動時，她神聖的 Q 罩杯乳房會擺動和搖晃，而無休止的活塞式動作仍在走廊、樓梯和廁所中繼續！她被猛幹得越多，就變得越敏感，而且高潮得越多！她高潮的次數越多，她的性慾就越旺盛，她變得如此興奮，以至於她想要一根雞巴同時插入她的嘴和陰道！她一直被雞巴包圍著，她的陰部無法逃脫高潮，因為她在 6P 群交中達到了淫穢的高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083232561561.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/20250313083232561561.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7554",
+  "actresses": [
+    {
+      "name": "Himari",
+      "img_url": "https://picture.yoshiclub.xyz/20240413/b745c0b9-e4ea-4aa3-b24f-fd6359111922.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7554&name=Himari"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230123/5996871BB391607F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98925,
+  "IDcode": "MIGD-439",
+  "title": "現役女子大生 ショートカットの文化系美少女処女喪失 斉藤みずき",
+  "publish_date": "2012-02-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "处女",
+    "首次亮相",
+    "数位马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/migd439/migd439pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98925",
+  "actresses": [
+    {
+      "name": "斉藤みずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98925&name=斉藤みずき"
+    }
+  ]
+};

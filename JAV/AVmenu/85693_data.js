@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/17/ea9c92e9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85693,
+  "IDcode": "NATR-670",
+  "title": "息子の嫁を妄想で寝取る義父 若月みいな",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85693",
+  "actresses": [
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85693&name=若槻みづな"
+    }
+  ]
+};

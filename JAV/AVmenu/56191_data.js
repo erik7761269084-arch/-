@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56191,
+  "IDcode": "3A201511B309F83C91A51F5125E1E182",
+  "title": "魔法少女被轮奸",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56191",
+  "actresses": []
+};

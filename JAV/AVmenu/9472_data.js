@@ -1,0 +1,91 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a928b7d0-9f75-4dc5-aab9-9b70c47a35af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9472,
+  "IDcode": "DOKS-621",
+  "title": "後宮天國！ ！看著就覺得爽的自慰俱樂部（2）",
+  "publish_date": "2025-01-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "企畫",
+    "無做愛場面",
+    "蕩婦",
+    "形象俱樂部",
+    "口交",
+    "比基尼",
+    "蠻橫嬌羞",
+    "淫語",
+    "後宮系",
+    "打手槍",
+    "美少女",
+    "女僕制服",
+    "情趣內衣",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "精選總編集",
+    "足交",
+    "兩女一男",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250101/dbadd52c-0e91-47cf-8a20-9da11003a340.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250101/dbadd52c-0e91-47cf-8a20-9da11003a340.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9472",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=由良佳奈"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=绫濑心"
+    },
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=宇流木沙羅"
+    },
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=千石もなか"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=真木今日子"
+    },
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=朝比ゆの"
+    },
+    {
+      "name": "祈山愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240502/682c0d3c-91ee-42e3-9655-a0afab6d2c2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=祈山愛"
+    },
+    {
+      "name": "美泉咲",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250508/c6110630-9aba-4a3b-ae1b-fe543e70315c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=美泉咲"
+    },
+    {
+      "name": "華澄結愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/0ec06eb3-2da2-4c20-93f7-daee191f452a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=華澄結愛"
+    },
+    {
+      "name": "杉崎みさき",
+      "img_url": "https://picture.yoshiclub.xyz/20240612/9773dc91-c031-429e-969c-c1575b1799f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9472&name=杉崎みさき"
+    }
+  ]
+};

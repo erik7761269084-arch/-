@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230724/te9d0wVe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87329,
+  "IDcode": "CEMD-235",
+  "title": "感じすぎていっぱいおもらしごめんなさい…38 唯奈みつき",
+  "publish_date": "2022-09-24",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "淫乱，真实",
+    "放尿",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/f3e08f9f9fd6caae107e3eba380bcb72.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87329",
+  "actresses": []
+};

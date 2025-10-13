@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d5642de1-b484-4b9d-a6a3-a68cf3991183/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16780,
+  "IDcode": "MIRD-235",
+  "title": "我的父母幫我請了四位私人導師，因爲我學習不好......！總共 14 次射精和 9 次體內射精！ ASMR 髒話自慰耳語天堂！",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "女教師",
+    "吞精",
+    "ASMR顱内高潮",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "多P",
+    "美腳",
+    "情趣內衣"
+  ],
+  "description": "MIRD-235为MOODYZ出品,2024年1月23日发行的有碼成人影片由倉本菫，愛寶鈴，月乃露娜，花狩舞出演\n【4位導師中出生活】【14次射精後宮】我太笨了，不敢想象，最後我的父母給了我4位導師！來我家的老師們都很可愛……我心裏這麼想，但他們不但沒有跟他們打招呼，反而突然給我口交了！四個人的舌頭糾纏在一起！性教育就這樣開始了，無論醒着還是睡着，！隨心所欲地選擇老師的陰部和中出！ “你能乘以多少倍？感覺好多少倍？”她的理智被炸飛，腦袋和雞雞都空了，包括支持射精的個人指導\n【4位導師中出生活】【14次射精後宮】我太笨了，不敢想象，最後我的父母給了我4位導師！來我家的老師們都很可愛……我心裏這麼想，但他們不但沒有跟他們打招呼，反而突然給我口交了！四個人的舌頭糾纏在一起！性教育就這樣開始了，無論醒着還是睡着，！隨心所欲地選擇老師的陰部和中出！ “你能乘以多少倍？感覺好多少倍？”她的理智被炸飛，腦袋和雞雞都空了，包括支持射精的個人指導",
+  "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084949979979.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240112/20240112084949979979.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16780",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16780&name=倉本菫"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16780&name=月乃露娜"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16780&name=花狩舞"
+    },
+    {
+      "name": "愛寶鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/8a4b0db0-67d0-448f-9b65-6c444a9a499b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16780&name=愛寶鈴"
+    }
+  ]
+};

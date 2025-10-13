@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241218/7Ttfoojm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76246,
+  "IDcode": "ETQR-113",
+  "title": "エッチな秘書と夢の社長体験！河北はるな",
+  "publish_date": "2019-11-30",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "眼镜",
+    "中出",
+    "秘书",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76246",
+  "actresses": [
+    {
+      "name": "河北春菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/11153449-5c21-4d03-8bc6-21990115b70a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76246&name=河北春菜"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/DmCiKRFU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72890,
+  "IDcode": "HAWA-279",
+  "title": "素人妻が一般大学生の自宅にコンドーム1つ渡され一泊 一度のゴム姦では満足できず宿泊中2度もガチ中出しを許してしまう 騎乗位がお好きなスレンダー妻 ゆうこさん36歳",
+  "publish_date": "2022-06-23",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "已婚妇女",
+    "女上位",
+    "第一人称摄影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72890",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72890&name=篠田优"
+    }
+  ]
+};

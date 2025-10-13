@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/18/99862f05/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72392,
+  "IDcode": "SOE-655",
+  "title": "交わる体液、濃密セックス 乱れ咲き温泉編 吉沢明歩",
+  "publish_date": "2011-10-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "69",
+    "颜射",
+    "薄马赛克",
+    "浴衣",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72392",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72392&name=吉沢明歩"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72392&name=森林原人"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72392&name=小田切ジュン"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72392&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100356,
+  "IDcode": "230ORECO116",
+  "title": "朋友街上被拾獲要求做愛 剛開始有點尷尬到後期難捨難分",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100356",
+  "actresses": []
+};

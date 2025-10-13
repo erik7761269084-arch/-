@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/d23ae8eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 117616,
+  "IDcode": "FC2PPV-4582583H",
+  "title": "罩杯巨乳面包店招牌艾丽卡",
+  "publish_date": "2025-06-29",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=117616",
+  "actresses": []
+};

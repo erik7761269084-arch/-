@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230308/D1C1A3B87B4935C8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100027,
+  "IDcode": "SOE-848",
+  "title": "秘密捜査官の女2 堕ちていく裏切りのエージェント 麻美ゆま",
+  "publish_date": "2012-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "凌辱",
+    "强奸",
+    "薄马赛克",
+    "女检察官",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/soe848/soe848pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100027",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100027&name=大岛丈"
+    },
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100027&name=麻美由真"
+    }
+  ]
+};

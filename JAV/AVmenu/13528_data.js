@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1636f977-40c0-49ab-9bbe-f1fbd748637c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/09/dffd947d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13528,
+  "IDcode": "JUQ-796",
+  "title": "每周三天，我都會在深夜兼職工作，以緩解孤獨感，並與一位年輕的兼職工人一起沉迷於中出風流直到黎明，這讓我忘記了無聊的丈夫。白石茉莉奈",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "按摩棒",
+    "熟女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-796为MADONNA出品,2024年7月9日发行的有碼成人影片由白石茉莉奈出演\n今天我也是一個人起床。我往隔壁看去，並沒有看到我先生。她總是在凌晨看到丈夫的臉，幾乎不碰他準備的早餐，甚至當我告訴他今天要在便利商店工作到很晚時，他也沒有表現出任何擔心的跡象。第一天，年輕的高級兼職工人Kakeru-kun親切地教我如何工作，因為這是我的第一份兼職工作，我不太習慣。常常獨自工作，兩個人的距離漸漸拉近，每一次打工，我都感覺深夜空虛的孤獨感越來越濃…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705012756503503.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705012756503503.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13528",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13528&name=白石茉莉奈"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13528&name=ナイアガラ翔"
+    }
+  ]
+};

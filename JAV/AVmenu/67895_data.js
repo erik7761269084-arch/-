@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/09/d35a87fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67895,
+  "IDcode": "HMN-325",
+  "title": "普段は相手にしてくれない女の子に恋人催●をかけておじさんぽデート後イチャラブ中出し 白桃はな",
+  "publish_date": "2023-02-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/7fc7763ab4a65cf674d0a15709c404eb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67895",
+  "actresses": [
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67895&name=白桃はな"
+    }
+  ]
+};

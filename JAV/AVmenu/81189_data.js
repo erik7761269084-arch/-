@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/25/e0d6f2ca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81189,
+  "IDcode": "MEYD-746",
+  "title": "本番なしのマットヘルスに行って出てきたのは隣家の高慢な美人妻。弱みを握った僕は本番も中出しも強要！店外でも言いなりの性奴●にした 森沢かな",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "白天出轨",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/7fef8fa2cae269725366a6e496b4b5b0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81189",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81189&name=森澤佳奈"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/5987646a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 114167,
+  "IDcode": "FC2-3103585",
+  "title": "漂亮主妇光天化日之下在厨房做爱",
+  "publish_date": "2025-09-27",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/26/f15b96e3c676e94790934c3396f16847.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=114167",
+  "actresses": []
+};

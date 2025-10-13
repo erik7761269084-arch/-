@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/30/999f22f0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82404,
+  "IDcode": "GVG-919",
+  "title": "義父と嫁、密着中出し交尾 八乃つばさ",
+  "publish_date": "2019-08-15",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82404",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82404&name=八乃翼"
+    }
+  ]
+};

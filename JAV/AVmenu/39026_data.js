@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221128/A477E0A68BB10EAE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39026,
+  "IDcode": "40BA9A308FFD555499671D5E909AD58B",
+  "title": "SWAG 可愛い細身モデル体型な18歳BB",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39026",
+  "actresses": []
+};

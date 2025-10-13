@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240409/ueMA3pu7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101739,
+  "IDcode": "SIRO-5239",
+  "title": "【日課のオナニーは1日5回】ドキドキの初撮影に挑む現役JD！敏感体質のせいで撮影なのに潮吹きが止まらなくて何度も絶頂！ 【初撮り】ネットでAV応募→AV体験撮影 2133",
+  "publish_date": "2024-03-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "无毛",
+    "女大学生",
+    "第一人称摄影",
+    "苗条",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101739",
+  "actresses": []
+};

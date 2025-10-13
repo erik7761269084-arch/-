@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/18272312-f28d-4874-ad0c-3b4a3b055795/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/28/8ab40952/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9192,
+  "IDcode": "JUR-129",
+  "title": "時薪：3,000日元 這是一份簡單的工作，只要把屁股翹起來...... 貞潔的妻子被虛假廣告引誘，被人操。高梨真緒",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "多P",
+    "偷拍・盜撮",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "出軌",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUR-129为MADONNA出品,2025年1月14日发行的有碼成人影片由高梨真緒出演\n「那個工作機會一定是騙人的吧？」當了幾年全職家庭主婦後，我想再次工作，正在找工作，這時我看到了一份時薪為 3,000 日元的工作機會。申請指南只規定該工作僅限女性，並且要求學生穿裙子和褲襪，所以我丈夫認為我申請這樣的事情很天真。為了再次見到丈夫，她去面試，並立即被臨時聘用。我的辦公室工作大多很簡單，但有一天，他們在更衣室裡發現了一台攝影機在偷拍我換衣服…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080646265265.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250109/20250109080646265265.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9192",
+  "actresses": [
+    {
+      "name": "高梨真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241004/2235ce1d-55fa-49ff-b68d-2335c22a01f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9192&name=高梨真緒"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9192&name=大岛丈"
+    }
+  ]
+};

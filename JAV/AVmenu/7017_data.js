@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b74744d2-97ff-41f6-96f7-f52837a6a600/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/12/daf4959b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7017,
+  "IDcode": "JUR-288",
+  "title": "午前的門鈴聲 欲求不滿的鄰居人妻突然上門… ～ 美之嶋惠理",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "奇聞趣事",
+    "美人妻",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "奇異的",
+    "NTR",
+    "美人",
+    "熟女"
+  ],
+  "description": "JUR-288为MADONNA出品,2025年4月8日发行的有碼成人影片由美之島惠理出演\n白搬到東京上大學。我決定獨自生活，所以我做的第一件事就是去鄰居家打招呼。出來的人是來自同一個家鄉的已婚婦女兼可愛女性巡莉。他們立刻一拍即合，Shiro 感到鬆了一口氣，但…與此同時，Meguri 的丈夫欺騙了她，她每天都沒有性生活且感到沮喪。然後，像白這樣的帥哥出現了，她的陰部開始抽動。然後有一天，Shiro 家的對講機響了。我小心翼翼地從貓眼往裡看，看到巡莉站在那裡，臉上帶著微笑，眼睛閃閃發光…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/202504030935493939.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/202504030935493939.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7017",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7017&name=美之島惠理"
+    }
+  ]
+};

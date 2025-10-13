@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47626601-7c72-49b5-b2f3-7999298db104/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7998,
+  "IDcode": "JYMA-076",
+  "title": "援交現場被偷拍，虐戀寵物巨乳人妻家教教師成爲渣男親子的性處理玩具 ~ 星明日奈",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "胖女人",
+    "應召・援交",
+    "騎乗位",
+    "局部特寫",
+    "性感",
+    "家庭教師",
+    "緊縛",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "猥褻穿著",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094415806806.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220094415806806.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7998",
+  "actresses": [
+    {
+      "name": "星明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240113/8440afe2-37f9-4684-bee8-1dd1fcc223a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7998&name=星明日菜"
+    }
+  ]
+};

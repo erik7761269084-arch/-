@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240310/Z1njux2p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91044,
+  "IDcode": "CAWD-447",
+  "title": "CAWD-447",
+  "publish_date": "2023-02-03",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "制服",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91044",
+  "actresses": [
+    {
+      "name": "伊藤舞雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/8926413a-85ad-46dd-897e-24b65bcb4d3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91044&name=伊藤舞雪"
+    }
+  ]
+};

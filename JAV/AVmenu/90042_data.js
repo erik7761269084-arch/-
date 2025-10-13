@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240110/fArqq4qz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90042,
+  "IDcode": "PRED-522",
+  "title": "元地方局アナウンサー 生まれて初めての中出し解禁！いきなり9発注入 危険日直撃SP 広瀬ゆり",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "女上位",
+    "女主播",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240111-1/b97659aeafa24871fd6909f3908bc89f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90042",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90042&name=廣瀨百合"
+    }
+  ]
+};

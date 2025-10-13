@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/13/cf916cd6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82434,
+  "IDcode": "FSET-873",
+  "title": "深夜のバイトシフトで一緒になったJ●と二人きりに！ いたいけなうぶマンに手を出したら驚くほど感じまくってた",
+  "publish_date": "2020-03-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "制服",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/f23ded57ce1edc4646562e81eb9128db.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82434",
+  "actresses": [
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82434&name=神野雛"
+    },
+    {
+      "name": "桃尻かのん",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/a50d2415-1002-4f26-8f39-2a6deebe896d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82434&name=桃尻かのん"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82434&name=小田切ジュン"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82434&name=冬爱琴音"
+    }
+  ]
+};

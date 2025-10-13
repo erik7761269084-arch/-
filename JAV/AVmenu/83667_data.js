@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/wJ9nY7yn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83667,
+  "IDcode": "KCDA-270",
+  "title": "極上バディ 水野朝陽",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "DIGITALARK",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "姐姐",
+    "荡妇",
+    "屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83667",
+  "actresses": [
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83667&name=水野朝陽"
+    }
+  ]
+};

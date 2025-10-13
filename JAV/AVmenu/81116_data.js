@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/21/ad91e18e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81116,
+  "IDcode": "SDNM-303",
+  "title": "何でも出来るって思われる…でも本当は甘えたい時もあるんです 末永愛理 29歳 第2章 もう清純ないい妻ではいられない！今までにない快感と快楽で意識が遠のき7人の男を相手に腰が砕けるまで性に溺れた2日間",
+  "publish_date": "2021-10-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/92101e5fc52d652f0a0f60e79099fea4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81116",
+  "actresses": []
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/4u9YkGVb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76171,
+  "IDcode": "FSET-859",
+  "title": "こんな所で大量放尿？！口止めがわりにフェラチオさせたらガマンできずにお漏らしする女",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "学校作品",
+    "颜射",
+    "口交",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/0a8439f208bb0429705032687190d513.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76171",
+  "actresses": [
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=加藤あやの"
+    },
+    {
+      "name": "葵玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/7495050f-58ca-4c8d-b86b-f9eb6c06f727.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=葵玲奈"
+    },
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=若槻みづな"
+    },
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=望月理沙"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=浅田结梨"
+    },
+    {
+      "name": "海空花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76171&name=海空花"
+    }
+  ]
+};

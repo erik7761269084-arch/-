@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1040232a-44ec-45a0-abe7-e85c1bd7b5c3/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/27/d0401f0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13100,
+  "IDcode": "ABF-131",
+  "title": "ULTRA HOT SEX 八掛海蒸發中。興奮的液體狂飆。 ~ 加熱到身體核心的 HOT 核心氣體 ~ 03",
+  "publish_date": "2024-08-01",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "按摩棒",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "ABF-131为蚊香社出品,2024年8月1日发行的有碼成人影片由八掛海出演\n與 Prestige 專屬女演員“Yakake Umi”一起激發身體的核心熱情！ 【蒸】在向上彎曲的勃起陰莖面前被挑逗到極致後，貪婪地舔舐每一個角落，最後將濃稠的精液吞下去！ 【潮吹】用腳間性交和打手槍玩弄受虐狂男人的雞巴，折磨他直到他傳播男人潮！ 【沸騰】在最大自由感的露天浴池中，掀起水沸騰的高潮風暴！ 「燒海」忘卻鏡頭，用火熱激烈的性愛互相追逐，全身冒出蒸氣！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240725/d1cd3896-601b-45c8-90a6-c9cd07ce164c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240725/d1cd3896-601b-45c8-90a6-c9cd07ce164c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13100",
+  "actresses": [
+    {
+      "name": "八掛海",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/f551ef55-83f0-457e-b900-ad16708e5d03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13100&name=八掛海"
+    },
+    {
+      "name": "八挂うみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13100&name=八挂うみ"
+    }
+  ]
+};

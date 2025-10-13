@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/03/103a40cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76525,
+  "IDcode": "MOPP-096",
+  "title": "生意気メスガキ幼馴染みにクソ雑魚マゾだと見抜かれてわからせられる逆アナル 白石もも",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "童年朋友",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76525",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76525&name=白石桃"
+    }
+  ]
+};

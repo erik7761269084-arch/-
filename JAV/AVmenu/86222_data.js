@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/29/acbe0b08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86222,
+  "IDcode": "SSIS-046",
+  "title": "彼女が旅行で不在の間、彼女のGカップ妹と朝から晩までひたすらハメまくった72時間の記録。 天音まひな （ブルーレイディスク）",
+  "publish_date": "2021-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "荡妇",
+    "妹妹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86222",
+  "actresses": [
+    {
+      "name": "あまねまひな",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/天音まひな.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86222&name=あまねまひな"
+    }
+  ]
+};

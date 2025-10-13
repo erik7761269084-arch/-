@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/ef92e28f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79104,
+  "IDcode": "JUL-695",
+  "title": "- NGR ―ナガサレ― 義兄に犯●れ初めての絶頂を知った嫁 愛弓りょう - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/b97f977b05e7ea5370d481797540c977.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79104",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79104&name=愛弓涼"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230504/368D9F5B28447E08/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65931,
+  "IDcode": "C8D58CCFEA50B4E604F6A73E11AE2C3E",
+  "title": "[日本] 杉崎惠破坏版AV～客人要求就要陪睡的保险业务人妻～ (DTT-072)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65931",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220927/C3B5FBDCA1771F75/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65644,
+  "IDcode": "2AD94DEE23D8DECD5C8C836E401E92FB",
+  "title": "展现笑脸的阿波舞妹子！开朗正直E罩杯苗条女大生想体验舒服10倍性爱AV出道档案！绀野美衣奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65644",
+  "actresses": []
+};

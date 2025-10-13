@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230327/151B0108954B01C7/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64724,
+  "IDcode": "30FF63639F27727F6494DAB8535AA3D-8",
+  "title": "新疆少妇马琳：“我是你的骚母狗，主人你的鸡巴好吃”爽到直接口爆 1！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64724",
+  "actresses": []
+};

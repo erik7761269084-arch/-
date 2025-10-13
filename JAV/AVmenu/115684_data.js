@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/46f7d052/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115684,
+  "IDcode": "FC2-3782213",
+  "title": "清纯的保育员",
+  "publish_date": "2025-08-27",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/26/51e2508291988d0cd3a7717d4baab003.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115684",
+  "actresses": []
+};

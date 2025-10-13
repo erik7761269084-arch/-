@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/9306332f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113670,
+  "IDcode": "FC2-2255291",
+  "title": "成人偶像公演",
+  "publish_date": "2025-10-08",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/07/85e4d07ee728068d8a5e3388cccbd51d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113670",
+  "actresses": []
+};

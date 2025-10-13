@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230907/D3CH1j4z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36644,
+  "IDcode": "LEGS-JAPAN",
+  "title": "915把你弄射有很多种办法",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "GOGOS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36644",
+  "actresses": []
+};

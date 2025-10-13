@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/fee9ec5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69362,
+  "IDcode": "CEMD-669",
+  "title": "- 長身美女が言いなりになるナマ中出し乱交温泉旅行 木野々葉えりか - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "高",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69362",
+  "actresses": [
+    {
+      "name": "木野野葉惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20240316/b6637edd-a100-49c5-b22a-eb8c2822f9c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69362&name=木野野葉惠里香"
+    }
+  ]
+};

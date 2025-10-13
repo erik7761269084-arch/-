@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/8adcd160/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68792,
+  "IDcode": "TOTK-007",
+  "title": "調教強●スペルマ大量ごっくん！ニューハーフ好き変態マニアの乱交サークル 松嶺こはく",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "吞精",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/8adcd160/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68792",
+  "actresses": [
+    {
+      "name": "松嶺こはく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68792&name=松嶺こはく"
+    }
+  ]
+};

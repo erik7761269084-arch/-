@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221123/5EAC8EDDDCEFB1BA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38765,
+  "IDcode": "3E118259CD791B82270BB3887F91D0B-1",
+  "title": "援交-7",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38765",
+  "actresses": []
+};

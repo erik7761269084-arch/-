@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/08/c37b2f77/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85486,
+  "IDcode": "MIDV-222",
+  "title": "最高級奴隸拍賣會 今天開始我就是最爛資產家大叔的肉便器 葵伊吹",
+  "publish_date": "2022-10-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "淫乱，真实",
+    "拘束",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230125-1/241bd8d6bce02295654af46d02917a65.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85486",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85486&name=葵伊吹"
+    }
+  ]
+};

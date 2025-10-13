@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240707/dsEjpXIy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97115,
+  "IDcode": "DVRT-002",
+  "title": "瘋狂盛開的按摩棒之路 濱崎真緒",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "中出",
+    "荡妇",
+    "乱伦",
+    "妹妹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97115",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97115&name=浜崎真绪"
+    }
+  ]
+};

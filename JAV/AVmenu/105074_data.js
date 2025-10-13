@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/18/21f982a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105074,
+  "IDcode": "AMBI-072",
+  "title": "犯され壊されたちっぱい娘 ゆい18歳 早乙女ゆい",
+  "publish_date": "2017-01-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "萝莉塔",
+    "强奸",
+    "监禁",
+    "瘦小身型",
+    "平胸",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/18/2fd4acd560de64e591486599fb00bfa0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105074",
+  "actresses": [
+    {
+      "name": "早乙女ゆい",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/24b8172406fc24ae49b04c08e169ae0c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105074&name=早乙女ゆい"
+    }
+  ]
+};

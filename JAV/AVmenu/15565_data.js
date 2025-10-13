@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/33e1c4c1-600e-4055-b6a2-d3b8b514270f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15565,
+  "IDcode": "JUQ-624",
+  "title": "乘夜班公車被中出的妻子 ~ 講述了一個人妻去找在新工作，被人無情中出將她變成一個聽話女人的故事 ~ 木下凜々子",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "痴漢",
+    "劇情",
+    "搭訕",
+    "電車",
+    "強姦",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "熟女"
+  ],
+  "description": "JUQ-624为MADONNA出品,2024年4月9日发行的有碼成人影片由木下凜々子出演\n我在去面試的夜間巴士上遇到了一位已婚婦女莉莉子。在路上，我認識了莉莉子，她告訴我她要去拜訪獨自外出的丈夫。過了一會兒，熄燈時間通知響起，正當我難以入睡時，凜子性感的身體吸引了我的目光。看到凜子睡著了，我掀起她的裙子，把手指伸進她的褲子裡。已經濕濕的胯部，溫熱的觸感讓我想要更進一步…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406071550971971.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240406/20240406071550971971.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15565",
+  "actresses": [
+    {
+      "name": "木下凜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20240511/c1a5a9d6-6708-4a6b-8bbd-24d72cbc6018.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15565&name=木下凜々子"
+    }
+  ]
+};

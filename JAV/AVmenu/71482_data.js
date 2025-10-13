@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/NtQ8oIVi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71482,
+  "IDcode": "HAWA-127",
+  "title": "夫に内緒で他人棒SEX「実は主人の精液も飲んだことないんです」30歳すぎて初めての精飲 超変態超ドMな美人妻 のぞみさん32歳",
+  "publish_date": "2018-01-11",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "4小时以上作品",
+    "已婚妇女",
+    "吞精",
+    "企画",
+    "业余",
+    "拘束",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71482",
+  "actresses": [
+    {
+      "name": "桐岛莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220050303303_36216_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71482&name=桐岛莉乃"
+    }
+  ]
+};

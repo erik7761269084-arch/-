@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/02/474b8bc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113893,
+  "IDcode": "FC2-3180356",
+  "title": "在度假酒店搭讪的美女明星与三个欲火焚身的男生4P性爱",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113893",
+  "actresses": []
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/10/a869516e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106944,
+  "IDcode": "IPZ-582",
+  "title": "タイトスカート 痴女医の淫らな誘惑 Shelly",
+  "publish_date": "2015-06-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "荡妇",
+    "屁股",
+    "数位马赛克",
+    "恋腿癖",
+    "女医生",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106944",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106944&name=玉木玲"
+    },
+    {
+      "name": "藤井シェリー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106944&name=藤井シェリー"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230408/268faa6e-3a5c-43d0-96ee-0160256418e4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19514,
+  "IDcode": "MEYD-469",
+  "title": "絕倫老爹讓妻發情危險日夜襲還中出 希島愛理",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "蕩婦",
+    "人妻",
+    "出軌",
+    "大雞巴"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230408/c2beb343-9691-4421-a91a-d1880dfc09b9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230408/c2beb343-9691-4421-a91a-d1880dfc09b9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19514",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19514&name=希島愛理"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1dea338-6c16-432d-8f80-a65f4c6ac398/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1231,
+  "IDcode": "HEYZO-2398",
+  "title": "新入社員成為玩具搞上件 前編 遠藤光",
+  "publish_date": "2020-11-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "3P・4P",
+    "中出",
+    "OL",
+    "素人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230915/20230915001601506506.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230915/20230915001601506506.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1231",
+  "actresses": []
+};

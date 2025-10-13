@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/14/3d4164e3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76530,
+  "IDcode": "SOE-458",
+  "title": "青姦痴態 藤浦めぐ",
+  "publish_date": "2010-09-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "户外",
+    "潮吹",
+    "薄马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/72d12031a7e7554b08a891a94ad8a286.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76530",
+  "actresses": [
+    {
+      "name": "藤浦惠",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3b7c492b-4daa-484b-b5f9-8c582526636e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76530&name=藤浦惠"
+    }
+  ]
+};

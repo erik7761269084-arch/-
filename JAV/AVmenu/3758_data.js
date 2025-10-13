@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c637136e-a0ac-4638-a34b-5695e660c39b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/29/0ad3245a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3758,
+  "IDcode": "RKI-717",
+  "title": "正逢發情期的修女姐姐好想擺脫處女之身 ~ 木下日葵",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "修女",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "搭訕",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "奇聞趣事",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "公共場所",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "RKI-717为ROOKIE出品,2025年8月7日发行的有碼成人影片由木下日葵出演\n身为一心侍奉神职的修女诺拉·艾莉，正值适婚年龄，却对自己的未来迷茫不已。看着身边闺蜜一个个结婚，过着幸福生活，天天啪啪啪，而自己却还是个处女，难道就要这样孤独终老吗？这是幸福吗？内心纠结的她，过着压抑的生活，只能靠在修道服下穿上超辣内衣，感受那份禁忌的刺激来麻痹自己。直到那个帅到爆的男人意外闯进教堂……她的欲望彻底爆发！逆袭勾搭男人，疯狂中出，处女之身一夜丧失，爽到灵魂出窍！这部片子改编自FANZA同人榜首作品，剧情硬核又带感，色气满满，绝对让你血脉喷张！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030745713713_33348_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030745713713_33348_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3758",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3758&name=木下日葵"
+    }
+  ]
+};

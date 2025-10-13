@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/faaf0752-50ed-4b5e-ac6a-5ef6baf97695/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/59726501/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9107,
+  "IDcode": "ABF-191",
+  "title": "我們生個孩子吧？ 子宮深出發出的乞求中出的懇願 4場景 ~ 蒼乃美月",
+  "publish_date": "2025-01-16",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "手指插入",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "ABF-191为蚊香社出品,2025年1月16日发行的有碼成人影片由蒼乃美月出演\n蚊香社专属女优“苍乃美月（22岁）”求中出！ ①苍乃美月因老师调皮的目光而变得性欲旺盛，放下学业，乞求中出性爱！ ②加班自慰时，发现同事偷看我，给她真空口交！ ③拉伸时腹股沟肿胀的幸运男孩的足交！一次射精无法遏制的活力阴茎深入阴道，恳求中出！ ④ 乖乖兔女郎与大男优激烈3P中出！精液被一滴又一滴地注入，让她的阴部变得浑浊！ 请享受苍乃美月发自子宫里渴望的11次内射和4场景",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/4b328d93-21eb-40d2-8968-36af0a1f4db3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/4b328d93-21eb-40d2-8968-36af0a1f4db3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9107",
+  "actresses": [
+    {
+      "name": "蒼乃美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231208/4dc98d20-c362-4e82-a356-cbe6a730a902.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9107&name=蒼乃美月"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9107&name=鲛岛"
+    }
+  ]
+};

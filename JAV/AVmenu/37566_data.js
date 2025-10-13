@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220716/8883862E4233EED2/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37566,
+  "IDcode": "CE6D7217F96DDBA27B0FD1080F559C-91",
+  "title": "我的穴穴想要哥哥的精液",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37566",
+  "actresses": []
+};

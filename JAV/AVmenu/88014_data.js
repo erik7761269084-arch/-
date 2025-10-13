@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/11/a5081eaf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88014,
+  "IDcode": "ECB-138",
+  "title": "君が、乳首でイケますように◆ 松本いちか",
+  "publish_date": "2020-07-31",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230904-1/69f4c02bf2db3b9691d9be2f42bbc11e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88014",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88014&name=松本一香"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88014&name=玉木玲"
+    }
+  ]
+};

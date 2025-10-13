@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e1d10c2e-dee7-42f5-89f5-816cd22f6811/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12274,
+  "IDcode": "START-155",
+  "title": "SOD總部一日員工體驗！出任製作部AD的宮島芽衣進行了演講、訪談、說明會！一直在做愛的恥辱工作！",
+  "publish_date": "2024-09-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "清純",
+    "辦公室",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240903/c0a98441-d8cf-4296-b052-08481f8bcc1f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240903/c0a98441-d8cf-4296-b052-08481f8bcc1f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12274",
+  "actresses": [
+    {
+      "name": "宮島芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20241126/9ac5abc7-e67d-467d-8830-357eff61bf9a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12274&name=宮島芽衣"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fed6d953-b71d-43ac-af4d-e742e85d375c/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/SuyyYdnW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13307,
+  "IDcode": "MVG-093",
+  "title": "緊縛學院 ~ 天馬唯",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "調教",
+    "深喉",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "過膝襪・小腿襪",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "學校",
+    "插入異物",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/7d18012b-ead8-4f4e-b246-2326a0a27e00.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/7d18012b-ead8-4f4e-b246-2326a0a27e00.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13307",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13307&name=天馬唯"
+    }
+  ]
+};

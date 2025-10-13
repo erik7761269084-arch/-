@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/03/a3eb4c13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85909,
+  "IDcode": "PPPE-068",
+  "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 小花のん",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85909",
+  "actresses": []
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/74b5486c-bf7d-436c-a624-45b1fe5eb379/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241030/s0J2BVCK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16507,
+  "IDcode": "STSK-112",
+  "title": "【個人拍攝】中出強奸8位漂亮姐姐，不能告訴父母的迷奸性愛",
+  "publish_date": "2024-02-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "苗條",
+    "中出",
+    "顏射",
+    "4小時以上作品",
+    "強姦",
+    "姐姐・妹妹",
+    "舔陰",
+    "口爆",
+    "美少女",
+    "迷奸",
+    "巨乳",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240201/2c49d334-bd48-4a1a-8112-df55e98a03e3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240201/2c49d334-bd48-4a1a-8112-df55e98a03e3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16507",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16507&name=月乃露娜"
+    },
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16507&name=鈴木真夕"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16507&name=永野司"
+    },
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16507&name=岬梓沙"
+    },
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16507&name=八乃翼"
+    }
+  ]
+};

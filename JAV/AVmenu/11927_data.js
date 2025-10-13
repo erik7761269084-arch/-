@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4bda181c-551c-45c8-b6e3-1783f67ee199/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11927,
+  "IDcode": "START-180",
+  "title": "完全主觀！在酒吧工作跳鋼管舞的兔女郎，是我的女朋友。在酒店，在更衣室，火辣甜蜜的性愛 ~ 夏目響",
+  "publish_date": "2024-10-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "風俗娘",
+    "純愛・戀愛",
+    "性感",
+    "兔女郎妝扮",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "更衣室",
+    "跳舞",
+    "高跟鞋",
+    "手指插入",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240917/aa5a6f41-9bd9-4797-b422-4dca5cc36f1a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240917/aa5a6f41-9bd9-4797-b422-4dca5cc36f1a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11927",
+  "actresses": [
+    {
+      "name": "夏目響",
+      "img_url": "https://picture.yoshiclub.xyz/20240716/ec528bca-b23f-466f-bf41-2fa4c9b031dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11927&name=夏目響"
+    }
+  ]
+};

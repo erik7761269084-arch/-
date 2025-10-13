@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/83OdM2e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74472,
+  "IDcode": "FSET-838",
+  "title": "胸チラに気付かず働く美人店員",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "各种职业",
+    "苗条",
+    "乳房",
+    "恋物癖",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/a9c083ee5b675e18023863061c87f659.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74472",
+  "actresses": [
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74472&name=绀野光"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74472&name=花笑一杏"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74472&name=小田切ジュン"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74472&name=タツ"
+    },
+    {
+      "name": "冲田里绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74472&name=冲田里绪"
+    }
+  ]
+};

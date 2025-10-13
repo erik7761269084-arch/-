@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221122/63131213C224947B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38680,
+  "IDcode": "29DBE0FD0210405C5372349B6F-245623",
+  "title": "パンツを売る女 VOL.04 やっぱり強引さは大切",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38680",
+  "actresses": []
+};

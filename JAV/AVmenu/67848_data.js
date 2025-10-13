@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250424/KRcOg3zV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67848,
+  "IDcode": "EBOD-680",
+  "title": "大手イベントガール事務所で人気No.1の可愛すぎる純白巨乳コンパニオンゆうなさん（20歳）を口説き落として生ハメしまくったマル秘中出し映像！！",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "苗条",
+    "偷窥",
+    "伴侣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/9e7420671dd67055bbdab6ce3b19f2dd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67848",
+  "actresses": [
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67848&name=黑川纱里奈"
+    }
+  ]
+};

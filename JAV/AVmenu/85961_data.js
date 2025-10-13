@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/c9dcTL2E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85961,
+  "IDcode": "PRED-433",
+  "title": "元地方局アナウンサー 敏感すぎるッ 初体験づくし4本番 西野絵美",
+  "publish_date": "2022-09-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "第一人称摄影",
+    "口交",
+    "女主播",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/7f8778d0487554247def4e6ee246470e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85961",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85961&name=西野絵美"
+    }
+  ]
+};

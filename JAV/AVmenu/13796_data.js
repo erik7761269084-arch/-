@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d0def737-2f2d-4087-9506-4dd1f5fbd067/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13796,
+  "IDcode": "JUQ-734",
+  "title": "和出差時認識的人妻CA意氣相投，在一個房間做愛一晚……浜辺栞帆",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "制服",
+    "口交",
+    "性感",
+    "不倫",
+    "鄰居",
+    "艷遇",
+    "人妻",
+    "空姐",
+    "出軌",
+    "NTR",
+    "熟女",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "JUQ-734为MADONNA出品,2024年6月25日发行的有碼成人影片由浜辺栞帆出演\n正在博多出差的 Atsushi 因回程航班取消而感到不知所措。在休息室向我走來的 CA 原來是 Shioriho，一位來自附近的樸素妻子。當他們一拍即合地度過了一個愉快的夜晚時，由於找不到酒店房間，Atsushi 同意與 Shioriho 住在一間共用房間...此後，Atsushi 繼續以出差為藉口，在機場和商務目的地對女友不忠。行為逐漸升級，他開始和詩織玩耍，而不是做他不能和妻子做的事情。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621012501824824.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621012501824824.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13796",
+  "actresses": [
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13796&name=浜辺栞帆"
+    }
+  ]
+};

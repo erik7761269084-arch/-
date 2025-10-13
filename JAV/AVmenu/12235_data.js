@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4890aa4f-b07c-4f67-b50b-590ff6f9f183/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/04/90402866/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12235,
+  "IDcode": "NACR-854",
+  "title": "被宿舍管理員收留，淪爲肉便器的女職員 ~ 都崎あやめ",
+  "publish_date": "2024-09-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "多P",
+    "自慰",
+    "人妻",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240905/c8139ba7-c4d6-44b4-bd52-f8030e8e19e6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240905/c8139ba7-c4d6-44b4-bd52-f8030e8e19e6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12235",
+  "actresses": [
+    {
+      "name": "都崎あやめ",
+      "img_url": "https://picture.yoshiclub.xyz/20240905/c7a0d456-5bbf-481f-b1fd-3eb6f013f46e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12235&name=都崎あやめ"
+    }
+  ]
+};

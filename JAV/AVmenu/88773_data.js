@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/dQLk0Vs3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88773,
+  "IDcode": "WAWA-017",
+  "title": "コスプレでイカされ潮吹きアクメ！ 響乃うた ブロマイド付き",
+  "publish_date": "2023-10-26",
+  "type": "有码",
+  "company": "HAWAII",
+  "genres": [
+    "美少女",
+    "中出",
+    "潮吹",
+    "猫耳女",
+    "角色扮演者",
+    "迷你裙警察",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/6e1478cf9746869a92e07444ea9cf103.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88773",
+  "actresses": [
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88773&name=響乃詩"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220830/70D5F0A518B503E6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64589,
+  "IDcode": "33708A76F92E0E811064DB716660E-757",
+  "title": "- 【初撮り】【柳腰奥突きバック】【少女の颜が大人の颜に変わる瞬间】エッチなことに兴味津々な等身大の大学生。耻ずかしさを笑颜で误魔化していた彼女だったが、许容范囲を超える快感の连続に笑颜をだらしない荡け颜に変えて.. 応募素人、初AV撮影 224 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64589",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230119/F6114C5BF2708A4C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103145,
+  "IDcode": "FSDSS-198",
+  "title": "着せ替えパイパン美少女メイド 24時間性玩具女中 川北メイサ",
+  "publish_date": "2021-04-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "无毛",
+    "女佣",
+    "主观视角",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fsdss198/1fsdss198pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103145",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103145&name=鳳美優"
+    }
+  ]
+};

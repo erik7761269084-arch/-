@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/07/cd79ee0e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97915,
+  "IDcode": "ADN-226",
+  "title": "愛欲の派遣マッサージ 人妻の柔肌 澤村レイコ",
+  "publish_date": "2019-09-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "按摩"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn226/adn226pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97915",
+  "actresses": [
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97915&name=高坂ますみ"
+    }
+  ]
+};

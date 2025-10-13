@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb8d35ac-6e3f-4f32-88d8-354807e45be2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15569,
+  "IDcode": "JUQ-635",
+  "title": "束縛，束縛，釋放，禁止：透過麻繩喚醒受虐狂 從那天起，為了我的丈夫……我被捆綁，被戲弄，變成了肉奴。",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "性虐癖",
+    "調教",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "女奴",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "口交",
+    "性感",
+    "監禁",
+    "緊縛",
+    "人妻",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-635为MADONNA出品,2024年4月9日发行的有碼成人影片由一乃葵出演\n我們和我在工作中認識的丈夫過著幸福的婚姻生活。我已經從壽的公司退休了，但我有事瞞著丈夫…那就是她和丈夫的上司健崎先生髮生了肉體關係。我先生從來不想讓別人知道我和他信任的老闆的關係。有一天，我先生把健崎導演帶回家！？當我先生不在的時候，導演要我和他發生肉體關係，條件是我要保密我們的關係。從那天起，屈辱的日子就開始了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406071254522522.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240406/20240406071254522522.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15569",
+  "actresses": [
+    {
+      "name": "一乃葵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/dac957b6-4ace-4288-9032-f3c3ca213c2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15569&name=一乃葵"
+    }
+  ]
+};

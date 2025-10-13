@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/abf02630-8b60-46d5-adb5-a0562828d41c/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250304/EkdD95bg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19275,
+  "IDcode": "IPX-172",
+  "title": "纯正女大学生的可耻的5連羞辱性交",
+  "publish_date": "2018-07-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "肛交",
+    "自拍性愛",
+    "潮吹",
+    "數位馬賽克",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230610/20230610010733580580.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230610/20230610010733580580.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19275",
+  "actresses": [
+    {
+      "name": "结城乃乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230621/2a2a6ef3-85bb-4c82-b090-2a6683c70903.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19275&name=结城乃乃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19275&name=イセドン内村"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19275&name=玉木玲"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5be74846-649b-4cf8-ba50-43ac6e325f57/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13620,
+  "IDcode": "MGOLD-030",
+  "title": "在一次現場演出之旅中，經紀人被失意的偶像引誘並與她發生性關系 ~ 鬆下莉子",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "大小姐",
+    "絕頂高潮",
+    "偶像",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "感官作品",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "慾求不滿",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "出差",
+    "短髮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "MGOLD-030为FALENO出品,2024年8月8日发行的有碼成人影片由松下莉子出演\n我能夠擔任我所崇拜的偶像松下幸之助的經理。他很努力，但由於去的飯店出了差錯，只訂了一間房間，所以他只好和立子住一間房。我覺得一個人在飯店很尷尬，就去便利商店買了東西，但過了一會兒我回到房間，發現他正在自慰…我被我崇拜的、性慾火熱的紀子誘惑了，我的理智被打亂了，我和她發生了一整天的性關係，直到早上…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703005023382382.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240703/20240703005023382382.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13620",
+  "actresses": [
+    {
+      "name": "松下莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240507/b80c40f8-cbb5-4ddd-a499-b1ed43a6d5ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13620&name=松下莉子"
+    }
+  ]
+};

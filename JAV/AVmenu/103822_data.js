@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240502/B56vdpUY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103822,
+  "IDcode": "APAK-243",
+  "title": "淫乱に目覚めた女子社員 中出し絶頂！淫乱ドM！ゆら ～壮絶熱量の汗ダク情熱SEX！スケベ覚醒したホテル同伴出張～ 営業事務 日向ゆら",
+  "publish_date": "2023-01-07",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "颜射",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/apak243/apak243pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103822",
+  "actresses": []
+};

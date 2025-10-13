@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/iPCEFt6W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82040,
+  "IDcode": "SW-690",
+  "title": "黒パンスト女子社員の熱烈足コキ・顔騎 スカートを短くして、僕を誘惑してくる同僚にオロオロしていると、女子から抱きついてきてキスされた！大きくなったチ○ポを楽しそうにイジってきてパックリ喰べられちゃった！",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "连裤袜",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82040",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82040&name=七海雛"
+    },
+    {
+      "name": "冲田里绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82040&name=冲田里绪"
+    },
+    {
+      "name": "黒江リィナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82040&name=黒江リィナ"
+    }
+  ]
+};

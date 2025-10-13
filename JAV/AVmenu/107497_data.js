@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/28/b8defef5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107497,
+  "IDcode": "MIFD-240",
+  "title": "新人 今すぐしたいッ！ついついSNSで浮気しちゃう性欲強めな現役女子大生ヤリモクAV Debut！ 夏白麻矢 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "颜射",
+    "首次亮相",
+    "乳房",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107497",
+  "actresses": [
+    {
+      "name": "夏白麻矢",
+      "img_url": "https://picture.yoshiclub.xyz/20240321/8122ced2-c1b9-4239-b3a3-6d858d809e6c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107497&name=夏白麻矢"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230903/MhRc4uxf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 53784,
+  "IDcode": "031623-001",
+  "title": "痴魔女が一心不乱にヤりまくる！:  星野みき",
+  "publish_date": "2023-03-16",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "知名女优",
+    "最新影片",
+    "正在上映",
+    "无套内射",
+    "玩具",
+    "立即口交",
+    "淫荡手淫",
+    "打手枪",
+    "跳",
+    "口交",
+    "熟女",
+    "美乳",
+    "痴女",
+    "苗条",
+    "美脚",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=53784",
+  "actresses": []
+};

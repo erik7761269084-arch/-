@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7082ef0-5fee-4204-a3b7-87607d8ff9e4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18757,
+  "IDcode": "IPX-618",
+  "title": "只用嘴巴的話…就不算外遇對吧…？ 從嘴巴開始的口交NTR",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "大雞巴"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230909/20230909235041929929.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230909/20230909235041929929.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18757",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18757&name=明里紬"
+    }
+  ]
+};

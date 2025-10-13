@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240523/H9C2CZE1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103938,
+  "IDcode": "KTRA-485",
+  "title": "めいっ子が美少女すぎてもうガマンできない！ 4時間",
+  "publish_date": "2023-01-07",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "乱伦",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ktra485/ktra485pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103938",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103938&name=松本一香"
+    },
+    {
+      "name": "齋藤南",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250609/0dc670a7-e208-4ebb-ac8f-09e0db30efb2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103938&name=齋藤南"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103938&name=优梨まいな"
+    },
+    {
+      "name": "希望光",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103938&name=希望光"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230120/038afc06-0959-48ce-8463-15cc064ffe57/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2069,
+  "IDcode": "BD-M17",
+  "title": "口交、生強姦、溢出的精液中出：Iori Mizuki",
+  "publish_date": "2013-09-24",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "美乳",
+    "口交",
+    "足交",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/2288a5e9-6e35-4d91-a901-6e9964f09af1.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/2288a5e9-6e35-4d91-a901-6e9964f09af1.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2069",
+  "actresses": [
+    {
+      "name": "みづき伊織",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2069&name=みづき伊織"
+    }
+  ]
+};

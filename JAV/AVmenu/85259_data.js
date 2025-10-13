@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/24/57f38e01/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85259,
+  "IDcode": "MCSR-467",
+  "title": "中出し人妻不倫旅行 滝川恵理",
+  "publish_date": "2022-01-22",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85259",
+  "actresses": [
+    {
+      "name": "有沢実纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85259&name=有沢実纱"
+    }
+  ]
+};

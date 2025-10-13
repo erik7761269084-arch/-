@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/E82485E7E1D41766/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35727,
+  "IDcode": "913D9ACE0E7B15325838573D-17075852",
+  "title": "１発８０万！芸能人レベルの最強美人と個人撮影！透き通る美肌Eカップ巨乳と美マ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35727",
+  "actresses": []
+};

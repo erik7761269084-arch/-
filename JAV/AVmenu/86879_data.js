@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/09/4a6d543b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86879,
+  "IDcode": "CJOD-138",
+  "title": "アナル丸見えデカ尻で亀頭ぐりぐり淫語たっぷりの焦らしスローピストン 篠田ゆう",
+  "publish_date": "2018-04-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫语",
+    "女上位",
+    "荡妇",
+    "屁股",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/dd801e633b41fc1e2562b740ced36f2c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86879",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86879&name=篠田优"
+    }
+  ]
+};

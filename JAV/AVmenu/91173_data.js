@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/zHbzIiwv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91173,
+  "IDcode": "GVH-584",
+  "title": "ママのナマ配信 倉多まお",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "婆婆",
+    "巨乳",
+    "中出",
+    "羞耻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/1d37ebcafff17cea774cbbf72a1034bb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91173",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91173&name=仓多真央"
+    }
+  ]
+};

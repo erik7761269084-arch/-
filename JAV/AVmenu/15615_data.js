@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88c543c8-719b-4e14-a2c1-a92eec128226/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/05/89f5bfc5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15615,
+  "IDcode": "SONE-140",
+  "title": "痛恨到惡心的繼父和我媽結婚的目的，就是爲了一次又一次強奸我、被逼精液的屈辱踐踏強奸",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "凌辱",
+    "中出",
+    "繼父",
+    "JK校服",
+    "口交",
+    "自宅",
+    "強姦",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SONE-140为S1出品,2024年4月9日发行的有碼成人影片由望月蕾出演\n巴德，我和你媽媽再婚是因為我想要你。當然，我也愛我的媽媽。我抱著你很多。然而，我最喜歡的還是製服下潛藏的緊緻、光滑、年輕的皮膚。我想欣賞她正處於生長高峰的乳房，並讓它們變得更大。我也喜歡她的娃娃臉，這讓她看起來比我同齡的女孩年輕。你是我的理想，夥計。我決定今天操你，老兄。因為我媽媽會很晚才回家。我以為你不想看到媽媽傷心，所以我想這就是我的善意。不知道他會對我露出什麼樣的厭惡表情呢？我想知道她會不會哭得很厲害？我希望你罵我噁心，罵我蕩婦等等。如果很容易就能得到，那不是很有趣嗎？我會花時間主宰你的思想和身體，所以請玩得開心，夥計。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405043051758758.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405043051758758.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15615",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15615&name=望月蕾"
+    }
+  ]
+};

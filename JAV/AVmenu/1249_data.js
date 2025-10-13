@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32933b6e-c66c-4e8e-bb0f-a9b5e542ffd9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1249,
+  "IDcode": "HEYZO-2447",
+  "title": "【重口味】想上懷孕的女教師真沒辦法！",
+  "publish_date": "2021-01-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "女教師",
+    "69",
+    "乳交",
+    "中出",
+    "重口味",
+    "孕婦",
+    "出軌",
+    "學校"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230910/20230910210717872872.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230910/20230910210717872872.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1249",
+  "actresses": [
+    {
+      "name": "朝比奈菜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/b936cf45-dc8c-47b0-88e4-39dee8230834.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1249&name=朝比奈菜々子"
+    }
+  ]
+};

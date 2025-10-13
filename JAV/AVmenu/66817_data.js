@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250427/BBHZF972/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66817,
+  "IDcode": "BBAN-388",
+  "title": "女×女の歪な性癖と肉体関係。 溺れゆくアブノーマルレズビアン ～こんな私でも愛せますか？～",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "放尿",
+    "SM",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66817",
+  "actresses": [
+    {
+      "name": "宫泽千春",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/99a363ed-fd20-401a-af51-8bc2a9792a99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66817&name=宫泽千春"
+    },
+    {
+      "name": "栄川乃亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bc731d12-2d4f-426f-a573-18db4ef5f6fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66817&name=栄川乃亜"
+    }
+  ]
+};

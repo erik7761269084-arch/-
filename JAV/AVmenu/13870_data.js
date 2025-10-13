@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a937d2ce-3e67-4785-8b90-529e84644895/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13870,
+  "IDcode": "GUPP-011",
+  "title": "美麗寡婦NTR - 在丈夫靈前與姐夫發生變態性愛 中野まこ",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "緊縛",
+    "自慰",
+    "巨乳",
+    "按摩棒",
+    "NTR",
+    "未亡人・寡婦",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240619/9fedd6ce-ade3-480f-bd05-c8a6264b99fc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240619/9fedd6ce-ade3-480f-bd05-c8a6264b99fc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13870",
+  "actresses": [
+    {
+      "name": "戶川奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/ea014a96-8ea9-4081-bb38-038531aaf804.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13870&name=戶川奈美"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250504/zY20R58l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66697,
+  "IDcode": "DLDSS-110",
+  "title": "夫の目の前で乳首を犯●れて…本田もも 生写真5枚付き",
+  "publish_date": "2022-07-21",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "苗条",
+    "口交",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66697",
+  "actresses": []
+};

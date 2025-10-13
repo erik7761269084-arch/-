@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1bca39bb-791d-4ea1-b176-3752ed8570ed/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241020/GcNcRoVf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14379,
+  "IDcode": "SAN-246",
+  "title": "效果拔羣的媚藥，中出下屬美人妻 ~ 宇流木沙羅",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "在丈夫面前被操",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美腿",
+    "美臀",
+    "口交",
+    "白眼失神",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "迷姦",
+    "舔陰",
+    "美腳",
+    "人妻",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SAN-246为2024年5月1日发行的有碼成人影片由宇流木沙羅出演\n薩拉拉的丈夫涉嫌貪污，儘管她對此毫無印象，但她的老闆並沒有掩蓋這一情況，而是要求薩拉拉給他戴上魅力霜。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528065722723723.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240528/20240528065722723723.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14379",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14379&name=宇流木沙羅"
+    }
+  ]
+};

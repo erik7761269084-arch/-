@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/03/c139868a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91052,
+  "IDcode": "CAWD-522",
+  "title": "出張先の相部屋で巨漢上司に何度も中出しプレスされて…部長の粘着質な愛撫と濃厚SEXに溺れた巨乳新人OL 千石もなか",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "OL",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240312-1/b0c70ee771b43d42703e8b7c587f1590.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91052",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91052&name=千石もなか"
+    }
+  ]
+};

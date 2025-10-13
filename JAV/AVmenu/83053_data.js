@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221216/YRFxveGK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83053,
+  "IDcode": "LUXU-1200",
+  "title": "ラグジュTV 1192 美麗でグラマラスボディが魅力の大学院生が再登場！未だに過去の乱暴なセックスに対してトラウマを抱えていると語る彼女。濃厚なキスと愛撫で優しく愛を交わせば、いつしか我を忘れ自ら腰振り快楽を貪る！",
+  "publish_date": "2019-12-09",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "女大学生",
+    "姐姐",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83053",
+  "actresses": [
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83053&name=若宫穂乃"
+    }
+  ]
+};

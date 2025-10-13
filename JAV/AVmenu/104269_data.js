@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/04/5be2746f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104269,
+  "IDcode": "IPTD-650",
+  "title": "瞬殺！一撃バズーカ顔射 天海つばさ",
+  "publish_date": "2010-11-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "多P",
+    "颜射",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104269",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104269&name=天海翼"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/yRkzjzVm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85937,
+  "IDcode": "PRED-415",
+  "title": "禁断粘膜実習。 行き場のないボクはゆう先生と一晩中べロキス中出しし続けた… 篠田ゆう",
+  "publish_date": "2022-07-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "接吻",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/e463c27677b830c55fbdf9f432a63520.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85937",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85937&name=篠田优"
+    }
+  ]
+};

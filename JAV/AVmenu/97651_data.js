@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220412/D40A8BDF9C53A99B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97651,
+  "IDcode": "NASS-938",
+  "title": "無意識に男を挑発する巨乳を狙われ好きでもない男たちの荒々しいセックスに溺れた人妻",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_067nass938/h_067nass938pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97651",
+  "actresses": []
+};

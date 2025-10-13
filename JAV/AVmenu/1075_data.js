@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8499e6bf-c8e3-4e07-ba89-1aade47128a1/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20221015/IUUkZneF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1075,
+  "IDcode": "HEYZO-1510",
+  "title": "6點下班後 濕濕的辦公室OL女郎",
+  "publish_date": "2017-06-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出",
+    "OL",
+    "口交",
+    "性感",
+    "女同事"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/064b5c59-6c40-43bd-abab-5e7575d41989.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/064b5c59-6c40-43bd-abab-5e7575d41989.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1075",
+  "actresses": [
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1075&name=蘭華"
+    }
+  ]
+};

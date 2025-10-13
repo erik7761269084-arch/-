@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/735124f2-fa51-49f6-91f1-e650886e3096/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1411,
+  "IDcode": "HEYZO-2754",
+  "title": "熟女風俗妹緊貼侍奉 Vol.5 上原由愛",
+  "publish_date": "2022-04-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "調教",
+    "中出",
+    "拘束・拷問",
+    "素人",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230626/20230626012141610610.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230626/20230626012141610610.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1411",
+  "actresses": []
+};

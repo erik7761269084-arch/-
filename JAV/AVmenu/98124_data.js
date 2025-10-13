@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/279f7f46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98124,
+  "IDcode": "SHKD-450",
+  "title": "隣のお姉さんを犯したあの日…7 志保",
+  "publish_date": "2011-08-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "凌辱",
+    "姐姐",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98124",
+  "actresses": [
+    {
+      "name": "志保",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98124&name=志保"
+    }
+  ]
+};

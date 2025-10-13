@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/020cb9ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77724,
+  "IDcode": "MKMP-247",
+  "title": "父親の愛人を性奴隷にして孕ませ中出し10連発 美谷朱里",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "戏剧",
+    "中出",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77724",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77724&name=美谷朱里"
+    }
+  ]
+};

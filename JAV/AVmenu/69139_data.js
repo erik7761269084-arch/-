@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250327/2E1zztnL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69139,
+  "IDcode": "HUNTB-388",
+  "title": "拒絕穿上制服！口氣也最爛最悪！不過既溫柔工作也超有禮！父親的看護是淫蕩辣妹過頭讓我…",
+  "publish_date": "2022-10-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "各种职业",
+    "荡妇",
+    "女生",
+    "口交",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/bacda032e9a98319b3ae0737f1883334.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69139",
+  "actresses": [
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69139&name=夏希栗"
+    },
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69139&name=蘭々"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/XC9oS1Wp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83626,
+  "IDcode": "KNMD-075",
+  "title": "我が子に売られた母親 京野美麗",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83626",
+  "actresses": [
+    {
+      "name": "京野美丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83626&name=京野美丽"
+    }
+  ]
+};

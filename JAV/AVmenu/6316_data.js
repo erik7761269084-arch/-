@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2e62ed81-9407-4bc8-9c4f-94258b0aa000/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/19/ae2688d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6316,
+  "IDcode": "IPZZ-546",
+  "title": "與桜空桃一夜狂野中出約會 24小時被痴女榨乾不停高潮 ~ 桜空桃",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "純粹的慾望",
+    "網襪",
+    "傲嬌",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "靴子",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "完全着衣",
+    "手指插入",
+    "粉絲福利",
+    "粉丝",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "IPZZ-546为IDEA POCKET出品,2025年5月9日发行的有碼成人影片由桜空桃出演\n今天要狠狠来一发！抛开日常的烦琐，和桜空桃独处一整晚，零工作人员，只有你我二人世界！被她挑逗得心痒痒，被玩弄得欲罢不能，被撸到不行，被含得销魂，被她骑着疯狂输出，直到精尽人亡也不停下！桜空桃半夜还会偷袭你哦！她直言超爱这根，男人被她榨得不要不要的！整整8发精华全被她收下！被桜空桃疯狂痴女支配，爽到腿软啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064825209209_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064825209209_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6316",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6316&name=桜空桃"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6316&name=ナイアガラ翔"
+    }
+  ]
+};

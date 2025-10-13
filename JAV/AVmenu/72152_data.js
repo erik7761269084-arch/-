@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250220/GWLFXqX0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72152,
+  "IDcode": "ABP-662",
+  "title": "同棲してるボクの彼女は多重人格！？ VOL.03 主観映像満載で5人格のあいりと日替わりバーチャルSEX三昧 鈴村あいり",
+  "publish_date": "2017-11-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "角色扮演",
+    "颜射",
+    "口交",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72152",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72152&name=鈴村愛里"
+    }
+  ]
+};

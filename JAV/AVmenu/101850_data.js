@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240423/PGu4PXpr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101850,
+  "IDcode": "MAAN-973",
+  "title": "【実はエロいクール系美少女】車を洗浄中のびしょ濡れ美女と服が乾くまでホテルでハメまくり！？手マンで止まらぬ潮吹き！よだれたっぷりフェラが吸い付いて離れないw一度のセックスじゃ満足できない！事後休憩中でも迫っちゃう性欲つよつよガール！！【もしも。】【まい】",
+  "publish_date": "2024-04-14",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "玩具",
+    "屁股",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1711maan973/h_1711maan973pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101850",
+  "actresses": []
+};

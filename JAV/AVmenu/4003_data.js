@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a2615ed0-b9cd-4961-be74-b352d188aa1c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/17/ddaf6819/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4003,
+  "IDcode": "MIDA-260",
+  "title": "同學會續攤王様遊戲爆出隱藏騷氣眼鏡妹！單人床同房一夜兩日狂幹不停中出命令 ~ 小野六花",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "聚會・PARTY",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "美少女電影",
+    "同學"
+  ],
+  "description": "MIDA-260为MOODYZ出品,2025年8月1日发行的有碼成人影片由小野六花出演\n【闷骚眼镜妹大变身！H指令下中出过夜激战】同学会后的家里续摊，玩起了王様游戏，大家嗨到不行，角落里却有个安静又不起眼的妹子……“咦，那是小野？以前咋没发现她这么可爱？”随着游戏指令越来越刺激，我和小野竟然被安排一起过夜！等醉倒的朋友都散了，就剩我们俩，王様游戏继续，小野突然骚气爆发！指令越来越过火，亲吻、口技轮番上阵，我俩早就忍不住，游戏规则啥的都抛脑后，从夜里干到天亮，中出一次又一次，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084714850850_68461_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084714850850_68461_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4003",
+  "actresses": [
+    {
+      "name": "小野六花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/8394037c-d440-49bd-8a55-c543588d55ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4003&name=小野六花"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4003&name=日森一"
+    }
+  ]
+};

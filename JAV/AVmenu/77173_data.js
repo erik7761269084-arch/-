@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241127/MrkFwbXj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77173,
+  "IDcode": "MISM-172",
+  "title": "えむっ娘ユーザーTさん撮影作品 SNSで見つけたどちゃくそアナルがしたいパーティ系ケツ穴ヤリマンマゾ娘をラブホで肛門調教した後ハプバーで豪快にアナル乱交かましてやりました。 裏垢肛門パリピスト 穴にゃん（ゆの）26歳",
+  "publish_date": "2020-04-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "淫乱，真实",
+    "肛交",
+    "业余",
+    "滥交",
+    "二穴同时挿入"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77173",
+  "actresses": [
+    {
+      "name": "要ゆの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77173&name=要ゆの"
+    }
+  ]
+};

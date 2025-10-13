@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5152d393-f26f-4674-9734-af07f45677b2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/06/dcfede7e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15433,
+  "IDcode": "EBWH-084",
+  "title": "錯過了最後一班電車，不得不住在學弟的家.....屈服於運動員身體的無意識誘惑，被大雨淋溼，最終發生了外遇並中出，然後一直重復到早上 ~ 雨宮響",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "同學",
+    "無毛"
+  ],
+  "description": "EBWH-084为E-BODY出品,2024年4月16日发行的有碼成人影片由雨宮響出演\n雨宮響在一家公司擔任排球運動員。由於不習慣電腦工作，我常常要加班……突然下雨了！雨宮和他的資深同事留在公司，不情願地決定讓他留在家裡。 「前輩，你很理智吧？」我知道這樣不好，但我同事毫無保護的堅挺胸部讓男人發瘋。 「你不能這麼做，對吧？我的妻子會生我的氣……啊，這感覺真好……」男人無法忍受新辦公室女士的濕漉漉的、尖銳彎曲的大奶子。抗壓能力弱，所以他把妻子放在一邊舔舐她並讓她受精！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412231438939939.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412231438939939.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15433",
+  "actresses": [
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15433&name=雨宮響"
+    }
+  ]
+};

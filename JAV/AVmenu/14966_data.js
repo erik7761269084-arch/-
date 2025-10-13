@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cc90eca1-7dee-4a29-9a52-84958e7504aa/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14966,
+  "IDcode": "LULU-292",
+  "title": "豐滿、大屁股人妻諮詢我的性問題，和大屁股蕩婦性愛 ~ 新村朱裏",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "舔陰",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "熟女",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240506/8155278d-196f-4f30-bb83-4d09da11d681.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/8155278d-196f-4f30-bb83-4d09da11d681.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14966",
+  "actresses": [
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14966&name=新村朱里"
+    }
+  ]
+};

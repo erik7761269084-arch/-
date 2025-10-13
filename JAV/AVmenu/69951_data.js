@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/fPzb4rIn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69951,
+  "IDcode": "URMC-024",
+  "title": "爆乳美少女天然マシュマロおっぱい 松本菜奈実",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69951",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69951&name=松本菜奈実"
+    }
+  ]
+};

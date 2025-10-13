@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/12/f0b8b8b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63068,
+  "IDcode": "NAIAD-007AI",
+  "title": "naiad-007AI実写化 義父と妹のヤバすぎる写真",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/12/59a68e5c02f2182f010b750c93a2ea9a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63068",
+  "actresses": []
+};

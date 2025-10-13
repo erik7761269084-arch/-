@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241229/psqMzj7M/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75035,
+  "IDcode": "BBAN-233",
+  "title": "華道家に活けられた女 彩葉みおり 神ユキ",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "巨乳",
+    "捆绑",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75035",
+  "actresses": [
+    {
+      "name": "神ユキ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/e14aec81-25d5-4313-aeeb-8084050579d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75035&name=神ユキ"
+    },
+    {
+      "name": "豊田爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75035&name=豊田爱菜"
+    }
+  ]
+};

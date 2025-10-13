@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/055810cf-743e-4a8f-b2b1-8a0f2f2b9979/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/acc23cd5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3034,
+  "IDcode": "IPZZ-654",
+  "title": "內衣公司打工的美乳娘爲了公司脫光光！現場內衣模特秀，直接開幹服務！全程內衣激戰 ~ 長濱蜜璃",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "正統派",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "內衣",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "情趣內衣",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "阪道系",
+    "職場",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-654为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由長濱蜜璃出演\n好不容易挤进了梦寐以求的内衣公司，结果连培训都没有就被扔去跑业务，天天完不成指标，在公司里混得像个透明人。正当我心灰意冷时，上司一眼看穿了我的大胸秘密！于是我被逼着当内衣实演模特，穿着超辣的内衣，丰满身材都快溢出来了！这身材配上内衣，简直是致命诱惑，男人都被我迷得神魂颠倒，欲罢不能！最强Body今天也要大开杀戒，兄弟们顶得住吗？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040210324747_30020_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/202509040210324747_30020_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3034",
+  "actresses": [
+    {
+      "name": "長濱蜜璃",
+      "img_url": "https://picture.yoshiclub.xyz/20240106/7cba7952-66bf-4d34-a03d-364d02f9b729.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3034&name=長濱蜜璃"
+    }
+  ]
+};

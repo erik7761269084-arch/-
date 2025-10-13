@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/21/f19f3ce6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102054,
+  "IDcode": "RS-029",
+  "title": "祥子",
+  "publish_date": "2008-09-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "跳蛋",
+    "口交",
+    "女优按摩棒",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102054",
+  "actresses": []
+};

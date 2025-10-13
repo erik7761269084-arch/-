@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/23/656aab93/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89555,
+  "IDcode": "AARM-164",
+  "title": "濃厚ベロチュー×トルネードオイル手こき×連続2回発射！！",
+  "publish_date": "2023-03-02",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "荡妇",
+    "手淫",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89555",
+  "actresses": [
+    {
+      "name": "市井結夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/001e998c-aaf9-4fde-97c5-c91b0625e328.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89555&name=市井結夏"
+    },
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89555&name=水卜麻衣奈"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89555&name=神野雛"
+    },
+    {
+      "name": "叶月もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89555&name=叶月もえ"
+    },
+    {
+      "name": "辻芽爱里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89555&name=辻芽爱里"
+    }
+  ]
+};

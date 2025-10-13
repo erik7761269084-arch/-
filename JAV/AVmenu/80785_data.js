@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/nedxwbbf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80785,
+  "IDcode": "DANDY-799",
+  "title": "最終電車でW痴女とまさかの遭遇！向かいの座席でWパンチラしてくる美脚女の誘惑で勃起したらサンドウィッチ状態で何度もヤられた",
+  "publish_date": "2022-02-10",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "荡妇",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80785",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80785&name=森日向子"
+    },
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80785&name=廣瀨里緒菜"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80785&name=弥生美月"
+    },
+    {
+      "name": "山本莲加",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80785&name=山本莲加"
+    }
+  ]
+};

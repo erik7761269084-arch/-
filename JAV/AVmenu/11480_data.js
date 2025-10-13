@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d12aeaa8-cf1c-413d-98e8-b14a1e8746e7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/13/864d5ac1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11480,
+  "IDcode": "FSDSS-836",
+  "title": "體液交感持續性交 ~ 小沢菜穂",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241004/20241004231408160160.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241004/20241004231408160160.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11480",
+  "actresses": [
+    {
+      "name": "小沢菜穂",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/40a55211-02c4-4e28-b616-f817b62a6235.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11480&name=小沢菜穂"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11480&name=鲛岛"
+    }
+  ]
+};

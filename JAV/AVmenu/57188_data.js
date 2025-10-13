@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57188,
+  "IDcode": "B5DB5BAEE83457A310429D21F1570346",
+  "title": "让老公以完美的方式打她的阴部",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57188",
+  "actresses": []
+};

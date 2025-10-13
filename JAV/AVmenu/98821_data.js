@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230121/9A28481D4CB12642/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98821,
+  "IDcode": "DVDES-803",
+  "title": "レイプが合法になった世界～公衆の面前でチ○ポ挿れっぱなし！犯りたいと思った瞬間に即ハメ！白昼堂々強制子作り！！～",
+  "publish_date": "2015-01-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "各种职业",
+    "强奸",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98821",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98821&name=樱井步"
+    },
+    {
+      "name": "竹内真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98821&name=竹内真琴"
+    },
+    {
+      "name": "しずく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98821&name=しずく"
+    },
+    {
+      "name": "村田ちか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98821&name=村田ちか"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/7GpRPtqD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72706,
+  "IDcode": "DLDSS-140",
+  "title": "驚異の新人…？謎のDAHLIA専属 天性の性欲を秘めた絶倫美人 水川潤 29歳 パンティと写真付き",
+  "publish_date": "2022-09-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "姐姐",
+    "潮吹",
+    "首次亮相",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72706",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72706&name=水川潤"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72706&name=小田切ジュン"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72706&name=由爱可奈"
+    }
+  ]
+};

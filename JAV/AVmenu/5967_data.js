@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/12183084-662a-4c13-b673-65ac76e53d46/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5967,
+  "IDcode": "MMGH-009",
+  "title": "住院也能爽翻天，和童顏可愛理療師的激情SEX ~ 藤田梢 笠木一花",
+  "publish_date": "2025-05-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "童顔",
+    "高顏值",
+    "劇情",
+    "醫院・診所",
+    "二次元",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "女醫生",
+    "高妹",
+    "少女",
+    "口爆",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "看病・住院",
+    "美人",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "MMGH-009为妄想族出品,2025年5月17日发行的有碼成人影片由藤田梢，笠木いちか出演\n腰受傷住院的我，發現這家醫院的物理治療師都年輕又正點，個個充滿活力又騷氣逼人！不僅技術超棒，還老愛貼身接觸，每天復健都像在撩妹一樣刺激。治療師小梢總是偷偷摸我下體，害我全程硬邦邦；另一位一花更是超沒距離感，那可愛小臉蛋跟誘人小胸部一直往我身上靠，真的讓人慾火焚身！既然都這樣了，乾脆直接上手，摸摸胸、挑逗一下，說不定能直接來一發！在復健室跟病房裡，與這些小可愛治療師上演火辣激情戲，住院生活也能爽到翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521084929179179_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250521/20250521084929179179_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5967",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5967&name=藤田梢"
+    },
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5967&name=笠木いちか"
+    }
+  ]
+};

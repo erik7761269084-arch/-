@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/19/6b9ba713/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78317,
+  "IDcode": "TPPN-252",
+  "title": "美巨乳柏木こなつの愛汁が溢れる激ピスグチョ責めびちゃびちゃ汗だくトランス状態意識朦朧！連続中出し",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "流汗",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78317",
+  "actresses": []
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd80fbbf-f0fb-4a39-8a3c-de5ca4f4ddc7/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241013/XefTvHbb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13762,
+  "IDcode": "NOSKN-095",
+  "title": "月乃露娜是個變態的OL，她很害羞，但卻與她的虐待狂男友一起亂交",
+  "publish_date": "2024-07-19",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "巨乳",
+    "女同事",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "NOSKN-095为NOSKINS出品,2024年7月19日发行的有碼成人影片由月乃露娜出演\n愛上變態男友的露娜照著吩咐敲開了我們圈子的大門。我終於踏進了這個只有真正的變態才聚集的世界。對於明明不願意卻被迫去熱鬧的酒吧，沉浸在享受NTR遊戲的絕望興奮中的露娜來說，她不禁感到一種“終於到了”的絕望感。這一步了。在一次聚會上，男友指示她拍攝一段令人興奮的視頻，結果卻被她不喜歡的男人包圍，盡情享受他們的身體。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624023457936936.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240624/20240624023457936936.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13762",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13762&name=月乃露娜"
+    }
+  ]
+};

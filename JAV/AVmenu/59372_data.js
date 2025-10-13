@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59372,
+  "IDcode": "HEYZO2117",
+  "title": "原えりHAMEZO～ハメ撮りコレクション～vol.46",
+  "publish_date": "2019-10-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "淫荡手淫",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "熟女",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59372",
+  "actresses": []
+};

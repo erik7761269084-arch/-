@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220413/CBE72C8A57D6B5AB/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36717,
+  "IDcode": "3B74D5C8C96E79AF69B49181CC-184790",
+  "title": "不断玩弄到敏感乳头硬梆梆 3 露娜 caribbeancom021619-861",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36717",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250430/8L1qdHU2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67038,
+  "IDcode": "GVH-504",
+  "title": "セレブ奥様の非日常シ○タ遊戯 新村あかり",
+  "publish_date": "2023-02-14",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "荡妇",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67038",
+  "actresses": [
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67038&name=新村晶"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/5inafhlB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73109,
+  "IDcode": "STARS-831",
+  "title": "一線を越えてしまった夜。昔振った同級生と同窓会で再会したら、誘惑されて逆NTR。途中で抜け出して、朝までホテルでヤリまくった・・・ 青空ひかり",
+  "publish_date": "2023-04-04",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "企画",
+    "主观视角",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73109",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73109&name=青空光"
+    }
+  ]
+};

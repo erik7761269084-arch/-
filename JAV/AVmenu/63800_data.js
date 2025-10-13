@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/21/164f708e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63800,
+  "IDcode": "HMN-708",
+  "title": "高速⇔スローピストン交互に繰り返すグラインド騎乗位で焦らされた挙句…ドバドバ暴発中出し。華奢メンエス嬢の射精コントロール術 倉本すみれ",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "苗条",
+    "手淫",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63800",
+  "actresses": []
+};

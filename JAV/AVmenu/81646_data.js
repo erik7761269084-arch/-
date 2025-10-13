@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/jPWkTJsm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81646,
+  "IDcode": "FCH-051",
+  "title": "【配信専用】射精が止まらない！柔らか巨乳おっぱい濃厚美女パイズリ！ 6",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "恋乳癖",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1a7d1997bff45f564f9725382e787592.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81646",
+  "actresses": [
+    {
+      "name": "原花音",
+      "img_url": "https://picture.yoshiclub.xyz/20250122/59ad9b88-7e3d-44ee-beca-b7f7c98764b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=原花音"
+    },
+    {
+      "name": "小森美久露",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/b48b0e9f-a06b-4a6c-bffd-15069a5b2f7c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=小森美久露"
+    },
+    {
+      "name": "心音にこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=心音にこ"
+    },
+    {
+      "name": "爱瀬るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=爱瀬るか"
+    },
+    {
+      "name": "鹰宫ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=鹰宫ゆい"
+    },
+    {
+      "name": "七瀬もな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=七瀬もな"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=森本つぐみ"
+    },
+    {
+      "name": "丸山れおな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81646&name=丸山れおな"
+    }
+  ]
+};

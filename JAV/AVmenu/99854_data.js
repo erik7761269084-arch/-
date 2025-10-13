@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99854,
+  "IDcode": "JMTY-023-",
+  "title": "イモっ娘ラボクラスで目立たないイモっ娘放課後",
+  "publish_date": "2020-03-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "制服",
+    "女生",
+    "学校泳装",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99854",
+  "actresses": []
+};

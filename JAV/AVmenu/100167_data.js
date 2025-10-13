@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230313/28B2EED71F2421DE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100167,
+  "IDcode": "ABP-443",
+  "title": "近所に住んでるセックスの神様 成宮はるあ",
+  "publish_date": "2016-02-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "多P",
+    "自慰",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100167",
+  "actresses": [
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100167&name=乃木遥"
+    },
+    {
+      "name": "ゆうき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/AI-Fix-ゆうき.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100167&name=ゆうき"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100167&name=森林原人"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100167&name=田渊正浩"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100167&name=小田切ジュン"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/YkQzqhQp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84416,
+  "IDcode": "EBOD-922",
+  "title": "【FANZA限定】皆がシコッた大人気の地方局アナウンサーは俺の愛人 Hcupボディを一晩中独占する官能中出し性交 百瀬りこ 生写真3枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "潮吹",
+    "女主播",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84416",
+  "actresses": [
+    {
+      "name": "百瀨莉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250714/8e697530-fd34-41c9-ae23-708ed38055b3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84416&name=百瀨莉子"
+    }
+  ]
+};

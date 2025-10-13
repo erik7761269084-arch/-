@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/da5d9d77-ac5e-48b9-85ca-a1f611cca362/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/26/3efb3824/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4231,
+  "IDcode": "BLB-026",
+  "title": "黑人巨棒侵犯日本少婦 爲了賺錢結婚而陷入危險兼職 苗條身體被極粗肉棒狂虐4P輪番 ~ 水端麻美",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "G.M.E",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "中出",
+    "美乳",
+    "美腿",
+    "黑人男優",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "應召・援交",
+    "港區女子",
+    "騎乗位",
+    "若妻",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "拜金女",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "飯店小姐・援交妹",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "BLB-026为G.M.E出品,2025年7月19日发行的有碼成人影片由水端麻美出演\n麻美從學生時代就在夜店當陪酒妹，結了婚也沒辭職，只因她一心想辦一場海外婚禮。老公以前是她的客人，暫時也同意她繼續幹這行攢錢。那天，夜店來了個黑人客人，麻美和同事一起接待。這黑人聽完麻美的故事後，推薦了個高薪但超危險的運貨兼職。麻美雖然覺得不對勁，但還是接了活，慢慢也習慣了。後來，攢夠錢的麻美決定辭職不幹，黑人卻約她最後見一面……這背後藏著啥不可告人的秘密？等著她的，會是啥樣的瘋狂折磨？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210425485485_63208_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210425485485_63208_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4231",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4231&name=水端麻美"
+    }
+  ]
+};

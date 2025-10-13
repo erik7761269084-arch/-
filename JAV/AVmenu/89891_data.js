@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240108/MNbvKw9I/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89891,
+  "IDcode": "SABA-866",
+  "title": "素人美少女。初ナマ中出し解禁BEST。「奥が熱くて気持ちイイ～イクイクイクイク～」汗だくまみれの大絶頂、大絶叫セックス。子宮口直撃のゼロ距離射精で激しいイキっぷりを披露する厳選20名の美少女たち！",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89891",
+  "actresses": []
+};

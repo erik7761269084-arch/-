@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220829/1846116328BD5BC1/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37489,
+  "IDcode": "6445F1AB9ECD9254F3CEDEA143E2FA-30",
+  "title": "翘臀热裤少女的绝赞肥臀",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37489",
+  "actresses": []
+};

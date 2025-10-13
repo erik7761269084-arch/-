@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230909/VqFQcdLZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88150,
+  "IDcode": "KAWD-873",
+  "title": "軟体ボディがエグいほどエビ反るイキ跳ね潮吹きFUCK 白石みくり",
+  "publish_date": "2018-02-13",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "淫乱，真实",
+    "女大学生",
+    "潮吹",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230909-1/391dc7e5f656cca9a3c4bae1d80c7b54.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88150",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88150&name=しみけん"
+    },
+    {
+      "name": "白石みくり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88150&name=白石みくり"
+    }
+  ]
+};

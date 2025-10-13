@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/37gqgAm8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77271,
+  "IDcode": "NNPJ-316",
+  "title": "アキバで出会った同人誌好きのヲタク系むっつり痴女ッ娘プログラマみえちゃん23才AV出演！！しちゃいました。 ナンパJAPAN EXPRESS Vol.89",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "眼镜",
+    "淫乱，真实",
+    "荡妇",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77271",
+  "actresses": []
+};

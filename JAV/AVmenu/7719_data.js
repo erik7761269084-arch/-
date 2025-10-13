@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d11793d9-5a7c-42c5-bb51-d5bb6b8f6117/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/98b21187/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7719,
+  "IDcode": "JUR-263",
+  "title": "愛液滴落本能本開SEX 被上司調教成雌性動物的七天着牀交尾 ~ 宮下華奈",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "加班",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "不倫",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "寢取",
+    "野性",
+    "羞恥"
+  ],
+  "description": "JUR-263为MADONNA出品,2025年3月11日发行的有碼成人影片由宮下華奈出演\n我和同事結婚已經兩年了。照理說我應該待在家裡，但我們都選擇繼續工作，結果我們的婚姻繼續充滿誤會…有一天，我和我先生的導師細川先生從海外任務回來。曾經的學長是我非常敬佩的人，但現在她已經結婚成為家庭主婦了，我又想起了那時的感受…然後，在我們都加班的時候，細田先生強行對我進行性侵犯，而我最終接受了他的指尖…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125441798798.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305125441798798.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7719",
+  "actresses": [
+    {
+      "name": "宮下華奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/f3724058-0480-453b-a726-94ca294b8a7c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7719&name=宮下華奈"
+    }
+  ]
+};

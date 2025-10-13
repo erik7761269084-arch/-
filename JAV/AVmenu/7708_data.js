@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/12d0fe08-2d06-4dd6-adf5-56d3cf6e4ce6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/26/dde53037/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7708,
+  "IDcode": "DASS-581",
+  "title": "空調壞掉的酷暑天 第一次看到其它男人的硬雞巴後欲火焚身 汗水體液交纏的田舍若妻 ~ 鬆本一香",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "鄉下",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "美人妻",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人"
+  ],
+  "description": "DASS-581为DASDAS出品,2025年3月11日发行的有碼成人影片由松本一香出演\n一夏結婚後從城市搬到了鄉下。在破紀錄的高溫中，「空調壞了…！」在沒有空調的桑拿環境中，年輕妻子的理智和性慾開始沸騰。她引誘一個又一個來她家的男人。她對勃起的陰莖進行了一次愉悅的口交。她將它深深地含入口中並大口吮吸。唾液交換的法式接吻和膝蓋後部的汗水工作。當一根未成熟的雞巴插入時，她會達到很長時間以來的第一次高潮。剃陰部以女牛仔姿勢猛擊。 「再用力一點！」他越是感覺到自己的生命受到威脅，就越是本能地想要留下後代。在充滿愛液和精液味道的潮濕房間裡，他們盡情享受超越極限的汗流浹背、濃烈的性愛。好女人在性愛時體液淋漓，達到比盛夏還要炎熱的高潮。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124237955955.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305124237955955.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7708",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7708&name=松本一香"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7708&name=ラヴズ"
+    }
+  ]
+};

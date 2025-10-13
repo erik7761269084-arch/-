@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/xhRunxCb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87602,
+  "IDcode": "MGOLD-003",
+  "title": "求められるほど感じて濡れる性格良い子ちゃんがイカれたオジサンとハメ撮り＆3Pイキまくり3連発！ 並木ゆの パンティと写真付き",
+  "publish_date": "2022-07-21",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "多P",
+    "女大学生",
+    "第一人称摄影",
+    "玩具",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87602",
+  "actresses": []
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/ed1ad23c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78091,
+  "IDcode": "MIDV-936",
+  "title": "新人 専属 輝星きら 銀河系オンリーワン原石 純朴とスケベのギャップに沼る",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "苗条",
+    "口交",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/25/f27bfb12d1ab7f7024fe67c9c56b22ab.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78091",
+  "actresses": [
+    {
+      "name": "輝星綺羅",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5ab1d926-01b5-4097-8030-95715fe869ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78091&name=輝星綺羅"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78091&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78091&name=小田切ジュン"
+    }
+  ]
+};

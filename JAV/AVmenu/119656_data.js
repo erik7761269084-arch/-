@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119656,
+  "IDcode": "FC2PPV-1283691",
+  "title": "無修正 【美女２人と夢の逆３Ｐ 】男の夢！人生初の逆３Ｐ！美女２人のフェロモンにタジタジになりながらも何とかやり遂げました",
+  "publish_date": "2020-02-23",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "私人摄影",
+    "素人",
+    "内射",
+    "原作",
+    "巨乳",
+    "泳衣",
+    "3P"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119656",
+  "actresses": []
+};

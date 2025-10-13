@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220606/2E56C058BDDE3EA2/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64422,
+  "IDcode": "746D839EDD22879D665D8FB2D1F9A-163",
+  "title": "「还想要…请爱我」超美人M痴女 有坂深雪",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64422",
+  "actresses": []
+};

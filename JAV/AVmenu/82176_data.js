@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221110/WaLTGcsI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82176,
+  "IDcode": "TRE-131",
+  "title": "競泳水着女子BEST 20名 8時間 vol.01 ボディラインが美しい競泳水着の魅惑の世界",
+  "publish_date": "2020-03-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "多P",
+    "学校泳装"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221110-1/4e0155e2169f67448b53825c6e851e22.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82176",
+  "actresses": []
+};

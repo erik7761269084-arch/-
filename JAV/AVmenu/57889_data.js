@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221221/9231ADD4E5B88121/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57889,
+  "IDcode": "N1414",
+  "title": "n1414 東熱激情 激震電気ドリル覚醒責 特集　part2",
+  "publish_date": "2019-10-01",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57889",
+  "actresses": []
+};

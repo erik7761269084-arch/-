@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/DE825F0248E74455/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98847,
+  "IDcode": "AVOP-442",
+  "title": "なかだし青春デイズ 椿井えみ",
+  "publish_date": "2019-02-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "中出",
+    "制服",
+    "户外",
+    "恋爱",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98847",
+  "actresses": [
+    {
+      "name": "椿井惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230619/d725cb49-3165-4265-8780-d26d9e8c0e48.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98847&name=椿井惠美"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98847&name=小田切ジュン"
+    }
+  ]
+};

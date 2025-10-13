@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4d05261-3d55-4b54-9b56-e4fe9d0b2e81/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/2296e489/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8539,
+  "IDcode": "NACR-909",
+  "title": "M女COSPLAY 變態調教攝影會 ~ 永野鈴",
+  "publish_date": "2025-02-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "偶像",
+    "色白",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "貓耳裝飾",
+    "運動服裝",
+    "小隻馬",
+    "私房攝影",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "癡女",
+    "按摩棒",
+    "猥褻穿著",
+    "美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250205/678f5095-7f12-419f-b508-5fc8b4403c6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250205/678f5095-7f12-419f-b508-5fc8b4403c6e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8539",
+  "actresses": [
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8539&name=永野鈴"
+    }
+  ]
+};

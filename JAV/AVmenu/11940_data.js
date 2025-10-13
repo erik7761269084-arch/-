@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11eabe18-290c-47ff-9036-b2693e2efe53/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11940,
+  "IDcode": "MRHP-041",
+  "title": "[不動產AV] 大屁股女中介和我一起去看房子，趁沒人揉捏她的大奶子生中出了她 ~ 木下日葵",
+  "publish_date": "2024-09-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "臀控",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "房產中介",
+    "制服",
+    "口交",
+    "看房",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "辦公室",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240916/db102124-2166-4c1f-988b-3e46b970dfe6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240916/db102124-2166-4c1f-988b-3e46b970dfe6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11940",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11940&name=木下日葵"
+    }
+  ]
+};

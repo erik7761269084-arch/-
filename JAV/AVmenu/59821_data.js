@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/28/3bb50221/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59821,
+  "IDcode": "JUX-943",
+  "title": "- 為了心愛老公 再忍一次他人肉棒 大島優香 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "凌辱",
+    "羞耻",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59821",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59821&name=森林原人"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59821&name=田渊正浩"
+    }
+  ]
+};

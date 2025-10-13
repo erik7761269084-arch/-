@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/Ue1D3UXh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88365,
+  "IDcode": "IENE-438",
+  "title": "波多野結衣が10回射精させるまで帰さない凄テク風俗ビル",
+  "publish_date": "2014-07-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "荡妇",
+    "按摩",
+    "妓女",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/9db1d77ee012ca28a23ee781249805e8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88365",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88365&name=波多野结衣"
+    }
+  ]
+};

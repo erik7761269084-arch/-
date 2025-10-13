@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240126/mt8tvsXN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103629,
+  "IDcode": "MAAN-938",
+  "title": "【極上F乳タトゥーギャル降臨】神スタイルは瞬き厳禁！！今回の裏垢美女は【生中出しもOKなパリピギャル】昼からお酒で乾杯→そのままの勢いでヤリ基地へGO！くびれ×美巨乳×プリ尻×高感度のまさにパーフェクトボディ！！舌ピアスで擦り上げるフェラテクも神レベル！！徐々に従順になっていき可愛く喘ぐ姿にギャップ萌え！おかわり生挿入アゲインで、小麦肌のマ●コに映える大量中出し2連発ッ！！【撮影OK #裏垢タダマン】【カレン】",
+  "publish_date": "2024-01-06",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "屁股",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103629",
+  "actresses": [
+    {
+      "name": "かれん",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/1038c9ba368a570b72bf68b1a133a87e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103629&name=かれん"
+    }
+  ]
+};

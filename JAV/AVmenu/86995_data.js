@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/09/94d47f1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86995,
+  "IDcode": "ALDN-032",
+  "title": "代理出産の母 小早川怜子",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230515-1/c3bd30520703ea760cf32a1021990f41.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86995",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86995&name=小早川怜子"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86995&name=タイ"
+    }
+  ]
+};

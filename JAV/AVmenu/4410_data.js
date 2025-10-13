@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e2e6ebcd-75ce-4c21-97c6-e9d9c7779af5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4410,
+  "IDcode": "TIKB-204",
+  "title": "大腦短路警告 擼妹感度爆棚墮入媚藥性愛！爽到翻白眼變身放蕩女神 ~ 白石桃",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "劇情",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "媚藥・迷藥",
+    "騎乗位",
+    "迷姦",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "TIKB-204为妄想族出品,2025年7月12日发行的有碼成人影片由白石桃出演\n跟一個白皙苗條、身材超辣的撸妹一起嗑藥，腦袋直接燒壞啦！藥效太強，整個人抖不停，真的可愛爆棚！濕滑的小穴配上硬到不行的肉棒，狂內射嗑藥性愛爽到天上去！這影片有點猛（小心反胃），撸過頭別說我沒警告你喔！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024317985985_36527_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024317985985_36527_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4410",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4410&name=白石桃"
+    }
+  ]
+};

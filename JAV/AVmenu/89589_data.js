@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/05/4d0c77b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89589,
+  "IDcode": "SCOP-830",
+  "title": "無料クーポンにつられてやってきたクソ生意気パイパンギャルにオイル媚薬マッサージ 無毛マ●コにオイルが染みこみエビ反りオーガズムで快楽堕ちサロン",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女生",
+    "按摩"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/51ebc141d3fb8d828894e4c186171d99.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89589",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89589&name=AIKA"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240624/4yfAQ8RN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96920,
+  "IDcode": "SVNNP-003",
+  "title": "SVNNP-003",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "放尿",
+    "第一人称摄影",
+    "按摩棒",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96920",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96920&name=本田瞳"
+    },
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96920&name=乃木蛍"
+    },
+    {
+      "name": "朝比奈七瀨",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/e37444af-3172-48be-b1ec-ac58f1829d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96920&name=朝比奈七瀨"
+    }
+  ]
+};

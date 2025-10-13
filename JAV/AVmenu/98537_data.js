@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230106/397F00DA92A0AE3F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98537,
+  "IDcode": "MMGH-284",
+  "title": "はじめての相互オナニーで発情してしまったスケベな女子○生 みく (18) Fカップ",
+  "publish_date": "2020-10-30",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "制服",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1mmgh284/1mmgh284pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98537",
+  "actresses": [
+    {
+      "name": "生驹みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98537&name=生驹みく"
+    }
+  ]
+};

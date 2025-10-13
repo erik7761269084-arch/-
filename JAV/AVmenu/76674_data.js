@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/80vNfBLl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76674,
+  "IDcode": "DANDY-695",
+  "title": "ベビーカーを押しながらラブホテルに入る援交ギャル妻は騎乗位で生ハメしながら手コキをする凄テク★クソビッチ ひなさん 21歳",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "荡妇",
+    "女生",
+    "手淫",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/c7719b9bc694d370488d5706f7e65117.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76674",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76674&name=七海雛"
+    },
+    {
+      "name": "豊田爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76674&name=豊田爱菜"
+    }
+  ]
+};

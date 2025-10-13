@@ -1,0 +1,110 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7bbdb01f-2708-44e6-a732-8d85a44ce69d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/19/eb853656/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7437,
+  "IDcode": "KSBJ-367",
+  "title": "“咕嘰咕嘰”響不停，美熟女抖着爽到高潮28連發！！VOL.05 ~ 汐河佳奈 翔田千裏 矢吹京子 上原千佳 永野つかさ 谷梓 水川蓳 緒方泰子",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "無做愛場面",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "4小時以上作品",
+    "局部特寫",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "精選總編集",
+    "美人",
+    "熟女",
+    "精選綜合"
+  ],
+  "description": "KSBJ-367为妄想族出品,2025年3月18日发行的有碼成人影片由水川蓳，谷梓，永野司，汐河佳奈，翔田千里，上原千佳 ，矢吹京子，緒方泰子出演\n這是 28 位美麗成熟女性的 4 小時自慰！本影片收錄了喪偶婦女為回憶丈夫的過去而自慰的場景、因性生活缺乏而感到沮喪的妻子自慰的場景、被人看到在公共場合自慰會更加興奮的淫蕩妻子、被色情小說激起興奮後自慰的場景、以及一邊聽著手機裡對方的聲音、被人看到在公共場合自慰會更加興奮的淫蕩妻子、被色情小說激起興奮後自慰的場景、以及一邊聽著手機裡對方的聲音一邊自慰的場景等各種由互相熟女錶演的各種由互相自慰！為了緩解城市生活的孤獨，她們沉溺於短暫的享樂而迷失自我！享受！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7437",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=小早川怜子"
+    },
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=水川蓳"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=本真友里"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=翔田千里"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=永野司"
+    },
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=谷梓"
+    },
+    {
+      "name": "川菜美铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/f475ef92-3b3c-4641-a10c-78cc5f5ce09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=川菜美铃"
+    },
+    {
+      "name": "汐河佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250207/85daeb69-b1b7-4c7c-869d-9fbdb3637d04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=汐河佳奈"
+    },
+    {
+      "name": "上原千佳",
+      "img_url": "https://picture.yoshiclub.xyz/20240625/c2e325a2-72c2-45a0-81ed-045c14740064.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=上原千佳"
+    },
+    {
+      "name": "矢吹京子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-溜池ゴロー/AI-Fix-矢吹京子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=矢吹京子"
+    },
+    {
+      "name": "緒方泰子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/緒方泰子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=緒方泰子"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=安倍亜沙美"
+    },
+    {
+      "name": "峰岸カレン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=峰岸カレン"
+    },
+    {
+      "name": "羽咲美亜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=羽咲美亜"
+    },
+    {
+      "name": "樱美雪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7437&name=樱美雪"
+    }
+  ]
+};

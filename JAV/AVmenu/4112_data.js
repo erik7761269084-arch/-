@@ -1,0 +1,93 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14f075d4-5238-4717-9f80-be127b849e66/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/30/c15dc437/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4112,
+  "IDcode": "HODV-21988",
+  "title": "素人人妻內射種付搭訕 周五的寂寞人妻最適合偷情 老公回家前趕緊來一發 ~ 椎名琪琪 中城葵 逢見梨花",
+  "publish_date": "2025-07-25",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "乳釘、穿孔、乳環",
+    "潮吹",
+    "素人",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "口爆",
+    "美腳",
+    "金髮",
+    "清楚系",
+    "拜金女",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "即時插入",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "無毛",
+    "飯店"
+  ],
+  "description": "HODV-21988为H.M.P 芳友舍出品,2025年7月25日发行的有碼成人影片由中城葵，椎名琪琪，逢見梨花出演\n这些藏着老公存在的人妻，只要有个借口就能立马开干！“反正回家也是一个人……老公肯定又在喝酒……就一小会儿嘛……”就算结了婚，她们也想继续做个女人，至少在回家前还能当个风骚的小妖精！追求刺激和出轨快感的人妻，短短的不伦时间就能让身心彻底融化。高档内衣下藏着她们的真实欲望，黄昏时分饥渴难耐，比起老公更想要硬邦邦的男人，理智早就丢到九霄云外。名媛人妻的变态欲望彻底爆发，在猛烈的冲刺中完全沦陷，爽到飞起的欲望至上SEX！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724173323247247_74731_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250724/20250724173323247247_74731_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4112",
+  "actresses": [
+    {
+      "name": "逢見梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231204/25b4a3df-162c-4e1c-b81b-ad41344cc285.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4112&name=逢見梨花"
+    },
+    {
+      "name": "中城葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/09bbbdf9-f79a-473d-b91d-b2071b8b3675.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4112&name=中城葵"
+    },
+    {
+      "name": "椎名琪琪",
+      "img_url": "https://picture.yoshiclub.xyz/20241003/d4e7d181-26fe-4cfa-8c0a-0437f147eedd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4112&name=椎名琪琪"
+    }
+  ]
+};

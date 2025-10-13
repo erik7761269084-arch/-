@@ -1,0 +1,48 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98740,
+  "IDcode": "BBAN-068-",
+  "title": "リアル女友達3人組が仲良しデート後のレズSEXを自撮りしちゃいました！！",
+  "publish_date": "2015-12-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "女同性恋",
+    "OL",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98740",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98740&name=乙愛麗絲"
+    },
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98740&name=阿部乃美久"
+    },
+    {
+      "name": "奏自由",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/b56a5d8f-b017-4287-9e9a-bc04d7ba82ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98740&name=奏自由"
+    },
+    {
+      "name": "星野ひびき",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7fd43f9357098e1c77c48600ac3c0b05.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98740&name=星野ひびき"
+    },
+    {
+      "name": "前田のの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98740&name=前田のの"
+    }
+  ]
+};

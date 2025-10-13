@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/53104b34-094c-4176-9d1d-f2c71f4fc621/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4121,
+  "IDcode": "OFES-021",
+  "title": "限定有寢取願望的夫妻！巨乳人妻口暴挑戰指認老公肉棒 3！10根大雞巴只能用嘴！猜中贏百萬！失敗即被NTR懲罰 ~ 斉藤帆夏 夕美紫苑 都月楓 望月ふうか",
+  "publish_date": "2025-07-25",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "口爆",
+    "綜藝",
+    "美腳",
+    "金髮",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "豐滿",
+    "無毛",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "OFES-021为HAJIME-KIKAKU出品,2025年7月25日发行的有碼成人影片由夕美紫苑，都月楓，斉藤帆夏，望月ふうか出演\n光靠口技就能榨出来，还能凭精液味道认出老公的肉棒吗？而且还不许用手！这次让老婆挑战超刺激的游戏！面对各种奇葩肉棒，腥臭小弟弟、粗头大棒、巨根爆射、浓味猛男、包茎小兄弟，琳琅满目，老婆化身肉棒品鉴师，挑战认出老公的味道！要是猜错，惩罚就是立马被陌生肉棒猛插！究竟哪位人妻能抱走百万大奖？快来看这场刺激对决！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040626620620_38843_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040626620620_38843_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4121",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4121&name=都月楓"
+    },
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4121&name=夕美紫苑"
+    },
+    {
+      "name": "斉藤帆夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231012/8879bb90-10a1-429a-bcf3-4ffc0b78d69a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4121&name=斉藤帆夏"
+    },
+    {
+      "name": "望月ふうか",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250611/db1458b1-cf70-4abc-9763-6e95e65b4e38_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4121&name=望月ふうか"
+    }
+  ]
+};

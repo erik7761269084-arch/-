@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/7eb0f761/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63227,
+  "IDcode": "DVRT-057",
+  "title": "保険のセールスレディをしているデカ尻叔母さんが僕の部屋に泊まりに来て 無防備なパンスト寝姿に我慢できずチ○ポをこすりつけたら朝まで杭打ちピストンでザーメンを絞り取られた！",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "中出",
+    "女上位",
+    "口交",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/7eb0f761/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63227",
+  "actresses": [
+    {
+      "name": "コグレハルト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63227&name=コグレハルト"
+    },
+    {
+      "name": "マサムー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63227&name=マサムー"
+    }
+  ]
+};

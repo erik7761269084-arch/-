@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39843,
+  "IDcode": "63902A811BF0BF28CD08A2964BA5CD07",
+  "title": "まだ「処女」を捨てきれていない、小さなマンコに大人の肉棒無理やり杭打ち",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39843",
+  "actresses": []
+};

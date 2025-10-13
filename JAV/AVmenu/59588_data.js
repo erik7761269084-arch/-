@@ -1,0 +1,22 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59588,
+  "IDcode": "HEYZO_2045",
+  "title": "heyzo_2045 初めてのAV面接-吉村ひとみ",
+  "publish_date": "2019-07-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "背后插入",
+    "第一人称视角(POV)",
+    "人妻",
+    "素人",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2019/08/09/QQ201908091425206d470.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59588",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/jbDFqFDZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89403,
+  "IDcode": "SUJI-203",
+  "title": "背徳が興奮を倍増させる禁断兄妹中出し近親相姦 パイパンこなつ 柏木こなつ",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "放尿",
+    "妹妹",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89403",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89403&name=タツ"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240426/EgjS8rp8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57840,
+  "IDcode": "F1C37A14BC545A60647DF5CD9E99563B",
+  "title": "【日本萝莉】这样的学校太性福了 揉捏爱抚青春肉体插入销魂啊",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57840",
+  "actresses": []
+};

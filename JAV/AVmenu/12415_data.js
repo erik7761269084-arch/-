@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/17247459-481f-417e-912b-2ee54350ca06/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12415,
+  "IDcode": "BACJ-118",
+  "title": "超臉部特寫！ ！調情的同居女友，認真的看着她的臉，一邊一遍又一遍地挑逗 ~ 茉宮渚希",
+  "publish_date": "2024-08-14",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "純粹的慾望",
+    "色白",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "純愛・戀愛",
+    "主觀視角",
+    "自慰",
+    "巨乳",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240826/a9adafd3-0f3d-47db-b86a-6b22f71e820f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240826/a9adafd3-0f3d-47db-b86a-6b22f71e820f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12415",
+  "actresses": [
+    {
+      "name": "茉宮渚希",
+      "img_url": "https://picture.yoshiclub.xyz/20240826/c1756bcc-192b-42ab-a2f2-684d36cc049b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12415&name=茉宮渚希"
+    }
+  ]
+};

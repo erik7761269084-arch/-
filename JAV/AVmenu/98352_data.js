@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221229/8F82D03C439B9247/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98352,
+  "IDcode": "IESP-650",
+  "title": "義妹レズ調教 持田栞里レズ解禁作品",
+  "publish_date": "2019-04-25",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "戏剧",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iesp650/1iesp650pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98352",
+  "actresses": [
+    {
+      "name": "早乙女らぶ",
+      "img_url": "https://picture.yoshiclub.xyz/20240130/8320be60-bfc0-46d6-8641-44fb48570c48.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98352&name=早乙女らぶ"
+    },
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98352&name=持田栞里"
+    }
+  ]
+};

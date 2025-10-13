@@ -1,0 +1,53 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99248,
+  "IDcode": "BBAN-065-",
+  "title": "レズビアンアスリート～グラマラス女子バレーボーラー-熱血！ノ",
+  "publish_date": "2015-12-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "巨乳",
+    "女同性恋",
+    "滥交",
+    "运动短裤",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99248",
+  "actresses": [
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=篠田步美"
+    },
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=春原未来"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=水野朝陽"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=浜崎真绪"
+    },
+    {
+      "name": "香山美桜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=香山美桜"
+    },
+    {
+      "name": "有森凉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99248&name=有森凉"
+    }
+  ]
+};

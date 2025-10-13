@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230126/4ff98924-6457-4dff-9126-f1a2e612fd75/index.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/17/9b3724b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1787,
+  "IDcode": "MKBD-S123",
+  "title": "KIRARI 123 被3根黑屌肏到快失神 : 篠田步美",
+  "publish_date": "2016-04-07",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "苗條",
+    "深喉",
+    "乳交",
+    "中出",
+    "黑人男優",
+    "口交",
+    "多P",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/ee7be870-1892-4c3f-9457-119b8ee54f32.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/ee7be870-1892-4c3f-9457-119b8ee54f32.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1787",
+  "actresses": [
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1787&name=篠田步美"
+    }
+  ]
+};

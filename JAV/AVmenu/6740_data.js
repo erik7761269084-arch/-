@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/66ee7ec4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6740,
+  "IDcode": "JUR-277",
+  "title": "系統錯誤",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417084742289289_thumbnail.webp",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6740",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6740&name=推川悠里"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6740&name=ラヴズ"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/ZFLrjZfD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67682,
+  "IDcode": "MTYD-001",
+  "title": "淫媽媽 千乃安曇",
+  "publish_date": "2015-01-13",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫语",
+    "角色扮演",
+    "原作改编",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67682",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67682&name=蓝井优太"
+    },
+    {
+      "name": "千乃杏美",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cad5ba42130c383298721dc8cb58ef94.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67682&name=千乃杏美"
+    }
+  ]
+};

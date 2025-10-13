@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231007/L4i30Qhc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88410,
+  "IDcode": "MIFD-057",
+  "title": "当時話題の美少女アタッカー、現在は現役女子大生選手！！身長175cm長身美脚デカ尻の現役バレー選手が奇跡のAVデビュー 土谷まな（仮）",
+  "publish_date": "2018-11-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女大学生",
+    "高",
+    "首次亮相",
+    "数位马赛克",
+    "女佣",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231007-1/a04f24f16aaa414c5dcd2b8cc3803008.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88410",
+  "actresses": [
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88410&name=南佳也"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88410&name=玉木玲"
+    }
+  ]
+};

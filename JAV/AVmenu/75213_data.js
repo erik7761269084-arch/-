@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241220/BfsWp7Vg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75213,
+  "IDcode": "HUNTA-715",
+  "title": "「何でそんなにお尻を突き出して仕事してるの？もしかして…誘ってる？」出張サービス（マッサージ師、介護師、個人インストラクター、家政婦など…",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实",
+    "各种职业",
+    "屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241221-1/ae273baf057dcd531f938e7a86449ed0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75213",
+  "actresses": []
+};

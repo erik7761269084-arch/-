@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230208/WcPNxKwn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86562,
+  "IDcode": "UMD-823",
+  "title": "大丈夫、おばさんに任せて！！",
+  "publish_date": "2022-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "荡妇",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/855a68bb0e96ae69c56304c541915da2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86562",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86562&name=鈴木真夕"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86562&name=本真友里"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86562&name=永野司"
+    },
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86562&name=佐佐木明希"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/23/32335281/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100940,
+  "IDcode": "DW-008",
+  "title": "みち",
+  "publish_date": "2014-09-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/23/72c798947f1fe018559aaddf84443a86.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100940",
+  "actresses": [
+    {
+      "name": "橘优花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100940&name=橘优花"
+    }
+  ]
+};

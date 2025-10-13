@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240104/8teLRPsb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89613,
+  "IDcode": "SAN-193",
+  "title": "マザー作品の中で最終的に不幸な結末を迎えてしまった女たち6人",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/9289d09c70929288d2b8700d515682ad.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89613",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89613&name=吉根柚莉爱"
+    },
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89613&name=三岳祐奈"
+    },
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89613&name=七草千歲"
+    },
+    {
+      "name": "爱须みのん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89613&name=爱须みのん"
+    },
+    {
+      "name": "永野枫果",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89613&name=永野枫果"
+    }
+  ]
+};

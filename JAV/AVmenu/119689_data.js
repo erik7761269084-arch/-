@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119689,
+  "IDcode": "FC2PPV-4036482",
+  "title": "[HD/720p] Fc2ppv 4036482 【個撮94】完全顔出し20歳の超スジパイパン大学生 初撮りで野外露出と11連続イキ犯しから中出し後は最再注入後お掃除フェラで2回目はパイズリ発射 期間限定3480pt→2000pt",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119689",
+  "actresses": []
+};

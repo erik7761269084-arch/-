@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220828/E2D298D6C1CA6733/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56748,
+  "IDcode": "EFB6C1AD3439BFA4CF579055EB166C6C",
+  "title": "无码流出 潮汐和汗渍留在人身上 美谷朱里",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56748",
+  "actresses": []
+};

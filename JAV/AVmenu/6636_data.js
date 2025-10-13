@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/723c9ba8-591d-4bfe-a1a6-f12b3f891fb8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/27/09273a2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6636,
+  "IDcode": "KIT-008",
+  "title": "肉感爆乳J杯家政婦的禁忌中出誘惑 ~ 羽月乃蒼",
+  "publish_date": "2025-04-02",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "家政婦",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "美人",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "KIT-008为KANBi出品,2025年4月2日发行的有碼成人影片由羽月乃蒼出演\nJ杯爆乳家政婦『羽月乃蒼』，簡直是性感炸裂，直接把人撩到不行！老婆剛生完孩子回去上班，我在家遠程辦公，一個人帶娃實在頂不住，就請了個家政婦。結果來的這位『乃蒼小姐姐』，身材火辣到爆，J杯大胸直接讓我眼神離不開，工作都幹不下去了！有次在沙發上小眯一會兒，感覺不對勁，睜眼一看，她居然在舔我的小兄弟！那細致的舔弄，簡直讓人欲罷不能，還用J杯大胸給我來了一波喂奶play，直接把我當寶寶寵。騎乘位的時候，她跨上來猛烈搖晃，胸前兩團肉球晃得我眼花繚亂，理智直接崩盤！她還一邊嬌喘一邊求我中出，我哪頂得住這種誘惑，直接在她體內爆射！這肉感爆乳保姆的甜美誘惑，簡直讓人沉淪，禁忌的バブみ中出play，背德感爆棚，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/1d9701f3-0526-41e7-b8f9-c48f6cd7d715_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250424/1d9701f3-0526-41e7-b8f9-c48f6cd7d715_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6636",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6636&name=羽月乃蒼"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/sKyJNEur/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80783,
+  "IDcode": "KTRA-374",
+  "title": "思春期姪っ子 処女喪失セックス 南いろは",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "处女",
+    "中出",
+    "放尿",
+    "乱伦",
+    "乳液",
+    "角色扮演者",
+    "平胸",
+    "主观视角",
+    "过膝袜",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8a4a8a45cda29bc9d3c26b6d637984d3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80783",
+  "actresses": []
+};

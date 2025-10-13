@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230402/034d9c8f-ab47-4d90-9cfa-a04f95c084bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1547,
+  "IDcode": "GS-333",
+  "title": "新入女子社員美人（美乳）偷拍大賽",
+  "publish_date": "2020-05-21",
+  "type": "无码",
+  "company": "GOGOS",
+  "genres": [
+    "中出",
+    "無碼流出",
+    "偷窺"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/1e8b0655-12af-4ebd-8a36-dc9064f643cc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/1e8b0655-12af-4ebd-8a36-dc9064f643cc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1547",
+  "actresses": [
+    {
+      "name": "河北春菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/11153449-5c21-4d03-8bc6-21990115b70a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1547&name=河北春菜"
+    },
+    {
+      "name": "三田杏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/三田杏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1547&name=三田杏"
+    },
+    {
+      "name": "雪美千夏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/雪美千夏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1547&name=雪美千夏"
+    }
+  ]
+};

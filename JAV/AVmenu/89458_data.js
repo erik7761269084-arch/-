@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/hw6eqY4O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89458,
+  "IDcode": "SVSHA-008",
+  "title": "羞恥 生徒同士が男女とも全裸献体になって実技指導を行う質の高い授業を実践する看護学校実習2023",
+  "publish_date": "2023-05-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "手淫",
+    "护士",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89458",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89458&name=八乃翼"
+    },
+    {
+      "name": "篠宮花音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89458&name=篠宮花音"
+    }
+  ]
+};

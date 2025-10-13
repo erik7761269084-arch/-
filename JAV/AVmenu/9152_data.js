@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8e44df5f-9daf-4c52-b3c5-b1a788bb55f6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9152,
+  "IDcode": "CHRV-207",
+  "title": "哥哥給不擅長性愛的妹妹的性愛教習！ 妹妹的爆乳值得一觀！短袖JK無套中出！ H罩杯 97cm ~ 佐山由依",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "辣妹/GAL系",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "羞恥"
+  ],
+  "description": "CHRV-207为妄想族出品,2025年1月14日发行的有碼成人影片由佐山由依出演\n兄弟，我們一起去過節吧！納尼？節日？ ！不不不！為什麼不呢？如果你去參加節日，你的巨乳就會成為目標！這是一個錯誤！呃，呀呀呀，我想要一個節日高潮！不要建立無用的聯繫！我這麼說是因為我擔心Yuitan！好吧！在家慶祝！拋環怎麼樣？你喜歡拋環，對吧？我愛恩！大哥的拋環就是喀噠！呃，什麼樣的事情？",
+  "cover_url": "https://picture.yoshiclub.xyz/20250113/20250113041258204204.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250113/20250113041258204204.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9152",
+  "actresses": [
+    {
+      "name": "佐山由依",
+      "img_url": "https://picture.yoshiclub.xyz/20241012/25cf31aa-7295-42b2-a1db-9fb5e2e490a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9152&name=佐山由依"
+    }
+  ]
+};

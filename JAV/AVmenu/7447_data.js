@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/afe93958-219f-42fc-9f4f-a93779b6184e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/04fd4800/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7447,
+  "IDcode": "SDMM-194",
+  "title": "魔鏡號 穿衣服就行，能不能讓我給你按摩？街頭熱議快閃按摩初體驗！越忍着不叫越爽到不行，跟老公隔着鏡子30cm的人妻忍不住裙底偷情SEX",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "中出",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "綜藝",
+    "美人妻",
+    "人妻",
+    "完全着衣",
+    "公共場所",
+    "地味",
+    "奇異的",
+    "美人",
+    "真實拍攝",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317230700252252.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250317/20250317230700252252.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7447",
+  "actresses": []
+};

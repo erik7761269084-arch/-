@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c29360aa-872f-4475-b970-3abae5edf2f1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18253,
+  "IDcode": "IPX-791",
+  "title": "人生初次中出性愛解禁 二葉惠麻",
+  "publish_date": "2022-01-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "中出",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "口交",
+    "多P",
+    "女優訪談",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231020/20231020004939484484.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231020/20231020004939484484.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18253",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18253&name=二葉惠麻"
+    }
+  ]
+};

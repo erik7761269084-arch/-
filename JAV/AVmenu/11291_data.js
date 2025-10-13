@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/444634dc-3e09-4803-8668-ca3ae85039ba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11291,
+  "IDcode": "NIMA-036",
+  "title": "FANZA同人漫畫系列累計下載量突破37萬！學校逆NTR作品！ 真人版！第一次有女友...全集 ~ 柏木小夏 天月梓",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "漫畫改編",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "文藝女",
+    "原作改編",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "少女",
+    "多P",
+    "蘿莉控",
+    "清純",
+    "校園生活",
+    "雙飛",
+    "兩女一男",
+    "學校",
+    "眼鏡",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "NIMA-036为FITCH出品,2024年10月15日发行的有碼成人影片由柏木小夏，天月梓出演\nCircle Taoruket 熱門同人漫畫《我的第一個女朋友，儘管如此》全集的真人版以及續集《畢業典禮之後》的追加內容！一個夏天的一天，我鼓起勇氣向同為圖書館委員會成員的相澤先生表白了我的感情，我們最終約會了。然而，他的喜悅是短暫的，當他的青梅竹馬Miki-neechan從他有第一個女朋友的那天起就對他很好，突然改變並奪走了她的處女......雖然我因為有女朋友而感到內疚，但我逐漸陷入了三木姊姊的誘惑。有一天，當他在圖書館做愛時，他的女朋友相澤終於發現他和三木姐姐欺騙了她。然而，由於相澤同學的意外言論，我們的關係陷入了混亂…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010093127609609.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010093127609609.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11291",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11291&name=柏木小夏"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11291&name=天月梓"
+    }
+  ]
+};

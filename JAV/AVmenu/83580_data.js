@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/15/4f278f11/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83580,
+  "IDcode": "HND-775",
+  "title": "見た目は男の子 中身はむっつり乙女 控えめで押しに弱いドMちゃんがデカチンでメスイキしまくりナマ中出しAVデビュー 綾瀬みな",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "首次亮相",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83580",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83580&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83580&name=玉木玲"
+    },
+    {
+      "name": "绫瀬みな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83580&name=绫瀬みな"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/21/6cc84549/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62720,
+  "IDcode": "C-2909",
+  "title": "人妻お悩み相談［〇〇七］",
+  "publish_date": "2025-06-21",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62720",
+  "actresses": []
+};

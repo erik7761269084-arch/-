@@ -1,0 +1,102 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c9a5963d-6d53-49c8-b09b-d745cfe8ee84/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/25/8ebd90bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2894,
+  "IDcode": "HSODA-091",
+  "title": "時間靜止健身房！神器操控時間想插就插想停就停 ~ 小鬆杏 西尾真裏奈 園田ひなの 花衣つばき 瀧川蓳 若宮葉月",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "健身房",
+    "臀控",
+    "色白",
+    "凌辱",
+    "健身教練",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "正統派",
+    "口交",
+    "時間停止",
+    "運動服裝",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "運動女孩",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "金髮",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "職場",
+    "大奶头",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "HSODA-091为HUNTER出品,2025年9月4日发行的有碼成人影片由若宮葉月，瀧川蓳，小松杏，西尾真里奈，花衣つばき，園田ひなの出演\n啥？等等！这健身房居然能让时间静止？！天啊，这里竟然有台神器能随心所欲地暂停时间！平时在公司被女同事嫌弃的我，这次可不管那么多！时间停了，谁还管你是谁啊！教练也好，顾客也罢，时间一停，丰满的翘臀和紧实的胸部随便摸！想插就插，毫无顾忌！不管她们是在健身器材上挥汗如雨，还是在泳池里游得正嗨，亦或是在淋浴间冲洗身体，我都能随心所欲地摸、舔、插、释放！时间随便停，随便回，随便玩，爽到爆啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021835533533_35496_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021835533533_35496_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2894",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=若宮葉月"
+    },
+    {
+      "name": "小松杏",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/546418e6-c184-47d5-a5ec-883e8ca0203b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=小松杏"
+    },
+    {
+      "name": "花衣つばき",
+      "img_url": "https://picture.yoshiclub.xyz/20240927/7b95adfc-a57c-411b-9c35-30d23774b174.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=花衣つばき"
+    },
+    {
+      "name": "西尾真里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/24bdd887-15ed-4728-9d5b-b7568e4807ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=西尾真里奈"
+    },
+    {
+      "name": "瀧川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20250404/fa4d489f-50a3-4797-8d60-2612cf71cb3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=瀧川蓳"
+    },
+    {
+      "name": "園田ひなの",
+      "img_url": "https://picture.yoshiclub.xyz/20250320/4b2f0b79-c6ca-4292-be82-95e43ebee2cd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=園田ひなの"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2894&name=トイボーイ相沢"
+    }
+  ]
+};

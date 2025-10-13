@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/EA63D1330C6E4849/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36467,
+  "IDcode": "7677F1F19C530020D9DA5F6D44835B-36",
+  "title": "黑客入侵AV片商蚊香社第五彈現役人氣女神愛音麻裡亞強番GNE-203無馬流出",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36467",
+  "actresses": []
+};

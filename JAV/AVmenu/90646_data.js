@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240123/Tl5xIKFW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90646,
+  "IDcode": "NOSKN-040",
+  "title": "SNSで話題のタトゥー美少女が会ったその日に初めての生ハメ 大量潮吹き＆中出しオフパコ 柊ゆうき@ノースキンズ！【中出しドキュメント】",
+  "publish_date": "2023-06-02",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "中出",
+    "姐姐",
+    "潮吹",
+    "纪录片",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/001d57e5a3c3c8de84165acd277dc113.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90646",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90646&name=柊有希"
+    }
+  ]
+};

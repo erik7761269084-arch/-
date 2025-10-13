@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/6SmBJjjb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76692,
+  "IDcode": "SW-682",
+  "title": "満員バスでピタパンデカ尻奥さんの透けたパンティラインに激しく反応しちゃった思春期学生の下半身！尻に突き当たってくるカチカチ元気チ○コに奥さんのお股もズブ濡れでピタパンがお漏らし透け透け状態。我慢できずその場でヤッちゃった。",
+  "publish_date": "2020-01-23",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "已婚妇女",
+    "放尿",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76692",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76692&name=藤森里穂"
+    },
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76692&name=持田栞里"
+    },
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76692&name=瀬戸すみれ"
+    }
+  ]
+};

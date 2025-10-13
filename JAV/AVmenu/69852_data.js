@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/Y4lzuZE4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69852,
+  "IDcode": "VEC-365",
+  "title": "妻の女友達に狙われた僕は中出しを拒めない 風間ゆみ",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69852",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69852&name=風間由美"
+    }
+  ]
+};

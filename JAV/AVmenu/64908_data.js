@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 64908,
+  "IDcode": "B6E13696521417F1CAA04BE83C0353D5",
+  "title": "老爸出门2秒就干炮的母子 流田美奈实",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64908",
+  "actresses": []
+};

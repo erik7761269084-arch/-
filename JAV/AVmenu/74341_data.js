@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250113/6FeUtkmW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74341,
+  "IDcode": "STARS-101",
+  "title": "美人キャビンアテンダントを高級ホテルの一室でいいなり調教 市川まさみ",
+  "publish_date": "2019-08-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "姐姐",
+    "制服",
+    "苗条",
+    "调教",
+    "空中小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/a6b5f18091c6963494561cbe94eae89d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74341",
+  "actresses": [
+    {
+      "name": "市川雅美",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/659b1fe6-bc01-4486-b40b-110cc54dd371.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74341&name=市川雅美"
+    }
+  ]
+};

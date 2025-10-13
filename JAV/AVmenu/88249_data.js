@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/c2364285/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88249,
+  "IDcode": "JUL-011",
+  "title": "マドンナ移籍専属 第2弾！！ 出張先のビジネスホテルでずっと憧れていた女上司とまさかまさかの相部屋宿泊 加藤沙季",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "乳房",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88249",
+  "actresses": [
+    {
+      "name": "加藤沙季",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88249&name=加藤沙季"
+    }
+  ]
+};

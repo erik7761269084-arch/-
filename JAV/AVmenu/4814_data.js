@@ -1,0 +1,101 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3435ded9-3fc9-48a6-838e-874351bc5739/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4814,
+  "IDcode": "DHLD-020",
+  "title": "地位翻轉 狂野追擊活塞內射SEX 慾求不滿的人妻把處男調教成玩咖大神 ~ 戶川奈美 白河花清 及川海 岬櫻 花里明理",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "貧乳",
+    "勾引・誘惑",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "熟女",
+    "大奶头",
+    "短髮",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "處男"
+  ],
+  "description": "DHLD-020为OFFICE K’S出品,2025年7月1日发行的有碼成人影片由白河花清，及川海，戶川奈美，花里明理，岬櫻出演\n一群慾求不滿的人妻覺得處男小弟太有趣，忍不住下手調教，沒想到這小弟一開始還青澀害羞，慢慢卻被開發出超猛性技，戰鬥力直接飆升！最後竟然反過來主導，變成絕倫猛男，用狂野追擊活塞把人妻們一次次內射到腳軟，從DT進化成玩咖大神，地位徹底翻轉的超嗨故事！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250701/20250701203237924924_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250701/20250701203237924924_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4814",
+  "actresses": [
+    {
+      "name": "花里明理",
+      "img_url": "https://picture.yoshiclub.xyz/20240809/8a43a8a1-640f-4446-9699-eda73d11dc07.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4814&name=花里明理"
+    },
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4814&name=岬櫻"
+    },
+    {
+      "name": "戶川奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/ea014a96-8ea9-4081-bb38-038531aaf804.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4814&name=戶川奈美"
+    },
+    {
+      "name": "及川海",
+      "img_url": "https://picture.yoshiclub.xyz/20240104/ea1c595e-a07d-4e7f-a7f4-f866c87c2521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4814&name=及川海"
+    },
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4814&name=白河花清"
+    }
+  ]
+};

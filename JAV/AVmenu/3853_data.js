@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ade5b1fa-1309-40ed-bb7d-156c7b8e9720/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/08/b0da8443/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3853,
+  "IDcode": "KSBJ-391",
+  "title": "寄宿主人家的風騷人妻把我玩弄於股掌之間 ~ 藤咲紫",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "老闆娘，女主人",
+    "豐滿"
+  ],
+  "description": "KSBJ-391为KSB企畫出品,2025年8月2日发行的有碼成人影片由藤咲紫出演\n为了找工作，我通过老爸的关系，暂时寄宿在东京一对夫妇家里。没想到，男主人突然出差三天，家里只剩我和那个浑身散发着色气的大嫂紫姐独处…我心里小鹿乱撞，紧张得不行。某天我在看一本纯文学书，紫姐瞅准书里‘禁忌之恋’的梗，立马开始勾引我，撩得我完全把持不住，直接起了反应…这气氛，简直要命！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032743451451_94815_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032743451451_94815_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3853",
+  "actresses": [
+    {
+      "name": "藤咲紫",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/a2f08c24-acdb-4780-a800-279fba4951da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3853&name=藤咲紫"
+    }
+  ]
+};

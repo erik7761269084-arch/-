@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1d486cbe-de51-4c42-89c7-f381381375a8/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/22/dbf270d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16878,
+  "IDcode": "JUQ-525",
+  "title": "天真漂亮的女播音員有瘀傷，可愛的已婚婦女水無月尤裏 32 歲 AV DEBUT 首次亮相！",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "企畫",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "出道作品",
+    "情趣內衣",
+    "人妻",
+    "出軌",
+    "女優訪談",
+    "熟女",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "JUQ-525为MADONNA出品,2024年1月9日发行的有碼成人影片由水無月百合出演\n天真漂亮的女播音員身上有傷痕和可愛的已婚女人「水無月由裏」32 歲 AV 首次亮相！ ！一個讓你時時刻刻都想看的美麗、微笑的妻子，有一種熟悉感和距離感，讓你墜入愛河！ ！ “我已經很久沒有遇到丈夫以外的男人了，所以我很興奮……”結婚6年，她的不忠一發不可收拾！ ！出軌的那一刻，笑容消失，猛然化作一張淫蕩的女臉！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106053112738738.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/20240106053112738738.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16878",
+  "actresses": [
+    {
+      "name": "水無月百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240108/77a84e34-1502-4a4f-b1f6-cfe210e300ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16878&name=水無月百合"
+    }
+  ]
+};

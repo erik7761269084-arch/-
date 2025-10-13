@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/SJ9reQkQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94579,
+  "IDcode": "NSFS-301",
+  "title": "友だちの母ちゃん4 ～息子の友達でパンツを濡らした母～ 藤咲紫 （BOD）",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "多P",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/562939837e3843f666f4c9f37f68eaf7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94579",
+  "actresses": [
+    {
+      "name": "藤咲紫",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/a2f08c24-acdb-4780-a800-279fba4951da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94579&name=藤咲紫"
+    }
+  ]
+};

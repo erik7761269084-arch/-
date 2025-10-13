@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/30/04973381/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85405,
+  "IDcode": "MIDV-086",
+  "title": "バイトで終電を逃して泊まりに来た幼なじみのすっぴん素顔と成長したカラダに理性が吹き飛んだボクは朝まで何度もセックスをした… 小野六花",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "口交",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85405",
+  "actresses": []
+};

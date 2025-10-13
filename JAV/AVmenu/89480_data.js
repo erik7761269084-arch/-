@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241102/2OLRZNS4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89480,
+  "IDcode": "SVVRT-033",
+  "title": "素人バラエティ親友同士が挑戦する 逆転手コキバトル＞battle＜手コキしてるキミが射精させたらLOSER！即ハメ中出しセックスDEATH！勝ったら賞金10万円！‘仁義なきロシアン’ルーレット手コキ",
+  "publish_date": "2023-09-07",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "乳交",
+    "中出",
+    "多P",
+    "69",
+    "颜射",
+    "手淫",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89480",
+  "actresses": []
+};

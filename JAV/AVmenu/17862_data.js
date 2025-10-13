@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd5f82ed-e00c-4524-a585-e88bdc8bff19/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/10/92561c37/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17862,
+  "IDcode": "MDBK-308",
+  "title": "被人霸凌而輟學後去了職業學校！ 我的青春來了！",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "劇情",
+    "中出",
+    "亂交 • 群P",
+    "性感",
+    "多P",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "兩女一男",
+    "學校"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231112/bb81bca1-5b9c-475b-b10f-7fc10f6cb4ca.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231112/bb81bca1-5b9c-475b-b10f-7fc10f6cb4ca.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17862",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17862&name=乙愛麗絲"
+    },
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17862&name=椿莉香"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17862&name=新村朱里"
+    },
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17862&name=新村晶"
+    }
+  ]
+};

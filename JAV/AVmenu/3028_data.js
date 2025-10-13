@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/51521261-1e1b-4d1f-a9ff-1230ba634e98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3028,
+  "IDcode": "IPZZ-659",
+  "title": "清楚系美人外表甜美內心狂野 用逆天技巧榨幹你每一滴精液 最高級連射風俗店 ~ 望月凜音",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "童顔",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "泡姬",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "素股",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "女上位",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "拜金女",
+    "單體作品",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "IPZZ-659为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由望月凜音出演\n嘿，兄弟，你去过风俗店没？去过？那你看了这片绝对能感受到不一样！这位年轻又气质满满的泡泡姬，技术简直神到爆，用各种绝活把你伺候得爽上天，绝对是顶级风俗体验！没去过？那更得看看这片！年轻貌美，身材娇小，肌肤嫩得能掐出水，贴上来直接把你融化。服务又细腻又浓烈，保准让你心动到不行，忍不住真香警告！这位童颜系顶级美少女，五个环节连射不停，10次高潮服务让你一次爽个够，快来体验这致命诱惑吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025159118118_77249_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025159118118_77249_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3028",
+  "actresses": [
+    {
+      "name": "望月凜音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250605/367f3de7-7286-4f99-8b80-c6285d825ed1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3028&name=望月凜音"
+    }
+  ]
+};

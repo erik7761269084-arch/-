@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/29/4ec39de6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115486,
+  "IDcode": "FC2-3867921",
+  "title": "一个认真又天真的18岁女孩",
+  "publish_date": "2025-08-30",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/29/4ec39de6/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115486",
+  "actresses": []
+};

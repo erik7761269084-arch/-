@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ba728ac2-f528-4db2-b38c-97e033ee68d2/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/23/f96c9f8f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18040,
+  "IDcode": "MIDV-486",
+  "title": "妻子不在的三天內，我總算迷姦了饞了二年的繼女白都四季",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "繼父",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "性感",
+    "少女",
+    "美少女",
+    "手指插入",
+    "按摩棒",
+    "養女"
+  ],
+  "description": "MIDV-486为MOODYZ出品,2023年11月7日发行的有碼成人影片由白都四季出演\n在母親再婚後，繼女白都四季很快就和繼父相處的很好，這是一個充滿歡笑的溫馨家庭。 某天，媽媽要離家出差，白都四季將和繼父獨處三天。 然後那天晚上，繼父發瘋了。 「這兩年我一直夢想著操你」 他偷偷給我下了媚藥後就對我下手了。 我被繼父幹了！ 身體扭曲到了高潮，媽媽回來時我已經被調教成繼父的肉便器了。\n在母親再婚後，繼女白都四季很快就和繼父相處的很好，這是一個充滿歡笑的溫馨家庭。 某天，媽媽要離家出差，白都四季將和繼父獨處三天。 然後那天晚上，繼父發瘋了。 「這兩年我一直夢想著操你」 他偷偷給我下了媚藥後就對我下手了。 我被繼父幹了！ 身體扭曲到了高潮，媽媽回來時我已經被調教成繼父的肉便器了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231104/ef4fd268-96d9-49a4-970a-e19172c2f45d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231104/ef4fd268-96d9-49a4-970a-e19172c2f45d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18040",
+  "actresses": [
+    {
+      "name": "白都四季",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/e987248d-c6cd-4e0a-8f60-3319ab9afc92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18040&name=白都四季"
+    }
+  ]
+};

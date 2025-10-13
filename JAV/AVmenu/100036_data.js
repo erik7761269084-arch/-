@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230309/7506B206790F4860/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100036,
+  "IDcode": "IDRK-004",
+  "title": "美人すぎる男根アクメ女子AV出演4 雛乃せいら",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "颜射",
+    "母乳",
+    "深喉",
+    "学校泳装",
+    "变性者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100036",
+  "actresses": []
+};

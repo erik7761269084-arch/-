@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230908/qoryBcZt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54656,
+  "IDcode": "C9C4B98ABE51D56382FAA71F09AC02BC",
+  "title": "鸡巴洞 如果鸡巴从墙里出来......",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54656",
+  "actresses": []
+};

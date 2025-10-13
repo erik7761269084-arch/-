@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220419/50D8E4D88E17CD55/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58402,
+  "IDcode": "HEYZO-1105",
+  "title": "大学の友達だという男女に卑猥な企画を持ちかけてみました　後編 - 佐々木うの",
+  "publish_date": "2016-03-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "69",
+    "淫语",
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "出轨",
+    "苗条",
+    "素人",
+    "辣妹",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58402",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/01/7758917f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63830,
+  "IDcode": "NATR-752",
+  "title": "まるまる！美園和花",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63830",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63830&name=美園和花"
+    }
+  ]
+};

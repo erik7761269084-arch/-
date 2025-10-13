@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220919/YWM2Yl2q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100361,
+  "IDcode": "SIRO4985",
+  "title": "高挑長腿美女沒有性愛經驗 童貞奪取",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100361",
+  "actresses": [
+    {
+      "name": "みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100361&name=みく"
+    }
+  ]
+};

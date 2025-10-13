@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220518/72574359F068197E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64176,
+  "IDcode": "B1E3B348E554F71CA8A5E0679BEB2FB-6",
+  "title": "会让人想抱住般上瘾的最棒爱人 褐色肌肤金髪美女 胡桃 30歳",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64176",
+  "actresses": []
+};

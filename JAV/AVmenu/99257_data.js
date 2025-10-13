@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/2093343F485BC980/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99257,
+  "IDcode": "DGCESD-837",
+  "title": "★配信限定！特典映像付★仲良し2人が初めて本気で愛し合うレズビアン 野々原なずな 八尋麻衣",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "69",
+    "女同性恋",
+    "舔阴",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dgcesd837/dgcesd837pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99257",
+  "actresses": [
+    {
+      "name": "野野原薺",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ddc8286c-a8a3-4658-b234-f724ff12c3dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99257&name=野野原薺"
+    },
+    {
+      "name": "八寻麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99257&name=八寻麻衣"
+    }
+  ]
+};

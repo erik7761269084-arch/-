@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/12/9f432147/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79806,
+  "IDcode": "STARS-441",
+  "title": "ガチ禁欲30日間したら、ケダモノの様にチ○ポを咥えて勝手にSEX開始！敏感おま●こがガクブル絶頂の3本番！性欲大爆発！朝田ひまり",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "制服",
+    "乳房",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79806",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79806&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79806&name=小田切ジュン"
+    }
+  ]
+};

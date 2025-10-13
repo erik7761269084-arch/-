@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/28/3a926daa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89325,
+  "IDcode": "STARS-912",
+  "title": "童顔Fカップの天真爛漫娘が出勤決定！無制限発射OKで連続ナマ中出しさせてくれる 完全会員制ソープ 百仁花",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "妓女",
+    "乳液",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/29780cc462b3eaa01432a3cee907e553.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89325",
+  "actresses": [
+    {
+      "name": "百仁花",
+      "img_url": "https://picture.yoshiclub.xyz/20231110/61a5c03c-5332-48b2-abba-82548d118136.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89325&name=百仁花"
+    }
+  ]
+};

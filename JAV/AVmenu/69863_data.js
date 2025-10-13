@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/aq6ft2wf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69863,
+  "IDcode": "UMSO-276",
+  "title": "いつも行くレンタルビデオ屋の爆乳店員が隣に引っ越してきた！？「いつもエッチなビデオ借りてる人ですよね？」って言うその娘は結構な痴女だった…",
+  "publish_date": "2019-10-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "荡妇",
+    "超乳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/fdfe24521b7a573cc907e6c703db4155.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69863",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69863&name=塚田詩織"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69863&name=凛音とうか"
+    },
+    {
+      "name": "逢澤理衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/7a596a53-16e7-4d13-9446-cdb1739a0c79_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69863&name=逢澤理衣奈"
+    },
+    {
+      "name": "优木いおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69863&name=优木いおり"
+    }
+  ]
+};

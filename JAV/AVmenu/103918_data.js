@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240522/tAgdGClT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103918,
+  "IDcode": "HMN-238",
+  "title": "【FANZA限定】箱入り娘のお嬢様女子大生 はじめてのナマ中出し 水湊楓 生写真2枚付き",
+  "publish_date": "2022-08-24",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "女大学生",
+    "第一人称摄影",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103918",
+  "actresses": [
+    {
+      "name": "水湊楓",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250524/ef6e82b8-8cc1-4404-843b-20385bb49eab_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103918&name=水湊楓"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103918&name=Qべぇ"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56218,
+  "IDcode": "3F6A679656FF7DBEC83F74474AACEAC3",
+  "title": "小胸娘 星野美红",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56218",
+  "actresses": []
+};

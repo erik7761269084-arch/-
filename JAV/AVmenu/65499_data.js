@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220619/28C86AE092FAF8CD/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65499,
+  "IDcode": "D02EFCA5EF5605A71E390FC49A24646C",
+  "title": "思わず●RECしたくなる着衣爆乳おっぱい 尾上若叶",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65499",
+  "actresses": []
+};

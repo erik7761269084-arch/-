@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1530fef3-ff43-4c08-9167-8a4e2c29bcba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15695,
+  "IDcode": "GOJI-022",
+  "title": "一個老人強奸一個女孩並射在女孩體內",
+  "publish_date": "2024-03-31",
+  "type": "有码",
+  "company": "五次元",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "手指插入",
+    "按摩棒",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401045642733733.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240401/20240401045642733733.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15695",
+  "actresses": []
+};

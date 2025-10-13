@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/734e50ce-2c30-4354-ac69-2478eedd43bc/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/583305e5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2787,
+  "IDcode": "MIDA-330",
+  "title": "憧憬中的泳池女神三森環奈學姐被水泳部員輪⬤ ~ 三木環奈",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "超爆乳",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "運動",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "泳池",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "運動女孩",
+    "少女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "更衣室",
+    "清純",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "學校",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "同學",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MIDA-330为MOODYZ出品,2025年9月11日发行的有碼成人影片由三木環奈出演\n【泳装J杯爆乳被揉爆轮番NTR】环奈学姐，泳队队长，人美心善，一直是队员们心目中的白月光。她刻苦训练，实力超群，大家都佩服得五体投地。可就因为她太有正义感，惹上了泳队里的不良混子，被盯上那丰满火辣的身材，天天被觊觎欺负……教室里、换衣间，哪里都逃不过，被一群肌肉壮汉强行压迫，硬生生堕落成他们的玩物！我想救她，可身体却动弹不得，只能眼睁睁看着学姐被侵犯，内心纠结到硬了却无能为力，简直心碎又羞耻！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014429984984_62539_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014429984984_62539_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2787",
+  "actresses": [
+    {
+      "name": "三木環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20241212/a1a98275-c079-4e9b-aae5-fcbbf81e8e25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2787&name=三木環奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2787&name=左慈半造"
+    }
+  ]
+};

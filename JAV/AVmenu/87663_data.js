@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/iNjHawOM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87663,
+  "IDcode": "SSIS-737",
+  "title": "三上悠亜ラストハードファック！120分120回イク！究極のワンカット人生最多オーガズム性交 （ブルーレイディスク）",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "偶像",
+    "乳房",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87663",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87663&name=三上悠亜"
+    }
+  ]
+};

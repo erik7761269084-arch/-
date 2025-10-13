@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/F480FC43AB4859D8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36643,
+  "IDcode": "681FEDFED91C69CAF9793EAA63462E-86",
+  "title": "JD3回ちゃんでイシュタルさまPart2！",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "WAAP GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36643",
+  "actresses": []
+};

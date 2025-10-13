@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220326/8DF16B3B20E07F61/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97514,
+  "IDcode": "JARB-008",
+  "title": "姦通 団地妻と間男",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97514",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97514&name=北条麻妃"
+    },
+    {
+      "name": "伊藤まい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97514&name=伊藤まい"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230108/NZ9rpkaR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84384,
+  "IDcode": "DVDMS-885",
+  "title": "真夏的讓人舔屁眼妹子～flavors×魔鏡號合作企劃～舔流汗肛門聞嗅未爆超興奮！肛門密著強壓發情失禁高潮露出屁眼做愛癡女 澤北南",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "荡妇",
+    "屁股",
+    "舔阴",
+    "泳装",
+    "和服，丧服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84384",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84384&name=鳳美優"
+    }
+  ]
+};

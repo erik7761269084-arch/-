@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b09bc875-9356-44d9-81d9-a5990bf1b11e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10690,
+  "IDcode": "EKDV-759",
+  "title": "童貞被青梅竹馬奪走……大長腳的她成爲了處男的性練習夥伴 ~ 宮城理惠",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "後入",
+    "黑絲",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美少女",
+    "青梅竹馬",
+    "自慰",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "足交",
+    "美少女電影",
+    "女學生",
+    "處男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241111/adc1c4d5-e9d6-48a8-9d4a-843b6da172d5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241111/adc1c4d5-e9d6-48a8-9d4a-843b6da172d5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10690",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10690&name=宮城理惠"
+    }
+  ]
+};

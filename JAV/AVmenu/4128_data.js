@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bff8ebae-cf07-4515-acc7-dd54b5cb49fb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4128,
+  "IDcode": "OFES-020",
+  "title": "曬痕巨乳辣妹人妻的瘋狂自宅NTR ~ 夏川步美",
+  "publish_date": "2025-07-25",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "港區女子",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "金髮",
+    "自慰",
+    "美人妻",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "女優訪談",
+    "NTR",
+    "約炮",
+    "美人",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "豐滿",
+    "無毛"
+  ],
+  "description": "OFES-020为KIRAKIRA出品,2025年7月25日发行的有碼成人影片由夏川步美出演\n超会玩的性欲怪兽辣妹妈妈来袭！约会途中居然在厕所自慰？用电动棒搞得嗨爆，还嚷着要口交...这辣妹也太骚了吧！到了宾馆立马跟小鲜肉开干，晒痕加上G杯大奶简直性感炸裂！肉感巨臀疯狂冲刺，逼得鸡巴差点断掉，还要强迫中出！几天后去她家拜访，孩子就在隔壁房间睡觉，她却直接来了一场肉搏3P！骑乘位的啪啪声会不会吵醒小孩啊？被两个大屌男夹在中间，育儿压力全靠高潮释放，连续高潮停不下来！这波自宅NTR全程高能，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724041727127127_48348_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250724/20250724041727127127_48348_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4128",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4128&name=夏川步美"
+    }
+  ]
+};

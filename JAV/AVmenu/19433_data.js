@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230510/bbd549c5-1121-493b-b6a3-b9673e6a92fa/index.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/09/0bc3d7e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19433,
+  "IDcode": "IPX-091",
+  "title": "與相澤南真實戀愛 勃起肉棒妄想檔案",
+  "publish_date": "2018-02-07",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "蠻橫嬌羞",
+    "數位馬賽克",
+    "亂倫",
+    "處男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230509/20230509232912816816.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230509/20230509232912816816.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19433",
+  "actresses": [
+    {
+      "name": "相澤南",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/e6f1f2e9-2fa9-424b-bf11-7aa2aabf6de4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19433&name=相澤南"
+    }
+  ]
+};

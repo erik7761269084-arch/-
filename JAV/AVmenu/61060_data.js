@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/6f371038/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61060,
+  "IDcode": "EROFV-321",
+  "title": "元プロゴルファーのハーフ美女 海外遺伝子のSEX狂！身悶え雄叫び絶頂の限りを尽くす本気獣交尾！エロスの天才、SEXの逸材。",
+  "publish_date": "2025-08-09",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/6f371038/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61060",
+  "actresses": []
+};

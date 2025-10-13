@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240626/ybmHZIwd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92001,
+  "IDcode": "KANO-001",
+  "title": "つむぎ＆あおい",
+  "publish_date": "2022-05-11",
+  "type": "有码",
+  "company": "月刊彼女",
+  "genres": [
+    "精选，综合",
+    "淫乱，真实",
+    "女同性恋",
+    "投稿",
+    "接吻",
+    "女同接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92001",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92001&name=枢木葵"
+    },
+    {
+      "name": "成田紬",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/9558b34c-765a-4e72-9146-37d0761515ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92001&name=成田紬"
+    }
+  ]
+};

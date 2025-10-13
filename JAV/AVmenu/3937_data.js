@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fc37c076-1028-4f74-bf04-3d40593ccc62/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/cd2ec9a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3937,
+  "IDcode": "GVH-764",
+  "title": "巨乳媽媽的超刺激服務，家裏專屬的風俗娘 ~ 北野未奈",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "奇聞趣事",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "母子",
+    "美人",
+    "母親",
+    "亂倫",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "GVH-764为GLORY QUEST出品,2025年8月2日发行的有碼成人影片由北野未奈出演\n超级恋母的儿子把巨乳妈妈调教成自己专属的风俗小姐！主妇未奈发现一直深爱的丈夫偷偷去风俗店，气炸了决定以牙还牙，自己也跑去风俗店上班。结果被宝贝儿子优一发现了妈妈的秘密，直接逼近妈妈：“妈妈的胸本来就该是我的吧！”满腔嫉妒的他霸占了未奈的巨乳，甚至要求妈妈提供店里都没有的超限服务！未奈渐渐沉沦在与优一的禁忌亲密接触中，无法自拔……这剧情，简直不要太刺激！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032451794794_59834_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032451794794_59834_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3937",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3937&name=北野未奈"
+    }
+  ]
+};

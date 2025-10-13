@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240524/wM8NM3Ru/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91685,
+  "IDcode": "ACZD-122",
+  "title": "女王様の便器奴● 新川ゆず",
+  "publish_date": "2023-09-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "放尿",
+    "纪录片",
+    "粪便",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91685",
+  "actresses": [
+    {
+      "name": "新川ゆず",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/560ea720-addb-4e7d-8480-ce0196960333_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91685&name=新川ゆず"
+    }
+  ]
+};

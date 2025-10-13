@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c120adbe-6a45-49b9-a425-7f23deb83092/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/20/a5611464/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10299,
+  "IDcode": "CAWD-749",
+  "title": "出道七年，沉浸在對女人身體了如指掌的超級好色大叔的粘液、氣味、氣氛、愛撫技巧中 ~ 伊藤舞雪",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "女優訪談",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "CAWD-749为KAWAII出品,2024年12月3日发行的有碼成人影片由伊藤舞雪出演\n伊藤舞幸自出道以來就表示自己喜歡年長的男人，成為AV女優已經7年了，在與各種AV男優發生性關係後她意識到，經驗豐富的中年男人最擅長做愛！ - 了解有關女性身體和性感區的一切！・完善的照護和後續！我感覺很安全！・黏稠且需要大量時間的愛撫是最好的！・我喜歡我呼吸中獨特的味道！・我無法抗拒輕鬆緩慢的氛圍！・女人第一，自己的快樂第二！・他的接吻和舔舐技巧又黏又色情！我在一些拍攝場景和戲劇製作中與年長的男人發生過性關係，但這是我第一次在只有一個老人的戲劇製作中......當我和我最喜歡的叔叔發生性關係時，會發生什麼樣的化學反應？",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128090030583583.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128090030583583.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10299",
+  "actresses": [
+    {
+      "name": "伊藤舞雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/8926413a-85ad-46dd-897e-24b65bcb4d3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10299&name=伊藤舞雪"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10299&name=田渊正浩"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10299&name=大岛丈"
+    }
+  ]
+};

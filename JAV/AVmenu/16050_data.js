@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/95ea8063-bbc0-4c98-a401-010580157577/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16050,
+  "IDcode": "MDBK-324",
+  "title": "「教室」・「図書室」・「夜の學校」勾引M男到極限的淫婦J？ ？",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "中出",
+    "淫語",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240227/4f535e1b-91df-4f72-8fec-ae2663795bf3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240227/4f535e1b-91df-4f72-8fec-ae2663795bf3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16050",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16050&name=森日向子"
+    },
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16050&name=一条美緒"
+    },
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16050&name=水卜麻衣奈"
+    }
+  ]
+};

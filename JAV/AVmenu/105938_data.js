@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/13/9365bc7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105938,
+  "IDcode": "WANZ-796",
+  "title": "「もうイッてるってばぁ！」状態で何度も中出し！ JULIA",
+  "publish_date": "2018-10-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/13/58f3fcc4d869318a6b08201866da056f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105938",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105938&name=JULIA"
+    }
+  ]
+};

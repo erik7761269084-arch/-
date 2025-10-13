@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/27/b0c17d1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67205,
+  "IDcode": "HDKA-319",
+  "title": "はだかの主婦 巨尻特化セレクションVOL.01 （BOD）",
+  "publish_date": "2025-05-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "已婚妇女",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/27/90c3bff99e867ced5cfb29a16ed4bad7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67205",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=小早川怜子"
+    },
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=風間由美"
+    },
+    {
+      "name": "村上涼子",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/e32a1800-18a8-4a37-90d5-33880fa0fc5b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=村上涼子"
+    },
+    {
+      "name": "寺島志保",
+      "img_url": "https://picture.yoshiclub.xyz/20250223/9ca369d3-2f3f-4a3b-8246-3a9b2458eda6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=寺島志保"
+    },
+    {
+      "name": "桃田香織",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/桃田香織.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=桃田香織"
+    },
+    {
+      "name": "松坂美纪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/22c81e82-4e6f-4a3d-9e9f-1d8e8a797b82_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=松坂美纪"
+    },
+    {
+      "name": "加山なつ子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/1855e6b0-af8c-48bc-988d-59e26c269961_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=加山なつ子"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=安倍亜沙美"
+    },
+    {
+      "name": "樱井夕树",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=樱井夕树"
+    },
+    {
+      "name": "折原ゆかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=折原ゆかり"
+    },
+    {
+      "name": "朝雾ゆう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67205&name=朝雾ゆう"
+    }
+  ]
+};

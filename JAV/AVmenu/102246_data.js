@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240528/F3bnJ4Kw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102246,
+  "IDcode": "MXGS-1112",
+  "title": "妖艶な肉体を喪服で包み込んだ未亡人は夫の命日に犯される 篠田れいこ",
+  "publish_date": "2019-07-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "凌辱",
+    "寡妇",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102246",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102246&name=大岛丈"
+    },
+    {
+      "name": "宫川ありさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102246&name=宫川ありさ"
+    }
+  ]
+};

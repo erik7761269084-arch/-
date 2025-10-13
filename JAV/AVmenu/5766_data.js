@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f72db1a6-8dce-4d0a-82ac-7924b4312d6c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5766,
+  "IDcode": "TFOR-003",
+  "title": "J杯爆乳人妻出軌被抓包！老公面前和同學羞恥公開NTR加強制3P ~ 愛川鈴",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美人妻",
+    "情趣內衣",
+    "清純",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "TFOR-003为MERCURY出品,2025年5月27日发行的有碼成人影片由愛川鈴出演\nJ杯頂級人妻偷情被老公抓到，直接被逼上羞恥公開NTR的舞台！結婚四年，老公有點ED，人妻心裡早就一肚子火，偷偷跟中學同學搞上了。結果老公發現真相後不離婚，但有個條件：必須讓他親眼看現場！人妻沒辦法只好硬著頭皮答應。尷尬到爆的氣氛中，老公盯著老婆跟情人的激情戲，情緒卻從憤怒慢慢變成興奮……最後竟然直接加入，玩起了3P大亂鬥！羞恥、嫉妒和快感交織，這部真實NTR紀錄片簡直刺激到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527113427642642_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250527/20250527113427642642_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5766",
+  "actresses": [
+    {
+      "name": "愛川鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240415/500884a0-5fad-4ab5-9ee1-c34e9415a0b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5766&name=愛川鈴"
+    }
+  ]
+};

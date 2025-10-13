@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0fb2f3d1-7e4a-4abe-8d43-0452c93ab97b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16087,
+  "IDcode": "DASS-341",
+  "title": "不肯放棄童貞的掠奪性家庭主婦",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "劇情",
+    "巨尻",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "口交",
+    "慾求不滿",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "DASS-341为DASDAS出品,2024年2月27日发行的有碼成人影片由永井瑪麗亞出演\n永井マリア嫁給了年長的丈夫，由於丈夫年老而缺乏性生活，她每天都感到性欲旺盛。與此同時，一名年輕的處男搬進了隔壁的房子。瑪麗亞從來不像現在這樣迷上這個年輕人，她接近他並假裝照顧來引誘他。吸吮一個喜歡的年輕人的大雞巴，並貪婪索取更多。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230918976976.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240225/20240224230918976976.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16087",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16087&name=永井瑪麗亞"
+    }
+  ]
+};

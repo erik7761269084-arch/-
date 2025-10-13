@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56061,
+  "IDcode": "4C53F57084ADF3E0E9E8B43CE02E4349",
+  "title": "干柴烈火~一点就着",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56061",
+  "actresses": []
+};

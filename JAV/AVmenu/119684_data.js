@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119684,
+  "IDcode": "FC2PPV-4030206",
+  "title": "【無修正】",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/23/b6c9e67530cc060bc4b699f6b9aed6be.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119684",
+  "actresses": []
+};

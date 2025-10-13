@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2dec1a27-c611-4ce9-be6b-129ee0ad6170/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/c1e443fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7161,
+  "IDcode": "BOBB-432",
+  "title": "J罩杯清純爆乳美女揉舐吸遍乳交狂享BoinBox ~ 丸石稀有",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "打手槍",
+    "美少女",
+    "清楚系",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "BOBB-432为妄想族出品,2025年4月1日发行的有碼成人影片由丸石稀有出演\n最稀有的一對巨乳，豐滿美麗如雪，現已在 BoinBB 上發售！在這段充滿戀物癖的影片中，她純潔的 J 罩杯乳房被愛撫、舔舐、吸吮和品嚐！從一邊吸吮乳房一邊進行舒緩的哺乳手淫，到可以從主觀角度享受的乳交，被乳房侵犯的淫蕩乳交，給你征服感的女上位乳交，甚至還有可以享受彈跳乳房的性愛！您別無選擇，只能盡情享受乳房！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083549293293.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327083549293293.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7161",
+  "actresses": [
+    {
+      "name": "丸石稀有",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/3a3a3a25-b601-4b95-90f8-bcf1074ac8f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7161&name=丸石稀有"
+    }
+  ]
+};

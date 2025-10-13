@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231230/xfB3X2zq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101010,
+  "IDcode": "GANA-2978",
+  "title": "マジ軟派、初撮。 2006 新宿でナンパした爆乳巨乳ちゃんは半年ご無沙汰の敏感ボディだった！押しに弱いところに付け込まれ、あれよあれよと爆乳おっぱいが露わに！パンツも脱がすと未開拓の剛毛マ●コがパクパクとチ●ポを欲しそうにしていて・・・",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "业余",
+    "乳房",
+    "猎艳",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101010",
+  "actresses": [
+    {
+      "name": "岡本莉里",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/66611161-4af8-4c68-a2bd-1591ee0fe3ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101010&name=岡本莉里"
+    },
+    {
+      "name": "りり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101010&name=りり"
+    }
+  ]
+};

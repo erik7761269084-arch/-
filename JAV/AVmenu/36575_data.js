@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/3202B38618CAE662/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36575,
+  "IDcode": "5D8EF1166A5FC47DF70100788614D-589",
+  "title": "粉红女郎粉嫩粉嫩的",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36575",
+  "actresses": []
+};

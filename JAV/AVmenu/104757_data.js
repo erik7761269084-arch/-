@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/06/b0a5530e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104757,
+  "IDcode": "MEYD-336",
+  "title": "知らなければよかった、夫の連れ子が巨根だったなんて…。 本田岬",
+  "publish_date": "2018-01-31",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "婆婆",
+    "中出",
+    "乱伦",
+    "巨大阴茎",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/06/dc8627787ab085e4ea722e91d367e8de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104757",
+  "actresses": [
+    {
+      "name": "本田岬",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/b27aa824-eb3f-492b-b103-7283031805ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104757&name=本田岬"
+    }
+  ]
+};

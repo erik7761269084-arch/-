@@ -1,0 +1,18 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119628,
+  "IDcode": "FC2PPV-1279000",
+  "title": "【隠し撮り】私立女子校②色白Gカップ少女。癒しの抜きから2回戦で生挿入",
+  "publish_date": "2020-02-18",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119628",
+  "actresses": []
+};

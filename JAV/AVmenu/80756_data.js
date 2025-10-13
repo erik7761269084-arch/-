@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/popqH9Ma/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80756,
+  "IDcode": "CEMD-125",
+  "title": "酒で暴くAV女優の本性！北野未奈 ～その仮面を剥いだ時、北野未奈の新しい一面が浮かび上がる！",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "纪录片",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3a6d397c6e0a161f7adc59abdf21fcfc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80756",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80756&name=森林原人"
+    }
+  ]
+};

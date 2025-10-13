@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/g1FT1ktT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83681,
+  "IDcode": "IMPNO-019",
+  "title": "ヌードじゃないもん二ーハイ履いてるもん/たかはし彩華",
+  "publish_date": "2020-02-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/1d21b14f9720f44633b03917e2d86ca6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83681",
+  "actresses": [
+    {
+      "name": "如月夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/3cbb73d0-2ca0-4ee6-972b-d45f835ca081.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83681&name=如月夏希"
+    }
+  ]
+};

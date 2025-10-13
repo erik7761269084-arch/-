@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220619/62A4C7EC36267B73/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64438,
+  "IDcode": "BAFD53CCCF0C02D5D70AEEF7C-1686012",
+  "title": "- エグい程の肉感AV 神乳-プリ尻-结合が目前に迫る特殊映像＆彻底ローアングル RION - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64438",
+  "actresses": []
+};

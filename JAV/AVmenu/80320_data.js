@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/d3BJ8MlT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80320,
+  "IDcode": "HODV-21633",
+  "title": "【完全主観】方言女子 栃木弁 天海らん パンティと生写真付き",
+  "publish_date": "2021-12-03",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "中出",
+    "企画",
+    "主观视角",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80320",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5e56386b-bcf5-44f5-b2bf-7dd0b5bb8478/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/a5732ff0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4794,
+  "IDcode": "FNS-064",
+  "title": "舌尖交纏口水氾濫 超濃厚舌吻激情 ~ 濱邊彌生",
+  "publish_date": "2025-07-03",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "FNS-064为FALENO出品,2025年7月3日发行的有碼成人影片由濱邊彌生出演\n光靠接吻就能濕透的陽キャ正妹濱邊彌生，帶來三場讓人慾火焚身的舌吻大戰！她的小舌頭靈活得像活的，滿是口水誘惑得你無法自拔，超濃厚的貝羅吻讓人小鹿亂撞！不管是上面那張嘴還是下面那張嘴，全身都被體液包圍，吻到高潮不斷直衝天際！可愛妹子的櫻桃小嘴完全無碼展現，滑溜溜的舌頭隨你舔個爽，保證讓你high到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/20250702220624392392_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250702/20250702220624392392_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4794",
+  "actresses": [
+    {
+      "name": "濱邊彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/c69882cf-89fa-4d14-80ac-43c43c0cdfd6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4794&name=濱邊彌生"
+    }
+  ]
+};

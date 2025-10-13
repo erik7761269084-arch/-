@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/j69MaiCJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84451,
+  "IDcode": "FOCS-035",
+  "title": "【完全主観】ドM女子と露出デート！S攻めメロメロでマ●コ濡らして大量潮吹き！ドM淫語ご奉仕おねだり！責めて責めて責めまくって欲しい…久留木玲",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "淫语",
+    "户外",
+    "潮吹",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230109-1/d00ec6b54831ff60ce8118ef7f539334.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84451",
+  "actresses": [
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84451&name=久留木玲"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c81562a-a812-4b5f-92ed-68cc67a330c7/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/20/9b910d4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17681,
+  "IDcode": "HODV-21820",
+  "title": "無意識中勾引男人的着衣巨乳 淫蕩幻想情境性愛與即使透過衣服也能看到的大奶",
+  "publish_date": "2023-11-24",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "劇情",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "OL",
+    "胸控・戀乳癖",
+    "制服",
+    "口交",
+    "按摩・美容店",
+    "奇聞趣事",
+    "巨乳",
+    "辦公室",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231124/a276c2cf-0153-4004-b4e2-ac294044ef92.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231124/a276c2cf-0153-4004-b4e2-ac294044ef92.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17681",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17681&name=绫濑心"
+    }
+  ]
+};

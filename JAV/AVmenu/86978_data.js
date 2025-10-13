@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230413/YKACFgpn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86978,
+  "IDcode": "ORE-652",
+  "title": "ゆう",
+  "publish_date": "2020-05-15",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "秘书",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230414-1/ac6283c0ca17e748f1756e5b05a64a6c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86978",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86978&name=篠田优"
+    }
+  ]
+};

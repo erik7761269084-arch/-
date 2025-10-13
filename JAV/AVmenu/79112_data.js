@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/f5SVd1UX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79112,
+  "IDcode": "SSIS-177",
+  "title": "- グラドルとキスキスキス…プルンプルンの恵体唇で夢中で舌を絡ませる密着ディープキス性交 安位カヲル （ブルーレイディスク） - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "偶像",
+    "接吻",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79112",
+  "actresses": [
+    {
+      "name": "安位薫",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/bf0e7d96-e7c4-430b-b352-60886b45c24d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79112&name=安位薫"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79112&name=田渊正浩"
+    }
+  ]
+};

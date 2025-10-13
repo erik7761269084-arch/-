@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240611/66w2P58D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104034,
+  "IDcode": "NCYF-019",
+  "title": "ガチ7P大乱交【ちょっと足りない？小さな女の子】コスイベはいつもお姉ちゃんと一緒レイヤー・絶対イヤと言わないピュア性格【身長142cmパイパン天使ボディ】エンドレス孕ませSEXドキュメント2本立SP",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "凌辱",
+    "多P",
+    "苗条",
+    "女生",
+    "潮吹",
+    "羞耻",
+    "纪录片",
+    "滥交",
+    "角色扮演者",
+    "瘦小身型",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ncyf019/ncyf019pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104034",
+  "actresses": []
+};

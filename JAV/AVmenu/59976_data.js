@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/13/7313eed5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59976,
+  "IDcode": "BEAF-177",
+  "title": "色白で低身長ひよこ系女子、ハードイラマで喉ガン開きえずき汁大量噴射wwガチ承認欲求モンスター＆学内の男食いまくり声優のたまご専門学生で喉奥開発済みビッチことねちゃん22歳",
+  "publish_date": "2025-08-16",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "苗条",
+    "业余",
+    "平胸",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/13/7313eed5/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59976",
+  "actresses": []
+};

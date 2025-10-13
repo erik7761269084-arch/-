@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/07/27a9643f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100450,
+  "IDcode": "JUQ-188",
+  "title": "早朝ランニングで出逢った人妻と無我夢中で生ハメしまくった午前5時から7時までの濃密不倫―。 岬さくら",
+  "publish_date": "2023-03-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "运动",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100450",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100450&name=岬櫻"
+    }
+  ]
+};

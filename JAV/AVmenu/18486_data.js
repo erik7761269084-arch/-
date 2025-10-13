@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/54256615-4214-41cf-9f87-707bb19a6816/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/08/5ae9e549/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18486,
+  "IDcode": "MMUS-080",
+  "title": "小惡魔挑釁美少女木崎奈奈",
+  "publish_date": "2023-10-04",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "短裙・迷你裙",
+    "JK校服",
+    "淫語",
+    "學校",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002010204294294.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/20231002010204294294.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18486",
+  "actresses": [
+    {
+      "name": "希咲那奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/086f8b77-17a0-4642-89e6-3195cc2eeb35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18486&name=希咲那奈"
+    }
+  ]
+};

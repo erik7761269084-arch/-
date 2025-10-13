@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e79cd848-9679-4535-8e5c-3c5451b7d1e3/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/07/9aa75960/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15019,
+  "IDcode": "ADN-561",
+  "title": "別無選擇，只能這樣做…… ~ 西野絵美",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "咖啡店",
+    "色白",
+    "身體換業務",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "JK校服",
+    "感官作品",
+    "口交",
+    "職員",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "人妻",
+    "老闆娘，女主人",
+    "羞恥"
+  ],
+  "description": "ADN-561为ATTACKERS出品,2024年5月7日发行的有碼成人影片由西野絵美出演\n儘管是特許經營，一對夫婦終於開設了他們期待已久的咖啡館。不過…「今天也沒有多少顧客。」「比總部大木先生預計的要少很多，這個月的版稅支付又會很困難啊！？」看看這個廣告！正在從車站回家的路上…”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503232011888888.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503232011888888.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15019",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15019&name=西野絵美"
+    }
+  ]
+};

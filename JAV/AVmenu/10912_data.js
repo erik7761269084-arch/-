@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2711b5c5-b62e-4f2c-81cf-81f281ff8b2f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10912,
+  "IDcode": "BOBB-421",
+  "title": "將L罩杯超乳魅力發揮到極致的戀乳物癖淫蕩COSPLAY 7 Boin ~ 新田雪",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "女僕制服",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "COSPLAY服飾",
+    "豐滿",
+    "女優"
+  ],
+  "description": "BOBB-421为妄想族出品,2024年11月5日发行的有碼成人影片由新田雪出演\n將胸部魅力發揮到極致的超人氣系列最新作品，7種cosplay登場！這次cosplay的人是L罩杯超巨乳妹新田由希！身著學園泳裝、反轉兔女郎、女僕、修女、制服少女、牛裝、生生少女等服裝，破壞力超群的神乳、cosplay、爆乳，魅力無限玩！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031075335680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031075335680680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10912",
+  "actresses": [
+    {
+      "name": "新田雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/7a2f0979-2af4-4461-9e05-2f23ef792d3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10912&name=新田雪"
+    }
+  ]
+};

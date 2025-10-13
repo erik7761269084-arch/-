@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f6014e9d-111a-4ac6-ab5d-c5610a58c1e7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18831,
+  "IDcode": "IPX-572",
+  "title": "出差住同房NTR 被部下內射一晚上的美人女上司",
+  "publish_date": "2020-11-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "口交",
+    "強姦",
+    "姐姐・妹妹",
+    "人妻",
+    "出軌",
+    "NTR",
+    "出差",
+    "女上司"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903195512672672.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230903/20230903195512672672.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18831",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18831&name=夏目彩春"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/01/8390de5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62425,
+  "IDcode": "MGMQ-152",
+  "title": "クソ雑魚マゾな僕を弄ぶ巨乳黒ギャルビッチのM男狩りでメス堕ちさせられたい！ 瀬那ルミナ",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/01/c266bf0a860effbcf44071bc5a108159.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62425",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62425&name=瀬那瑠美奈"
+    }
+  ]
+};

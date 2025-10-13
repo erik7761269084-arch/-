@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/12082329-5707-438f-b9f3-b569ac8a83ee/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/b57731d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4749,
+  "IDcode": "JUR-397",
+  "title": "畢業典禮後的祕密禮物：繼母的禁忌誘惑 ~ 岬光莉",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "繼母",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "JUR-397为MADONNA出品,2025年7月4日发行的有碼成人影片由岬光莉出演\n翔離開家人，住進寄宿學校，終於等到畢業典禮。跟兄弟們依依不捨地道別後，回家的路上卻看到一個女人朝他揮手跑來……竟然是本不該出現的義母光莉！跟曾經暗戀的對象重逢，翔心裡那股悸動根本壓不住。當晚，兩人單獨慶祝畢業，氛圍曖昧到不行。送光莉回酒店時，聊得正嗨，義母突然丟出句“給長大成人的你的禮物”，直接吻了上來……這操作，真的讓人血脈賁張，慾火焚身！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050555390390_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050555390390_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4749",
+  "actresses": [
+    {
+      "name": "岬光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20250403/f8b36ebd-60de-4df8-86a9-f94f669a96f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4749&name=岬光莉"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4749&name=ナイアガラ翔"
+    }
+  ]
+};

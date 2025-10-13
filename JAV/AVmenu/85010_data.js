@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/11/10a559e1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85010,
+  "IDcode": "JUL-800",
+  "title": "美人だと気づいてない‘無自覚美人’―。 及川うみ 29歳 AV DEBUT 高嶺の花なのに、手が届きそうな距離感がズルい―。",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85010",
+  "actresses": []
+};

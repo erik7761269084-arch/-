@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0a4a3ee5-bd3a-4256-bb4f-1d7b98721828/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250304/Iuu6doRc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19313,
+  "IDcode": "IPX-131",
+  "title": "狂捏乳頭無盡快感連續絕頂！ 140分 西宮夢",
+  "publish_date": "2018-04-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美乳",
+    "多P",
+    "美少女",
+    "數位馬賽克",
+    "紀錄片",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230601/20230601221017578578.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230601/20230601221017578578.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19313",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19313&name=西宮夢"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19313&name=しみけん"
+    }
+  ]
+};

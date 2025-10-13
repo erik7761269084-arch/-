@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/01/f1a8c222/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106829,
+  "IDcode": "NACR-704",
+  "title": "街で噂の占い師 橘メアリー 生写真とパンティ付き",
+  "publish_date": "2023-09-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "自慰",
+    "潮吹",
+    "口交",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106829",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106829&name=橘瑪麗"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106829&name=岩下たろう"
+    }
+  ]
+};

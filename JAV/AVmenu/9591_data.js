@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e35f8348-eeae-4fe2-b78b-3fb3b8fee08d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9591,
+  "IDcode": "ARAN-091",
+  "title": "百花繚亂的淫獄繪卷 少女墮入的瞬間，慘叫着潮噴極度升天的發狂圖鑑 大合集",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "痴漢",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "變態",
+    "臀控",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "蘿莉控",
+    "SM",
+    "美腳",
+    "緊縛",
+    "奇聞趣事",
+    "巨乳",
+    "精選總編集",
+    "奇異的",
+    "M男・M女",
+    "美少女電影",
+    "無毛",
+    "飯店",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241226/d1555dc9-d6ab-4d8e-934c-b6f4da54a7c9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241226/d1555dc9-d6ab-4d8e-934c-b6f4da54a7c9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9591",
+  "actresses": [
+    {
+      "name": "橘芹那",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-橘芹那.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9591&name=橘芹那"
+    }
+  ]
+};

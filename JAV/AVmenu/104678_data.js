@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/29/35b6af92/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104678,
+  "IDcode": "RBD-283",
+  "title": "奴隷色のステージ15",
+  "publish_date": "2011-07-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "灌肠",
+    "奴隶"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104678",
+  "actresses": [
+    {
+      "name": "一ノ瀬アメリ",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/07b45e2e-7bab-4a4b-b632-7c17b66743a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104678&name=一ノ瀬アメリ"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104678&name=新井爱丽"
+    },
+    {
+      "name": "雫パイン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104678&name=雫パイン"
+    }
+  ]
+};

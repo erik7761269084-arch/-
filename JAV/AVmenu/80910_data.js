@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/0nw5lwWv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80910,
+  "IDcode": "CJOD-335",
+  "title": "乳頭激凸超下流待客的小吃店媽媽桑 直到早上的下班後中出不倫 JULIA",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80910",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80910&name=JULIA"
+    }
+  ]
+};

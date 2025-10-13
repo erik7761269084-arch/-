@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230323/5BC7A7E4415489AB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100209,
+  "IDcode": "DBAM-005",
+  "title": "本物恐慌昇天陥落 ジックリ魅せます！！不朽の名作プレミア劇場",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "凌辱",
+    "捆绑",
+    "羞耻",
+    "拘束",
+    "残忍画面"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100209",
+  "actresses": []
+};

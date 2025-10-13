@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/24/865cc92f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81204,
+  "IDcode": "VEC-522",
+  "title": "浮気がバレた絶倫ヤリチン夫を説教しにきた嫁の親友 篠田ゆう",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81204",
+  "actresses": [
+    {
+      "name": "上原千明",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/川原梨央.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81204&name=上原千明"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81204&name=篠田优"
+    }
+  ]
+};

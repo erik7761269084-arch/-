@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65677,
+  "IDcode": "63195CC07632261C90EB6565DFD045D6",
+  "title": "性欲超强准考生玩颜面骑乘与舔鲍到失禁高潮！ 4",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65677",
+  "actresses": []
+};

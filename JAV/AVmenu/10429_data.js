@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d3e1e2a-b08f-4f16-9906-2a72cfcbefa7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/ae7ca15a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10429,
+  "IDcode": "CJOD-441",
+  "title": "和熟女們的過夜亂交☆ 夾在發出性感聲音的美熟女貴婦中，被淫語刺激着的流被中出雙飛一整晚 ~ 真木今日子 本真由裏",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "後入",
+    "黑絲",
+    "貴婦",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "兩女一男",
+    "NTR",
+    "約炮",
+    "熟女",
+    "COSPLAY服飾",
+    "飯店"
+  ],
+  "description": "CJOD-441为癡女特化出品,2024年11月26日发行的有碼成人影片由真木今日子，本真友里出演\n名人成熟女性是最色情的！每月舉辦一次的過夜成人女孩聚會。一個富有的大胸妻子呼喚一個年輕的雞巴並用性慾來活塞它！從丈夫和家庭的壓力中釋放你的慾望！年輕的雞巴以女牛仔的姿勢交替性交和內射！雙打手槍在黏糊糊的身體上塗抹乳液！與女士女同性戀自慰立即反向 3P！就算你射精了，我也不會放過你，直到我滿意為止！連續中出比賽的反向3P牢牢打手槍！吞噬又豐富的14槍！少婦無法享受的性感美麗魔女的不雅性愛！與每個男人都夢想至少一次的成年姐姐互動！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010800680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122010800680680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10429",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10429&name=真木今日子"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10429&name=本真友里"
+    }
+  ]
+};

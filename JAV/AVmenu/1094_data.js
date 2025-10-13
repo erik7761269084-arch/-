@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/95152578-34c4-43f8-8120-353e19dfd447/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1094,
+  "IDcode": "HEYZO-1566",
+  "title": "讓我們一起做愛吧 ~ 我是被派來幹你的",
+  "publish_date": "2017-09-08",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "兩男一女",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129034716191191.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231129/20231129034716191191.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1094",
+  "actresses": [
+    {
+      "name": "吉良藍",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/吉良藍.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1094&name=吉良藍"
+    }
+  ]
+};

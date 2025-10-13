@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/06/ea445f19/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68384,
+  "IDcode": "MVSD-537",
+  "title": "MVSD-537",
+  "publish_date": "2023-02-21",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "口交",
+    "护士",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68384",
+  "actresses": [
+    {
+      "name": "北山憂",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/d987c48a-5e67-4112-806a-cfdc5e18d8d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68384&name=北山憂"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68384&name=蓝井优太"
+    }
+  ]
+};

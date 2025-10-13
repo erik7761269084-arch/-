@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220607/D8F18547E66D7EF4/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64420,
+  "IDcode": "B482534BB31BBBFBDA9B112959DD105F",
+  "title": "イクイクエビ反り痉挛が止まらない禁断のポルチオ开発性感オイルマッサージ ACT.002 羽生ありさ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64420",
+  "actresses": []
+};

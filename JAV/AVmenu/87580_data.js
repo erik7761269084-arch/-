@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/hsh07nqQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87580,
+  "IDcode": "MDTM-784",
+  "title": "新放課後痴女美少女回春リフレクソロジーSpecial 水原みその",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "按摩",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/87f09311d35801ab44e25de00f74b2d7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87580",
+  "actresses": []
+};

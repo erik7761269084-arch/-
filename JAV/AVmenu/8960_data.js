@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62ab4dac-1bb4-4698-9952-da44ee7a41c1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8960,
+  "IDcode": "MADV-572",
+  "title": "黑發白膚美人優等生 違反校規穿體操服... 我最終和她一次又一次的中出性愛 ~ 夢莉梨花",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "同學",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250120/bc501439-6050-461e-9f24-ed518820e4a1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250120/bc501439-6050-461e-9f24-ed518820e4a1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8960",
+  "actresses": [
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8960&name=夢莉梨花"
+    }
+  ]
+};

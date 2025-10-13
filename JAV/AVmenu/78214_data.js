@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/idXMUIVm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78214,
+  "IDcode": "MIDE-660CN",
+  "title": "MIDE660CN 唇舌交織激情濕吻 咲乃小春.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/1a412a4af7cc5aa70c857f27272b4f28.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78214",
+  "actresses": []
+};

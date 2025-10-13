@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/611f0228-8bca-4dfc-acfe-b52355d37a63/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 292,
+  "IDcode": "HEYZO-0322",
+  "title": "短髮元氣妹子被關小黑屋獨佔調教 ~ 木田美優",
+  "publish_date": "2013-05-15",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "蘿莉",
+    "中出",
+    "素人",
+    "小隻馬",
+    "蘿莉控",
+    "美少女"
+  ],
+  "description": "HEYZO-0322为HEYZO出品,2013年5月15日发行的無碼成人影片\n一上来就有点小紧张，怯生生的素人妹子，超可爱！短发boyish风的妹纸看着帅气，其实内心是个害羞的小萌新啊！男优一问‘可以摸吗’，她就结结巴巴地‘不、不行啦…’，这纯情反应简直让人心动到不行！被摸摸身体、脱衣服的时候也是羞得不行，脸红得像二次元里的傲娇女主。但被男优带着节奏后，好像也渐渐进入状态了？眼神开始迷离，像是被攻略的乙女游戏角色，超带感！最后当然是满满的中出收尾啦！虽然不太熟练，但她努力扭腰的样子，真的让人欲罢不能，二次元爱好者绝对会疯狂舔屏！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421084147895895_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250421/20250421084147895895_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=292",
+  "actresses": []
+};

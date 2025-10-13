@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/20/95b339ec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83096,
+  "IDcode": "JUL-106",
+  "title": "専属再び―。第一弾！！NTRの巨匠ながえ×希島あいり 交換夫婦NTR 窓越しに目撃した妻と友人の衝撃的浮気映像",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83096",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83096&name=希島愛理"
+    }
+  ]
+};

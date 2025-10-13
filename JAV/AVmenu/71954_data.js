@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/92065477/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71954,
+  "IDcode": "MDVIJ-007",
+  "title": "姑と嫁の禁断レズビアン（2） 希和みことさん、峰田ななみさんのチェキとパンティ2枚付き",
+  "publish_date": "2025-02-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/23/92065477/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71954",
+  "actresses": [
+    {
+      "name": "希和みこと",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/b674b4e6-9795-448b-8d99-01733080307a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71954&name=希和みこと"
+    },
+    {
+      "name": "峰田奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/2efd4594-f369-42e3-8102-23eac603ac03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71954&name=峰田奈奈美"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71954&name=冬爱琴音"
+    }
+  ]
+};

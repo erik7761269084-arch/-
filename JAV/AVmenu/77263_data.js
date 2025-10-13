@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/09/73850886/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77263,
+  "IDcode": "PPPD-768",
+  "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 松本菜奈実",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "妹妹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77263",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77263&name=松本菜奈実"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/011a407b-ab71-49cf-a61f-0aed19970916/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/0195c9e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13693,
+  "IDcode": "ADN-584",
+  "title": "直到臨近退休的下屬操了苗條巨乳已婚人妻上司 ~ 橘瑪麗",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "加班",
+    "老頭子",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "制服",
+    "肉絲",
+    "強姦",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "辦公室",
+    "女上司",
+    "羞恥"
+  ],
+  "description": "ADN-584为ATTACKERS出品,2024年7月2日发行的有碼成人影片由橘瑪麗出演\n我下個月就要退休了。我還能和橘導演見面幾次？想到這裡，我就迫不及待地想把橘導演的一切都留在我的眼前。經理室、女廁等…安裝了隱藏攝像頭，享受了橘經理的樂趣。 ……然而，我的幸福時刻突然結束了。突然，他注意到了橘子導演設定的攝影機。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628010431871871.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240628/20240628010431871871.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13693",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13693&name=橘瑪麗"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230728/Tk33L7zT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87493,
+  "IDcode": "HUNTB-330",
+  "title": "寮内の女子とならいくらでもヤリまくり！ヤリモク独身寮！2『おかえりなさい。いつエッチする？」「とりあえず今エッチしようよ！！」会社での…",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "滥交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87493",
+  "actresses": []
+};

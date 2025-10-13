@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/09/e98f15ff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82958,
+  "IDcode": "LUXU-1214",
+  "title": "ラグジュTV 1205 若干24歳の美人エステ経営者が登場！魅惑のランジェリーに着替え、自ら美体にオイルを塗りたくり男優相手に妖艶なマッサージを披露！ガチ勃ちした巨根に嬉しそうに笑みを浮かべ、何度も中イキ絶頂！",
+  "publish_date": "2020-01-08",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "颜射",
+    "内衣",
+    "按摩",
+    "乳液",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82958",
+  "actresses": [
+    {
+      "name": "仓吉美帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82958&name=仓吉美帆"
+    }
+  ]
+};

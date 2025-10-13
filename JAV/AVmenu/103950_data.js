@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240524/LCrD1bFX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103950,
+  "IDcode": "OKSN-314C",
+  "title": "馬上高潮敏感人妻 不倫旅行 忍耐已經到達限界…想要持續高潮",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103950",
+  "actresses": []
+};

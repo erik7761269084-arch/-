@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/09/772316c1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90868,
+  "IDcode": "BIJN-230",
+  "title": "現出本能的絕頂性愛  淫亂癡女無止盡快樂限界突破噴發亂交 濱崎真緒",
+  "publish_date": "2022-10-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "潮吹",
+    "纪录片",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90868",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90868&name=浜崎真绪"
+    },
+    {
+      "name": "ししお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90868&name=ししお"
+    }
+  ]
+};

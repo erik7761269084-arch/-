@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/6Q4lfMll/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76720,
+  "IDcode": "GVH-002",
+  "title": "ボイン大好きしょう太くんのHなイタズラ 松本菜奈実",
+  "publish_date": "2020-01-02",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "巨乳",
+    "泳装",
+    "恋乳癖",
+    "恶作剧",
+    "正太控",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76720",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76720&name=松本菜奈実"
+    }
+  ]
+};

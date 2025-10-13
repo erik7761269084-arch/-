@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221123/t8fzZ8l0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82758,
+  "IDcode": "HND-679",
+  "title": "Hカップ着エロ現役女子大生が最高級中出しソープに体験入店 石原理央",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "中出",
+    "女生",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82758",
+  "actresses": [
+    {
+      "name": "石原理央",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82758&name=石原理央"
+    }
+  ]
+};

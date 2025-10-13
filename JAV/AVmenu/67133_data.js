@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/13/b2cb986b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67133,
+  "IDcode": "FSDSS-533",
+  "title": "3年連続指名No.1！美人家庭教師が生徒から大人気の秘訣は密着ベロキス性交付きの個別授業！吉高寧々 パンティと写真付き",
+  "publish_date": "2023-02-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "戏剧",
+    "女上位",
+    "荡妇",
+    "家教",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67133",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67133&name=吉高寧寧"
+    }
+  ]
+};

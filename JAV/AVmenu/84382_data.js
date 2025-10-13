@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230108/L5uaF1A1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84382,
+  "IDcode": "DRPT-021",
+  "title": "彼氏が他の女とSEXするのが見たい普通の変態女子のお宅に乙アリスが突撃逆NTR！",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "纪录片",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/3b8d48da8bdf2e3356b2091d59eef818.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84382",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84382&name=乙愛麗絲"
+    }
+  ]
+};

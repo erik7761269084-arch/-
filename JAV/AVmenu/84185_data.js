@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/aqxdEeoR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84185,
+  "IDcode": "CLUB-677",
+  "title": "ヤレる人妻回春マッサージ32 中出し交渉盗撮",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "按摩",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/0d8900c6165546cf1de69c2a03edd70b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84185",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84185&name=姫咲華"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84185&name=田中寧寧"
+    },
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84185&name=織田真子"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84185&name=高瀬りな"
+    }
+  ]
+};

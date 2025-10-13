@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5d023be-2931-4230-8c55-9eaa06c3939d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 806,
+  "IDcode": "HEYZO-0996",
+  "title": "偶像出道！本來應該是AV出道啊！ ？ ——堀口真希",
+  "publish_date": "2015-11-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "少女",
+    "打手槍",
+    "貧乳",
+    "美少女",
+    "情趣內衣",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HEYZO-0996为HEYZO出品,2015年11月5日发行的無碼成人影片由堀口真希出演\nアイドルデビュー！のはずが、AVデビュー！？ - 堀口真希",
+  "cover_url": "https://picture.yoshiclub.xyz/20240619/10d160f5-be4b-446c-98d8-b0dfe9a2707d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240619/10d160f5-be4b-446c-98d8-b0dfe9a2707d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=806",
+  "actresses": [
+    {
+      "name": "堀口真希",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/772fe23c-7f16-4286-ad4f-fe954f8172e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=806&name=堀口真希"
+    }
+  ]
+};

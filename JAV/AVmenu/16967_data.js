@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27692341-d9c1-4107-9395-77743f8148e7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16967,
+  "IDcode": "ATID-586",
+  "title": "女調查員魯莽堅韌",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "凌辱",
+    "中出",
+    "緊身衣",
+    "拘束・拷問",
+    "形象俱樂部",
+    "綁架",
+    "口交",
+    "監獄",
+    "強姦",
+    "性感",
+    "舔陰",
+    "輪姦",
+    "暗黑系",
+    "緊縛",
+    "按摩棒",
+    "美少女電影",
+    "女搜查官",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "ATID-586为ATTACKERS出品,2024年1月2日发行的有碼成人影片由天川空出演\n發生了一起慘絕人寰的強奸殺人事件。女調查員天川空看到受害者母親在屍體旁哭泣，發誓要逮捕兇手。幾年過去了，仍然沒有任何線索，兇手是誰，有一天，受害者的母親聯系我，說她恢復了因震驚而失去的記憶！這位母親聲稱，案發後她經過的那個男人是一家管理諮詢公司的總裁大島，她認爲他是罪魁禍首。真澄獨自前往大島的辦公室尋找真相，但是……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102043937984984.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240102/20240102043937984984.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16967",
+  "actresses": [
+    {
+      "name": "天川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d640bb79-ff7b-47ff-9619-fa99350b0b9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16967&name=天川空"
+    }
+  ]
+};

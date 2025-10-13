@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/090563d2-9b8e-4ee7-82b3-ec82537724c8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18484,
+  "IDcode": "CAWD-566",
+  "title": "強暴睡夢中的女學生 讓她絕頂高潮",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "JK校服",
+    "強姦",
+    "少女",
+    "學校",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "CAWD-566为KAWAII出品,2023年10月3日发行的有碼成人影片由日向夏出演\n當她意識到這一點時已經太遲了......女孩對發生在她身上的快感一無所知。 在難以抗拒的睡意麵前，女孩已無力反抗......她毫無防備、敏感的的身體敏感得無法抗拒。 淫液在她無法抗拒的陰道中氾濫。 被春藥浸透的快感發展到極限的誠實身體抽搐著，在無意識的非快感高潮中達到高潮！ 欲毒的獠牙襲擊了陷入沉睡的女孩。 她完全不記得自己被強暴、被迫射精或體內有精液的事...\n當她意識到這一點時已經太遲了......女孩對發生在她身上的快感一無所知。 在難以抗拒的睡意麵前，女孩已無力反抗......她毫無防備、敏感的的身體敏感得無法抗拒。 淫液在她無法抗拒的陰道中氾濫。 被春藥浸透的快感發展到極限的誠實身體抽搐著，在無意識的非快感高潮中達到高潮！ 欲毒的獠牙襲擊了陷入沉睡的女孩。 她完全不記得自己被強暴、被迫射精或體內有精液的事...",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002221346770770.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/20231002221346770770.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18484",
+  "actresses": [
+    {
+      "name": "日向夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/9ff72175-22c9-4279-bc96-1af320236f22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18484&name=日向夏"
+    }
+  ]
+};

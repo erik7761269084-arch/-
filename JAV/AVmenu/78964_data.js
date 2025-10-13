@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/7Fot6iku/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78964,
+  "IDcode": "SOE-445",
+  "title": "- さやと学校でエッチしよう 立花さや - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "多P",
+    "潮吹",
+    "手指插入",
+    "薄马赛克",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78964",
+  "actresses": [
+    {
+      "name": "立花沙耶",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-立花さや.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78964&name=立花沙耶"
+    }
+  ]
+};

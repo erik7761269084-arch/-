@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/9TdAB2SX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79588,
+  "IDcode": "300MAAN-701",
+  "title": "【神美女&amp;神美女と奇迹のハーレム乱交！2.5hレジェンドSP！】ナイトプールで一际辉くアイドル级T☆kT●ker2人と淫猥な宴が开幕！最初からクライマックス！本気でイカセにくる神テクご奉仕で极楽ハーレムSEX！水着に着替えて延长戦！1対1で生ハメ祭り！これぞ绝伦ッ全裸オイルで更に延々长戦！エロさ内容も全てが倍増！倍倍スペシャル！冲撃の浓密7射精SEX！Double Venus Legend SPECIAL【なまハメT☆kTok Report.27】",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79588",
+  "actresses": []
+};

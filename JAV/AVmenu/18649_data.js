@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b4afd7e-77bb-4721-9102-ad2eb6a3b2de/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18649,
+  "IDcode": "IPX-670",
+  "title": "與討厭到死的公司上司出差在溫泉旅館住同房… 被醜陋絶倫大叔搞到持續高潮的我",
+  "publish_date": "2021-06-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "流汗",
+    "凌辱",
+    "中出",
+    "OL",
+    "迷姦",
+    "巨乳",
+    "女同事",
+    "出軌",
+    "出差",
+    "溫泉",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230919/20230919091023137137.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230919/20230919091023137137.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18649",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18649&name=栗山莉緒"
+    }
+  ]
+};

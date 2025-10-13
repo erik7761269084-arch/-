@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bbd885d1-e649-4f60-b2fc-a098392c11b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12072,
+  "IDcode": "SSNI-374",
+  "title": "全力騎乘位高潮 ~ Miru",
+  "publish_date": "2018-12-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "手指插入",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-374为S1出品,2018年12月19日发行的有碼成人影片由Miru出演\n從出道作品到口交、女牛仔姿勢、潮吹…一切都展現了坂道壓倒性的色情潛力！這部作品將性愛之神所喜愛的臀部的絕妙運用展現出來，上、下、左、右、前、後，流暢地磨動！ ！她在各個角落都盡最大努力以女牛仔的姿勢，即使她射精，也不會放開她握在陰戶裡的雞巴，重複強大的潮吹高潮！請欣賞充滿色情模式的“Miru”高速磨礪的女牛仔舞蹈！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240911/20240911005250142142.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240911/20240911005250142142.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12072",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12072&name=Miru"
+    }
+  ]
+};

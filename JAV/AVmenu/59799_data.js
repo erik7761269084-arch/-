@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/08/77452eea/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59799,
+  "IDcode": "OTIN-019",
+  "title": "- アナルドM妻肛門中出し不倫尻穴に精子をどっぷりブチ込み従順ペットプレイで肉棒＆玩具二穴潮吹き！ 清巳れの - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "出轨",
+    "肛交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59799",
+  "actresses": [
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59799&name=清巳麗乃"
+    }
+  ]
+};

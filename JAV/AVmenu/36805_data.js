@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220422/B4811FA600C18A04/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36805,
+  "IDcode": "D8D77CCE06D1CC6E2B855DCF22E20F-45",
+  "title": "顔射でどろべちゃ！ぶっかけ祭り！！",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36805",
+  "actresses": []
+};

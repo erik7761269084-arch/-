@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/bbQKUlUJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90426,
+  "IDcode": "PKPD-205",
+  "title": "中出しするだけの簡単なお仕事 ドえろ乳輪FカップOLゆな24歳 北乃ゆな （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240118-1/fbc8fe85af6dd2856120d1fb318d958a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90426",
+  "actresses": []
+};

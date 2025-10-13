@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/dZdjP3KI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77120,
+  "IDcode": "SNIS-103",
+  "title": "恥じらいのお漏らし あおば結衣",
+  "publish_date": "2014-02-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "放尿",
+    "苗条",
+    "潮吹",
+    "羞耻",
+    "薄马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77120",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77120&name=しみけん"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77120&name=玉木玲"
+    },
+    {
+      "name": "柊木のあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77120&name=柊木のあ"
+    }
+  ]
+};

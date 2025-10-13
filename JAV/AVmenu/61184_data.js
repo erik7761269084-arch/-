@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/03/183cf95a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61184,
+  "IDcode": "DVMM-283",
+  "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 愛する夫の目の前で路上NTR！清楚な人妻が「お口だけでコンドーム装着」に挑戦！2 ノーハンドでデカチンを咥えたご無沙汰妻のオマ○コは欲しがり汁が溢れ出す！旦那の目の前で寝取って最後はゴムを外して生中出し！",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "口交",
+    "业余",
+    "巨大阴茎",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61184",
+  "actresses": []
+};

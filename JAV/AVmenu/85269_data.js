@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230120/7GEQEfod/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85269,
+  "IDcode": "LZDM-050",
+  "title": "【FANZA限定】【ASMRレズ主観】 あの日、生徒たちのレズ誘惑に負けて一度体を許してからというもの会えば何度も何度もイカされてしまう担任教師の私… パンティと生写真付き",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "女同性恋",
+    "女同接吻",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/bd99af43f57e4f8878d52bcaabdda6b3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85269",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85269&name=沙月惠奈"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85269&name=枢木葵"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/14/b131759c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76014,
+  "IDcode": "HND-764",
+  "title": "敏感！イキ潮ダダ漏れ地味っ子釣りガール中出しAVデビュー 三ツ橋真帆",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女大学生",
+    "颜射",
+    "潮吹",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76014",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76014&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76014&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76014&name=玉木玲"
+    },
+    {
+      "name": "三ツ桥真帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76014&name=三ツ桥真帆"
+    }
+  ]
+};

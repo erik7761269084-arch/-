@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/542ffbe7-801b-4b67-b676-53c7292e5df4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/07/49bbb59d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9871,
+  "IDcode": "MUDR-293",
+  "title": "成長中的JK女孩在修學旅行中逃脫，與父輩的叔叔進行了半開玩笑的約會。在酒店裏，被叔叔一遍又一遍地中出，感覺自己像個成年人了 ~ 天沢りん",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "不倫",
+    "兩男一女",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "叔叔・姪女",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MUDR-293为無垢出品,2024年12月17日发行的有碼成人影片由天沢りん出演\n遇見了一個清純的女孩，深度約會，然後帶她去酒店，一次又一次的與她發生性關係。一個青少年想要在班上其他人之前發生性行為並成為成年人的獨特鬥爭。一群可愛的人想要得到成年男子的認可。密集的中出性交，讓這樣一個處於伸展邊緣的女孩感受到高潮的感覺，並讓她在成人性愛中劇烈抽搐。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211071829395395.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211071829395395.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9871",
+  "actresses": [
+    {
+      "name": "天沢りん",
+      "img_url": "https://picture.yoshiclub.xyz/20240621/25429c1a-6735-42ef-bed6-e133fac445ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9871&name=天沢りん"
+    }
+  ]
+};

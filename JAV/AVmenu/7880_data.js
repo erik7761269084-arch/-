@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0f782b9-f942-4769-90c3-c8fa7d6de679/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7880,
+  "IDcode": "BOBB-429",
+  "title": "約炮軟體上認識的神乳炮友！難得的機會就拜託她來玩女友做不到的巨乳玩法！ ~ 羽月乃蒼",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "慾求不滿",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "猥褻穿著",
+    "約炮",
+    "美人",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "BOBB-429为妄想族出品,2025年3月4日发行的有碼成人影片由羽月乃蒼出演\n我在約會軟體上認識了一個胸部巨大的女孩，我讓她對她的胸部做一些我不能讓我女朋友做的事情哈哈。有時她的乳房浸透著乳汁，有時你只想沉迷於她有彈性的乳房......與你神聖的豐滿性伴侶一起享受乳房遊戲，這肯定會讓最愛乳房的愛好者感到滿意，並且充滿了變態的遊戲！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072608998998.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/20250227072608998998.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7880",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7880&name=羽月乃蒼"
+    }
+  ]
+};

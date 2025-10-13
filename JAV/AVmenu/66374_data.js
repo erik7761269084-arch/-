@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/21/152e7b09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66374,
+  "IDcode": "HMN-005",
+  "title": "緊貼耳邊淫語誘惑中出 初川南",
+  "publish_date": "2021-06-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "主观视角",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66374",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66374&name=初川南"
+    }
+  ]
+};

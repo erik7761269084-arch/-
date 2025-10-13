@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/12/b3ea8813/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106946,
+  "IDcode": "RCTD-403",
+  "title": "妄想アイテム究極進化シリーズ 感覚共有オナホール",
+  "publish_date": "2021-05-20",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "妄想",
+    "羞耻",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106946",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106946&name=有村希"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106946&name=若宫はずき"
+    }
+  ]
+};

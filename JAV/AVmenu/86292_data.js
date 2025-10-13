@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/02/15b38b56/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86292,
+  "IDcode": "SSIS-406",
+  "title": "與才色兼備女上司盡情到處走的我【週末限定】地下容貌約會 葵司",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "荡妇",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86292",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86292&name=葵司"
+    }
+  ]
+};

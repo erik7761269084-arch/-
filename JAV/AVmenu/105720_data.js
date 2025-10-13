@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/10/6cc98d17/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105720,
+  "IDcode": "MEYD-454",
+  "title": "未だに現役で母さんを抱きまくる僕の絶倫オヤジに嫁が欲情して危険日狙って中出し逆夜這い 宝生リリー",
+  "publish_date": "2018-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "口交",
+    "巨大阴茎",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/11/7a70bc68fcda1236f996e237da38bdba.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105720",
+  "actresses": [
+    {
+      "name": "寶生莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720024204133133_78676_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105720&name=寶生莉莉"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105720&name=田渊正浩"
+    }
+  ]
+};

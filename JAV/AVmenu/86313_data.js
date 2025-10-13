@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/15/0670bd5f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86313,
+  "IDcode": "SSIS-381",
+  "title": "將M男與架乃由良完全放置在郊外獨立式洋房 3日間1分1秒都沒浪費持續搞癡女玩法",
+  "publish_date": "2022-04-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "荡妇",
+    "M男",
+    "薄马赛克",
+    "纪录片",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86313",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86313&name=架乃由羅"
+    }
+  ]
+};

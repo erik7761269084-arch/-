@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/15/28436ac4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66651,
+  "IDcode": "HUNTC-241",
+  "title": "「今日からいっぱい甘えていいからね」父が2度目の離婚！ボクは若くて美人で巨乳な義母に引き取られる事に！超エロいので同居生活が楽しみ！",
+  "publish_date": "2025-05-13",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "女上位",
+    "口交",
+    "新娘，年轻妻子",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/15/6417f7d32204139b81f61902665a1367.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66651",
+  "actresses": []
+};

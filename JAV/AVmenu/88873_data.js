@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/vn5Y43ou/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88873,
+  "IDcode": "TNOZ-028",
+  "title": "究極くびれ超美乳Gカップ変態ドMレイヤー【連続イラマ喉奥から大量えずき汁 噴出】止まらない絶頂オシッコ＆ぶっかけザーメン漬け美貌崩壊アヘ顔【絶倫デカマラ6本乱交SEXでイキ狂い失神するまでドキュメント】豪華2本立て159分",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "玩具",
+    "滥交",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88873",
+  "actresses": [
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88873&name=三原穗香"
+    }
+  ]
+};

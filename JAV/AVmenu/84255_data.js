@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230107/uxsT9bq5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84255,
+  "IDcode": "DASS-038",
+  "title": "幼い頃、一緒にお風呂に入っていた叔母さんと再び入浴…嬉し恥ずかし甥っ子バスタイム。 君島みお",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84255",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84255&name=君岛美绪"
+    }
+  ]
+};

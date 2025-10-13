@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/78d2af9e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61420,
+  "IDcode": "NINE-114",
+  "title": "欲求不満のI-cup最高級熟成肉の人妻に媚薬飲ませたら白目ひんむいて涎だらだら潮吹きまくりチ〇ポ懇願！絶頂イカレポンチ最強熟女爆誕！！美羽さん（39歳）",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "胖女人",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/78d2af9e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61420",
+  "actresses": []
+};

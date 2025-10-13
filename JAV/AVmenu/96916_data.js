@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240624/2svVS1i2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96916,
+  "IDcode": "DVDMS-868",
+  "title": "生アナル舐めさせ予備校生～flavors×マジックミラー便コラボ企画～授業帰りのむれむれケツ穴の匂いを嗅がれ尻穴を舐めほじられ赤面発情イキ！肛門クンニを求めて再来し…ケツ穴ヒクヒク丸出しSEXでイキ乱れる小悪魔プリ尻ちゃん",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "放尿",
+    "屁股",
+    "舔阴",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dvdms868/dvdms868pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96916",
+  "actresses": []
+};

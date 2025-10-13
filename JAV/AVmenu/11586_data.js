@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/15cb5fd1-7e24-44f5-bc15-88ba9c8e02c9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11586,
+  "IDcode": "SQTE-566",
+  "title": "太可愛了！ ！連資深AV導演都會嫉妒的可愛程度！這是日本的瑰寶 ~ 天月梓",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "校花",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "文藝女",
+    "口交",
+    "騎乗位",
+    "性感",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "巨乳",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240930/405a3df5-e3e6-4531-b22c-bd3144b3e3d5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240930/405a3df5-e3e6-4531-b22c-bd3144b3e3d5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11586",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11586&name=天月梓"
+    }
+  ]
+};

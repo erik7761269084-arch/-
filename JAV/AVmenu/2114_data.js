@@ -1,0 +1,61 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2114,
+  "IDcode": "JUR-485",
+  "title": "朋友炫耀一週三次床上運動，我直接一週五天狂轟20發，把他老婆給寝取了 ~ 木下凛々子",
+  "publish_date": "2025-10-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "同事女友・妻子",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "寢取",
+    "豐滿"
+  ],
+  "description": "JUR-485为MADONNA出品,2025年10月9日发行的有碼成人影片由木下凜々子出演\n朋友老愛跟我說他一週跟老婆來三次，最近卻突然變少了，好像從跟我見面後就這樣了…大學死黨裕二跟我重逢後，炫耀他幾年前娶的老婆凛々子不只人美還超愛做，夫妻生活那叫一個甜蜜。結果我這超猛的精力沒地方發洩，心裡燒起一團邪火，偷偷找上凛々子直接硬來推倒！我的野性根本控制不住，凛々子一邊掙扎一邊卻被我搞到高潮。一週五天，天天中出し，她被我弄得徹底上癮，老公那點能耐早就滿足不了她啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251009/20251009042735305305_67095_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251009/20251009042735305305_67095_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2114",
+  "actresses": [
+    {
+      "name": "木下凜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20240511/c1a5a9d6-6708-4a6b-8bbd-24d72cbc6018.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2114&name=木下凜々子"
+    }
+  ]
+};

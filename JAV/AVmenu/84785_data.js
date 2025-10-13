@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/MDplssoa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84785,
+  "IDcode": "HUNTB-344",
+  "title": "無防備に透けている下着はワザと？隣の患者の彼女のパンツが透けてて超絶フル勃起！絶対にボクを誘惑しているとしか思えずガン見してたら勃起がバレて",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "内衣",
+    "口交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/51a794a98475757a6923d3a2fdb22f83.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84785",
+  "actresses": []
+};

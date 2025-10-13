@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65341,
+  "IDcode": "E1F94BA92BBCA54A73479329657A94A9",
+  "title": "[日本] 推川悠里破坏版AV～被麻绳捆绑的大奶人妻～ (ADN-094)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65341",
+  "actresses": []
+};

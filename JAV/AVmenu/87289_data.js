@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/2c9Nu4Jt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87289,
+  "IDcode": "BOBB-345",
+  "title": "性感開発乳腺エステで感じちゃうKカップ 感度倍増で身悶えるプルルン爆乳 Boin「小梅えな」Box",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "按摩",
+    "乳液",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87289",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87289&name=小梅惠奈"
+    }
+  ]
+};

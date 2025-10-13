@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/BSvHGYsJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83234,
+  "IDcode": "YMDD-174",
+  "title": "美人女将の超絶ベロキス全身リップと中出しセックス付き温泉宿泊プラン 河北麻衣",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "和服，丧服",
+    "接吻",
+    "浴衣",
+    "老板娘，女主人",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83234",
+  "actresses": [
+    {
+      "name": "河北麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83234&name=河北麻衣"
+    }
+  ]
+};

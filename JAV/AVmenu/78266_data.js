@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/dFTniAkF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78266,
+  "IDcode": "MIAE-168CN",
+  "title": "MIAE168CN 早洩高潮敏感女僕 美谷朱里.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78266",
+  "actresses": []
+};

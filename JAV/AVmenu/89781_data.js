@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240107/hJHOAwIU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89781,
+  "IDcode": "ROYD-150",
+  "title": "無垢スレンダーな僕の彼女は男友達に染められ、いいなり肉便器になっていた。 柊ゆうき",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "多P",
+    "苗条",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/a9236d9aebbe53c2cddd7dc8788828c0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89781",
+  "actresses": [
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89781&name=柊有希"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89781&name=ニック"
+    }
+  ]
+};

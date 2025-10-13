@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83527df9-6f84-4653-b979-ac1b2d698a15/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6655,
+  "IDcode": "SVHOT-001",
+  "title": "黑船來襲 超高個HOLLYWOOD大妞登陸日本！絕倫女神欲求不滿狂榨精！緊急特輯 ~ 滝ゆいな 花宮京子",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "ChuChuGirl",
+  "genres": [
+    "後入",
+    "黑絲",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "高妹",
+    "美腳",
+    "奇聞趣事",
+    "金髮",
+    "巨乳",
+    "奇異的",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SVHOT-001为ChuChuGirl出品,2025年4月18日发行的有碼成人影片由花宮京子，滝ゆいな出演\n身材超火辣的高個HOLLYWOOD姐妹花緊急空降日本！專抓M男，從高處俯視玩弄，各種調戲挑逗，簡直把人當玩具！大屁股直接坐臉上，壓得你喘不過氣！M男們完全被操控，毫無還手之力，被榨到一次又一次射！這對肉食系姐妹慾望爆棚，勾引大屌瘋狂纏鬥，絕倫性愛根本停不下來！淫蕩小穴直接過熱，火辣身材抖動不停，高潮迭起，爽到極致！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423081409478478_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250423/20250423081409478478_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6655",
+  "actresses": [
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6655&name=滝ゆいな"
+    },
+    {
+      "name": "花宮京子",
+      "img_url": "https://picture.yoshiclub.xyz/20241212/7edd4cbd-8a32-416b-8614-edcaca693c4b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6655&name=花宮京子"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f342ffd-8f04-44a2-9e8d-36399fc54c7c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/05/fb2565d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10688,
+  "IDcode": "DVAJ-674",
+  "title": "大家都去應援全國大會了，小村裏只剩下2人，對人妻衝動的3日間不倫性行爲 ~ 月野香橙",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "內衣",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "野外露天"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241111/eb33dad3-60eb-4141-b221-ff02f270debc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241111/eb33dad3-60eb-4141-b221-ff02f270debc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10688",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10688&name=月野香澄"
+    }
+  ]
+};

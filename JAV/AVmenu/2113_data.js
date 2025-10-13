@@ -1,0 +1,63 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2113,
+  "IDcode": "IPZZ-680",
+  "title": "不中出就不算出軌吧？~ 古川穗花",
+  "publish_date": "2025-10-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "校花",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "校園生活",
+    "手指插入",
+    "鬃毛",
+    "美人",
+    "學校",
+    "大奶头",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "IPZZ-680为IDEA POCKET出品,2025年10月9日发行的有碼成人影片由古川穗花出演\n“老师，我真的超喜欢你……”被这么可爱的学生妹主动撩拨，哪个正经老师能顶得住？放学后直接拖进酒店，干柴烈火一发不可收拾！小穗花认真起来，哪个男人能不沦陷？酒店自不必说，教室、体育仓库，各种地方都成了他们的战场。比老婆年轻的身子让人欲罢不能，满身大汗沉浸在快感中。明知不该做这种事，但那种禁忌的刺激感和跟小美女缠绵的爽感，简直让人上瘾啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251009/20251009043322781781_72886_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251009/20251009043322781781_72886_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2113",
+  "actresses": [
+    {
+      "name": "古川穗花",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/7dab9a3d-3455-49dd-be59-501680e655d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2113&name=古川穗花"
+    }
+  ]
+};

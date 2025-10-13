@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/17/04749534/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100861,
+  "IDcode": "RS-037",
+  "title": "ななせ",
+  "publish_date": "2008-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "口交",
+    "手指插入",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100861",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221028/xQlgyz5R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81484,
+  "IDcode": "BDA-111",
+  "title": "道化師の女 波多野結衣",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "精选，综合",
+    "捆绑",
+    "自慰",
+    "手淫",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81484",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81484&name=波多野结衣"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/95C1E7DA948370A5/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39707,
+  "IDcode": "9DD71944B7651C00FCD24D05EA9AA48E",
+  "title": "极品身材的素人妹子~没操几下就射进去了",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39707",
+  "actresses": []
+};

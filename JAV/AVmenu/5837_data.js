@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b1aee0f2-6c42-401c-b25a-8be13595972a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/ca44ee41/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5837,
+  "IDcode": "LUCY-012",
+  "title": "愛妻，讓別的男人操到高潮吧 ~ 大島愛裏亞",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "LUCY’S",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "按摩・物理治療・美容",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "奇聞趣事",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "LUCY-012为LUCY’S出品,2025年5月24日发行的有碼成人影片由大島愛里亞出演\n老實說，我總是忍不住幻想我老婆被其他男人佔有。想到我最愛的妻子那誘人的身軀被別人盡情玩弄，各种羞羞的事在她身上上演，我就興奮到不行。雖然我知道這想法有點不正常，但就是克制不住自己。為什麼會變成這樣？唉，一切都怪我把自己的專屬按摩師介紹給了她……從那天起，一切都失控了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/2025052409524944_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250524/2025052409524944_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5837",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5837&name=大島愛里亞"
+    }
+  ]
+};

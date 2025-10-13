@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/065C3CBB7AB20D8A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98192,
+  "IDcode": "C-2464",
+  "title": "生撮 レズビアン温泉旅行 03",
+  "publish_date": "2019-07-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "业余",
+    "浴衣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98192",
+  "actresses": []
+};

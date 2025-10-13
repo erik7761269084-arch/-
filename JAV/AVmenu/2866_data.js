@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ab01421d-2e37-4f80-9a38-41199661102f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2866,
+  "IDcode": "BACJ-163",
+  "title": "靈性精油按摩 渴望精液的騷浪本性 ~ 海野いくら",
+  "publish_date": "2025-09-05",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "抹油",
+    "美人",
+    "極品美人",
+    "野性",
+    "豐滿"
+  ],
+  "description": "BACJ-163为BALTAN出品,2025年9月5日发行的有碼成人影片由海野いくら出演\n這是一家神祕的按摩店，號稱能用靈性‘療法’喚醒你內心最深處的原始慾望！這裡是治癒與快樂的曖昧地帶，超特別的體驗讓人上癮。用上【神祕茶飲】和【獨家精油】，體內的慾火被一點點引爆，騷動到不行。“這就是...真正的我嗎？”按摩師的手一碰到身體，理智直接崩潰，變成一個只想要精液的淫蕩女子。是被洗腦，還是徹底解放？超越善惡的極致快感，帶她進入全新的世界！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212829529529_20622_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212829529529_20622_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2866",
+  "actresses": [
+    {
+      "name": "海野いくら",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/08a7868e-5cfd-4f64-9a8b-814730d1e38a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2866&name=海野いくら"
+    }
+  ]
+};

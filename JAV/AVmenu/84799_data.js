@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/vH7IQWri/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84799,
+  "IDcode": "HMN-265",
+  "title": "彼女にセフレがいるのがバレちゃったボク… 10発抜いたほうが本命彼女の射精させまくりスワッピング！彼女とセフレのセクテク競い合い中出しハーレム逆3P 小花のん さつき芽衣",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84799",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84799&name=沙月芽衣"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/23/347edfde/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90795,
+  "IDcode": "AVSA-232",
+  "title": "AVSA-232",
+  "publish_date": "2023-01-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "拘束",
+    "胖女人",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90795",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90795&name=春菜华"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90795&name=左慈半造"
+    }
+  ]
+};

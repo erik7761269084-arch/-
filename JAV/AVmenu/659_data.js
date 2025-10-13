@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5cc979e4-2539-418a-9518-777aa0b18425/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 659,
+  "IDcode": "HEYZO-0790",
+  "title": "我想讓你一次又一次地射進我的體內 - 水玉檸檬",
+  "publish_date": "2015-02-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "美少女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0790为HEYZO出品,2015年2月9日发行的無碼成人影片由水玉檸檬 出演\n続々生中～中にいっぱい出してほしい～ - 瑞乃れもん",
+  "cover_url": "https://picture.yoshiclub.xyz/20241002/ea9deb27-913c-47dc-820c-46a43cc2d8d7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241002/ea9deb27-913c-47dc-820c-46a43cc2d8d7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=659",
+  "actresses": [
+    {
+      "name": "水玉檸檬",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/715ff198-e1b1-481f-86db-488d60447440.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=659&name=水玉檸檬"
+    }
+  ]
+};

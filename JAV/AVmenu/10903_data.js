@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e1841311-0ffd-4cb5-b2bb-65090093f243/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10903,
+  "IDcode": "CAWD-735",
+  "title": "想被可愛女孩粗暴對待……癡女蘿莉主題現場肉感按摩服務特輯 ~ 日向夏",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "劇情",
+    "按摩女郎",
+    "蘿莉",
+    "中出",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "淫語",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "M男・M女",
+    "美少女電影"
+  ],
+  "description": "CAWD-735为KAWAII出品,2024年11月5日发行的有碼成人影片由日向夏出演\n「你真是個懶人，工作日白天就看這個直播了。」「口罩？不准摘下來。」1 太棒了，不是嗎？ ，很有趣，所以我要求進行深度採訪。 夏小姐來到了現場。 ，因為她想做一些她不能要求她的女朋友或妻子的事情。似乎有很多男人當她按下乒乓球按鈕的那一刻，她突然變成了一種虐待狂模式，而受虐狂的反應是：如果你因為這看起來很有趣而感到興奮，那麼你最終可能會真的這麼做，儘管它很有趣。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031083216562562.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031083216562562.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10903",
+  "actresses": [
+    {
+      "name": "日向夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/9ff72175-22c9-4279-bc96-1af320236f22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10903&name=日向夏"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/JH9wbP1u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81970,
+  "IDcode": "SDNT-015",
+  "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case13 保育士・三田恵理子（仮名）29歳 東京都北区赤羽在住 マゾメス調教了承 主人のためにネトラレます",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "素人作品",
+    "蒙面・面罩"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81970",
+  "actresses": [
+    {
+      "name": "雨宫凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81970&name=雨宫凛"
+    }
+  ]
+};

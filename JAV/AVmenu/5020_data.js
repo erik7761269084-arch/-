@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/802c2bd3-71ad-4dfb-a5ff-f19b53e57a92/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/844584a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5020,
+  "IDcode": "HAWA-357",
+  "title": "肉棒騷妻 肉便器3號 ~ 足立友梨",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "素人作品",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "運動女孩",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "拜金女",
+    "美人妻",
+    "癡女",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "HAWA-357为Cosmos 映像出品,2025年6月26日发行的有碼成人影片由足立友梨出演\n收到一段影片，裡面一對年輕夫妻竟然在家裡偷偷開無牌風俗店！妻子是個練瑜伽的頂級正妹，身材超火辣又纖細，親自下場陪客玩。店內玩法超硬核，女人被當成肉玩具使喚，深喉、吞精、勒頸、玩具調教、內射、3P……各種無情玩法她照單全收，還一邊喊著“請再爽一點嘛”，一邊失禁高潮到瘋掉！這根本是個變態騷妻的真實紀錄，畫面刺激到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000243552552_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000243552552_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5020",
+  "actresses": [
+    {
+      "name": "足立友梨",
+      "img_url": "https://picture.yoshiclub.xyz/20240818/ecf7c772-2a36-414a-b861-42fcacaba9cd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5020&name=足立友梨"
+    }
+  ]
+};

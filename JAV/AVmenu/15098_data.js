@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87036f40-cacd-4276-9876-91ea3a9c3d2a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15098,
+  "IDcode": "OLM-058",
+  "title": "充滿性欲的可愛蜜桃臀女孩，與戀腿癖父親一起絲襪玩淫高潮！~ 沙月惠奈",
+  "publish_date": "2024-04-30",
+  "type": "有码",
+  "company": "OLYMPUS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "繼父",
+    "口交",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "美少女",
+    "高跟鞋",
+    "辣妹/GAL系",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240430/44670fc1-2038-4cc3-a6ff-62659c0e6ab6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240430/44670fc1-2038-4cc3-a6ff-62659c0e6ab6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15098",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15098&name=沙月惠奈"
+    }
+  ]
+};

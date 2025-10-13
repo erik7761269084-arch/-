@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/4LIBphvR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70672,
+  "IDcode": "SDAB-109",
+  "title": "お父さんよりも年上の中年おじさんたちと昼間っから一日中、ず～っと性交 桜井千春",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗条",
+    "平胸",
+    "校服",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70672",
+  "actresses": [
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70672&name=雫月心桜"
+    }
+  ]
+};

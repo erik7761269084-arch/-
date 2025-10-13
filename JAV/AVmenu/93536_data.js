@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/g2GuDrnC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93536,
+  "IDcode": "NHDTB-924",
+  "title": "女のイキツボ直撃レズエステ8 乳首いじりとこねくり責めで拒絶しながらも絶頂をくり返す未開発のカラダ 瀬戸ひなこさんのパンティとチェキ付き",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "女大学生",
+    "女同性恋",
+    "苗条",
+    "潮吹",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93536",
+  "actresses": []
+};

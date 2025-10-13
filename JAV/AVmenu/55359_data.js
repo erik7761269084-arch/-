@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221108/84E8FC85F9E0ACB0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55359,
+  "IDcode": "61007E9412FD34064B037C4130841BCD",
+  "title": "最色情的日本女人在这里 28",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55359",
+  "actresses": []
+};

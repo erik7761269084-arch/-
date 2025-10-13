@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e186db82-33ea-4b67-9f12-8de23c020450/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/20/4528f0bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9116,
+  "IDcode": "GVH-714",
+  "title": "「你需要被慢慢的懲罰…」我是個職場新人，先輩用她的手指慢慢的給我上了節性教課 ~ 森日向子",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "學姐・學妹",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "御姐系",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "M男・M女",
+    "美人",
+    "女上司",
+    "綠茶婊",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250115/38b5c469-ff62-4bbe-8d42-8d927f4f2c97.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250115/38b5c469-ff62-4bbe-8d42-8d927f4f2c97.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9116",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9116&name=森日向子"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9116&name=七尾神"
+    }
+  ]
+};

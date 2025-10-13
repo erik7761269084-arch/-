@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/05/f816f09a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106859,
+  "IDcode": "ALDN-200",
+  "title": "【FANZA限定】舐め好き親父と欲求不満な嫁 谷あづさ チェキ付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106859",
+  "actresses": [
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106859&name=谷梓"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106859&name=左慈半造"
+    }
+  ]
+};

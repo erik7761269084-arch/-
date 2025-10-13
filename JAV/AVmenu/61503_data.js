@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/670583d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61503,
+  "IDcode": "ADN-078",
+  "title": "あなたに愛されたくて。 原ちとせ",
+  "publish_date": "2015-11-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61503",
+  "actresses": [
+    {
+      "name": "原千岁",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c353a77fe50c67e127a58773b80cb742.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61503&name=原千岁"
+    }
+  ]
+};

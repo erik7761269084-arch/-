@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/c4hKEmdT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77234,
+  "IDcode": "SHKD-530",
+  "title": "被虐の家庭教師6 KAORI",
+  "publish_date": "2014-01-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "强奸",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/cbf0fe4c8c7ee8d9cc4c17647ae198b5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77234",
+  "actresses": [
+    {
+      "name": "桃田香織",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/桃田香織.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77234&name=桃田香織"
+    }
+  ]
+};

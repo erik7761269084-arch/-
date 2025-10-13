@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/11/8d4eee25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105878,
+  "IDcode": "IPTD-998",
+  "title": "被當作在性玩具在祕密拍賣會上拍賣的女人 冬月楓",
+  "publish_date": "2012-12-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "羞耻",
+    "数位马赛克",
+    "新娘，年轻妻子",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105878",
+  "actresses": [
+    {
+      "name": "冬月枫",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ef569942-7814-4b31-aa3f-255eb66391a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105878&name=冬月枫"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105878&name=森林原人"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105878&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/WGiCsUNs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78238,
+  "IDcode": "KKJ-085",
+  "title": "本気（マジ）口説き ナンパ→連れ込み→SEX盗撮→無断で投稿 イケメン軟派師の即パコ動画 14",
+  "publish_date": "2019-01-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "业余",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/76aab6e7dc736874cd444971bd9654c4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78238",
+  "actresses": [
+    {
+      "name": "川菜美铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/f475ef92-3b3c-4641-a10c-78cc5f5ce09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78238&name=川菜美铃"
+    }
+  ]
+};

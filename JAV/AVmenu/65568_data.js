@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220924/596511C233C979D8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65568,
+  "IDcode": "E297BE00A77F2588F3AF4AE56857BA5C",
+  "title": "素人男女大生挑战榨精20ml密室逃脱！ 4",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65568",
+  "actresses": []
+};

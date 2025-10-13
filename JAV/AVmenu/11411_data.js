@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aaaf1a6d-e565-4ae7-a8c3-42b88d379270/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11411,
+  "IDcode": "NACR-860",
+  "title": "勾引有家室部下的癡女上司 ~ 君島美緒",
+  "publish_date": "2024-10-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "NTR",
+    "女上司",
+    "熟女",
+    "辣妹/GAL系",
+    "短髮",
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色誘",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "勾引・誘惑",
+    "美腳",
+    "金髮",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "M男・M女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241006/b9b5d4ba-cae3-47d1-81f3-9042dee48e4f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241006/b9b5d4ba-cae3-47d1-81f3-9042dee48e4f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11411",
+  "actresses": [
+    {
+      "name": "君島美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230619/95759a80-b4cc-4ccf-ad53-3152e39af8aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11411&name=君島美緒"
+    }
+  ]
+};

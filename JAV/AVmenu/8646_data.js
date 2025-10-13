@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bd507eed-74c6-4720-8f07-9de67910a97b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/6b5ba601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8646,
+  "IDcode": "MIFD-574",
+  "title": "對天真清楚系未熟娘的大量中出！2000回最激烈痙攣！追擊中出3本番 ~ 愛望莉裏",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "中出",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIFD-574为MOODYZ出品,2025年2月4日发行的有碼成人影片由愛望莉里出演\n為未成熟女孩提供大量中出！在 Aimo Riri 的第二部分中，她脫下制服，與成人雞巴進行了她有生以來第一次原始的中出性愛！ 3場演出！純潔、天真、真誠的 Aimi-chan 擁有燦爛的笑容，並在 AV 中經歷了嚴峻的洗禮！在挑逗她直到她高潮後，她被大量精液內射！允許中出性行為！用滑溜的油和中出進行按摩遊戲！玩具遊戲、潮吹與陰部顏射！我已經來了！連續中出4P！震盪臨近！正因為她是純真的女孩，所以看到她被白色液體弄髒的樣子才這麼色情！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130082624914914.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130082624914914.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8646",
+  "actresses": [
+    {
+      "name": "愛望莉里",
+      "img_url": "https://picture.yoshiclub.xyz/20250103/96f1af17-7490-49d3-a3d4-0b389f725811.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8646&name=愛望莉里"
+    }
+  ]
+};

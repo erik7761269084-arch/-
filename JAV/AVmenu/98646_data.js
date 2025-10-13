@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98646,
+  "IDcode": "MKMP-240_D",
+  "title": "佐倉絆 2枚組8時間BEST 36タイトル30SEX Part 4",
+  "publish_date": "",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98646",
+  "actresses": []
+};

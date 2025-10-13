@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e015928-42fa-4627-9c67-b477eb8aef0d/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/27/4e8516be/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18138,
+  "IDcode": "RKI-649",
+  "title": "超性感輪姦強暴 給霸道無禮的女老闆用上春藥 用大雞巴教她該怎麼對待同事",
+  "publish_date": "2023-10-31",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "劇情",
+    "凌辱",
+    "中出",
+    "OL",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "性感",
+    "輪姦",
+    "多P",
+    "巨乳",
+    "辦公室",
+    "女上司",
+    "羞恥",
+    "報復"
+  ],
+  "description": "RKI-649为ROOKIE出品,2023年10月31日发行的有碼成人影片由都月楓出演\n霸道女上司，屢次霸凌下屬們。 我感覺自己每天都被壓力逼瘋了，我根本無法享受順利的婚姻生活和幸福……復仇心切的男人給討厭的人妻老闆偷偷用了媚藥。 視頻將震撼您大腦。 強暴、強吸……藥物浸透的意識被快感強行喚醒，像肉便器一樣被幹暴的恐怖輪姦。\n霸道女上司，屢次霸凌下屬們。 我感覺自己每天都被壓力逼瘋了，我根本無法享受順利的婚姻生活和幸福……復仇心切的男人給討厭的人妻老闆偷偷用了媚藥。 視頻將震撼您大腦。 強暴、強吸……藥物浸透的意識被快感強行喚醒，像肉便器一樣被幹暴的恐怖輪姦。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231028/51c46e89-1ae5-468c-9ac3-d6bd31ebdbb4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231028/51c46e89-1ae5-468c-9ac3-d6bd31ebdbb4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18138",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18138&name=都月楓"
+    }
+  ]
+};

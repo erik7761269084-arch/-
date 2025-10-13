@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/18/ab67f961/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61894,
+  "IDcode": "MIDV-325",
+  "title": "終電逃して同僚の部屋にお泊り ノーブラ部屋着に我慢できずコンドーム使いきるまでヤリまくった 明日見未来 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/17/6bfe35b2a7803cb2930293cd88d6fbed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61894",
+  "actresses": []
+};

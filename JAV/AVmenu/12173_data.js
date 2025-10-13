@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62ce2851-d4f3-4dfc-a669-4aee04f51445/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12173,
+  "IDcode": "SONE-342",
+  "title": "奇跡的天然彈力巨乳的壓在身上，絕佳的乳交美學，治療開始10分鍾保證每個人都會射 ~ 清原美優",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "按摩・美容店",
+    "情趣內衣",
+    "巨乳",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "SONE-342为S1出品,2024年9月10日发行的有碼成人影片由小日向美優出演\n爆炸性的nuki治療，胸部極具彈性和豐滿！ 「請射在 Miyu 的胸部和陰戶上！業界最棒的肉感！」 ？超豐滿豐滿的H罩杯夾心沙龍！奇蹟般的天然Hcup清原Miyuu，擁有160分鐘全程男士美容院，專攻乳交和射精！吸它！擦吧！夾起來！玩吧！ Muchipuri 彈性乳房護理！憑藉終極技術，你的大腦和雞巴將會跳動......你能忍受這種完全包裹你雞雞的超級乳交10分鐘嗎......？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906010740874874.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906010740874874.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12173",
+  "actresses": [
+    {
+      "name": "小日向美優",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/47cfce8f-8903-4f3b-96f9-d3b9400a111d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12173&name=小日向美優"
+    }
+  ]
+};

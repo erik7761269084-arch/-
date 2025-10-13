@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240507/vqho83hr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101951,
+  "IDcode": "DOCP-022",
+  "title": "「その年で結婚できないのはSEXが下手だからじゃないの？」とアラサー独身姉を挑発、逆上させ自分好みに変態調教「近親花嫁修行計画」",
+  "publish_date": "2018-02-16",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "乱伦",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118docp022/118docp022pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101951",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101951&name=美咲佳奈"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101951&name=纱々原ゆり"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/h3dX2d4w/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70900,
+  "IDcode": "FAA-324",
+  "title": "デカ尻若妻に3日間朝も昼も夜も痴女られまくった話",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "荡妇",
+    "新娘，年轻妻子",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70900",
+  "actresses": [
+    {
+      "name": "柏木まい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70900&name=柏木まい"
+    }
+  ]
+};

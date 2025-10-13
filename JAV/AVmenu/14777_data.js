@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e4a56ec-0226-4049-95ab-ac7e982870d0/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/11/c3fce984/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14777,
+  "IDcode": "DVAJ-653",
+  "title": "早上醒來看到旁邊穿着內衣、平時很嚴格的女上司五日市芽衣，似乎和她很性契合，每天都在恩愛中出 ~五日市芽衣",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "辦公室",
+    "女上司",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240512/7ced0f16-f1ad-440f-bc39-b6ed4213c9cc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240512/7ced0f16-f1ad-440f-bc39-b6ed4213c9cc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14777",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14777&name=五日市芽依"
+    }
+  ]
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eb244228-3f9d-41e1-ac05-701a9fb34961/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 589,
+  "IDcode": "HEYZO-0707",
+  "title": "美腿Cosplay ~ 百合川紗羅",
+  "publish_date": "2014-10-18",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "角色扮演",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兔女郎妝扮",
+    "打手槍",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "高跟鞋",
+    "足交",
+    "猥褻穿著",
+    "辣妹/GAL系",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "HEYZO-0707为HEYZO出品,2014年10月18日发行的無碼成人影片由百合川紗羅出演\nさらさんの美脚自慢コスプレ - 百合川さら",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/2d6efb1b-7c90-47ab-b75a-800272d66bb5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/2d6efb1b-7c90-47ab-b75a-800272d66bb5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=589",
+  "actresses": [
+    {
+      "name": "百合川紗羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/76f8f261-059a-487f-8cdb-267407e81b2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=589&name=百合川紗羅"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/mum5DnBE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69721,
+  "IDcode": "MIDE-581",
+  "title": "姉が3日間、僕専属メイドになった。 初川みなみ",
+  "publish_date": "2018-10-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫语",
+    "姐姐",
+    "屁股",
+    "数位马赛克",
+    "女佣",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69721",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69721&name=初川南"
+    }
+  ]
+};

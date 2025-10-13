@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55582,
+  "IDcode": "8A8F323BB1C46FED4C29C169CC4F5159",
+  "title": "10mu 103119_01 夏木なつドキドキデートの后はウブなキツマンに大量中出し",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55582",
+  "actresses": []
+};

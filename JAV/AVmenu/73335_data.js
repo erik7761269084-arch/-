@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/27/52ec0117/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73335,
+  "IDcode": "BLK-356",
+  "title": "元ヤン早漏妻が夫に内緒で昔のヤリ友自宅に呼び出しイクイク大乱交 君島みお",
+  "publish_date": "2018-03-07",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "出轨",
+    "滥交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73335",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73335&name=君岛美绪"
+    }
+  ]
+};

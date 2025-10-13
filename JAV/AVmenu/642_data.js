@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4d6e7748-f0d4-4653-adf6-db4f24b7cee3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 642,
+  "IDcode": "HEYZO-0771",
+  "title": "讓發燒了的男友中出，射出來的不止是熱騰騰的精子 ~ 知念真桜",
+  "publish_date": "2015-01-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "劇情",
+    "純粹的慾望",
+    "中出",
+    "美乳",
+    "女上位",
+    "素人",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "慾求不滿",
+    "少女",
+    "美少女",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HEYZO-0771为HEYZO出品,2015年1月13日发行的無碼成人影片由知念真桜出演\n彼氏が風邪でも中出し希望～熱だけじゃなくて精子も出して～ - 知念真桜",
+  "cover_url": "https://picture.yoshiclub.xyz/20241008/3eb4edb7-9c87-44de-ab26-bcd31525cc1a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241008/3eb4edb7-9c87-44de-ab26-bcd31525cc1a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=642",
+  "actresses": [
+    {
+      "name": "知念真桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/287149a6-a186-4cdd-9f40-a12c2bf362c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=642&name=知念真桜"
+    }
+  ]
+};

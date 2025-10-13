@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/09/24fca276/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75571,
+  "IDcode": "VRTM-477",
+  "title": "「Hはダメだけど、キスの仕方なら教えてあげる！」キステクニック抜群の義母が童貞息子とくちSEX！ 互いのとろけるキスの連続で愛液漏れっぱなしのマ○コに筆おろし生挿入！常にベロキスしながら密着中出しSEX！",
+  "publish_date": "2020-01-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "母亲",
+    "企画",
+    "手淫",
+    "处男",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/9d40c9464cfbda0ec1a05a3f587ab11f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75571",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75571&name=森澤佳奈"
+    },
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75571&name=大浦真奈美"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75571&name=蓝井优太"
+    }
+  ]
+};

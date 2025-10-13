@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e367834-a345-4ee9-9c27-73c3ca243713/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8256,
+  "IDcode": "MIAB-403",
+  "title": "啊！你不是說只蹭蹭的嘛！心地善良，性感美人姐姐，當她那膽小的哥哥求她練習SEX的時候，她勉強的答應了，最後被操到潮吹不斷的20發中出內射 ~ 千川とわ",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美臀",
+    "女上位",
+    "JK校服",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "美人",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "羞恥",
+    "宅男・宅女"
+  ],
+  "description": "MIAB-403为MOODYZ出品,2025年2月18日发行的有碼成人影片由千川とわ出演\n有一天，Towa 目睹了她的哥哥試圖自殺。當她拼命阻止他時，她的哥哥懇求她讓他和他做愛，因為他不想這樣離開她，她勉強同意了，條件是他們不能接吻。 Towa 的請求源自於她大雞巴哥哥對乾性愛的懇求......而且這並不止於乾性愛，當兄妹倆進行禁忌的原始性愛並讓他們潮吹時，快感會升級到新的水平！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074617770770.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213074617770770.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8256",
+  "actresses": [
+    {
+      "name": "千川とわ",
+      "img_url": "https://picture.yoshiclub.xyz/20240330/2e9c78eb-2ab3-4399-ad83-c10be424b663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8256&name=千川とわ"
+    }
+  ]
+};

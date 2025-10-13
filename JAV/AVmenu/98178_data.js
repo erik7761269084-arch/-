@@ -1,0 +1,31 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98178,
+  "IDcode": "RBD-403-",
+  "title": "キャリアウーマン牝レイプ 食べ頃な獲物たち…3 西野翔 風間ゆみ",
+  "publish_date": "2012-09-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "强奸",
+    "女同性恋",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98178",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98178&name=風間由美"
+    },
+    {
+      "name": "西野翔",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/fb6a7a91-1623-44ad-918c-5f08533a1d44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98178&name=西野翔"
+    }
+  ]
+};

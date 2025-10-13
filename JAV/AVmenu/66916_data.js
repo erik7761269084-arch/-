@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250429/MJZXWllQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66916,
+  "IDcode": "GVH-501",
+  "title": "GVH-501",
+  "publish_date": "2023-01-21",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "高中女生",
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66916",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66916&name=天馬唯"
+    }
+  ]
+};

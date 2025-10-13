@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241121/PwUQwE2G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95043,
+  "IDcode": "HOKS-010",
+  "title": "食いたいやりたい 親子丼 母と娘と中年男",
+  "publish_date": "2019-01-01",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "萝莉塔",
+    "淫乱，真实",
+    "多P",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95043",
+  "actresses": [
+    {
+      "name": "天海しおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95043&name=天海しおり"
+    },
+    {
+      "name": "今泉花菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95043&name=今泉花菜"
+    }
+  ]
+};

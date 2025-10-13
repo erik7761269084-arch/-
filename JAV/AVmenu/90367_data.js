@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/GzG3tvBb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90367,
+  "IDcode": "PBD-451",
+  "title": "可憐すぎる美女達VS男1人。 挟み撃ち王様ハーレムBEST",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "姐姐",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90367",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=山岸逢花"
+    },
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=仓多真央"
+    },
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=水户香奈"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=凛音とうか"
+    },
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=星奈爱"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=安倍亜沙美"
+    },
+    {
+      "name": "舞原圣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=舞原圣"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=新井爱丽"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90367&name=君岛美绪"
+    }
+  ]
+};

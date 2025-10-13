@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/16/0ba483b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84022,
+  "IDcode": "BF-666",
+  "title": "裸族の姉が逆バニーになって僕を誘惑。 女として全く意識してなかった筈なのに…僕は我慢出来ずに夢中で何度も射精しまくった。 斎藤あみり",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "荡妇",
+    "女生",
+    "角色扮演者",
+    "兔女郎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230103-1/085660527d843b4f3937740b1d154a5c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84022",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84022&name=斋藤亚美里"
+    }
+  ]
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4b5f1a58-cc99-4a63-ba55-de333fed012f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9691,
+  "IDcode": "KATU-137",
+  "title": "巨尻美癡女,豐滿圓潤巨乳，變態的護理工 ~ 倉多真央",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "女看護",
+    "老頭子",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "野性"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241222/9acf2807-0ea5-4faa-ae9f-5d2965e83531.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241222/9acf2807-0ea5-4faa-ae9f-5d2965e83531.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9691",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9691&name=仓多真央"
+    }
+  ]
+};

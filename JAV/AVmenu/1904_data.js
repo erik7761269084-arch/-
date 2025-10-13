@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230215/de395f21-8aa1-4be1-b27a-b8c4883cf2b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1904,
+  "IDcode": "MXBD-220",
+  "title": "新人由衣霞 - 她的同學是一位活躍的女高中生，18歲就飛躍出道！ ~ 高清（藍光光碟）",
+  "publish_date": "2015-07-10",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "JK校服",
+    "無碼流出",
+    "出道作品",
+    "巨乳",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/bbcd2ed3-2929-42f8-a787-3b624b34a433.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/bbcd2ed3-2929-42f8-a787-3b624b34a433.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1904",
+  "actresses": [
+    {
+      "name": "香純唯",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-香純ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1904&name=香純唯"
+    }
+  ]
+};

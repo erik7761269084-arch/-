@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f4314fc-d051-4492-b850-24e0ce80a411/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/03/0b8f4b91/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3133,
+  "IDcode": "DVEH-062",
+  "title": "慢速口交挑逗到爆 極致寸止反復折磨 肉感美女前戲控誘惑到噴射的巔峯性愛 ~ 永野司",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "DVEH-062为DEEP'S出品,2025年8月28日发行的有碼成人影片由永野司出演\n這次的概念就是挑逗！她用舌頭慢條斯理地舔弄那話兒、龜頭還有蛋蛋的輪廓，慢到你能感受到每一下的觸碰，真的讓人快瘋掉！這肉感正妹還用她火辣的身材慢慢自慰，抹上油滑溜溜地讓人看了心癢癢，把男人的心跟下面都撩得軟趴趴。她自己也沉迷在那種大腦發麻的快感中，露出高潮臉，一次次爽到快暈過去。被這種極致誘惑折磨到極限的男人，最後只能爆射，那種高潮過頭的感覺，簡直直衝天堂的極樂！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828034857751751_46779_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828034857751751_46779_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3133",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3133&name=永野司"
+    }
+  ]
+};

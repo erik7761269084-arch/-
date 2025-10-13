@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/02/f3e67035/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90782,
+  "IDcode": "BAB-081",
+  "title": "BAB-081",
+  "publish_date": "2023-01-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "泳装",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90782",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90782&name=瀬那瑠美奈"
+    }
+  ]
+};

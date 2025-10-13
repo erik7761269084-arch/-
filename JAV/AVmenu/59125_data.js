@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240409/9Gk3E75G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59125,
+  "IDcode": "HEYZO-2256",
+  "title": "男の夢！ウハウハ逆3P！！Vol.4 - 椎名あすか - 新城由衣",
+  "publish_date": "2020-05-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "69",
+    "乳液",
+    "淋浴沐浴",
+    "打手枪",
+    "背后插入",
+    "3P",
+    "骑乘位",
+    "乳交",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59125",
+  "actresses": [
+    {
+      "name": "吉泽ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59125&name=吉泽ひかり"
+    }
+  ]
+};

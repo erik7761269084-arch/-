@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220724/4709BDBFF8F87C1D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56499,
+  "IDcode": "5BA795F0718511E5A34C2E9957A5463D",
+  "title": "朝ゴミ出しする近所の遊び好きノーブラ奥さん 町村小夜子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56499",
+  "actresses": []
+};

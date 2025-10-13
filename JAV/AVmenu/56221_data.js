@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220417/4ED4790CD9217BF7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56221,
+  "IDcode": "9D520AD2DBC76A7E81A2B711CB6BD0BB",
+  "title": "现役窈窕女大学生 相叶理香 5024",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56221",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1d58203d-da2a-44b9-9f14-4d0540f9963b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8470,
+  "IDcode": "HZGD-296",
+  "title": "入社2年目的平時很嚴肅的總務部的已婚人妻，事實上卻欲求不滿.... ~ 橘日向",
+  "publish_date": "2025-02-14",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "吞精",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "顏射",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "美人",
+    "眼鏡",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250207/0ae58870-63d0-476e-aefc-c3e857445462.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250207/0ae58870-63d0-476e-aefc-c3e857445462.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8470",
+  "actresses": [
+    {
+      "name": "橘日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/72d5e9fe-64e7-4966-9fe5-d356632397db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8470&name=橘日向"
+    }
+  ]
+};

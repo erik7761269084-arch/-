@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250401/9AVXCRth/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69406,
+  "IDcode": "NACR-555",
+  "title": "- 義母のおっぱいが気になって 初音みのり パンティと生写真付き - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "婆婆",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/2e3684b44d6ad9df2f01b519902a720b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69406",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69406&name=初音實"
+    }
+  ]
+};

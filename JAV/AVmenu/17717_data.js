@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/799af5ec-8604-41ca-8ded-d1a25254035d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17717,
+  "IDcode": "SORA-494",
+  "title": "睡姦！ ！ 西東京市私立學校發育期少女的睡眠強姦",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "淫亂",
+    "業餘",
+    "中出",
+    "JK校服",
+    "制服",
+    "素人",
+    "口交",
+    "強姦",
+    "迷姦",
+    "輪姦",
+    "美少女",
+    "偷窺",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231120/20231120005043487487.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231120/20231120005043487487.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17717",
+  "actresses": []
+};

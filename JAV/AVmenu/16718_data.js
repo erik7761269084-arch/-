@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3be56c3a-ed4f-483f-bdb7-b223801e244e/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250125/Grz1skuG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16718,
+  "IDcode": "SSNI-088",
+  "title": "舔肛天才吉沢明歩的終極排毒大量射精沙龍",
+  "publish_date": "2018-01-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "中出",
+    "口交",
+    "風俗娘",
+    "性感",
+    "按摩・美容店",
+    "抹油"
+  ],
+  "description": "SSNI-088为S1出品,2018年1月25日发行的有碼成人影片由吉沢明歩出演\n180分鍾，體驗治愈身心的頂級男士美容院No.1 吉沢明歩的6種超愉悅治愈護理！從腳趾到頭部放鬆全身的按摩，腹股溝區域的愛撫和親吻……以及帶來超凡快感的舔肛！請盡情享受舔肛專家的舌頭技術，從新手到高級都可以滿足！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240117/20240117093954681681.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240117/20240117093954681681.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16718",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16718&name=吉沢明歩"
+    }
+  ]
+};

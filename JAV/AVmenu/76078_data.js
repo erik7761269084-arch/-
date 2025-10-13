@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/07/0abc436f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76078,
+  "IDcode": "AVSA-354",
+  "title": "脳内パニック種付け喉マ○コ淫乱精飲美女装娘 西野めぐ",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "肛交",
+    "吞精",
+    "变性者",
+    "女装人妖",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76078",
+  "actresses": [
+    {
+      "name": "西野めぐ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76078&name=西野めぐ"
+    }
+  ]
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23bea75f-e0d0-463b-9ae4-89081fa26df0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12343,
+  "IDcode": "SAME-129",
+  "title": "光天化日之下闖入的強奸魔 ~ 天馬唯",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "吞精",
+    "深喉",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "人妻",
+    "手指插入",
+    "羞恥"
+  ],
+  "description": "SAME-129为ATTACKERS出品,2024年9月3日发行的有碼成人影片由天馬唯出演\n兩名強姦犯光天化日之下闖入一名婦女的家中。我會操你，直到你的心和身體都被摧毀。 *可能會冒犯您，請謹慎觀看（笑）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830004235453453.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830004235453453.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12343",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12343&name=天馬唯"
+    }
+  ]
+};

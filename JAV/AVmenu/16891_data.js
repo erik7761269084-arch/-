@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/69527998-6cbb-4d5e-8838-a00de3ecc0ff/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/31/1549cd47/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16891,
+  "IDcode": "IPZZ-185",
+  "title": "美麗的女老師愛上了舔爸爸的雞巴，沾滿唾液的溼舌吻。",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "接吻",
+    "緊縛",
+    "巨乳",
+    "按摩棒"
+  ],
+  "description": "IPZZ-185为IDEA POCKET出品,2024年1月9日发行的有碼成人影片由南條彩出演\n你用舌頭來找我……老師……真是個調皮的女人（笑）。美麗女老師「綾」擔心不上學的學生，拜訪他們的家。她的父親讓她喝春藥……綾的父親發呆，粗大的父親將舌頭伸進她的嘴裏，強行搶奪她的嘴脣。一連串激烈的深吻，吸幹了青春的精華。無法抗拒接吻的上癮快感的美麗女教師，爲之傾倒！中午在炎熱潮溼的房間裏與父親大汗淋漓地接吻做愛！一邊注入大量唾液，一邊舌頭纏繞，活塞激烈！日復一日，日子充滿了吻……\n你用舌頭來找我……老師……真是個調皮的女人（笑）。美麗女老師「綾」擔心不上學的學生，拜訪他們的家。她的父親讓她喝春藥……綾的父親發呆，粗大的父親將舌頭伸進她的嘴裏，強行搶奪她的嘴脣。一連串激烈的深吻，吸幹了青春的精華。無法抗拒接吻的上癮快感的美麗女教師，爲之傾倒！中午在炎熱潮溼的房間裏與父親大汗淋漓地接吻做愛！一邊注入大量唾液，一邊舌頭纏繞，活塞激烈！日復一日，日子充滿了吻……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106041845206206.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/20240106041845206206.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16891",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16891&name=南條彩"
+    }
+  ]
+};

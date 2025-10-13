@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/30/a4c7188b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67530,
+  "IDcode": "SDHS-044",
+  "title": "ルックス、エロ、性格、全てSクラスな高級愛人と中出し。れい",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/01/23dcaa5d0be54b55f0f1dfe083851aa7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67530",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67530&name=神木麗"
+    }
+  ]
+};

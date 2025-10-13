@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/dcec1c3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59889,
+  "IDcode": "200GANA-2211",
+  "title": "- 200gana-2211新宿的酒吧巨乳陪酒小姐93cm的奶子再配上美尻真是极品 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59889",
+  "actresses": []
+};

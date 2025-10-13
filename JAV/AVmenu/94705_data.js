@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/5ZspvyOY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94705,
+  "IDcode": "STSK-114",
+  "title": "ペニスフラッシュ オナニー見せつけセックス交渉 成功例4名",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "凌辱",
+    "女大学生",
+    "第一人称摄影",
+    "户外",
+    "汽车性爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94705",
+  "actresses": [
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94705&name=市川りく"
+    },
+    {
+      "name": "円井萌華",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/b182b7df-1886-4640-8d17-9aa21bd27e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94705&name=円井萌華"
+    }
+  ]
+};

@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21d00be8-f98f-4913-a320-717f89643861/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/6c3579d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9814,
+  "IDcode": "SODS-011",
+  "title": "SOD關於街上路人的騷女小惡魔事件的調查....比預想的更誇張",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "酒醉",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "搭訕",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "拜金女",
+    "癡女",
+    "新聞采訪",
+    "手指插入",
+    "公共場所",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241216/202412162243049797.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241216/202412162243049797.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9814",
+  "actresses": []
+};

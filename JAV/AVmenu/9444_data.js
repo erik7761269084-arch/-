@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b996c514-836c-48bf-9100-55cf9b1d6987/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/5d9e9996/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9444,
+  "IDcode": "MIFD-562",
+  "title": "再見。請你射在我體內，我要以此堅決和男友分手。在她的AV首秀30天後......她對出軌男友的最後報復是她人生中的初次無套中出 ~ 月乃楓羽梨",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "紀念作",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "美人",
+    "真實拍攝",
+    "豐滿"
+  ],
+  "description": "MIFD-562为MOODYZ出品,2025年1月7日发行的有碼成人影片由月乃楓羽梨出演\nFuwari Tsukino 決定首次亮相 AV，以報復她出軌的男友。首映拍攝30天后，聯繫了導演。我決定用我的第一次內射來證明我決定和男朋友分手！又是第一次，和失身不同！試試混合了興奮和緊張的中出！首先，公開自慰，你必須為原始性行為準備好自己的陰部。我們將增加您對SEX的期待！然後比較有和沒有橡膠的原始性！你對中出有什麼感覺...？此外，與叔叔的第一次性行為！有別於男友和出道作品的黏性性愛中，她會展現出怎樣的表情呢？還有可以體驗連續中出的3P遊戲！不要猶豫，將大量的精子注入 Fuwari 的陰戶，感覺就像有很多強烈的活塞！本來是為了報仇，但看看逐漸覺醒性愛樂趣的少女的未來吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102083246551551.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102083246551551.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9444",
+  "actresses": [
+    {
+      "name": "月乃楓羽梨",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/aab797a5-cb10-4522-9c97-122c2be4dcc4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9444&name=月乃楓羽梨"
+    }
+  ]
+};

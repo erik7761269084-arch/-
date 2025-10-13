@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230603/880767FEEF7B256C/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65941,
+  "IDcode": "60C1BE27FB1BD11BD4741BE16B7EAA6C",
+  "title": "[日本] 仓多真央破坏版AV～公公的性欲我也一起照顾了！(HBAD-337)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65941",
+  "actresses": []
+};

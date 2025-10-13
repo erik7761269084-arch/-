@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5d34dea-5454-443f-a575-2152eb16608f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/27/45b6e7fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13615,
+  "IDcode": "SSNI-295",
+  "title": "原作改編 夏天的約定 ～與姊姊的盛夏回憶～ 葵",
+  "publish_date": "2018-09-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "純粹的慾望",
+    "二次元",
+    "絕頂高潮",
+    "漫畫改編",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "JK校服",
+    "感官作品",
+    "原作改編",
+    "無碼破解",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "舔陰",
+    "接吻",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703005547847847.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240703/20240703005547847847.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13615",
+  "actresses": [
+    {
+      "name": "小野夕子",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/abb74ccd-f491-4096-9565-ef8214acfbee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13615&name=小野夕子"
+    }
+  ]
+};

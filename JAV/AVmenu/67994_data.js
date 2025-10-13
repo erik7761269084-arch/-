@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250403/ktuhftqm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67994,
+  "IDcode": "MOND-237",
+  "title": "憧れの女上司と 浜崎真緒",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67994",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67994&name=浜崎真绪"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67994&name=まーち"
+    }
+  ]
+};

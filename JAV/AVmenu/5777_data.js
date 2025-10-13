@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/066cd37e-341f-438e-8692-c64085fe0272/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/18/5f3192e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5777,
+  "IDcode": "START-333",
+  "title": "當絕倫美人同僚成爲我的女友，情熱甜蜜不分晨暮的超色同居生活 ~ 本莊鈴",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "芸能人"
+  ],
+  "description": "START-333为SOD出品,2025年5月27日发行的有碼成人影片由本庄鈴出演\n铃酱是职场认识的超正点同事，两个转职党聊着聊着就擦出火花，男主鼓起勇气告白，没想到她秒答“好”！现在俩人已经甜甜蜜蜜同居，每天都像在做梦，幸福到有点不真实！不过，铃酱有个大秘密——她简直是个絶倫小野兽！别看她外表温柔，上了床完全变身，性欲旺到让男主招架不住！有时候是慢节奏的缠绵爱爱，有时候又是火辣辣的激情狂欢，翻来覆去把男主折腾得腿软！这性福满满的同居生活，甜到齁又爽到飞起，绝对让你看得心动又心跳！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526205714731731_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250526/20250526205714731731_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5777",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5777&name=本庄鈴"
+    }
+  ]
+};

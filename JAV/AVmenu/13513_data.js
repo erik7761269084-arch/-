@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/797e7b28-86d0-4c76-8f89-1ddd29e75622/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/b4dad9fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13513,
+  "IDcode": "ACHJ-045",
+  "title": "歡迎來到我的房間。 全身淫液的巨乳蕩婦把M男帶回了家 ~ 吹石玲奈",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "勾引・誘惑",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "熟女"
+  ],
+  "description": "ACHJ-045为MADONNA出品,2024年7月9日发行的有碼成人影片由吹石玲奈出演\n「從現在開始，我們做一些激烈的、痛苦的、愉悅的事情吧。」一座隱藏在城市裡、不會打擾任何人的遊戲室，一旦踏入，直到靈魂耗盡都無法離開。這個房間是「蕩婦自由」。三個場景，通常無辜的女性在一個封閉的房間裡暴露了自己的本性，只有他們兩個。吹石麗奈的「蕩婦覺醒」帶來了一個方便的受虐狂男人，並用他所有的體液操他。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240706/20240706020550114114.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240706/20240706020550114114.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13513",
+  "actresses": [
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13513&name=吹石玲奈"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13513&name=タイ"
+    }
+  ]
+};

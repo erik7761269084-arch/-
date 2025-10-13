@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/b07f1640/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103457,
+  "IDcode": "IPZ-754",
+  "title": "- 奪われた僕の彼女「オマエの彼女ヤラせろよ！」目の前で寝取られ犯される美裸体… 桃乃木かな - JAV目錄大全javmenu.com",
+  "publish_date": "2016-05-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "凌辱",
+    "强奸",
+    "数位马赛克",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ipz754/ipz754pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103457",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103457&name=桃乃木香奈"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103457&name=小田切ジュン"
+    }
+  ]
+};

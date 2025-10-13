@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220522/6E586C94C85B9BCD/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36891,
+  "IDcode": "ED63BE128242C7F61F310F34EE044DE-7",
+  "title": "生的射精性交永无止境 体内射精21次",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36891",
+  "actresses": []
+};

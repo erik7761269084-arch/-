@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/890E4805C21FEFC8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98995,
+  "IDcode": "FSDSS-224",
+  "title": "薄幸美少女の汗を舐め取る粘着セックス快楽堕ち 三浦乃愛",
+  "publish_date": "2021-05-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "舔阴",
+    "羞耻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fsdss224/1fsdss224pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98995",
+  "actresses": []
+};

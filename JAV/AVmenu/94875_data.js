@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241104/eOIuYN5s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94875,
+  "IDcode": "TANF-018",
+  "title": "恋の罪 湯けむり48時間ペット調教ごっくん旅 なな 前乃菜々",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "制服",
+    "吞精",
+    "浴衣",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94875",
+  "actresses": [
+    {
+      "name": "前乃菜菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/886ce837-0a74-41dd-9645-35a63f255a74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94875&name=前乃菜菜"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e99fc72-d057-4490-a83e-616aa389cd61/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/dcab8fa0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6903,
+  "IDcode": "MUKD-533",
+  "title": "音樂節歸來 汗流浹背的她與我連日在酒店激情四射 打造最美的夏日回憶 真心實意的戀人造人交尾影像 ~ 虹村由美",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "純粹的慾望",
+    "絕頂高潮",
+    "流汗",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "美人",
+    "約會",
+    "短髮",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "MUKD-533为無垢出品,2025年4月15日发行的有碼成人影片由虹村由美出演\n我喜歡偶像和搖滾。身高164cm（D罩杯），個性親切，熱愛音樂節的次文化美女Yumi-chan（學生）/興趣：演唱會、手機遊戲、音樂節約會。我們用通票參加了這次活動，玩到深夜才回飯店。我們一進房間就激情地親吻......我們穿著汗濕的衣服立即做愛，想要生孩子，第二天早上就睡著了......我在節日前和我的女朋友做愛，沒有化妝，當她醒來時毫無防備。到了最後一晚，我自然很累，但最後我太興奮了，太沉迷於性愛，甚至不知道發生了什麼事。這次探險只有他們兩個人。我相信所有參加的情侶都有這種感受。 #飯店即時性愛 #睡醒後素顏性愛 #中出狂潮 #最美好回憶 #牛糞放屁",
+  "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411010527509509.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250411/20250411010527509509.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6903",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6903&name=虹村由美"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6903&name=向理来"
+    }
+  ]
+};

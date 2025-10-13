@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/414f66a1-e976-4f45-bcd8-771aa4fda140/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3915,
+  "IDcode": "DRPT-092",
+  "title": "超貼身特寫 五天極致慢節奏性愛教學 ~ 宍戸里帆",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "電脳ラスプーチン",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "教學",
+    "按摩・美容店",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "短髮",
+    "極品美人",
+    "豐滿",
+    "女優"
+  ],
+  "description": "DRPT-092为電脳ラスプーチン出品,2025年8月1日发行的有碼成人影片由宍戸里帆出演\n业界首创！波利尼西亚性爱教程来啦！想知道啥是波利尼西亚式性爱？这片就是你的教科书！由超人气女优宍戸里帆亲自教学，连续五天慢慢挑起你的欲望，层层深入，最后带来灵魂相融的极致快感！看完这片，你也能变身波利尼西亚性爱大神，赶紧来学啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094245733733_68345_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094245733733_68345_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3915",
+  "actresses": [
+    {
+      "name": "宍戸里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/dcdbf3bb-dc48-401a-8bdb-1f720d2201c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3915&name=宍戸里帆"
+    }
+  ]
+};

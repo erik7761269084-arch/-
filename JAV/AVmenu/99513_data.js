@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230209/B57A42805A691B97/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99513,
+  "IDcode": "HUNT-444",
+  "title": "マッサージ師でも何でもない無職の僕が若妻たちの体が触りたくて［超格安マッサージ師はじめました］のチラシを団地の掲示板に貼ったら意外と好評で電話予約殺到！しかもマッサージなんかやった事がない僕が触っただけで子育てとセックスレスでストレスが溜まっている～",
+  "publish_date": "2011-07-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "按摩",
+    "企画",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99513",
+  "actresses": [
+    {
+      "name": "羽月希",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/b0ba5f56-6dff-4af4-abf6-c976f7c084c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99513&name=羽月希"
+    },
+    {
+      "name": "小嶋ジュンナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99513&name=小嶋ジュンナ"
+    },
+    {
+      "name": "榊なち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99513&name=榊なち"
+    }
+  ]
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/438dca6d-e4fa-43a3-a88a-a2e535bf7af5/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/03/9cef3668/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15618,
+  "IDcode": "IPZZ-253",
+  "title": "擁有美腿美腿的女老師，成為褲襪狂人的目標！好美的圓臀啊！瘋狂跟蹤者的黏性",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "脅迫做愛",
+    "劇情",
+    "舔腳",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "肉絲",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "迷姦",
+    "美腳",
+    "明星臉",
+    "更衣室",
+    "足交",
+    "學校",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-253为IDEA POCKET出品,2024年4月9日发行的有碼成人影片由櫻若菜出演\n美腿女教師成為褲襪狂的對象！愛絲襪的男人失控對美女老師露出獠牙！若菜被異常者盯上，慘遭襲擊、強姦…這一幕被影片拍了下來，成為了變態瘋子的獵物… 「這不是我的錯！是我的美腿！」看到她的腳被一個毫無悔意的變態舔舐和強姦，真是太棒了！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405042718548548.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405042718548548.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15618",
+  "actresses": [
+    {
+      "name": "櫻若菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/0ed752a5-7691-4179-bde2-41cbf468fca9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15618&name=櫻若菜"
+    }
+  ]
+};

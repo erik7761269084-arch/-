@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a8399031-e424-4944-b524-8802aec1a56e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 333,
+  "IDcode": "HEYZO-0389",
+  "title": "Harmar World Vol.9 前編 與開朗白皙美少女的溫泉約會 ~ 櫻瀨奈",
+  "publish_date": "2013-08-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "蘿莉",
+    "中出",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "旅行",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "露出",
+    "美人",
+    "真實拍攝",
+    "溫泉",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0389为HEYZO出品,2013年8月13日发行的無碼成人影片由大高舞出演\nHamar's World 9 前編～天真爛漫な色白美少女と温泉デート～ - 桜瀬奈",
+  "cover_url": "https://picture.yoshiclub.xyz/20250325/d0573ce0-10c6-4d36-819a-4f00da08cbcc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250325/d0573ce0-10c6-4d36-819a-4f00da08cbcc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=333",
+  "actresses": [
+    {
+      "name": "大高舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230520/d03e3f18-bc76-4b8c-add3-1a204304cd1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=333&name=大高舞"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/14/82a172a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88898,
+  "IDcode": "TPPN-242",
+  "title": "オイル×汗だく 神々しいボディがヌルテカで輝く美乳美尻が淫靡に輝き妖艶な眼差しが本能むき出しの悶絶汗だくSEXに誘う 弥生みづき",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "乳液",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88898",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88898&name=弥生美月"
+    }
+  ]
+};

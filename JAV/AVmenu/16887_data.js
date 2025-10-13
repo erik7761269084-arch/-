@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b3ccf8c7-14da-411e-b65d-0ab8aba6578e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/21/5dc1b8f9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16887,
+  "IDcode": "JUQ-543",
+  "title": "心愛的妻子白石茉莉奈被輪奸操到深處。",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "舔陰",
+    "輪姦",
+    "多P",
+    "緊縛",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-543为MADONNA出品,2024年1月9日发行的有碼成人影片由白石茉莉奈出演\n我很長一段時間都無法告訴我的妻子。我希望我心愛的妻子白石茉莉奈被陌生人輪奸……然而，他們無法帶着這種感情繼續婚姻生活。於是我向她吐露心聲。白石茉莉奈對自己異常的性取向的坦白感到困惑，但她向我獻出了自己。妻子被男人包圍，喉嚨後部和陰道被強奸……那是一個可以用“串燒”來形容的場景，我感受到了一生中最大的興奮。而她也漸漸開始感受到快樂……\n我很長一段時間都無法告訴我的妻子。我希望我心愛的妻子白石茉莉奈被陌生人輪奸……然而，他們無法帶着這種感情繼續婚姻生活。於是我向她吐露心聲。白石茉莉奈對自己異常的性取向的坦白感到困惑，但她向我獻出了自己。妻子被男人包圍，喉嚨後部和陰道被強奸……那是一個可以用“串燒”來形容的場景，我感受到了一生中最大的興奮。而她也漸漸開始感受到快樂……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106052617177177.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/20240106052617177177.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16887",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16887&name=白石茉莉奈"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16887&name=大岛丈"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16887&name=岩下たろう"
+    }
+  ]
+};

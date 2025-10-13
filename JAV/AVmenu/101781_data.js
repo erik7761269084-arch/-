@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240411/JAFa7qsU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101781,
+  "IDcode": "LUXU-1654",
+  "title": "ラグジュTV 1604 全身が性感帯の感度抜群な美女が濃厚な愛撫にカラダを震わせ妖艶な表情に…！美味しそうに巨根を咥え無我夢中でご奉仕した後は激しいピストンに酔いしれる！！",
+  "publish_date": "2022-08-26",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101781",
+  "actresses": [
+    {
+      "name": "丽奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101781&name=丽奈"
+    }
+  ]
+};

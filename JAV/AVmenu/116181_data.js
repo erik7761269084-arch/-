@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/17/79544766/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116181,
+  "IDcode": "FC2-4740770",
+  "title": "与一名穿制服的女孩的私密性行为",
+  "publish_date": "2025-08-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/79544766/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116181",
+  "actresses": []
+};

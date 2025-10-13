@@ -1,0 +1,84 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d355abf0-6dff-4082-bea1-c3826626f15b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4633,
+  "IDcode": "KTRA-727",
+  "title": "妹妹小穴被灌滿！兄妹中出激戰精選2 4小時 ~ 桐谷奈緒 優梨舞奈 富田優衣 星咲凜 如月真白",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "傲嬌",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "中性",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "惡搞",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "阪道系",
+    "亂倫",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "KTRA-727为K-Tribe出品,2025年7月5日发行的有碼成人影片由星咲凛，優梨舞奈，桐谷奈緒，富田优衣，如月真白出演\n元氣滿滿，有點小傲嬌，但超級愛哥哥的可愛妹妹！跟這樣的妹妹在兒童房獨處，心跳根本停不下來…她天真無邪地貼上來，身體散發出成熟女人的香味，讓人完全HOLD不住！本來只是想小小調戲，摸著摸著卻湧上從未有過的背德感和性亢奮！直接把妹妹壓倒，狂親她的唇，揉她的胸，探索她的小穴，忍不住就直接生插入！不管三七二十一，瘋狂抽插，沒幾下就在妹妹小穴裡中出爆發！一旦開幹就停不下來！？跟可愛妹妹們的中出性愛合集，整整4小時爽到翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/202507070334438686_15072_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250707/202507070334438686_15072_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4633",
+  "actresses": [
+    {
+      "name": "優梨舞奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4633&name=優梨舞奈"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4633&name=富田优衣"
+    },
+    {
+      "name": "如月真白",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250618/006241eb-c2d0-4e1c-8496-5dddc85a580f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4633&name=如月真白"
+    },
+    {
+      "name": "星咲凛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/c8640e75-0917-4989-aaca-b0293d53809a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4633&name=星咲凛"
+    },
+    {
+      "name": "桐谷奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/fa50a5b4-ea3b-4183-8f9a-21cd27d7c044_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4633&name=桐谷奈緒"
+    }
+  ]
+};

@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/27/524a92ff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68573,
+  "IDcode": "STARS-788",
+  "title": "「お姉ちゃんよりオマ○コがキュってしまるでしょ?」幼すぎて相手にしてなかった彼女の妹がビッチなギャル女子大生になって僕を誘惑!すぐ隣に彼女がいるにも関わらず朝まで濃厚SEX 西元めいさ",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "女大学生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68573",
+  "actresses": []
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45299535-9225-4cf0-ac44-71a9a0a992fb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16997,
+  "IDcode": "FJIN-004",
+  "title": "優等生變身金發美女，夏天回到鄉村！老爺爺被勾引，射得蛋蛋都空了……這是佐藤嗎？",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "劇情",
+    "鄉下",
+    "老頭子",
+    "流汗",
+    "中出",
+    "蕩婦",
+    "口交",
+    "性感",
+    "勾引・誘惑",
+    "美少女",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240101/cff5df80-5925-42bc-a97e-2651b3d9c9df.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240101/cff5df80-5925-42bc-a97e-2651b3d9c9df.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16997",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16997&name=加藤桃香"
+    }
+  ]
+};

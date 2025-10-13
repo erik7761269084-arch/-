@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.hgplayer00.com/20240429/ToyDKMRy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101892,
+  "IDcode": "DANDY-586",
+  "title": "「射精しても萎えない熱くて硬い少年チ○ポを見たおばさん家庭教師はヤらずには帰れない」VOL.3",
+  "publish_date": "2018-01-25",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "口交",
+    "企画",
+    "手淫",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101892",
+  "actresses": []
+};

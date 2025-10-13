@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/0FAF1m9l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81428,
+  "IDcode": "CMC-234",
+  "title": "肛壊女教師 貢ぎものにされた牝肉奉仕犬 葉山るる",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "CineMagic",
+  "genres": [
+    "学校作品",
+    "SM",
+    "灌肠",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/9162f29c302b447796b679597d850d7f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81428",
+  "actresses": [
+    {
+      "name": "叶山るる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81428&name=叶山るる"
+    }
+  ]
+};

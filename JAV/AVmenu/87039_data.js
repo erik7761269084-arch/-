@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/hKWvPWKx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87039,
+  "IDcode": "PAIS-044",
+  "title": "【FANZA限定】セックスレス30年のセレブ爆乳奥さま、緊急出演。子供を産んだとは思えない奇跡のI-cupグラマラスボディ 万里加（53歳）・横浜市在住 パンティと生写真付き",
+  "publish_date": "2023-06-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "业余",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87039",
+  "actresses": []
+};

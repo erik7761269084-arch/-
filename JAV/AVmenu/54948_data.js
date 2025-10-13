@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54948,
+  "IDcode": "CCC03709B8FECFDCB40611B0BDE7A484",
+  "title": "主婦どっきり 25 -目隠しして、旦那とセックス!-- シリーズ特設",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54948",
+  "actresses": []
+};

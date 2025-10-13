@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/yVMRucGZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80986,
+  "IDcode": "SDDE-663",
+  "title": "【超部屋結界】ハーレムSPECIAL 〜ようこそ僕だけの淫乱病院へ イヒ!〜 美人ナースやインテリ女医を下品な淫乱女へと洗脳支配する",
+  "publish_date": "2022-03-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80986",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=推川悠里"
+    },
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=初音實"
+    },
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=加藤あやの"
+    },
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=谷梓"
+    },
+    {
+      "name": "亜矢みつき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-神谷充希.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=亜矢みつき"
+    },
+    {
+      "name": "堀麻美子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-松浦まいこ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=堀麻美子"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80986&name=椎叶みくる"
+    }
+  ]
+};

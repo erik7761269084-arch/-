@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/apRCW7WK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83150,
+  "IDcode": "SDJS-057",
+  "title": "SOD女子社員8名が業務中に全裸健康診断 膣の奥までチ○ポでチェックするAV会社ならではの赤面羞恥検診 8名全員のSEXを収録した4時間スペシャル！",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4小时以上作品",
+    "放尿",
+    "羞耻",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83150",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=天馬唯"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=藤森里穂"
+    },
+    {
+      "name": "九十九メイ",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/32428801-d061-402c-9f80-0a1db7a24be0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=九十九メイ"
+    },
+    {
+      "name": "奏自由",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/b56a5d8f-b017-4287-9e9a-bc04d7ba82ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=奏自由"
+    },
+    {
+      "name": "水原乃亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/99df99f0-2b08-426c-8f22-7ad32fdb54de.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=水原乃亜"
+    },
+    {
+      "name": "ふわり结爱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=ふわり结爱"
+    },
+    {
+      "name": "浅海さえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=浅海さえ"
+    },
+    {
+      "name": "大崎美奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83150&name=大崎美奈"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/BNLwik5V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88760,
+  "IDcode": "WO-013",
+  "title": "道玄坂ワイルドワンクリニック 新村あかり パンティとチェキ付き",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "口交",
+    "恋乳癖",
+    "护士",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88760",
+  "actresses": [
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88760&name=新村晶"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/26bcca01-2ac2-4793-9fdf-e9040abaf5ad/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/bb945bcc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6406,
+  "IDcode": "XVSR-810",
+  "title": "黏人小女友貼身舌吻無套內射激情戲 ~ 木下日葵",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "手指插入",
+    "美少女電影"
+  ],
+  "description": "XVSR-810为MAX-A出品,2025年5月3日发行的有碼成人影片由木下日葵出演\n有個超黏人的小女友，天天黏著你不放，男友忙工作沒空理她，她就換上新買的性感內衣挑逗，男友瞬間燃爆！兩人抱在一起狂吻，直接無套內射開幹。男友洗澡時她還闖進浴室，在淋浴間直接口活伺候；吃葡萄時嘴對嘴餵食，男友又一次興奮到不行，用玩具玩弄她，她主動求歡，最後還是無套內射！被這麼可愛的小女友時刻貼身纏著，簡直是夢幻般的時光啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105421285285_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105421285285_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6406",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6406&name=木下日葵"
+    }
+  ]
+};

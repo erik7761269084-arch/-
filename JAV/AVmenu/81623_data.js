@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/Q2bF1Cx0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81623,
+  "IDcode": "GRCH-351",
+  "title": "「君の匂いが好きなんだ」気になる同僚が匂いフェチで…ワキ/首/足/アソコ…えっそんなところも嗅ぐの！？フェロモン発情SEX 長瀬広臣×宮村ななこ",
+  "publish_date": "2020-02-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "羞耻",
+    "恋物癖",
+    "OL",
+    "给女性观众",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/eed9ade72d83fa1c28e5eb8b98d25254.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81623",
+  "actresses": [
+    {
+      "name": "宫村ななこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81623&name=宫村ななこ"
+    },
+    {
+      "name": "长瀬広臣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81623&name=长瀬広臣"
+    }
+  ]
+};

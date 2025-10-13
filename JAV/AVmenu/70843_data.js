@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/yffdCOuY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70843,
+  "IDcode": "DVAJ-427",
+  "title": "僕が覗いてるのを知っててハメシロを見せつけてくる義理のお姉さん 川上奈々美",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/14662dfbf9d5b6c6eade59bc6fa40000.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70843",
+  "actresses": [
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70843&name=川上奈奈美"
+    }
+  ]
+};

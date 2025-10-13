@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220618/2D40CC9712AD8BAD/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64426,
+  "IDcode": "888FF5F2B6BF6293B601A25C959F-0040",
+  "title": "ラフォーレ ガール Vol.1 - 枢木みかん",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64426",
+  "actresses": []
+};

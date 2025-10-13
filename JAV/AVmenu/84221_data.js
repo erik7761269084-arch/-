@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/RTy1IEEM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84221,
+  "IDcode": "CLUB-680",
+  "title": "ボクの事を昔イジメていたヤンキー娘が美人妻になって健全なマッサージ店で性的サービスをしている情報を入手、それをネタに復讐ついでに中出しまでした件。29",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "按摩",
+    "巨大阴茎",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84221",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84221&name=織田真子"
+    },
+    {
+      "name": "REMI",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84221&name=REMI"
+    }
+  ]
+};

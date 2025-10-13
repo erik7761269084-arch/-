@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/jSJMZ5HU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88920,
+  "IDcode": "TPIN-059",
+  "title": "昼酒で酔った勢いで…ラブホ不倫 5時間",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88920",
+  "actresses": []
+};

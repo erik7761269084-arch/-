@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5a196680-212e-4841-857d-6371d25cc90f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/10/f11e6563/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15607,
+  "IDcode": "IPZZ-256",
+  "title": "來自農村的無辜新生杏可可在學校的新人聚會後被一羣同學輪奸",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "輪姦",
+    "多P",
+    "美腳",
+    "美少女",
+    "招待",
+    "明星臉",
+    "女同事",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-256为IDEA POCKET出品,2024年4月9日发行的有碼成人影片由杏可可出演\n安科科通過了入學考試，成為了一名大學生。在一次受邀交友的俱樂部酒會上，她被一些看上安甦的放蕩男孩強迫喝下摻有安眠藥的酒精，她被洗禮為強姦犯…她被強暴的影片被拍下來，並被拿來當笑話，導致另一起強暴案和惡性循環。 ！ An 被給予口交，被玩弄，當一根手指插入她的陰戶時，她哭了。因好玩而被強暴，人生被毀的安，或許是因為放棄，逐漸覺醒了快感。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405061011732732.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405061011732732.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15607",
+  "actresses": [
+    {
+      "name": "杏可可",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/12724e38-77f9-452f-b478-b35c10fb1977.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15607&name=杏可可"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e4bbf04-22e4-4ede-8f4a-b4c48bc59081/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/04/c2dead84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6580,
+  "IDcode": "ARSO-25193",
+  "title": "優雅人妻高級俱樂部 193 ~ 小野阪唯香 葉月まゆ",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "AROUND",
+  "genres": [
+    "後入",
+    "貴婦",
+    "家庭主妇",
+    "劇情",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女"
+  ],
+  "description": "ARSO-25193为AROUND出品,2025年4月24日发行的有碼成人影片由小野坂唯香，葉月まゆ出演\n〇葉月日美子 結婚三年的葉月小姐，以前在醫院上班，婚後就成了全職主婦。但這種生活實在太無聊，很快就覺得索然無味。雖然老公很溫柔，夫妻感情還算OK，可夜生活完全沒法滿足她，壓力越積越多。更離譜的是，她的慾望還越來越旺，只能靠以前用過的成人玩具自我安慰，日子過得空虛又飢渴。〇小野坂美咲 看起來老實的小野坂小姐，竟然從沒在性愛中感受到高潮。雖然有過幾個男人，但她從沒和真正心動的人上過床。直到遇見了現在的丈夫，才終於找到真愛，直接步入婚姻。可惜老公是個超級害羞的新手，經驗少得可憐，床上表現單調到不行，根本無法讓她到達頂峰。某天，她偶然刷到一部激烈纏綿的AV，內心瞬間被點燃，決定親自出馬體驗一把！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250426235921400400_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250427/20250426235921400400_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6580",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6580&name=小野坂唯香"
+    },
+    {
+      "name": "葉月まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/0a488baa-554a-49f8-8f8f-4106c1fe91f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6580&name=葉月まゆ"
+    }
+  ]
+};

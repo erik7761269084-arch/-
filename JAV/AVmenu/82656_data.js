@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/F1rYZCjZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82656,
+  "IDcode": "HND-577",
+  "title": "俺の友達全員集めて強制腰振らせ騎乗位輪姦で隣人ギャルを孕ませた。 AIKA",
+  "publish_date": "2018-09-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "轮奸",
+    "女生",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/7a2101a7be37cc15734e7e46f50ee4a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82656",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82656&name=AIKA"
+    }
+  ]
+};

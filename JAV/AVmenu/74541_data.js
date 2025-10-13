@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/EFgt11gV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74541,
+  "IDcode": "GANA-2081",
+  "title": "マジ軟派、初撮。 1343 顔良しノリ良しセックス良し！！ハーフ系美少女の素人ちゃんを新橋でゲット！ノリが良かったのでセックスさせてくださいと頼み込み！即OKで撮影開始！！デカチンでヨガりまくりな激エロセックスは必見！！！",
+  "publish_date": "2019-05-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "无毛",
+    "颜射",
+    "屁股",
+    "手指插入",
+    "业余",
+    "乳房",
+    "猎艳",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/1bd46a78051f9c70f91cd41af06f81e2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74541",
+  "actresses": []
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241220/5zMENHWw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75688,
+  "IDcode": "HUSR-203",
+  "title": "即採用！偏差値75！天才理数系美女がまさかのデビュー！ in the world",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "眼镜",
+    "白人",
+    "4小时以上作品",
+    "女大学生",
+    "口交",
+    "业余",
+    "OL",
+    "亚洲女演员",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75688",
+  "actresses": [
+    {
+      "name": "ティファニー・ルッソ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75688&name=ティファニー・ルッソ"
+    },
+    {
+      "name": "エマ・フェックス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75688&name=エマ・フェックス"
+    },
+    {
+      "name": "チェリン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75688&name=チェリン"
+    },
+    {
+      "name": "クリスティー・リン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75688&name=クリスティー・リン"
+    },
+    {
+      "name": "デイジー・クーパー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75688&name=デイジー・クーパー"
+    }
+  ]
+};

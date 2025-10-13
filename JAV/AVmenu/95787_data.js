@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/02/d190b80f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95787,
+  "IDcode": "SOE-704",
+  "title": "爆乳遊泳教練 沖田杏梨",
+  "publish_date": "2012-01-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "泳装",
+    "讲师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95787",
+  "actresses": [
+    {
+      "name": "沖田杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/2eae04c6-5c92-4209-8b5b-aa4de0fccb96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95787&name=沖田杏梨"
+    }
+  ]
+};

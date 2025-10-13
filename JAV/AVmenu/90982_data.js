@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/04/e68aaec3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90982,
+  "IDcode": "JUQ-432",
+  "title": "ヌードモデルNTR 上司と羞恥に溺れた妻の衝撃的浮気映像 松本翔子",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "多P",
+    "乳液",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/b9763e0ba76d41df4948d9e0c11c276e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90982",
+  "actresses": [
+    {
+      "name": "松本翔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/d1acf4b8-baf9-44d4-961b-049e3e22ed17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90982&name=松本翔子"
+    }
+  ]
+};

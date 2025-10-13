@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9a785b23-50f6-4ea0-8eec-c1d95f556bcc/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/617cf4dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9052,
+  "IDcode": "FPRE-130",
+  "title": "W專屬決定！出差時與我夢想的OL系女上司相部屋！ 用口水舔幹淨，連續性愛不拔SEX ~ 海老咲あお",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "辦公室",
+    "美人",
+    "出差",
+    "女上司",
+    "飯店"
+  ],
+  "description": "FPRE-130为FITCH出品,2025年1月21日发行的有碼成人影片由海老咲碧出演\n在EyePoke出道的巨乳美女惠老崎青，已轉入Fitch和Attackers，並成為W獨家！美麗又酷，深受下屬仰慕的海老崎青，為了簽署一份重要的合同，與木訥的上班族橋本一起出差。然而，橋本工作失敗，只能在飯店保留一間房間，所以他與女老闆惠比崎合租房間。蝦崎見橋本如此不配，就想欺負他，一邊舔著橋本的全身，一邊口罵橋本，暴露了自己的蕩婦本性！雖然無法工作，但她跨坐在擁有大雞巴的橋本身上，一直持續射精，直到早上才拔出來！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072557469469.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116072557469469.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9052",
+  "actresses": [
+    {
+      "name": "海老咲碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/48b52330-5465-4e18-8d80-4944b87eee01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9052&name=海老咲碧"
+    }
+  ]
+};

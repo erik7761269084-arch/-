@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36e3bbf2-9181-42bd-8dc9-14b4df83e72e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12615,
+  "IDcode": "MIDV-798",
+  "title": "新人出道 過去年收入一億日元的某知名童模成長爲H罩杯辣妹，MOODYZ首次少女專屬AV出道！ ~ 本城つばさ",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "比基尼",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "金髮",
+    "出道作品",
+    "巨乳",
+    "辣妹/GAL系",
+    "美少女電影",
+    "叛逆少女",
+    "女優"
+  ],
+  "description": "MIDV-798为MOODYZ出品,2024年8月20日发行的有碼成人影片由本城つばさ出演\n[MOODYZ 第一位 gal AV 女優誕生！ ！ 】 我已經是辣妹界的巔峰了！那時候我賺了一億日圓！ ？著名童模成長為H罩杯尺寸，意外出道AV出道★“我媽媽未經允許就申請了童模角色……但我自己申請了AV角色♪”健康的黑皮膚和H罩杯乳房！無憂無慮的微笑！ ！個性耿直的她是不是超級可愛，對宅男也很友善呢？我是女孩，但是……第一次脫衣服的時候我超級害羞！差距和敏感反應讓人難以忍受！而且，她長成這個樣子，還是個受虐狂！受虐狂妹子太酷了！今年夏天備受關注的新女孩！ ！我找到了！ ！ ！每個人！請叫我津醬♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816040441942942.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240816/20240816040441942942.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12615",
+  "actresses": [
+    {
+      "name": "本城つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/44a3d7f7-3250-473f-bc2b-4f221dcef0a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12615&name=本城つばさ"
+    }
+  ]
+};

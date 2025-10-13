@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a95ee10-ae03-495a-8f57-35fa72ec2bb8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/6f7f23ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10761,
+  "IDcode": "IPZZ-467",
+  "title": "未體驗過AV的美腳長身美女的出道第2作 ~ 涼",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蒙面・面罩",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "足交",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IPZZ-467为IDEA POCKET出品,2024年11月12日发行的有碼成人影片由涼出演\n高挑修長美腿美女涼第二版，新手AV玩法，持續高潮到極限的無盡高潮作品！ ① 與基將叔叔激烈的接吻性愛 ② 100% 尷尬。當眾自慰③強迫男人射精的蕩婦性愛④充分利用美腿的足交⑤在無法動彈的情況下達到高潮⑥從未見過的超級大雞巴操。總共有 6 個可以射精的角落。恥辱x未知x發展=偉大高潮。 Ryo-chan 在未知領域射精",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107092848546546.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/20241107092848546546.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10761",
+  "actresses": [
+    {
+      "name": "涼",
+      "img_url": "https://picture.yoshiclub.xyz/20241004/582a07c1-0208-4ba8-b271-b0119ad5c1a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10761&name=涼"
+    }
+  ]
+};

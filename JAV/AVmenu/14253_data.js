@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3014bc7c-963b-4834-88b5-4de45acdb2d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14253,
+  "IDcode": "JJDA-049",
+  "title": "最喜歡的班主任女老師森澤佳奈上門家訪來了",
+  "publish_date": "2024-05-31",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "制服",
+    "上門家訪",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "明星臉",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240602/20240602024808209209.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240602/20240602024808209209.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14253",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14253&name=森澤佳奈"
+    }
+  ]
+};

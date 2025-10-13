@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9648ebbf-ad3b-478e-89ff-234af2f26edc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15088,
+  "IDcode": "DOKS-601",
+  "title": "想要讓乳頭被玩弄到死的變態女人櫻茉日，只爲乳頭而瘋狂",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "兩男一女",
+    "多P",
+    "巨乳",
+    "美少女電影",
+    "女優",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240502/bfd9854b-521d-48c0-9e67-90dd30dbb6d2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240502/bfd9854b-521d-48c0-9e67-90dd30dbb6d2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15088",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15088&name=堀北実来"
+    }
+  ]
+};

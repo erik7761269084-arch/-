@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250418/5vfrchAZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67759,
+  "IDcode": "HODV-21718",
+  "title": "やることなすこと完全合意の即ハメおねだりメイド 尾崎えりか パンティと生写真付き",
+  "publish_date": "2022-11-04",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "苗条",
+    "乳房",
+    "女佣",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67759",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67759&name=尾崎惠梨香"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67759&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/06/1667c9af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74712,
+  "IDcode": "PRED-054",
+  "title": "社員旅行NTR～婚約者を狙う同僚との浮気中出し映像～ 篠田ゆう",
+  "publish_date": "2018-02-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "多P",
+    "OL",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/06/c7b5339a0b66a2b172e250277b187bc5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74712",
+  "actresses": []
+};

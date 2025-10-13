@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/8ayhyL9Q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78679,
+  "IDcode": "LULU-066",
+  "title": "「こどおじ」になった引きこもりのデカチン息子にオナホ代わりの性処理をさせられ続けている巨乳母 赤城穂波",
+  "publish_date": "2021-05-01",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78679",
+  "actresses": [
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78679&name=赤城穂波"
+    }
+  ]
+};

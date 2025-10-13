@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d3780a21-ff5c-43a0-a517-cd122c57044d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/06/0e2ecabf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11862,
+  "IDcode": "DASS-441",
+  "title": "真的可以插入嗎？我有NTR傾向，我讓可愛的巨乳女友NTR ~ 弓乃凜夢",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "內衣",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "DASS-441为DASDAS出品,2024年9月24日发行的有碼成人影片由弓乃凜夢出演\nRimu 的男友 Ichiro 擔心他在做愛時總是半站著。某日，在約會的集合地點，他親眼目睹了日夢被抱起，下半身感受到了強烈的刺激。意識到自己有NTR慾望，他問他最好的朋友、AV演員Kenji，並說：「我想在Rimu勃起時與他發生性關係！」並決定讓他與Rimu發生性關係。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/202409190059132929.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/202409190059132929.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11862",
+  "actresses": [
+    {
+      "name": "弓乃凜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/7ef82648-f7c1-46ba-baf9-63897e0d05e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11862&name=弓乃凜夢"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11862&name=ニック"
+    }
+  ]
+};

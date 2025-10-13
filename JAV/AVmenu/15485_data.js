@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/928a975f-d57f-43b4-8910-38e497bd86bb/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/06/4dda4edc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15485,
+  "IDcode": "PRED-672",
+  "title": "女上司白峯美羽對於在工作中我幫她背鍋的回報太好了-我把上司白峯美羽變成了色情女僕，並給了她一份周末肉慰合同 ~ 白峯美羽",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "中出",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "性感",
+    "兩男一女",
+    "女僕制服",
+    "艷遇",
+    "猥褻穿著",
+    "女上司",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "PRED-672为PREMIUM出品,2024年4月16日发行的有碼成人影片由白峰美羽出演\n升遷慾望強烈的 Miu 將自己的錯誤歸咎於下屬，因此她承諾只在周末隨心所欲。趕緊在公司換上女僕裝，進行服務口交吧！週末一到，我就去飯店做不負責任的中出性愛、洗澡&伊拉瑪訓練、玩具酷刑FUCK、肉自慰3P和Miu，隨心所欲！平常煩人的老闆Miu，變成了聽話的女僕！ Miu 透過訓練意識到自己作為肉自慰者的角色，忘記了自己的位置，並沉迷於屈服於丈夫雞巴的快感...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412041620950950.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412041620950950.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15485",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15485&name=白峰美羽"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15485&name=Qべぇ"
+    }
+  ]
+};

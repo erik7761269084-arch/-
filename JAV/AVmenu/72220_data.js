@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/C0u7aVOE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72220,
+  "IDcode": "EYAN-138",
+  "title": "新人’元アクション女優’鍛え抜かれた美ボディ人妻SEX解禁E-BODY専属デビュー 東城ななせ",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "精选，综合",
+    "已婚妇女",
+    "偶像",
+    "荡妇",
+    "苗条",
+    "首次亮相",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72220",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72220&name=小田切ジュン"
+    }
+  ]
+};

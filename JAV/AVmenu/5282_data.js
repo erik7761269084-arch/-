@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/04bec5bd-2896-44c3-b606-ed00734704bc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/3ad86086/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5282,
+  "IDcode": "KSBJ-383",
+  "title": "被公公玩弄的一週 巨乳少婦沉迷快感無法自拔 ~ 愛川鈴",
+  "publish_date": "2025-06-14",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "三十路",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "超爆乳",
+    "老頭子",
+    "4K",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "KSBJ-383为KSB企畫出品,2025年6月14日发行的有碼成人影片由愛川鈴出演\n小鈴和溫柔的老公結婚後，日子過得甜蜜又幸福。然而某天，老公那失聯多年的老爸突然找上門。丈夫對這個拋棄母親、只會惹麻煩的老爹恨得牙癢癢，但心地善良的小鈴實在不忍心看他無處可去，硬是說服丈夫讓他在家暫住一週。誰知道，這決定竟成了噩夢的開端……公公的手段讓她一步步淪陷，身體和心靈都被徹底征服，欲罷不能，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614101340188188_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250614/20250614101340188188_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5282",
+  "actresses": [
+    {
+      "name": "愛川鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240415/500884a0-5fad-4ab5-9ee1-c34e9415a0b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5282&name=愛川鈴"
+    }
+  ]
+};

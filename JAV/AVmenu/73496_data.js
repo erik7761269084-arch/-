@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/9a0cad7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73496,
+  "IDcode": "MIDV-937",
+  "title": "一度射精しても見つめて、囁きヌイてくれる回春エステ 塔乃花鈴",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "口交",
+    "手淫",
+    "美容院",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73496",
+  "actresses": [
+    {
+      "name": "塔乃花鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/0492cc80-74d0-458e-b24b-4a12855fd7bf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73496&name=塔乃花鈴"
+    }
+  ]
+};

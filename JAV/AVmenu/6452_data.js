@@ -1,0 +1,162 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/77c6b199-3b07-41d9-ba61-fffce4716945/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/9c64e189/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6452,
+  "IDcode": "BMW-333",
+  "title": "女學生限定！JK大亂鬥全力生啪中出53發！杭打騎乘位精選集 ~ 五日市芽依 新井裏真 倉本菫 彌生美月 橫宮七海 等",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "校花",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "空姐制服",
+    "JK校服",
+    "制服",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "過膝襪・小腿襪",
+    "校園生活",
+    "精選總編集",
+    "美人",
+    "精選綜合",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "BMW-333为WANZ FACTORY出品,2025年5月2日发行的有碼成人影片由倉本菫，柏木小夏，横宮七海，月野香澄，沙月芽衣，彌生美月，堀内美香，新井里真，小梅惠奈，白川柚子，堀沢茉由，希咲那奈，結城蘭，三舩美鈴，五日市芽依，有栖舞衣，琴石ゆめる，沙月惠奈，本田のえる出演\n超愛啪啪的女學生專屬騎乘位精選！制服美少女們騎上來狂飆中出53發！敏感度爆棚的小穴緊到不行，瘋狂撞擊到抽搐高潮！猛烈的活塞運動帶來大量中出，停不下來的腰部搖擺，全力生啪31個場景，爽到你腿軟啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044646378378_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044646378378_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6452",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=倉本菫"
+    },
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=柏木小夏"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=彌生美月"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=沙月惠奈"
+    },
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=五日市芽依"
+    },
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=月野香澄"
+    },
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=新井里真"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=有栖舞衣"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=沙月芽衣"
+    },
+    {
+      "name": "希咲那奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/086f8b77-17a0-4642-89e6-3195cc2eeb35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=希咲那奈"
+    },
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=小梅惠奈"
+    },
+    {
+      "name": "横宮七海",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/46de250d-6034-43d1-ab6f-6e3d4a519176.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=横宮七海"
+    },
+    {
+      "name": "結城蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/6b517e51-4b0e-439b-80e2-52465744d577.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=結城蘭"
+    },
+    {
+      "name": "琴石ゆめる",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/b9d67258-b4c2-47bb-ab17-b7f6e371c958.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=琴石ゆめる"
+    },
+    {
+      "name": "堀内美香",
+      "img_url": "https://picture.yoshiclub.xyz/20241107/032c2195-c558-4806-a43c-9252cb184e6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=堀内美香"
+    },
+    {
+      "name": "三舩美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20250119/5c13839e-2348-4762-a0af-7aa90d11fb4e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=三舩美鈴"
+    },
+    {
+      "name": "堀沢茉由",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/b280a49d-6d83-46c9-b59b-15eb5967e8bb_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=堀沢茉由"
+    },
+    {
+      "name": "白川柚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/29865739-e674-4aa4-a00a-ddde9e535ee7.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=白川柚子"
+    },
+    {
+      "name": "本田のえる",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/521a065f-adc5-4091-8ff4-362e12b93fe6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=本田のえる"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=安倍亜沙美"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6452&name=弥生美月"
+    }
+  ]
+};

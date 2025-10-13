@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/kiE7Nl5u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69885,
+  "IDcode": "STARS-301",
+  "title": "ぽってり肉厚な唇で僕を誘う幼馴染とぎゅっと、ずっと、キス。そしてSEXしまくった週末3連休。 宮島めい",
+  "publish_date": "2020-11-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "接吻",
+    "童年朋友",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/836e28404743f982ffd94573dbcd7459.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69885",
+  "actresses": [
+    {
+      "name": "宫岛めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69885&name=宫岛めい"
+    }
+  ]
+};

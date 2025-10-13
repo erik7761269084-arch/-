@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/25/f8fc535f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88431,
+  "IDcode": "MIAD-970",
+  "title": "強制喉奥イラマチオハンドル 跡美しゅり",
+  "publish_date": "2016-10-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乱伦",
+    "苗条",
+    "数位马赛克",
+    "调教",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88431",
+  "actresses": [
+    {
+      "name": "迹美珠里",
+      "img_url": "https://picture.yoshiclub.xyz/20250209/68745e14-acbf-4d33-bf8e-716ff9a5b9b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88431&name=迹美珠里"
+    }
+  ]
+};

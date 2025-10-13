@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/70c951c1-4c4f-4596-ad9a-f1b03157695e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/02/ed24a667/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2596,
+  "IDcode": "DASS-786",
+  "title": "美人母娘，一網打盡！多年後當初重逢當年被強奸的女人和她的女兒 ~ 柳可憐 牧野憐奈",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "超爆乳",
+    "流汗",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "白眼失神",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "母女",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "鬼畜片",
+    "御姐系",
+    "清純",
+    "人妻",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "美少女電影",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "DASS-786为DASDAS出品,2025年9月18日发行的有碼成人影片由柳可憐，牧野怜奈出演\n多年前，蕾卡被一个可疑的男人侵犯，意外怀上了小蕾娜。独自一人身兼数职，辛苦拉扯孩子长大，日子虽苦但总算有回报，小蕾娜健康长成亭亭玉立的大姑娘。蕾卡看着女儿的成长，心里满是幸福和对家庭的珍惜。然而，噩梦却再次降临！那个侵犯过她的男人竟然又出现在她面前，嘴里还说着‘好久不见’！更变态的是，他竟然当着女儿的面强迫蕾卡进行胸推服务，甚至逼着女儿跟妈妈学习怎么取悦男人！最后母女俩双双被中出，双双怀孕！这个男人的再次出现，彻底颠覆了这个家庭，也带来了一种诡异的新家庭关系……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043349819819_62108_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043349819819_62108_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2596",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2596&name=柳可憐"
+    },
+    {
+      "name": "牧野怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250103/23d35db8-77b6-4c18-ab2d-3c789e1b776c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2596&name=牧野怜奈"
+    }
+  ]
+};

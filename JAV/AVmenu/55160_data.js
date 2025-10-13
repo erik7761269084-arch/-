@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55160,
+  "IDcode": "AD6D02A39936E1856A0594307CBD4BF3",
+  "title": "【无码流出】秋山祥子 大学时憧憬的学姊，某天突然成为我的继母…",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55160",
+  "actresses": []
+};

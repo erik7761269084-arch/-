@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7a5a6adf-6686-41f5-94ae-589638b37efa/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/f62f6090/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3800,
+  "IDcode": "IPZZ-631",
+  "title": "對咖啡店一起打工的失戀巨乳小可愛溫柔一點就上手了的故事 ~ 長濱蜜璃",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "服務生",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "無毛",
+    "情趣飯店",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "IPZZ-631为IDEA POCKET出品,2025年8月7日发行的有碼成人影片由長濱蜜璃出演\n在男友开的咖啡厅打工的蜜璃，每天为了店里新菜单拼尽全力，只想让男友开心，却换来一顿毒舌diss，连人格都被否定，精神快崩了……这时候，打工处的暖男前辈温柔关怀，直接戳中她受伤的心。听着她吐槽男友的渣，两个人越聊越投机，错过末班车干脆一起过夜，擦枪走火一发不可收拾！这超真实AV剧情，蜜璃彻底忘了男友，整晚跟别的男人疯狂缠绵，简直罪孽深重！果然，受伤的妹子最容易被暖男攻陷啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030126373373_58577_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030126373373_58577_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3800",
+  "actresses": [
+    {
+      "name": "長濱蜜璃",
+      "img_url": "https://picture.yoshiclub.xyz/20240106/7cba7952-66bf-4d34-a03d-364d02f9b729.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3800&name=長濱蜜璃"
+    }
+  ]
+};

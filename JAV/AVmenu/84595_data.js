@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/23/a2a91cd4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84595,
+  "IDcode": "HMN-171",
+  "title": "【FANZA限定】夫の不在中、種無し旦那のために妊娠経験男を自宅に呼んで種付け妊活セックスを愉しむ異常性欲妻 佐伯由美香 生写真2枚付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "荡妇",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230112-36/e4d9acbef4d87b0f168f8c0382af4e99.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84595",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84595&name=佐伯由美香"
+    }
+  ]
+};

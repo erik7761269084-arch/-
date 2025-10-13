@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/m3IonmlI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77703,
+  "IDcode": "NNPJ-321",
+  "title": "ナンパJAPAN検証企画！「絆を深めるには混浴が一番って知ってましたか？」 街で見かけた仕事中の男上司と女部下が二人きりで初めての混浴体験！新入社員編！！但し用意された水着は極小マイクロビキニのみ！ 場所はラブホテルのジャグジー！ヌレ透けポロリおっぱいの誘惑に…",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "泳装",
+    "业余",
+    "猎艳",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77703",
+  "actresses": []
+};

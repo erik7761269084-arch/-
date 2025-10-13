@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aacc1bf8-30e8-460b-b7cf-fcad21bc73f8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16984,
+  "IDcode": "MRSS-151",
+  "title": "明年我們再一起去旅行吧… 爲了賺兒子的手術費，妻子籤下了一份合同，成爲富翁的肉便器，爲期一年",
+  "publish_date": "2024-01-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "劇情",
+    "身體換業務",
+    "中出",
+    "性感",
+    "多P",
+    "人妻",
+    "巨乳",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240101/a3f1924c-483d-410e-80b5-8ce19eb1a79b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240101/a3f1924c-483d-410e-80b5-8ce19eb1a79b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16984",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16984&name=森澤佳奈"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/8XazFz2r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77647,
+  "IDcode": "MEYD-557",
+  "title": "私、実は夫の上司に犯され続けてます… 中尾芽衣子",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77647",
+  "actresses": [
+    {
+      "name": "中尾芽衣子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250823/923e19bb-b7c3-43b3-aa89-45f36c1e366f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77647&name=中尾芽衣子"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77647&name=大岛丈"
+    }
+  ]
+};

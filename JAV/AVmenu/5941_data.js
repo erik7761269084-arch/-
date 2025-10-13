@@ -1,0 +1,87 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9cc2137e-1a9f-4888-87dd-0bdcf69407b7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/0f943a4f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5941,
+  "IDcode": "KIT-010",
+  "title": "極致乳頭高潮 全身神經爽到麻痺的巔峰快感 ~ 宍戸里帆",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "健身房",
+    "臀控",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "運動服裝",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "短髮",
+    "豐滿",
+    "女優",
+    "肌肉"
+  ],
+  "description": "KIT-010为KANBi出品,2025年6月6日发行的有碼成人影片由宍戸里帆出演\n為了追求從未體驗過的高潮，宍戸里帆被瘋狂玩弄乳頭，爽到完全失控！G杯大奶圓潤挺翹，乳頭硬得像要爆開，輕輕一碰就讓人慾火焚身。手指挑逗、舌頭舔弄，羞澀中忍不住潮吹噴得滿地都是！濕透的小穴被硬邦邦的肉棒狠狠插入，一邊被虐乳頭一邊被頂到最深處，爽得全身發抖，迎來全新的快感巔峰！最後直接對著乳頭狂射，濃濃的精液噴滿胸口！G杯美少女宍戸里帆在乳頭高潮中體驗到前所未有的極致快感，真的讓人欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522032628928928_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522032628928928_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5941",
+  "actresses": [
+    {
+      "name": "宍戸里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/dcdbf3bb-dc48-401a-8bdb-1f720d2201c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5941&name=宍戸里帆"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5941&name=鲛岛"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5941&name=タツ"
+    }
+  ]
+};

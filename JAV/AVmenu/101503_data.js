@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240321/Bs3uw8zb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101503,
+  "IDcode": "SIRO-5237",
+  "title": "爆乳天然Jカップ襲来！毎日オナニーしてしまう性欲モンスターがピストンの度におっぱいを揺らし、止まることのない快楽に何度も絶頂！ 【初撮り】ネットでAV応募→AV体験撮影 2120",
+  "publish_date": "2024-03-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "第一人称摄影",
+    "屁股",
+    "业余",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101503",
+  "actresses": [
+    {
+      "name": "星七奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/3d24007e-8ff5-45d7-9377-25fe6f69dc36.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101503&name=星七奈奈美"
+    }
+  ]
+};

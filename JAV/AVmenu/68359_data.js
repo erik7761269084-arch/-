@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/c89a1d00/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68359,
+  "IDcode": "AGAV-137",
+  "title": "【FANZA限定】特濃おじさんザーメンを何発も膣内保管！「孕ませて」と懇願しながら中出しハメ撮りを許可する女 宮ノ木しゅんか パンティと生写真付き",
+  "publish_date": "2025-04-23",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "口交",
+    "手淫",
+    "平胸",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68359",
+  "actresses": [
+    {
+      "name": "宮ノ木しゅんか",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/8e78ecb6-9c8b-4cc0-8c87-649eab5bbf1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68359&name=宮ノ木しゅんか"
+    }
+  ]
+};

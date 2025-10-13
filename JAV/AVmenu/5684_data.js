@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/690de523-a758-4c2c-b756-f93839512e75/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5684,
+  "IDcode": "FPRE-175",
+  "title": "甜笑爆乳療癒身心，頂級回春按摩爽到爆！超絕亞洲風俗享受 ~ 北野未奈",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "中囯服裝",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "拜金女",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "FPRE-175为FITCH出品,2025年5月30日发行的有碼成人影片由北野未奈出演\n歡迎光臨本店！這裡是能讓你全身心放鬆的頂級回春エステ店！今天為您服務的北野未奈是咱們店的王牌，顏值爆表，冷豔又溫柔，爆乳加上小蠻腰的身材根本犯規！她那天使般的笑容能把人迷倒，但可別小看她，她會用超誘人的痴女技巧把你玩到不行，偏偏不讓你輕易解放，玩的就是心癢癢！聽說她還有一些不能公開的秘密玩法，到底有多嗨？來吧，盡情享受這場極致體驗，保證讓你爽到不想走！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170927215215_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170927215215_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5684",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5684&name=北野未奈"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230117/LQfA7zhP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85042,
+  "IDcode": "JUFE-424",
+  "title": "M男ってチョロくない！？アナル見せつけギャルはW尻ビッチ 浜崎真緒 今井夏帆",
+  "publish_date": "2022-09-20",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "荡妇",
+    "屁股",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85042",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85042&name=浜崎真绪"
+    },
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85042&name=今井夏帆"
+    }
+  ]
+};

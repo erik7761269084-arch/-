@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/VeNNnAz4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88904,
+  "IDcode": "TPNS-008",
+  "title": "超美貌SSR級レイヤーは【フル勃起すると馬並みデカチン男の娘】全員イラマ奉仕＆連続ケツマ●コ挿入で【直腸アナル雌イキ体質の真正ドM】でありながら【逆アナルで自分も雄イキしたい二刀流】ガチ中出し尻穴5P大乱交",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "肛交",
+    "滥交",
+    "角色扮演者",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88904",
+  "actresses": []
+};

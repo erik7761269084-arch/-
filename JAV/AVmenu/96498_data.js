@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/20/f08cf66d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96498,
+  "IDcode": "IPZ-121",
+  "title": "究極の尻フェチマニアックス 美雪ありす",
+  "publish_date": "2013-06-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "屁股",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/20/f704c9c68a271a9f3ddf417ae561ae57.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96498",
+  "actresses": [
+    {
+      "name": "美雪愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5756e434-0a45-4556-9517-e963bdd80e0b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96498&name=美雪愛麗絲"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96498&name=森林原人"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96498&name=しみけん"
+    }
+  ]
+};

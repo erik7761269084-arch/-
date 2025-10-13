@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/07/d057f94d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84504,
+  "IDcode": "GMEM-021",
+  "title": "監禁！拷問！調教！絶叫！絶頂！ 強●絶頂絶叫拷問調教 新人エリート麻薬捜査官 熱狂する哀しき女戦士の肉体 あべみかこ",
+  "publish_date": "2021-01-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "残忍画面",
+    "女检察官",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84504",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84504&name=安部未華子"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/14/07c7ea3d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35648,
+  "IDcode": "082215-01",
+  "title": "约了个青春小美女研究测量她的身体",
+  "publish_date": "2025-05-19",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35648",
+  "actresses": []
+};

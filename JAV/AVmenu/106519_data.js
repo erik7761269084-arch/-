@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/08/8d0c071d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106519,
+  "IDcode": "MIFD-247",
+  "title": "新人 極細クビレにぷっくり美乳 地味な自分を変えたくて勇気を出してAVデビュー キミはキレイだぁ 小鳥遊もえ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "苗条",
+    "口交",
+    "首次亮相",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106519",
+  "actresses": [
+    {
+      "name": "小鳥遊もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106519&name=小鳥遊もえ"
+    }
+  ]
+};

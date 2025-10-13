@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250317/94bB25Ap/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70132,
+  "IDcode": "STAR-830",
+  "title": "白石茉莉奈 旦那に内緒でおっパブで働く高飛車な爆乳妻に中出し本番強要",
+  "publish_date": "2017-10-19",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "妓女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250317-1/a4941c616f10ec35cc8112a897afcbb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70132",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70132&name=白石茉莉奈"
+    }
+  ]
+};

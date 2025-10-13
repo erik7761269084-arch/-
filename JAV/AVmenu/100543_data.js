@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230824/VnlZq5dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100543,
+  "IDcode": "SORA-428",
+  "title": "讓人不經意想拍屁股巨臀超M妹子 野外露出淫臀羞恥高潮無力抵抗高潮臉蛋讓美顏完全崩壞。",
+  "publish_date": "2022-12-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "户外",
+    "羞耻",
+    "纪录片",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100543",
+  "actresses": [
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100543&name=纱々原ゆり"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/HPyIWelZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70999,
+  "IDcode": "HUNTA-541",
+  "title": "お姉ちゃんが初クンニの快感でカマキリ挟みイキ！！ボクには超奥手で恥ずかしがり屋の姉がいるのですが、最近彼氏ができてなんだか様子がおかしい？そんな矢先「アソコを舐めてほしい…」と姉から衝撃のお願いが！？恥ずかしすぎて彼氏からのクンニを拒否していたのに…",
+  "publish_date": "2019-01-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "姐姐",
+    "乱伦",
+    "乳房",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70999",
+  "actresses": [
+    {
+      "name": "森春流",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/7c86e86e-29f6-4136-abc3-e46d0de5193b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70999&name=森春流"
+    },
+    {
+      "name": "葵千恵",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/d8fa9472-690b-4532-bfc0-30dfe7085225.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70999&name=葵千恵"
+    },
+    {
+      "name": "神ユキ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/e14aec81-25d5-4313-aeeb-8084050579d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70999&name=神ユキ"
+    },
+    {
+      "name": "凉美ほのか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70999&name=凉美ほのか"
+    }
+  ]
+};

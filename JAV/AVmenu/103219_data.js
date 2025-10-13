@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230208/06DE7A1660ECB986/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103219,
+  "IDcode": "AGAV-004",
+  "title": "ちっぱい美少女が敏感乳首を集中愛撫で開発されて人生初の乳首イキ絶頂するまで 冬愛ことね",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "自慰",
+    "瘦小身型",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/agav004/agav004pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103219",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103219&name=冬爱琴音"
+    }
+  ]
+};

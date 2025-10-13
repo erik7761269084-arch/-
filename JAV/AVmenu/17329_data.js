@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/adbc9ca8-9ed2-4b3f-ae84-cf1a64e7a001/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240308/flQO4HbV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17329,
+  "IDcode": "JUQ-475",
+  "title": "四六時中、丰蕴犹存的婆婆勾引自己的女婿",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "勾引・誘惑",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-475为MADONNA出品,2023年12月12日发行的有碼成人影片由上羽絢出演\n上羽絢夫妇與她女兒一家住在一起。表面上相處得很融洽，但她已經有一段時間沒有和丈夫在一起了，每晚都在自慰，以釋放多餘的性慾。當親眼目睹了女婿武志的大雞巴，他也沒有和女兒發生性關係，孤獨寂寞时…… 上羽絢對他的陰莖著迷，勾引他，說：“我來满足你吧”，女婿完全被婆婆的迷人魅力迷住了，這是他的妻子所不具備的。\n上羽絢夫妇與她女兒一家住在一起。表面上相處得很融洽，但她已經有一段時間沒有和丈夫在一起了，每晚都在自慰，以釋放多餘的性慾。當親眼目睹了女婿武志的大雞巴，他也沒有和女兒發生性關係，孤獨寂寞时…… 上羽絢對他的陰莖著迷，勾引他，說：“我來满足你吧”，女婿完全被婆婆的迷人魅力迷住了，這是他的妻子所不具備的。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/5feec6e5-b651-4c03-b66c-f6a64c77a00c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/5feec6e5-b651-4c03-b66c-f6a64c77a00c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17329",
+  "actresses": [
+    {
+      "name": "上羽絢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/fec8fad2-a2cc-4e79-940b-b5d5f985bb5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17329&name=上羽絢"
+    }
+  ]
+};

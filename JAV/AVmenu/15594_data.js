@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87cf196d-34bc-4da8-a0c8-a6fd406cff6f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/10/692a8f97/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15594,
+  "IDcode": "IPZZ-255",
+  "title": "超刺激的覺醒性愛，強行喚醒你沉睡的性欲，長濱蜜璃",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "IPZZ-255为IDEA POCKET出品,2024年4月9日发行的有碼成人影片由長濱蜜璃出演\nG罩杯大新人第四彈是《超覺醒性交》。出汗的皮膚，溢出的恥辱潮，不停的尖叫，扭動的身體，無論蜜莉射多少次都不會結束的無盡的操，長濱蜜莉在巨大的高潮中被摧毀。 ① 喚醒性慾的噴SEX ② 玩陰莖發育玩具 ③ 追求大雞巴的硬操 ④ 舔全身並口交 ⑤ 3 PFUCK 無盡的汗水高潮。 150分鐘，強行喚醒蜜璃潛在的情色本性，她變得越來越調皮！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405061126201201.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405061126201201.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15594",
+  "actresses": [
+    {
+      "name": "長濱蜜璃",
+      "img_url": "https://picture.yoshiclub.xyz/20240106/7cba7952-66bf-4d34-a03d-364d02f9b729.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15594&name=長濱蜜璃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15594&name=鲛岛"
+    }
+  ]
+};

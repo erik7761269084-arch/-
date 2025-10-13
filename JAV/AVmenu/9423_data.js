@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/18a306f6-51d0-420d-bb93-f2771bd5bc5e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/27/381c0577/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9423,
+  "IDcode": "ADN-650",
+  "title": "她是我夢中的女友，即使只是肉體關系也好。還記得我們見面約定的地方嗎？ ~ 安位薫",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "朋友女友・妻子",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷窺",
+    "NTR",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "ADN-650为ATTACKERS出品,2025年1月7日发行的有碼成人影片由安位薫出演\n我總是會愛上那些我無法接觸到的人。對方有男朋友了，對我沒有任何興趣。我一直假裝是朋友，隱藏著自己的感情，但我無法再欺騙自己了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102082548501501.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102082548501501.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9423",
+  "actresses": [
+    {
+      "name": "安位薫",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/bf0e7d96-e7c4-430b-b352-60886b45c24d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9423&name=安位薫"
+    },
+    {
+      "name": "輝大",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9423&name=輝大"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1b4f12c2-f1f0-46f6-bfac-7da3c79a2961/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240109/0nXcze6o/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18073,
+  "IDcode": "SAN-178",
+  "title": "注意不要太興奮！ 每次換位置都高潮！ 美白美人妻每次都有驚人的高潮",
+  "publish_date": "2023-10-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "黑絲",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "口交",
+    "艷遇",
+    "人妻",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231101/00291142-9585-464f-bca5-6b464a29f43a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231101/00291142-9585-464f-bca5-6b464a29f43a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18073",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18073&name=月野香澄"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2285,
+  "IDcode": "PKPD-388",
+  "title": "半中半外爽到爆妹 F杯隨便中出的陪酒辣妹 ~ 道久天",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "PKPD-388为妄想族出品,2025年10月3日发行的有碼成人影片由道久天出演\n平時在港區靠不陪睡的陪酒賺錢過日子，但這妹子私底下可是個超愛大叔的騷氣小浪貨。只要跟熟絡的乾爹關係好，她自己都會主動求中出，簡直是個變態生玩愛好者！誘人的F杯身材加上這股浪勁，哪個大叔能頂得住啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020707351351_44701_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020707351351_44701_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2285",
+  "actresses": [
+    {
+      "name": "道久天",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/101d1efb-bd25-45d2-9693-7990f7c71104.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2285&name=道久天"
+    }
+  ]
+};

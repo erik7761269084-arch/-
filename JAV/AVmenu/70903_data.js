@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250305/q5M3BGtz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70903,
+  "IDcode": "JUFD-879",
+  "title": "じっくり甘えさせた後に激変！言葉で僕を犯す変態淫語ママ 風間ゆみ",
+  "publish_date": "2018-03-12",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70903",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70903&name=風間由美"
+    }
+  ]
+};

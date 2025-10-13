@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221006/820BFAA9A14B1A92/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65125,
+  "IDcode": "9D8119D0F18A565B46447881621B361A",
+  "title": "我的投诉处理OL对我的身体致歉",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65125",
+  "actresses": []
+};

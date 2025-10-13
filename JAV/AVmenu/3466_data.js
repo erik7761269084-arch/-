@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66d38fdc-54b6-49ac-8a45-99d094cb5eee/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3466,
+  "IDcode": "FTAV-013",
+  "title": "台灣新世代小仙女強勢進軍日本AV界！史上首位台灣專屬女優燃爆全場，從頂級網紅變身誘惑女神 ~ 齋齋樹",
+  "publish_date": "2025-08-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "二次元",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "蘿莉",
+    "紀念作",
+    "脚控・戀足癖",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "刺青紋身",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "舔陰",
+    "內衣",
+    "少女",
+    "接吻",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "單體作品",
+    "出道作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "美少女電影",
+    "叛逆少女",
+    "無毛",
+    "女優",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "FTAV-013为SOD出品,2025年8月18日发行的有碼成人影片由齋齋樹出演\nSNS粉絲破60萬的台灣頂級網紅齋齋樹，正式成為SOD史上首位台灣專屬女優，震撼AV出道！這次是由【台灣頂流網紅×導演雷米雷米·新世界】聯手打造的跨國夢幻組合，簡直是奇蹟般的碰撞！從小受到日本動漫和電視劇的文化薰陶，她對日本AV充滿嚮往，甚至被深深震撼，立志成為一名日本AV女優，瘋狂在SNS上模仿學習。即使成為台灣頂流網紅，她依然沒放棄來日本發展的夢想，始終懷揣著這份熾熱的渴望，不斷向上攀登。今年，她終於如願以償，加入SOD創造，正式踏入夢寐以求的日本AV界，準備用她的魅力征服所有人！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818212013363363_71663_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250818/20250818212013363363_71663_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3466",
+  "actresses": [
+    {
+      "name": "齋齋樹",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250818/af4a35bc-2c65-46da-8e19-4b44ea623074_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3466&name=齋齋樹"
+    }
+  ]
+};

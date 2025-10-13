@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/16/c4f421c4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69534,
+  "IDcode": "DORI-078",
+  "title": "パコ撮りNo.78 「ヤリマンかな◆エロくない人は嫌っ！」というシャワー待ちでオナニーし始めちゃうドエロな黒ギャルJ● ナマ挿入を「ま、いっか♪」って受け入れたので連続中出し！",
+  "publish_date": "2023-01-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "高中女生",
+    "中出",
+    "女生",
+    "口交",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69534",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69534&name=今井夏帆"
+    }
+  ]
+};

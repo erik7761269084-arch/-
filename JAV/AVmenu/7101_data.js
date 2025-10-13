@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c47f2727-9294-4ecd-a5b5-e98bff46a244/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/08/494a7b2e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7101,
+  "IDcode": "DHLD-015",
+  "title": "美腿天堂，女上司們整天穿着汗溼的黑色連褲襪挑逗我 ~ 天馬唯 花狩舞 木野野葉惠裏香 福田もも 小野寺舞",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "舔腳",
+    "加班",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "口交",
+    "女王",
+    "騎乗位",
+    "局部特寫",
+    "性感",
+    "高妹",
+    "勾引・誘惑",
+    "美腳",
+    "艷遇",
+    "足交",
+    "M男・M女",
+    "職場",
+    "女上司",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250402/33395703-db8d-4adf-911d-1f1d877dd7cb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250402/33395703-db8d-4adf-911d-1f1d877dd7cb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7101",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7101&name=天馬唯"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7101&name=花狩舞"
+    },
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7101&name=小野寺舞"
+    },
+    {
+      "name": "木野野葉惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20240316/b6637edd-a100-49c5-b22a-eb8c2822f9c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7101&name=木野野葉惠里香"
+    },
+    {
+      "name": "福田もも",
+      "img_url": "https://picture.yoshiclub.xyz/20240326/e3f3af6a-8f02-41be-929e-16d7c7edc324.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7101&name=福田もも"
+    }
+  ]
+};

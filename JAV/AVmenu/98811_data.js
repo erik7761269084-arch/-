@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/457e41a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98811,
+  "IDcode": "RCTD-310",
+  "title": "父の再婚相手の連れ子は毎日喧嘩するほど仲の悪いクラスメイトだった。両親に心配をかけたくない私達は声を押し殺して女同士の喧嘩をするようになった。喘ぎ声とイキ我慢をする新感覚喧嘩レズバトル",
+  "publish_date": "2020-02-20",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd310/1rctd310pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98811",
+  "actresses": [
+    {
+      "name": "神楽アイネ",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/055e11f2-b940-4335-88f2-09461301c1d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98811&name=神楽アイネ"
+    },
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98811&name=小西真理繪"
+    }
+  ]
+};

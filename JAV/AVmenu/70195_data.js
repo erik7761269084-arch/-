@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/29/385496b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70195,
+  "IDcode": "VENU-882",
+  "title": "父が出かけて2秒でセックスする母と息子 有坂深雪",
+  "publish_date": "2019-09-01",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/9a607dca047a84b8125fa4b2cd4e506c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70195",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70195&name=有坂深雪"
+    }
+  ]
+};

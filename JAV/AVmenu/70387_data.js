@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/10/cee511df/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70387,
+  "IDcode": "CJOD-459",
+  "title": "綺麗な脚長お姉さんの魅惑のハイレグ痴女ハーレム 卑猥な食い込み見せつけスベスベ美脚挟み撃ちロックM字ガニ股ピストンで中出し痴女られちゃう僕 月乃ルナ 尾崎えりか 天馬ゆい 木下ひまり",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/cee511df/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70387",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70387&name=天馬唯"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70387&name=木下日葵"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70387&name=月乃露娜"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70387&name=タイ"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70387&name=ナイアガラ翔"
+    }
+  ]
+};

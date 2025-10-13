@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240106/cnBhPUu4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101083,
+  "IDcode": "LUXU-1769",
+  "title": "ラグジュTV 1747 「たくさんの人に見られると思うとワクワクします。」そう語る身長166cmの圧倒的存在感を放つ反則級美女！念願の男優チ○ポで我を忘れてイキ乱れる。",
+  "publish_date": "2023-12-16",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "高",
+    "业余",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101083",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101083&name=前田美波"
+    },
+    {
+      "name": "みなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101083&name=みなみ"
+    }
+  ]
+};

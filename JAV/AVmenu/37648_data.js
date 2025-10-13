@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220720/D00452578FE0EDF4/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37648,
+  "IDcode": "9F71DD439B2A43EB6075004AD069C-420",
+  "title": "无码流出G奶翘臀女神 仁科百华",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37648",
+  "actresses": []
+};

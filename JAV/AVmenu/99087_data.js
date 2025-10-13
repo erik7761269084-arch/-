@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230128/061314E5F0773405/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99087,
+  "IDcode": "SSPD-086",
+  "title": "夫の目の前で犯されて- 貞操泥棒 麻美ゆま",
+  "publish_date": "2012-06-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "凌辱",
+    "强奸",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99087",
+  "actresses": [
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99087&name=麻美由真"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d46105a-c07e-4c45-bcdc-c7f23d04eb24/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/25/55cceef6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10293,
+  "IDcode": "MIDV-946",
+  "title": "周日早上，她醒來的時候真是太可愛了，我忍不住又射了她一發，二發，三發……早上就硬的大雞巴讓她再次高潮。我們興奮不已，從早上又一直操到了黃昏 ~ 石川澪",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "女同事",
+    "出軌",
+    "NTR",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "MIDV-946为MOODYZ出品,2024年12月3日发行的有碼成人影片由石川澪出演\n[早上的性愛是色情的！ 】 早上醒來的時候，我的後輩澪就在我旁邊。儘管我們都有伴侶，但昨晚我們都喝了酒，然後發生了欺騙性行為。儘管我們應該互相操，但澪形狀優美的睡臉，光滑白皙的皮膚，略顯透明的乳頭，內衣包裹著的臀部線條，以及隔著褲子的緊緻陰戶。一個只有在睡覺時才能看到的毫無防禦能力的身影。啊，不。太色情了。我想再幹一次你。冰冰！早上，勃起的雞巴就這樣插入了！澪措手不及，可愛得給了他一、二、三槍…當她被極其兼容的雞巴插入時，澪再次興奮起來。 「我不能再這樣了！我太敏感了，因為我昨天射精了……！」我們的計畫一直搞到黃昏。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128085306383383.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128085306383383.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10293",
+  "actresses": [
+    {
+      "name": "石川澪",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/6a84337f-8c38-460e-8358-7462c4379dc4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10293&name=石川澪"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10293&name=蓝井优太"
+    }
+  ]
+};

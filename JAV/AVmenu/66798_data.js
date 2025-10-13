@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/HlbbrBza/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66798,
+  "IDcode": "FSDSS-468",
+  "title": "仕事の憂さ晴らしに呼んだ高級デリヘル嬢がまさかの高飛車女上司。弱みを握っていつでもヤレる俺専用M女に調教、始めました。 小野夕子 パンティと写真付き",
+  "publish_date": "2022-09-22",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66798",
+  "actresses": [
+    {
+      "name": "小野夕子",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/abb74ccd-f491-4096-9565-ef8214acfbee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66798&name=小野夕子"
+    }
+  ]
+};

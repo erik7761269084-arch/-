@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/08/525bfa0e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72604,
+  "IDcode": "ABP-238",
+  "title": "我們的癡漢專用寵物 冬月楓",
+  "publish_date": "2015-01-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "强奸",
+    "潮吹",
+    "性骚扰",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72604",
+  "actresses": [
+    {
+      "name": "冬月枫",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ef569942-7814-4b31-aa3f-255eb66391a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72604&name=冬月枫"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72604&name=森林原人"
+    }
+  ]
+};

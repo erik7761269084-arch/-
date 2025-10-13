@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/08/a0114a64/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118633,
+  "IDcode": "FC2-4558998",
+  "title": "油压按",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/08/2d7f8dcc7a4a121b7b28239ac3f3ebb0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118633",
+  "actresses": []
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/11/4419c7b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88202,
+  "IDcode": "SCPX-196",
+  "title": "オッパイ美人な叔母さんに家庭教師をお願いしたら隣の谷間に童貞チ○ポは勃起っぱなし！動かさないって約束するからと肉厚なドテ素股でヌイてもらうはずが高まりすぎちゃって熱い膣内にビックバン！！",
+  "publish_date": "2017-04-28",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "乱伦",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/4b50b99f80b9b6f16c02891479b77800.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88202",
+  "actresses": [
+    {
+      "name": "月本爱",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7d0b033599ddf752a987c726c39327ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88202&name=月本爱"
+    },
+    {
+      "name": "若菜まゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88202&name=若菜まゆ"
+    },
+    {
+      "name": "柳美和子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/d314ce9cf729b101a572feccc9e136ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88202&name=柳美和子"
+    },
+    {
+      "name": "早野いちか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88202&name=早野いちか"
+    }
+  ]
+};

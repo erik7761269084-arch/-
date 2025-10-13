@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240625/HRj0oAFk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96993,
+  "IDcode": "SW-134",
+  "title": "上司の奥さんは欲求不満パンチラで主人の部下の若い勃起チ○ポを待っている",
+  "publish_date": "2012-09-06",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "已婚妇女",
+    "口交",
+    "企画",
+    "新娘，年轻妻子",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96993",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96993&name=波多野结衣"
+    }
+  ]
+};

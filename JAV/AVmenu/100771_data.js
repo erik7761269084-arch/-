@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/6bcf3ce9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100771,
+  "IDcode": "AMBI-173",
+  "title": "童貞の僕をちっぱいで誘惑してくる！？小悪魔従妹 一花みお パンティと生写真付き",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "无毛",
+    "吞精",
+    "平胸",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/15/cec414b89b62480087922e731c4086cb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100771",
+  "actresses": [
+    {
+      "name": "七美せな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100771&name=七美せな"
+    }
+  ]
+};

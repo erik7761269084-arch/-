@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240613/USag9JRS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102462,
+  "IDcode": "DANDY-581",
+  "title": "「40歳をすぎた僕の初めての中出し相手は見舞いに来てくれた姪っ子でした」コンドームが無いので生ハメ外出しするつもりが姪っ子の騎乗位がウマすぎて中出し編",
+  "publish_date": "2017-12-21",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "中出",
+    "女上位",
+    "口交",
+    "企画",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102462",
+  "actresses": [
+    {
+      "name": "上田紗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/6f071616-6cec-4a49-a27a-e9d5078d06ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102462&name=上田紗奈"
+    },
+    {
+      "name": "杉咲しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c21c81a4-3a97-4ff7-a774-ee9d2ca09ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102462&name=杉咲しずか"
+    },
+    {
+      "name": "宫崎彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/5391bf25-c850-4c23-8f3b-e8947519f2bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102462&name=宫崎彩"
+    }
+  ]
+};

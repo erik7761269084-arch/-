@@ -1,0 +1,31 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99473,
+  "IDcode": "HEYZO1832",
+  "title": "柏木ゆみ巨乳素人娘を制服コスでいただきます！",
+  "publish_date": "2018-09-30",
+  "type": "有码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "3P",
+    "颜射",
+    "骑乘位",
+    "乳交",
+    "口爆/吞精",
+    "颜面骑乘",
+    "巨乳爆乳",
+    "颜射",
+    "素人",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99473",
+  "actresses": []
+};

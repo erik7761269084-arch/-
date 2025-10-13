@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/28/d9f46a2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86260,
+  "IDcode": "SSIS-420",
+  "title": "ママのこと、許して…娘の彼氏との不埒な密会 若い絶倫チ●ポに気が狂うほどイカされ続けて… 奥田咲 （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "已婚妇女",
+    "苗条",
+    "薄马赛克",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86260",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86260&name=奥田咲"
+    }
+  ]
+};

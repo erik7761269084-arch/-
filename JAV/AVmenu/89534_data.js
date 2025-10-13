@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/15/8011a6eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89534,
+  "IDcode": "AARM-139",
+  "title": "大排長龍的精油打手槍專門店 Melty Hands",
+  "publish_date": "2022-12-06",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "乳液",
+    "手淫",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89534",
+  "actresses": [
+    {
+      "name": "原美织",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250823/1876b0a8-e189-447b-b303-513c28224e48_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89534&name=原美织"
+    },
+    {
+      "name": "茅野亜美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89534&name=茅野亜美"
+    },
+    {
+      "name": "绫瀬さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89534&name=绫瀬さくら"
+    }
+  ]
+};

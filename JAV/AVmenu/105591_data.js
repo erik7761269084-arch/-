@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/17/7ab50624/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105591,
+  "IDcode": "ABP-770",
+  "title": "神乳Gcupを味わい尽くす性感覚醒3本番 乳首でもマ○コでもイキまくる！！ 園田みおん",
+  "publish_date": "2018-09-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "多P",
+    "玩具",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105591",
+  "actresses": [
+    {
+      "name": "园田美樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/49d60faa-ccb3-491a-96ac-19bc1bcca92f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105591&name=园田美樱"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/9VzDAfDO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89388,
+  "IDcode": "SUJI-190",
+  "title": "おじさん家に連れて帰ってイイですか？落とし物しちゃって困ったななみちゃん編 横宮七海",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "放尿",
+    "瘦小身型",
+    "魔鬼系",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89388",
+  "actresses": []
+};

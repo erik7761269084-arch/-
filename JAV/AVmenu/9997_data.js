@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a7e3078-ce4d-4537-b652-62398a3f83f9/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/07/a5af74cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9997,
+  "IDcode": "WO-019",
+  "title": "淫亂保健醫生和男子生徒的絕頂課外授業 ~ 月野香橙",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "後入",
+    "女教師",
+    "故事集",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "女醫生",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "自慰",
+    "明星臉",
+    "更衣室",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "醫生製服",
+    "猥褻穿著",
+    "學校",
+    "美少女電影",
+    "處男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241212/032b859f-d785-4179-b8e9-a62611cf272d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241212/032b859f-d785-4179-b8e9-a62611cf272d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9997",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9997&name=月野香澄"
+    }
+  ]
+};

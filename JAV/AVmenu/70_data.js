@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e746162e-3f26-4db9-8e93-6acf88fcfe9c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 70,
+  "IDcode": "1PON-010119_791",
+  "title": "百合大亂鬥 火辣雙姝激情開戰 ~ 大倉弘美",
+  "publish_date": "2019-01-01",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "偶像",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "女同性戀",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "巨乳",
+    "女性向",
+    "手指插入",
+    "美人",
+    "兩男兩女",
+    "大奶头",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "1PON-010119_791为一本道出品,2019年1月1日发行的無碼成人影片由月野優里亞，大倉裕美出演\n清純系小甜心碰上初次登場的性感炸彈大倉弘美，兩位正妹穿著和服一起登場，直接對戰兩根大棒，百合大亂鬥看得人熱血沸騰！她們黏膩的舌吻糾纏，濃烈的百合舔弄，雙頭道具的狂野玩法，互相愛撫的騷氣姿態，絕對挑逗你的每一根神經！慾望爆棚的百合痴態還不夠，兩個猛男強勢加入，追求極致快感的激烈交戰，這場百合亂鬥根本是視覺饗宴，錯過就太可惜啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003934657657_62253_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003934657657_62253_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70",
+  "actresses": [
+    {
+      "name": "月野優里亞",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903075045717717_93410_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70&name=月野優里亞"
+    },
+    {
+      "name": "大倉裕美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903075744965965_11687_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70&name=大倉裕美"
+    }
+  ]
+};

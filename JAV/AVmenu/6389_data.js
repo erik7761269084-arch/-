@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3ac328ae-6c95-447f-abe5-57f57f192ad0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/13a52f80/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6389,
+  "IDcode": "PKPL-053",
+  "title": "素人炮友實錄：老公出差就找我開戰的性獸人妻 ~ 織本せりの",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "家庭主妇",
+    "純粹的慾望",
+    "色白",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "約炮",
+    "美人",
+    "飯店"
+  ],
+  "description": "PKPL-053为妄想族出品,2025年5月3日发行的有碼成人影片由織本せりの出演\n來介紹一下我的炮友！せりの明明是個已婚少婦，但她老公老是出差，偷情的機會多得不得了。只要一碰面，哪怕時間再短，她都按捺不住想來場激烈運動，性慾旺到爆表……結婚第四年，夫妻感情開始冷卻，而我就是填補她空虛的那個人。就是這麼爽快！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105549493493_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105549493493_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6389",
+  "actresses": [
+    {
+      "name": "織本せりの",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/8c358e38-d9e8-404c-9139-e9f96459330a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6389&name=織本せりの"
+    }
+  ]
+};

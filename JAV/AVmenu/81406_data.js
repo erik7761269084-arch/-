@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/06/8eb3aeb1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81406,
+  "IDcode": "NTK-331",
+  "title": "ntk-331 一晚100万日元的高级女郎私人性爱实录",
+  "publish_date": "2023-04-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221026-1/1d1eea787a57a6d15ba8088cafe99278.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81406",
+  "actresses": []
+};

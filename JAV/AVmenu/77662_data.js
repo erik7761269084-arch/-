@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/eVjDAvMg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77662,
+  "IDcode": "MRSS-078",
+  "title": "中出し町内会 僕だけが知らない故郷の風習で愛する妻が村人全員に寝取られてしまいました 星あめり",
+  "publish_date": "2019-11-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "苗条",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/2702fcb09b4aeb7b3db38487df6da4a5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77662",
+  "actresses": [
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77662&name=雨村梨花"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77662&name=岩下たろう"
+    }
+  ]
+};

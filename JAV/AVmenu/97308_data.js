@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240716/Onr9ZQMe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97308,
+  "IDcode": "FTHTD-010",
+  "title": "夜回りナンパ 令和女子のお悩み相談 思いっきりナマ【中出し】解決！ Episode4 feat.FALENOTUBE",
+  "publish_date": "2022-09-08",
+  "type": "有码",
+  "company": "FALENO TUBE",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "苗条",
+    "按摩",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97308",
+  "actresses": []
+};

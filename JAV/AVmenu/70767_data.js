@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/MsHnWzdp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70767,
+  "IDcode": "SDAM-048",
+  "title": "速報！元地方局アナウンサーが自ら出演志願 AV DEBUT ちはや（25） 局アナ時代に備わったベロテクを本能的に猛獣化させる",
+  "publish_date": "2020-05-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "首次亮相",
+    "业余",
+    "瘦小身型",
+    "女主播"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70767",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70767&name=小田切ジュン"
+    },
+    {
+      "name": "秋元千早",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70767&name=秋元千早"
+    }
+  ]
+};

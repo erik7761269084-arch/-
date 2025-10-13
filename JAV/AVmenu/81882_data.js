@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/oVFYt5bE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81882,
+  "IDcode": "NSSTL-018",
+  "title": "人妻さき 夫の目の前で借金取りに輪●された妻 柊さき",
+  "publish_date": "2020-03-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/8cba9451e2db7940b57dc63cb4a09395.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81882",
+  "actresses": [
+    {
+      "name": "柊沙希",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/69dd1cef-b1cc-4b9b-93cd-7a33bfe453d9.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81882&name=柊沙希"
+    }
+  ]
+};

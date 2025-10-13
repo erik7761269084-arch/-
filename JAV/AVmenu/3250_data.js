@@ -1,0 +1,86 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0a04a1df-f623-44af-b9c7-cd12521e82a6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3250,
+  "IDcode": "SDAM-146",
+  "title": "情侶AV挑戰賽！男友眼睜睜看着女友被頂尖AV男優瘋狂輸出，不動就能拿百萬獎金3 ~ 鬆丸香澄 似鳥日菜 朝比ゆの 佐藤愛瑠",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "在丈夫面前被操",
+    "淫亂",
+    "絕頂高潮",
+    "臀控",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "明星臉",
+    "AV拍攝現場",
+    "清純",
+    "惡搞",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "SDAM-146为SOD出品,2025年8月25日发行的有碼成人影片由佐藤愛瑠，似鳥日菜，松丸香澄，朝比ゆの出演\n在男友面前被技術超神的AV男優整整60分鐘各種調教，只要女友能堅守對男友的愛，忍住不叫不動的扮演完美“人偶”，就能抱走100萬獎金！男友只能眼巴巴看著女友被攻擊敏感帶，用最愛的體位被搞到比平時還爽，內心糾結卻啥也做不了，只能乾瞪眼看著這一切，刺激到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212141857857_33748_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212141857857_33748_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3250",
+  "actresses": [
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3250&name=似鳥日菜"
+    },
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3250&name=朝比ゆの"
+    },
+    {
+      "name": "佐藤愛瑠",
+      "img_url": "https://picture.yoshiclub.xyz/20240309/4519ba79-4491-40aa-8a97-440a9417ee62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3250&name=佐藤愛瑠"
+    },
+    {
+      "name": "松丸香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20241110/62618ece-36e0-4484-90d2-313a4d20f853.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3250&name=松丸香澄"
+    }
+  ]
+};

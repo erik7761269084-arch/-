@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/30/38d0e032/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105643,
+  "IDcode": "SONE-102",
+  "title": "極美女の全性欲をさらす！台本一切なし！男とガチ2人デート！からのチ●ポとマ●コがシンクロナイズするほど合体したイキ潮10倍ビジョビジョ生々ハメ撮り 七ツ森りり （BOD）",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "第一人称摄影",
+    "苗条",
+    "潮吹",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/30/c355fdbb59a540488f2859f3b9041305.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105643",
+  "actresses": [
+    {
+      "name": "七森莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230819/2199c99b-1dc3-47f9-bb93-14388f02dc17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105643&name=七森莉莉"
+    }
+  ]
+};

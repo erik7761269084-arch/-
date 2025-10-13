@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/84dc4339-353c-4f8e-a1b9-f7bf92d7b244/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20221031/VDXOLBtR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1107,
+  "IDcode": "HEYZO-1587",
+  "title": "與豐滿巨乳妹的黏性合体～ - 白石真琴",
+  "publish_date": "2017-11-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "潮吹",
+    "口交",
+    "性感",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231122/20231122010242560560.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231122/20231122010242560560.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1107",
+  "actresses": [
+    {
+      "name": "白石真琴",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/333601b2-2f5d-4f29-aca5-d51881d3c631.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1107&name=白石真琴"
+    }
+  ]
+};

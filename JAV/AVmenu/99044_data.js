@@ -1,0 +1,40 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99044,
+  "IDcode": "CESD-778-",
+  "title": "羽生ありさのデカ尻アナルをひびはたが責める3Pレズビアン",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "淫乱，真实",
+    "女同性恋",
+    "肛交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99044",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99044&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99044&name=大槻响"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99044&name=羽生ありさ"
+    }
+  ]
+};

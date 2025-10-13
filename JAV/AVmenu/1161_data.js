@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c8cdc27-1ee5-481a-b845-bb01bb3254dd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1161,
+  "IDcode": "HEYZO-1867",
+  "title": "6點下班後～混血OL美女的腰技～ 美月安潔莉亞",
+  "publish_date": "2018-11-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231025/20231025000707516516.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231025/20231025000707516516.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1161",
+  "actresses": [
+    {
+      "name": "美月アンジェリア",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/74f41b2b-e196-4c18-8862-594c012becc8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1161&name=美月アンジェリア"
+    }
+  ]
+};

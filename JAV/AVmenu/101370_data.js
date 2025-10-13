@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/27/c92ac761/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101370,
+  "IDcode": "EKDV-622",
+  "title": "我媽是AV女優 ！ 稻場流花",
+  "publish_date": "2020-04-03",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "乱伦",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/02/27/d2735f5a7ae6df766137097702c5037b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101370",
+  "actresses": [
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101370&name=稻场流花"
+    }
+  ]
+};

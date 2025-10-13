@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/91bcacc1-1cf9-4fda-8d31-69defe1eb631/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 862,
+  "IDcode": "HEYZO-1072",
+  "title": "美波亞美菜是位能到府服務的酒店小姐、一開始和你高興的聊天喝酒、但她被你灌醉後很容易就腿開開給幹了、最後讓肉棒肏到爽翻天！",
+  "publish_date": "2016-01-21",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "淫語",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "按摩棒",
+    "飯店小姐・援交妹",
+    "無毛",
+    "飯店"
+  ],
+  "description": "HEYZO-1072为HEYZO出品,2016年1月21日发行的無碼成人影片由美波あみな出演\n美波亞美菜是位能到府服務的酒店小姐、一開始和你高興的聊天喝酒、但她被你灌醉後很容易就腿開開給幹了、最後讓肉棒肏到爽翻天！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240506/202405060852531616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/202405060852531616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=862",
+  "actresses": [
+    {
+      "name": "美波あみな",
+      "img_url": "https://picture.yoshiclub.xyz/20240508/f1e38c5e-b7b8-4a71-9e00-63370274fb5a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=862&name=美波あみな"
+    }
+  ]
+};

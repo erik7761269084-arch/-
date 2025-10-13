@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240507/jWkVxCQ0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91481,
+  "IDcode": "EBOD-801",
+  "title": "1年掛けてAV出演を口説き落としたお客様満足度 金沢No.1（某風俗サイト調べ）現役バリバリ神接客Hcupソープ嬢AVデビュー 望月のあ",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "乳液",
+    "口交",
+    "首次亮相",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240508-1/bda3b1316021d88ec7af3b807590c749.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91481",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91481&name=玉木玲"
+    }
+  ]
+};

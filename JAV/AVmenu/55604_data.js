@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55604,
+  "IDcode": "121523-001-CARIB-1080P-",
+  "title": "新入社員のお仕事 Vol.27 ～入社初日の挨拶セックス～紗霧ひなた",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55604",
+  "actresses": []
+};

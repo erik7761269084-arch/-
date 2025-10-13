@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/23/31f1c384/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59737,
+  "IDcode": "RCTD-597",
+  "title": "- 存在無視！気づかれないオフィス - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "企画",
+    "恋物癖",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59737",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59737&name=葵百合香"
+    },
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59737&name=堀北実来"
+    }
+  ]
+};

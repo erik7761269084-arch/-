@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230116/28B01ED04CF3A0B4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57886,
+  "IDcode": "N1438",
+  "title": "n1438 東熱激情 極上濃密パイズリ接待特集　part2",
+  "publish_date": "2020-01-21",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "乳交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57886",
+  "actresses": []
+};

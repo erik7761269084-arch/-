@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eaac9cce-fea6-4fe0-89d5-1510779ec6d4/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240206/Yz1Ji72A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18184,
+  "IDcode": "NACR-720",
+  "title": "狂熱性愛 AIKA",
+  "publish_date": "2023-10-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "中出",
+    "潮吹",
+    "口交",
+    "性感",
+    "膚黑",
+    "抹油",
+    "無毛",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023234204353353.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231023/20231023234204353353.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18184",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18184&name=AIKA"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250423/ZpsXx6hh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66620,
+  "IDcode": "CAWD-437",
+  "title": "幼馴染3人で5年ぶりにデート。そのままホテルで… アオハルを取り戻すように三位一体になって超密着サンドイッチされバカみたいに中出ししまくった人生で一番最高な1日 綾瀬こころ 川北メイサ",
+  "publish_date": "2022-10-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/76dcbb99a7549a2401c02d763df55c17.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66620",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66620&name=绫濑心"
+    },
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66620&name=鳳美優"
+    }
+  ]
+};

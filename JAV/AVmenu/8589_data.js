@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/82d4534b-f1de-4c6f-a4d7-d929d5838825/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8589,
+  "IDcode": "MMPB-066",
+  "title": "真的嗎？女神上門福利？Vol.2 擴散炎上 & 大洪水編 ~ 友田彩也香 浜崎真緒 柏木小夏 彌生美月 新村朱裏 等",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "企畫",
+    "中出",
+    "美乳",
+    "商店",
+    "蕩婦",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "接吻",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "手指插入",
+    "公共場所",
+    "粉絲福利",
+    "粉丝",
+    "美人",
+    "真實拍攝",
+    "眼鏡",
+    "精選綜合",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250202/28d53097-7a92-400a-b20c-510f01fec06b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250202/28d53097-7a92-400a-b20c-510f01fec06b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8589",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=柏木小夏"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=彌生美月"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=天月梓"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=新村朱里"
+    },
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=浜崎真緒"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=田中寧寧"
+    },
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=友田彩也香"
+    },
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8589&name=仓多真央"
+    }
+  ]
+};

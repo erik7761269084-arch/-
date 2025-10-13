@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ab55a51-2530-440b-bd3f-d78eb777f834/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/11/fa47804a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12496,
+  "IDcode": "JUQ-832",
+  "title": "爲了心愛的丈夫，不得不成爲肉便器，被極惡超絕的老男人一次又一次的中出直至懷孕 ~ 廣瀨百合",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "調教",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "欠債肉償",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-832为MADONNA出品,2024年8月27日发行的有碼成人影片由廣瀨百合出演\n有一天，他們一帆風順的婚姻生活破裂了。經營公司的丈夫被自己信任的放債人朋友背叛，背負龐大債務被迫破產。一位想要回到那些幸福日子的妻子決定在不告訴丈夫的情況下去見一個放債人。 「如果你想幫助你的丈夫，週末就做我的女人吧！！」一位妻子決定，如果她能忍住，就犧牲自己的身體......從那天起，一個屈辱的周末開始了，直到她懷孕才結束。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223857890890.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822223857890890.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12496",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12496&name=廣瀨百合"
+    }
+  ]
+};

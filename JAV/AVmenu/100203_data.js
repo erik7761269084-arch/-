@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230323/2E5E07D5ED126AE6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100203,
+  "IDcode": "FSDSS-013",
+  "title": "高嶋めいみ完全セルフプロデュース推しコス連続絶頂SEX",
+  "publish_date": "2020-02-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "多P",
+    "女佣",
+    "猥亵穿着",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fsdss013/1fsdss013pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100203",
+  "actresses": [
+    {
+      "name": "高嶋めいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100203&name=高嶋めいみ"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/46373610-13bd-4876-b35d-530a93097777/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/d6a8d946/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4986,
+  "IDcode": "WAAA-541",
+  "title": "萌花帶你爽到爆 盯着你瘋狂擼管助攻的天堂診所 辣妹小惡魔護士挑逗淫語超色情 ~ 春陽萌花",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "醫院・診所",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "護士制服",
+    "美腳",
+    "金髮",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "看病・住院",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "護士",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "WAAA-541为WANZ FACTORY出品,2025年6月27日发行的有碼成人影片由春陽萌花出演\n【辣妹小恶魔护士×撸管助攻！大脑融化的主观视角双声道体验！】极致的被动享受和绝对服从的撸管快感！她盯着你，在耳边低声呢喃超污的情话，命令你疯狂自慰直到升天！还有那唾液和爱液的湿滑声音，粘稠的ASMR直接让兴奋度爆表！更别提她还秀出湿润的小穴和抽搐的小菊花，用各种下流角度挑逗你！这个淘气的辣妹将带你体验人生最嗨的射精派对，超爽的撸管助攻诊所等你来！※建议佩戴耳机观看，效果更炸！ ~ 春阳萌花",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030425388388_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030425388388_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4986",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4986&name=春陽萌花"
+    }
+  ]
+};

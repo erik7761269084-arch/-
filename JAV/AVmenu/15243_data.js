@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/242ce191-ed85-4df4-9b3c-eb58007866e9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15243,
+  "IDcode": "JYMA-054",
+  "title": "與妻子懷孕回家期間幫忙做家務的大胸嫂子進行人工授精的姐夫松本裡穗（BOD）",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "不倫",
+    "嫂嫂",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240421/9c612722-4f69-45fa-add4-ea76d95603d7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240421/9c612722-4f69-45fa-add4-ea76d95603d7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15243",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15243&name=松本梨穂"
+    }
+  ]
+};

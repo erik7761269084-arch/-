@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241023/7883Ed69/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94301,
+  "IDcode": "SKMJ-539",
+  "title": "完全撮り下ろし真夏の乳もみナンパ！ビキニギャル33人のおっぱいを好き放題に揉んで！揉みしだいて！イカセまくりぃ！ビーチにいたレベチ素人に交渉→即水着ずらしてもみもみ！巨乳・爆乳・神乳！全て揃った真夏の5時間スペシャル！おっぱいパワーで海岸線を平和に！",
+  "publish_date": "2024-08-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "泳装",
+    "业余",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94301",
+  "actresses": []
+};

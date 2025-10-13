@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/38dcc305-eeb2-4780-9170-bce123ad97f2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/10/a73018d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15488,
+  "IDcode": "ABF-094",
+  "title": "和涼森玲夢單獨相處了一整天",
+  "publish_date": "2024-04-18",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "裸體圍裙",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "ABF-094为蚊香社出品,2024年4月18日发行的有碼成人影片由涼森玲夢出演\nPrestige獨家女演員「Remu Suzumori」與素人過夜的紀錄片！房間裡到處都設置了攝像頭，我認真地勾引素人男孩！首先，我們將向您致意，並以我們引以自豪的口交技術為您服務！引導他很快射精後，他就毫不猶豫的插入了！即使是業餘愛好者也很高興看到 Remu-chan 一遍又一遍地射精！當我們一起洗澡親熱時，素人男孩的雞巴又硬起來了！泡泡體乳交將帶您獲得終極快感！洗完澡後，他喝了點酒，和穿著淫蕩泰迪熊服裝的雷姆發生了性關係！ ！時時刻刻誘惑你的Remu醬，連續射精突破極限！即使在睡著或寒冷的情況下，也請享受「鈴森玲夢」所帶來的夢幻般的輕浮性愛♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20240411/20240411092118443443.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240411/20240411092118443443.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15488",
+  "actresses": [
+    {
+      "name": "涼森玲夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fcfb5e54-42f4-4bab-b6ee-37fbcd01fa68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15488&name=涼森玲夢"
+    },
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15488&name=凉森玲梦"
+    }
+  ]
+};

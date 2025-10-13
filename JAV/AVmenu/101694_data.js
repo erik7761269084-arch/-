@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240405/MFVxHA5f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101694,
+  "IDcode": "546ERHAV-039",
+  "title": "身長145cm、まだまだ成長期の無邪気な美少女。背伸びしたい年頃女子に大人",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101694",
+  "actresses": []
+};

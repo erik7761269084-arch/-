@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7673526f-1f69-41db-ae23-c97104ad43b1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/21/af17ee1d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14546,
+  "IDcode": "SSNI-246",
+  "title": "一家專門提供令人上癮的究級性愛服務的SEX専門風俗店，採用終極挑逗技術 ~ 小野夕子",
+  "publish_date": "2018-07-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "蕩婦",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "口交",
+    "風俗娘",
+    "性感",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "明星臉",
+    "巨乳",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "SSNI-246为S1出品,2018年7月7日发行的有碼成人影片由小野夕子出演\n我就這樣等海關了！在前戲中探索性感區時，羽毛般的觸感挑逗！真空口交，用舌尖沿著抽搐的身體後部慢慢吸吮！緩慢的乳交將您包裹在柔軟的 G 罩杯中並將其交給您！慢活塞女牛仔姿勢，您可以享受淺插入和深插入的感覺！ 6 個充滿令人上癮的慢核技術的成人娛樂角落！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522220014913913.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/20240522220014913913.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14546",
+  "actresses": [
+    {
+      "name": "小野夕子",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/abb74ccd-f491-4096-9565-ef8214acfbee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14546&name=小野夕子"
+    }
+  ]
+};

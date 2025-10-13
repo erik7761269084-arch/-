@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/43a4056c-a681-43ee-b528-a1297b690e65/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/0096950c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13711,
+  "IDcode": "CAWD-691",
+  "title": "新人出道！從秋田來到東京的膚白女孩，吃、笑、做愛、中出，她相信這次性愛之後會發生一些事情...... ~ 秋山ももか",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "美少女",
+    "出道作品",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優",
+    "羞恥"
+  ],
+  "description": "CAWD-691为KAWAII出品,2024年7月2日发行的有碼成人影片由秋山ももか出演\n秋山桃花，20歲，是一名女大學生，從秋田縣來到東京出演AV。我一直想和她發生性關係並讓她體內射精。未來的夢想是成為妻子……但在此之前，我想出演AV。她是個陽光明媚的女孩，臉上總是掛著笑容，甚至當筷子掉下來的時候，她也會笑。她吃得好，笑得好，有著20歲的絕對清醒！但我太愛性了，以至於上癮了！當她第一次在鏡頭前做愛時，她白皙美麗的皮膚因愉悅而變成朱紅色。我非常愛我的雞雞，它讓我發笑！一個活潑又頑皮的美麗女孩。請大家看看桃花維他命笑容。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004640568568.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240628/20240628004640568568.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13711",
+  "actresses": [
+    {
+      "name": "秋山ももか",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/5a23c40e-d7cf-427a-a939-e282aed4db0a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13711&name=秋山ももか"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13711&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/mU1EH4py/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89564,
+  "IDcode": "SCR-297",
+  "title": "少●たちを無差別に狙う 鬼畜中出しレ●プ犯行映像",
+  "publish_date": "2022-08-05",
+  "type": "有码",
+  "company": "GLAYz",
+  "genres": [
+    "高中女生",
+    "中出",
+    "无毛",
+    "女生",
+    "投稿",
+    "纪录片",
+    "深喉",
+    "瘦小身型",
+    "平胸",
+    "魔鬼系",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e38865a974ccb3c84fe80c764de78156.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89564",
+  "actresses": []
+};

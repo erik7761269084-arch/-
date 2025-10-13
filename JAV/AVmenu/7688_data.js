@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/454f1983-26c7-4385-bb40-682e3f63d35b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7688,
+  "IDcode": "HZGD-298",
+  "title": "溫泉街小酒館的豐滿美爆乳人妻媽媽 下班後的超下流雙重不倫 ~ 赤城穗波",
+  "publish_date": "2025-03-14",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "後入",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美人妻",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "出軌",
+    "猥褻穿著",
+    "抹油",
+    "NTR",
+    "美人",
+    "熟女",
+    "溫泉",
+    "綠茶婊",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250307/9528ac70-da76-4a82-af15-0ebb2be30343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250307/9528ac70-da76-4a82-af15-0ebb2be30343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7688",
+  "actresses": [
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7688&name=赤城穂波"
+    }
+  ]
+};

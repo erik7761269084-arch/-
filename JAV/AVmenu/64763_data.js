@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230928/gtfI3V9V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64763,
+  "IDcode": "DD331B620D743576E4942C528BFEC-449",
+  "title": "絶対に手を出しては行けない教え子の小悪魔J系にバレヤバ状況で密着囁き淫語挑発され男潮吹くまで弄ばれた。",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64763",
+  "actresses": []
+};

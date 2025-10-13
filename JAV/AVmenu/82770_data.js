@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221124/IDz3A5Dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82770,
+  "IDcode": "JUY-910",
+  "title": "Madonna史上最もピュアな専属人妻が妖艶に進化する初体験5stage 生駒みちる",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "乳房",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221124-1/b81816ee7394120c69e8886edf496c90.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82770",
+  "actresses": [
+    {
+      "name": "生驹みちる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82770&name=生驹みちる"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/eBemElsQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82842,
+  "IDcode": "USAG-007",
+  "title": "「乳首が感じない男ってつまんな～い！」っていう、男の乳首を責めるのが大好きな私の女友達がAVに出たがってたので出演してもらいました。",
+  "publish_date": "2020-02-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "业余",
+    "乳房",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/bcbabd2341f98cdcd7da7f1ed05e0c05.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82842",
+  "actresses": [
+    {
+      "name": "日向咲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82842&name=日向咲"
+    }
+  ]
+};

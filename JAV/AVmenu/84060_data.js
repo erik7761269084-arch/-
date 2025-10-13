@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/23/7ea72e58/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84060,
+  "IDcode": "BLK-578",
+  "title": "ジャスりにきたで！男のツボを心得た接客とテクで大人気！難波No.1マットヘルス嬢AVデビュー 花園ジャスミン",
+  "publish_date": "2022-05-17",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "荡妇",
+    "女生",
+    "首次亮相",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84060",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84060&name=鲛岛"
+    }
+  ]
+};

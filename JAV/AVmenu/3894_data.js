@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/153e3780-054e-4765-adac-83bdc79a351d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3894,
+  "IDcode": "CLUB-879",
+  "title": "外資開發大廠 精英大奶女員工性脅迫偷拍視頻流出 ~ 夏川步美",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "深喉",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "偷拍・盜撮",
+    "金髮",
+    "自慰",
+    "巨乳",
+    "女同事",
+    "高跟鞋",
+    "手指插入",
+    "辦公室",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "職場",
+    "大奶头",
+    "短髮",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "CLUB-879为変態紳士倶楽部出品,2025年8月1日发行的有碼成人影片由夏川步美出演\n某大厂内部爆料，揭露了一位精英女员工被性骚扰的惊人内幕！这位被猎头挖来的G杯大奶妹子，因为一次偷拍失禁事件，成了公司里的性暴力受害者。从揉胸侵犯到强迫口交，办公室里被命令跪舔，甚至被强制高潮，各种骚扰花样百出，还被当作交易工具献给客户！她从抗拒到逐渐沉沦，最后沦为老员工的泄欲玩物，甚至自慰成瘾，彻底崩坏的画面让人看了血脉喷张，绝对刺激！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731100942762762_55749_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731100942762762_55749_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3894",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3894&name=夏川步美"
+    }
+  ]
+};

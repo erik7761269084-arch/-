@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230524/E8D743EE8EECF141/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65263,
+  "IDcode": "FD8D4FD12DED3C06D0E696CC91E6227D",
+  "title": "[日本] 安斋拉拉破坏版AV～上司出差不在时与上司妻子搞翻天的3日～ (SSIS-050)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65263",
+  "actresses": []
+};

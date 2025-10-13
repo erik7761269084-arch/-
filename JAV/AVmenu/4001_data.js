@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/737cb8b1-1a8b-4b63-98cc-ce21d50c129f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4001,
+  "IDcode": "MIDA-263",
+  "title": "禁忌誘惑！放學後跟學生在情趣旅館瘋狂開房，忍不住一發接一發 ~ 塔乃花鈴",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美少女",
+    "單體作品",
+    "清純",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "美人",
+    "阪道系",
+    "女學生",
+    "情趣飯店"
+  ],
+  "description": "MIDA-263为MOODYZ出品,2025年8月1日发行的有碼成人影片由塔乃花鈴出演\n【越是禁忌越爽到爆】師生間的背德激情，真的讓人上癮啊！身為班導的我，竟然被超人氣美胸學生花鈴告白了。明明知道不行，身為老師、大人應該拒絕，但她在耳邊甜甜的低語直接擊潰我的防線…“老師，今天一定要射裡面唷…”明知不對，但她成熟的身材跟天然毛毛小穴實在太誘人。“我能給你老婆給不了的快感…”花鈴那從蛋蛋舔到龜頭的超棒口技，瞬間讓我理智崩塌。她渴求著我，浪叫聲超勾魂，跟她每一次都爽到不行…對不起，我真的沒忍住…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085538866866_34007_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085538866866_34007_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4001",
+  "actresses": [
+    {
+      "name": "塔乃花鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/0492cc80-74d0-458e-b24b-4a12855fd7bf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4001&name=塔乃花鈴"
+    }
+  ]
+};

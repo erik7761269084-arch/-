@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/dVE5G3oB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89923,
+  "IDcode": "SDDE-703",
+  "title": "度が過ぎるほど無抵抗な派遣社員の地味巨乳K子さん 反応見たさにセクハラし続けたが、尚も無反応なので今ではオレ専用の職場オナホにした。 優月まりな",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/3b39b404b053d00aa9bbbf299b0c76cd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89923",
+  "actresses": [
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89923&name=優月真裡奈"
+    }
+  ]
+};

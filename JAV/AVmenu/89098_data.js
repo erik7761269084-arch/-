@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/k2CB8rD2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89098,
+  "IDcode": "VNDS-3400",
+  "title": "性欲剥き出し いつもよりHな美熟女オナニー2 8人",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "自慰",
+    "女优按摩棒",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89098",
+  "actresses": [
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=赤城穂波"
+    },
+    {
+      "name": "明里友香",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/5d03863f-f8f6-4fff-a36a-94c9430ee9b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=明里友香"
+    },
+    {
+      "name": "広瀬结香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=広瀬结香"
+    },
+    {
+      "name": "さくらい麻乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=さくらい麻乃"
+    },
+    {
+      "name": "若槻めぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=若槻めぐみ"
+    },
+    {
+      "name": "宫藤レイコ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=宫藤レイコ"
+    },
+    {
+      "name": "高仓梨奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=高仓梨奈"
+    },
+    {
+      "name": "下妻恭子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89098&name=下妻恭子"
+    }
+  ]
+};

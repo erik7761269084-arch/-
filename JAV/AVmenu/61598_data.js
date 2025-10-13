@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/10/109a69d0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61598,
+  "IDcode": "NAMH-039",
+  "title": "実はナマが好き！久々の真正中出し 本気汁ザーメン子宮に注入8発 木下ひまり",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "第一人称摄影",
+    "苗条",
+    "泳装",
+    "乳房",
+    "纪录片",
+    "角色扮演者",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61598",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61598&name=木下日葵"
+    }
+  ]
+};

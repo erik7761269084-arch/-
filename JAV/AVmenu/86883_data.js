@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230213/5EUuAb65/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86883,
+  "IDcode": "CJOD-257",
+  "title": "帰省先で再会した下品おばさん二人とまさかの相部屋。W巨乳に挟まれながら密着汗だくで痴女られた僕。 真木今日子 本真ゆり",
+  "publish_date": "2020-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86883",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86883&name=真木今日子"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86883&name=本真友里"
+    }
+  ]
+};

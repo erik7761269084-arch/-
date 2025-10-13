@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230129/09B04643914F9A0A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99287,
+  "IDcode": "DNIA-005",
+  "title": "女殺淫縛蟻地獄 第五幕:奴隷堕ち女社長の悲惨！！淫壺痙攣狂おしく 井上綾子",
+  "publish_date": "2018-03-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "捆绑",
+    "羞耻",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dnia005/dnia005pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99287",
+  "actresses": [
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99287&name=井上綾子"
+    }
+  ]
+};

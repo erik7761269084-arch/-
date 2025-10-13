@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39555,
+  "IDcode": "249312B8FDEA785CA6BD7D65E61E38E9",
+  "title": "韩国影视圈潜规则偷  26",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39555",
+  "actresses": []
+};

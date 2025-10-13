@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230131/C99C219191055141/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99149,
+  "IDcode": "XVSR-511",
+  "title": "本気で赤面する、美少女の放尿！！涼宮琴音",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "放尿",
+    "潮吹",
+    "羞耻",
+    "饮尿",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99149",
+  "actresses": [
+    {
+      "name": "凉宫琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99149&name=凉宫琴音"
+    }
+  ]
+};

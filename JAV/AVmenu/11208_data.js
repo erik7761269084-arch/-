@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1dbf96ca-f34f-40d1-9c7f-5d6d27865e86/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11208,
+  "IDcode": "DASS-476",
+  "title": "回鄉的巨乳青梅竹馬是個雞巴癮妹子！ ？同一個屋檐下，生命的每一秒都被擠壓到了極致 ~ 弓乃凜夢",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "艷遇",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "DASS-476为DASDAS出品,2024年10月22日发行的有碼成人影片由弓乃凜夢出演\n我無法向一直深愛的青梅竹馬諾裡穆（Norimu）表白，但我從學校畢業後搬到了東京接受高等教育，最後在家鄉找到了工作。一年後，Rimu作為一個高曝光的蕩婦回到了家鄉。他在路邊碰巧遇見了我媽媽，回家比較困難，她就決定要住在我家。呃，我和這個極度色情的Rimu住在一起…！ ？然而，Rimu在被壞男人抓住後似乎過著混亂的生活，而且她已經沉迷於性，所以她鎖定了我附近的雞。插入當然是原始的。她即將帶著蓬鬆的乳交而升入天堂。精子產生無法跟上的強烈射精。當他們一次又一次的連結時，莉夢的真情從她的口中溢出…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017091132417417.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017091132417417.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11208",
+  "actresses": [
+    {
+      "name": "弓乃凜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/7ef82648-f7c1-46ba-baf9-63897e0d05e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11208&name=弓乃凜夢"
+    }
+  ]
+};

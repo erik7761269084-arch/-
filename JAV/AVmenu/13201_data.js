@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d8d91459-0c68-4fd2-9082-635ed9118b36/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241019/fBZPKsmP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13201,
+  "IDcode": "ROE-244",
+  "title": "和最愛的女兒的男友做愛了，陷入超級大痙攣的性交中不能自拔 ~ 一色桃子",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "家庭主妇",
+    "劇情",
+    "蕩婦",
+    "岳母",
+    "自宅",
+    "不倫",
+    "慾求不滿",
+    "人妻",
+    "巨乳",
+    "熟女"
+  ],
+  "description": "ROE-244为MADONNA出品,2024年7月23日发行的有碼成人影片由一色桃子出演\n就在她懷上女兒 Haru 的時候，她當時正在約會的男人，也就是她的丈夫，卻再也沒有她的消息了。在過去的20年裡，我一直在努力確保我的女兒不會因為單親媽媽而受苦。女兒大學畢業，找到工作，結婚，前途一片光明。有一天，我突然和女兒的男友發生了關係。與他對女兒的愛意相反，他無法控制迄今為止一直壓抑的慾望，並被一種電流穿過全身的麻木感襲擊。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719005759667667.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240719/20240719005759667667.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13201",
+  "actresses": [
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13201&name=一色桃子"
+    }
+  ]
+};

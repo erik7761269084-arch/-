@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/3eFBKPzK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79644,
+  "IDcode": "MISM-209",
+  "title": "最狂イラマチオ秘書 W喉凹献身SP 塩見彩 一条みお",
+  "publish_date": "2021-08-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "4小时以上作品",
+    "淫乱，真实",
+    "秘书",
+    "滥交",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79644",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79644&name=一条美绪"
+    },
+    {
+      "name": "塩见彩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79644&name=塩见彩"
+    }
+  ]
+};

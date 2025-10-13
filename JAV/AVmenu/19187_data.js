@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0dced2d4-fcfe-41dd-b09c-668d9fb254a7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/16/4da327b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19187,
+  "IDcode": "IPX-266",
+  "title": "如果天海翼被同鄉好友告白求婚會如何？",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "業餘",
+    "巨乳",
+    "偷窺",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230630/20230630011822749749.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230630/20230630011822749749.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19187",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19187&name=天海翼"
+    }
+  ]
+};

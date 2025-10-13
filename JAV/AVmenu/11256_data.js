@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c93b7247-1b8a-4173-b0c3-ad77f8133f6b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11256,
+  "IDcode": "SUJI-251",
+  "title": "背德做愛興奮感倍僧 - 禁斷兄妹近親相奸 ~ 希咲那奈",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "姐弟・兄妹",
+    "美少女",
+    "清純",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "SUJI-251为妄想族出品,2024年10月15日发行的有碼成人影片由希咲那奈出演\n乾淨俐落、透明度出眾的美少女！皮膚白皙，身材修長，光滑，小胸身材！渴望小乳房和光滑的剃光陰部！誘惑和迷茫刺激雞巴！我的胯部一定會因為姊姊的誘惑而勃起的！透過中出連結的兄妹之間的禁忌關係！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241013/20241013075151530530.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241013/20241013075151530530.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11256",
+  "actresses": [
+    {
+      "name": "希咲那奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/086f8b77-17a0-4642-89e6-3195cc2eeb35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11256&name=希咲那奈"
+    }
+  ]
+};

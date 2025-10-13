@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220807/CmsVz5gM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81240,
+  "IDcode": "MAD-009",
+  "title": "膣乳崩壊拷悶制裁 依頼リスト1件目",
+  "publish_date": "2008-12-02",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "拘束",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/1366c74dae1bf425d38639e0c401a5ed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81240",
+  "actresses": []
+};

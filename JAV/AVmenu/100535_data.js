@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230823/8Y87f3gz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100535,
+  "IDcode": "HJMO-516",
+  "title": "蟹腿肛門愛撫忍耐遊戲",
+  "publish_date": "2022-12-16",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "潮吹",
+    "舔阴",
+    "肛交",
+    "巨大阴茎",
+    "秘书"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hjmo516/hjmo516pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100535",
+  "actresses": []
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4bd1a661-7b30-4dca-aa59-cb9ab6436daa/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/07/0efb2c34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16100,
+  "IDcode": "JUQ-581",
+  "title": "在產科診所偶遇一名學生時代曾實施性騷擾的老師。從那天起，我就注定成爲性寵物……広瀬ゆり",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "淫亂",
+    "絕頂高潮",
+    "凌辱",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "飯店"
+  ],
+  "description": "JUQ-581为MADONNA出品,2024年2月27日发行的有碼成人影片由廣瀨百合出演\n結婚幾年後，有一天我們的幸福生活徹底改變了。我丈夫的商務車出了事故，後遺症被迫接受長期治療。只剩下一大筆賠償金和房子的抵押……無奈，我只能晚上去商店打工。然後，我又遇到了性騷擾老師春日，仿佛在嘲笑我，繼續忍受着幾天的屈辱。一開始，春日假裝沒注意到，但到了比賽快結束的時候，他開始威脅我，好像他變了一樣。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224070436985985.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240224/20240224070436985985.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16100",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16100&name=廣瀨百合"
+    }
+  ]
+};

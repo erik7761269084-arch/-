@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f028581-e295-4bcc-946d-7e7ef1b7a641/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220417/1FE3898ABA03BD42/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 944,
+  "IDcode": "HEYZO-1195",
+  "title": "和保母操到生小孩吧 - 桐原莉那",
+  "publish_date": "2016-06-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "女僕",
+    "後入",
+    "69",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "裸體圍裙",
+    "騎乗位",
+    "家政婦",
+    "性感",
+    "打手槍",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HEYZO-1195为HEYZO出品,2016年6月24日发行的無碼成人影片由桐原莉那出演\n和保母肏到生小孩吧 - 桐原莉那",
+  "cover_url": "https://picture.yoshiclub.xyz/20240327/fa373a7a-a7cf-4713-a739-f54f2bef72a6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240327/fa373a7a-a7cf-4713-a739-f54f2bef72a6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=944",
+  "actresses": [
+    {
+      "name": "桐原莉那",
+      "img_url": "https://picture.yoshiclub.xyz/20240327/9a449df8-b826-4d83-aa9f-a62b6a3117ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=944&name=桐原莉那"
+    }
+  ]
+};

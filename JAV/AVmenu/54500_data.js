@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54500,
+  "IDcode": "4B2E4F8A7C3D3192DB82A274241D2D53",
+  "title": "已婚妇女_个人拍摄",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54500",
+  "actresses": []
+};

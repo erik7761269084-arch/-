@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/18/a5959b3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73626,
+  "IDcode": "HODV-21942",
+  "title": "愛しの剛毛ま〇こ美熟女",
+  "publish_date": "2025-01-24",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/18/ece6a84d197334fe60e2123634413543.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73626",
+  "actresses": []
+};

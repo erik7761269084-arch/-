@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/zLuC4USg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79799,
+  "IDcode": "FSDSS-294",
+  "title": "イキすぎておかしくなるぅ…追撃ピストンで意識が飛ぶほど連続絶頂 川北メイサ",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "多P",
+    "女上位",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/e61263cd83c191840a1d1ad7a3d6ca2b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79799",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79799&name=鳳美優"
+    }
+  ]
+};

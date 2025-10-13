@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/10/a4b5e827/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106161,
+  "IDcode": "SSIS-617",
+  "title": "徹底焦らしとお漏らし射精で賢者タイム一切無し！無限に射精できるルーインドオーガズムエステ miru （ブルーレイディスク）",
+  "publish_date": "2023-02-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "潮吹",
+    "手淫",
+    "美容院",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106161",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106161&name=Miru"
+    }
+  ]
+};

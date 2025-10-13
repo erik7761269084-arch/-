@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241017/2PVekUlq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93910,
+  "IDcode": "PRIN-017",
+  "title": "【同人AV】DOJIN第2号【完全手作りエロビデオ】世界遺産クラスの超美巨乳【男装コスガチレイヤー】オイルまみれ串刺し膣ボコ【雑魚アクメ】",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "眼镜",
+    "巨乳",
+    "业余",
+    "角色扮演者",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/b539dd953c127c10653962d1cd28f913.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93910",
+  "actresses": []
+};

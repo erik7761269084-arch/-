@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/19/4325c11b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105042,
+  "IDcode": "ADN-017",
+  "title": "好想被你愛。 小川阿佐美",
+  "publish_date": "2014-04-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "凌辱",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/19/ae95fbc8fc708809c579cbee93d13af2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105042",
+  "actresses": [
+    {
+      "name": "小川阿佐美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fd4524ae-7d4e-4c7f-95a4-8588935c2861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105042&name=小川阿佐美"
+    }
+  ]
+};

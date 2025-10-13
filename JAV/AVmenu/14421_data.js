@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0399c4ca-d931-4fe8-8e8d-d318cd61df93/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14421,
+  "IDcode": "MGMQ-133",
+  "title": "受虐感性診所的蕩婦護士在醫院給男人的肛門 做檢查 八乃翼",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "少女",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240526/c94833a3-4b32-436e-8b0d-e94697063089.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240526/c94833a3-4b32-436e-8b0d-e94697063089.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14421",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14421&name=八乃翼"
+    }
+  ]
+};

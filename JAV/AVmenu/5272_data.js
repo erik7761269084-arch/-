@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c0fb7fa7-21de-4396-88e5-54ca0fcedf60/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/28f402b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5272,
+  "IDcode": "MXGS-1385",
+  "title": "濕吻狂熱唾液流淌，寸止挑逗射精控制 ~ 波多野結衣",
+  "publish_date": "2025-06-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "色白",
+    "性感睡衣",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "打手槍",
+    "口爆",
+    "多P",
+    "單體作品",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "女優",
+    "芸能人"
+  ],
+  "description": "MXGS-1385为MAXING出品,2025年6月16日发行的有碼成人影片由波多野结衣出演\n波多野結衣這小妖精用她那性感的嘴唇和舌頭，狂熱濕吻，口技超讚，手活更是讓人慾罷不能，騎乘位一次次挑逗，寸止控制簡直玩得飛起！最後還有3P大戲，射精控制的最終結果會怎樣？快來看看這刺激的場面啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250615/20250615201031583583_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250615/20250615201031583583_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5272",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5272&name=波多野结衣"
+    }
+  ]
+};

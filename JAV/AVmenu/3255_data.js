@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f9590115-6c3a-4238-bd8b-5de8645e780f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/e3663891/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3255,
+  "IDcode": "START-402",
+  "title": "跟討厭的同事酒後一夜情發現尺寸超合拍爽到人生巔峰忍不住再戰幾回 ~ 本庄鈴",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "酒醉",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "酒後亂性",
+    "傲嬌",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "飯店"
+  ],
+  "description": "START-402为SOD出品,2025年8月25日发行的有碼成人影片由本庄鈴出演\n铃和悠也这两个同事，工作风格完全对立，平时互相看不顺眼。某天晚上跟客户聚餐错过末班车，铃无奈只能去悠也家借宿。两人喝着酒，从工作聊到荤段子，互相diss到火气上来，铃突然挑衅说：“你那么会说，要不试试看？”结果一发不可收拾，尺寸完美契合，爽到灵魂出窍，明明不咋喜欢对方，却忍不住一而再再而三地开战，简直上头！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212139331331_69808_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212139331331_69808_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3255",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3255&name=本庄鈴"
+    }
+  ]
+};

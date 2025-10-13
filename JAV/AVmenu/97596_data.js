@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220404/37BCF6CDF74C02D2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97596,
+  "IDcode": "MDTM-431",
+  "title": "帰宅部系女子校生まこの中出し調教 柳川まこ",
+  "publish_date": "2018-10-26",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "乳房",
+    "调教",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97596",
+  "actresses": [
+    {
+      "name": "柳川まこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97596&name=柳川まこ"
+    }
+  ]
+};

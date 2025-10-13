@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8c699e7-0504-46e3-bd39-0ab192971dbb/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/23/3b2d541b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5634,
+  "IDcode": "FOCS-252",
+  "title": "G杯騷貨超棒身材工廠妹 用身體賠罪淪爲社長的肉便器 覺醒祕密M屬性 ~ 佐山由依",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "巨尻",
+    "超爆乳",
+    "調教",
+    "傲嬌",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "美少女電影",
+    "謝罪",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "FOCS-252为妄想族出品,2025年5月30日发行的有碼成人影片由佐山由依出演\n由依高中畢業後一直在本地倉庫認真打工，沒想到某天工作中犯下大錯，被迫和少東——也就是老闆的兒子對質。這個少東早就對由依心懷不軌，常常搞些騷擾小動作，這次更是趁機提出用身體換取原諒。由依無力反抗，只好獻上自己，從此以後，少東幾乎每天都纏著她，迷戀她那隱藏的G杯火辣身材，把她當作私人玩物，逐漸讓她覺醒了M屬性，陷入無法自拔的秘密關係……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175833907907_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175833907907_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5634",
+  "actresses": [
+    {
+      "name": "佐山由依",
+      "img_url": "https://picture.yoshiclub.xyz/20241012/25cf31aa-7295-42b2-a1db-9fb5e2e490a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5634&name=佐山由依"
+    }
+  ]
+};

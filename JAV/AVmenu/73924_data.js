@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250107/cMaFajrJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73924,
+  "IDcode": "JUY-925",
+  "title": "マドンナ専属 神宮寺ナオ×珠玉の寝取られドラマ 最強のコラボレーション！！ 夫の上司に犯され続けて7日目、私は理性を失った…。",
+  "publish_date": "2019-08-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73924",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73924&name=神宫寺奈绪"
+    }
+  ]
+};

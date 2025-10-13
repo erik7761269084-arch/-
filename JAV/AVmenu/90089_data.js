@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240111/VeP0AkyE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90089,
+  "IDcode": "QRDC-034",
+  "title": "2023 クィーンロード 年間BEST10",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "SM",
+    "女同性恋",
+    "肛交",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240112-1/9b53bdf17d1182fcf1308c671cab0aa9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90089",
+  "actresses": [
+    {
+      "name": "HOTARU",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=HOTARU"
+    },
+    {
+      "name": "辰神丽子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=辰神丽子"
+    },
+    {
+      "name": "槐モナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=槐モナ"
+    },
+    {
+      "name": "虹邑みなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=虹邑みなみ"
+    },
+    {
+      "name": "RURIKO",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=RURIKO"
+    },
+    {
+      "name": "星名千聖",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=星名千聖"
+    },
+    {
+      "name": "妖湖",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90089&name=妖湖"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241016/1gysdG0S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93813,
+  "IDcode": "PIYO-201",
+  "title": "生まれて初めてのお尻。オフパコ（肛門中出し）撮影会。 パンティとチェキ付き",
+  "publish_date": "2024-07-11",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "高中女生",
+    "中出",
+    "肛交",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/0d5e0d38e671808ed156e33d7a47bba8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93813",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93813&name=千石もなか"
+    }
+  ]
+};

@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/397a9076-fef4-40ab-be05-96874af37c73/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14085,
+  "IDcode": "YMDD-385",
+  "title": "GIN GIRA GAL 肛交女怪盜的肉棒串刺制裁！雖然是被強奸……但巨大的高潮潮水泛濫！ 乙愛麗絲 望月綾香",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "肛交",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "性虐癖",
+    "調教",
+    "臀控",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "女賊",
+    "性感",
+    "少女",
+    "輪姦",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "奇聞趣事",
+    "巨乳",
+    "女間諜・特工",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "YMDD-385为桃太郎映像出版出品,2024年6月4日发行的有碼成人影片由乙愛麗絲，望月綾香出演\n身穿性感緊身衣的神秘女賊綾香潛入一家非法投資研討會公司竊取 10 億日圓。然而，這卻是一場抓捕女怪盜的陷阱……兩人被束縛，接受著全身每一寸，甚至臀部的羞辱審訊……儘管拼命反抗，他們的陰戶逐漸變得柔軟，愛汁滴落，雞巴被擰進嘴裡，抽泣著，陰戶被強行插入“請拔出！請幫幫我！”最後，粗大的雞巴高高地插在肛門裡。流口水和乞討。她同時插入陰戶和肛門，因嚴酷的審訊而精神崩潰！她被如此猛烈地插入，以至於肛門變成了一朵玫瑰花，她尖叫著並潮吹。進一步的貓肛門折磨繼續為被捕獲的女怪盜",
+  "cover_url": "https://picture.yoshiclub.xyz/20240602/20240602034321283283.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240602/20240602034321283283.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14085",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14085&name=乙愛麗絲"
+    },
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14085&name=望月綾香"
+    }
+  ]
+};

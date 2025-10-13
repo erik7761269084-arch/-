@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/25/7a7756b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100852,
+  "IDcode": "MKMP-526",
+  "title": "生徒会の痴女J系3人組が学園中の男をヨダレたっぷりな舐めまわしでイジメる小悪魔ハーレムSchool！！",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "淫语",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100852",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100852&name=森日向子"
+    },
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100852&name=加藤桃香"
+    },
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100852&name=小栗操"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100852&name=ナイアガラ翔"
+    }
+  ]
+};

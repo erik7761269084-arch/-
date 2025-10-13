@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/38791A9160C54A52/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97442,
+  "IDcode": "SHKD-622",
+  "title": "まだまだ犯し足りない女 織田真子",
+  "publish_date": "2015-06-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "凌辱",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd622/shkd622pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97442",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97442&name=織田真子"
+    }
+  ]
+};

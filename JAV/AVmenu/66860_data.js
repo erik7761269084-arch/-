@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/72KELUJj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66860,
+  "IDcode": "ALDN-112",
+  "title": "抱きたい元嫁 成宮いろは",
+  "publish_date": "2023-01-07",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/6d18e3aa9103a234310a42012483f580.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66860",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66860&name=成宫いろは"
+    }
+  ]
+};

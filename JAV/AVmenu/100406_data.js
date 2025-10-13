@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230726/zsBNnxd8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100406,
+  "IDcode": "DDFF-025",
+  "title": "撿拾離家少女 沙月惠奈",
+  "publish_date": "2022-12-17",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "制服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100406",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100406&name=沙月惠奈"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100406&name=鲛岛"
+    }
+  ]
+};

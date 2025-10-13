@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/019708da-5e3e-40f2-9e1d-8782a9a234e2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/11/28f40fcd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15446,
+  "IDcode": "PRED-673",
+  "title": "黏糊糊的惡心老男人 強奸漂亮美腿星宮一花 調教成肉便器 ~ 星宮一花",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "空姐制服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "多P",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "空姐",
+    "按摩棒",
+    "美少女電影"
+  ],
+  "description": "PRED-673为PREMIUM出品,2024年4月16日发行的有碼成人影片由星宮一花出演\nHoshimiya 是一家 CA，其公司因經濟衰退而被迫合併。一位中年男子，我們正在合併的公司的一名高管，命令我為他提供身體服務，並強迫我與他發生性關係。為了公司的未來，別無選擇，只能服從，待客訓練重複進行。喜歡名貴女人的美腿大屁股的老爹技術，讓他一次次瘋狂。即使她心裡不喜歡，她的身體也會自動記住雞巴服務的樂趣。持續不斷的中出訓練。她的褲襪和自尊被撕成碎片，她被強暴了。人見人愛的CA，淪落為肉小便池服務生的角色…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412220429722722.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412220429722722.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15446",
+  "actresses": [
+    {
+      "name": "星宮一花",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/4e7a483e-d339-49ef-a233-7e39adb61a1b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15446&name=星宮一花"
+    },
+    {
+      "name": "星宫一花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15446&name=星宫一花"
+    }
+  ]
+};

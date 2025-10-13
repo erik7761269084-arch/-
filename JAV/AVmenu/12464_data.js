@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f178b40-827c-4c5c-843b-fbb9a69dc4f6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/19/bf224a3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12464,
+  "IDcode": "FSDSS-866",
+  "title": "女大學生在打兼職工時被極度高潮騷擾，投訴後卻被男子強奸 ~ 三葉千春",
+  "publish_date": "2024-09-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "猥亵",
+    "巨尻",
+    "咖啡店",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "服務生",
+    "性騷擾",
+    "少女",
+    "美腳",
+    "美少女",
+    "女同事",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "FSDSS-866为FALENO出品,2024年9月26日发行的有碼成人影片由三葉千春出演\n千春是一名在咖啡館工作的普通女大學生。一切都很正常，直到那個男人吸引了我的注意。為了對千春為所欲為，該男子向她膽怯的男友抱怨，並強迫他向顧客提供與她的性愛影片。千春在性愛影片中被幹。儘管在店內，她仍受到持續且極端的騷擾。當她經過時，她的臀部被觸摸和摩擦，她被帶到商店的盲點，被迫一遍又一遍地射精，直到達到高潮。在商店裡被操並口交的性愛潮吹。事情還沒結束，千春卻在店裡一次又一次被玷污，再也無法回歸正常的生活。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240823/202408232321579999.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240823/202408232321579999.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12464",
+  "actresses": [
+    {
+      "name": "三葉千春",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/51009324-7de1-4178-86c6-3fe5156678ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12464&name=三葉千春"
+    }
+  ]
+};

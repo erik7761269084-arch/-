@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/10/ee1f0be6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72817,
+  "IDcode": "NGOD-250",
+  "title": "【FANZA限定】出所直後の巨根男に自宅に居座られ服役中に溜まりまくった精子を夫の目の前で明け方まで何発もぶち込まれた妻 乃木絢愛 チェキ付き",
+  "publish_date": "2025-02-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "巨大阴茎",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72817",
+  "actresses": []
+};

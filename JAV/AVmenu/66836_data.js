@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/25/d9576e71/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66836,
+  "IDcode": "HBAD-653",
+  "title": "他人棒に興奮する若妻の浮気が近親者のお仕置き性交に異常に興奮し咽び泣く若妻の性 音羽美波",
+  "publish_date": "2023-03-09",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "戏剧",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/0fed935cc124ebba1d8de67399a7d76f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66836",
+  "actresses": [
+    {
+      "name": "音羽美波",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66836&name=音羽美波"
+    }
+  ]
+};

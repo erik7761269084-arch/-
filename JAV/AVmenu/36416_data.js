@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/E00B11880F6F3C21/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36416,
+  "IDcode": "69E921B42DA5DF131BB41CE4D434D4C-9",
+  "title": "真实高倍偷拍丛林里一对打野战的情侣-高清720p",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36416",
+  "actresses": []
+};

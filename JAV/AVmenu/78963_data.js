@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/GW6rBl39/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78963,
+  "IDcode": "MEYD-558",
+  "title": "- 元水着カタログモデル人妻になった今も変わらない極細スリムボディで5年ぶりのセックス浜辺三愛33歳AVデビュー - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "已婚妇女",
+    "高",
+    "苗条",
+    "首次亮相",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78963",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78963&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78963&name=玉木玲"
+    },
+    {
+      "name": "浜辺三爱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78963&name=浜辺三爱"
+    }
+  ]
+};

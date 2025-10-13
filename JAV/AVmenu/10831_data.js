@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0272b4af-5419-46f9-8eb6-de52421aa7a0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10831,
+  "IDcode": "BAB-146",
+  "title": "還是個新人，濃厚的密室性愛大汗淋漓&媚藥！~ 小阪ひまり",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "巨乳",
+    "猥褻穿著",
+    "抹油",
+    "美少女電影",
+    "COSPLAY服飾",
+    "豐滿",
+    "女優"
+  ],
+  "description": "BAB-146为妄想族出品,2024年11月5日发行的有碼成人影片由小坂ひまり出演\n一個變態女孩用電動按摩器撫摸自己，同時從後面擠壓她巨大的乳房，在一個充滿陰戶氣味的封閉房間裡流汗，並進行原始性交和體內射精，這是懷孕所必需的。她被客觀地拍攝到與一隻擁有巨大雞巴的野獸發生性關係，搖晃著她色情的胸部，一邊尖叫一邊尖叫。用我最喜歡的生雞巴口交和乳交大量射精",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/202411041055177575.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/202411041055177575.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10831",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10831&name=小坂ひまり"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56879,
+  "IDcode": "F70AE79DDAECADE32FA5C1FFFE20F064",
+  "title": "从顺女仆要选哪个？ -让人展示两位好色女仆的奉仕玩法！ - 日向瑠娜 宫泽沙织",
+  "publish_date": "",
+  "type": "无码",
+  "company": "DREAMTICKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56879",
+  "actresses": []
+};

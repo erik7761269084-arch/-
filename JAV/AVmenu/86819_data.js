@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/07/04/ed527406/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86819,
+  "IDcode": "CJOD-247",
+  "title": "逆4P痴女テクでイカせてやんよ！ 波多野結衣が男潮を吹かせながら乳首責めで大槻ひびきが絶頂させトドメのアナル責めで蓮実クレアが●す 完全射精フォーメーション",
+  "publish_date": "2020-06-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86819",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86819&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86819&name=大槻响"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86819&name=蓮実クレア"
+    }
+  ]
+};

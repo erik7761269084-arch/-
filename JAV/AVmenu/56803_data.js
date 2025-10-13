@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56803,
+  "IDcode": "2479C06554B36A1898F0AD21861D0EA7",
+  "title": "人気现役コスプレイヤーの正体★自らお〇されにきた敏感肌のアクメSEX",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56803",
+  "actresses": []
+};

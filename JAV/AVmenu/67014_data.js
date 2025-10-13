@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/f653e214/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67014,
+  "IDcode": "SHIND-099",
+  "title": "色狂い隠撮魔Wの二人同時パパ活記録＃55・56",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "业余",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67014",
+  "actresses": []
+};

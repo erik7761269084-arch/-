@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56436,
+  "IDcode": "F492C330E56ECE863CC11E1D7C4420A3",
+  "title": "顔射されたザーメンを一滴残らず味わう娘",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56436",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/2lG8NdxC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74356,
+  "IDcode": "MIAA-066",
+  "title": "監禁人質になって96時間、犯人を好きになってしまった私は… 黒川すみれ",
+  "publish_date": "2019-05-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "监禁",
+    "乳房",
+    "拘束",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250109-1/c9375a7be56883db2f26d697ccc54d33.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74356",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74356&name=黑川堇"
+    }
+  ]
+};

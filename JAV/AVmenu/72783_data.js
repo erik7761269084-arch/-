@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/a0c950e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72783,
+  "IDcode": "BUR-630",
+  "title": "そんな大声出したらお母さんや彼氏にバレちゃうよ？「近所の女の子・姉・教え子・娘」たちに猥褻淫交4時間",
+  "publish_date": "2025-02-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "无毛",
+    "女生",
+    "瘦小身型",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72783",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240409/nVV07WC7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59118,
+  "IDcode": "HEYZO-3283",
+  "title": "マッチングアプリでゲットした絶倫人妻とヤリまくった件 - 井上美代",
+  "publish_date": "2024-03-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "淫荡手淫",
+    "背后插入",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "出轨",
+    "熟女",
+    "美乳",
+    "白虎",
+    "苗条",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59118",
+  "actresses": [
+    {
+      "name": "井上美代",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59118&name=井上美代"
+    }
+  ]
+};

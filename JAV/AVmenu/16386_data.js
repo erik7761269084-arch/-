@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0105b5c-9d69-497e-be92-0d5d10a5ec73/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16386,
+  "IDcode": "SONE-066",
+  "title": "互換體液，激烈的性愛，完全未剪輯的3本番特輯",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "口交",
+    "性感",
+    "慾求不滿",
+    "內衣",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "SONE-066为S1出品,2024年2月13日发行的有碼成人影片由逢澤美優出演\n美麗、光彩、清純的偶像“逢澤美優”專屬的第三作是“體液匹配，激烈的性愛”系列。從進入酒店的那一刻起，就互相對視，互相擁抱，肢體和舌頭猥褻地糾纏在一起。體液和愛的汁液從裸露的身體上溢出、滴落。本能地尋找陰莖，他猛烈地攻擊和防御。美少女一次又一次的射精，讓你感受到成年人的魅力。請享受從偶像到AV女優進化而來的激烈而嚴肅的性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240209/20240209081620867867.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240209/20240209081620867867.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16386",
+  "actresses": [
+    {
+      "name": "逢澤美優",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16386&name=逢澤美優"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220420/2A3EB8199B4509F1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97742,
+  "IDcode": "JMD-134",
+  "title": "「無言不倫旅」 わたし、悪いママだよね…また先生に抱かれるね 倉多まお",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97742",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97742&name=仓多真央"
+    }
+  ]
+};

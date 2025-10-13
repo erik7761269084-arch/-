@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/BCRoPcZ0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82007,
+  "IDcode": "SOAN-046",
+  "title": "お嬢様ロリ少女が肛則違反の学校FUCK！鬼畜チ●ポで腸内をかき回されアナル3Pでくぱくぱよがり狂い従順な尻穴ペット堕ち！！まりえちゃん",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "多P",
+    "肛交",
+    "瘦小身型",
+    "二穴同时挿入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/2dcec0205bdc178a0cee99361a653bb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82007",
+  "actresses": []
+};

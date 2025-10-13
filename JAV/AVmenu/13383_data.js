@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/218c389f-fbe2-4625-aaec-687a249a5156/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13383,
+  "IDcode": "HMN-588",
+  "title": "我想成爲AV女優！想和AV男優進行各種各樣的性愛！朋友的妹妹（現任女大學生）中出AV首次亮相！ ~ 片寄しゅうか",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "美乳",
+    "拘束・拷問",
+    "女上位",
+    "素人",
+    "口交",
+    "性感",
+    "少女",
+    "出道作品",
+    "女學生",
+    "女優"
+  ],
+  "description": "HMN-588为本中出品,2024年7月16日发行的有碼成人影片由片寄しゅうか出演\n一位性慾強烈、有時會因為性行為過多而發生異性的色情女大學生來到了崩壞！ ！這一切都是從導演熟人的妹妹聯絡我說「我妹妹想出演AV」開始的。 ，一看就會發現是個看起來很可愛的女孩。身高167cm，擁有E罩杯的美乳。她似乎也很喜歡責怪男人，而且她的方式很色情！這是我的處女作，但我很想做各種性愛，甚至還進行了中出性愛！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712011044481481.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712011044481481.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13383",
+  "actresses": [
+    {
+      "name": "片寄しゅうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/c96e9b68-62a1-4fbf-a0be-7e6d85c36fd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13383&name=片寄しゅうか"
+    }
+  ]
+};

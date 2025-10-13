@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd861077-9992-434a-9213-c77d9673cf9f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/6cf4e47c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16097,
+  "IDcode": "JUQ-585",
+  "title": "想讓我的妻子承認對她的愛，讓她和我的後輩同事獨自呆了三個小時......我的NTR故事，講述了我的妻子如何被偷走，總共17次陰道射精鏡頭而沒有退出",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "胸控・戀乳癖",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-585为MADONNA出品,2024年2月27日发行的有碼成人影片由木村玲衣出演\n他在一家大公司擔任總經理，幾年前與他美麗的妻子麗結婚，麗是一名前接待員。這就是我們所說的“幸福”是指一帆風順的婚姻生活。我崇拜的師弟左吉，是個比我年長的乖僻素人處女。我邀請他到我家吃飯，與他分享他的快樂。他喝得酩酊大醉，提議道：“讓麗和我一起體驗一下僞情侶吧”，然後就離開了這裏，但是……從那天起，兩人的關系就變得詭異地疏遠了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224075414678678.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240224/20240224075414678678.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16097",
+  "actresses": [
+    {
+      "name": "木村玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/35786888-8b37-45da-97c6-2999e70b9b71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16097&name=木村玲衣"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16097&name=左慈半造"
+    }
+  ]
+};

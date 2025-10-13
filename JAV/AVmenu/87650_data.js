@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/2nyhfWWQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87650,
+  "IDcode": "SSIS-781",
+  "title": "亀頭・竿・玉をねっとり焦らして極大射精させてくれる究極スローオナニーサポート 小島みなみ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "潮吹",
+    "薄马赛克",
+    "手淫",
+    "接吻",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87650",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87650&name=小島南"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87650&name=小田切ジュン"
+    }
+  ]
+};

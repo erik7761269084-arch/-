@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/9f2c9cf5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66606,
+  "IDcode": "SVGAL-018",
+  "title": "童貞チ●ポにロックオン！デカ尻お姉ちゃんに誘惑されて中出しし放題気持ちよすぎる夢のような筆下ろし小野坂ゆいか",
+  "publish_date": "2025-06-12",
+  "type": "有码",
+  "company": "ChuChuGirl",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇",
+    "乱伦",
+    "口交",
+    "手淫",
+    "接吻",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66606",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66606&name=小野坂唯香"
+    }
+  ]
+};

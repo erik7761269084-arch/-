@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/07/0ab2206e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105516,
+  "IDcode": "PPPE-198",
+  "title": "楪カレン中出し大乱交解禁SPECIAL",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "乳液",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105516",
+  "actresses": [
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105516&name=七尾神"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105516&name=まーち"
+    },
+    {
+      "name": "だやま",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105516&name=だやま"
+    }
+  ]
+};

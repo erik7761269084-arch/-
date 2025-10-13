@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240111/8b5BktNd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90057,
+  "IDcode": "RBK-077",
+  "title": "マゾに堕ちていく私…もう戻れない。 一条みお",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "SM",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90057",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90057&name=一条美绪"
+    }
+  ]
+};

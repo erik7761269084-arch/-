@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221229/hXyVWXZi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83630,
+  "IDcode": "MGDN-120",
+  "title": "おふくろ鉄道BEST10 240分",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "婆婆",
+    "乱伦",
+    "母亲",
+    "和服，丧服",
+    "恶作剧",
+    "浴衣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83630",
+  "actresses": [
+    {
+      "name": "真弓あずさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=真弓あずさ"
+    },
+    {
+      "name": "山本丽子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=山本丽子"
+    },
+    {
+      "name": "宇野未知子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=宇野未知子"
+    },
+    {
+      "name": "村上静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=村上静香"
+    },
+    {
+      "name": "汀しのぶ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=汀しのぶ"
+    },
+    {
+      "name": "青木椿",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=青木椿"
+    },
+    {
+      "name": "时任明菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=时任明菜"
+    },
+    {
+      "name": "东城佳苗",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83630&name=东城佳苗"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8bde94d3-c51f-42c7-9030-d68a8db08416/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/14/fc6a65dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8522,
+  "IDcode": "JRZE-230",
+  "title": "初撮人妻 ~ 久保田早苗",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "後入",
+    "企畫",
+    "老太婆",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "女上位",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "出道作品",
+    "人妻",
+    "巨乳",
+    "女優訪談",
+    "真實拍攝",
+    "熟女",
+    "紀錄片",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/3f11fc94-55e7-4113-af88-60d94fae76ea.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/3f11fc94-55e7-4113-af88-60d94fae76ea.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8522",
+  "actresses": [
+    {
+      "name": "久保田早苗",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/ff32e076-fa8e-4998-bd42-07ce4c01ff52.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8522&name=久保田早苗"
+    }
+  ]
+};

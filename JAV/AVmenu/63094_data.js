@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/01/74110b6d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63094,
+  "IDcode": "SAME-158",
+  "title": "上京まもない新人OLは、やがて激しく犯●れる。 永野鈴",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "中出",
+    "凌辱",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/d604bbdf/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63094",
+  "actresses": [
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63094&name=永野鈴"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63094&name=大岛丈"
+    }
+  ]
+};

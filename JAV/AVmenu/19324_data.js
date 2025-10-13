@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88311ebb-4d6b-48a5-aacd-3a1e73573d7a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2025/01/02/a8e91897/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19324,
+  "IDcode": "IPX-129",
+  "title": "只為真正的粉絲！粉絲感恩節！ ！與桃乃木假名一起進行18次的兩天溫泉派對之外的旅行。在不被任何人發現的情況下偷偷射出每個人的精子！ ！",
+  "publish_date": "2018-04-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "感謝祭",
+    "數位馬賽克",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230601/20230601030613667667.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230601/20230601030613667667.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19324",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19324&name=桃乃木香奈"
+    }
+  ]
+};

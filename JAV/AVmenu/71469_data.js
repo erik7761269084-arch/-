@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/RGRanEh0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71469,
+  "IDcode": "EBOD-705",
+  "title": "爆乳で話題の動画配信者AVデビュー！！ ネットで騒がれた大きなオッパイは天然もので弾力抜群！！神乳Gカップだった！！ つ●つ●ちゃん（24歳）",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "淫乱，真实",
+    "纪录片",
+    "素人作品",
+    "蒙面・面罩"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71469",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71469&name=玉木玲"
+    },
+    {
+      "name": "和泉つかさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71469&name=和泉つかさ"
+    }
+  ]
+};

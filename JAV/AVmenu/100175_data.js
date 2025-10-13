@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230316/4D8406378CE58201/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100175,
+  "IDcode": "GUN-739",
+  "title": "噂のベロチューおっパブ",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "多P",
+    "内衣",
+    "纪录片",
+    "接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/433gun739/433gun739pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100175",
+  "actresses": [
+    {
+      "name": "一之瀨戀",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/e37eadf6-69c4-4a94-af39-99a135bf0027.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100175&name=一之瀨戀"
+    },
+    {
+      "name": "菊市桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/08cbe8ab-8063-45fb-ad34-a6a14c5e6b98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100175&name=菊市桃子"
+    },
+    {
+      "name": "久保今日子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-久保今日子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100175&name=久保今日子"
+    },
+    {
+      "name": "新垣智江",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/00949eedbfe6c2d86f311be0e6adc539.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100175&name=新垣智江"
+    }
+  ]
+};

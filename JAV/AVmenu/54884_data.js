@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220518/4CF2FE1768CC76D8/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54884,
+  "IDcode": "6CBCB63234C9FBFA10F6AC26A14972EB",
+  "title": "镜头紧密接触轨迹直至普通少女成为AV女优",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54884",
+  "actresses": []
+};

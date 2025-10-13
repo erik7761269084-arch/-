@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/50c93afe-406b-4721-a6f2-bd95384f9ec8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/375b27d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7154,
+  "IDcode": "GVH-734",
+  "title": "嚴苛教育媽媽用絕倫兒子的連騎中出懲罰逆種付 ~ 若宮穗乃",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "網襪",
+    "變態",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "猥褻穿著",
+    "母子",
+    "美人",
+    "母親",
+    "熟女",
+    "眼鏡",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250329/4ab09ad3-a49a-42d8-a045-7fe6d5fc5d5b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250329/4ab09ad3-a49a-42d8-a045-7fe6d5fc5d5b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7154",
+  "actresses": [
+    {
+      "name": "若宮穂乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241209/e7f3cc00-9e68-4e42-995b-c6e9b787c913.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7154&name=若宮穂乃"
+    },
+    {
+      "name": "青沼",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7154&name=青沼"
+    }
+  ]
+};

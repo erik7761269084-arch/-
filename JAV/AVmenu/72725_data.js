@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/dff0c1fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72725,
+  "IDcode": "HEZ-760",
+  "title": "ママチャリでお買い物帰りの巨乳お母さんにヒミツのアルバイトをすすめるとエッチなお誘いにノッてきて今でも仕事のお昼休憩中に不倫しちゃってます2 12人4時間",
+  "publish_date": "2025-02-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72725",
+  "actresses": []
+};

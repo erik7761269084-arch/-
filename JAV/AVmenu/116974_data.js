@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/04e88ca7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116974,
+  "IDcode": "FC2-4723681",
+  "title": "整洁身材美女一生首次户外暴露性交",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/21/ebe3910282adcd0b2a010c16a663ebd7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116974",
+  "actresses": []
+};

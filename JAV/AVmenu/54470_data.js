@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221022/4F557170DCF30711/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54470,
+  "IDcode": "AE20CFA18A3BFA1823F24488133A150F",
+  "title": "10 分钟内达到 4 次高潮",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54470",
+  "actresses": []
+};

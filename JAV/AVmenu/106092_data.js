@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/10/a01a087e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106092,
+  "IDcode": "SCOP-643",
+  "title": "アロハー！これはピンサロなのか！？ここは日本なのか！？南国風なリゾートピンサロが都内某所に存在しているという噂が！毎度お馴染みSCOOP班が大潜入！！いつものピンサロよりもアツい！！激アツの常夏ピンサロに超密着SP！！",
+  "publish_date": "2019-08-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "泳装",
+    "礼仪小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106092",
+  "actresses": [
+    {
+      "name": "黒崎みか",
+      "img_url": "https://picture.yoshiclub.xyz/20230621/54988bd6-ecca-48a7-9226-fd8125a8b4c7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106092&name=黒崎みか"
+    },
+    {
+      "name": "管野静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106092&name=管野静香"
+    },
+    {
+      "name": "三岛奈津子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9727b9923af1f3fc59264baa0c48b31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106092&name=三岛奈津子"
+    },
+    {
+      "name": "星咲きい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106092&name=星咲きい"
+    }
+  ]
+};

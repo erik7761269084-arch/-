@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/4b69ca21/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78999,
+  "IDcode": "STARS-171",
+  "title": "- WドM奴● 拘束・調教・人体固定 鬼畜大量膣奥出しレ×プ！Special！！！！ 本庄鈴 小倉由菜 大量中出し16発！！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "潮吹",
+    "拘束",
+    "魔鬼系",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78999",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78999&name=小倉由菜"
+    },
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78999&name=本庄鈴"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78999&name=Qべぇ"
+    }
+  ]
+};

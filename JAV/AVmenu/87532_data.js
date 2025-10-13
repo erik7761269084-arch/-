@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230731/ScXxvHt5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87532,
+  "IDcode": "JYMA-025",
+  "title": "男たちに迫られ剛毛マ○コを濡らす 断りきれない肉感ボディ巨乳尻マゾ妻 デカ乳とデカ尻を責められ感じまくるM奥様 宝生めい （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87532",
+  "actresses": [
+    {
+      "name": "宝生めい",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/938134a7-6744-473d-923a-ba7db44f2d99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87532&name=宝生めい"
+    }
+  ]
+};

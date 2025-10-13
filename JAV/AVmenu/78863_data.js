@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/8d5e4622/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78863,
+  "IDcode": "DASD-615",
+  "title": "新宿で人気No.1ニューハーフ再演。 春風まゆみ",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "苗条",
+    "肛交",
+    "首次亮相",
+    "变性者"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/07cbc2888f2756c9c103c19cd46f3ad4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78863",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78863&name=森林原人"
+    },
+    {
+      "name": "春风まゆみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78863&name=春风まゆみ"
+    }
+  ]
+};

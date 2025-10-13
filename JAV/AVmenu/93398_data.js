@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/uJATLlPT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93398,
+  "IDcode": "NASK-083",
+  "title": "五十路の初脱ぎAV面接 初めて人前で股間をさらし恥ずかしいほど濡れました・・ 五十路婦人3人のいきなり中出し生本番 初出演ノンフィクションドキュメント！",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "胖女人",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93398",
+  "actresses": []
+};

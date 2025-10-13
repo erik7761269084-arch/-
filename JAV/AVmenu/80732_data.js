@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/n9AnA6Ha/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80732,
+  "IDcode": "APAK-220",
+  "title": "わたし...凄く変態です... ムチムチボディのGカップ女子学生が、絶倫パパとホテルで涎まみれのイキまくりセックス！ 天晴乃愛",
+  "publish_date": "2022-03-22",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "颜射",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0b86fef315d2a7eb3b319fb8794f14bf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80732",
+  "actresses": []
+};

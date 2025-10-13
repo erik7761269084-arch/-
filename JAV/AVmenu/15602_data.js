@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e8a09156-624c-4110-8e2d-fbc44045dee7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/11/d2e23555/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15602,
+  "IDcode": "SONE-134",
+  "title": "人妻牙科保健員，有着扭曲的性癖，用她的大奶子引誘病人 ~ 奧田咲",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "醫院・診所",
+    "色誘",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "口交",
+    "慾求不滿",
+    "護士制服",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "看病・住院",
+    "護士"
+  ],
+  "description": "SONE-134为S1出品,2024年4月9日发行的有碼成人影片由奥田咲出演\n薩基（Saki），32 歲，五年前與她的牙醫丈夫結婚，他們一起經營一家牙科診所。私立醫院很多，競爭激烈，她漸漸和丈夫無性，只在家裡和診所談工作。咲希的年齡已經成熟，性慾也更高，即使在工作中，她也會獨自在廁所自慰來緩解自己的高情緒。日常生活就像是一種堵塞，而在這種時候，一個引人注目的男人第一次來見我。咲希試著一邊壓抑自己的慾望一邊治療她，但在只有他們兩個人的考場裡，她的挫敗感失控了。當我故意讓雙乳緊密接觸時，患者不自覺地完全勃起。 「讓我狠狠地抓你......我會給你一個特殊的對待，只為了你」一個放蕩的女人與一個工作的賤人妻子關門做愛！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405060313909909.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405060313909909.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15602",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15602&name=奥田咲"
+    }
+  ]
+};

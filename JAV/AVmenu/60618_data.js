@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/21/8b67f8e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60618,
+  "IDcode": "NMSL-015",
+  "title": "オンラインゲームでイキって暴言吐きまくる兄のせいでオモチャにされた私 浦上ひのり",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "MARLOMEDIA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/21/8859fdf542729f999203f63b65bef53a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60618",
+  "actresses": []
+};

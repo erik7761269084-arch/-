@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/16/4d1a9d95/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96405,
+  "IDcode": "NNPJ-294",
+  "title": "搭訕男女好友混浴初體驗！G奶以上巨乳女大生篇 第二集",
+  "publish_date": "2018-07-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女大学生",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/15/38afd3ea917ee4ce40f4d048559485ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96405",
+  "actresses": [
+    {
+      "name": "相沢夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/1de5f1c6-0ffa-4d89-924e-44ecb752e374_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96405&name=相沢夏帆"
+    },
+    {
+      "name": "岩瀨里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/4e3f95ea-8ca7-47aa-b6bf-a6da2d154543.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96405&name=岩瀨里奈"
+    },
+    {
+      "name": "雏鹤みお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96405&name=雏鹤みお"
+    }
+  ]
+};

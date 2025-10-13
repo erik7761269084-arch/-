@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103791,
+  "IDcode": "1495-WAAA-349-",
+  "title": "公司体检打春药，惨遭邪恶男人操",
+  "publish_date": "",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103791",
+  "actresses": []
+};

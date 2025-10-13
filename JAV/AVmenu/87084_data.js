@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/ja5VyRbU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87084,
+  "IDcode": "PED-032",
+  "title": "【FANZA限定】たった7時間2人っきりにしてみたら…結果、11発セックスしてました。 藤井レイラ パンティと生写真付き",
+  "publish_date": "2023-06-30",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "女上位",
+    "姐姐",
+    "乳房",
+    "纪录片",
+    "感谢祭",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87084",
+  "actresses": []
+};

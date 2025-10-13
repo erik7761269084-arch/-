@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a4b3db7d-6574-45f3-920f-74b879c87e16/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/gROo1Lnx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14550,
+  "IDcode": "SDJS-256",
+  "title": "即使射精也能繼續受折磨的高潮展開，3次強烈高潮，助理制作人親自下海拍AV ~ 本多そら",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "AV拍攝現場",
+    "辦公室",
+    "真實拍攝",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SDJS-256为SOD出品,2024年6月1日发行的有碼成人影片由本多そら出演\n和往常一樣上班的時候，突然被告知高潮展開的工單，一頭霧水！本田能否實現連高級女員工都無法企及的發展巔峰呢？ ？拍攝從辦公室開始！她被小心地玩弄，變得黏黏的！被大量男員工圍觀，當玩具開發，羞辱MAX！最後用大雞巴4P連續活塞射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240521/d17c75a6-6226-4d4a-89c7-ba3b92630f02.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240521/d17c75a6-6226-4d4a-89c7-ba3b92630f02.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14550",
+  "actresses": [
+    {
+      "name": "本多そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/34c58f9a-2364-4dc8-b06e-e050bb72390e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14550&name=本多そら"
+    }
+  ]
+};

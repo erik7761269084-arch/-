@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11680a56-7563-4fc7-9aca-d8416e8f715d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7243,
+  "IDcode": "KNMB-097",
+  "title": "完全生幹人妻 關西美腳纖細嫩人妻 25歲~ 花裏明理",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "家庭主妇",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美人妻",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "地味",
+    "出軌",
+    "獵豔",
+    "NTR",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/44a91b92-61b2-4811-bfc7-f8fed429e4b3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/44a91b92-61b2-4811-bfc7-f8fed429e4b3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7243",
+  "actresses": [
+    {
+      "name": "花里明理",
+      "img_url": "https://picture.yoshiclub.xyz/20240809/8a43a8a1-640f-4446-9699-eda73d11dc07.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7243&name=花里明理"
+    }
+  ]
+};

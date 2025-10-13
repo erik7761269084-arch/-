@@ -1,0 +1,73 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2395,
+  "IDcode": "DJN-027",
+  "title": "身高140cm迷你貧乳美少女4P線下狂歡亂交 潮吹互噴內射高潮爽到不行 ~ 皆月光 冬愛琴音",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "MONSTERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "網襪",
+    "游戲COSPLAY",
+    "蘿莉",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "DJN-027为MONSTERS出品,2025年9月25日发行的有碼成人影片由冬愛琴音，皆月光出演\n兩個身高超迷你又超鐵的COSER小姐姐，直接開啟線下無套亂交趴！白天還在認真搞COS攝影會，一到晚上就拉著攝影師一起開戰！這對小姐姐不只愛在鏡頭前曬恩愛，還玩起了雙人高潮臉合影，閨蜜情簡直爆表！互相舔弄、一起被幹、並排高潮，潮吹噴水內射爽到炸，這兩個小隻馬貧乳COSER用最刺激的方式加深了友誼！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032104882882_86973_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032104882882_86973_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2395",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2395&name=皆月光"
+    },
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2395&name=冬愛琴音"
+    }
+  ]
+};

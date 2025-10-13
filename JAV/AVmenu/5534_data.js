@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/581b1e9d-40e2-4a91-8a78-7d3176dbd579/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/203ac8fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5534,
+  "IDcode": "IPZZ-583",
+  "title": "隨意發洩慾望的柔嫩肉感美巨乳尤物 隨叫隨到的極品炮友 ~ 瀧川蓳",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "黑絲",
+    "牛仔褲",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "SM",
+    "美腳",
+    "緊縛",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "抹油",
+    "M男・M女",
+    "約炮",
+    "美人",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "IPZZ-583为IDEA POCKET出品,2025年6月6日发行的有碼成人影片由瀧川蓳出演\n這身材真的絕了，堪稱完美的炮友！不管怎麼玩都沒問題，胸和臀隨便揉捏都不會嫌，反而越玩越high，天生就是個騷貨體質。站著後入猛力衝刺，軟嫩臀肉一抖一抖，肉浪翻滾，色氣滿滿！胸部不僅大還超有彈性，完全不垂，摸起來軟到不行，簡直是夢幻神乳！口活也是一流，直接含到底，服務滿分！這樣的炮友誰能不愛，真的太讚了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045210374374_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045210374374_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5534",
+  "actresses": [
+    {
+      "name": "瀧川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20250404/fa4d489f-50a3-4797-8d60-2612cf71cb3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5534&name=瀧川蓳"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5534&name=小田切ジュン"
+    }
+  ]
+};

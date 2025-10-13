@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240907/aYWsXrmV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92596,
+  "IDcode": "IDE-904",
+  "title": "IDE904酒力很弱卻把我叫到家中想暢飲在上司泥醉睡著的時候…和上司的妻子絕倫生插初川南。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92596",
+  "actresses": []
+};

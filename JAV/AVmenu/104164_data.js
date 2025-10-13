@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220320/3D3AEBCCC4C5A261/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104164,
+  "IDcode": "OKB-083",
+  "title": "むちむちデカ尻 神ブルマ 川原かなえ ロリ美少女やぽっちゃり娘にピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！さらに尻コキ、着衣お漏らし放尿やブルマぶっかけ、生中出し等ブルマ好きに送る完全着衣フェチAV",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "第一人称摄影",
+    "屁股",
+    "运动短裤",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104164",
+  "actresses": [
+    {
+      "name": "川原かなえ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/8c4e165e-4c65-451e-8f85-8fb641dc6705_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104164&name=川原かなえ"
+    }
+  ]
+};

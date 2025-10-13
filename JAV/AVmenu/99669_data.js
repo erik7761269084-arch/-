@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/15/e82d38f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99669,
+  "IDcode": "ADN-099",
+  "title": "あなた、許して…。-恩師との情事4- きみと歩実",
+  "publish_date": "2016-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "凌辱"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn099/adn099pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99669",
+  "actresses": [
+    {
+      "name": "君野步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/fe6c4784-82b2-42b4-a855-8ff26a434f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99669&name=君野步美"
+    }
+  ]
+};

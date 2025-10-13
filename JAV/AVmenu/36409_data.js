@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/1F031D2420506C59/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36409,
+  "IDcode": "31B90143D806EBD14DCE61C5057B5DA-0",
+  "title": "白雪結花-可爱女生",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36409",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240908/lP2J34WB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92672,
+  "IDcode": "MBI-157",
+  "title": "MBI157鬼畜父の性玩具彼氏との仲を引き裂かれた制服美少女工藤拉拉。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92672",
+  "actresses": []
+};

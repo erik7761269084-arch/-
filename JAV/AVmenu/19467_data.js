@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230503/92dfc5a3-c91f-4a2a-9b15-414aeefbd083/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19467,
+  "IDcode": "STARS-039",
+  "title": "如果再次見到中學時暗戀的班導的話？ 成宮莉香",
+  "publish_date": "2019-02-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "偷窺",
+    "紀錄片",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230503/20230503083030247247.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230503/20230503083030247247.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19467",
+  "actresses": [
+    {
+      "name": "成宮莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/d2b48f56-1e5b-40e9-869f-8d51c2b33e60.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19467&name=成宮莉香"
+    }
+  ]
+};

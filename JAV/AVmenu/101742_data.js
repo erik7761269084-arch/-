@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240409/Tkh413xk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101742,
+  "IDcode": "GML-269",
+  "title": "ぶらり途中下車の旅 黒人農村熟女ナンパ パート1 みなみさん（28歳）",
+  "publish_date": "2024-03-24",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "口交",
+    "业余",
+    "黑人演员",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101742",
+  "actresses": []
+};

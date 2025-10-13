@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0eef581f-2f96-4af0-b05e-64e66dbae94b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/13/0c23d2c9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8709,
+  "IDcode": "ADN-662",
+  "title": "女教師的祕密被曝光後，被迫穿着超短裙上課 ~ 夏目彩春",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "女教師",
+    "脅迫做愛",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "明星臉",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "學校",
+    "熟女",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "ADN-662为ATTACKERS出品,2025年2月4日发行的有碼成人影片由夏目彩春出演\n我發現了一個與夏目老師相似的秘密帳號。我半開玩笑地向我的老師詢問此事，讓我驚訝的是，竟然是他。誰能想到，一向以嚴肅嚴厲著稱的夏目老師，會將自己這樣暴露在網路上呢…但是……只有我知道夏目老師不為人知的一面。這些已經足夠讓我的老師幫我滿足我的性需求了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075342129129.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130075342129129.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8709",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8709&name=夏目彩春"
+    }
+  ]
+};

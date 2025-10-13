@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/16/6616b78f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88327,
+  "IDcode": "DOCP-212",
+  "title": "デカチンの義父を、母がいない3日間弄び続ける、性に奔放な連れ子の美少女姉妹",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88327",
+  "actresses": [
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88327&name=奏音花音"
+    },
+    {
+      "name": "心菜りお",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/7b6a1c24-90c7-412c-af19-b2b9fa9ae663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88327&name=心菜りお"
+    }
+  ]
+};

@@ -1,0 +1,98 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0c05346-917b-4679-bce2-2c1d841415e3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4929,
+  "IDcode": "MIZD-466",
+  "title": "啵啵啵舔得超銷魂！淫蕩小臉特寫放大，口技爆棚90連發 ~ 小野六花 石原希望 宮下玲奈 八木奈奈 沙月惠奈 二葉惠麻 辻井穗乃果 月雲夜 千川とわ",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "企畫",
+    "無做愛場面",
+    "吞精",
+    "超爆乳",
+    "深喉",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "女神",
+    "性感",
+    "高妹",
+    "少女",
+    "口爆",
+    "貧乳",
+    "唾液敷面",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "寫真偶像",
+    "美人",
+    "淫蕩・硬核",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIZD-466为MOODYZ出品,2025年6月27日发行的有碼成人影片由小野六花，宮下玲奈，辻井穗乃果，二葉惠麻，千川とわ，石原希望，月雲夜，八木奈々，沙月惠奈出演\n這次鏡頭拉得超近，帶你直擊美少女們的頂級口技，爽到不行啦！那張饑渴的小嘴含著肉棒，淫蕩的表情近距離放大，啵啵作響的吸吮聲，舌頭滑溜溜地挑逗，真的讓人血脈賁張！那根脹到快爆掉的肉棒，爽感直接傳到心坎裡，視覺衝擊拉滿！還有硬核的深喉玩法跟滿臉濃稠的爆射場景，近距離看更是刺激到爆！100次高潮噴射，超大份量保證讓你一次看個夠，爽到停不下來啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034227939939_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034227939939_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4929",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=沙月惠奈"
+    },
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=二葉惠麻"
+    },
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=辻井穗乃果"
+    },
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=石原希望"
+    },
+    {
+      "name": "宮下玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/e3fefc9b-635d-4098-9b5f-921fd410b0e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=宮下玲奈"
+    },
+    {
+      "name": "小野六花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/8394037c-d440-49bd-8a55-c543588d55ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=小野六花"
+    },
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=八木奈々"
+    },
+    {
+      "name": "月雲夜",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/dfaef203-ad5b-446e-9ed2-a988cae22fb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=月雲夜"
+    },
+    {
+      "name": "千川とわ",
+      "img_url": "https://picture.yoshiclub.xyz/20240330/2e9c78eb-2ab3-4399-ad83-c10be424b663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4929&name=千川とわ"
+    }
+  ]
+};

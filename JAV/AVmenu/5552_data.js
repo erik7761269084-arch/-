@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3c5b09d9-fcde-41a8-8c6c-a91e388a13fe/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/ae5f3d49/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5552,
+  "IDcode": "SONE-739",
+  "title": "那妹子的衣服遮不住的胸，滿腦子都是不可告人的幻想 ~ 南澤海香",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "劇情",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "餐廳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "職員",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "完全着衣",
+    "手指插入",
+    "公共場所",
+    "美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "SONE-739为S1出品,2025年6月6日发行的有碼成人影片由南澤海香出演\n這妹子H杯的軟綿綿大胸，隔著衣服都能感受到那彈力！想扒掉她的衣服，摸一把，揉一揉，甚至想被夾在中間，每天腦袋裡全是這些騷操作！那藏在衣服下的飽滿大胸，簡直能讓社會失控，秩序崩壞！ 1. 美胸女大生的無意識抖胸誘惑，衣服都沒脫就讓人忍不住開幹！ 2. 私教瑜伽課上的小美女，汗濕的衣服貼著胸，勾得人獸性大發直接硬上！ 3. 軟糯大胸OL，緊繃西裝襯衫快要爆開，簡直是致命誘惑！ 4. 打工妹子胸大到不行，完全沒自覺的撩人姿勢，直接讓人把持不住開戰！ 穿著衣服在社會上晃蕩的軟彈美胸，簡直就是最嚴重的公然猥褻啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040607545545_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040607545545_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5552",
+  "actresses": [
+    {
+      "name": "南澤海香",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/53df41ef-64f7-4be6-a90c-0c6674f1e9ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5552&name=南澤海香"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5552&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250430/rSj6JGAN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66779,
+  "IDcode": "FOCS-086",
+  "title": "年上彼女とのゴム禁同棲性活 愛と射精が止まらない汗だく中出し！逆追撃ピストン！ 如月ゆの",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "乳房",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66779",
+  "actresses": []
+};

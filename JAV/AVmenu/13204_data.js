@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/faf65074-5f28-42d9-8613-d7b6233c6050/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13204,
+  "IDcode": "ROYD-189",
+  "title": "AV制作會社的廣告模特當然要成爲肉便器了 無理矢理，性處理系任命，排隊鬼畜中出 ~ 月野江翠",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "模特兒",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "AV拍攝現場",
+    "女同事",
+    "辦公室",
+    "按摩棒",
+    "抹油",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "ROYD-189为HUNTER出品,2024年7月23日发行的有碼成人影片由月野江翠出演\n清新可愛的新晉女AD加入AV製作公司！她不知道性騷擾地獄正在等待著她……如果公司的前輩性慾旺盛，她會說：「這也是一份重要的工作！」然後自然而然地給她口交或中出！此外，還有各種成人玩具當道具檢查！現場，她不是女演員而是出現在AV中！ ？認真面對自己性慾的AV界新晉AD根本沒有時間休息射精！世界上的常識就是AV行業的常識！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719004843205205.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240719/20240719004843205205.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13204",
+  "actresses": [
+    {
+      "name": "月野江翠",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/d8344561-2dfa-4e1f-af7c-30335caa3a59.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13204&name=月野江翠"
+    }
+  ]
+};

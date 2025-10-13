@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/Icx51CwA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78433,
+  "IDcode": "SVSHA-022",
+  "title": "羞恥！ 新任女教師が学習教材にされる男子校の性教育 生徒の目の前で無遠慮な指が膣に挿入される！プライドは崩壊するが、子宮の奥から愛液があふれ出る 13",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "凌辱",
+    "内衣",
+    "潮吹",
+    "手指插入",
+    "滥交",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78433",
+  "actresses": [
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78433&name=愛瀬優里"
+    },
+    {
+      "name": "白花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/a758ea88-fecb-4008-8b59-a7fe4b555b55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78433&name=白花暖"
+    }
+  ]
+};

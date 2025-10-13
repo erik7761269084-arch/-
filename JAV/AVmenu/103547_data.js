@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231221/OlL6sfuG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103547,
+  "IDcode": "SIRO-5171",
+  "title": "【魅惑のGカップ×巨尻】「クンニされるのが好き！！」と食い気味で答える巨乳女子。大胆なキスから始まる魅惑のプレイ！【初撮り】ネットでAV応募→AV体験撮影 2066",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103547",
+  "actresses": [
+    {
+      "name": "ねいろ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103547&name=ねいろ"
+    }
+  ]
+};

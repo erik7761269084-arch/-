@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/30/de320d1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82490,
+  "IDcode": "ECB-108",
+  "title": "M男クンのアパートの鍵、貸します。 若菜奈央",
+  "publish_date": "2018-01-05",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "角色扮演",
+    "荡妇",
+    "M男",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82490",
+  "actresses": [
+    {
+      "name": "若菜奈央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723224636646646_32231_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82490&name=若菜奈央"
+    }
+  ]
+};

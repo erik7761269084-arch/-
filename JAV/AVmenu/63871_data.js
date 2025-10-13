@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/17092614/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63871,
+  "IDcode": "FTHT-275",
+  "title": "顔面騎乗チャレンジ！！3分耐えたら賞金ゲット！執拗に続くプロの男のクンニ＆おもちゃ責め！欲望に素直な素人娘がプライドを賭けて男に跨る！＜配信限定Vol.01＞",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "女上位",
+    "女生",
+    "业余",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63871",
+  "actresses": []
+};

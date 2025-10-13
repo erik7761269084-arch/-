@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27d45b7d-dc0d-4d5c-8677-d4360220e394/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240617/kQa4ncmb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15316,
+  "IDcode": "JUQ-662",
+  "title": "「絕對不止進入3公分……」讓性欲旺盛的公公插入了一會兒，竟然是絕配……高潮了一遍又一遍 ~ 広瀬ゆり",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "父女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "內衣",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "亂倫",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-662为MADONNA出品,2024年4月23日发行的有碼成人影片由廣瀨百合出演\n有一天，我的公公突然來到我和先生住的家。當我問她情況時，她告訴我，她和婆婆吵架後從父母家跑了出來，所以我無奈地允許她在我身邊待一個星期。那段時間，我獨自做夜班，當我去岳父房間收拾衣服時，我看到他的胯部就像要爆炸一樣……當我意識到這一點時，我對他如此著迷，以至於我正在自慰。然而那場戲拍下來，公公只是用嘴蹭了一下，就侵蝕了我的身體，只有3公分。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419001501581581.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240419001501581581.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15316",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15316&name=廣瀨百合"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/23/ead1feaa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86243,
+  "IDcode": "SQIS-031",
+  "title": "レズビアン・サイコ2 愛の危険地帯（デンジャーゾーン）",
+  "publish_date": "2020-09-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "自慰",
+    "女同性恋",
+    "滥交",
+    "女同接吻",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86243",
+  "actresses": []
+};

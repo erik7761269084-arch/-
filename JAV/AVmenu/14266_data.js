@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32637664-9386-4551-a57a-69c53372a440/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14266,
+  "IDcode": "LULU-302",
+  "title": "住在東京澀谷區丸山町，被迫與鄰居豐滿大屁股妹妹瘋狂肛交，她一邊流口水，一邊噴在她的舌頭和阿賀高臉上，並被迫射在她體內屁股洞很多次。 ~ 乙愛麗絲",
+  "publish_date": "2024-05-31",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "肛交",
+    "劇情",
+    "巨尻",
+    "網襪",
+    "4K",
+    "臀控",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "金髮",
+    "艷遇",
+    "巨乳",
+    "辣妹/GAL系",
+    "短髮",
+    "紋身刺字",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240601/20240601080902224224.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240601/20240601080902224224.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14266",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14266&name=乙愛麗絲"
+    }
+  ]
+};

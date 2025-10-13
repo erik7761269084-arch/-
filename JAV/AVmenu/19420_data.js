@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230513/34430425-d060-42b0-8bdf-98f6242a85ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19420,
+  "IDcode": "IPX-011",
+  "title": "高潮覺醒×顏射-美人性感帶發達！強行喚醒上園由里香沉睡的性感！",
+  "publish_date": "2017-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美乳",
+    "拘束・拷問",
+    "潮吹",
+    "數位馬賽克",
+    "眼鏡"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230512/202305122119572121.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/202305122119572121.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19420",
+  "actresses": [
+    {
+      "name": "早見奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20240112/d33a01a9-c1a5-4ec5-acc3-ed84d9965e9f.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19420&name=早見奈緒"
+    }
+  ]
+};

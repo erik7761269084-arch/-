@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/13/9ac22169/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100506,
+  "IDcode": "GVH-231",
+  "title": "媽媽的幹砲性教育 瞳亮",
+  "publish_date": "2021-05-06",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "母亲",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/13/6623c390c97283605aadb23837871495.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100506",
+  "actresses": [
+    {
+      "name": "瞳リョウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100506&name=瞳リョウ"
+    },
+    {
+      "name": "ゆーと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100506&name=ゆーと"
+    }
+  ]
+};

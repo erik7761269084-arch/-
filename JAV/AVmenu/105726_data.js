@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/10/f4a9a1e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105726,
+  "IDcode": "ADN-198",
+  "title": "不埒な姦係 教え子との再会 希崎ジェシカ",
+  "publish_date": "2019-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "凌辱",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105726",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105726&name=希崎潔西卡"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105726&name=蓝井优太"
+    }
+  ]
+};

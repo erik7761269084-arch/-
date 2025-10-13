@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/16/b89a8304/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60102,
+  "IDcode": "HSM-080",
+  "title": "カワイすぎる小悪魔ギャルビッチオトコの娘 朱里レイSecond STAGE",
+  "publish_date": "2025-09-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "按摩",
+    "肛交",
+    "泳装",
+    "猫耳女",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60102",
+  "actresses": [
+    {
+      "name": "朱里レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60102&name=朱里レイ"
+    }
+  ]
+};

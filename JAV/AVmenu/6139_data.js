@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/572dcd0b-7e3b-40de-a018-26b8beb92e10/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/04a415a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6139,
+  "IDcode": "MIMK-215",
+  "title": "超夯同人漫畫真人化！文學少女吃掉我4 ~ 黑島玲衣",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "二次元",
+    "漫畫改編",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "文藝女",
+    "原作改編",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "清純",
+    "校園生活",
+    "巨乳",
+    "美人",
+    "淫蕩・硬核",
+    "極品美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MIMK-215为MOODYZ出品,2025年5月16日发行的有碼成人影片由黒島玲衣出演\n文學社團裡的處男小哥哥被一位安靜內斂的文學美少女告白，甜到爆的愛意加上超濃烈的床上激戰，從漫長的挑逗前戲到極致的被虐玩法，真的讓人停不下來！內向的後輩文學少女和害羞的前輩處男，展開一段不尋常的純愛故事。這部累計銷量破50萬的超人氣同人漫畫《文學少女吃掉我》最新作被改編成真人劇，主演是氣質超貼角色的S1女優黑島玲衣，首次挑戰漫畫改編劇！快來偷窺這對年輕男女沉溺於fetish性愛的安靜又火熱的故事啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515051801363363_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515051801363363_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6139",
+  "actresses": [
+    {
+      "name": "黒島玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/f8e4a31b-c4c9-4a29-81b5-31c786e3e10a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6139&name=黒島玲衣"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6139&name=蓝井优太"
+    }
+  ]
+};

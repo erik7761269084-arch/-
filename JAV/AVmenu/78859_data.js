@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/09c36883/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78859,
+  "IDcode": "JBD-156",
+  "title": "～むすんで、ひらいて～ 遥めぐみ",
+  "publish_date": "2012-11-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "捆绑",
+    "SM"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/9c66b9e4b986a38ba1ab8b4cde3310d6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78859",
+  "actresses": [
+    {
+      "name": "遥惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/a843e0ac-3455-4a22-a8c3-ada614fe833a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78859&name=遥惠美"
+    }
+  ]
+};

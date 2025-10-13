@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/B0Kq0m9O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89594,
+  "IDcode": "SCD-225",
+  "title": "修道女ゆうの告白 朱き唇褪せぬ間に 川上ゆう",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "捆绑",
+    "猥亵穿着",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89594",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89594&name=川上優"
+    }
+  ]
+};

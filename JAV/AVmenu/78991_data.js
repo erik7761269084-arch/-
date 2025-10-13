@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/05/838ebf67/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78991,
+  "IDcode": "GDHH-179",
+  "title": "- 私たちはTバック家政婦！プリンとしたお尻を見せつけながらの極上サービスであなたのお部屋もチ●ポもキレイにお掃除！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "各种职业",
+    "屁股",
+    "企画",
+    "主观视角",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78991",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78991&name=通野未帆"
+    },
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78991&name=大浦真奈美"
+    },
+    {
+      "name": "今井由亞",
+      "img_url": "https://picture.yoshiclub.xyz/20241002/3b671006-4b4b-42d3-bde9-7f5e9039858b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78991&name=今井由亞"
+    }
+  ]
+};

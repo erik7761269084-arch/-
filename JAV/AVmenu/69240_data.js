@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/12/e212ec25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69240,
+  "IDcode": "STARS-763",
+  "title": "ドバドバ精子垂れ流し無限昇天イメクラエステ4COSPLAY 百仁花",
+  "publish_date": "2023-02-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250406-1/7a44a06e313ab0edbd040980869a10f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69240",
+  "actresses": [
+    {
+      "name": "百仁花",
+      "img_url": "https://picture.yoshiclub.xyz/20231110/61a5c03c-5332-48b2-abba-82548d118136.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69240&name=百仁花"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/29/b803c71a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87003,
+  "IDcode": "EBOD-934",
+  "title": "【FANZA限定】一年間に及ぶセックスレス禁欲の果てに白目イキ全身性感帯かつ早漏の肉厚Hcup人妻E-BODYデビュー 聖璃とあ 生写真3枚付き",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "多P",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87003",
+  "actresses": [
+    {
+      "name": "露梨あやせ",
+      "img_url": "https://picture.yoshiclub.xyz/20230707/1bdee04a-5dea-4f4a-a82e-13a9039b8934.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87003&name=露梨あやせ"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87003&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87003&name=鲛岛"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87003&name=Qべぇ"
+    }
+  ]
+};

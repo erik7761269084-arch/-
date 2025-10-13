@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230123/CITGDTAL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85446,
+  "IDcode": "MIDV-094",
+  "title": "溜まってそうなオジサンを逆ナン乳首責めしながらチ○ポを徹底的に焦らす痴女ハーレム逆3P つぼみ 向井藍",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "M男",
+    "口交",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85446",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85446&name=向井藍"
+    },
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85446&name=蕾"
+    }
+  ]
+};

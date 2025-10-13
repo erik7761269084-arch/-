@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241221/P7WgP2kK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75694,
+  "IDcode": "VENU-905",
+  "title": "粘ピス義母痴● 夫の連れ子に粘着質なスローピストンで深突きされて声を出せずに完堕ちした私 水野優香",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/6d4f2e412bbe1e8c858f998a02bf1dbf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75694",
+  "actresses": [
+    {
+      "name": "水野優香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/a11fafbd-5e4a-40b7-bf2a-2d8ddd85c88d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75694&name=水野優香"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75694&name=真琴"
+    }
+  ]
+};

@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ce2fcc9-1ac7-4757-af90-5fe2cd89d5d1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16488,
+  "IDcode": "MIDV-604",
+  "title": "新人出道！鈴音まゆ的夢想是偶像服裝設計師鈴音真超敏感苗條活躍女大學生",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "雙馬尾",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "口爆",
+    "美少女",
+    "出道作品",
+    "女優",
+    "泳裝"
+  ],
+  "description": "MIDV-604为MOODYZ出品,2024年2月6日发行的有碼成人影片由鈴音まゆ出演\n九頭身苗條女大學生鈴音真AV出道！一個有着單純、稚氣的臉龐的女孩。她高興地告訴我她的夢想是從農村搬到東京，考上時裝專業的大學，將來爲偶像制作服裝。她脫掉衣服，向我展示她赤裸的身體，修長、白皙的皮膚顯得敏感。乳頭、天然陰毛。一個普通的美麗女孩完全赤裸，第一次在公共場合做愛，並暴露了她的陰部！第一次SEX認真真實的反應很可愛，敬請關注。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202091528139139.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240202/20240202091528139139.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16488",
+  "actresses": [
+    {
+      "name": "鈴音まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20240205/c6d3f74f-f813-4146-ba15-7ef25e195c07.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16488&name=鈴音まゆ"
+    }
+  ]
+};

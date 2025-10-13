@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/20/648d37e4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73581,
+  "IDcode": "ABP-554",
+  "title": "絶対的鉄板シチュエーション 1 鈴村あいり",
+  "publish_date": "2017-01-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "颜射",
+    "玩具",
+    "潮吹",
+    "深喉",
+    "主观视角",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250125-1/2d66a98584d09718c2b7cd49ef62a627.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73581",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73581&name=鈴村愛里"
+    }
+  ]
+};

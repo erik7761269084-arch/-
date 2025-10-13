@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250506/W5Gr66a8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66622,
+  "IDcode": "117NPH-079",
+  "title": "隣に住むママ友が我が家で飲み会。胸チラパンチラや風呂上がりの裸で僕を誘ってきて",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/04aafef57b4af2f0f19041b1600bc98d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66622",
+  "actresses": []
+};

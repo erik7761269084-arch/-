@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/28/0e63b93f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91652,
+  "IDcode": "ALDN-184",
+  "title": "【FANZA限定】女社長の性欲 谷あづさ チェキ付き",
+  "publish_date": "2023-07-12",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/55c45e695e84914353deadb04f53132b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91652",
+  "actresses": [
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91652&name=谷梓"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91652&name=左慈半造"
+    }
+  ]
+};

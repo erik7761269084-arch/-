@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a43951cd-a064-4389-9b88-abba61f70af3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15597,
+  "IDcode": "SONE-143",
+  "title": "在男士美容院，明日葉三葉喜歡女上位風格，高大美腿的明日葉三葉女士騎馬式自慰",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "深喉",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "自慰",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "羞恥"
+  ],
+  "description": "SONE-143为S1出品,2024年4月9日发行的有碼成人影片由明日葉三葉出演\n男人是很累的動物。甚至在射精的時候，他也要拼命晃動臀部。在這種時候，我想推薦一位擁有出眾修長美腿的男士美容院女孩——淺葉三葉。這是因為只要睡覺，他就會騎在你身上，以女牛仔的姿勢釋放他的性慾。透過上、下、左、右、各個方向的高速研磨陰道按摩，讓您體驗到瞬間恢復活力的回春療法，帶給您最幸福的快感。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405055912624624.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240405055912624624.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15597",
+  "actresses": [
+    {
+      "name": "明日葉三葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/44fcabb9-1c79-40cf-89cc-3bfac644247e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15597&name=明日葉三葉"
+    }
+  ]
+};

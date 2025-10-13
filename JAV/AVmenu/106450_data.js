@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/13/232f1eac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106450,
+  "IDcode": "NSFS-237",
+  "title": "上司と部下の妻24 ～信頼していた上司に妻を寝取られた～ 美丘さとみ （BOD）",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106450",
+  "actresses": [
+    {
+      "name": "爱花みちる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106450&name=爱花みちる"
+    }
+  ]
+};

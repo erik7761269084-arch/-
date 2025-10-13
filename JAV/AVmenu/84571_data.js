@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230112/xAKiaNpy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84571,
+  "IDcode": "HMN-176",
+  "title": "【FANZA限定】カップル共堕ちNTR脅迫配信 最愛の彼女が目の前で中出しされながら僕も一緒に痴女られて中出ししちゃった話。 白桃はな 生写真2枚付き",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "滥交",
+    "深喉",
+    "白天出轨",
+    "兔女郎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230112-36/660202ab19a0c48f81e848fb441aaa2b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84571",
+  "actresses": [
+    {
+      "name": "夏树カオル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84571&name=夏树カオル"
+    },
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84571&name=白桃はな"
+    }
+  ]
+};

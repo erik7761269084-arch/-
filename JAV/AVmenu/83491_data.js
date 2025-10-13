@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221227/HNAc9gLO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83491,
+  "IDcode": "BMW-200",
+  "title": "「もうイッてるってばぁ！」状態で何度も中出し！ 240分総集編",
+  "publish_date": "2020-03-01",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "潮吹",
+    "乳房",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/79097f8c4a03439d6e6cba13e6c79e4f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83491",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=JULIA"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=深田詠美"
+    },
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=椎名空"
+    },
+    {
+      "name": "桐谷茉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/bb463a2c-a931-4815-a114-eb98c99924ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=桐谷茉莉"
+    },
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=蕾"
+    },
+    {
+      "name": "爱须心亜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83491&name=爱须心亜"
+    }
+  ]
+};

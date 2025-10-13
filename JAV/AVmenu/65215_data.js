@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65215,
+  "IDcode": "E4C8E2E5829C81924F956310AAEEBE19",
+  "title": "肛门Acme俘虏",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65215",
+  "actresses": []
+};

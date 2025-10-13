@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230105/D3590DE82FF7BEDB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98495,
+  "IDcode": "ATID-175",
+  "title": "女捜査官アリサ 汚された白い肌 黒木アリサ",
+  "publish_date": "2011-05-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "多P",
+    "强奸",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid175/atid175pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98495",
+  "actresses": [
+    {
+      "name": "黒木アリサ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98495&name=黒木アリサ"
+    }
+  ]
+};

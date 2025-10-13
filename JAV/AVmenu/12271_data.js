@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/97400b26-c543-40f0-88a3-5ea0aca17ae2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12271,
+  "IDcode": "SDNM-483",
+  "title": "和總是微笑着傾聽我說話的人妻慈母一起面對溢出的性欲。 相良明裏 32歲 最終章 生了兩個女兒的大阪媽媽體質敏感 ~ 相良明裏",
+  "publish_date": "2024-10-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "騎乗位",
+    "兩男一女",
+    "慾求不滿",
+    "內衣",
+    "情趣內衣",
+    "人妻",
+    "熟女",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240903/329d3c1d-4c01-4106-8fff-9d1fa65c50c4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240903/329d3c1d-4c01-4106-8fff-9d1fa65c50c4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12271",
+  "actresses": [
+    {
+      "name": "相良明里",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/735b5aea-4cce-4057-b470-98804501cdbc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12271&name=相良明里"
+    }
+  ]
+};

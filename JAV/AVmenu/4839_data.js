@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58c57af4-36b3-42e4-bc00-0dead2e038b6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/04/21b8a26f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4839,
+  "IDcode": "SAN-370",
+  "title": "讓人完全把持不住的誘惑！小惡魔幼妻的致命勾引240分鐘 ~ 篠宮友里 保坂えり",
+  "publish_date": "2025-06-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "二次元",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "舔陰",
+    "內衣",
+    "少女",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "極品美人"
+  ],
+  "description": "SAN-370为マザー出品,2025年6月30日发行的有碼成人影片由篠宮友里，保坂えり出演\n短髮傲嬌小幼妻篠宮友里，ツンデレ魅力爆棚，撩人功力滿點！還有散發致命費洛蒙的正妹巨乳幼妻保坂えり，顏值身材雙殺，誘惑力直接破表！這兩個小惡魔聯手出擊，240分鐘讓你心跳飆升，絕對hold不住啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4839",
+  "actresses": [
+    {
+      "name": "篠宮友里",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623103148454454_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4839&name=篠宮友里"
+    },
+    {
+      "name": "保坂えり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630110735976976_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4839&name=保坂えり"
+    },
+    {
+      "name": "篠宫ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4839&name=篠宫ゆり"
+    }
+  ]
+};

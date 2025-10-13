@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/b4ZULFEL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90561,
+  "IDcode": "PAIS-048",
+  "title": "地味なのに神乳I-cupを隠し持つ女教師は潮吹きという秘密兵器を持つ最強エロスペックの素人さん",
+  "publish_date": "2023-08-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "业余",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90561",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90561&name=羽月乃蒼"
+    }
+  ]
+};

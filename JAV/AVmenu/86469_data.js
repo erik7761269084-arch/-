@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/28/8b314a33/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86469,
+  "IDcode": "STARS-672",
+  "title": "敏感M男歓喜の過激裏オブと連続射精で脳汁出まくり!中出しOK甘サドチャイナエステ 鈴音りん",
+  "publish_date": "2022-09-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230208-1/ed00a30ec5a77ec6b17e628c54dd4bf1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86469",
+  "actresses": []
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d1550c6a-7255-473f-914f-801e2afc8157/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/11/ab399f9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18346,
+  "IDcode": "ABF-034",
+  "title": "對我唯命是從的女部下 怎麼就突然變成了終級的性虐狂",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "酒醉",
+    "劇情",
+    "脚控・戀足癖",
+    "中出",
+    "緊身衣",
+    "OL",
+    "口交",
+    "女王",
+    "性感",
+    "舔陰",
+    "巨乳",
+    "女同事",
+    "足交",
+    "猥褻穿著",
+    "M男・M女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231013/7f23c76e-2c87-4a07-a852-e3745f80e2fc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231013/7f23c76e-2c87-4a07-a852-e3745f80e2fc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18346",
+  "actresses": [
+    {
+      "name": "涼森玲夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fcfb5e54-42f4-4bab-b6ee-37fbcd01fa68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18346&name=涼森玲夢"
+    },
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18346&name=凉森玲梦"
+    }
+  ]
+};

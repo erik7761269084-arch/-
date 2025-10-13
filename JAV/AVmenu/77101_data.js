@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241121/2kpXi86N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77101,
+  "IDcode": "HAVD-988",
+  "title": "濃密接吻レズビアン 義母と娘の唾液と愛液にまみれた濃厚すぎる快楽",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "婆婆",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77101",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77101&name=今井栞菜"
+    },
+    {
+      "name": "御坂莉亚",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77101&name=御坂莉亚"
+    }
+  ]
+};

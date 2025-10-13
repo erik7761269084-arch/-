@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/744e458b-401b-46d8-aae7-4b98fecb06e0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/6d27acea/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7382,
+  "IDcode": "JUR-303",
+  "title": "拜託隔壁軟弱巨乳人妻當內衣模特，結果… ~ 吹石玲奈",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "私房攝影",
+    "騎乗位",
+    "模特兒",
+    "性感",
+    "不倫",
+    "膚黑",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "寫真女郎",
+    "鄰居",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "寢取",
+    "野性"
+  ],
+  "description": "JUR-303为MADONNA出品,2025年3月25日发行的有碼成人影片由吹石玲奈出演\n雷娜（Rena）曾是一名模特，現在是一名全職家庭主婦。有一天，住在隔壁的吉野突然要求他擔任新內衣的監控員和模特兒。不堪壓力的玲奈在吉野的表情下屈服，答應只拍一次。這本來只是一次性的請求，但 Rena 接受了模特兒邀請，希望下次再提出要求。之後他便和四糸乃單獨開始拍攝，沒多久，兩人的興奮感就超過了界限…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113142952952.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320113142952952.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7382",
+  "actresses": [
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7382&name=吹石玲奈"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/rNUgYXR1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68104,
+  "IDcode": "KIR-061",
+  "title": "怪我の看病にきてくれた義母にフル勃起が止まらない…宇野栞菜",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "婆婆",
+    "中出",
+    "自慰",
+    "高",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68104",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68104&name=今井栞菜"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd74524c-7924-4984-b6da-8067d6161969/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16366,
+  "IDcode": "JUQ-574",
+  "title": "女教師NTR. 愛妻被不良學生操了",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "女教師",
+    "劇情",
+    "強姦",
+    "性感",
+    "迷姦",
+    "美腳",
+    "人妻",
+    "熟女"
+  ],
+  "description": "JUQ-574为MADONNA出品,2024年2月13日发行的有碼成人影片由松莉乃出演\n鬆莉乃是一位嚴肅的已婚人妻，與丈夫在同一所學校工作，關心學生。她關心失學已久的學生新一，並不斷去他家拜訪。她的丈夫警告她不要在生活中投入太多精力，但鬆莉乃拒絕這樣做。有一天，悲劇降臨到她身上。新一之所以一直拒絕去學校，是爲了讓經常來看他的莉諾成爲自己的人，他讓她日復一日地喝含有春藥的茶。就在鬆莉乃再也無法抑制燃燒的身體時，她被新一強奸了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240211/20240211003327414414.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240211/20240211003327414414.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16366",
+  "actresses": [
+    {
+      "name": "松莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/255815c0-a797-40c2-a572-4b9496419379.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16366&name=松莉乃"
+    }
+  ]
+};

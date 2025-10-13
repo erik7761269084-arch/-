@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241210/PQv2qYSW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76472,
+  "IDcode": "HOMA-077",
+  "title": "嵐の夜に…憧れの兄嫁と二人きり 霧島レオナ",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76472",
+  "actresses": [
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76472&name=雾岛里绪菜"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a647cdb3-3463-46cb-ac40-f009c04de9d4/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241020/9X2BFk2e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13688,
+  "IDcode": "SAME-115",
+  "title": "脫獄者～工藤由羅",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "劇情",
+    "色白",
+    "凌辱",
+    "中出",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "罪犯・逃犯",
+    "肉絲",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "少女",
+    "美少女",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SAME-115为ATTACKERS出品,2024年7月2日发行的有碼成人影片由工藤由羅出演\n下一個目標是即將結婚的年輕白領女士！越獄的連續強暴犯阿久津陸夫在由良居住的公寓門口襲擊了她，偷走了她的鑰匙，然後進入了房間。阿久津繼續以溢出的性慾猛烈攻擊由良…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240628/202406280115307070.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240628/202406280115307070.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13688",
+  "actresses": [
+    {
+      "name": "工藤由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/55c36f05-5e3a-4559-b26f-3cf634b2a753.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13688&name=工藤由羅"
+    }
+  ]
+};

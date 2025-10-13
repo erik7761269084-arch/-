@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f269311-9667-42ce-a339-c57b74996bfd/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/07c6ce58/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10607,
+  "IDcode": "MIDV-929",
+  "title": "如果你喜歡挖耳朵和說騷話，這並不是出軌。我有妻子，還是被一個癡女的聲音所誘惑，進行了20 次乳交 ~ 中山文香",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "淫語",
+    "美少女",
+    "按摩・美容店",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "MIDV-929为MOODYZ出品,2024年11月19日发行的有碼成人影片由中山文香出演\n在我們生孩子之前，我的妻子常常幫我清理耳朵，但現在她根本不這麼做……她聽得好嗎？你聽力不好嗎？我的妻子罵了我，然後我走進了一家洗耳反射店，我的身體被吸進去了。 」「你勃起了嗎？並清潔挖耳朵的反射讓她非常興奮，以至於她拒絕觸摸她，以至於她必須真正地談判！ ？ 想要近距離觀察富美卡巨乳的終極主觀角度！終極乳交技術！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114093633683683.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114093633683683.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10607",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10607&name=中山文香"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/04NK3Dxl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89122,
+  "IDcode": "VEO-071",
+  "title": "本物素人妻AV Debut！！本物Gカップ巨乳ベースボール女子の膣奥一発入魂セックス 瑞島智花 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89122",
+  "actresses": [
+    {
+      "name": "瑞島智花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89122&name=瑞島智花"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/27/f3ab4618/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60838,
+  "IDcode": "JUTA-174",
+  "title": "極上！！五十路奥さま初脱ぎAVドキュメント 大岡桜子",
+  "publish_date": "2025-08-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/f3ab4618/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60838",
+  "actresses": [
+    {
+      "name": "大岡桜子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60838&name=大岡桜子"
+    }
+  ]
+};

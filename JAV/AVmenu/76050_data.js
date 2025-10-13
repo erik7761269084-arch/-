@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/98e05ed7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76050,
+  "IDcode": "ABP-936",
+  "title": "ヤリ過ぎ中出し温泉 File.02 膣中に出しまくる一泊二日、淫行旅行。 愛音まりあ",
+  "publish_date": "2020-01-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "无毛",
+    "乳房",
+    "浴衣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241212-1/6d738369d38bd60d0947d6f5faa87126.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76050",
+  "actresses": [
+    {
+      "name": "愛音麻里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/50af9cbc-9b8c-4ec6-8f92-87c622882fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76050&name=愛音麻里亞"
+    }
+  ]
+};

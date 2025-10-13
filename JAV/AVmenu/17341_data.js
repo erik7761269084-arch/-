@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/19d1bcbd-1546-4ab0-b8d2-0d14d4a78929/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/05/2d11c0eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17341,
+  "IDcode": "JUQ-471",
+  "title": "上门才发现预约的客人竟然是学生时代性骚扰我的老师。從那天起，我就注定成為了一隻性寵物…",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "凌辱",
+    "中出",
+    "美乳",
+    "感官作品",
+    "口交",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "美少女",
+    "明星臉",
+    "人妻",
+    "熟女",
+    "飯店小姐・援交妹",
+    "飯店"
+  ],
+  "description": "JUQ-471为MADONNA出品,2023年12月12日发行的有碼成人影片由明里紬出演\n「其實我不想做了，但他逼我不得不繼續下去。」明里紬和丈夫一帆風順的生活有一天發生了變化。丈夫經營的旅行社因經營不善而破產……從此，丈夫就再也不敢出門了。為了獨自養家活口，明里紬只能自己出去打工。。。某天，明里紬上门后，发现预约的客人竟然是学生时代就经常性骚扰自己的老师。。。\n「其實我不想做了，但他逼我不得不繼續下去。」明里紬和丈夫一帆風順的生活有一天發生了變化。丈夫經營的旅行社因經營不善而破產……從此，丈夫就再也不敢出門了。為了獨自養家活口，明里紬只能自己出去打工。。。某天，明里紬上门后，发现预约的客人竟然是学生时代就经常性骚扰自己的老师。。。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/ca779fb0-4abf-4b50-9e17-a8cd4ffafabb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/ca779fb0-4abf-4b50-9e17-a8cd4ffafabb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17341",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17341&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17341&name=明里䌷"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/02/01/7e2f62bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103317,
+  "IDcode": "MIDE-681",
+  "title": "ミラー越しにノーパン挑発してくる 裏オプ（本番）したがり美少女リフレ 七沢みあ",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "苗条",
+    "女佣",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mide681/mide681pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103317",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103317&name=七泽美亚"
+    }
+  ]
+};

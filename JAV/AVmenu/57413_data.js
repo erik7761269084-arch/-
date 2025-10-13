@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57413,
+  "IDcode": "1C84B3A65723B978793541A2D903EFB9",
+  "title": "气质巨乳正妹化身爆乳女仆任你差遣叫声可射",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57413",
+  "actresses": []
+};

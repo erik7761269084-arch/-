@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/7ZVUqBOx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93449,
+  "IDcode": "NAMHS-001",
+  "title": "真正中出し映像集 第1回作 全て正真正銘本物ザーメン避妊具なしの生姦セックス4名 計15発",
+  "publish_date": "2024-02-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "纪录片",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/abbb305a4356e15538a1130299e7d97f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93449",
+  "actresses": []
+};

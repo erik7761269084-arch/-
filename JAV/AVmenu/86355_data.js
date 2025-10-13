@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230205/nT2zDIYL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86355,
+  "IDcode": "SSIS-440",
+  "title": "4K攝影映像 完全主觀自慰協助 河北彩花",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗条",
+    "口交",
+    "主观视角",
+    "美少女电影",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86355",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86355&name=河北彩花"
+    }
+  ]
+};

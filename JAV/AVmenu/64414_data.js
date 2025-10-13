@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220604/61291DFB53D6A344/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64414,
+  "IDcode": "RINKA",
+  "title": "在亚洲口交和铁杆性三人行..内里",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64414",
+  "actresses": []
+};

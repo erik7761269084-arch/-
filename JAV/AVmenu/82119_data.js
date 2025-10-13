@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221108/LMy8RwEA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82119,
+  "IDcode": "YRBK-003",
+  "title": "純情一途に恋い焦がれ… 未練・水色想い百合女学生",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "女同性恋",
+    "舔阴",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82119",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82119&name=佐倉陽菜"
+    },
+    {
+      "name": "山井すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82119&name=山井すず"
+    }
+  ]
+};

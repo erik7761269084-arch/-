@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/21/53bd2571/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105054,
+  "IDcode": "SHKD-415",
+  "title": "夫の目の前で犯されて- ターゲット 小川あさ美",
+  "publish_date": "2010-08-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "强奸",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105054",
+  "actresses": [
+    {
+      "name": "小川阿佐美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fd4524ae-7d4e-4c7f-95a4-8588935c2861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105054&name=小川阿佐美"
+    }
+  ]
+};

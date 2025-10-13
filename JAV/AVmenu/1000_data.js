@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6a536d75-de0e-4ca4-acbf-110cfbf6cc78/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1000,
+  "IDcode": "HEYZO-1390",
+  "title": "喜歡被操的甜蜜女孩",
+  "publish_date": "2017-01-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "情趣內衣"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231322470470.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240125/20240124231322470470.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1000",
+  "actresses": [
+    {
+      "name": "高橋まほ",
+      "img_url": "https://picture.yoshiclub.xyz/20240125/708dcdcc-0b20-4b6b-8ccc-0bda8fcb2d8e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1000&name=高橋まほ"
+    }
+  ]
+};

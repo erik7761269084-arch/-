@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221218/PmJaucC2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83098,
+  "IDcode": "GZAP-010",
+  "title": "スク水素股痴● ちっぱい美少女J◎が痴●ワニ達の潜む混浴温泉に入ってしまい、エンドレス素股スコスコされてお股がヌルヌルになっていき…",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83098",
+  "actresses": []
+};

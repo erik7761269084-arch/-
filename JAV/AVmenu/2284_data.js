@@ -1,0 +1,99 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2284,
+  "IDcode": "MMPB-093",
+  "title": "讓美少女懷上我的娃吧！~ 胡桃櫻花 天馬唯 柏木小夏 小阪ひまり 皆瀨明裏 天月梓 竹內美涼",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "超爆乳",
+    "傲嬌",
+    "校花",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "大乳暈",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "空姐制服",
+    "JK校服",
+    "正統派",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "網路紅人"
+  ],
+  "description": "MMPB-093为桃太郎映像出版出品,2025年10月3日发行的有碼成人影片由胡桃櫻花，天馬唯，柏木小夏，皆瀨明里，天月梓，竹内美涼，小坂ひまり出演\n一群美少女直接开干，超带劲！别看她们一脸纯真，下面早就湿得一塌糊涂了。娇滴滴地撒娇说“想要大肉棒”，哪个男人听了不直接硬到爆炸？这种反差萌简直让人心痒痒，欲罢不能！她们小嘴塞满肉棒的乖巧模样，哪个老司机能不心动？制服和体操服的美少女，羞红了脸高潮的表情，绝对不能错过，简直是视觉盛宴！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020013669669_89193_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020013669669_89193_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2284",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=天馬唯"
+    },
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=柏木小夏"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=天月梓"
+    },
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=胡桃櫻花"
+    },
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=小坂ひまり"
+    },
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=皆瀨明里"
+    },
+    {
+      "name": "竹内美涼",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/971858a7-062c-4171-a4c1-30264627453b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2284&name=竹内美涼"
+    }
+  ]
+};

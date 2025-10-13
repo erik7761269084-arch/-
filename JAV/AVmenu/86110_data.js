@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/26/a5c8c49d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86110,
+  "IDcode": "ROE-105",
+  "title": "正統派スレンダー美人妻第3弾！！ 「もう、貴方の事しか考えられないの…」旅行先で夫の連れ子と相性抜群中出し交尾に溺れる義母 一場れいか",
+  "publish_date": "2022-10-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/71bc5dc06a1f24f66d7db282bdcd9c58.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86110",
+  "actresses": [
+    {
+      "name": "一場れいか",
+      "img_url": "https://picture.yoshiclub.xyz/20240602/a8e16305-bf0f-4c72-8e7c-156484679c82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86110&name=一場れいか"
+    }
+  ]
+};

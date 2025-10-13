@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/4cd07c7f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68788,
+  "IDcode": "SOON-001",
+  "title": "したがり温泉旅行 白河花清",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/4cd07c7f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68788",
+  "actresses": [
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68788&name=白河花清"
+    }
+  ]
+};

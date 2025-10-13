@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230512/31e39be5-a855-41a7-996e-ac8203bb0f68/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1494,
+  "IDcode": "SKYHD-006",
+  "title": "SKY ANGEL BLUE 06 ~ 倉知莉花",
+  "publish_date": "2011-06-24",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "中出",
+    "美乳",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230512/85293f4d-6021-42de-8218-53031d237236.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/85293f4d-6021-42de-8218-53031d237236.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1494",
+  "actresses": [
+    {
+      "name": "倉知莉花",
+      "img_url": "https://picture.yoshiclub.xyz/20230512/d716f0e5-b3c7-4c8f-a058-9d07d2255b49.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1494&name=倉知莉花"
+    }
+  ]
+};

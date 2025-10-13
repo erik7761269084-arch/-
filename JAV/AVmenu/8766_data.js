@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/407c2078-009c-4a71-ac7a-ec4b42574d4a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8766,
+  "IDcode": "MSPK-021",
+  "title": "啪啪 No.21 拘束女體觀察",
+  "publish_date": "2025-01-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "後入",
+    "素人作品",
+    "淫亂",
+    "調教",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "素人",
+    "口交",
+    "美少女",
+    "緊縛",
+    "清純",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250127/90930ff1-536d-4313-86e3-7a63dc886a9b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250127/90930ff1-536d-4313-86e3-7a63dc886a9b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8766",
+  "actresses": []
+};

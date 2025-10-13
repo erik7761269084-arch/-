@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230129/lZAMJ1Wf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85861,
+  "IDcode": "PFES-034",
+  "title": "欲求不満な人妻達の濡れパンツ誘惑！肉弾むちむち逆4P 宝田もなみ 佐知子 望月あやか",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85861",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85861&name=望月綾香"
+    },
+    {
+      "name": "佐知子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250722/86057d1f-f0b8-487e-aae4-bb288be267d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85861&name=佐知子"
+    }
+  ]
+};

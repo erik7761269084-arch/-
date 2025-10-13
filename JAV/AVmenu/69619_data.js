@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/21/e194e053/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69619,
+  "IDcode": "FSDSS-549",
+  "title": "「上司からここに来るように言われました」押しに弱い時田さんは性交命令を断れない都合のいい部下 時田亜美 パンティと写真付き",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗条",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/288a8137f6950e3d0dd6d8a4228775b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69619",
+  "actresses": []
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ba763a8c-16cc-4e73-80b5-d1542d179205/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/08/ee3e6173/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15338,
+  "IDcode": "SSNI-191",
+  "title": "美麗的妻子 吉沢明歩 被公公的舌頭舔，性交所迷住，並且每天都在一起。",
+  "publish_date": "2018-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "兒媳",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "亂倫",
+    "無毛"
+  ],
+  "description": "SSNI-191为S1出品,2018年5月7日发行的有碼成人影片由吉沢明歩出演\n秋穗最終和她的公公住在一起，公公在她丈夫生意失敗後接手了他的債務。她尊敬公公，對丈夫嚴格管教，卻在丈夫不在的時候被強暴。從那天起，貪婪地舔舐全身的黏性訓練開始了。我的岳父玩弄著他的舌頭，就好像他也在他丈夫身邊嘗試一樣。當這種瘋狂的玩耍變成日常…她的感官變得麻痺，她逐漸開始透過舔公公的舌頭來尋求性…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418001032411411.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240418/20240418001032411411.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15338",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15338&name=吉沢明歩"
+    }
+  ]
+};

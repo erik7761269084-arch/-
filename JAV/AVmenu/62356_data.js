@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/02/eb771755/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62356,
+  "IDcode": "ALDN-124",
+  "title": "舐め好き親父と欲求不満な嫁 加藤ツバキ",
+  "publish_date": "2023-02-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "舔阴",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/f834398739e08b52bc1fd6cbcc5893b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62356",
+  "actresses": [
+    {
+      "name": "夏树カオル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62356&name=夏树カオル"
+    }
+  ]
+};

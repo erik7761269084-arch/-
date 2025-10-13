@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230106/6248A9D9135BA596/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98544,
+  "IDcode": "OTIM-010",
+  "title": "僕の事が大好きすぎる彼女と一日中イチャラブSEX！ 葉月レイラ",
+  "publish_date": "2019-10-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "制服",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118otim010/118otim010pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98544",
+  "actresses": []
+};

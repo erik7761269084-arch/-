@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a7ca45b1-d90e-47fc-9769-32693496c887/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/252686f0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10695,
+  "IDcode": "MADV-566",
+  "title": "競技泳裝NTR 鄰家姐姐的泳裝巨乳完全豎立起來！我已婚，但在激烈的性愛中我還是被強迫射精 ~ 森澤佳奈",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "不倫",
+    "舔陰",
+    "自慰",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241111/cba4f9ee-d7ce-4d65-9498-a947ef97cdaa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241111/cba4f9ee-d7ce-4d65-9498-a947ef97cdaa.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10695",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10695&name=森澤佳奈"
+    }
+  ]
+};

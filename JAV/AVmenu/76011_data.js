@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/93FCQS4A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76011,
+  "IDcode": "428SUKE-009",
+  "title": "柔ぷに美乳に柔モチ美尻！几帳面の極み乙女、A型女子ももかさん登場。セックス中にシャツをたたんじゃう几帳面ぷり！バブみを感じざるを得ない抱擁感！美肌美尻がエロすぎノックアウト！喘ぎ声も品のあるお嬢様系ドスケベ美女のおっぱいへ大量射精ww",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76011",
+  "actresses": []
+};

@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff43bd85-5a04-4d05-a28a-da968f687750/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11001,
+  "IDcode": "SSNI-449",
+  "title": "182次強烈高潮！痙攣4550回！ 10,000cc大潮噴！ 170cm 8頭身性愛覺醒大大大・痙・攣ス！ ~ 乾立夏",
+  "publish_date": "2019-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美少女",
+    "清純",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-449为S1出品,2019年4月19日发行的有碼成人影片由乾立夏出演\n幹，終於，愛神甦醒了！ ！從出道作品開始就展現出巨大潛力的乾瑞卡，隨著每次作品的推出，情色潛力也逐漸綻放，她的情色潛力即將爆發！春藥、不斷的挑逗、部分的折磨……她早熟的身體發育得很徹底，毛茸茸的，把體內的水分都吸乾了！還有巨大的射精。當她進入該區域時，她170公分的纖細身體反覆抽搐，達到奇怪的高潮狀態！ ！性愛天才出現了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241026/202410260146481414.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241026/202410260146481414.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11001",
+  "actresses": [
+    {
+      "name": "乾立夏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/乾りっか.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11001&name=乾立夏"
+    }
+  ]
+};

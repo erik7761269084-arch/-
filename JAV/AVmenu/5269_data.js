@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9944cf5d-6850-4c1e-8cc5-13507b0e2f9b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/03/18e6c16a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5269,
+  "IDcode": "START-331",
+  "title": "純情人妻變態富豪夫妻調教成NTR愛好者！徹底沉迷禁忌快感 ~ 小湊四葉 美咲佳奈",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "夫妻",
+    "美腳",
+    "聚會・PARTY",
+    "鄰居",
+    "清楚系",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "NTR",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "夫妻交換",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "START-331为SOD出品,2025年6月17日发行的有碼成人影片由小湊四葉，美咲佳奈出演\n剛搬家的小湊夫婦跟隔壁豪宅的富豪夫妻一拍即合，關係好到不行。但新婚沒多久，丈夫結弦就硬不起來，夫妻生活直接變成空殼。沒想到隔壁的篤史丟出一個超刺激的提議——來玩換妻遊戲啦！這下結弦直接開啟了NTR癖好，看著純情又呆萌的四葉被別的男人搞到嬌喘不停，徹底掉進這禁忌快感的泥沼，變成一個被慾望操控的小騷貨……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250616/202506162222276363_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250616/202506162222276363_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5269",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5269&name=美咲佳奈"
+    },
+    {
+      "name": "小湊四葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/8efba086-0ee3-439d-8559-aa2f4b9bb9a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5269&name=小湊四葉"
+    }
+  ]
+};

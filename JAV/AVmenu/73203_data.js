@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/64ec66de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73203,
+  "IDcode": "AKDL-312",
+  "title": "健診センター レディース検査",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "巨乳",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/64ec66de/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73203",
+  "actresses": []
+};

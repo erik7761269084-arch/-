@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/3257f6aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61424,
+  "IDcode": "CHUC-142",
+  "title": "元ヤリマンの受付嬢は今では濃厚な方がいいらしい ゆかり",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61424",
+  "actresses": []
+};

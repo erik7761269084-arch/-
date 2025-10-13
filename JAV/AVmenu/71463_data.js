@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/6fec9773/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71463,
+  "IDcode": "NHDTC-030",
+  "title": "着せ替え羞恥電車2 下品な服で何日もやられた気弱娘",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "姐姐",
+    "颜射",
+    "苗条",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71463",
+  "actresses": []
+};

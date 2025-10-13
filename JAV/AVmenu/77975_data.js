@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/08/5a8d0d01/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77975,
+  "IDcode": "SDAB-116",
+  "title": "デカマラ好きのJ○二人組にムリヤリ同行させられた弟クンのず～っとハメまくり一泊二日温泉旅行",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "巨大屁股",
+    "浴衣",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/a75aa7e23c717322695a867ac267fbef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77975",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77975&name=美園和花"
+    },
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77975&name=今井夏帆"
+    }
+  ]
+};

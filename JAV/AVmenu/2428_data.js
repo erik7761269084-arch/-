@@ -1,0 +1,58 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2428,
+  "IDcode": "IDBD-985",
+  "title": "桜空桃九週年精選集 性感寶石 10部合集8小時 ~ 桜空桃",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "傲嬌",
+    "臀控",
+    "紀念作",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IDBD-985为IDEA POCKET出品,2025年9月25日发行的有碼成人影片由桜空桃出演\n为庆祝桜空桃出道九周年，这部精选集重磅来袭！她就像一颗性感宝石，10部经典作品浓缩成8小时的极致享受！从出道就让粉丝欲罢不能的超强色气，到越来越炉火纯青的技巧和撩人魅力，桜空桃已经完全进化成AV界的顶流女王！这次比起前作减少了收录数量，剪辑也更精致，让你能沉浸式感受她的每一分诱惑！这可不是普通的拼凑合集，绝对是了解桜空桃的最佳入门之作，快来感受她的致命吸引力吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032842193193_92243_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032842193193_92243_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2428",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2428&name=桜空桃"
+    }
+  ]
+};

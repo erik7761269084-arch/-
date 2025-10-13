@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220830/C3A64E9DAEBE3D40/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37995,
+  "IDcode": "19D94077157B579545748025F4C841C-4",
+  "title": "私の中の黒い羊　アイドルを目指していたのに、见知らぬ男の手で性に目覚めさせられた少女の真",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37995",
+  "actresses": []
+};

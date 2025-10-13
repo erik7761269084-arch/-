@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220605/8EDE06DD73ABB147/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64379,
+  "IDcode": "1FA2E9DA2405B82A3173DC67EA-782303",
+  "title": "欲求不満の佐々木あきが、终日ホテルの1室に男を呼び出し即キス-即フェラ、即生ハメ、アナル中出し＆10连続射精！ 子宫と直…",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64379",
+  "actresses": []
+};

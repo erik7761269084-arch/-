@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230208/rQZhTXwn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86519,
+  "IDcode": "UMD-837",
+  "title": "潜入！！噂のリンパマッサージ店 12「裏オプション、いかがなさいますか？」",
+  "publish_date": "2022-08-04",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "按摩",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/503b9822bfd0f80d0edfa8ae711585f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86519",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86519&name=吉根柚莉爱"
+    },
+    {
+      "name": "水川かえで",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/1732c987-cf42-4339-a20b-3f0d23177f45.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86519&name=水川かえで"
+    },
+    {
+      "name": "儿玉玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86519&name=儿玉玲奈"
+    }
+  ]
+};

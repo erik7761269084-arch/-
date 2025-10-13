@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/07deeabb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79040,
+  "IDcode": "JUL-694",
+  "title": "- 出張先のビジネスホテルでずっと憧れていた女上司とまさかまさかの相部屋宿泊 岸えま - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "各种职业",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79040",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79040&name=イセドン内村"
+    }
+  ]
+};

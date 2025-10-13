@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/reD55zQ7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76795,
+  "IDcode": "GS-308",
+  "title": "階段でソソるパンチラ盗撮をして楽しんでいた俺だが…見つかってしまった！気弱な俺は女子に怒られ、逃げる俺の家まで押しかけられ、ああ、もうヤバイと思っていたら…ニヤニヤし出した女子が勃起したチ○ポ見せなよと完全上目線で俺を性的玩具に！乳首を弄られビンビンな…",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "内衣",
+    "偷窥",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/0c0b86f7e80f9cca1079eade87976abb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76795",
+  "actresses": []
+};

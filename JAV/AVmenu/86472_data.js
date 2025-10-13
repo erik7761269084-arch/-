@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/18/6b0f3226/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86472,
+  "IDcode": "STARS-696",
+  "title": "ど田舎の夏に、がむしゃらに汗だくで絡み合う濃厚SEXドキュメント 浜辺栞帆",
+  "publish_date": "2022-10-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86472",
+  "actresses": [
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86472&name=浜辺栞帆"
+    }
+  ]
+};

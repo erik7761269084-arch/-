@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/02/97801ffe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85159,
+  "IDcode": "JUQ-073",
+  "title": "想確認愛情讓妻子與絶倫後輩2人獨處3小時…不拔出追擊中出合計16發妻子被睡走的NTR故事 神宮寺奈緒",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85159",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85159&name=神宫寺奈绪"
+    }
+  ]
+};

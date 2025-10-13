@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220416/BD7DACED640E103F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97694,
+  "IDcode": "GVG-765",
+  "title": "スケベじじいと巨乳ギャルの中出し日向うみ",
+  "publish_date": "2018-10-18",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "其他恋物癖",
+    "乳交",
+    "巨乳",
+    "中出",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97694",
+  "actresses": [
+    {
+      "name": "沙藤由梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/6af67405-d04b-4612-b0d0-58ce9e9176c8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97694&name=沙藤由梨"
+    }
+  ]
+};

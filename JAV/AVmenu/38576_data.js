@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221116/8B326675B2BE94F4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38576,
+  "IDcode": "9E0D3F5E910FA6A05A5C42717DA0E6D-6",
+  "title": "细腻柔软-105",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38576",
+  "actresses": []
+};

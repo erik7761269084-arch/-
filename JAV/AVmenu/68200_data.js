@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250413/qddy1LqL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68200,
+  "IDcode": "SDAB-229",
+  "title": "僕が補講に通っている間、2人で行く沖縄旅行のためにバイトを始めた彼女が、クズ店長(52)に中出し堕ちさせられていました… さくられん",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68200",
+  "actresses": []
+};

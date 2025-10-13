@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/26/1f65d2ab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105662,
+  "IDcode": "ALDN-289",
+  "title": "童貞中出し 初めては兄嫁で中出し 高園ゆり子",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105662",
+  "actresses": [
+    {
+      "name": "三云ゆり子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105662&name=三云ゆり子"
+    },
+    {
+      "name": "イッセイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105662&name=イッセイ"
+    }
+  ]
+};

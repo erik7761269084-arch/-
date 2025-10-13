@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240122/H3E8wOGM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39347,
+  "IDcode": "CARIB-011024-001-FHD",
+  "title": "あんたの夢をハメたろか 2024.さくらみな",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39347",
+  "actresses": []
+};

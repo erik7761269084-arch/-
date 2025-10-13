@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/qF63BOoD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69028,
+  "IDcode": "MEYD-763",
+  "title": "はじめて彼女ができたのに…隣に住む欲求不満な人妻さんに食べられ罪悪感勃起した 結城りの",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69028",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69028&name=蓝井优太"
+    }
+  ]
+};

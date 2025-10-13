@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/3rLiSkRx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75580,
+  "IDcode": "PRED-200",
+  "title": "妻と倦怠期中の僕は逢花（義妹）に誘惑されて何度も、何度も、中出しをしてしまった…。 山岸逢花",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75580",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75580&name=山岸逢花"
+    }
+  ]
+};

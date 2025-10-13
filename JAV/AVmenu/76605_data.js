@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/22/e077b274/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76605,
+  "IDcode": "NATR-620",
+  "title": "夫に内緒で借りたお金が返せず犯●れた美人妻 二宮和香",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "苗条",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/38c20732817d300ee88e9585c1ec4eeb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76605",
+  "actresses": [
+    {
+      "name": "二宮和香",
+      "img_url": "https://picture.yoshiclub.xyz/20240620/4eed77a4-0ee7-4b22-8adc-1efdb2f67b3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76605&name=二宮和香"
+    }
+  ]
+};

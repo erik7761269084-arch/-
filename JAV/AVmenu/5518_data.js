@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fe37eeec-c6ba-44c4-aa73-ff4c8d389cc7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/2c2cf6b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5518,
+  "IDcode": "IPZZ-581",
+  "title": "出差遇上暴雨天，和童貞部下相部屋…溼身誘惑讓他獸性大發，絕倫性交七發直到天亮 ~ 花守夏歩",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "正統派",
+    "制服",
+    "口交",
+    "同住一屋・相部屋",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "出差",
+    "職場",
+    "女上司",
+    "寢取",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥",
+    "飯店",
+    "處男"
+  ],
+  "description": "IPZZ-581为IDEA POCKET出品,2025年6月6日发行的有碼成人影片由花守夏歩出演\n原本是跟公司童貞小弟一起出差，沒想到颱風來得超快，航班直接取消，趕著找地方住，結果只剩一間房！雖然覺得跟這小處男應該不會有啥，但一句“你還是童貞吧？哈哈”直接點燃了他的慾火！這小弟對濕透身子的女上司完全把持不住，瘋狂撲上來，慾望爆發一發不可收拾，整晚狂幹不停，直接突破底線，真的太猛了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042114421421_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042114421421_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5518",
+  "actresses": [
+    {
+      "name": "花守夏歩",
+      "img_url": "https://picture.yoshiclub.xyz/20250207/d739dc5b-0c7f-479e-badc-d399c3fbad46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5518&name=花守夏歩"
+    }
+  ]
+};

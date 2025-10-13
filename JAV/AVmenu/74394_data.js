@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250106/dSZIYjEw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74394,
+  "IDcode": "LUXU-1065",
+  "title": "ラグジュTV 1045",
+  "publish_date": "2018-12-31",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "自慰",
+    "姐姐",
+    "颜射",
+    "屁股",
+    "乳液",
+    "业余",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250106-1/4b54e0c59b471165aa8b4e7d51f5782d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74394",
+  "actresses": [
+    {
+      "name": "梨々花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74394&name=梨々花"
+    }
+  ]
+};

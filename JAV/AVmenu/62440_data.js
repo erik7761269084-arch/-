@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/f7758c64/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62440,
+  "IDcode": "NINE-112",
+  "title": "日本で一番ドスケベな超A5ランク最高肉！カリスマ爆乳J-cup高級デリヘル嬢、痴女りまくり13発射させるプライベート動画公開します。麻耶（20歳）",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "胖女人",
+    "礼仪小姐",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62440",
+  "actresses": []
+};

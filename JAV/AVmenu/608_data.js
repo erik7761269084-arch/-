@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d2179ccd-a14a-4ff2-a883-019a3f630b96/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 608,
+  "IDcode": "HEYZO-0729",
+  "title": "都會的洗禮 後編 - 雙葉愛",
+  "publish_date": "2014-11-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "顏射",
+    "素人",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "按摩棒",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241026/c1e3465a-5e8d-46d0-8a2a-78b75f18b0e7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241026/c1e3465a-5e8d-46d0-8a2a-78b75f18b0e7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=608",
+  "actresses": [
+    {
+      "name": "双葉愛",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-双葉愛.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=608&name=双葉愛"
+    }
+  ]
+};

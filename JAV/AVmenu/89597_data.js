@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/aCC6x31O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89597,
+  "IDcode": "SCPX-480",
+  "title": "偶然目にして思わずガン見していると勃起を誘発され理性が狂ってしまう無防備なパンチラ",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "乱伦",
+    "内衣",
+    "妹妹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89597",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/03/8491c92d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83937,
+  "IDcode": "FSDSS-407",
+  "title": "激勵淫語發射無限制按摩 社團裝扮對大叔全力應援 夏木鈴",
+  "publish_date": "2022-05-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "淫语",
+    "角色扮演者",
+    "礼仪小姐",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83937",
+  "actresses": []
+};

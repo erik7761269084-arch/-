@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1cf4d44-1ccc-408b-88d5-e330b3f06b93/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/26/4bdf74c0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9216,
+  "IDcode": "FSDSS-961",
+  "title": "我的店長聽着我男朋友說了我的敏感點，就不停的玩弄我的奶頭……降矢明日香",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "女友・妻子",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250111/20250111033130500500.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250111/20250111033130500500.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9216",
+  "actresses": [
+    {
+      "name": "降矢明日香",
+      "img_url": "https://picture.yoshiclub.xyz/20240810/3e17673c-31d6-46d0-b081-a41d1ba1ea2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9216&name=降矢明日香"
+    }
+  ]
+};

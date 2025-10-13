@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221207/FFA71CE3BC1C1355/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39193,
+  "IDcode": "90861C89DE0C9B223F88B93CE3E7CAC-8",
+  "title": "父亲离开后仅两秒钟开始他妈的的母亲和儿子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39193",
+  "actresses": []
+};

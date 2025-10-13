@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55372,
+  "IDcode": "BEF5489EC4EA0A0971D5BF16949F02F3",
+  "title": "他们是如此可爱的日本女学生第 69 卷",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55372",
+  "actresses": []
+};

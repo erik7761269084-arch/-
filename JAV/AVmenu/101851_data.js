@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240423/tT6n0Nrf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101851,
+  "IDcode": "SIRO-5243",
+  "title": "【ルックス良し！スタイル良し！感度良し！】三拍子揃ったド変態ちゃんが登場！「AVみたいなHがしたくて…」普通のHじゃ満足できなくて刺激が欲しくて応募！敏感ボディーがイキまくる姿は必見！ 【初撮り】ネットでAV応募→AV体験撮影 2141",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "屁股",
+    "潮吹",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101851",
+  "actresses": [
+    {
+      "name": "江澄ゆゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250220/fd984833-955b-410d-b66b-7b78bd9bb4a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101851&name=江澄ゆゆ"
+    },
+    {
+      "name": "ゆゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101851&name=ゆゆ"
+    }
+  ]
+};

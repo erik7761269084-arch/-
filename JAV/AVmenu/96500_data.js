@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/20/bcb5ac64/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96500,
+  "IDcode": "NNPJ-254",
+  "title": "「新作水着のモデルやってみませんか？」と素人勧誘ナンパ！ 優しくて押しに弱いムチムチ素人巨乳妻に極小ビキニを着させエッチなポーズを取らせまくる時代が来た！そしてAVデビューしちゃったさきさん（27歳） ナンパJAPAN EXPRESS Vol.58",
+  "publish_date": "2017-10-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/20/e4e8cf7450ff0b6dd542b8dfcc1e768a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96500",
+  "actresses": [
+    {
+      "name": "水川かえで",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/1732c987-cf42-4339-a20b-3f0d23177f45.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96500&name=水川かえで"
+    }
+  ]
+};

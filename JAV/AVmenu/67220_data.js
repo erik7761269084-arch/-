@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/16/125dc919/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67220,
+  "IDcode": "GS-458",
+  "title": "ソソるエステ嬢に本番おねだりされちゃったボクの粗チン！！噂のメンズエステでフル勃起！あまりにカチカチなので我慢できなくなったのか、喉奥まで咥えこまれ逆にお願いされた！！",
+  "publish_date": "2023-01-12",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "女上位",
+    "按摩",
+    "乳液",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/bbc13897202464abbcf97f53a90b5e09.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67220",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/11/2d26b227/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78402,
+  "IDcode": "MIAA-212",
+  "title": "「もう射精してるってばぁ」メンズエステ連続射精・追撃男潮！！汁搾り出し絶頂コース 永井マリア",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/1b00f3c3ab8cd3a7255c013bed655512.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78402",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78402&name=永井瑪麗亞"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240715/9FEuEzFZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97283,
+  "IDcode": "EBOD-583",
+  "title": "陸上競技歴11年！全国大会入賞！鍛え抜かれた腹筋ボディは驚異のウエスト55cm！！現役女子大生アスリートAVデビュー 市川沙緒里21歳",
+  "publish_date": "2017-04-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女大学生",
+    "运动",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97283",
+  "actresses": []
+};

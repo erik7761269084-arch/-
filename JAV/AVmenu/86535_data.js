@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/07/008c25ae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86535,
+  "IDcode": "VEC-529",
+  "title": "従順で下品で淫乱で…呼べばすぐに性処理しに来てくれて中出しOKな都合良すぎるボク専用の肉オナホはバイト先で働く人気ナンバーワンのパート妻 結城りの （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-05-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86535",
+  "actresses": []
+};

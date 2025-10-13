@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230206/07372E259F1DF787/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39520,
+  "IDcode": "HAMESAMURAI-0020",
+  "title": "hamesamurai0020 ニーハイがエロい女子大生のオナ・フェラ・生ハメ・中出し",
+  "publish_date": "2019-11-15",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [
+    "玩具",
+    "恋物癖",
+    "淫荡手淫",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "口交",
+    "素人",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39520",
+  "actresses": []
+};

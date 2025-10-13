@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220521/4AE4574E083335CD/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36828,
+  "IDcode": "75AC70C80373210966C3C2BCC1E64C-83",
+  "title": "トウォーク ポイズン 103 ほろ酔い巨乳娘 - 北川瞳",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36828",
+  "actresses": []
+};

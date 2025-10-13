@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/04/0b5cb181/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35622,
+  "IDcode": "0824163-68",
+  "title": "突袭隔壁欲求不满的巨乳人妻帮她体验高潮",
+  "publish_date": "2025-06-04",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/03/588487a32241958492e8e77cd68efe15.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35622",
+  "actresses": []
+};

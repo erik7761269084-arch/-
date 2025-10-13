@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/mQhjs033/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73691,
+  "IDcode": "MXGS-1111",
+  "title": "美人妻の猥褻情事 町工場の可憐な奥さんは羞恥攻めされ巨根狂いの牝女になる 瀬戸すみれ",
+  "publish_date": "2019-07-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73691",
+  "actresses": [
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73691&name=瀬戸すみれ"
+    }
+  ]
+};

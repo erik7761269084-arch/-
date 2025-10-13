@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83114b2f-b8f8-4b80-8a3a-f8ca2fe0d14b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10185,
+  "IDcode": "AARM-266",
+  "title": "世界上最爽的乳首玩弄！當以騎乘式姿勢做愛時，她一直看着你 ~ 日々樹梨花 辻櫻 杉咲しずか",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "慾求不滿",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "M男・M女",
+    "大奶头",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/afd3a297-7eee-4aaa-90e3-83730c432e71.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/afd3a297-7eee-4aaa-90e3-83730c432e71.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10185",
+  "actresses": [
+    {
+      "name": "辻櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20240710/7abc36fe-ff1f-4aa4-baa4-084338c65c84.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10185&name=辻櫻"
+    },
+    {
+      "name": "杉咲しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c21c81a4-3a97-4ff7-a774-ee9d2ca09ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10185&name=杉咲しずか"
+    },
+    {
+      "name": "日々樹梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241205/31702bc5-8847-4c11-8586-d1e73eafa2ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10185&name=日々樹梨花"
+    }
+  ]
+};

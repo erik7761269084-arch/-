@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220709/161F901CE09C3AA9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64456,
+  "IDcode": "6B41559765EA537877C9577F738D4F-11",
+  "title": "- 偷拍型男把妹師肏翻宇都宮紫苑(RION)！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64456",
+  "actresses": []
+};

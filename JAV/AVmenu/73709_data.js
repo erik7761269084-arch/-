@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/dEx97rUh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73709,
+  "IDcode": "ONEZ-195",
+  "title": "憧れの女上司 出張先のビジネスホテルでまさかの相部屋に 滝本エレナ",
+  "publish_date": "2019-07-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "自慰",
+    "姐姐",
+    "OL",
+    "主观视角",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73709",
+  "actresses": [
+    {
+      "name": "滝本エレナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73709&name=滝本エレナ"
+    }
+  ]
+};

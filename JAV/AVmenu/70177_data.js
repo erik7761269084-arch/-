@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/01d39b05/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70177,
+  "IDcode": "DOCD-056",
+  "title": "たちんぼ 夜の街に佇む美女に本気で交渉 Vol.4",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70177",
+  "actresses": []
+};

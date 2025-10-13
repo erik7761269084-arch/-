@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4aed685a-34dc-41d9-97e2-136e7494578a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2025/01/04/9a05baf9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10020,
+  "IDcode": "ALDN-395",
+  "title": "女社長的性欲 ~ 森澤佳奈",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女上司",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/2700121f-a120-4f3f-b85d-61a41940731b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/2700121f-a120-4f3f-b85d-61a41940731b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10020",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10020&name=森澤佳奈"
+    },
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10020&name=ミチくん"
+    }
+  ]
+};

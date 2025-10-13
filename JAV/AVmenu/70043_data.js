@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/d54ba555/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70043,
+  "IDcode": "JUFE-582",
+  "title": "悪魔的スローな射精コントロール じっくり肉棒ペットを弄ぶ肉感痴女 美谷朱音",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "手淫",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70043",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70043&name=美谷朱里"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70043&name=鲛岛"
+    }
+  ]
+};

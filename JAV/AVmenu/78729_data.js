@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/TeRHYoKY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78729,
+  "IDcode": "SPRD-1407",
+  "title": "僕の妻が…義父と義兄にも抱かれてた現実… 鈴木真夕",
+  "publish_date": "2021-05-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78729",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78729&name=鈴木真夕"
+    }
+  ]
+};

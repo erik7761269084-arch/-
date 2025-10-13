@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/21/94ca52f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104713,
+  "IDcode": "SNIS-201",
+  "title": "下着モデルをさせられて… 吉沢明歩",
+  "publish_date": "2014-08-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/20/96707543bd6ee37a2f02ef992ee6fb9c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104713",
+  "actresses": []
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a393d7ba-986b-412a-b32a-c0cb9141aedd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9540,
+  "IDcode": "KNMB-092",
+  "title": "被嚴重中出女優 ~ 鈴木真夕",
+  "publish_date": "2024-12-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "貓耳裝飾",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "KTV夜總會",
+    "猥褻穿著",
+    "女優訪談",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241228/f509f502-b5b8-4919-b8a9-e0bb2b6a5295.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241228/f509f502-b5b8-4919-b8a9-e0bb2b6a5295.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9540",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9540&name=鈴木真夕"
+    }
+  ]
+};

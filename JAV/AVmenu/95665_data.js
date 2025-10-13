@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/13/3b4e8c51/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95665,
+  "IDcode": "MXGS-708",
+  "title": "美人OL逆癡漢 橫山美雪",
+  "publish_date": "2014-12-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "荡妇",
+    "OL",
+    "性骚扰",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/18/e2fa9b6ba70c32ae181db9392860e82d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95665",
+  "actresses": [
+    {
+      "name": "横山美雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/706b0f67-f6ae-4522-ba3a-4e71a0c3ad40.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95665&name=横山美雪"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/6VHOTXwq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75015,
+  "IDcode": "EKDV-583",
+  "title": "彼女がボンデージに着替えたら。Mな私とSな私…どっちの私が好き？ 妃月るい",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "中出",
+    "紧缚",
+    "荡妇",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75015",
+  "actresses": [
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75015&name=妃月るい"
+    }
+  ]
+};

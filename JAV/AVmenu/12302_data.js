@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56c8e7bc-ba83-43b1-8b6c-1cef99336c61/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12302,
+  "IDcode": "PRIN-022",
+  "title": "同人AV【Dere Dere Love性愛備忘錄】可愛娃娃臉Jcup西瓜奶美巨乳&身高140cm美少女豪華2本番！ ~ 姬咲華",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "企畫",
+    "二次元",
+    "漫畫改編",
+    "游戲COSPLAY",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美少女",
+    "巨乳",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾",
+    "飯店"
+  ],
+  "description": "PRIN-022为妄想族出品,2024年9月3日发行的有碼成人影片由姫咲華出演\n娃娃臉美麗巨乳層＆最小美少女層同人 AV 首次亮相！ 各種夢幻角色扮演愛情性愛與流行層！ 雙乳重量驚人的3.0公斤，美麗的巨乳層！ 可愛的娃娃臉，捲曲的眼睛和動漫的聲音！ 雖然她平常是個天真無邪的類型，不會透露出任何男人的存在， 在男友面前，她興奮得一塌糊塗！ 剛從九州搬到東京的本地人！ 隨心所欲地使用她的小陰戶，讓她喝精子！ 超苗條的妹子，讓骨感愛好者無法抗拒！ 完全自製的色情影片！豪華雙功能！超級限量版！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901011031479479.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240901/20240901011031479479.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12302",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12302&name=姫咲華"
+    }
+  ]
+};

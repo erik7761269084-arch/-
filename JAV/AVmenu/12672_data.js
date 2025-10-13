@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/219bb95a-f3bd-42f5-b4d4-436cac406f90/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/16/2877a3bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12672,
+  "IDcode": "MUDR-275",
+  "title": "如此激烈做愛！最好的感覺就是和愛自慰的巨乳女同學在樓梯上偷偷做愛！ ~ 天月梓",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "純粹的慾望",
+    "美乳",
+    "美腿",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "校園生活",
+    "巨乳",
+    "學校",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "同學"
+  ],
+  "description": "MUDR-275为無垢出品,2024年8月20日发行的有碼成人影片由天月梓出演\nShota 目睹了他的同學 Nao 在教室裡自慰。我很沮喪，於是我問他：「你願意和我一起自慰嗎？」然後一種奇怪的關係開始了，他們在清晨在教學大樓裡互相展示了對方的自慰。起初，她對這種不尋常的變態行為感到興奮，但逐漸成為一種習慣。為了給他們的日常事務尋求新的刺激，兩人決定發生性行為，而迄今為止，性行為一直被嚴格禁止。繪製豐滿色情女孩的天才阿爾普的傑作現已真人拍攝！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815230901199199.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815230901199199.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12672",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12672&name=天月梓"
+    }
+  ]
+};

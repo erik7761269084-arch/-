@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/9be41394/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69453,
+  "IDcode": "CEAD-674",
+  "title": "- 乳首オナニーでイク15人の女たち！Vol，3～乳首いじって個性豊かに発情・メス化するド淫乱女優ドキュメント - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "自慰",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/03/e9fa1aa70d37db1ba23a5f4d50f26e19.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69453",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=小坂ひまり"
+    },
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=浜辺栞帆"
+    },
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=三岳祐奈"
+    },
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=堀北実来"
+    },
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=柊有希"
+    },
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=西村ニーナ"
+    },
+    {
+      "name": "池田あやみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240823/dfe9ffb8-b990-48d7-8f90-382040f4f572.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=池田あやみ"
+    },
+    {
+      "name": "生田望美",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/50837e24-6234-4798-8b74-cba6a8f8de0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=生田望美"
+    },
+    {
+      "name": "稲月このは",
+      "img_url": "https://picture.yoshiclub.xyz/20240701/64e58499-847b-42eb-a3f5-fa545733e2c1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=稲月このは"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=由爱可奈"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69453&name=安倍亜沙美"
+    }
+  ]
+};

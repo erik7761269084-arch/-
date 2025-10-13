@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a105c73-178c-4148-9e65-68cfb061fd49/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/04/57de2fca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12239,
+  "IDcode": "NACR-851",
+  "title": "性感巨乳人妻被迫道歉並與商業夥伴的情色社長發生性關系 ~ 織田真子",
+  "publish_date": "2024-09-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240905/8bbd719f-8fa5-40d2-9f2e-bf37f1d21998.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240905/8bbd719f-8fa5-40d2-9f2e-bf37f1d21998.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12239",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12239&name=織田真子"
+    }
+  ]
+};

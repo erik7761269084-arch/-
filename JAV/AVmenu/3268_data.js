@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d5d27ed8-7925-4e7e-a69b-3fbbb2b72b71/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/5df5be5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3268,
+  "IDcode": "SCOP-881",
+  "title": "曾經霸凌我的爆乳不良少女居然在M女風俗店工作！揭穿身份後瘋狂調教復仇讓她潮吹求饒",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "SCOOP",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "網襪",
+    "超爆乳",
+    "深喉",
+    "臀控",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "胖女人",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "奇聞趣事",
+    "拜金女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥",
+    "報復"
+  ],
+  "description": "SCOP-881为SCOOP出品,2025年8月22日发行的有碼成人影片由乙愛麗絲，椿莉香，藤沢麗央出演\n當年被欺負的仇，今天來報！那個囂張的爆乳不良少女如今淪為M女風俗妹，直接點名揭穿她真面目，狠狠調教一波復仇！大奶子被揉到變形，下面濕得一塌糊塗，根本就是個超弱的雜魚！最後還主動求著要，復仇爽到不行！她尖叫著：不行啦…要去了啊啊啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044223582582_64137_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044223582582_64137_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3268",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3268&name=乙愛麗絲"
+    },
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3268&name=椿莉香"
+    },
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3268&name=藤沢麗央"
+    }
+  ]
+};

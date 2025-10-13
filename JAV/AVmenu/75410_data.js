@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/bcce4db6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75410,
+  "IDcode": "SHIND-095",
+  "title": "粘着ス●●カーMの追跡・自宅●禁記録＃120・121",
+  "publish_date": "2025-01-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "凌辱",
+    "颜射",
+    "业余",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75410",
+  "actresses": []
+};

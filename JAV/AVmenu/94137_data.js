@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241021/AZ1YA2a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94137,
+  "IDcode": "SDNM-481",
+  "title": "いつでもにこやかに話を聞いてくれる慈愛ママ。満ち溢れた性欲と向き合うことを決意した 相良明里 32歳 第2章 いつもニッコニコ優しいお母さんの淫らでドMな「本当の姿」 1日限りの潮吹き絶頂体験",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94137",
+  "actresses": [
+    {
+      "name": "相良明里",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/735b5aea-4cce-4057-b470-98804501cdbc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94137&name=相良明里"
+    }
+  ]
+};

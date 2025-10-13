@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/25b8853c-9f0d-48e7-8f2b-0c0ec6dc969c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/7ff7e7d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7402,
+  "IDcode": "CJOD-457",
+  "title": "對不起把你雞雞搞硬了… 絕美身材的叔母幫我擼完還跟我玩溫泉中出し偷情遊戲 ~ JULIA",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "後入",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "足交",
+    "美人",
+    "熟女",
+    "溫泉",
+    "綠茶婊",
+    "短髮",
+    "極品美人",
+    "阿姨・侄子"
+  ],
+  "description": "CJOD-457为癡女特化出品,2025年3月25日发行的有碼成人影片由JULIA出演\n我跟媽媽還有姑姑JULIA一起去溫泉旅行了。 「一起去洗澡吧~」我決定和阿姨一起去女浴場…！ JULIA阿姨的身材...脫下來的時候好驚艷啊！ ！ ！她的 J 罩杯身材讓我完全勃起，所以我偷偷地在浴缸裡給她自慰！仍然不滿足，他要求學習成人性行為…！一遍又一遍中出！兩人在溫泉裡偷偷的偷情，如果被發現的話就糟了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111603815815.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320111603815815.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7402",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7402&name=JULIA"
+    },
+    {
+      "name": "青沼",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7402&name=青沼"
+    }
+  ]
+};

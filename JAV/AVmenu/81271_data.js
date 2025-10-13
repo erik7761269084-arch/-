@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220912/yndoRR0D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81271,
+  "IDcode": "MT-005",
+  "title": "美・少女～18歳純情乙女～/早川ひな",
+  "publish_date": "2012-02-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220913-1/7e528af06688832ce87174923a348e38.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81271",
+  "actresses": [
+    {
+      "name": "早川ひな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81271&name=早川ひな"
+    }
+  ]
+};

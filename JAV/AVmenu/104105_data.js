@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240629/Mb4QcldN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104105,
+  "IDcode": "HMN-230",
+  "title": "【FANZA限定】今しかできないこと見つけた！ めっちゃ明るいエッチなこと大好き女子大生のはじめてのナマ中出し 清水あんな 生写真2枚付き",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "中出",
+    "多P",
+    "女大学生",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hmn230/hmn230pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104105",
+  "actresses": [
+    {
+      "name": "清水あんな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104105&name=清水あんな"
+    }
+  ]
+};

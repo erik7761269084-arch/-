@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/r0xWDNP9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68637,
+  "IDcode": "MDTM-792",
+  "title": "【FANZA限定】制服を着た教え子は都合の良いセフレ。美音ゆめ 03 チェキ付き",
+  "publish_date": "2022-11-05",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "出轨",
+    "主观视角",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250403-1/da4bf22a4c4a680b0bf18d45d8d25116.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68637",
+  "actresses": [
+    {
+      "name": "アリス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68637&name=アリス"
+    }
+  ]
+};

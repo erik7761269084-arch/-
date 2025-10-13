@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/37e4294d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92405,
+  "IDcode": "MRSS-144",
+  "title": "酔っ払って帰ってきた妻が間違って隣人のゴミ部屋へ入ってしまい、僕と勘違いして中年オヤジに発情して中出しセックスした話 波多野結衣",
+  "publish_date": "2023-04-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92405",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92405&name=波多野结衣"
+    }
+  ]
+};

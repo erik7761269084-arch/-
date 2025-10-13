@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7103534f-61f1-4777-95c1-1027403452d3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2363,
+  "IDcode": "XVSR-819",
+  "title": "AV女優與男優的真實聯誼監控實錄 ~ 白石環奈 音羽美鈴 福田もも",
+  "publish_date": "2025-05-31",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "巨尻",
+    "二次元",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "美人",
+    "女學生",
+    "女優"
+  ],
+  "description": "XVSR-819为MAX-A出品,2025年5月31日发行的有碼成人影片由福田もも，白石環奈，音羽美鈴出演\n好奇AV女優跟男優一起搞聯誼會是啥畫面嗎？事前完全沒劇本、沒提示，只告知了參與的女優和男優名單，拍攝開始前根本不知道會有啥發展，絕對真實的監控！這次鎖定了三位看似清純又正經的白石環奈、音羽美鈴和福田もも，沒想到聯誼一開場，這三位就展現出超乎想像的騷勁，直接把聯誼變成一場超火辣的淫趴！這種局誰不想參加啊，真的嗨到爆啦哈哈！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531050140457457_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250531/20250531050140457457_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2363",
+  "actresses": [
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2363&name=音羽美鈴"
+    },
+    {
+      "name": "福田もも",
+      "img_url": "https://picture.yoshiclub.xyz/20240326/e3f3af6a-8f02-41be-929e-16d7c7edc324.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2363&name=福田もも"
+    },
+    {
+      "name": "白石環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/1b9431b5-57c0-4fe3-916f-90f05c52a063.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2363&name=白石環奈"
+    }
+  ]
+};

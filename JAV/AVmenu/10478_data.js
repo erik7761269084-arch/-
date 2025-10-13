@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c281a344-32d8-4a60-b075-426e57b5916f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/8e019f4d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10478,
+  "IDcode": "JUQ-963",
+  "title": "對於這個任務來說，它太大了。由於M cup爆乳的幹擾而潛入不能……巨乳人妻搜查官被綁在電信柱上羞辱 ~ 葉愛",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "肉絲",
+    "口交",
+    "監獄",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "緊縛",
+    "美人妻",
+    "黑幫",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "熟女",
+    "女搜查官",
+    "羞恥"
+  ],
+  "description": "JUQ-963为MADONNA出品,2024年11月26日发行的有碼成人影片由叶愛出演\n「如果我不能隱藏……我就不會再隱藏了。」一個過去僥倖逃脫並被羞辱性強暴的男人。繼續追尋男人的調查員的愛。即使成為了已婚婦女，她也沒有放棄。最後，一個國際詐欺集團受到調查。領導者是個名叫大木的人。如果你追蹤Oki，你會發現那個男人...首先，為了找到他們的基地，艾巧妙地運用自己修練的潛入技能跟蹤他們。我壓低了聲音，消滅了存在……但無論如何，我發現了。這一次，目標是一個強大的敵人。艾從電線桿上伸出的巨大乳房像戰士一樣顫抖著…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003404844844.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122003404844844.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10478",
+  "actresses": [
+    {
+      "name": "叶愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/1ed68a2e-0062-4418-94b0-d26efbd02118.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10478&name=叶愛"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10478&name=大岛丈"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10478&name=ナイアガラ翔"
+    }
+  ]
+};

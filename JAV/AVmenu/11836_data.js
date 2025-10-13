@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/71102e9b-9736-4ef5-a61f-02443295803f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/04/41f71cdd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11836,
+  "IDcode": "JUQ-871",
+  "title": "我憧憬的宿舍女管被正值壯年的前輩學長們生操輪奸，不斷受精中出！！ ~ 流川はる香",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "騎乗位",
+    "兩男一女",
+    "內衣",
+    "輪姦",
+    "多P",
+    "美腳",
+    "人妻",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-871为MADONNA出品,2024年9月24日发行的有碼成人影片由流川はる香出演\n儘管我在家鄉保持不敗，是美式足球隊的王牌球員，但在大學裡我完全無法立足，每天都要承受學長們的壓力。我之所以能夠繼續這種地獄般的修行，是因為宿舍媽媽遙的鼓勵。是的，我愛上了遙。他全心投入訓練，就是為了釋放自己散亂的情緒。然而，在練習結束後的酒會上，遙被前輩搭了車……沒想到會發生這樣的事情……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919032106503503.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919032106503503.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11836",
+  "actresses": [
+    {
+      "name": "流川はる香",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d223b1bc-2004-4cf4-8e14-afab70fcfc83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11836&name=流川はる香"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11836&name=岩下たろう"
+    }
+  ]
+};

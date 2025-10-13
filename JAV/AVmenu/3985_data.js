@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41b8203f-e576-4cf7-8e66-cbcfdd16d5bc/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/9ae4aceb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3985,
+  "IDcode": "ADN-692",
+  "title": "上門要債的年輕人妻的奶子太誘人了，要我付錢就給我爽一下，結果她竟然同意了 ~ 梓光莉",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "臀控",
+    "乳交",
+    "色白",
+    "身體換業務",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "口爆",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "ADN-692为ATTACKERS出品,2025年8月1日发行的有碼成人影片由梓光莉出演\n老公在公司负责收滞纳金，结果被业绩压得精神崩溃，最后还因为跟客户起冲突动了手，直接被炒鱿鱼。为了赔偿损失和维持生计，梓光莉只好替老公出马去收钱。这次的目的地是个破旧公寓，住着个无业的糙汉优太。梓光莉为了完成任务拼尽全力，可她那套装都遮不住的傲人身材，早就让欲求不满的优太看得心痒痒。终于忍不住爆发，直接挑明：付钱可以，但得先让我爽一把！没想到她竟然……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085249601601_65444_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085249601601_65444_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3985",
+  "actresses": [
+    {
+      "name": "梓光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230811/0b448ec0-7d4f-4e10-b79a-b7051caa7ebd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3985&name=梓光莉"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3985&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/3xCkysVN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74136,
+  "IDcode": "MIAA-103",
+  "title": "女子トイレ襲撃レ×プ 制服少女のフレッシュ小便が欲しくて欲しくて我慢できない… 岬あずさ",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "放尿",
+    "监禁",
+    "潮吹",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250109-1/8687cf069f71f4cfd44236ef6c83993e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74136",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74136&name=岬梓沙"
+    }
+  ]
+};

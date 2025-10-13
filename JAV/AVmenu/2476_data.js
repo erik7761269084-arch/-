@@ -1,0 +1,39 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2476,
+  "IDcode": "VEC-731",
+  "title": "朋友老婆無內直穿絲襪的美腿誘惑我無法自拔 ~ 森彩美",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "4K",
+    "女主持・主播",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "單體作品",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "熟女"
+  ],
+  "description": "VEC-731为VENUS出品,2025年9月18日发行的有碼成人影片由森彩美出演\n彩美結婚幾年，老公早就對她不聞不問，讓她心裡滿是怨氣，慾望累積到快爆發。某天老公的朋友伊藤來家裡玩，她抓準時機，背著老公秀出無內直穿絲襪的超辣美腿，暗地裡勾引伊藤。那雙讓人想舔到天上去的迷人長腿，隱約透出的誘惑風景，簡直讓人慾火焚身！彩美使出渾身解數挑逗，徹底把伊藤迷倒，趁老公醉倒後，她更是主動貼近，擦出激烈火花……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051618467467_69833_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051618467467_69833_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2476",
+  "actresses": [
+    {
+      "name": "森彩美",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/c1ed7900-41cd-4741-bb72-b7ee8065a963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2476&name=森彩美"
+    }
+  ]
+};

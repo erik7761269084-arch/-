@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220320/A2746DFF8A11D9EB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35837,
+  "IDcode": "E18B82E09208C772395861D436FB2AF-5",
+  "title": "1pon 051119_848寂寞女邻居",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35837",
+  "actresses": []
+};

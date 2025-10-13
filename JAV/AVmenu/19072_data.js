@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa3db1c7-5a35-4dd3-8b83-0d5c1c325657/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19072,
+  "IDcode": "IPX-378",
+  "title": "≪1vs1≫ 艶やかで過激 一天之内与穿内衣的美女达到 10 次射精高潮",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "素人作品",
+    "姐姐・妹妹",
+    "巨乳",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230723/20230723211043533533.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230723/20230723211043533533.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19072",
+  "actresses": [
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19072&name=夏希栗"
+    }
+  ]
+};

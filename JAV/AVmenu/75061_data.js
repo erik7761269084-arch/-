@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/BHX0JpsP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75061,
+  "IDcode": "EKDV-588",
+  "title": "終電を逃し泊めてと訪ねてきた従兄妹は幼い頃の姿からは全く想像できないレベルのヤリマンビッチになっていた…。眼鏡女子ももか 加藤ももか",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "眼镜",
+    "中出",
+    "纪录片",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75061",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75061&name=加藤桃香"
+    }
+  ]
+};

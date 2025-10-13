@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220304/450CF47002107FF6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102648,
+  "IDcode": "DG-100",
+  "title": "【産婦人科検診】スレンダー美白妻は超敏感絶叫！「ここは病院ですから、お静かにお願いします！」",
+  "publish_date": "2022-06-30",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "女优按摩棒",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1596dg100/h_1596dg100pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102648",
+  "actresses": []
+};

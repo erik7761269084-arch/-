@@ -1,0 +1,28 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99626,
+  "IDcode": "DASD-619-",
+  "title": "脹らむ股間に興味深々。思春期女子と黒人家庭教師。 あやめ陽菜",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "制服",
+    "巨大阴茎",
+    "黑人演员",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99626",
+  "actresses": [
+    {
+      "name": "神谷千佳",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99626&name=神谷千佳"
+    }
+  ]
+};

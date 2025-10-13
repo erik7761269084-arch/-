@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/39724d51-1948-48fc-87c5-1e2169dcb058/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/13/99e04d0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7053,
+  "IDcode": "SONE-666",
+  "title": "操到爽翻天 ~ 凪光",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "SONE-666为S1出品,2025年4月8日发行的有碼成人影片由凪光出演\n即時性愛、束縛玩具、乳房遊戲、壯陽藥水、野蠻活塞式刺激……當用各種「全套高潮」把凪光推向極限時，我們會看到什麼呢？本作品是一場徹底的性高潮，讓凪光超越了極限，進入了未知的領域。經過多次的高潮之後，你會釋放出更強烈的狂喜。她擁有業內最美麗的臉龐和巨大的胸部，她狂野的方式如此誘人……如此色情。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091834415415.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403091834415415.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7053",
+  "actresses": [
+    {
+      "name": "凪光",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/3baa99f0-6f17-43ce-b119-a6b639c59061.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7053&name=凪光"
+    },
+    {
+      "name": "ダンディ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7053&name=ダンディ"
+    },
+    {
+      "name": "有栖花绯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7053&name=有栖花绯"
+    }
+  ]
+};

@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/416aec28/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2168,
+  "IDcode": "ADN-728",
+  "title": "大叔，對不起啦…被逼當詐騙小妹的少女 ~ 美之島惠理",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "吞精",
+    "傲嬌",
+    "流汗",
+    "乳交",
+    "性感睡衣",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "ADN-728为ATTACKERS出品,2025年10月2日发行的有碼成人影片由美之島惠理出演\n一个可怜的少女被逼成为诈骗小妹，专门勾引大叔骗钱。这次目标是个刚退休的老头，退休金高达850万，还有一堆存款，上面命令她必须把钱全榨干！可少女实在下不去手，内心挣扎：“这种缺德事我真干不下去！”结果却被骂得狗血淋头：“蠢货！对猎物心软个屁！你的任务就是用这副身材、这张嘴和下面的小穴，把那老头榨到渣都不剩！”剧情超刺激，少女的纠结与诱惑交织，绝对让你看得心痒痒！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002053619639639_74881_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002053619639639_74881_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2168",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2168&name=美之島惠理"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/ew4Z9quP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90413,
+  "IDcode": "PKPD-258",
+  "title": "【FANZA限定】女優最後の1日ドキュメント 7年間ありがとう！人生ラストのもえスマイルと号泣の理由 葉月もえ パンティと生写真付き",
+  "publish_date": "2023-09-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90413",
+  "actresses": [
+    {
+      "name": "叶月もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90413&name=叶月もえ"
+    }
+  ]
+};

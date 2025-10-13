@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230121/eea48bf6-2436-48e4-9a95-170de906a505/index.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/11/491f5686/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1850,
+  "IDcode": "CWPBD-69",
+  "title": "CATWALK POISON 69 ～被虐乳生姦～ : 小澤愛麗絲",
+  "publish_date": "2012-09-20",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "乳交",
+    "中出",
+    "口交",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/d4011950-47ad-4167-8219-cf86053cfe9d.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/d4011950-47ad-4167-8219-cf86053cfe9d.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1850",
+  "actresses": [
+    {
+      "name": "小澤愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Fitch/AI-Fix-小沢アリス.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1850&name=小澤愛麗絲"
+    }
+  ]
+};

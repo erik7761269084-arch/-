@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9ae380f4-79c4-46cc-a8e0-b9edfc266714/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250405/3PZA73FX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13128,
+  "IDcode": "SSNI-331",
+  "title": "體液交換，激烈的性愛 ~ Miru",
+  "publish_date": "2018-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "無碼破解",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-331为S1出品,2018年10月19日发行的有碼成人影片由Miru出演\nS1最色情的女孩Sakamichi Miru出現在熱門系列“Dokutoku”中！憑藉她天生的色情潛力，她將雞巴深深地插入她的喉嚨，並給予它豐富的深喉！研磨女牛仔的位置，刺激她的陰道後部並劇烈移動它！幾乎未經切割、不間斷、嚴肅的性愛，我們在出汗的同時隨著本能的引導而互動！正在成長的 18 歲女孩被豐富而激烈的性行為迷住了！請看一下讓演員任由他擺佈的精湛技巧。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240723/20240723221056989989.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240723/20240723221056989989.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13128",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13128&name=Miru"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13128&name=玉木玲"
+    }
+  ]
+};

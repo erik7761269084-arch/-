@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/yvhPE8Bu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78066,
+  "IDcode": "JUY-482",
+  "title": "見た目がいやらし過ぎて不謹慎な元女教師人妻 宮川ありさ 30歳 AVデビュー！！",
+  "publish_date": "2018-05-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "数位马赛克",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241123-1/5d38f13fd66f7557d1b5a1a08fd2d50c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78066",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78066&name=小田切ジュン"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78066&name=しみけん"
+    },
+    {
+      "name": "宫川ありさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78066&name=宫川ありさ"
+    }
+  ]
+};

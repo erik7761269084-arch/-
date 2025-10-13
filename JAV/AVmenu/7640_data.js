@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b3e58e60-96f8-4538-98c4-b6e0290e2680/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7640,
+  "IDcode": "HSODA-060",
+  "title": "可以時間停止的神奇學生宿舍 用神器隨時插進拔出想停就停 ~ 柏木小夏 五十嵐清華 皆瀨明里 愛瀨優里 鬆丸香澄",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "劇情",
+    "校花",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "時間停止",
+    "強姦",
+    "騎乗位",
+    "迷姦",
+    "少女",
+    "美少女",
+    "搞笑・模仿",
+    "清楚系",
+    "校園生活",
+    "美人",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "HSODA-060为HUNTER出品,2025年3月11日发行的有碼成人影片由柏木小夏，皆瀨明里，五十嵐清華，松丸香澄，愛瀬優里出演\n「咦？等一下！只有這個宿舍的時間停止了？！」啥？那間宿舍裡，有著一件可以隨意暫停時間的神器，具體時間取決於地點！ ！我是一個書呆子，常常被宿舍裡的傢伙欺負，但如果時間停止了，那就沒關係了！我加倍報復他對我的怨恨，把他打得落花流水！隨心所欲地觸摸、舔、插入、取出，倒轉時間、停止、返回……你想停止多少次都可以！ ！我在學生宿舍階級制度中處於最底層，但透過掌控時間，我就能升到最高層！我要把我感受到的所有仇恨注入你的陰道！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123657108108.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305123657108108.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7640",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7640&name=柏木小夏"
+    },
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7640&name=皆瀨明里"
+    },
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7640&name=五十嵐清華"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7640&name=愛瀬優里"
+    },
+    {
+      "name": "松丸香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20241110/62618ece-36e0-4484-90d2-313a4d20f853.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7640&name=松丸香澄"
+    }
+  ]
+};

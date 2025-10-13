@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/20/145ef414/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86634,
+  "IDcode": "WAAA-199",
+  "title": "行列が出来る中出し中毒公衆便女 濃厚オヤジの追撃種付けプレス20連発大乱交 横宮七海",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230211-1/f0c011a94ae47bc97621bd84a9623f1b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86634",
+  "actresses": []
+};

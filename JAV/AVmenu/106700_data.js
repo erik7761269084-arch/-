@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/ea8fb1aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106700,
+  "IDcode": "EBWH-017",
+  "title": "僕の日常生活が突然AVの世界に！？ 勃ったら即ハメ！最高峰スレンダー巨乳美女たちと夢の全裸同棲ドキュメント 中条りの 桐條紗綾",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/15/88c4768874a3ce486bb1a88ea2a9bdb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106700",
+  "actresses": [
+    {
+      "name": "森春流",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/7c86e86e-29f6-4136-abc3-e46d0de5193b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106700&name=森春流"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106700&name=ナイアガラ翔"
+    }
+  ]
+};

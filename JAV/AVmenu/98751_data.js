@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98751,
+  "IDcode": "MDS-884-",
+  "title": "オトコとして育ってきたボク。その秘密を知る幼馴染みたちに中出し輪姦さ",
+  "publish_date": "2018-11-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "轮奸",
+    "女同性恋",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98751",
+  "actresses": [
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98751&name=阿部乃美久"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98751&name=麻里梨夏"
+    }
+  ]
+};

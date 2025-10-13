@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eed61555-c803-4029-8d30-669eb566aeb8/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/WwYYLYLZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13153,
+  "IDcode": "NACR-829",
+  "title": "資產家公公和人妻兒媳 ~ 都月楓",
+  "publish_date": "2024-07-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "老頭子",
+    "乳交",
+    "色白",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "感官作品",
+    "口交",
+    "自宅",
+    "不倫",
+    "公公",
+    "兒媳",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240721/57331c19-cc5c-442e-890b-3e776bc3b861.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240721/57331c19-cc5c-442e-890b-3e776bc3b861.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13153",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13153&name=都月楓"
+    }
+  ]
+};

@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/656263ba-accb-4ea9-a82a-eba15ebaef59/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/09/11cf0430/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4956,
+  "IDcode": "MIDA-223",
+  "title": "老婆回娘家三天，巨乳繼女正嫩被我狠狠幹了個夠 ~ 小泉渚",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "傲嬌",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "繼父",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MIDA-223为MOODYZ出品,2025年6月27日发行的有碼成人影片由小泉渚出演\n媽媽有事回娘家去了，留下我和那個讓人頭大的繼父獨處三天。媽媽一走，這老傢伙立馬原形畢露，狂吼著‘老子早就想幹你這對大奶了！’直接獸性大發！他偷偷給渚下了媚藥，趁她沒力反抗就瘋狂玩弄那對巨乳！這絕倫老爸簡直喪心病狂，天天對渚下手！被那根巨根一次次猛插，渚最後竟然開始主動求歡，嬌喘著‘爸爸，我要高潮了啦！’奶子晃得眼花撩亂，潮吹噴得到處都是，徹底被大肉棒給征服啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032158452452_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032158452452_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4956",
+  "actresses": [
+    {
+      "name": "小泉渚",
+      "img_url": "https://picture.yoshiclub.xyz/20250301/6fc15c7c-f254-4219-9b9b-d4b550e29cad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4956&name=小泉渚"
+    }
+  ]
+};

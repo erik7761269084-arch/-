@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/33605855/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66423,
+  "IDcode": "NACX-154",
+  "title": "ぶらんぶらんと揺れ動く垂れ乳熟女20人VOL.02 生写真とパンティ付き",
+  "publish_date": "2025-06-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66423",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=吉根柚莉爱"
+    },
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=七草千歲"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=翔田千里"
+    },
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=谷梓"
+    },
+    {
+      "name": "村上涼子",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/e32a1800-18a8-4a37-90d5-33880fa0fc5b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=村上涼子"
+    },
+    {
+      "name": "寺島志保",
+      "img_url": "https://picture.yoshiclub.xyz/20250223/9ca369d3-2f3f-4a3b-8246-3a9b2458eda6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=寺島志保"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=安倍亜沙美"
+    },
+    {
+      "name": "上岛美都子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=上岛美都子"
+    },
+    {
+      "name": "折原ゆかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=折原ゆかり"
+    },
+    {
+      "name": "藤下梨花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=藤下梨花"
+    },
+    {
+      "name": "大石忍",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66423&name=大石忍"
+    }
+  ]
+};

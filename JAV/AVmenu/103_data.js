@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb9090a0-1986-49b9-ab3b-da7afc1be658/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 103,
+  "IDcode": "HEYZO-0036",
+  "title": "空姐制服誘惑，忍不住想來一發！ ~ 和久井なな",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "空姐制服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "清純",
+    "癡女",
+    "手指插入",
+    "空姐",
+    "獵豔",
+    "按摩棒",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0036为HEYZO出品,2012年8月31日发行的無碼成人影片由和久井なな出演\n想和性感空姐来场激情戏？这次绝对满足你的幻想！穿着CA制服的ふわりゆうき小可爱上线啦！她外表美艳动人，却带着一股天然呆萌的气质，这反差萌简直让人心痒痒！在飞机上被乘客偷吻不说，连员工证都被顺走了，对方还放话：想要拿回去就来机场酒店。结果咱们天真的ゆうき酱还真去了，直接成了那群饿狼的盘中餐！各种姿势轮番上阵，激烈缠绵，最后还被中出两次，直冲云霄，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250813/20250813015450418418_52974_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250813/20250813015450418418_52974_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103",
+  "actresses": [
+    {
+      "name": "和久井なな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250813/202508131034448888_71152_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103&name=和久井なな"
+    }
+  ]
+};

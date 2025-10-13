@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241225/Wb3YKvc2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75164,
+  "IDcode": "JURA-024",
+  "title": "初撮り五十路妻、ふたたび。 磯山恵子",
+  "publish_date": "2020-02-20",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/e321ab7b0f194390d0804dff4ce2cbb0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75164",
+  "actresses": [
+    {
+      "name": "矶山恵子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75164&name=矶山恵子"
+    }
+  ]
+};

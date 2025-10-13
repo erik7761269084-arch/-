@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250106/aCdcNJl6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74968,
+  "IDcode": "HUNTA-641",
+  "title": "超絶倫女子たちが皆で学校中ボクを追いかけまわして何度も何度もハメまくり！！去年まで女子校だった学校に編入したら…想像以上に女子が…",
+  "publish_date": "2019-08-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "中出",
+    "淫乱，真实",
+    "学校作品",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74968",
+  "actresses": []
+};

@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/PukyFpzR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89653,
+  "IDcode": "SDDE-701",
+  "title": "ベロ長プロキス講師たちがひとりひとりに“もっっと“舐めずり個別指導 ベロキス予備校ゼミナール 2限目",
+  "publish_date": "2023-09-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "姐姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89653",
+  "actresses": []
+};

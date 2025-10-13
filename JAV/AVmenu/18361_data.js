@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfa10d94-e9f5-45a6-a13b-9d8905c8de41/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/01/11/0685df9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18361,
+  "IDcode": "IPX-778",
+  "title": "洗腦 身體被服從療法徹底征服的人氣女主播。忍受失禁、射精、射精的堅強女播音員。是桃乃木嗎？",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "凌辱",
+    "女主持・主播",
+    "顏射",
+    "催眠",
+    "口交",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231012/20231012003742402402.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231012/20231012003742402402.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18361",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18361&name=桃乃木香奈"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/usNHWR5G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73696,
+  "IDcode": "MIAA-153",
+  "title": "「ねぇ、チ○ポしゃぶるだけならイイでしょ」 種搾りフェラでお口マ○コに中出しさせられる毎日。 旦那とセックスレスな人妻2人にチ○ポを狙われている隣人のボク…。",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73696",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73696&name=蓮実クレア"
+    },
+    {
+      "name": "桐岛莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220050303303_36216_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73696&name=桐岛莉乃"
+    }
+  ]
+};

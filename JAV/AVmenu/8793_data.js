@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6c06e91-7aa5-4e00-94a7-378e1738ad95/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8793,
+  "IDcode": "NSFS-351",
+  "title": "寢取會館 Vol.10 妻子變成了肉便器 ~ 玉城夏帆",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "調教",
+    "深喉",
+    "變態",
+    "流汗",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "短髮",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250126/20250126041844260260.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250126/20250126041844260260.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8793",
+  "actresses": [
+    {
+      "name": "玉城夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/38bdeeca-b286-487d-9966-b060917d40a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8793&name=玉城夏帆"
+    }
+  ]
+};

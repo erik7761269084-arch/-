@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/51a94604/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78554,
+  "IDcode": "NVH-035",
+  "title": "男の娘ガールズバー！聖水、ザーメン飲み放題、超ハーレム4P SEX！ 愛瀬めい/橘芹那/愛瀬まりさ （BOD）",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "肛交",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78554",
+  "actresses": [
+    {
+      "name": "橘芹那",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-橘芹那.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78554&name=橘芹那"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78554&name=左慈半造"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78554&name=じゅうもんじ"
+    },
+    {
+      "name": "愛瀬まりさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78554&name=愛瀬まりさ"
+    }
+  ]
+};

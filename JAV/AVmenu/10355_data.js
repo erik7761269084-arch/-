@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6a06fd9c-5710-4824-a52d-dc50712869e5/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220312/1D9F75554CAF9D89/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10355,
+  "IDcode": "SSNI-471",
+  "title": "巨乳女子生徒 追打強奸 ~ 乃木蛍",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "JK校服",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美少女",
+    "更衣室",
+    "清純",
+    "校園生活",
+    "巨乳",
+    "學校",
+    "綠茶婊",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "同學",
+    "羞恥",
+    "報復"
+  ],
+  "description": "SSNI-471为S1出品,2019年5月7日发行的有碼成人影片由乃木蛍出演\n野木螢的首部強暴作品，以深喉、振動器潮吹、強迫性愛為特色的全面連續劇已發布！老師誣告女孩的代價就是羞辱性的淫亂…我用雞巴摀住了無法抗拒的女孩的嘴……原本應該幸福的學校生活變成了地獄！美麗女學生被變態老師盯上，被困並被強姦。 「請原諒我！」即使她哭喊，強姦也沒有結束，強行的強姦仍然讓她一次又一次地射精！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241127/20241127061345205205.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241127/20241127061345205205.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10355",
+  "actresses": [
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10355&name=乃木蛍"
+    }
+  ]
+};

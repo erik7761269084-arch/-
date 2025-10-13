@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/25/d03f1c67/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92951,
+  "IDcode": "NACR-622",
+  "title": "オイルマニア 美波もも パンティと生写真付き",
+  "publish_date": "2023-01-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "自慰",
+    "内衣",
+    "乳液",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240917-1/5f86b4d38bec1f86159d67d214de59a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92951",
+  "actresses": []
+};

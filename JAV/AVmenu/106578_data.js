@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/10/dd59515d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106578,
+  "IDcode": "SSIS-461",
+  "title": "交織的體液、濃密的性愛 東雲美玲",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "淫乱，真实",
+    "潮吹",
+    "薄马赛克",
+    "接吻",
+    "流汗",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/09/8b0c040b255c29b12c8958c172abb3cf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106578",
+  "actresses": []
+};

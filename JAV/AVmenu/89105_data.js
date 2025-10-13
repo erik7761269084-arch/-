@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/qfS8gS0R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89105,
+  "IDcode": "VIO-044",
+  "title": "脚が綺麗な女同士の美脚舐め狂いレズビアン",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "姐姐",
+    "女同性恋",
+    "恋腿癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/44e370e5ee9729120a8b07330505a604.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89105",
+  "actresses": []
+};

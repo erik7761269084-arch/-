@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff670abf-600c-4ca4-8943-d7d13b8af41a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/19/bd4d651a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18230,
+  "IDcode": "JUQ-416",
+  "title": "麥當娜獨家NO 2 中出禁令解除！ ！ 我被丈夫最好的朋友操懷孕了",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "中出",
+    "嫂嫂",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-416为MADONNA出品,2023年10月24日发行的有碼成人影片由木村玲衣出演\n這是永遠不會忘記的秘密記憶。 我先生最好的朋友龜田君來東京工作，在我們家住了一個星期。 第一次見到他時，他比我先生更友善、更堅強、更有男子氣概。 那天，當龜田君替忙於工作的丈夫陪我去購物時，我們突然變得親密起來。 儘管我們被罪惡感所折磨，但我們卻無法抑制內心熾熱的慾望…\n這是永遠不會忘記的秘密記憶。 我先生最好的朋友龜田君來東京工作，在我們家住了一個星期。 第一次見到他時，他比我先生更友善、更堅強、更有男子氣概。 那天，當龜田君替忙於工作的丈夫陪我去購物時，我們突然變得親密起來。 儘管我們被罪惡感所折磨，但我們卻無法抑制內心熾熱的慾望…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022024242947947.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022024242947947.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18230",
+  "actresses": [
+    {
+      "name": "木村玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/35786888-8b37-45da-97c6-2999e70b9b71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18230&name=木村玲衣"
+    }
+  ]
+};

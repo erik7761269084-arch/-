@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/ObSQxsYa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90572,
+  "IDcode": "PIYO-188",
+  "title": "まさかこんなけなげなひよこ女子が…媚薬を盛られ理性完全崩壊！！ところかまわず異物オナニー！イキ漏らしアクメ！！ 4 ＜部活中のスポーツ女子編＞ さつき芽衣ちゃんのパンティとチェキ付き",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "自慰"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/f19692b3b2e0c02b1b44894c302950a7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90572",
+  "actresses": []
+};

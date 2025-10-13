@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/11/ff148bb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90513,
+  "IDcode": "PPPE-162",
+  "title": "いつでもどこでも秒で即ハメ！巨乳で過激なご奉仕小悪魔メイド 楪カレン",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "角色扮演者",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90513",
+  "actresses": []
+};

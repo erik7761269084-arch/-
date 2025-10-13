@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/18/5f5e3ea0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89522,
+  "IDcode": "YMDD-346",
+  "title": "おじさん、あそぼ ～1日だけのわるい子～ 千石もなか",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "中出",
+    "玩具",
+    "制服",
+    "运动短裤",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231226-1/6f128e3add71e0b49b5edc323e573014.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89522",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89522&name=千石もなか"
+    }
+  ]
+};

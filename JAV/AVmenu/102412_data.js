@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240605/Wyu9tmMn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102412,
+  "IDcode": "EBOD-558",
+  "title": "筋骨たくましい海の救助隊員 小麦肌の豊満Gcupボディ現役ライフセーバーAVデビュー！ 堀越なぎさ",
+  "publish_date": "2016-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "首次亮相",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102412",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102412&name=小田切ジュン"
+    },
+    {
+      "name": "堀越なぎさ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/e99527e59d0b0850700a56a2da49445b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102412&name=堀越なぎさ"
+    }
+  ]
+};

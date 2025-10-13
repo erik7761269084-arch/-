@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/XbsLzm5k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94602,
+  "IDcode": "NSFS-300",
+  "title": "上司の前で・・私の妻がヌードモデルになりました。12 夏川あゆみ （BOD）",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/d4082abb91cd06aad6d45571e7a74c83.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94602",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94602&name=夏川步美"
+    }
+  ]
+};

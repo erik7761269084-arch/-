@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/07/421ebf25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61906,
+  "IDcode": "MIDV-316",
+  "title": "甥っ子たちが巨乳お姉ちゃんとバスタイム発情初交 暴走エンドレス中出し 中山ふみか 生写真3枚付き",
+  "publish_date": "2023-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "多P",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61906",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61906&name=中山文香"
+    },
+    {
+      "name": "ようく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61906&name=ようく"
+    }
+  ]
+};

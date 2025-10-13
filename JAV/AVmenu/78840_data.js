@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/VkHVWPoM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78840,
+  "IDcode": "JBD-159",
+  "title": "蛇縛の女獄監禁2 七咲楓花 川上ゆう",
+  "publish_date": "2013-02-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "捆绑",
+    "监禁",
+    "SM",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/78f5680cb5af4c21575c22ed0d45e092.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78840",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78840&name=川上優"
+    },
+    {
+      "name": "七咲枫花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78840&name=七咲枫花"
+    }
+  ]
+};

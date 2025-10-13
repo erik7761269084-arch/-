@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de50ba80-f264-4754-b630-ea63ecdfd867/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10322,
+  "IDcode": "MIDV-949",
+  "title": "毀掉我的淫蕩情人：笑容、性格、身材、色情、相性、時間、感覺比我妻子好多了，充滿體液的祕密中出事件記錄 ~ 宍戸裏帆",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "內衣",
+    "勾引・誘惑",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "短髮",
+    "飯店"
+  ],
+  "description": "MIDV-949为MOODYZ出品,2024年12月3日发行的有碼成人影片由宍戸里帆出演\n儘管我是天使，Doeroi Riho卻毀了我。平時有著天使般笑容的里穗，在床上卻是淫蕩的。她微笑著，用舌頭與他糾纏在一起，給她一個深深的舌吻，讓她在幾秒鐘內流口水……用她柔軟豐滿的乳房包裹著她的心的乳交……微笑著的超吸力真空口交…使用她臀部猛烈撞擊她的大屁股並擠出精子...當她用我的雞巴射精時，她的淫蕩氣息...即使在她射精後，她仍然不斷地要求我...為什麼她如此色情...她的個性，她的身體，她的兼容性，她的時間，一切... Riho感覺比我老婆好多了我想在我妻子之前見到她... 15 次激烈的通姦內射。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128092926303303.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128092926303303.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10322",
+  "actresses": [
+    {
+      "name": "宍戸里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/dcdbf3bb-dc48-401a-8bdb-1f720d2201c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10322&name=宍戸里帆"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/31/ab1a9ffb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106286,
+  "IDcode": "FOCS-168",
+  "title": "小悪魔Sギャルと変態調教温泉旅行 洗脳済みいいなりペット彼氏は男の潮吹き＆絶倫連続中出しで幸福昇天！ 新井リマ",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "和服，丧服",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106286",
+  "actresses": []
+};

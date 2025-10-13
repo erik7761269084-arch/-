@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23e5d2c0-9d07-46c4-b465-a90c80ae22a5/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241012/ltDfWQhm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12736,
+  "IDcode": "NNNC-037",
+  "title": "女子風俗本番按摩店！ 按摩師直接就操了她。愛上男技師的大雞巴 ~ 由良佳奈",
+  "publish_date": "2024-08-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "蘿莉",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240812/e9bcc71f-5709-4272-8983-fdb78c8c6da7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240812/e9bcc71f-5709-4272-8983-fdb78c8c6da7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12736",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12736&name=由良佳奈"
+    }
+  ]
+};

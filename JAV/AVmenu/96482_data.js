@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/20/5a410506/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96482,
+  "IDcode": "HAWA-312",
+  "title": "「繁殖のためのエッチより本能的なエッチがしたいの（ハート）」旦那と妊活中の元カノに再会したらまるで性獣のように求められ何回も中出ししまくった あみり（26歳）",
+  "publish_date": "2024-02-22",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "荡妇",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96482",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96482&name=斋藤亚美里"
+    }
+  ]
+};

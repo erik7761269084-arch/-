@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/21/3d825fec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118412,
+  "IDcode": "FC2-4680591",
+  "title": "真正的素人与曝光白天在公园玩耍",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/21/601da616936b16dcbd52191c45a0f601.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118412",
+  "actresses": []
+};

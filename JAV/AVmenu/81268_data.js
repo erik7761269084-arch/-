@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220912/gdKlq9fZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81268,
+  "IDcode": "HODV-21697",
+  "title": "人妻ナンパ 251min 結婚してないふりをしてても着衣巨乳のニット姿は人妻の色気を隠せない！！",
+  "publish_date": "2022-08-05",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "屁股",
+    "潮吹",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220912-1/24b0d65c502ec63fff132be9b70b0876.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81268",
+  "actresses": []
+};

@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/mUoHk0Gl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88941,
+  "IDcode": "UMSO-508",
+  "title": "制服・スク水・パジャマ・レオタードetc.スケベな妄想をしてオナる！美少女オナニー21人",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "自慰",
+    "学校泳装",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/1fb7ac216180a0bf52998030661a7ba2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88941",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=東條夏"
+    },
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=加藤桃香"
+    },
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=桐香悠裡"
+    },
+    {
+      "name": "桃尻かのん",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/a50d2415-1002-4f26-8f39-2a6deebe896d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=桃尻かのん"
+    },
+    {
+      "name": "平花",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\4-Kawaii/平花.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=平花"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=安倍亜沙美"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=浅田结梨"
+    },
+    {
+      "name": "三浦瑠衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=三浦瑠衣"
+    },
+    {
+      "name": "青井いちご",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=青井いちご"
+    },
+    {
+      "name": "星咲せいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88941&name=星咲せいら"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240114/jlhGhsHw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90308,
+  "IDcode": "REXD-485",
+  "title": "恥をかかせやがって…田舎娘がぁっ！ 地方番組の出前配達員 美波もも",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240115-1/0db334da2e3c7d28984eb9250967deb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90308",
+  "actresses": [
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90308&name=平井シンジ"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90308&name=岩下たろう"
+    }
+  ]
+};

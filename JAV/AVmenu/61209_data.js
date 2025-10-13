@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/02/0fe901f0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61209,
+  "IDcode": "476MLA-237",
+  "title": "476mla-237【中出し追跡24時】Hカップ爆乳黒ギャルがイキ潮絶頂KO！！傷心装い男を逆ナンするぼったくりバー引率女子を中出し制裁！！【case13ぼったくりバー引率女子】",
+  "publish_date": "2025-08-03",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61209",
+  "actresses": []
+};

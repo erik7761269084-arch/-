@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a932ef25-7f4e-40ed-ad1e-6eeec0288c87/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/18391822/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8060,
+  "IDcode": "ROE-324",
+  "title": "你得用身體來償還…… 貞淑人妻爲了女兒被迫成爲被竊商店老板的肉奴 ~ 美ノ辺さやか",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "便利商店",
+    "後入",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "凌辱",
+    "中出",
+    "倉庫",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "人妻",
+    "公共場所",
+    "熟女",
+    "謝罪",
+    "羞恥"
+  ],
+  "description": "ROE-324为MADONNA出品,2025年2月25日发行的有碼成人影片由美ノ辺さやか出演\n沙耶香是一位經營小吃店的母親，她也撫養著自己的獨生女美羽。有一天，便利商店的常客聯繫商店，告訴他們 Miu 偷竊了。沙耶香衝到便利商店並連聲道歉，但她的女兒被催促回家，最後只能和店長堀內單獨交談。當沙耶香低下頭的時候，堀內並沒有錯過她汗濕的乳溝。沙耶香要求她的母親向她展示掩蓋偷竊行為所能獲得的好處，而她決定用自己的身體來做交易…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092851263263.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220092851263263.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8060",
+  "actresses": [
+    {
+      "name": "美ノ辺さやか",
+      "img_url": "https://picture.yoshiclub.xyz/20241124/d00217e8-6f29-4ee9-86dd-3e22892a94e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8060&name=美ノ辺さやか"
+    }
+  ]
+};

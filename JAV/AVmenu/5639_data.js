@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/000792b3-012f-4f4b-b2fe-5edd80555b88/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5639,
+  "IDcode": "VENX-324",
+  "title": "心是家人身是路人，禁忌的曖昧關系！與繼母獨處的一周忍不住犯下彌天大錯 ~ 虹村由美",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "繼母",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "短髮",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "VENX-324为VENUS出品,2025年5月30日发行的有碼成人影片由虹村由美出演\n再怎麼有魅力，家人就是家人，不能當作異性來心動，本該是這樣想的……由美再婚的對象是個年紀大一輪的丈夫，和丈夫帶來的兒子達也因為年齡相近，很快就混熟了。原本以為能這樣平平淡淡過上幸福的婚姻生活，沒想到達也突然表白，說他不是把由美當媽，而是當作一個女人來愛！這突如其來的告白讓由美慌了神，但從那以後，她也開始莫名其妙地對達也產生了異樣的感覺……這禁忌的火花，真的能忍住不爆發嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175616695695_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175616695695_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5639",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5639&name=虹村由美"
+    }
+  ]
+};

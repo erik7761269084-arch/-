@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/07/7772a7b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92975,
+  "IDcode": "NACR-654",
+  "title": "パパ活美少女はちくび責めと全身ペロペロ愛撫が大好物！！ 森下ことの パンティと生写真付き",
+  "publish_date": "2023-04-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "口交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240922-1/7b959c3ffadd796b83d052d7534809f7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92975",
+  "actresses": [
+    {
+      "name": "あすお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92975&name=あすお"
+    },
+    {
+      "name": "ひむろっく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92975&name=ひむろっく"
+    }
+  ]
+};

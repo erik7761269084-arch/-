@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5310c26-ff23-4ef8-a7ef-60ab0141e331/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17818,
+  "IDcode": "IPX-903",
+  "title": "窩在賓館裡對部下情趣內衣發情持續沉溺的3日間 對高傲部下強制中出 西宮夢",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "性感",
+    "舔陰",
+    "內衣",
+    "打手槍",
+    "按摩棒",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116005503515515.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231116/20231116005503515515.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17818",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17818&name=西宮夢"
+    }
+  ]
+};

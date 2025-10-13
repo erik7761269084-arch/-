@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240606/49rg0Bol/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102443,
+  "IDcode": "VOSS-038",
+  "title": "デカチンのせいでチ○コのポジションが定まらない僕は無意識にポジションを整える癖を義母さんに気づかれてしまい怒られるかと焦ったが『お父さんより立派ね』とヨダレをたらして欲情しはじめた。 安野由美",
+  "publish_date": "2017-05-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102443",
+  "actresses": [
+    {
+      "name": "安野由美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/e4843f6e-3df9-4aa1-b730-14ed4bdc04cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102443&name=安野由美"
+    }
+  ]
+};

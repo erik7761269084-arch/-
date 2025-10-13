@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230203/EDBE1CAD7DA5515B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99388,
+  "IDcode": "MILK-053",
+  "title": "おじさま大好き 中年チ○ポを凄テクで完全制圧 制服痴女 ゆずちゃん 白咲ゆず",
+  "publish_date": "2019-05-02",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "荡妇",
+    "女生",
+    "口交",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99388",
+  "actresses": [
+    {
+      "name": "白咲柚子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cac76ac11ebaf77f42f57b4bb7c189b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99388&name=白咲柚子"
+    }
+  ]
+};

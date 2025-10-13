@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1056c01-1544-4809-a28e-27b146faf3fc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/5fc6afbc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5303,
+  "IDcode": "KAM-248",
+  "title": "【違規操作】保險小姐姐人妻被枕營業撩到濕透，直接開幹的超真實全程 第四彈 【偷拍10機位曝光】 ~ 波多野結衣",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "美腿",
+    "女業務",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "偷拍・盜撮",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "羞恥",
+    "芸能人"
+  ],
+  "description": "KAM-248为卍GROUP出品,2025年6月13日发行的有碼成人影片由波多野结衣出演\n那天上門的美女保險業務員，真的讓人慾火焚身！一個飢渴男偷拍的全程記錄第四彈！「拜託了嫂子，我真的忍不住了……妳推薦啥保險我都買，只要偷偷跟我來一發，別讓公司知道就好……」「不行啦……啊……」這畫面，刺激到不行，濕身誘惑直接上頭，誰能擋得住啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120710325454_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/202506120710325454_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5303",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5303&name=波多野结衣"
+    }
+  ]
+};

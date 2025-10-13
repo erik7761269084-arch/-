@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/27/38f5832f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63396,
+  "IDcode": "MBRK-012",
+  "title": "恥ずかしながら…W痴女オフィスレディの超美脚ミニスカパンストに挟まれて無理やり射精させられたいんです…",
+  "publish_date": "2025-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "足交",
+    "手淫",
+    "连裤袜",
+    "OL",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63396",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63396&name=西野絵美"
+    }
+  ]
+};

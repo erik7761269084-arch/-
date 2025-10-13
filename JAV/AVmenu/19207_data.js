@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0846c54c-c7ff-4368-b545-109431db2ac3/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/26/9ddd1117/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19207,
+  "IDcode": "IPX-248",
+  "title": "美麗清純美少女的性高潮快感高潮4性專屬第2版共5個角！我會向你展示很多凱倫的H！",
+  "publish_date": "2019-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "潮吹",
+    "主觀視角",
+    "美少女",
+    "女僕制服",
+    "數位馬賽克",
+    "高跟鞋",
+    "按摩棒",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230624/20230624224206516516.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230624/20230624224206516516.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19207",
+  "actresses": [
+    {
+      "name": "楓花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19207&name=楓花戀"
+    },
+    {
+      "name": "枫可怜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19207&name=枫可怜"
+    }
+  ]
+};

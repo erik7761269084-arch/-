@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/28/4ab62b96/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107061,
+  "IDcode": "SDMF-033",
+  "title": "10年ぶり姉弟風呂。勃起を抑えきれなかった童貞弟と巨乳姉はほぼ毎日SEXしている。 桃色かぞくVOL.35 柏木こなつ",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "姐姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/28/bc3dea6ae0f69d424be0fd4a2cb682c9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107061",
+  "actresses": []
+};

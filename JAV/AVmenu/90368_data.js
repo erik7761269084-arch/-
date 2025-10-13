@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/yAZr3R3Z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90368,
+  "IDcode": "PC-027",
+  "title": "糞尿愛好症によるうんこお漏らし名場面集",
+  "publish_date": "2022-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "放尿",
+    "粪便",
+    "排便"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90368",
+  "actresses": []
+};

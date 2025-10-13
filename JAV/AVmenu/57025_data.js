@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57025,
+  "IDcode": "F46D08A48B15E7C8004901C58B1579F1",
+  "title": "日本群交汇编第 13 卷",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57025",
+  "actresses": []
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f76ac6b4-f800-4534-b670-b415998fbdda/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/21/111e339d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15448,
+  "IDcode": "PPPE-211",
+  "title": "都市OL巨乳性欲狂野 無與倫比的安眠藥催情強奸 都市見識的巨乳鎖定 入室迷奸行動",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "迷姦",
+    "舔陰",
+    "內衣",
+    "輪姦",
+    "多P",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "PPPE-211为OPPAI出品,2024年4月16日发行的有碼成人影片\n擦！操我！把它脫下來！鎖定一個在城裡走來走去的巨乳女人（估計是I罩杯），絕對會讓你多看兩眼。跟蹤巨乳到她家強姦她！沉睡春藥變身巨乳自慰器！我用手指捏著巨乳，吸吮著不自覺挺起的僵硬乳頭！將你的雞巴擦在粗俗的大乳暈上，像西瓜一樣夾在她巨大的臀部之間，盡情地操她！完全不考慮女人的方便，用精液塗抹她的乳房的惡魔圈！春藥將她的大腦融化成糊狀並摧毀她，直到她變成一個想要他的雞雞的淫蕩男人！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/202404122148376464.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/202404122148376464.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15448",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15448&name=姫咲華"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15448&name=Qべぇ"
+    }
+  ]
+};

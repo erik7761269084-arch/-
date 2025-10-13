@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221123/AfbMFAId/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58096,
+  "IDcode": "HEYZO-2055",
+  "title": "制服姿でご奉仕しちゃう素人娘 - 鴨川すみれ",
+  "publish_date": "2019-08-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "素人",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/cbc2dc494e0387dce738797231fcb5c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58096",
+  "actresses": []
+};

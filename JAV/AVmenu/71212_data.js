@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/neg41pGG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71212,
+  "IDcode": "HND-614",
+  "title": "全身イクイク敏感体質の早漏巨乳人妻だけが働く無制限中出しソープランド 凛音とうか",
+  "publish_date": "2018-12-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "妓女"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/cbef690e35337b457b9230353dded073.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71212",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71212&name=凛音とうか"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71212&name=真琴"
+    }
+  ]
+};

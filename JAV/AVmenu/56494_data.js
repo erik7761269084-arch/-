@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220906/A887E6070F4A4DB7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56494,
+  "IDcode": "EF3BECF13098772D6E76DE116CB5EF5C",
+  "title": "【无码流出】美波菜菜无码流出!!OL独自看屋~被房仲和埋伏的色狼无套轮奸",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56494",
+  "actresses": []
+};

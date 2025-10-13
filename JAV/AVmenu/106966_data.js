@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/09/c4acab7f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106966,
+  "IDcode": "EYAN-192",
+  "title": "既婚のスリム巨乳愛人といいなり温泉W不倫 のぼせるほど貪り合う激情中出しセックス 並木あいな",
+  "publish_date": "2023-02-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/09/8a652d5592db135accf5b88c13236e62.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106966",
+  "actresses": [
+    {
+      "name": "並木愛奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/f642b0ba-5a63-43d1-950d-5281fa074d9e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106966&name=並木愛奈"
+    }
+  ]
+};

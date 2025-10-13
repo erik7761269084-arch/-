@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/CnzWSg5A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70209,
+  "IDcode": "VENU-898",
+  "title": "父が出かけて2秒でセックスする母と息子 永瀬ゆい",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70209",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70209&name=永濑唯"
+    }
+  ]
+};

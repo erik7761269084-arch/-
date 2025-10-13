@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/19/92803ad8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89493,
+  "IDcode": "TPPN-244",
+  "title": "快楽に理性は崩壊。 止まない絶頂と覚醒汗だく中出しセックス 推川ゆうり",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231221-1/194c416c41be422ee537ab66129669ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89493",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89493&name=推川悠里"
+    }
+  ]
+};

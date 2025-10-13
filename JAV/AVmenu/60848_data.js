@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/13/ec3787f2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60848,
+  "IDcode": "MADV-600",
+  "title": "競泳水着NTR 黒髪巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 小野坂ゆいか",
+  "publish_date": "2025-09-09",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女上位",
+    "自慰",
+    "颜射",
+    "出轨",
+    "乳液",
+    "学校泳装",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60848",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60848&name=小野坂唯香"
+    }
+  ]
+};

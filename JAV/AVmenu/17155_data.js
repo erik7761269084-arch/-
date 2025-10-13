@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/71e18995-b958-4ec8-a98c-a1d990c5a0e5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17155,
+  "IDcode": "HAWA-308",
+  "title": "涼子，34 歲的離家出走的人妻，與離家出走的人妻住在一起，從早操到晚",
+  "publish_date": "2023-12-21",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "劇情",
+    "中出",
+    "素人",
+    "口交",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR",
+    "報復"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231221/6b0db77b-6d31-4584-a2d1-ac122a5a926a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231221/6b0db77b-6d31-4584-a2d1-ac122a5a926a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17155",
+  "actresses": []
+};

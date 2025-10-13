@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e6695a0d-e152-4450-8777-198ab15bea78/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 470,
+  "IDcode": "HEYZO-0562",
+  "title": "吸收男人精氣的美腳與蜜桃臀～女上司的插入命令 ～ 朝比奈舞",
+  "publish_date": "2014-03-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "艷遇",
+    "癡女",
+    "高跟鞋",
+    "手指插入",
+    "美人",
+    "女上司",
+    "辣妹/GAL系",
+    "野性"
+  ],
+  "description": "HEYZO-0562为HEYZO出品,2014年3月28日发行的無碼成人影片由朝比奈舞出演\nオトコの精気を吸い取る桃尻美脚～オンナ上司の挿入命令～ - 朝比奈舞",
+  "cover_url": "https://picture.yoshiclub.xyz/20250107/6f4317e9-c656-4769-a07b-a04bf86e5720.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250107/6f4317e9-c656-4769-a07b-a04bf86e5720.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=470",
+  "actresses": [
+    {
+      "name": "朝比奈舞",
+      "img_url": "https://picture.yoshiclub.xyz/20250107/9647b82a-b0ba-4bb5-8200-2ba5f449839d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=470&name=朝比奈舞"
+    }
+  ]
+};

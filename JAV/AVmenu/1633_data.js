@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230428/b44b6d9f-bb59-4b9c-88f8-70339dafcf17/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1633,
+  "IDcode": "stars-133",
+  "title": "小倉由菜×Natural 癡漢OK娘特別版 SOD star Ver.連日癡漢大量吞精到點頭",
+  "publish_date": "2019-10-10",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "素人作品",
+    "吞精",
+    "美臀",
+    "無碼流出",
+    "性騷擾",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/20230404021910214214.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/20230404021910214214.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1633",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1633&name=小倉由菜"
+    }
+  ]
+};

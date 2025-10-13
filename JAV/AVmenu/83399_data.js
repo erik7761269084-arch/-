@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/teUUGRpc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83399,
+  "IDcode": "ARA-430",
+  "title": "【最強SSS級ギャル】20歳【渋谷1★9店員】るかちゃん参上！洋服好きな彼女の応募理由は『エロ寂しんです…♪』とにかくエッチがご無沙汰ギャル！【エロ金髪&amp;スタイル抜群】激しいSEXでおマ●コ【ズコズコ】希望！感度良し、フェラテク良し！ギャルの絶頂イキまくりSEX見逃すな！",
+  "publish_date": "2020-03-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "屁股",
+    "苗条",
+    "乳液",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/499a11761f145af4f5e87aee965826d5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83399",
+  "actresses": [
+    {
+      "name": "爱瀬るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83399&name=爱瀬るか"
+    }
+  ]
+};

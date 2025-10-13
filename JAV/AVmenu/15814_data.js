@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0725546b-a8c3-4de7-ab31-ed2628f5f29d/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240729/9h37GqwT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15814,
+  "IDcode": "MIAB-155",
+  "title": "被我丈夫的老板肛交7天後，我的肛門不再緊繃了......美波梢",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "肛交",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "口爆",
+    "多P",
+    "過膝襪・小腿襪",
+    "人妻",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "二穴同入",
+    "無毛"
+  ],
+  "description": "MIAB-155为MOODYZ出品,2024年4月2日发行的有碼成人影片由美波梢出演\n【貞潔妻子的肛門吞下公雞並鬆散地發展！ 】 她在家裡招待老闆，為掩飾丈夫的錯誤道歉，但他的妻子小津卻眼裡閃著狐疑的光芒。趁著老公出差，老闆突然闖入，強行撐開我的屁股，在我的肛門射精！然後就是持續一週的野蠻擴張和異物插入的無情採摘訓練！一名已婚婦女的直腸已被改造為性感區，提供她的肛門！丈夫，現在你的妻子已經有了一個身體，除非她同時操她的陰戶和肛門，否則她不會有任何感覺......",
+  "cover_url": "https://picture.yoshiclub.xyz/20240329/20240329080020192192.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240329/20240329080020192192.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15814",
+  "actresses": [
+    {
+      "name": "美波梢",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a35e0f9-5180-46c6-9993-7e373ec8fc3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15814&name=美波梢"
+    }
+  ]
+};

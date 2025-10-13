@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/707baabf-542f-4546-a6e2-410090989c56/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 192,
+  "IDcode": "HEYZO-0181",
+  "title": "鄉下來的神級素人妹子被騙直接硬上 ~ 宮藤まい",
+  "publish_date": "2012-11-18",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "中出",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "清純",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "女優",
+    "羞恥",
+    "田舍娘"
+  ],
+  "description": "HEYZO-0181为HEYZO出品,2012年11月18日发行的無碼成人影片由宮藤まい出演\n剛從鄉下到大城市的妹子小まい，被晾在路邊一臉茫然。這小妮子長得有點像某位大牌女星，清純中帶著一絲小性感。公司老闆一看就心動了，馬上忽悠她有沒有興趣進演藝圈，誇她天生麗質絕對能爆紅！幾句甜言蜜語就把她騙進公司。先說要拍宣傳照，小まい懵懵懂懂就換上了類似AKB風格的cosplay制服，擺pose時不小心被拍到內褲（妹子你怎麼還沒反應過來啊！）。慢慢地她也放開了，換上露背超辣的性感裝，老闆藉口指導拍攝各種上手摸，搞得小まい臉紅心跳，身體也開始有感覺了……後面的劇情嘛，大家都心知肚明啦！這麼可愛的妹子被徹底開發，各種羞恥姿態，快來看個過癮吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617082758716716_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250617/20250617082758716716_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=192",
+  "actresses": [
+    {
+      "name": "宮藤まい",
+      "img_url": "https://picture.yoshiclub.xyz/20231206/aa31a7ac-7ae6-45bf-b74d-085ce32bf549.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=192&name=宮藤まい"
+    }
+  ]
+};

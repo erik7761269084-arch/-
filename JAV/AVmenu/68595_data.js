@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250407/SQLsFtuW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68595,
+  "IDcode": "MEYD-780",
+  "title": "たった1分で直結してくれる愛人肉便器！都合とアクセスが良すぎるおなマン不倫 森沢かな",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68595",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68595&name=森澤佳奈"
+    }
+  ]
+};

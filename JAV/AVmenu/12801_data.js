@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f75e16f-5515-4fde-89a5-c31f957c591a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12801,
+  "IDcode": "IPZZ-354",
+  "title": "令人厭惡的老板的大雞巴射了她一次又一次，變態上司對她的恥辱性強奸。 ~ RARA",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "劇情",
+    "加班",
+    "變態",
+    "凌辱",
+    "中出",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "強姦",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "女同事",
+    "辦公室",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-354为IDEA POCKET出品,2024年8月13日发行的有碼成人影片由RARA出演\n一天，？由於公司人事變動而被任命為新老闆的RARA，目睹了林經理的性傾向，被迫閉嘴。 RARA 被大雞巴無情地強姦，她的嘴唇上沾滿了精液。 「我會用我的精液作為光澤。」這是一個令人厭惡的習慣，但隨著她繼續被強姦，她一次又一次地射精，儘管她不想感覺到它。 「你射得太厲害了，RARA桑，雖然很傷心，但體質很敏感，還有她的變態老闆。」當她在屈辱中度過每一天時，她變得無法離開老闆的大陰莖…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809004213710710.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240809/20240809004213710710.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12801",
+  "actresses": [
+    {
+      "name": "RARA",
+      "img_url": "https://picture.yoshiclub.xyz/20240525/e27c2140-f52f-4666-af7f-523c9df3dd19.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12801&name=RARA"
+    }
+  ]
+};

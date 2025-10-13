@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3fcbed6e-3fe5-4895-81de-855e27516f2b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/fa1fadef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3013,
+  "IDcode": "SONE-894",
+  "title": "忍不住對性感巨乳女教師下手，癡漢的技術讓她比未婚夫好多了 ~ 篠真有",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "猥亵",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "變態",
+    "流汗",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "電車",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "性騷擾",
+    "少女",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "淫蕩・硬核",
+    "阪道系",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-894为S1出品,2025年9月4日发行的有碼成人影片由篠真有出演\n每天擠地鐵，總是人滿為患，還有那讓人噁心的痴漢騷擾。忍忍也就過去了，但那天不一樣！一雙大手肆意揉捏她豐滿的胸部，靈活的指尖挑逗敏感的乳頭，臀部被輕輕撫摸又慢慢揉捏，那手法簡直絕了。她的身體漸漸濕潤，慾望再也壓不住了！身為教師的尊嚴？未婚夫的存在？通通拋到腦後！她只想被這個痴漢徹底征服，沉淪在快感的深淵。今天，她又一次忘記一切，沉迷於這場性感通勤之旅，欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025701946946_72278_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025701946946_72278_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3013",
+  "actresses": [
+    {
+      "name": "篠真有",
+      "img_url": "https://picture.yoshiclub.xyz/20241003/0895b305-b32a-4a8e-a11a-f2486ea4efd2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3013&name=篠真有"
+    }
+  ]
+};

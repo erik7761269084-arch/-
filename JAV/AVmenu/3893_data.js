@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/728e6fc3-d063-4845-a81b-21983d871598/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/84f342cb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3893,
+  "IDcode": "JUNY-159",
+  "title": "新人出道！現役護士兼職泳裝模特首次體驗極致快感，天然巨乳抖不停高潮 AV DEBUG ~ 一色ゆの",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "單體作品",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "護士",
+    "豐滿",
+    "女優",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "JUNY-159为FITCH出品,2025年8月1日发行的有碼成人影片由一色ゆの出演\n平時在醫院忙得不可開交的現役護士由乃，擁有天然H罩杯的火辣身材，說話溫柔又貼心，給人超棒的印象。但你絕對想不到，她休假時竟然跑去撮影會當泳裝模特！本來只是為了存錢才接的模特工作，結果卻發現被注視的感覺讓她欲罷不能，這次直接報名來拍AV啦！表面上看起來正經，內心卻對色色的事情充滿好奇，由乃這次初體驗簡直讓身心都嗨到不行！一邊撒嬌求肉棒，一邊被刺激敏感奶頭直接潮吹高潮，那副浪蕩模樣絕對讓你看得血脈噴張，快來一探究竟！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084920824824_94241_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084920824824_94241_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3893",
+  "actresses": [
+    {
+      "name": "一色ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250804/95cec501-669a-40e2-8810-83a2dbdad59f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3893&name=一色ゆの"
+    }
+  ]
+};

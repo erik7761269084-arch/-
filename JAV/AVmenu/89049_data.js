@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231212/4DMPimfW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89049,
+  "IDcode": "UZU-003",
+  "title": "元M性感No.1嬢の妻が受け身なボクを飼いならす結婚生活。 浜崎真緒",
+  "publish_date": "2023-08-31",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "眼镜",
+    "巨乳",
+    "淫语",
+    "荡妇",
+    "M男",
+    "手淫",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89049",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89049&name=浜崎真绪"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250205/euptalkk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72700,
+  "IDcode": "JAC-022",
+  "title": "【中出し連発×H爆乳オナニー中毒】皆様いかがお過ごしでしょうか？私共は皆様の声援のお陰で元気にさせて頂いております。そして…お待たせしました…お待たせし過ぎたのかもしれません…私達事ではありますがJacksonが新企画を始める運びとなりました。妄想変態企画をしたいしたいと思って早6ヶ月…やっと妄想をこじらせてる応募女子がやって参りました。皆様のオナライフが充実する逸材であると共に、この新企画が大ヒットすると私共一同確信しております。何卒「妄想ちゃん。」をよろしくお願い申し上げます【妄想ちゃん。1人目さおり",
+  "publish_date": "2019-11-30",
+  "type": "有码",
+  "company": "Jackson Stars",
+  "genres": [
+    "巨乳",
+    "中出",
+    "自慰",
+    "颜射",
+    "潮吹",
+    "企画",
+    "业余",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72700",
+  "actresses": [
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72700&name=稻场流花"
+    }
+  ]
+};

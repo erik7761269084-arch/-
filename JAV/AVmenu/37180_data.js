@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220728/AE635E91A9E19104/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37180,
+  "IDcode": "9F2CE1E270594EA71C554A370AB-59684",
+  "title": "天然むすめ彼氏以外の人とたまにエッチしてます 綾瀬まゆ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37180",
+  "actresses": []
+};

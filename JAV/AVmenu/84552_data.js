@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230112/rOVLzJFg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84552,
+  "IDcode": "HMN-193",
+  "title": "部活をサボって男子と初デート初中出し 初めてのナマ中出し 双葉くるみ",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "制服",
+    "苗条",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84552",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84552&name=タイ"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84552&name=Qべぇ"
+    }
+  ]
+};

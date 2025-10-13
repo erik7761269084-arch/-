@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/28/78eb7fa7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85583,
+  "IDcode": "MKMP-472",
+  "title": "【完全主観】3人のエグい爆乳ヤリマンが開催する中出し乱交パーティーへ行ってみたら男は僕一人だった。",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "荡妇",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/3147f5552f04acd514237440d9a746a9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85583",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85583&name=美園和花"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85583&name=吉根柚莉爱"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85583&name=田中寧寧"
+    }
+  ]
+};

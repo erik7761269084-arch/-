@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8db57c8d-cb32-44a1-8123-35b3646510bd/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/32c43565/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10254,
+  "IDcode": "NPJS-110",
+  "title": "全國不道德人妻名錄 ~ 水川潤(28歲)",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "飯店"
+  ],
+  "description": "NPJS-110为NAPA-JAPAN出品,2024年12月3日发行的有碼成人影片由水川潤出演\n首先，婚姻是人類自己決定的規則，與與生俱來的「生殖本能」完全不同。關鍵是，人類不能沒有性生活。你知道我的意思？如果你遵守婚姻規則，粗魯地對待你的妻子，你最終會在鏡頭前暴露自己的裸體，用別人的雞巴射精，並被精液覆蓋。你老婆真的滿意嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102031321321.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128102031321321.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10254",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10254&name=水川潤"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10254&name=由爱可奈"
+    }
+  ]
+};

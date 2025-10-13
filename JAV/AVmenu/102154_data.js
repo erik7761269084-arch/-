@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240525/a7j3x3yK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102154,
+  "IDcode": "DASD-798C",
+  "title": "不知道有中出內容而體驗下海的大眾泡浴店 乙葉可憐",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102154",
+  "actresses": []
+};

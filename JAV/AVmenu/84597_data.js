@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/05/a64d7e1b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84597,
+  "IDcode": "HMN-207",
+  "title": "【FANZA限定】爆乳ビッチ親子デリヘルを派遣します。遺伝子相性バツグンのW肉弾パイズリ逆3Pで何度でも中出しOK 宝田もなみ 水原みその 生写真2枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230112-35/b58694a9f0c3c80d3099a94cecc379b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84597",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84597&name=鲛岛"
+    }
+  ]
+};

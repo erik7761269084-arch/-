@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220626/B154DEEE2EC2FB3D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37192,
+  "IDcode": "78866D20E04BEA361219A64D1DB29E-63",
+  "title": "働きウーマン -卑猥な美人生保レディの敏腕枕営業-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37192",
+  "actresses": []
+};

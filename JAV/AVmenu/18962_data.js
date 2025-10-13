@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5aff391e-478f-456a-9191-637506ecf76e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18962,
+  "IDcode": "IPX-486",
+  "title": "犯罪集團公司臥底刺探行動失敗 被迷藥和酷刑折磨的漂亮女搜查官",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "偶像",
+    "凌辱",
+    "中出",
+    "緊身衣",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "強姦",
+    "監禁",
+    "迷姦",
+    "輪姦",
+    "緊縛",
+    "女搜查官",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818205134398398.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230818/20230818205134398398.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18962",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18962&name=桃乃木香奈"
+    }
+  ]
+};

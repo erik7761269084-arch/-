@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220414/1CAE1C37E54E9623/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97665,
+  "IDcode": "MSTG-004",
+  "title": "性癖が罪悪感を超えた時 若菜奈央",
+  "publish_date": "2017-10-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "调教",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97665",
+  "actresses": [
+    {
+      "name": "若菜奈央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723224636646646_32231_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97665&name=若菜奈央"
+    }
+  ]
+};

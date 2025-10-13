@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230325/7D6CED19FF65E844/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100236,
+  "IDcode": "MIDE-046",
+  "title": "すっごい量の一発顔射 西川ゆい",
+  "publish_date": "2013-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "多P",
+    "颜射",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100236",
+  "actresses": [
+    {
+      "name": "西川结衣",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/西川ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100236&name=西川结衣"
+    }
+  ]
+};

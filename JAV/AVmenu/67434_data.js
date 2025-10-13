@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250419/EIUW3I2S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67434,
+  "IDcode": "RBD-238",
+  "title": "それは銀行で起こった… かすみりさ",
+  "publish_date": "2011-01-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "颜射",
+    "强奸",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/1567936ced07d5de4c7efc653427f920.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67434",
+  "actresses": [
+    {
+      "name": "松岡仁美",
+      "img_url": "https://picture.yoshiclub.xyz/20241231/d7aad9ed-209d-4f32-9ac6-44d6e7d3de78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67434&name=松岡仁美"
+    }
+  ]
+};

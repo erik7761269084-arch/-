@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/311b96e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95585,
+  "IDcode": "IENF-339",
+  "title": "完璧なアスリートボディ！憧れの女子体育大生が生ハメ杭打ちピストン騎乗位に挑戦！トレーニングで鍛え上げた引き締まった腹筋をビクビクさせて本気の連続イキ！",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "中出",
+    "女上位",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/311b96e6/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95585",
+  "actresses": [
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95585&name=有馬美玖"
+    },
+    {
+      "name": "有棲奏羽",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/f867a15e-7a22-4e69-ae5b-d0b4538bfe5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95585&name=有棲奏羽"
+    },
+    {
+      "name": "橘知花",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/af3f1b14-53fa-4cde-b644-fc9a710ba87c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95585&name=橘知花"
+    }
+  ]
+};

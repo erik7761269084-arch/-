@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/10/9a7e7443/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102742,
+  "IDcode": "IENF-172",
+  "title": "僕の家庭教師が「分からないと思ったのにな。バレちゃったか」と巨乳なのにノーブラぴったりニット姿なので気になって仕方ない！我慢出来なくなって顔を埋めて揉みまくったら顔を赤らめて抵抗しないので子宮の奥に溜め込んだザーメンをブチまけちゃいました！2",
+  "publish_date": "2021-10-21",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1ienf172/1ienf172pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102742",
+  "actresses": [
+    {
+      "name": "川菜美铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/f475ef92-3b3c-4641-a10c-78cc5f5ce09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102742&name=川菜美铃"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102742&name=三原穗香"
+    }
+  ]
+};

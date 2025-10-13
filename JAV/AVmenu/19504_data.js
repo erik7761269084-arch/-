@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230409/62ec94a9-a1f5-4f8f-8808-25117c2df4d1/index.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/01/4771cfe5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19504,
+  "IDcode": "snis-854",
+  "title": "超級性感的奶嘴女僕 ~ 橋本有菜",
+  "publish_date": "2017-02-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "美少女",
+    "女僕制服",
+    "薄碼"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230409/20230409021927220220.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230409/20230409021927220220.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19504",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19504&name=新有菜"
+    }
+  ]
+};

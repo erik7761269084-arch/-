@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/1qLZnvgB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83397,
+  "IDcode": "LUXU-1239",
+  "title": "ラグジュTV 1227 AV女優達の美しさに憧れて美意識高い系美女がAV出演を決意！ムッチリとした美体にオイルを絡ませればその妖艶さは増すばかり。ガチ勃ちした男根に笑みを浮かべ、膣奥まで突き上げるピストンに美尻と美乳を躍らせイキまくる！",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "颜射",
+    "屁股",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/861e20c87c161238a09e9d325377ed6a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83397",
+  "actresses": [
+    {
+      "name": "小鸟游ももえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83397&name=小鸟游ももえ"
+    }
+  ]
+};

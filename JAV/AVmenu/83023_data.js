@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221208/kPZLzn6u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83023,
+  "IDcode": "I-001",
+  "title": "緊縛調教志願 春原未来",
+  "publish_date": "2013-06-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83023",
+  "actresses": [
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83023&name=春原未来"
+    }
+  ]
+};

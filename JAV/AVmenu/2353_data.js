@@ -1,0 +1,60 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2353,
+  "IDcode": "MGOLD-047",
+  "title": "電馬女王自備神器上門服侍 ~ 澪奈明日見",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "上門福利",
+    "企畫",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "自宅",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "內衣",
+    "口爆",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "按摩棒",
+    "粉丝",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "女優"
+  ],
+  "description": "MGOLD-047为FALENO出品,2025年10月3日发行的有碼成人影片由澪奈明日見出演\n超懂伺候人的騷氣小姐姐，電馬女王澪奈明日見，帶著她的秘密武器電馬，直接衝到素人小哥哥家裡！一見面就各種挑逗，甜美笑容加上超強口技，真的讓人受不了，精都被榨光了，甚至還搞出男潮！插進去她瞬間變小母狗，電馬一上身直接高潮連連，在別人家也管不住自己大聲浪叫，爽到爆炸！這麼歡樂又刺激的實戰紀錄片，絕對不要錯過啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002165008457457_16830_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002165008457457_16830_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2353",
+  "actresses": [
+    {
+      "name": "澪奈明日見",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250803/99dd92d1-0b4a-4bc2-b797-36ec5b949629_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2353&name=澪奈明日見"
+    }
+  ]
+};

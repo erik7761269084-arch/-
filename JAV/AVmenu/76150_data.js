@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/16/b8662ae1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76150,
+  "IDcode": "JUR-135",
+  "title": "「一瞬だけでイイので挿れさせて下さい！！」 30歳になっても童貞の義弟に同情して一生の願いを受け挿れたら、相性抜群過ぎて何度もおかわり中出しSEXを求めてしまった私。 瑶真由香",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/15/a9f0e66400ea76e71ff0a7e547e80654.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76150",
+  "actresses": [
+    {
+      "name": "瑶真由香",
+      "img_url": "https://picture.yoshiclub.xyz/20240921/f7ce3488-11dd-48ee-ac9f-0fa2ad98d268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76150&name=瑶真由香"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76150&name=左慈半造"
+    }
+  ]
+};

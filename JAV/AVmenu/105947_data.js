@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/01/e90e1895/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105947,
+  "IDcode": "NPJS-002",
+  "title": "誰もが振り返る高身長ラウンジ美女の超イイ女とハメたい 彼氏に振られシャンパン慰め 足ガックガクハメ狂い傷心絶倫ラッキー中出し",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105947",
+  "actresses": [
+    {
+      "name": "佐野由真",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250424/ea7f51fd-67ed-4856-992f-5a044ee511c9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105947&name=佐野由真"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/076a29d6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68541,
+  "IDcode": "VENX-317",
+  "title": "近ごろ豊満な熟女体型を気にしはじめたウチの嫁が恥じらう姿に僕は勃起してしまった 九井スナオ",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "内衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/24/77274542cc35babbb1ad9297bef068d7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68541",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68541&name=九井珠奈緒"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/m9B11SfY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89147,
+  "IDcode": "VSED-220",
+  "title": "父が連れてきた新しいお母さんは僕のチ○ポに夢中です！",
+  "publish_date": "2023-08-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89147",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89147&name=川上優"
+    },
+    {
+      "name": "柳田やよい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89147&name=柳田やよい"
+    },
+    {
+      "name": "甲斐ミハル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89147&name=甲斐ミハル"
+    },
+    {
+      "name": "平松恵理香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89147&name=平松恵理香"
+    },
+    {
+      "name": "石仓えいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89147&name=石仓えいみ"
+    }
+  ]
+};

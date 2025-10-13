@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250120/3jLkSyY2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73558,
+  "IDcode": "326FCT-058",
+  "title": "[HD/720p] 学生生活最後の思い出にハメを外しちゃおう！大手企業の内定が決まっている美少女JDがアプリで知り合った男にクスリでイカされまくる一部始終…。 (宇佐美玲奈)",
+  "publish_date": "2023-03-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250120-1/e0f0047405a6adfa9169adfe2c98d583.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73558",
+  "actresses": []
+};

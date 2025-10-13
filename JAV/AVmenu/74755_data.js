@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/Y0VNoUsV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74755,
+  "IDcode": "BF-579",
+  "title": "噂の美人Gカップカフェ店員‘看板娘’がAV出演！ かれん",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "服务生",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/c4f66882381775392ff9ac6882b98a96.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74755",
+  "actresses": [
+    {
+      "name": "三船かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74755&name=三船かれん"
+    }
+  ]
+};

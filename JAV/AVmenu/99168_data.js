@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230131/CEA0535AA982E147/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99168,
+  "IDcode": "DVDES-635",
+  "title": "淫猥キャットファイト3 女子校生と美人女教師！美闘タイマンガチバトル！",
+  "publish_date": "2013-06-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "学校作品",
+    "女同性恋",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dvdes635/1dvdes635pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99168",
+  "actresses": [
+    {
+      "name": "朝桐光",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/7d5babb4-947b-4fc5-8e01-aea3d2e9383a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99168&name=朝桐光"
+    },
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99168&name=南梨央奈"
+    },
+    {
+      "name": "小司杏",
+      "img_url": "https://picture.yoshiclub.xyz/20230504/4e4b0f0a-f8b7-4a9e-8b6a-9d0becd94454.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99168&name=小司杏"
+    }
+  ]
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4119c2d-78a1-431c-8da6-fbdde92b8f4d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16152,
+  "IDcode": "DDFF-034",
+  "title": "傷痕累累的看護者胡桃櫻花",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "強姦",
+    "性感",
+    "輪姦",
+    "多P",
+    "SM",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240221/381efd1b-8051-405b-a2af-4d7743250ed3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240221/381efd1b-8051-405b-a2af-4d7743250ed3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16152",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16152&name=胡桃櫻花"
+    }
+  ]
+};

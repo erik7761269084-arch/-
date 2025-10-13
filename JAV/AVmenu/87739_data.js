@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/xGy0QjHR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87739,
+  "IDcode": "SSIS-766",
+  "title": "うんぱいのおっぱい密着ヌキテクに射精我慢できたらご褒美セックス！絶対ヤリたい素人フォロワー20人大集合！ （ブルーレイディスク）",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "纪录片",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/fabc2379a91dc46becac7302934a7fdd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87739",
+  "actresses": [
+    {
+      "name": "ハカー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87739&name=ハカー"
+    }
+  ]
+};

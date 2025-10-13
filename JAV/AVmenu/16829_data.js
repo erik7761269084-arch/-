@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/71e353ad-5be7-4dc3-927a-58abd2928745/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16829,
+  "IDcode": "RKI-655",
+  "title": "脫掉衣服後，素顏神體的少女，居然是個超級受虐狂！雖然看上去是個文靜利落的女孩，但她卻是個愛色的變態。",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "劇情",
+    "調教",
+    "慾求不滿",
+    "癡女",
+    "巨乳"
+  ],
+  "description": "RKI-655为ROOKIE出品,2024年1月9日发行的有碼成人影片由九井珠奈緒出演\n九井珠奈緒，21歲，來自廣島，目前是一名大學生，一個普通的巨乳豐臀女孩，想出名，卻得到了一個大胸！最強屁股！丁字褲深入她屁股的裂縫，這很色情！乳房很危險！神聖的乳房就是這些乳房！她的腋窩是最好的，她擁有無可挑剔的完美身材！她作爲一個受虐狂的真實本性開始溢出，她做了個鬼臉，說：“用力一點，”同時她打屁股，打舌頭，流口水，乞求他的雞巴！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111013833420420.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240111/20240111013833420420.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16829",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16829&name=九井珠奈緒"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/27/19e6fe2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96767,
+  "IDcode": "HDKA-298",
+  "title": "はだかの主婦 大田区在住立岡杏菜（41） パンティと生写真付き",
+  "publish_date": "2024-04-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/07/27/9545d7caf02222f1a9fcd474517ac55b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96767",
+  "actresses": [
+    {
+      "name": "立岡杏菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96767&name=立岡杏菜"
+    }
+  ]
+};

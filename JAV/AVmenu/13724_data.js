@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/444b9114-c527-4743-b848-a63404df243c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13724,
+  "IDcode": "HTHD-219",
+  "title": "我朋友的母親～最終章～藤原真帆",
+  "publish_date": "2024-06-27",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "熟女",
+    "儿子的朋友"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240627/be854b82-eae0-44e4-b450-8423bef94343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240627/be854b82-eae0-44e4-b450-8423bef94343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13724",
+  "actresses": [
+    {
+      "name": "藤原真帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240807/90199c77-b61a-4f79-a2f5-ceda6f0bfff3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13724&name=藤原真帆"
+    }
+  ]
+};

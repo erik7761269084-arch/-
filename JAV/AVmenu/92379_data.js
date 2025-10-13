@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/29/0f75ad1b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92379,
+  "IDcode": "MOGI-060",
+  "title": "「男性の感じてる顔を見るとおマ〇コ濡れてきちゃうんです・・・」ご奉仕欲望MAXで即ヌキ射精!発射後も全力でヌキまくって男のカラダを骨抜きにする!現役グラビアアイドル久須美亜優 AV体験第2弾!",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92379",
+  "actresses": [
+    {
+      "name": "久須美亜優",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92379&name=久須美亜優"
+    }
+  ]
+};

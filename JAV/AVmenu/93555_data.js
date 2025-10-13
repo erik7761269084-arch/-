@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/Ze1D9GZs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93555,
+  "IDcode": "OKS-067",
+  "title": "濡れてテカってピッタリ密着 神スク水 向井藍 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけに生中出し等を完全着衣で楽しむAV",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "学校泳装",
+    "偷窥",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93555",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93555&name=向井藍"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250202/pFfTTBss/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72731,
+  "IDcode": "MARA-055",
+  "title": "小梅えなの爆乳劇場Kcup！105cm",
+  "publish_date": "2020-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "故事集",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72731",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72731&name=小梅惠奈"
+    }
+  ]
+};

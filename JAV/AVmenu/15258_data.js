@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/69b76119-8659-485f-a64a-6506b30b95c5/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/30/0ef8c940/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15258,
+  "IDcode": "DASS-383",
+  "title": "無論發生什麼事我都不能告訴我先生。在悶熱的俱樂部房間裡，我與兒子的顧問進行了中出，渾身是汗，沾滿了濃密的唾液。",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "同学母亲",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "DASS-383为DASDAS出品,2024年4月23日发行的有碼成人影片由佐藤しお出演\n「老師！這種感覺真好！」一個健康的母親，幫助兒子參加社團活動，真正的目的就是和一個中年顧問發生關係。當俱樂部成員進行訓練時，兩人開始在旁邊互動。呼吸粗重，我們的舌頭糾纏在一起，進行了一個黏稠的舌吻。愛的汁液慢慢地從陰道中拉出繩子。當一根大雞巴插入時，一個美麗的年輕妻子的女性身體彎下了腰。不道德的性行為會導致汗水和唾液混合在一起。用濃稠的精液中出直到她懷孕。他舔舐她沾滿體液的身體，再次插入。 「媽媽，妳在做什麼……！？」「媽媽」已經不在了。一個失去理智和道德感，沉浸在快感漩渦中的女人，無論做什麼，都死死地抓住雞巴…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419232917530530.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240420/20240419232917530530.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15258",
+  "actresses": [
+    {
+      "name": "佐藤しお",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/ac3e3b51-2350-4290-aa83-96c48fc3e0d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15258&name=佐藤しお"
+    }
+  ]
+};

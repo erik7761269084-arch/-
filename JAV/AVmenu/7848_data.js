@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d8e1d94-2fc4-417a-9264-3b7e18e34f9e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/1313687e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7848,
+  "IDcode": "ADN-656",
+  "title": "沉默神祕的女友姐姐總是無防備地不穿內衣 乳首透視讓我欲罷不能 ~ 結月莉亞",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "性感睡衣",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "女友姐姐",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "口爆",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "ADN-656为ATTACKERS出品,2025年3月4日发行的有碼成人影片由結月莉亞出演\n她的姊姊總是很安靜，很難知道她在想什麼。所以我不太擅長這件事。但她很漂亮，而且，她在家裡總是不戴胸罩，所以她的乳頭總是勃起的，我覺得這很色情，也讓去她家成為一次有趣的經歷。看來姊姊和她的性伴侶吵了一架，心情似乎很糟。我以為能有這麼漂亮的女朋友當性伴侶該有多好，但結果卻發現她把我視為一個潛在的新性伴侶…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072051244244.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/20250227072051244244.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7848",
+  "actresses": [
+    {
+      "name": "結月莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/1427264d-0d19-4c3d-85d8-a432b027ad47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7848&name=結月莉亞"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ac1b11a-1606-45b8-bfe7-b53f573406a3/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/18f49989/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9083,
+  "IDcode": "EBWH-181",
+  "title": "禁欲、飲酒，專屬卒業後的等身之姿，本性被徹底暴露後的中出交尾 ~ 宍戸裏帆",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "吞精",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "美腳",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "紀錄片",
+    "豐滿",
+    "女優",
+    "飯店"
+  ],
+  "description": "EBWH-181为E-BODY出品,2025年1月21日发行的有碼成人影片由宍戸里帆出演\n「宍戶裡穗」E-BODY 首次登場，全身軟軟豐滿的 Gcup 身材！她比任何人都更認真地面對色情，並且在專屬工作畢業後她想做一個專案。這就是禁慾。這不僅僅是正常的禁慾，這是一次要求演員嚴格禁慾的拍攝，這在AV中是前所未有的。一個月的禁慾結束後，可以被視為動物的本能中出野性交配。請看一下可以說是性的起源的原始和色情的性。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071600577577.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116071600577577.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9083",
+  "actresses": [
+    {
+      "name": "宍戸里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/dcdbf3bb-dc48-401a-8bdb-1f720d2201c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9083&name=宍戸里帆"
+    }
+  ]
+};

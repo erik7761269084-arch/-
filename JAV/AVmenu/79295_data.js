@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/12/9aaae061/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79295,
+  "IDcode": "EBOD-854",
+  "title": "エロパイ露出訪問ww 逆バニー少女れいちゃんが早漏クンのチ●ポとろけちゃうほど無限射精させちゃうぞ 市原玲",
+  "publish_date": "2021-09-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "颜射",
+    "角色扮演者",
+    "兔女郎",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/45433bea82221850a91c0ab0c653cc64.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79295",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/20/084bb796/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73642,
+  "IDcode": "MKMP-608",
+  "title": "男が簡単に堕ちてしまう壁ドンパイズリ プライドも乳もデカい義妹の追い込みおっぱいに、こんなにも堕ちるはずではなかったボク 星乃夏月",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73642",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73642&name=星乃夏月"
+    },
+    {
+      "name": "トンガ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73642&name=トンガ"
+    }
+  ]
+};

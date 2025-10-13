@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/9be6a7e0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94995,
+  "IDcode": "MEYD-549",
+  "title": "地味そうに見えた隣家の巨乳人妻がある日部屋を間違えオナニーをしている僕の部屋に入ってきた。 見た目とは裏腹に物凄い肉食でねっちょり僕を犯しまくる。 赤瀬尚子",
+  "publish_date": "2019-11-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94995",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94995&name=赤瀬尚子"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94995&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1477652-0653-4b35-ab28-5b2c3883eaa9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11041,
+  "IDcode": "MSPK-014",
+  "title": "㕷㕷㕷 No.14 新人苗條美少女出張生中出。第一次拍攝中高潮尖叫！~ 七藤優亞",
+  "publish_date": "2024-10-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "女上位",
+    "JK校服",
+    "素人",
+    "口交",
+    "騎乗位",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "清純",
+    "美少女電影",
+    "女學生",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241027/23edb7e2-9048-4dba-add1-e1cd5ed217df.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241027/23edb7e2-9048-4dba-add1-e1cd5ed217df.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11041",
+  "actresses": [
+    {
+      "name": "七藤優亜",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/5f530468-c174-4eeb-8511-93d8469f5946.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11041&name=七藤優亜"
+    }
+  ]
+};

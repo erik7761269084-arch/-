@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221224/247B48F6F0CD2923/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102857,
+  "IDcode": "RBD-924",
+  "title": "新奴隷城6",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "女同性恋",
+    "调教",
+    "大小姐"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/26/19cd47fe278ba86e019d53523d2b1bee.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102857",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102857&name=向井藍"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102857&name=枢木葵"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102857&name=安部未華子"
+    }
+  ]
+};

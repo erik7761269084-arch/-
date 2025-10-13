@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/67d82336/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60378,
+  "IDcode": "KTKN-007",
+  "title": "元カブキ人気ホスト、衝撃カミングアウト！男の娘になってDEBUT！REM",
+  "publish_date": "2025-09-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "肛交",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/04/4bdfaf289fb2896b7abf882a833a96bf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60378",
+  "actresses": []
+};

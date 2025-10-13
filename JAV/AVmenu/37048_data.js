@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220604/98E992DAA967EC7C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37048,
+  "IDcode": "648BD22C4E4BA319BA4B5FA768FC-3770",
+  "title": "女优嶋野遙香强番.撸管上位骑乘啪啪",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37048",
+  "actresses": []
+};

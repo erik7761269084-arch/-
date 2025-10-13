@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7145f8a2-467b-4913-8357-3e1fc819dc75/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/1b7b64e9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4890,
+  "IDcode": "XVSR-821",
+  "title": "淫蕩小嘴 眼神勾魂無限發射口技誘惑 ~ 吉澤友貴",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "混血",
+    "寫真女郎",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "XVSR-821为MAX-A出品,2025年6月28日发行的有碼成人影片由吉泽友贵出演\n口技專屬系列《淫蕩小嘴》最新力作，吉澤友貴火辣登場！她的小嘴對著假陽具舔弄，眼神直勾勾地挑逗你！先是慢慢撩撥，再用濕滑的舌頭展示極致口技！從舌尖挑逗到主觀視角的激烈SEX，簡直讓人把持不住！還玩起了陽具味覺對比，一次吞下五根，嘴饞到不行！3P大戰中，她更是欲求不滿，連續口技伺候，眼神始終鎖定你，舔得你酥麻，吸得你上天，無限循環的口技服務，爽到你腿軟！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224748246246_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224748246246_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4890",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4890&name=吉泽友贵"
+    }
+  ]
+};

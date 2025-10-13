@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/HzQIxsFw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84220,
+  "IDcode": "CLUB-683",
+  "title": "ヤレる人妻回春マッサージ33 中出し交渉盗撮",
+  "publish_date": "2022-07-05",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "按摩",
+    "肛交",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84220",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84220&name=美園和花"
+    },
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84220&name=推川悠里"
+    },
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84220&name=初音實"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0900ad76-b8c7-4ffd-bcee-82be635a1335/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/20/db59a5dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9674,
+  "IDcode": "MKON-108",
+  "title": "I罩杯爆乳J系娘熱愛騎乘式做愛，今天公然在學校裏做愛！ ~ 小阪ひまり",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "少女",
+    "多P",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "學校",
+    "女學生"
+  ],
+  "description": "MKON-108为妄想族出品,2024年12月24日发行的有碼成人影片由小坂ひまり出演\n希瑪莉是一位擁有全校最大胸部的女高中生。她是個喜歡做愛並且喜歡以女牛仔姿勢射精的變態。每天，她都會在學校的某個地方和比第三餐更愛巨乳的老師和學生發生性關係…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241221/20241221210003730730.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241221/20241221210003730730.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9674",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9674&name=小坂ひまり"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9674&name=まーち"
+    }
+  ]
+};

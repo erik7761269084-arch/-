@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240608/foqIpgUH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103961,
+  "IDcode": "SNIS-779",
+  "title": "常に全身ローションだっくだくのご奉仕ぬるぬる爆乳ランジェリーメイド 夢乃あいか",
+  "publish_date": "2016-11-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "乳液",
+    "薄马赛克",
+    "女佣"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/snis779/snis779pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103961",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103961&name=夢乃愛華"
+    }
+  ]
+};

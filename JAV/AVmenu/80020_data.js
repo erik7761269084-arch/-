@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/flydlsZO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80020,
+  "IDcode": "ROE-024",
+  "title": "僕は大好きな母を7日間で堕とすと決めた。 10年間、胸に抱き続けていた禁断の感情―。 一色桃子",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80020",
+  "actresses": [
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80020&name=一色桃子"
+    }
+  ]
+};

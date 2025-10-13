@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fb6fd897-4971-4b81-a1a1-2a20c2d6466b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15027,
+  "IDcode": "MIAB-157",
+  "title": "「跟我們玩3P吧」兒時的玩伴已經成爲當地著名的蕩婦團體的成員了！回憶起某個夏天，回家後兩天被變成受虐寵物，射精13次 ~ AIKA 鳳可憐",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "色誘",
+    "中出",
+    "美乳",
+    "美腿",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "金髮",
+    "艷遇",
+    "雙飛",
+    "足交",
+    "兩女一男",
+    "辣妹/GAL系",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "MIAB-157为MOODYZ出品,2024年5月7日发行的有碼成人影片由AIKA，鳳可怜出演\n「跟我們來個3P吧！」兒時的玩伴成為了當地著名的蕩婦團體的一員！如果你有兩個最強的母狗，你就會擁有最瘋狂的組合！當我回到家後，我成了他們的玩具... 「把該死的精子拿出來！」並用辱罵性的語言懲罰坐騎。此外，她為所欲為，包括惡魔女牛仔姿勢、敏感雞巴折磨、挑逗、鉗式性交、痛苦中連續中出！ 「你是個超級受虐狂！我要操你直到你的睪丸爆炸，所以準備好，白痴！」",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/202405030906036161.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/202405030906036161.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15027",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15027&name=AIKA"
+    },
+    {
+      "name": "鳳可怜",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/80646ba7-fb37-417a-a891-787b532b5f2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15027&name=鳳可怜"
+    }
+  ]
+};

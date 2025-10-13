@@ -1,0 +1,149 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2281,
+  "IDcode": "KSBJ-398",
+  "title": "熟女中出OK！20位極品姐姐合集 VOL.03 ~ 結城乃乃 白石美希 牧村彩香 新村朱裏 波多野結衣 本田瞳 妃光莉 黒川晴美 翔田千裏 夏川步美 小早川憐子",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "四十路",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "女神",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "混血",
+    "寫真女郎",
+    "清楚系",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "熟女",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "KSBJ-398为KSB企畫出品,2025年10月3日发行的有碼成人影片由波多野结衣，小早川怜子，结城乃乃，新村朱里，青木玲，本田瞳，春菜华，妃光莉，織田真子，黒川晴美，白石美希，牧村彩香，夏川步美，翔田千里，杏奈出演\n從美乳到爆乳，從苗條身材到肉感尤物，各種風格的頂級熟女在這裡解放慾望，盡情享受快感！她們主動跨坐在男人身上，搖晃著誘人的大胸，腰肢扭得又騷又帶勁，簡直讓人HOLD不住！無套內射的極致快感讓她們徹底失控，一次次尖叫著高潮！20位熟女在鏡頭前被內射到顫抖，絕對讓你看得血脈賁張，爽到不行！快來一起嗨起來啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020011928928_42626_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004020011928928_42626_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2281",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=波多野结衣"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=新村朱里"
+    },
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=本田瞳"
+    },
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=夏川步美"
+    },
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=小早川怜子"
+    },
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=妃光莉"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=翔田千里"
+    },
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=織田真子"
+    },
+    {
+      "name": "结城乃乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230621/2a2a6ef3-85bb-4c82-b090-2a6683c70903.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=结城乃乃"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=春菜华"
+    },
+    {
+      "name": "黒川晴美",
+      "img_url": "https://picture.yoshiclub.xyz/20241218/a6063d4d-efa2-463c-a0a0-6a4ff0366e30.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=黒川晴美"
+    },
+    {
+      "name": "青木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/57c16981-b0e6-41b2-b738-a98dcee04483.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=青木玲"
+    },
+    {
+      "name": "杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/9eee2ab7-3508-4494-9dd0-f31bbbb68c4b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=杏奈"
+    },
+    {
+      "name": "白石美希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250818/7050369b-54e5-4dc7-87af-8a81461f2280_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=白石美希"
+    },
+    {
+      "name": "牧村彩香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20251004/55ef6373-bc65-4fcc-b1c8-18d5c3aae496_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2281&name=牧村彩香"
+    }
+  ]
+};

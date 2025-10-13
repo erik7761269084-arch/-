@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c0488fee-5dd9-4c44-9882-1e74166b2888/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/2ee8b6ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6877,
+  "IDcode": "MIDA-132",
+  "title": "全部初體驗！性感開發三本番超刺激特訓 ~ 夕木小彩",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "緊縛",
+    "清楚系",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDA-132为MOODYZ出品,2025年4月15日发行的有碼成人影片由夕木小彩出演\n小色雪第二彈獨家販售！由於有過性經驗，小色醬還有很多未知的地方，因此我們開始進行特殊訓練，以將她喚醒為一個更熱愛性愛的女孩！她被綁起來並蒙住眼睛，儘管她已經達到高潮，但她還是被迫再次達到高潮，然後她與兩根大雞巴進行三人性愛，她被吹走了！當她和一個受虐狂老男人在一起時，她淫蕩的一面甚至被喚醒了！健康潔白的牙齒真好。值得一看的三場演出，展現她出道以來的成長！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250412/202504120040059696.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250412/202504120040059696.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6877",
+  "actresses": [
+    {
+      "name": "夕木小彩",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/5bd2226c-7e4e-4457-bf7c-85f73e6f4c31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6877&name=夕木小彩"
+    }
+  ]
+};

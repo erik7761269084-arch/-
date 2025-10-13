@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d1bf4773-db6d-4999-b993-2bfe43440357/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5971,
+  "IDcode": "HPET-007",
+  "title": "素人寵物 7 私拍個撮 美少女 Colsplay 野外中出潮吹實錄 ~ 靜河 逢月ひまり 高橋ほなみ",
+  "publish_date": "2025-05-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "故事集",
+    "企畫",
+    "絕頂高潮",
+    "4K",
+    "游戲COSPLAY",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "野外露天",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥"
+  ],
+  "description": "HPET-007为妄想族出品,2025年5月17日发行的有碼成人影片由高橋ほなみ，逢月日葵，静河出演\n炮友就是能互相解放慾望、滿足癖好的最佳關係！對性的探索心永不枯竭，追求新鮮刺激，這次直接來場媚藥加野外跳蛋約會！三位超正美女，身材一個比一個辣，帶來最爽的實錄體驗！第一位，烏爾，23歲，D杯身材超犯規，被跳蛋挑逗到快瘋掉，插進去那一刻爽到尖叫，高潮時的淫蕩模樣真的太誇張，還主動求中出！第二位，美穗，21歲，顏值爆棚100分，害羞指數150分，身體敏感度直接200分，雖然害羞但腰自己搖得超猛，連續高潮的騷勁真是頂級！第三位，光，23歲，F杯大奶主動自備角色扮演，跳蛋刺激到快失禁，硬撐著結果被插到直接噴水大爆發！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521084543369369_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250521/20250521084543369369_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5971",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5971&name=静河"
+    },
+    {
+      "name": "逢月日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/609da667-f958-4c2a-b729-d636d67e2edb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5971&name=逢月日葵"
+    },
+    {
+      "name": "高橋ほなみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240315/4bdab09f-05b5-400a-b840-807c4fc95d1a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5971&name=高橋ほなみ"
+    }
+  ]
+};

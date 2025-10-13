@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/p8aPlzSg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81911,
+  "IDcode": "NSSTL-023",
+  "title": "未亡人 いろは 夫の遺影の前で知り合いに抱かれてしまった… 成宮いろは",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "成熟的女人",
+    "出轨",
+    "寡妇",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/ee2b834c1d2f5e2bc5255f63c22f9578.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81911",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81911&name=成宫いろは"
+    }
+  ]
+};

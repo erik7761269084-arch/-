@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/15/a02bb784/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90124,
+  "IDcode": "REAL-826",
+  "title": "おじさんチ●ポイラマチオ中毒患者 Case1マイカさん（21） 日泉舞香",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "口交",
+    "深喉",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90124",
+  "actresses": [
+    {
+      "name": "日泉舞香",
+      "img_url": "https://picture.yoshiclub.xyz/20230623/4828b925-2cbd-4595-8abd-1a02291e45d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90124&name=日泉舞香"
+    }
+  ]
+};

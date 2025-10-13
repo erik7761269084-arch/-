@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/041aaf71/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67212,
+  "IDcode": "HTHD-228",
+  "title": "友達の母親～最終章～ 若菜れいか",
+  "publish_date": "2025-04-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67212",
+  "actresses": [
+    {
+      "name": "若菜れいか",
+      "img_url": "https://picture.yoshiclub.xyz/20250109/70777392-fa47-4819-bbcd-dff91a22841a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67212&name=若菜れいか"
+    }
+  ]
+};

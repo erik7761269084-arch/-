@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/krqfIU4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89969,
+  "IDcode": "SAN-133",
+  "title": "信じていた妻の裏切りを目撃した夫は異次元の興奮を覚え新たな性癖が目覚めてしまう 日々樹梨花",
+  "publish_date": "2023-05-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "校服",
+    "白天出轨",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/4c1018c30e159aa796049b48a550cf90.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89969",
+  "actresses": [
+    {
+      "name": "日々樹梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241205/31702bc5-8847-4c11-8586-d1e73eafa2ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89969&name=日々樹梨花"
+    }
+  ]
+};

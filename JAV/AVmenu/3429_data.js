@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/deffb327-c7c4-413c-95a2-8597e38a6f57/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3429,
+  "IDcode": "ASEX-005",
+  "title": "不用套套才夠嗨 百分之百真實後門中出 超敏感抖M姊姊激烈高潮顫抖 みひな",
+  "publish_date": "2025-08-20",
+  "type": "有码",
+  "company": "ASSMI",
+  "genres": [
+    "後入",
+    "黑絲",
+    "肛交",
+    "大姐姐",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "4K",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "單體作品",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "美人"
+  ],
+  "description": "ASEX-005为ASSMI出品,2025年8月20日发行的有碼成人影片\n別看みひな一臉溫柔小白兔的模樣，實際上可是個超敏感的抖M！後門直接生吞一根接一根，插進去就馬上高潮，爽到全身抽搐！長髮甩得亂飛，雙洞三洞全開，灌腸、真實中出、後門中出通通來者不拒，真的讓人慾罷不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821020937896896_69392_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821020937896896_69392_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3429",
+  "actresses": []
+};

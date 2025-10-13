@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/419tzGdm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87066,
+  "IDcode": "NSFS-198",
+  "title": "働く妻 出張先で犯●れた ベスト Vol.2",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230709-1/13e3d20da91232293a687679b1780299.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87066",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87066&name=赤瀬尚子"
+    }
+  ]
+};

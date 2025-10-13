@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230216/84C80D9709F3DAD7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99685,
+  "IDcode": "SOE-355",
+  "title": "被侵犯的女教師 ～無法逃離的凌辱 麻美由真",
+  "publish_date": "2010-02-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "凌辱",
+    "多P",
+    "强奸",
+    "薄马赛克",
+    "女教师",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99685",
+  "actresses": [
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99685&name=麻美由真"
+    }
+  ]
+};

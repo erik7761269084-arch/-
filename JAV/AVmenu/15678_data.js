@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/764749c1-aec8-415b-aeb9-4bc664354396/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241028/IJ5eHDdV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15678,
+  "IDcode": "START-069",
+  "title": "身高差40cm！ ！與又高又大的男人做愛！斉藤帆夏",
+  "publish_date": "2024-05-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "START-069为SOD出品,2024年5月9日发行的有碼成人影片由斉藤帆夏出演\n矮小纖細的齊藤保夏與高大的演員做愛！對手將是…身高兩公尺的大個子！當我們見面並將一根大雞巴插入她體內後，我們開始不停地操她！展現出壓倒性的身體差異的雜技性交讓你感到頭暈目眩。沒有休息和射精的持續插入的無盡性愛！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020858463463.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240402/20240402020858463463.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15678",
+  "actresses": [
+    {
+      "name": "斉藤帆夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231012/8879bb90-10a1-429a-bcf3-4ffc0b78d69a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15678&name=斉藤帆夏"
+    }
+  ]
+};

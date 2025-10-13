@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230224/BD57833C29FF1AF9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99834,
+  "IDcode": "DAVK-049",
+  "title": "本当にいたエロ漫画を超える清楚ドM淫乱スケベ美少女ドキュメント【初対面おじさんたち装着コンドーム次々外して連続生中出し】【野外ツルマン見世物オナ】【長時間Dキス＆尻穴ベロ舐め奉仕ガチ泣きイラマ発情】子宮・顔面・美乳ドロドロ精子12発漬け6Pエンドレス大輪姦SEX",
+  "publish_date": "2019-11-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "轮奸",
+    "户外",
+    "深喉",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/55davk049/55davk049pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99834",
+  "actresses": [
+    {
+      "name": "宫泽千春",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/99a363ed-fd20-401a-af51-8bc2a9792a99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99834&name=宫泽千春"
+    }
+  ]
+};

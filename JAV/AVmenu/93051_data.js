@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/HaDcaSWU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93051,
+  "IDcode": "JUFE-301",
+  "title": "Men’sニップル専門！敏感クリ乳首 悶絶愛撫サロン 蘭華",
+  "publish_date": "2021-07-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "巨大屁股",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93051",
+  "actresses": [
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93051&name=蘭華"
+    }
+  ]
+};

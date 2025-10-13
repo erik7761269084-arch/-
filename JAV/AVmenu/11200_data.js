@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/61d3a001-ffc0-4c10-9627-de7a2f205f46/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/06/6f5df936/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11200,
+  "IDcode": "SONE-398",
+  "title": "女友的妹妹，天真無邪，錯過末班車來我家裏過液 ~ 倉木華",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清純",
+    "艷遇",
+    "癡女",
+    "出軌",
+    "NTR",
+    "小姨子",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-398为S1出品,2024年10月22日发行的有碼成人影片由倉木華出演\n大約一週前，我與女朋友和她的妹妹共進晚餐。 「我錯過了末班車，現在可以走了嗎？」我突然接到了只見過一次面的女朋友姐姐的電話。還沒等我拒絕，對講機就響了。哈娜喝醉了，離我非常近，透過她借給我的家居服，我可以看到她的乳溝。 「你沒有告訴你姐姐你要來吧？她不會知道的，對吧？」我只能認為她的一言一行都是在邀請她。是的，是的，我能做到（吞嚥）。距離他們開始一段禁忌關係只剩下10秒了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017084100207207.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017084100207207.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11200",
+  "actresses": [
+    {
+      "name": "倉木華",
+      "img_url": "https://picture.yoshiclub.xyz/20240621/a6116a73-e059-4143-9163-7418d65a54fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11200&name=倉木華"
+    }
+  ]
+};

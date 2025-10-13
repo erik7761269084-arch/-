@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/ea36f21a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63099,
+  "IDcode": "REAL-601",
+  "title": "緊縛猛鬼高潮昇天 卯水咲流",
+  "publish_date": "2016-06-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "捆绑",
+    "调教",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/23/a37f153275e8b1ec92df3295e43e32df.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63099",
+  "actresses": [
+    {
+      "name": "卯水咲流",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250518/f4067a91-2dd3-4756-8221-f453b628e5a1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63099&name=卯水咲流"
+    }
+  ]
+};

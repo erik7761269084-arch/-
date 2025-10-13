@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/09/db13b7f2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92336,
+  "IDcode": "MIFD-233",
+  "title": "新人 20歳 他高でも‘可愛い’と噂になった都内N●校出身元野球部マネージャー‘綺麗’になってAV Debut 有栖舞衣 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-03-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "颜射",
+    "制服",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92336",
+  "actresses": [
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92336&name=有栖舞衣"
+    }
+  ]
+};

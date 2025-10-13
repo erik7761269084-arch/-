@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240609/8e6C8OWp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103985,
+  "IDcode": "KNMB-033",
+  "title": "完ナマSTYLE@めい 医療○○学部女子大生めい20歳は性格SSSの美乳セフレ 深月めい",
+  "publish_date": "2022-07-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_491knmb033/h_491knmb033pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103985",
+  "actresses": []
+};

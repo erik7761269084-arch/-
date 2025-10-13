@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/61d39dc6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35472,
+  "IDcode": "WANZ-151",
+  "title": "美人潜入捜査官-樱井布",
+  "publish_date": "2025-08-03",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "中出",
+    "凌辱",
+    "强奸",
+    "滥交",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35472",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35472&name=樱井步"
+    }
+  ]
+};

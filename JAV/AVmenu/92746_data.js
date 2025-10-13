@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240909/R8IOJULo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92746,
+  "IDcode": "SIS-013",
+  "title": "弟を溺愛する姉の異常性交 百合川さら",
+  "publish_date": "2014-12-05",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "自慰",
+    "乱伦",
+    "投稿",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92746",
+  "actresses": [
+    {
+      "name": "百合川紗羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/76f8f261-059a-487f-8cdb-267407e81b2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92746&name=百合川紗羅"
+    }
+  ]
+};

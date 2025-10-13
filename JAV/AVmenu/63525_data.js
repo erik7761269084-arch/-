@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/9857ce2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63525,
+  "IDcode": "MBRBI-007",
+  "title": "三峯/蒼宮菜緒 チェキ付き",
+  "publish_date": "2025-05-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/05/f58edfd0e94f3b410efca7e9fb65c54a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63525",
+  "actresses": [
+    {
+      "name": "蒼宮菜緒",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63525&name=蒼宮菜緒"
+    }
+  ]
+};

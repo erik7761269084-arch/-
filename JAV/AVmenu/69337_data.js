@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/etAVjLYr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69337,
+  "IDcode": "YMDS-107",
+  "title": "- いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 初音みのりが彼女になった日 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "玩具",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69337",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69337&name=初音實"
+    }
+  ]
+};

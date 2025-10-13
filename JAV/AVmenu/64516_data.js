@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240317/AAIFomJB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64516,
+  "IDcode": "COMPLETE",
+  "title": "- [第三集]働く新卒社会人と性交。 Memorial Best 24人480分DVD2枚組 Vol.002 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240317-1/9d5c44d10b388842f8c8af2cfa2d6275.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64516",
+  "actresses": []
+};

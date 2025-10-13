@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221231/dm54gZrq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83798,
+  "IDcode": "PRED-206",
+  "title": "イっても責めるの止めないよ？ 追撃痴女責め 連射・フェラチオ・男潮フルコース 山岸逢花",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "口交",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83798",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83798&name=山岸逢花"
+    }
+  ]
+};

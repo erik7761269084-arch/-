@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e59f2df-8640-4db3-bcbf-03e1047200a4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18024,
+  "IDcode": "CAWD-581",
+  "title": "新人！ Kawaii出道 松岡美桜 我所渴望的放蕩天堂",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "小隻馬",
+    "兩男一女",
+    "出道作品",
+    "抹油",
+    "女優訪談",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "CAWD-581为KAWAII出品,2023年11月7日发行的有碼成人影片由松岡美桜出演\n「我想被訓練，我想被強姦，我想被毀滅。」她回應周圍人的期望，從國立大學畢業，收到了八家大公司的工作機會，走上了成功的人生道路。 但最終，松岡美桜卻選擇了AV產業，她一直想和別人不同，現在出演AV，她同樣希望自己的作品與眾不同。 她有著從147CM蘿莉身材所不般配的生活，笑起來很好看。\n「我想被訓練，我想被強姦，我想被毀滅。」她回應周圍人的期望，從國立大學畢業，收到了八家大公司的工作機會，走上了成功的人生道路。 但最終，松岡美桜卻選擇了AV產業，她一直想和別人不同，現在出演AV，她同樣希望自己的作品與眾不同。 她有著從147CM蘿莉身材所不般配的生活，笑起來很好看。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231105/4c3b88f4-0b8f-49b8-8bee-94fc00ddc3ab.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231105/4c3b88f4-0b8f-49b8-8bee-94fc00ddc3ab.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18024",
+  "actresses": [
+    {
+      "name": "松岡美桜",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/3d418746-7767-4c19-9bf0-01f36b43202e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18024&name=松岡美桜"
+    }
+  ]
+};

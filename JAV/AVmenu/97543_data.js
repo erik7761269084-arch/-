@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/21/5bb23223/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97543,
+  "IDcode": "MIDE-377",
+  "title": "MIDE-377",
+  "publish_date": "2016-11-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "艺人",
+    "首次亮相",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97543",
+  "actresses": [
+    {
+      "name": "高桥圣子",
+      "img_url": "https://picture.yoshiclub.xyz/20240814/d134329a-e45c-458c-8fdd-7c82be139fdc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97543&name=高桥圣子"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/25/417b8875/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86043,
+  "IDcode": "ROE-063",
+  "title": "息子の結婚前夜、母は1人のオンナになった。 平岡里枝子",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "巨大阴茎",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/029f2557e815f4675e58b4db71400675.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86043",
+  "actresses": [
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86043&name=平冈里枝子"
+    }
+  ]
+};

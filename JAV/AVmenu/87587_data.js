@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/6H8WQ6C5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87587,
+  "IDcode": "MESU-098",
+  "title": "若い男性の精子が欲しくてファミレスで働く性欲旺盛なパート奥様と中出しセックス 瀬尾礼子",
+  "publish_date": "2022-07-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "各种职业",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/459baa421a21e69f19ba3de82431ec12.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87587",
+  "actresses": []
+};

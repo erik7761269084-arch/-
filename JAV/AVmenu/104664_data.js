@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/29/1dc12f4b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104664,
+  "IDcode": "IPTD-593",
+  "title": "つばさ先生の誘惑授業 天海つばさ",
+  "publish_date": "2010-06-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "多P",
+    "女上位",
+    "颜射",
+    "数位马赛克",
+    "女教师",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/29/94b2928df77a37703296708064dc714d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104664",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104664&name=天海翼"
+    }
+  ]
+};

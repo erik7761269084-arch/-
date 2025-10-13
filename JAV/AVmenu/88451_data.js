@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/24/39656de4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88451,
+  "IDcode": "NGOD-133",
+  "title": "夫が進路指導中、自宅でまめどろされた妻 澤村レイコ",
+  "publish_date": "2020-10-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "高",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88451",
+  "actresses": [
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88451&name=高坂ますみ"
+    }
+  ]
+};

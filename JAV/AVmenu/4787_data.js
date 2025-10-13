@@ -1,0 +1,101 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/adf4231a-9a94-4dc7-92c3-356bceef3d57/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/09/e6288273/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4787,
+  "IDcode": "SONE-802",
+  "title": "足球部經理居然是個浪妹！和隊員大亂交幫助他們解決性欲煩惱？騷氣經理駕到！ ~ 三田真鈴",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "正統派",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "運動女孩",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "集訓",
+    "更衣室",
+    "清純",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "按摩棒",
+    "美人",
+    "學校",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "女優"
+  ],
+  "description": "SONE-802为S1出品,2025年7月4日发行的有碼成人影片由三田真鈴出演\n【神作爆款】【全程露脸】现役女学生被狂射10连发！ 兄弟们，大家好！这次听到了某学校的一则劲爆八卦，小编立马竖起天线去打探，果不其然挖到了震撼画面！一个看似清纯的足球部经理，竟然和队员们疯狂开趴，啪啪声不绝于耳！而且这妹子颜值爆表，简直绝美！她不仅球技贴心，连队员们的性欲都一手包办，难怪被封为天使！不过看起来她也是个软妹子，推一推就从了，哈哈！就算被一大堆肉棒围住，她还是笑得甜美，露出可爱的小为难表情说“真是拿你们没办法”，这谁顶得住啊！身材纤细还有F杯大胸，身体反应也超带感，绝对是爆射神器！兄弟们，赶紧自己来看看，保准你爽到飞起！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044121372372_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044121372372_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4787",
+  "actresses": [
+    {
+      "name": "三田真鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231111/36ed4f06-eeb4-48ae-b4dc-8c711af2a84e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4787&name=三田真鈴"
+    },
+    {
+      "name": "ラリアット黒川",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4787&name=ラリアット黒川"
+    },
+    {
+      "name": "マサムー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4787&name=マサムー"
+    },
+    {
+      "name": "ラビットけんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4787&name=ラビットけんと"
+    },
+    {
+      "name": "青木りょう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4787&name=青木りょう"
+    }
+  ]
+};

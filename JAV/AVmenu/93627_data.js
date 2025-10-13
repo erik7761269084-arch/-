@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241014/4ctZKBtT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93627,
+  "IDcode": "NVH-025",
+  "title": "再会 ニューハーフレズビアン あなたの前ではありのままで居られる 狐森りつ/殊酔ぜる",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "肛交",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93627",
+  "actresses": [
+    {
+      "name": "NH×NH",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93627&name=NH×NH"
+    },
+    {
+      "name": "殊酔ぜる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93627&name=殊酔ぜる"
+    },
+    {
+      "name": "狐森りつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93627&name=狐森りつ"
+    }
+  ]
+};

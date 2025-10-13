@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/93662351-3003-4946-ba75-2c938d51e5fb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16835,
+  "IDcode": "FSDSS-719",
+  "title": "與蕩婦的約會，在工作中不露面的下屬祕密的一面。吉高寧寧",
+  "publish_date": "2024-02-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "中出",
+    "美乳",
+    "OL",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "手指插入"
+  ],
+  "description": "FSDSS-719为FALENO出品,2024年2月8日发行的有碼成人影片由吉高寧寧出演\n下屬吉高寧寧在工作中犯了很多錯誤，但他沒有惡意，精力充沛，工作努力。這次，生意夥伴犯了大錯，我又跟進了。每次犯錯時，我都會問：“你這個周末有空嗎？”我以爲他要退出公司，但作爲感謝，他給了我大雞巴或者說，我的部下吉高寧寧是個超級蕩婦怪物……【僅限周末】與淫蕩蕩婦瘋狂反向權力騷擾！我還是處女，沒想到她竟然是個如此淫蕩的女人！ ！ “前輩，我被這個硬屌吸引了”\n下屬吉高寧寧在工作中犯了很多錯誤，但他沒有惡意，精力充沛，工作努力。這次，生意夥伴犯了大錯，我又跟進了。每次犯錯時，我都會問：“你這個周末有空嗎？”我以爲他要退出公司，但作爲感謝，他給了我大雞巴或者說，我的部下吉高寧寧是個超級蕩婦怪物……【僅限周末】與淫蕩蕩婦瘋狂反向權力騷擾！我還是處女，沒想到她竟然是個如此淫蕩的女人！ ！ “前輩，我被這個硬屌吸引了”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240110/20240110015048680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240110/20240110015048680680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16835",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16835&name=吉高寧寧"
+    }
+  ]
+};

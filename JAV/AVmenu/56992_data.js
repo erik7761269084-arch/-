@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221014/C2925C72F59D330D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56992,
+  "IDcode": "274615EC8F74EBD56E0CD4A2AEA5E24D",
+  "title": "我触摸自己并用我的振动器自慰",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56992",
+  "actresses": []
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a0b15990-8072-46e4-ba0b-9c09e78b275c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14647,
+  "IDcode": "MEYD-911",
+  "title": "「讓我馬上喝很多精液……」口交女王夢実かなえ的吞精 5 個雞巴 x 11 個真正的精液，所以我很滿足！ ！",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "MEYD-911为溜池出品,2024年5月21日发行的有碼成人影片由夢實香苗出演\n獨家口交女王夢美佳苗的吞精LOVE發表！ ！出城，鎖定看起來會立刻釋放大量精液的精液，反向拾取！工作室、車上、停車場、電梯前，吸吮吞嚥！他們愉快而美味地喝完了所有的東西，所以（幾乎）每個人都對續杯感到滿意，我們一共注射了 11 支真正的精液，並有兩次射精！夢美佳苗每吞嚥一次就會變得更美麗！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517024027105105.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517024027105105.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14647",
+  "actresses": [
+    {
+      "name": "夢實香苗",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250515/7b23ff1e-9a8d-4a91-b019-211ef267be00_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14647&name=夢實香苗"
+    }
+  ]
+};

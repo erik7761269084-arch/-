@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/23/daca6bcf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60574,
+  "IDcode": "259LUXU-1202",
+  "title": "259luxu-1202女人身材最鼎盛的时期就该穿上最棒的内衣好好拍下AV记录这个时刻",
+  "publish_date": "2025-08-23",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/daca6bcf/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60574",
+  "actresses": []
+};

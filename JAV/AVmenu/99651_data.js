@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230216/D648ED0F6BD3A6F7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99651,
+  "IDcode": "AKA-054",
+  "title": "シロウト制服美人 12 巨乳受付嬢を汚し尽くすザーメンパック、濃厚精子21発 公開オナニー、ぶっかけ、ごっくん、大乱交。変態OLの願望が入り乱れる。",
+  "publish_date": "2018-01-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "业余",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118aka054/118aka054pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99651",
+  "actresses": [
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99651&name=沢井亮"
+    }
+  ]
+};

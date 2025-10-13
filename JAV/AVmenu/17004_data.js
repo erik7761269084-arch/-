@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b140d24b-79a3-4ec7-bcfc-e79cf9407e3d/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/24/f27490c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17004,
+  "IDcode": "MIAB-072",
+  "title": "飛行中的美女空姐雞巴中出29次，飛行結束後，溼漉漉的褲襪腿和臀部在性交時顫抖",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "制服",
+    "口交",
+    "性感",
+    "多P",
+    "拜金女",
+    "空姐"
+  ],
+  "description": "MIAB-072为MOODYZ出品,2024年1月2日发行的有碼成人影片由森日向子出演\n當時全世界人民的行動都受到限制，沒有航班，我的收入減少了，我的入不敷出。我正在尋找一個有錢人當爸爸......那就是當我遇到一個男人時，我被教導了有關性的知識，我完全被迷住了。即使現在行動不受限，世界恢復正常，航班也恢復，她仍然無法忘記性交的樂趣，所有的時間都花在了在航班目的地尋找男人並發生性關系。派對...在飛行目的地尋找男人並探索自己的快樂。空姐婊子！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231230/20231230052106357357.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231230/20231230052106357357.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17004",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17004&name=森日向子"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17004&name=Qべぇ"
+    }
+  ]
+};

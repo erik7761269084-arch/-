@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0787599b-e69f-4b68-aecd-7eea02d7ad21/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/4f5c92d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7300,
+  "IDcode": "DLDSS-381",
+  "title": "謊稱出差過夜… 公司I杯巨乳後輩與我的首次私拍溫泉偷情約會 ~ 朝海汐",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "不倫",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "出軌",
+    "NTR",
+    "美人",
+    "溫泉"
+  ],
+  "description": "DLDSS-381为DAHLIA出品,2025年4月10日发行的有碼成人影片由朝海汐出演\n[明知道不對，還是和巨乳後輩去溫泉約會了……] 我已經結婚了，有家庭，有生活，在工作中也能夠領導一個團隊，但是……自從遇見她之後，我就一直無法停止對她的思念。這是我用攝影機拍攝的秘密性愛記錄，心想今天可能是最後一次了，不能告訴任何人。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250323/20250323220924865865.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250323/20250323220924865865.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7300",
+  "actresses": [
+    {
+      "name": "朝海汐",
+      "img_url": "https://picture.yoshiclub.xyz/20240811/581fc278-9901-4f41-852d-0c31dc25805d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7300&name=朝海汐"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7300&name=向理来"
+    }
+  ]
+};

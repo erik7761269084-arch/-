@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/oXUbRUra/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81932,
+  "IDcode": "RBD-968",
+  "title": "わき毛が生えるまで監禁され続けて 森沢かな",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "凌辱",
+    "监禁"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/c079604ca455c076faa703d691259d8e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81932",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81932&name=森澤佳奈"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250331/vc8Zw6qh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68425,
+  "IDcode": "JUQ-054",
+  "title": "NGR ―ナガサレ― 義兄に犯●れ初めての絶頂を知った嫁 夏川うみ",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68425",
+  "actresses": [
+    {
+      "name": "夏川海",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/757995ee-c9d3-4073-a3c8-5bf79bd7084a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68425&name=夏川海"
+    }
+  ]
+};

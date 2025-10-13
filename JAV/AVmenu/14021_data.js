@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b7eb1c9-3c4f-4e9d-ac7d-21fbcb5304af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14021,
+  "IDcode": "SSNI-288",
+  "title": "河北彩花驚心動魄的風俗初體驗 奉仕7輪回轉",
+  "publish_date": "2018-08-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "風俗夜場",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "傳播妹",
+    "明星臉",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "精選總編集",
+    "手指插入",
+    "獵豔",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "SSNI-288为S1出品,2018年8月19日发行的有碼成人影片由河北彩花出演\n十年一遇的天才突然加入店裡！ ？川北綾香終於解禁成人娛樂了！ 180分鐘的超值作品，讓你一本書體驗7種成人娛樂：肥皂、別針沙龍、分娩健康、布布酒吧、小倉、統一反射療法、美容沙龍！ 「我不知道什麼是對的，什麼是剩下的，但我不會輸給我的努力！」享受這位纖細美乳美少女為你提供的全套服務吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240613/20240613042024292292.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240613/20240613042024292292.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14021",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14021&name=河北彩花"
+    }
+  ]
+};

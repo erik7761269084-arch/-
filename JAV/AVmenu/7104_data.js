@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/744833ef-63b3-451e-9709-00e57e921efd/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/08/2f4a4cc8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7104,
+  "IDcode": "FNS-008",
+  "title": "新人出道 請看着我高潮… 初體驗滿滿的性感開發3次大戰特別版 首次亮相 AV DEBUT~ 濱邊彌生",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "出道作品",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402010106419419.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250402/20250402010106419419.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7104",
+  "actresses": [
+    {
+      "name": "濱邊彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20250402/c69882cf-89fa-4d14-80ac-43c43c0cdfd6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7104&name=濱邊彌生"
+    },
+    {
+      "name": "宮本由美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7104&name=宮本由美"
+    }
+  ]
+};

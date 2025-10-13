@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231129/RiXu0J3o/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88641,
+  "IDcode": "6P",
+  "title": "【全员ガチ中出し大乱交SEX】低身长140cm现役コミケ売り子レイヤーの小さなワレメに巨マラ连続満月ひかり。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88641",
+  "actresses": []
+};

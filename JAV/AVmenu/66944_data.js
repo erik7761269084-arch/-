@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/01/7fd788ae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66944,
+  "IDcode": "MVSD-535",
+  "title": "【FANZA限定】癒しの笑顔でシコシコどぴゅッ！ めちゃカワ手コキ美少女ナース ささやき淫語と緩急手コキで最高の射精に導いてくれるヒーリング手マ○コ看護 白桃はな 生写真3枚付き",
+  "publish_date": "2023-01-13",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "荡妇",
+    "手淫",
+    "护士",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66944",
+  "actresses": [
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66944&name=白桃はな"
+    }
+  ]
+};

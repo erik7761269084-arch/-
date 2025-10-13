@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/48b0eca2-f336-4acb-a32e-772b7a7bc0f5/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241024/unDzekbL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13835,
+  "IDcode": "SONE-239",
+  "title": "161次激烈高潮！4128次抽搐！高潮潮噴2511cc！ 稚氣與淫蕩並存的美少女，愛神覺醒 ~ 渚あいり",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "癡女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SONE-239为S1出品,2024年6月25日发行的有碼成人影片由渚愛梨出演\n男人的夢想就是讓一個美麗的女孩射精。男人的本能就是想看漂亮女孩爆炸。直到我喘不過氣...沒關係，不用擔心。經典美少女渚愛理展現了她的性慾覺醒和一生中最大的高潮。大量的噴射和劇烈的抽搐一遍又一遍地重複著。我無意那裡。直到她未發育的身體變得堅硬為止，主導的快樂讓她像野獸一樣扭動。她被超越你想像的高潮所擾亂的景象甚至會超越你的幻想。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621000737969969.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621000737969969.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13835",
+  "actresses": [
+    {
+      "name": "渚愛梨",
+      "img_url": "https://picture.yoshiclub.xyz/20240322/592b6afe-eb78-41dd-a192-92d259e154f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13835&name=渚愛梨"
+    }
+  ]
+};

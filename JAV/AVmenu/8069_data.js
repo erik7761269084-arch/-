@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0792808c-4ef8-4dcf-8d20-698da94db182/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8069,
+  "IDcode": "VENX-312",
+  "title": "公公，請不要（汗！）在我洗澡的時候擅自進入浴室……！ ！ ~ 椎名心春",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250222/9f969e86-25a2-495c-ac67-7e6fa6ae4ca9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250222/9f969e86-25a2-495c-ac67-7e6fa6ae4ca9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8069",
+  "actresses": [
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8069&name=椎名心春"
+    }
+  ]
+};

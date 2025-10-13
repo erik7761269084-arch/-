@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ccd1b7f9-c6a0-4c1b-9d96-f15a135ecc9d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/31/3048190c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3587,
+  "IDcode": "PRED-806",
+  "title": "老師的技術比女友還猛！勾引學生偷吃禁果中出狂歡 ~ 黒島玲衣",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "單體作品",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "出軌",
+    "美人",
+    "阪道系",
+    "綠茶婊"
+  ],
+  "description": "PRED-806为PREMIUM出品,2025年8月14日发行的有碼成人影片由黒島玲衣出演\n玲衣老師發現自己相中的男學生竟然交了女友，表面清純的美女老師內心妒火中燒，直接上演搶人好戲！用那張絕美小臉使出真空吸吮，瘋狂追擊讓小鮮肉連射不停！青春肉棒被她含得欲罷不能，老師還振振有詞說“口活不算出軌”，下面那張小嘴也直接開吃，狂野中出SEX爽到爆！明明不行卻一次次射個痛快，滿臉濃精噴射！整個學校裡她都不放過這根肉棒，女友就在旁邊，師生間的禁忌關係卻越來越刺激，老師，我又要射了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040211914914_78433_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040211914914_78433_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3587",
+  "actresses": [
+    {
+      "name": "黒島玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/f8e4a31b-c4c9-4a29-81b5-31c786e3e10a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3587&name=黒島玲衣"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3587&name=七尾神"
+    }
+  ]
+};

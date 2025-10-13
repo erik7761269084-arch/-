@@ -1,0 +1,100 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7dada61f-fdf0-40ef-a85d-ae7f69d2fa7d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/23/e74d1ad5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5646,
+  "IDcode": "DVMM-250",
+  "title": "超人氣AV女優神技治早洩！超狂高速騎乘位挑戰，素人小哥忍住不射就有無限內射大獎~波多野結衣 乙愛麗絲 天馬唯",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "貧乳",
+    "綜藝",
+    "美腳",
+    "寫真女郎",
+    "地雷系",
+    "金髮",
+    "明星臉",
+    "AV拍攝現場",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "粉丝",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優",
+    "肌肉",
+    "芸能人"
+  ],
+  "description": "DVMM-250为DEEP'S出品,2025年5月30日发行的有碼成人影片由波多野结衣，天馬唯，乙愛麗絲出演\n超夯的AV女優來挑戰早洩素人小哥啦！波多野結衣、乙愛麗絲、天馬唯三大女神，用她們逆天的騎乘位技巧，在限定時間內讓小哥射三次就能拿百萬大獎！小哥要是能忍住不射，嘿嘿，就能跟心儀的女神來一場夢幻無限內射SEX！被心愛的女優用銷魂的腰技瘋狂挑逗，忍住射精根本要人命！到底有沒有早洩小哥能撐到最後，抱得美人歸呢？快來看這場刺激的拔射對決啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170128944944_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170128944944_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5646",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5646&name=波多野结衣"
+    },
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5646&name=天馬唯"
+    },
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5646&name=乙愛麗絲"
+    },
+    {
+      "name": "トミフミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5646&name=トミフミ"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5646&name=トイボーイ相沢"
+    }
+  ]
+};

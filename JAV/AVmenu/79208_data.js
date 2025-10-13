@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/22/ff0d4e6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79208,
+  "IDcode": "JUL-646",
+  "title": "なんでここにお母さんが！？彼女と間違えてお母さんを即ハメ！ ～久しぶりのチ○ポに欲情して何度も中出し懇願された僕～ 大原理央",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79208",
+  "actresses": []
+};

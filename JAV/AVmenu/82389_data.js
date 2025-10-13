@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/739c6d4b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82389,
+  "IDcode": "DAKH-004",
+  "title": "哀哭の姫君拷問 ～敵に捕まったプリンセスの無惨なる運命～ Episode-4:容赦なき暴虐の処刑台に震える 麗しきソフィア王女の淫蜜媚肉 妃月るい",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "凌辱",
+    "捆绑",
+    "羞耻",
+    "角色扮演者",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221115-1/74f423cb68e5e70c7acb09983309fc80.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82389",
+  "actresses": [
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82389&name=妃月るい"
+    }
+  ]
+};

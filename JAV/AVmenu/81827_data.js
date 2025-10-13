@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/6EUrJQEZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81827,
+  "IDcode": "MXSPS-629",
+  "title": "吉沢明歩 クロニクルVol.9",
+  "publish_date": "2019-12-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81827",
+  "actresses": []
+};

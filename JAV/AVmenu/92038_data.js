@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240629/mY8SfS5E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92038,
+  "IDcode": "KSBJ-300",
+  "title": "【FANZA限定】おしゃぶり上手なご無沙汰義母が性欲を抑えきれず卑猥な舌遣いで絶倫息子を何度も射精させる！ よしい美希 パンティと生写真付き",
+  "publish_date": "2024-04-17",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240630-1/048b6757edab27b07f26d6ef8d60cb19.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92038",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92038&name=しみけん"
+    }
+  ]
+};

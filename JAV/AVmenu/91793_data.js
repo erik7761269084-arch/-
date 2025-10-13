@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240605/t2zo5wED/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91793,
+  "IDcode": "JUQ-560",
+  "title": "電撃移籍 Madonna専属 二宮ひかり 一心不乱に乱れ溺れる本気の汗だく中出し3本番",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "苗条",
+    "纪录片",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91793",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91793&name=鲛岛"
+    },
+    {
+      "name": "二宫ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91793&name=二宫ひかり"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230329/d034d490-6336-4d67-92eb-104b2a72b24f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1580,
+  "IDcode": "ABP-652",
+  "title": "跟我住在一起的女朋友有多重性格！ ？ VOL.02 充滿主觀影片和Shunka Ayami的日常虛擬性愛 Shunka Ayami",
+  "publish_date": "2017-10-20",
+  "type": "无码",
+  "company": "蚊香社",
+  "genres": [
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "主觀視角",
+    "無碼流出",
+    "巨乳",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230329/9d637cd7-708c-4874-ba48-e21f9448a6a0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230329/9d637cd7-708c-4874-ba48-e21f9448a6a0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1580",
+  "actresses": [
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1580&name=彩美旬果"
+    }
+  ]
+};

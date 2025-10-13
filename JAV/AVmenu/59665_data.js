@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/0fc796a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59665,
+  "IDcode": "PARATHD-4288",
+  "title": "- 若妻に‘喘ぎ声’を教える「よがり教室」のエロすぎる授業 豪華版～ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/0fc796a2/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59665",
+  "actresses": []
+};

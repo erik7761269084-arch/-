@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/6d271647/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75804,
+  "IDcode": "NEO-824",
+  "title": "本日開店！母乳バーテンダー 真白りま 母乳パットとチェキ付き",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "妄想",
+    "颜射",
+    "新娘，年轻妻子",
+    "恋物癖",
+    "校服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75804",
+  "actresses": [
+    {
+      "name": "真白りま",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/9cbcbb4b-d68e-456f-b649-c3622f2c73f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75804&name=真白りま"
+    }
+  ]
+};

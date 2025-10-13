@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/wudDOlJZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80253,
+  "IDcode": "MIMK-099",
+  "title": "とある大家族のオカズ事情 ママ代わりお姉ちゃん奮闘記 原作・チンジャオ娘。2021年FANZA同人CG部門ランキング1位！優しくてエロい姉はお年頃な弟たちの性処理係！ 乃木蛍 （ブルーレイディスク） （BOD）",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "口交",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/834a97a5ffd32443613be7f06a68bf7d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80253",
+  "actresses": [
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80253&name=乃木蛍"
+    }
+  ]
+};

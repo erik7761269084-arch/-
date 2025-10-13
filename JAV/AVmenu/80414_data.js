@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/29/d5572921/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80414,
+  "IDcode": "JUL-908",
+  "title": "息子の友達の制御不能な絶倫交尾でイカされ続けて… リリー・ハート",
+  "publish_date": "2022-03-22",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "白人",
+    "成熟的女人",
+    "已婚妇女",
+    "巨大阴茎",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80414",
+  "actresses": []
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230826/et4K3whv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87955,
+  "IDcode": "AKO-475",
+  "title": "CHINA",
+  "publish_date": "2022-10-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "紧缚",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230826-1/80485935534f3958de25b2f69e4d3ced.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87955",
+  "actresses": [
+    {
+      "name": "雪染ちな",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2f488a5906f657fee5ffb52bad5cf605.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87955&name=雪染ちな"
+    }
+  ]
+};

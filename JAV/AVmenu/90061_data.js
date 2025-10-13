@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/EnKp6d2r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90061,
+  "IDcode": "RCTD-527",
+  "title": "TSF世界改変TV",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "淫语",
+    "女主播",
+    "双性人",
+    "性转换·女体化"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90061",
+  "actresses": [
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90061&name=桐香悠裡"
+    },
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90061&name=新村晶"
+    }
+  ]
+};

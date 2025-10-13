@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240621/nHCOMjwI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102634,
+  "IDcode": "JUFE-182C",
+  "title": "乳頭和肉棒同時愛撫 用淫語誘惑 卻限制高潮的下流痴女 蓮實克蕾兒",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102634",
+  "actresses": []
+};

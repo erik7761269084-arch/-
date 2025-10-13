@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a997a7ce-1376-4a0f-bf4b-c65e58d8e044/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2814,
+  "IDcode": "MFYD-048",
+  "title": "最高の愛人的別墅偷情！幹的汗流浹背，舌吻到天亮 ~ 葉月まゆ",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "小三・情人",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "抹油",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "MFYD-048为溜池出品,2025年9月11日发行的有碼成人影片由葉月まゆ出演\n只要一声召唤，随时随地都能到！葉月まゆ就是我心目中的顶级情人。今天又忍不住想开干，直接把她像外卖一样叫到别墅，疯狂做爱不停歇！没废话，也没时间吃饭，从早到晚就是干个不停。她的身材绝品，床上配合简直完美。紧致度爆表，口技也是一流。内射、清理口交，她都主动上阵，简直是极品女人！就算失去金钱、地位、名誉都没关系，但绝不能失去我的最佳情人まゆ！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014937350350_64652_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014937350350_64652_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2814",
+  "actresses": [
+    {
+      "name": "葉月まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/0a488baa-554a-49f8-8f8f-4106c1fe91f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2814&name=葉月まゆ"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230926/S59Kj8GW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39261,
+  "IDcode": "C94BA849265C8EF3E00E0A12B-9102084",
+  "title": "操了巨乳的微熟女- 天方ゆこ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39261",
+  "actresses": []
+};

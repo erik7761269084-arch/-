@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/Mhpcr5Q1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81653,
+  "IDcode": "DDOB-068",
+  "title": "電撃！痺れマ○コ 奥さん、気絶しても痺れイキしてもらいますョ 遥あやね",
+  "publish_date": "2020-03-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81653",
+  "actresses": [
+    {
+      "name": "遥彩音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/4a6ae78c-7a1c-4665-8b81-e3a85335c9ae_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81653&name=遥彩音"
+    }
+  ]
+};

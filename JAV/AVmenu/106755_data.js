@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/04/08/1f2b605d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106755,
+  "IDcode": "STARS-329",
+  "title": "拍攝回家住同房NTR 大雪無法返回東京的天氣大姊姊、與新人助理中出到懷孕一整晩。 唯井千尋",
+  "publish_date": "2021-02-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "女主播",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1stars329/1stars329pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106755",
+  "actresses": [
+    {
+      "name": "唯井真寻",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bf2b9699-b121-462f-ba29-548f845a13d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106755&name=唯井真寻"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106755&name=蓝井优太"
+    }
+  ]
+};

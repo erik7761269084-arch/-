@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/Iv2DokM2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81748,
+  "IDcode": "MGMQ-046",
+  "title": "病院中の男のアナルを●す天才S痴女ナースがいるM性感クリニック 葵百合香",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "荡妇",
+    "M男",
+    "潮吹",
+    "肛交",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81748",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81748&name=葵百合香"
+    }
+  ]
+};

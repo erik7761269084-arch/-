@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/12/e974a9e3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86227,
+  "IDcode": "SILK-110",
+  "title": "Midnight Egoists",
+  "publish_date": "2018-12-06",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "戏剧",
+    "多P",
+    "羞耻",
+    "情侣",
+    "给女性观众"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/f4b0d55fe20b14f4cfe551d60598e04b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86227",
+  "actresses": [
+    {
+      "name": "二宮和香",
+      "img_url": "https://picture.yoshiclub.xyz/20240620/4eed77a4-0ee7-4b22-8adc-1efdb2f67b3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86227&name=二宮和香"
+    },
+    {
+      "name": "一之瀨戀",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/e37eadf6-69c4-4a94-af39-99a135bf0027.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86227&name=一之瀨戀"
+    },
+    {
+      "name": "上原千明",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/川原梨央.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86227&name=上原千明"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/076a3b1c-33e3-4613-87a1-bbbc4e8854e8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/15/56b60eed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13360,
+  "IDcode": "MIAB-243",
+  "title": "愛上兒子的足球教練。第二個春被點燃，沉迷被他中出中，直到孩子回家...... ~ 森澤佳奈",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "純愛・戀愛",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "人妻",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "MIAB-243为MOODYZ出品,2024年7月16日发行的有碼成人影片由森澤佳奈出演\n【危險的快感】大人青春的感覺真好。我愛上了我兒子的足球教練。穩定的生活和美滿的家庭。我的日常生活本來應該是充實的，但不知為何卻很無聊。這只是一種刺激的好奇心......下午兒子回家之前，發生了一次不道德、節省時間的內射事件…一旦他們的身體重疊，就會變得更熱，她會反覆射精。在浴缸裡可愛的口交。這時候我才意識到，我不是一個母親，而是一個本能的女性…即使你知道這樣不好，也保持距離，但身體再次重疊，這仍然是一次令人興奮和激烈的性交。成年青春會盡他所能地做愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712022032169169.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712022032169169.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13360",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13360&name=森澤佳奈"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/1d217d2c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35312,
+  "IDcode": "JUX-237",
+  "title": "性冷淡人妻在性感剃毛按摩中逐渐流出淫汁的蜜穴彻底激发淫靡肉欲-椎名由奈",
+  "publish_date": "2025-09-28",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "无毛",
+    "羞耻",
+    "数位马赛克",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/27/9190585d338e21f45acb58e83bc9727a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35312",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35312&name=椎名由奈"
+    }
+  ]
+};

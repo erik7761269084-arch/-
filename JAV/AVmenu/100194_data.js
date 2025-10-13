@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230322/75AFD7D330B37592/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100194,
+  "IDcode": "DBER-052",
+  "title": "淫奥が暴れ回る絶体絶命の恐慌！！ 凄まじきマルチプル・オーガズム ～完全撮り下ろし9名の無限地獄～",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "羞耻",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dber052/dber052pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100194",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=蘭々"
+    },
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=铃木里美"
+    },
+    {
+      "name": "日向澪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/f82b72a5-0d1e-43cf-afd3-ed571d592b55_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=日向澪"
+    },
+    {
+      "name": "佐久间恵美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=佐久间恵美"
+    },
+    {
+      "name": "亜佐仓みんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=亜佐仓みんと"
+    },
+    {
+      "name": "白井仁美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=白井仁美"
+    },
+    {
+      "name": "雪乃ゆめ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=雪乃ゆめ"
+    },
+    {
+      "name": "橘つかさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100194&name=橘つかさ"
+    }
+  ]
+};

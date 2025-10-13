@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/9E6DB96997525BF2/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36265,
+  "IDcode": "3A6DB4E603A7BE1827047C026A4ADA-28",
+  "title": "熟女は両穴を同時に攻める",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36265",
+  "actresses": []
+};

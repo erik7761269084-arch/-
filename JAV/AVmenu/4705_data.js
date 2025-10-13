@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c2474cb-388a-4925-8cff-f249f3cf2cbc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4705,
+  "IDcode": "BAGR-065",
+  "title": "顏值撩爆你！超近距離顏面特化POV 甜美小惡魔女友的早泄調教日常 ~ 浦上日紀",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "主觀視角",
+    "舔陰",
+    "少女",
+    "打手槍",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "BAGR-065为BALTAN出品,2025年7月5日发行的有碼成人影片由浦上日紀出演\n我的女友有點小壞心，專門幫我這早洩菜鳥設計射精管理計畫！早上硬到不行，她直接貼臉來一發熱吻，開啟晨間激戰模式！超近距離瞪著我下令自慰，S屬性滿滿的臉騎play，口手雙管齊下的寸止折磨，深入到底的騎乘位狂輸出！這種半死不活的同居生活真的讓人欲罷不能！每次看我忍到滿頭大汗，她那得意的笑臉，真的是讓我既想爆射又幸福到炸！快來用超近臉部POV視角，體驗這種甜蜜又虐心的日常啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705040946737737_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250705/20250705040946737737_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4705",
+  "actresses": [
+    {
+      "name": "浦上日紀",
+      "img_url": "https://picture.yoshiclub.xyz/20241212/d7135731-c060-4f43-b617-15ab91c540c7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4705&name=浦上日紀"
+    }
+  ]
+};

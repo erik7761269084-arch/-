@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/21/d932e4a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104735,
+  "IDcode": "SW-542",
+  "title": "隣に越してきた母と娘姉妹は隠れヤリマン！妹は小悪魔パンチラで、姉はハミ出しボイン、母はクソエロパンストで女性経験の無い僕のチ○ポを誘い、絶倫・覚醒させてくれたんだ",
+  "publish_date": "2018-03-08",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "巨乳",
+    "企画",
+    "连裤袜",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/20/e4a589051179fc45180b1e00ab6988f2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104735",
+  "actresses": [
+    {
+      "name": "石田美久",
+      "img_url": "https://picture.yoshiclub.xyz/20240301/503ca6d6-00d9-44c7-bd68-cb8536c2a627.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104735&name=石田美久"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104735&name=麻里梨夏"
+    },
+    {
+      "name": "桐岛莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220050303303_36216_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104735&name=桐岛莉乃"
+    },
+    {
+      "name": "大石香织",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/262ac9cf99cd665cdc871e0a6f18cb0a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104735&name=大石香织"
+    }
+  ]
+};

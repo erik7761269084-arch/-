@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bc2d9292-3120-450f-a130-ba0e5e4accd9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11979,
+  "IDcode": "EBWH-161",
+  "title": "新人報到！獲得WSC特別獎，技術和服務 都是世界公認最佳的泡泡浴女郎 AV DEBUT~ AKARI",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "EBWH-161为E-BODY出品,2024年9月17日发行的有碼成人影片由Akari出演\n這是代表肥皂劇強國日本的世界上最色情的招待技巧！ ！在機場偶遇住在洛杉磯的神秘美女…！連沒洗澡的臭陰莖都能立即測出來！擁有世界頂尖技術的墊上遊戲天才！一位專業的龍捲風女牛仔，熱愛色情事物並一直在探索它們！專業演員忍不住問：「你怎麼樣！？」口水都冒泡了！ “如果你用旋轉的舌頭給我看色情口交，我就會變成一隻自慰的猴子。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240913/20240913010959118118.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240913/20240913010959118118.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11979",
+  "actresses": [
+    {
+      "name": "Akari",
+      "img_url": "https://picture.yoshiclub.xyz/20240914/2dd3f16b-8fe9-4189-9aa5-8df07910d806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11979&name=Akari"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11979&name=鲛岛"
+    }
+  ]
+};

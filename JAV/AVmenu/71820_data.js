@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250218/I1k91M2h/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71820,
+  "IDcode": "AP-667",
+  "title": "新作撮り下ろし！2作品同時収録！（1）仲良し一家強制近親相姦 （2）スッピンのままで遅刻出勤してきた新人OLをパワハラ全開でセクハラしまくって感じさせろ！",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "凌辱",
+    "企画",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71820",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71820&name=タツ"
+    }
+  ]
+};

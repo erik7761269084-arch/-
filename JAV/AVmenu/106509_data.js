@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/20/953a7a41/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106509,
+  "IDcode": "ALDN-236",
+  "title": "嫁の母と俺の父 白河花清",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/12/19/232a0fa50ad8d09c317607776f5ba523.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106509",
+  "actresses": [
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106509&name=白河花清"
+    }
+  ]
+};

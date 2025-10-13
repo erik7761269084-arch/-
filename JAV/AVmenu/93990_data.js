@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/25/0b3014ae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93990,
+  "IDcode": "ROE-229",
+  "title": "「あなた、本当にこれでいいの？」夫の寝取らせ願望を受け入れた妻の見せつけ中出し交尾 一色桃子",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93990",
+  "actresses": [
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93990&name=一色桃子"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/07/d710df70/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84982,
+  "IDcode": "JUL-815",
+  "title": "出張先のビジネスホテルでずっと憧れていた女上司とまさかまさかの相部屋宿泊 小笠原るい",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/43be40b64b008bfdf4da5ce5e8b19ec1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84982",
+  "actresses": []
+};

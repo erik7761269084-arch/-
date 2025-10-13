@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2273aad9-a29c-4673-983c-f1799715c0fa/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/16a80000/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9179,
+  "IDcode": "ALDN-408",
+  "title": "我是一個幸福的男人 ~ 菅日菜子",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "內衣",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "美人",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250112/20250112104046744744.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250112/20250112104046744744.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9179",
+  "actresses": [
+    {
+      "name": "菅日菜子",
+      "img_url": "https://picture.yoshiclub.xyz/20240208/ec150d6e-8bf6-45ca-838e-ad76e79c8df1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9179&name=菅日菜子"
+    }
+  ]
+};

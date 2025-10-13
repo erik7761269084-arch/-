@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/08/dd345044/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102048,
+  "IDcode": "EBOD-668",
+  "title": "脫了後超有肉！敏感巨乳小隻馬肏下海 明望萌衣",
+  "publish_date": "2018-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "多P",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102048",
+  "actresses": [
+    {
+      "name": "宝生めい",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/938134a7-6744-473d-923a-ba7db44f2d99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102048&name=宝生めい"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102048&name=南佳也"
+    }
+  ]
+};

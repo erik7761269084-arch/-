@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/81b25e5a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89331,
+  "IDcode": "STARS-888",
+  "title": "【夏といえば水着！SODstar全員ビキニ祭】ドキドキの初露出！アスリート 新海咲  南国イチャラブデートで露出SEX",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "放尿",
+    "苗条",
+    "户外",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89331",
+  "actresses": [
+    {
+      "name": "新海咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/2389414b-16e3-4d48-82f4-6cdeb2fd0123.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89331&name=新海咲"
+    }
+  ]
+};

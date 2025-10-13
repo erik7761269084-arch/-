@@ -1,0 +1,96 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae5a2791-aa21-41ab-9be4-dfbcfc0aef0d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6168,
+  "IDcode": "RVG-238",
+  "title": "隨時都能上的超放蕩姊姊們 ~ 齋藤亞美里 流川莉央 尾崎惠梨香 月乃雛 三田櫻",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "大姐姐",
+    "故事集",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "傲嬌",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "美腳",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "RVG-238为GLORY QUEST出品,2025年5月10日发行的有碼成人影片由流川莉央，月乃雛，尾崎惠梨香，齋藤亞美里，三田櫻出演\n這群神秘辣妹，遇到搭訕的大叔們完全不設防，慾望一來就直接開幹，毫無底線！還有個大胸J系妹子，太浪了，在校園裡到處啪啪啪，結果直接留級！這些隨時隨地都能讓你上的妹子，簡直是人間至寶啊！她們撩人的小語氣：我有小穴，你有大棒，不插一發怎麼行？收錄了五個超放蕩的浪貨，個個都讓人慾罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101839510510_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101839510510_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6168",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6168&name=尾崎惠梨香"
+    },
+    {
+      "name": "齋藤亞美里",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/e0e8100c-8051-4b7a-90a9-44bfdd3280f7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6168&name=齋藤亞美里"
+    },
+    {
+      "name": "流川莉央",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/181ac8f5-9bf0-4543-8047-3ed2391b7b78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6168&name=流川莉央"
+    },
+    {
+      "name": "三田櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231204/f15c686f-2ac7-4f04-beea-ee3ab37abb44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6168&name=三田櫻"
+    },
+    {
+      "name": "月乃雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/8991df12-5e87-419e-92a9-3e61b06decf4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6168&name=月乃雛"
+    }
+  ]
+};

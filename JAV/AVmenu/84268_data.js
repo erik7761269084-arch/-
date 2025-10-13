@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230107/HVSux93V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84268,
+  "IDcode": "DASS-021",
+  "title": "女体化した俺は親友に求められるがまま、受け入れて、心も女になっていた。 辻井ほのか",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "戏剧",
+    "乳交",
+    "巨乳",
+    "中出",
+    "性转换·女体化",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84268",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84268&name=辻井穗乃果"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84268&name=タイ"
+    }
+  ]
+};

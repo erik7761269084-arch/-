@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240507/VB6oFmTu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91463,
+  "IDcode": "BHG-051",
+  "title": "【FANZA限定】ボイングラマー Jカップ 塚田詩織 パンティとチェキ付き",
+  "publish_date": "2023-08-16",
+  "type": "有码",
+  "company": "Gain Corporation",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "恋乳癖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240507-1/4a40cc50c90471bae7a66aa60ddcaa52.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91463",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91463&name=塚田詩織"
+    }
+  ]
+};

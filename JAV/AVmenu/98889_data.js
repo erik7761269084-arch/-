@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/7B35788EDAA381F6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98889,
+  "IDcode": "SDJS-036",
+  "title": "SOD女子社員 処女 浅井心晴 AV出演！！ SOD史上1番ガッツに溢れた新入社員",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "处女",
+    "首次亮相",
+    "OL",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98889",
+  "actresses": [
+    {
+      "name": "浅井心晴",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/10807334-d66e-4302-bca5-cb44017fbb07.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98889&name=浅井心晴"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98889&name=大岛丈"
+    }
+  ]
+};

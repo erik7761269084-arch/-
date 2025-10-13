@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/31/ede52be0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103589,
+  "IDcode": "PS-036",
+  "title": "B級素人初撮り 「部長、スミマセン」 浅香みゆりさん 23歳 派遣社員",
+  "publish_date": "2011-01-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103589",
+  "actresses": []
+};

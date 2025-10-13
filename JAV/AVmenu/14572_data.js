@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd607db2-cee3-4fe0-a0d8-3f69a983d1ea/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14572,
+  "IDcode": "KDMI-054",
+  "title": "性感長腿的 cosplay FUCK 太棒了",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "絕頂高潮",
+    "美腿",
+    "緊身衣",
+    "肉絲",
+    "4小時以上作品",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "癡女",
+    "精選總編集",
+    "高跟鞋",
+    "猥褻穿著",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241220/623f6f51-9e53-482f-93e9-1e7ba769b41e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241220/623f6f51-9e53-482f-93e9-1e7ba769b41e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14572",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=沙月惠奈"
+    },
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=小花暖"
+    },
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=東條夏"
+    },
+    {
+      "name": "水原みその",
+      "img_url": "https://picture.yoshiclub.xyz/20240111/08b89e09-be7e-4410-a76a-3252f5c987ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=水原みその"
+    },
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=乃木蛍"
+    },
+    {
+      "name": "結城蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/6b517e51-4b0e-439b-80e2-52465744d577.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=結城蘭"
+    },
+    {
+      "name": "希志亞美",
+      "img_url": "https://picture.yoshiclub.xyz/20240520/e6b23e91-99ab-4181-a07e-50985903730b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14572&name=希志亞美"
+    }
+  ]
+};

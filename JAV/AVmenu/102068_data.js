@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240515/n3E2f2N5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102068,
+  "IDcode": "IPZ-571",
+  "title": "淫語滿點吸精真空口爆 Shelly",
+  "publish_date": "2015-05-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "口交",
+    "数位马赛克",
+    "深喉",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ipz571/ipz571pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102068",
+  "actresses": [
+    {
+      "name": "藤井シェリー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102068&name=藤井シェリー"
+    }
+  ]
+};

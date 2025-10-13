@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/23/700127b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92330,
+  "IDcode": "MIFD-225",
+  "title": "新人20歳 帰宅部だけどセックスは大好きッ！笑顔で精子飲んじゃうショートカットごっくん美少女AVdebut 西川はる （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-03-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "颜射",
+    "制服",
+    "首次亮相",
+    "吞精",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92330",
+  "actresses": [
+    {
+      "name": "西川はる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92330&name=西川はる"
+    }
+  ]
+};

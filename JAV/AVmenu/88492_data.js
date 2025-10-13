@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/07/5fd0f60f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88492,
+  "IDcode": "JUY-842",
+  "title": "レーベルを飛び越えてNTR初挑戦！！ 引きこもりの義弟NTR ～妻への歪んだ愛情が引き起こした衝撃的ネトラレ話～ 牧村彩香",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88492",
+  "actresses": [
+    {
+      "name": "牧村彩香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20251004/55ef6373-bc65-4fcc-b1c8-18d5c3aae496_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88492&name=牧村彩香"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88492&name=イセドン内村"
+    }
+  ]
+};

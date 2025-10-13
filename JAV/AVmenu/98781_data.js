@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230111/ECB03690AE3A6D47/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98781,
+  "IDcode": "SABA-682",
+  "title": "新 生中出しアオハル制服女子●生バイト Vol.005",
+  "publish_date": "2021-03-12",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "制服",
+    "业余",
+    "药物",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_244saba682/h_244saba682pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98781",
+  "actresses": [
+    {
+      "name": "中城葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/09bbbdf9-f79a-473d-b91d-b2071b8b3675.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98781&name=中城葵"
+    },
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98781&name=永濑唯"
+    },
+    {
+      "name": "ももたらら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98781&name=ももたらら"
+    },
+    {
+      "name": "服部飞鸟",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98781&name=服部飞鸟"
+    }
+  ]
+};

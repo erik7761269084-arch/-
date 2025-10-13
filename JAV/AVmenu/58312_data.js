@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58312,
+  "IDcode": "101319_913",
+  "title": "101319_913 おっぱいポロリ 夏木ゆきえ",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58312",
+  "actresses": []
+};

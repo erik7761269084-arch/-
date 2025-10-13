@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240530/55jldKgv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102261,
+  "IDcode": "MXGS-1123",
+  "title": "リアルガチドキュメント 本当に自由にしてイイんですか？ こんな撮影今までなかったんですけど 宝田もなみ",
+  "publish_date": "2019-10-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_068mxgs01123/h_068mxgs01123pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102261",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102261&name=大岛丈"
+    }
+  ]
+};

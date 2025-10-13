@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57288,
+  "IDcode": "E02F537DC185DDA282C0716549AF11F0",
+  "title": "性感的朋友在沙发上做爱",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57288",
+  "actresses": []
+};

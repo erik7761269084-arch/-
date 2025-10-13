@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/stKldgje/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77267,
+  "IDcode": "MUDR-068",
+  "title": "透明感抜群・完璧ボディの美少女がご奉仕してくれる 生ハメ・中出しのできるピタコス ソープランド 水川えみる",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "乳房",
+    "角色扮演者",
+    "学校泳装",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77267",
+  "actresses": [
+    {
+      "name": "水川えみる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77267&name=水川えみる"
+    }
+  ]
+};

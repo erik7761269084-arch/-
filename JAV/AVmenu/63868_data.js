@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/d6200cab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63868,
+  "IDcode": "HODV-21974",
+  "title": "初撮りおばさんAVデビュー 10人4時間",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "出轨",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/d6200cab/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63868",
+  "actresses": []
+};

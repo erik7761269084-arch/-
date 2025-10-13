@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/6gcC4kDM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79266,
+  "IDcode": "HUNTB-044",
+  "title": "「覚えてる？昨日は嬉しかったよ！」朝起きたら部屋に下着姿の同期女子社員！いつも口うるさくてケンカばかりしている同期女子社員が甘えてきたので…",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女上位",
+    "内衣",
+    "口交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/0237607d368de6cf3b4ffceacc11616c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79266",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79266&name=弥生美月"
+    },
+    {
+      "name": "松田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79266&name=松田优"
+    }
+  ]
+};

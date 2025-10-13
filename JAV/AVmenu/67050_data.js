@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250427/VaUyAHqU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67050,
+  "IDcode": "ALDN-110",
+  "title": "【FANZA限定】母姦中出し 息子に初めて中出しされた母 伊織涼子 チェキ付き",
+  "publish_date": "2023-01-07",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/320fdd1dddd34bb7372569726fd183bb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67050",
+  "actresses": [
+    {
+      "name": "伊织凉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250524/39f28971-1e7d-4d1d-8601-e569aae3cba9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67050&name=伊织凉子"
+    }
+  ]
+};

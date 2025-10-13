@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220405/1FC0D66E77FF0AE7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104184,
+  "IDcode": "DPMX-005",
+  "title": "セレビッチ！～誘惑の完全着衣～ 篠田あゆみ",
+  "publish_date": "2015-10-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "其他恋物癖",
+    "成熟的女人",
+    "巨乳",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dpmx005/dpmx005pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104184",
+  "actresses": [
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104184&name=篠田步美"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250415/U6nNdzUr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68492,
+  "IDcode": "YSN-582",
+  "title": "【FANZA限定】新しい義妹は、鬼畜な人なのに僕の勃起は治まらない。 渚みつき パンティと生写真付き",
+  "publish_date": "2022-09-02",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/99e8c766e613956db86b38760ecdd033.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68492",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68492&name=渚光希"
+    }
+  ]
+};

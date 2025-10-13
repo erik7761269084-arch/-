@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/16/768c0502/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107289,
+  "IDcode": "SSNI-797",
+  "title": "相部屋NTR 朝から晩まで、絶倫上司との不倫セックスで巨乳社員が膣堕ちした出張先の夜 乃木蛍",
+  "publish_date": "2020-06-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "口交",
+    "薄马赛克",
+    "OL",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107289",
+  "actresses": [
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107289&name=乃木蛍"
+    }
+  ]
+};

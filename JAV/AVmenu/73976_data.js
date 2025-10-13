@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250101/2YQkTlqj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73976,
+  "IDcode": "CESD-772",
+  "title": "ご近所でチ○ポをシェア！若い男を喰いまくる肉食系の奥様たち 森沢かな 波多野結衣 大槻ひびき",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "淫乱，真实",
+    "荡妇",
+    "出轨",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73976",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73976&name=波多野结衣"
+    },
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73976&name=森澤佳奈"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73976&name=大槻响"
+    }
+  ]
+};

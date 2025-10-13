@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/02/213074d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74944,
+  "IDcode": "MIGD-592",
+  "title": "ぶっかけ中出しアナルFUCK！ 滝沢かのん",
+  "publish_date": "2014-06-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "轮奸",
+    "肛交",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74944",
+  "actresses": [
+    {
+      "name": "滝沢かのん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74944&name=滝沢かのん"
+    }
+  ]
+};

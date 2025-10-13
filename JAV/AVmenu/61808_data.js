@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/28/1045461e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61808,
+  "IDcode": "PYM-529",
+  "title": "海の家覗き撮り 無防備オナニー",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "自慰",
+    "姐姐",
+    "泳装",
+    "业余",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61808",
+  "actresses": []
+};

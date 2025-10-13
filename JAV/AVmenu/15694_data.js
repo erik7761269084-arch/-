@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/264461e9-71bf-4c0e-a1e7-161aebe5799a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15694,
+  "IDcode": "OLM-047",
+  "title": "最好的桐香悠裡姐姐提供色情服務！桐香悠裡因與變態老人發生性關系而因年齡差異而潮吹",
+  "publish_date": "2024-03-31",
+  "type": "有码",
+  "company": "OLYMPUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "不倫",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "手指插入",
+    "按摩棒",
+    "亂倫",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401084941897897.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240401/20240401084941897897.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15694",
+  "actresses": [
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15694&name=桐香悠裡"
+    }
+  ]
+};

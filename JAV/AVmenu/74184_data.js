@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/cyy25N8l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74184,
+  "IDcode": "MIDE-661",
+  "title": "芸能人風俗フルコース～極上中出し天国Special～ 仲村みう",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "偶像",
+    "荡妇",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/4f4767dc6091252ca1cdd0116469403b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74184",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74184&name=仲村美羽"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74184&name=小田切ジュン"
+    }
+  ]
+};

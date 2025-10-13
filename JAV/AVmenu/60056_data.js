@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/11/64c5bb5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60056,
+  "IDcode": "300NTK-272",
+  "title": "300ntk-272喜欢肌肉男的销售美女如愿以偿的被干到高潮喷水",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60056",
+  "actresses": []
+};

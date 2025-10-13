@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/16/6e1a562f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91882,
+  "IDcode": "VEMA-220",
+  "title": "美人女教師の彼女はクラスの担任で部活の顧問でボクの恋人～年上彼女と朝から晩まで禁断情熱中出しSEX～ あやせ舞菜",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91882",
+  "actresses": [
+    {
+      "name": "綾瀬舞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/f019b8a1-7dc2-44b1-8f71-f9587e03099e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91882&name=綾瀬舞菜"
+    }
+  ]
+};

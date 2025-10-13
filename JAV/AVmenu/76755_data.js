@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/30/f1d9a738/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76755,
+  "IDcode": "JUY-861",
+  "title": "転職先の女上司に勤務中ずっと弄ばれ続けている新人の僕 三浦恵理子",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "各种职业",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76755",
+  "actresses": [
+    {
+      "name": "三浦恵理子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76755&name=三浦恵理子"
+    }
+  ]
+};

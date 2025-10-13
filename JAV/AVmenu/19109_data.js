@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86964aaa-33fe-4a05-af6c-1f794a136e02/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250106/qDmpUI5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19109,
+  "IDcode": "IPX-333",
+  "title": "喜歡舔棒的性處理女僕極濃服侍口交",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "女僕",
+    "偶像",
+    "口交",
+    "女僕制服",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230715/20230715202908535535.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230715/20230715202908535535.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19109",
+  "actresses": [
+    {
+      "name": "優月心菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230704/d9f89af0-ffaf-47a2-861c-823554346993.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19109&name=優月心菜"
+    },
+    {
+      "name": "优月心菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19109&name=优月心菜"
+    }
+  ]
+};

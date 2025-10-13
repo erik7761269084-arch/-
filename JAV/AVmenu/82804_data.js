@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/VYKemtu5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82804,
+  "IDcode": "HGOT-027",
+  "title": "固くて無機質な突起部分に恋した熱中角オナニー",
+  "publish_date": "2020-02-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "自慰",
+    "运动短裤",
+    "妹妹",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/2bda46a5ead982a2e193cf7d3299ec4c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82804",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=黑川堇"
+    },
+    {
+      "name": "宫泽千春",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/99a363ed-fd20-401a-af51-8bc2a9792a99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=宫泽千春"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=蓮実クレア"
+    },
+    {
+      "name": "真田さな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/1d18f3fe-4bf7-4daa-8310-a3cc8589d82e_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=真田さな"
+    },
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=永濑唯"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=篠田优"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=稻场流花"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=新井爱丽"
+    },
+    {
+      "name": "爱瀬るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=爱瀬るか"
+    },
+    {
+      "name": "春风光",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=春风光"
+    },
+    {
+      "name": "古贺まつな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82804&name=古贺まつな"
+    }
+  ]
+};

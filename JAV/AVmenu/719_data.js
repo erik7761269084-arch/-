@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e6e5ca6-7f1b-4d4a-afff-1aacb7d5a78c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 719,
+  "IDcode": "HEYZO-0868",
+  "title": "惡作劇了最喜歡的青梅竹馬～小惡魔的誘惑 ～ 貓田りく",
+  "publish_date": "2015-05-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "打手槍",
+    "美少女",
+    "青梅竹馬",
+    "清純",
+    "惡搞",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0868为HEYZO出品,2015年5月27日发行的無碼成人影片由猫田りく出演\n大好きな幼馴染にイタズラしちゃった～小悪魔・りくの誘惑～ - 猫田りく",
+  "cover_url": "https://picture.yoshiclub.xyz/20240814/50539a48-0daa-4836-9ef7-47bb76a8aec7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240814/50539a48-0daa-4836-9ef7-47bb76a8aec7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=719",
+  "actresses": [
+    {
+      "name": "猫田りく",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-猫田りく.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=719&name=猫田りく"
+    }
+  ]
+};

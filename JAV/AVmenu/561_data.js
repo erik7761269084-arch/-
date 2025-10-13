@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/61b151bc-798f-4f60-be9c-6a9e498a8d73/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 561,
+  "IDcode": "HEYZO-0670",
+  "title": "被堵住嘴喊救命都沒有用 - 便利店美女店員被同事強制中出！ 〜 百田まゆか",
+  "publish_date": "2014-08-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "便利商店",
+    "後入",
+    "脅迫做愛",
+    "痴漢",
+    "劇情",
+    "猥亵",
+    "絕頂高潮",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "商店",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "制服",
+    "口交",
+    "職員",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性騷擾",
+    "美腳",
+    "美少女",
+    "女同事",
+    "公共場所",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0670为HEYZO出品,2014年8月29日发行的無碼成人影片由百田まゆか 出演\n逆ギレ中出し～コンビニ店員にブチこむ！～ - 百田まゆか",
+  "cover_url": "https://picture.yoshiclub.xyz/20241120/d28a790d-138b-49c5-8a5b-f526e11c4710.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241120/d28a790d-138b-49c5-8a5b-f526e11c4710.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=561",
+  "actresses": [
+    {
+      "name": "百田まゆか",
+      "img_url": "https://picture.yoshiclub.xyz/20240806/f876945f-63e2-44ad-b69e-3b18537e4264.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=561&name=百田まゆか"
+    }
+  ]
+};

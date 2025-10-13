@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c4292bb-8b9b-4b0f-9a34-e45d4cea28c6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 119,
+  "IDcode": "HEYZO-0067",
+  "title": "私拍收藏系列Vol.10：泳裝正妹的激情狂夜 ~ 一ノ瀬つばさ",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美腳",
+    "金髮",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "女優"
+  ],
+  "description": "HEYZO-0067为HEYZO出品,2012年8月31日发行的無碼成人影片由一ノ瀬つばさ出演\n一ノ瀬つばさ这妹子，泳技一流，身材更是火辣到爆！现在是个自由打工族，单身半年了，但她居然有个固定的炮友，过去甚至还有两个，简直是个小骚货！她的敏感带超特别，耳朵、脖子都行，但最爱的还是“里面”。这妹子毫不掩饰自己对大棒棒的喜爱，轻轻摸一下她的脖子，她就直接进入发情模式，眼神都变了！从耳朵舔到胸，发现她的小樱桃早就硬邦邦，完美身材一览无余，大开M字腿，用手指、电棒轮番上阵攻G点，淫水直接把床单都弄湿透了！口技秀一波，然后传教士、后入、女上男下各种姿势疯狂输出，最后直接内射，精液流得满满都是，画面太刺激！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250729080239643643_85701_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250729/20250729080239643643_85701_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119",
+  "actresses": [
+    {
+      "name": "一ノ瀬つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250730/20250730095552414414_86444_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=119&name=一ノ瀬つばさ"
+    }
+  ]
+};

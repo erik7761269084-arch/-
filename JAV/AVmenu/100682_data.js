@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/1cb8fd5b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100682,
+  "IDcode": "SSIS-683",
+  "title": "神乳にチ●ポ埋まるほど包み込まれて、揉みヌかれたい… Jcupで挟んでイクまで離さない4K撮影パイズリ特化マニアックス 鷲尾めい （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "恋乳癖",
+    "接吻",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/10/5415977b415228e6f9445ceeaa71f884.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100682",
+  "actresses": [
+    {
+      "name": "笕纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100682&name=笕纯"
+    }
+  ]
+};

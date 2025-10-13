@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230128/E23AC478C20EC9F6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99049,
+  "IDcode": "SHM-014",
+  "title": "シロウト女子個人撮影ハメ撮り日記 流浪のやりまんいえなき子みおちゃんCかっぷ 一条みお",
+  "publish_date": "2019-08-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "瘦小身型",
+    "平胸",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_687shm014/h_687shm014pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99049",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99049&name=一条美绪"
+    }
+  ]
+};

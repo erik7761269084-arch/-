@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/53b38a3f-8c16-4c54-a6ad-d642321f971f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 590,
+  "IDcode": "HEYZO-0708",
+  "title": "放課後美少女檔案 No.8 ～無垢少女的敏感身體～ 椎名美優",
+  "publish_date": "2014-10-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "清純",
+    "艷遇",
+    "獵豔",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "HEYZO-0708为HEYZO出品,2014年10月19日发行的無碼成人影片由椎名美優 出演\n放課後美少女ファイル No.8～無垢な乙女の敏感ボディ～ - 椎名みゆ",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/f65b6db4-cf7d-40f6-9c9f-d8c4c9f36c56.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/f65b6db4-cf7d-40f6-9c9f-d8c4c9f36c56.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=590",
+  "actresses": [
+    {
+      "name": "椎名美優",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/9f9c9371-b426-406d-ad40-1712c634c5a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=590&name=椎名美優"
+    }
+  ]
+};

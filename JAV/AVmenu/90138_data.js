@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/AcGOpRUh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90138,
+  "IDcode": "RCTD-562",
+  "title": "風雲ウェット＆メッシー（WAM）アスレチックランド",
+  "publish_date": "2024-01-11",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "羞耻",
+    "恋物癖",
+    "战斗行动"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240113-1/cd006b413bbe203ba73c0dc3acf29fa1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90138",
+  "actresses": [
+    {
+      "name": "宇佐美みおん",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/f958e0a8-a240-4c46-8134-7697162e44e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90138&name=宇佐美みおん"
+    },
+    {
+      "name": "市成心海",
+      "img_url": "https://picture.yoshiclub.xyz/20250113/82d9db53-16d6-46bf-956d-3a7768cde4aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90138&name=市成心海"
+    }
+  ]
+};

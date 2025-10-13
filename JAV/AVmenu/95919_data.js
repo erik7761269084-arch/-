@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/01/6bfe34f9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95919,
+  "IDcode": "VENX-285",
+  "title": "近ごろ豊満な熟女体型を気にしはじめた嫁の母が恥じらう姿に僕は勃起してしまった 藤沢麗央",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95919",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95919&name=藤沢麗央"
+    }
+  ]
+};

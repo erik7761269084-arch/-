@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240110/IoqBEb3o/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89980,
+  "IDcode": "PTS-508",
+  "title": "PEAチャンネル 6 妹がリビングでAV見てたらお兄ちゃんはどんな反応するのか！？ パパ活アプリで実のお父さんとマッチングしてみたドッキリ！！",
+  "publish_date": "2023-10-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "巨大屁股",
+    "感官作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89980",
+  "actresses": [
+    {
+      "name": "香澄せな",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/d3e3db0b-d3f5-4fb0-93a0-db02a1ad7c3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89980&name=香澄せな"
+    },
+    {
+      "name": "矢野沙衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/14069054-6fe7-464d-b10f-7275717fa678.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89980&name=矢野沙衣"
+    }
+  ]
+};

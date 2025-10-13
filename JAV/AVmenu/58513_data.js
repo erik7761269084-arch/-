@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58513,
+  "IDcode": "458b5ca3d120013b1a4df7146f01ea57",
+  "title": "19岁I罩杯巨乳小姐姐",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58513",
+  "actresses": []
+};

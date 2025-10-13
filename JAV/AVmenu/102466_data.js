@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240613/DXuLIlN3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102466,
+  "IDcode": "JUC-710",
+  "title": "上司の言いなりになった人妻奴隷秘書 平和島結希",
+  "publish_date": "2012-01-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "数位马赛克",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102466",
+  "actresses": [
+    {
+      "name": "平和岛结希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102466&name=平和岛结希"
+    }
+  ]
+};

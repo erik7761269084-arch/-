@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/2zZQyfgD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87113,
+  "IDcode": "NHDTB-776",
+  "title": "痴●OK娘スペシャル 豪華版 毎朝、電車で見かける美少女J○2人組を連日痴●で中出しまでOKさせろ 川栄結愛さんのパンティとチェキ付き",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "潮吹",
+    "羞耻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230710-1/306338ec8cfbdd346ffc23984771b673.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87113",
+  "actresses": [
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87113&name=雅子裡菜"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/18/2f690f53/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75764,
+  "IDcode": "HDKA-194",
+  "title": "はだかの家政婦 全裸家政婦紹介所 美園和花",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "自慰",
+    "口交",
+    "恋物癖",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/acfbbd51452d8813a0d08f58f724c7eb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75764",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75764&name=美園和花"
+    }
+  ]
+};

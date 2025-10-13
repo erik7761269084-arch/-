@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/91a6ed71-e371-4027-a272-a05d399d7da1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6218,
+  "IDcode": "KTRA-716",
+  "title": "和肉乎乎的可愛超爆乳蘿莉們的激情四小時 ~ 莉莉遙香 川口葉純 篠崎環奈 あず希 すなお恵",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "企畫",
+    "巨尻",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "女僕制服",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "KTRA-716为K-Tribe出品,2025年5月10日发行的有碼成人影片由莉莉遙香，篠崎環奈，あず希，川口葉純，蒼空なつき出演\n這些肉肉的小妹妹實在太正點了！軟綿綿、圓滾滾的，純真又可愛，直接讓人三觀崩壞！那勾人的肉感身材，豐滿又性感的曲線，真的讓人淪陷！面對這些萌妹子，兄弟們根本硬到不行！尤其是那柔嫩的小穴，忍不住直接內射，禁忌的快感讓人嗨翻天！精選的背德性愛片段，絕對值得收藏！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505101025077575_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/202505101025077575_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6218",
+  "actresses": [
+    {
+      "name": "莉莉遙香",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/0482cb9f-4857-4c5f-b538-86b741ba7999.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6218&name=莉莉遙香"
+    },
+    {
+      "name": "篠崎環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250121/e97925c3-f063-42bb-9d47-9ad932b9983c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6218&name=篠崎環奈"
+    },
+    {
+      "name": "蒼空なつき",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/a776e49a-c472-4ac3-b2ff-ba9f59f0e991_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6218&name=蒼空なつき"
+    },
+    {
+      "name": "川口葉純",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/831bc654-c468-4b50-9768-241cdcc85390_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6218&name=川口葉純"
+    },
+    {
+      "name": "あず希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/187453ab-4771-4ae8-871f-a0ca95d18075_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6218&name=あず希"
+    }
+  ]
+};

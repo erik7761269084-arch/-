@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/aoj7SMhI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89077,
+  "IDcode": "VOV-108",
+  "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.43「お姉さんよりエッチな友達紹介してもらえますか」",
+  "publish_date": "2023-06-23",
+  "type": "有码",
+  "company": "木曜日！全員集合！！",
+  "genres": [
+    "巨乳",
+    "中出",
+    "滥交",
+    "角色扮演者",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89077",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/06/ff7842e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85722,
+  "IDcode": "NACR-509",
+  "title": "チ○ポがふやけるほどのお掃除フェラで何度もおねだりしちゃうドスケベ彼女 辻さくら",
+  "publish_date": "2022-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "玩具",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/39657442a455344cef7c9d0c579d96f4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85722",
+  "actresses": []
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/289575fe-1edd-4ca4-a0f5-c7d2cfd74f17/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/27/4cc44330/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13330,
+  "IDcode": "VENZ-006",
+  "title": "漂亮祕書，喝醉後變成蕩婦，非常淫蕩。在你射精之前根本不讓你拔出來的小穴。讓你想起她就會自慰的女人。錯過了最後一班是車，一起過夜當然該發生的都發生了！ ~ 宮西光",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "女秘書",
+    "美少女",
+    "自慰",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "熟女",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/aabcfaab-0f49-4ae4-b13d-2c1968818dd8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/aabcfaab-0f49-4ae4-b13d-2c1968818dd8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13330",
+  "actresses": [
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13330&name=宮西光"
+    }
+  ]
+};

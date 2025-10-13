@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240711/yZKFNC16/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97224,
+  "IDcode": "BAGR-008",
+  "title": "【FANZA限定】べちゃ舐め唾液マーキングで発情交尾を迫るヤンデレ美少女みくるちゃん 真白みくる パンティと生写真付き",
+  "publish_date": "2022-09-14",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "中出",
+    "捆绑",
+    "荡妇",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bagr008/bagr008pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97224",
+  "actresses": []
+};

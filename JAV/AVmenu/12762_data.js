@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a668365-5409-44dc-9f0c-9278a421513c/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/fdHHEwwa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12762,
+  "IDcode": "MKMP-571",
+  "title": "被強奸的搜查官 ~ 蘭華",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "美少女",
+    "金髮",
+    "高跟鞋",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "女搜查官",
+    "野性",
+    "羞恥",
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "輪姦",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240811/d33f781b-08a7-4946-adee-6cb9de8deb84.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240811/d33f781b-08a7-4946-adee-6cb9de8deb84.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12762",
+  "actresses": [
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12762&name=蘭華"
+    }
+  ]
+};

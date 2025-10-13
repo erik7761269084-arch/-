@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/30/9c0fab8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106088,
+  "IDcode": "NGOD-099",
+  "title": "こりこりと 乳首いぢりで 堕ちた妻 碧しの",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "平胸",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106088",
+  "actresses": [
+    {
+      "name": "篠惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/97827d0d-951d-46e4-8738-9f2dd1f342e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106088&name=篠惠美"
+    }
+  ]
+};

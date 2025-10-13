@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/W2xY4azL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83223,
+  "IDcode": "UMSO-289",
+  "title": "全裸家政婦さんのねっちょり密着！泡洗体＆ご奉仕セックス",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "各种职业",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83223",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83223&name=八乃翼"
+    },
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83223&name=椎名空"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83223&name=优梨まいな"
+    },
+    {
+      "name": "桜庭ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83223&name=桜庭ひかり"
+    }
+  ]
+};

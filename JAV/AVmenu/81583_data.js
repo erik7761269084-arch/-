@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221029/5yM4hc7x/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81583,
+  "IDcode": "GVH-051",
+  "title": "社長の息子のHな社会科見学3",
+  "publish_date": "2020-04-02",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "多P",
+    "连裤袜",
+    "恶作剧",
+    "正太控",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81583",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81583&name=大浦真奈美"
+    },
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81583&name=加藤あやの"
+    },
+    {
+      "name": "河北春菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/11153449-5c21-4d03-8bc6-21990115b70a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81583&name=河北春菜"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/caa22bb0-b334-4109-a722-a0c9ae97821c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18183,
+  "IDcode": "BDSM-085",
+  "title": "受虐女優美希奈修行紀錄VOL.2",
+  "publish_date": "2023-10-19",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "導尿",
+    "企畫",
+    "灌腸",
+    "蠟燭",
+    "調教",
+    "深喉",
+    "拘束・拷問",
+    "口交",
+    "性感",
+    "SM",
+    "暗黑系",
+    "緊縛",
+    "按摩棒",
+    "放尿",
+    "紀錄片",
+    "打屁股",
+    "女優",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231024/20231024005126844844.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231024/20231024005126844844.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18183",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18183&name=佐倉陽菜"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/iLaOuKHw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79973,
+  "IDcode": "MIDE-987",
+  "title": "オッパイは最高の精力剤！！ 金玉爆発させちゃう超密着パイズリで絶対連射！！極ヌキ神乳メンズエステ 中山ふみか （ブルーレイディスク）",
+  "publish_date": "2021-10-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "荡妇",
+    "按摩",
+    "美容院",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79973",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79973&name=中山文香"
+    }
+  ]
+};

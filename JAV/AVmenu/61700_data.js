@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/6766c866/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61700,
+  "IDcode": "CVDX-615",
+  "title": "友達のお母さんに搾汁してもらった口内発射フェラ 30人4時間",
+  "publish_date": "2025-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "母亲",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/19/f20a902cf7a7d28b177ce63ee8eb7a54.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61700",
+  "actresses": []
+};

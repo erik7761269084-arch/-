@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250412/kZ5aW8bD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68189,
+  "IDcode": "ZEX-398",
+  "title": "奇跡の巨乳「大きいおっぱいは、好きですか？」 あべみかこ",
+  "publish_date": "2020-11-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "企画",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68189",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68189&name=安部未華子"
+    }
+  ]
+};

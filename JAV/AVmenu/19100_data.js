@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e676e89-87b0-4cef-bde3-482603989354/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250106/4Lea0APf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19100,
+  "IDcode": "IPX-348",
+  "title": "漂亮可愛大姊快感絶頂4本番 超大量潮吹240分特別編",
+  "publish_date": "2019-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫亂",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "姐姐・妹妹",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717235004684684.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230717/20230717235004684684.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19100",
+  "actresses": [
+    {
+      "name": "知花凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230716/c5a60521-318d-476f-8ab5-3a925d890c75.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19100&name=知花凛"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19100&name=鲛岛"
+    }
+  ]
+};

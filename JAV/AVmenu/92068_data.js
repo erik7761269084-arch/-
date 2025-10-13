@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/25/36ac072a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92068,
+  "IDcode": "MESU-117",
+  "title": "お堅い役所の女性職員に攻められっぱなしの中出し生活相談 私を女王様とお呼びなさい―。 白木優子",
+  "publish_date": "2023-10-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "各种职业",
+    "荡妇",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92068",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92068&name=白木優子"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/6a67592b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107188,
+  "IDcode": "VEMA-206",
+  "title": "父親が連れてきた再婚相手は僕が入院中に憧れていたナースの瞳さんだった。嫉妬勃起中出し性交 望月瞳 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107188",
+  "actresses": [
+    {
+      "name": "望月瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/584efab0-8613-454f-99b8-14d604bc2c50.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107188&name=望月瞳"
+    }
+  ]
+};

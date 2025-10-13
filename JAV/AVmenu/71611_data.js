@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/Fk1vbc6E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71611,
+  "IDcode": "BIJN-166",
+  "title": "ベロキス激ピストンで連続イキ狂うビクつく熟れた美しい剛毛人妻！スケベ過ぎる熟肉が連続中出し乱交で完堕ち裏切りのファック！ 井上綾子",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71611",
+  "actresses": [
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71611&name=井上綾子"
+    }
+  ]
+};

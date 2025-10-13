@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a251abd-169c-4ca0-b5fd-ae45c1bfe669/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9304,
+  "IDcode": "UMD-945",
+  "title": "婦產科癡漢！ ！在美人若妻治療的時候，趁她不知道偷偷中出 ~ 乙愛麗絲 望月蕾 羽月乃蒼",
+  "publish_date": "2025-01-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "痴漢",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "深喉",
+    "變態",
+    "臀控",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "金髮",
+    "清楚系",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "看病・住院",
+    "奇異的",
+    "美人",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250108/fe3e4305-19a8-40e0-b370-21de5ce98d4a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250108/fe3e4305-19a8-40e0-b370-21de5ce98d4a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9304",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9304&name=乙愛麗絲"
+    },
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9304&name=羽月乃蒼"
+    },
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9304&name=望月蕾"
+    }
+  ]
+};

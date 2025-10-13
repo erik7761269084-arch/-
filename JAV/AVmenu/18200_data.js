@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/434292ff-211e-4c62-82e1-79cc0428bc10/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240501/toCEnhY8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18200,
+  "IDcode": "CJOD-399",
+  "title": "逆轉兔女郎性業，中出OK，連續射精！追男潮！無限射精課程",
+  "publish_date": "2023-10-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "3P・4P",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "水療・泡泡浴",
+    "亂交 • 群P",
+    "女上位",
+    "風俗娘",
+    "性感",
+    "兔女郎妝扮",
+    "巨乳",
+    "猥褻穿著",
+    "兩女一男",
+    "M男・M女",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022090133805805.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022090133805805.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18200",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18200&name=美園和花"
+    },
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18200&name=夕美紫苑"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18200&name=Qべぇ"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/CeOpHlfb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81746,
+  "IDcode": "MBM-140",
+  "title": "濃厚精子‘中ドピュ’ 人妻おま○こパニック！膣内暴発 気持ち良すぎて思わず出しちゃったよ…奥さんごめんね。戸惑いながら押し切られ中出しされた美人妻 12人4時間02",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81746",
+  "actresses": []
+};

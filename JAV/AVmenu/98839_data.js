@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98839,
+  "IDcode": "AUKS-083_B",
+  "title": "くびれ爆乳レズ！ど猥褻下着マニア！！早川瀬里奈二宮和香Part2",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98839",
+  "actresses": []
+};

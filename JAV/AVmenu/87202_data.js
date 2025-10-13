@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240716/2OJiOMKd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87202,
+  "IDcode": "GMEM-079",
+  "title": "ULTRA SWEET赤貝 清純美少女強●快楽開花昇天調教 ～驚愕の白肌幼肉パニくり無限絶頂嬲り～ 七碧のあ",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "捆绑",
+    "监禁",
+    "拘束",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87202",
+  "actresses": []
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/130b3228-eaf9-4d94-abf6-0ed75602838b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/03/ada0b63e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15988,
+  "IDcode": "MIDV-647",
+  "title": "“K”罩杯AV出道，大奶子的誘惑",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "出道作品",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "女學生",
+    "泳裝",
+    "飯店"
+  ],
+  "description": "MIDV-647为MOODYZ出品,2024年3月5日发行的有碼成人影片由二羽紗愛出演\nA、B、C、D、E、F、G！ ！還有更多！ H，我，傑伊，[K]！我用手指頭數，雙手都夠不到第11件！大山胸世界裏超越K罩被大奶子！ 新人雙葉Saa出道！性格天真爛漫，但姐姐般的表情卻非常性感！總重超過6000克的天然K罩杯，柔軟度、晃動性、靈敏性都很好！最大奶子衆人見了更精致！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301063635444444.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240301/20240301063635444444.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15988",
+  "actresses": [
+    {
+      "name": "二羽紗愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/90eb38cb-3350-4aec-bfd3-05920d07ee90.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15988&name=二羽紗愛"
+    }
+  ]
+};

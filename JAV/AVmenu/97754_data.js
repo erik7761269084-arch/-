@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220424/747699057E0F4ADB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97754,
+  "IDcode": "DANDY-629",
+  "title": "「超乳Pカップ女優 優木いおりが童貞くんの理想の筆おろしをお手伝い」",
+  "publish_date": "2018-10-25",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "企画",
+    "恋乳癖",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy629/1dandy629pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97754",
+  "actresses": [
+    {
+      "name": "优木いおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97754&name=优木いおり"
+    }
+  ]
+};

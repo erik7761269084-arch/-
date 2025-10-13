@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/07/aea086f2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106280,
+  "IDcode": "HBAD-465",
+  "title": "飼い犬にされた若妻女社員・夫の前で凌辱パイパン雌犬交尾",
+  "publish_date": "2019-02-07",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "调教",
+    "新娘，年轻妻子",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106280",
+  "actresses": [
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106280&name=望月理沙"
+    }
+  ]
+};

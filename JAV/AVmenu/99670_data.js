@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230216/3CB78F46B0590459/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99670,
+  "IDcode": "ADN-095",
+  "title": "あなた、許して…。背徳のドレナージュ2 天海つばさ",
+  "publish_date": "2016-06-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/14/4d5d4c011d937af6673df98c9f1eb7eb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99670",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99670&name=天海翼"
+    }
+  ]
+};

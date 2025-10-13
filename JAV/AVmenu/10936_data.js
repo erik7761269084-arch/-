@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a282681-6575-4c97-bb2f-483aad40e3fa/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/14/37f9e668/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10936,
+  "IDcode": "FOCS-222",
+  "title": "婚禮前夜NTR - 豪雨中與前男友時隔四年重逢。拋棄不合格的新郎而沉溺於享樂的大屁股新娘 ~ 宮城理惠",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "前女友",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "FOCS-222为妄想族出品,2024年11月5日发行的有碼成人影片由宮城理惠出演\n我想知道什麼時候...我無法滿足未婚夫的暴力性行為...話雖如此，理惠感到很無奈，因為她的婚禮在即，有一天她又與前男友重逢。由於暴雨，她躲進了前男友的房間，不知不覺中，兩人又像以前一樣混在一起了……理惠還記得與未婚夫做愛時無法獲得的快樂。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031085747319319.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031085747319319.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10936",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10936&name=宮城理惠"
+    }
+  ]
+};

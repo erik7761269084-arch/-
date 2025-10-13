@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/30/3243d49e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72889,
+  "IDcode": "FSDSS-572",
+  "title": "「私と一緒にキメようよ…」人妻からの甘い誘いに乗せられて田舎に伝わる秘伝の媚薬で互いに高まる禁断セックス 天使もえ 生写真5枚付き",
+  "publish_date": "2023-04-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "淫乱，真实",
+    "新娘，年轻妻子",
+    "药物",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72889",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72889&name=天使萌"
+    }
+  ]
+};

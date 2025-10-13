@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6cc80768-0679-4510-9b3b-497f332742f4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/68c5041e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8538,
+  "IDcode": "NACR-910",
+  "title": "黑發披肩，H 罩杯女大學生全身赤裸着被完全探索 ~ 七瀨蘭",
+  "publish_date": "2025-02-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "超爆乳",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "蒙面・面罩",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "美人",
+    "綠茶婊",
+    "插入異物",
+    "美少女電影",
+    "野性",
+    "女學生",
+    "叛逆少女",
+    "豐滿",
+    "戀物癖",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250205/04c9ffcb-ba63-42cf-9ce8-f710f50df882.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250205/04c9ffcb-ba63-42cf-9ce8-f710f50df882.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8538",
+  "actresses": [
+    {
+      "name": "七瀬蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/4adee8ce-6367-4791-b03c-4ec0347c6b08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8538&name=七瀬蘭"
+    }
+  ]
+};

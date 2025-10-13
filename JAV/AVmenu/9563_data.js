@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32adbdb1-e126-4d3f-8e59-e636869d3593/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9563,
+  "IDcode": "SSNI-515",
+  "title": "新人報到！ NO.1STYLE 第一美乳娘 首次亮相 AV DEBUT ~ 真白真緒",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女優面試",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "美少女",
+    "出道作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "女優訪談",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-515为S1出品,2019年7月7日发行的有碼成人影片由真白真緒出演\n真白是個害羞害羞的女孩，但一旦向她敞開心扉，她就會說很多話。平常用衣服隱藏得很好的身材，堅挺而勻稱，擁有天然H罩杯的美麗乳房，乳頭向上翹起。她的魅力點不僅在於她的胸部，還在於她緊緻的“狗”形和美麗的屁股。 「我申請是因為我想要進行感覺良好的性愛，」她說，在拍攝過程中經歷了她的第一次高潮，感覺如此強烈以至於她潮吹了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227052438754754.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241227/20241227052438754754.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9563",
+  "actresses": [
+    {
+      "name": "真白真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241227/3a9dc25c-d919-499c-987a-dcffd8311aba.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9563&name=真白真緒"
+    }
+  ]
+};

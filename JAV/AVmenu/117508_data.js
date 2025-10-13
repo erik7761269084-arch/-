@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/0b13ee2c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 117508,
+  "IDcode": "FC2-4565393",
+  "title": "诗音酱18岁初来东京关西腔正统美女",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/0b13ee2c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=117508",
+  "actresses": []
+};

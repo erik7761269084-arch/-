@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae8a0f0e-fec3-412d-ab8d-fbee4f48425d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/23/69d30df1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12296,
+  "IDcode": "KSBJ-330",
+  "title": "長的像初戀的豐滿未亡人嶽母 ~ 塚田詩織",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "岳母",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "未亡人・寡婦",
+    "豐滿"
+  ],
+  "description": "KSBJ-330为妄想族出品,2024年9月3日发行的有碼成人影片由塚田詩織出演\n他與妻子的喪偶母親 Shiori 作為夫妻幸福地生活著。週末，當妻子咲穗外出參加朋友的婚禮時，富文喝得酩酊大醉，並向詩織坦白，自從第一次見到她以來，他就對她感興趣，因為她很像他的初戀情人。富文試圖強行接近志緒理，但自從丈夫過世後身心都感到孤獨的志緒理無法拒絕並接受。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901014240420420.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240901/20240901014240420420.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12296",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12296&name=塚田詩織"
+    },
+    {
+      "name": "アリト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12296&name=アリト"
+    }
+  ]
+};

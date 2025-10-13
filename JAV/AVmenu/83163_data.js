@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/05/5ffbac24/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83163,
+  "IDcode": "PPPD-823",
+  "title": "地味で無口な爆乳女子大生をおっぱい性感刺激マッサージでこっそりイカせて… 小梅えな",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女大学生",
+    "按摩",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83163",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83163&name=小梅惠奈"
+    }
+  ]
+};

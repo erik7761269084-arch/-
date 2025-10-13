@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240108/Vb7wDaek/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89841,
+  "IDcode": "SAN-128",
+  "title": "【FANZA限定】近所の畜生男に不倫がバレた色ボケ不貞妻は拘束具を付けたまま犯●れ穢されそして壊れてしまう / 緒川はる パンティとチェキ付き",
+  "publish_date": "2023-05-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89841",
+  "actresses": [
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89841&name=緒川春"
+    }
+  ]
+};

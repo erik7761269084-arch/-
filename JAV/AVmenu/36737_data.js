@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220419/276B4ABEA0D5C7C9/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36737,
+  "IDcode": "D029ED0B750EC3C6D779838A701E-2856",
+  "title": "初拍&amp;hearts;完成露脸&amp;hearts;145-41的幼○体型&amp;hearts;童颜萝莉色白美少女18歳人生第一次中出&amp;hearts;一面摇晃发育中的Ｄ罩杯胸部一面湿",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36737",
+  "actresses": []
+};

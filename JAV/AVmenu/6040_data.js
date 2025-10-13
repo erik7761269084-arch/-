@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7348e761-0dd6-43b9-990c-f9d338378514/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6040,
+  "IDcode": "KAM-247",
+  "title": "欲求不滿的肉體騷動不已 風騷豐滿人妻與公寓兩邊鄰居偷情開幹 老公出差期間放縱高潮不斷 ~ 西村ニーナ",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "三十路",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "網襪",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "重口味",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "混血",
+    "單體作品",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "按摩棒",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "KAM-247为卍GROUP出品,2025年5月16日发行的有碼成人影片由西村ニーナ出演\n老公長期出差，憋得要命的騷氣人妻每天都慾火焚身。某天早上在垃圾場跟公寓兩邊的鄰居閒聊，一個是老婆回娘家生娃的寂寞男，另一個是離婚單身漢，誰能料到會擦出火花？一次同學會喝嗨了，這位美豔人妻走錯門，闖進鄰居家直接霸王硬上弓，爽到不行。隔天給單身漢鄰居送點吃的，居然被告白，順勢來了場胸推和口活，簡直慾罷不能。後來更是直接跟兩個男人玩起3P，徹底放飛自我，潮吹不停，高潮連連！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063815282282_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063815282282_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6040",
+  "actresses": [
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6040&name=西村ニーナ"
+    }
+  ]
+};

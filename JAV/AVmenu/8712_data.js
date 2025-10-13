@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3b8f32ae-3d4f-4e96-82ae-bd41547259f2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/e3fb6a76/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8712,
+  "IDcode": "MIDA-031",
+  "title": "神乳護士的密着中出治愈 絕倫肉棒每日10發榨精的住院生活 ~ 葵伊吹",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "醫院・診所",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "護士制服",
+    "美腳",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "看病・住院",
+    "抹油",
+    "美人",
+    "護士",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "MIDA-031为MOODYZ出品,2025年2月4日发行的有碼成人影片由葵伊吹出演\n[啊啊啊，我想永遠和這樣的護士一起做壞事！ ] 在神聖的身體護士的幫助下，超過 20 次中出！打籃球受傷後，我和主管護士葵一拍即合！他半夜無意間用她玲瓏有致的身軀自慰，她卻溫柔地接受並協助他做愛！另外，您在住院期間還可以進行原始性行為並射精！以女牛仔姿勢猛烈衝擊緊緻的陰部！柔軟有彈性的美乳巨乳乳交！在檢查期間，手術前，或深夜，你可以隨意在她體內射精！開朗可愛的大胸部護理師會讓你在接下來的7天裡每天高潮10次，直到你出院！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075422210210.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130075422210210.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8712",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8712&name=葵伊吹"
+    }
+  ]
+};

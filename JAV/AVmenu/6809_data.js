@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fed67f79-3f7a-463b-836d-d8d03a88ec73/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/e07c3c2b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6809,
+  "IDcode": "MVG-125",
+  "title": "羞恥崩壞の極致誘惑 ~ 松井日奈子",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "女主持・主播",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "監禁",
+    "口爆",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "暗黑系",
+    "緊縛",
+    "自慰",
+    "巨乳",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "心理驚悚",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "MVG-125为GLORY QUEST出品,2025年4月12日发行的有碼成人影片由松井日奈子出演\n嘿，兄弟姐妹們！想看點超刺激的羞恥play嗎？松井日奈子這次完全不設限，化身最卑微的小m，尊嚴啥的早就被踩爛啦！從被扇巴掌到全裸跪地求饒，各種腦洞大開的玩法接連上演，鼻鉤、繩縛、被當狗狗牽著走，還有超重口的尿浴跟吞精，簡直就是二次元最黑暗的本子劇情啊！她那副可憐又搞笑的模樣，絕對能直擊你內心深處的抖s靈魂，羞辱與快感交織，根本停不下來啦！快來一起見證這場尊嚴粉碎的極致變態秀吧！#老司機帶路",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416080445535535_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250416/20250416080445535535_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6809",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6809&name=松井日奈子"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/07/21acb0aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86059,
+  "IDcode": "SAME-022",
+  "title": "誘拐犯 社長大小姐贖金誘拐監禁凌辱事件簿 香椎花乃",
+  "publish_date": "2022-10-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "监禁",
+    "大小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/199a9ae603408c9df8d7bcc9a8d2f180.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86059",
+  "actresses": [
+    {
+      "name": "香椎花乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/bb8fea6e-ed05-4b85-824e-97c09961520b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86059&name=香椎花乃"
+    }
+  ]
+};

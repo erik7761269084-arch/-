@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c46a912c-1027-4176-befb-2ce14f926015/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/E0eQ7X5z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17948,
+  "IDcode": "STARS-942",
+  "title": "AV界的天才新星~身材高挑,笑容甜美的高个女孩綾瀬天首次亮相 AV DEBUT",
+  "publish_date": "2023-12-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "劇情",
+    "中出",
+    "口交",
+    "女優訪談",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231108/20231108061656705705.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231108/20231108061656705705.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17948",
+  "actresses": [
+    {
+      "name": "綾瀬天",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/81f07390-78ff-4827-89fc-f48be57d8b29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17948&name=綾瀬天"
+    }
+  ]
+};

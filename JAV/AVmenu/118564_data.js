@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118564,
+  "IDcode": "0F54DC0DBC1D450C7793DBF714BBC719",
+  "title": "[FC2] 天下的妈妈都是一样地～煮菜带小孩还要伺候老公 (FC2-PPV-1803259)",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118564",
+  "actresses": []
+};

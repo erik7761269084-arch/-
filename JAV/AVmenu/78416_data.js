@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/SyZUyUju/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78416,
+  "IDcode": "MGT-098",
+  "title": "街角シロウトナンパ！ vol.73 女子大生をガチ口説き。10",
+  "publish_date": "2020-01-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "女大学生",
+    "业余",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78416",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78416&name=鲛岛"
+    }
+  ]
+};

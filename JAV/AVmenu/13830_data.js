@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/edd5fcda-6e1a-4e43-ba60-cfbf67badf0e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13830,
+  "IDcode": "JUQ-755",
+  "title": "當我睡醒時，看着我的妻子那賀崎ゆきね被我信任的下屬操 ~ 那賀崎ゆきね",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "在丈夫面前被操",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "上司女友・妻子",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-755为MADONNA出品,2024年6月25日发行的有碼成人影片由那賀崎雪音出演\n我和我深愛的妻子由紀音結婚已經三年了。由於擔任中階管理者的壓力，他無法留住雪音。雪音鼓勵我，但我知道她每天晚上都沉迷於自慰。一日，他邀請屬下左慈到家裡作客。最後一班火車已經開走了，我們三個都喝醉了，提議睡在河裡。可能會發生什麼事…我在焦慮和興奮中睡著了，但隨後我被有人吸吮的聲音吵醒了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621003235499499.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621003235499499.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13830",
+  "actresses": [
+    {
+      "name": "那賀崎雪音",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/87ab423c-c619-4ccd-ae2f-88fcabc03bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13830&name=那賀崎雪音"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230204/8a6e8ba9-799e-40f9-8f2b-177ce366bab3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1740,
+  "IDcode": "SMBD-79",
+  "title": "S Model 79 ～超可愛的女孩。中出伺候性愛～ : 日向優梨",
+  "publish_date": "2013-06-25",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "中出",
+    "口交",
+    "美少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230212/c2a4dad0-2d0e-45ea-8dc7-64afb3c5dcf2.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230212/c2a4dad0-2d0e-45ea-8dc7-64afb3c5dcf2.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1740",
+  "actresses": [
+    {
+      "name": "日向優梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/8b7bd372-dc64-4f74-9e54-666c0d0d5168.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1740&name=日向優梨"
+    }
+  ]
+};

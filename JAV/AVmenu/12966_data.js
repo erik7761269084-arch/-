@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0ac23ed8-be02-4400-90c4-c754f241ff48/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12966,
+  "IDcode": "CAWD-714",
+  "title": "你第一次認識的高潮世界。潮吹、反弓、抽搐的內射！ ~ 川上しずく",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "感官作品",
+    "口交",
+    "兩男一女",
+    "少女",
+    "美少女",
+    "清純",
+    "按摩棒",
+    "抹油",
+    "女優"
+  ],
+  "description": "CAWD-714为KAWAII出品,2024年8月6日发行的有碼成人影片由川上しずく出演\n【獨家第二版！農業少女川上雫性本能覺醒！ 】我幾乎沒有性經驗…她從出道前就一直這麼說，並展示了她驚人的高潮！就連口口聲聲對自己的體力充滿信心的雫醬，最後也感到疲憊不堪，一個人無法回家！到目前為止，我的生活都是以農業為生，但這是我的性天賦得以充分綻放的工作！潮吹、彎腰、抽搐、尖叫……看到如此美妙的性愛，我也很興奮……！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802004426481481.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802004426481481.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12966",
+  "actresses": [
+    {
+      "name": "川上しずく",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/19490754-ba5a-4f7e-a3ee-5e264cd0c441.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12966&name=川上しずく"
+    }
+  ]
+};

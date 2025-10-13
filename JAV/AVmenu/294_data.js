@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c1b43b0e-e197-48e4-8851-926c4926f9cb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 294,
+  "IDcode": "HEYZO-0320",
+  "title": "騷氣熟女的極品身材連環內射大放送 ~ 朝桐光",
+  "publish_date": "2013-05-12",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "性感睡衣",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "金髮",
+    "自慰",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "名人妻子",
+    "熟女",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "芸能人"
+  ],
+  "description": "HEYZO-0320为HEYZO出品,2013年5月12日发行的無碼成人影片由朝桐光出演\n熟女天花板朝桐光又杀回来了！别看她是熟女，这身材火辣到爆，饱满有弹性，简直是二次元里的极品大姐姐！先是自摸秀一波，荷尔蒙爆棚直接失控喷水，接下来就是伺候男优的时间啦！从头到脚，连那话儿到菊花都舔得干干净净，超绝口技让人根本招架不住，直接缴械投降！后半场更是重头戏，1V2大战，浓烈play玩到嗨，双人口技、骑脸羞耻play，最后当然是满满内射，内容多到炸裂",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421075020319319_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250421/20250421075020319319_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=294",
+  "actresses": [
+    {
+      "name": "朝桐光",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/7d5babb4-947b-4fc5-8e01-aea3d2e9383a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=294&name=朝桐光"
+    }
+  ]
+};

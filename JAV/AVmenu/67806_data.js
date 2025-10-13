@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/19/29165882/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67806,
+  "IDcode": "SSIS-646",
+  "title": "因為是有夠下流的女教師所以被我侵犯是當然的、你了解嗎？ 楓富愛",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "深喉",
+    "白天出轨",
+    "女教师",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67806",
+  "actresses": []
+};

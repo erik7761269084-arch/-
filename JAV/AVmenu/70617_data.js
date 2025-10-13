@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/b2e0f417/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70617,
+  "IDcode": "HAWA-350",
+  "title": "料理も洗濯もまともに出来ないドジで不器用なセフレ（人妻）ですが…実はとても優秀なハイスペック肉オナホなんです。 わかさん（26歳）",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "Cosmos 映像",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "口交",
+    "吞精",
+    "深喉",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70617",
+  "actresses": []
+};

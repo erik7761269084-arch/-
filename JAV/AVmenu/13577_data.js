@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9e059f16-0093-4b93-bdbf-b682449f9dba/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/tx7dohWV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13577,
+  "IDcode": "NACR-824",
+  "title": "把所有的煩惱交給我 ~ 長瀨麻美",
+  "publish_date": "2024-07-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/dd61f242-94fe-48b8-96cf-544cdf879454.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/dd61f242-94fe-48b8-96cf-544cdf879454.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13577",
+  "actresses": [
+    {
+      "name": "长濑麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/edce58db-6a40-40a7-95dc-33d756110bc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13577&name=长濑麻美"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13577&name=左慈半造"
+    },
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13577&name=长瀬麻美"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230120/52c1a362-35f3-4514-8380-0aa81a102e78/index.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/24/d86205cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1888,
+  "IDcode": "CWPBD-22",
+  "title": "秀場毒藥 22：花井明紗",
+  "publish_date": "2013-06-11",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "乳交",
+    "美乳",
+    "口交",
+    "多P",
+    "美腳"
+  ],
+  "description": "CWPBD-22为CATWALK出品,2013年6月11日发行的無碼成人影片由花井芽衣 出演\n成熟的色情身体和吸引信息素的迷人性感脸庞吸引。花井明纱终于亮相！Meisa-chan 是保加利亚和日本混血的女演员，同时也是一名办公室女郎。你不能错过。打扮成超奢香皂女郎，迷倒最好的服务！一个服务狂欢射精操被三个同时口交和几个猛烈刺穿，同时拿着肥皂，如腿间性爱和。绝对得推荐！",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/aacea6ca-a2fe-4b9e-9cef-2ccbac21b23a.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/aacea6ca-a2fe-4b9e-9cef-2ccbac21b23a.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1888",
+  "actresses": [
+    {
+      "name": "花井芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Attackers/AI-Fix-花井メイサ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1888&name=花井芽衣"
+    }
+  ]
+};

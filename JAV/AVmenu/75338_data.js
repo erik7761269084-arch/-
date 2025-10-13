@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/28/73dc069a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75338,
+  "IDcode": "DV-1590",
+  "title": "芸能人ソープ 伊東紅",
+  "publish_date": "2014-01-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "艺人",
+    "妓女",
+    "乳液",
+    "主观视角",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75338",
+  "actresses": [
+    {
+      "name": "伊东红",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/6ea29c2799e1e61c97c90561076c3b98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75338&name=伊东红"
+    }
+  ]
+};

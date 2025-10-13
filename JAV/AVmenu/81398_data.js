@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/28/c007b1b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81398,
+  "IDcode": "ARA-432",
+  "title": "【実はスケベ美女】32歳【女盛り過ぎる】さやさん参上！結婚3年目の彼女の応募理由は『他の男性に抱かれてみたくて…』【エッチな人妻】『ちょっぴりエスカレートしたいなぁ～♪』夫婦関係を拗らせAV出演！結婚後、初めて他人とSEXする美人妻は感度が高まり過ぎて【絶頂の嵐】何度も繰り返す【大量潮吹き】エスカレートし過ぎたスケベ妻のSEX見逃すな！",
+  "publish_date": "2020-03-31",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "自慰",
+    "颜射",
+    "潮吹",
+    "业余",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81398",
+  "actresses": [
+    {
+      "name": "谷花纱耶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81398&name=谷花纱耶"
+    }
+  ]
+};

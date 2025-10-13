@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a7ea760-bbc6-41c3-9890-f8161819aeee/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/779cd6e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4887,
+  "IDcode": "EMSK-026",
+  "title": "密室近距離攝影會，AV女優用淫語挑逗到你忍不住 ~ 北野未奈",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "比基尼",
+    "港區女子",
+    "私房攝影",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "舔陰",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉丝",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "EMSK-026为WAAP GROUP出品,2025年6月28日发行的有碼成人影片由北野未奈出演\n火辣H杯性感女神北野未奈，在密室裡跟害羞M男玩超刺激的4密貼身遊戲，撩得你心癢難耐！她身上散發致命的費洛蒙香味，獨處時各種勾人姿勢隨你拍，近到快親上去的距離，輕輕一觸就讓人小鹿亂撞，不知不覺就把你脫個精光！她用濕熱的手指慢慢挑逗你的敏感帶，帶著誘人氣息把緊繃的私處貼到你臉上，逼你舔到她濕透為止，然後直接插進那濕滑的小穴！肉感爆棚的身體緊緊相貼，男歡女愛，淫語不停，簡直是痴女現場直播，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/202506290132436666_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250629/202506290132436666_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4887",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4887&name=北野未奈"
+    }
+  ]
+};

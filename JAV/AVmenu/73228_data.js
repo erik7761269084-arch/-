@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250121/y6miVR3z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73228,
+  "IDcode": "GVH-412",
+  "title": "ノーブラノーパンで挑発してくるスケベ奥さんが隣に引っ越してきた！ 八乃つばさ",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250122-1/c3c53dc4f2343e40586ceb5baaf404fc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73228",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73228&name=八乃翼"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae8919c6-8597-49fe-a940-1b68e1b9e830/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15391,
+  "IDcode": "FJIN-019",
+  "title": "F罩杯巨乳兼職家庭主婦，與和兒子年齡相仿的打工男學生一起進行兩天一夜的溫泉旅行，40歲的兼職家庭主婦明裏ともか",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "溫泉",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240414/d94d2f12-dbc3-4da1-a28d-64ce73e338d9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240414/d94d2f12-dbc3-4da1-a28d-64ce73e338d9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15391",
+  "actresses": [
+    {
+      "name": "明里友香",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/5d03863f-f8f6-4fff-a36a-94c9430ee9b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15391&name=明里友香"
+    }
+  ]
+};

@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7b02766-f771-457a-9791-46323dc916d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12985,
+  "IDcode": "MIDV-804",
+  "title": "無盡的抽插，潮吹的絕叫高潮 皮膚白皙苗條從事銷售工作的OL，穿着猥褻衣裝，穿透她的陰部，不要讓她逃脫！~ 百田光希",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "白絲",
+    "少女",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "女同事",
+    "猥褻穿著",
+    "抹油",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIDV-804为MOODYZ出品,2024年8月6日发行的有碼成人影片由百田光稀出演\nMitsuki 是一位新來的銷售辦公室女士。西裝下隱藏著100cm的胸圍，皮膚白皙美麗的J罩杯美胸。擁有57公分的美麗腰線。我營業場所的變態店主瞄準了我不尋常的身體，用催情油將我的全身變成了性感區！三希以無情的快感折磨重複噴射高潮！無限活塞強姦大量噴出！拘束手指操追求利用，改造機器震動器抽搐高潮，不受限制的活塞3P！體內的水分被排空，全身都是潮水！纖細巨乳，高潮華麗，早洩陰戶被玩弄，痛苦翻滾！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802000840579579.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802000840579579.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12985",
+  "actresses": [
+    {
+      "name": "百田光稀",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/3c352e67-cd0d-486f-8d37-0a39aafdd3a8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12985&name=百田光稀"
+    }
+  ]
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66c2aac1-5654-45df-88f0-3bac3d9ee0b1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15327,
+  "IDcode": "BKYNB-051",
+  "title": "用舌頭舔全身的男士按摩院 ~ 橘知花",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "BonBon",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "按摩女郎",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/07c9f667-4da5-43b5-977a-2727d392f6d2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/07c9f667-4da5-43b5-977a-2727d392f6d2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15327",
+  "actresses": [
+    {
+      "name": "橘知花",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/af3f1b14-53fa-4cde-b644-fc9a710ba87c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15327&name=橘知花"
+    }
+  ]
+};

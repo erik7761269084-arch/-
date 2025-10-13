@@ -1,0 +1,85 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02944e60-19cc-445b-8867-85e0810896b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8409,
+  "IDcode": "RVG-232",
+  "title": "禁斷介護 大合集 BEST VOL.20 ~ 弘中優 朝日奈花戀 百瀨凜花 Nia 北野未奈 廣瀨里緒菜",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "女看護",
+    "老頭子",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "精選綜合",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/202502080842006565.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/202502080842006565.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8409",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=北野未奈"
+    },
+    {
+      "name": "Nia",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/3a08a455-e1dd-4a93-bead-e17218448af1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=Nia"
+    },
+    {
+      "name": "弘中優",
+      "img_url": "https://picture.yoshiclub.xyz/20231221/d1040ea7-7a31-477f-b887-d1ad04839e58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=弘中優"
+    },
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=廣瀨里緒菜"
+    },
+    {
+      "name": "百瀬凛花",
+      "img_url": "https://picture.yoshiclub.xyz/20241219/45b24ecd-9e65-4152-a172-88be4163dbf1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=百瀬凛花"
+    },
+    {
+      "name": "朝日奈花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/64ed3a2d-01a3-4f95-a64e-0a41529a3f52.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8409&name=朝日奈花戀"
+    }
+  ]
+};

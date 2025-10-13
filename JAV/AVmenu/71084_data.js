@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/82OYHGmd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71084,
+  "IDcode": "HODV-21370",
+  "title": "新人デビュー 現役着エロアイドル 渡辺陽菜 ～どうしようもなくエッチな美女…見られると興奮してくるんです～",
+  "publish_date": "2019-04-05",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "乳交",
+    "多P",
+    "潮吹",
+    "首次亮相",
+    "主观视角",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/cb7f4357ef378abcd6278ae6c829d059.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71084",
+  "actresses": [
+    {
+      "name": "渡辺阳菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71084&name=渡辺阳菜"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/99ab9df0-4b42-4e43-8cea-53237204fc61/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/45230f3b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10585,
+  "IDcode": "MIFD-546",
+  "title": "超過300次接吻、150 次高潮、9351陰道痙攣，24小時不休的酒店約會，他們的體液交織在一起，尋找彼此深深的舌吻 ~ 彩葉ゆな",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "美少女",
+    "癡女",
+    "手指插入",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "MIFD-546为MOODYZ出品,2024年11月19日发行的有碼成人影片由彩葉ゆな出演\n吻了300多次！高潮150次！陰道圖片 9351 次！ 24小時的飯店約會，體液交織，尋找對方的深舌接吻和中出！忘記日常生活…與真人大小的「好女孩」綾葉尤奈糾纏一次又一次！黏舌吻中出！即使射精後也喜歡口交！與老爺體液交換接吻中出！穿著浴衣互相中出性愛！每次我們接吻…興奮感一次又一次升起！黏膜接觸太色情了，讓你的大腦瘋狂！忘記時間……大中午在黏糊糊的飯店裡糾結……那太好了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114092533900900.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114092533900900.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10585",
+  "actresses": [
+    {
+      "name": "彩葉ゆな",
+      "img_url": "https://picture.yoshiclub.xyz/20240914/016316cc-543a-4567-b2d9-0d78c4d8761f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10585&name=彩葉ゆな"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10585&name=蓝井优太"
+    }
+  ]
+};

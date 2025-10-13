@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bcd6f24a-c921-496a-871c-7f3ebc020de4/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/02/f33ca42c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17928,
+  "IDcode": "SSIS-931",
+  "title": "昔日紅極一時的明星女优,如今却被邋遢中年男子强行内射到死!",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "潮吹",
+    "口交",
+    "強姦",
+    "性感",
+    "舔陰",
+    "女優"
+  ],
+  "description": "SSIS-931为S1出品,2023年11月14日发行的有碼成人影片由小島南出演\n我在婚友交友網站上找不到對象，沒人理我，唯一加我的人是非常漂亮的小島南同學。 然後，她看起來很冷淡，不太理睬我，我覺得她有點瞧不起我。 她以前或許很紅，但現在她已經不年輕了。 故事很無聊，約會的時候我喝了很多酒，我越想越生活。 我想帶她回家，強迫她跟我睡。 操她操到她放棄她的驕傲為止，徹底撕碎她的尊嚴。\n我在婚友交友網站上找不到對象，沒人理我，唯一加我的人是非常漂亮的小島南同學。 然後，她看起來很冷淡，不太理睬我，我覺得她有點瞧不起我。 她以前或許很紅，但現在她已經不年輕了。 故事很無聊，約會的時候我喝了很多酒，我越想越生活。 我想帶她回家，強迫她跟我睡。 操她操到她放棄她的驕傲為止，徹底撕碎她的尊嚴。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231111/81f06de1-6f7e-45db-8cf4-c2b13d994d78.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231111/81f06de1-6f7e-45db-8cf4-c2b13d994d78.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17928",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17928&name=小島南"
+    }
+  ]
+};

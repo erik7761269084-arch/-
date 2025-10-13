@@ -1,0 +1,37 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99187,
+  "IDcode": "BBAN-276-",
+  "title": "レズビアンに囚われた女潜入捜査官Special久留木玲枢木あおい大槻ひびき",
+  "publish_date": "2020-05-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "戏剧",
+    "女同性恋",
+    "女同接吻",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99187",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99187&name=大槻响"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99187&name=枢木葵"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99187&name=久留木玲"
+    }
+  ]
+};

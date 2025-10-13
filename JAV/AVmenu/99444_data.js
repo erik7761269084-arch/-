@@ -1,0 +1,30 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99444,
+  "IDcode": "MMNA-019-",
+  "title": "美しすぎるレズビアンカップルの日常～ねっちょり絡みあう濃厚な接吻",
+  "publish_date": "2019-11-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99444",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99444&name=大槻响"
+    },
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99444&name=美谷朱里"
+    }
+  ]
+};

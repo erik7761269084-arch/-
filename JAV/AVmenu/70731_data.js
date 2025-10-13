@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/RadDWn3u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70731,
+  "IDcode": "DV-1410",
+  "title": "女尻 奥田咲",
+  "publish_date": "2012-07-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "屁股",
+    "按摩棒",
+    "运动短裤",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70731",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70731&name=奥田咲"
+    }
+  ]
+};

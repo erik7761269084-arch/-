@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2337dcdd-042c-474e-b856-b518e8e5fd65/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240107/bUGvaLm8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18179,
+  "IDcode": "ROOM-055",
+  "title": "被性支配而無任何抵抗能力的可憐少女 File.9",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "凌辱",
+    "中出",
+    "女奴",
+    "拘束・拷問",
+    "JK校服",
+    "素人",
+    "輪姦",
+    "多P",
+    "SM",
+    "美少女",
+    "緊縛",
+    "按摩棒",
+    "女學生",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231024/20231023235815602602.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231024/20231023235815602602.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18179",
+  "actresses": []
+};

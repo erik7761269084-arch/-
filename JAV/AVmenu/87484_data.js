@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230728/KndPZ41r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87484,
+  "IDcode": "HUNTB-338",
+  "title": "『恥ずかしいからバックでいい？これ本当にエッチにならない？』『パンツ越しに1cmくらい挿れるだけだから！』幼馴染のパンツにふざけてバックで…",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87484",
+  "actresses": []
+};

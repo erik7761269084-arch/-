@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/756f51af-ddac-4527-9667-c3b6977e6355/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/08/264318eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11842,
+  "IDcode": "SONE-412",
+  "title": "雙耳甜蜜的淫亂低語，享受歷史上最好的自慰體驗！爆炸性裸體極端自慰支持 ~ 本鄉愛",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "ASMR顱内高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "感官作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "淫語",
+    "主觀視角",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "女僕制服",
+    "明星臉",
+    "癡女",
+    "抹油",
+    "短髮",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "SONE-412为S1出品,2024年9月24日发行的有碼成人影片由本郷愛出演\nASMR主觀、JOI、被盯著、被寵著、被憋著、被咒罵、被折磨……甜到豬蹄……有點狠……到被本鄉愛看不起的屈辱射精！他零距離在她耳邊輕聲細語，俯視她，不斷挑逗，甜蜜又悲傷的髒話！來自上面的完全主觀和終極蕩婦支持！刺激五感的終極罵自慰體驗！我要把臭精液全部擠出來！當我被我的愛人責罵時，我會射精最高...我超越我的極限，在不同的維度射精...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919001355571571.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919001355571571.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11842",
+  "actresses": [
+    {
+      "name": "本郷愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230818/7f34986f-7cf0-4a09-9dd4-9536634aa42b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11842&name=本郷愛"
+    }
+  ]
+};

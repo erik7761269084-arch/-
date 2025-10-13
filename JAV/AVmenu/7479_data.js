@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21685830-500b-413b-85c9-1ac5a63c3838/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/40fadcf4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7479,
+  "IDcode": "KSBJ-368",
+  "title": "嶽母守寡後的第三年晚上，我情不自禁地擁抱了身着喪服的嶽母 ~ 妃光莉",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "酒後亂性",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "岳母",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "清楚系",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "未亡人・寡婦",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "KSBJ-368为妄想族出品,2025年3月18日发行的有碼成人影片由妃光莉出演\n這對夫婦剛回到了岳母家，慶祝女方父親的逝世三週年。追思會結束後，三人一邊喝酒，一邊回憶過去。我的妻子不能喝酒，她很早就睡了，所以我和婆婆一起喝了幾杯。在這一切之中，穿著喪服的岳母顯得孤獨，讓我感覺自己像個女人，而且她似乎也很高興，因為她很久以來第一次和一個男人一起喝酒。在這一切之中，兩人最終接吻了，但誰也沒有主動採取行動…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316053648820820.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250316/20250316053648820820.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7479",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7479&name=妃光莉"
+    }
+  ]
+};

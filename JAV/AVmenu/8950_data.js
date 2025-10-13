@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bcde1607-0046-4f74-95da-0b2087f7ab29/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8950,
+  "IDcode": "MSMT-014",
+  "title": "我想要被黑人操！瞞着男友被黑人的超大雞巴插入...我以後可能再也不能體驗正常日本男人的尺寸了... ~ 妃月るい",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "黑人男優",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "癡女",
+    "出軌",
+    "NTR",
+    "美人",
+    "叛逆少女"
+  ],
+  "description": "MSMT-014为妄想族出品,2025年1月21日发行的有碼成人影片由妃月るい出演\n魯伊是一名性慾過度活躍的咖啡館員工，他宣稱：“我熱愛性，我通過陰莖來判斷男人！”為了擁有強壯的身體，他與黑人巨漢進行暴力淫亂！結衣平常是個虐待狂，一看到男人的臉就興奮起來，但她屈服於黑色大雞巴帶來的不同尋常的快感，露出了半哭的阿赫高臉。強壯的狗式活塞深入她的陰道，每次龜頭撞擊子宮頸時，她都會扭動和尖叫。她的陰戶汁液滴落，她吞噬了快感，並通過吸吮大雞巴的上方和下方來射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250120/20250120114327656656.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250120/20250120114327656656.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8950",
+  "actresses": [
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8950&name=妃月るい"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/78ad37d5-0270-4083-a0db-7980975ddf52/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/30/4cbbbe34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12870,
+  "IDcode": "VEC-656",
+  "title": "對隔壁那個每天自慰的淫蕩人妻的耐心已經到了極限。理性無法阻擋欲望的激烈性愛 ~ 織田真子",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "劇情",
+    "巨尻",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "鄰居",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240807/b33a2253-a6ff-46fc-8c9f-b0884920749d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240807/b33a2253-a6ff-46fc-8c9f-b0884920749d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12870",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12870&name=織田真子"
+    }
+  ]
+};

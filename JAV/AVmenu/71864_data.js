@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250218/R8RCLldT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71864,
+  "IDcode": "ASI-002",
+  "title": "全国出張人妻ハメドラー 完全撮りおろし美人妻4名240分 東京・神奈川・埼玉編 欲求不満の人妻と本能剥き出し背徳性交",
+  "publish_date": "2018-09-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "已婚妇女",
+    "第一人称摄影",
+    "颜射",
+    "玩具",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71864",
+  "actresses": []
+};

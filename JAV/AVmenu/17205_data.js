@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7265f804-ed86-483a-9374-1a533156d4d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17205,
+  "IDcode": "SSNI-028",
+  "title": "NO.1 STYLE 大阪國民偶像轉戰S1下海來 松田美子 4小時特別版",
+  "publish_date": "2017-10-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "潮吹",
+    "4小時以上作品",
+    "美少女",
+    "出道作品",
+    "薄碼",
+    "芸能人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231215/20231215004249324324.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231215/20231215004249324324.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17205",
+  "actresses": [
+    {
+      "name": "松田美子",
+      "img_url": "https://picture.yoshiclub.xyz/20231229/1cc6eee3-ded6-436d-b1ab-378688aeb649.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17205&name=松田美子"
+    }
+  ]
+};

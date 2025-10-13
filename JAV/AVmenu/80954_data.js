@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/Xf9W1Rb7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80954,
+  "IDcode": "SW-831",
+  "title": "「旦那の見ていない間にお義父様の入れて！」無自覚パンチラ誘惑で義父を虜にする小悪魔嫁 15人240分スペシャル",
+  "publish_date": "2022-02-23",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "4小时以上作品",
+    "已婚妇女",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80954",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80954&name=波多野结衣"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80954&name=真木今日子"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80954&name=浜崎真绪"
+    },
+    {
+      "name": "北川爱莉香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/489441ba348341feefd5155ed212b2c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80954&name=北川爱莉香"
+    }
+  ]
+};

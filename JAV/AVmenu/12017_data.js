@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c6e9112-f1fb-471f-bcaf-825cd64c8e2b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/01/15c03d9a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12017,
+  "IDcode": "MIDV-861",
+  "title": "放學後NTR - 在比賽前留下練習……在教練的流口水舌吻和無與倫比的活塞中享受着淫蕩的高潮…… ~ 七海那美",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "老頭子",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "制服",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "更衣室",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "NTR",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MIDV-861为MOODYZ出品,2024年9月17日发行的有碼成人影片由七海那美出演\n【哭鬧難免NTR！ 】 游泳社的娜美在比賽前決定留下來。在男友等待的幕後，娜美正被按摩G罩杯巨乳的富翁強暴…！享受年輕的身體，舔和強姦，女牛仔的姿勢與彈跳的乳房......！每次被老男人的大雞雞擊中，我都會體會到從男友那裡得不到的快樂。 「對不起……我現在想專注於俱樂部活動……」她對男友撒了謊，今天又去找教練了。領悟了女性快感的娜美，愛上了老人無與倫比的活塞…你無法重來青春。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912101209640640.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912101209640640.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12017",
+  "actresses": [
+    {
+      "name": "七海那美",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/96b99143-4036-4c22-aed9-1598e5409326.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12017&name=七海那美"
+    }
+  ]
+};

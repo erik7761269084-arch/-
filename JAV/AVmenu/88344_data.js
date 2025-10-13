@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/2a67153a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88344,
+  "IDcode": "HOI-097",
+  "title": "ONA",
+  "publish_date": "2020-05-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "第一人称摄影",
+    "模特儿",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/f49115e153690231653424ccf64d8672.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88344",
+  "actresses": [
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88344&name=雾岛里绪菜"
+    }
+  ]
+};

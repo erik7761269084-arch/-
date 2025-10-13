@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/8DEXA5WA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90403,
+  "IDcode": "PKPL-036",
+  "title": "恋人いちゃラブドキュメント ガチエロ金髪巨乳黒ギャル 瀬那ルミナちゃんと1日イチャイチャデート （BOD）",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "女生",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240118-1/1d29ce1500197d554ca53cfe2cc2b788.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90403",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90403&name=瀬那瑠美奈"
+    }
+  ]
+};

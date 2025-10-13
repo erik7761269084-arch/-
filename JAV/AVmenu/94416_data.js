@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241025/tKIO2IHY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94416,
+  "IDcode": "SPZ-1142",
+  "title": "口説いてヤレた！！ 完熟マッサージ師のオバサン",
+  "publish_date": "2024-07-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "按摩",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94416",
+  "actresses": [
+    {
+      "name": "石川芙美乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94416&name=石川芙美乃"
+    },
+    {
+      "name": "磐井玲子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94416&name=磐井玲子"
+    },
+    {
+      "name": "矢島ちえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94416&name=矢島ちえ"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b6ebb845-c514-444e-bf6b-6df31f5f3dc6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/b8b3ee8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7039,
+  "IDcode": "IPZZ-541",
+  "title": "超色翹臀讓我的雞巴徹底失控！醉倒醒來旁邊竟是個半裸辣妹！？平時拽得要死現在卻超黏人…完蛋！我好像幹了她（汗） ~ 佐佐木紗希",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "酒醉",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "酒後亂性",
+    "中出",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "手指插入",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "寢取",
+    "美少女電影"
+  ],
+  "description": "IPZZ-541为IDEA POCKET出品,2025年4月8日发行的有碼成人影片由佐佐木紗希出演\n我不擅長喝酒，所以最後喝多了，完全醉了……早上醒來的時候……啊？咦！ ？ ？為、為啥佐佐木同學在我旁邊！ ？我沒有記憶…？半裸嗎？哎喲!說實話，這是最糟糕的！我們做到了（流汗）嘿...昨晚真是太棒了...我不敢相信你的性愛如此激烈...而且你真是個帥哥...我想我可能會上癮！這個平時厚臉皮的女孩突然變成一個甜美的女孩並乞求性愛！嘿嘿…我們可以再做一次嗎？我竟然對我處女那根巨大有力的陰莖上癮了！ ？在悶熱的房間裡，他一邊大汗淋漓，一邊反覆將陰莖插入她的體內（強迫）。你的雞雞真棒！我們將讓您連續 12 小時沉迷其中，直到第二天早晨！ 11次大量射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/202504030927238989.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/202504030927238989.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7039",
+  "actresses": [
+    {
+      "name": "佐佐木紗希",
+      "img_url": "https://picture.yoshiclub.xyz/20231111/4d2c43ef-a8b0-41fc-9506-9a85eda2aae4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7039&name=佐佐木紗希"
+    },
+    {
+      "name": "トミフミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7039&name=トミフミ"
+    }
+  ]
+};

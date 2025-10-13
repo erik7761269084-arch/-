@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230327/b7058cfa-5393-47a5-afcc-e5460697b7c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1744,
+  "IDcode": "smbd-20",
+  "title": "S Model 20 女子校生淫亂放課後 ~ 天宮真理留",
+  "publish_date": "2010-12-09",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "中出",
+    "顏射",
+    "口交",
+    "眼鏡",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1744",
+  "actresses": [
+    {
+      "name": "天宮真理留",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-天宮まりる.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1744&name=天宮真理留"
+    }
+  ]
+};

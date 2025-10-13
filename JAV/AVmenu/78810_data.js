@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/782c695b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78810,
+  "IDcode": "SSNI-651",
+  "title": "彼女が家族旅行で不在の3日間、幼馴染と朝から晩までひたすらハメまくったひと夏の記録 伊賀まこ",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "淫乱，真实",
+    "薄马赛克",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/b283a31771a10d15efe61044af0e9935.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78810",
+  "actresses": [
+    {
+      "name": "伊贺まこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78810&name=伊贺まこ"
+    }
+  ]
+};

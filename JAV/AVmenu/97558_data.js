@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220401/71372E6D2B415CB9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97558,
+  "IDcode": "BBI-163",
+  "title": "痴女教師が犯ス-濃厚な接吻と猛烈に絡み合う肉体- 司ミコト",
+  "publish_date": "2014-07-25",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bbi163/bbi163pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97558",
+  "actresses": []
+};

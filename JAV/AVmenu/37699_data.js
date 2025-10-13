@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220730/E109CEE26105F719/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37699,
+  "IDcode": "7215C02A70C7988A3A27B0BF9F-522208",
+  "title": "21岁双马尾女大学生",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37699",
+  "actresses": []
+};

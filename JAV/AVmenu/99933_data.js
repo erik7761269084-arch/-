@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/3F6F835D5C9C43F8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99933,
+  "IDcode": "EBOD-248",
+  "title": "美少女専科 さとう遥希 沙藤ユリ 秋月めい",
+  "publish_date": "2012-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "女上位",
+    "颜射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod248/ebod248pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99933",
+  "actresses": [
+    {
+      "name": "沙藤由梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/6af67405-d04b-4612-b0d0-58ce9e9176c8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99933&name=沙藤由梨"
+    },
+    {
+      "name": "佐藤遥希",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/668115f6-413f-41b9-ae2c-c159cc7009d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99933&name=佐藤遥希"
+    },
+    {
+      "name": "秋月めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99933&name=秋月めい"
+    }
+  ]
+};

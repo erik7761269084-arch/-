@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/26/a598f9a9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80402,
+  "IDcode": "NGOD-161",
+  "title": "全日本ねとられ大賞受賞作品 パワハラ気質で生理的にぜったい無理な夫の上司に同行した地方出張で 悶絶の絶倫巨根で突かれまくった僕の妻が健闘むなしく翌朝までには快楽堕ちしてしまった……的な話です 浜崎真緒",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "巨大阴茎",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80402",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80402&name=浜崎真绪"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81f88b1d-246b-4a4b-9b7a-5f99824f075a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9034,
+  "IDcode": "MUKC-089",
+  "title": "一個在校園外變態角色扮演者和性愛方面具有真正天賦的放蕩女孩。糸井ありさ",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "老頭子",
+    "調教",
+    "色誘",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "COSPLAY服飾",
+    "宅男・宅女"
+  ],
+  "description": "MUKC-089为無垢出品,2025年1月21日发行的有碼成人影片由糸井ありさ出演\n「老爺子看到我不興奮嗎？就我們兩個人，妖豔的蕩婦coser就勾引了老爺子，把他弄倒了。」她對這個老人感到飢渴，並穿著他喜歡的衣服操他！一旦發生性行為，你就會上癮。一個變態受虐狂角色扮演者變成禦宅族肉尿壺的令人震驚的影片。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080345554554.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116080345554554.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9034",
+  "actresses": [
+    {
+      "name": "糸井ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/b95a417b-4e89-4ac8-9b6f-893317c399cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9034&name=糸井ありさ"
+    }
+  ]
+};

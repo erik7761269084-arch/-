@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8d39b15a-a0e1-462f-9e22-fe5eae9aa944/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/QLBeDZs6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13308,
+  "IDcode": "MRHP-036",
+  "title": "【不動產AV】帶我去看房的美人妻地產經紀，在房間裏揉她的大奶子然後中出她 ~ 川栄結愛",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "劇情",
+    "巨尻",
+    "色白",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "房產中介",
+    "制服",
+    "口交",
+    "看房",
+    "蠻橫嬌羞",
+    "性騷擾",
+    "人妻",
+    "巨乳",
+    "短髮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/ebfa60dc-f115-4a50-8474-f41b5a93e354.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/ebfa60dc-f115-4a50-8474-f41b5a93e354.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13308",
+  "actresses": [
+    {
+      "name": "川栄結愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240714/652c5e6d-6185-4110-b652-1f135aabb956.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13308&name=川栄結愛"
+    }
+  ]
+};

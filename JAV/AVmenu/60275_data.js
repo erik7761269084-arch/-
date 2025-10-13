@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/b9f26d17/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60275,
+  "IDcode": "NHDTC-108",
+  "title": "人妻メンズエステでぞうさんパンツを穿かされ先っぽ舐めと亀頭SEXで焦らされ続け我慢できずパンツごと奥挿し2 戸川なみさんの紙パンティとチェキ付き",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "已婚妇女",
+    "女上位",
+    "荡妇",
+    "巨大屁股",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60275",
+  "actresses": []
+};

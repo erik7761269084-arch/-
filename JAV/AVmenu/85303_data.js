@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/27/38e54ef3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85303,
+  "IDcode": "MIAA-548",
+  "title": "讓人看見開穴褲襪臀部馬上插入搞起辦公室不倫的誘惑女上司 篠田優",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "屁股",
+    "足交",
+    "连裤袜",
+    "巨大屁股",
+    "过膝袜",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85303",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85303&name=篠田优"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85303&name=Qべぇ"
+    }
+  ]
+};

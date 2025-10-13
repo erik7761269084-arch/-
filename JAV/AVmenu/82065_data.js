@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/Qg0JQF0q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82065,
+  "IDcode": "SQTE-291",
+  "title": "この子ヤバイ！！スタッフが勃起した女 香坂みりな",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "深喉",
+    "流汗",
+    "恋爱",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82065",
+  "actresses": [
+    {
+      "name": "香坂みりな",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2d0e463c-2cfd-47f1-b4ad-1e859eed7015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82065&name=香坂みりな"
+    },
+    {
+      "name": "志戸哲也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82065&name=志戸哲也"
+    }
+  ]
+};

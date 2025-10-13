@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2515e57-a034-412c-b1c7-e9cf0cfbd6c4/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/de733065/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6768,
+  "IDcode": "JUR-044",
+  "title": "Madonna大型新人出道！超越富士山的爆乳絕景，N杯震撼登場 35歲 首次亮相 AV DEBUT ~ 城崎百瀨",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "色白",
+    "紀念作",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "出道作品",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "極品美人",
+    "女優",
+    "羞恥"
+  ],
+  "description": "JUR-044为MADONNA出品,2025年4月18日发行的有碼成人影片\n擁有一對能溫柔包裹一切的超大N杯豪乳，35歲的已婚人妻城崎百瀨，結婚6年卻飽受身材自卑之苦。每天都被男人們的火辣視線盯着，甚至坐個地鐵都能被癡漢盯上，日子過得心累。原本以爲嫁給溫柔老公能治愈這份自卑，可沒想到婚後竟然陷入了無性生活的泥沼。這次，她瞞着老公偷偷來到片場，只爲找回對自己的自信，釋放那對傲人雙峯的魅力！準備好被這波絕美風景治愈了嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417080701560560_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/20250417080701560560_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6768",
+  "actresses": [
+    {
+      "name": "城崎百瀨",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/4223545d-aabd-41b8-b670-dc56e32bb9f1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6768&name=城崎百瀨"
+    }
+  ]
+};

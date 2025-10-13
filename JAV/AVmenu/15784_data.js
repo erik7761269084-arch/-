@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27b100b2-4a70-4ad2-aa21-5db543fe9816/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15784,
+  "IDcode": "PFES-064",
+  "title": "素人內衣模特莉娜：應聘內衣模特女大學生抗壓能力太弱，被迫穿高級內衣性交中出錄制視頻",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "素人作品",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "素人",
+    "肉絲",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330031948819819.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240330/20240330031948819819.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15784",
+  "actresses": []
+};

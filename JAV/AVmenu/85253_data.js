@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/26/048e4eee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85253,
+  "IDcode": "MDBK-239",
+  "title": "極上ボディで何度も射精させちゃう超淫乱高級デリヘル嬢6",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85253",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85253&name=AIKA"
+    },
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85253&name=緒川春"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85253&name=篠田优"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/UGr6OmQi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93734,
+  "IDcode": "PESS-009",
+  "title": "四六時中、誘惑してくる美人妻と… 理性を忘れて夢中になるSEX",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93734",
+  "actresses": [
+    {
+      "name": "明里友香",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/5d03863f-f8f6-4fff-a36a-94c9430ee9b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93734&name=明里友香"
+    },
+    {
+      "name": "上野菜穂",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93734&name=上野菜穂"
+    }
+  ]
+};

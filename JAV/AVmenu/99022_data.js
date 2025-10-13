@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/BF2F4DC5E415CB3F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99022,
+  "IDcode": "GG-237",
+  "title": "親の目の前で犯されて感じる娘 雪本芽衣",
+  "publish_date": "2013-09-05",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "多P",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/13gg237/13gg237pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99022",
+  "actresses": [
+    {
+      "name": "雪本芽衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99022&name=雪本芽衣"
+    }
+  ]
+};

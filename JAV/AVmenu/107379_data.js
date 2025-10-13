@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/18/fbd49530/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107379,
+  "IDcode": "MKMP-517",
+  "title": "目指せ校内童貞0％！？ウブな男子に笑顔で寄りそう教室のアイドル リオとナナミ、仲良しコンビの初SEXサポート",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "处男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/18/32bba0d3551d1bb65b480b3c69723aef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107379",
+  "actresses": [
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107379&name=ニック"
+    }
+  ]
+};

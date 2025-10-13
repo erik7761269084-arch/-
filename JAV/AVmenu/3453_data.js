@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d1ec609a-7e91-4135-8540-f35d2d3aeee3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3453,
+  "IDcode": "NACT-007",
+  "title": "老公醉倒，就在他身邊被上司強●身心淪陷 ~ 二羽紗愛",
+  "publish_date": "2025-08-19",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "在丈夫面前被操",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "臀控",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "職場",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "NACT-007为PLANETPLUS出品,2025年8月19日发行的有碼成人影片由二羽紗愛出演\n那天晚上，老公罕见地喝得烂醉如泥，站都站不稳，幸好有他职场上的上司帮忙搀扶。嘴里还含糊不清地嚷着要继续喝，结果没两句就直接睡死过去，留下我和上司两人独处。上司笑眯眯地说自己很擅长按摩，手却越来越不老实，慢慢滑向我的身体深处……那种触碰，简直让人心跳加速，无法抗拒！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082639946946_46522_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082639946946_46522_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3453",
+  "actresses": [
+    {
+      "name": "二羽紗愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/90eb38cb-3350-4aec-bfd3-05920d07ee90.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3453&name=二羽紗愛"
+    }
+  ]
+};

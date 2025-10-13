@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/CVY9DsE7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83304,
+  "IDcode": "SQTE-290",
+  "title": "制服美少女のエッチな日常",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "高中女生",
+    "口交",
+    "瘦小身型",
+    "校服",
+    "恋爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83304",
+  "actresses": [
+    {
+      "name": "河奈亜依",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/8e4f7f9c-94ed-476f-b2d2-ce6dd2a336fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83304&name=河奈亜依"
+    },
+    {
+      "name": "小森美久露",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/b48b0e9f-a06b-4a6c-bffd-15069a5b2f7c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83304&name=小森美久露"
+    },
+    {
+      "name": "有花萌",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/5f97b984b221b3955cc360b595e16aea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83304&name=有花萌"
+    },
+    {
+      "name": "大原えりか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83304&name=大原えりか"
+    }
+  ]
+};

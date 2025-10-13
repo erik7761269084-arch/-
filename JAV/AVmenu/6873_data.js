@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/79bcb4c3-7abc-4a9c-8d03-563a4c90cf8e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/1b697f5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6873,
+  "IDcode": "MFYD-006",
+  "title": "周日和年下小男友澀谷情旅自拍雙響炮 ~ JULIA",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "企畫",
+    "純粹的慾望",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "明星臉",
+    "御姐系",
+    "巨乳",
+    "地味",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250412/d99796f1-6c17-4d6f-855b-b84c5197a15a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250412/d99796f1-6c17-4d6f-855b-b84c5197a15a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6873",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6873&name=JULIA"
+    }
+  ]
+};

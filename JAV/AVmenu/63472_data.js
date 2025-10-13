@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/03/ab74c606/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63472,
+  "IDcode": "C-2905",
+  "title": "c-2905うちの妻・M里（43）を寝取ってください123唐木竹史",
+  "publish_date": "2025-06-03",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63472",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220528/47444485620CF46E/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36950,
+  "IDcode": "D8E24EDEE2833B9FCF6003E9D4A96B-69",
+  "title": "肉便器淫妻の户外露屄",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36950",
+  "actresses": []
+};

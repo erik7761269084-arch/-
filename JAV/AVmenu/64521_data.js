@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220723/78DE61D657206DFB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64521,
+  "IDcode": "00E925F6A894870035744FCB26253DD-3",
+  "title": "- まさかの新性活！？隣のえっちな園田みおん お隣さんは俺が毎晩ヌキまくってるAV女優だった 特典DVD付き - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64521",
+  "actresses": []
+};

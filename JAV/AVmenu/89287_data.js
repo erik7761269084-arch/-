@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231216/ZIrPByjB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89287,
+  "IDcode": "STARS-894",
+  "title": "俺しか知らないカノジョの変態な素顔。社内で美人と評判のKサンと秘密のオフィスラブ。高嶺の花で近寄りづらいと思われてるけど、実は求められたらいつでもどこでもエロいリクエストに応えてくれるドMカノジョです。 神木麗",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "苗条",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89287",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89287&name=神木麗"
+    }
+  ]
+};

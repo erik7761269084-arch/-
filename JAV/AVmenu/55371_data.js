@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55371,
+  "IDcode": "75195A7B77F927D1CB99E1172EF931F6",
+  "title": "我的亚洲干性交战利品痴迷瞬间勃起 03",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55371",
+  "actresses": []
+};

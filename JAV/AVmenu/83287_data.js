@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/B4emHlbc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83287,
+  "IDcode": "SQTE-278",
+  "title": "放課後の学校でエッチしちゃった話",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "学校作品",
+    "水手服",
+    "学校泳装",
+    "运动",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83287",
+  "actresses": [
+    {
+      "name": "幸田ユマ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-幸田ユマ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83287&name=幸田ユマ"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83287&name=浅田结梨"
+    },
+    {
+      "name": "诗音乃らん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83287&name=诗音乃らん"
+    },
+    {
+      "name": "立花芽衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83287&name=立花芽衣"
+    }
+  ]
+};

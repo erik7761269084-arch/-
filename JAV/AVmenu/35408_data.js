@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/96a157bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35408,
+  "IDcode": "0604161-78",
+  "title": "辣妹人妻在超市偷东西被收银小哥爆操内射",
+  "publish_date": "2025-08-24",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/96a157bf/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35408",
+  "actresses": []
+};

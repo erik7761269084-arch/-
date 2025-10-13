@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/7b6aac4f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106006,
+  "IDcode": "SDJS-026",
+  "title": "SOD女子社員 中途入社宣伝部 2年目 綾瀬麻衣子 挿入待ちの大行列！1対20の若手男優実力テストで激イキSEX大乱交",
+  "publish_date": "2019-06-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "多P",
+    "口交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/02/6720cda1ecb552baf4bea5a7591f71f2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106006",
+  "actresses": [
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106006&name=Qべぇ"
+    },
+    {
+      "name": "绫瀬麻衣子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106006&name=绫瀬麻衣子"
+    }
+  ]
+};

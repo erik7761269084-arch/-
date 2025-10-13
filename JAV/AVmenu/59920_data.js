@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/93230f0a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59920,
+  "IDcode": "OFKU-239",
+  "title": "秋田から上京した嫁の母 出産間際の妻に内緒で精子が枯れるまで義母とのSEX 桐生珠帆",
+  "publish_date": "2025-09-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "自慰",
+    "内衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59920",
+  "actresses": [
+    {
+      "name": "桐生珠帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59920&name=桐生珠帆"
+    }
+  ]
+};

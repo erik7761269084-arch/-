@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/iaJzV3vL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70257,
+  "IDcode": "SDMU-803",
+  "title": "素人娘は射精（だ）しても射精（だ）しても止めてあげない！ 知人男性のチ○ポを素手・お口で連続ザーメン発射！3 恋人以外の男女限定12名 恥ずかしいけどもっと射精（だ）して！Hな手コキ・フェラで2人同時責め大増量SP",
+  "publish_date": "2018-04-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "口交",
+    "企画",
+    "业余",
+    "手淫",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70257",
+  "actresses": []
+};

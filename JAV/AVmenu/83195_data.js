@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/rzBg5XuU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83195,
+  "IDcode": "SHYN-070",
+  "title": "気持ち良すぎッ！？「クリップピングローター ニップルティップ SOD女子社員tuber いきなり玩具レビュー 吉田香織 営業部3年目",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "自慰",
+    "跳蛋",
+    "羞耻",
+    "乳房",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83195",
+  "actresses": [
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83195&name=持田栞里"
+    }
+  ]
+};

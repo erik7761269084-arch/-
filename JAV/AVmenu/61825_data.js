@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/94e5a46e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61825,
+  "IDcode": "SIRO-5516",
+  "title": "SEXをするために産まれた神ボディの現役女子大生が登場！男がSEXしたい身体ナンバーワン！文句なしのHカップ&amp;巨尻で溜まった性欲をフルに解放！制御不能のグラインド騎乗位！杭打ちピストン&amp;乳首舐めで危うく暴発寸前！こんなエロい女子大生見たことない！ 【初撮り】ネットでAV応募→AV体験撮影 2395",
+  "publish_date": "2025-07-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "女大学生",
+    "第一人称摄影",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/18/94e5a46e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61825",
+  "actresses": [
+    {
+      "name": "ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61825&name=ゆあ"
+    }
+  ]
+};

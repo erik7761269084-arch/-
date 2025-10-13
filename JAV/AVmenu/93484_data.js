@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/gEZD6O9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93484,
+  "IDcode": "NKKD-337",
+  "title": "【FANZA限定】息子を名門私立にイレたい品の良いお受験ママが保護者面談で性欲にまみれた学園長のドス黒くてくっさい巨根をイレられねとられる 森沢かな 生写真とパンツ付き",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "已婚妇女",
+    "出轨",
+    "巨大阴茎",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93484",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93484&name=森澤佳奈"
+    }
+  ]
+};

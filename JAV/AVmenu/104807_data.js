@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/09/b20d4114/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104807,
+  "IDcode": "PGD-761",
+  "title": "プレミアム スタイリッシュソープ ゴールド 上原亜衣",
+  "publish_date": "2015-03-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "妓女",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/09/e63090722343346b302f7a7315eb6f7a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104807",
+  "actresses": [
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104807&name=上原亞衣"
+    }
+  ]
+};

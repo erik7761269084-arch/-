@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/07/831fcd48/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91294,
+  "IDcode": "DASS-305",
+  "title": "綺麗だと憧れていた友達のお母さんとマッチングアプリで再会。緊張の糸が切れた二人は、理性を捨てて本能のまま交じり合った。 通野未帆",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240429-1/f0facaaac6fdd681983b1f3bf8aa7121.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91294",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91294&name=通野未帆"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91294&name=日森一"
+    }
+  ]
+};

@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b5b6e96c-5308-4bda-871f-6f37564c82c6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/921d74c7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2895,
+  "IDcode": "HUNTC-410",
+  "title": "童貞專屬！同居生活體驗服務，超甜超可愛的妹子被派來陪你哦！ ~ 菜月光 柏木小夏 宮西光 由良佳奈",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "正統派",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "高妹",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "處男"
+  ],
+  "description": "HUNTC-410为HUNTER出品,2025年9月4日发行的有碼成人影片由柏木小夏，由良佳奈，宮西光，菜月光出演\n童貞也想體驗甜蜜戀愛啦！但偏偏沒女友……別急，現在有超讚的同居生活派遣服務上線了！同居可是情侶間的頂級生活模式，哪個男人不想試試看？於是果斷下單，結果派來的妹子可愛到炸！她對你溫柔得不得了，各種撒嬌貼貼，簡直讓人懷疑她是不是真的愛上你了！一起戴著耳機看影片，兩人下廚準備晚餐，浴室裡玩耍調情，喝酒聊天嗨到爆……這就是夢寐以求的情侶日常啊！這一切都能體驗到，而且是一泊兩天的超長服務！夜裡當然少不了激情時刻……隔天早上還能再來一發，爽到不行！這種服務，兄弟們早就等不及啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035146988988_19516_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035146988988_19516_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2895",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=柏木小夏"
+    },
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=宮西光"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=由良佳奈"
+    },
+    {
+      "name": "菜月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/f75dbc85-4a6e-4721-a0da-fcae7ddf1f85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=菜月光"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=トイボーイ相沢"
+    },
+    {
+      "name": "ラビットけんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2895&name=ラビットけんと"
+    }
+  ]
+};

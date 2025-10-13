@@ -1,0 +1,92 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d335f2f1-c7e9-4cde-bc42-5d8fb2bdf00e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4429,
+  "IDcode": "HOIZ-171",
+  "title": "同人美人與英雄 04 秒殺誘惑，無可抵擋！乖巧美少女素人，個性雜魚小穴全開！~ 姫野らん 藤野つかさ Nia",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "吞精",
+    "游戲COSPLAY",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "素人",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "少女",
+    "打手槍",
+    "口爆",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "奇聞趣事",
+    "自慰",
+    "女僕制服",
+    "明星臉",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "大雞巴",
+    "極品美人",
+    "美少女電影",
+    "叛逆少女",
+    "COSPLAY服飾",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "HOIZ-171为妄想族出品,2025年7月12日发行的有碼成人影片由Nia，姫野らん，藤野つかさ出演\n全都給我爆開啦！！ 超正美少女素人，個性精液吞嚥+逆兔女郎誘惑全開！接受無盡快感，她的人生從此天翻地覆！ 準備好了沒？帶著個性超強性慾的狂野SEX，一起衝向屬於你的高潮巔峰！絕頂風暴即將來襲！ 墮落之地就是你的快感烏托邦！屬於你的變態沉淪生活正式開啟！ りかたん：圈內以高冷形象出名，實際上是個超下流抖M的台灣混血素人，笑死啦！ ゆう：超迷你妹妹系蘿莉素人，已經被調教出大人快感，嘿嘿！ ゆめ氏：短髮+極致腰線+美巨乳的病嬌性感素人，粗暴性愛讓她興奮到不行，絕了！ 從深吻到腳趾舔舐，從喉嚨深處到小穴內壁，巨根無情抽插，中出吞精，潮吹絕頂，各種玩法讓她尖叫連連，徹底變成肉便器！油光發亮的肌膚被塗滿，乳頭被玩弄到充血，高速後入讓她哭喊著高潮不斷！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714005512756756_90876_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250714/20250714005512756756_90876_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4429",
+  "actresses": [
+    {
+      "name": "Nia",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/3a08a455-e1dd-4a93-bead-e17218448af1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4429&name=Nia"
+    },
+    {
+      "name": "姫野らん",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/e8c74bfa-a4ca-4879-8060-3df057e3a8ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4429&name=姫野らん"
+    },
+    {
+      "name": "藤野つかさ",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/429e106c-1719-4104-8df3-da0c40f40236.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4429&name=藤野つかさ"
+    }
+  ]
+};

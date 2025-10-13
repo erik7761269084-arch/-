@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/5pNmmt0m/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88745,
+  "IDcode": "XMOM-061",
+  "title": "性欲旺盛な人妻のドスケベ交尾記録 姫川礼子",
+  "publish_date": "2023-08-10",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "已婚妇女",
+    "多P",
+    "纪录片",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/919ecbeccd7c04aee8201f66b214a753.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88745",
+  "actresses": [
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88745&name=姫川礼子"
+    }
+  ]
+};

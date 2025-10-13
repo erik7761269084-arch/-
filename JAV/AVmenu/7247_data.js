@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f621b216-ce4d-4e4b-9d00-4fcf7271ae99/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/e113c8a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7247,
+  "IDcode": "MILK-239",
+  "title": "舔舐和支配 清純制服少女被唾液糊滿徹底玷污 全身黏糊汁液中出性愛 ~ 南梨央奈",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "變態",
+    "凌辱",
+    "中出",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "主觀視角",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "唾液敷面",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "M男・M女",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "戀物癖",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/888ab969-924e-4c5c-a995-1483e51fc31c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/888ab969-924e-4c5c-a995-1483e51fc31c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7247",
+  "actresses": [
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7247&name=南梨央奈"
+    }
+  ]
+};

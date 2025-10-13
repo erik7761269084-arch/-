@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/28/5d15a67b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107495,
+  "IDcode": "MIFD-244",
+  "title": "新人！アイドルだって、オジサンとHしてみたいッ！陽野めぐみAVdebut！ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "偶像",
+    "女上位",
+    "口交",
+    "首次亮相",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/29/cc8217c0c184b1deffdf7d53ddb0e48c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107495",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107495&name=小田切ジュン"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107495&name=南佳也"
+    },
+    {
+      "name": "陽野めぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107495&name=陽野めぐみ"
+    }
+  ]
+};

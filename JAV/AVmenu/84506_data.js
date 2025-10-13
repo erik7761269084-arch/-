@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/Xc8PYZxC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84506,
+  "IDcode": "GVH-339",
+  "title": "心底嫌いな色ボケじじい社長に粘着セクハラされ続ける美人秘書 八乃つばさ",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "巨乳",
+    "恋物癖",
+    "连裤袜",
+    "秘书"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84506",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84506&name=八乃翼"
+    }
+  ]
+};

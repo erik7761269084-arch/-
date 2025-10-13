@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3efc185a-a6b8-4a57-98fa-dd316ee0ce6f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/07526145/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5951,
+  "IDcode": "SGKI-054",
+  "title": "拍張照就能穩過面試的活塞振動拍照亭2：求職女大學生被猛衝也不失笑容 ~ 月乃露娜 小阪ひまり 森澤佳奈 羽月乃蒼",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "SHIGEKI",
+  "genres": [
+    "企畫",
+    "劇情",
+    "無做愛場面",
+    "美乳",
+    "形象俱樂部",
+    "跳蛋",
+    "高妹",
+    "綜藝",
+    "自慰",
+    "惡搞",
+    "公共場所",
+    "按摩棒",
+    "美人",
+    "插入異物",
+    "極品美人",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SGKI-054为SHIGEKI出品,2025年5月16日发行的有碼成人影片由森澤佳奈，羽月乃蒼，月乃露娜，小坂ひまり出演\n便利店、車站隨處可見的證件照拍照機，拍履歷照片必備神器！但你知道嗎？最近在年輕妹子中爆紅的拍照機有個隱藏小機關，號稱能讓你的表情直接拉滿‘極致誘惑’！為了不讓外面聽到，只能拼命忍住高潮的聲音！這次我們跟拍了一位穿正裝來求職的女大學生，看她在這種刺激拍照機裡如何保持甜美微笑，簡直讓人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522020750109109_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522020750109109_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5951",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5951&name=森澤佳奈"
+    },
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5951&name=羽月乃蒼"
+    },
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5951&name=小坂ひまり"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5951&name=月乃露娜"
+    }
+  ]
+};

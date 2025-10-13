@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a1a2553-3bf2-4371-b186-2eb29f72c27c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 116,
+  "IDcode": "HEYZO-0063",
+  "title": "HAMEZO～私拍收藏系列～vol.5 ~ 鶴野有",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "奇聞趣事",
+    "自慰",
+    "手指插入",
+    "美人",
+    "無毛"
+  ],
+  "description": "HEYZO-0063为HEYZO出品,2012年8月31日发行的無碼成人影片由つるのゆう出演\nゆうちゃん是个老实巴交的大学生，男友和炮友一个都没有，最后一次啪啪还是整整一年前，简直欲求不满到不行！平时只能靠小玩具自慰解馋，今天她可不是为了钱，而是纯粹为了爽才报名来的！刚一摸她那C罩杯的软嫩胸部，表情立马变得骚气满满，轻轻一捏粉嫩的小樱桃，她就忍不住娇喘出声。脱下内裤一看，哇，光溜溜的无毛小穴，粉得让人心痒痒，手指一插进去，湿得一塌糊涂，超带感！ゆうちゃん那甜美的呻吟声太勾人了，实在忍不住，直接在她体内爆射了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250729080448533533_99708_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250729/20250729080448533533_99708_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116",
+  "actresses": [
+    {
+      "name": "つるのゆう",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250730/20250730102116991991_29856_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=116&name=つるのゆう"
+    }
+  ]
+};

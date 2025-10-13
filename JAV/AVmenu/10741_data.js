@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2c4f1582-c52c-4587-9256-b662728a9f65/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/6dcbc197/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10741,
+  "IDcode": "FSDSS-892",
+  "title": "女芸能人正在被搭檔寢取。每次在真人秀節目中被抓到都會把男人M化的極高癡女 ~ 吉高寧寧",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "出軌",
+    "M男・M女",
+    "NTR",
+    "美少女電影",
+    "芸能人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241109/20241109022354425425.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241109/20241109022354425425.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10741",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10741&name=吉高寧寧"
+    }
+  ]
+};

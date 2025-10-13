@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230107/LFQ47hal/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84275,
+  "IDcode": "DASS-042",
+  "title": "うちのこどおじは性欲モンスター ヤリマン生徒会長に何度射精させても収まらない勃起。 木下ひまり",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "制服",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84275",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84275&name=木下日葵"
+    }
+  ]
+};

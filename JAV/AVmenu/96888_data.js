@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240623/MtCFbFdK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96888,
+  "IDcode": "HHED-058C",
+  "title": "我和叔母的下流回憶 新木春香",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96888",
+  "actresses": []
+};

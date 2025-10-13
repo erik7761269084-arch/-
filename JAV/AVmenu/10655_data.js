@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1b65f4b-7e7d-42a3-bf8f-d2c9796bb2a5/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/05/3b9af4dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10655,
+  "IDcode": "MTALL-140",
+  "title": "在體育大生髒亂不堪的寢室裏被操了，連續中出99發 ~ 松本菜奈実",
+  "publish_date": "2024-11-21",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "約炮",
+    "辣妹/GAL系"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/f6cab5c9-447b-4e2e-aa3a-9a20b26d6292.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/f6cab5c9-447b-4e2e-aa3a-9a20b26d6292.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10655",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10655&name=松本菜奈実"
+    }
+  ]
+};

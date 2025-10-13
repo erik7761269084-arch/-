@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/14/ba467b7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105381,
+  "IDcode": "EYAN-200",
+  "title": "ルックスと気品とエロスを兼ね備えた高嶺の花 スリム円錐Gcup現役社長秘書AVデビュー 宮本留衣",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "苗条",
+    "首次亮相",
+    "乳房",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/14/2723d1ed311fef9956dfd840f853a42e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105381",
+  "actresses": [
+    {
+      "name": "宮本留衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240317/5a67da63-6ee5-4545-816b-83b2643e97e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105381&name=宮本留衣"
+    }
+  ]
+};

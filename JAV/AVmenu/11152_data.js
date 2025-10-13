@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/412318bb-55cd-4636-9a14-ab9ebffc389a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/03/4b987abf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11152,
+  "IDcode": "TPPN-254",
+  "title": "巨乳巨尻！被操到汗流浹背愛汁溢出恍惚狀態下的連續中出！ ~ 美園和花",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "短髮",
+    "放尿",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241020/4bf0b96d-fa36-45c6-8104-dd5285b8dfe2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241020/4bf0b96d-fa36-45c6-8104-dd5285b8dfe2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11152",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11152&name=美園和花"
+    }
+  ]
+};

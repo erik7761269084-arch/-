@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65578,
+  "IDcode": "56915703718D6CA3EC150E1FEA6DE803",
+  "title": "女王様はドSな妹 ドM男だらけの大家族で性欲を处理する発情痴女 椎名空",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65578",
+  "actresses": []
+};

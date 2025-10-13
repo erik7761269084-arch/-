@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230821/CGb5Dpqf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100517,
+  "IDcode": "MKMP-425",
+  "title": "学校のM男クンたちは全員コネくり回してやるからなっ！！悪魔ビッチちゃんの舐めちゅぱ乳首イジりが最強にヤバすぎる。 佐藤ののか",
+  "publish_date": "2021-11-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "M男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100517",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100517&name=加藤桃香"
+    }
+  ]
+};

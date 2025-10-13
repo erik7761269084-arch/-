@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/aa8a72cf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72489,
+  "IDcode": "INSTV-618",
+  "title": "爆乳美人彼女 スナオ 25歳 キャンピングカップルの野外中出し個人撮影流出ビデオ",
+  "publish_date": "2025-02-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "情侣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72489",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72489&name=九井珠奈緒"
+    }
+  ]
+};

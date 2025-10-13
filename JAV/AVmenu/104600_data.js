@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/30/b15a7ba7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104600,
+  "IDcode": "MIDV-648",
+  "title": "ぜーんぶ初体験！！セックス開発 3本番Special！！ 滝冬ひかり （BOD）",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "女大学生",
+    "苗条",
+    "潮吹",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104600",
+  "actresses": [
+    {
+      "name": "滝冬煇",
+      "img_url": "https://picture.yoshiclub.xyz/20240205/4fac34a3-bfdd-431c-9709-54949a64435b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104600&name=滝冬煇"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104600&name=鲛岛"
+    }
+  ]
+};

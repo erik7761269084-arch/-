@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/oaok3wrs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83220,
+  "IDcode": "SENN-008",
+  "title": "綺麗な美尻の看護師さんのお尻を揉みっぱなしで治療が受けられる尻フェチ特化性交！ 黒川すみれ",
+  "publish_date": "2020-01-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "屁股",
+    "企画",
+    "护士",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/de99fcd83f88b8c5a4bfab8c3b5f9c04.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83220",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83220&name=黑川堇"
+    }
+  ]
+};

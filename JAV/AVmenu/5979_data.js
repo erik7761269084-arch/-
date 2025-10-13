@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/404bc6e2-6e5d-4928-a981-e93c7040c35e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/7e9c1a29/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5979,
+  "IDcode": "FNS-065",
+  "title": "超可愛新人出道！F杯美胸小蠻腰 羞澀笑容誘惑滿分 首次亮相 AV DEBUT ~ 淺野心愛",
+  "publish_date": "2025-05-21",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "偶像",
+    "色白",
+    "蘿莉",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "清純",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "FNS-065为FALENO出品,2025年5月21日发行的有碼成人影片由浅野心愛出演\n白皙到發光的皮膚，軟Q彈嫩的F杯大奶，粉紅色的乳頭，看了就讓人慾火焚身！這位20歲的內向小妹子，滿懷夢想，鼓起勇氣打破自己的害羞外殼，想從追星小迷妹變成被人追捧的偶像！曾經是合唱團的跟班小粉絲，如今臉紅心跳地被舔弄和手指挑逗，嬌喘不停，甚至深深地接納那根大傢伙！纖細的身軀在激烈衝刺下顫抖，全身泛紅尖叫連連，那種羞怯又壓不住的慾望，真的超級撩人！這是淺野心愛醬的AV初登場，絕對不容錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521015920315315_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250521/20250521015920315315_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5979",
+  "actresses": [
+    {
+      "name": "浅野心愛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250521/7a8007e1-1778-47c8-8fdd-25a4d72bf012_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5979&name=浅野心愛"
+    }
+  ]
+};

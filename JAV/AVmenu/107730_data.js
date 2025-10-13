@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/27/fcbdf7f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107730,
+  "IDcode": "JJDD-003",
+  "title": "年下の男の子にお願いされたら中出しセックスにもノーと言えないおばさん家政婦03 優しさにつけこんで突撃生ハメドキュメント",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/27/08ad116dc982a148a7c0c6026dc7a095.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107730",
+  "actresses": [
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107730&name=姫川礼子"
+    }
+  ]
+};

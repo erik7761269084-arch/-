@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231010/jjlPHwoE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88449,
+  "IDcode": "NHDTA-826",
+  "title": "接客中に顔を紅潮させながら感じまくるバイト娘 掛け持ちバイト看板娘中出しSP",
+  "publish_date": "2016-05-26",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "各种职业",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88449",
+  "actresses": [
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88449&name=乃木遥"
+    },
+    {
+      "name": "まゆのゆま",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88449&name=まゆのゆま"
+    },
+    {
+      "name": "松浦ゆきな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88449&name=松浦ゆきな"
+    }
+  ]
+};

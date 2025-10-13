@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/19/8e0fb8dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88435,
+  "IDcode": "MIDE-395",
+  "title": "自宅警備員をする僕の所にパイズリから身の回りの事までなんでもしてくれる嫁が国から送られてきた JULIA",
+  "publish_date": "2017-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "数位马赛克",
+    "新娘，年轻妻子",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231007-1/afd321373e07c39ab5749b9c66228df7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88435",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88435&name=JULIA"
+    }
+  ]
+};

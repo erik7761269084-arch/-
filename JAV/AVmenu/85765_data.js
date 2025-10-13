@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/01/d888fb83/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85765,
+  "IDcode": "NNPJ-507",
+  "title": "マッチングした美女は… ≪超人気！≫SNSフォロワー10万人！性欲溢れる即効型の発情AVインフルエンサーだった。 あみりさん",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "女生",
+    "口交",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85765",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85765&name=斋藤亚美里"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230402/cda712f7-c0cf-475b-b143-ed19aa1bcd4b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1588,
+  "IDcode": "STARS-168",
+  "title": "青空光 汗×潮×涎 恥汁滿溢 體液滴落濃密性交",
+  "publish_date": "2019-12-12",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "素人作品",
+    "流汗",
+    "潮吹",
+    "無碼流出",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/fdca2230-629d-4ac1-b725-3102ab18c904.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/fdca2230-629d-4ac1-b725-3102ab18c904.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1588",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1588&name=青空光"
+    }
+  ]
+};

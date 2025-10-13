@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/a1727829/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67244,
+  "IDcode": "GANA-2245",
+  "title": "マジ軟派、初撮。 1451 某ヒルズ近くでゲットしたセクシーなお姉さんと欲望をぶつけ合う獣の様なセックス！ビクビクと大きく体を跳ねさせて何度も絶頂する姿がエロすぎる！",
+  "publish_date": "2020-02-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "无毛",
+    "姐姐",
+    "颜射",
+    "业余",
+    "女优按摩棒",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/4acfd0c52f9cc10913a9972329bba35d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67244",
+  "actresses": [
+    {
+      "name": "目黑惠",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67244&name=目黑惠"
+    }
+  ]
+};

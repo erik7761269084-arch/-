@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/30/7a61601b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91735,
+  "IDcode": "JUQ-423",
+  "title": "あの大人気‘学園ドラマ’に出演していた―。 元芸能人の人妻 月野ゆりね 42歳 AV DEBUT",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "乳房",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91735",
+  "actresses": [
+    {
+      "name": "月野ゆりね",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/95b029a3-a179-4ed5-b405-5151fd036726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91735&name=月野ゆりね"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/16/5f1cb8c3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78469,
+  "IDcode": "MIAA-172",
+  "title": "微乳女僕種付壓制 為了守護病弱姊姊我成為女僕。 永瀨唯",
+  "publish_date": "2019-11-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "苗条",
+    "女佣",
+    "瘦小身型",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78469",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78469&name=永濑唯"
+    }
+  ]
+};

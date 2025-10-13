@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/06/0b75bc99/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82608,
+  "IDcode": "FSDSS-034",
+  "title": "学校でこっそりHしちゃった 東條なつ",
+  "publish_date": "2020-05-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "制服",
+    "羞耻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/7718b2df342a655c84f113035f3bdd4c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82608",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82608&name=東條夏"
+    }
+  ]
+};

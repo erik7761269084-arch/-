@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/06808c99-7c17-4fcb-82c6-4876748ebb7a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 162,
+  "IDcode": "HEYZO-0132",
+  "title": "快點把幼態蘿莉綁起來幹個痛快 ~ 田丸みく",
+  "publish_date": "2012-10-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "HEYZO-0132为HEYZO出品,2012年10月5日发行的無碼成人影片由田丸みく出演\n喜歡蘿莉的兄弟們有眼福了！這部片絕對是你的最愛！笑容甜到爆的小隻馬女優田丸みく，身高只有145cm，但E杯大胸可是她的超強賣點！這次她要硬剛兩個男優，火熱又激烈的纏綿場面讓人小鹿亂撞！她的敏感帶毫無意外就是胸部跟下面，被繩子綁住上半身，凸顯出驕傲的胸部被輕輕一碰就讓她害羞又亢奮。被強迫口交時，嘴裡含著大傢伙，辛苦地說出‘好大啦’的聲音，看來她還挺愛舔棒的嘛！後半段更是刺激，3P玩法不斷切換姿勢，小小身軀發揮驚人戰力，各種激烈互動看得人眼花撩亂，絕對不容錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/20250708034910228228_98369_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250708/20250708034910228228_98369_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=162",
+  "actresses": [
+    {
+      "name": "田丸みく",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250708/20250708094239461461_32276_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=162&name=田丸みく"
+    }
+  ]
+};

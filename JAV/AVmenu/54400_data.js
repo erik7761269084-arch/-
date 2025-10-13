@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220708/AFE680D7AEC394DC/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54400,
+  "IDcode": "2390A42614AA9CA80F916CECF41E2E3C",
+  "title": "27岁美人妻沉沦内射快乐",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54400",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/09/debd9e70/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107253,
+  "IDcode": "SSIS-842",
+  "title": "インフルエンサーうんぱいが＃今からパコりたいメンズ大募集！投稿バズってまさかの応募殺到しちゃったガチ素人とのオフパコSEX （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "偶像",
+    "荡妇",
+    "纪录片",
+    "倒追",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/09/e822a61cdad6503750da07c53ab0578e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107253",
+  "actresses": []
+};

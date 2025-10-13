@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/28/aff40364/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75325,
+  "IDcode": "MXGS-423",
+  "title": "由奈可愛來幫你的自慰猛烈助陣",
+  "publish_date": "2012-06-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "高中女生",
+    "主观视角",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75325",
+  "actresses": [
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75325&name=由爱可奈"
+    }
+  ]
+};

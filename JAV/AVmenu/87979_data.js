@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230901/8qDzCtIg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87979,
+  "IDcode": "GANA-1387",
+  "title": "コスプレカフェナンパ 23",
+  "publish_date": "2017-06-11",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "角色扮演",
+    "颜射",
+    "屁股",
+    "潮吹",
+    "业余",
+    "女优按摩棒",
+    "猎艳",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/7345f1143753b45278243dfa16d674e0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87979",
+  "actresses": []
+};

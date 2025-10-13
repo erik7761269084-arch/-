@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220715/3378871F794681D0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54418,
+  "IDcode": "21F344EB145D28D57AE6AEAF15AC04DC",
+  "title": "男を手玉にとる小悪魔熟女ととことんヤリまくる シリーズ特設",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54418",
+  "actresses": []
+};

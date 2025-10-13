@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/29/8218ee37/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105654,
+  "IDcode": "NACR-769",
+  "title": "可愛い年下M男くんに熟練テクで痴女責め！甘サド美熟女 よしい美希 パンティと生写真付き",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "M男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105654",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105654&name=左慈半造"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105654&name=しみけん"
+    },
+    {
+      "name": "伊沢凉子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105654&name=伊沢凉子"
+    }
+  ]
+};

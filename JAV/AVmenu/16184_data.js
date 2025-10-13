@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2dd2e84-5ba3-4e71-9d30-156c349156d7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16184,
+  "IDcode": "SDAM-092",
+  "title": "夏日祭的女孩們太可愛了。 [包括能夠將其帶入帳篷的2人以及發生性關系的3人]",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "中出",
+    "素人",
+    "口交",
+    "性感",
+    "感謝祭",
+    "艷遇",
+    "癡女",
+    "野外露天",
+    "節日限定"
+  ],
+  "description": "SDAM-092为SOD出品,2024年2月20日发行的有碼成人影片\n想在夏日祭典上與女孩發生性關系?一個非常性感且衣着考究的女孩正在發燒。一個女孩因爲穿着最喜歡的樂隊的 T 恤而生氣。一個女孩隨着節拍搖擺屁股。那件衣服的另一面是一具被汗水悶溼的健康身體。變得開放的女孩子應該比平時更淫蕩吧！我們在會場接女孩並在帳篷裏做愛。總共有 5 名素人女孩。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220011122743743.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240220/20240220011122743743.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16184",
+  "actresses": []
+};

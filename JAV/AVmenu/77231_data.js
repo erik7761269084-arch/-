@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/ObzNuJor/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77231,
+  "IDcode": "ONSG-021",
+  "title": "巨乳デリヘル SARA",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "Gain Corporation",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/79ea6566bac368e930ca6d09288d701f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77231",
+  "actresses": [
+    {
+      "name": "藤咲サラ",
+      "img_url": "https://picture.yoshiclub.xyz/20230711/804df7ee-bd08-4df7-a361-629e90f54619.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77231&name=藤咲サラ"
+    }
+  ]
+};

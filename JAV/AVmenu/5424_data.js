@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f8e94c1-dc46-4b58-81ba-129b0bc2fd84/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5424,
+  "IDcode": "SDMUA-089",
+  "title": "港區拜金女敢瞧不起我？洗腦催眠把她變成性愛玩偶隨便幹 ~ 本多そら",
+  "publish_date": "2025-06-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "調教",
+    "凌辱",
+    "中出",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "催眠",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "白絲",
+    "迷姦",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "拜金女",
+    "女僕制服",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "辦公室",
+    "猥褻穿著",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "COSPLAY服飾",
+    "無毛",
+    "羞恥",
+    "報復"
+  ],
+  "description": "SDMUA-089为SOD出品,2025年6月10日发行的有碼成人影片由本多そら出演\n本多そら是個一心想嫁給高學歷高收入男的港區拜金妹。結果在聯誼會上完全無視了大手商社的高管田中。這傢伙是個陰暗的收藏真人娃娃的怪人，對そら的執念越來越深，直接變身跟蹤狂！他搞了個本多真人娃娃計畫，用洗腦關鍵詞‘可愛小偶像’把そら的人生徹底毀掉，調教成肉便器娃娃。快來看這場墮落的狂熱大戲！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192831259259_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192831259259_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5424",
+  "actresses": [
+    {
+      "name": "本多そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/34c58f9a-2364-4dc8-b06e-e050bb72390e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5424&name=本多そら"
+    }
+  ]
+};

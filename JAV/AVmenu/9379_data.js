@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e78afb47-38b0-4d31-8191-ccc593b3add8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9379,
+  "IDcode": "NACR-896",
+  "title": "十年後再次重逢曾經的清楚系同學，變成了性感放蕩的女人！ ~ 望月蕾",
+  "publish_date": "2025-01-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美人",
+    "美少女電影",
+    "同學"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/526b86dd-672c-4f89-8f04-224b6ad1d5c0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/526b86dd-672c-4f89-8f04-224b6ad1d5c0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9379",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9379&name=望月蕾"
+    }
+  ]
+};

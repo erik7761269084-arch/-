@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f8dd007-2f9b-4217-9898-9a57e08e1668/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18384,
+  "IDcode": "NEOB-014",
+  "title": "僅限會員！訂閱變態開放沙龍 Maika Nizumi",
+  "publish_date": "2023-10-27",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "淫亂",
+    "巨尻",
+    "吞精",
+    "深喉",
+    "變態",
+    "魔鬼系",
+    "中出",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "監禁"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010004123328328.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231010/20231010004123328328.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18384",
+  "actresses": [
+    {
+      "name": "日泉舞香",
+      "img_url": "https://picture.yoshiclub.xyz/20230623/4828b925-2cbd-4595-8abd-1a02291e45d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18384&name=日泉舞香"
+    }
+  ]
+};

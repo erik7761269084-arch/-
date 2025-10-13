@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/024519d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59786,
+  "IDcode": "IQQQ-45",
+  "title": "- 声が出せない絶頂授業で10倍濡れる人妻教師 咲原いおな - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59786",
+  "actresses": []
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bc7a76c5-3dc4-4339-87f2-c3c6f229b31e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/30/2b74904a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17373,
+  "IDcode": "SSIS-974",
+  "title": "頂級女演員葵司近10年來最危險的性交，限制陰道，使陰蒂、乳頭、子宮興奮到嚴重失禁的地步",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "女上位",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "巨乳",
+    "按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231209/9cc242b5-9f0a-4a63-8212-8ba6a2bb5e66.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231209/9cc242b5-9f0a-4a63-8212-8ba6a2bb5e66.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17373",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17373&name=葵司"
+    }
+  ]
+};

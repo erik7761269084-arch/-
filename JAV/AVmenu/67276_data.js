@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250430/MeENBhwW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67276,
+  "IDcode": "CAWD-402",
+  "title": "男心を揺さぶる卑猥エロきゃわ衣装＆ぷにぷにパイパンおま●こで連続ヌキヌキしてくれる凄テク風俗フルコース 天音ゆい",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫语",
+    "主观视角",
+    "礼仪小姐",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67276",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67276&name=鲛岛"
+    },
+    {
+      "name": "天音ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67276&name=天音ゆい"
+    }
+  ]
+};

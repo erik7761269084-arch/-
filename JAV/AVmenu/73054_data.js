@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250127/GpQ9Y46G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73054,
+  "IDcode": "URLH-018",
+  "title": "おっぱいで超誘惑してくる新人セクキャバ嬢 稲場るか",
+  "publish_date": "2020-08-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/ecefd2da5d308b261d0b139443d7a8f4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73054",
+  "actresses": [
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73054&name=稻场流花"
+    }
+  ]
+};

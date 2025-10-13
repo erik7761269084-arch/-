@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240226/x4x8OVnF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119359,
+  "IDcode": "FC2-4291991",
+  "title": "【無】記念すべき人生の初イキを撮っちゃいました！あのS級色白美肌の素人美女に再会！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119359",
+  "actresses": []
+};

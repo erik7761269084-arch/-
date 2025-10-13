@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/49ac1f47-07aa-4c8f-b3b9-54a56b351af8/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250403/zc7y7Rnm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17809,
+  "IDcode": "IPX-911",
+  "title": "與討厭到死的公司上司出差在溫泉旅館住同房… 被醜陋絶倫大叔搞到持續高潮的我。神菜美舞",
+  "publish_date": "2022-08-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "流汗",
+    "中出",
+    "OL",
+    "口交",
+    "性感",
+    "女同事",
+    "出軌",
+    "出差",
+    "溫泉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231117/20231117001403788788.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231117/20231117001403788788.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17809",
+  "actresses": [
+    {
+      "name": "神彩美舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230926/baf74b83-5b89-41b3-aeab-c2493ad0f1da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17809&name=神彩美舞"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36c8b402-5e7b-4aa6-9a51-c3b4974c1d0c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/014c5b46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7194,
+  "IDcode": "NPJS-165",
+  "title": "想跟某高級酒廊No.1的超正妹開幹 在高檔餐廳吃飯後酒店套房續攤，微醉甜蜜過夜中出性愛 ~ 小野阪唯香",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "應召・援交",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "口爆",
+    "拜金女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "陪酒女",
+    "飯店"
+  ],
+  "description": "NPJS-165为NAPA-JAPAN出品,2025年4月1日发行的有碼成人影片由小野坂唯香出演\n我去了某個高檔酒廊，喝了很多次香檳，最後才得到慶功宴！我絕對想這麼做！把所有人都矚目的高不可攀的美女 Yuika 喝醉並帶她回酒店！她有著友善的微笑，從衣服下的隆起可見她的胸圍，估計有G罩杯。 「很特別……」微醺中展現可愛一面的美女在飯店做愛，還讓我赤裸裸地做，反覆在她體內射精，直到天亮！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083107243243.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327083107243243.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7194",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7194&name=小野坂唯香"
+    }
+  ]
+};

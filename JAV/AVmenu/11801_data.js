@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2e859548-ca99-4f72-8b86-12f07fd8cb68/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/19/2960b835/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11801,
+  "IDcode": "MKMP-579",
+  "title": "性欲MAX，超肉感的爆乳S妻瘋狂無止鏡的精液榨取！捕食M男！ ~ 真木今日子 吉根柚莉愛 櫻千奈美",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "黑絲",
+    "貴婦",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "慾求不滿",
+    "多P",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "雙飛",
+    "巨乳",
+    "出軌",
+    "兩女一男",
+    "M男・M女",
+    "NTR",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240921/eb8b9382-c86a-46c4-929d-9270d5e12e2b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240921/eb8b9382-c86a-46c4-929d-9270d5e12e2b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11801",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11801&name=吉根柚莉爱"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11801&name=真木今日子"
+    },
+    {
+      "name": "櫻千奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240321/eadac7e8-457d-4a69-a33a-40082814c3db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11801&name=櫻千奈美"
+    },
+    {
+      "name": "ちなみん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11801&name=ちなみん"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59085,
+  "IDcode": "032321_001",
+  "title": "032321_001 まんチラの誘惑 〜パイパンで誘惑アナル中出し〜",
+  "publish_date": "2021-03-23",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "69",
+    "滥交",
+    "其他",
+    "立即口交",
+    "淫荡手淫",
+    "打手枪",
+    "颜射",
+    "口爆/吞精",
+    "美乳",
+    "白虎",
+    "苗条",
+    "颜射",
+    "美脚",
+    "中出",
+    "角色扮演",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59085",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c36dd7c-69c5-4c16-983b-6b9c30b7ebbe/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16890,
+  "IDcode": "IPZZ-183",
+  "title": "如果你能忍受朝日莉緒的激情口交5分鍾，你就可以和他無限次做愛！口交最強女優朝日莉緒！",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "接吻",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "巨乳"
+  ],
+  "description": "IPZZ-183为IDEA POCKET出品,2024年1月9日发行的有碼成人影片由朝妃莉緒出演\n如果能忍受朝日莉緒口交5分鍾，馬上就可以和「朝日莉緒」做愛！ ？一羣想要操的素人的聚會！真空口交（嚴重）爆炸！ ！ 5分鍾內口交沒有射精！ ？ 「我會給普通人口交」「Rio」逼近素人！時間限制：5分鍾！ ！我對裏朝日莉緒的口交感到痛苦！ ？舔乳頭！舔陰戶！舔棒子！巧妙技巧的大釋放！ ！忍耐的強者用猛烈的活塞讓AV女優高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106041907164164.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/20240106041907164164.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16890",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16890&name=朝妃莉緒"
+    }
+  ]
+};

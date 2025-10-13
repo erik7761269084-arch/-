@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/25/89b48975/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91435,
+  "IDcode": "CJOD-392",
+  "title": "汗だく性欲まみれ痴女！脱獄犯に強●中出しで犯●れちゃったボク…11 竹内有紀",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "口交",
+    "流汗",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240501-1/a700265cd9689a501b28c14dab93b0d4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91435",
+  "actresses": []
+};

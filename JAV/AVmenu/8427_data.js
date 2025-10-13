@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c4026ae4-70c2-4b98-90fc-ebda75dfa05a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/e8105c45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8427,
+  "IDcode": "SONE-586",
+  "title": "人生最高的射精體驗 ULTRA VIP GRAVURE 風俗10 with 4K ~ 金鬆季步",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SONE-586为S1出品,2025年2月11日发行的有碼成人影片由金松季歩出演\n使用4K設備錄製！終極服務，10次無限射精！ VVVIP色情產業x金松常步！美麗、真誠、刺激，這是只有上流社會才能享受到的終極奢華。演藝圈當紅的寫真偶像的貼心服務和神技都發揮到了極致…十大豪華妓院，滿足你的每一個願望！巨乳酒吧、粉紅沙龍、男士按摩店、SM俱樂部、自慰俱樂部、制服足療、送貨上門、形象俱樂部、虐戀感官、肥皂樂園……被盯著的激情接吻、乳交、口交、女上位、男性潮吹等等，華麗無比、專業技術透徹。讓你所有願望都成真的終極技巧！凝聚了人類所感受到的所有快感的完整的性服務！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206074922288288.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206074922288288.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8427",
+  "actresses": [
+    {
+      "name": "金松季歩",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/e5c09747-beb8-4c07-ab37-76f71e729b61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8427&name=金松季歩"
+    }
+  ]
+};

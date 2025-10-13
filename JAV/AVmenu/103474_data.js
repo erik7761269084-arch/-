@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231029/b7sAW5GV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103474,
+  "IDcode": "MAAN-905",
+  "title": "- 【絶対に電マを手放さないッ！美麗！神スレンダーOL】モデルと見まがう長身スレンダー美女は電マを愛する快楽狂！？最初から最後まで電マ尽くし！6本の電マが感度抜群のカラダに襲い掛かる！！MAXパワーの電マ刺激にマ●コ決壊→大量スプラッシュ！電マをクリに当てながら生ハメピストン鬼イカセ！完全ノンストップ中出し顔射3連発！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～123発目＞【もえか】 - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-17",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "玩具",
+    "苗条",
+    "潮吹",
+    "业余",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103474",
+  "actresses": [
+    {
+      "name": "もえか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103474&name=もえか"
+    }
+  ]
+};

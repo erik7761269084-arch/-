@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240502/6YLed4Ka/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91442,
+  "IDcode": "EBOD-750",
+  "title": "顔面オニかわ！円形エロ巨乳！ポジティブ元気！こんな娘のSEXが見たかった…一般女子大生のぞみ（19歳）Debut",
+  "publish_date": "2020-06-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "潮吹",
+    "口交",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91442",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91442&name=石原希望"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91442&name=玉木玲"
+    }
+  ]
+};

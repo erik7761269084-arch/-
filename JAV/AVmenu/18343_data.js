@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ce095b10-4971-4819-aedb-1cc611011c9c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/27/563dd8ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18343,
+  "IDcode": "STARS-932",
+  "title": "射精依賴改善治療中心新醫務人員A女士將為性慾異常患者提供幫助",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "兩男一女",
+    "女醫生",
+    "口爆",
+    "多P",
+    "手指插入",
+    "兩女一男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013041354388388.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231013/20231013041354388388.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18343",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18343&name=青空光"
+    }
+  ]
+};

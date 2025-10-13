@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/oqYXyQcC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76741,
+  "IDcode": "OYC-243",
+  "title": "ボク、妹に飼育されています。",
+  "publish_date": "2019-03-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "淫乱，真实",
+    "乱伦",
+    "妹妹",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76741",
+  "actresses": []
+};

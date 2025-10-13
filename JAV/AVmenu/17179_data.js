@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4d245050-304c-4265-8b25-3d5530d247ca/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/08/91865966/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17179,
+  "IDcode": "NACR-740",
+  "title": "我想有人玩弄我的的乳頭！滿足素人受虐狂男人的願望，甜美蕩婦女孩！！富岡亞里沙",
+  "publish_date": "2023-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "美腳",
+    "情趣內衣",
+    "巨乳",
+    "M男・M女"
+  ],
+  "description": "NACR-740为PLANETPLUS出品,2023年12月20日发行的有碼成人影片由富岡亞里沙出演\n人氣女星「富岡亞里沙」帮素人男子解决烦恼！一個男人因為無法告訴女友他實際上有受虐慾望而感到困擾。為了解決他的煩惱，他也是亞里沙的粉絲，當他玩弄她的乳頭時，亞里沙也變得興奮！？他的煩惱會得到解決嗎？\n人氣女星「富岡亞里沙」帮素人男子解决烦恼！一個男人因為無法告訴女友他實際上有受虐慾望而感到困擾。\n為了解決他的煩惱，他也是亞里沙的粉絲，當他玩弄她的乳頭時，亞里沙也變得興奮！？他的煩惱會得到解決嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/20231220/b6bb26b0-8cac-4c71-891b-26ba240c75ff.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/b6bb26b0-8cac-4c71-891b-26ba240c75ff.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17179",
+  "actresses": [
+    {
+      "name": "富岡亞里沙",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/5e088a12-6398-4dc2-ae80-e63d5428e00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17179&name=富岡亞里沙"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17179&name=まーち"
+    }
+  ]
+};

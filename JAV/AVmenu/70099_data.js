@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/zlUHfoNR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70099,
+  "IDcode": "XVSR-491",
+  "title": "濃交 涼宮琴音の真性中出しSPECIAL",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "中出",
+    "苗条",
+    "潮吹",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/7b781f8796ab5eefc42ad73fc22571e3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70099",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70099&name=タツ"
+    },
+    {
+      "name": "凉宫琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70099&name=凉宫琴音"
+    }
+  ]
+};

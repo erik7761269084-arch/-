@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/10/31/48014e24/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77137,
+  "IDcode": "NHDTA-805",
+  "title": "扉を開けたらお姉ちゃんが手を使わないフェラの練習中！初めて見た姉の舌使いに欲情した弟は抑えがきかず禁断の近親相姦",
+  "publish_date": "2016-04-07",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "乱伦",
+    "企画",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77137",
+  "actresses": [
+    {
+      "name": "石田美久",
+      "img_url": "https://picture.yoshiclub.xyz/20240301/503ca6d6-00d9-44c7-bd68-cb8536c2a627.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77137&name=石田美久"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77137&name=麻里梨夏"
+    },
+    {
+      "name": "白石悠",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/20597ffdd2570578748c2927020d67d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77137&name=白石悠"
+    }
+  ]
+};

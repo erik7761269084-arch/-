@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/SpXkBFq4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77078,
+  "IDcode": "MIAE-224",
+  "title": "毎日クラスメート全員のペニスを喰っちゃう！おしゃぶりごっくんギャル同級生 冴木エリカ",
+  "publish_date": "2018-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "女生",
+    "口交",
+    "吞精",
+    "数位马赛克",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77078",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77078&name=鲛岛"
+    },
+    {
+      "name": "冴木エリカ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77078&name=冴木エリカ"
+    }
+  ]
+};

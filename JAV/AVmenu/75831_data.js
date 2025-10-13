@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241217/aiRLu93D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75831,
+  "IDcode": "ARM-836",
+  "title": "バレないようにこっそり見せつけ こっそりドキドキパンチラ挑発",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "荡妇",
+    "迷你裙",
+    "主观视角",
+    "猥亵穿着",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75831",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75831&name=皆月光"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75831&name=富田优衣"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75831&name=香苗レノン"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75831&name=优梨まいな"
+    },
+    {
+      "name": "佐原由纪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75831&name=佐原由纪"
+    }
+  ]
+};

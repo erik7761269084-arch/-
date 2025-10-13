@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/31/4abc105e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96377,
+  "IDcode": "KSBJ-318",
+  "title": "義父と妊活 種なし息子の嫁の誘惑 響乃うた",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "苗条",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/31/f648330ff7e9bd9c8ec5a404fffbdcc2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96377",
+  "actresses": [
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96377&name=響乃詩"
+    }
+  ]
+};

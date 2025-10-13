@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/3kD8OjTl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84406,
+  "IDcode": "EBOD-923",
+  "title": "【FANZA限定】初めて出来た彼女を脱がしたら…着衣から想像できない物凄いスリム美巨乳大興奮の僕は性欲尽きるまでハメまくった 綾瀬こころ 生写真3枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女上位",
+    "苗条",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230109-1/a1420ca2b6009759bf467353330bdf0b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84406",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84406&name=绫濑心"
+    }
+  ]
+};

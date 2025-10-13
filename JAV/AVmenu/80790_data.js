@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/6DLtJf8p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80790,
+  "IDcode": "JUFE-368",
+  "title": "1日1組限定の隠れ宿！ 常に若女将が密着つきっきりで丁寧に貴方の肉棒をもてなす最高の射精旅館 桃園怜奈",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "巨大屁股",
+    "老板娘，女主人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80790",
+  "actresses": [
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80790&name=桃園怜奈"
+    }
+  ]
+};

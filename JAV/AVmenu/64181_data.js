@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220725/3768789FA703354B/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64181,
+  "IDcode": "7B11CD8D2866834F899E2D1E0F8A-9570",
+  "title": "【朗报】＃ロ○○ンおじさんを100％受け入れてくれるパイパンでおっぱい小ちゃ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64181",
+  "actresses": []
+};

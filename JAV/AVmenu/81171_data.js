@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/czoNubWC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81171,
+  "IDcode": "JUFE-379",
+  "title": "1日1組限定の隠れ宿！ 常に若女将が密着つきっきりで丁寧に貴方の肉棒をもてなす最高の射精旅館 松本菜奈実",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女上位",
+    "老板娘，女主人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81171",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81171&name=松本菜奈実"
+    }
+  ]
+};

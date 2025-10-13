@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/11/eb67fe67/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78453,
+  "IDcode": "IPZ-820",
+  "title": "癡女護士愛口爆 百合咲潤美",
+  "publish_date": "2016-09-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "荡妇",
+    "数位马赛克",
+    "护士",
+    "女医生",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241123-1/b061eec5e2e60c32ae461433ee6da8c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78453",
+  "actresses": [
+    {
+      "name": "百合咲うるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/4170ccb6-1207-49ef-bcff-185a773f8940.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78453&name=百合咲うるみ"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78453&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78453&name=玉木玲"
+    }
+  ]
+};

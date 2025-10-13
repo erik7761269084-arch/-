@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241218/ChNpRC5g/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76232,
+  "IDcode": "EQ-507",
+  "title": "コタツの中で内緒で悪戯「ちょっと！？彼氏に気づかれちゃうよぉ！」カレの友人に寝取られ本気で生SEX！3",
+  "publish_date": "2020-03-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "女大学生",
+    "姐姐",
+    "乳房",
+    "恶作剧",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76232",
+  "actresses": []
+};

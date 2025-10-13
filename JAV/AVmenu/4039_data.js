@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c83408f2-5bca-44f6-bdcf-26c9a1994fe0/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/dad3d482/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4039,
+  "IDcode": "SAN-373",
+  "title": "寵物兔子突然變身巨乳美女 ~ 有馬美玖",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "單體作品",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "大奶头",
+    "豐滿"
+  ],
+  "description": "SAN-373为マザー出品,2025年7月29日发行的有碼成人影片由有馬美玖出演\n有一天，家里养的小兔子竟然变成了一个大胸妹子！这事听起来离谱，但真的发生了！她不仅会用小嘴伺候，还能直接上阵，体验后才发现她真的是个女人，简直太刺激了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203549720720_14882_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203549720720_14882_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4039",
+  "actresses": [
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4039&name=有馬美玖"
+    }
+  ]
+};

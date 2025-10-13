@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/35d34a12-984f-46ae-87ed-f75eb0085448/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/x1R4o2pp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12657,
+  "IDcode": "MUDR-274",
+  "title": "實習女生-性騷擾、與老板同房三天兩夜、口水沾臉舔、中出深喉NTR ~ 久和原聖羅",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "老頭子",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "接吻",
+    "實習生",
+    "美腳",
+    "美少女",
+    "清純",
+    "女同事",
+    "手指插入",
+    "女體盛",
+    "抹油",
+    "NTR",
+    "出差",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MUDR-274为無垢出品,2024年8月20日发行的有碼成人影片由久和原聖羅出演\n我要向不懂社會的女實習生傳授嚴厲！他所住的客棧裡到處都是一個中年男子，身體的每個部位，包括嘴唇、臉、陰部，甚至鼻孔，都沾滿了汁液，全身都沾滿了口水。儘管我有男朋友，但我父親的舔技讓我抽搐並達到高潮！終極令人毛骨悚然的老人x女學生舔戀物癖工作。創下了系列中口水量最高的成績！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816001520943943.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240816/20240816001520943943.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12657",
+  "actresses": [
+    {
+      "name": "久和原聖羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231226/cb1705e9-bd24-4056-bd4f-99cb7c6bb505.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12657&name=久和原聖羅"
+    }
+  ]
+};

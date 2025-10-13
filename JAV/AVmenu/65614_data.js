@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65614,
+  "IDcode": "441D3E170D3B0C7EF6BD5F37A327DAD7",
+  "title": "変态は変态を引き寄せる。耻ずかしすぎる肉便器NH大学生 天使结良",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65614",
+  "actresses": []
+};

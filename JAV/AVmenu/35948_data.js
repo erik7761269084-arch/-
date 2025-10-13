@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/98448EEE36F1B704/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35948,
+  "IDcode": "F68947760C73CE9AF433E351482809E-5",
+  "title": "お願いだからブチ込んでください～裸で土下座する淫乱痴女～美原咲子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "ATTACKERS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35948",
+  "actresses": []
+};

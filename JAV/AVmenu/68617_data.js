@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250408/WeckqNcl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68617,
+  "IDcode": "MKMP-493",
+  "title": "哭哭系女子的融化般甘甜玩弄乳頭最棒啦！玩弄乳頭爆擼微醺逆搭訕 彌生美月",
+  "publish_date": "2022-11-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "荡妇",
+    "潮吹",
+    "倒追",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68617",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68617&name=弥生美月"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/7FXR3lRY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90575,
+  "IDcode": "OPPW-152",
+  "title": "声優目指していたバイの男の娘♂本当はAV女優になることが夢でした。 橘花いろは",
+  "publish_date": "2023-10-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "肛交",
+    "首次亮相",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/521bdb6a6dd1ea7b7d99ea083e154400.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90575",
+  "actresses": [
+    {
+      "name": "橘花いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90575&name=橘花いろは"
+    }
+  ]
+};

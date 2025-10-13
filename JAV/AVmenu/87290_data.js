@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/qQkCoaE2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87290,
+  "IDcode": "BMW-262",
+  "title": "ムチムチ美女と汗だく密着中出し50本番BEST",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "女上位",
+    "巨大屁股",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87290",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=姫咲華"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=藤森里穂"
+    },
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=JULIA"
+    },
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=佐山爱"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=沙月芽衣"
+    },
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=妃光莉"
+    },
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=蕾"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=安倍亜沙美"
+    },
+    {
+      "name": "飞鸟りいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87290&name=飞鸟りいな"
+    }
+  ]
+};

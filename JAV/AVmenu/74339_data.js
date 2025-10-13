@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/06/526ede18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74339,
+  "IDcode": "FSDSS-929",
+  "title": "推しッコス 絵恋空 パンティと写真付き",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "放尿",
+    "角色扮演者",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/08/029af673c782187e180f8801efdc7846.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74339",
+  "actresses": [
+    {
+      "name": "繪戀空",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/9211d635-9c38-4454-9aae-e61816376b07.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74339&name=繪戀空"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74339&name=小田切ジュン"
+    }
+  ]
+};

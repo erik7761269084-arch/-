@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f4fc00fa-5f85-4d2c-969b-288cc3d1e578/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/14/221cae4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19150,
+  "IDcode": "IPX-307",
+  "title": "舔到滴口水的癡女護士射精看護",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "醫院・診所",
+    "蕩婦",
+    "女上位",
+    "接吻",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230709/20230709233410871871.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230709/20230709233410871871.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19150",
+  "actresses": [
+    {
+      "name": "森澤理紗",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/a3c7dabf-4543-45e1-97fe-296f0dd80f6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19150&name=森澤理紗"
+    },
+    {
+      "name": "绫瀬ミレナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19150&name=绫瀬ミレナ"
+    }
+  ]
+};

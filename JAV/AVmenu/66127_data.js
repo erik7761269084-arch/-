@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/f11709f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66127,
+  "IDcode": "DVMM-245",
+  "title": "働く女AV出演ドキュメント 現役国際線キャビンアテンダント あすかさん（24歳）170cm高身長、Gカップ巨乳、デカ尻90cm、黒パンスト美脚―。マジックミラー便では口説けなかったハイスペックなCAが交渉の果てに最初で最後のAV DEBUT",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "中出",
+    "高",
+    "首次亮相",
+    "业余",
+    "空中小姐"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/12/1d31a6f9c057d52c44366c0e348dd1fa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66127",
+  "actresses": []
+};

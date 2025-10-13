@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240217/8USQb4qz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59013,
+  "IDcode": "082915-959",
+  "title": "女王のソープ 〜また来たの？今日は何されたいの？〜",
+  "publish_date": "2015-08-29",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "69",
+    "捆绑",
+    "立即口交",
+    "打手枪",
+    "口爆/吞精",
+    "美乳",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59013",
+  "actresses": []
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c68daf7f-c469-4515-83b6-bf3eb99cd41a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/02/be60c89b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2585,
+  "IDcode": "FOCS-273",
+  "title": "低身長美少女的性冷淡改善治療 M屬性徹底喚活！貧乳乳首，首絞，口爆，大潮吹施術！無毛小穴被中出內射大高潮！ ～ 三葉彌生",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "按摩・物理治療・美容",
+    "色白",
+    "蘿莉",
+    "中出",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "FOCS-273为妄想族出品,2025年9月18日发行的有碼成人影片由三葉彌生出演\n跟心爱的男友啪啪时总是感觉不到高潮，真的好烦恼啊…最近男友连不满都懒得藏了，我被逼到绝境，只好上网搜到一个专治不感症的M性感按摩店，决定去试试看。我也想爽到不行啊…抱着这样的心情接受治疗，没想到效果超棒，慢慢地连被老师内射都能爽到喷水，整个人都觉醒了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2585",
+  "actresses": [
+    {
+      "name": "三葉彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/9f34edd7-6d68-4c5b-9de2-65778b7812dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2585&name=三葉彌生"
+    }
+  ]
+};

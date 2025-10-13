@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230126/nlG8Hz0G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85642,
+  "IDcode": "MTALL-034",
+  "title": "おっぱい盛ってFcup人生送ってたら巨乳好きの彼氏できた…元カレ相談NTR×今彼汗ダク濃厚SEX 松本いちか",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "接吻",
+    "情侣",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85642",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85642&name=松本一香"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85642&name=タツ"
+    }
+  ]
+};

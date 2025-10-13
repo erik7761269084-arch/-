@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/21/03f821d6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92960,
+  "IDcode": "NACR-644",
+  "title": "玉が空っぽになるまで精液を搾りとる！出張オイルマッサージ 流川莉央 パンティと生写真付き",
+  "publish_date": "2023-03-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "乳液",
+    "礼仪小姐",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92960",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92960&name=岩下たろう"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b680024e-f78d-4125-890d-347fb75a5e22/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2877,
+  "IDcode": "SINN-040",
+  "title": "極道媚藥NTR 替身新妻太對胃口，忍不住刻下淫紋調教成專屬肉便器 ~ 鬆井日奈子",
+  "publish_date": "2025-09-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "媚藥・迷藥",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美人妻",
+    "鬼畜片",
+    "新娘",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "婚紗",
+    "NTR",
+    "美人",
+    "紋身刺字",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "SINN-040为妄想族出品,2025年9月5日发行的有碼成人影片由松井日奈子出演\n哎唷喂，這小媳婦也太正了吧！小弟惹事讓我善後，派來當家務替身的年輕老婆完全是我的菜！本來說好不動她的，但誰能憋得住啊？給她下媚藥，搞得她慾火焚身，刻下淫紋，汁水狂噴！逼她背叛老公，徹底照我的變態癖好調教，玩到她一臉癡態，嗷嗷叫著高潮！身體抖個不停，只要我一聲令下，連禁忌性愛和懷孕求饒都願意！從清純人妻墮落成我的專屬肉玩具，這地獄般的墮落過程真是爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212351543543_62336_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212351543543_62336_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2877",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2877&name=松井日奈子"
+    }
+  ]
+};

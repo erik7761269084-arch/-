@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/12/03c61d5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82908,
+  "IDcode": "XVSR-537",
+  "title": "泡姫桃源郷 生中出し出来るロリカワご奉仕ソープ嬢 永瀬ゆい",
+  "publish_date": "2020-04-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "中出",
+    "平胸",
+    "主观视角",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82908",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82908&name=永濑唯"
+    }
+  ]
+};

@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/19/13bf6f9a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86457,
+  "IDcode": "STARS-691",
+  "title": "即尺フェラご奉仕メイド どこでもすぐ即尺して、ずっとフェラチオしてくれる僕だけの可愛すぎるメイドのMINAMO",
+  "publish_date": "2022-12-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86457",
+  "actresses": []
+};

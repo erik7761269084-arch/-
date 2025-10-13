@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/2eP4efU5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78883,
+  "IDcode": "EBOD-275",
+  "title": "おっぱいぶるんぶるん性交 赤井美月",
+  "publish_date": "2013-05-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/cea87cb5e66a4af86ed24c969a043544.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78883",
+  "actresses": [
+    {
+      "name": "神无月れな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78883&name=神无月れな"
+    }
+  ]
+};

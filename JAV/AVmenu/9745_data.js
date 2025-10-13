@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d3a5e36-49e2-4eca-862e-9567d54886ab/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/027ba736/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9745,
+  "IDcode": "JUQ-979",
+  "title": "背德寢取影院，貞淑妻被低俗男醜陋的肉棒玷污 ~ 水戶香奈",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "變態",
+    "色白",
+    "中出",
+    "美腿",
+    "蒙面・面罩",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "美腳",
+    "奇聞趣事",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "公共場所",
+    "奇異的",
+    "M男・M女",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-979为MADONNA出品,2024年12月24日发行的有碼成人影片由水户香奈出演\n也許是我的妻子擔任人力資源顧問來支持工作變動。他們在一個安排好的日期相識，現在已經結婚七年了。目前兩人都以工作為主，已經兩年沒有挽過彼此的手臂了。我沒有正常的性慾，但出於某種原因，我注意到，當我幻想我的妻子被某人抱著時，我會感到奇怪的興奮，並有一種想要戴綠帽子的慾望。隨著我的慾望與日俱增，我說服了不情願的妻子帶我去一個野蠻男人出沒的色情電影院…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/202412180958528585.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/202412180958528585.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9745",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9745&name=水户香奈"
+    }
+  ]
+};

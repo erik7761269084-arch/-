@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ae88453-30d2-46cc-925d-12e88d241531/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14,
+  "IDcode": "1PON-010118_001",
+  "title": "反轉姿勢玩弄後庭口暴超爽 ~ 三崎りえ",
+  "publish_date": "2017-12-01",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "後入",
+    "肛交",
+    "69",
+    "劇情",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "顔面騎乘",
+    "舔陰",
+    "打手槍",
+    "口爆",
+    "巨乳",
+    "手指插入",
+    "美人"
+  ],
+  "description": "1PON-010118_001为一本道出品,2017年12月1日发行的無碼成人影片\n外表看起來超兇又辣的性感小野貓，竟然對男人服務得無微不至，簡直是極致寵愛！別看她一臉不屑伺候人的樣子，卻主動挑逗說：Rie 要舔你後庭讓你爽翻天！從龜頭到蛋蛋，再把男人翻成羞恥姿勢，舌頭在後庭又是舔又是吸，玩得那叫一個銷魂。接著，她撥開自己那片沒修剪的茂密叢林，直接坐臉騎乘，扭腰擺臀，換成69姿勢繼續瘋狂舔弄後庭，最後用手活直接榨乾男人的精華！這小姐姐服務態度真的是絕了，堪稱女中豪傑，趕快來一窺究竟啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074541920920_66347_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074541920920_66347_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14",
+  "actresses": []
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/08/78b05f56/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87967,
+  "IDcode": "ABW-289",
+  "title": "俺の従順ペット候補生 05 和久井美兎【MGSだけのおまけ映像付き+5分】",
+  "publish_date": "2022-10-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "SM",
+    "拘束",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230828-1/de7f305195a348ded22be38bca8916a1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87967",
+  "actresses": []
+};

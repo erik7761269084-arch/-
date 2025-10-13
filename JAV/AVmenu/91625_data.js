@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/08/b10f7cac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91625,
+  "IDcode": "JUQ-359",
+  "title": "超ド級グラマラスHcup豊満ボディ Madonna電撃移籍！！ 昔は細身で地味だったのに…再会したらムッチムチで性欲旺盛な幼馴染の豊満な肉体に僕の精子は限界まで搾り取られてしまった。 藤沢麗央",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240519-1/66bc3ed56ac6b8a23d7b0ee2479d2fed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91625",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91625&name=藤沢麗央"
+    }
+  ]
+};

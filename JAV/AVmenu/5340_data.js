@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/92334dfb-5bee-41f4-a1e3-bcc40a76d383/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/4e98ef5b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5340,
+  "IDcode": "MIDA-205",
+  "title": "從龜頭到屁眼被舔得嗷嗷叫，猛烈口爆後瘋狂顏射10發 ~ 夕月悠琉",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "肛交",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "調教",
+    "深喉",
+    "色白",
+    "凌辱",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "插入異物",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDA-205为MOODYZ出品,2025年6月13日发行的有碼成人影片由夕月悠琉出演\n被各種花式口技伺候到爽歪歪後，就想對這張超萌小臉狠狠來一發！從龜頭舔到蛋蛋再到後庭，舌頭舔得你腿軟，20歲的新人小妹第二部就直接全臉接射！10發濃精全被她那張可愛小臉蛋接住，超有感！肉棒、蛋蛋、後庭都舔得超賣力，舔到你心癢癢！主觀視角下被她舔到起飛，和大叔舌吻纏綿，三根大肉棒連續顏射，四位男優圍著她狂噴濃精！甚至一邊被插一邊臉上還被射滿，超刺激！這些大叔憋了一個月的濃厚精華，全都被她小臉蛋接下，羞澀又撩人，真的太讚了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061105594594_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061105594594_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5340",
+  "actresses": [
+    {
+      "name": "夕月悠琉",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250515/725ac66a-25a2-45b8-b511-460abf5b167c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5340&name=夕月悠琉"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5340&name=ナイアガラ翔"
+    }
+  ]
+};

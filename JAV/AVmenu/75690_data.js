@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/22/7a702f5b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75690,
+  "IDcode": "HND-786",
+  "title": "「早く、孕みたいなぁ…」 ある日女性の心の声が聞こえる能力を手に入れた僕は、担任女教師の孕みたい妄想を叶えてあげることにした！！ 凛音とうか",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "学校作品",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/b36ce1c7088c978cda2eb9a967ca2d99.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75690",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75690&name=凛音とうか"
+    }
+  ]
+};

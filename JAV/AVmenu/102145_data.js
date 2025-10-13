@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240525/w9Xt99rF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102145,
+  "IDcode": "DANDY-568",
+  "title": "「早漏の相談中に我慢できず暴発したら優しくゆっくり改善セックスしてくれた看護師さん」VOL.2",
+  "publish_date": "2017-09-07",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "4小时以上作品",
+    "制服",
+    "口交",
+    "企画",
+    "手淫",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy568/1dandy568pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102145",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102145&name=佐倉陽菜"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102145&name=安部未華子"
+    },
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102145&name=霧島さくら"
+    },
+    {
+      "name": "吉川爱美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/吉川あいみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102145&name=吉川爱美"
+    }
+  ]
+};

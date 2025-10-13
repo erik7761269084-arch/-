@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a042268e-b172-480e-80a9-3b04af9d9c73/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/28/fc229913/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6617,
+  "IDcode": "PFES-104",
+  "title": "心軟又超開放的護士小姐姐們！幫Z世代早泄小哥哥找回自信，借口性愛教學來一場實戰大挑戰！能夠讓小哥哥射就可以拿100萬大獎",
+  "publish_date": "2025-04-25",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "劇情",
+    "中出",
+    "美乳",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "護士制服",
+    "清楚系",
+    "清純",
+    "美人",
+    "真實拍攝",
+    "心理驚悚",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "PFES-104为HAJIME-KIKAKU出品,2025年4月25日发行的有碼成人影片\n支持那些想H卻H不了的性愛難民特別企劃！邀請了一羣有故事的久未開葷的男女來公開進行性愛訓練！忙到沒時間H的護士小姐姐，和對性愛有陰影的早泄小哥哥一起挑戰實戰訓練！讓欲求不滿的護士小姐姐當導師，教導性技超爛想升級的早泄小哥哥，如何一步步實戰教學直接開幹！？剛學會幾招的早泄小哥哥，能用新學的牀上技巧把欲求不滿的護士小姐姐送上高潮嗎！？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205548754754_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205548754754_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6617",
+  "actresses": []
+};

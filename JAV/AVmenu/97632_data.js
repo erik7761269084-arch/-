@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220411/BF4D258A075256E1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97632,
+  "IDcode": "RDT-216",
+  "title": "偶然見かけた貧乳女子がまさかのノーブラ！？見られる事に興奮した彼女の敏感乳首はビンビンに立っていて… 2",
+  "publish_date": "2015-03-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "苗条",
+    "业余",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97632",
+  "actresses": [
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97632&name=麻里梨夏"
+    },
+    {
+      "name": "真野優莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/8d975f7e-0c93-4ebd-905f-cd0c26b11135.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97632&name=真野優莉亞"
+    }
+  ]
+};

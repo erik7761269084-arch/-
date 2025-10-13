@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240331/h4x4Wd18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101614,
+  "IDcode": "AV-172",
+  "title": "夫に売られた妻 柏木舞子",
+  "publish_date": "2017-08-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "潮吹",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_186av172/h_186av172pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101614",
+  "actresses": [
+    {
+      "name": "望月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101614&name=望月"
+    },
+    {
+      "name": "柏木舞子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101614&name=柏木舞子"
+    }
+  ]
+};

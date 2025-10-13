@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20240923/CzZvV8Yc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58115,
+  "IDcode": "053122-001",
+  "title": "ピチピチ美人女子大生とチュッパチュッパSEX",
+  "publish_date": "2022-05-31",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "国外进口",
+    "巨乳",
+    "口交",
+    "手指插入",
+    "吞精",
+    "立即口交",
+    "美乳",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230825-1/84364878f58494a4fafc4f288935104e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58115",
+  "actresses": [
+    {
+      "name": "架純",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58115&name=架純"
+    }
+  ]
+};

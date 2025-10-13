@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250303/7MuJwOFZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71036,
+  "IDcode": "IENE-743",
+  "title": "音海さや ちっちゃいロリ巨乳と子作り新婚生活",
+  "publish_date": "2017-01-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "萝莉塔",
+    "水手服",
+    "裸体围裙",
+    "女佣",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250304-1/2e1cd54fa5f85357eeace37a478b3cac.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71036",
+  "actresses": [
+    {
+      "name": "音海さや",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71036&name=音海さや"
+    }
+  ]
+};

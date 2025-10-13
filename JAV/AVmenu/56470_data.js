@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56470,
+  "IDcode": "E5B3FB5828B041DEC03671EB9D3810D6",
+  "title": "漂亮小姐姐骚屄我也想舔",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56470",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/9Sp2XbLg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71054,
+  "IDcode": "DVDMS-372",
+  "title": "先輩の自慢の色白デカ尻彼女に3日間ずっと生ハメしまくって何度も中出しした（実話）",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "业余",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71054",
+  "actresses": []
+};

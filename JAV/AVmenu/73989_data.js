@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/27/ba0e3060/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73989,
+  "IDcode": "SSPD-145",
+  "title": "淫魔病棟4",
+  "publish_date": "2018-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250120-1/e3b062ccd21cbb6d4dfefa62af557299.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73989",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73989&name=美谷朱里"
+    },
+    {
+      "name": "河南実里",
+      "img_url": "https://picture.yoshiclub.xyz/20250219/c9a5832d-0674-40f7-8a56-8fbdc0a42091.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73989&name=河南実里"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73989&name=大岛丈"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73989&name=神宫寺奈绪"
+    }
+  ]
+};

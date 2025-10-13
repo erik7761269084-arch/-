@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250430/epzW7WST/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66752,
+  "IDcode": "EYS-042",
+  "title": "人妻生姦隠し撮り",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66752",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/13/48b7e62e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84132,
+  "IDcode": "CAWD-434",
+  "title": "彼女の親友がバレたら絶体絶命な状況で中出しおねだり囁き誘惑 安達ゆら",
+  "publish_date": "2022-10-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "主观视角",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84132",
+  "actresses": [
+    {
+      "name": "安達ゆら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84132&name=安達ゆら"
+    }
+  ]
+};

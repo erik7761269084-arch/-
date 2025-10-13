@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/26/33eb8938/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79578,
+  "IDcode": "CAWD-261",
+  "title": "「ねぇどっちが好き？」僕を取り合う親友の妹2人と狂ったようにセックスに没頭し中出ししてしまった31日間… 天音ゆい 渚みつき",
+  "publish_date": "2021-08-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "潮吹",
+    "接吻",
+    "美少女电影",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/53d74206fedd536ae6e10c155aaff1ca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79578",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79578&name=渚光希"
+    },
+    {
+      "name": "天音ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79578&name=天音ゆい"
+    }
+  ]
+};

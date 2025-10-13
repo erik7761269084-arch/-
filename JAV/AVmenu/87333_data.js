@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230724/7Utb0Gne/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87333,
+  "IDcode": "CEMD-232",
+  "title": "【FANZA限定】青田悠華が身悶えイキ狂う！淫行・狂乱・卑劣すぎる4SEX パンティ付き",
+  "publish_date": "2022-09-14",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "淫乱，真实",
+    "猎艳",
+    "魔鬼系",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/8162cb8eeffe4271d156fbbed3825172.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87333",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87333&name=森林原人"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87333&name=タイ"
+    }
+  ]
+};

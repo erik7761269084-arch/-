@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241120/gtajeeWo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78046,
+  "IDcode": "DASD-486",
+  "title": "催眠洗脳された巨乳妻は嫌がりながらもアナル奴隷になっていた。 梨々花 三原ほのか 加藤あやの",
+  "publish_date": "2018-12-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "肛交",
+    "白天出轨",
+    "催眠"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241121-1/72e2d5f7972f4ea11a49755f82af1ef0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78046",
+  "actresses": [
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78046&name=加藤あやの"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78046&name=三原穗香"
+    },
+    {
+      "name": "梨々花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78046&name=梨々花"
+    }
+  ]
+};

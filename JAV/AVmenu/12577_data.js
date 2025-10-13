@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2eea4916-721b-46f7-86f7-1bc459fed311/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12577,
+  "IDcode": "MIBB-046",
+  "title": "性感的鐵刑架束縛！ ~ 尾崎惠梨香",
+  "publish_date": "2024-08-21",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "緊身衣",
+    "蕩婦",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "SM",
+    "美腳",
+    "美少女",
+    "暗黑系",
+    "緊縛",
+    "高跟鞋",
+    "猥褻穿著",
+    "辣妹/GAL系",
+    "插入異物",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240818/eafb887d-ec9b-496f-930c-dcc2d4779d57.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240818/eafb887d-ec9b-496f-930c-dcc2d4779d57.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12577",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12577&name=尾崎惠梨香"
+    }
+  ]
+};

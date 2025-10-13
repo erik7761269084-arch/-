@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/OmEF5r75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79716,
+  "IDcode": "NHDTB-568",
+  "title": "海の家ビアガーデン痴●",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "颜射",
+    "户外",
+    "手指插入",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79716",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79716&name=森日向子"
+    },
+    {
+      "name": "神野藍",
+      "img_url": "https://picture.yoshiclub.xyz/20250220/a1bcc300-64b2-433a-99c4-4ca68cab97c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79716&name=神野藍"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79716&name=弥生美月"
+    },
+    {
+      "name": "希望光",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79716&name=希望光"
+    }
+  ]
+};

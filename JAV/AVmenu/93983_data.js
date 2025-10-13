@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/Gv9rmPtC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93983,
+  "IDcode": "REBD-842Rima",
+  "title": "REBD842Rima人妻～禁断の果実～·真白りま",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/e8660649a15c2e811814fc4f0463e28a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93983",
+  "actresses": []
+};

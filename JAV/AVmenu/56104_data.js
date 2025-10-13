@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56104,
+  "IDcode": "5BBDA2BCA4E9E2FF834B7B2F591CD5F2",
+  "title": "1pon 021316_245 立花美涼",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56104",
+  "actresses": []
+};

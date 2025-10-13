@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/12/26285d4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107160,
+  "IDcode": "SHKD-836",
+  "title": "遭埋葬的真相 職業搜查官 神宮寺翔子 明里紬",
+  "publish_date": "2019-02-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "女检察官",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/12/dd5d2492029773e88cc9bb08eb4d90fa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107160",
+  "actresses": [
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107160&name=明里䌷"
+    }
+  ]
+};

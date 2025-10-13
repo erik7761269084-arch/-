@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/c2aLgjc3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69771,
+  "IDcode": "VRTM-474",
+  "title": "コタツの中でひっそり奥さんのマ○コに触れると糸を引くほど溢れ出す愛液！ご無沙汰過ぎて旦那が隣に居るにも関わらず何度も悶絶絶頂！4 SPECIAL",
+  "publish_date": "2020-01-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "企画",
+    "恋乳癖",
+    "白天出轨",
+    "故事集",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69771",
+  "actresses": [
+    {
+      "name": "篠崎环奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69771&name=篠崎环奈"
+    }
+  ]
+};

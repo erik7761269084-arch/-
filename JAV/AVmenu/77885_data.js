@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/22/8476745c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77885,
+  "IDcode": "MEYD-599",
+  "title": "友人の母 息子の友人に犯●れ、幾度もイカされてしまったんです… めぐり",
+  "publish_date": "2020-06-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77885",
+  "actresses": [
+    {
+      "name": "藤浦惠",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3b7c492b-4daa-484b-b5f9-8c582526636e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77885&name=藤浦惠"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77885&name=タツ"
+    }
+  ]
+};

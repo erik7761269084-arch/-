@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/vMBCQenD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93510,
+  "IDcode": "NHDTB-931",
+  "title": "オルチャンメイクJ○痴● 抵抗しまくる生意気女子が泣きイキするまで弄りまわせ！ 花音うららさんのパンティとチェキ付き",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "制服",
+    "苗条",
+    "潮吹",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93510",
+  "actresses": []
+};

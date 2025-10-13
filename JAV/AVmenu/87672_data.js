@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230808/cRESWEVw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87672,
+  "IDcode": "TENN-006",
+  "title": "天使な彼女 Vol.2 冬愛ことね",
+  "publish_date": "2023-07-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "放尿",
+    "女生",
+    "瘦小身型",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87672",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87672&name=冬爱琴音"
+    }
+  ]
+};

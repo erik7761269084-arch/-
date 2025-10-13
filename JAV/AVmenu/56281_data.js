@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56281,
+  "IDcode": "250FF704A1847EAFC0489EB9D36DE8F0",
+  "title": "白濁媚薬ローションで性感刺激！超ビンカン全身性感帯に覚醒！",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56281",
+  "actresses": []
+};

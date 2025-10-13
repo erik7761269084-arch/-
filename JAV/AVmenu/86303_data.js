@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/02/af6fd6a3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86303,
+  "IDcode": "SSIS-408",
+  "title": "我有所不知女友的工作處。～員工旅行爛醉後被同事偷差一整晚的我的妻子～ 架乃由羅",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "薄马赛克",
+    "滥交",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230205-1/3fa37a3dd5aecba220066aa7d2053e36.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86303",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86303&name=架乃由羅"
+    },
+    {
+      "name": "白石環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/1b9431b5-57c0-4fe3-916f-90f05c52a063.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86303&name=白石環奈"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86303&name=蓝井优太"
+    }
+  ]
+};

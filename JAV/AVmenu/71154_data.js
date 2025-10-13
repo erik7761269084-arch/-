@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/FTFeL9KU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71154,
+  "IDcode": "GDHH-112",
+  "title": "もう死んだってかまわない！9 超ラッキーの連続で巻き起こるスケベ過ぎる一日！鼻血が止まらないくらいの夢のエロハプニング続出！",
+  "publish_date": "2018-07-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "各种职业",
+    "企画",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/721e484f6279844e5793957232c29d97.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71154",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=塚田詩織"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=大島愛里亞"
+    },
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=優月真裡奈"
+    },
+    {
+      "name": "河音くるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250210/38d977cf-634b-4d5c-84cc-6a764e367caa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=河音くるみ"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=花笑一杏"
+    },
+    {
+      "name": "爱里るい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=爱里るい"
+    },
+    {
+      "name": "MIRANO",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/d648feb05fdd79e3c110230910b35d68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=MIRANO"
+    },
+    {
+      "name": "佐仓宁宁",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b5e96211403cafb4159cda9e00f33f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=佐仓宁宁"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=今井まい"
+    },
+    {
+      "name": "优月りな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71154&name=优月りな"
+    }
+  ]
+};

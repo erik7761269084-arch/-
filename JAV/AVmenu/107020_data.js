@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/21/3b37b94b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107020,
+  "IDcode": "SDMU-994",
+  "title": "「童貞なんて捨てちゃおうよ!1日でヤリチンになっちゃお?」筆下ろし大好きトリプル痴女に童貞君をお届け!",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "荡妇",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107020",
+  "actresses": [
+    {
+      "name": "瀧澤萊拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/a45e8606-03e5-4c78-bb12-5b9f0fc0e65c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107020&name=瀧澤萊拉"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107020&name=若宫はずき"
+    },
+    {
+      "name": "宫村ななこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107020&name=宫村ななこ"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7d198d26-74a9-4f09-86c7-7e231df54d8a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/06/c59e886b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19098,
+  "IDcode": "IPX-360",
+  "title": "女大學生失禁懷孕癡漢電車",
+  "publish_date": "2019-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "電車",
+    "性騷擾",
+    "輪姦",
+    "高跟鞋",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720012136755755.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230720/20230720012136755755.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19098",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19098&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19098&name=明里䌷"
+    }
+  ]
+};

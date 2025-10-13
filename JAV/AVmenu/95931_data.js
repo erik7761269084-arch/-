@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/01/dfadb92d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95931,
+  "IDcode": "KAWD-689",
+  "title": "慾火一來馬上熱吻發情猛幹 鈴木心春",
+  "publish_date": "2015-11-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "美少女",
+    "乳交",
+    "淫乱，真实",
+    "乳房",
+    "接吻",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/01/1b86bb85d5ed846428201eb434062e66.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95931",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95931&name=鈴木心春"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95931&name=南佳也"
+    }
+  ]
+};

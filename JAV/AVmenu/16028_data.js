@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e9f91de2-84b8-4fcd-8c79-8a565a428231/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16028,
+  "IDcode": "SDAB-293",
+  "title": "第一次在學校體驗遊戲 x 4場景 - 大雞巴操逼、顏射、多P、束縛玩具折磨",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "JK校服",
+    "口交",
+    "多P",
+    "貧乳",
+    "美少女",
+    "更衣室",
+    "癡女",
+    "手指插入",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "同學"
+  ],
+  "description": "SDAB-293为SOD出品,2024年2月27日发行的有碼成人影片由望実かなえ出演\n“在學校偷偷親熱是我的夢想，”希香苗（Kanae Nozomi），一個悶悶不樂、淫蕩、厭倦的 19 歲美麗女孩，告訴工作人員。她的第二部作品發生在一所學校！穿上各種類型的制服，挑戰自己第一次玩x 4種期待已久的情況！我年輕的身體因從未體驗過的快樂而顫抖……！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240228/20240227225155249249.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240228/20240227225155249249.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16028",
+  "actresses": [
+    {
+      "name": "望実かなえ",
+      "img_url": "https://picture.yoshiclub.xyz/20240228/6f93ab23-06cd-4854-a86c-823d0603c022.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16028&name=望実かなえ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241103/c7kNL0pp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94849,
+  "IDcode": "SY-205",
+  "title": "前略四畳半の奥様 ちはるさん 28歳 ●素人四畳半生中出しシリーズ 宮沢ちはる",
+  "publish_date": "2024-01-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "巨大屁股",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94849",
+  "actresses": [
+    {
+      "name": "宫泽千春",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/99a363ed-fd20-401a-af51-8bc2a9792a99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94849&name=宫泽千春"
+    }
+  ]
+};

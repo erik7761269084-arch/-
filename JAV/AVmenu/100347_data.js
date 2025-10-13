@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100347,
+  "IDcode": "229SCUTE1231",
+  "title": "正妹口交深情對望 坐在臉上請你吃蜜穴",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100347",
+  "actresses": []
+};

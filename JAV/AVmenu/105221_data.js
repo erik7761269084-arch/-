@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/27adb668/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105221,
+  "IDcode": "STAR-652",
+  "title": "古川いおり タイトスカートの誘惑 先輩OLのパッツパツのヒップラインとパンチラ、太もも美脚、エロ尻に興奮させられて…",
+  "publish_date": "2016-02-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "屁股",
+    "制服",
+    "连裤袜",
+    "OL",
+    "迷你裙",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105221",
+  "actresses": [
+    {
+      "name": "古川伊織",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/3889b3b2-bda0-4d8a-8f87-c152ddbf81bc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105221&name=古川伊織"
+    }
+  ]
+};

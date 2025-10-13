@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/j14L6h9W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81126,
+  "IDcode": "UMD-817",
+  "title": "マッサージ師のなすがまま、カーテン越しに上から下まで弄られまくりの人妻たち！！声を殺して、鼻息も荒くオイルで火照ったカラダをふるわせ旦那にバレずにイキ放題っ！！久々の中出しに子宮は切なく痺れ、たっぷり染み込む他人種がメスの性を目覚めさせるっ！！ 5",
+  "publish_date": "2022-03-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "按摩"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81126",
+  "actresses": []
+};

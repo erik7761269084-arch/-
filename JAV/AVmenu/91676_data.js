@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240524/vU05Ja9u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91676,
+  "IDcode": "AGAV-100",
+  "title": "【FANZA限定】透視＆時間停止＆洗脳 エロマジックアイテムでむっちり軟体ボディを弄ばれた人妻ヨガインストラクター 夏目れみ パンティと生写真付き",
+  "publish_date": "2024-01-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "已婚妇女",
+    "恶作剧",
+    "讲师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/ab20c985272e0592e0786ff11bd5e71d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91676",
+  "actresses": [
+    {
+      "name": "夏目れみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250325/fc080950-e849-4700-b95f-4fddce40b90f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91676&name=夏目れみ"
+    }
+  ]
+};

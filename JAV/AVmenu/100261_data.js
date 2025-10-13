@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/26/b407aae8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100261,
+  "IDcode": "MIDE-137",
+  "title": "女教師レ×プ輪姦 小西悠",
+  "publish_date": "2014-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "轮奸",
+    "苗条",
+    "数位马赛克",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100261",
+  "actresses": [
+    {
+      "name": "小西悠",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/9b2f296b-5e72-46f5-ac1b-4811b95fdd12.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100261&name=小西悠"
+    }
+  ]
+};

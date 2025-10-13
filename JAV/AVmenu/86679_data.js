@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/JSOMtkEc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86679,
+  "IDcode": "APAK-210",
+  "title": "「おじさんと涎キスしたい！」 淫乱絶頂生徒指導 肉欲を溜め込んだ優等生は中年好きの淫乱マゾ娘！念願の鬼ピス＆イラマに感嘆！ 花崎こはる",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "高中女生",
+    "中出",
+    "颜射",
+    "深喉",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86679",
+  "actresses": []
+};

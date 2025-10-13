@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff74b5ae-46f1-495d-8754-f6a07ed7638b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/27/637203b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3537,
+  "IDcode": "JUTA-177",
+  "title": "頂級三十路人妻初脫AV紀實 ~ 石原綾音",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "熟女JAPAN",
+  "genres": [
+    "三十路",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "紀念作",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "出道作品",
+    "御姐系",
+    "清純",
+    "人妻",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "JUTA-177为熟女JAPAN出品,2025年8月14日发行的有碼成人影片由石原あやね出演\n走在街上回头率爆表的极品美女石原绫音，30岁的她可是老公酒吧的招牌美女调酒师！靠着这张脸，酒吧生意火爆，常客络绎不绝。不过生意越好，夫妻感情却越冷淡。但绫音却说自己一点也不寂寞，毕竟工作性质让她和客人很容易打成一片，酒精上头一不小心就擦枪走火了呗！她还爆料最刺激的一次是背着老公和客人在大楼消防楼梯上偷情，简直high到不行！不过有个小问题，喝多了的客人常常硬不起来，搞得她总是欲求不满，火都灭不了。这次我们特意为她准备了硬邦邦的大尺寸，让她一次爽个够，彻底释放内心的骚动！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040309395395_85144_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040309395395_85144_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3537",
+  "actresses": [
+    {
+      "name": "石原あやね",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250816/62094e10-8ae1-4c72-abac-2564a0652100_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3537&name=石原あやね"
+    }
+  ]
+};

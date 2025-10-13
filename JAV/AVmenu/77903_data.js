@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241118/MYWZrSrp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77903,
+  "IDcode": "RCTD-291",
+  "title": "第1回ママ友レズバトル",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "淫乱，真实",
+    "女同性恋",
+    "潮吹",
+    "舔阴",
+    "手指插入",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/afa45aa3bb746ede5d8a78122793dffe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77903",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77903&name=葵百合香"
+    },
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77903&name=加藤あやの"
+    },
+    {
+      "name": "美咲结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77903&name=美咲结衣"
+    }
+  ]
+};

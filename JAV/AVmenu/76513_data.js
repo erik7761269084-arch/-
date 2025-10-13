@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241207/ufe1HbPd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76513,
+  "IDcode": "MOND-179",
+  "title": "憧れの兄嫁と 篠原ちとせ",
+  "publish_date": "2020-01-16",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76513",
+  "actresses": [
+    {
+      "name": "篠原ちとせ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76513&name=篠原ちとせ"
+    }
+  ]
+};

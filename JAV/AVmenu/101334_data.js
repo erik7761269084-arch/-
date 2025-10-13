@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240301/XO1w1fA6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101334,
+  "IDcode": "LUXU-217",
+  "title": "ラグジュTV 203",
+  "publish_date": "2016-02-15",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "自慰",
+    "荡妇",
+    "苗条",
+    "潮吹",
+    "业余",
+    "女优按摩棒",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101334",
+  "actresses": []
+};

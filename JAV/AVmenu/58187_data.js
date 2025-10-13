@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/01/c7919c2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58187,
+  "IDcode": "MYED-940",
+  "title": "淫荡女人强迫男人内射-天海翼",
+  "publish_date": "2024-10-02",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/01/afbe73c747e6cd7fdfc3612348975ed7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58187",
+  "actresses": []
+};

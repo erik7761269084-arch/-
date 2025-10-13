@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/98f4d205-7a28-4990-ad67-927bb152e294/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 466,
+  "IDcode": "HEYZO-0559",
+  "title": "接受AV業界洗禮的新人熟女女優 3人3種不同的濃厚性愛 ~ 小嶋まこ 柴田ひかり 南野りか",
+  "publish_date": "2014-04-25",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "故事集",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "出道作品",
+    "人妻",
+    "地味",
+    "真實拍攝",
+    "熟女",
+    "女優",
+    "羞恥"
+  ],
+  "description": "HEYZO-0559为HEYZO出品,2014年4月25日发行的無碼成人影片由南野りか，小嶋まこ，柴田ひかり出演\nAV業界の洗礼を受けた新人熟女女優～３者３様の濃厚セックス～ - 小嶋まこ - 柴田ひかり - 南野りか",
+  "cover_url": "https://picture.yoshiclub.xyz/20250114/ec5b7838-fe1d-4981-be2c-c30b49fe6ef8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250114/ec5b7838-fe1d-4981-be2c-c30b49fe6ef8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=466",
+  "actresses": [
+    {
+      "name": "南野りか",
+      "img_url": "https://picture.yoshiclub.xyz/20250114/21646811-2df7-461a-8b65-e3665a9d80e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=466&name=南野りか"
+    },
+    {
+      "name": "小嶋まこ",
+      "img_url": "https://picture.yoshiclub.xyz/20250114/78579388-5e2c-4b6b-bc67-71b7dd156599.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=466&name=小嶋まこ"
+    },
+    {
+      "name": "柴田ひかり",
+      "img_url": "https://picture.yoshiclub.xyz/20250114/d8d62690-5023-4b98-a67e-7b0207fe792a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=466&name=柴田ひかり"
+    }
+  ]
+};

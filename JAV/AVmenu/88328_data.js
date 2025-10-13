@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231004/C1ee59JX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88328,
+  "IDcode": "EBOD-287",
+  "title": "アソコをこすると香る美月の匂いカード付き！ニオイでイクほど発情期 赤井美月",
+  "publish_date": "2013-07-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "其他恋物癖",
+    "美少女",
+    "巨乳",
+    "淫乱，真实"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88328",
+  "actresses": [
+    {
+      "name": "神无月れな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88328&name=神无月れな"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/1f8NLnHb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80299,
+  "IDcode": "GVH-367",
+  "title": "ママシ●タ実話 森沢かな",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "中出",
+    "母亲",
+    "苗条",
+    "白天出轨",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3b68d5e5f97c507d899aea4710f8bdc0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80299",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80299&name=森澤佳奈"
+    }
+  ]
+};

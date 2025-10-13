@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ccc02e92-0851-46b3-8e37-1fef06b1b76c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/ff1e59f4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7310,
+  "IDcode": "SONE-503",
+  "title": "超噸級K杯治療師的大量潤滑油滑膩膩 女肉貼身按摩 歡迎光臨超級油膩男士美容院 ~ 湊羽琉",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "按摩・美容店",
+    "拜金女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "抹油",
+    "美人",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "SONE-503为S1出品,2025年3月25日发行的有碼成人影片由湊羽琉出演\n奶子好大，油多！在本店，擁有108cm K罩杯的超級巨乳治療師南春會用大量的油來以她那令人驚豔的滑溜溜的乳房取悅男人。看著她那已經巨大的乳房上閃耀著油光，真是壯觀的景象。如何享受它取決於你，無論你是粗暴地擠壓它，將它塞進嘴裡，還是將一根硬雞巴擠在它們之間。你可以享受女性的肉體直到溺斃。一旦陷入這片巨大的乳油沼澤，就不可能自拔了。將自己埋在這些乳房裡直到你覺得胃不舒服為止。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110507572572.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320110507572572.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7310",
+  "actresses": [
+    {
+      "name": "湊羽琉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7310&name=湊羽琉"
+    },
+    {
+      "name": "みなと羽琉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7310&name=みなと羽琉"
+    }
+  ]
+};

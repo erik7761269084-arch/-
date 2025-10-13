@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/31/1a5bb39c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85093,
+  "IDcode": "JUL-972",
+  "title": "寿退社を祝う温泉旅行で、私は上司に中出しされ続けて―。 西村ニーナ",
+  "publish_date": "2022-05-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85093",
+  "actresses": [
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85093&name=西村ニーナ"
+    }
+  ]
+};

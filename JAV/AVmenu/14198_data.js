@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41beacf6-db8d-4229-a47c-f88f1ee60575/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/priXT2Hc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14198,
+  "IDcode": "NAMH-009",
+  "title": "真正的中出解禁 子宮本物射入8発 清巳れの",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "紀念作",
+    "蕩婦",
+    "亂交 • 群P",
+    "網襪",
+    "白絲",
+    "主觀視角",
+    "多P",
+    "按摩棒",
+    "真實拍攝",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240605/3c9c0325-36dc-4661-8403-e22925e70353.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240605/3c9c0325-36dc-4661-8403-e22925e70353.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14198",
+  "actresses": [
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14198&name=清巳麗乃"
+    }
+  ]
+};

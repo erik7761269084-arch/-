@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5aded3b7-ca5f-418a-aad6-8565b5ca2355/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/01/f583ddca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3614,
+  "IDcode": "PPPE-363",
+  "title": "乳交不算偷吃吧 被閨蜜誘惑每天被她用胸榨乾 ~ 夕木小彩",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女友閨蜜",
+    "心機婊",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "豐滿"
+  ],
+  "description": "PPPE-363为OPPAI出品,2025年8月14日发行的有碼成人影片由夕木小彩出演\n女友的闺蜜，那位胸器逆天的小彩妹子，总是趁我不注意就用大胸勾引我，简直让人心痒难耐。她还抛出杀手锏：“其实我早就喜欢你了！”那种女友身上完全没有的性感魅力，直接让我沦陷，忍不住被她的‘乳穴’给迷倒了……她还娇滴滴地说：“只是乳交不算出轨哦？”这话一出，我的理智瞬间崩盘，被她小恶魔般的诱惑给彻底拿捏。每天背着女友偷摸来一发乳交，那种背德的刺激感让我爽到飞起，没多久就彻底堕落，连更进一步的出轨玩法都解锁了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040313670670_40345_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040313670670_40345_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3614",
+  "actresses": [
+    {
+      "name": "夕木小彩",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/5bd2226c-7e4e-4457-bf7c-85f73e6f4c31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3614&name=夕木小彩"
+    }
+  ]
+};

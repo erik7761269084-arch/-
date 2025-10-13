@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f71f35fd-8f4c-4fad-b4af-4ee55113b576/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13503,
+  "IDcode": "DHLD-004",
+  "title": "女大學生姐姐們來我家裏的淫蕩之夜！處男弟弟的6P性愛懲罰！",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "慾求不滿",
+    "多P",
+    "美少女",
+    "艷遇",
+    "雙飛",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240707/c29f6389-ba98-4cf9-b263-9c416ec2460d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240707/c29f6389-ba98-4cf9-b263-9c416ec2460d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13503",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13503&name=沙月惠奈"
+    },
+    {
+      "name": "優梨舞奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13503&name=優梨舞奈"
+    },
+    {
+      "name": "伊織雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/6a46a693-db54-443c-92b0-e03cc92d3091.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13503&name=伊織雛乃"
+    },
+    {
+      "name": "二宮桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/ede5169d-30d5-4ada-a660-d273ea8643a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13503&name=二宮桃"
+    },
+    {
+      "name": "南見つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/9bdd7ad9-39b8-4640-b46c-93255c39f9db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13503&name=南見つばさ"
+    }
+  ]
+};

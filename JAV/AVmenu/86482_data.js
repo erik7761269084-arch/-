@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/14/244b598d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86482,
+  "IDcode": "STARS-701",
+  "title": "Make Love 雖然繞了許多路，結果還是和最愛的男友彼此相愛的做愛最幸福 古川伊織",
+  "publish_date": "2022-09-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86482",
+  "actresses": [
+    {
+      "name": "古川伊織",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/3889b3b2-bda0-4d8a-8f87-c152ddbf81bc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86482&name=古川伊織"
+    }
+  ]
+};

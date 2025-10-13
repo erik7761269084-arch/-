@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/26/f1a0471e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64095,
+  "IDcode": "EMBZ-321",
+  "title": "［閲覧注意］輪●レ●プ映像 ノーカット無編集「婦女強●犯罪記録」 看護師新婚妻強●種付け姦淫！ クロロホルムとスタンガンで昏●、媚薬で瞳孔散大 マワされ激しく暴れ抵抗するも淫薬でガンギマリ女体は硬直し性処理中出し肉人形と化すも子宮は開花し無惨に… 奈津野こはく",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "凌辱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64095",
+  "actresses": [
+    {
+      "name": "奈津野こはく",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8127be1e-e63f-4a31-ae3b-4e19d63d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64095&name=奈津野こはく"
+    }
+  ]
+};

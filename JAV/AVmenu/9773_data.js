@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a52807ab-049f-45aa-ae74-8325b6d5b6dc/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/3eefc9ba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9773,
+  "IDcode": "HMN-635",
+  "title": "和交友APP上認識的離家出走女孩的合法共同生活 不小心觸碰到了她的敏感區，叛逆女孩立即癡女化 ~ 鈴之家鈴",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "校花",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "HMN-635为本中出品,2024年12月24日发行的有碼成人影片由鈴之家鈴出演\n不管怎麼看，我在婚友軟體上認識的女孩都是J●。由於夜深了，我決定讓她留下來過夜。當她平靜地問：“你想通過做愛來表示感謝嗎？我不介意做愛。”我誠實而理性地回答，“你應該更珍惜自己的身體。”女孩愛上這樣的紳士態度，誘惑力不斷升級！ ！一個單身男人抵制中出誘惑但不碰她，而一個離家出走的女孩喜歡他的反應，他們之間的單間合法共同生活。搖曳迷人胸部的鈴乃家凜第二彈！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/202412181001504040.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/202412181001504040.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9773",
+  "actresses": [
+    {
+      "name": "鈴之家鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230915/f072832c-4a24-43b8-a5c0-53a60feebc74.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9773&name=鈴之家鈴"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9773&name=七尾神"
+    }
+  ]
+};

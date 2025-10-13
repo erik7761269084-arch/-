@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/16/33befecd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61039,
+  "IDcode": "CEAD-146",
+  "title": "インテリ眼鏡の僕のママ3 原ちとせ",
+  "publish_date": "2016-03-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "眼镜",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61039",
+  "actresses": [
+    {
+      "name": "原千岁",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c353a77fe50c67e127a58773b80cb742.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61039&name=原千岁"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/16/8039353e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82280,
+  "IDcode": "BDA-089",
+  "title": "侵入犯 美しすぎる議員への欲情 西田カリナ",
+  "publish_date": "2019-04-19",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "精选，综合",
+    "捆绑",
+    "监禁",
+    "调教",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82280",
+  "actresses": [
+    {
+      "name": "西田卡莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723230156158158_27005_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82280&name=西田卡莉娜"
+    }
+  ]
+};

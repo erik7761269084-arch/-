@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221224/A3C7208C095F3989/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98325,
+  "IDcode": "ATID-234",
+  "title": "残酷浪漫時代 女教師淫虐教室 神波多一花",
+  "publish_date": "2013-11-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "捆绑",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid234/atid234pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98325",
+  "actresses": [
+    {
+      "name": "神波多一花",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/AI-Fix-神波多一花.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98325&name=神波多一花"
+    }
+  ]
+};

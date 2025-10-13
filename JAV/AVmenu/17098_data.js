@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ceb20551-4a2c-452b-83f3-5cf3294b053d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17098,
+  "IDcode": "ACHJ-033",
+  "title": "美麗蕩婦向井藍 - 在酒店被中出，即使陰戶高潮多次 也不會停止",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "手指插入",
+    "熟女"
+  ],
+  "description": "ACHJ-033为MADONNA出品,2023年12月26日发行的有碼成人影片由向井藍出演\n這就是“向井藍”瘋狂淫穢的假期！ ！酒店裏生中出連續10次高潮都停不下來，蕩婦的假期！ ！向井藍淫穢的真面目被揭露，因爲她是好友兼導演蒼井麗奈！ ！這是一個性欲爆棚的女孩整天在家自慰3、4次的私密性愛記錄！ ！\n這就是“向井藍”瘋狂淫穢的假期！ ！酒店裏生中出連續10次高潮都停不下來，蕩婦的假期！ ！向井藍淫穢的真面目被揭露，因爲她是好友兼導演蒼井麗奈！ ！這是一個性欲爆棚的女孩整天在家自慰3、4次的私密性愛記錄！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224001202217217.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231224/20231224001202217217.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17098",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17098&name=向井藍"
+    }
+  ]
+};

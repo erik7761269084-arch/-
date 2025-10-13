@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241115/pp70h2eg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94955,
+  "IDcode": "DOCP-152",
+  "title": "生意気J○妹プリ尻挑発",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "乱伦",
+    "屁股",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94955",
+  "actresses": [
+    {
+      "name": "加濑七穗",
+      "img_url": "https://picture.yoshiclub.xyz/20230401/4eb3653f-c0bb-4f91-af40-c8b1fc34e9dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94955&name=加濑七穗"
+    },
+    {
+      "name": "宫名初季",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94955&name=宫名初季"
+    },
+    {
+      "name": "奥菜えいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94955&name=奥菜えいみ"
+    },
+    {
+      "name": "石川ひかる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94955&name=石川ひかる"
+    }
+  ]
+};

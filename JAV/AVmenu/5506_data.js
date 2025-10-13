@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3f1a338d-4a62-47e8-afd1-4849a9cf5917/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5506,
+  "IDcode": "ROE-358",
+  "title": "MONROE新人震撼登場！竟直接解禁中出！和美豔的友人之母，沉淪在熱吻與受孕的日子 ~ 星冬香",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "四十路",
+    "美臀",
+    "解禁作",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "朋友母親",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "短髮",
+    "儿子的朋友"
+  ],
+  "description": "ROE-358为MADONNA出品,2025年6月6日发行的有碼成人影片由星冬香出演\n冬香是個風情萬種的媽媽，和兒子一起生活。老公長期在海外出差，她內心空虛得要命。某天，兒子的小夥伴和真跑來一起看日本棒球選手破世界紀錄的直播。這小子從小就暗戀冬香，趁她不注意偷親了一口！冬香明明想抗拒，可心跳卻狂飆停不下來。後來和真又強勢逼近，再次吻上她的唇，冬香壓抑已久的慾望徹底炸開，理智崩盤，兩人直接陷入禁忌的激情漩渦，夜夜糾纏……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042216333333_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042216333333_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5506",
+  "actresses": [
+    {
+      "name": "星冬香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250510/377b7bff-77b6-4cb3-834c-ca9823556325_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5506&name=星冬香"
+    }
+  ]
+};

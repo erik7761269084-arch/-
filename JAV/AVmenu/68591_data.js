@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/hgfu8ncm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68591,
+  "IDcode": "YMDD-302",
+  "title": "大叔、來玩嘛～只當一天的壞孩子～ 皆瀨明理",
+  "publish_date": "2022-12-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "中出",
+    "玩具",
+    "口交",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250403-1/5670f882b6d2b3e95c7e8e50156b6410.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68591",
+  "actresses": []
+};

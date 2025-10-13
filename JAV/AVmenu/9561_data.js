@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d10dc90c-28e4-4bb5-8491-b5d702e72ab7/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250114/oNTlwqjw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9561,
+  "IDcode": "SSNI-517",
+  "title": "「我已經高潮太多次了……」猛烈的活塞式性愛無情地插入她抽搐的陰戶 ~ 星野娜美",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "內衣",
+    "癡女",
+    "巨乳",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-517为S1出品,2019年7月19日发行的有碼成人影片由星野娜美出演\n本來是個蕩婦項目，結果項目內容卻被偷偷改了！逆襲！提升敏感陰部反覆被敲打！ 「等等！我射了！我射了！！」「我已經射了，快把你的雞巴拔出來！！」「娜美」致力於蕩婦折磨，演員後續活塞反擊！做好NG的準備！不要停止追擊活塞！ ！深度破壞陰道！ ！瞄準G點！追求睡袋！ “我不聽，住手！我不行了！我不行了！”",
+  "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227053206492492.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241227/20241227053206492492.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9561",
+  "actresses": [
+    {
+      "name": "星野娜美",
+      "img_url": "https://picture.yoshiclub.xyz/20231218/56b91853-020c-489e-9dd8-35d125c2177d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9561&name=星野娜美"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9561&name=小田切ジュン"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9561&name=イセドン内村"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9561&name=南佳也"
+    }
+  ]
+};

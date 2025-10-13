@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ac8fe016-84d2-4855-b483-37ceb00e3cee/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16022,
+  "IDcode": "SSNI-158",
+  "title": "完全緊縛豐滿若妻並強行強奸",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "在丈夫面前被操",
+    "凌辱",
+    "美腿",
+    "形象俱樂部",
+    "強姦",
+    "性感",
+    "輪姦",
+    "美腳",
+    "緊縛",
+    "明星臉",
+    "人妻",
+    "美少女電影"
+  ],
+  "description": "SSNI-158为S1出品,2018年4月1日发行的有碼成人影片由柳美憂出演\n運動豐滿身材柳美憂的束縛作品發布！ ！柳美憂的丈夫是管理中型企業的精英人士。有一天，當我過着舒適的生活時......收到了我丈夫發來的一封電子郵件，上面寫着：“我希望你快點來。”柳美憂去找她的丈夫，他的手腳都被綁住了，無法動彈。當走近丈夫想要解開他時，頭目出現了。 “他……背叛了我們。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229034814606606.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240229/20240229034814606606.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16022",
+  "actresses": [
+    {
+      "name": "柳美憂",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/aaa1ef88-cbcb-4c83-ba17-8c66f01496e3.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16022&name=柳美憂"
+    }
+  ]
+};

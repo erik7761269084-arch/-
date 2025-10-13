@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/18f79037-84e7-42f6-85ac-8d668e816b9c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/18/3762ef44/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8780,
+  "IDcode": "HUNTC-228",
+  "title": "「S男這麼變態的嗎？」風俗按摩店氣弱新人被S男操到頂 ~ 二宮桃 美波汐裏 音羽美鈴 川上麗亞",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "黑絲",
+    "故事集",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "拜金女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "HUNTC-228为HUNTER出品,2025年1月28日发行的有碼成人影片由二宮桃，川上麗亞，音羽美鈴，美波汐里出演\n請聽我說，男士美容沙龍M（健康店）的Y醬太懶了，所以我輪流教她什麼是男士，輪流攻防！起初她很困惑，但她克服了我的熱情，變得越來越飢渴！這只是指導，所以你不會被禁止，對吧？而且我還好好地教了她幕後技巧，讓她能得到很多提名，所以Y醬只能在這裡真正說話了！大家快來吧，在無法預約之前！請增加更多幕後操作！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8780",
+  "actresses": [
+    {
+      "name": "美波汐里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b6dec06f-fa25-4057-a11d-ced6b50f9c00.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8780&name=美波汐里"
+    },
+    {
+      "name": "二宮桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/ede5169d-30d5-4ada-a660-d273ea8643a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8780&name=二宮桃"
+    },
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8780&name=音羽美鈴"
+    },
+    {
+      "name": "川上麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/0c4ae760-aa09-408f-8021-50fc027a30d4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8780&name=川上麗亞"
+    }
+  ]
+};

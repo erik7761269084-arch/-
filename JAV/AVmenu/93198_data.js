@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241009/ZdKHbc2n/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93198,
+  "IDcode": "MSPK-007",
+  "title": "メスパコNo.07 女子校生限定出張マッサージ店のJ系を口説いて裏オプ生挿入 制服美少女 れいな・かなた",
+  "publish_date": "2024-05-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "按摩",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93198",
+  "actresses": []
+};

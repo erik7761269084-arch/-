@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/nHWKfbX4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75886,
+  "IDcode": "EBOD-281",
+  "title": "完熟 ～飢えた男を嗅ぎつけるIカップの臭覚 大橋ひとみ",
+  "publish_date": "2013-06-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "淫乱，真实",
+    "各种职业"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/256b12f84cc56b34361eb70e1407a5b6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75886",
+  "actresses": [
+    {
+      "name": "大桥ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75886&name=大桥ひとみ"
+    }
+  ]
+};

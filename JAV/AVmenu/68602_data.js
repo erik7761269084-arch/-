@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/7fd452a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68602,
+  "IDcode": "REBD-932",
+  "title": "Ryo2 木漏れ日の邂逅・愛弓りょう",
+  "publish_date": "2025-04-17",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "巨乳",
+    "介绍影片",
+    "高",
+    "性感的",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68602",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68602&name=愛弓涼"
+    }
+  ]
+};

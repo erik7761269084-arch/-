@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230727/qzEWKGha/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87463,
+  "IDcode": "EBOD-933",
+  "title": "【FANZA限定】優しいナース×癒し系グラドル2つの顔を持つ 甘えたくなる柔らかJカップ 宮藤ゆみなAV転身 生写真3枚付き",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "偶像",
+    "女上位",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87463",
+  "actresses": [
+    {
+      "name": "紗霧ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/f0b1d11d-9d31-442f-9d58-2b76c5c92021.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87463&name=紗霧ひなた"
+    }
+  ]
+};

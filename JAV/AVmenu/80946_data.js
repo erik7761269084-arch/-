@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/x4T8ywAQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80946,
+  "IDcode": "MOND-227",
+  "title": "憧れの女上司と 七瀬いおり",
+  "publish_date": "2022-02-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "已婚妇女",
+    "出轨",
+    "恋爱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ad28798e99c2531df47a3b78574ee06b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80946",
+  "actresses": [
+    {
+      "name": "七瀬いおり",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/7c3c1863-4afd-4329-8d16-f3a3390e5454.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80946&name=七瀬いおり"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80946&name=タイ"
+    }
+  ]
+};

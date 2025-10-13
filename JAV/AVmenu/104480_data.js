@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/18/ad04750c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104480,
+  "IDcode": "LXVS-017",
+  "title": "LXVS-017",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104480",
+  "actresses": []
+};

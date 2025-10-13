@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/a0fb6263/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116399,
+  "IDcode": "FC2-4396700",
+  "title": "方言口音145cm地方女孩子",
+  "publish_date": "2025-08-13",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/12/5a6b9a9bf0529609d57b280204d7fb72.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116399",
+  "actresses": []
+};

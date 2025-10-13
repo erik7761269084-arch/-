@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230905/CaOqFZH0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88021,
+  "IDcode": "HND-921",
+  "title": "千葉県だけで経験人数300人！ 日焼け跡がめっちゃドエロいおバカだけど根は優しめ褐色ギャル思い出作りに中出しAVデビュー 咲音リオ",
+  "publish_date": "2020-12-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "中出",
+    "颜射",
+    "女生",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88021",
+  "actresses": [
+    {
+      "name": "咲音リオ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88021&name=咲音リオ"
+    }
+  ]
+};

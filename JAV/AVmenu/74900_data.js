@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/04/0e48b531/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74900,
+  "IDcode": "RBD-633",
+  "title": "新娘祕書的悲劇 本城小百合",
+  "publish_date": "2014-11-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "强奸",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/04/4c99499600e83670040f8a6eb83c03ab.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74900",
+  "actresses": [
+    {
+      "name": "本城小百合",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/ca3049f174b2449c8ee45aeaef38e667.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74900&name=本城小百合"
+    }
+  ]
+};

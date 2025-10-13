@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230117/T4Lxo6Me/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85027,
+  "IDcode": "JUFE-427",
+  "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 綾瀬こころ",
+  "publish_date": "2022-10-04",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/9a96cbaea4233153b68e273facec966c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85027",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85027&name=绫濑心"
+    }
+  ]
+};

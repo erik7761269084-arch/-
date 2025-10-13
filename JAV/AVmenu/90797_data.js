@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/18/87ef0b33/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90797,
+  "IDcode": "BEFG-008",
+  "title": "小惡魔女王蹂躪地獄 被虐美少女vs暴虐一族 東條夏",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "高中女生",
+    "捆绑",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90797",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90797&name=東條夏"
+    }
+  ]
+};

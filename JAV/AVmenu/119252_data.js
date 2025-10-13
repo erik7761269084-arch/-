@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230618/29939059A376E303/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119252,
+  "IDcode": "FC2-2744666",
+  "title": "中出可愛美乳女大生射後好像還想再來一發的樣子[Part2]",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119252",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/jiDVFKFP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69769,
+  "IDcode": "VEC-355",
+  "title": "友人の母親 香坂紗梨",
+  "publish_date": "2019-04-01",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69769",
+  "actresses": [
+    {
+      "name": "香坂紗梨",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/c2d7c557-c692-4bc6-9034-46ab3c72664a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69769&name=香坂紗梨"
+    }
+  ]
+};

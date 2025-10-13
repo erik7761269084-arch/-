@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/4176b812/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62490,
+  "IDcode": "JRZE-247",
+  "title": "初撮り五十路妻ドキュメント 小倉みきね",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/4176b812/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62490",
+  "actresses": [
+    {
+      "name": "小倉みきね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62490&name=小倉みきね"
+    }
+  ]
+};

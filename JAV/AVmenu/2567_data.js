@@ -1,0 +1,234 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/01/4cc76af9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2567,
+  "IDcode": "CJOB-189",
+  "title": "騷氣姐姐們的W癡女口暴 輪流榨汁讓我爽到不行 BEST 4小時總集編 ~ 鬆本一香 木下日葵 森日向子 月乃露娜 北野未奈 辻井穗乃果 黑川堇 真木今日子 本真友裏 篠田優 AIKA 新村朱裏 通野未帆 藤森裏穗 永瀨唯 鬆本菜奈實 波多野結衣 美波桃 久留木玲 吉良鈴 吉根柚莉愛",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "無做愛場面",
+    "吞精",
+    "超爆乳",
+    "深喉",
+    "臀控",
+    "乳交",
+    "色白",
+    "雙馬尾",
+    "脚控・戀足癖",
+    "大乳暈",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "顏射",
+    "正統派",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "姐姐・妹妹",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "後宮系",
+    "膚黑",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "拜金女",
+    "明星臉",
+    "清純",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "精選綜合",
+    "極品美人",
+    "野性",
+    "豐滿",
+    "女優"
+  ],
+  "description": "CJOB-189为癡女特化出品,2025年9月18日发行的有碼成人影片由波多野结衣，藤森里穂，松本一香，AIKA，久留木玲，黑川堇，松本菜奈実，森日向子，辻井穗乃果，篠田優，月乃露娜，仓多真央，北野未奈，新村朱里，吉良鈴，通野未帆，蓮実クレア，永瀬ゆい，佐伯由美香，初愛寧寧，吉根柚莉爱，真木今日子，七草千歲，本真友里，木下日葵，美波桃出演\n【輪番吸吮無限榨精！爭奪式口技大亂鬥！】這些騷姐姐們一個個秀出頂級口技，拼了老命也要在自己輪到的時候把你榨乾，貪婪又色氣爆棚，真的讓人受不了啦！被兩個痴女夾在中間，輪流舔弄那話兒，吸得啧啧作響，持續不断的快感直接讓人爽到翻白眼！就算射了一次，她們也不會放過你，換著花樣繼續進攻，直到把你榨得一滴不剩，嫉妒心爆表的口技狂潮根本停不下來！舌尖挑逗、真空吸吮、深喉猛攻……一個秀完另一個馬上跟上，絕不認輸！是天堂還是地獄？完全沒得休息，被逼著一次次射到天上去，36個高潮片段讓你一次看個爽！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043355768768_25963_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043355768768_25963_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2567",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=波多野结衣"
+    },
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=松本一香"
+    },
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=森日向子"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=新村朱里"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=木下日葵"
+    },
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=北野未奈"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=吉根柚莉爱"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=藤森里穂"
+    },
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=AIKA"
+    },
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=辻井穗乃果"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=黑川堇"
+    },
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=通野未帆"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=月乃露娜"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=真木今日子"
+    },
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=松本菜奈実"
+    },
+    {
+      "name": "篠田優",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/ddd44455-9f82-44f4-a50e-49a13d951d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=篠田優"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=本真友里"
+    },
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=七草千歲"
+    },
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=仓多真央"
+    },
+    {
+      "name": "永瀬ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20240619/a67b639c-4760-4cc8-9f06-615f23ed46be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=永瀬ゆい"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=蓮実クレア"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=久留木玲"
+    },
+    {
+      "name": "吉良鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/b06efc5c-d71d-4265-948e-edc9267e8af8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=吉良鈴"
+    },
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=佐伯由美香"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=羽生ありさ"
+    },
+    {
+      "name": "初愛寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/14868afa-2cf4-431e-a83e-ee3e8b05c76b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=初愛寧寧"
+    },
+    {
+      "name": "美波桃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/48607155-b950-4a41-a6a5-f4194993d1bc_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=美波桃"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=安倍亜沙美"
+    },
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=永濑唯"
+    },
+    {
+      "name": "初爱ねんね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2567&name=初爱ねんね"
+    }
+  ]
+};

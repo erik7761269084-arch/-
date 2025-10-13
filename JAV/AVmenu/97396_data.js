@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/D0551042A166293F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97396,
+  "IDcode": "DG-233",
+  "title": "色白ピンク乳首と爆乳娘～修学旅行 女子校生集団夜●い映像～",
+  "publish_date": "2023-07-31",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97396",
+  "actresses": []
+};

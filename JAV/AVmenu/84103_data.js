@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230103/Ty7G7Y6l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84103,
+  "IDcode": "CAWD-331",
+  "title": "隣の4姉妹に前後左右を囲まれて痴女られまくって抜かれまくる夢の中出しハーレム 松本いちか 百瀬あすか 桜井千春 倉本すみれ",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "多P",
+    "荡妇",
+    "内衣",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84103",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84103&name=松本一香"
+    },
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84103&name=雫月心桜"
+    },
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84103&name=小栗操"
+    }
+  ]
+};

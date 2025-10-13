@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/00376ad0-a870-424f-9ae7-d5966f233ad1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/07/4326fcda/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3095,
+  "IDcode": "LABY-004",
+  "title": "父女亂倫關系從那場大雨淋溼回家開始 ~ 安堂はるの",
+  "publish_date": "2025-08-30",
+  "type": "有码",
+  "company": "三和軟體",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "父女",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "金髮",
+    "清楚系",
+    "單體作品",
+    "鬼畜片",
+    "癡女",
+    "手指插入",
+    "父親",
+    "美人",
+    "辣妹/GAL系",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "LABY-004为三和軟體出品,2025年8月30日发行的有碼成人影片由安堂はるの出演\n男女之间的感情总是像迷宫一样复杂。最近，父亲一直为和有点小叛逆的女儿はるの之间的距离而烦恼。就在这时，放学后被大雨淋得湿透的はるの回到了家。制服下若隐若现的内衣，女高中生的白嫩长腿，湿漉漉的头发和顺着年轻肌肤滑落的水滴，让父亲心跳加速，竟然忍不住对はるの伸出了手。就这样，父女之间的距离迅速拉近，陷入了肉体关系的禁忌迷宫，再也无法自拔……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004139799799_38749_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004139799799_38749_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3095",
+  "actresses": [
+    {
+      "name": "安堂はるの",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/a99a3667-810d-4742-8eba-53534ad3f779.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3095&name=安堂はるの"
+    }
+  ]
+};

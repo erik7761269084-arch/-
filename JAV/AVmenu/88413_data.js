@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/03/0da3e9b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88413,
+  "IDcode": "MIDE-870",
+  "title": "嫁の連れ娘（みあ）に誘惑ささやき騎乗位でチ○ポバカになるまで痴女られ続けて… 七沢みあ",
+  "publish_date": "2021-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "乱伦",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231007-1/6e621b3f3aed86ee7ae7337f365d0065.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88413",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88413&name=七泽美亚"
+    }
+  ]
+};

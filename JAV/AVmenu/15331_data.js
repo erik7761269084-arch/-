@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b49e151-a7a1-4154-9269-6d469b3f5157/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15331,
+  "IDcode": "DLDSS-294",
+  "title": "參加穿着性感騷氣內衣的現役平面模特柊木裏音的攝影會吧 導演會挑選幸運兒和柊木裏音3P哦",
+  "publish_date": "2024-05-23",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "私房攝影",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "情趣內衣",
+    "粉絲福利",
+    "猥褻穿著",
+    "寫真偶像",
+    "美少女電影",
+    "泳裝",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "DLDSS-294为DAHLIA出品,2024年5月23日发行的有碼成人影片由広瀬美結出演\n導演本人利用SNS招募想要與凹版偶像柊裡音發生性關係的男性。她無法掩飾自己對第一次完整的性愛影片和飲料的緊張，她說，「如果我不喝酒，我會很尷尬...」並開始與導演單獨拍攝，表現出尷尬。伸出你的屁股，炫耀你的色情！然後他將接力棒傳給下一個。 50多歲戀足癖男人玩弄本能，迷茫中被擊倒，然後和兩個肉食男在3P中來了一場嚴肅的性愛場面！柊里翁的新性癖好被喚醒，因為她對彼此有著強烈的渴望，並在封閉的酒店房間裡整天被完全暴露在她的慾望之下的男人玩弄。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240418230226248248.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240418230226248248.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15331",
+  "actresses": [
+    {
+      "name": "広瀬美結",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/5eeaab9f-8dca-43a2-ae9e-7f8628257891.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15331&name=広瀬美結"
+    }
+  ]
+};

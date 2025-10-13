@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240501/8jirHKcF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91388,
+  "IDcode": "CLOT-024",
+  "title": "パンストの誘惑 羽佐美めい パンティと生写真付き",
+  "publish_date": "2023-11-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "连裤袜",
+    "校服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240501-1/ff3deda141e8c7201194d99bf520b6de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91388",
+  "actresses": [
+    {
+      "name": "羽佐美めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91388&name=羽佐美めい"
+    }
+  ]
+};

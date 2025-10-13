@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7c544f75-bace-4c76-9134-ea82b6ffb6af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5953,
+  "IDcode": "XMOM-092",
+  "title": "光天化日下人妻的羞恥性愛 ~ 千石もなか",
+  "publish_date": "2025-05-22",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "手指插入",
+    "地味",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "XMOM-092为熟女人妻最強廠出品,2025年5月22日发行的有碼成人影片由千石もなか出演\n大白天就想被人看光光的刺激人妻！平日白天，老公一出門，她就把野男人帶回家，瘋狂開幹！在老公不在的地方，被別的男人玩弄得欲仙欲死，展現出老公永遠看不到的騷浪一面，簡直是老公想都不敢想的畫面！口水和體液交融，濕得一塌糊塗的激烈交尾！身材火辣的人妻，隨便你怎麼中出，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014512590590_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014512590590_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5953",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5953&name=千石もなか"
+    }
+  ]
+};

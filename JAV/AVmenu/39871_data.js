@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39871,
+  "IDcode": "2CF30DD00F7649BDC29738982E2DD614",
+  "title": "对容易高潮的我毫不宽容搞到高潮 -想尝试限界能到哪- 宫泽沙织",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39871",
+  "actresses": []
+};

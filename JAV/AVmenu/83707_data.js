@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221230/oxp5ptby/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83707,
+  "IDcode": "NASH-207",
+  "title": "近親レズビアン第3章",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "女同性恋",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/7aeff98545fd0b808adeb413036efc48.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83707",
+  "actresses": []
+};

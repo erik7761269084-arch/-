@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/12/165b07b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77205,
+  "IDcode": "BBAN-508",
+  "title": "百合と噛み跡 ドマゾ淫乱レズビアン 日常を忘れるくらい、最高にスケベな女になれる関係",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "女同性恋",
+    "接吻",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/165b07b3/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77205",
+  "actresses": [
+    {
+      "name": "八森若菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231231/6c0cec5b-9ec8-4063-b445-e62e376fbf56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77205&name=八森若菜"
+    }
+  ]
+};

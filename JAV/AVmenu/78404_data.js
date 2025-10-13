@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/22/a271ca0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78404,
+  "IDcode": "MEYD-552",
+  "title": "幼なじみだった川上奈々美と希島あいりが朝から晩まで中出ししまくりOKな俺の嫁",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "白天出轨",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/7ffeac2e018e96548dc54706b843859f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78404",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78404&name=希島愛理"
+    },
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78404&name=川上奈奈美"
+    }
+  ]
+};

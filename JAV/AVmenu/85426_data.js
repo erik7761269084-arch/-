@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/30/9042257f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85426,
+  "IDcode": "MIDV-089",
+  "title": "禁欲痴女と絶倫オヤジが狂ったようにヤリまくる 射精もアクメも無制限本能丸出し性欲モンスター温泉不倫旅行 石原希望",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "潮吹",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85426",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85426&name=石原希望"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85426&name=田渊正浩"
+    }
+  ]
+};

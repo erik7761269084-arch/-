@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240621/R5rsRijD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102626,
+  "IDcode": "UNDG-003",
+  "title": "蜜月 只屬於二人的人妻不倫旅行",
+  "publish_date": "2022-12-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "出轨",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1undg003/1undg003pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102626",
+  "actresses": []
+};

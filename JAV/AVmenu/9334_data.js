@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e211928-70b2-4d84-bc79-469d7e3836be/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9334,
+  "IDcode": "START-224",
+  "title": "檢證。接觸了侵害男學生的女老師！禁欲三年後，這女人的性欲會瘋狂到什麼程度？~ MINAMO",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "女教師",
+    "車震",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "變態",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "奇聞趣事",
+    "癡女",
+    "校園生活",
+    "奇異的",
+    "KTV夜總會",
+    "美人",
+    "學校",
+    "眼鏡",
+    "綠茶婊",
+    "短髮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250107/20250107003151791791.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250107/20250107003151791791.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9334",
+  "actresses": [
+    {
+      "name": "MINAMO",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/b8984a16-a0ba-425f-81bb-10cf8f08ddcf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9334&name=MINAMO"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/28/4e114835/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73259,
+  "IDcode": "SSIS-676",
+  "title": "激イキ167回！ 痙攣4203回！ イキ潮2018cc！ 現役純真アイドル エロス覚醒 はじめての大・痙・攣スペシャル 前田美波 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-04-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "薄马赛克",
+    "子宫颈",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73259",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73259&name=前田美波"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73259&name=小田切ジュン"
+    }
+  ]
+};

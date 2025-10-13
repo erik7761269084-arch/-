@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/01/8880350d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94321,
+  "IDcode": "SONE-300",
+  "title": "グラドルの最胸おっぱいに挟まれたい… Jカップパイズリでおち●ぽトロけさせる五条恋の谷間ま●こビッチ5シチュエーション ALL挟射スペシャル （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2024-08-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "偶像",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94321",
+  "actresses": [
+    {
+      "name": "五条恋",
+      "img_url": "https://picture.yoshiclub.xyz/20231021/3f664448-8e67-475a-aa92-e777a31763a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94321&name=五条恋"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94321&name=小田切ジュン"
+    }
+  ]
+};

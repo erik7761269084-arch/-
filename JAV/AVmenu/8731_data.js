@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/50881093-0dee-4c40-96f8-9661a430cfb4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8731,
+  "IDcode": "SDJS-296",
+  "title": "處女喪失 這對我來說只是份工作而已！SOD女子社員 編成部 中途1年目 ~ 篠崎菜都香",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "處女",
+    "色白",
+    "紀念作",
+    "中出",
+    "OL",
+    "真人秀",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "少女",
+    "奇聞趣事",
+    "出道作品",
+    "清純",
+    "辦公室",
+    "地味",
+    "奇異的",
+    "真實拍攝",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250129/782720e3-bf76-4558-be9f-34d73d3355db.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250129/782720e3-bf76-4558-be9f-34d73d3355db.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8731",
+  "actresses": [
+    {
+      "name": "篠崎菜都香",
+      "img_url": "https://picture.yoshiclub.xyz/20250129/f1d3dca0-2155-45f4-8f15-a00c35bfe1b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8731&name=篠崎菜都香"
+    }
+  ]
+};

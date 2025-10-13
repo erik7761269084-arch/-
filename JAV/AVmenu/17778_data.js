@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c9be75f5-a817-4ade-8a02-5395824196e9/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/16/274db542/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17778,
+  "IDcode": "MIDV-481",
+  "title": "穿著女僕裝可愛又下流的秋葉原偶像，超大的奶子來給你乳交",
+  "publish_date": "2023-11-22",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "口交",
+    "性感",
+    "女僕制服",
+    "巨乳"
+  ],
+  "description": "MIDV-481为MOODYZ出品,2023年11月22日发行的有碼成人影片由星七奈奈美出演\n【秋葉原著名偶像星七ななみ的神乳奉仕】蓬鬆的I罩杯會讓你射到蛋蛋都乾透了！ 星七ななみ讓你融化的溫柔，讓你心動的性感奶子！ 用驚人的乳交技巧不斷擠出你的精子。\n【秋葉原著名偶像星七ななみ的神乳奉仕】蓬鬆的I罩杯會讓你射到蛋蛋都乾透了！ 星七ななみ讓你融化的溫柔，讓你心動的性感奶子！ 用驚人的乳交技巧不斷擠出你的精子。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231118/180a01ba-4e1d-4cbf-9d0e-c965b07fb3b5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231118/180a01ba-4e1d-4cbf-9d0e-c965b07fb3b5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17778",
+  "actresses": [
+    {
+      "name": "星七奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/3d24007e-8ff5-45d7-9377-25fe6f69dc36.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17778&name=星七奈奈美"
+    }
+  ]
+};

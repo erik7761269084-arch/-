@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230306/1CFED3E9261EF6C7/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99953,
+  "IDcode": "FSET-854",
+  "title": "無意識に透けブラパンしている部活マネージャーに手を出しちゃった俺",
+  "publish_date": "2019-10-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "恋物癖",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1fset854/1fset854pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99953",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99953&name=佐倉陽菜"
+    },
+    {
+      "name": "藤井林檎",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-藤井林檎.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99953&name=藤井林檎"
+    },
+    {
+      "name": "市桥惠理奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99953&name=市桥惠理奈"
+    }
+  ]
+};

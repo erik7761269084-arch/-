@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230904/JVnIirHX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100667,
+  "IDcode": "DFDM-025",
+  "title": "射精っても止めないチンシャブ中毒女 佐藤ののか",
+  "publish_date": "2021-12-31",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "淫语",
+    "颜射",
+    "荡妇",
+    "内衣",
+    "口交",
+    "乳房",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100667",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100667&name=加藤桃香"
+    }
+  ]
+};

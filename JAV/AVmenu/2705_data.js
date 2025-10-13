@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e5a3ed0a-115c-4e27-b67a-c5b46dc75a38/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/1b140e18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2705,
+  "IDcode": "SQTE-628",
+  "title": "隨時待命的飛機杯學妹 ~ 北岡果林",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "高顏值",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "無毛"
+  ],
+  "description": "SQTE-628为S-CUTE出品,2025年9月12日发行的有碼成人影片由北岡果林出演\n「学长，这里有个小穴随时为你服务哦~」遮着脸却大开双腿，下面早就湿得一塌糊涂。被学长的大棒棒疯狂搅弄，飞机杯学妹爽到全身发抖，忍不住高潮喷水！这高性能飞机杯还会口技，超会舔！骑乘位、后入式，各种姿势随便玩，精液从穴里流个不停，中出也没问题！这变态小美女，简直就是太方便的性感玩具！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/202509140458119898_47343_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250914/202509140458119898_47343_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2705",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2705&name=北岡果林"
+    }
+  ]
+};

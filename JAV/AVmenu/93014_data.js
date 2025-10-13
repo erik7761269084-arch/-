@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241001/ZhM2mnrx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93014,
+  "IDcode": "NSFS-124-C",
+  "title": "上司と部下の妻19 ～私を助けるために妻はアイツに抱かれた～",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93014",
+  "actresses": []
+};

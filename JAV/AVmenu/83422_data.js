@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/27/9e642587/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83422,
+  "IDcode": "LUXU-1233",
+  "title": "ラグジュTV 1221 患者を誘惑する小悪魔の様な看護師がAVに登場！悪戯っぽい微笑を浮かべながら男を骨抜きにする手コキ、玉舐めはまさに魔性のテクニック！ガチ勃ちした巨根に跨り、妖艶な腰使いで乱れまくる！",
+  "publish_date": "2020-02-14",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "姐姐",
+    "颜射",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/06fc7b9360877ecb73d15b6185d75e43.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83422",
+  "actresses": [
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83422&name=胡桃圓"
+    }
+  ]
+};

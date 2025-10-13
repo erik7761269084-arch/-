@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/08/9d0fe4c2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96611,
+  "IDcode": "EUUD-054",
+  "title": "妖艶な人妻の涎だらだらベロキスと極濃つゆだく中出しセックス 工藤りおな",
+  "publish_date": "2024-07-04",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96611",
+  "actresses": [
+    {
+      "name": "工藤りおな",
+      "img_url": "https://picture.yoshiclub.xyz/20240801/8ac074c6-eb38-47be-88ce-ee38ba22a585.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96611&name=工藤りおな"
+    }
+  ]
+};

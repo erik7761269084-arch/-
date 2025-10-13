@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a258334-d788-42fc-8348-94d5be4b16f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 722,
+  "IDcode": "HEYZO-0873",
+  "title": "美麗的蕩婦——展現你的激情！ ～ - 中島京子",
+  "publish_date": "2015-06-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "中出",
+    "OL",
+    "女上位",
+    "制服",
+    "口交",
+    "女王",
+    "性感",
+    "美腳",
+    "人妻",
+    "熟女"
+  ],
+  "description": "HEYZO-0873为HEYZO出品,2015年6月3日发行的無碼成人影片由中島京子出演\n美痴女～ヤル気を見せなさい！～ - 中島京子",
+  "cover_url": "https://picture.yoshiclub.xyz/20240814/dac145d1-2762-4685-95a4-643375c1dfd6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240814/dac145d1-2762-4685-95a4-643375c1dfd6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=722",
+  "actresses": [
+    {
+      "name": "中島京子",
+      "img_url": "https://picture.yoshiclub.xyz/20240717/2763bbd5-1478-4f55-82ec-6ca5a9e8db19.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=722&name=中島京子"
+    }
+  ]
+};

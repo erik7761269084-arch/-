@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/2db3fb7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75712,
+  "IDcode": "VEC-675",
+  "title": "毎日オナニーする隣のエロい人妻に我慢の限界―。理性が吹き飛び欲情が止まらない濃密エクスタシー性交 森沢かな",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "自慰",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75712",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75712&name=森澤佳奈"
+    }
+  ]
+};

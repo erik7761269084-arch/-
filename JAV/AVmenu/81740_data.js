@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221101/EpzKSrMb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81740,
+  "IDcode": "JUKF-039",
+  "title": "某AV事務所で働く美人女子マネージャーがクライアント相手に肉体接待 「お仕事のためなら何でも言う事を聞きます…」 水谷さん 水谷あおい",
+  "publish_date": "2020-03-28",
+  "type": "有码",
+  "company": "JUMP",
+  "genres": [
+    "中出",
+    "自慰",
+    "第一人称摄影",
+    "各种职业",
+    "羞耻",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/62ca697def121370a6bcc21fce9ca8da.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81740",
+  "actresses": [
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81740&name=水谷あおい"
+    }
+  ]
+};

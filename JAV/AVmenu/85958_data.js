@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/RbdH5aWj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85958,
+  "IDcode": "PPPE-075",
+  "title": "今からウチ行ってイイですか？ ボイン大好き絶倫クンのお宅へ突撃デリバリー！ 夕美しおんの本気パイズリを5分我慢できれば生中出しSEXしてアゲル！",
+  "publish_date": "2022-09-16",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "感谢祭",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85958",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85958&name=夕美紫苑"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250120/NmwJOy2G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73556,
+  "IDcode": "324SRTD-0309",
+  "title": "[HD/720p] 大人しそうなのにヤバイレベルのド変態女",
+  "publish_date": "2022-10-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250120-1/9b3347a2f68ef4c30b6a989c379f0962.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73556",
+  "actresses": []
+};

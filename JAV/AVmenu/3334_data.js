@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/89533812-18b3-4836-a92e-8b2f5fa16392/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/137f9934/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3334,
+  "IDcode": "VENX-335",
+  "title": "公公別這樣！我洗澡時你怎麼能隨便闖進來啊！~ 小野寺舞",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "VENX-335为VENUS出品,2025年8月21日发行的有碼成人影片由小野寺舞出演\n小舞正在浴室里洗得舒舒服服，突然义父一句“舞，我进来啦”就直接推门而入，吓得她一脸懵逼。平时文静又温和的义父怎么突然这么霸道？还说什么“咱是家人，帮你搓个背不过分吧”，这歪理根本没给她反驳的机会，直接把她逼到浴室角落。义父那满是皱纹的手指开始在她紧致的身子上游走，那一刻，小舞知道，她平静的婚姻生活彻底完蛋了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025756615615_24747_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025756615615_24747_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3334",
+  "actresses": [
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3334&name=小野寺舞"
+    }
+  ]
+};

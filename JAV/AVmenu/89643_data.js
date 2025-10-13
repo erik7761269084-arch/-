@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/AQVxlILt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89643,
+  "IDcode": "SDDE-669",
+  "title": "リンパ無制限ドバドバ精子垂れ流しハーレム4P南国リゾート古式スパ",
+  "publish_date": "2022-06-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89643",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89643&name=渚光希"
+    },
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89643&name=竹田夢"
+    },
+    {
+      "name": "前乃菜菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/886ce837-0a74-41dd-9645-35a63f255a74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89643&name=前乃菜菜"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/6zV60VjY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70290,
+  "IDcode": "MKON-041",
+  "title": "ストーカー被害にあってる幼馴染に下校中のボディーガードを頼まれた 吉良りん",
+  "publish_date": "2020-12-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "校服",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250314-1/01dd84c05c4507bd58502e267333793a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70290",
+  "actresses": [
+    {
+      "name": "吉良鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/b06efc5c-d71d-4265-948e-edc9267e8af8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70290&name=吉良鈴"
+    }
+  ]
+};

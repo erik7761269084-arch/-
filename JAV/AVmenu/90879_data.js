@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/03/f40f4202/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90879,
+  "IDcode": "BIJN-242",
+  "title": "THE ドキュメント 本能丸出しでする絶頂SEX Jカップ爆乳豊満OL欲望剥き出し猛獣ファック 南畑颯花",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "纪录片",
+    "胖女人",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90879",
+  "actresses": [
+    {
+      "name": "ししお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90879&name=ししお"
+    },
+    {
+      "name": "戸川夏也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90879&name=戸川夏也"
+    }
+  ]
+};

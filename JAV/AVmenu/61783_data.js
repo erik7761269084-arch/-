@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/20/48e59bd7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61783,
+  "IDcode": "SONE-781",
+  "title": "全身が勃起する超肉体エロティック映像 4K機材撮影×Hcupふんわりマシュマロ乳 南沢海香のパーフェクトオナニーアシスト 生写真3枚付き",
+  "publish_date": "2025-08-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "苗条",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61783",
+  "actresses": [
+    {
+      "name": "南澤海香",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/53df41ef-64f7-4be6-a90c-0c6674f1e9ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61783&name=南澤海香"
+    }
+  ]
+};

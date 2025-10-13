@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230207/5KvDmSvF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86486,
+  "IDcode": "SVDVD-891",
+  "title": "募集素人若奥様マシンバイブチャレンジ！最後まで潮を吹かなかったら100万円！負けたら中出しSEX！Vol3",
+  "publish_date": "2021-11-25",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "潮吹",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86486",
+  "actresses": []
+};

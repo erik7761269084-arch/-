@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/27/cda620bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73362,
+  "IDcode": "STAR-993",
+  "title": "白石茉莉奈 おっぱい吸いながらバブバブ赤ちゃんプレイでオナニーのお手伝いしてあげる",
+  "publish_date": "2018-10-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫语",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/27/c4905f1802ba0f776bc3900a5c3e34ba.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73362",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73362&name=白石茉莉奈"
+    }
+  ]
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d4d3e129-caab-498d-8ad1-4652a58cbe1b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7011,
+  "IDcode": "NGOD-261",
+  "title": "親戚的婚禮後…對盛裝禮服的繼母異常發情…背德的同房大屌不倫 ~ 蘆名穗花",
+  "publish_date": "2025-04-09",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "繼母",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "美人",
+    "熟女",
+    "寢取",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250405/adcf19b3-1334-47a1-8718-ac3220f05800.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250405/adcf19b3-1334-47a1-8718-ac3220f05800.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7011",
+  "actresses": [
+    {
+      "name": "蘆名穗花",
+      "img_url": "https://picture.yoshiclub.xyz/20240129/831d50f4-c90b-4496-8acb-3dfccfccb4da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7011&name=蘆名穗花"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/30098437-b5fb-4afc-b1c1-d2482a1c32e1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3844,
+  "IDcode": "FNS-081",
+  "title": "主人懲罰超帶感，自願淪爲大叔專屬肉便器的地味眼鏡女僕 ~ 淺野心愛",
+  "publish_date": "2025-08-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "女僕",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "網襪",
+    "調教",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "眼鏡"
+  ],
+  "description": "FNS-081为FALENO出品,2025年8月6日发行的有碼成人影片由浅野心愛出演\n心愛原本只是隨便玩玩交友軟體，沒想到被一個大叔級的老男人搞到高潮連連，小穴都抽搐了，爽到直接爆棚！想都不想就答應當他家的住家女僕。每天早上用濃烈熱吻喚醒主人，大屁股下的小穴被舌頭狂舔，喘息聲根本壓不住，硬挺的肉棒直插到底，整個臥室充滿淫蕩的味道。事後還得在浴室裡跪著口交伺候，主人一回家就迫不及待狂舔她憋了一天的小穴，爽到不行。某天主人帶了個年輕下屬回家，竟然命令她去陪玩……這劇情，真的辣到炸裂！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250805/20250805211815552552_41304_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250805/20250805211815552552_41304_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3844",
+  "actresses": [
+    {
+      "name": "浅野心愛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250521/7a8007e1-1778-47c8-8fdd-25a4d72bf012_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3844&name=浅野心愛"
+    }
+  ]
+};

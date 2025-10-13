@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd57b34d-9028-423b-9bae-ff023c49a764/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/26/2b0630ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13609,
+  "IDcode": "SSNI-298",
+  "title": "AV業界No.1獨家新聞！ 彩美旬果完全私密 ~ 與異常性愛祕密拍攝成功，立即發布！ ~ 彩美旬果",
+  "publish_date": "2018-09-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "業餘",
+    "美乳",
+    "形象俱樂部",
+    "性感",
+    "主觀視角",
+    "偷拍・盜撮",
+    "美少女",
+    "巨乳",
+    "奇異的",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-298为S1出品,2018年9月7日发行的有碼成人影片由彩美旬果出演\n出道6年以來，綾美俊花作為頂級女演員活躍在AV界，成功拍攝了從未有人見過的真實私服。透過熟人的提示，我成功聯繫了一位認真的性朋友，在她的全力配合下，我徹底偷窺了她的私生活。 120%真人面孔的對話、成人商店的約會、性愛的生動淫蕩，超出了我們的預期。比一般AV更色情的業界最佳珍藏影片即將發布！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703013240295295.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240703/20240703013240295295.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13609",
+  "actresses": [
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13609&name=彩美旬果"
+    }
+  ]
+};

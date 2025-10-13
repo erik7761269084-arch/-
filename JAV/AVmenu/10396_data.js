@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3638bd0-23aa-45dc-b525-b14b2c17bbc0/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/515e5229/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10396,
+  "IDcode": "JUQ-944",
+  "title": "寢取串燒輪奸 心愛的妻子被人操到失禁 ~ 希島愛理",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "輪姦",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-944为MADONNA出品,2024年11月26日发行的有碼成人影片由希島愛理 出演\n我很長一段時間都說不出來。我永遠將它記在心裡。他要讓他深愛的妻子艾里，這個世界上最美麗最漂亮的女人，被一群陌生人輪姦…然而，他們無法帶著這種感情繼續婚姻生活。這就是為什麼他承認他想要給女友戴綠帽子，並將愛理介紹給一群中年男子。我心愛的妻子被男人包圍，她的嘴和陰戶被攪動......那是一個幾乎可以稱為「串燒」的非同尋常的場景，我感到異常興奮。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122000827952952.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122000827952952.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10396",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10396&name=希島愛理"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10396&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230225/EA7D0E1BE46E7497/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103245,
+  "IDcode": "FNEO-033",
+  "title": "@かほりん@10/22ライブ＃アカペラ＃弾き語り＃路上ライブ＃歌うま おい！！セクシー女優にいくんかい！かほりん！ツッコまさせていただくと同時に速攻ヌカせていただきます",
+  "publish_date": "2019-07-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "女大学生",
+    "女生",
+    "纪录片",
+    "角色扮演者",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_491fneo033/h_491fneo033pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103245",
+  "actresses": []
+};

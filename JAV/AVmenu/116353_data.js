@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/9cf1a9e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116353,
+  "IDcode": "FC2-4434335",
+  "title": "白皙18岁纯真无法忍耐终极甜蜜性爱",
+  "publish_date": "2025-08-13",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/9cf1a9e8/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116353",
+  "actresses": []
+};

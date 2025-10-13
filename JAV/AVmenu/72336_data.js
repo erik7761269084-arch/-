@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/25/7ba11857/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72336,
+  "IDcode": "LZWM-038",
+  "title": "チクビアン6 ビンビン乳首こねくりレズ性交",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "女同性恋",
+    "乳房",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/25/ba6d3dc72ae8358ab2d01477b4e810e0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72336",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=沙月惠奈"
+    },
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=月野香澄"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=有栖舞衣"
+    },
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=星乃夏月"
+    },
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=響乃詩"
+    },
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=雫月心桜"
+    },
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=八乃翼"
+    },
+    {
+      "name": "月岛さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72336&name=月岛さくら"
+    }
+  ]
+};

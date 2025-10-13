@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c94c4f22-f2f6-4440-b296-0a5bc344701b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/2ae2a849/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7309,
+  "IDcode": "ROE-325",
+  "title": "新人出道！在飛機上被超猛機長幹翻的前空姐人妻 吉瀬葵 42歲 忘不了偷情的刺激 首次亮相 AV DEBUT ~ 吉瀬葵",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "色白",
+    "中出",
+    "真人秀",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "美腳",
+    "清楚系",
+    "美人妻",
+    "出道作品",
+    "人妻",
+    "空姐",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "女優",
+    "羞恥"
+  ],
+  "description": "ROE-325为MADONNA出品,2025年3月25日发行的有碼成人影片由吉瀬葵出演\n葵芳瀨，42 歲，已婚女性，曾是一家大型航空公司的空服員。她是個美麗的女人，舉手投足間都散發著美麗，充滿優雅與智慧，讓每個人都羨慕不已。然後她向我吐露了一個她甚至不能告訴她丈夫的秘密。 「我和我們航班所搭乘飯店的機長有染。 「她不再滿足於與冷漠的丈夫進行性愛，她開始與船長進行激情的秘密會面。隨著她退休，這段戀情也結束了……此後，一邊回憶著與船長的性愛，一邊自慰就成了她每天的習慣。這次，她為了尋求超越與船長的戀情的刺激，瞞著丈夫來到了AV工作室…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110632863863.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320110632863863.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7309",
+  "actresses": [
+    {
+      "name": "吉瀬葵",
+      "img_url": "https://picture.yoshiclub.xyz/20250323/6de44697-4db3-439e-917e-a80dbb6c7adb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7309&name=吉瀬葵"
+    }
+  ]
+};

@@ -1,0 +1,119 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2494,
+  "IDcode": "MIST-484",
+  "title": "尻地獄 500分 10人 8時間20分尻地獄 第二彈 ~ 永野司 寶田萌奈美 新村朱裏 岡江凜 吉根柚莉愛 西村妮娜 乙愛麗絲 田中寧寧 織田真子",
+  "publish_date": "2025-09-10",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "超爆乳",
+    "調教",
+    "傲嬌",
+    "臀控",
+    "中出",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "丁字裤",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "顔面騎乘",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "混血",
+    "寫真女郎",
+    "清楚系",
+    "御姐系",
+    "清純",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "抹油",
+    "寫真偶像",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "精選綜合",
+    "極品美人",
+    "打屁股",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "MIST-484为Mr.Michiru出品,2025年9月10日发行的有碼成人影片由宝田萌奈美，田中寧寧，乙愛麗絲，新村朱里，織田真子，永野司，西村ニーナ，岡江凛，吉根柚莉爱出演\n來自Mr.michiru家的重口味廠牌「Mr.michiru+」推出的《臀部地獄》合集第二彈，500分鐘超長篇幅，兩碟裝滿滿福利！這次集結了10位臀部女神，總計976cm的超震撼巨臀，簡直是臀控的天堂地獄！永野司（96cm）、寶田萌奈美（93cm）、新村朱里（95cm）、岡江凛（100cm）等大咖齊聚，臉騎、臀交、油光臀臉騎，還有突出爆臀的地獄式玩法，比上一彈還猛，絕對讓你HOLD不住！8小時20分鐘的臀部地獄巡遊第二輪，臀控迷們還不快衝？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922224116121121_95170_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250922/20250922224116121121_95170_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2494",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=乙愛麗絲"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=新村朱里"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=吉根柚莉爱"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=田中寧寧"
+    },
+    {
+      "name": "宝田萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230616/69d08327-8fa4-49f6-b2e3-2a42181dcf31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=宝田萌奈美"
+    },
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=西村ニーナ"
+    },
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=織田真子"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=永野司"
+    },
+    {
+      "name": "岡江凛",
+      "img_url": "https://picture.yoshiclub.xyz/20240908/e992e81a-2ffe-4c4d-8655-ce8654c92445.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2494&name=岡江凛"
+    }
+  ]
+};

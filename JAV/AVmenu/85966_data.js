@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/91hRktqL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85966,
+  "IDcode": "PPPE-081",
+  "title": "高級ランジェリー回春エステ ねっとりパイズリ性感連射フルコース 櫻茉日",
+  "publish_date": "2022-10-18",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "按摩",
+    "恋乳癖",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/8e2e58354c76c91024f6ada2778d7c76.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85966",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85966&name=堀北実来"
+    }
+  ]
+};

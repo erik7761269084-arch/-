@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b8b8b18b-ed44-4849-b081-5a1994868996/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13297,
+  "IDcode": "BBTU-084",
+  "title": "巨乳淫女森本あかり",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13297",
+  "actresses": [
+    {
+      "name": "森本あかり",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/f0545c1c-260e-48c0-819c-fcb7f185a6bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13297&name=森本あかり"
+    }
+  ]
+};

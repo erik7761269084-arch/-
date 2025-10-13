@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/PUBJepR8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81992,
+  "IDcode": "SHYN-088",
+  "title": "SOD女子社員 フェラチオシンデレラ選手権 予選C組",
+  "publish_date": "2020-03-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "荡妇",
+    "口交",
+    "羞耻",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81992",
+  "actresses": [
+    {
+      "name": "持田栞里",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/1a5f8b00-4f21-4e67-8eb1-a269d4c40177.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81992&name=持田栞里"
+    },
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81992&name=若宫穂乃"
+    },
+    {
+      "name": "星野优衣香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81992&name=星野优衣香"
+    }
+  ]
+};

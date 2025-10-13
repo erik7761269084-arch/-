@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/1d25b9a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63316,
+  "IDcode": "NIMA-055",
+  "title": "【FANZA限定】実写版 ワイルド式日本人妻の寝取り方其ノ四 吉根ゆりあ 生写真付き",
+  "publish_date": "2025-04-16",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "黑人演员",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63316",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63316&name=吉根柚莉爱"
+    }
+  ]
+};

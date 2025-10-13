@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230928/7uDS3s23/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64760,
+  "IDcode": "4B983E5A701900DD5E3D6AE54D798DF-6",
+  "title": "大嫌いな研究室のセクハラ教授が相性抜群の絶倫デカチンだったなんて… ～相部屋NTRにキメセク堕ちしたリケジョの性～ 小栗みゆ",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64760",
+  "actresses": []
+};

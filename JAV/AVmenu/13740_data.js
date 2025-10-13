@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3147390b-0718-42b2-846b-50a690935c57/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13740,
+  "IDcode": "CEMD-546",
+  "title": "肛門發情！ ~本能地感受一下！美麗的女人喘息和瘋狂的令人愉快的女同性戀〜",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "無做愛場面",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "跳蛋",
+    "口交",
+    "自宅",
+    "女同性戀",
+    "性感",
+    "舔陰",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "插入異物"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240624/41658761-3a4c-44d4-b79c-08e9b2cca5de.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240624/41658761-3a4c-44d4-b79c-08e9b2cca5de.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13740",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13740&name=美咲佳奈"
+    },
+    {
+      "name": "凰華鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/ec9a896b-e317-44ce-9a1b-7c45fe76015a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13740&name=凰華鈴"
+    }
+  ]
+};

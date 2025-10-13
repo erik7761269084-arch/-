@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56383,
+  "IDcode": "BEB5F2CB7F72FF48F9E51328CFF68DB6",
+  "title": "与自慰到湿透的女孩绝顶性交Vol.7 七濑奈奈",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56383",
+  "actresses": []
+};

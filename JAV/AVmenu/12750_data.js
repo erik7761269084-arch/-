@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aa16b827-b1ba-46f2-98ec-377bb06c42a3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12750,
+  "IDcode": "EKDV-749",
+  "title": "當我來到情趣酒店與SNS上發現的白皙美女做愛...她是一個比想象有更大巨乳的蕩婦，我讓她高潮了一次又一次 ~ 千鶴えま",
+  "publish_date": "2024-08-14",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "69",
+    "劇情",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "約炮",
+    "美少女電影",
+    "情趣飯店",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240811/55e79889-b411-4839-92d8-d8fb79791293.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240811/55e79889-b411-4839-92d8-d8fb79791293.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12750",
+  "actresses": [
+    {
+      "name": "千鶴えま",
+      "img_url": "https://picture.yoshiclub.xyz/20240425/b626b612-35e7-46e9-a586-4bd0c7d1a45c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12750&name=千鶴えま"
+    }
+  ]
+};

@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ffae00a5-44c4-4cfb-910b-6f082ff798ad/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/08/5f06784f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11867,
+  "IDcode": "SONE-372",
+  "title": "被男優包圍，一次又一次被插入，一次又一次射精！高潮後！，她依然繼續被大力的操着，這是她人生中的第一次12小時大亂交！ ~ 兒玉七海",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "大亂交",
+    "流汗",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "過膝襪・小腿襪",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "即時插入",
+    "插入異物",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SONE-372为S1出品,2024年9月24日发行的有碼成人影片由兒玉七海出演\n【兒玉七海大亂交特輯】從早上起12小時內陸續出現的陰莖所插入的追求活塞！很少插入兒玉七海，即使超過限度也繼續性交的巨大狂歡極致！她一進工作室，我就立刻把它插入她的陰戶！活塞活塞活塞無論您在走廊還是樓梯上！ ！ ！ 「我受不了這麼多雞巴……我受不了了！！！」 ……接下來輪到我的傢伙了。七海醬，請和我做愛吧。現在，插入它！ 「烏吉亞啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊形式，形狀，形式和形式，",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/202409190003371616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/202409190003371616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11867",
+  "actresses": [
+    {
+      "name": "兒玉七海",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/64c17f35-2db4-4964-b70d-2310c597791d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11867&name=兒玉七海"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11867&name=イセドン内村"
+    }
+  ]
+};

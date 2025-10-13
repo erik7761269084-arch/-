@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/A31BD2F96A6D573A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97438,
+  "IDcode": "LUXU-736",
+  "title": "ラグジュTV 738",
+  "publish_date": "2017-08-03",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "颜射",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97438",
+  "actresses": []
+};

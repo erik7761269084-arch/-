@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250305/ZxuF32uA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71040,
+  "IDcode": "JUFE-063",
+  "title": "妻が友人の結婚式で家にいない間に爆乳で美人の妻の姉を犯し中出ししまくった5日間の調教記録 織田真子",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "调教",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250305-1/59acf4ff3f3b56c117fd10fb2924fd42.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71040",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71040&name=織田真子"
+    }
+  ]
+};

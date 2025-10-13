@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/122e9f06-5f5a-4525-a763-d342caa00f76/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/ucbADw3b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12669,
+  "IDcode": "PPPE-252",
+  "title": "長身巨乳女友在我面前被討厭的變態渣男教練大雞巴秒殺，大雞巴肉感NTR ~ 星明日菜",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "變態",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "運動女孩",
+    "高妹",
+    "多P",
+    "美少女",
+    "體育舘",
+    "巨乳",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "PPPE-252为OPPAI出品,2024年8月20日发行的有碼成人影片由星明日菜出演\n「我和亞絲娜三個月前就開始約會了……排球部是禁止約會的，所以我們當然沒有告訴任何人……」但不知道為什麼，教練發現了我們在約會，然後沒想到最糟糕的事情竟然會發生……女排隊員亞絲娜接到教練的電話，詢問她和男友蒼井空的關係，被迫做出選擇：離開隊。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815232506103103.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815232506103103.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12669",
+  "actresses": [
+    {
+      "name": "星明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240113/8440afe2-37f9-4684-bee8-1dd1fcc223a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12669&name=星明日菜"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12669&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/27/ccd6a8cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106622,
+  "IDcode": "NKKD-299",
+  "title": "【FANZA限定】恋愛巨根NTR 年下君の恋愛相談に乗っていた世話好きな妻がフル勃起のデカチンに快楽堕ちでねとられました… 小花のん パンティと生写真付き",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "巨大阴茎",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106622",
+  "actresses": []
+};

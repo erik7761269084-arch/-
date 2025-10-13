@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220621/19D8CFB99B13B77A/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37183,
+  "IDcode": "7DC88BDEE516E2C35593A019D9A390E-4",
+  "title": "口罩姬 极上の绝对美乳",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37183",
+  "actresses": []
+};

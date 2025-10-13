@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/03fd5e42-6df5-4062-b074-4304e58185b7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6085,
+  "IDcode": "MMUS-097",
+  "title": "極致變態手淫調教 絕對挑逗淫語控制 ~ 松井日奈子",
+  "publish_date": "2025-05-17",
+  "type": "有码",
+  "company": "MARRION",
+  "genres": [
+    "高顏值",
+    "企畫",
+    "網襪",
+    "4K",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "角色扮演",
+    "小隻馬",
+    "白絲",
+    "蠻橫嬌羞",
+    "淫語",
+    "主觀視角",
+    "打手槍",
+    "美腳",
+    "教學",
+    "地雷系",
+    "奇聞趣事",
+    "自慰",
+    "單體作品",
+    "過膝襪・小腿襪",
+    "癡女",
+    "高跟鞋",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "女優"
+  ],
+  "description": "MMUS-097为MARRION出品,2025年5月17日发行的有碼成人影片由松井日奈子出演\n普通的自慰辅助根本不够看！这次带来的是超恶趣味、超变态的极致调教体验，刺激又深入的命令直接把你拉进那个禁忌的世界！身高只有145cm的迷你萝莉妹子，用她那毒舌又霸道的淫语指令，狠狠地羞辱你！只要你敢听从她的命令，绝对能解锁全新的变态癖好，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517020831981981_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250517/20250517020831981981_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6085",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6085&name=松井日奈子"
+    }
+  ]
+};

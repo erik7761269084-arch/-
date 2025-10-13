@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/0ESwPWSB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68042,
+  "IDcode": "DASS-055",
+  "title": "お尻が言うこと、聞かないんです。デカ尻に支配され、本能に抗えないスレンダーお姉さんの誘惑。 黒川すみれ",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "屁股",
+    "连裤袜",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68042",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68042&name=黑川堇"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68042&name=ニック"
+    }
+  ]
+};

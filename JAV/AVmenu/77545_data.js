@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/09/af7bad2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77545,
+  "IDcode": "SILK-135",
+  "title": "One’s Daily Life season5- make memories-",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "戏剧",
+    "情侣",
+    "恋爱",
+    "给女性观众"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/11/45a0fe0eb9765e327aca2f1e272016c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77545",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=通野未帆"
+    },
+    {
+      "name": "原美织",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250823/1876b0a8-e189-447b-b303-513c28224e48_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=原美织"
+    },
+    {
+      "name": "上原千明",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/川原梨央.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=上原千明"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=向理来"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=篠田优"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=优梨まいな"
+    },
+    {
+      "name": "及川大智",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=及川大智"
+    },
+    {
+      "name": "有马芳彦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77545&name=有马芳彦"
+    }
+  ]
+};

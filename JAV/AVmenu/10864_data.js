@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/26bb1f52-458c-4aa2-9e67-cb16e5f2321f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10864,
+  "IDcode": "XVSR-783",
+  "title": "絲足控必看！超攻擊性的絲足特寫專輯",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "企畫",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "美腿",
+    "肉絲",
+    "白絲",
+    "主觀視角",
+    "美腳",
+    "美少女",
+    "自慰",
+    "美人妻",
+    "人妻",
+    "精選總編集",
+    "足交",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241105/677997c4-136f-43db-b343-07de84c9ea66.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241105/677997c4-136f-43db-b343-07de84c9ea66.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10864",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=有村希"
+    },
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=绀野光"
+    },
+    {
+      "name": "三田櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231204/f15c686f-2ac7-4f04-beea-ee3ab37abb44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=三田櫻"
+    },
+    {
+      "name": "豊岡さつき",
+      "img_url": "https://picture.yoshiclub.xyz/20231228/63f05ddd-9019-4259-be8b-dd0ec2ba913f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=豊岡さつき"
+    },
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=岬梓沙"
+    },
+    {
+      "name": "咲野瑞希",
+      "img_url": "https://picture.yoshiclub.xyz/20240909/c66d8553-01ef-4953-a917-ddab6c5646d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=咲野瑞希"
+    },
+    {
+      "name": "二宮和香",
+      "img_url": "https://picture.yoshiclub.xyz/20240620/4eed77a4-0ee7-4b22-8adc-1efdb2f67b3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=二宮和香"
+    },
+    {
+      "name": "藤野つかさ",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/429e106c-1719-4104-8df3-da0c40f40236.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=藤野つかさ"
+    },
+    {
+      "name": "椎菜える",
+      "img_url": "https://picture.yoshiclub.xyz/20241105/0f728417-83c7-45eb-9208-bc9a289c7183.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=椎菜える"
+    },
+    {
+      "name": "椎名ゆきの",
+      "img_url": "https://picture.yoshiclub.xyz/20240417/292f7c19-4546-458f-8b71-9a713f58852f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10864&name=椎名ゆきの"
+    }
+  ]
+};

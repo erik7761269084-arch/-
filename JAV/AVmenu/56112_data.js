@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56112,
+  "IDcode": "232431C6D68CA2699990A5B7E431C5B4",
+  "title": "日本妈妈",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56112",
+  "actresses": []
+};

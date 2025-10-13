@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/jVORW8bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58148,
+  "IDcode": "ONEZ-347",
+  "title": "[HD/720p] 孕ませok雌堕ち肉便器懇願 なんでも言うこと聞いてくれる完全合意痴女娘…お届けします。都合の良いセフレ 朝日りん 01",
+  "publish_date": "2023-01-05",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/1ce0d2d48b756134bf215ef2942fee2b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58148",
+  "actresses": []
+};

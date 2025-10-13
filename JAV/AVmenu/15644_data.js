@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f004a8ec-6893-4d9a-9dba-7baa15cdc341/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15644,
+  "IDcode": "MILK-204",
+  "title": "口交不算出軌吧？喜歡口交的護士用舌吻和吞精口交引誘我。她體質敏感，所以在我牀上噴了很多。病房裏的反向NTR。及川海",
+  "publish_date": "2024-04-04",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "劇情",
+    "醫院・診所",
+    "吞精",
+    "中出",
+    "蕩婦",
+    "口交",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240404/afc87465-d57a-4f0f-8a89-4964ae71cb9c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240404/afc87465-d57a-4f0f-8a89-4964ae71cb9c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15644",
+  "actresses": [
+    {
+      "name": "及川海",
+      "img_url": "https://picture.yoshiclub.xyz/20240104/ea1c595e-a07d-4e7f-a7f4-f866c87c2521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15644&name=及川海"
+    }
+  ]
+};

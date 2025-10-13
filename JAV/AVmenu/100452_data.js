@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/14/93410517/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100452,
+  "IDcode": "HMN-329",
+  "title": "夢はIDOL！美少女アルバイトちゃん初めてのナマ中出し 桜木あむ",
+  "publish_date": "2023-03-24",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "苗条",
+    "角色扮演者",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100452",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100452&name=鲛岛"
+    },
+    {
+      "name": "桜木あむ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100452&name=桜木あむ"
+    }
+  ]
+};

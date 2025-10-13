@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230122/oEJrvENV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85311,
+  "IDcode": "MIAA-651",
+  "title": "メスイキ感度99倍！彼女ができたことに嫉妬した幼馴染の媚薬ペニバンでドライオーガズム改造されたボク 百瀬あすか",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "荡妇",
+    "M男",
+    "肛交",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85311",
+  "actresses": [
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85311&name=小栗操"
+    }
+  ]
+};

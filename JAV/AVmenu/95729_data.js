@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/10/4eb6356a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95729,
+  "IDcode": "JUX-634",
+  "title": "老爸的女人 本田岬",
+  "publish_date": "2015-07-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "女上位",
+    "荡妇",
+    "屁股",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/10/ba8b79b0853e2757e46e68ed4a4194f5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95729",
+  "actresses": [
+    {
+      "name": "本田岬",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/b27aa824-eb3f-492b-b103-7283031805ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95729&name=本田岬"
+    }
+  ]
+};

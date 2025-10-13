@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/b177d69c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61654,
+  "IDcode": "AKDLD-334",
+  "title": "男性幸福向上委員会 サテン手袋コキで勃起改善！稲森あみ乃南ゆい水澄せいら藤咲紫神村さつき",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/18/edafd778ca3ddd79757a6770b5c9b79e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61654",
+  "actresses": []
+};

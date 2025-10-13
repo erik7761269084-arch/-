@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/6G9tVv8w/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81813,
+  "IDcode": "LULU-014",
+  "title": "筋トレおばさんの鍛え上げられた肉厚尻に見惚れていたらヒップアップ杭打ち騎乗位で精子が枯れるまで何度もシゴかれた 中出し合計8回",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "屁股",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/64f93d626d780d0b4439ecb9eeae707f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81813",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81813&name=凛音とうか"
+    },
+    {
+      "name": "唯乃光",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81813&name=唯乃光"
+    }
+  ]
+};

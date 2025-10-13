@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/c01885bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62341,
+  "IDcode": "GOJI-066",
+  "title": "禁断の情事 息子に恋したお母さん",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "五次元",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "母亲",
+    "巨大屁股",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62341",
+  "actresses": []
+};

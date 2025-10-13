@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f8a147f5-81e0-4a33-a8dc-32c0132c9ecc/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/12/d0bb57ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12786,
+  "IDcode": "JUQ-843",
+  "title": "我讓我的阿姨懷孕了，她是個蕩婦一直嘲笑我是處男 ~ 実浜みき",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "嬸嬸",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-843为MADONNA出品,2024年8月13日发行的有碼成人影片由実浜みき出演\n我是浪人學生的第一年，為了在東京的預科學校上學，我必須住在三木阿姨家。我很感激讓我留下來，但說實話，我不喜歡Miki。她高高在上說話，使用閃閃發光的社交媒體，甚至還有自由奔放的性生活……她把家務交給丈夫，隨心所欲地度過自己的時間。此外，他還侮辱我，稱我為不受歡迎的處女。我再也忍受不了了，所以我開始跟蹤美希，以抓住她的弱點。當他看到三木和某個男人消失在酒店裡時，他想到了一個計劃…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234713502502.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240808/20240808234713502502.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12786",
+  "actresses": [
+    {
+      "name": "実浜みき",
+      "img_url": "https://picture.yoshiclub.xyz/20240212/52e5ba59-ff17-4f4b-98fd-450d9a6715bc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12786&name=実浜みき"
+    }
+  ]
+};

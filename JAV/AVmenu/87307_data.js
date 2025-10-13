@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/urgCf2hX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87307,
+  "IDcode": "BUBB-120",
+  "title": "階段女子校生 発展途上の女子校生の割れ目に食い込んだり、おま○この形を浮き立たせるパンティが見たい 編",
+  "publish_date": "2022-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "制服",
+    "内衣",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/fb27ddf736b847f521d3920ce46899bd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87307",
+  "actresses": []
+};

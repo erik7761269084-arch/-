@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/294b08ec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70339,
+  "IDcode": "NACR-921",
+  "title": "メンズエステに行ったらまさかのエリート女子社員が！？立場を悪用しタダマン女にしてやった！！ 澪川はるか 生写真とパンティ付き",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "玩具",
+    "乳房",
+    "巨大屁股",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/01/62e88f3b6635304fb51cf02f585e0d29.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70339",
+  "actresses": [
+    {
+      "name": "澪川遙",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/c3972f07-f17e-4422-a39c-c675489726fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70339&name=澪川遙"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70339&name=タクト"
+    }
+  ]
+};

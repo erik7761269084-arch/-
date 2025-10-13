@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/17/91389ede/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105629,
+  "IDcode": "SOE-649",
+  "title": "偷情的對象是麻美由真。麻美由真",
+  "publish_date": "2011-09-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "出轨",
+    "浴衣",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105629",
+  "actresses": [
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105629&name=麻美由真"
+    }
+  ]
+};

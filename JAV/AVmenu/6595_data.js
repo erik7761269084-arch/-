@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5dc11011-9089-45c1-8ddd-61cb44d077fa/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6595,
+  "IDcode": "MBMA-024",
+  "title": "不能出聲的場景下…高潮不斷的妹子們 爽到不行卻拼命忍住呻吟聲瘋狂扭動 12人4小時 Vol.4",
+  "publish_date": "2025-04-25",
+  "type": "有码",
+  "company": "MBM",
+  "genres": [
+    "企畫",
+    "劇情",
+    "形象俱樂部",
+    "4小時以上作品",
+    "巨乳",
+    "精選總編集",
+    "淫蕩・硬核",
+    "熟女",
+    "精選綜合"
+  ],
+  "description": "MBMA-024为MBM出品,2025年4月25日发行的有碼成人影片\n在超級刺激又不該做的場景下，這些妹子完全抵擋不住快感的誘惑，理智崩盤，瘋狂渴望那火熱的肉棒。明明知道這樣做不對，但這種禁忌感反而讓她們更興奮，爽到根本停不下來！看來人類不管在啥情況下，都忍不住追求刺激，肉慾這東西真是壓不住啊…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426020914202202_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250426/20250426020914202202_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6595",
+  "actresses": []
+};

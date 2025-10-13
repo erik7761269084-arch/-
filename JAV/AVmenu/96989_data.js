@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240625/DDutJbV5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96989,
+  "IDcode": "MMND-210",
+  "title": "人気グラビアアイドル限界露出 肉感Hカップを揉んで弄びこれは…ほぼAV？ 林智美",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "介绍影片",
+    "偶像",
+    "内衣",
+    "泳装"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96989",
+  "actresses": []
+};

@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a7db2f39-c1e4-4f17-8233-984152fa6b28/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11683,
+  "IDcode": "RBK-100",
+  "title": "花與繩 工藤由羅初緊縛作品 ~ 工藤由羅",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "調教",
+    "深喉",
+    "變態",
+    "凌辱",
+    "中出",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "口爆",
+    "SM",
+    "美腳",
+    "緊縛",
+    "美人妻",
+    "清純",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "插入異物",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "RBK-100为ATTACKERS出品,2024年10月1日发行的有碼成人影片由工藤由羅出演\n「菜菜子。我希望你永遠成為一個美麗而善良的女人，而不是無聊的家務。」她的丈夫告訴她，年輕的妻子決定在插花師佐川菜菜子的指導下學習插花。然而，佐川低聲說：“看來你寧願自己插花，也不願親自插花。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240927/202409270435447373.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240927/202409270435447373.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11683",
+  "actresses": [
+    {
+      "name": "工藤由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/55c36f05-5e3a-4559-b26f-3cf634b2a753.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11683&name=工藤由羅"
+    }
+  ]
+};

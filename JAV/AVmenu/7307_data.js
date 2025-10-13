@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2ae734b6-ab69-4d84-83e8-962a17b25c2b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7307,
+  "IDcode": "PCB-004",
+  "title": "PRESTIGE 2024 下半年全73 部作品完全收錄8小時超長大合集",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "企畫",
+    "形象俱樂部",
+    "角色扮演",
+    "4小時以上作品",
+    "巨乳",
+    "精選總編集",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250323/0a1c4623-2242-43a6-b45e-5f5685d2e9c5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250323/0a1c4623-2242-43a6-b45e-5f5685d2e9c5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7307",
+  "actresses": []
+};

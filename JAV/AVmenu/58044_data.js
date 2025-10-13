@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221007/GJXS2mZa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58044,
+  "IDcode": "GACHIP-356",
+  "title": "オムニバス　−大放尿スペシャル 2017.GW1−",
+  "publish_date": "2017-04-28",
+  "type": "无码",
+  "company": "MILK",
+  "genres": [
+    "尿失禁",
+    "巨乳爆乳",
+    "熟女",
+    "白虎",
+    "苗条",
+    "素人",
+    "肉肉女"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221007-1/24e4af09f7160d3eca439b195504a76b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58044",
+  "actresses": []
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6cfea55d-3d29-4531-bb56-9adb19eac63b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12485,
+  "IDcode": "JUQ-813",
+  "title": "我要曬讓我驕傲的妻子。 【大片獨家】絕美身材x神聖曲線首次曝光！ ！ ~ 沖宮那美",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "變態",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "網襪",
+    "女上位",
+    "感官作品",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兔女郎妝扮",
+    "兩男一女",
+    "多P",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "高跟鞋",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "COSPLAY服飾",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUQ-813为MADONNA出品,2024年8月27日发行的有碼成人影片由沖宮那美出演\n我想向您介紹我美麗而頑皮的妻子娜美。雖然她個性開朗，心地善良，但更淫蕩。娜美和我每個月都會在酒店確認我們對彼此的愛，但僅僅將這種本性留給自己已經不夠了，所以我在酒店走廊、酒吧、公共衛生間……遵循我的願望害羞的娜美，他做出猥褻的行為來向人炫耀。我不滿足於此，又打了電話給幕後觀看的人…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223216717717.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822223216717717.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12485",
+  "actresses": [
+    {
+      "name": "沖宮那美",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/0fcd9a6c-0c4b-4fa3-86bd-5ac4366ae3e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12485&name=沖宮那美"
+    }
+  ]
+};

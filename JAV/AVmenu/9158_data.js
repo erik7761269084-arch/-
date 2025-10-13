@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/01baaf3e-5031-4a55-a64c-3860c2a671f1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9158,
+  "IDcode": "CEMD-618",
+  "title": "不間斷操到淚目 SEX 47 ~ 島津かおる",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "老太婆",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "兩男一女",
+    "內衣",
+    "多P",
+    "巨乳",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250113/7a6e5156-65cb-46b8-8803-9e46485addc6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250113/7a6e5156-65cb-46b8-8803-9e46485addc6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9158",
+  "actresses": [
+    {
+      "name": "島津かおる",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250525/01d90458-185d-451b-aa31-30061569ed33_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9158&name=島津かおる"
+    }
+  ]
+};

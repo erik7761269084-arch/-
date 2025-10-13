@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/ba17575f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78162,
+  "IDcode": "NINE-103",
+  "title": "【素人シャトーブリアン発掘】色白モチモチ極上肉、トロけるマシュマロI-cupの希少部位、感度敏感なドM気質の最高級ボディを是非ご堪能下さい。一花（二十歳/女子大生）",
+  "publish_date": "2024-11-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "巨乳",
+    "业余",
+    "胖女人",
+    "巨大屁股",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/ba17575f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78162",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78162&name=小坂ひまり"
+    }
+  ]
+};

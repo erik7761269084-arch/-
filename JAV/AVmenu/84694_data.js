@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/QiaDOtpC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84694,
+  "IDcode": "GVH-407",
+  "title": "お色気P●A会長と悪ガキ生徒会 佐伯由美香",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "眼镜",
+    "中出",
+    "多P",
+    "各种职业",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230111-1/d2106e72c1836e67dd3f550797dda254.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84694",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84694&name=佐伯由美香"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/0e83d535/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99333,
+  "IDcode": "ABP-467",
+  "title": "上班系癡女 vol.04 香椎梨亞",
+  "publish_date": "2016-04-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "各种职业",
+    "荡妇",
+    "制服",
+    "连裤袜",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/15/e9374d9b49aa9f87ba04001aefb58743.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99333",
+  "actresses": [
+    {
+      "name": "香椎梨亞",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718223107969969_93071_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99333&name=香椎梨亞"
+    }
+  ]
+};

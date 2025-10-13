@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/07/eac5f008/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85738,
+  "IDcode": "NSFS-068",
+  "title": "上司に愛おしい若妻を結婚させました。3 永野つかさ",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85738",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85738&name=永野司"
+    }
+  ]
+};

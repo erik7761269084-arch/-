@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230118/9IAdAWDw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85105,
+  "IDcode": "JUNY-054",
+  "title": "ド淫乱なW爆乳むっちり姉妹が客を喰いまくる逆3Pスナック！ 水原みその 吉根ゆりあ",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "多P",
+    "淫语",
+    "荡妇",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85105",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85105&name=吉根柚莉爱"
+    }
+  ]
+};

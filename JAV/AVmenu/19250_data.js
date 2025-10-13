@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2dc8a12e-5583-4902-ad00-76d54e980c19/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19250,
+  "IDcode": "IPX-200",
+  "title": "最愛口交即刻舔棒！幹到連射淫技風俗妹",
+  "publish_date": "2018-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "泡泡浴店",
+    "女上位",
+    "口交",
+    "風俗娘",
+    "美少女",
+    "數位馬賽克",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230614/20230614003508908908.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230614/20230614003508908908.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19250",
+  "actresses": [
+    {
+      "name": "结城乃乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230621/2a2a6ef3-85bb-4c82-b090-2a6683c70903.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19250&name=结城乃乃"
+    }
+  ]
+};

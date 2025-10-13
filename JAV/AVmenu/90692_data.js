@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240131/5NH2RdjH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90692,
+  "IDcode": "NEO-809",
+  "title": "セーラー服熟女失禁羞恥 美原咲子",
+  "publish_date": "2023-12-21",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "户外",
+    "水手服",
+    "运动短裤",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240131-1/62fb2cca67d95662a8c9c105a1712c0a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90692",
+  "actresses": []
+};

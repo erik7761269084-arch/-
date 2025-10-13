@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240303/oi2SA4iV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101383,
+  "IDcode": "MFC-282",
+  "title": "@mion",
+  "publish_date": "2024-02-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "女大学生",
+    "女上位",
+    "自慰",
+    "第一人称摄影",
+    "口交",
+    "吞精",
+    "女优按摩棒",
+    "角色扮演者",
+    "深喉",
+    "情侣",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101383",
+  "actresses": [
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101383&name=桜木美音"
+    }
+  ]
+};

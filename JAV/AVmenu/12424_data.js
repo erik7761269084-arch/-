@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa68df69-e7b6-415d-82df-c6c7e7a15d20/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/06/8bb2a78e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12424,
+  "IDcode": "REAL-861",
+  "title": "因爲男友的關系我被集團輪奸，最後被關進了滿是骯髒精液的公衆便所 ~ 椿りか",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "深喉",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "綁架",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "按摩棒",
+    "NTR",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240825/a80d2700-7404-442b-9dcc-7aadd4a69b6a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240825/a80d2700-7404-442b-9dcc-7aadd4a69b6a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12424",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12424&name=椿莉香"
+    }
+  ]
+};

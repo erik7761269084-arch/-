@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/GU7bCmWX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79895,
+  "IDcode": "MOND-222",
+  "title": "憧れの兄嫁と 成宮いろは",
+  "publish_date": "2021-10-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/de779b7abce705ea5ed0113b504a9f30.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79895",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79895&name=成宫いろは"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/792db05a-83cb-4a68-bbd5-83d2abc4ead9/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/04/f7995446/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17850,
+  "IDcode": "JUQ-434",
+  "title": "我的NTR故事。 為了考驗愛情，我安排後輩同事和太太單獨相處了3個小時。",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "口交",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-434为MADONNA出品,2023年11月14日发行的有碼成人影片由明里紬出演\n我和妻子明里紬結婚好幾年了。 每天妻子都會為我做愛便當，我們一直像新婚時那樣幸福。 但是幸福的好日子過多了，我的後輩同事日森誇口說，結婚3，5年的人妻最容易墮落，很容易就能搞上手。 我當場就恥笑了他。 為了證明我和明里紬愛情的堅貞，我答應找個機會讓日森和妻子單獨相處幾個小時，然後....\n我和妻子明里紬結婚好幾年了。 每天妻子都會為我做愛便當，我們一直像新婚時那樣幸福。 但是幸福的好日子過多了，我的後輩同事日森誇口說，結婚3，5年的人妻最容易墮落，很容易就能搞上手。 我當場就恥笑了他。 為了證明我和明里紬愛情的堅貞，我答應找個機會讓日森和妻子單獨相處幾個小時，然後....",
+  "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111080213452452.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231111/20231111080213452452.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17850",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17850&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17850&name=明里䌷"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17850&name=日森一"
+    }
+  ]
+};

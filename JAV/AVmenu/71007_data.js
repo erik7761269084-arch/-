@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250218/oVHJAzan/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71007,
+  "IDcode": "AP-647",
+  "title": "固定バイブで下品にガニ股イキし続ける敏感義妹",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "凌辱",
+    "淫乱，真实",
+    "按摩棒",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71007",
+  "actresses": [
+    {
+      "name": "咲々原リン",
+      "img_url": "https://picture.yoshiclub.xyz/20230614/98fea1c2-3d92-4ea5-b44f-938b37401eac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71007&name=咲々原リン"
+    },
+    {
+      "name": "桃尻かのん",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/a50d2415-1002-4f26-8f39-2a6deebe896d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71007&name=桃尻かのん"
+    },
+    {
+      "name": "御坂莉亚",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71007&name=御坂莉亚"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71007&name=七海ゆあ"
+    }
+  ]
+};

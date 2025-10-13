@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/d96a469e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72724,
+  "IDcode": "HSM-073",
+  "title": "キレカワ系美少女オトコの娘 ひめドットらぶ 飛鳥なな AVデビュー",
+  "publish_date": "2025-02-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "玩具",
+    "肛交",
+    "女优按摩棒",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72724",
+  "actresses": [
+    {
+      "name": "飛鳥なな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72724&name=飛鳥なな"
+    }
+  ]
+};

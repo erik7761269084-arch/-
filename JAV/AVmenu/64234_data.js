@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/B28FE5F232ACAC59/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64234,
+  "IDcode": "D9A18A0252A37722633A3EFC614B61E-9",
+  "title": "跟美女OL三秒開砲 杉浦花音",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64234",
+  "actresses": []
+};

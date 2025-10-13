@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5ec7857b-1315-49b6-9132-d91221e2a397/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/28/f6adb9c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10368,
+  "IDcode": "START-205",
+  "title": "女友第一次與其它男人做愛的的攝錄視頻，寢取我的女友吧，NTR吧，用精子射的她滿臉都是吧！ ~ 本莊鈴",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241126/2dfffdae-a8d1-4678-ab36-1813bb6a9d77.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241126/2dfffdae-a8d1-4678-ab36-1813bb6a9d77.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10368",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10368&name=本庄鈴"
+    }
+  ]
+};

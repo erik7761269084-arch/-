@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220927/hThCUlJy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81350,
+  "IDcode": "HAVD-1011",
+  "title": "濃厚接吻 同棲レズカップルは朝から晩まで発情中！イチャラブ・レズセックスでイカセ合う",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81350",
+  "actresses": [
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81350&name=优梨まいな"
+    },
+    {
+      "name": "高梨有纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81350&name=高梨有纱"
+    }
+  ]
+};

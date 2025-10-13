@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/2B201E7B889C9132/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102732,
+  "IDcode": "GETS-046",
+  "title": "溜まってそうなノーブラ奥さんに媚薬バイブをぶっ挿し固定！！尻突き出しポーズで放置され、マ●コをヒクヒク痙攣させてヨガり狂うド淫乱妻たち",
+  "publish_date": "2017-07-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "玩具",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102732",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102732&name=通野未帆"
+    },
+    {
+      "name": "葵玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/7495050f-58ca-4c8d-b86b-f9eb6c06f727.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102732&name=葵玲奈"
+    },
+    {
+      "name": "宫崎ちひろ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102732&name=宫崎ちひろ"
+    }
+  ]
+};

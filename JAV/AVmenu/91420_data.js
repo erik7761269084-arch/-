@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240501/mJU9hqcU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91420,
+  "IDcode": "CLUB-820",
+  "title": "デカチンの客だと過激な裏オプでその気にさせて本番を誘う中出しサービス人妻メンズエステの実態2",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "按摩",
+    "巨大阴茎",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91420",
+  "actresses": []
+};

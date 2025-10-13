@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83715090-d88b-4a4f-bfde-278801f2602b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12718,
+  "IDcode": "HEZ-694",
+  "title": "我對丈夫不滿足...因爲想要主動出軌而來應募的美人妻 ~ 川越ゆい",
+  "publish_date": "2024-08-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "多P",
+    "情趣內衣",
+    "人妻",
+    "出軌",
+    "猥褻穿著",
+    "抹油",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240813/b5b8c4f8-3f71-43b2-96a1-ab10d2d94dc3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240813/b5b8c4f8-3f71-43b2-96a1-ab10d2d94dc3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12718",
+  "actresses": [
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12718&name=川越ゆい"
+    }
+  ]
+};

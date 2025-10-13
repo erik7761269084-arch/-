@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/42b0fd6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113666,
+  "IDcode": "FC2-2934529",
+  "title": "现役26岁护士",
+  "publish_date": "2025-10-08",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/07/696292fe9a4571de617a1d92a7296aba.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113666",
+  "actresses": []
+};

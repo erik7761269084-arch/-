@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/Pf9uEnFV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80926,
+  "IDcode": "HUNTB-214",
+  "title": "「触って確かめてください！私の胸って人より大きいですよね？」周りからエロい目でジロジロ見られ、巨乳なのが恥ずかしくて不登校になった女生徒の…",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "乳交",
+    "巨乳",
+    "中出",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/030fb6092fe76579a091c4a8b2e7087c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80926",
+  "actresses": [
+    {
+      "name": "初爱ねんね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80926&name=初爱ねんね"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80926&name=今井まい"
+    }
+  ]
+};

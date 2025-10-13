@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5072ea15-4abd-41b0-9ddc-b171303317be/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/23/d7b7c90c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9424,
+  "IDcode": "ADN-621",
+  "title": "和寂寞人妻的情感交流 ~ 長瀨麻美",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "劇情",
+    "猥亵",
+    "絕頂高潮",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "性騷擾",
+    "清楚系",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "短髮",
+    "寢取",
+    "誘騙女性",
+    "羞恥"
+  ],
+  "description": "ADN-621为ATTACKERS出品,2025年1月7日发行的有碼成人影片由长濑麻美出演\n我已經有一整年沒有被老公抱過了。為了引起丈夫的注意，我太在意當一個丈夫喜歡的優雅妻子，變得完全孤僻。我先生很擔心，就送我去參加我之前想參加的烹飪課。 ……我為什麼要向老師尋求有關我婚姻生活的建議？ ……儘管我的老師一直試圖吸引我。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/202501020822485858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/202501020822485858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9424",
+  "actresses": [
+    {
+      "name": "长濑麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/edce58db-6a40-40a7-95dc-33d756110bc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9424&name=长濑麻美"
+    },
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9424&name=长瀬麻美"
+    }
+  ]
+};

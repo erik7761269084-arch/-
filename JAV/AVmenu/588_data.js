@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ffe3eae2-1793-45e5-b74c-d5acbbd3f15f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 588,
+  "IDcode": "HEYZO-0706",
+  "title": "性愛平衡之道 ～ 被精液覆蓋的色情身體 ～ 鈴木裏美",
+  "publish_date": "2014-10-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "大亂交",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "感謝祭",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "真實拍攝",
+    "美少女電影",
+    "野性",
+    "女優"
+  ],
+  "description": "HEYZO-0706为HEYZO出品,2014年10月17日发行的無碼成人影片由铃木里美出演\n鈴木さとみのイカセ方～ザーメンまみれのエロボディ～ - 鈴木さとみ",
+  "cover_url": "https://picture.yoshiclub.xyz/20241106/4b383ab5-e91e-4f3a-8cd6-6b3f56d15835.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241106/4b383ab5-e91e-4f3a-8cd6-6b3f56d15835.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=588",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=588&name=铃木里美"
+    }
+  ]
+};

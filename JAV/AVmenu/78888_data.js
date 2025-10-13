@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/5HTFqgDs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78888,
+  "IDcode": "MILK-074",
+  "title": "クンニ大好き星咲凛の潜入企画第一弾！SNSで見つけた秘密サークル「クンニ愛好会」に突撃！！ツルツルマ○コを舐められまくり大乱交中出しSEXするまでの全記録",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "舔阴",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/4f63b4e114b5e63ecb4910fd7ce2bd91.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78888",
+  "actresses": [
+    {
+      "name": "星咲凛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/c8640e75-0917-4989-aaca-b0293d53809a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78888&name=星咲凛"
+    }
+  ]
+};

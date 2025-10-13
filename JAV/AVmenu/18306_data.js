@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e94d7934-2063-44ff-98ec-99b855844ca1/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240120/2gnppWzC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18306,
+  "IDcode": "PPPE-156",
+  "title": "女友的姊姊用她那大奶來誘惑我中出",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "中出",
+    "口交",
+    "女友姐姐",
+    "姐姐・妹妹",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "PPPE-156为OPPAI出品,2023年10月17日发行的有碼成人影片由松本梨穂出演\n女朋友永遠不會讓我直接幹她！ 當我幻想著性交的樂趣而不知道什麼時候才能做到時，女朋友的姐姐拿她的大奶子引誘我並告訴讓我射在她體內！ 話說如果她邀請我，拒絕她也是不對的嘛……我想操她了！ 當我為她蓬鬆的胸部和原始的性愛而瘋狂時，我的女朋友發現了！ 但這種感覺太好了，根本停不下來！ 繼續射在姐姐體內！\n女朋友永遠不會讓我直接幹她！ 當我幻想著性交的樂趣而不知道什麼時候才能做到時，女朋友的姐姐拿她的大奶子引誘我並告訴讓我射在她體內！ 話說如果她邀請我，拒絕她也是不對的嘛……我想操她了！ 當我為她蓬鬆的胸部和原始的性愛而瘋狂時，我的女朋友發現了！ 但這種感覺太好了，根本停不下來！ 繼續射在姐姐體內！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231016/20231016082704265265.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231016/20231016082704265265.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18306",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18306&name=松本梨穂"
+    }
+  ]
+};

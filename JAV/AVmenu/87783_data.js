@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230817/KJNRtIbk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87783,
+  "IDcode": "PES-087",
+  "title": "超A級美少女と鬼畜エロ痴姦PLAY！ぼっちメスガキ×幼なマ○コにブチ込み！2枚組",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "高中女生",
+    "制服",
+    "恶作剧",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87783",
+  "actresses": [
+    {
+      "name": "小泉のぞみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250107/5547688c-1695-45e8-96bc-6bb676191218.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=小泉のぞみ"
+    },
+    {
+      "name": "佐伯ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/60a5f415-f87f-47cb-aa5e-d983d1d36dc4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=佐伯ひなた"
+    },
+    {
+      "name": "百瀬ゆきな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=百瀬ゆきな"
+    },
+    {
+      "name": "河爱杏里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=河爱杏里"
+    },
+    {
+      "name": "朝比奈みおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=朝比奈みおり"
+    },
+    {
+      "name": "青岛かえで",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=青岛かえで"
+    },
+    {
+      "name": "佐山杏里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=佐山杏里"
+    },
+    {
+      "name": "HIKARU",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=HIKARU"
+    },
+    {
+      "name": "まひろ芽唯",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0b68636620ae25988f73c7f080379205.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87783&name=まひろ芽唯"
+    }
+  ]
+};

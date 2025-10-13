@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221218/0r6gY7av/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83081,
+  "IDcode": "DASD-629",
+  "title": "勃起をさせて笑みを浮かべる。痴女っ子ローリータ。あかり 根尾あかり",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "荡妇",
+    "制服",
+    "偷窥",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221218-1/2685468648c4b74b262b5589b363b0b6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83081",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83081&name=根尾朱里"
+    }
+  ]
+};

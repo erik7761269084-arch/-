@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/30/6c23d661/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62319,
+  "IDcode": "OFES-008",
+  "title": "レズビアンに囚われた女潜入捜査官 Special 女性専門売春組織編 竹内有紀 沙月恵奈 栄川乃亜",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "多P",
+    "监禁",
+    "女同性恋",
+    "女同接吻",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62319",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62319&name=沙月惠奈"
+    },
+    {
+      "name": "栄川乃亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bc731d12-2d4f-426f-a573-18db4ef5f6fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62319&name=栄川乃亜"
+    }
+  ]
+};

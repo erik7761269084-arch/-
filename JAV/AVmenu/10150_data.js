@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0092300b-503e-46d1-955a-7c6dc02d082e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/929ca038/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10150,
+  "IDcode": "JUQ-923",
+  "title": "換妻酒吧NTR 被騙來的人妻突然對蜂擁而至的男人着迷了 ~ 庵姬花",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "變態",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "風俗夜場",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "多P",
+    "奇聞趣事",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "按摩棒",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "JUQ-923为MADONNA出品,2024年12月10日发行的有碼成人影片由庵姬花出演\n他已經結婚三年了，雖然他很愛他的妻子希梅卡，但他已經開始不願意擁抱她了。原因是他有戴綠帽的傾向。我想看 Himeka 和別人做愛...為了滿足這個願望，我找到了一個會員專用的酒吧。在那裡，一名男子正在將自己的妻子許配給另一個人。這是我的願望。另外，要成為這家商店的會員，你必須帶一個夥伴。然後，我帶著姬香來到了這家禁忌商店，並答應她只會四處看看，但是…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050855008282.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/202412050855008282.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10150",
+  "actresses": [
+    {
+      "name": "庵姬花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/2c1b94f5-c15f-47fb-a40b-faaa39a88270.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10150&name=庵姬花"
+    },
+    {
+      "name": "富岡亞里沙",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/5e088a12-6398-4dc2-ae80-e63d5428e00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10150&name=富岡亞里沙"
+    }
+  ]
+};

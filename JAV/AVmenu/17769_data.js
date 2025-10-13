@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/136cc1f0-e3f8-4d34-8581-26ad711577d2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17769,
+  "IDcode": "MIDV-539",
+  "title": "拜託…我做什么事都可以，讓我操吧",
+  "publish_date": "2023-11-22",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "公共場所",
+    "M男・M女",
+    "野外露天",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231118/3eecf750-8ed9-4c19-ae18-fee6c975039c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231118/3eecf750-8ed9-4c19-ae18-fee6c975039c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17769",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17769&name=石原希望"
+    }
+  ]
+};

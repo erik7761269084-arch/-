@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/07/f8f0e6a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104591,
+  "IDcode": "DVEH-029",
+  "title": "職場でも指折りの断り下手な人妻に色んなエッチをお願いしてみたら無自覚エロボディが予想以上のビックビク神反応！押しに弱すぎるウチのパートの子持ち主婦あゆみさん（34）夏川あゆみ",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "多P",
+    "放尿",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/08/4b615d4291021c97b54e45d68e4562b1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104591",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104591&name=夏川步美"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230203/7F66110DCECE0896/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99396,
+  "IDcode": "NKD-239",
+  "title": "感じる汁姦 西野たえ",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "恋物癖",
+    "流汗",
+    "饮尿"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99396",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99396&name=胡桃多惠"
+    }
+  ]
+};

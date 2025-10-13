@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6c64d3e6-d24f-40dd-b919-a5370e2252cd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 181,
+  "IDcode": "HEYZO-0179",
+  "title": "火辣秘書美腿挑逗：早上口爆開場，中午自慰秀，下午撕絲襪直接中出！~ 西尾かおり",
+  "publish_date": "2013-02-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "女秘書",
+    "美腳",
+    "自慰",
+    "癡女",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "職場"
+  ],
+  "description": "HEYZO-0179为HEYZO出品,2013年2月5日发行的無碼成人影片由西尾かおり出演\n身材超正的美女秘書西尾かおり這次化身貼心小秘書，不僅工作上幫老闆和同事打理一切，連私底下的慾望也能幫你解決！上班時間竟然直接鑽到老闆桌下，含住那話兒猛吸，真的有夠刺激！慾火燒身的時刻，老闆不在，她還把年輕同事叫來，當場秀一波自慰，撩得人小鹿亂撞。老闆一回來，她馬上獻上熱情服務，絲襪被撕得稀巴爛，直接被插到爽歪歪，最後當然是滿滿中出結束！哎唷，這工作也太爽了吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250625/20250625050955293293_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250625/20250625050955293293_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=181",
+  "actresses": [
+    {
+      "name": "西尾かおり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421103809174174_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=181&name=西尾かおり"
+    }
+  ]
+};

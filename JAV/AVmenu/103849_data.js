@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240504/VceV0yYD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103849,
+  "IDcode": "WANZ-475",
+  "title": "有名コスプレイヤー月に一度の危険日中出しオフ会 あさひ",
+  "publish_date": "2016-04-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "角色扮演",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/wanz475/wanz475pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103849",
+  "actresses": [
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103849&name=水野朝陽"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230310/A4022E9917A55F42/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100059,
+  "IDcode": "APKH-020",
+  "title": "ヤリ部屋に連れ込まれた天使 みなみ蘭",
+  "publish_date": "2016-10-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "第一人称摄影",
+    "颜射",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/apkh020/apkh020pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100059",
+  "actresses": [
+    {
+      "name": "みなみ兰",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100059&name=みなみ兰"
+    }
+  ]
+};

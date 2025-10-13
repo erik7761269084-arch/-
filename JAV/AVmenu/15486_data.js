@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd7b7ab7-a98f-4706-8ff2-455c4ab09134/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/05/75fc4db1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15486,
+  "IDcode": "MIDV-660",
+  "title": "在鄉下的初次戀愛太無聊了，所以只能整天都在做愛！這裏太鄉了，避孕套都買不到，渾身大汗，享受着無盡的中出性愛 ~ 石原希望",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "鄉下",
+    "流汗",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "接吻",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "癡女",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "MIDV-660为MOODYZ出品,2024年4月16日发行的有碼成人影片由石原希望出演\n我兒時的朋友霍普，從我記事起就一直和我在一起。我很長一段時間都無法向他表達自己的感情，但我終於能夠成為他的愛人。但是……這裡是鄉村。沒有約會地點或娛樂設施。在農村，連保險套都沒有賣，唯一的娛樂就是性。我們兩個從第一次經驗中了解原始性的人已經成為性怪物！他們在互相吞噬的同時沉迷於中出性愛。我們滿頭大汗，互相要求更多。原始插入和中出被無止盡地重複...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412041512532532.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412041512532532.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15486",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15486&name=石原希望"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15486&name=蓝井优太"
+    }
+  ]
+};

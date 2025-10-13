@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/E63004CD4ED4D2DD/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99934,
+  "IDcode": "EBOD-363",
+  "title": "全裸爆乳ガイド付きバスツアー 赤井美月",
+  "publish_date": "2014-04-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "多P",
+    "车掌小姐"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod363/ebod363pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99934",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99934&name=鲛岛"
+    },
+    {
+      "name": "神无月れな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99934&name=神无月れな"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/04/a9546f9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77552,
+  "IDcode": "MEYD-799",
+  "title": "愛妻交換 後輩の妻と俺の妻を交換して中出ししまくった4日間の記録。 森沢かな 南まゆ",
+  "publish_date": "2023-03-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77552",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77552&name=森澤佳奈"
+    },
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77552&name=南真悠"
+    }
+  ]
+};

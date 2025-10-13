@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/27/ce03080a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107211,
+  "IDcode": "CEAD-223",
+  "title": "～ヤリマン～公衆便所女不倫妻 本田岬",
+  "publish_date": "2017-05-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107211",
+  "actresses": [
+    {
+      "name": "本田岬",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/b27aa824-eb3f-492b-b103-7283031805ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107211&name=本田岬"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107211&name=森林原人"
+    }
+  ]
+};

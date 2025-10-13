@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/c3473383/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71754,
+  "IDcode": "ATID-377",
+  "title": "サイレントレイプ 静寂の絶頂 夏目彩春",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "苗条",
+    "护士",
+    "白天出轨",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/0eeb09761e7fe5b5dbc727e60da90ed7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71754",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71754&name=夏目彩春"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71754&name=タツ"
+    }
+  ]
+};

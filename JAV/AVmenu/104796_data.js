@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/09/fb8dacec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104796,
+  "IDcode": "IPZ-822",
+  "title": "ちょっぴりツンデレな麻衣と僕の甘～い同棲性活 全編アナタ目線！最高にエキサイティングで発情の毎日 白川麻衣",
+  "publish_date": "2016-09-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "女上位",
+    "数位马赛克",
+    "主观视角",
+    "蛮横娇羞"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104796",
+  "actresses": [
+    {
+      "name": "白雪麻衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230603/05c3813b-53ec-4d40-8311-9332162a2e2d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104796&name=白雪麻衣"
+    }
+  ]
+};

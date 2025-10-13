@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/tYuQjSg2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94913,
+  "IDcode": "DASD-648CN",
+  "title": "DASD648CN無法拒絕他人的沉穩天然人妻大姊不自覺誘惑。篠田優.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241107-1/d4308fc3d1662b2946d475f902f5f520.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94913",
+  "actresses": []
+};

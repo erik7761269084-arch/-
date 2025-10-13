@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/13/4258a318/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106514,
+  "IDcode": "SSNI-603",
+  "title": "上下前後左右同時被搞癡女玩法360°快感MAX夢般逆3P",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "精选，综合",
+    "淫乱，真实",
+    "淫语",
+    "荡妇",
+    "薄马赛克",
+    "接吻",
+    "美少女电影",
+    "素人作品",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/13/4258a318/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106514",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106514&name=天使萌"
+    },
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106514&name=Miru"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106514&name=玉木玲"
+    }
+  ]
+};

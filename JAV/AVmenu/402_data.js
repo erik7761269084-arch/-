@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16f5060e-5101-4c70-b0ba-47df89b22702/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 402,
+  "IDcode": "HEYZO-0475",
+  "title": "性感美爆乳還有無毛陰戶讓人興奮度120% ～美月優芽",
+  "publish_date": "2013-12-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "金髮",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "野性",
+    "女優"
+  ],
+  "description": "HEYZO-0475为HEYZO出品,2013年12月7日发行的無碼成人影片由美月優芽出演\nエロ美爆乳とパイパンのアンバランスで興奮度120％ - 美月優芽",
+  "cover_url": "https://picture.yoshiclub.xyz/20250217/e2203a9a-00de-4904-ac41-a07b788a2993.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250217/e2203a9a-00de-4904-ac41-a07b788a2993.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=402",
+  "actresses": [
+    {
+      "name": "美月優芽",
+      "img_url": "https://picture.yoshiclub.xyz/20240619/acfcf897-e3e0-4de9-bf19-88fa1d7b8dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=402&name=美月優芽"
+    }
+  ]
+};

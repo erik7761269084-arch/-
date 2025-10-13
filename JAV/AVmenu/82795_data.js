@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/1hV9YBgc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82795,
+  "IDcode": "EBOD-358",
+  "title": "女のカラダは全身まるごとイイオンナで選ぶ。 森咲みお",
+  "publish_date": "2014-03-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/4faaba874752d05897f4db85a04b6c29.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82795",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82795&name=大岛丈"
+    },
+    {
+      "name": "森咲みお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82795&name=森咲みお"
+    }
+  ]
+};

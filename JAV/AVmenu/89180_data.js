@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241103/4OM74A1X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89180,
+  "IDcode": "SYKH-089",
+  "title": "ブーツの美魔女とナマ交尾 即ズボチ○ポの快感に美貌が蕩ける… ゆかりさん34歳",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "业余",
+    "恋腿癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231214-1/3fc1332fae25a627c80d26ddfa15401f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89180",
+  "actresses": [
+    {
+      "name": "藤咲紫",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/a2f08c24-acdb-4780-a800-279fba4951da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89180&name=藤咲紫"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/VBHmZulh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83356,
+  "IDcode": "MOKO-021",
+  "title": "エロ本と電マが散らかった部屋で、ホームヘルパーのおばさんは、オナニーしちゃうのか？",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "自慰",
+    "各种职业",
+    "乱伦",
+    "母亲",
+    "制服",
+    "女优按摩棒",
+    "拘束",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83356",
+  "actresses": []
+};

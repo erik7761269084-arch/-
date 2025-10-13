@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/GBYZNtjS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82687,
+  "IDcode": "HND-570",
+  "title": "初めてのナマ中出し 夏原唯",
+  "publish_date": "2018-09-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "美少女",
+    "中出",
+    "苗条",
+    "数位马赛克",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82687",
+  "actresses": [
+    {
+      "name": "夏原唯",
+      "img_url": "https://picture.yoshiclub.xyz/20250212/2690f5b5-fed0-40e9-ac45-35a9de35a910.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82687&name=夏原唯"
+    }
+  ]
+};

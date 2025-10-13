@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f872e175-0d08-4b49-b2c1-01519ce3b1f7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/23/53ef7f57/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6278,
+  "IDcode": "JUR-291",
+  "title": "體育館化身師生禁忌愛巢 ~ 白峰郁美",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "脅迫做愛",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "凌辱",
+    "脚控・戀足癖",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "性感",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "體育舘",
+    "校園生活",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "學校",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUR-291为MADONNA出品,2025年5月9日发行的有碼成人影片由白峰郁美出演\n這一切都因我的一時失足而起。丈夫對我冷漠，我實在壓不住心中的空虛，竟然跟一個學生搞上了。本以為偷偷摸摸不會被發現，誰知某天被其他學生給撞見了！那傢伙威脅要把事情爆出去，還對我動了歪心思。當然不可能去風俗店或酒店開房，結果他直接把我叫到體育館，把那裡當成臨時愛巢，肆意玩弄我的身體……那種刺激和羞恥感，真的讓人上癮啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065848887887_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065848887887_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6278",
+  "actresses": [
+    {
+      "name": "白峰郁美",
+      "img_url": "https://picture.yoshiclub.xyz/20240907/8ecd6135-9a3a-42a8-bb2d-9eb89f238513.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6278&name=白峰郁美"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6278&name=ニック"
+    },
+    {
+      "name": "ラビットけんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6278&name=ラビットけんと"
+    }
+  ]
+};

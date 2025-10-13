@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220720/D2A89DA0EBD0D2F6/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37641,
+  "IDcode": "8D3A34C27546A96E274BB6051D0E-1571",
+  "title": "18岁沉迷性爱的少女",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37641",
+  "actresses": []
+};

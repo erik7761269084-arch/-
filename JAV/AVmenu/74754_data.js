@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241229/vwmDj798/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74754,
+  "IDcode": "BACN-004",
+  "title": "おぢさんが送って来る絵文字って顔に汗のやつ多過ぎ 渚みつき",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "中出",
+    "多P",
+    "吞精",
+    "瘦小身型",
+    "平胸",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/6310fc8781dd4947f6c31ad5b1547969.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74754",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74754&name=渚光希"
+    }
+  ]
+};

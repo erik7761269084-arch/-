@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/7umSXadK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77906,
+  "IDcode": "JUY-275",
+  "title": "偶然の密室 人妻ホテル受付係と出張サラリーマン 夏目彩春",
+  "publish_date": "2017-10-19",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "数位马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77906",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77906&name=夏目彩春"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77906&name=小田切ジュン"
+    }
+  ]
+};

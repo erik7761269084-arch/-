@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3c56f316-9b27-48d0-be66-864f0b8faaea/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/d51683d3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7096,
+  "IDcode": "GOJI-055",
+  "title": "美少女的色色惡作劇內射（14）",
+  "publish_date": "2025-03-31",
+  "type": "有码",
+  "company": "五次元",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "濕身",
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250402/183af9a1-051f-4582-9c49-359d2bfeb1e8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250402/183af9a1-051f-4582-9c49-359d2bfeb1e8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7096",
+  "actresses": []
+};

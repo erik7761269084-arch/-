@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/03/4b5fa82c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107051,
+  "IDcode": "SSNI-948",
+  "title": "住同房NTR 絶倫上司與美人OL一整晚搞不倫性愛的出差夜晚 乙白沙也加",
+  "publish_date": "2020-12-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "白天出轨",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107051",
+  "actresses": [
+    {
+      "name": "乙白さやか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107051&name=乙白さやか"
+    }
+  ]
+};

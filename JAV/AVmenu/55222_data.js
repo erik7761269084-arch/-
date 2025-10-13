@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55222,
+  "IDcode": "5E3F0C6E56AC70B7504E64083F6F6755",
+  "title": "人分のザーメンじゃ満足できないの 神尾舞",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55222",
+  "actresses": []
+};

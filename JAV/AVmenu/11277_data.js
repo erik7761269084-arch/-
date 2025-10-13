@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b2663e62-f7ad-46e8-a150-050ae1d130fd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11277,
+  "IDcode": "PPPE-275",
+  "title": "讓順從巨乳妹妹穿上淫穢服裝，吃她的大奶子，在色情模仿遊戲中操她無雙 ~ 美園和花",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "劇情",
+    "網襪",
+    "游戲COSPLAY",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "貓耳裝飾",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "金髮",
+    "巨乳",
+    "亂倫",
+    "美少女電影",
+    "COSPLAY服飾",
+    "宅男・宅女"
+  ],
+  "description": "PPPE-275为OPPAI出品,2024年10月15日发行的有碼成人影片由美園和花出演\nYuu，一個不善社交的尼特族，整天待在家裡沉迷於色情遊戲。優想有一天嘗試他透過色情遊戲學到的色情遊戲，所以他決定在他厚臉皮的妹妹身上嘗試作為實驗。讓我們玩一個懲罰遊戲，你玩一個色情遊戲，聽聽獲勝者說的話！優以壓倒性優勢獲勝，也讓大胸妹妹穿上了猥褻的服裝…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010103636930930.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010103636930930.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11277",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11277&name=美園和花"
+    }
+  ]
+};

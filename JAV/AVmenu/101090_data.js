@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240108/SYCoOygE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101090,
+  "IDcode": "NTK-843",
+  "title": "G乳ドエロGAL&amp;極上ヒップ清楚系ビッチ！！サンタコスで見参【W極上ボデイ美女ビッチーズ最高！！】【G乳ボインボインがち淫乱GALの魅せSEX！！】【おとなしそうで一番エロい！？清楚系ビッチの献身SEX！！】【Wビッチの奇跡のドスケベマリアージュ！！えちえちコスから全裸露天SEX】ドエッチWサンタが今年もラブホにやってきた！！年忘れ年末中出し感謝祭4P連続昇天SP！！！",
+  "publish_date": "2023-12-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "多P",
+    "角色扮演",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101090",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101090&name=椿莉香"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101090&name=雅子裡菜"
+    },
+    {
+      "name": "【りっか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101090&name=【りっか"
+    }
+  ]
+};

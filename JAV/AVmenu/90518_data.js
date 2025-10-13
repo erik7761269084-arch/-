@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/12/1c0ae6b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90518,
+  "IDcode": "PPPE-145",
+  "title": "生徒の巨乳に理性を失った僕は放課後ラブホで何度も何度もしおんと夏月と中出しセックスしてしまった 夕美しおん・星乃夏月",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "高中女生",
+    "乳交",
+    "巨乳",
+    "中出",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90518",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90518&name=夕美紫苑"
+    },
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90518&name=星乃夏月"
+    }
+  ]
+};

@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b3cf8c5-4347-4a18-b5de-7ec85d7a579c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4203,
+  "IDcode": "KTRA-732",
+  "title": "無毛蘿莉娘2 超長4小時 ~ 琴音華 山井鈴香 神野雛 熊野あゆ 愛野ひなた",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "二次元",
+    "蘿莉",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "KTRA-732为K-Tribe出品,2025年7月19日发行的有碼成人影片由琴音華，神野雛，山井鈴香，熊野あゆ，愛野ひなた出演\n這些有點想裝成熟的蘿莉小妹，身上還殘留純真氣息，卻對大人的情事滿懷憧憬。她們那份單純又執著的小心思，慢慢拉近了彼此的距離。羞怯地張開雙腿，露出的卻是那還未長毛的嫩嫩小穴…天真與淫蕩交織，青澀又濃烈的性愛讓人怦然心動。緊緻到極點的無毛小穴，貼合感簡直絕頂！4小時超長篇，帶你慢慢品嚐這些無毛蘿莉少女的誘惑魅力，保證爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221733135135_82108_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221733135135_82108_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4203",
+  "actresses": [
+    {
+      "name": "琴音華",
+      "img_url": "https://picture.yoshiclub.xyz/20240128/0952ac9a-6b45-4d8e-a980-4d03c8559471.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4203&name=琴音華"
+    },
+    {
+      "name": "愛野ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/72d41f7e-52dd-4674-bdf8-3f9a6baac1fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4203&name=愛野ひなた"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4203&name=神野雛"
+    },
+    {
+      "name": "熊野あゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/0faa3532-dc03-4753-a1bb-9607dc871d6a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4203&name=熊野あゆ"
+    },
+    {
+      "name": "山井鈴香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4203&name=山井鈴香"
+    }
+  ]
+};

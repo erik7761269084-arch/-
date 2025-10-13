@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/eTHnxzaj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73548,
+  "IDcode": "NACR-244",
+  "title": "爆乳ムチムチ妻の下品なマラ喰い肉欲生活 葉月美音",
+  "publish_date": "2019-06-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73548",
+  "actresses": [
+    {
+      "name": "叶月美音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73548&name=叶月美音"
+    }
+  ]
+};

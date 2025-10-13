@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240306/NA71qIBG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101417,
+  "IDcode": "MAAN-952",
+  "title": "【魅惑のGカップボディ】元グラドルと露天風呂撮影！フェラ抜き→浴衣に着替えて攻守交代！両手縛っておもちゃ&amp;クンニ責め！オイルも塗りたくってバックで突きまくって！顔出しNG娘に中出しついでに顔射してやれッ！！【PornGirl】【rin】",
+  "publish_date": "2024-02-11",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "苗条",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1711maan952/h_1711maan952pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101417",
+  "actresses": [
+    {
+      "name": "rin",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101417&name=rin"
+    }
+  ]
+};

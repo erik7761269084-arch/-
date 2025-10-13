@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cfe35c3b-ad86-4390-92a9-87cd5caabb7f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 158,
+  "IDcode": "HEYZO-0135",
+  "title": "青春還能重來？白皙豐滿人妻被巨根同學玩到後庭 ~ 杉原えり",
+  "publish_date": "2012-12-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "酒醉",
+    "肛交",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "酒後亂性",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "若妻",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "綠茶婊",
+    "豐滿"
+  ],
+  "description": "HEYZO-0135为HEYZO出品,2012年12月11日发行的無碼成人影片由杉原えり出演\n人妻えり正處於婚姻倦怠期，日常的敷衍性愛完全無法滿足她那飢渴的小心臟！老公的隨便應付讓她根本得不到滿足！就在這時，街上偶遇了當年暗戀的同學，舊情復燃，內心的小火苗直接燒成熊熊烈焰！在老公面前從不展現的騷浪一面徹底爆發，瘋狂索取那根她朝思暮想的大傢伙，狠狠插入自己的小穴，瞬間高潮連連，根本停不下來！從後面被猛烈刺激，敏感到全身抽搐，濕到不行的騷穴簡直要命！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/202507080350139797_39012_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250708/202507080350139797_39012_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=158",
+  "actresses": [
+    {
+      "name": "杉原えり",
+      "img_url": "https://picture.yoshiclub.xyz/20250107/ae5cedbf-c6dc-413b-b35d-f6bb0c8a6890.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=158&name=杉原えり"
+    }
+  ]
+};

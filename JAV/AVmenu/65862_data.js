@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65862,
+  "IDcode": "0CA8C11B196AD0B77CCA9F88117E07D8",
+  "title": "帮年轻夫妇提供按摩服务，不小心就play one了～",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65862",
+  "actresses": []
+};

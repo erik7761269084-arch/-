@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/03561083-0957-454d-b278-a09b008fe341/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/c3f73264/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9757,
+  "IDcode": "JUR-150",
+  "title": "寢取串刺輪奸 請狠狠的操我最心愛的妻子 ~ 沙月文乃",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "牛仔褲",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "在丈夫面前被操",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "網襪",
+    "深喉",
+    "變態",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUR-150为MADONNA出品,2024年12月24日发行的有碼成人影片由沙月文乃出演\n我很長一段時間都說不出來。我永遠將它記在心裡。他要讓他心愛的妻子文野，這個世界上最美麗最漂亮的女人，被一群陌生人輪姦…然而，他們無法帶著這種感情繼續婚姻生活。這就是為什麼他承認了他想要給女友戴綠帽的願望，並將文野提供給一群中年男子。我心愛的妻子被男人包圍，她的嘴和陰戶被攪動......那是一個幾乎可以稱為「串燒」的非凡場景，我感到異常興奮…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218100334790790.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218100334790790.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9757",
+  "actresses": [
+    {
+      "name": "沙月文乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/b7840599-4516-4b77-923f-5b79fb004ed1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9757&name=沙月文乃"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9757&name=左慈半造"
+    }
+  ]
+};

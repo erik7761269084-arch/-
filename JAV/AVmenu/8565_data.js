@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a0d7a1ea-f348-49dd-9733-c39f0575aeb6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/14/0066201b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8565,
+  "IDcode": "GVH-718",
+  "title": "如果只是玩龜頭的話，那就不算出軌…… 女友的妹妹，商品開發部工作的胡桃櫻花醬，穿上了試制版的大象內褲，還用鴨嘴吸吮的方式，對我勃起的龜頭口交，誘導我口暴 ~ 胡桃櫻花",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "主觀視角",
+    "少女",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "小姨子",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250203/318ba71a-709e-4daf-98b2-083d9903b4eb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250203/318ba71a-709e-4daf-98b2-083d9903b4eb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8565",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8565&name=胡桃櫻花"
+    }
+  ]
+};

@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/357e713f-8319-4a6b-8b60-b4a9c8bf3688/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/24/f9c413a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10798,
+  "IDcode": "IPZZ-404",
+  "title": "人生初！絕倫男7人...... 肉便器化亂交，射精，射精，射精，無限絕頂！！ ~ 西宮夢",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "大亂交",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "明星臉",
+    "情趣內衣",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "女優"
+  ],
+  "description": "IPZZ-404为IDEA POCKET出品,2024年11月12日发行的有碼成人影片由西宮夢出演\n沒有劇本！幾乎沒剪！ 《Yume》 一項對體力要求很高的工作！沒有休息！只是性！性愛變成肉尿池！ ！幫他口交，插入他，讓 Yume 射精！ ！我為無盡的提升而顫抖！ ？大高潮！抽搐！只是一個肉孔小便池。男人紛紛湧向我們！顏射不停肉小便池性！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/202411070847128484.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/202411070847128484.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10798",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10798&name=西宮夢"
+    }
+  ]
+};

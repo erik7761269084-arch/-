@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/15/3e8cf9c7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104438,
+  "IDcode": "HMN-378",
+  "title": "こっそりコンドームを外して覆いかぶさり挿入部見せずににやにやベロキス騎乗位してくる生中出し大好き美顔お姉さん 東條なつ",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104438",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104438&name=東條夏"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230321/BEAC316361638A77/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59407,
+  "IDcode": "CWPBD-137",
+  "title": "キャットウォーク ポイズン 137 【美白柔肌のお嬢様】ジャポルノ中出し解禁",
+  "publish_date": "2015-12-17",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "雪白皮肤",
+    "店长推荐",
+    "知名女优",
+    "无套内射",
+    "立即口交",
+    "背后插入",
+    "站立性交",
+    "骑乘位",
+    "背部骑乘位",
+    "粉红",
+    "跳",
+    "颜面骑乘",
+    "口交",
+    "白虎",
+    "美女",
+    "美脚",
+    "中出",
+    "短发"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59407",
+  "actresses": []
+};

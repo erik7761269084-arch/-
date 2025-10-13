@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/0pXAymqR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73104,
+  "IDcode": "REAL-679",
+  "title": "女教師、誰もいない夏休みの教室で男子生徒をいじくり犯す連続強制中出し 霧島さくら",
+  "publish_date": "2018-07-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/510b3bc0e5a7a86ff8dcf51c39355b3a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73104",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73104&name=霧島さくら"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220914/ozcG8Eiw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81319,
+  "IDcode": "TMG-016",
+  "title": "TMG-016",
+  "publish_date": "2011-01-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81319",
+  "actresses": []
+};

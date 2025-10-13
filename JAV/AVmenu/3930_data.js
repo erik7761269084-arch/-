@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e80364ef-c36f-4c50-92d1-e6b9055af51b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/ce29f96f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3930,
+  "IDcode": "KTB-100",
+  "title": "辦公室痴漢調戲爽到不行！敏感OL被同事整天摸來摸去的超騷小浪妹 ~ 靜河",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "猥亵",
+    "淫亂",
+    "巨尻",
+    "變態",
+    "凌辱",
+    "中出",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "性騷擾",
+    "少女",
+    "多P",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "女同事",
+    "高跟鞋",
+    "手指插入",
+    "辦公室",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "職場",
+    "極品美人",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "KTB-100为妄想族出品,2025年8月2日发行的有碼成人影片由静河出演\n新人OL靜河看起來清純，實際上卻是個超級騷浪的小妹！在辦公室裡被同事們暗戳戳地痴漢調戲，敏感的身體完全招架不住，想忍住不叫出聲卻還是忍不住喘氣連連。緊身裙包住的翹臀、絲襪下的誘人美腿、襯衫縫隙間若隱若現的飽滿胸部，整天被摸個不停，爽到翻天，最後還被灌得滿滿的。新人女職員在這種痴漢天堂般的辦公室，簡直敏感到一碰就濕啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032139739739_74557_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032139739739_74557_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3930",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3930&name=静河"
+    }
+  ]
+};

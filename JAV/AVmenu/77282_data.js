@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/atwV17fl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77282,
+  "IDcode": "KBI-008",
+  "title": "絡み付く愛液、理性崩壊中出し、汗だく性交。 vol.01 織笠るみ 【MGSだけの特典映像付】 +30分",
+  "publish_date": "2018-12-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "潮吹",
+    "流汗",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77282",
+  "actresses": [
+    {
+      "name": "织笠るみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77282&name=织笠るみ"
+    }
+  ]
+};

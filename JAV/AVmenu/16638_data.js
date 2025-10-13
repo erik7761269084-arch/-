@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0a8ece0d-10bb-4f6f-9ddd-c55f3b119b81/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240617/ySKvZHGW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16638,
+  "IDcode": "TPPN-245",
+  "title": "理性在快樂中崩潰。不可阻擋的高潮和覺醒出汗的中出性愛 乙愛麗絲",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "巨乳",
+    "辣妹/GAL系",
+    "短髮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240122/c6cf82e2-ca2e-4af4-b8d1-00bf1c2f5107.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240122/c6cf82e2-ca2e-4af4-b8d1-00bf1c2f5107.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16638",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16638&name=乙愛麗絲"
+    }
+  ]
+};

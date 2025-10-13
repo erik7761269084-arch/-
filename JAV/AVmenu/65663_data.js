@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65663,
+  "IDcode": "7AE18318DF4933DB1780868BF3867C81",
+  "title": "经常展现笑脸高调J罩杯咖啡店员想成为性感女优潮吹高潮AV出道！ ！水原美园",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65663",
+  "actresses": []
+};

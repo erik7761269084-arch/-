@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/21/ee1022fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92321,
+  "IDcode": "MIDV-425",
+  "title": "大嫌いな上司に始業前も、休憩中も、残業でも、ドロドロに舐め犯●れてイカされているワタシ（新卒巨乳部下）… 桐夜ゆうは （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "姐姐",
+    "颜射",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240809-1/a9332b7c7a78469c73168329fc21bcdd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92321",
+  "actresses": [
+    {
+      "name": "桐夜ゆうは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92321&name=桐夜ゆうは"
+    }
+  ]
+};

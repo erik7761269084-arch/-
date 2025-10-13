@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/08/3dafaf80/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84442,
+  "IDcode": "ECB-149",
+  "title": "M男クンのアパートの鍵、貸します。 宇野栞菜",
+  "publish_date": "2021-12-03",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "女上位",
+    "放尿",
+    "荡妇",
+    "M男",
+    "苗条",
+    "骑乗位",
+    "感谢祭"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84442",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84442&name=今井栞菜"
+    }
+  ]
+};

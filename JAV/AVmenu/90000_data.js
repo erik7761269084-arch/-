@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240110/Z5rVAnX2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90000,
+  "IDcode": "PRIN-008",
+  "title": "同人AV【涙目イキ膣ボコ】リアクションど素人【逆バニー】南の島からやってきた【褐色レイヤー】149cmミニマム【巨乳】豪華2本立て！179分超限定版！",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "业余",
+    "角色扮演者",
+    "兔女郎",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90000",
+  "actresses": []
+};

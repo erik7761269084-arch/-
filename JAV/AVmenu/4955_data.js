@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d76bc180-2e1b-4f76-8670-b803522358ab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4955,
+  "IDcode": "MIAB-507",
+  "title": "光親嘴哪夠爽 滿臉口水狂舔瘋狂舌吻 ~ 松井日奈子",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "美人",
+    "淫蕩・硬核",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "MIAB-507为MOODYZ出品,2025年6月27日发行的有碼成人影片由松井日奈子出演\n【光親嘴怎麼夠爽！滿臉口水狂舔，瘋狂臉貼臉舌吻！】大腦爽到爆的舌吻體驗！迷你身材妹子被老男人的濃烈舔臉和口水交換搞到理智崩潰！她也忍不住用長長的黏舌頭纏繞對方，興奮到停不下來，沉溺在濃稠口水中高潮不斷！甚至在被一發顏射後，還滿臉精液繼續瘋狂舌吻，徹底變成舌吻痴女上癮者！「這種吻太刺激了…真的受不了啦…」",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032402266266_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032402266266_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4955",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4955&name=松井日奈子"
+    }
+  ]
+};

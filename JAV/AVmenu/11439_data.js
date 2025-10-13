@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/926ceb99-3465-4c9c-9a7f-193a71bc5aaf/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/23/a0fc5edd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11439,
+  "IDcode": "SONE-471",
+  "title": "新人NO.1 STYLE 史上最細 J罩杯暴乳 首次亮相 AV DEBUT ~ 篠真有",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "清純",
+    "巨乳",
+    "按摩棒",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SONE-471为S1出品,2024年10月8日发行的有碼成人影片由篠真有出演\n遠離白領界最苗條J罩杯、史上最強隱藏巨乳的情慾世界，她是女大學長大、進入廣告行業的干淨漂亮的都市白領麗人。要繼續當辦公室女士。罩杯並存，每天坐火車上下班的細腰和巨乳，可能就在你身邊。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003081006925925.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003081006925925.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11439",
+  "actresses": [
+    {
+      "name": "篠真有",
+      "img_url": "https://picture.yoshiclub.xyz/20241003/0895b305-b32a-4a8e-a11a-f2486ea4efd2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11439&name=篠真有"
+    }
+  ]
+};

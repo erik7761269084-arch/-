@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/24/86065592/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97691,
+  "IDcode": "IPZ-473",
+  "title": "隔壁的大姊姊竟然如此下流 希崎潔希卡",
+  "publish_date": "2014-11-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "多P",
+    "荡妇",
+    "数位马赛克",
+    "偷窥",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97691",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97691&name=希崎潔西卡"
+    }
+  ]
+};

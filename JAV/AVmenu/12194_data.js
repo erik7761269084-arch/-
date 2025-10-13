@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23e09cfc-e12d-41fd-b511-97a5da18011f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/18/f992b7f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12194,
+  "IDcode": "IPZZ-370",
+  "title": "對面房間巨乳平面偶像秀出巨乳泳裝誘惑你！我射了很多次 ~ 長濱蜜璃",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "模特兒",
+    "性感",
+    "高妹",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "明星臉",
+    "艷遇",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "IPZZ-370为IDEA POCKET出品,2024年9月10日发行的有碼成人影片由長濱蜜璃出演\n嘿！嚴重地！那個每天打手槍的巨乳寫真偶像居然就在我對面的房間裡！ ！換的衣服完全看得見！多麼意想不到的自慰啊！ （超級勃起）啊！太瘋狂了！我注意到了（汗）。你夢想中的乳房和陰戶就在你面前！ ？完全勃起，胸部和泳衣狂奔！由於極其色情的臀部動作，她一次又一次地射精！我崇拜的凹版偶像是一個非常淫蕩的女人，喜歡雞巴（汗）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906005650930930.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906005650930930.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12194",
+  "actresses": [
+    {
+      "name": "長濱蜜璃",
+      "img_url": "https://picture.yoshiclub.xyz/20240106/7cba7952-66bf-4d34-a03d-364d02f9b729.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12194&name=長濱蜜璃"
+    }
+  ]
+};

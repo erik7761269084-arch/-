@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/18/4184631e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105082,
+  "IDcode": "MIDD-483",
+  "title": "淫亂癡女護士 小川麻美",
+  "publish_date": "2009-04-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "数位马赛克",
+    "护士",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105082",
+  "actresses": [
+    {
+      "name": "小川阿佐美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fd4524ae-7d4e-4c7f-95a4-8588935c2861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105082&name=小川阿佐美"
+    }
+  ]
+};

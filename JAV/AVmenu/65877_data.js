@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65877,
+  "IDcode": "82E0DB127F0CC37DE0B7C781ADD41922",
+  "title": "少妇白洁2 贞洁人妻到荡妇需要经历什么 (XK8044)",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65877",
+  "actresses": []
+};

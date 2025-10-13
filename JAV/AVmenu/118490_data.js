@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118490,
+  "IDcode": "624EC236F01D07681A59E10DD6533FD0",
+  "title": "[FC2真实素人精选!] 寂寞人妻的穴穴~左操操右操操~ (FC2 PPV 1208310)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118490",
+  "actresses": []
+};

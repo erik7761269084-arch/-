@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/67f4787f-6a87-488c-ac99-e652fd82bbf2/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/2dc6de8d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6838,
+  "IDcode": "MIMA-016",
+  "title": "魅魔癡女小妖精被自慰器玩弄後的瘋狂反擊，嘴和小穴一起被猛操 ~ 鬆本梨穂",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "口爆",
+    "奇聞趣事",
+    "清楚系",
+    "女鬼・女妖",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "猥褻穿著",
+    "美人",
+    "辣妹/GAL系",
+    "COSPLAY服飾",
+    "無毛",
+    "女優"
+  ],
+  "description": "MIMA-016为MILU出品,2025年4月12日发行的有碼成人影片由松本梨穂出演\n興奮するような衣装で誘惑してくるお尻の綺麗な美痴女！ どんなふうに責められたいの大きな巨根を！ お股開かされて、おマ〇コ弄られ、指を入れられグチョグチョされて溢れるマン汁！ おマ〇コにバイブを入れて悪戯してもいいのよ。 バイブがおマ〇コの中でグリグリ動いて、もうイキそう。 バイブで一度イカされた後は、シックスナインでジュボジュボ、レロレロ！ パイパンマ〇コから溢れるマン汁は男を狂わせる！ エロイフェラ顔、エロイ舌使いで激勃！ 肌の綺麗な小悪魔のお尻から巨根を鬼突き！ ねっとりおチンチンをフェラに尻コキ痴女られて口内射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414120200825825_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250414/20250414120200825825_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6838",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6838&name=松本梨穂"
+    }
+  ]
+};

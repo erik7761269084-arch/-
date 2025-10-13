@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8f8d65a1-46b0-43fe-916e-b610188ad2fb/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/04/95158f72/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14147,
+  "IDcode": "IPZZ-295",
+  "title": "突如其來的大暴風雨，在我們家避雨的巨乳部屬溼漉漉的透明身軀撞到了我的雞巴，趁她渾身溼淋淋的時候操了她 ~ 桜空桃",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "女同事",
+    "美少女電影"
+  ],
+  "description": "IPZZ-295为IDEA POCKET出品,2024年6月11日发行的有碼成人影片由桜空桃出演\n創紀錄的大雨一直持續到隔天早上，我才帶著大胸小三來到我家，全身濕透…因為暴風雨不能回家，所以要你們在家等，透明胸的巨乳後輩，共射精7次，太色情了！ ！ ① 為感謝避難而口交 ② 與濕漉漉的透明大胸部下充滿活力的 SEX ③ 雨不停歇的性慾 SEX ④ 令人興奮的暴雨 FUCK ⑤ 陽光明媚的早晨令人興奮的中出 SEX。透視場景比全視圖性感100倍。性慾在暴風雨的夜晚爆發。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607011312370370.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240607/20240607011312370370.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14147",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14147&name=桜空桃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14147&name=イセドン内村"
+    }
+  ]
+};

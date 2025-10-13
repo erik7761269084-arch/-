@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/1d6a36c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61233,
+  "IDcode": "MOPP-108",
+  "title": "隣に引っ越してきたキレイなお姉さんが毎晩男を連れ込んでアンアン言わせてるアナル凸痴女でM男の僕はもう…。西野絵美",
+  "publish_date": "2025-08-05",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61233",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61233&name=西野絵美"
+    }
+  ]
+};

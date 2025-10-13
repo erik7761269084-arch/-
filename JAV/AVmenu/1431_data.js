@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7adaf352-ad1e-4d7c-8a17-de31607109f7/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20230831/bf4rMYDS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1431,
+  "IDcode": "HEYZO-2780",
+  "title": "6點下班後～職業OL喜歡舔棒～",
+  "publish_date": "2022-05-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "OL",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230618/20230618001335755755.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230618/20230618001335755755.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1431",
+  "actresses": [
+    {
+      "name": "天音りおん",
+      "img_url": "https://picture.yoshiclub.xyz/20230618/58488b14-e441-435d-964c-25aaf99ca812.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1431&name=天音りおん"
+    }
+  ]
+};

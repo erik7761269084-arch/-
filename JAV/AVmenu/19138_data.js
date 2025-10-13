@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a6e25e9-9eda-42ac-8838-443fc57592cf/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250303/UgOgWpuX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19138,
+  "IDcode": "IPX-313",
+  "title": "開發兩位大姊女優 初體驗蕾絲邊解禁！渚光莉 大槻響 篠田優",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "亂交 • 群P",
+    "姐姐・妹妹",
+    "女同性戀",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230712/20230712023708590590.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230712/20230712023708590590.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19138",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19138&name=大槻响"
+    },
+    {
+      "name": "篠田優",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/ddd44455-9f82-44f4-a50e-49a13d951d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19138&name=篠田優"
+    },
+    {
+      "name": "渚ひかり",
+      "img_url": "https://picture.yoshiclub.xyz/20230514/dd7606d7-9a3a-48c6-89af-a0239ed6a49b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19138&name=渚ひかり"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19138&name=篠田优"
+    }
+  ]
+};

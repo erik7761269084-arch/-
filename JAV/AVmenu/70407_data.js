@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/10/c5d2ef9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70407,
+  "IDcode": "WANZ-909",
+  "title": "普段は口も聞いてくれない義娘にまたがられ乳首責め中出しされた3日間。 椎名そら",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "乱伦",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70407",
+  "actresses": [
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70407&name=椎名空"
+    }
+  ]
+};

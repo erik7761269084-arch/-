@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/22/8be8b0be/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85700,
+  "IDcode": "NGOD-160",
+  "title": "不登校の生徒宅へ熱心に家庭訪問に来るキリッとした性格の才色兼備な爆乳女教師が汚部屋で押し倒されて 男子生徒のカリ太びんびんフル勃起のデカチンで健闘むなしく快楽堕ち！！ 2 春菜はな",
+  "publish_date": "2021-11-09",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "淫乱，真实",
+    "巨大屁股",
+    "白天出轨",
+    "女教师",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/e7d3ef34b0c96dd3081d80b50249f45f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85700",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85700&name=春菜华"
+    }
+  ]
+};

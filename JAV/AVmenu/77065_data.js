@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/onR1UiSx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77065,
+  "IDcode": "MXGS-945",
+  "title": "新人 紗凪美羽 ～元芸能人AVデビュー！～",
+  "publish_date": "2017-03-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "艺人",
+    "自慰",
+    "苗条",
+    "潮吹",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77065",
+  "actresses": [
+    {
+      "name": "纱凪美羽",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/8fe5aac49065ecb3f51ae314b0c0bddd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77065&name=纱凪美羽"
+    }
+  ]
+};

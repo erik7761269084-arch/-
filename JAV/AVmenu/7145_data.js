@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0d4cabf9-1cba-4ada-9daf-dade329ea8bd/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/09/24e2fa88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7145,
+  "IDcode": "FSDSS-989",
+  "title": "禁斷鄰家女 可能是我女兒? ~ 吉高寧寧",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "深喉",
+    "傲嬌",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "女兒",
+    "潮吹",
+    "父女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "女神",
+    "性感",
+    "不倫",
+    "接吻",
+    "美腳",
+    "鄰居",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "美人",
+    "亂倫",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330030750343343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250330/20250330030750343343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7145",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7145&name=吉高寧寧"
+    }
+  ]
+};

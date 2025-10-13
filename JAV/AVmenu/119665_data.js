@@ -1,0 +1,21 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119665,
+  "IDcode": "FC2PPV-1204298",
+  "title": "スレンダーBカップのちっぱい美女?スタイル抜群のれあちゃんとイチャラブエッチでおじさんの我慢汁が垂れまくりｗ滅",
+  "publish_date": "2019-11-18",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "私人摄影",
+    "原作",
+    "苗条",
+    "美女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119665",
+  "actresses": []
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d88743a4-a836-4589-beae-1de6b96f5905/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11063,
+  "IDcode": "SSNI-447",
+  "title": "情色戀人性欲泄露太色情，性愛超獻身的風俗業服務170分鍾VIP ~ Miru",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "拜金女",
+    "明星臉",
+    "手指插入",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "SSNI-447为S1出品,2019年4月7日发行的有碼成人影片由Miru出演\n天才nuki科技少女「坂道美露」終於上班了！可以充分享受別針沙龍、制服配送健康、SM俱樂部、情色美容院、肥皂5種讓男人無骨的超用心服務！包裹著雞巴的極品手交，一直深入到喉嚨深處的深喉……所有技術都是一流的！請享受盡情抽出、盡情射精、甚至高潮的精緻性愛遊戲。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241026/20241026013102810810.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241026/20241026013102810810.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11063",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11063&name=Miru"
+    }
+  ]
+};

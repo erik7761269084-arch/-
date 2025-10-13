@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/28/dbad7931/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102052,
+  "IDcode": "RS-035",
+  "title": "まこ",
+  "publish_date": "2008-11-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "自慰",
+    "跳蛋",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102052",
+  "actresses": []
+};

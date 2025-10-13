@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56692320-d0e5-4be5-86b5-43bacfd609de/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/9cd03b6f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3519,
+  "IDcode": "DOCD-069",
+  "title": "假裝童貞撩撥正經按摩小姐姐，趁她心軟攻破防線，大屌直搗生中出大成功 ~ 似鳥日菜 天羽梨梨花 夕美紫苑",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "二次元",
+    "超爆乳",
+    "按摩女郎",
+    "4K",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "清楚系",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "DOCD-069为DOC出品,2025年8月14日发行的有碼成人影片由夕美紫苑，天羽梨梨花，似鳥日菜出演\n越是難爬的高山，登頂那一刻的成就感就越是無可比擬！メンエス也是同樣的道理，越是規矩正經的小姐姐，防線越是鐵壁，男人就越想挑戰、越想征服！別誤會，這可不是單純為了發洩慾望，而是想感受攻下這座名叫メンエス的高峰後，那種極致的爽感和滿足感！假裝童貞博取同情，趁她心防放鬆，直接用大屌攻陷，最後生中出本番，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140405368989_24283_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/202508140405368989_24283_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3519",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3519&name=夕美紫苑"
+    },
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3519&name=似鳥日菜"
+    },
+    {
+      "name": "天羽梨梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5dc8ef57-bccd-406c-8c5a-fe4e459ec89f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3519&name=天羽梨梨花"
+    }
+  ]
+};

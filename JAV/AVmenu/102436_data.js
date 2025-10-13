@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240606/51wjneHF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102436,
+  "IDcode": "SNIS-600",
+  "title": "下着モデルをさせられて… 早乙女美々",
+  "publish_date": "2016-02-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "多P",
+    "颜射",
+    "内衣",
+    "潮吹",
+    "薄马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102436",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102436&name=田渊正浩"
+    },
+    {
+      "name": "早乙女美々",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/a3070171337da832cb5a7ea8e5473b63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102436&name=早乙女美々"
+    }
+  ]
+};

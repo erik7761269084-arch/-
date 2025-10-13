@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aa3e23a4-1a3c-408e-8433-f5636de8fec5/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240618/fHwqQtnB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15483,
+  "IDcode": "VENX-262",
+  "title": "「你對阿姨的內褲感到興奮嗎？」夏川步美阿姨用剛脫下的內褲榨乾了侄子的每一滴精液（BOD）",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "劇情",
+    "色誘",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "嬸嬸",
+    "正太控",
+    "口交",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/762865cc-7b77-4e58-92cf-7e7ffd377d1d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/762865cc-7b77-4e58-92cf-7e7ffd377d1d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15483",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15483&name=夏川步美"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15483&name=タツ"
+    }
+  ]
+};

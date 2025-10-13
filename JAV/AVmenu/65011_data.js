@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240817/fJoT0nQn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65011,
+  "IDcode": "DILLDO",
+  "title": "友对决！固定扭腰比赛不甩1000次就回不去！！16-凉南佳奈,富井美帆,与田さくら等演员。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240817-1/a8c56d8e119daf782201de8a00f7216a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65011",
+  "actresses": []
+};

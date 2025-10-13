@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241016/ptbUCeEo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93840,
+  "IDcode": "PPBD-284",
+  "title": "敏感チクビをこねくり回す痙攣絶頂FUCK",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "按摩",
+    "羞耻",
+    "乳房",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93840",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=吉根柚莉爱"
+    },
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=夕美紫苑"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=深田詠美"
+    },
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=小梅惠奈"
+    },
+    {
+      "name": "桐谷茉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/bb463a2c-a931-4815-a114-eb98c99924ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=桐谷茉莉"
+    },
+    {
+      "name": "凪沙雪乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=凪沙雪乃"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=安倍亜沙美"
+    },
+    {
+      "name": "田中瞳",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/188e71b46fd4b376e545cd76ce28fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93840&name=田中瞳"
+    }
+  ]
+};

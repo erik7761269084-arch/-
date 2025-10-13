@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/bfbfbaa4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66463,
+  "IDcode": "NGHJ-016",
+  "title": "とっても巨乳な美人看護師さん！！敏感童貞君の早漏改善してくれませんか！？「何回出しても大丈夫…好きなだけ射精させてあげる」どんなに暴発しても許してくれる美人ナースさんが筆おろし中出しSEXさせてくれる神展開≪総暴発数16射精≫",
+  "publish_date": "2025-06-10",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "业余",
+    "护士",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66463",
+  "actresses": []
+};

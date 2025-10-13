@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220619/773D3C46E8646451/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56521,
+  "IDcode": "E8E55825C687AF13FACDDB87399CA0CF",
+  "title": "敏感美乳少女的初体验",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56521",
+  "actresses": []
+};

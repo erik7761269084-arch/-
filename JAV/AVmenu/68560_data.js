@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/02/4861c446/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68560,
+  "IDcode": "TYSF-037",
+  "title": "ゴム破れても→生ハメ続行！！ 性欲モンスター隣人妻の終わらない暴走イカレ騎乗位 何発も濃厚中出しをしまくった僕（童貞） 斎藤あみり",
+  "publish_date": "2023-03-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "新娘，年轻妻子",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68560",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68560&name=斋藤亚美里"
+    }
+  ]
+};

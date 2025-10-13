@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/238d6d96-317b-496e-9262-c413866fcd90/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/02/17151673/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4013,
+  "IDcode": "BOOBS-002",
+  "title": "巨乳就是正義 公司福利爽到爆 I罩杯同事超敏感 ~ 櫻茉日",
+  "publish_date": "2025-07-24",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "吞精",
+    "網襪",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "單體作品",
+    "美人妻",
+    "更衣室",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "猥褻穿著",
+    "美人",
+    "職場",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "BOOBS-002为AKNR出品,2025年7月24日发行的有碼成人影片由堀北実来出演\n【巨乳就是正義 公司福利爽到爆】 這家公司福利也太誇張了吧，員工累了竟然能直接上手摸胸！ - 工作累到不行？來，巨乳小姐姐幫你放鬆一下！ - 升職慶祝？爆乳OL陪你High一整晚！ - 出差在外？貼心按摩服務送到床上！ 各種超狂福利，員工士氣直接衝頂！ 這位I罩杯的敏感同事，簡直就是公司的天使，濕吻撩得你心癢癢，超大胸圍的波濤洶湧直接讓人喘不過氣！隨便一揉，她就嬌喘連連，敏感得全身發抖，直接高潮啦！ 【濃稠精華直接吞】 【對視甜蜜愛愛】 【職場騷擾？這裡是日常啦！】",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250730/20250730104153272272_88174_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250730/20250730104153272272_88174_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4013",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4013&name=堀北実来"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/9174f51b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62206,
+  "IDcode": "NVH-058",
+  "title": "【FANZA限定】回春エステで雌イキの快楽を刷り込まれる ニューハーフ逆アナルセックス♂ 那々未 Tシャツとチェキセット",
+  "publish_date": "2025-07-09",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "荡妇",
+    "按摩",
+    "肛交",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/9174f51b/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62206",
+  "actresses": [
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62206&name=タクト"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62206&name=じゅうもんじ"
+    },
+    {
+      "name": "那々未",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62206&name=那々未"
+    }
+  ]
+};

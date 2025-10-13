@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a460ba63-e16e-4c3e-97a2-463389cdf840/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4971,
+  "IDcode": "CAWD-857",
+  "title": "新人出道！拍攝中出AV算不算違反校規？神某川縣某浜市立某丘高中 身高143cm比學生還萌的蘿莉實習老師 失足少女初登場 AV DEBUT ~ 小阪環奈",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "流汗",
+    "色白",
+    "蘿莉",
+    "紀念作",
+    "中出",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "素人",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "出道作品",
+    "清純",
+    "手指插入",
+    "地味",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "CAWD-857为KAWAII出品,2025年6月27日发行的有碼成人影片由 小坂環奈出演\n在神某川县某浜市立某丘高中某男子校实习的菜鸟老师小坂环奈，身高只有143cm，脸蛋嫩得让人怀疑她到底成年没？身材比学生还幼齿，心态也纯得像个小白兔。但就是这么个看似单纯的小萝莉，竟然对中出AV充满好奇，道德底线低得离谱！她还嘴上说‘因为在女校长大，想多接触男生…’这话是真心，还是另有隐情？快来一探究竟吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031334412412_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031334412412_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4971",
+  "actresses": [
+    {
+      "name": "小坂環奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250627/f42ebbf9-24fd-485c-bc26-3c69b6226a8c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4971&name=小坂環奈"
+    }
+  ]
+};

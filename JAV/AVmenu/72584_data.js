@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/20/8226e5a3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72584,
+  "IDcode": "HMN-651",
+  "title": "野球部のエースに初カノを寝取られて… 男は見た目じゃなくて中身と言ってた彼女が絶倫チ●ポに何度もイカされ直球中出し！！ 虹村ゆみ",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "颜射",
+    "制服",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72584",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72584&name=虹村由美"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72584&name=日森一"
+    }
+  ]
+};

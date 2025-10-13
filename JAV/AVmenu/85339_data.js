@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230122/UcxjItwY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85339,
+  "IDcode": "MIAA-638",
+  "title": "被囚禁的女搜查官 春藥精油拘束拷問無限高潮中出篇 北野未奈",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "潮吹",
+    "女检察官",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/55797126223351a6689b33029f9bf1a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85339",
+  "actresses": []
+};

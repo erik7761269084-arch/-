@@ -1,0 +1,92 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47ec3b3c-55ae-4c68-bc17-a4dff1a01ff5/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/33e2bbe9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7960,
+  "IDcode": "SDDE-744",
+  "title": "真的可以讓時間停止！ ~死裏逃生的男子在醫院用射精的方式感謝白衣天使們 ~ 天馬唯 櫻木美音 前田美波",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "醫院・診所",
+    "舔腳",
+    "老頭子",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "時間停止",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "輪姦",
+    "接吻",
+    "多P",
+    "唾液敷面",
+    "護士制服",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "看病・住院",
+    "奇異的",
+    "按摩棒",
+    "美人",
+    "護士",
+    "極品美人",
+    "口罩",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250225/20250225020744955955.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250225/20250225020744955955.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7960",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7960&name=天馬唯"
+    },
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7960&name=前田美波"
+    },
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7960&name=桜木美音"
+    }
+  ]
+};

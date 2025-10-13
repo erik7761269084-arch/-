@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/Hy8DLxX9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80807,
+  "IDcode": "PRED-374",
+  "title": "日帰り出張のはずが帰れなくなりまさかの相部屋。 欲求不満な女上司2人に『一晩だけ…』の痴女ハーレムで中出しさせられ続けたボク…。 竹内有紀 川上奈々美 （ブルーレイディスク）",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e11fe86847189714ab051e47e4d47097.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80807",
+  "actresses": [
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80807&name=川上奈奈美"
+    }
+  ]
+};

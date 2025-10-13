@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/en1Q5hZ1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81420,
+  "IDcode": "CMD-029",
+  "title": "はる",
+  "publish_date": "2015-06-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "角色扮演者",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81420",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81420&name=玉木玲"
+    }
+  ]
+};

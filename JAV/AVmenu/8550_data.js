@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cf680b01-03d3-4b6c-b6e7-ce18cfda0381/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8550,
+  "IDcode": "EK-045",
+  "title": "專門針對已婚婦女的月刊情色雜誌：你的身體就是罪！ ！ ！ 45號",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "素人Only",
+  "genres": [
+    "素人作品",
+    "企畫",
+    "中出",
+    "形象俱樂部",
+    "4小時以上作品",
+    "胖女人",
+    "精選總編集",
+    "獵豔",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8550",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8550&name=柏木小夏"
+    },
+    {
+      "name": "若宮穂乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241209/e7f3cc00-9e68-4e42-995b-c6e9b787c913.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8550&name=若宮穂乃"
+    },
+    {
+      "name": "中条りの",
+      "img_url": "https://picture.yoshiclub.xyz/20241005/577a3056-3107-48c2-bba4-253470b3d263.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8550&name=中条りの"
+    },
+    {
+      "name": "仲野梢",
+      "img_url": "https://picture.yoshiclub.xyz/20250204/dd2f51ab-f4a4-4caf-810b-9060db76c22a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8550&name=仲野梢"
+    },
+    {
+      "name": "白川柚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/29865739-e674-4aa4-a00a-ddde9e535ee7.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8550&name=白川柚子"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f90ea2b-e7e3-4c45-8ceb-3d3c3a63b41a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/761ec55c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9784,
+  "IDcode": "ABF-181",
+  "title": "完全主觀×鬼畜既視感！即使射精也不會停止的FUCK！ ！ ！追擊5.000次大力抽插 ~ 蒼乃美月",
+  "publish_date": "2024-12-19",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "感官作品",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "猥褻穿著",
+    "M男・M女",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241219/8da06cab-ed74-451e-bb40-447913c0edc4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241219/8da06cab-ed74-451e-bb40-447913c0edc4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9784",
+  "actresses": [
+    {
+      "name": "蒼乃美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231208/4dc98d20-c362-4e82-a356-cbe6a730a902.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9784&name=蒼乃美月"
+    }
+  ]
+};

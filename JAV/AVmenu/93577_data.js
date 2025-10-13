@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/tpKBcm9m/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93577,
+  "IDcode": "NPJS-048",
+  "title": "「オヂさん騙してカネ稼いで楽しいか？」 池袋で捕まえたナマイキな【頂きP活女子】を媚薬漬けキメセク喰い！延々と濃厚オヤジ達にマワされ半泣きアへイキ肉便器！大人を舐めてるミニマムろりマ〇コを分からせてやった…",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "凌辱",
+    "第一人称摄影",
+    "瘦小身型",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93577",
+  "actresses": [
+    {
+      "name": "水本葉",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/35bd7941-efdb-46ea-b86d-e6151491b290.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93577&name=水本葉"
+    }
+  ]
+};

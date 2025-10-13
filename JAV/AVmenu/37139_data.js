@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220618/58E25C9D13F3DC14/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37139,
+  "IDcode": "7E774A1A4D8790CA11B9064AECF-38935",
+  "title": "与自慰到湿透的女孩绝顶性交Vol.9 桥本玲美",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37139",
+  "actresses": []
+};

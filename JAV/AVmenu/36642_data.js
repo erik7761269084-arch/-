@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/4653A0279A842E55/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36642,
+  "IDcode": "486F82F912361E0F8DAD46DBEE3EB-653",
+  "title": "JKとエロコンビニ店長 エロ可愛ママ姉_麻央～痴撮に見惚れるJKフレンズ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36642",
+  "actresses": []
+};

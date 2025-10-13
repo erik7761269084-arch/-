@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/09/3b1955ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106777,
+  "IDcode": "STARS-730",
+  "title": "PM7:00チェックインからAM7:00チェックアウトまで中出しセックスに明け暮れた最後のお泊りW不倫 紗倉まな",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "姐姐",
+    "出轨",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/09/d8a4c5d09cdbecfb48d42f473cf16bc7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106777",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106777&name=纱仓真菜"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106777&name=小田切ジュン"
+    }
+  ]
+};

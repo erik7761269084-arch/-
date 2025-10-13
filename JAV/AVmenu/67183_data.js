@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250424/h5lQrwXI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67183,
+  "IDcode": "GS-453",
+  "title": "従姉妹がTバック尻はみ出しのミニスカートで家に遊びに来た！！もう、目のやり場に困る。そんな俺のドキドキに気づいているのか無防備に昼寝しだした。ソソられまくりそっと手をだすと…いきなり濃厚なキスをしてきて「もうっ！誘ってるんだから男らしく襲ってきなさいよ！…",
+  "publish_date": "2010-08-21",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67183",
+  "actresses": [
+    {
+      "name": "白雪ましろ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67183&name=白雪ましろ"
+    }
+  ]
+};

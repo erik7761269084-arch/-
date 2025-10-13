@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/qwwEGxbO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68039,
+  "IDcode": "EYAN-196",
+  "title": "被附近巨乳妻持續接吻挑逗1年… 累積性欲全部吐出滿是唾液精液的濃厚週末不倫 惠沙也香",
+  "publish_date": "2022-12-16",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "荡妇",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68039",
+  "actresses": [
+    {
+      "name": "恵沙也香",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8b3f628e-e7ce-42d4-953d-5e935ccc8851.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68039&name=恵沙也香"
+    }
+  ]
+};

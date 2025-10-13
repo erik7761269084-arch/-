@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/NGdZ88oR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76343,
+  "IDcode": "HBAD-504",
+  "title": "息子の友達のマセガキ共に性処理させられザーメンまみれの母親 鈴木さとみ",
+  "publish_date": "2019-10-24",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "戏剧",
+    "中出",
+    "母亲",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241211-1/549ef7d7eb131971dccabaee0a292a81.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76343",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76343&name=铃木里美"
+    }
+  ]
+};

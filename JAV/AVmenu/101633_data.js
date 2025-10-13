@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240401/xoM6uXbk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101633,
+  "IDcode": "SIRO-5235",
+  "title": "才色兼備のWEBデザイナーが登場！仕事は充実していてもセックスはご無沙汰・・・。久しぶりのチ●ポを下品な音を立てて貪るマ●コ！淫らな声が響き渡る！ 【初撮り】ネットでAV応募→AV体験撮影 2122",
+  "publish_date": "2024-03-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "姐姐",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101633",
+  "actresses": [
+    {
+      "name": "響かれん",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/dac6ecc3-932d-47de-9c46-98b1dcdd5b3a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101633&name=響かれん"
+    },
+    {
+      "name": "かれん",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/1038c9ba368a570b72bf68b1a133a87e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101633&name=かれん"
+    }
+  ]
+};

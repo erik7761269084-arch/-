@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231215/0pGP68kE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89213,
+  "IDcode": "STARS-859",
+  "title": "一泊二日で12発射精しちゃうヤリまくりイチャイチャ温泉旅行 小湊よつ葉",
+  "publish_date": "2023-06-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89213",
+  "actresses": [
+    {
+      "name": "小湊四葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/8efba086-0ee3-439d-8559-aa2f4b9bb9a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89213&name=小湊四葉"
+    }
+  ]
+};

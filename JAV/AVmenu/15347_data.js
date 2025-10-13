@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3b1c1ae-d0f8-4e68-b014-4541e272970d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15347,
+  "IDcode": "MXGS-1329",
+  "title": "被不小心檢回家的女孩反向強奸，長的像色情漫畫女主一樣 和久井美兎",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "按摩棒",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240416/aaeb392c-cde6-47f3-b0da-a7e5c3e30e41.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240416/aaeb392c-cde6-47f3-b0da-a7e5c3e30e41.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15347",
+  "actresses": [
+    {
+      "name": "和久井美兎",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15347&name=和久井美兎"
+    }
+  ]
+};

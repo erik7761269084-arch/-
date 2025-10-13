@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230126/d88d2e03-e957-435c-a983-86f5eb18fcb1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1806,
+  "IDcode": "mkbd-s118",
+  "title": "KIRARI 118 榨乾你三次還不罷休的極上女優 : 立花美涼",
+  "publish_date": "2015-12-22",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "美乳",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/fdab4c5b-76d4-4cc0-8fc1-07e73c21e991.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/fdab4c5b-76d4-4cc0-8fc1-07e73c21e991.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1806",
+  "actresses": [
+    {
+      "name": "立花美涼",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/4944af0d-ba1f-43cc-98a8-8fa9883f62d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1806&name=立花美涼"
+    }
+  ]
+};

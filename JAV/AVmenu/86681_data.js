@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/jHeKsWeL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86681,
+  "IDcode": "ABW-053",
+  "title": "青春 與制服美少女完全主觀渡過性春3性愛。 ＃02  八掛海",
+  "publish_date": "2021-02-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "无毛",
+    "颜射",
+    "潮吹",
+    "角色扮演者",
+    "主观视角",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/b71ff33e35d84b91795f159b69110213.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86681",
+  "actresses": [
+    {
+      "name": "八挂うみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86681&name=八挂うみ"
+    }
+  ]
+};

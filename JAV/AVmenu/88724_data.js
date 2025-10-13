@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/TkQmtpQj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88724,
+  "IDcode": "WORL-003",
+  "title": "世界共通のBody Language 制服コスAV出演ガチ交渉 碧い目のアニメボイス金髪美少女！！",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "制服",
+    "水手服",
+    "纪录片",
+    "西洋片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/af8c185cda21ee84cfba60df0a81c3ac.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88724",
+  "actresses": []
+};

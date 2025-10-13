@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/26/41e1a807/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88649,
+  "IDcode": "XVSR-713",
+  "title": "1日中セックスしよッ！ 朝から晩まで、いつでもどこでも本能のままSEX三昧！！ 大槻ひびき （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "中出",
+    "裸体围裙",
+    "乳房",
+    "立即口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/70892c805be286783b3b1ec7a8219d69.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88649",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88649&name=大槻响"
+    }
+  ]
+};

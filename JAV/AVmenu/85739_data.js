@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/10/7711c9a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85739,
+  "IDcode": "NSFS-116",
+  "title": "投稿実話 マジックミラー寝取られセックス2 上白美央 （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85739",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85739&name=岩下たろう"
+    }
+  ]
+};

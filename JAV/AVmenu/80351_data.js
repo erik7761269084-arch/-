@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/tcwrA7cu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80351,
+  "IDcode": "NHDTB-607",
+  "title": "整体院で絶倫じぃさんに媚薬を盛られ敏感になった巨乳をしゃぶられイカされ続けた女子○生",
+  "publish_date": "2021-12-09",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "按摩",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/c72b4684d56c5b323e62f0e30c26a36a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80351",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80351&name=松本菜奈実"
+    }
+  ]
+};

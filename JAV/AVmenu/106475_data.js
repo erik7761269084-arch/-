@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/08/998c3473/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106475,
+  "IDcode": "JUX-017",
+  "title": "補償兒子犯下過錯的白板媽媽～～實則緊緊相連的慈愛無毛相姦無毛相姦～ 岩崎千鶴",
+  "publish_date": "2013-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "无毛",
+    "乱伦",
+    "母亲",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106475",
+  "actresses": [
+    {
+      "name": "巖崎千鹤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106475&name=巖崎千鹤"
+    }
+  ]
+};

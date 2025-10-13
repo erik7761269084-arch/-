@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/08b39206/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82242,
+  "IDcode": "AVSA-075",
+  "title": "淫語を喋る俺だけの性欲処理人形 Wドール特別仕様 波多野結衣 大槻ひびき",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "淫语",
+    "恶作剧"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/fdfafd16b5204074a89dc49edb1737bc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82242",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82242&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82242&name=大槻响"
+    }
+  ]
+};

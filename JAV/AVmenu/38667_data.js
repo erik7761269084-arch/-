@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221118/2D2D248B8F3A1F7B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38667,
+  "IDcode": "60C6EF98FBFFB929A0DD767D5518E9D-1",
+  "title": "想在上位的女人",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38667",
+  "actresses": []
+};

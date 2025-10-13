@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f381c3fd-2014-432b-8f6e-fc1db6515a11/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250125/KECpZdIt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16294,
+  "IDcode": "SSNI-141",
+  "title": "吉沢明歩被大量渾濁乳液顏射塗抹並強奸",
+  "publish_date": "2018-03-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "3P・4P",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "多P",
+    "唾液敷面",
+    "厠所",
+    "美少女",
+    "按摩・美容店",
+    "巨乳",
+    "空姐",
+    "抹油",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SSNI-141为S1出品,2018年3月25日发行的有碼成人影片由吉沢明歩出演\n從頭到腳澆上渾濁的白色乳液，帶來新的強奸感覺！ 5 種瘋狂的泥濘沼澤場景，即使你穿着衣服，也會被渾濁的液體淋溼！吉沢明歩的臉色變得蒼白，他的嘴和陰戶徹底骯髒了！請看一下，逼得她無法呼吸、被腦液浸溼的極其嚴酷的乳液羞辱操！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214094835712712.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240214/20240214094835712712.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16294",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16294&name=吉沢明歩"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16294&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16294&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16294&name=小田切ジュン"
+    }
+  ]
+};

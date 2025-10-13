@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221120/mCQVRRd9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82737,
+  "IDcode": "300MIUM-395",
+  "title": "連続中出し2回！顔射1回！計3連発！エロテクニック・顔面偏差値70オーバー！「ゴムは大丈夫です…」自らパイパンマ●コに生ハメ希望！何者だこの奥様は？？？？？【パイパン美人奥様、自宅で正しいSEXの仕方セミナー開きますの巻】",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82737",
+  "actresses": []
+};

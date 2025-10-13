@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230830/Molprem7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78463,
+  "IDcode": "DOCP-051",
+  "title": "「ダメ…声出ちゃうって！」声を出しちゃいけない状況でカワイイあの子の股間を陰湿イタズラ責め！スリルとドキドキ感でマ○コが爆濡れ！アヘ声を我慢しながら連続真性中出しSEX！！2",
+  "publish_date": "2018-06-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "荡妇",
+    "恶作剧",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78463",
+  "actresses": [
+    {
+      "name": "初美りん",
+      "img_url": "https://www.hhkoo.com/d/file/20170712/42ec51cf59a9693aaa1f85397ba59898.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78463&name=初美りん"
+    },
+    {
+      "name": "なつめ爱梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78463&name=なつめ爱梨"
+    }
+  ]
+};

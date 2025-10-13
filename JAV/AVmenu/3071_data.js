@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/512b1aaf-1089-4498-95b8-fe15b5c88502/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/7e419a9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3071,
+  "IDcode": "GVH-776",
+  "title": "重機辣妹的另一面：帶點受虐癖的變態小甜心 ~ 小倉和葉",
+  "publish_date": "2025-08-29",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女優面試",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "AV拍攝現場",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "叛逆少女",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "GVH-776为GLORY QUEST出品,2025年8月29日发行的有碼成人影片由小倉和葉出演\n收到一位住在東京的妹子傳來的影片訊息，她說：「我叫和葉，20歲，可能有點小受虐傾向…拜託請拍下我的故事吧！」於是我們命令她傳一段裸體影片過來。她回：「我是和葉，被命令秀裸體真的超興奮，脫了…請看吧！」感覺這妹子絕對是塊好料，果斷決定開拍。拍攝當天，一輛超帥的重機直接衝進了攝影棚，哇塞，這氣場太猛啦！#養老P",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/202508312106332323_73445_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250831/202508312106332323_73445_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3071",
+  "actresses": [
+    {
+      "name": "小倉和葉",
+      "img_url": "https://picture.yoshiclub.xyz/20250228/9bf1603e-e482-475c-b3ec-e5efdb48fc22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3071&name=小倉和葉"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3071&name=タクト"
+    }
+  ]
+};

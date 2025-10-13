@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65067,
+  "IDcode": "968CF0E8B2AAF9E8BB4C1F87211EF192",
+  "title": "V字水着を着せられて… 全裸よりも恥ずかしい、背徳着衣フェティシズム-。 凛音とうか",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65067",
+  "actresses": []
+};

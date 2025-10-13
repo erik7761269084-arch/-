@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/ZXWOfA5Z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67626,
+  "IDcode": "HMN-204",
+  "title": "【FANZA限定】可愛い友達の妹にウザイほど愛されすぎて…学校でこっそり中出しし続けるサイレント子作り生活 牧野みおな 生写真2枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "制服",
+    "口交",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/d09738e6cc133eff30d96a6446e04ace.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67626",
+  "actresses": []
+};

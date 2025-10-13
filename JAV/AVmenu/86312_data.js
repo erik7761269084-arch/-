@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230204/TrB99Ke8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86312,
+  "IDcode": "SSIS-370",
+  "title": "ボディラインぴったり汗ばむ肌密着で誘惑してくる肉食アスリートボディお姉さん ひなたまりん",
+  "publish_date": "2022-04-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "荡妇",
+    "屁股",
+    "高",
+    "潮吹",
+    "薄马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86312",
+  "actresses": [
+    {
+      "name": "日向真凛",
+      "img_url": "https://picture.yoshiclub.xyz/20231207/05ff9aa2-6577-4d89-a652-a92e437469b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86312&name=日向真凛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86312&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/VH7RxlOE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67575,
+  "IDcode": "HBAD-626",
+  "title": "被惡劣小鬼小叔與惡友當作共同性處理的大嫂～瀨名未來",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67575",
+  "actresses": []
+};

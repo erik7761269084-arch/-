@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d61c9aa8-697f-4b95-8b35-844107b5cf57/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/20/bf7b28b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5402,
+  "IDcode": "ABF-238",
+  "title": "駅伝部監督的美人妻 祕密集訓合宿下的瘋狂口活大放送 ~ 野野浦暖",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "集訓",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "美人",
+    "學校",
+    "阪道系",
+    "名人妻子",
+    "大奶头",
+    "極品美人",
+    "寢取"
+  ],
+  "description": "ABF-238为蚊香社出品,2025年6月20日发行的有碼成人影片由野野浦暖出演\n獨家女優野野浦暖化身驛傳部教練的性感老婆，私底下給隊員們超級貼心的福利！面對一群精力旺盛的小鮮肉，她可是一點不含糊，從頭到尾細膩舔弄每位隊員的硬挺傢伙，接下每一滴熱騰騰的精華。雖然這畫面在外人眼裡超震撼，但為了隊員們的勝利，她連身體都拼了！緊緻的小穴熱情迎接，上下搖晃榨乾每一分精力，簡直是賢妻中的頂級玩家！在狹小的浴室裡，她更是無私奉獻，用小嘴幫隊員們解放壓力，一滴不漏全吞下！野野浦暖用身體帶領隊員走向常勝，性感與犧牲精神的完美融合，絕對讓人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612035332459459_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612035332459459_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5402",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5402&name=野野浦暖"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5402&name=いち"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5402&name=ニック"
+    },
+    {
+      "name": "七尾神",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5402&name=七尾神"
+    }
+  ]
+};

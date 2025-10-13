@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220517/8D4EE44D79728DEB/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36863,
+  "IDcode": "BEB036064299B0B9C83750696549FD-65",
+  "title": "年轻人妻受不了年老的老公~找了个更年壮的疯狂做爱",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36863",
+  "actresses": []
+};

@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66dc4f9d-e606-4b7c-8b25-e045410891a6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3463,
+  "IDcode": "START-394",
+  "title": "復出被騙拍攝裸體寫真卻慘糟NTR 退圈的人氣偶像被小鮮肉幹到淫液狂流 ~ 夏目響",
+  "publish_date": "2025-08-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "偶像",
+    "乳交",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "誘騙女性",
+    "女優",
+    "羞恥"
+  ],
+  "description": "START-394为SOD出品,2025年8月18日发行的有碼成人影片由夏目響出演\n十年前，超人氣偶像響在巔峰時期突然退圈，她老公真田是當年的經紀人。某天，響接到了一份裸體寫真拍攝的邀約。其實她心裡一直暗戀對手戲小鮮肉早瀨，同時也渴望重拾身為女人的魅力光芒。拍攝過程中，氣氛越來越曖昧，響的情慾被徹底點燃，最終越過了那條禁忌線…真的是讓人看了心癢癢啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818044504302302_50258_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250818/20250818044504302302_50258_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3463",
+  "actresses": [
+    {
+      "name": "夏目響",
+      "img_url": "https://picture.yoshiclub.xyz/20240716/ec528bca-b23f-466f-bf41-2fa4c9b031dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3463&name=夏目響"
+    }
+  ]
+};

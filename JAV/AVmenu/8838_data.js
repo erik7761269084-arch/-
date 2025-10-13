@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f0c2ac4f-b890-443e-a55a-4a930d92dd2d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/17/2ac55ef0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8838,
+  "IDcode": "DASS-567",
+  "title": "我的私處被派來的按摩師深深地觸碰，我無法忍受這種快感，最終被他寢取了。 ~ 優梨舞奈",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "慾求不滿",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "短髮",
+    "誘騙女性",
+    "美少女電影"
+  ],
+  "description": "DASS-567为DASDAS出品,2025年1月28日发行的有碼成人影片由優梨舞奈出演\n麥娜是一名大學生，與上班族男友住在一起，在忙於做作業時扭傷了腿。在男友的建議下，我決定打電話給派遣按摩師。治療過程中，敏感部位正在被按摩，她感覺到了，但就在她快要達到高潮時，計時器響了，結束了。梅納被阻止並成為這種按摩的囚犯。之後，她被多次按摩、挑逗，直至達到高潮，最後被問到「要延長嗎？」時，她點點頭。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075046230230.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123075046230230.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8838",
+  "actresses": [
+    {
+      "name": "優梨舞奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8838&name=優梨舞奈"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8838&name=ニック"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8838&name=优梨まいな"
+    }
+  ]
+};

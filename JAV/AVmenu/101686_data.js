@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240404/p2y87Y9Y/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101686,
+  "IDcode": "IPTD-813",
+  "title": "アタッカーズ全面監修 夫の目の前で犯されて 希崎ジェシカ",
+  "publish_date": "2011-12-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "数位马赛克",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/iptd813/iptd813pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101686",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101686&name=希崎潔西卡"
+    }
+  ]
+};

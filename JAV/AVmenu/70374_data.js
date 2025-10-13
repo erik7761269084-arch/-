@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/02/fdd453fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70374,
+  "IDcode": "MDVR-336",
+  "title": "【VR】【俺専用メイドはツンデレが過ぎる】絶対に言いたくない恥ずかし淫語を連呼させて意地悪しまくったらチ●ポ握った瞬間にニヤニヤ顔でシコられまくる立場逆転イチャラブSEX 石川澪",
+  "publish_date": "2025-02-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "淫语",
+    "荡妇",
+    "羞耻",
+    "女佣",
+    "主观视角",
+    "VR",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70374",
+  "actresses": []
+};

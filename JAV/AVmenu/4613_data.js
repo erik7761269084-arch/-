@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/35ad45e7-0e88-4c35-ac81-f0d3ddd8d7ad/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4613,
+  "IDcode": "HZGD-311",
+  "title": "平時純情人妻的暗黑一面…性慾野獸現身 ~ 木下日葵",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "老頭子",
+    "4K",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "HZGD-311为人妻花園劇場出品,2025年7月4日发行的有碼成人影片由木下日葵出演\n外表上看起來是完美人妻的ひまり，背地裡卻是個慾火焚身的性慾怪物！對肉棒成癮，精液更是她的心頭好，幾乎每晚都把老公榨到不行，害老公越來越虛。後來把目標轉向同居的公公，被公公的絕倫體力完全收服，陷入沼澤般的依賴無法自拔。每天都在高潮中瘋狂沉淪，這個精液上癮的媳婦與公公的扭曲同居生活，真的辣到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703084742181181_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703084742181181_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4613",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4613&name=木下日葵"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250504/As226POj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67024,
+  "IDcode": "ECB-141",
+  "title": "童貞クン家で童貞狩り 渚みつき",
+  "publish_date": "2020-10-30",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "荡妇",
+    "恋爱",
+    "处男",
+    "感谢祭",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67024",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67024&name=渚光希"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240628/lGM7wjsx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104091,
+  "IDcode": "CHS-031",
+  "title": "シロウトハンター 33",
+  "publish_date": "2012-11-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "多P",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118chs031/118chs031pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104091",
+  "actresses": [
+    {
+      "name": "片瀬沙里菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104091&name=片瀬沙里菜"
+    }
+  ]
+};

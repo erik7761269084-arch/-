@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/27/91426833/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79682,
+  "IDcode": "NGOD-053",
+  "title": "【悲報】NTR 巨乳素人ハメ撮り動画をダウンロードしたらハメられているのは…自分の妻でした 二階堂ゆり",
+  "publish_date": "2017-07-13",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79682",
+  "actresses": [
+    {
+      "name": "二阶堂ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79682&name=二阶堂ゆり"
+    }
+  ]
+};

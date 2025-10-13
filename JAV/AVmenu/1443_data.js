@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b62c888-cbc8-4193-a218-023a33b10f62/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1443,
+  "IDcode": "HEYZO-2817",
+  "title": "讓後輩乾了裸露的變態女孩 Vol.02 - 凜",
+  "publish_date": "2022-06-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230611/065e834d-f645-4df0-897b-c7c4962ee9bd.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230611/065e834d-f645-4df0-897b-c7c4962ee9bd.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1443",
+  "actresses": []
+};

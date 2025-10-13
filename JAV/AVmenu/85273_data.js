@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/06/91d64e36/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85273,
+  "IDcode": "MEYD-754",
+  "title": "バイト先NTR 欲求不満な人妻の愚痴を聞いていたら毎日中出しSEXできた 北野未奈",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85273",
+  "actresses": []
+};

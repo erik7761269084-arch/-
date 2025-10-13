@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/7gNhaVVr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78911,
+  "IDcode": "SOE-447",
+  "title": "- SEX攻略DVD付き！ 自信のないキミに脱童貞支援 かすみりさ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "荡妇",
+    "手指插入",
+    "薄马赛克",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/0c6066a69100062c627cd8f0840522de.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78911",
+  "actresses": [
+    {
+      "name": "松岡仁美",
+      "img_url": "https://picture.yoshiclub.xyz/20241231/d7aad9ed-209d-4f32-9ac6-44d6e7d3de78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78911&name=松岡仁美"
+    }
+  ]
+};

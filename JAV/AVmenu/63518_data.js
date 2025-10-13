@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/25/667e7a91/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63518,
+  "IDcode": "JUFE-130",
+  "title": "滿是喘息與熱氣的噴汗密室幹砲佐山愛",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "胖女人",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63518",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63518&name=佐山爱"
+    }
+  ]
+};

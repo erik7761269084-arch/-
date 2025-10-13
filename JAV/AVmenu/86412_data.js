@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/23/4e2855b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86412,
+  "IDcode": "STARS-532",
+  "title": "現役アイドルT〇kT〇ker 西元めいさ 2穴丸出しでデカチン同級生を誘惑する学園の美尻マドンナ",
+  "publish_date": "2022-02-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86412",
+  "actresses": []
+};

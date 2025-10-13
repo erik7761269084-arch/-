@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45b415aa-5440-4edf-bb86-f2fe197082d3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16861,
+  "IDcode": "GVH-612",
+  "title": "美咲佳奈用舌頭追求刺激，放縱的情欲支配着她。",
+  "publish_date": "2024-01-10",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "黑絲",
+    "69",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "接吻",
+    "口爆",
+    "手指插入",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240108/d6f34b16-2b4e-44ad-9ea0-7d43366608a9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240108/d6f34b16-2b4e-44ad-9ea0-7d43366608a9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16861",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16861&name=美咲佳奈"
+    }
+  ]
+};

@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/09cf5759-110a-4199-a151-31c02020aad7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/9200e515/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5349,
+  "IDcode": "DEAB-004",
+  "title": "神級新人出道！超曲線美胸BODY首秀！SNS爆紅女大學生coser AV DEBUT ~ 北島愛菜",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "超爆乳",
+    "游戲COSPLAY",
+    "乳交",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "出道作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "女優"
+  ],
+  "description": "DEAB-004为FITCH出品,2025年6月13日发行的有碼成人影片由北島愛菜出演\n北岛爱菜你认识吗？ 这妹子可是SNS上超火的女大学生coser，颜值爆表，身材更是绝了！ 爱菜酱经常穿着超辣的cos装，杀进路边小酒馆，瞬间吸走所有男人的目光，然后把这些画面po到网上，妥妥的网红一枚。 没想到她跟AV导演搭上线，视频直接爆红，这次终于谈成了AV合作！ 她那白嫩嫩的皮肤，紧致到爆的天然G杯曲线BODY，还有那温柔可爱的性格，简直让人心动。 第一次脱光光，露出那完美到炸裂的纤细美胸身材，绝对震撼！ 更别提第一次拍AV就直接潮吹高潮，刺激到不行！ 爱菜酱的魅力，绝对能让所有老司机疯狂，这部奇迹般的初次AV合作，赶紧来看！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055919656656_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055919656656_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5349",
+  "actresses": [
+    {
+      "name": "北島愛菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250612/7348fb83-9297-4e3a-9d82-48059a0fa28f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5349&name=北島愛菜"
+    }
+  ]
+};

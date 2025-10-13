@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb2349fb-2eea-4747-9109-fe7f7ea605e9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/17/08a3a160/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12637,
+  "IDcode": "HMN-585",
+  "title": "我愛我的丈夫...危險日，媚藥美容院，全身抽搐，陰道收縮，無良的大雞巴中出我的子宮頸，子宮頸保持開放狀態……。 ~ 五日市芽依",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "美腳",
+    "按摩・美容店",
+    "明星臉",
+    "人妻",
+    "出軌",
+    "抹油",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "HMN-585为本中出品,2024年8月20日发行的有碼成人影片由五日市芽依出演\n【人氣《Kikatan Mei Itukaichi》將在本州獨家販售！ ！ 】 梅結婚好幾年了，一直為不能生孩子而煩惱。我真的很想跟我老公生小孩...無奈之下，我去了一家最近在我家附近開業、成為熱門話題的「生育美容院」。房間裡充滿了可疑的氣味，過量的油脂從核心開始加熱你的身體…練習者熟練的技術…分泌過多的女性荷爾蒙，不知不覺間，愛的汁液就從你緊實的陰部溢出。強行插入的雞巴我不會放開的！ ！ 「生育美容院」x「強力春藥」x「非凡自慰」敏感500倍！我為我心愛的丈夫開始的美容治療證實我懷孕了！ ！ ！非法美容院！ ！ ！蝦子變形了！噴！啊啊臉！持續高潮！ ！八次陰道射精射入完全打開的子宮頸。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815233549302302.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815233549302302.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12637",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12637&name=五日市芽依"
+    }
+  ]
+};

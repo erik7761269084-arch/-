@@ -1,0 +1,22 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100252,
+  "IDcode": "FSET-763-",
+  "title": "【リアル円女】未成年と円光-即パコ-（吹奏楽部かえで-元新體操",
+  "publish_date": "2018-05-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "多P",
+    "乳房",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100252",
+  "actresses": []
+};

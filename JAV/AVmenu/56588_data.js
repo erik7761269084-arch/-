@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220630/E818041B233A927F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56588,
+  "IDcode": "86A1AE04E3B50C385583909ECBBD07CB",
+  "title": "【SSS】九州の现役美人看护师が奇迹の完全颜出し！医疗用マスクとフェイスガードの向こう侧 淫乱美白スレンダーの膣奥に大量生中出し！",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56588",
+  "actresses": []
+};

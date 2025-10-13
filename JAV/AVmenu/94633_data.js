@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241028/EcGmrxDY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94633,
+  "IDcode": "STOL-099",
+  "title": "いつでもドコでも即フェラ密着パイズリ4hours",
+  "publish_date": "2024-07-30",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "口交",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94633",
+  "actresses": []
+};

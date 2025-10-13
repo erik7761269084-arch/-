@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/02/b4c99012/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104623,
+  "IDcode": "MIDV-655",
+  "title": "「ソープはじめました」退屈なド田舎で汗だく爆乳人妻がこっそり営業する乳首ビンビンご奉仕中出しOK無制限射精ソープ 中山ふみか （BOD）",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "乳液",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104623",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104623&name=中山文香"
+    }
+  ]
+};

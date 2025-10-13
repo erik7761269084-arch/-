@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/23/376996e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105002,
+  "IDcode": "IPZ-617",
+  "title": "タイトスカート塾講師 森咲みちる",
+  "publish_date": "2015-09-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "屁股",
+    "苗条",
+    "数位马赛克",
+    "内衣",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/23/88d5588cb7afd47e72bbc523db26a552.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105002",
+  "actresses": [
+    {
+      "name": "ゆうき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/AI-Fix-ゆうき.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105002&name=ゆうき"
+    },
+    {
+      "name": "森咲みちる",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2efffebc825118bc4ef5394e1cb00e62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105002&name=森咲みちる"
+    }
+  ]
+};

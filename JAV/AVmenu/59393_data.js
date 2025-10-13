@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230320/D80B15F47B817260/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59393,
+  "IDcode": "LAFBD-50",
+  "title": "ラフォーレ ガール Vol.50 幼馴染のくぱぁ",
+  "publish_date": "2015-06-23",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "雪白皮肤",
+    "写真",
+    "无套内射",
+    "立即口交",
+    "淫荡手淫",
+    "站立性交",
+    "骑乘位",
+    "背部骑乘位",
+    "颜面骑乘",
+    "口交",
+    "巨乳爆乳",
+    "中出",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59393",
+  "actresses": []
+};

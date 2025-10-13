@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/30926ed0-9ba4-4b1d-8a64-88c035750e17/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16302,
+  "IDcode": "DASS-321",
+  "title": "招募男人 豐滿的名人寡婦，全速舔陰時反復高潮",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "貴婦",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "短裙・迷你裙",
+    "潮吹",
+    "口交",
+    "性感",
+    "舔陰",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "飯店"
+  ],
+  "description": "DASS-321为DASDAS出品,2024年2月13日发行的有碼成人影片由橘瑪麗出演\n當我走在街上，因爲自己是處男，又失業了，對生活感到絕望時，一張寫着“招聘男性”的海報引起了我的注意。我經常看到這種情況，但我沒有在意，以爲這是某種騙局，但既然我也沒有什麼可失去的，所以我決定打電話。當我到達指定地點時，我發現那裏有一座令人發指的豪宅。還有瑪麗，一位巨乳美女，身材出衆，眼神中略帶落寞。沒想到會遇到一個真正美麗的女人……！瑪麗本來就愛舔陰，性欲強烈，但失去丈夫後她感到沮喪。從第一次看到陰戶的興奮，到毫無色彩和絕望的處境，他開始拼命地舔舐橘瑪麗。橘瑪麗逐漸向他敞開心扉，甚至讓她用乳交和體內射精來獎勵他。隨着彼此的交流，他們的感情開始發生變化……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214032117609609.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240214/20240214032117609609.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16302",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16302&name=橘瑪麗"
+    }
+  ]
+};

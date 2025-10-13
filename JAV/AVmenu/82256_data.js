@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/20/cc6a3b90/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82256,
+  "IDcode": "BLK-447",
+  "title": "義父大嫌い制服ギャル娘に桃尻ペンペンッ！お仕置きスパンキング追撃ピストンバック中出し 永瀬ゆい",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "中出",
+    "屁股",
+    "女生",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82256",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82256&name=永濑唯"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd8c8d74-6377-41cd-a68b-b9623eb5c6a2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18735,
+  "IDcode": "IPX-630",
+  "title": "續編 搭不上末班車住在同事女社員家中幹整晚",
+  "publish_date": "2021-03-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "黑絲",
+    "中出",
+    "OL",
+    "姐姐・妹妹",
+    "勾引・誘惑",
+    "女同事",
+    "辦公室",
+    "出軌",
+    "偷竊",
+    "剃毛",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911232625691691.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230911/20230911232625691691.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18735",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18735&name=天海翼"
+    }
+  ]
+};

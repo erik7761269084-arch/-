@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/8b64dc2f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2372,
+  "IDcode": "SDTH-042",
+  "title": "嘴裏含着精液慢慢品味！羣馬最溫柔的吞精素人小妹初登場 ~ 園田すい",
+  "publish_date": "2025-09-29",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "傲嬌",
+    "乳交",
+    "紀念作",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "貧乳",
+    "清楚系",
+    "單體作品",
+    "出道作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "地味",
+    "按摩棒",
+    "女優訪談",
+    "真實拍攝",
+    "職場",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "SDTH-042为SOD出品,2025年9月29日发行的有碼成人影片\n对吞精迷恋到不行，竟然还拍了视频给SOD表白自己的爱！21岁的拉布酒店清洁小妹，经验人数只有1人，首次出镜就这么劲爆！直接在工作场所拉布酒店脱光光，第一次吞精，那浓稠到不行的精液滑过喉咙的感觉让她直接发情，简直是个小变态！还跑到大城市实现梦想，玩起了5P连续高潮，足足吞了7发，欲罢不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223124950950_46569_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223124950950_46569_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2372",
+  "actresses": [
+    {
+      "name": "園田すい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2372&name=園田すい"
+    }
+  ]
+};

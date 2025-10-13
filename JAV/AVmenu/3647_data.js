@@ -1,0 +1,84 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b0c5e07-587d-4af7-a1dc-3c188ec85049/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/85d4681d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3647,
+  "IDcode": "NGHJ-021",
+  "title": "白衣天使的連射挑戰！高額獎金誘惑，溫柔護士小姐姐榨幹你爲止 ~ 湊波流 小野阪唯香 河北笑茉 美咲佳奈",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "脫ぐのは恥だがペニス立つ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "護士制服",
+    "綜藝",
+    "美腳",
+    "拜金女",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "護士",
+    "短髮",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "NGHJ-021为脫ぐのは恥だがペニス立つ出品,2025年8月8日发行的有碼成人影片由美咲佳奈，河北笑茉，小野坂唯香，湊波流出演\n真的是天使吗？！一群超温柔的现役护士小姐姐参加了一个射一次就加奖金的刺激游戏！一开始她们还害羞得不敢直视那话儿，但看到男人爽到不行的样子，瞬间开关打开！为了奖金拼了命地帮你“排毒”，榨到金玉空空为止！最后兴奋过头，连中出玩法都解锁了，简直欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/202508110952264545_55809_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250811/202508110952264545_55809_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3647",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3647&name=美咲佳奈"
+    },
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3647&name=小野坂唯香"
+    },
+    {
+      "name": "湊波流",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/017b6a1e-ab09-43a4-b7fa-a1d622205fd8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3647&name=湊波流"
+    },
+    {
+      "name": "河北笑茉",
+      "img_url": "https://picture.yoshiclub.xyz/20250116/237f1707-981d-417b-b259-ff29c3b3eca7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3647&name=河北笑茉"
+    }
+  ]
+};

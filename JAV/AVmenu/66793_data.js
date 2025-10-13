@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250504/x10ImH9N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66793,
+  "IDcode": "GANA-2272",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 156 彼氏とマンネリ気味なスレンダー巨乳美女！パートナーには言えないドMな性癖を打ち明けて、手首を縛られイジワルされまくり！犯されSEXで『彼氏より気持ちいぃ…！』のお言葉いただきました！！",
+  "publish_date": "2020-04-09",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "捆绑",
+    "自慰",
+    "苗条",
+    "业余",
+    "女优按摩棒",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66793",
+  "actresses": [
+    {
+      "name": "陆畑ひなの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66793&name=陆畑ひなの"
+    }
+  ]
+};

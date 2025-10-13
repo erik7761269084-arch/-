@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45e32043-f358-4fe8-9e82-17f133898f19/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/d5cc9601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3492,
+  "IDcode": "DVMM-278",
+  "title": "一般男女監控AV：青梅竹馬的大學生情侶在情趣酒店一發十萬的連續射精破處挑戰 ~ 綾瀨心 愛瀬優裏 望月蕾 有馬美玖",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "綜藝",
+    "美腳",
+    "青梅竹馬",
+    "清純",
+    "惡搞",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "情趣飯店"
+  ],
+  "description": "DVMM-278为DEEP'S出品,2025年8月14日发行的有碼成人影片由望月蕾，绫濑心，有馬美玖，愛瀬優里出演\n我們在街頭隨機搭訕年輕男女，假借訪問的名義帶他們到情趣酒店的房間裡！一聊才發現他們是感情超好的青梅竹馬！更爆炸的是，事前調查發現男方還是個童貞小哥哥，內心掙扎到不行！我們丟出超刺激的任務，把兩人單獨留在密室，看看青梅竹馬的妹子會不會直接幫童貞小哥哥破處！？全程實錄驗證！原本對彼此沒啥異性感覺的兩人，在情趣酒店的曖昧氛圍和刺激任務的催化下，慢慢進入色色模式，妹子溫柔地幫童貞小哥哥完成人生第一次！從小一起長大的青梅竹馬，在密室裡上演火辣辣的連續中出大戲，全程無碼大公開，絕對讓你血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022830784784_86173_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022830784784_86173_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3492",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3492&name=望月蕾"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3492&name=绫濑心"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3492&name=愛瀬優里"
+    },
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3492&name=有馬美玖"
+    }
+  ]
+};

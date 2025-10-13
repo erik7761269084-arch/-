@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47a9dafc-9031-4fa7-9162-15b597848a32/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13967,
+  "IDcode": "EBWH-118",
+  "title": "抽搐高潮x春藥浸泡-10小時不停操 響蓮",
+  "publish_date": "2024-06-18",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "情趣內衣",
+    "巨乳",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "EBWH-118为E-BODY出品,2024年6月18日发行的有碼成人影片由響蓮出演\n【史上最高潮高潮FUCK】超情色級別，史上最年輕性愛三冠王「Kyoren」終於崩潰了。超越心靈和身體的極限。與扭曲得上躥下跳的美麗身體進行10小時的分解性愛。強力的春藥使她進入一種醉人的恍惚狀態。我從來沒有見過狂蓮像這樣扭曲、噴射、抽搐。 「我無法呼吸！」「我要死了！！！」狂蓮，叫得更多，摔得更多。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614014823805805.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240614/20240614014823805805.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13967",
+  "actresses": [
+    {
+      "name": "響蓮",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/748f7995-98be-476d-822c-c99fd764e862.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13967&name=響蓮"
+    }
+  ]
+};

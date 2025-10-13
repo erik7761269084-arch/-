@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/24/9fb91275/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68106,
+  "IDcode": "MKMP-501",
+  "title": "MKMP-501",
+  "publish_date": "2023-01-07",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗条",
+    "潮吹",
+    "乳房",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68106",
+  "actresses": [
+    {
+      "name": "神海リア",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68106&name=神海リア"
+    }
+  ]
+};

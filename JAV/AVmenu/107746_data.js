@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/21/3c3902a9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107746,
+  "IDcode": "NHDTB-261",
+  "title": "奪走痙攣不止狂高潮嬰兒車人妻產後處女 2 -下",
+  "publish_date": "2019-04-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "已婚妇女",
+    "第一人称摄影",
+    "高",
+    "乳房",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107746",
+  "actresses": []
+};

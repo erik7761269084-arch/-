@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241017/5YZDKLPX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93837,
+  "IDcode": "PYM-482",
+  "title": "自撮り 全裸おしっこ 放尿娘30人",
+  "publish_date": "2024-06-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "放尿",
+    "户外",
+    "羞耻",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/e5643b6f8a1718494c5b8168f72abd1b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93837",
+  "actresses": [
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93837&name=星仲ここみ"
+    }
+  ]
+};

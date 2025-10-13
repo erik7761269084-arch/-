@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/30/d2298f50/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85916,
+  "IDcode": "PRED-388",
+  "title": "人妻になってしまう幼馴染の逢花と僕は、互いの想いに気づいて何度も中出ししてしまった結婚式直前の三日間。 山岸逢花",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/42ab3b0cc40aff384e40870e9a80d60b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85916",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85916&name=山岸逢花"
+    }
+  ]
+};

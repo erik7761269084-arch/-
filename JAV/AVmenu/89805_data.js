@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240107/Ek5nazTi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89805,
+  "IDcode": "RVG-206",
+  "title": "ダブルアナルビッチBEST VOL.2",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "4小时以上作品",
+    "多P",
+    "荡妇",
+    "肛交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89805",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=望月綾香"
+    },
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=佐倉陽菜"
+    },
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=妃月るい"
+    },
+    {
+      "name": "瓊·洛夫喬伊",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/15d750f6-3af9-4072-bd19-c8c9bf59a421.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=瓊·洛夫喬伊"
+    },
+    {
+      "name": "西田卡莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723230156158158_27005_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=西田卡莉娜"
+    },
+    {
+      "name": "松ゆきの",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20251004/9b5b788b-8300-4c60-9f55-bf3e2f924f44_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=松ゆきの"
+    },
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=新村晶"
+    },
+    {
+      "name": "管野静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=管野静香"
+    },
+    {
+      "name": "山井すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=山井すず"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89805&name=七海ゆあ"
+    }
+  ]
+};

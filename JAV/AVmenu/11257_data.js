@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f15abc0e-b2b6-4b18-9565-b7ec428cce9e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11257,
+  "IDcode": "WWMM-001",
+  "title": "約炮吧！ ！ 臺灣當地疑似色情的接機體驗！ ？與H快樂的臺灣美女導遊的SEX之行",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "業餘",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "女導游",
+    "美腳",
+    "招待",
+    "國產女優",
+    "台灣女優",
+    "艷遇",
+    "癡女",
+    "中日合作",
+    "公共場所",
+    "獵豔",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241014/6ee9b31a-8cb3-444f-917f-e39f2cef9f32.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241014/6ee9b31a-8cb3-444f-917f-e39f2cef9f32.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11257",
+  "actresses": [
+    {
+      "name": "仙兒媛",
+      "img_url": "https://picture.yoshiclub.xyz/20230413/0c4d230a-46f5-4c59-bef1-3a22aeb60135.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11257&name=仙兒媛"
+    },
+    {
+      "name": "孟若羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230723/b4ea2535-2f4f-458a-b8ad-6c1a04d4651f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11257&name=孟若羽"
+    }
+  ]
+};

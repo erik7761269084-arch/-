@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230512/5fb0adb5-26e9-4e51-8387-f4ea8ce6b3cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1492,
+  "IDcode": "SKYHD-011",
+  "title": "天天使藍 Vol.11 : Yuu Mahiru : Part.1 (HD)",
+  "publish_date": "2011-07-20",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "肛交",
+    "中出",
+    "美乳",
+    "美少女",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230512/e46f45ea-fa02-4388-b263-90c0c513d908.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/e46f45ea-fa02-4388-b263-90c0c513d908.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1492",
+  "actresses": [
+    {
+      "name": "桜沢まひる",
+      "img_url": "https://picture.yoshiclub.xyz/20230512/13d86407-5a32-489f-8463-0f6506e872a9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1492&name=桜沢まひる"
+    }
+  ]
+};

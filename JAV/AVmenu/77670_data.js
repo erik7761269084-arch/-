@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/edc55272/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77670,
+  "IDcode": "MIAA-199",
+  "title": "唾液ダラダラ密着舐め回し接吻痴女 制服美少女が中年教師を虜にするベロキス誘惑 奏音かのん",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "制服",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77670",
+  "actresses": [
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77670&name=奏音花音"
+    }
+  ]
+};

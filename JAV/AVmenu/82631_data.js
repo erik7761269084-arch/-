@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/06/bf567a9d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82631,
+  "IDcode": "HND-646",
+  "title": "サークルの部室で中出しソープランドを経営させられた女子大生 有坂深雪",
+  "publish_date": "2019-03-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "轮奸",
+    "苗条",
+    "礼仪小姐",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/399d3e9d301ce15d63d8c91d9b3ee8ff.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82631",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82631&name=有坂深雪"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82631&name=蓝井优太"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82631&name=玉木玲"
+    }
+  ]
+};

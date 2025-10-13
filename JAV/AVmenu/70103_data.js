@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250315/gAdXbAaV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70103,
+  "IDcode": "SHKD-876",
+  "title": "もう、滅茶苦茶になっちゃえ。 実妹の罠",
+  "publish_date": "2019-10-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "凌辱",
+    "姐姐",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/01f9417d4dad5893211b225087a76b15.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70103",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70103&name=枢木葵"
+    },
+    {
+      "name": "织笠るみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70103&name=织笠るみ"
+    }
+  ]
+};

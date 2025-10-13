@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02a74e97-d12d-4ddd-954c-6dbdeb629fb6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/20/09a1e3e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5524,
+  "IDcode": "JUR-363",
+  "title": "一二三木頭人！羞恥的學校輪奸 人妻實習教師淪爲學生的恥辱娛樂肉便器 ~ 美之島惠理",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "4K",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "校園生活",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "學校",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "JUR-363为MADONNA出品,2025年6月6日发行的有碼成人影片由美之島惠理出演\n下課鐘聲一響，惡魔遊戲的時間到啦！年輕貌美的人妻實習老師惠理，來到男子學校實習，馬上就成了學生間的超人氣偶像。午休時，學生們都圍著她團團轉，吃完飯還一起去天台玩耍。看著學生們的笑臉，惠理心裡超開心……直到那天放學後，一切都變了調。學生們拉著她玩起了“一二三木頭人”，惠理當鬼，背對著他們喊口令。沒想到，學生們一步步逼近，臉上純真的笑容消失殆盡，取而代之的是瘋狂的慾望眼神，他們竟然想對惠理下手！這場遊戲，直接變成了羞恥與慾望的狂熱派對……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605044336275275_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605044336275275_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5524",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5524&name=美之島惠理"
+    },
+    {
+      "name": "レンジャー鏑木",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5524&name=レンジャー鏑木"
+    },
+    {
+      "name": "ドピュー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5524&name=ドピュー"
+    }
+  ]
+};

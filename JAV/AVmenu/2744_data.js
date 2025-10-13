@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/64732a1e-9807-4188-9cb2-464f90e325bf/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/9896b2fc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2744,
+  "IDcode": "VEMA-242",
+  "title": "公司裡的總裁秘書老婆在我上班時被總裁室內狂中出 ~ 葉月まゆ",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "流汗",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "夫妻",
+    "接吻",
+    "口爆",
+    "女秘書",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "美人",
+    "職場",
+    "熟女",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "VEMA-242为VENUS出品,2025年9月11日发行的有碼成人影片由葉月まゆ出演\n葉月夫妇在同一家公司上班，丈夫是普通职员，老婆却是总裁的贴身秘书，公私不分地一起度过每一天。然而，这位性感美妻まゆ却藏着一个大秘密——在她老公完全不知情的情况下，总裁室里上演着一场场火辣的禁忌戏码……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022532130130_72521_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022532130130_72521_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2744",
+  "actresses": [
+    {
+      "name": "葉月まゆ",
+      "img_url": "https://picture.yoshiclub.xyz/20250104/0a488baa-554a-49f8-8f8f-4106c1fe91f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2744&name=葉月まゆ"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230912/LilFWKd6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65978,
+  "IDcode": "52A09940D5E3C4D2BCA21C91AA1E88DD",
+  "title": "新人 本能に直に響くプレミアムボディ 藤井蘭々 22歳 AVデビュー",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65978",
+  "actresses": []
+};

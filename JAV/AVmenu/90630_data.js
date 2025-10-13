@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/KnOIuG1s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90630,
+  "IDcode": "PAKO-067",
+  "title": "某有名テーマパーク現役受付嬢貴方に会いたい未亡人-初他人棒-",
+  "publish_date": "2023-11-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "出轨",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90630",
+  "actresses": []
+};

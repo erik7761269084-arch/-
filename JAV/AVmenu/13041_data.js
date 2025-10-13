@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3b7a526c-f51a-403b-8829-b71282e00563/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13041,
+  "IDcode": "SAN-261",
+  "title": "性愛煩惱諮詢室 ~ 香澄せな",
+  "publish_date": "2024-07-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "劇情",
+    "按摩・物理治療・美容",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女醫生",
+    "人妻",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240730/d9fa0b31-d406-483c-b163-6eb815311322.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240730/d9fa0b31-d406-483c-b163-6eb815311322.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13041",
+  "actresses": [
+    {
+      "name": "香澄せな",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/d3e3db0b-d3f5-4fb0-93a0-db02a1ad7c3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13041&name=香澄せな"
+    }
+  ]
+};

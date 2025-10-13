@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250404/YOK4VEVd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69097,
+  "IDcode": "NSFS-109",
+  "title": "働く妻 出張先で犯●れた4 新垣なつみ （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69097",
+  "actresses": []
+};

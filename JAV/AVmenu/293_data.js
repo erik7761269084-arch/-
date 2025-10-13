@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c96f47f5-a3ae-4a43-829a-314293f189f0/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/08/f8b84ff7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 293,
+  "IDcode": "HEYZO-0310",
+  "title": "浴衣誘惑！純正和風美少女被連續灌滿 ~ 水菜麗",
+  "publish_date": "2013-07-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "劇情",
+    "和服・浴衣・喪服",
+    "中出",
+    "顏射",
+    "女神",
+    "少女",
+    "美少女",
+    "芸能人"
+  ],
+  "description": "HEYZO-0310为HEYZO出品,2013年7月27日发行的無碼成人影片由水菜麗出演\n天哪，这位小姐姐「みづなれい」简直就是二次元里走出来的和风美少女！清纯气质加上那勾魂的眼神，谁能不心动？穿上浴衣的她，活脱脱就是大和抚子的化身，回头率百分百！别看她外表纯洁无瑕，其实内心超色气，超爱那种火热的刺激，眼神挑逗得让人小鹿乱撞，直言不讳地说她最爱被狠狠满足！那纤细的身材被满满浇灌时，脸上幸福的笑容简直美到犯规！看着她逐渐迷乱的样子，屏幕前的你绝对移不开眼，宅男们的梦中情人就是她啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/20250421083614810810_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250421/20250421083614810810_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=293",
+  "actresses": [
+    {
+      "name": "水菜麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/378f23c9-0439-42a6-bb5f-2741a85d223f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=293&name=水菜麗"
+    }
+  ]
+};

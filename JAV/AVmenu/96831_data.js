@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/05/9de2e97a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96831,
+  "IDcode": "IPTD-964",
+  "title": "淫蕩的約會計畫 天海翼",
+  "publish_date": "2012-10-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "手指插入",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96831",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96831&name=天海翼"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96831&name=沢井亮"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96831&name=しみけん"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96831&name=玉木玲"
+    }
+  ]
+};

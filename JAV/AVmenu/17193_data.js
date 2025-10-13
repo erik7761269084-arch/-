@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e8765ff-ab98-4aa7-a937-e430acd9db07/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240106/vudNu13s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17193,
+  "IDcode": "SDAM-087",
+  "title": "有雙大手偷偷的塞進了剛剛社團運行回家路上還汗流浹背的女生衣服裡",
+  "publish_date": "2024-01-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "電車",
+    "JK校服",
+    "素人",
+    "性騷擾",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231219/56c580fc-c71d-41d5-95db-f56e52af88de.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231219/56c580fc-c71d-41d5-95db-f56e52af88de.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17193",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17193&name=沙月芽衣"
+    },
+    {
+      "name": "市井結夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/001e998c-aaf9-4fde-97c5-c91b0625e328.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17193&name=市井結夏"
+    },
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17193&name=藤田梢"
+    }
+  ]
+};

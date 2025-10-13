@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16ec4238-6c6e-4f7b-89d3-7302d04fad4b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7499,
+  "IDcode": "KAM-241",
+  "title": "丈夫老闆升職慶功宴瘋狂開場。",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "多P",
+    "聚會・PARTY",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250315/ebb17058-3531-404e-9d11-b92963a3bfd8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250315/ebb17058-3531-404e-9d11-b92963a3bfd8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7499",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7499&name=小早川怜子"
+    }
+  ]
+};

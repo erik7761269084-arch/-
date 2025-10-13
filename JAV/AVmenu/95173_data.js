@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/17/086e3b87/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95173,
+  "IDcode": "MOND-280",
+  "title": "憧れの女上司と 菅日菜子",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "眼镜",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95173",
+  "actresses": [
+    {
+      "name": "菅日菜子",
+      "img_url": "https://picture.yoshiclub.xyz/20240208/ec150d6e-8bf6-45ca-838e-ad76e79c8df1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95173&name=菅日菜子"
+    },
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95173&name=ミチくん"
+    }
+  ]
+};

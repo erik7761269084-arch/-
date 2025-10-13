@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dbb855ef-8d8c-4a18-8be6-0206366f914f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/03/80386ced/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12048,
+  "IDcode": "PPPE-246",
+  "title": "女友的姐姐用她的巨乳和無套中出來誘惑我 ~ 雪代一鳳",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "女友姐姐",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "眼鏡",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "PPPE-246为OPPAI出品,2024年9月17日发行的有碼成人影片由雪代一鳳出演\n我的女朋友永遠不會讓我直接幹她...你願意讓我幹你，慶祝我骨折復健嗎？我的期望很低，但這是不可能的！當我討厭0.0毫米的牆壁時，當我女朋友的姐姐炫耀她的大奶並引誘我並告訴我讓她射在我體內時，我對胯部之間的原始性快感感到妄想和腫脹！我喜歡她，但是……我無法抗拒這麼有魅力的姊姊的誘惑！我如此專注於我姐姐美麗的大乳房並與她發生性關係，以至於我不斷地在她體內射精！終於，她發現了，但感覺太好了，活塞根本停不下來！ ～特別感謝柏木小夏（妹妹角色）～",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912095830728728.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912095830728728.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12048",
+  "actresses": [
+    {
+      "name": "雪代一鳳",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/b2cb7ec3-4b17-4d6b-ad65-4cc828026d8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12048&name=雪代一鳳"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12048&name=ニック"
+    }
+  ]
+};

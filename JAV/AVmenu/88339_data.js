@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/rzrC0CNs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88339,
+  "IDcode": "HUNTA-976",
+  "title": "同じマンションでよく見かける鍵っ子女子は、寂しがり屋で、声をかければすんなりと家についてきて、エッチを断らないし、イラマ・中出し…男の欲望を",
+  "publish_date": "2021-03-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "制服",
+    "深喉",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/647bb7309db06ba16eccd2711df97b9d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88339",
+  "actresses": [
+    {
+      "name": "天沢ゆきね",
+      "img_url": "https://picture.yoshiclub.xyz/20240812/a487922b-a365-4c1a-9229-26072d2f6dfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88339&name=天沢ゆきね"
+    },
+    {
+      "name": "篠原りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88339&name=篠原りこ"
+    },
+    {
+      "name": "八寻麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88339&name=八寻麻衣"
+    },
+    {
+      "name": "舞奈みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88339&name=舞奈みく"
+    },
+    {
+      "name": "希望光",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88339&name=希望光"
+    }
+  ]
+};

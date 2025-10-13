@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dc1aabde-9b0b-46ed-8955-1311a94ef0f7/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/07/bf287089/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17993,
+  "IDcode": "WAAA-314",
+  "title": "我的妻子總是去健身房，因為她的教練後入式操的她太爽了",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "瑜珈·健身",
+    "劇情",
+    "巨尻",
+    "健身房",
+    "流汗",
+    "健身教練",
+    "中出",
+    "蕩婦",
+    "性感",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "WAAA-314为WANZ FACTORY出品,2023年11月7日发行的有碼成人影片由明日見未来出演\n妻子明日見未来在健身房练的满身都是汗水，却不知健身房教练早就盯上了性感的她。教练的鸡巴太厉害了，明日見未来经历了人生最强烈的高潮和潮吹！尤其是教练的后入式，不停的有节奏的抽插让她一波又一波的快感连绵不绝！她的子宫在有节奏的被捶打，她美丽的屁股在不停的颤抖！太深了，抽搐了无数次。\n妻子明日見未来在健身房练的满身都是汗水，却不知健身房教练早就盯上了性感的她。教练的鸡巴太厉害了，明日見未来经历了人生最强烈的高潮和潮吹！尤其是教练的后入式，不停的有节奏的抽插让她一波又一波的快感连绵不绝！她的子宫在有节奏的被捶打，她美丽的屁股在不停的颤抖！太深了，抽搐了无数次。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105224503955955.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231105/20231105224503955955.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17993",
+  "actresses": [
+    {
+      "name": "明日見未来",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/dd5db95b-7aa0-4d12-8aca-33059203e7b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17993&name=明日見未来"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17993&name=小田切ジュン"
+    }
+  ]
+};

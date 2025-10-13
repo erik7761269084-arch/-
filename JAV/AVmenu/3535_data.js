@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f114451-b642-466c-8772-5573a55a1e33/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/29/983b4b1b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3535,
+  "IDcode": "HMN-730",
+  "title": "便利店套套庫存都要被榨幹了！性欲爆棚的巨乳兼職學生妹瘋狂勾引，已婚店長忍不住了，套套用光都不夠，直接在後倉搞起無套中出NTR ~ 夕木小彩",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "便利商店",
+    "後入",
+    "劇情",
+    "巨尻",
+    "加班",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "豐滿"
+  ],
+  "description": "HMN-730为本中出品,2025年8月14日发行的有碼成人影片由夕木小彩出演\n在便利店打工的大學生夕木小彩，被店長真琴的溫柔迷得神魂顛倒，忍不住告白卻被拒絕，畢竟對方可是有婦之夫！但小彩不甘心，靠著超犯規的大胸猛烈攻勢，硬是把店長拖下水！一開始還講好不能無套，拿店裡的套套應急，結果完全收不住，套套用光還是停不下來，直接陷入無套內射的禁忌關係，在後倉一次次偷情，爽到根本不想停！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040424193193_71506_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040424193193_71506_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3535",
+  "actresses": [
+    {
+      "name": "夕木小彩",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/5bd2226c-7e4e-4457-bf7c-85f73e6f4c31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3535&name=夕木小彩"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3535&name=真琴"
+    }
+  ]
+};

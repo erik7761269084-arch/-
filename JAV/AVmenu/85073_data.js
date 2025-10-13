@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/05/6178e991/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85073,
+  "IDcode": "JUL-980",
+  "title": "マドンナ専属『第3章』-。待望の中出し解禁！！ 夫と子作りSEXをした後はいつも義父に中出しされ続けています…。 高坂ニナ",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230119-1/3bba3799510320d445431a61604f3e74.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85073",
+  "actresses": [
+    {
+      "name": "栗原良",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85073&name=栗原良"
+    }
+  ]
+};

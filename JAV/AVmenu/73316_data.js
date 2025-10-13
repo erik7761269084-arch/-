@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/27/bb6b4e18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73316,
+  "IDcode": "MIDE-591",
+  "title": "絶頂しても漏らしてもヤメない！ ずっと追撃粘着クンニ 初川みなみ",
+  "publish_date": "2018-11-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "美少女",
+    "女同性恋",
+    "潮吹",
+    "舔阴",
+    "数位马赛克",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/27/95b9fde26ca479393aa2bd8c584ed8cf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73316",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73316&name=初川南"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73316&name=南佳也"
+    }
+  ]
+};

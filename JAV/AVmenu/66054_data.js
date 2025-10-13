@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250510/FCL3VprG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66054,
+  "IDcode": "492MERC-395",
+  "title": "492MERC-395 垢ぬけた巨乳腐女子 2",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66054",
+  "actresses": []
+};

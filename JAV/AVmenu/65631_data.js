@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65631,
+  "IDcode": "6B37556519C9038E682ADA4053AFFF57",
+  "title": "初恋の担任女教师と卒业后にSEXしまくった纯爱日记。 秋山祥子",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65631",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65198,
+  "IDcode": "938DE9D4285A8C3BCE162E74D91C4D57",
+  "title": "10mu 081419_01 竹田しょうこ 制服時代 -こんなにフェラが上手くなりました-",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65198",
+  "actresses": []
+};

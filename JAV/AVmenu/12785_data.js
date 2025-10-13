@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/250da29f-c316-4fe8-aa64-3c1a789ec88e/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241024/GfHPjkRL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12785,
+  "IDcode": "SONE-286",
+  "title": "在約炮APP上找到的人妻是一位敏感的受虐狂，大奶子，是自慰的絕佳替代品 ~ 奧田咲",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "猥褻穿著",
+    "抹油",
+    "M男・M女",
+    "NTR",
+    "約炮",
+    "短髮",
+    "飯店"
+  ],
+  "description": "SONE-286为S1出品,2024年8月13日发行的有碼成人影片由奥田咲出演\nSaki今年32歲，結婚5年，沒有孩子，是一位擁有巨乳和H罩杯的大齡已婚婦女。六個月前，我們透過一款應用程式相識，並持續維持身體上的關係。雖然他並沒有特別打聽她家裡的事，但她和她丈夫的關係似乎並不好。當我聯繫她時她就來了……並聽我說的一切……她是一個對我來說很方便的性朋友和肉奴隸。 「我想讓你讓我更慾火中燒……」 一個變態受虐狂大胸已婚女人正在服務一個年輕男人，被欺負而渾身濕透，正在高潮。捏乳頭、深喉嚨、束縛和蒙眼、打屁股、勒脖子、毛茸茸的陰部折磨……一個忘記已婚現實、沉迷於受虐狂通姦性行為的女人。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234842377377.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240808/20240808234842377377.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12785",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12785&name=奥田咲"
+    }
+  ]
+};

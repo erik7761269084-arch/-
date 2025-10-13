@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230401/b7onwQA5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61237,
+  "IDcode": "NHDTA-667",
+  "title": "癡漢‘M’覺醒～在幹砲房間被輪姦覺醒快樂的從順少女～",
+  "publish_date": "2015-04-23",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "4小时以上作品",
+    "SM",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61237",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61237&name=仓多真央"
+    },
+    {
+      "name": "佳苗瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/854d200e-c0ea-4818-afeb-f1d27c90a2a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61237&name=佳苗瑠華"
+    },
+    {
+      "name": "凉川绚音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61237&name=凉川绚音"
+    }
+  ]
+};

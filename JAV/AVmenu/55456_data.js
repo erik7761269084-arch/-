@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55456,
+  "IDcode": "21D5B8A4163A471603C8E83BA6CD0830",
+  "title": "FGO COSPLAY NERO",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55456",
+  "actresses": []
+};

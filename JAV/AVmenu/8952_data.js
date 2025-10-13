@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c8fa1c2-7505-4d68-b363-cf33db18b1c7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8952,
+  "IDcode": "MRSS-161",
+  "title": "心愛的妻子被惡心的老頭寢取，她叫得很厲害，老頭中了她，我無能爲力 ~ 宮城理惠",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "女看護",
+    "老頭子",
+    "調教",
+    "變態",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "MRSS-161为妄想族出品,2025年1月21日发行的有碼成人影片由宮城理惠出演\n勞動力短缺在護理機構中很常見。由於人陸續辭職，我決定趕緊聘請妻子當助理。在這份工作中，如果你仔細聽被照顧者所說的話，你將無法分辨。我在那裡工作了很多年，我也這麼認為，但我的妻子太天真了，最後還是善待了老人。當我指出這一點時，他們會說我冷酷無情之類的，讓我看起來像個壞人。希望那個變態老頭不要利用我…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250120/20250120113739298298.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250120/20250120113739298298.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8952",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8952&name=宮城理惠"
+    }
+  ]
+};

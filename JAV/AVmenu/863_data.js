@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b363cff-e42a-44a9-87a4-ca9e43271612/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220406/FD339622119C4E93/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 863,
+  "IDcode": "HEYZO-1073",
+  "title": "持續生中出～肏到內射流精～ - 京野明日香",
+  "publish_date": "2016-01-30",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "打手槍",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "飯店小姐・援交妹",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HEYZO-1073为HEYZO出品,2016年1月30日发行的無碼成人影片由京野明日香出演\n持續生中出～肏到內射流精～ - 京野明日香",
+  "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506085216437437.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/20240506085216437437.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=863",
+  "actresses": [
+    {
+      "name": "京野明日香",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-京野明日香.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=863&name=京野明日香"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7c6e1f00-4f55-4168-880b-a614267b705b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18573,
+  "IDcode": "IPX-693",
+  "title": "不想我报警就全部脱掉吧! 商店行窃的美女被强奸的悲剧 港区女子編",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "深喉",
+    "凌辱",
+    "中出",
+    "強姦",
+    "女賊",
+    "美少女",
+    "高跟鞋"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926015450246246.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230926/20230926015450246246.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18573",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18573&name=西宮夢"
+    }
+  ]
+};

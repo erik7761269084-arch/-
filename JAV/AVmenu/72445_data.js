@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/63a293f4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72445,
+  "IDcode": "SQSG-013",
+  "title": "『私からはだめですが、お客様が触るのなら・・』メンズエステ嬢の裏サービス 胡桃さくら",
+  "publish_date": "2025-02-19",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "精选，综合",
+    "按摩",
+    "口交",
+    "美容院",
+    "美少女电影",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72445",
+  "actresses": []
+};

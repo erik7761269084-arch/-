@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/599bc02a-0f11-4ded-a4f8-dbd2a3ba0a06/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220414/87A3C6281F380CCE/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 857,
+  "IDcode": "HEYZO-1063",
+  "title": "瞞著老公來玩3P淫妻 - 中杉真奈美",
+  "publish_date": "2016-01-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "打手槍",
+    "多P",
+    "勾引・誘惑",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "HEYZO-1063为HEYZO出品,2016年1月19日发行的無碼成人影片\n瞞著老公來玩3P淫妻 - 中杉真奈美",
+  "cover_url": "https://picture.yoshiclub.xyz/20240513/20240513090401334334.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240513/20240513090401334334.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=857",
+  "actresses": []
+};

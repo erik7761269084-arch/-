@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241206/rFz2P97N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75801,
+  "IDcode": "NASH-193",
+  "title": "五十路白日夢 50歳を過ぎ性への強い欲望と不倫願望のある妻は夢の中で夫以外の男たちに抱かれる・・ 五十路妻たち4人の白日昼下がりドキュメント",
+  "publish_date": "2019-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "69",
+    "妄想",
+    "玩具",
+    "出轨",
+    "乱伦",
+    "母亲",
+    "屁股",
+    "口交",
+    "纪录片",
+    "胖女人",
+    "恋乳癖",
+    "白天出轨",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75801",
+  "actresses": []
+};

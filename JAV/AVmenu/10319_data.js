@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e1006874-13cd-48bf-8bd3-83af1ba97812/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10319,
+  "IDcode": "MIAB-370",
+  "title": "被丈夫上司強暴的前最強女人 - 從搜查官的工作退役後成爲家庭主婦的人妻的遭遇 ～ 波多野結衣",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "MIAB-370为MOODYZ出品,2024年12月3日发行的有碼成人影片由波多野结衣出演\n結衣是一名前特工，以美貌和能力壓倒他人，退休後與丈夫過著幸福的婚姻生活。有一天，我先生邀請對他虧欠他的老闆到他家來。唯突然看著他的臉，心煩意亂……這就是她過去本該消滅的男人。如果過去的秘密被揭露，一切都會結束。我別無選擇，只能原諒我的身體，這就是我毀滅的開始！沒有丈夫在家的羞辱中出體驗！唯徒然反抗……唯有為一個只配雞巴的男人報仇而墮落。最強調查員沾染污濁精液，昔日容貌已變成隱形肉尿池…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128091523639639.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128091523639639.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10319",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10319&name=波多野结衣"
+    }
+  ]
+};

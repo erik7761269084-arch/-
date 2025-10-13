@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4ddb4b53-122f-4050-ad9d-d9e23c269b4e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1072,
+  "IDcode": "HEYZO-1522",
+  "title": "一生中一次又一次的～Dopydobu弄髒了前兒童演員～ - 向日葵夏野",
+  "publish_date": "2017-06-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/45838e8d-f62c-49a0-88bf-408a09a60c3f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/45838e8d-f62c-49a0-88bf-408a09a60c3f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1072",
+  "actresses": []
+};

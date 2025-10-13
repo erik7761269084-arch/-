@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230126/MGu4FJLJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85606,
+  "IDcode": "MUDR-168",
+  "title": "1人の少女が体験した、地獄の三日間。 祭壇の悪夢 ～緊縛仕込みの供物少女～ 木下ひまり",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "高中女生",
+    "捆绑",
+    "监禁",
+    "SM"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/585b25211b080047c82cf71e246a078d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85606",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85606&name=木下日葵"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230315/1413D76752F27D94/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39907,
+  "IDcode": "N0424",
+  "title": "n0424 美人秘書鬼輪カン劣悪汁殺",
+  "publish_date": "2009-04-17",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "3P",
+    "口交",
+    "颜射",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39907",
+  "actresses": []
+};

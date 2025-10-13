@@ -1,0 +1,90 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d5ddebec-e4a0-4ae2-a8d1-d903a5e84c53/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9619,
+  "IDcode": "NSFS-345",
+  "title": "會讓丈夫妒忌的激烈性愛 NTR 8位人妻大合集",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "精選綜合",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241225/dee022e6-2cad-4a9a-8f02-a575808c6b87.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241225/dee022e6-2cad-4a9a-8f02-a575808c6b87.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9619",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=仓多真央"
+    },
+    {
+      "name": "卯水咲流",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250518/f4067a91-2dd3-4756-8221-f453b628e5a1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=卯水咲流"
+    },
+    {
+      "name": "葵千恵",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/d8fa9472-690b-4532-bfc0-30dfe7085225.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=葵千恵"
+    },
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=姫川礼子"
+    },
+    {
+      "name": "木村穂乃香",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/7bc00133-0c05-4566-aca7-ef52c3ffb2e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=木村穂乃香"
+    },
+    {
+      "name": "櫻井美保",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-櫻井美保.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9619&name=櫻井美保"
+    }
+  ]
+};

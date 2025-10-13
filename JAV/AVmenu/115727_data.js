@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/25/ba8e562d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115727,
+  "IDcode": "FC2-4053410",
+  "title": "开启秘密约会",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/24/bbbc59c4af5a5a3a55cd209340cb85ca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115727",
+  "actresses": []
+};

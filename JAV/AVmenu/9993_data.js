@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/add302e4-74ae-4c4c-a2c4-22c604c1c0bf/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/06/ab1701a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9993,
+  "IDcode": "AKDL-306",
+  "title": "安靜不張揚的地味系社員，實際上是一個流着口水親吻我雞巴的蕩婦 ~ 天沢りん",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "加班",
+    "色白",
+    "中出",
+    "美乳",
+    "OL",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "辦公室",
+    "地味",
+    "眼鏡"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241212/20241212083311303303.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241212/20241212083311303303.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9993",
+  "actresses": [
+    {
+      "name": "天沢りん",
+      "img_url": "https://picture.yoshiclub.xyz/20240621/25429c1a-6735-42ef-bed6-e133fac445ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9993&name=天沢りん"
+    }
+  ]
+};

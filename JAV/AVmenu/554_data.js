@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c429183-b447-4d6c-95c9-2082392ea413/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 554,
+  "IDcode": "HEYZO-0659",
+  "title": "下班6點後 - 體內燃起的欲火無法抗拒 ~ 本澤朋美",
+  "publish_date": "2014-08-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0659为HEYZO出品,2014年8月14日发行的無碼成人影片由本澤朋美出演\nアフター6～お願い・・この体の火照り止めて～ - 本澤朋美",
+  "cover_url": "https://picture.yoshiclub.xyz/20241126/0cc67601-ade0-438b-8816-5d81ec5c8667.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241126/0cc67601-ade0-438b-8816-5d81ec5c8667.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=554",
+  "actresses": [
+    {
+      "name": "本澤朋美",
+      "img_url": "https://picture.yoshiclub.xyz/20241112/f727d343-90e0-4c9b-9b4c-1211d1442c91.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=554&name=本澤朋美"
+    }
+  ]
+};

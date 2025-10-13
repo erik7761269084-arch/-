@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240909/OIsgceTJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92709,
+  "IDcode": "PX-374",
+  "title": "PX374新任黑絲女教師明里紬像隻囚獸在牢籠中被輪姦瘋狂內射。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240909-1/f582b23c941fe9a5d29712ece51b1108.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92709",
+  "actresses": []
+};

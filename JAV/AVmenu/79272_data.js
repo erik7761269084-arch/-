@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/6fDemT1D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79272,
+  "IDcode": "URKK-041",
+  "title": "爆乳Iカップ従姉妹との同居生活誘惑パイずりW中出し",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "巨乳",
+    "多P",
+    "恋乳癖",
+    "妹妹",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/feededb9dac685ea46f7468413ab5ce7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79272",
+  "actresses": [
+    {
+      "name": "凪沙雪乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79272&name=凪沙雪乃"
+    }
+  ]
+};

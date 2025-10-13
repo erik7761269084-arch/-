@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/24/f0645df9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96306,
+  "IDcode": "ALDN-356",
+  "title": "私はいつでも恋したい 田所百合",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/24/9e846dd1c456faee86902e3d33cae2d4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96306",
+  "actresses": [
+    {
+      "name": "田所百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/e68f208f-cd84-4490-b22c-00e740f313c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96306&name=田所百合"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96306&name=ひょこり"
+    }
+  ]
+};

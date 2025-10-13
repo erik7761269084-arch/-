@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/13/7ec9ebd4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77641,
+  "IDcode": "RKI-508",
+  "title": "新・世界一早漏男×河南実里の金玉がスッカラカンになるまで発射し続ける連続ぶっかけ＆大量中出しSEX",
+  "publish_date": "2020-05-19",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "中出",
+    "荡妇",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77641",
+  "actresses": [
+    {
+      "name": "河南実里",
+      "img_url": "https://picture.yoshiclub.xyz/20250219/c9a5832d-0674-40f7-8a56-8fbdc0a42091.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77641&name=河南実里"
+    }
+  ]
+};

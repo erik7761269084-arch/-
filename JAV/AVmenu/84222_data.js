@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/xB892Yuw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84222,
+  "IDcode": "CLUB-692",
+  "title": "AVを大音量で観ていたら隣家の美人妻がクレームを言いにきたのでフル勃起したデカチンを見せつけると欲情していたので 留守番してる旦那に奥さんの絶頂ボイスを聞かせてあげた件11",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实",
+    "巨大阴茎",
+    "连裤袜",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84222",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84222&name=辻井穗乃果"
+    }
+  ]
+};

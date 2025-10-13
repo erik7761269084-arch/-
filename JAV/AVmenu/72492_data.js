@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/943ebe23/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72492,
+  "IDcode": "SVDVD-958",
+  "title": "童貞救済法案 女性市役所職員自ら性交処置【ご相談ください】童貞の悩みを相談員が現場でサポート 童貞に股を開き続ける人妻職員に密着取材市役所職員性教育推進対策室 北村さやか",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "第一人称摄影",
+    "口交",
+    "纪录片",
+    "新娘，年轻妻子",
+    "手淫",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72492",
+  "actresses": []
+};

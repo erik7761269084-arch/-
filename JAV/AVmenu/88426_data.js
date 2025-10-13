@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231007/XOkHyZ5A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88426,
+  "IDcode": "MIDE-690",
+  "title": "初恋。凄テク整体師にイクイク体質にされ子宮も心も堕ちた文学少女 水卜さくら",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "按摩",
+    "校服",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88426",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88426&name=水卜櫻"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88426&name=イセドン内村"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88426&name=大岛丈"
+    }
+  ]
+};

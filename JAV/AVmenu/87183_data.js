@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/14/15ecab9a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87183,
+  "IDcode": "SSIS-476",
+  "title": "新人NO.1STYLE 安達夕莉AVデビュー",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "首次亮相",
+    "薄马赛克",
+    "接吻",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87183",
+  "actresses": [
+    {
+      "name": "安達夕莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e2c4dbd3-b98d-44e4-aad6-083b0cb67070.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87183&name=安達夕莉"
+    }
+  ]
+};

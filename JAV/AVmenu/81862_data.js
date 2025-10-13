@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/Nyk0PONy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81862,
+  "IDcode": "NASH-226",
+  "title": "レズビアン美熟女 快楽を貪り合う淫汁まみれのヌルべちょ性交 同性に寝取られた妻たち",
+  "publish_date": "2020-01-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/3915843dc839601aba48934c0050f920.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81862",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=風間由美"
+    },
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=佐伯由美香"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=羽生ありさ"
+    },
+    {
+      "name": "円城ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=円城ひとみ"
+    },
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=森下美绪"
+    },
+    {
+      "name": "福田由贵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=福田由贵"
+    },
+    {
+      "name": "叶山りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=叶山りん"
+    },
+    {
+      "name": "水上由纪恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81862&name=水上由纪恵"
+    }
+  ]
+};

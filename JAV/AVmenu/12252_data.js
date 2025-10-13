@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aafd1f4b-f3b5-4bc9-b21f-61b19cde1bc8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/28/bbdacbb4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12252,
+  "IDcode": "ADN-601",
+  "title": "人妻被她討厭的惡心公公強奸意外懷孕 ~ 白峯美羽",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "老頭子",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "人妻",
+    "巨乳",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "ADN-601为ATTACKERS出品,2024年9月3日发行的有碼成人影片由白峰美羽出演\n一個有十個同父異母的孩子的岳父。同父異母的兄弟，不同的母親，以及對女人無與倫比的愛。六個月前我開始和岳父住在一起。我忍不住討厭它，但當我即將收到公寓的首付時，我又無法拒絕...儘管我們住在一起，我的岳父卻從來沒有停止過和女人玩。沒想到自己最後成為了岳父的獵物…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829235542262262.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240829/20240829235542262262.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12252",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12252&name=白峰美羽"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/d7d71d5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105200,
+  "IDcode": "MIDV-676",
+  "title": "ナースコールで呼べば即！パイズリ挟射してくれる神乳ナースさん 一心えりか （BOD）",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "护士",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105200",
+  "actresses": [
+    {
+      "name": "一心惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/7e062e7e-ef30-47f1-8b6c-eec6dc9a3cd7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105200&name=一心惠里香"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/30/56b20e12/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67640,
+  "IDcode": "ALDN-138",
+  "title": "たびじ 母と子のふたり旅 西園寺美緒",
+  "publish_date": "2023-03-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67640",
+  "actresses": [
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67640&name=森下美绪"
+    },
+    {
+      "name": "みっちー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67640&name=みっちー"
+    }
+  ]
+};

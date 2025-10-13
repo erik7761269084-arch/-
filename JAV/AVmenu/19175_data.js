@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ab688fa0-6a08-4a38-ada0-2bb4426e9d85/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19175,
+  "IDcode": "IPX-278",
+  "title": "白衣天使神對應 經常無防備露內褲誘惑的天然護士 ！",
+  "publish_date": "2019-03-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "醫院・診所",
+    "無碼破解",
+    "主觀視角",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230704/202307040027375757.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230704/202307040027375757.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19175",
+  "actresses": [
+    {
+      "name": "楓花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19175&name=楓花戀"
+    }
+  ]
+};

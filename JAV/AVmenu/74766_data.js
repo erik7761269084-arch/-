@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/0d8c3a47/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74766,
+  "IDcode": "DRPT-077",
+  "title": "私、爆乳を持て余していたので居候のおじさんに毎日乳首をいじってもらって簡単に乳輪イキできるほど開発してもらいました 夕美しおん パンティとチェキ付き",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "乳液",
+    "恋乳癖",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74766",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74766&name=夕美紫苑"
+    }
+  ]
+};

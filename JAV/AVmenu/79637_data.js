@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/7c7umnIg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79637,
+  "IDcode": "ABW-149",
+  "title": "120%肯定カノジョ VOL.01 優し過ぎる恋人あすなと、早漏で絶倫な僕の射精しまくり同棲性活 河合あすな",
+  "publish_date": "2021-09-30",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "主观视角",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79637",
+  "actresses": [
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79637&name=河合明日菜"
+    }
+  ]
+};

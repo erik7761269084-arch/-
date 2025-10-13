@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56047,
+  "IDcode": "84CF01BCB39577F5F8EB005F9A1D9B96",
+  "title": "洗練された大人のいやし亭 ～美肌美乳で包み込んで差し上げます",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56047",
+  "actresses": []
+};

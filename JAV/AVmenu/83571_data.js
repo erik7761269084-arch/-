@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/vPgbbyiQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83571,
+  "IDcode": "FSET-871",
+  "title": "冷淡な対応するお姉さんがセックスになったら豹変！ 淫語連発でアヘ顔晒して感じまくる 菊池リナ 25歳",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "颜射",
+    "乳房",
+    "连裤袜",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/791b4813068fa1ce50f4d033819e2c6d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83571",
+  "actresses": [
+    {
+      "name": "菊池リナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83571&name=菊池リナ"
+    }
+  ]
+};

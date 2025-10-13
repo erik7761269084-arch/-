@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/13803189/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62692,
+  "IDcode": "PJAM-037",
+  "title": "NTR巨乳妻 夫が一晩だけ連れてきた部下が超・おっぱい星人で欲求不満だった私は毎日彼と逢うようになりました。小坂ひまり",
+  "publish_date": "2025-06-23",
+  "type": "有码",
+  "company": "Purple Jam",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/23/73f004ba2cc30275f50166ea229d3d74.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62692",
+  "actresses": []
+};

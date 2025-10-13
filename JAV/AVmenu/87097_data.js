@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/o4paNuur/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87097,
+  "IDcode": "NEO-435",
+  "title": "変態熟女学園",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "放尿",
+    "户外",
+    "水手服",
+    "羞耻",
+    "运动短裤"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87097",
+  "actresses": [
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87097&name=吉永塔子"
+    },
+    {
+      "name": "二宮和香",
+      "img_url": "https://picture.yoshiclub.xyz/20240620/4eed77a4-0ee7-4b22-8adc-1efdb2f67b3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87097&name=二宮和香"
+    },
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87097&name=赤瀬尚子"
+    },
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87097&name=姫川礼子"
+    },
+    {
+      "name": "古田優子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87097&name=古田優子"
+    }
+  ]
+};

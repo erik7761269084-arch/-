@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7fbe6c2-994c-446e-9b2c-b75b7eab2d08/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/24/c3202134/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16415,
+  "IDcode": "WAAA-339",
+  "title": "周五至周一無限中出，與醉酒的女老板接吻",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "酒後亂性",
+    "中出",
+    "蕩婦",
+    "OL",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "巨乳",
+    "女上司"
+  ],
+  "description": "WAAA-339为WANZ FACTORY出品,2024年2月6日发行的有碼成人影片由彌生美月出演\n在酒會上錯過了末班車，最後去了水樹學姐家……然而喝醉的學長卻突然變成了縱容她的接吻蕩婦！突然舌吻也是理所當然的！求一個撅起嘴脣的吻，一個讓你流口水的淫蕩吻！露出性感淫蕩大屁股，吞噬雞巴的打樁女牛仔！ 3天同時在嘴裏和陰部被強奸，並在接吻時被強行射在裏面！他不斷地重復咀嚼舌頭，沒有時間休息，即使射精，他的勃起也會立即恢復！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207081342643643.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240207/20240207081342643643.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16415",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16415&name=彌生美月"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16415&name=弥生美月"
+    }
+  ]
+};

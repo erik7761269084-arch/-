@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241026/en6g6SN5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94482,
+  "IDcode": "SQSG-006",
+  "title": "『明日も明後日も会ってくれる？』セフレ以上、恋人未満。 雫月心桜",
+  "publish_date": "2024-06-05",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "无毛",
+    "口交",
+    "美少女电影",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241027-1/12a9ebeeac3dd5729d0a64dc280f8ce7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94482",
+  "actresses": [
+    {
+      "name": "雫月心桜",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/c705be4e-7f24-48f1-862a-dfc16d22fafd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94482&name=雫月心桜"
+    }
+  ]
+};

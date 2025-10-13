@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/99adb6d0-0e05-4437-a50a-e774dea0bd23/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/0da9d2eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4707,
+  "IDcode": "DVAJ-694",
+  "title": "可以隨便幹也沒關系哦 ~ 尾崎惠梨香",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "ASMR顱内高潮",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "足交",
+    "獵豔",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "無毛"
+  ],
+  "description": "DVAJ-694为ALICE JAPAN出品,2025年7月5日发行的有碼成人影片由尾崎惠梨香出演\n【超沉浸式VR主觀視角】+【誘惑孕語ASMR雙聲道錄音】，耳朵被甜膩低語撩撥，禁忌的情節讓人心跳加速，背德的不倫SEX刺激到爆！“別告訴你老婆，偷偷讓惠梨香懷孕吧！”“快把惠梨香排卵期的身體填滿…”“不讓你拔出去，直到受孕為止！”“射到最深處，讓我感受到那股熱流！”“你的精華會一直留在裡面唷”“射這麼多，肯定會懷孕啦”“今天是排卵日，還被瘋狂內射了”…甜到發膩的孕語和近距離對視的SEX，足以摧毀理智和家庭，徹底淪陷！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703220558550550_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703220558550550_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4707",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4707&name=尾崎惠梨香"
+    }
+  ]
+};

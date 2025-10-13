@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/09/efcc959e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106753,
+  "IDcode": "STARS-723",
+  "title": "前列腺高潮住同房逆NTR 工作能幹的完美精銳女上司變得癡女化！真的嗎！？被肛門調教開發一整晚高潮連連直到早上！ 本莊鈴",
+  "publish_date": "2022-12-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "荡妇",
+    "足交",
+    "M男",
+    "肛交",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106753",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106753&name=本庄鈴"
+    }
+  ]
+};

@@ -1,0 +1,95 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8f0cd63d-c3f1-4b32-91e1-20390311bded/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/8a206c08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5075,
+  "IDcode": "GOHM-004",
+  "title": "辣妹狂歡趴 超下流GAL突破極限派對 ~ 椿莉香 水川潤 千鶴えま 三嶽祐奈",
+  "publish_date": "2025-06-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "打手槍",
+    "口爆",
+    "多P",
+    "美腳",
+    "聚會・PARTY",
+    "金髮",
+    "拜金女",
+    "自慰",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "公主",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "兩男兩女",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "極品美人",
+    "女學生",
+    "無毛",
+    "肌肉"
+  ],
+  "description": "GOHM-004为妄想族出品,2025年6月21日发行的有碼成人影片由水川潤，椿莉香，千鶴えま，三岳祐奈出演\n除了色氣辣妹啥都不感興趣！只要開心啥都OK的超下流GAL們，極限突破的狂野派對開場啦！リリー和ミシェル這對G奶女大學生，簡直是性獸本獸，爆乳晃得人眼花，瘋狂高潮還得先來一發中出問候！リリー攻守兼備，妥妥的性愛怪物，ミシェル更是飢渴到不行！還有うた和リン兩位風俗小姐姐加入，リン是潮吹小能手，生肉棒愛好者，うた則是敏感到爆的性愛機器！加上幾位瘋狂性豪大叔和性技大師，酒池肉林的大亂交直接炸場，潮吹中出不停歇，體液橫飛的持久戰開打！這群辣妹真TM瘋了，徹底放飛的淫蕩GAL，爽到爆，絕了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081511214214_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081511214214_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5075",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5075&name=椿莉香"
+    },
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5075&name=水川潤"
+    },
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5075&name=三岳祐奈"
+    },
+    {
+      "name": "千鶴えま",
+      "img_url": "https://picture.yoshiclub.xyz/20240425/b626b612-35e7-46e9-a586-4bd0c7d1a45c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5075&name=千鶴えま"
+    }
+  ]
+};

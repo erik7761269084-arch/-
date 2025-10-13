@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/ab8390bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71279,
+  "IDcode": "NHDTC-029",
+  "title": "一度ハマると抜け出せない全裸露出沼 羽月乃蒼",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "自慰",
+    "户外",
+    "潮吹",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/ab8390bd/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71279",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71279&name=羽月乃蒼"
+    }
+  ]
+};

@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/63e69ffb-af6b-4b35-a163-663b37d53c7a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9623,
+  "IDcode": "DAMX-010",
+  "title": "出差時去了的男士專門風俗美容院（祕）攝錄 Vol.5 ~ 白夜みくる 桐香悠里 青山碧 美園和花",
+  "publish_date": "2024-12-28",
+  "type": "有码",
+  "company": "Dama",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "業餘",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "口爆",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "拜金女",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "抹油",
+    "偷窺",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241225/c781d83a-4f97-44bd-b13b-f9c5104c52c6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241225/c781d83a-4f97-44bd-b13b-f9c5104c52c6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9623",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9623&name=美園和花"
+    },
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9623&name=桐香悠裡"
+    },
+    {
+      "name": "青山碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240701/174c8f11-5e33-4bdf-ae4e-410d6bd74838.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9623&name=青山碧"
+    },
+    {
+      "name": "白夜みくる",
+      "img_url": "https://picture.yoshiclub.xyz/20240319/f7619e6a-7a0a-44a0-9741-1b985be0aa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9623&name=白夜みくる"
+    }
+  ]
+};

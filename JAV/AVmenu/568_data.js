@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e0b895f5-fe09-4eb0-bdc7-cd8c7704b8c4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 568,
+  "IDcode": "HEYZO-0680",
+  "title": "操了一次又一次 - 淫蕩少女無底的欲望～HIKARI",
+  "publish_date": "2014-09-06",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "69",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "膚黑",
+    "慾求不滿",
+    "打手槍",
+    "美少女",
+    "金髮",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0680为HEYZO出品,2014年9月6日发行的無碼成人影片由HIKARI出演\n続々生中～好色娘の底知らずの肉欲～ - HIKARI",
+  "cover_url": "https://picture.yoshiclub.xyz/20241112/7326473a-eb46-44e8-be3b-211f3744381b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241112/7326473a-eb46-44e8-be3b-211f3744381b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=568",
+  "actresses": [
+    {
+      "name": "HIKARI",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/5d53de50-3637-407e-8f34-49727f7785d4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=568&name=HIKARI"
+    }
+  ]
+};

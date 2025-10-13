@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed47fac4-eb6a-4481-a267-770b544c8708/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/1a354b3e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7179,
+  "IDcode": "FPRE-165",
+  "title": "1日1組限定 美豔巨乳女將用治愈淫語和慢節奏貼身手活慢慢引導射精的回春旅館 ~ 北野未奈",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "淫語",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "猥褻穿著",
+    "昭和系",
+    "抹油",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "老闆娘，女主人"
+  ],
+  "description": "FPRE-165为FITCH出品,2025年4月1日发行的有碼成人影片由北野未奈出演\n位於僻靜自然環境中的日式旅館，每天僅接待一組客人。胸部豐滿的年輕女老闆米娜 (Mina) 將穿著漂亮的透明和服來迎接客人。在這個沒有電視、無線電波的旅館裡，老闆娘會一直陪伴著你，慢慢撫慰你的疲勞。緩慢的自慰和緩慢的性愛是一種奢華的方式，可以讓您忘記忙碌的日常生活，在您不知不覺中，您就會在女房東體內射精多次。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081956968968.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/20250327081956968968.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7179",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7179&name=北野未奈"
+    }
+  ]
+};

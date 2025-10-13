@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/99dd0661-3eb5-4d47-b7ed-1d74ae3a95cd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10644,
+  "IDcode": "FSDSS-950",
+  "title": "丈夫去向朋友借錢，卻把我做爲了抵押品...無法償還的債款，我的全身都被精子噴滿了印記 ~ 楠愛裏紗",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "朋友女友・妻子",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "欠債肉償",
+    "抹油",
+    "NTR",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114212418103103.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114212418103103.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10644",
+  "actresses": [
+    {
+      "name": "楠愛里紗",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/b2700cfb-1c5c-4a4c-a502-bc15120ec1fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10644&name=楠愛里紗"
+    }
+  ]
+};

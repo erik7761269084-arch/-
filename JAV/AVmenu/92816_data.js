@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240911/Y11xzDfI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92816,
+  "IDcode": "TARS-652Youtuber",
+  "title": "TARS652Youtuber涉谷大暴走？轉生到紗倉真菜身上！紗倉真菜。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92816",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230425/D8908E1C4AFEE3E1/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118520,
+  "IDcode": "AE9702D02EC4C62771BCA4AE24FE5FDF",
+  "title": "[FC2] 苗条美丽的已婚妇女~被蒙面男上铐射出 (FC2-PPV-1494984)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118520",
+  "actresses": []
+};

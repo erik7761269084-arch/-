@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240324/q3iMEKB4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59079,
+  "IDcode": "031524-001",
+  "title": "口コミ評価満点！指名殺到の家事代行お姉さん ～これは私だけのサービスです！:  青山茉悠",
+  "publish_date": "2024-03-15",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "女佣",
+    "雪白皮肤",
+    "最新影片",
+    "正在上映",
+    "无套内射",
+    "其他",
+    "立即口交",
+    "淋浴沐浴",
+    "打手枪",
+    "背后插入",
+    "背部骑乘位",
+    "乳交",
+    "口交",
+    "巨乳爆乳",
+    "美少女",
+    "美乳",
+    "痴女",
+    "白虎",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59079",
+  "actresses": [
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59079&name=南真悠"
+    }
+  ]
+};

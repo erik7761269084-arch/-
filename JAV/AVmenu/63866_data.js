@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/24e74206/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63866,
+  "IDcode": "HUNTC-279",
+  "title": "見逃さないで！ヤリたがりのサイン。言葉なんていらない！やたらと視線を合わせてくる美女は100％ヤれる！！",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "各种职业",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/b18343ed/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63866",
+  "actresses": []
+};

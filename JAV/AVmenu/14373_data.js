@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2710e28b-165c-4717-b8cb-d374071b220c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14373,
+  "IDcode": "CHERD-95",
+  "title": "和阿姨同居不可以嗎？處男和成熟人妻做愛最好",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "劇情",
+    "色白",
+    "中出",
+    "蕩婦",
+    "素人",
+    "口交",
+    "內衣",
+    "人妻",
+    "熟女",
+    "處男"
+  ],
+  "description": "CHERD-95为熟女人妻最強廠出品,2024年4月1日发行的有碼成人影片由天海梓出演\n一部著名的紀錄片，講述了一位受歡迎的已婚女演員帶領一個處女男孩進入成人世界的故事。這次，去年出道作品中超美胸成為熱門話題的烏克蘭混血妻子久賀裡莎登場。第5次出場。沒有毛筆經驗的莉莎，在沒有劇本、沒有導演的情況下，會在舞台上展現什麼樣的性愛呢？一場只靠本能的肉搏戰。查看完整的故事。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240530/20240530003130408408.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240530/20240530003130408408.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14373",
+  "actresses": [
+    {
+      "name": "天海梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240530/9b8fa947-d91b-43fe-9f5a-246b1d6d739c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14373&name=天海梓"
+    }
+  ]
+};

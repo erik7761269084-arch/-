@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b75648bf-79e4-4f63-81e7-4ccf9a068700/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/14/14030bb9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3213,
+  "IDcode": "MIDA-312",
+  "title": "年下控天宮老師的玩弄乳首淫語授業課，女友在旁也忍不住了NTR中出教學 ~ 天宮花南",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "游泳教練",
+    "心機婊",
+    "女上位",
+    "泳池",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "學校",
+    "阪道系",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "MIDA-312为MOODYZ出品,2025年8月28日发行的有碼成人影片由天宮花南出演\n天宫老师不仅是教师，还是游泳部的顾问，超级迷恋年下小鲜肉，早就暗中盯上了游泳部 ace 黑井。得知黑井有了女友后，嫉妒心爆棚，直接化身色情怪兽老师，用乳头玩弄的绝技强行夺人！像风一样突然出现，从背后抱住，乳头被疯狂揉捏，彻底被痴女化天宫老师征服的故事。她挑逗着问：“你女友能让你这么爽吗？”“是老师弄得爽，还是女友弄得爽？”天宫老师的智能乳头调教技术，完爆女友，简直让人上瘾到无法自拔！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032706962962_26105_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032706962962_26105_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3213",
+  "actresses": [
+    {
+      "name": "天宮花南",
+      "img_url": "https://picture.yoshiclub.xyz/20230927/fed8f42c-0e06-458b-b246-35973ae3db8d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3213&name=天宮花南"
+    }
+  ]
+};

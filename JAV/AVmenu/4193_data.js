@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/448de0dd-c00d-4461-b77f-759fcda6d243/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4193,
+  "IDcode": "SDJS-324",
+  "title": "公司AD小姐姐偶爾也得替身上陣當女優的替身 - SOD女子社員",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "劇情",
+    "巨尻",
+    "中出",
+    "美乳",
+    "OL",
+    "女上位",
+    "文藝女",
+    "素人",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "清楚系",
+    "AV拍攝現場",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "職場",
+    "眼鏡",
+    "羞恥"
+  ],
+  "description": "SDJS-324为SOD出品,2025年7月22日发行的有碼成人影片\n拍攝中女優的小穴突然不適，公司內的巨乳小姐姐被說服只拍結合部就好，於是硬著頭皮替身上陣！真的太感謝了！以後咱們一起把最頂級的色色內容帶給大家吧！男優那超爽的大肉棒猛烈抽插，幹得小姐姐高潮不斷，潮吹不停，只能咬緊牙關忍住呻吟，拼盡全力扮演好小穴的角色，真的讓人又心動又心疼！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250721/20250721204149307307_58715_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250721/20250721204149307307_58715_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4193",
+  "actresses": []
+};

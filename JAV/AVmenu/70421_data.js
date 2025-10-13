@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/0N6BlYjU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70421,
+  "IDcode": "HND-688",
+  "title": "恋人ごっこのつもりが…貪り合うような中出しSEXに溺れたあの頃。 枢木あおい",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "戏剧",
+    "中出",
+    "巨大屁股",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70421",
+  "actresses": [
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70421&name=枢木葵"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a392d62-2d33-4dae-a0cb-c48ec452f035/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9460,
+  "IDcode": "ABF-185",
+  "title": "喜歡老頭子的超漂亮的美少女 激烈3本番 ~ 七嶋舞",
+  "publish_date": "2025-01-17",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "老頭子",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "慾求不滿",
+    "唾液敷面",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "足交",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102112735305305.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102112735305305.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9460",
+  "actresses": [
+    {
+      "name": "七嶋舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/57aaee8c-c74b-4282-bd80-3059e8a4f3e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9460&name=七嶋舞"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/0ty8lVui/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69726,
+  "IDcode": "YLWN-052",
+  "title": "近所のおばさんをエッチなイタズラで興奮させてみた… 4時間",
+  "publish_date": "2019-01-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "业余",
+    "恶作剧",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69726",
+  "actresses": []
+};

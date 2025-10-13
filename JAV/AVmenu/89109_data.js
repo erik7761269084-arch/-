@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231213/dYjjfl3v/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89109,
+  "IDcode": "WA-511",
+  "title": "あいふぉ～ん夫婦ハメ撮りジェネレーション",
+  "publish_date": "2023-09-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "第一人称摄影",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/3cccece094fc154c85c61258aa8ed5fc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89109",
+  "actresses": []
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8e5a8494-30b6-45f2-b80d-00858112b659/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19063,
+  "IDcode": "IPX-388",
+  "title": "里民大會換妻NTR 絶倫大叔們持續中出覺醒快樂的人妻",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "素人作品",
+    "中出",
+    "亂交 • 群P",
+    "接吻",
+    "多P",
+    "人妻",
+    "出軌",
+    "精選綜合",
+    "夫妻交換"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727023943432432.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230727/20230727023943432432.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19063",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19063&name=岬奈奈美"
+    },
+    {
+      "name": "菊市桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/08cbe8ab-8063-45fb-ad34-a6a14c5e6b98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19063&name=菊市桃子"
+    },
+    {
+      "name": "坂元みこ",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/496fdbc1-3a57-4d11-a19a-707a62ea814c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19063&name=坂元みこ"
+    }
+  ]
+};

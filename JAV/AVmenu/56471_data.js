@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56471,
+  "IDcode": "F91E2C574346C9706A8E3A7F32A4A779",
+  "title": "マンコ図鑑 - あいら",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56471",
+  "actresses": []
+};

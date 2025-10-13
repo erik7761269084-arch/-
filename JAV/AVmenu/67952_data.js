@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250422/xxpCYDyW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67952,
+  "IDcode": "JUQ-098",
+  "title": "與出租人妻奈緒危險戀愛身為不起眼職員的我 ～時間限制在晚上7時…定額制盡情抽插不倫～ 神宮寺奈緒",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "礼仪小姐",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67952",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67952&name=神宫寺奈绪"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220725/F0E7E761C8544F8F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37124,
+  "IDcode": "0F291585FC509BE51509C6CDA69C2D-30",
+  "title": "パコパコママリス顔-剛毛-微乳熟女ととことんヤリまくる 高山やえ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37124",
+  "actresses": []
+};

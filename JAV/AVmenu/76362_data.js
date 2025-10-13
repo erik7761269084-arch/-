@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/ddf43c08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76362,
+  "IDcode": "SVVRT-059",
+  "title": "素人バラエティ総額100万円！！お年玉争奪チキチキ極太ディルド椅子取りゲーム！音楽止まったらマ〇コにディルドを挿入！3分間腰を振って潮を吹けたらクリア！失敗したら即ハメ中出し罰ゲーム！2",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "女上位",
+    "玩具",
+    "企画",
+    "业余",
+    "猎艳",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/05/e5729a9ff7730312bddb1a448caae1d0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76362",
+  "actresses": []
+};

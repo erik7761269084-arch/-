@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/457eef67-b65a-4097-9eaf-80b0ad261b25/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/f0d0f05e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5700,
+  "IDcode": "SAME-183",
+  "title": "公公的頂級調教讓我爽到不想停汗如雨下 ~ 白峰美羽",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "流汗",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "SAME-183为ATTACKERS出品,2025年5月30日发行的有碼成人影片由白峰美羽出演\n公公突然跑來說跟老婆吵架，想在我家借住幾天。我老早就受不了他那色咪咪的眼神跟騷擾式的言語，超級不爽。結果最衰的事情還是發生了，老公出差不在家時，我竟然被公公給侵犯了！更誇張的是，我居然在這過程中感受到從未有過的快感，整個人完全淪陷，無法自拔……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075502448448_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075502448448_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5700",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5700&name=白峰美羽"
+    }
+  ]
+};

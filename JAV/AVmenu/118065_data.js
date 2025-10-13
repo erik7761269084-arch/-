@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/17/9226345a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118065,
+  "IDcode": "FC2-4703356",
+  "title": "神似有村架纯的社恐系美人第4回与大叔甜蜜缠绵",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118065",
+  "actresses": []
+};

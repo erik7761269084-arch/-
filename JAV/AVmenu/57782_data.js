@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57782,
+  "IDcode": "B4960BBD5C4C0A7FBD05C44CC86091B8",
+  "title": "10mu 072410_01 アンダーヘア図鑑 -美白美人の智子ちゃんの場合- 三浦智子",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57782",
+  "actresses": []
+};

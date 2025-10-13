@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/t7U0N86O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88195,
+  "IDcode": "PGD-544",
+  "title": "小川あさ美のスーツ・コス",
+  "publish_date": "2011-12-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "多P",
+    "高",
+    "潮吹",
+    "OL",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/43325aa0279242733c539572bff8cada.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88195",
+  "actresses": [
+    {
+      "name": "小川阿佐美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fd4524ae-7d4e-4c7f-95a4-8588935c2861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88195&name=小川阿佐美"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88195&name=田渊正浩"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88195&name=玉木玲"
+    }
+  ]
+};

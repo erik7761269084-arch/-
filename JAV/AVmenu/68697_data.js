@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250405/XezeKzhr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68697,
+  "IDcode": "NSFS-112",
+  "title": "禁断・義父と嫁 ～息子は知っている私たちの関係～ 永田莉雨 （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-08-09",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "巨大屁股",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68697",
+  "actresses": []
+};

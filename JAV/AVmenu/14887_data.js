@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/913388d0-e9bc-4300-9d68-4ff14f4ba631/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14887,
+  "IDcode": "IPZZ-278",
+  "title": "我最喜歡的老師被不良少年輪奸了。鈴乃宇都",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "輪姦",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "學校",
+    "熟女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-278为IDEA POCKET出品,2024年5月14日发行的有碼成人影片由鈴乃宇都出演\n鈴乃老師挺身而出，拯救了被欺負的學生，結果卻被心懷怨恨的惡霸們輪姦了…不良學生笑著打開視頻，強行脫掉動彈不得的老師的衣服，抓住她的胸部開始按摩！鈴野先生的乳頭被揉捏，他的雞巴被強行插入她體內。她被一段性愛影片勒索，結果有一天又被學生們當作玩具。看著他被嘲笑的學生像性奴隸一樣無可奈何地玩弄，臉上還有大量的精液，會讓人勃起沮喪！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510040130363363.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510040130363363.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14887",
+  "actresses": [
+    {
+      "name": "鈴乃宇都",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/da9d023f-97b6-401c-8d56-dda818d97563.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14887&name=鈴乃宇都"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/02/c939cf83/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77131,
+  "IDcode": "SDNT-016",
+  "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case14 看護師・川瀬知子（仮名） 32歳 愛知県名古屋市在住 輪●中出し了承 主人のためにネトラレます",
+  "publish_date": "2020-01-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/e108b54aa2d3bbea7d9cec6262f01e2c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77131",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77131&name=凛音とうか"
+    }
+  ]
+};

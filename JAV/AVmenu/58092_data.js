@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221123/3cOv1O3m/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58092,
+  "IDcode": "HEYZO-2017",
+  "title": "爆乳Iカップ熟女とイチャイチャSEX - 江川すみれ",
+  "publish_date": "2019-06-20",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "背后插入",
+    "骑乘位",
+    "巨乳爆乳",
+    "熟女",
+    "白虎",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/6341ea59011f77b1c400a538ca98fecf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58092",
+  "actresses": []
+};

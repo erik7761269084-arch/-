@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/15/212f12ba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107005,
+  "IDcode": "MRSS-147",
+  "title": "NTR旅行 子作り目的で泊まった旅館で排卵日の妻が鬼畜男子大学生たちに中出しされまくった 百永さりな",
+  "publish_date": "2023-08-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "魔鬼系",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107005",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107005&name=岩下たろう"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107005&name=黑川纱里奈"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86913364-e4d3-4a08-8afb-4dc717f648d5/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/30/0b410707/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19383,
+  "IDcode": "IPX-065",
+  "title": "妻子前男友偷情幹砲實況 希崎潔希卡",
+  "publish_date": "2017-12-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "自拍性愛",
+    "姐姐・妹妹",
+    "數位馬賽克",
+    "人妻",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522014408299299.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230522/20230522014408299299.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19383",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19383&name=希崎潔西卡"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19383&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b521b64-a85a-475d-8d32-bc4c6fa46965/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/25/8921eab9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17485,
+  "IDcode": "MIDV-542",
+  "title": "初體驗！ ！性發育3特別製作！ ！",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "3P・4P",
+    "乳交",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "性感",
+    "兩男一女",
+    "美少女",
+    "巨乳",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "MIDV-542为MOODYZ出品,2023年12月5日发行的有碼成人影片由一心惠里香出演\n一心惠里香獨家第二版！ 個性雖然有點孩子氣，但身材卻是H CUP的成年人啊！ 修行開始，覺醒三大未覺醒聖寶【神胸、神腰、神臀】！ 當用增加敏感度的油按摩時，全身都會變成敏感區！ 當前所未有的超大雞巴插入小穴最深處時，整個小穴都覺醒了！ 第一部3P作品，劇烈操逼，高潮不斷能忍受多久？\n一心惠里香獨家第二版！ 個性雖然有點孩子氣，但身材卻是H CUP的成年人啊！ 修行開始，覺醒三大未覺醒聖寶【神胸、神腰、神臀】！ 當用增加敏感度的油按摩時，全身都會變成敏感區！ 當前所未有的超大雞巴插入小穴最深處時，整個小穴都覺醒了！ 第一部3P作品，劇烈操逼，高潮不斷能忍受多久？",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/ddf8491d-d694-4982-9e76-67dec2b1da07.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/ddf8491d-d694-4982-9e76-67dec2b1da07.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17485",
+  "actresses": [
+    {
+      "name": "一心惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/7e062e7e-ef30-47f1-8b6c-eec6dc9a3cd7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17485&name=一心惠里香"
+    }
+  ]
+};

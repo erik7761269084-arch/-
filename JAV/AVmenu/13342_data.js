@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23bb94b1-588b-48dd-a2ac-7837441f3769/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13342,
+  "IDcode": "MIFD-501",
+  "title": "超可愛女服務員禁欲一個月…敏感度最高！超級敏感的小穴中的第一次體內射精！~ 雨井理奈",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MIFD-501为MOODYZ出品,2024年7月16日发行的有碼成人影片由雨井理奈出演\n【新人女星嚴格禁慾30天！ ！這一個月以來，她似乎一直在想一些頑皮的事情……莉娜的敏感度和性慾已經達到了頂峰，她是第一次做愛，但她想要激烈的性愛。首先，她戴上保險套...當她仔細感受原始性和原始性之間的區別時，她是如此敏感，以至於她噴到了她的初生雞巴上，三重束縛性中出！ ，陰道內持續4P性愛中出後，我無法停止射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003005746746.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712003005746746.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13342",
+  "actresses": [
+    {
+      "name": "雨井理奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/085308a8-61ff-4910-a59e-4f3a293ad19b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13342&name=雨井理奈"
+    }
+  ]
+};

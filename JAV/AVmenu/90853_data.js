@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/07/6337c4df/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90853,
+  "IDcode": "MIAA-875",
+  "title": "やっぱり、妻が好きだ！倦怠期だった僕ら夫婦が久しぶりにSEXしたら...やっぱり体の相性抜群で朝まで何度も求め合った！！ 藤森里穂 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90853",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90853&name=藤森里穂"
+    }
+  ]
+};

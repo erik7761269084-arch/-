@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/24/f0076247/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103290,
+  "IDcode": "SOE-929",
+  "title": "夫の目の前で犯された若妻 恥辱の催眠レイプ 麻美ゆま",
+  "publish_date": "2013-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "强奸",
+    "薄马赛克",
+    "新娘，年轻妻子",
+    "催眠"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/25/d2d004518ba2846b9512f0e2ac229220.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103290",
+  "actresses": [
+    {
+      "name": "麻美由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103290&name=麻美由真"
+    }
+  ]
+};

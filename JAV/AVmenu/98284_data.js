@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221228/A800C6224E86AE3A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98284,
+  "IDcode": "APNS-152",
+  "title": "悲劇の寝取られ山ガール 調教輪姦漬け お互いの気持ちを確かめ合ったばかりのカップルを襲った鬼畜の所業。 根尾あかり",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "戏剧",
+    "中出",
+    "多P",
+    "颜射",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98284",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98284&name=根尾朱里"
+    },
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98284&name=平井シンジ"
+    }
+  ]
+};

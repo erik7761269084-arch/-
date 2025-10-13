@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f155aa3c-9bcb-402d-a58d-7c2e6257d91c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/23/77f9d1a5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11477,
+  "IDcode": "SONE-353",
+  "title": "340次強烈高潮！ 5800回痙攣！潮噴2900cc！ 平面模特芸能名人愛神覺醒第一大痙攣特輯 ~ 金鬆季歩",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女優",
+    "芸能人"
+  ],
+  "description": "SONE-353为S1出品,2024年10月8日发行的有碼成人影片由金松季歩出演\n*令人震驚的影片！ ！ *仔細觀看！ ！喬布布布！ ！ ！ ！噴！抽搐！蝦子變形了！追求！空白頭…放蕩低俗無恥尿尿失禁禁令首次出爐！我一次又一次地射精...深不見底的愛欲...我終於睜開了眼睛！ ！這真是一種神智不清的狀態……這就是名人兼松喜步的嚴重水花！很尷尬，但我無法停止...名人美麗的剃光凹版陰戶，會射精和射精！我一生中最大最激動人心的快樂爆發 操",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003081230884884.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003081230884884.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11477",
+  "actresses": [
+    {
+      "name": "金松季歩",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/e5c09747-beb8-4c07-ab37-76f71e729b61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11477&name=金松季歩"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11477&name=鲛岛"
+    }
+  ]
+};

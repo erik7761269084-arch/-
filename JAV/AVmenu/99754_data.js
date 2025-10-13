@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230220/0398E40956E06787/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99754,
+  "IDcode": "DKN-005",
+  "title": "DOC的発掘AV出演！！ Volume.03「イラマチオして」とは彼氏に言えず悶々とした日々に耐えきれず意を決して応募してきた美巨乳美脚銀行員",
+  "publish_date": "2019-05-03",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99754",
+  "actresses": []
+};

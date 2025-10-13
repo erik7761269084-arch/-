@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7a839f90-e059-4d12-b40b-5a3e56044b24/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3538,
+  "IDcode": "NMND-002",
+  "title": "被渣的可愛美人妹子 合集 Volume.02 ~ 桜木美音 天馬唯 響乃詩",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "故事集",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "傲嬌",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "NMND-002为DOC出品,2025年8月14日发行的有碼成人影片由天馬唯，桜木美音，響乃詩出演\n爱情让人瞎眼，这话听得多，但谁没亲身经历过呢？这部片讲的就是那些坠入爱河的妹子，被渣男套路，抱着“因为喜欢”“只要有一丝希望”的心态，傻傻地付出却被当工具人使唤的故事。妹子们深陷“渣男沼”，那种又虐又甜的真实感情拉扯，绝对让你看得心痒痒！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040211329329_90571_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040211329329_90571_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3538",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3538&name=天馬唯"
+    },
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3538&name=響乃詩"
+    },
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3538&name=桜木美音"
+    }
+  ]
+};

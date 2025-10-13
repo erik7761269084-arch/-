@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7a15a9ed-11ee-4bfb-835e-2c132b1068ef/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/07/1d0eda0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2654,
+  "IDcode": "ROE-399",
+  "title": "與女兒男友陷入極致抽搐的狂熱性愛 ~ 友田真希",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "性感睡衣",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "女上位",
+    "岳母",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "抹油",
+    "NTR",
+    "寫真偶像",
+    "熟女",
+    "短髮"
+  ],
+  "description": "ROE-399为MADONNA出品,2025年9月18日发行的有碼成人影片由友田真希出演\n怀上女儿莉绪的时候，本该成为我老公的男人突然失联，彻底消失。这十年，为了不让女儿因为单亲妈妈的身份受苦，我拼了命地工作。女儿大学毕业，找到工作，即将步入婚姻，未来一片光明。然而某天，我却意外和女儿的男友发生了关系。虽然心里对女儿充满愧疚，但压抑多年的欲望彻底爆发，身体像是被电流击中，酥麻快感让我无法自拔，沉沦在这禁忌的激情中……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/202509180235043737_43058_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/202509180235043737_43058_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2654",
+  "actresses": [
+    {
+      "name": "友田真希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/024a3bbf-99af-4b33-9026-aa6a1e98dfd3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2654&name=友田真希"
+    }
+  ]
+};

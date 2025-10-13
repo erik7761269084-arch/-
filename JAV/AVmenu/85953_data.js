@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/IMNHLCgr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85953,
+  "IDcode": "PRED-392",
+  "title": "ゴミ部屋に暮らす隣人の絶倫オヤジに何度も中出しされ続けて、ひたすらイキまくる肉便器になってしまった私は… 竹内有紀",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "凌辱",
+    "淫乱，真实",
+    "姐姐",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85953",
+  "actresses": []
+};

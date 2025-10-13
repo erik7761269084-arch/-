@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221230/kESSF2Q6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83703,
+  "IDcode": "NSLG-004",
+  "title": "シロウトハメ撮りch4",
+  "publish_date": "2020-03-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83703",
+  "actresses": []
+};

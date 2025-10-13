@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/13/efeaff7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85147,
+  "IDcode": "JUQ-071",
+  "title": "Kカップ専属 人生初の黒人解禁！！ 黒人に溺れた人妻 叶愛",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "黑人演员",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/386d34a1b7ef3f7420a3fd62cac0cebe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85147",
+  "actresses": []
+};

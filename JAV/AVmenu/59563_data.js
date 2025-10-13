@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/02806f67/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59563,
+  "IDcode": "091618-744",
+  "title": "健身美女骨感身材内射做爱",
+  "publish_date": "2024-05-03",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/03/5dc0bd4c86e39c93b2bcbfc6260721c1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59563",
+  "actresses": []
+};

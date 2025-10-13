@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1b3f5fb0-b9df-4a11-bbba-fecbb480581d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 670,
+  "IDcode": "HEYZO-0806",
+  "title": "操在咖啡館打工的蘿莉 -請都射給我吧 ~ 木村都那",
+  "publish_date": "2015-03-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "淫亂",
+    "咖啡店",
+    "雙馬尾",
+    "中出",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "服務生",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0806为HEYZO出品,2015年3月11日发行的無碼成人影片由木村都那出演\nカフェでバイト中のロリっ娘をハメる～ミルクは多めでお願いします～ - 木村つな",
+  "cover_url": "https://picture.yoshiclub.xyz/20240925/d7892bc9-48c0-435a-8441-251f98cb430c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240925/d7892bc9-48c0-435a-8441-251f98cb430c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=670",
+  "actresses": [
+    {
+      "name": "木村都那",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/1853f9e7-1cbb-45f6-9d95-cddac4d648e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=670&name=木村都那"
+    }
+  ]
+};

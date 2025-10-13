@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/14/147f6053/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74254,
+  "IDcode": "MUDR-302",
+  "title": "Hcup神BODY制服マスク美少女 衝撃専属。 白橋りほ",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "制服",
+    "女生",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/14/f5dc0fbacaffbe5822de4219cc370450.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74254",
+  "actresses": [
+    {
+      "name": "白橋里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/6cd1c601-58fd-413e-947d-d7b1f7f40ec7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74254&name=白橋里帆"
+    }
+  ]
+};

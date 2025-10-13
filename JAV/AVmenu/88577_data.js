@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/04/9d350240/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88577,
+  "IDcode": "DASS-102",
+  "title": "新しい義父は出禁キモオタ！？ 子宮推しまくり絶望粘着中出しでセックス沼に堕ちた真面目ギャルアイドル 斎藤あみり",
+  "publish_date": "2023-01-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "中出",
+    "偶像",
+    "角色扮演者",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231023-1/63d489af7c83dea215737847e76455a2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88577",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88577&name=斋藤亚美里"
+    }
+  ]
+};

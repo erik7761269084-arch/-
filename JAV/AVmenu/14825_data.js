@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/710378d9-3f26-4a79-9ec8-d9990c94f72b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14825,
+  "IDcode": "RKI-667",
+  "title": "你想加入同人圈嗎？我是住在一個所有人都是禦宅族的合租屋裡唯一的人。每天和巨乳美女做愛！",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "苗條",
+    "後入",
+    "酒醉",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "RKI-667为ROOKIE出品,2024年5月14日发行的有碼成人影片由胡桃櫻花，花柳杏奈，千石もなか出演\n榮獲FANZA同人第一名！人氣圈【Nurneverland】的人氣作品《你想加入同人圈嗎？ ’是期待已久的真人版！立志成為同人作家的主角，突然收到了同居的邀約……當他鼓起勇氣搬進去時，卻發現室友全是女性！我最終和情色漫畫家、情色遊戲配音員、coser以及其他獨特的人生活在同一屋簷下。當然，這種情況下是不可能發生什麼的…舔臉、說髒話、cosplay 4P性愛等等……脫節的我們，盡情享受一切能想到的變態性愛，釋放我們多餘的性慾！對於對嘴唇、親吻和唾液有柔和的受虐狂迷戀的男人來說，這是必看的！暴露彼此危險的迷戀感覺真好，以至於讓你的頭融化。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510022804613613.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510022804613613.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14825",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14825&name=胡桃櫻花"
+    },
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14825&name=千石もなか"
+    },
+    {
+      "name": "花柳杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/f4758eb4-420e-4a4f-9d93-f6d6767f8c0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14825&name=花柳杏奈"
+    }
+  ]
+};

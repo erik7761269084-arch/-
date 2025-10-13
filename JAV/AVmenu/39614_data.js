@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39614,
+  "IDcode": "79EB838305A09432B7A4A6E4001B21D9",
+  "title": "两个好色医生帮人家按摩~就把人家上了",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39614",
+  "actresses": []
+};

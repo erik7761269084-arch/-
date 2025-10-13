@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/4648a7fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62987,
+  "IDcode": "SYKH-148",
+  "title": "ブーツの美魔女とナマ交尾 即ズボチ〇ポの快感に美貌が蕩ける… れいかさん33歳",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "恋腿癖",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62987",
+  "actresses": [
+    {
+      "name": "ラビットけんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62987&name=ラビットけんと"
+    }
+  ]
+};

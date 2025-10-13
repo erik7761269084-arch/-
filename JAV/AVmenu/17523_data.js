@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/152b7896-8b71-45e9-9361-9701b69d46b7/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2023/01/27/bb501210/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17523,
+  "IDcode": "IPX-980",
+  "title": "與同學會再會的深愛男人沉溺做愛中出持續最爛不倫的我… 胸糞NTR 擄獲女人的不是愛情金錢而是性愛！ 櫻空桃",
+  "publish_date": "2023-01-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "酒後亂性",
+    "中出",
+    "口交",
+    "性感",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231130/b60d5f16-43e1-42ad-837d-04c5a42c5848.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231130/b60d5f16-43e1-42ad-837d-04c5a42c5848.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17523",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17523&name=桜空桃"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17523&name=小田切ジュン"
+    }
+  ]
+};

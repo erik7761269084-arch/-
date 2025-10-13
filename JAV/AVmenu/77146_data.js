@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/v8KoZwoE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77146,
+  "IDcode": "MYBA-008",
+  "title": "人妻の花びらめくり 佐伯かれん",
+  "publish_date": "2019-03-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77146",
+  "actresses": [
+    {
+      "name": "吉泽ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77146&name=吉泽ひかり"
+    }
+  ]
+};

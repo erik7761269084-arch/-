@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54816,
+  "IDcode": "1933297C5290A8B6AE4DC238349C24B1",
+  "title": "安可 32 小玲的淫荡私生活 - 桃香林 KT-057",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54816",
+  "actresses": []
+};

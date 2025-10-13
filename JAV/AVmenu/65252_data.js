@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65252,
+  "IDcode": "EFDB561F11E0E2F2DE37EA03347593C7",
+  "title": "《91沈先生》约了个风趣的粉衣马尾少妇，穿上黑丝侧入抽插猛操呻吟娇",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65252",
+  "actresses": []
+};

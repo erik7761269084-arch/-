@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fe0b2e1c-4896-45f3-8761-700fbfabc9cf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16450,
+  "IDcode": "JBD-294",
+  "title": "出道演藝圈的大學三年級學生，卻在幕後充當奴役女奴……",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "調教",
+    "凌辱",
+    "中出",
+    "女奴",
+    "美乳",
+    "拘束・拷問",
+    "口交",
+    "性感",
+    "兩男一女",
+    "SM",
+    "緊縛",
+    "癡女",
+    "手指插入",
+    "羞恥",
+    "殘忍畫面",
+    "芸能人"
+  ],
+  "description": "JBD-294为ATTACKERS出品,2024年2月6日发行的有碼成人影片由西野絵美出演\n“喂惠，剛才在外面喊你的人不是粉絲，而是老熟人嗎？”“是的。從我大學時代開始……”“什麼？我是今天請假，你就邀請我去你家吧。 「那是……啊啊……」 「但是，如果你讓她就這樣來的話，你的身體不會受傷嗎？你不能忍住了吧？我知道惠是個膽怯的女人，我還能這樣安慰她。我想只有我一個人能做到這一點吧。” 「……是的，主人……」 ……這……沒錯。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205011141699699.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240205/20240205011141699699.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16450",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16450&name=西野絵美"
+    }
+  ]
+};

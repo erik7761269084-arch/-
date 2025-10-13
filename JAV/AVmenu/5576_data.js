@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/49db7508-551f-4291-9b75-249580d37340/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/07/a6f72ecf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5576,
+  "IDcode": "NACR-966",
+  "title": "我的女友是AI智能娃娃 ~ 五芭",
+  "publish_date": "2025-06-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "奇異的",
+    "美人",
+    "大奶头",
+    "性愛娃娃",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "NACR-966为PLANETPLUS出品,2025年6月5日发行的有碼成人影片由五芭出演\n阿達是個迷戀充氣娃娃的宅男，失去心愛的夏子後天天傷心落淚。好兄弟鈴木看不下去，介紹他認識AI智能娃娃。雖然阿達覺得誰也取代不了夏子，但還是勉強下單試試看。幾天後，送到家裡的AI娃娃根本就像真人，性感到讓人小鹿亂撞！這下阿達的生活徹底被翻轉，孤單的夜晚從此變得火熱又刺激，嘿嘿～",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604210224595595_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250604/20250604210224595595_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5576",
+  "actresses": [
+    {
+      "name": "五芭",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/52fde9c6-3d51-4aeb-8190-5ff88995feb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5576&name=五芭"
+    },
+    {
+      "name": "ししお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5576&name=ししお"
+    }
+  ]
+};

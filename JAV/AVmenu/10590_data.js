@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/799518ec-dd0a-41af-bc04-31c29b34a04e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10590,
+  "IDcode": "MIDV-935",
+  "title": "第一次體驗無法停止的失禁和抽搐。 第一次大絕頂高潮，4本番，潮吹的女神 ~ 青山七海",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIDV-935为MOODYZ出品,2024年11月19日发行的有碼成人影片由青山七海出演\nMOODYZ 獨家青山七海第 2 部分！我相信日本將在2025年7月被毀滅的陰謀論（？），為了不留下任何未完成的事情，決定以AV出道，但我被告知日本有可能不會被毀滅。很震驚呢，不過你還是要努力成為AV女優啊！慾望第二部作品！ ！她在首次性愛中大量噴出，暴露了她敏感的陰部，但她還洩漏了更多！ ！ 4 濕淋淋的高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114084713560560.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114084713560560.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10590",
+  "actresses": [
+    {
+      "name": "青山七海",
+      "img_url": "https://picture.yoshiclub.xyz/20241011/66422124-915c-4e99-b351-bf0586baed9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10590&name=青山七海"
+    }
+  ]
+};

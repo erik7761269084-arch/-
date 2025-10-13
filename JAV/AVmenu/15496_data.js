@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/efacb55b-2680-4bc6-9b24-c01fc84335cf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15496,
+  "IDcode": "HZGD-271",
+  "title": "我在鄉下沒什麼可做的……和夏川步美在盛夏有一場滿頭大汗的戀情，住在隔壁的美麗的大奶子大屁股妻子一起潮吹，潮吹而懷孕。",
+  "publish_date": "2024-04-12",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240408/c4298b95-8fd1-4b03-adcd-3a25e2026d75.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240408/c4298b95-8fd1-4b03-adcd-3a25e2026d75.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15496",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15496&name=夏川步美"
+    }
+  ]
+};

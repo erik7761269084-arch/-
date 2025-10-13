@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/a3N4z1IE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82155,
+  "IDcode": "NSPS-890",
+  "title": "私の妻は絶対に堕ちない、やれるもんならやってみろ！ 妻を口説かせた。 ベスト版",
+  "publish_date": "2020-04-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82155",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82155&name=真木今日子"
+    },
+    {
+      "name": "佐野葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/4255c8d4-3c2e-409e-9568-d49a6bbf40e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82155&name=佐野葵"
+    },
+    {
+      "name": "峰ゆり香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82155&name=峰ゆり香"
+    }
+  ]
+};

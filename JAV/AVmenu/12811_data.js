@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2158f5aa-5019-4390-948b-e1ba38a62ba7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/21/84f58fa5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12811,
+  "IDcode": "DASS-458",
+  "title": "被隱藏的欲望所侵蝕，它使我的變成黑色 ~ 美谷朱裏",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "色白",
+    "身體換業務",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "蒙面・面罩",
+    "OL",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "接吻",
+    "口爆",
+    "SM",
+    "女秘書",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "插入異物",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "DASS-458为DASDAS出品,2024年8月13日发行的有碼成人影片由美谷朱里出演\n茜接手了母親的債務，並盡責地行事。有一天，在朋友的推薦下，他去面試，認識了一位魅力十足的公司總裁。成為他秘書的茜逐漸接受了他虐待狂的性慾，但是…一個男人只能從傷害別人中獲得快樂，而一個女人則為了避免傷害別人而犧牲自己。當慾望與愛情交織在一起時，茜自己也不知道的真實自我逐漸暴露。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809001501163163.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240809/20240809001501163163.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12811",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12811&name=美谷朱里"
+    }
+  ]
+};

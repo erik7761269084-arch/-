@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230206/cccf8b50-e2fb-4edd-8da1-76972fc32fd3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1816,
+  "IDcode": "SMBD-131",
+  "title": "S Model 131 制服黑髮清秀美女 ~ 金井美绪",
+  "publish_date": "2015-06-26",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "深喉",
+    "中出",
+    "美乳",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230212/64226442-6aaf-46c0-86cc-fc159ff04e47.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230212/64226442-6aaf-46c0-86cc-fc159ff04e47.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1816",
+  "actresses": [
+    {
+      "name": "金井美绪",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/2f282db4-116e-487c-8adc-2ab7da9b3c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1816&name=金井美绪"
+    }
+  ]
+};

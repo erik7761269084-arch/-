@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7cfca7d4-e1a9-4ed1-9b0b-37094d051427/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/14/bc5dc591/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10415,
+  "IDcode": "ROE-266",
+  "title": "媽媽離婚那天，我失去了理智，擁抱着我深愛的媽媽，直到我的性欲耗盡 ~ 大石紗季",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "變態",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "肉絲",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "ROE-266为MADONNA出品,2024年11月26日发行的有碼成人影片由大石紗季出演\n結婚大約三年後，我開始和先生因為一些小事吵架。夫妻倆的爭吵日漸增多，但為了年幼的兒子，他們堅持了下來，沒有離婚。當兒子終於長大後，丈夫終於簽了離婚書，一無所有地離開了家。然而，離婚後，兒子對我的愛開始失控。其實，我很早就意識到兒子變態的愛，但我視而不見。我兒子對我的愛不是作為一個母親，而是作為一個女人......",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122004453863863.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122004453863863.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10415",
+  "actresses": [
+    {
+      "name": "大石紗季",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/eeee6d74-8c7a-48a5-91e6-93c57b257643.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10415&name=大石紗季"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10415&name=日森一"
+    }
+  ]
+};

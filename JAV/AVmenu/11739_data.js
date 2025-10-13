@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c1cdb358-a0c3-4ceb-baa9-31c03373ed4b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/11/d0d4f296/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11739,
+  "IDcode": "FSDSS-871",
+  "title": "高精度性愛功能AI女友 ~ 吉高寧寧",
+  "publish_date": "2024-10-28",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "明星臉",
+    "奇異的",
+    "性愛娃娃",
+    "美少女電影",
+    "女機器人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240923/20240923224247374374.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240923/20240923224247374374.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11739",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11739&name=吉高寧寧"
+    }
+  ]
+};

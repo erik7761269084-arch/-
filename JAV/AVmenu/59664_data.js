@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/ebf8e678/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59664,
+  "IDcode": "XMOM-79",
+  "title": "- ベロ舐め愛人倶楽部 松乃りの - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/ebf8e678/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59664",
+  "actresses": []
+};

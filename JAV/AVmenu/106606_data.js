@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/02/9a2f96a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106606,
+  "IDcode": "SSIS-641",
+  "title": "男を虜にする無意識のたわわな誘惑 隠しきれないグラマラス着衣Jカップ 凪ひかる （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-03-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "恋乳癖",
+    "猥亵穿着",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/01/9e1d75ce4539f71523595df9f8c8451b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106606",
+  "actresses": [
+    {
+      "name": "凪光",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/3baa99f0-6f17-43ce-b119-a6b639c59061.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106606&name=凪光"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106606&name=イセドン内村"
+    },
+    {
+      "name": "有栖花绯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106606&name=有栖花绯"
+    }
+  ]
+};

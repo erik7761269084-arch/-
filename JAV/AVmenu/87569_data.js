@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/7ErlxMJZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87569,
+  "IDcode": "MEAT-042",
+  "title": "拗れた躾 ドM巨尻のJ系さやは俺の肉便器 クズ兄貴の借金をデキャンタBODYで返済する健気な妹 夏海さや",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "屁股",
+    "胖女人",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87569",
+  "actresses": []
+};

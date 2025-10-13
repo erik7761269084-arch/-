@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/5sQRcw4K/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91193,
+  "IDcode": "GVH-547",
+  "title": "姑の卑猥過ぎる巨乳を狙う娘婿 仲野梢",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/fa8b34e99ca88a31b3b43048edfcfa79.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91193",
+  "actresses": [
+    {
+      "name": "仲野梢",
+      "img_url": "https://picture.yoshiclub.xyz/20250204/dd2f51ab-f4a4-4caf-810b-9060db76c22a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91193&name=仲野梢"
+    },
+    {
+      "name": "ダガー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91193&name=ダガー"
+    }
+  ]
+};

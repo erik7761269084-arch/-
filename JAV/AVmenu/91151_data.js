@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240324/osfRGawW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91151,
+  "IDcode": "HOMA-133",
+  "title": "【FANZA限定】SNSで拾った家出少女を媚薬キメセク漬け 絶倫チ○ポが満足するまで中出しできる肉便器に仕上げた 雨依つばめ チェキ1枚とL版写真付き",
+  "publish_date": "2023-09-27",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "中出",
+    "苗条",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240324-1/2b2478437d798cb4b4ed33ae746a6fb7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91151",
+  "actresses": [
+    {
+      "name": "雨依燕",
+      "img_url": "https://picture.yoshiclub.xyz/20231011/61df86be-2682-4a50-aca7-dc2f199f2ede.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91151&name=雨依燕"
+    }
+  ]
+};

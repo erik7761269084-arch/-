@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250325/Ms7eUyEw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69530,
+  "IDcode": "AARM-144",
+  "title": "『客人的肉棒最棒了…』一面在耳邊呢喃一面逆手精油打手槍持續擼管的3P挑逗回春沙龍",
+  "publish_date": "2022-12-15",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "乳液",
+    "手淫",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/1a7228ac887482308529cffd06ba38d9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69530",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69530&name=岬梓沙"
+    }
+  ]
+};

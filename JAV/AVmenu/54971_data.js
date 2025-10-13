@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54971,
+  "IDcode": "460A3E93F83F38301AD6890069E17723",
+  "title": "强制内射新婚一周年少妇",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54971",
+  "actresses": []
+};

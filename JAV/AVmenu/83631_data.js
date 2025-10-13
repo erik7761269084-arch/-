@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/27/0b83a7df/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83631,
+  "IDcode": "JUFE-156",
+  "title": "吸着マ●コでゆ～っくり亀頭をコネ回す女社長のガニ股騎乗位 三船かれん",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83631",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83631&name=玉木玲"
+    },
+    {
+      "name": "三船かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83631&name=三船かれん"
+    }
+  ]
+};

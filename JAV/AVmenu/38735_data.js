@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221123/EDF9FC2244969883/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38735,
+  "IDcode": "907832843A550A18117144FC2A-919566",
+  "title": "大量喷出日本业余夫妇的泳衣",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38735",
+  "actresses": []
+};

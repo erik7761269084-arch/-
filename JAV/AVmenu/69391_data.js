@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250402/X8nTOetq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69391,
+  "IDcode": "KSBJ-217",
+  "title": "- 弟の嫁は根っからの淫乱女だった…。 東凛 パンティと生写真付き - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "自慰",
+    "荡妇",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69391",
+  "actresses": [
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69391&name=东凛"
+    }
+  ]
+};

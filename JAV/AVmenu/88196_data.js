@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/V48zlo1V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88196,
+  "IDcode": "PPPD-599",
+  "title": "巨乳女教師と5年ぶりに再会 成長した僕のSEXテクで立場逆転 JULIA",
+  "publish_date": "2017-11-01",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "妄想",
+    "女教师",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/0d291d03df003f098a0cd790c87a00c4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88196",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88196&name=JULIA"
+    }
+  ]
+};

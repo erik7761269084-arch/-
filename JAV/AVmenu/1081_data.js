@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f9dfe52-6749-4f1b-9e1a-27df34e13cbb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1081,
+  "IDcode": "HEYZO-1530",
+  "title": "淫液流動不會停止的 ~ 我的床上發了洪水！ ！",
+  "publish_date": "2017-07-04",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "絕頂高潮",
+    "中出",
+    "口交",
+    "舔陰",
+    "慾求不滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/9f9a333d-6338-48f9-9f2a-dee9c9dc6857.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/9f9a333d-6338-48f9-9f2a-dee9c9dc6857.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1081",
+  "actresses": [
+    {
+      "name": "橘ゆうな",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/4823dd1d-6640-4aae-b97e-deaef8008d3a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1081&name=橘ゆうな"
+    }
+  ]
+};

@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c5ed40f-2192-43e7-8fa9-796e271039c6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/93e3cf2f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8467,
+  "IDcode": "HNTRZ-005",
+  "title": "乳頭誘惑課程：肉食淫蕩女學生故意露出她們淫穢的乳頭 ~ 音月みり 愛瀨優裏 逢月ひま",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "中出",
+    "美乳",
+    "早漏",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "多P",
+    "勾引・誘惑",
+    "美少女",
+    "清純",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "图书馆",
+    "奇異的",
+    "按摩棒",
+    "學校",
+    "兩男兩女",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "HNTRZ-005为HUNTER出品,2025年2月11日发行的有碼成人影片由音月みり，逢月日葵，愛瀬優里出演\n我的新同學聽聞我有大屌的傳聞，都是些向我露出乳房、要求與我發生性關係的蕩婦…而且，她們每個人都有獨特的乳頭，使得她們的乳房看起來比一般女性的乳房更淫穢。而且她們的乳頭似乎是最敏感的部位，所以她們都開始用我的龜頭來自慰…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206081126792792.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206081126792792.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8467",
+  "actresses": [
+    {
+      "name": "逢月日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/609da667-f958-4c2a-b729-d636d67e2edb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8467&name=逢月日葵"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8467&name=愛瀬優里"
+    },
+    {
+      "name": "音月みり",
+      "img_url": "https://picture.yoshiclub.xyz/20241101/664b8d6f-9f07-420c-95b8-632200f72b81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8467&name=音月みり"
+    }
+  ]
+};

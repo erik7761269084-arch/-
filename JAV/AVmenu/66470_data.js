@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/22/b6400283/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66470,
+  "IDcode": "MLMM-079",
+  "title": "美熟女ベスト 冬木舞 4時間 美脚マドンナ2",
+  "publish_date": "2025-06-10",
+  "type": "有码",
+  "company": "Mellow Moon",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66470",
+  "actresses": [
+    {
+      "name": "冬木舞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66470&name=冬木舞"
+    }
+  ]
+};

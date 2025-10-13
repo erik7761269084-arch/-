@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230911/aEkigX2q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88226,
+  "IDcode": "SDMU-152",
+  "title": "一般人カップル×真正中出し×連続射精ゲーム 「動かない彼氏を何回イカせてあげられる？」 ‘一切動いちゃいけない彼氏’を60分間で5回発射できたら100万円！！ 2",
+  "publish_date": "2014-12-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "企画",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88226",
+  "actresses": [
+    {
+      "name": "水玉檸檬",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/715ff198-e1b1-481f-86db-488d60447440.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88226&name=水玉檸檬"
+    },
+    {
+      "name": "橘咲良",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/37b0fab17efb3dc28c74f3c75e96def4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88226&name=橘咲良"
+    },
+    {
+      "name": "星川麻纪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88226&name=星川麻纪"
+    },
+    {
+      "name": "石原みさと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88226&name=石原みさと"
+    }
+  ]
+};

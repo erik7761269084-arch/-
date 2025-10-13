@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a292e27-d6a9-4265-b016-acae82871708/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/cd0e99d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9744,
+  "IDcode": "JUQ-976",
+  "title": "小鎮露營NTR 妻子在帳篷裏被村民們的雞巴反復衝擊的震撼出軌視頻 ~ 廣瀨百合",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "變態",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "帐篷",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "旅行",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "多P",
+    "美腳",
+    "鄰居",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "野外露天",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-976为MADONNA出品,2024年12月24日发行的有碼成人影片由廣瀨百合出演\n今年夏天，我決定和我的妻子尤里一起搬到鄉下，尤里是當地電視台的播報員。我本來想在一個安靜的地方度過一段時光生孩子，但現實卻沒那麼容易。當小澤董事長和他的朋友們得知尤里是前播音員後，他們開始邀請尤里參加各種活動。然後有一天，尤里向他提供了有關他需要參加的營地的資訊。夫婦倆試圖拒絕，但尤里想和女團相處，所以他們決定讓她單獨參加…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095953211211.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218095953211211.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9744",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9744&name=廣瀨百合"
+    }
+  ]
+};

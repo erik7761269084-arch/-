@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/ykofSxcy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79152,
+  "IDcode": "NTK-563",
+  "title": "- 祝！！新性人！！黒髪乙女の誘惑F乳！！すでに色香は超新成人級！？記念のバニーコスでエチ美ボディをフル活用で圧倒的ボッキ誘発力を発揮！！負けず劣らずエチエチボディの友人と性の祭典大乱交4Pでお互いのアクメをクロスオーバー大昇天！！※タイマンSEXもあるよ！！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/fe8ce14b6456775b47bc6454ffcdd1a5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79152",
+  "actresses": [
+    {
+      "name": "さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79152&name=さくら"
+    }
+  ]
+};

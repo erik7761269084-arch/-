@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/28/e13012bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88595,
+  "IDcode": "DASS-140",
+  "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 月妃さら",
+  "publish_date": "2023-05-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "按摩",
+    "乳液",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88595",
+  "actresses": [
+    {
+      "name": "月妃さら",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/6a49432d-3ba4-44b8-a519-8e4fa48c3767.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88595&name=月妃さら"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88595&name=左慈半造"
+    }
+  ]
+};

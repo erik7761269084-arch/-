@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99129,
+  "IDcode": "JUFE-003",
+  "title": "寸止め淫語巨尻レズビアン 部長の奥さんに焦らされながら禁断の快楽に引きずりこまれて… 篠田れいこ 神ユキ",
+  "publish_date": "2019-01-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "淫乱，真实",
+    "淫语",
+    "荡妇",
+    "女同性恋",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99129",
+  "actresses": [
+    {
+      "name": "神ユキ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/e14aec81-25d5-4313-aeeb-8084050579d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99129&name=神ユキ"
+    },
+    {
+      "name": "宫川ありさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99129&name=宫川ありさ"
+    }
+  ]
+};

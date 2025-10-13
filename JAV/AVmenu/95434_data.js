@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/2171333a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95434,
+  "IDcode": "STSK-146",
+  "title": "ミニスカ 生足J〇狩り （1）",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "制服",
+    "业余",
+    "内衣",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95434",
+  "actresses": [
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95434&name=向理来"
+    }
+  ]
+};

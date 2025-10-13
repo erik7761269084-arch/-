@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/044cb48f-946c-4ecb-ae79-0eab4a2e63c2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6115,
+  "IDcode": "PRED-759",
+  "title": "濃厚繼父 姐妹洗腦：淪爲新來繼父的玩物 ~ 北岡果林 天馬唯",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "老頭子",
+    "變態",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "繼父",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "同住一屋・相部屋",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "後宮系",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "雙飛",
+    "手指插入",
+    "兩女一男",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "PRED-759为PREMIUM出品,2025年5月16日发行的有碼成人影片由天馬唯，北岡果林出演\n姐姐唯是个会照顾人、家里活儿一把抓的好女孩，妹妹果林则是个安静又容易被牵着走的软妹子。两人原本跟妈妈再婚的对象——一个有钱的老义父过着衣食无忧的日子。可谁知妈妈因病住院后，噩梦降临了！原本温柔的义父突然变脸，露出满脸色欲，疯狂逼近姐妹俩。妹妹被花言巧语一步步哄上床，姐姐则被强行种马，义父利用她们性格差异，彻底掌控她们的身心。慢慢地，姐妹俩竟然开始争相讨好义父，沦为性奴，脑子里只剩下我要先怀上！我要做义父的孕袋！这种病态的想法，简直被洗脑到没救了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042705708708_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042705708708_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6115",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6115&name=天馬唯"
+    },
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6115&name=北岡果林"
+    }
+  ]
+};

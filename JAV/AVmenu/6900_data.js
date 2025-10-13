@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c24de24-9e45-4571-8460-7a869535c5e4/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/04/e3227123/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6900,
+  "IDcode": "MUDR-310",
+  "title": "我要在成人影片中失去我的童貞！一位沒有與男人交往經驗的前偶像決定失去她的貞操。一部關於一位清晰度出眾的美麗女孩失去貞操的紀錄片。",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "深喉",
+    "臀控",
+    "處女",
+    "紀念作",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "女同性戀",
+    "性感",
+    "美腳",
+    "奇聞趣事",
+    "清純",
+    "手指插入",
+    "奇異的",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "美少女電影",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MUDR-310为無垢出品,2025年4月15日发行的有碼成人影片由侑李愛美出演\n在她還是偶像的日子裡，與異性約會是不可想像且被禁止的。我和女孩約會是因為我認為如果她們是同性的話就沒問題。我喜歡女孩，但我只把她們當朋友。 ……這就是我，但如果你願意，請奪走我的第一次。一部關於前偶像失去貞操的真實紀錄片。見證她的決心！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411083825531531.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250411/20250411083825531531.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6900",
+  "actresses": [
+    {
+      "name": "侑李愛美",
+      "img_url": "https://picture.yoshiclub.xyz/20250411/74d02e60-21f3-42b8-877c-f544acbf3fc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6900&name=侑李愛美"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6900&name=いち"
+    }
+  ]
+};

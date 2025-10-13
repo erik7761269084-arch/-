@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221207/7B8E5B3947649C36/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39189,
+  "IDcode": "0C83F42EF08C0304126390F666CA4B-46",
+  "title": "深田荣美",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39189",
+  "actresses": []
+};

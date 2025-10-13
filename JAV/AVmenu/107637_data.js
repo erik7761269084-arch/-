@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/10/e0e9f217/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107637,
+  "IDcode": "WANZ-281",
+  "title": "對我的子宮射精吧 麻倉憂",
+  "publish_date": "2015-01-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "中出",
+    "淫语",
+    "乳房",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107637",
+  "actresses": [
+    {
+      "name": "麻仓忧",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107637&name=麻仓忧"
+    }
+  ]
+};

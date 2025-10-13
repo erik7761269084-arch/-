@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241121/lpGlMomD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77343,
+  "IDcode": "HOKS-022",
+  "title": "肉食系家族 母・姉・妹 精液搾り取られた52歳の義父",
+  "publish_date": "2019-04-01",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "多P",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77343",
+  "actresses": [
+    {
+      "name": "汐河佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250207/85daeb69-b1b7-4c7c-869d-9fbdb3637d04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77343&name=汐河佳奈"
+    },
+    {
+      "name": "水无瀬怜奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77343&name=水无瀬怜奈"
+    },
+    {
+      "name": "前田あこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77343&name=前田あこ"
+    }
+  ]
+};

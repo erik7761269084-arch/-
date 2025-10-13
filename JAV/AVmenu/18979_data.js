@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/73431f2b-ccce-4ee2-96e9-32eb67ad5596/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18979,
+  "IDcode": "IPX-474",
+  "title": "被女上司用中出OK淫語與香汗褲襪誘惑我",
+  "publish_date": "2020-04-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "黑絲",
+    "色誘",
+    "中出",
+    "蕩婦",
+    "OL",
+    "短裙・迷你裙",
+    "淫語",
+    "勾引・誘惑",
+    "巨乳",
+    "辦公室",
+    "女上司"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230816/202308162227457878.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230816/202308162227457878.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18979",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18979&name=初音實"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d8c519b1-cf3e-4ead-8784-f19414d9292b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18672,
+  "IDcode": "IPX-655",
+  "title": "肏到開發全身性感帶",
+  "publish_date": "2021-05-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "潮吹",
+    "跳蛋",
+    "兩男一女",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230918/202309180017312727.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230918/202309180017312727.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18672",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18672&name=二葉惠麻"
+    }
+  ]
+};

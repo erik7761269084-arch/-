@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/54e1d16c-f3d5-45fc-ae66-423778a54775/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 303,
+  "IDcode": "HEYZO-0342",
+  "title": "我家的美乳寵物，Mizuki的超情色回報 ~ おぐりみく",
+  "publish_date": "2013-01-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "純粹的慾望",
+    "巨尻",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "清楚系",
+    "美人"
+  ],
+  "description": "HEYZO-0342为HEYZO出品,2013年1月29日发行的無碼成人影片由おぐりみく出演\n我が家の美乳ペット 美月の激エロ恩返し - 美月",
+  "cover_url": "https://picture.yoshiclub.xyz/20250407/32fbc1c8-92fe-47ba-930c-5c5873382b76.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250407/32fbc1c8-92fe-47ba-930c-5c5873382b76.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=303",
+  "actresses": [
+    {
+      "name": "おぐりみく",
+      "img_url": "https://picture.yoshiclub.xyz/20250407/df501c06-b1c3-4ecc-9e50-0d68440d3121.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=303&name=おぐりみく"
+    }
+  ]
+};

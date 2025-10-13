@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/24ed8457-addd-480e-bb6e-9c173c10f80c/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240617/4gdIRNKB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15313,
+  "IDcode": "JUQ-663",
+  "title": "參加約炮軟件限制了戴口罩，僅限2小時條件的活動，匹配的巨乳美女竟然是小姨子，我迷失了自我，沉迷於和小姨子的無套做愛中。 ~ 羽月乃蒼",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "強姦",
+    "女友姐姐",
+    "性感",
+    "不倫",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "約炮",
+    "熟女",
+    "小姨子",
+    "美少女電影"
+  ],
+  "description": "JUQ-663为MADONNA出品,2024年4月23日发行的有碼成人影片由羽月乃蒼出演\n他和妻子結婚兩年了，連嫂嫂諾拉都說他們是恩愛夫妻，但他們的夜生活卻徹底冷清了。我的性慾已經達到了極限，我試圖透過約會應用程式來滿足我的慾望。有一天，他撮合了一位女士，但她規定只能戴口罩兩小時。儘管我心存疑慮，但我的性慾還是佔了上風，所以在我前往集合地點的那天，出現了一位有著巨乳的蒙面美女。沒有意識到那個女人是諾拉，我和蒙面美女一起跑進了酒店…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419001152637637.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240419001152637637.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15313",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15313&name=羽月乃蒼"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/14/70d2d356/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83979,
+  "IDcode": "BF-677",
+  "title": "被女大學生派遣女僕竭盡全力奉仕性交讓人射精的10日間。 尾崎惠梨香",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "荡妇",
+    "女佣",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83979",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83979&name=尾崎惠梨香"
+    }
+  ]
+};

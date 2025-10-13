@@ -1,0 +1,115 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86ffbe27-afa3-4845-bc00-b24f48030c75/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5093,
+  "IDcode": "MKMP-648",
+  "title": "嘴裡不留一滴！超愛大肉棒的口技美女50發口內爆射240分鐘精選合集 ~ AIKA 一条美緒 莉莉遙香 乙愛麗絲 冬愛琴音 東條夏 新井里真 木下日葵 澪川遙 蓮實クレア",
+  "publish_date": "2025-06-21",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "無做愛場面",
+    "吞精",
+    "超爆乳",
+    "深喉",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "性感",
+    "膚黑",
+    "高妹",
+    "少女",
+    "口爆",
+    "貧乳",
+    "唾液敷面",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "精選綜合",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "MKMP-648为K.M.P出品,2025年6月21日发行的有碼成人影片由AIKA，乙愛麗絲，莉莉遙香，一条美緒，冬愛琴音，蓮実クレア，新井里真，木下日葵，澪川遙，東條夏出演\n50位頂級口技美女，嘴上技術讓人完全招架不住，直接口內爆射！不管是可愛小妹還是冷艷大姊姊，一個個都要被灌爆！超爽大放送，240分鐘滿滿硬貨，夠你爽一整年！肉棒被舔被吸被套，爽到直接上天！一次又一次，保證讓你射不停的極品口交，通通在這部片裡啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210633018383_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250621/202506210633018383_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5093",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=乙愛麗絲"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=木下日葵"
+    },
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=新井里真"
+    },
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=AIKA"
+    },
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=一条美緒"
+    },
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=東條夏"
+    },
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=冬愛琴音"
+    },
+    {
+      "name": "莉莉遙香",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/0482cb9f-4857-4c5f-b538-86b741ba7999.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=莉莉遙香"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=蓮実クレア"
+    },
+    {
+      "name": "澪川遙",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/c3972f07-f17e-4422-a39c-c675489726fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5093&name=澪川遙"
+    }
+  ]
+};

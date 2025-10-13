@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/18/45cf322b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87270,
+  "IDcode": "SSIS-509",
+  "title": "【※觀覧注意】【※擼過頭注意】超越絶頂更進一步、高潮極限抽插！恍惚的過去最大高潮性愛 三上悠亞",
+  "publish_date": "2022-09-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "偶像",
+    "潮吹",
+    "流汗",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87270",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87270&name=三上悠亜"
+    }
+  ]
+};

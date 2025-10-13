@@ -1,0 +1,36 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102929,
+  "IDcode": "YMDD-055-",
+  "title": "通常版 最初で最後の、上原姉妹 唯一の姉妹共演作！！！",
+  "publish_date": "2014-10-07",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "中出",
+    "女同性恋",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102929",
+  "actresses": [
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102929&name=上原亞衣"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102929&name=タツ"
+    },
+    {
+      "name": "上原麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102929&name=上原麻衣"
+    }
+  ]
+};

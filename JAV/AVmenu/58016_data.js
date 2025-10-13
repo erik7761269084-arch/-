@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220930/kTldDZLx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58016,
+  "IDcode": "HEYZO-1665",
+  "title": "三浦春佳の手コキッス - 三浦春佳",
+  "publish_date": "2018-02-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "恶搞",
+    "知名女优",
+    "69",
+    "打手枪",
+    "漂亮屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58016",
+  "actresses": []
+};

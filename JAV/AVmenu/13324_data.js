@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/65125c68-f32e-4a22-8d2c-395b780279d1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13324,
+  "IDcode": "KAM-204",
+  "title": "你就是我們學校剛上任的新老師嗎？新來的怯懦女老師被變態色情校長迷奸 - 4本番 ~ 水端麻美",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "中出",
+    "新人面試",
+    "制服",
+    "口交",
+    "強姦",
+    "迷姦",
+    "美腳",
+    "人妻",
+    "辦公室",
+    "學校",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240713/19d7ee77-7e6c-4b7c-89ba-b9d116a7bf87.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240713/19d7ee77-7e6c-4b7c-89ba-b9d116a7bf87.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13324",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13324&name=水端麻美"
+    }
+  ]
+};

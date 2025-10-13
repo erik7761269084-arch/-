@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/2MtxpvjN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89641,
+  "IDcode": "SDAM-089",
+  "title": "異性を感じない僕のゲーム友達は、やっぱり処女でした。ゆあ(22)実家暮らし フリーター",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "处女",
+    "首次亮相",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89641",
+  "actresses": []
+};

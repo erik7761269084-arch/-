@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/22/6675a32f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78088,
+  "IDcode": "FGAN-130",
+  "title": "挑発！黒タイツフェティシズム女子が穿く黒タイツはすぐにムレムレになって困っちゃうんです",
+  "publish_date": "2024-11-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "放尿",
+    "荡妇",
+    "连裤袜",
+    "恋腿癖",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78088",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78088&name=天馬唯"
+    },
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78088&name=笠木いちか"
+    }
+  ]
+};

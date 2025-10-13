@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a5bd38f9-b2fc-45da-9480-34a3337d669c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/06/ce60cf4e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3347,
+  "IDcode": "ROE-380",
+  "title": "變態店長的人妻面試秘密檔案：42歲兼職人妻的羞恥遭遇 ~ 吉瀬葵",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "便利商店",
+    "後入",
+    "劇情",
+    "舔腳",
+    "4K",
+    "乳交",
+    "中出",
+    "美腿",
+    "四十路",
+    "美臀",
+    "倉庫",
+    "女上位",
+    "新人面試",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "口爆",
+    "貧乳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "手指插入",
+    "公共場所",
+    "美人",
+    "阪道系",
+    "熟女",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "ROE-380为MADONNA出品,2025年8月21日发行的有碼成人影片由吉瀬葵出演\n葵姊家裡經濟拮据，老公薪水被砍，日子過得超級緊。某天在附近便利店看到一則條件超優的兼職招聘，心動就去面試了。店長是個叫小澤的中年大叔，感覺有點不正經，但葵姊也沒多想，先試著操作收銀機熟悉一下。沒想到回家後，小澤居然打電話來說收銀機少了3萬塊！更扯的是，葵姊外套口袋裡竟然多出3萬塊來路不明的現金！完全洗不清嫌疑的她被叫回店裡，壓根不知道這是一場精心設下的圈套，等著她的是一場超羞恥的色色面試，葵姊的身心都被這變態店長玩弄得體無完膚……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023339582582_68458_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023339582582_68458_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3347",
+  "actresses": [
+    {
+      "name": "吉瀬葵",
+      "img_url": "https://picture.yoshiclub.xyz/20250323/6de44697-4db3-439e-917e-a80dbb6c7adb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3347&name=吉瀬葵"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9b4e7ac7-3b0d-4f21-a0c9-c0561c529e82/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 757,
+  "IDcode": "HEYZO-0930",
+  "title": "和交友網站上認識的素人女孩一起享受M遊戲！~ 神崎セイラ",
+  "publish_date": "2015-08-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "肛交",
+    "劇情",
+    "中出",
+    "美乳",
+    "素人",
+    "打手槍",
+    "美腳"
+  ],
+  "description": "HEYZO-0930为HEYZO出品,2015年8月17日发行的無碼成人影片由神崎セイラ出演\n出会い系でゲットした素人娘とMプレイ三昧！ - 神崎セイラ",
+  "cover_url": "https://picture.yoshiclub.xyz/20240722/df7076e0-5775-4fa7-9de0-447c710e3382.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240722/df7076e0-5775-4fa7-9de0-447c710e3382.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=757",
+  "actresses": [
+    {
+      "name": "神崎セイラ",
+      "img_url": "https://picture.yoshiclub.xyz/20240722/f2d12b3a-02ca-42c5-b0e6-8ca84d90eb21.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=757&name=神崎セイラ"
+    }
+  ]
+};

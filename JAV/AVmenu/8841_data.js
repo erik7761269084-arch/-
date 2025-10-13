@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d92c3426-479a-4e13-a163-789fba1d3720/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/18/c073b601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8841,
+  "IDcode": "HMN-642",
+  "title": "和店裏兼職的可愛女孩去海邊約會，她天真無邪惡，而身體卻已然成熟，毫無防備的E罩杯奶子若隱若現，我把持不住底線的操了她 ~ 鈴之家鈴",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "帐篷",
+    "口交",
+    "職員",
+    "小隻馬",
+    "騎乗位",
+    "旅行",
+    "蠻橫嬌羞",
+    "兔女郎妝扮",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "情趣內衣",
+    "清純",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "猥褻穿著",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "飯店"
+  ],
+  "description": "HMN-642为本中出品,2025年1月28日发行的有碼成人影片由鈴之家鈴出演\n一個女孩，一年前開始在我的店裡兼職，我是店長。她看起來很喜歡我，是個好女孩，但由於我們年齡相差很大，而且她在商店打工，所以我保持理智，沒有惹她。她要求獎勵她的生日和她在工作中的辛勤工作，所以我決定帶她去海灘過夜。當她天真無邪地在海裡玩耍時，我看到她從泳衣中溢出的豐滿乳房，讓我無法抗拒。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074553117117.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123074553117117.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8841",
+  "actresses": [
+    {
+      "name": "鈴之家鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230915/f072832c-4a24-43b8-a5c0-53a60feebc74.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8841&name=鈴之家鈴"
+    },
+    {
+      "name": "スケザネヘイタ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8841&name=スケザネヘイタ"
+    }
+  ]
+};

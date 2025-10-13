@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/vb04OcPk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93715,
+  "IDcode": "OPPW-171",
+  "title": "ハニカミ笑顔が小動物のような可愛い男の娘♂出てみたかったAVに初挑戦のドキドキデビュー！！ 雪咲ひめ",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "肛交",
+    "首次亮相",
+    "变性者",
+    "女装人妖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241016-1/860dda6c5633a1332c636aa90b050335.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93715",
+  "actresses": [
+    {
+      "name": "雪咲ひめ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93715&name=雪咲ひめ"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250415/mK9kkaru/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68116,
+  "IDcode": "SAME-007",
+  "title": "【FANZA限定】新婚の美奈先生は校内一、問題児の性玩具をさせられている。 日下部加奈 生写真付き",
+  "publish_date": "2022-07-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "白天出轨",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/877675486851d3edabae296314bbb88a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68116",
+  "actresses": [
+    {
+      "name": "日下部加奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b31aecda-0408-4ba7-be0d-33024ffc71d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68116&name=日下部加奈"
+    }
+  ]
+};

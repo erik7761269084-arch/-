@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240402/2CwUpkcC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101658,
+  "IDcode": "EBWH-074",
+  "title": "インターハイ出場に貢献した鉄壁リベロ 細身美脚長のFcup本物アスリート 犬飼ゆまAVデビュー 生写真3枚付き",
+  "publish_date": "2024-03-20",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "高",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/14/a0f202391a0c131e89c2ca040c201691.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101658",
+  "actresses": [
+    {
+      "name": "犬飼ゆま",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/ca035f85-68da-4929-ad10-c524cca8c2ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101658&name=犬飼ゆま"
+    }
+  ]
+};

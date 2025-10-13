@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c509444e-160c-43ec-b917-75039e523f10/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/21/b5dd5dd8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10899,
+  "IDcode": "NPJS-095",
+  "title": "一段視頻記錄了一位想成爲播音員的女子大生變身騷女的那一刻，她很興奮與陌生人發生性關系 ~ 鬆井日奈子",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "癡女",
+    "猥褻穿著",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "NPJS-095为NAPA-JAPAN出品,2024年11月5日发行的有碼成人影片由松井日奈子出演\n當女孩變成一張女性面孔的那一刻是色情的，不是嗎？女孩看起來有些尷尬，轉過頭去，笑得停不下來，看起來很尷尬，但雞巴插入的那一刻，她的眼神變得色情起來。你可以在這段影片中看到很多這樣的時刻。這次的女孩是一名想成為女播音員的大學生。在一個好看的男人面前，一個平時女人味十足的女孩，變成了一張女面孔，高興地接受他的雞巴，並且大量射精（噴出的量也很驚人）。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031084103602602.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031084103602602.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10899",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10899&name=松井日奈子"
+    },
+    {
+      "name": "東雲怜弥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10899&name=東雲怜弥"
+    }
+  ]
+};

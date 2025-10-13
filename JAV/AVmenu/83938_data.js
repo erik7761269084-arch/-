@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/27/5de3a67b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83938,
+  "IDcode": "FSDSS-425",
+  "title": "乳首責め専門ナースが24時間 いつでも乳首射精のお手伝い（ハート）舌と指で施される最高の乳首SEXが話題のニップルクリニック 吉高寧々 パンティと写真付き",
+  "publish_date": "2022-06-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "女上位",
+    "手淫",
+    "护士",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83938",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83938&name=吉高寧寧"
+    }
+  ]
+};

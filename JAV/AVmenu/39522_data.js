@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230116/A4A186AFF5B9DC71/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39522,
+  "IDcode": "HAMESAMURAI-0023",
+  "title": "hamesamurai0023 大人気だった100点満点のピュア系美少女がJKコスでカムバック♥アナルにも挑戦！",
+  "publish_date": "2019-11-29",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [
+    "玩具",
+    "恋物癖",
+    "骑乘位",
+    "第一人称视角(POV)",
+    "肛交",
+    "口交",
+    "素人",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39522",
+  "actresses": []
+};

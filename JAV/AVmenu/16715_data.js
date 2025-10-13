@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a9eaa084-f3ed-4874-804b-ca0423efd285/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16715,
+  "IDcode": "SSNI-099",
+  "title": "130次強烈高潮！超過5000次高潮抽搐！3300cc的淫水！超色情美少女的色情覺醒特輯首次",
+  "publish_date": "2018-01-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "拘束・拷問",
+    "潮吹",
+    "口交",
+    "性感",
+    "美少女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-099为S1出品,2018年1月25日发行的有碼成人影片由早見奈緒出演\n熱愛性愛的非常色情的美麗女孩早見奈緒的第二個獨家版本！用電動按摩器和雞巴讓你高潮的超高潮作品！當她噴射時，她扭動着身體，痛苦地扭動着，濺起很大的水花！強烈的活塞快感帶來的大量噴射抽搐，從陰道溢出！她一生中第一次經歷的色情覺醒特輯！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240117/20240117094159123123.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240117/20240117094159123123.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16715",
+  "actresses": [
+    {
+      "name": "早見奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20240112/d33a01a9-c1a5-4ec5-acc3-ed84d9965e9f.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16715&name=早見奈緒"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/10/9f71c56b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86111,
+  "IDcode": "ROYD-070",
+  "title": "貧乳クラスメイトの敏感ちっぱい擦り付け誘惑に勝てずに何度もゴム無しSEX 東條なつ",
+  "publish_date": "2021-10-26",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "中出",
+    "苗条",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/0f7d7fc41430277aba3f4326a70fcb7e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86111",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86111&name=東條夏"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/04/501e1314/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102719,
+  "IDcode": "SNIS-517",
+  "title": "新人NO.1STYLE AVデビュー RION",
+  "publish_date": "2015-10-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "苗条",
+    "首次亮相",
+    "薄马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/snis517/snis517pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102719",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102719&name=安斋拉拉"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102719&name=田渊正浩"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102719&name=南佳也"
+    }
+  ]
+};

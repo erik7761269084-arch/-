@@ -1,0 +1,23 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103099,
+  "IDcode": "OKAX-378-",
+  "title": "家出娘在籍！小悪魔モデルクラブ生ハメ4時間",
+  "publish_date": "2018-05-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "制服",
+    "角色扮演者",
+    "瘦小身型",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103099",
+  "actresses": []
+};

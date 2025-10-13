@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5e56afe5-ac6c-418e-9aac-539f9393e931/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11415,
+  "IDcode": "APGH-023",
+  "title": "「我要用奶子寵你！」生理期前乳頭被唾液覆蓋！大量中出和顏射特別服務！~ 中丸未來",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "口爆",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "鬃毛",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241006/bdf7227c-ae6e-4964-8a89-4c356224b98b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241006/bdf7227c-ae6e-4964-8a89-4c356224b98b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11415",
+  "actresses": [
+    {
+      "name": "中丸未来",
+      "img_url": "https://picture.yoshiclub.xyz/20240721/9315ac05-e0c5-4c2c-b392-61a3e6684613.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11415&name=中丸未来"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/05/ed45a112/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89134,
+  "IDcode": "WAAA-276",
+  "title": "天川そらの凄テクを我慢できれば生★中出しSEX！",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "苗条",
+    "感谢祭",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/d5e4124bdb0b3651f081d417eaeb3cea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89134",
+  "actresses": [
+    {
+      "name": "天川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d640bb79-ff7b-47ff-9619-fa99350b0b9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89134&name=天川空"
+    }
+  ]
+};

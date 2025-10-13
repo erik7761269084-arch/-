@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241220/BtQ19e6q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74762,
+  "IDcode": "HUNTA-709",
+  "title": "そのプリンっと突き出したお尻にノックアウト！！超美尻いや神尻の義妹にバックで何度も中出ししちゃったボク！！突然できた義妹は可愛くて超美尻…",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "屁股",
+    "内衣",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74762",
+  "actresses": []
+};

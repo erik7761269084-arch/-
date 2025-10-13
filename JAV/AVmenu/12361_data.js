@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3674c522-ec98-42ba-a4a2-3e03b9f36b89/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12361,
+  "IDcode": "MIAB-302",
+  "title": "如果你被玩乳頭的時候時大喊大叫，我們就坐在臉上讓你舔陰閉嘴。甜蜜的小惡魔 J 型反射療法 ~ 天馬唯 柏木小夏",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "顔面騎乘",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清純",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "雙飛",
+    "兩女一男",
+    "M男・M女",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "女優"
+  ],
+  "description": "MIAB-302为MOODYZ出品,2024年9月3日发行的有碼成人影片由天馬唯，柏木小夏出演\n[如果你是一個當你的受虐乳頭被戲弄時大喊大叫的白痴，用坐臉舔陰閉嘴，操它！又甜又憂傷的小魔王J型通貨再膨脹！ 】 最瘋狂的chikubi揉蕩蕩婦酷刑和大屁股壓屁股組合，反轉3P！從上方和側面用力捏住臀部！並透過強迫舔陰達到高潮！另外，W刺激槍SEX加速，痛苦地射精！用力中出！ 「閉嘴，射精吧，受虐狂老傢伙！」",
+  "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829234429306306.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240829/20240829234429306306.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12361",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12361&name=天馬唯"
+    },
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12361&name=柏木小夏"
+    }
+  ]
+};

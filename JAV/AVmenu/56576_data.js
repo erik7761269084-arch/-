@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220701/5BF1063802E41369/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56576,
+  "IDcode": "B2B28D480E09E5492B71B81E8798214E",
+  "title": "所持金ゼロ！目指せメキシコ！ハーフ美女ヒッチハイク - 明日香クレア",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56576",
+  "actresses": []
+};

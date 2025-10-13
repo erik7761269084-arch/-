@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/08/7417f8de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74312,
+  "IDcode": "FOCS-229",
+  "title": "フェラだけなら浮気じゃない！？既婚者部長を口で痴女るHcup部下との社内NTR 誘惑に負け残業中出しSEX 宮本聡美",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "荡妇",
+    "出轨",
+    "口交",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74312",
+  "actresses": [
+    {
+      "name": "宮本聡美",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/dacfc2e4-5eb9-4f19-b470-3b128e0158d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74312&name=宮本聡美"
+    }
+  ]
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/15/7a6105c0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62055,
+  "IDcode": "BEAF-169",
+  "title": "柔道元日本代表、締め技で気持ちよくなっちゃうマジキチ特異体質ww「天国にイカセてあげますよ…」のDMで即会い即ハメ即撮影でガチ逝きかける酸欠プレイドハマりみやちゃん28歳",
+  "publish_date": "2025-06-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "运动",
+    "巨大屁股",
+    "平胸",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62055",
+  "actresses": []
+};

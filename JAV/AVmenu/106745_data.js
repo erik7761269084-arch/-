@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/04/84ef6000/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106745,
+  "IDcode": "ROYD-110",
+  "title": "以偷拍自慰為要脅讓人成為肉便器、結果我反被當作性處理寵物開苞破處的巨乳上司甘甜陷阱 小花暖",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "M男",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106745",
+  "actresses": [
+    {
+      "name": "ハカー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106745&name=ハカー"
+    }
+  ]
+};

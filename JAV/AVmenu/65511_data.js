@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220707/115293C899872D7D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65511,
+  "IDcode": "6C40A13D6D0909290CA6086B1ED29EEF",
+  "title": "THE FINAL あやみ旬果AV引退 旬果の絶品テク全部見せます5時間スペシャル",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65511",
+  "actresses": []
+};

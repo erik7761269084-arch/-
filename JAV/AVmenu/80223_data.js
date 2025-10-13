@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/17/012d1b63/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80223,
+  "IDcode": "WAAA-125",
+  "title": "コンドームが破れてまさかの生ハメ！超加速するピストンで何度も中出し！ 月野かすみ",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "颜射",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80223",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80223&name=月野香澄"
+    }
+  ]
+};

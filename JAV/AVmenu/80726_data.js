@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/kA1KxIIq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80726,
+  "IDcode": "HOMA-115",
+  "title": "憧れの上司と二人きりの初出張で計画的相部屋キメセク 媚薬で絶倫にした上司を朝まで何度も何度もイかせてしまった私。川北メイサ",
+  "publish_date": "2022-03-22",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "中出",
+    "OL",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80726",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80726&name=鳳美優"
+    }
+  ]
+};

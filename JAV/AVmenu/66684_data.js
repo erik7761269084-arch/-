@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250502/lgdW62hV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66684,
+  "IDcode": "CA",
+  "title": "性爱依赖症的女性淫乱现役亚沙美27岁-久美木マリア。.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66684",
+  "actresses": []
+};

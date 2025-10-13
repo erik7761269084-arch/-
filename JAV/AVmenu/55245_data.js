@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55245,
+  "IDcode": "740978597C83457C08853DAA71CED8D8",
+  "title": "朝ゴミ出しする近所の游び好き邻のノーブラ奥さん 速美萌花",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55245",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/AAC73239FD1C5099/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36248,
+  "IDcode": "3B6A50BC41B062EE987671A368BCF-741",
+  "title": "气质性感的网红美女剧情演绎趁爸妈不在家勾引弟弟啪啪,没想到男的很会玩带了个大器具操的受不了直求饶!国语!",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36248",
+  "actresses": []
+};

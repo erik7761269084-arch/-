@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230108/pRbE3Ga9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84350,
+  "IDcode": "DRPT-013",
+  "title": "親戚のエロガキ2人にグイグイTバックを食い込まされた刺激で夫が近くにいるのに発情してしまった美尻妻 沙月恵奈 パンティとチェキ付き",
+  "publish_date": "2022-05-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "多P",
+    "内衣",
+    "屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84350",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84350&name=沙月惠奈"
+    }
+  ]
+};

@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ad11155b-5ac5-4537-b38f-e8d8d7e642bd/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/09/63aa306f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13526,
+  "IDcode": "JUQ-772",
+  "title": "我讓我妻子在街角站了一個小時.....吉澤友貴",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-772为MADONNA出品,2024年7月9日发行的有碼成人影片由吉泽友贵出演\n“你介意今天和我和我的妻子來一場三人行嗎？即使是免費的？” 「結婚五年了，我仍然非常愛我的妻子智樹。有一天，我和妻子出去購物。當我正在打電話時，我的妻子被接走了。也是個年輕人！一起。然後，懷著強烈的願望，我把對此一無所知的妻子帶到了「立印坊」地點，讓她在那裡站了一個小時…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705012949235235.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705012949235235.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13526",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13526&name=吉泽友贵"
+    }
+  ]
+};

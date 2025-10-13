@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/05/19/18fecdc2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90865,
+  "IDcode": "BF-684",
+  "title": "転勤で田舎に引っ越した僕は、隣に住む奥さんに毎日誘惑されて何度も中出ししてしまった… 末広純",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90865",
+  "actresses": []
+};

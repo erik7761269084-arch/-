@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/412eee01-da91-4918-9893-c0eb237c32fe/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20240422/dn43KVIy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15937,
+  "IDcode": "SONE-131",
+  "title": "穿衣服也藏不住的K罩杯巨乳，4種不同的乳交狀況",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "美乳",
+    "蕩婦",
+    "性感",
+    "勾引・誘惑",
+    "巨乳"
+  ],
+  "description": "SONE-131为S1出品,2024年3月26日发行的有碼成人影片由神樂桃果出演\n令人印象深刻的K罩杯乳房讓每個經過她的人都會多看幾眼。纖細的曲線將巨乳的衝擊力展現得淋漓盡致。神樂桃花具有類似漫畫的風格，其中有兩種通常不存在的物品。她用穿衣服也無法隱藏的乳房來勾引男人並與他們發生性關係的五個邪惡場景。讓我們在每個男人都夢想的最佳環境中享受乳交吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322080724206206.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240322/20240322080724206206.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15937",
+  "actresses": [
+    {
+      "name": "神樂桃果",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/428d6785-4bd8-4b56-9280-d93662bc7c14.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15937&name=神樂桃果"
+    },
+    {
+      "name": "ハカー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15937&name=ハカー"
+    }
+  ]
+};

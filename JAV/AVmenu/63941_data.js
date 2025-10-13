@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/21/919d138c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63941,
+  "IDcode": "ATYA-022",
+  "title": "控えめな性格、気品ある佇まいの美人奥さん初対面の他人チ●ポにしっかりハメられ、イカされる 蒼山愛奈",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "多P",
+    "苗条",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63941",
+  "actresses": [
+    {
+      "name": "蒼山愛奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/98689eb3-b3ac-4b49-8104-414ed426ec64.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63941&name=蒼山愛奈"
+    }
+  ]
+};

@@ -1,0 +1,87 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f8f55fd-afde-4514-94e4-567755438ffa/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/d3e0326d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4495,
+  "IDcode": "MIAB-516",
+  "title": "網紅腰精貼身紀錄片 微醺中出直播秀 ~ 有岡みう 大槻响",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "自拍性愛",
+    "直播",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "大奶头",
+    "眼鏡",
+    "紀錄片",
+    "極品美人",
+    "無毛",
+    "飯店",
+    "芸能人",
+    "網路紅人"
+  ],
+  "description": "MIAB-516为MOODYZ出品,2025年7月11日发行的有碼成人影片由大槻响，有岡みう出演\n約了個在SNS上瘋狂曬性感照的火辣網紅腰精，假裝約會直接開拍色色畫面！一起小酌幾杯，微醺上頭後直接開幹，尺度爆表的直播秀！跟性感網紅妹子來一場無套中出的激情LIVE，爽到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710041750988988_66575_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710041750988988_66575_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4495",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4495&name=大槻响"
+    },
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4495&name=有岡みう"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4495&name=椎叶みくる"
+    }
+  ]
+};

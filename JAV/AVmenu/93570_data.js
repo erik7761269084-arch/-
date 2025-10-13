@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/P5ExPE6E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93570,
+  "IDcode": "NUBI-087",
+  "title": "清楚系JD密着電車チカン 周りの乗客は見て見ぬふり 降りるまで止めない指入れ痴かん",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/b0e83369d8b41418134ff41537cf77b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93570",
+  "actresses": []
+};

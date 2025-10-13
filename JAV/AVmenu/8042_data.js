@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29e01727-6ea3-499b-adaa-abf69a97929c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8042,
+  "IDcode": "VEC-685",
+  "title": "我實在受不了隔壁那個每天自慰的性感家庭主婦。理智被吹走，欲望無法停止。強烈的狂喜性愛1。 ~ 若宮穗乃",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "自慰",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "熟女",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250222/ef0916fa-13c7-4f7a-a4ef-6268cdc5a4af.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250222/ef0916fa-13c7-4f7a-a4ef-6268cdc5a4af.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8042",
+  "actresses": [
+    {
+      "name": "若宮穂乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241209/e7f3cc00-9e68-4e42-995b-c6e9b787c913.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8042&name=若宮穂乃"
+    }
+  ]
+};

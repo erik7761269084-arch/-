@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230505/f1f9cfa8-26a1-4f04-80c8-229f7378aa75/index.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250319/TlPAMz6X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19451,
+  "IDcode": "STARS-050",
+  "title": "職權騷擾 被性騷擾的陸上女英雌 ~ 本莊鈴",
+  "publish_date": "2019-03-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "調教",
+    "運動",
+    "運動服裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230504/20230504212243553553.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230504/20230504212243553553.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19451",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19451&name=本庄鈴"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19451&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220420/288967EE0E70AB38/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56272,
+  "IDcode": "945DA2397FA89B8ECE37BDD439990B3F",
+  "title": "彼女が居ない間に彼女の親友と2人っきりで秘密",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56272",
+  "actresses": []
+};

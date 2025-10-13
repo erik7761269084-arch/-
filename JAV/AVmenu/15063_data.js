@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c87b24c6-21bd-41f6-a575-2ae7fdef5178/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/07/1465270f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15063,
+  "IDcode": "ADN-556",
+  "title": "我被繼子操了 ~ 夏目彩春",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "繼母",
+    "脅迫做愛",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "口交",
+    "自宅",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "人妻",
+    "羞恥"
+  ],
+  "description": "ADN-556为ATTACKERS出品,2024年5月7日发行的有碼成人影片由夏目彩春出演\n我先生有一個繼子。他的名字叫裕太君，一開始是個聽話的好孩子。然而，同居後，他開始經常曠課，開始和女孩子玩耍，行為也逐漸惡化…有一天，佑太看到了我自慰的照片。也許是我的錯讓裕太君變了……？正當我這麼想的時候，佑太趁我先生熟睡的時候把我推倒了……然後我們就開始了身體上的關係。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503043206350350.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503043206350350.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15063",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15063&name=夏目彩春"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15063&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/33b7317d-6617-4859-975e-f7ca211de4df/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4662,
+  "IDcode": "DVAJ-700",
+  "title": "公司性感公關手滑把私密騷照PO到官方帳號，被我秒存威脅封口，沒想到她是超強慾女，榨得我潮吹不停 ~ 足立友梨",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "貧乳",
+    "美腳",
+    "單體作品",
+    "癡女",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "阪道系",
+    "熟女",
+    "辣妹/GAL系"
+  ],
+  "description": "DVAJ-700为ALICE JAPAN出品,2025年7月5日发行的有碼成人影片由足立友梨出演\n公司裡的超正公關小姐姐，原來是個在SNS狂發騷照的裏垢妹子！足立小姐姐不小心把自己的色色自拍PO到公司官方帳號，被我眼明手快存下來！本來想拿這把柄威脅她來一發封口砲，結果她秒變絕倫慾女，瘋狂求愛，榨得我高潮連連根本停不下來！明明是我抓到她的小秘密，卻被她反過來壓制，嬌喘著逼我：「快點硬起來，讓姐姐爽到翻！」不管我射幾次，甚至被逼到男潮吹，她都不放過我，地位完全逆轉，直接被她榨到腳軟！這哪是封口砲，根本是加倍奉還的狂野對戰啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103344743743_26361_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103344743743_26361_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4662",
+  "actresses": [
+    {
+      "name": "足立友梨",
+      "img_url": "https://picture.yoshiclub.xyz/20240818/ecf7c772-2a36-414a-b861-42fcacaba9cd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4662&name=足立友梨"
+    }
+  ]
+};

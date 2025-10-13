@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/11/a247c3a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79558,
+  "IDcode": "KIRE-047",
+  "title": "真昼間から他人のチ○ポをしゃぶって、発情して濡れる女。人ものが欲しくなるニューハーフ34歳。隣に住む既婚者に淫乱な唇を使って寝取りSEXにハマる…！ ななせゆめ",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "戏剧",
+    "玩具",
+    "苗条",
+    "口交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/eaf1e36593b1bc79e8ff236cf3d90563.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79558",
+  "actresses": []
+};

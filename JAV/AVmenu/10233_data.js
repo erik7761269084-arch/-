@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a2fdca3f-e02a-47d8-a6b5-b71488f20d00/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10233,
+  "IDcode": "MRHP-046",
+  "title": "與已婚女下屬的日常不倫SEX！她的丈夫絕對不會對一個肛門敏感的大屁股OL做的變態遊戲。享受肛門的氣味和味道 ~ 都月楓",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "肛交",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "兔女郎妝扮",
+    "慾求不滿",
+    "美腳",
+    "女僕制服",
+    "美人妻",
+    "人妻",
+    "女同事",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "COSPLAY服飾",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241202/d4806604-9558-40a4-89eb-95aed30349a3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241202/d4806604-9558-40a4-89eb-95aed30349a3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10233",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10233&name=都月楓"
+    }
+  ]
+};

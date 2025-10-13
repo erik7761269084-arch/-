@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/abf0f6a9-01da-46e6-aa4d-bef1d3c8b4a9/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240728/QJdkMjKD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15806,
+  "IDcode": "MIAB-114",
+  "title": "M罩杯乳神西條琉璃，大高潮中出派對",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "奇聞趣事",
+    "自慰",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "熟女",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MIAB-114为MOODYZ出品,2024年4月2日发行的有碼成人影片由西條琉璃出演\n【M罩杯神乳超體再次徹底復活！ 】 西城瑠璃時隔7年首次正式出發！ 「畢竟肌肉活塞是最好的！」她變成了胸圍成熟、費洛蒙充滿的美麗苗條魔女！她與淫穢的野獸性交，釋放了她的性慾！更可怕的乳壓乳交和8發硬球！ Re:START 超級富豪3製作特輯！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240329/20240329075628616616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240329/20240329075628616616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15806",
+  "actresses": [
+    {
+      "name": "西條琉璃",
+      "img_url": "https://picture.yoshiclub.xyz/20240330/b45ce505-9a4d-4b93-933b-a7968f92078f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15806&name=西條琉璃"
+    }
+  ]
+};

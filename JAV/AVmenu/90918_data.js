@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240301/x8y317vf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90918,
+  "IDcode": "LULU-237",
+  "title": "「口だけならいいよ...」性欲旺盛なデカチンの甥っ子にお願いされ仕方なく13発おしゃぶりごっくんする元ヤリマンの若硬ち○ぽ大好きな叔母さん 美咲かんな",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90918",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90918&name=美咲佳奈"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90918&name=タイ"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/588cbe46-dae9-4752-8f45-6c5a4fcf30e4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/1e3e02a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9714,
+  "IDcode": "JUR-127",
+  "title": "妻子懷孕期間，我連手淫都被禁止，和多次來東京的丈母娘發生了背德的性關系…… ~ 木村玲衣",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "岳母",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUR-127为MADONNA出品,2024年12月24日发行的有碼成人影片由木村玲衣出演\n我的婆婆 Rei 來支持我懷孕且不穩定的妻子，她的熱心支持減輕了我妻子的壓力，但這對我來說是一次令人著迷的經歷，因為我的妻子命令我不要手淫。太殘忍了。有一天，我一時衝動，在婆婆洗澡的時候看著她。我全神貫注於婆婆的身體，沒有註意到她在偷看我。繼母看不下去我這個樣子，就問我能不能幫她。他提出了一個不道德的建議...",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218100623699699.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218100623699699.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9714",
+  "actresses": [
+    {
+      "name": "木村玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/35786888-8b37-45da-97c6-2999e70b9b71.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9714&name=木村玲衣"
+    }
+  ]
+};

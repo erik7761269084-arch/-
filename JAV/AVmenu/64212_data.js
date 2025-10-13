@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/CFD457E33F149C86/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64212,
+  "IDcode": "990C5922A2566CFE277E06F192CC67D-9",
+  "title": "林間少女 76 幹砲東西軍 - 一條莉音 成宮晴明",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64212",
+  "actresses": []
+};

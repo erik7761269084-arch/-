@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/827aJHOT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74215,
+  "IDcode": "MEYD-519",
+  "title": "母子家庭の異常なお泊まり日記 息子の同級生にハメられ続けてもう10年がたちました。 東凛",
+  "publish_date": "2019-08-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "寡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74215",
+  "actresses": [
+    {
+      "name": "东凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74215&name=东凛"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/wXu4AV8A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73471,
+  "IDcode": "WANZ-876",
+  "title": "定年退職した元整体師の義父にビクビクが止まらないほど敏感体質にされたワタシ…毎日死ぬほどイカされ983回ビクビク 桐谷まつり",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "按摩",
+    "乳液",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73471",
+  "actresses": [
+    {
+      "name": "桐谷茉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/bb463a2c-a931-4815-a114-eb98c99924ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73471&name=桐谷茉莉"
+    }
+  ]
+};

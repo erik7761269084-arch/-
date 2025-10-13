@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240130/Xd5MAajm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103638,
+  "IDcode": "SIRO-5199",
+  "title": "【アニメ声お姉さん】大手ゼネコンで働く高身長美女が登場！甲高い囁き系の喘ぎ声はエロさ100%！奉仕好きの色気ムンムンお姉さんを責めまくっちゃいます！ 【初撮り】ネットでAV応募→AV体験撮影 2090",
+  "publish_date": "2023-12-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "第一人称摄影",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103638",
+  "actresses": [
+    {
+      "name": "桂木春香",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d0165529-937f-48e6-bcb1-67499febe520.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103638&name=桂木春香"
+    }
+  ]
+};

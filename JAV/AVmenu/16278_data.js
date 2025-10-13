@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5df0c97b-80a9-4824-8f1d-4cd78f72e69f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16278,
+  "IDcode": "SSNI-139",
+  "title": "體液交換，激烈的性愛，完全未剪輯的表演南果菜",
+  "publish_date": "2018-03-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫亂",
+    "流汗",
+    "中出",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "內衣",
+    "少女",
+    "接吻",
+    "美少女",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214095443724724.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240214/20240214095443724724.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16278",
+  "actresses": [
+    {
+      "name": "南果菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/58e22acc-afda-4492-849a-8b6bab761f1d_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16278&name=南果菜"
+    }
+  ]
+};

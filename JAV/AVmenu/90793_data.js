@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240217/14COwHr3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90793,
+  "IDcode": "AVSA-099",
+  "title": "憧憬的女孩素顔 清純馬尾制服娘 背徳中出淫交 渚光希",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "戏剧",
+    "水手服",
+    "瘦小身型",
+    "美少女电影",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90793",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90793&name=渚光希"
+    }
+  ]
+};

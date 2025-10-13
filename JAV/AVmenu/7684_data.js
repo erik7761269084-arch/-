@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/22758504-0582-4add-93ba-8ca0505ec7e2/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/26/8ba2c346/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7684,
+  "IDcode": "DASS-574",
+  "title": "給厭男的苗條美乳繼女喂了一周媚藥 她子宮發熱失去理智開始渴求我的巨根 ~ 東條夏",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "校花",
+    "凌辱",
+    "蘿莉",
+    "中出",
+    "早漏",
+    "形象俱樂部",
+    "繼父",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "迷姦",
+    "慾求不滿",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "過膝襪・小腿襪",
+    "手指插入",
+    "美人",
+    "寢取",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "DASS-574为DASDAS出品,2025年3月11日发行的有碼成人影片由東條夏出演\n納茲的父母因為她父親的外遇而離婚，她開始討厭男人，但是儘管她有這種感覺，她的身體還是開始向女性方向發育。同時，我母親再婚了。納茲不想和她的繼父住在一起，但她知道她的母親正在掙扎，所以她勉強同意了。納茲的繼父正用充滿情慾的眼神看著她，計劃著如何贏得不情願的女兒的芳心…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125243676676.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305125243676676.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7684",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7684&name=東條夏"
+    }
+  ]
+};

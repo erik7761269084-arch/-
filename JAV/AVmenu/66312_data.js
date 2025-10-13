@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/af071b9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66312,
+  "IDcode": "UMD-963",
+  "title": "スケパンナースのよがり腰白衣の天使のドスケベ下半身痴療",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/20/42279963072f075c71f00572d1b860e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66312",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=姫咲華"
+    },
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=葵百合香"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=沙月芽衣"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=永野司"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=高瀬りな"
+    },
+    {
+      "name": "舞原圣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=舞原圣"
+    },
+    {
+      "name": "儿玉玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=儿玉玲奈"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66312&name=君岛美绪"
+    }
+  ]
+};

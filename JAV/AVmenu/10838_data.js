@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7b08717a-a210-418c-8dee-4dd3c78eac0b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10838,
+  "IDcode": "NACR-870",
+  "title": "預約滿員！ 100%滿意！美熟女 cosplay 交付 ~ 織田真子",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "性感",
+    "兔女郎妝扮",
+    "人妻",
+    "巨乳",
+    "獵豔",
+    "熟女",
+    "飯店小姐・援交妹",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241106/d23e55f7-0358-4b3c-9012-25c34213eca3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241106/d23e55f7-0358-4b3c-9012-25c34213eca3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10838",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10838&name=織田真子"
+    }
+  ]
+};

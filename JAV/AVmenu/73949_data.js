@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250111/m9OMsuM0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73949,
+  "IDcode": "SORA-224",
+  "title": "巨乳新人ナースは患者イジメする糞ビッチ！嬲り尽しイカセ調教で、人格崩壊ギリギリの下克上レ●プ！！ 今では患者の輪姦チ●ポを悦んで丸呑みする 森下美怜",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "调教",
+    "护士",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73949",
+  "actresses": [
+    {
+      "name": "相沢夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/1de5f1c6-0ffa-4d89-924e-44ecb752e374_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73949&name=相沢夏帆"
+    }
+  ]
+};

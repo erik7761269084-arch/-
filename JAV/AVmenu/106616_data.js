@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/03/8dcc3a21/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106616,
+  "IDcode": "DVDMS-818",
+  "title": "10年ぶりに再会したイジワルな幼馴染はキャビンアテンダント 僕の童貞チ○ポを弄び調教する淫乱黒パンスト痴女 吉岡ひより （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-05-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "中出",
+    "荡妇",
+    "足交",
+    "连裤袜",
+    "空中小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106616",
+  "actresses": [
+    {
+      "name": "吉冈ひより",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106616&name=吉冈ひより"
+    }
+  ]
+};

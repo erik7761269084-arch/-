@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/GGcj0RRn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70237,
+  "IDcode": "SDAM-013",
+  "title": "『妻が寝取られる姿を見て大興奮です！そして僕も参戦したい！』旦那の特殊な【妻を寝取らせた後の参加型3P】願望を叶えるべく混浴温泉に招待！人妻は不倫SEXまでしてしまうのか？",
+  "publish_date": "2019-04-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "已婚妇女",
+    "业余",
+    "美容院",
+    "浴衣",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70237",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70237&name=葵百合香"
+    },
+    {
+      "name": "山口菜穂",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-山口菜穂.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70237&name=山口菜穂"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70237&name=南佳也"
+    }
+  ]
+};

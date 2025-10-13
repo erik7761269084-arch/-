@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20240927/57TpFLx9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92993,
+  "IDcode": "Materiall-1",
+  "title": "Materiall1周年记念 BEST35SEX8时间-西条琉璃,藤森里穂,松本一香等演员。.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240928-1/1495118158f862a9c0da7c7c8a2bda27.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92993",
+  "actresses": []
+};

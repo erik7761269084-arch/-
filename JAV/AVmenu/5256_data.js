@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ebb298f0-4eba-4640-9fbe-3e44651203f6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/42615d26/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5256,
+  "IDcode": "MVG-131",
+  "title": "甘願求虐被懲罰的抖M女 ~ 二葉惠麻",
+  "publish_date": "2025-06-14",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "導尿",
+    "後入",
+    "高顏值",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "美少女",
+    "暗黑系",
+    "緊縛",
+    "單體作品",
+    "明星臉",
+    "鬼畜片",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "心理驚悚",
+    "插入異物",
+    "口球",
+    "打屁股",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MVG-131为GLORY QUEST出品,2025年6月14日发行的有碼成人影片由二葉惠麻出演\n外貌和內心都bling bling超閃耀的「惠麻」，天天被人捧著、寵著，再無理的要求都能過關，久而久之內心變得扭曲又醜陋。為了懲罰自己，她主動要求把臉蛋搞壞，變成跟內心一樣的樣子。鼻鉤、開口器、臉部絲襪這種毀臉玩法，搭配綑綁、打屁股等SM調教，還有「醜八怪、肥豬」之類的羞辱話，真的超刺激！在這種懲罰下，她的抖M癖好被完全滿足，內心的罪惡感也好像被洗淨，爽到不行啦！#抖M天花板",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095541794794_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095541794794_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5256",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5256&name=二葉惠麻"
+    },
+    {
+      "name": "二叶エマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5256&name=二叶エマ"
+    }
+  ]
+};

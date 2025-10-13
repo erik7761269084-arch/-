@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221123/C31F45E1B57B33D9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38749,
+  "IDcode": "3DFA1CCB89A778B1B13151BF9B32DAD-7",
+  "title": "女朋友攻击对游戏热心的男朋友",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38749",
+  "actresses": []
+};

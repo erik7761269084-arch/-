@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fb9f9628-6922-4fcb-95af-b31f63cca00b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7814,
+  "IDcode": "SOAV-122",
+  "title": "人妻的出軌心 ~ 宮城理惠",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "極品美人"
+  ],
+  "description": "SOAV-122为妄想族出品,2025年3月4日发行的有碼成人影片由宮城理惠出演\n尚在新婚的宮城在結婚前曾擔任補習班的老師。 也許是因為現在已經是全職家庭主婦，壓力有所緩解，她開始賭博和晚上出去玩，這是以前從未做過的事。 一旦她習慣了這樣的玩法，她理智的限制就會崩潰，她的性慾就會開始氾濫。 在過去兩個月裡，她與多名男子發生過肉體關係，目前有兩個性伴侶。 她外表看起來純潔無邪，但內心卻有著日益高漲的性慾，為了滿足自己的性慾，她自願演出這部電影。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250302/20250302123530812812.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250302/20250302123530812812.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7814",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7814&name=宮城理惠"
+    }
+  ]
+};

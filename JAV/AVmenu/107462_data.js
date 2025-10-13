@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/21/a3cc91b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107462,
+  "IDcode": "JUY-613",
+  "title": "マドンナ15周年記念大作 第2弾！！初VR連動作品！！【閲覧注意】人生で最も寝取られたくないNTR話 妻が子作りを断るので親友に理由を聞き出してもらう事にした僕。そして当日、二人に内緒でベッドの下に隠れて 妻の本音を盗み聞きしようとしたら…信じ難い悲劇に見舞われた…",
+  "publish_date": "2018-09-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107462",
+  "actresses": []
+};

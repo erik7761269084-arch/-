@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230125/MXetcZ5L/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85603,
+  "IDcode": "MKMP-464",
+  "title": "美女5人と1泊2日ず～っとハメまくりのイキまくりハーレム風俗パラダイスHOTEL",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/9e76671f24e1bd4cbef7205f1fab3989.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85603",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85603&name=渚光希"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85603&name=沙月芽衣"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85603&name=高瀬りな"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85603&name=久留木玲"
+    },
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85603&name=一条美绪"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65290,
+  "IDcode": "4F25926AFC8A5516F596BB8875D323F3",
+  "title": "[日本] 松本芽衣破坏版AV～少妻被跟踪狂前男友干得奶狂摇～ (ADN-075)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65290",
+  "actresses": []
+};

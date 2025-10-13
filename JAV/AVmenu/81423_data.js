@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/4AWDlmLw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81423,
+  "IDcode": "BNGD-028",
+  "title": "肉弾巨乳緊縛 身動きとれない状態で変態男に麻縄で拘束され弄ばれ中出しまでされてしまっただらしない身体のM女たち",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "捆绑",
+    "拘束",
+    "胖女人",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81423",
+  "actresses": []
+};

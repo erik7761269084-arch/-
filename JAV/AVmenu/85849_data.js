@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/17/cc7ce153/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85849,
+  "IDcode": "PFES-040",
+  "title": "不被女友發現般與女友淫蕩大姊偷偷外遇性交到早上的7日間。 楓富愛",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗条",
+    "口交",
+    "薄马赛克",
+    "主观视角",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85849",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230106/9B915E994D94CEB6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119226,
+  "IDcode": "FC2-1278841",
+  "title": "【お宝映像】【顔出し】圧倒的美人と出会えたと思ったら、実は元有",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119226",
+  "actresses": []
+};

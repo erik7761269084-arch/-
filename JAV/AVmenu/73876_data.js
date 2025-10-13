@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/15/737f115e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73876,
+  "IDcode": "NHDTC-003",
+  "title": "彼氏の横で粘着クリいじりされ声も出せず隠しエロ顔しまくる女 宇流木さららさんのパンティとチェキ付き",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "女大学生",
+    "颜射",
+    "苗条",
+    "羞耻",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73876",
+  "actresses": []
+};

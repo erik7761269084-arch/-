@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c6f87c41-9404-4b55-be88-b65021786a6f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14231,
+  "IDcode": "NJPD-018",
+  "title": "新日本AV女優名錄～水川堇",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "新日本AV女優名錄",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "按摩棒"
+  ],
+  "description": "NJPD-018为新日本AV女優名錄出品,2024年6月1日发行的有碼成人影片由水川蓳出演\n新日本AV女優名鑑 ~ 水川スミレ",
+  "cover_url": "https://picture.yoshiclub.xyz/20240603/239f82a1-1a97-4827-ba67-0e2bb4404a55.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240603/239f82a1-1a97-4827-ba67-0e2bb4404a55.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14231",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14231&name=水川蓳"
+    }
+  ]
+};

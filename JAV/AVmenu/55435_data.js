@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221111/4F58612CBF4F0A9B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55435,
+  "IDcode": "194980368DD5C317F4C56ACFC1B9129D",
+  "title": "高颜值极品韩国BJ美女",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55435",
+  "actresses": []
+};

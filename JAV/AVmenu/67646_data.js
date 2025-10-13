@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250427/LcMHH1v8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67646,
+  "IDcode": "AARM-143",
+  "title": "弓背M男君的突出肉棒被2人快樂玩弄 2",
+  "publish_date": "2022-12-15",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "荡妇",
+    "M男",
+    "乳液",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67646",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67646&name=八乃翼"
+    },
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67646&name=緒川春"
+    },
+    {
+      "name": "铃木理沙",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67646&name=铃木理沙"
+    }
+  ]
+};

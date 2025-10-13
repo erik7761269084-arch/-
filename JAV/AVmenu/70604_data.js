@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/8503514d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70604,
+  "IDcode": "NHDTC-038",
+  "title": "就寝中の夜行バスで指マンされた恐怖に目を開けられず寝たふりしながらイキまくる気弱女子2 赤名いとさんの紙パンティとチェキ付き",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "制服",
+    "手指插入",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/23/53ae3015a7171d921efaed325e311464.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70604",
+  "actresses": []
+};

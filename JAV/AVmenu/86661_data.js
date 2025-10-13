@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/H138EChm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86661,
+  "IDcode": "AMBI-145",
+  "title": "血の繋がりのない妹と二人っきりの3日間！ここぞとばかりにセックスしまくった！！ 笠木いちか",
+  "publish_date": "2021-12-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "乱伦",
+    "女优按摩棒",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/4d6d178147ed25a40eeec6ec94154594.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86661",
+  "actresses": [
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86661&name=笠木いちか"
+    }
+  ]
+};

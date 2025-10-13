@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/8yUDLzqd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85806,
+  "IDcode": "NHDTB-675",
+  "title": "満員バスで背後から制服越しにねっとり乳揉み痴●され腰をクネらせ感じまくる巨乳女子○生16",
+  "publish_date": "2022-06-09",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "潮吹",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85806",
+  "actresses": [
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85806&name=有馬美玖"
+    },
+    {
+      "name": "一宫みかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85806&name=一宫みかり"
+    }
+  ]
+};

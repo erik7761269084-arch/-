@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/64a34b8d-64a7-4871-8286-9c80b7bc9a1a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13146,
+  "IDcode": "AARM-242",
+  "title": "想要姐姐色色的大屁股壓",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "黑絲",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "無做愛場面",
+    "蕩婦",
+    "美臀",
+    "制服",
+    "運動服裝",
+    "騎乗位",
+    "性感",
+    "顔面騎乘",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240722/06f1113d-0628-4856-abdb-7ea93990007e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240722/06f1113d-0628-4856-abdb-7ea93990007e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13146",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13146&name=岬櫻"
+    },
+    {
+      "name": "豊岡さつき",
+      "img_url": "https://picture.yoshiclub.xyz/20231228/63f05ddd-9019-4259-be8b-dd0ec2ba913f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13146&name=豊岡さつき"
+    },
+    {
+      "name": "弘中優",
+      "img_url": "https://picture.yoshiclub.xyz/20231221/d1040ea7-7a31-477f-b887-d1ad04839e58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13146&name=弘中優"
+    },
+    {
+      "name": "百咲未色",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/9d7f9a81-1b2a-4faa-bd3d-f42f02f86de5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13146&name=百咲未色"
+    },
+    {
+      "name": "宗像れな",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/e51bdf64-e0c3-4ab7-b0f3-f4bb3b797493.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13146&name=宗像れな"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/605ab312-14ae-4b0f-b512-45be0e066bc7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18557,
+  "IDcode": "IPX-707",
+  "title": "感覺太好了 我馬上就要射了！ 高潮過後，繼續插入",
+  "publish_date": "2021-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "絕頂高潮",
+    "中出",
+    "口交",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926234816565565.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230926/20230926234816565565.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18557",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18557&name=桜空桃"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/cd038ea6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61737,
+  "IDcode": "MDBK-383",
+  "title": "乳首責めと射精管理で絶対M男化させる極エロセレブな淫乱ママ活妻",
+  "publish_date": "2025-08-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "姐姐",
+    "荡妇",
+    "M男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61737",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61737&name=美咲佳奈"
+    },
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61737&name=柊有希"
+    }
+  ]
+};

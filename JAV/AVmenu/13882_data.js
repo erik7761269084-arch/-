@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29ed157e-87a7-41e0-97c4-934017853fd4/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/ENd7fSJt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13882,
+  "IDcode": "SDJS-268",
+  "title": "第一次下班後中出，射在她的陰戶裏，直到早上... 加入SOD已經3年的企劃部女社員 ~ 倉田優希",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "SDJS-268为SOD出品,2024年7月1日发行的有碼成人影片由倉田優希出演\n[倉田由紀的第一次原始中出性愛] 在公司的第三年，公司可靠的姐姐倉田由紀嘗試了她人生中的第一次中出性愛！下班後，我去了酒店，和最好的演員整夜進行了原始性愛和體內射精！我對原始性愛如此上癮，以至於我一直在做愛，直到上班前的最後一刻。禁止清洗中出精液！第二天早上，她帶著沾滿精液的陰部去上班。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240618/c26b036c-73f8-4fd5-b66c-ea108a8b8d44.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240618/c26b036c-73f8-4fd5-b66c-ea108a8b8d44.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13882",
+  "actresses": [
+    {
+      "name": "倉田優希",
+      "img_url": "https://picture.yoshiclub.xyz/20240618/df0e498f-0762-4fee-8011-f1e3755c682c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13882&name=倉田優希"
+    }
+  ]
+};

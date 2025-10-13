@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/c6cf857a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66221,
+  "IDcode": "JHEM-032",
+  "title": "無慈悲！！ リアル強●ドキュメントドラマ 人妻レ●プ事件簿 旦那の居ない白昼を狙う卑劣な性犯罪者！欲望のまま犯●れ慰み者となった熟女たち…5名収録 120分",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "多P",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66221",
+  "actresses": [
+    {
+      "name": "青木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/57c16981-b0e6-41b2-b738-a98dcee04483.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66221&name=青木玲"
+    },
+    {
+      "name": "星野あかり",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0333d43418d1140a20f2649274866510.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66221&name=星野あかり"
+    },
+    {
+      "name": "白河里奈",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/19271ef74ef149de6e4cbf3a535f8ff2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66221&name=白河里奈"
+    },
+    {
+      "name": "滝川かのん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66221&name=滝川かのん"
+    }
+  ]
+};

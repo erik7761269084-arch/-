@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c036e6eb-365f-48f2-9d57-76cd6de6b084/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 951,
+  "IDcode": "HEYZO-1212",
+  "title": "無法無天抵抗G奶誘惑——霧島さくら",
+  "publish_date": "2016-07-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "69",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "HEYZO-1212为HEYZO出品,2016年7月13日发行的無碼成人影片由霧島さくら出演\n無法抗拒的G奶誘惑～ - 霧島さくら",
+  "cover_url": "https://picture.yoshiclub.xyz/20240327/405bc6a7-7575-48ce-b980-36e11a82732a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240327/405bc6a7-7575-48ce-b980-36e11a82732a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=951",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=951&name=霧島さくら"
+    }
+  ]
+};

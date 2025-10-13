@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/05/4c4f79a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96021,
+  "IDcode": "ALDN-362",
+  "title": "義母さんだって孕みたい。 白木優子",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/05/c2c3539454fd9b8a8c1312724e42acad.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96021",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96021&name=白木優子"
+    }
+  ]
+};

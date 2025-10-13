@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20240925/JxnES7aQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88632,
+  "IDcode": "531",
+  "title": "虾翘紧！高潮次痉挛9213次气潮79300cc极快Special禁欲禁欲高潮1个月被焦灼24小-九野ひなの。.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88632",
+  "actresses": []
+};

@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241224/0fR9nXWq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75639,
+  "IDcode": "MDTM-590",
+  "title": "玩具責めトロケマ●コ女子●生30人4時間",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "玩具",
+    "潮吹",
+    "女优按摩棒",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75639",
+  "actresses": [
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=有栖露露"
+    },
+    {
+      "name": "奏自由",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/b56a5d8f-b017-4287-9e9a-bc04d7ba82ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=奏自由"
+    },
+    {
+      "name": "山岸詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230723/88509314-478a-4a3f-80d9-2f83187803b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=山岸詩織"
+    },
+    {
+      "name": "相沢夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/1de5f1c6-0ffa-4d89-924e-44ecb752e374_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=相沢夏帆"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=浅田结梨"
+    },
+    {
+      "name": "一宫みかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=一宫みかり"
+    },
+    {
+      "name": "佐久间恵美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=佐久间恵美"
+    },
+    {
+      "name": "さくらはる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75639&name=さくらはる"
+    }
+  ]
+};

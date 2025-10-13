@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a60e54b-4dab-404f-9492-cb652e407c24/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/31/ed8f81b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13258,
+  "IDcode": "ABF-130",
+  "title": "隔壁搬來情侶，女的奶子特別大！ ~ 河合明日菜",
+  "publish_date": "2024-08-01",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "勾引・誘惑",
+    "美少女",
+    "鄰居",
+    "艷遇",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "ABF-130为蚊香社出品,2024年8月1日发行的有碼成人影片由河合明日菜出演\n尊貴專屬女星「河合明日奈」誘惑男人！有一天，一對夫婦搬進了隔壁。被不友善、不認真打招呼的巨乳女友亞絲娜誘惑的日子開始了。當我從陽台往隔壁房間看時，我可以看到這對夫妻正在做愛。當我偷看時，亞絲娜微笑著展示了她的乳交！當吸吮我男友的雞巴時，她把目光轉向我，展示了她激烈的口交。看完男友死亡的整個過程後，我開始全神貫注於住在隔壁的亞絲娜。第二天，當我回到家時，亞絲娜闖入了我的家。當她解開胸前的紐扣，露出乳溝時，她用微笑誘惑著我，當我忍耐到極限時，我抓住了亞絲娜的巨乳…迷惑男人的 H 罩杯巨乳河合亞絲娜，壓倒性的惡魔技術著迷！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240718/6f874689-47af-430f-9ec2-9f27c6bd1240.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240718/6f874689-47af-430f-9ec2-9f27c6bd1240.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13258",
+  "actresses": [
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13258&name=河合明日菜"
+    }
+  ]
+};

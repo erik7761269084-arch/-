@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ec35ba92-ad77-4ef6-83a7-c1c4da2f0814/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/24/9c7e994f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12366,
+  "IDcode": "MIAB-305",
+  "title": "打工NTR！ 剛剛畢業成功找到工作，就被討厭的便利店店長性侵犯，打工期間身體變得敏感的美巨乳 ~ 春陽モカ",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "商店",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "職員",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "美少女",
+    "金髮",
+    "巨乳",
+    "女同事",
+    "出軌",
+    "NTR",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "MIAB-305为MOODYZ出品,2024年9月3日发行的有碼成人影片由春陽萌花出演\n【竹木×美巨乳Gal×NTR】我和女友Moka求職即將畢業。我們每天都在便利商店打工，存錢供畢業旅行。最近，摩卡一直與她討厭的商店經理輪班。我很擔心...那猥瑣的眼神嗯，沒辦法… 「我是一個乳房和乳頭敏感的淫婦……」我過度敏感的乳頭被店長無情地揉捏、舔舐、玩弄、揉捏……、愛撫，讓我的乳頭射精了。子...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829233014100100.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240829/20240829233014100100.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12366",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12366&name=春陽萌花"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12366&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230209/brTJaGxq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86622,
+  "IDcode": "WAAA-191",
+  "title": "東條なつの凄テクを我慢できれば生★中出しSEX！",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "苗条",
+    "口交",
+    "感谢祭",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86622",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86622&name=東條夏"
+    }
+  ]
+};

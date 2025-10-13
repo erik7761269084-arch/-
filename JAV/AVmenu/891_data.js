@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aec1df99-c821-4205-ab92-75f2cb4c593a/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220418/1DE3E7E3C9E6BBB2/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 891,
+  "IDcode": "HEYZO-1112",
+  "title": "持續生中出～肏翻柔軟妹內射灌精！～ - 內村莉奈",
+  "publish_date": "2016-03-16",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出",
+    "美乳",
+    "潮吹"
+  ],
+  "description": "HEYZO-1112为HEYZO出品,2016年3月16日发行的無碼成人影片由内村里菜出演\n持續生中出～肏翻柔軟妹內射灌精！～ - 內村莉奈",
+  "cover_url": "https://picture.yoshiclub.xyz/20240429/81f387dc-4d76-4683-96a9-8b7d4baeeca6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240429/81f387dc-4d76-4683-96a9-8b7d4baeeca6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=891",
+  "actresses": [
+    {
+      "name": "内村里菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240429/044721e1-1cc0-4de5-bf1b-e0c264920cd0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=891&name=内村里菜"
+    }
+  ]
+};

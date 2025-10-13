@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250507/8gHBIGu0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66693,
+  "IDcode": "328HMDNV-706",
+  "title": "【Gカップ美巨乳】学食の美人お姉さん32歳。10歳年下男子大学生とホテル密会不倫",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250508-1/9650fa0a83563984a3d0016c9aa85637.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66693",
+  "actresses": []
+};

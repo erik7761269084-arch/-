@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/697943f9-5fe4-4ea8-9038-43e97392b64c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/95f31841/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5686,
+  "IDcode": "WAAA-512",
+  "title": "球隊的可愛女經理被媚藥浸泡合宿瘋狂開幹 制服少女性欲失控被討厭的顧問從早幹到晚爽到崩潰 ~ 北岡果林",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "老頭子",
+    "調教",
+    "變態",
+    "校花",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "少女",
+    "輪姦",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "集訓",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "WAAA-512为WANZ FACTORY出品,2025年5月30日发行的有碼成人影片由北岡果林出演\n老實安靜的女經理被無良教練盯上，掉進了精心設下的圈套！合宿期間，教練偷看到她跟男友的電話激情play，抓住這把柄威脅她，直接用媚藥搞起硬核玩法，瘋狂侵犯！她身材纖細卻屁股超有肉感，被揉捏到停不下來，小胸被吸到發麻，青春期的嫩穴直接被猛烈插入，爽到爆！媚藥讓她敏感度飆升，身體變成連續高潮體質，連隊員也加入戰局，3P玩法讓她徹底淪陷，被調教到對肉棒欲罷不能，簡直墮落成性愛奴隸！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250530/20250530094858164164_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250530/20250530094858164164_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5686",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5686&name=北岡果林"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5686&name=タイ"
+    }
+  ]
+};

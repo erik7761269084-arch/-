@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/15/50dd64ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105622,
+  "IDcode": "STAR-409",
+  "title": "橘梨紗 AV debut",
+  "publish_date": "2013-02-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "潮吹",
+    "首次亮相",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/15/c25edebdae8dff4bce746be09cca06c3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105622",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105622&name=大岛丈"
+    },
+    {
+      "name": "橘梨纱",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c6ec03b7ea2d47e6090f014b054dd116.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105622&name=橘梨纱"
+    }
+  ]
+};

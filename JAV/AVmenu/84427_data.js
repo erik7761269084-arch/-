@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/22/aa654c71/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84427,
+  "IDcode": "FOCS-058",
+  "title": "清純JDがヤリサー堕ちした記録 本当はいつも彼氏に一途な女子大生が大乱交にハマった一学期 水卜麻衣奈",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "颜射",
+    "潮吹",
+    "吞精",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230109-1/1013aaacc32d1a767d9d79df4e323391.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84427",
+  "actresses": [
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84427&name=水卜麻衣奈"
+    }
+  ]
+};

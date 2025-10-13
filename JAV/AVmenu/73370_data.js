@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/urxFTqdw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73370,
+  "IDcode": "DLDSS-114",
+  "title": "「あなた、ごめんなさい…」大っ嫌いな上司のチ○ポがGスポット直撃 気持ち良すぎて謝りながら腰振り回し絶頂し続ける騎乗位中出し人妻 穂高結花 パンティと写真付き",
+  "publish_date": "2022-09-22",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73370",
+  "actresses": []
+};

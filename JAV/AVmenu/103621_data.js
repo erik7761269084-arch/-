@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240125/pLuzwf10/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103621,
+  "IDcode": "NTK-846",
+  "title": "【噂のドHカップ淫乱エステティシャン登場！】【爆乳！爆振！爆濡れ！オイル施術で爆勃起不可避！！】【基盤！？奥突きアクメ泣きじゃくりナマSEX連発！！】【これぞヤリマン！！これがヤリマン！！】ガチエロ爆乳Hカップエステティシャンが登場！！特製オイルエステ施術で神レベルの快楽の園へサービス！！サービス！！/ヤリマンGP/027",
+  "publish_date": "2024-01-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "中出",
+    "按摩",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103621",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103621&name=堀北実来"
+    },
+    {
+      "name": "まひる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103621&name=まひる"
+    }
+  ]
+};

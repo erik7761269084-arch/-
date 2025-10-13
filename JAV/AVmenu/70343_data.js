@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/372a6624/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70343,
+  "IDcode": "NACR-917",
+  "title": "快楽エステルーム キモおじの凄テクに快感を覚えてしまった私 秋元さちか 生写真とパンティ付き",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "自慰",
+    "苗条",
+    "乳液",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/01/2f213d7a80e41f111f937c6f4ba80b60.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70343",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70343&name=胡桃多惠"
+    }
+  ]
+};

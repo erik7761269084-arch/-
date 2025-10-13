@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/BF3DC0238DFA74E3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55999,
+  "IDcode": "8CF8AE983F5401DBAF5920D7E936D0FC",
+  "title": "激情无限的骚妇~尽情吃鸡",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55999",
+  "actresses": []
+};

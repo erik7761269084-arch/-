@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a05d4d3-a437-47ce-a102-e338c137f3cf/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/06c25393/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8842,
+  "IDcode": "JUR-168",
+  "title": "午夜約會：我丈夫不認識的另一張面孔 ~ 鬆野蘭",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "在丈夫面前被操",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "色白",
+    "身體換業務",
+    "凌辱",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "足交",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "JUR-168为MADONNA出品,2025年1月28日发行的有碼成人影片由松野蘭出演\n「女士，我們今晚就去約會吧。」蘭，一位支持在幕後黑公司工作的丈夫的妻子。尤其是我的上司吉野，毫無精緻可言，權力騷擾和道德騷擾是家常便飯，他的上司說的是【絕對】。決定邀請吉野去他家，但這次蘭被發現了，她的丈夫喝醉了，把她推倒了。根據蘭的反應，她丈夫的工作地位將會改變…在這樣的威脅下，蘭也無法違抗四糸乃。然後，在半夜，蘭接到吉野的電話，最後進行了一系列充滿羞恥的「有趣」約會…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074536441441.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123074536441441.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8842",
+  "actresses": [
+    {
+      "name": "松野蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/686800d1-935f-434b-809c-7b4f93288a03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8842&name=松野蘭"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8842&name=ナイアガラ翔"
+    }
+  ]
+};

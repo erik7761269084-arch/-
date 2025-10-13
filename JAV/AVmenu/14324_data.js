@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6e5d95a8-9877-4c62-b9ca-0e160528aa03/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/19/9f99bde2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14324,
+  "IDcode": "CAWD-662",
+  "title": "禁欲1個月，性欲爆棚Gcup火箭胸凸出！前女播音員如月りいさ全身痙攣操！",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "企畫",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女主持・主播",
+    "形象俱樂部",
+    "感官作品",
+    "口交",
+    "性感",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "猥褻穿著",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "CAWD-662为KAWAII出品,2024年6月4日发行的有碼成人影片由如月りいさ出演\n前女播音員「如月理沙」絕對是人氣很高的。我沒有具體的男朋友，但我有幾個性朋友……我是一個超級好色的女人，每天都不會錯過自慰，無論我有沒有性行為。 “不可能！絕對不可能！當我們商量禁慾的時候，他立刻就表態不！” ？不，AV 沒那麼容易。人們會說，「如果你撒謊，你就不會發現，對吧？」那麼參與報道的人可以向粉絲撒謊嗎？我憑良心訴求，並以某種方式獲得了該項目的批准。看著看著，她的黑眼圈漸漸形成，嘴巴也開始一點點惡化，G罩杯的火箭胸也鬱悶得腫起來……拍攝當天，她一上台就對男演員發起攻擊。活塞，然後劇烈地抽搐起來！沉浸在愛欲中真是太好了。如月裡紗在等待男主角時飢渴難耐，嚮導演展示了自己的超情色自慰，引誘了他……在壓抑了一個月的性慾之後，如月裡紗終於能夠擁有最愉悅的性愛了。 Eros不會辜負您的期望...推薦！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/202405310256224646.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/202405310256224646.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14324",
+  "actresses": [
+    {
+      "name": "如月りいさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/d7700eb3-262c-4135-99be-f216cdd6c8df.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14324&name=如月りいさ"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14324&name=鲛岛"
+    }
+  ]
+};

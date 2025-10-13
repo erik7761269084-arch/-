@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/0mNzRtT1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99339,
+  "IDcode": "HEYZO1629",
+  "title": "斉藤良子ほろ酔い娘とがっつりセックス",
+  "publish_date": "2017-12-19",
+  "type": "有码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "立即口交",
+    "背后插入",
+    "3P",
+    "骑乘位",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99339",
+  "actresses": []
+};

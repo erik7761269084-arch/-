@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/01d5f008-beab-4466-a6af-6d4cb9c88bf4/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/a61d3657/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9751,
+  "IDcode": "ROE-295",
+  "title": "MONROE專屬 性欲極強的熟女人妻 中出禁令解除！！ 朋友的美貌母親，陷入了被我不斷受精的日子 ~ 美ノ辺さやか",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "紀念作",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "朋友母親",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "儿子的朋友"
+  ],
+  "description": "ROE-295为MADONNA出品,2024年12月24日发行的有碼成人影片由美ノ辺さやか出演\n美麗的母親沙耶香和她的兒子高志住在一起。雖然她的日子很幸福，但她卻感到孤獨，因為她的丈夫因外派長期外出，她已經很久沒有見到她了。有一天，當她認識已久的兒子最好的朋友肯來她家看一部熱門愛情劇時，她突然收到了肯的一個吻。沙耶香感覺自己的心臟在胸腔裡狂跳，儘管她很願意。之後，沙耶香被健壓著接受了另一個吻，她沉迷於這種快感。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241220/20241220042729203203.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241220/20241220042729203203.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9751",
+  "actresses": [
+    {
+      "name": "美ノ辺さやか",
+      "img_url": "https://picture.yoshiclub.xyz/20241124/d00217e8-6f29-4ee9-86dd-3e22892a94e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9751&name=美ノ辺さやか"
+    }
+  ]
+};

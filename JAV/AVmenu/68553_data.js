@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/13/b17ea1e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68553,
+  "IDcode": "NTR-025",
+  "title": "夫を勤務先の看護師に寝取られて… 水谷あおい",
+  "publish_date": "2015-11-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "制服",
+    "苗条",
+    "潮吹",
+    "企画",
+    "业余",
+    "护士",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68553",
+  "actresses": [
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68553&name=水谷あおい"
+    },
+    {
+      "name": "深泽祈莉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68553&name=深泽祈莉"
+    }
+  ]
+};

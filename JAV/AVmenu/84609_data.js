@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230112/yMKmX13j/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84609,
+  "IDcode": "HMN-091",
+  "title": "深夜にヒクヒクアナル舐めさせてナマ中出しを誘う尻ビッチ杭打ち痴女ナース 美谷朱里",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "肛交",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84609",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84609&name=美谷朱里"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84609&name=タイ"
+    }
+  ]
+};

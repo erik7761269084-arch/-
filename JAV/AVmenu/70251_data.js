@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250319/ngeQG4t9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70251,
+  "IDcode": "STARS-108",
+  "title": "竹田ゆめ 嫁の妹に叱られて… 「今日も僕は義妹に激しくダメ出しされ続けています」",
+  "publish_date": "2019-08-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "放尿",
+    "荡妇",
+    "苗条",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70251",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70251&name=竹田夢"
+    }
+  ]
+};

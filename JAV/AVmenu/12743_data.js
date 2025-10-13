@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1f23685-50df-402c-b0dc-51be441c071c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12743,
+  "IDcode": "MIST-444",
+  "title": "尻地獄 Level2 ~ 織田真子",
+  "publish_date": "2024-09-12",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "後入",
+    "肛交",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "臀控",
+    "中出",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "跳蛋",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "情趣內衣",
+    "按摩棒",
+    "猥褻穿著",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240811/20240811214202508508.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240811/20240811214202508508.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12743",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12743&name=織田真子"
+    }
+  ]
+};

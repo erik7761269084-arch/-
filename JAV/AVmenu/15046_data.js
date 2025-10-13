@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f1c86c7-b65e-43b2-a71d-53ba4d3da463/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240801/TP0JN7D3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15046,
+  "IDcode": "MIAB-188",
+  "title": "我最喜歡的女上司在欺騙我後，我決定迷奸她，讓她懷孕 ~ 通野未帆",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "OL",
+    "口交",
+    "媚藥・迷藥",
+    "性感",
+    "迷姦",
+    "癡女",
+    "女上司"
+  ],
+  "description": "MIAB-188为MOODYZ出品,2024年5月7日发行的有碼成人影片由通野未帆出演\n你要和我以外的人結婚嗎？有傳言說她崇拜的老闆已經訂婚了。對手是精英。辦公室裡充滿了色彩。你對我真好。為什麼不是我？一個被誤解的男人的迷戀失去了控制。他衝動地購買了這種藥物，並在他夢想的女性身體上盡情地射精。如果你讓她懷孕了，你們就不能結婚。 [昏迷出強暴/訓練深喉/玩具槓桿洗腦/捕食中出SEX]",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503065646978978.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503065646978978.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15046",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15046&name=通野未帆"
+    }
+  ]
+};

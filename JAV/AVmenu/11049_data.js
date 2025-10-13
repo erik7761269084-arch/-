@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3eebac48-3bbf-4b4a-b40a-a75c63721908/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/08/e059f141/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11049,
+  "IDcode": "NAPS-001",
+  "title": "即興搭訕 01 搭訕一位個性自由奔放、挑逗的21歲女大學生！無意識的在誘惑男人們！ ~ 天馬唯",
+  "publish_date": "2024-10-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "企畫",
+    "純粹的慾望",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "搭訕",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "獵豔",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241027/c0be40e9-7976-4ed6-b9d8-58a1e92af5f8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241027/c0be40e9-7976-4ed6-b9d8-58a1e92af5f8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11049",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11049&name=天馬唯"
+    }
+  ]
+};

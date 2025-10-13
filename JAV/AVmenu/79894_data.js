@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/5LiBUMie/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79894,
+  "IDcode": "SDNM-305",
+  "title": "お爺ちゃんお婆ちゃんが大好きで介護士になったニコニコ奥さん 坂井千晴 30歳 第2章 1本だけの出演から10カ月ぶり伝説の人妻さんと奇跡の再会！仕事着でSEX・人生初3Pで何度も何度も大絶頂！",
+  "publish_date": "2021-10-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "已婚妇女",
+    "多P",
+    "出轨",
+    "纪录片",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/4e32cd23941b03de1ba038f6f0f79fe4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79894",
+  "actresses": [
+    {
+      "name": "坂井千晴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79894&name=坂井千晴"
+    }
+  ]
+};

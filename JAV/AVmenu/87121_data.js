@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/v70EGsnF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87121,
+  "IDcode": "NHDTB-771",
+  "title": "中出し寸前に抵抗して抜けたチ○ポを何度もぶち込まれイキ狂いだす女の腰を押さえつけ逃がさない鷲掴み膣奥射精4 上坂めいさんのパンティとチェキ付き",
+  "publish_date": "2023-05-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "屁股",
+    "潮吹",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87121",
+  "actresses": []
+};

@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ea21b54-aecc-4a2b-861b-33f0dadc9e17/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/ab2e207b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4540,
+  "IDcode": "MIDA-243",
+  "title": "G杯新任女教師遭侵犯 逆恨絕倫學生們的性慾發洩對象 ~ 夕木小彩",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "清楚系",
+    "單體作品",
+    "更衣室",
+    "清純",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "學校",
+    "豐滿",
+    "無毛",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "MIDA-243为MOODYZ出品,2025年7月11日发行的有碼成人影片由夕木小彩出演\n【夕木小彩首部女教師輪姦劇情片】新來的夕木老師滿心期待展開輝煌的教師生涯，沒想到接手的班級全是問題學生。因正義感過強惹怒學生，慘被逆恨報復，直接被硬上，完全無法反抗！這些小屁孩越來越過分，上課時還逼她口交！在神聖的校園裡，這位嬌小巨乳老師被一群人瘋狂糟蹋，輪番上陣！被一堆精力旺盛的青春期小狼狗包圍，硬生生淪為肉便器，精液處理機！被猛烈抽插到高潮不斷，最後竟主動迎合，騷浪地自己扭起腰來…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100401485555_56209_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/202507100401485555_56209_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4540",
+  "actresses": [
+    {
+      "name": "夕木小彩",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/5bd2226c-7e4e-4457-bf7c-85f73e6f4c31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4540&name=夕木小彩"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4540&name=ラヴズ"
+    }
+  ]
+};

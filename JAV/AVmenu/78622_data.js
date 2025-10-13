@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/Ib8PPUSw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78622,
+  "IDcode": "SSIS-054",
+  "title": "私のおっぱいに夢中なご主人様に喜んでもらおうとスケスケ衣装でお誘いしてたっぷりヌイて差し上げました。 夕美しおん",
+  "publish_date": "2021-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "内衣",
+    "薄马赛克",
+    "女佣",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/9017b81fa981c002809c6d7a4b1eba3e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78622",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78622&name=夕美紫苑"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250503/mH69MITP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66922,
+  "IDcode": "DFDM-029",
+  "title": "【FANZA限定】乳首弄りで暴発しちゃう早漏汁が大好きです◆ 沙月恵奈 パンティと生写真付き",
+  "publish_date": "2022-09-02",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "淫语",
+    "颜射",
+    "荡妇",
+    "M男",
+    "口交",
+    "恋物癖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66922",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66922&name=沙月惠奈"
+    }
+  ]
+};

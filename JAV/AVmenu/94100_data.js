@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241020/msLTqoKU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94100,
+  "IDcode": "SCOP-843",
+  "title": "孕みざかりJ●に無責任中出し！未熟な美少女たちと！妊娠確率100％の！濃厚SEX！BEST",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "学校作品",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/46b68b1b79c0805e22bf8a9c82e694ed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94100",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94100&name=天馬唯"
+    },
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94100&name=沙月芽衣"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94100&name=高瀬りな"
+    }
+  ]
+};

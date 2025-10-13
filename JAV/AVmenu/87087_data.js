@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/hujsEe68/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87087,
+  "IDcode": "NXG-430",
+  "title": "セクハラで感じる卑猥なOL",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "苗条",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87087",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87087&name=赤瀬尚子"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87087&name=香苗レノン"
+    },
+    {
+      "name": "豊田爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87087&name=豊田爱菜"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/04/11a5b0a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84929,
+  "IDcode": "JUL-837",
+  "title": "NGR ―ナガサレ― 叔父に犯●れ初めての絶頂を知った嫁 安みなみ",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230117-1/bf375a0c7bda07038ee6f7210a529ef1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84929",
+  "actresses": []
+};

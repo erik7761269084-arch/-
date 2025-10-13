@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221030/81099C245117F953/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57330,
+  "IDcode": "F752C233049C9C2594CA7168E5560F9A",
+  "title": "大桥未久的美穴淫水直流，就等粗长的鸡巴来操了",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57330",
+  "actresses": []
+};

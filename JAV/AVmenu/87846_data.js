@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230817/YJ5O3LL8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87846,
+  "IDcode": "PKPL-030",
+  "title": "恋人いちゃラブドキュメント 心も股間も元気にさせるハイテンションえちえち美少女 沙月恵奈ちゃんと1日イチャイチャデート （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "纪录片",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87846",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87846&name=沙月惠奈"
+    }
+  ]
+};

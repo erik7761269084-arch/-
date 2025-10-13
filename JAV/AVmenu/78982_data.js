@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/rmbNLzpR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78982,
+  "IDcode": "MIDE-025",
+  "title": "- 舌と唇で感じあう濃密ベロキスづくし 西川ゆい - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "美少女",
+    "女大学生",
+    "口交",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/62b00c1066cf339a1397d96a09ace103.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78982",
+  "actresses": [
+    {
+      "name": "西川结衣",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/西川ゆい.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78982&name=西川结衣"
+    }
+  ]
+};

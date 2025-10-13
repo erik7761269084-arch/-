@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88cf0fd0-fad0-4c6b-b15a-bda7ca97c576/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/9e109917/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6100,
+  "IDcode": "MFYD-010",
+  "title": "被高冷御姐居高臨下羞辱，自慰爽到炸裂！大谷雙葉的抖S嗓音極致沉浸オナサポ特輯 ~ 大谷雙葉",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "4K",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "商店",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "服務生",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "高妹",
+    "SM",
+    "女秘書",
+    "美腳",
+    "拜金女",
+    "自慰",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "辦公室",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MFYD-010为溜池出品,2025年5月16日发行的有碼成人影片由大谷双葉出演\n滿滿的騷話，耳朵都要受不了啦！大谷雙葉那張超正臉蛋配上抖S嗓音，腦汁狂飆，自慰爽到根本停不下來！這オナサポ特輯用4K超清設備拍攝，全程第一視角，淫語瘋狂輸出，搭配頂級雙聲道錄音，簡直是聽覺享受！被這種頂級御姐用強勢淫語壓制，5個篇章全是她專屬定制的霸氣羞辱騷話，一直盯著你，嘴裡不停冒出讓人臉紅心跳的髒話，爽到上天的極樂時光，兄弟們真的扛不住啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042706954954_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042706954954_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6100",
+  "actresses": [
+    {
+      "name": "大谷双葉",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/2420e619-0449-48f9-9bdc-75346bb1c31d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6100&name=大谷双葉"
+    }
+  ]
+};

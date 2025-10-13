@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7f4c0d1a-feff-4282-802a-a2e2568866e6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11033,
+  "IDcode": "AKDL-301",
+  "title": "像糖一樣甜蜜親吻會讓男人感覺非常好 ~ 五十嵐清華",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "老頭子",
+    "4K",
+    "色白",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "少女",
+    "接吻",
+    "口爆",
+    "美少女",
+    "艷遇",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241028/49ea1f50-1e21-400c-bdbe-0fbf2eaafac3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241028/49ea1f50-1e21-400c-bdbe-0fbf2eaafac3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11033",
+  "actresses": [
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11033&name=五十嵐清華"
+    }
+  ]
+};

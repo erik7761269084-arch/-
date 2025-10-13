@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/JwL34QcC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88341,
+  "IDcode": "HUNTA-974",
+  "title": "『ここで射精しても分からないよね…』巨乳すぎる義姉と入浴剤で白く濁ったお風呂でお酒まで用意して本格的な温泉ごっこしていたら…。",
+  "publish_date": "2021-03-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "口交",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/5b45992839f0944da0a1fdd6dbd04644.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88341",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88341&name=深田詠美"
+    },
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88341&name=南真悠"
+    },
+    {
+      "name": "河合乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20240515/e12cbcad-671b-481c-af70-b128439fce23.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88341&name=河合乃乃花"
+    },
+    {
+      "name": "神无月れな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88341&name=神无月れな"
+    }
+  ]
+};

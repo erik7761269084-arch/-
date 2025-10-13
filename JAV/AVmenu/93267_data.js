@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241009/Er4mHlfk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93267,
+  "IDcode": "MTES-120",
+  "title": "人生いろいろ 魅惑の濡れた股ぐら編",
+  "publish_date": "2024-05-30",
+  "type": "有码",
+  "company": "MUTEKI",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241010-1/e7b1bb7f05c8630e99ee3d9caaca71cb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93267",
+  "actresses": []
+};

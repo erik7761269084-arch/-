@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57099,
+  "IDcode": "257AFF9B4CAC825AD9740D2B1400C953",
+  "title": "黑川由良",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57099",
+  "actresses": []
+};

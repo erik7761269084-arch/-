@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bfd014c5-0f9b-499c-91b0-3216d5b45d10/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15000,
+  "IDcode": "SQTE-537",
+  "title": "這小子瘋了！ ！我想和一個擅長性虐的美女做愛！~ 夏木玲",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "接吻",
+    "美少女",
+    "自慰",
+    "清純",
+    "癡女",
+    "手指插入",
+    "約炮",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240505/5ef081de-0a37-416a-bd9c-86e15a94da79.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240505/5ef081de-0a37-416a-bd9c-86e15a94da79.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15000",
+  "actresses": [
+    {
+      "name": "凰華鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/ec9a896b-e317-44ce-9a1b-7c45fe76015a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15000&name=凰華鈴"
+    }
+  ]
+};

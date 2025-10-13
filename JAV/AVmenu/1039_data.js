@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/06b0309e-6457-494e-b80e-585908cbfedf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1039,
+  "IDcode": "HEYZO-1452",
+  "title": "對騷貨的猥褻懲罰〜母狗般的粗暴操逼〜 - 今野杏美南",
+  "publish_date": "2017-04-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014820915915.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240105/20240105014820915915.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1039",
+  "actresses": []
+};

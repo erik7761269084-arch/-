@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a4ea5434-580b-4c13-87ed-91921c7ebc91/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/04/10/45f61389/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8293,
+  "IDcode": "PPPE-298",
+  "title": "尷尬又淫蕩，陰部溼透了，沒有胸罩。當然是全裸的。隔着布料的乳房比裸露的奶子更誘惑。",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "PPPE-298为OPPAI出品,2025年2月18日发行的有碼成人影片由優梨舞奈出演\n刻意隱藏美麗G罩杯的無胸罩享受計畫！透過一層布料看到乳房不是比裸露的乳房更刺激和色情嗎？ ？戴著面具的巨乳女孩經歷了一系列的羞恥過程，包括不戴胸罩在城裡閒逛、不戴胸罩穿著衣服做愛、不戴胸罩衝上山、不戴胸罩失禁自慰、被人抱起不戴胸罩做愛——所有這一切都同時暴露出她衣服下突出的兩個勃起的乳頭！乳頭摩擦的尷尬與快感讓她的陰部潮水般湧來！隱藏乳房、完全暴露陰部的性愛充滿戀物癖，超級色情！最後她的乳頭會露出來嗎…？ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130757542121.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/202502130757542121.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8293",
+  "actresses": [
+    {
+      "name": "優梨舞奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/3b5f67c7-5ffe-4113-975f-8a0d92275bf5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8293&name=優梨舞奈"
+    }
+  ]
+};

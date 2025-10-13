@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/14/c8427376/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105382,
+  "IDcode": "IPZ-025",
+  "title": "甜蜜陷阱 希志愛野",
+  "publish_date": "2013-01-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "各种职业",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/14/da1e63f6ad0f8b5dab0c4c0382614d53.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105382",
+  "actresses": [
+    {
+      "name": "希志爱野",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/e3a956d5-5439-4fcb-b145-ebe8d5d15528.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105382&name=希志爱野"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105382&name=小田切ジュン"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105382&name=しみけん"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105382&name=玉木玲"
+    }
+  ]
+};

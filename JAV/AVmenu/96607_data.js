@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/08/4e40e676/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96607,
+  "IDcode": "ABP-295",
+  "title": "僅限此片無套中出 柚月愛",
+  "publish_date": "2015-05-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "角色扮演",
+    "玩具",
+    "拘束",
+    "赛车女郎",
+    "无码破解",
+    "靴子",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96607",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96607&name=大岛丈"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96607&name=南佳也"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96607&name=沢井亮"
+    },
+    {
+      "name": "戸川夏也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96607&name=戸川夏也"
+    },
+    {
+      "name": "柚月あい",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/541abf04f39c2f7f2ea3aa5872447a0a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96607&name=柚月あい"
+    }
+  ]
+};

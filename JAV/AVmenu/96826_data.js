@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/26/5d0d0577/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96826,
+  "IDcode": "KSBJ-314",
+  "title": "【FANZA限定】絶倫義父に何度もイカされ中出しを許してしまったご無沙汰敏感妻 白石もも 生写真とパンティ付き",
+  "publish_date": "2024-06-19",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "口交",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96826",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96826&name=白石桃"
+    }
+  ]
+};

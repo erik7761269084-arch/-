@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/29/27aaf8bb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61704,
+  "IDcode": "ROE-395",
+  "title": "『この家、平日は主婦一人で中出し可』 玄関マーキングされた人妻 ふと、ポストの下を覗けば…。『日中、女ひとり』、『即ヤレる』危険なマークで埋め尽くされて―。 葉月保奈美",
+  "publish_date": "2025-08-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/057fbdec/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61704",
+  "actresses": [
+    {
+      "name": "葉月保奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20250111/0874294e-dfac-4e71-a374-2e567149c0e4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61704&name=葉月保奈美"
+    }
+  ]
+};

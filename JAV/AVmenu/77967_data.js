@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/YqFzC3cH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77967,
+  "IDcode": "KAWD-584",
+  "title": "真夏のムレッムレッ逆痴漢電車",
+  "publish_date": "2014-10-18",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77967",
+  "actresses": []
+};

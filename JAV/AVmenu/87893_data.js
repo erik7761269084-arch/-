@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/19/fe814da2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87893,
+  "IDcode": "ROE-132",
+  "title": "憧れの叔母に媚薬を盛り続けて10日後、ガンギマリ中出しハメ放題のアヘアヘ肉便器になった…。 一色桃子",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "药物",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/8a3523360b3cef0efa09c9ac38cdf1bf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87893",
+  "actresses": [
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87893&name=一色桃子"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87893&name=日森一"
+    }
+  ]
+};

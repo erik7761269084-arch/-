@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/10/e4818f2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66647,
+  "IDcode": "SSIS-328",
+  "title": "討厭到要死、又噁心、瘋狂的繼父喜歡的是身為女學生的我... 架乃由良",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "制服",
+    "薄马赛克",
+    "乳房",
+    "偷窥",
+    "美少女电影",
+    "单体作品",
+    "养女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66647",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66647&name=架乃由羅"
+    }
+  ]
+};

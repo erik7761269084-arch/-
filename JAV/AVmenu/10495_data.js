@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cbccabb6-f137-4ca2-bee1-d9eef4118b20/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/21/c36170b1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10495,
+  "IDcode": "FSDSS-919",
+  "title": "[天使萌策劃！！]從尾行到得到天使萌的全過程，每天都做愛的恩愛生活 ~ 天使萌",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "尾行",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "手指插入",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122000944412412.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122000944412412.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10495",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10495&name=天使萌"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10495&name=蓝井优太"
+    }
+  ]
+};

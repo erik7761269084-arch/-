@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/02/2e04c219/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88598,
+  "IDcode": "DVAJ-607",
+  "title": "DVAJ-607",
+  "publish_date": "2023-02-14",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "巨大屁股",
+    "蒙面・面罩",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88598",
+  "actresses": [
+    {
+      "name": "宝生めい",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/938134a7-6744-473d-923a-ba7db44f2d99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88598&name=宝生めい"
+    },
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88598&name=若槻みづな"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88598&name=タツ"
+    }
+  ]
+};

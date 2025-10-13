@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86999b68-f80b-4b32-a1d2-b6ad9ee27e78/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/a5d48057/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4383,
+  "IDcode": "PKPD-377",
+  "title": "半中半外半女友的曖昧關係 ~ 由良佳奈",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "PKPD-377为妄想族出品,2025年7月12日发行的有碼成人影片由由良佳奈出演\n不想談戀愛，但又超想來場甜到爆的啪啪啪？想約個浪漫date，卻不想被管得死死的？這種剛剛好的關係真的不好找啦！佳奈醬一有空就互相掛念，忍不住來個中出play。雖然沒說要正式交往，但其實也在跟其他妹子偷偷滾床單。不過，她還是超不希望對方花心，每次見面都甜到不行又超激烈地直接H。這到底是炮友，還是女友啦？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/202507151036132929_94030_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250715/202507151036132929_94030_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4383",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4383&name=由良佳奈"
+    }
+  ]
+};

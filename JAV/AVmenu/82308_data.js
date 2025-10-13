@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/16/e64d85e0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82308,
+  "IDcode": "DASD-426",
+  "title": "色白華奢巨乳の彼女がDQNな先輩に寝取られ種付けプレスされていた。 もりの小鳥",
+  "publish_date": "2018-04-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82308",
+  "actresses": [
+    {
+      "name": "もりの小鸟",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82308&name=もりの小鸟"
+    }
+  ]
+};

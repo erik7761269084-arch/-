@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/ttQ7EoXj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79532,
+  "IDcode": "ROE-009",
+  "title": "元国際線CA MONROE専属第2弾！！ 隣の人妻家庭教師～高学歴スレンダー美熟女に教わる大人の手ほどき～ 坂井希",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "家教",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/75f12f226e73d4f20a27560fc8b9deeb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79532",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/yPvj4zLR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80088,
+  "IDcode": "PRED-352",
+  "title": "元女子アナお姉さんにデカチン追撃ピストン「もうイってるってばぁ」3本番 与田さくら",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "姐姐",
+    "苗条",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/5122572ba674d9b53c511c44c082fd96.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80088",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80088&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80088&name=イセドン内村"
+    }
+  ]
+};

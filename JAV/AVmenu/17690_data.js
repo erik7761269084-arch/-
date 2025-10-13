@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7c838a7c-5811-4da7-b92a-68a2a51496f4/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20230729/L8Yb3wSy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17690,
+  "IDcode": "IPX-941",
+  "title": "壓倒的淫裸。 快感絶頂4本番特別編 都月琉衣紗",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "潮吹",
+    "口交",
+    "姐姐・妹妹",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "猥褻穿著",
+    "抹油",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231124/f51a3a16-038e-4495-8b3c-b772dbb5d71d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231124/f51a3a16-038e-4495-8b3c-b772dbb5d71d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17690",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17690&name=都月楓"
+    }
+  ]
+};

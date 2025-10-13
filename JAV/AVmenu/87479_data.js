@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230728/HvCjHHyY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87479,
+  "IDcode": "HZGB-037",
+  "title": "6周年記念！！孕ませ中出し50連発 超高画質【4K】Ultra HD収録作品 永久保存版",
+  "publish_date": "2022-08-12",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230728-1/badbb5df4b52a79133f7b3d277ab5cfa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87479",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=森澤佳奈"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=藤森里穂"
+    },
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=鈴木真夕"
+    },
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=夏希栗"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=春菜华"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=蓮実クレア"
+    },
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=七海雛"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=安倍亜沙美"
+    },
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=长瀬麻美"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87479&name=新井爱丽"
+    }
+  ]
+};

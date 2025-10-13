@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dba441a3-699f-4177-8b71-39a7e0f4bc47/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/a4fd11f9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6402,
+  "IDcode": "NACR-954",
+  "title": "抖M覺醒人妻奴隸 ~ 瀬田一花",
+  "publish_date": "2025-05-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "4K",
+    "色白",
+    "凌辱",
+    "中出",
+    "蒙面・面罩",
+    "女上位",
+    "口交",
+    "白眼失神",
+    "胖女人",
+    "騎乗位",
+    "口爆",
+    "單體作品",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "豐滿"
+  ],
+  "description": "NACR-954为PLANETPLUS出品,2025年5月5日发行的有碼成人影片由瀬田一花出演\n只穿一件薄外套就上門的人妻，路上早就濕得一塌糊塗，根本是個超級變態的抖M騷貨！正在調教中的她對我言聽計從，玄關處直接蒙眼口活，插進去後更是求著內射不休……遞給她玩具，她四腳著地爬著追，慾罷不能！一步步墮落成更極品的抖M奴隸，簡直讓人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213401134134_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213401134134_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6402",
+  "actresses": [
+    {
+      "name": "瀬田一花",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/094e17d8-31bd-46e0-a18b-6a268f141685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6402&name=瀬田一花"
+    }
+  ]
+};

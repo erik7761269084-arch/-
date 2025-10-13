@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45ef5b99-d153-4a51-affe-e601a3ffd8dd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2308,
+  "IDcode": "SAME-168",
+  "title": "被最討厭的男人侵犯後，那狂野的腰技讓我魂牽夢縈 ~ 吹石玲奈",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "後入",
+    "劇情",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "胸控・戀乳癖",
+    "女上位",
+    "重口味",
+    "口交",
+    "港區女子",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "運動女孩",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "職場",
+    "熟女",
+    "大奶头",
+    "辣妹/GAL系",
+    "寢取",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "SAME-168为ATTACKERS出品,2025年10月2日发行的有碼成人影片由吹石玲奈出演\n麗美曾是職業衝浪選手，退役後加入一家專注海洋運動活動的公司。從入職起就受到老闆青木不少照顧，而青木最大的夢想就是進軍熱門音樂節市場。當他得知麗美認識音樂節主辦人杉浦時，拼命懇求她幫忙搭線。但麗美深知杉浦那不可一世的態度，內心掙扎著要不要聯繫。而這一切背後，還隱藏著一段讓她面紅耳赤的秘密，那晚被侵犯的羞恥與刺激，至今仍讓她心癢難耐，無法忘懷……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035729472472_76131_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035729472472_76131_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2308",
+  "actresses": [
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2308&name=吹石玲奈"
+    }
+  ]
+};

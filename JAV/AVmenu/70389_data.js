@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/15/afa99fc6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70389,
+  "IDcode": "MKMP-622",
+  "title": "ごっくんNTR 離婚と共に僕たちの新居に居候してきた嫁の親友は、寂しさと罪悪感とともに精子を飲み込み続けた。逢月ひまり",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "出轨",
+    "口交",
+    "吞精",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/afa99fc6/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70389",
+  "actresses": []
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/CwUz2pAI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78723,
+  "IDcode": "SPRD-1411",
+  "title": "あん時のせフレは…となりのノーブラ奥さん 成宮いろは",
+  "publish_date": "2021-05-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78723",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78723&name=成宫いろは"
+    }
+  ]
+};

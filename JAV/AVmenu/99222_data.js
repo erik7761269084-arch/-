@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/E176187277B714CB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99222,
+  "IDcode": "MUDR-057",
+  "title": "制服美少女がご奉仕する秘密の中出しソープランド 阿由葉あみ",
+  "publish_date": "2018-11-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "美少女",
+    "中出",
+    "无毛",
+    "妓女",
+    "数位马赛克",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99222",
+  "actresses": [
+    {
+      "name": "阿由葉あみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240410/7d176f02-761e-4ff5-a9e1-8c361edc1ead.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99222&name=阿由葉あみ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/nTHxOSz0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82812,
+  "IDcode": "FERA-35",
+  "title": "父さんが戻ってくるまであと1分！！突如ムラムラしてきちゃった母と息子の抑えきれない猛烈交尾！！ 藤波さえ",
+  "publish_date": "2014-12-25",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "母亲",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82812",
+  "actresses": [
+    {
+      "name": "藤波さえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82812&name=藤波さえ"
+    }
+  ]
+};

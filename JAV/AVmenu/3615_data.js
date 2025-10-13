@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a773da68-4500-4caf-afdd-d6f4c37cb421/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/29/290ad28d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3615,
+  "IDcode": "MIDA-239",
+  "title": "好想被親爆...打工小妹竟是接吻狂魔，週末我把女友拋腦後瘋狂開幹 ~ 七澤美亞",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "二次元",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "小三・情人",
+    "不倫",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "清純",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "MIDA-239为MOODYZ出品,2025年8月14日发行的有碼成人影片由七泽美亚出演\n我的心跟身體全被打工處的小妹七澤美亞給迷住了！明明知道前輩你有深愛的女友，但我就是控制不住喜歡你。只要有時間，我就想跟你親到天荒地老，感受你嘴唇的柔嫩，舌頭跟唾液糾纏交融，恨不得跟你合為一體。讓我來滿足你所有的渴望，讓你在我的懷裡一次次解放！抱歉，我已經完全把女友拋諸腦後...這小惡魔般的誘惑，真的讓人理智崩壞，爽到骨子裡！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022829700700_41516_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022829700700_41516_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3615",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3615&name=七泽美亚"
+    }
+  ]
+};

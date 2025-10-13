@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/02/51a64607/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92191,
+  "IDcode": "MIAA-948",
+  "title": "ガキのパンツに興奮するの？脱ぎたてふかふか綿パンで叔父の精子を一滴残らず搾りとる小悪魔姪っ子 百瀬あすか （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "口交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92191",
+  "actresses": [
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92191&name=小栗操"
+    }
+  ]
+};

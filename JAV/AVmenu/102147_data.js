@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240525/bqxvUchT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102147,
+  "IDcode": "MILF-040",
+  "title": "MILF-040",
+  "publish_date": "2023-01-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "自慰",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_189milf040/h_189milf040pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102147",
+  "actresses": []
+};

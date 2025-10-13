@@ -1,0 +1,29 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 80236,
+  "IDcode": "HODV-21630",
+  "title": "百永さりな、ただいま発情中！！ メス盛り イカせるのが大好き◆ パンティと生写真付き",
+  "publish_date": "2021-12-03",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "M男",
+    "潮吹",
+    "和服，丧服",
+    "靴子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80236",
+  "actresses": [
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80236&name=黑川纱里奈"
+    }
+  ]
+};

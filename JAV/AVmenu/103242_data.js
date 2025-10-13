@@ -1,0 +1,21 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103242,
+  "IDcode": "JCKL-192-",
+  "title": "浮かれたシロウトwこの娘たち、ぜ～んぶ渋●でナンパしてSEX！！",
+  "publish_date": "2018-10-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "业余",
+    "猎艳",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103242",
+  "actresses": []
+};

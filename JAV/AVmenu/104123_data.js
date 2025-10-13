@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240630/aOLhpjXx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104123,
+  "IDcode": "INU-030",
+  "title": "従順ペット候補生 ＃014 小倉ゆず",
+  "publish_date": "2012-01-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "无毛",
+    "多P",
+    "潮吹",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104123",
+  "actresses": [
+    {
+      "name": "小仓柚子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104123&name=小仓柚子"
+    }
+  ]
+};

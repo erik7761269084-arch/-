@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250505/bbOgLTYi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66669,
+  "IDcode": "GANA-2991",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 332 モデル級のスタイル！新宿の服屋で働く長身スレンダーお姉さんは誘い受けのあざと女子！色白なプリ尻と美乳に勃起不可避ww",
+  "publish_date": "2024-01-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "姐姐",
+    "高",
+    "业余",
+    "乳房",
+    "猎艳",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/f4ac44f9b5075d446fe73aff7895d8b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66669",
+  "actresses": [
+    {
+      "name": "みおん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66669&name=みおん"
+    }
+  ]
+};

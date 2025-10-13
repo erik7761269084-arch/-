@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6eb38b12-6d33-4c6c-9e2b-4383b00b2075/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/14/95fa1b8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17100,
+  "IDcode": "JUQ-453",
+  "title": "現場雙人NTR - 隔着薄布對人妻進行猥褻處理達到高潮",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "在丈夫面前被操",
+    "3P・4P",
+    "按摩・物理治療・美容",
+    "中出",
+    "美乳",
+    "口交",
+    "多P",
+    "美腳",
+    "調戲",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-453为MADONNA出品,2023年12月26日发行的有碼成人影片由水户香奈出演\n與妻子佳奈結婚三年後，我一段時間以來第一次接到前同事瀧本的電話。以前他們爲了經理的位置而爭吵，但瀧本讓她成爲兩人現場按摩的組長，作爲調解的方式，她爽快地答應了。然後，在進行雙人按摩的那天，我和假名之間放置了一個隔斷，並給了我一個眼罩和耳機，因爲它只對我有效。他並不知道，妻子就在他面前穿着透明紙內褲，在接受猥褻時被強奸……\n與妻子佳奈結婚三年後，我一段時間以來第一次接到前同事瀧本的電話。以前他們爲了經理的位置而爭吵，但瀧本讓她成爲兩人現場按摩的組長，作爲調解的方式，她爽快地答應了。然後，在進行雙人按摩的那天，我和假名之間放置了一個隔斷，並給了我一個眼罩和耳機，因爲它只對我有效。他並不知道，妻子就在他面前穿着透明紙內褲，在接受猥褻時被強奸……",
+  "cover_url": "https://picture.yoshiclub.xyz/20231224/32eaae45-0142-424e-b27e-eb6a14c05347.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231224/32eaae45-0142-424e-b27e-eb6a14c05347.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17100",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17100&name=水户香奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17100&name=左慈半造"
+    }
+  ]
+};

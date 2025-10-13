@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/10/40969fd9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105917,
+  "IDcode": "JUY-843",
+  "title": "抱かれたくない男に死にたくなるほどイカされて… 美谷朱里",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "羞耻",
+    "乳房",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105917",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105917&name=美谷朱里"
+    }
+  ]
+};

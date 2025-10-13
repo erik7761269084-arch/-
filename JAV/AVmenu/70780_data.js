@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250308/iFOVwxZi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70780,
+  "IDcode": "JUL-058",
+  "title": "神々しいGカップの大型新人中出し解禁！！ 夫と子作りSEXをした後はいつも義父に中出しされ続けています…。 栗栖みなみ",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70780",
+  "actresses": [
+    {
+      "name": "天沢ゆきね",
+      "img_url": "https://picture.yoshiclub.xyz/20240812/a487922b-a365-4c1a-9229-26072d2f6dfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70780&name=天沢ゆきね"
+    }
+  ]
+};

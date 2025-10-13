@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230908/Q1M8R0tX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54649,
+  "IDcode": "F9AAAFBE89072A74B1D365C3C6B1F8FE",
+  "title": "肛门图鉴 朝比奈菜菜子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54649",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56778019-3c34-40c6-b8a5-bff6f3b9f4fd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8739,
+  "IDcode": "SAN-311",
+  "title": "工作是氣場強大的女上司其實是M妹 ~ 池尻みなみ 六華ノア",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "加班",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "肉絲",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "辦公室",
+    "M男・M女",
+    "美人",
+    "女上司",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250128/20250128021351911911.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250128/20250128021351911911.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8739",
+  "actresses": [
+    {
+      "name": "六華ノア",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/011478c7-b331-4fd7-b7aa-3be0eca34e83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8739&name=六華ノア"
+    },
+    {
+      "name": "池尻みなみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250128/88001a31-0aef-4b98-b2d9-7a158dc01454.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8739&name=池尻みなみ"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e5c5886d-98f1-42eb-acdf-2844bbab8091/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241029/p7uPhfmX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14058,
+  "IDcode": "START-116",
+  "title": "我每天都和實習老師在學校裏互相舔舐、做愛。~ 葵七瀨",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "警察制服",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "更衣室",
+    "清純",
+    "癡女",
+    "校園生活",
+    "图书馆",
+    "手指插入",
+    "學校",
+    "眼鏡",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "START-116为SOD出品,2024年7月1日发行的有碼成人影片由葵七濑出演\n教學生的吉村先生是人人都討厭的。我並不討厭它，但它引起了我的注意。有一天，社團活動結束後，我滿頭大汗的身體被老師舔了舔。從那以後，即使我不肯，每天我還是被要求舔對方。我老師溫暖的舌頭和他堅硬的雞巴的感覺真是太好了……我可能永遠不會回去了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/91ee5543-9860-4075-827b-3fd54e9b0c08.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/91ee5543-9860-4075-827b-3fd54e9b0c08.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14058",
+  "actresses": [
+    {
+      "name": "葵七濑",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/0f194612-ba5e-4995-8322-19c58ff3e5b6.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14058&name=葵七濑"
+    }
+  ]
+};

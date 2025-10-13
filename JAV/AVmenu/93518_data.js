@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/HDZMk6Bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93518,
+  "IDcode": "NINE-092",
+  "title": "痴上最高のガチムチ水泳体型のマッチョ豊満爆乳爆尻女！南畑颯花SUPER BEST 12SEX収録 4時間",
+  "publish_date": "2024-07-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "巨乳",
+    "胖女人",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93518",
+  "actresses": []
+};

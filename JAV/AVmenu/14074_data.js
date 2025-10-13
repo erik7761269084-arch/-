@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c2b87cff-7d19-44a1-8227-d6311aff8bf6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14074,
+  "IDcode": "CEMD-535",
+  "title": "如果把波多野結衣灌醉? - 真正的性愛記錄，性欲暴走做愛 - 波多野結衣",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "酒醉",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "酒後亂性",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "口交",
+    "性感",
+    "慾求不滿",
+    "明星臉",
+    "情趣內衣",
+    "巨乳",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240610/6db16a0e-0b68-4072-8364-edec7e85083a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240610/6db16a0e-0b68-4072-8364-edec7e85083a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14074",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14074&name=波多野结衣"
+    }
+  ]
+};

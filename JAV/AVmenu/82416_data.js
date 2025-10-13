@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/12/f22a4539/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82416,
+  "IDcode": "GVG-402",
+  "title": "嫁を他の男に抱かせて興奮する夫 佐々木あき",
+  "publish_date": "2016-12-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/3056d39c9928f6c9695b7efb6080b935.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82416",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82416&name=佐佐木明希"
+    }
+  ]
+};

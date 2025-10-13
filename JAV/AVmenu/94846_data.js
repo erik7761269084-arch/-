@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241103/ndjcmnMR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94846,
+  "IDcode": "SW-958",
+  "title": "黒パンスト尻がステキ過ぎる女上司の誘惑 仕事ができなくても、チ○ポビンビンにさせて私を気持ちよくしてくれるなら許してあげる！だから、もっと激しく突いて！",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/18103357bee3af266251b9481cddfe11.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94846",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94846&name=美澄玲衣"
+    },
+    {
+      "name": "透美かなた",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2004bea4-bc98-4b9b-8762-1b22bd0426e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94846&name=透美かなた"
+    },
+    {
+      "name": "七瀨詩音",
+      "img_url": "https://picture.yoshiclub.xyz/20231230/b193fd6d-1ce3-42a9-9cc9-5cad12cb909d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94846&name=七瀨詩音"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6cdd02e1-accd-4077-8ad8-0fe503638c11/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12986,
+  "IDcode": "CAWD-711",
+  "title": "睜開眼睛，感受人生第一次無套性愛 x 怒濤鬼追擊大力抽插 x Kawaii 卒業紀念 ~ 鬆井日奈子",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "紀念作",
+    "中出",
+    "蕩婦",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "美少女",
+    "緊縛",
+    "抹油",
+    "女優"
+  ],
+  "description": "CAWD-711为KAWAII出品,2024年8月6日发行的有碼成人影片由松井日奈子出演\n他畢竟不是一個普通人。松井日菜子摧毀了她作為前名人的頭銜，並以其極其堅硬的性行為給她的處女作留下了強烈的影響。她在第四次 AV 拍攝中突破了自己的極限，這標誌著她從卡哇伊*畢業。我的第一個原始陰莖，原始性愛......我終於超越了只有0.01到0.03毫米的障礙。這是完全不同的……感覺很好……感覺太好了……不僅僅是禁慾，不僅僅是春藥，生陰莖的破壞力令人難以置信。體內射精的禁令也解除了。我想讓你知道我的陰莖在射精的那一刻擴張到最大的快感，所以即使我說不，我也會在陰道內射精，而不會拔出。我被一種從未有過的狂喜感襲擊了…她的陰部變得異常興奮，令人難以置信地射精……她的整個身體以可怕的方式抽搐，她的眼睛睜開，她心不在焉地射精……松井日菜子不是普通人。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802000741146146.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802000741146146.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12986",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12986&name=松井日奈子"
+    }
+  ]
+};

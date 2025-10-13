@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/07/4b691562/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100668,
+  "IDcode": "ADN-075",
+  "title": "若妻の揺れる乳房 松本メイ",
+  "publish_date": "2015-10-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "凌辱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100668",
+  "actresses": [
+    {
+      "name": "松本芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20240522/a9640024-e2c8-4c8d-aafd-76ab2005b3e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100668&name=松本芽依"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100668&name=田渊正浩"
+    }
+  ]
+};

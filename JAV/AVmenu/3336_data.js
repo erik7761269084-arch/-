@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e2f2ee55-713e-4fe5-ad49-cf5a9c61e117/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/324c3ef6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3336,
+  "IDcode": "ROE-389",
+  "title": "暗戀的阿姨被我下媚藥10天後，徹底淪為瘋狂中出的肉便器 ~ 愛田流花",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "流汗",
+    "中出",
+    "美乳",
+    "四十路",
+    "拘束・拷問",
+    "女上位",
+    "重口味",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "不倫",
+    "迷姦",
+    "舔陰",
+    "慾求不滿",
+    "緊縛",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "熟女",
+    "阿姨・侄子",
+    "羞恥"
+  ],
+  "description": "ROE-389为MADONNA出品,2025年8月21日发行的有碼成人影片由愛田流花出演\n一直迷戀那位美艷動人的阿姨，為了讓她成為我的專屬玩物，我上網找了配方自己調製媚藥。今年夏天，住進阿姨家，終於等到下手的機會。趁她不注意，一滴、兩滴、三滴，劑量慢慢加碼偷偷下藥。眼看阿姨身體發燙，喘息越來越急促，扭動著身子，眼神都迷離了，顯然已經失去理智。到了第10天，她終於按捺不住撲向了我，從此變成我隨意擺弄的肉便器，夜夜狂歡，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024839651651_90822_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024839651651_90822_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3336",
+  "actresses": [
+    {
+      "name": "愛田流花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/e13569cd-2fc5-46fa-aca7-3968de4a8513_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3336&name=愛田流花"
+    },
+    {
+      "name": "なっつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3336&name=なっつ"
+    },
+    {
+      "name": "爱田るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3336&name=爱田るか"
+    }
+  ]
+};

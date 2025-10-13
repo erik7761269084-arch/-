@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241016/hWjwxysS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93816,
+  "IDcode": "PKPL-043",
+  "title": "恋人いちゃラブドキュメント 神スタイルのえちえちお姉さん 乃木ちはるちゃんと1日イチャイチャデート （BOD）",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "乳房",
+    "纪录片",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93816",
+  "actresses": [
+    {
+      "name": "乃木ちはる",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/bd42706f-0f7c-40ea-8517-eddba0bc30e2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93816&name=乃木ちはる"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d4e6d0f0-5649-4fc7-97ae-5924737a06a7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11736,
+  "IDcode": "START-156",
+  "title": "配送中NTR 已婚人妻搭檔一個猥瑣的老頭司機配送工作時被襲擊 ~ 宮島芽衣",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "痴漢",
+    "劇情",
+    "老頭子",
+    "變態",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240924/752e49dd-45a8-46e0-a9b7-70c2e059f202.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240924/752e49dd-45a8-46e0-a9b7-70c2e059f202.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11736",
+  "actresses": [
+    {
+      "name": "宮島芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20241126/9ac5abc7-e67d-467d-8830-357eff61bf9a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11736&name=宮島芽衣"
+    }
+  ]
+};

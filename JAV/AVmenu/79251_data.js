@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/25/8e38c40f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79251,
+  "IDcode": "STARS-388",
+  "title": "ゲリラ豪雨の夜に憧れの女上司と会社で2人きり…帰れなくなった僕らは朝までSEXしまくった 青空ひかり",
+  "publish_date": "2021-07-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "中出",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79251",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79251&name=青空光"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79251&name=蓝井优太"
+    }
+  ]
+};

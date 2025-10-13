@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/18/3f2c0860/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89091,
+  "IDcode": "WAAA-283",
+  "title": "「もうイッてるってばぁ！」状態で何度も中出し！ 本田もも",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89091",
+  "actresses": []
+};

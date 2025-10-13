@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2800b47a-eeb6-4b2b-833a-a9d8bde58dc7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/26/1fc9a6fc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16332,
+  "IDcode": "STARS-994",
+  "title": "紗倉真菜的工作是在更衣室後面被轮奸射精，以此作爲擺脫性欲的手段。",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "3P・4P",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "輪姦",
+    "多P",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "學校",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "STARS-994为SOD出品,2024年3月7日发行的有碼成人影片由纱仓真菜出演\n“我夢想的工作是我必須一次又一次地在陰道深處射精。”紗倉真菜的人生目標是娛樂他人，她決定兼職做節目主持人。事實上，它是由無良的娛樂公司經營的，許多訴訟演員負債累累，公司在那裏提供性好處，以維持他們的工作動力。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213012648316316.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240213/20240213012648316316.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16332",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16332&name=纱仓真菜"
+    }
+  ]
+};

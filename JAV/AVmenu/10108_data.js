@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f89d4593-9903-48e5-a3cc-c499dbefab69/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10108,
+  "IDcode": "HZGD-288",
+  "title": "狂愛 - 跟蹤不忠巨乳人妻讓她淹沒在愛情和性欲中 ~ 星七奈奈美",
+  "publish_date": "2024-12-13",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "尾行",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "鄰居",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241207/8c2186d4-e047-43f6-a2a0-7333b0d92750.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241207/8c2186d4-e047-43f6-a2a0-7333b0d92750.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10108",
+  "actresses": [
+    {
+      "name": "星七奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/3d24007e-8ff5-45d7-9377-25fe6f69dc36.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10108&name=星七奈奈美"
+    }
+  ]
+};

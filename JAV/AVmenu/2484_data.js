@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/c097d19c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2484,
+  "IDcode": "HALT-070",
+  "title": "短髮OL甜美笑容背後是大臀黑絲美腿，溫柔痴女調教讓人忍不住連連爆射 ~ 天月梓",
+  "publish_date": "2025-09-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "完全着衣",
+    "手指插入",
+    "足交",
+    "辦公室",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "職場",
+    "短髮",
+    "豐滿"
+  ],
+  "description": "HALT-070为妄想族出品,2025年9月19日发行的有碼成人影片由天月梓出演\n這位短髮OL笑起來超甜，看起來就是個普通的辦公室小姊姊，但誰知道她私下是個超會撩的溫柔痴女！她用那誘人的大臀和黑絲美腿一步步把你逼到角落，腳踩臉頰、腿夾頭部，還用大臀直接壓上來，嘴上說著“叫這麼大聲，被別人聽到怎麼辦啦？”，卻讓你越被羞辱越興奮！明明喘不過氣，卻還想被她多玩一會兒，最後直接穿著衣服就忍不住爆射好幾次，爽到不行啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919054515956956_35466_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250919/20250919054515956956_35466_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2484",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2484&name=天月梓"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230726/8RIKR75g/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87409,
+  "IDcode": "DGCEMD-240",
+  "title": "★配信限定！特典映像付★隣に引っ越してきた若妻痴女のドエロいパンチラ誘惑3 美波もも",
+  "publish_date": "2022-09-24",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "内衣",
+    "超乳",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87409",
+  "actresses": []
+};

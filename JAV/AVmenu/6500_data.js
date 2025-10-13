@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d4fe633d-63ab-41a2-b4f0-e44d22aba249/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/25/25dee70f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6500,
+  "IDcode": "ADN-690",
+  "title": "還想要這份工作的話，就把你老婆給我操一個月唄！無法拒絕的情況下老婆最終被上司睡了 ~ 海老咲碧",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "內衣",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "欠債肉償",
+    "NTR",
+    "美人",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "ADN-690为ATTACKERS出品,2025年5月2日发行的有碼成人影片由海老咲碧出演\n手下有个超正点的老婆，婚礼上看到那妞我直接眼红得不行。脑子里就一个念头，咋能合法地把她弄上床呢？正琢磨着，这哥们儿居然在订单上搞错了数字，这要是被上面知道，铁定被开除啊。于是我大发慈悲，给他条生路：哥帮你扛下这锅，但你得把你老婆借我一个月。丢了工作，连这么漂亮的老婆都得跑路，他还能说个不字？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041633701701_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041633701701_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6500",
+  "actresses": [
+    {
+      "name": "海老咲碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/48b52330-5465-4e18-8d80-4944b87eee01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6500&name=海老咲碧"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6500&name=左慈半造"
+    }
+  ]
+};

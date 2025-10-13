@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/906ec08b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64002,
+  "IDcode": "MBRK-014",
+  "title": "無感情、冷徹、興味なし、これがトー横女子のリアル ～だけど僕らのような●げられたいM男にはたまらないんです…～ るるちゃ",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "玩具",
+    "M男",
+    "乳液",
+    "连裤袜",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/28/906ec08b/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64002",
+  "actresses": [
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=64002&name=有栖露露"
+    }
+  ]
+};

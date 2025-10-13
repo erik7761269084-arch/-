@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27990e1c-0c8b-4214-82e6-269b72a435c7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11598,
+  "IDcode": "SQTE-567",
+  "title": "和傳聞中的淫蕩的生活委員發生性關系吧 ~ 沙月惠奈",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "校園生活",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240930/2116e289-8b2d-497f-ada1-4b89a47f8efc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240930/2116e289-8b2d-497f-ada1-4b89a47f8efc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11598",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11598&name=沙月惠奈"
+    }
+  ]
+};

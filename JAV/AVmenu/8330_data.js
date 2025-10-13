@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cdc0aa09-8c3c-4f4e-9a9b-a74113525f6a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/02/3e530ca4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8330,
+  "IDcode": "FSDSS-912",
+  "title": "男子毫無防備的被癡女突然逆向CKN襲擊 ~ 臼井理佳",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "網襪",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "顏射",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "金髮",
+    "御姐系",
+    "情趣內衣",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "辣妹/GAL系",
+    "短髮",
+    "無毛"
+  ],
+  "description": "FSDSS-912为FALENO出品,2025年3月6日发行的有碼成人影片由臼井理佳出演\n臼井理佳突然變身逆襲性騷擾者，用性感魅力吞噬男人！這是一個夢幻般的色情場景，當她聞到信息素時就會興奮起來，并在任何地方被這個好色的婊子操。您一定會被這個超越驚險刺激的淫蕩女人的淫蕩技巧徹底震撼！ “你的陰莖勃起了硬的像石頭，所以你真的希望我對你做一些不雅的事情，不是嗎？”",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213023144944944.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213023144944944.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8330",
+  "actresses": [
+    {
+      "name": "臼井理佳",
+      "img_url": "https://picture.yoshiclub.xyz/20240108/473820e1-0d36-4e0e-b6a4-d307a1f8da86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8330&name=臼井理佳"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8330&name=じゅうもんじ"
+    },
+    {
+      "name": "マサムー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8330&name=マサムー"
+    }
+  ]
+};

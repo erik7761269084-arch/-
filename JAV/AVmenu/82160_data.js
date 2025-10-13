@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/uvmgikcs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82160,
+  "IDcode": "NITR-497",
+  "title": "尻穴狂い人間失格メスブタ婦人",
+  "publish_date": "2020-04-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "捆绑",
+    "肛交",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82160",
+  "actresses": [
+    {
+      "name": "たかの爱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82160&name=たかの爱"
+    }
+  ]
+};

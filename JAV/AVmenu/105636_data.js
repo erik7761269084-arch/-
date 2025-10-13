@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/17/4073c94b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105636,
+  "IDcode": "SSR-036",
+  "title": "ムレたパンストで股間を挑発する美脚OL",
+  "publish_date": "2014-02-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "荡妇",
+    "舔阴",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105636",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105636&name=通野未帆"
+    },
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105636&name=春原未来"
+    },
+    {
+      "name": "原千草",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/092206b4-4763-4b9d-ace7-0e0acca1f5f8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105636&name=原千草"
+    },
+    {
+      "name": "佐々木恋海",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105636&name=佐々木恋海"
+    }
+  ]
+};

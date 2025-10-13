@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/5c6337d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95090,
+  "IDcode": "SDJS-285",
+  "title": "本気ノーハンドフェラチオスタイル7コーナー全てしゃぶって試す SOD女子社員 第6回フェラチオシンデレラ選手権運営委員会テストプレイヤー制作部AP本多そら",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "眼镜",
+    "颜射",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95090",
+  "actresses": [
+    {
+      "name": "本多そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/34c58f9a-2364-4dc8-b06e-e050bb72390e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95090&name=本多そら"
+    }
+  ]
+};

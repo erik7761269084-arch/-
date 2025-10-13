@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230118/mG2M6qp7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85119,
+  "IDcode": "JUNY-063",
+  "title": "乳首がもの凄く感じ過ぎてお潮が漏れちゃう！豊満むっちりド淫乱インストラクター 南畑颯花",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "潮吹",
+    "巨大屁股",
+    "流汗",
+    "讲师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85119",
+  "actresses": []
+};

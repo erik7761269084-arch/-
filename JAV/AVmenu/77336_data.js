@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241127/5tOkxJFO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77336,
+  "IDcode": "MIST-202",
+  "title": "合法的公然わいせつ！吊り革を掴んだままの痴漢 デリヘル嬢に立ちバックで生挿入！生中出し！6",
+  "publish_date": "2018-03-21",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "中出",
+    "企画",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77336",
+  "actresses": [
+    {
+      "name": "叶月もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77336&name=叶月もえ"
+    },
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77336&name=瀬戸すみれ"
+    },
+    {
+      "name": "松下美织",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/6698d6b1d5a9be1ab3afe5f116755b57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77336&name=松下美织"
+    },
+    {
+      "name": "叶山りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77336&name=叶山りん"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/284b2b39/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73224,
+  "IDcode": "MARAA-209",
+  "title": "ケモミミな彼女/白星優菜",
+  "publish_date": "2025-02-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/284b2b39/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73224",
+  "actresses": [
+    {
+      "name": "白星優菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73224&name=白星優菜"
+    }
+  ]
+};

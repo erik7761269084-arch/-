@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/94ef071c-20a9-434d-97f1-42da52ce075c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11558,
+  "IDcode": "SETM-045",
+  "title": "逆轉 被女上司正法 ~ 紺野光 森澤佳奈 大槻響",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "艷遇",
+    "巨乳",
+    "精選總編集",
+    "足交",
+    "女上司",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241001/20241001015946520520.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241001/20241001015946520520.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11558",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11558&name=森澤佳奈"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11558&name=大槻响"
+    },
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11558&name=绀野光"
+    }
+  ]
+};

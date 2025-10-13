@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/d66863e1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66513,
+  "IDcode": "AARM-296",
+  "title": "四つん這いで竿を後ろに倒してフェラチオしながら同時乳首責め",
+  "publish_date": "2025-06-10",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66513",
+  "actresses": [
+    {
+      "name": "二宮桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/ede5169d-30d5-4ada-a660-d273ea8643a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66513&name=二宮桃"
+    },
+    {
+      "name": "豊岡さつき",
+      "img_url": "https://picture.yoshiclub.xyz/20231228/63f05ddd-9019-4259-be8b-dd0ec2ba913f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66513&name=豊岡さつき"
+    },
+    {
+      "name": "乃南ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20250108/0f305c3d-81ce-4461-891b-b733d701b5ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66513&name=乃南ゆい"
+    }
+  ]
+};

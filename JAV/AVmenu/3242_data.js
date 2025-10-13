@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/50eaf7d6-0da2-40f4-b18f-8f19836bbbfd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3242,
+  "IDcode": "PAKO-093",
+  "title": "新婚不倫，銀行美OL欠債累累用身體還債 NTR",
+  "publish_date": "2025-08-26",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "劇情",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "素人",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "不倫",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "情趣內衣",
+    "清純",
+    "人妻",
+    "手指插入",
+    "欠債肉償",
+    "NTR",
+    "美人",
+    "大奶头",
+    "羞恥"
+  ],
+  "description": "PAKO-093为MERCURY出品,2025年8月26日发行的有碼成人影片\n你家老婆有沒有偷偷背著你欠下巨債啊？別以為剛新婚，漂亮老婆就不會搞外遇！這可不是談戀愛那種小事，而是身體被完全支配的背叛啊！這次的主角是個身材苗條又有些害羞的性感人妻，竟然還是現役銀行職員，絕對是菁英職業沒錯吧！36歲了還這麼美，常常需要接待客戶露面，顏值跟氣質都超讚。但可惜的是，她有個不能說出口的秘密——欠了一大筆債，壓得她喘不過氣，只能用身體去還債……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/202508270031076060_12901_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250827/202508270031076060_12901_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3242",
+  "actresses": []
+};

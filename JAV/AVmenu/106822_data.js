@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/08/c46d8efd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106822,
+  "IDcode": "NSPS-087",
+  "title": "私を好きにしてください… 純情メイド物語 第二章",
+  "publish_date": "2010-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "户外",
+    "女佣"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/08/0e25a9da52478580384dac3a4496f648.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106822",
+  "actresses": [
+    {
+      "name": "辻本亮",
+      "img_url": "https://picture.yoshiclub.xyz/20241031/713b8767-9011-4652-8f01-081329ccd323.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106822&name=辻本亮"
+    }
+  ]
+};

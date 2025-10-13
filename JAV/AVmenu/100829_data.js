@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231107/IKCixNim/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100829,
+  "IDcode": "JUQ-38830",
+  "title": "岁了还是处男的义弟 心生同情后被他拜托插入 水户佳奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100829",
+  "actresses": []
+};

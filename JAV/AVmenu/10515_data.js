@@ -1,0 +1,116 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0bb88b22-b7e1-4822-8403-828ec09343d9/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/e6aecfeb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10515,
+  "IDcode": "SDDE-740",
+  "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "大亂交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "教學",
+    "奇聞趣事",
+    "過膝襪・小腿襪",
+    "癡女",
+    "高跟鞋",
+    "空姐",
+    "奇異的",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10515",
+  "actresses": [
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=五十嵐清華"
+    },
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=響乃詩"
+    },
+    {
+      "name": "天美めあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240524/f18d9f31-53bc-4a92-983c-f22bb4f71d4f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=天美めあ"
+    },
+    {
+      "name": "及川海",
+      "img_url": "https://picture.yoshiclub.xyz/20240104/ea1c595e-a07d-4e7f-a7f4-f866c87c2521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=及川海"
+    },
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=春原未来"
+    },
+    {
+      "name": "道久天",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/101d1efb-bd25-45d2-9693-7990f7c71104.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=道久天"
+    },
+    {
+      "name": "七瀨詩音",
+      "img_url": "https://picture.yoshiclub.xyz/20231230/b193fd6d-1ce3-42a9-9cc9-5cad12cb909d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=七瀨詩音"
+    },
+    {
+      "name": "水瀬りた",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/1d70485b-4d9f-4d4a-bd8c-d4d54011bdad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=水瀬りた"
+    },
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=花芽有朱"
+    },
+    {
+      "name": "朝野りる",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/1fc760f1-167f-48b7-b385-667da8c95d3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=朝野りる"
+    },
+    {
+      "name": "安藤春",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/5bdc66bb-94be-4414-ab3f-76b45ed1f972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=安藤春"
+    },
+    {
+      "name": "れみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=れみ"
+    },
+    {
+      "name": "安藤ハル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10515&name=安藤ハル"
+    }
+  ]
+};

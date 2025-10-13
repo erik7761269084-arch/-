@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/01/d51a4949/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107661,
+  "IDcode": "ACHJ-012",
+  "title": "【FANZA限定】パンストでしか射精できないM男が心底溺れる高級コールガール 北条麻妃 パンティと生写真付き",
+  "publish_date": "2023-07-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "连裤袜",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/01/7471bd43c8e5124c177a159ae8cbb3f5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107661",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107661&name=北条麻妃"
+    }
+  ]
+};

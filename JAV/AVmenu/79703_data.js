@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/07/359bb63f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79703,
+  "IDcode": "BF-644",
+  "title": "全裸よりエロい逆バニーお姉さん 誘惑杭打ち騎乗位中出しホールド 北野未奈",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇",
+    "兔女郎"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/da9ce6eda27b56f3dd8eef3f740e744f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79703",
+  "actresses": []
+};

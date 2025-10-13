@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/35086aad-fabe-4aa1-90fe-98de5657c4af/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/11/6a3ec19f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12175,
+  "IDcode": "SONE-305",
+  "title": "平面模特芸能人 解禁 進擊的4本番 ~ 金鬆季步",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "高妹",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "高跟鞋",
+    "猥褻穿著",
+    "美少女電影",
+    "女優",
+    "芸能人"
+  ],
+  "description": "SONE-305为S1出品,2024年9月10日发行的有碼成人影片由金松季歩出演\n這就是明星的真實性！ ！禁止蕩婦酷刑性行為。與一名中年男子發生激烈的性行為。大量精液射到臉上。成人的私人性行為。到了快樂的最低點……完全的欣快感。 S-1 獨家第三版是由名人變身 AV 女演員釋放的 3 小時真實性愛特輯！高潮接著高潮…然後到另一邊…持續的真正高潮操！ ！金松喜穗第四彈發售！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906005552858858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906005552858858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12175",
+  "actresses": [
+    {
+      "name": "金松季歩",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/e5c09747-beb8-4c07-ab37-76f71e729b61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12175&name=金松季歩"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12175&name=鲛岛"
+    }
+  ]
+};

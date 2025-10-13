@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/12/9b82e64b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104586,
+  "IDcode": "SABA-650",
+  "title": "♯新・制服娘ワリキリ裏￥募集 04 野球部マネージャー みなみ",
+  "publish_date": "2020-10-09",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "制服",
+    "口交",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_244saba650/h_244saba650pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104586",
+  "actresses": []
+};

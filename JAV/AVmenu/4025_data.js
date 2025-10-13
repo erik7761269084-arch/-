@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/80b35d59-c22c-43c4-9bf5-e35cc9640485/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/1c26b977/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4025,
+  "IDcode": "LABY-001",
+  "title": "爺爺與孫女的禁忌之戀 ~ 天乃のあ",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "三和軟體",
+  "genres": [
+    "後入",
+    "孙女・爷爷",
+    "劇情",
+    "淫亂",
+    "老頭子",
+    "變態",
+    "校花",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "單體作品",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "亂倫",
+    "美少女電影",
+    "女學生",
+    "豐滿"
+  ],
+  "description": "LABY-001为三和軟體出品,2025年7月29日发行的有碼成人影片由天乃のあ出演\n男女之間的情感總是像迷宮般撲朔迷離，小のあ心裡藏著無法對外人吐露的煩惱，只好找爺爺傾訴。沒想到這秘密竟是她與繼父發生了肉體關係！爺爺聽完心情沉重，覺得自己無能為力，但看著のあ那迷人的身材，竟有點能體會繼父的衝動。終於，爺爺在のあ熟睡時忍不住伸出了手。のあ用一種看透世事的語氣說：「男人嘛，沒辦法啦……」甚至還輕聲說：「可以喔……」於是兩人徹底陷入禁忌的迷宮，慾罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235637683683_73831_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235637683683_73831_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4025",
+  "actresses": [
+    {
+      "name": "天乃のあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/11323ce3-390d-4768-ab59-6eb113e89679.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4025&name=天乃のあ"
+    }
+  ]
+};

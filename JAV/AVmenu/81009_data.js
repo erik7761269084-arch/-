@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/13/bb3bff27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81009,
+  "IDcode": "ADN-384",
+  "title": "あなた、許して…。 年の差婚の落とし穴2 広瀬りおな",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81009",
+  "actresses": [
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81009&name=廣瀨里緒菜"
+    }
+  ]
+};

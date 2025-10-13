@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221024/A44557CDCBEA8595/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38236,
+  "IDcode": "7A1809C71BB7F1F013D87F65E-3111489",
+  "title": "【無】僕の彼女が水鳥文乃だったら ～休日は一日中白肌に触れていたい～ パート2",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MVG GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38236",
+  "actresses": []
+};

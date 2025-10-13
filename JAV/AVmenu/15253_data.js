@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed0b4a67-a4d9-4a0d-a693-e4836583d72a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/30/b10dba9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15253,
+  "IDcode": "DASS-366",
+  "title": "我的私處被派來的按摩師深深地觸碰，我無法忍受這種快感，當場就被他操了 ~ 弓乃凜夢",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "劇情",
+    "按摩・物理治療・美容",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "口交",
+    "性感",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "抹油",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "DASS-366为DASDAS出品,2024年4月23日发行的有碼成人影片由弓乃凜夢出演\nHcup 潮女 Yumino Rimu 是 dasu！現在獨家！ ！ ！ ！ Rimu 與身為住院醫師的男友同居，打算結婚，結果在與朋友打網球時扭傷了。 Rimu 在男友的介紹下接受了按摩，感覺自己的敏感部位被觸摸了。 Rimu在按摩過程中多次被調侃到高潮邊緣，計時器響起，宣告治療時間結束，按摩師問道：“要延長嗎？”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240420/202404192342439999.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240420/202404192342439999.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15253",
+  "actresses": [
+    {
+      "name": "弓乃凜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/7ef82648-f7c1-46ba-baf9-63897e0d05e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15253&name=弓乃凜夢"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15253&name=ニック"
+    }
+  ]
+};

@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e797239b-fc5b-40f2-9da7-55cbd8ffa880/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/04/ad3cd770/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15047,
+  "IDcode": "MIMK-158",
+  "title": "波奇太郎的原著終於被拍成真人版了，關於鄰居來借波奇的故事 - 真人版 - 天月梓",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "內衣",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIMK-158为MOODYZ出品,2024年5月7日发行的有碼成人影片由天月梓出演\n≪在SNS上瘋傳！ ≫33歲，沒有女朋友。即使在假期我也會做帶回家的工作。生活似乎沒有什麼美好的事情…但是… 「嗯，今天也可以藉用你的雞雞嗎？」喜多（ﾟ∀ﾟ）-！總是生的和體內射精！連潮吹都敏感又好色的白領太色情了！ 【原創作品：波奇太郎所描繪的每個男人都夢想的境遇終於被拍成真人電影了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503023555983983.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503023555983983.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15047",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15047&name=天月梓"
+    }
+  ]
+};

@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/96312b9b-42b7-40f0-8542-6a8ea9a3f186/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/0b7ecfef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9825,
+  "IDcode": "FTAV-007",
+  "title": "出道來首部劇情作《巨乳老師的誘惑》，性欲極強的御姐老師，4本番巨乳誘惑正太 ~ 笹本ゆう",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "泳池",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "更衣室",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "正太",
+    "學校",
+    "美少女電影",
+    "泳裝",
+    "處男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241216/e58f6149-5448-4462-9cea-0923ab88a108.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241216/e58f6149-5448-4462-9cea-0923ab88a108.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9825",
+  "actresses": [
+    {
+      "name": "笹本ゆう",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/af3d2468-8471-4914-b8ff-2b9c2fcb4554.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9825&name=笹本ゆう"
+    }
+  ]
+};

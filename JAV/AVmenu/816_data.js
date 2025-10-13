@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/359dbfb5-16cf-4928-9c17-e3a4570c84d3/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220426/7FD7FB654BB40CA1/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 816,
+  "IDcode": "HEYZO-1009",
+  "title": "蘿莉巨乳籃球社女經理是我們的性玩具！ - 貓田莉久",
+  "publish_date": "2015-11-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "多P",
+    "巨乳",
+    "辦公室",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-1009为HEYZO出品,2015年11月19日发行的無碼成人影片由猫田りく出演\n蘿莉巨乳籃球社女經理是我們的性玩具！ - 貓田莉久",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/20240611233132713713.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/20240611233132713713.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=816",
+  "actresses": [
+    {
+      "name": "猫田りく",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-猫田りく.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=816&name=猫田りく"
+    }
+  ]
+};

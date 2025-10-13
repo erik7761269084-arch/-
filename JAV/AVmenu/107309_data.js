@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/30/42f3a570/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107309,
+  "IDcode": "PRED-465",
+  "title": "放課後から翌朝まで何度でも… 舞雪先生の無防備おっぱいと寂しげな素顔に発情して暴走ピストンで中出ししてしまった性欲モンスターなボク。 伊藤舞雪",
+  "publish_date": "2023-03-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "女教师",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107309",
+  "actresses": [
+    {
+      "name": "伊藤舞雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/8926413a-85ad-46dd-897e-24b65bcb4d3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107309&name=伊藤舞雪"
+    }
+  ]
+};

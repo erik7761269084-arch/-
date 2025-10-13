@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221028/FAC3A6FAE96AD97D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38298,
+  "IDcode": "95AD6C3F02BAD1A8F2B1BFA835F6FF-46",
+  "title": "肛门禁果是甜的-40",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38298",
+  "actresses": []
+};

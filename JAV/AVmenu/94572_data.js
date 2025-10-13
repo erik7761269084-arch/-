@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241028/H25uJzYg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94572,
+  "IDcode": "START-013",
+  "title": "きっとこの春、あなたは彼女に恋をする。端正な顔立ち、9頭身Eカップ、抜群のエロさ、まっすぐな心、全てが3つ星の元ホテリエ 椎名心春 AV DEBUT",
+  "publish_date": "2024-03-13",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗条",
+    "首次亮相",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94572",
+  "actresses": [
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94572&name=椎名心春"
+    }
+  ]
+};

@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11943e11-b08b-4bd5-9ce3-1dcddead87e2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/11/20bb6772/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8429,
+  "IDcode": "SONE-581",
+  "title": "她被下了藥，並達到了高潮，高潮的強度如此之大，以至於她快要被性玩具的刺激而死去，然後她巨大的奶子被活塞猛烈地推開，色情史上最瘋狂的性愛 ~ 五條戀",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美腳",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "SONE-581为S1出品,2025年2月11日发行的有碼成人影片由五条恋出演\n※※※注意：乳房震動劇烈※※※戳它！搖一搖！ ！驚人的！ ！ ！五條戀，擁有最棒乳房的女孩，一次又一次達到高潮！ 1. 在這個性愛場景中，Portio 教練用力插入陰道，讓你的乳房搖晃！ 2. 催情油性愛，搭配超緊身服裝，讓身體更性感！ 3. 噴水的洪流就是停不下來！她被蒙住眼睛，束縛著，遭受堅硬玩具的折磨！ 4.追求！追擊！追擊！不間斷、無限的高潮，即使射精後也不會停止！ ！五條戀終於崩潰了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206074908455455.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206074908455455.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8429",
+  "actresses": [
+    {
+      "name": "五条恋",
+      "img_url": "https://picture.yoshiclub.xyz/20231021/3f664448-8e67-475a-aa92-e777a31763a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8429&name=五条恋"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8429&name=鲛岛"
+    }
+  ]
+};

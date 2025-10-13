@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/11/165d4527/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60057,
+  "IDcode": "397KSKO-004",
+  "title": "397ksko-004炮友介绍的另一位F奶极品女孩第一次做爱就允许我内射",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60057",
+  "actresses": []
+};

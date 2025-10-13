@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1f1f9d11-aa4a-499b-80b5-4eb52dbf280a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/08/2449e36b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18219,
+  "IDcode": "HMN-485",
+  "title": "放學後變成兔子女奴：陷入無限中出中的巨乳女老師",
+  "publish_date": "2023-10-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "女教師",
+    "劇情",
+    "乳交",
+    "中出",
+    "口交",
+    "兔女郎妝扮",
+    "舔陰",
+    "巨乳",
+    "學校",
+    "COSPLAY服飾"
+  ],
+  "description": "HMN-485为本中出品,2023年10月25日发行的有碼成人影片由明日見未来出演\n美麗的明日見未來老師，受到所有男同學的喜歡，突然宣布結婚。 青春期的男孩們很興奮…「在結婚之前，我們對老師做一些我們想做的事吧（笑）」在計劃好的中出之後，要求是…「僅限學生！」放學後反向 兔子性愛！ 》老師沒有尊嚴！ 她被要求穿著暴露胸部的淫穢cosplay，並被暴露在泡泡浴、美容院、髮廊、胸部…ex。 成為每天服從的中出泡泡浴女孩！ G罩杯顫抖，沉迷於學生叛逆的抽插…\n美麗的明日見未來老師，受到所有男同學的喜歡，突然宣布結婚。 青春期的男孩們很興奮…「在結婚之前，我們對老師做一些我們想做的事吧（笑）」在計劃好的中出之後，要求是…「僅限學生！」放學後反向 兔子性愛！ 》老師沒有尊嚴！ 她被要求穿著暴露胸部的淫穢cosplay，並被暴露在泡泡浴、美容院、髮廊、胸部…ex。 成為每天服從的中出泡泡浴女孩！ G罩杯顫抖，沉迷於學生叛逆的抽插…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022033832617617.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231022/20231022033832617617.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18219",
+  "actresses": [
+    {
+      "name": "明日見未来",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/dd5db95b-7aa0-4d12-8aca-33059203e7b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18219&name=明日見未来"
+    },
+    {
+      "name": "みっちー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18219&name=みっちー"
+    }
+  ]
+};

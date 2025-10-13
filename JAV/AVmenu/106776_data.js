@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/21/4111edb8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106776,
+  "IDcode": "STARS-765",
+  "title": "小湊四葉 初戲劇作品 自接吻開始的4職業角色扮演",
+  "publish_date": "2022-12-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/21/5c8967ac6f0c9c4d6681b6802cff0d2d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106776",
+  "actresses": [
+    {
+      "name": "小湊四葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/8efba086-0ee3-439d-8559-aa2f4b9bb9a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106776&name=小湊四葉"
+    }
+  ]
+};

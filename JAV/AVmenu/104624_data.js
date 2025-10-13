@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/02/444a1a74/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104624,
+  "IDcode": "MVSD-581",
+  "title": "父さん…新しい義母さん、めちゃめちゃ美人で可愛いけどなんだか色々ヤバいです…。 親父が不在中、僕の性欲をもてあそび笑顔で中出しセックスを楽しむ飲酒淫乱ビッチ妻 川上れいあ",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104624",
+  "actresses": [
+    {
+      "name": "川上麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/0c4ae760-aa09-408f-8021-50fc027a30d4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104624&name=川上麗亞"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104624&name=いち"
+    },
+    {
+      "name": "渡辺杏奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104624&name=渡辺杏奈"
+    }
+  ]
+};

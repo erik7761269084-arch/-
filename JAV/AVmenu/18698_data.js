@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/17180972-bc19-4e02-9403-21a7b81cd8c7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18698,
+  "IDcode": "IPX-646",
+  "title": "女友大姊口交有夠爽讓人無法停下外遇。-全編主觀",
+  "publish_date": "2021-04-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "口交",
+    "女友姐姐",
+    "姐姐・妹妹",
+    "主觀視角",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230916/20230916003133876876.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230916/20230916003133876876.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18698",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18698&name=岬奈奈美"
+    }
+  ]
+};

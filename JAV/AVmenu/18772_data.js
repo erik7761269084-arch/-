@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0713c0e4-be71-49d4-a85c-0466cfc79a32/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18772,
+  "IDcode": "IPX-610",
+  "title": "搭不上末班車住在同事女社員家中幹整晚",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "OL",
+    "口交",
+    "艷遇",
+    "巨乳",
+    "女同事",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908211517844844.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/20230908211517844844.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18772",
+  "actresses": [
+    {
+      "name": "梓光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230811/0b448ec0-7d4f-4e10-b79a-b7051caa7ebd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18772&name=梓光莉"
+    }
+  ]
+};

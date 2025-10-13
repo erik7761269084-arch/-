@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/85a40c97/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95297,
+  "IDcode": "GNS-106",
+  "title": "予約のできない完全な裏サービスメンズエステに潜入！",
+  "publish_date": "2024-11-08",
+  "type": "有码",
+  "company": "GooNiES",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "无毛",
+    "按摩",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/85a40c97/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95297",
+  "actresses": []
+};

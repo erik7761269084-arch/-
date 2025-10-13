@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/312d0386-994c-46c4-bc27-8a80df251481/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/10/6318e183/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10665,
+  "IDcode": "SSNI-463",
+  "title": "高冷學生會長放學後的不純性行爲 ~ 天使萌",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "明星臉",
+    "癡女",
+    "校園生活",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "同學"
+  ],
+  "description": "SSNI-463为S1出品,2019年5月7日发行的有碼成人影片由天使萌出演\n「萌」是優等生，面容凝重，但個性卻難以接近且不友善。放學後她在教室自慰！目睹這一幕的處女男學生並沒有向任何人透露，反而給了他口交。事實上，性慾旺盛、對性刺激好奇的傲嬌變態美少女正是利用這一點，與男學生滿足了自己的慾望！一部關於一個性感的美麗女孩在性方面突然變得飢渴的色情校園戲劇！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241113/20241113040701800800.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241113/20241113040701800800.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10665",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10665&name=天使萌"
+    }
+  ]
+};

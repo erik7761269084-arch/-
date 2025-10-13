@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83216d6c-75ef-46c3-be35-10383a3fe983/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6892,
+  "IDcode": "FNS-014",
+  "title": "出差時,童貞下屬戀母失控！相部屋狂撩胸部整晚偷心 ~ 女神純",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "NTR",
+    "美人",
+    "出差",
+    "女上司",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "處男"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411231904681681.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250411/20250411231904681681.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6892",
+  "actresses": [
+    {
+      "name": "女神純",
+      "img_url": "https://picture.yoshiclub.xyz/20240908/2d919b15-3b06-4b30-91ae-33aa2a161dfd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6892&name=女神純"
+    }
+  ]
+};

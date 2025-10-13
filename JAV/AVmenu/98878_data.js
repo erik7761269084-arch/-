@@ -1,0 +1,30 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98878,
+  "IDcode": "HKD-012-",
+  "title": "あの頃、制服美少女と。 桃井春香",
+  "publish_date": "2020-01-31",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "制服",
+    "口交",
+    "舔阴",
+    "水手服",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98878",
+  "actresses": [
+    {
+      "name": "桃井春香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98878&name=桃井春香"
+    }
+  ]
+};

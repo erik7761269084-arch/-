@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/057d2661-c795-4156-acae-6bbeca29d299/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241013/cfwjPTD9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14351,
+  "IDcode": "NPJS-035",
+  "title": "Instagram上遇到的肌肉辣妹，性欲超超超愛馬上做愛！ ！發布#我想和喜歡肌肉訓練的人聯系的女孩會立即被操！ ？ ~ 三嶽祐奈",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "健身教練",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "素人",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "美腳",
+    "奇聞趣事",
+    "艷遇",
+    "抹油",
+    "約炮",
+    "辣妹/GAL系",
+    "野性",
+    "飯店",
+    "肌肉",
+    "網路紅人"
+  ],
+  "description": "NPJS-035为NAPA-JAPAN出品,2024年6月4日发行的有碼成人影片由三岳祐奈出演\n在 I◯ Instagram 上發布標籤「#我想與肌肉訓練愛好者聯繫」的女性都完蛋了！立即向DM發動攻擊，獲得認同感強、性慾強的Yu-san！給她做了特殊的按摩後，她帶她去酒店，並立即與她發生性關係！脫掉之後，你的身體就變得鋒利了！最好的女人，腹肌撕裂，屁股凸出，像野獸一樣吞噬雞巴！大量潮吹、體內射精都OK！非常滿意第2輪無間隔5次射精全部用完！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531012129239239.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531012129239239.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14351",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14351&name=三岳祐奈"
+    }
+  ]
+};

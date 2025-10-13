@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1343ac9d-9308-433c-a5b4-71bee8917ea4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17764,
+  "IDcode": "MIMK-134",
+  "title": "好厉害的催眠術！真人改变累計4万部的神秘漫画实体化！主奴關係從催眠開始！",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "中出",
+    "女奴",
+    "角色扮演",
+    "原作改編",
+    "催眠",
+    "口交",
+    "蠻橫嬌羞",
+    "奇聞趣事",
+    "雙飛",
+    "奇異的",
+    "兩女一男",
+    "M男・M女",
+    "打屁股",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "MIMK-134为MOODYZ出品,2023年11月21日发行的有碼成人影片由横宮七海，沙月惠奈出演\n【從未見過如此的作品！故事中間出現的出人意料的設定，以及結局時兩輪三輪的壓倒性故事結構！隨之而來的是兩個女孩被當作物品對待的、優越感突出的色情場面！】 我受託照顧妹妹和鄰居的女兒，並當上了她们的國王。但我后来卻落榜了，過著很惨淡的生活。曾經被我照顧的姐妹們，現在都變成了把我當垃圾的小女人。我嘗試對姐妹使用催眠時，她們很快就變成了聽話的奴隸。強迫我插入她们，射精在她们體內，在她们身上撒尿，勒死她们，做任何我想做的事......？\n【從未見過如此的作品！故事中間出現的出人意料的設定，以及結局時兩輪三輪的壓倒性故事結構！隨之而來的是兩個女孩被當作物品對待的、優越感突出的色情場面！】 我受託照顧妹妹和鄰居的女兒，並當上了她们的國王。但我后来卻落榜了，過著很惨淡的生活。曾經被我照顧的姐妹們，現在都變成了把我當垃圾的小女人。我嘗試對姐妹使用催眠時，她們很快就變成了聽話的奴隸。強迫我插入她们，射精在她们體內，在她们身上撒尿，勒死她们，做任何我想做的事......？",
+  "cover_url": "https://picture.yoshiclub.xyz/20231118/3df3ccf4-7802-47bc-8cdc-2a458cf1549d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231118/3df3ccf4-7802-47bc-8cdc-2a458cf1549d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17764",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17764&name=沙月惠奈"
+    },
+    {
+      "name": "横宮七海",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/46de250d-6034-43d1-ab6f-6e3d4a519176.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17764&name=横宮七海"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230108/6Orf7IMi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84326,
+  "IDcode": "DVAJ-597",
+  "title": "【FANZA限定】経費でピンサロ行ったことが経理の女子社員にバレて叱られると思ったら僕に惚れてたみたいで嫉妬のジト目フェラで何度も抜かれまくった 倉本すみれ パンティと生写真セット",
+  "publish_date": "2022-10-08",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "女上位",
+    "口交",
+    "OL",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84326",
+  "actresses": []
+};

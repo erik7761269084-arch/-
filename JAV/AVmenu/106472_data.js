@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/05/8ff0f32d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106472,
+  "IDcode": "HMN-296",
+  "title": "貴婦人與狗 被迫相親結婚的高貴女性與M男 自午間賓館幽會3P中出不倫。 月乃露娜",
+  "publish_date": "2022-12-16",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "荡妇",
+    "M男",
+    "苗条",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106472",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106472&name=月乃露娜"
+    },
+    {
+      "name": "ようく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106472&name=ようく"
+    }
+  ]
+};

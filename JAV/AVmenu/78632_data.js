@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/h2xUdE9B/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78632,
+  "IDcode": "SSIS-051",
+  "title": "熟れ切った最高のカラダを極限まで覚醒させた失禁・絶頂キメセクがヤバい 奥田咲",
+  "publish_date": "2021-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "淫乱，真实",
+    "放尿",
+    "薄马赛克",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78632",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78632&name=奥田咲"
+    }
+  ]
+};

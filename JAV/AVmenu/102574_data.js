@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240617/FtYZm8j8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102574,
+  "IDcode": "BIJN-183C",
+  "title": "獻出本能的絕頂性愛 G罩杯美乳美腳高身長悶絕淫亂美人太太 瀧川穂乃果",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102574",
+  "actresses": []
+};

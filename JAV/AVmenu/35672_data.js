@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220702/902F988B3676B816/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35672,
+  "IDcode": "88749039E53C0A37E653439E45CA8AA-7",
+  "title": "～ギャップ萌がハンパないハッピービッチ！～ - 小森みくろ",
+  "publish_date": "2024-07-18",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35672",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230502/70b7897e-515c-44f3-8a02-f4dc59dc36b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19475,
+  "IDcode": "STARS-023",
+  "title": "18歲的嘴唇和糾纏的舌頭! 発情SEX",
+  "publish_date": "2019-01-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "老頭子",
+    "口交",
+    "接吻",
+    "美少女",
+    "數位馬賽克"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502191530401401.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230502/20230502191530401401.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19475",
+  "actresses": [
+    {
+      "name": "唯井真寻",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bf2b9699-b121-462f-ba29-548f845a13d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19475&name=唯井真寻"
+    }
+  ]
+};

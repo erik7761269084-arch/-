@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/17/91e49746/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67032,
+  "IDcode": "ATID-544",
+  "title": "ココが世界で一番気持ちいい地獄 両親が旅行で不在の三日間、僕のカラダを幼馴染姉妹が欲望剥き出しで奪い合う中出し記録。",
+  "publish_date": "2022-12-30",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "中出",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/5ce8d25da0974bd23131c6bdbff48e17.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67032",
+  "actresses": []
+};

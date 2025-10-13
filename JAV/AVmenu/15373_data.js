@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a7e802f4-1e4c-4439-9223-c21a52d39f14/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15373,
+  "IDcode": "SDNM-457",
+  "title": "有着I罩杯超級巨乳的前護士的祕密性欲 杉山杏奈 32 歲 第 2 章 早上來橫濱見朋友，有空閒時間 ~ 3P 的戲弄性、 舔性和性",
+  "publish_date": "2024-05-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "中出",
+    "亂交 • 群P",
+    "素人",
+    "口交",
+    "兩男一女",
+    "人妻",
+    "巨乳",
+    "飯店"
+  ],
+  "description": "SDNM-457为2024年5月9日发行的有碼成人影片由杉山杏奈出演\n長野県在住のIcup爆乳妻・杉山杏奈さん32歳「横浜の友達に会いに長野から朝来たんですが、時間が空いたので撮影お願い出来ますか？ 」旦那と合意のセックスレス妻に、急遽スタッフが横浜まで呼び出されての時短撮影！焦らされSEX・舐められSEX・ヤリ貯め3P！！Icupに詰まった性欲は解放されたのか？！",
+  "cover_url": "https://picture.yoshiclub.xyz/temp/20240416013121272272.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/temp/20240416013121272272.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15373",
+  "actresses": [
+    {
+      "name": "杉山杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/6c0f6980-c5c5-46ab-83e9-244ab034c395.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15373&name=杉山杏奈"
+    }
+  ]
+};

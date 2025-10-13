@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/38b0d147-bb5e-4218-ac72-4e0412a9440b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16281,
+  "IDcode": "SSNI-133",
+  "title": "身材修長的夏川明被強迫、被束縛、被連系、日漸升級",
+  "publish_date": "2018-03-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "痴漢",
+    "3P・4P",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "電車",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "制服",
+    "口交",
+    "性感",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入"
+  ],
+  "description": "SSNI-133为S1出品,2018年3月7日发行的有碼成人影片由夏川明出演\n擁有纖細美麗巨乳身材的明裏，在通勤列車上遭遇猥褻者。她在無法逃脫的車裏忍受着。然而，每周一到周五，無畏的猥褻者每天都會出現，以她美麗的身體爲目標。振動器酷刑、強迫口交、口內射精、撒尿指法、被迫進入角落和站立狗式！此外，所有乘客都成爲猥褻者並攻擊她。夏川明裏漸漸變得……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214095003570570.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240214/20240214095003570570.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16281",
+  "actresses": [
+    {
+      "name": "夏川明",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/b662f706-1c3f-4c66-a949-622cbbbc6d69.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16281&name=夏川明"
+    }
+  ]
+};

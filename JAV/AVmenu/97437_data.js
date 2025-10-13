@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/9F72D985F8D9ABB0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97437,
+  "IDcode": "GOAL-010",
+  "title": "一般主婦ガチ口説き。宅飲みヤリ部屋盗撮460分",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118goal010/118goal010pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97437",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/31/e8e98995/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104882,
+  "IDcode": "ATHB-036",
+  "title": "女捜査官アクションバトル 氷室あずみ【囚われた女捜査官】",
+  "publish_date": "2015-08-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/31/8de19c9e6853e4e780eaa64d94cb2c6e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104882",
+  "actresses": []
+};

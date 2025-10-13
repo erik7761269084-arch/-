@@ -1,0 +1,84 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f385f99b-5a71-48fe-93cf-dad79e2038a6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/fca51733/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6721,
+  "IDcode": "MISM-371",
+  "title": "後庭性愛大師 ~ 妃月るい",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "後入",
+    "肛交",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "性虐癖",
+    "吞精",
+    "網襪",
+    "調教",
+    "深喉",
+    "變態",
+    "臀控",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "重口味",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "局部特寫",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "靴子",
+    "暗黑系",
+    "情趣內衣",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "美少女電影",
+    "二穴同入",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MISM-371为えむっ娘ラボ出品,2025年4月18日发行的有碼成人影片由妃月るい出演\n妃月るい化身真正的後庭戰士，帶着宿命降臨戰場！這次任務可是真刀真槍的後庭大冒險！三款泵式玩具，狂推16次直接開擴，簡直是神操作！導彈般的肉棒和超長道具雙重入侵，簡直就是常規操作好嗎！傳說中的怪物武器讓她菊花高潮到爆，男拳狠狠插入，腎上腺素直接炸裂，喊着‘再來更猛的吧！’簡直失控！直徑10cm、長度60cm的巨屌全塞進去，緊張到升天，真的服了！新晉後庭女王就此誕生，任務完美通關，這後庭已經無敵到啥都能接納啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417091115307307_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/20250417091115307307_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6721",
+  "actresses": [
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6721&name=妃月るい"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6721&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6721&name=イセドン内村"
+    }
+  ]
+};

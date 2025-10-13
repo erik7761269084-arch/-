@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/bd904863/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80006,
+  "IDcode": "SSIS-254",
+  "title": "激イキ109回！痙攣3900回！イキ潮2000cc超え！ 楓ふうあ エロス覚醒 はじめての大・痙・攣スペシャル （ブルーレイディスク）",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "潮吹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80006",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80006&name=イセドン内村"
+    }
+  ]
+};

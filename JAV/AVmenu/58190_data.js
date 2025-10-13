@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240623/Lkl04LUV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58190,
+  "IDcode": "071623-001",
+  "title": "かり美びあんず ～女の肌の柔らかさに爆上がり～",
+  "publish_date": "2023-07-16",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "女同性恋",
+    "最新影片",
+    "写真",
+    "正在上映",
+    "69",
+    "玩具",
+    "立即口交",
+    "跳",
+    "口交",
+    "巨乳爆乳",
+    "美少女",
+    "美乳",
+    "白虎",
+    "美脚",
+    "漂亮屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58190",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/24/25c647b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82453,
+  "IDcode": "EBOD-526",
+  "title": "噴尿失禁洩了一地！ 鈴木心春",
+  "publish_date": "2016-07-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "其他恋物癖",
+    "美少女",
+    "巨乳",
+    "淫乱，真实",
+    "放尿",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82453",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82453&name=鈴木心春"
+    }
+  ]
+};

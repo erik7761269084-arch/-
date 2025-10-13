@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231207/UiTcKC0L/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88667,
+  "IDcode": "XYMK-001",
+  "title": "パパ活美少女 拷問倶楽部-残酷お仕置き爆イキ処刑！-",
+  "publish_date": "2023-08-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "捆绑",
+    "拘束",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88667",
+  "actresses": []
+};

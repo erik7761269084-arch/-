@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/Zi94njD7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79034,
+  "IDcode": "SSIS-180",
+  "title": "- 新人NO.1STYLE 小倉七海AVデビュー （ブルーレイディスク） - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "口交",
+    "首次亮相",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79034",
+  "actresses": [
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79034&name=市川润"
+    }
+  ]
+};

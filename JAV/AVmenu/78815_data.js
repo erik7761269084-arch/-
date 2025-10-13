@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/RnaZu6yC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78815,
+  "IDcode": "SHKD-524",
+  "title": "女子校生監禁凌辱 鬼畜輪姦109 黒川ゆら",
+  "publish_date": "2013-11-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "轮奸",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/fee2b159e7e5a1004701e6c5af005cbe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78815",
+  "actresses": [
+    {
+      "name": "黒川ゆら",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/4e63b5ab-92d8-424f-af76-270cdbe157c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78815&name=黒川ゆら"
+    }
+  ]
+};

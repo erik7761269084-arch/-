@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/16/9f3dd964/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67825,
+  "IDcode": "MIAA-752",
+  "title": "修学旅行中にボッチでいた僕は隣のクラスの女子に誘われて自由時間に東京デートして何度も何度も中出ししまくった。 こなつちゃん （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-12-30",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "制服",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67825",
+  "actresses": []
+};

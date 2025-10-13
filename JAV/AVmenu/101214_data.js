@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240214/Llog1m7z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101214,
+  "IDcode": "LUXU-1771",
+  "title": "ラグジュTV 1757 セックスレスで暴発寸前のカラダでやってきた有名映画出演経験ありの女優の卵は、「男性の感じている顔が好き。」と騎乗位で自ら腰を振り、ハメられながら自分で乳首を弄っちゃうようなドスケベ女でした！",
+  "publish_date": "2024-01-17",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "苗条",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101214",
+  "actresses": [
+    {
+      "name": "流川はる香",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d223b1bc-2004-4cf4-8e14-afab70fcfc83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101214&name=流川はる香"
+    },
+    {
+      "name": "真鈴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101214&name=真鈴"
+    }
+  ]
+};

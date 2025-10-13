@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f6ba4bb8-a34b-4143-8892-ca20422242c3/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/801a9fdb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3337,
+  "IDcode": "HODV-21998",
+  "title": "超辣GAL系娘欲求爆棚 瘋狂榨取肉棒的絕倫性交 ~ AIKA 椎名空",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "金髮",
+    "拜金女",
+    "明星臉",
+    "過膝襪・小腿襪",
+    "癡女",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "眼鏡",
+    "辣妹/GAL系",
+    "精選綜合",
+    "短髮",
+    "極品美人",
+    "無毛",
+    "女優"
+  ],
+  "description": "HODV-21998为H.M.P 芳友舍出品,2025年8月21日发行的有碼成人影片由AIKA，椎名空出演\n这些性欲爆表的ギャル小姐姐简直是欲火焚身，狂笑着说：“老娘要把你榨干到一滴不剩，爽到你蛋蛋空空为止！”她们一边媚笑一边使出超ドスケベ的绝世技巧，让你精子和脑汁一起喷涌！这群榨精天才组团出击，带你突破极限，爽到天上去的悶絶天堂！最后还调皮地抛个媚眼：“是不是爽爆了？以后只能对我们硬得起来，可别怪姐姐哦，嘻嘻！”",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823090611368368_56157_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823090611368368_56157_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3337",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3337&name=AIKA"
+    },
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3337&name=椎名空"
+    }
+  ]
+};

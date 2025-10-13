@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/SUOLeKT3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73614,
+  "IDcode": "NNPJ-356",
+  "title": "花火大会帰りの浴衣ギャル4人組をハイテンションナンパ！ラブホで酔わせてアゲアゲ気分の女子たちと大乱交開催！！ 浴衣はだけてノリノリ中出しSEXパーティーしちゃいました！！！",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "女生",
+    "和服，丧服",
+    "滥交",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73614",
+  "actresses": [
+    {
+      "name": "咲々原リン",
+      "img_url": "https://picture.yoshiclub.xyz/20230614/98fea1c2-3d92-4ea5-b44f-938b37401eac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73614&name=咲々原リン"
+    },
+    {
+      "name": "加濑七穗",
+      "img_url": "https://picture.yoshiclub.xyz/20230401/4eb3653f-c0bb-4f91-af40-c8b1fc34e9dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73614&name=加濑七穗"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73614&name=Qべぇ"
+    },
+    {
+      "name": "七瀬もな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73614&name=七瀬もな"
+    },
+    {
+      "name": "泡沫ゆうき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73614&name=泡沫ゆうき"
+    }
+  ]
+};

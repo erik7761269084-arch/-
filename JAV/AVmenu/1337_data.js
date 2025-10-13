@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6965b8b1-43c9-4911-8899-1850a37e5b86/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1337,
+  "IDcode": "HEYZO-2631",
+  "title": "巨乳素人娘有誰不喜歡",
+  "publish_date": "2021-10-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "巨尻",
+    "乳交",
+    "中出",
+    "素人",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230803/20230803001600625625.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230803/20230803001600625625.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1337",
+  "actresses": [
+    {
+      "name": "大島里恵",
+      "img_url": "https://picture.yoshiclub.xyz/20230803/d3e9ba23-b7d4-485b-94fd-45fe389a3e0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1337&name=大島里恵"
+    }
+  ]
+};

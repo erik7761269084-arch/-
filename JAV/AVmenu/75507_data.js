@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/26/f44a86fc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75507,
+  "IDcode": "DV-801",
+  "title": "現役TVタレントDebut！ 綾瀬美音",
+  "publish_date": "2007-06-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "潮吹",
+    "口交",
+    "首次亮相",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/12/26/5d319bc271daaf752a2f81bc5be8b4ad.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75507",
+  "actresses": [
+    {
+      "name": "神谷梨々",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75507&name=神谷梨々"
+    }
+  ]
+};

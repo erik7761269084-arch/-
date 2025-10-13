@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/07/27/361360da/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79349,
+  "IDcode": "MIDE-948",
+  "title": "成長したエロテクで射精へ導く 風俗レジデンス 小野六花 （ブルーレイディスク）",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗条",
+    "口交",
+    "乳房",
+    "礼仪小姐",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79349",
+  "actresses": []
+};

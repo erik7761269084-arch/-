@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9a9f5e40-bf16-419d-b0c3-f735039651d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15907,
+  "IDcode": "HMN-538",
+  "title": "S級美女震撼回歸－時隔許久，精液滿溢的陰戶下定決心中出AV出道",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "手指插入",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HMN-538为本中出品,2024年3月26日发行的有碼成人影片由永野莉子出演\n昔日S級美女震撼復出AV界！時隔一年半左右第一次拍戲，我的臉從頭到尾都僵硬了，心跳得厲害……（汗）我想再次出演AV！考慮到這一點，她決定射在我體內！說到性，就像情慾開關被打開，我感覺我正在偷偷地射精！她清楚地表明她喜歡感覺良好的性愛！好久沒拍AV了，所以有些部分進展得有點慢（笑），但是…能看到可愛臉蛋的女孩中出真是太棒了！ ！非常感謝您回到 AV 世界。因為是本州，所以裡面都是奶油味的！ 3場演出！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323031848333333.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240323/20240323031848333333.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15907",
+  "actresses": [
+    {
+      "name": "永野莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/35445fac-8437-4289-85b4-2cf9452416dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15907&name=永野莉子"
+    }
+  ]
+};

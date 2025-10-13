@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/16/5a567c93/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96310,
+  "IDcode": "MOND-119",
+  "title": "淫妻喜歡被顏射 天野彌生",
+  "publish_date": "2017-03-24",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "轮奸",
+    "颜射",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/15/cb4990ac0ab21fb81890201e2f5a2a40.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96310",
+  "actresses": [
+    {
+      "name": "天野弥生",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250507/2eebfde6-9ca9-4d58-81c8-ac40f6e0f5cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96310&name=天野弥生"
+    }
+  ]
+};

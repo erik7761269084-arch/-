@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/30/17f48fa4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96358,
+  "IDcode": "VENX-280",
+  "title": "「おばさんの下着で興奮するの？」脱ぎたてのパンティで甥っ子の精子を一滴残らず搾りとる叔母 新村あかり",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "内衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/29/ff7a000d4745c070ad58e9081691409e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96358",
+  "actresses": [
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96358&name=新村晶"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/14/636592f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107470,
+  "IDcode": "BLK-451",
+  "title": "都合のいい愛人ギャル オヤジ大好きねっちょりSEXを求めるビッチと朝まで中出し不倫03",
+  "publish_date": "2020-04-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "中出",
+    "荡妇",
+    "出轨",
+    "高",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/14/5d0fba880569e33b3dd9bb29e487e6c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107470",
+  "actresses": [
+    {
+      "name": "佐藤爱琉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107470&name=佐藤爱琉"
+    }
+  ]
+};

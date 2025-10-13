@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/04/5ca630be/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106319,
+  "IDcode": "NACR-736",
+  "title": "昼間は司書、夜はオジサンのいいなりセフレちゃん！！ 美澄玲衣 パンティと生写真付き",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "无毛",
+    "玩具",
+    "苗条",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/01/04/ef82a5c48fc433011747f6c0bf1a66aa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106319",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106319&name=美澄玲衣"
+    }
+  ]
+};

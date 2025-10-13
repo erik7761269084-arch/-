@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230927/zr86BnHL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64776,
+  "IDcode": "3B9CE8ACB877E7A6BD7A38CB214D-6544",
+  "title": "『フェラだけなら何回射精しても浮気にならないでしょ？』 ギリギリNTR未満で追撃フェラチオが大好き！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64776",
+  "actresses": []
+};

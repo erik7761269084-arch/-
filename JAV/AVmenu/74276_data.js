@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/13/479a3df5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74276,
+  "IDcode": "MDBK-349",
+  "title": "宿泊先の爆乳美人女将は男を拘束して寸止め焦らしで徹底的に弄ぶ激サドでした。",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "M男",
+    "拘束",
+    "和服，丧服"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/13/fefa63bc2eba72f3dcb9bebbd5849412.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74276",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74276&name=吉根柚莉爱"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74276&name=真木今日子"
+    },
+    {
+      "name": "ちなみん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74276&name=ちなみん"
+    }
+  ]
+};

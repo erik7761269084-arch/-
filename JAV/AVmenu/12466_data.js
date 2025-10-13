@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eef9263c-0f8a-4405-94f7-6ebaa982ef84/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12466,
+  "IDcode": "SONE-310",
+  "title": "獻給正在尋找母性的你 ， 終極乳房治愈沙龍，用蓬鬆的 J 罩杯呵護您，輕輕地撫摸您 ~ 鷲尾芽衣",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "水療・泡泡浴",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "按摩・美容店",
+    "巨乳",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "SONE-310为S1出品,2024年8月27日发行的有碼成人影片由鷲尾芽衣出演\n＜社會壓力極大，對世界的不滿情緒日益高漲，工作的疲勞……感謝日本大家的努力……！ > 在這家美容院工作的 Mei Washio 是大家的盟友！難道你不想被一個善良、歡笑、用豐滿的乳房安慰你、讓你想吸吮、得到很多讚美、得到很多精液、很多射精的人寵愛嗎？這是終極的放鬆時光，您可以盡情享受樂趣，而沒有任何人類尊嚴或自豪感。當你腦子累了，身體累了，不想做其他事情的時候，就用這個工作放鬆一下射精吧。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/202408222204398989.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/202408222204398989.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12466",
+  "actresses": [
+    {
+      "name": "鷲尾芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e7c9a2b7-8190-4db3-846f-d44a217fd9ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12466&name=鷲尾芽衣"
+    }
+  ]
+};

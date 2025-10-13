@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c4cfc8e-d6bd-4a1d-923a-d6ae4bc83f9d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11824,
+  "IDcode": "MISM-345",
+  "title": "絕對的深喉直擊吞精 ~ 雅子裏菜",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "大亂交",
+    "色白",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MISM-345为えむっ娘ラボ出品,2024年9月24日发行的有碼成人影片由雅子裡菜出演\nRina Masako 非常喜歡吞嚥精液，所以我縱容她深喉精液。將她抱在背上，同時刺痛她敏感的咽部。它比以前更深了。被禁止自慰的男人射精就像離開水的魚一樣充滿活力。精液溢出到小嘴裡。嚐嚐苦澀和黏稠的味道，感激地吞下一口。你看，很快就到了下一個。吸它。渾濁的汁液注入由喉部凹部擴大的空腔內。奧戈古比！即使我窒息或嘔吐，也無法逃脫。龜頭摩擦咽壁，射精深入喉嚨。一片泥濘而翻騰的暨沼澤。由於伊拉瑪的三角形收緊，我的生命力減弱了，我立即補充了生命乳。她甦醒過來，喉嚨抽搐。我很高興我喝了很多粘液。謝謝你的飯菜。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919042822356356.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919042822356356.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11824",
+  "actresses": [
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11824&name=雅子裡菜"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c0de5c74-bbd6-4a9a-b606-c2bfd521b58e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/30/e21c805d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17357,
+  "IDcode": "IPZZ-157",
+  "title": "大奶子 Boyne！boyne！boyne！ 不穿胸罩的巨乳 與「庵姬花」親密約會時完全勃起，被迫绝伦做愛！！",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "乳交",
+    "中出",
+    "口交",
+    "女友・妻子",
+    "性感",
+    "巨乳",
+    "飯店"
+  ],
+  "description": "IPZZ-157为IDEA POCKET出品,2023年12月13日发行的有碼成人影片由庵姬花出演\n約會後，我們兩個興奮起來並發生性關係，我拍攝了一些色情照片。我早上、中午、晚上都無法停止做愛！有劇本的真實性愛。第一次過夜約會性愛！！在其他地方看不到如此少女的「庵姬花」！！還有很多吻！！像真正的情人一樣熱愛性愛！「約會時近距離接觸的話，我的胸部會觸碰你哈哈」求愛巨乳摩擦和SEX！！\n約會後，我們兩個興奮起來並發生性關係，我拍攝了一些色情照片。我早上、中午、晚上都無法停止做愛！有劇本的真實性愛。第一次過夜約會性愛！！在其他地方看不到如此少女的「庵姬花」！！還有很多吻！！像真正的情人一樣熱愛性愛！「約會時近距離接觸的話，我的胸部會觸碰你哈哈」求愛巨乳摩擦和SEX！！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231209/e9affe48-1a60-453e-bd48-88ba18dc7097.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231209/e9affe48-1a60-453e-bd48-88ba18dc7097.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17357",
+  "actresses": [
+    {
+      "name": "庵姬花",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/2c1b94f5-c15f-47fb-a40b-faaa39a88270.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17357&name=庵姬花"
+    }
+  ]
+};

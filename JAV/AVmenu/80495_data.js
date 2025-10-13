@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/5Y0sdwLa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80495,
+  "IDcode": "AKO-456",
+  "title": "MAKINA",
+  "publish_date": "2022-03-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "口交",
+    "舔阴",
+    "接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3798be92648b5777d055cdc82ada2a9d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80495",
+  "actresses": [
+    {
+      "name": "仲丘たまき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80495&name=仲丘たまき"
+    }
+  ]
+};

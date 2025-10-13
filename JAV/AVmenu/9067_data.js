@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b95fb027-134e-4296-9926-7496d3e734c9/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/b55aee41/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9067,
+  "IDcode": "EBWH-196",
+  "title": "妊娠確定NTR，樣貌出衆的CA愛上了資深飛行員，危險日與她發生性關系，直到她性欲耗盡的不倫中出 ~ 二階堂麗",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "空姐",
+    "出軌",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "極品美人",
+    "無毛",
+    "飯店"
+  ],
+  "description": "EBWH-196为E-BODY出品,2025年1月21日发行的有碼成人影片由二階堂麗出演\n這並不是說我和我先生關係不好，我愛他，和他在一起我並不感到難過，我們只是沒有發生性行為。我想這已經很多年沒有做過了。每天性慾增強的時候我都會自己安慰自己。就在那時，我收到了來自酷炫飛行員尾田的邀請。我不是為了性，我只是想吃……我是這麼想的，結果他惡作劇地給我下了春藥，強行提高了我的性慾，我生平第一次有了外遇。與與她丈夫具有相同血型的酷飛行員發生性關係感覺很好，他們甚至允許她射在他體內。我想再次接受他，所以這次我會嘗試邀請他出去。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074057956956.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116074057956956.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9067",
+  "actresses": [
+    {
+      "name": "二階堂麗",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/7b177d58-88b6-4e13-8722-f579117af0ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9067&name=二階堂麗"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9067&name=小田切ジュン"
+    }
+  ]
+};

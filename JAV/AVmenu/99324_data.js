@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/452ADB39FE6E075B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99324,
+  "IDcode": "SABA-552",
+  "title": "自分のオナネタを撮影されたがるこじらせ系ど変態投稿映像 田園調布在住 両親は会社経営者お育ちの良いハニカミ笑顔が素敵なちーちゃん",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "口交",
+    "业余",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99324",
+  "actresses": []
+};

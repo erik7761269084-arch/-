@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/28/1eb2c4fb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77618,
+  "IDcode": "SDDE-653",
+  "title": "時間を止められる男は実在した！超THE REVIVAL※史上最多、被害者数9名―‘夏の青春’をしている部活女子○生たちに中出しレ○プ編―",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "中出",
+    "学校作品",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77618",
+  "actresses": [
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=星仲ここみ"
+    },
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=八乃翼"
+    },
+    {
+      "name": "もなみ铃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=もなみ铃"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=稻场流花"
+    },
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=白桃はな"
+    },
+    {
+      "name": "柏木あみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77618&name=柏木あみ"
+    }
+  ]
+};

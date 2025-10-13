@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/W7aB1uxd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83362,
+  "IDcode": "MIDE-751",
+  "title": "僕の彼女が不在中に押しに弱そうな早漏妹とこっそりハメまくった同棲中の7日間 八木奈々",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "潮吹",
+    "妹妹",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83362",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83362&name=八木奈々"
+    }
+  ]
+};

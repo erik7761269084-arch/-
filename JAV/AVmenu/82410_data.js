@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/30/68050e8d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82410,
+  "IDcode": "GVG-872",
+  "title": "No.1バニーガール史上最悪の恥辱 波多野結衣",
+  "publish_date": "2019-05-16",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "凌辱",
+    "多P",
+    "调教",
+    "兔女郎",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/a78917778390a57dcf7f49b36c8e68a7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82410",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82410&name=波多野结衣"
+    }
+  ]
+};

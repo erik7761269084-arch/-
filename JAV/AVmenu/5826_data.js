@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32369a3a-7516-44db-bdb4-6c2547537663/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5826,
+  "IDcode": "LUKE-046",
+  "title": "衝擊！班上超會撒嬌的可愛小蘿莉竟把大叔當泄欲玩具，簡直是個超變態的小騷貨 ~ 白石渚",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "DIGITALARK",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "LUKE-046为DIGITALARK出品,2025年5月24日发行的有碼成人影片由白石渚出演\n軟糯糯的大奶緊貼誘惑，純真又超色的女學生！一臉天真卻能深喉吸到你腿軟，柔軟巨乳夾得你爽到不行！剛脫下的小內內直接給你來一發，挑逗變態大叔們，硬到爆的連續榨汁！還給早洩M男蒙眼玩寸止折磨，插進去後嫩膚大奶晃得眼花，騷穴高潮不斷，簡直欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235817338338_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235817338338_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5826",
+  "actresses": [
+    {
+      "name": "白石渚",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/2bf3dd17-2b68-4fdc-99a0-353abd274001.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5826&name=白石渚"
+    }
+  ]
+};

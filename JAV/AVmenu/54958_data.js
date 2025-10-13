@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220627/2941FEBB36A0A139/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54958,
+  "IDcode": "8E0B56EC2ED0C0CDEF5712ADCEAE9E0F",
+  "title": "制服時代-JKリフレ嬢に中だし交渉-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54958",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c2858565-b2c5-4067-82fa-96e530006325/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19017,
+  "IDcode": "IPX-439",
+  "title": "與討厭到死的公司上司出差在溫泉旅館住同房… 被醜陋絶倫大叔搞到持續高潮的我",
+  "publish_date": "2020-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "和服・浴衣・喪服",
+    "流汗",
+    "強姦",
+    "出軌",
+    "出差"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230808/20230808063933607607.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230808/20230808063933607607.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19017",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19017&name=桃乃木香奈"
+    }
+  ]
+};

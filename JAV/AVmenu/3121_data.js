@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58c3dc27-1826-468d-89a1-ca57cffaa1ab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3121,
+  "IDcode": "XVSR-836",
+  "title": "眼鏡娘的飢渴誘惑 濕熱纏綿激情開幹 ~ 静河",
+  "publish_date": "2025-08-29",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "高顏值",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "眼鏡",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "XVSR-836为MAX-A出品,2025年8月29日发行的有碼成人影片由静河出演\n眼鏡+極致誘惑！人氣女優静河變身成超勾魂的眼鏡娘！專為眼鏡控量身打造，全程戴眼鏡，主觀視角滿滿的色氣畫面直擊你的內心！從細細品味眼鏡娘那撩人的表情，到瘋狂索求快感的激情碰撞，眼鏡下的小臉蛋被濃濃的精華覆蓋，静河還嬌喘著說：「這種眼鏡feel…絕了吧！」那副眼鏡背後藏不住的慾望眼神，絕對必看！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120106281281_13598_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120106281281_13598_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3121",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3121&name=静河"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/y4gAnz5R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76884,
+  "IDcode": "NGOD-076",
+  "title": "あへ声我慢NTR 夫の死角でデカチンをぶち込まれ真っ赤な顔で声を堪えるネトラレ妻 桐谷なお",
+  "publish_date": "2018-05-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "新娘，年轻妻子",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76884",
+  "actresses": [
+    {
+      "name": "桐谷奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/fa50a5b4-ea3b-4183-8f9a-21cd27d7c044_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76884&name=桐谷奈緒"
+    }
+  ]
+};

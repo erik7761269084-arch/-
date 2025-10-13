@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c5ff247-7fe3-4c70-b4d2-02d2a468e4da/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/3b7b822c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15974,
+  "IDcode": "NIMA-027",
+  "title": "真人版！荒田，我的妻子，前AV演員經紀人，大雞巴～我正經的妻子怎麼會變化這麼大呢？～",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "漫畫改編",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "原作改編",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "朋友女友・妻子",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "NIMA-027为FITCH出品,2024年3月5日发行的有碼成人影片由菊乃らん出演\n這是真人改編的人氣Doeroi翻拍的新圈子《W的本能》，是從《頑皮經歷告白貼男校》中分離出來的！有一天，已經買了自己的房子，和妻子過着平靜生活的細田，接到經理的電話，被告知他是裁員候選人。經理是前AV演員，性欲旺盛，本能地撫摸白領女士和下屬的妻子，還是個值得警惕的人。經理對我說：“你的妻子胸部很大，對吧？你在其中！”... 菊乃らん",
+  "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042537148148.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240302/20240302042537148148.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15974",
+  "actresses": [
+    {
+      "name": "菊乃らん",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a49b88c-dc69-46b4-814f-d3bb72d3ce53.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15974&name=菊乃らん"
+    },
+    {
+      "name": "戸川夏也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15974&name=戸川夏也"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230204/B69EC77BFD09B965/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57751,
+  "IDcode": "F310117A7C2CAFF9ED543059AC16BD2F",
+  "title": "10mu 091019_01 三沢さえこ素人のお仕事-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57751",
+  "actresses": []
+};

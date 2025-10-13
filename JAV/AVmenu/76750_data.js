@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/b4MSXEQL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76750,
+  "IDcode": "SCOP-613",
+  "title": "巷で噂のゴム本番ありの裏デリヘルで、僕のデカチンを挿入したら嬢はイキまくってヘロヘロで心ここに在らず状態。そこでバック中にこっそりゴムを外し生挿入したら気付かれず、嬢もさらにイキまくってそのまま生中出ししちゃいました！！",
+  "publish_date": "2019-04-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "苗条",
+    "礼仪小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/0c1358a8a53699ff79a81cad720a85da.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76750",
+  "actresses": []
+};

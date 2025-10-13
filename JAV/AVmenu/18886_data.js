@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d74da67b-dce2-4ccd-a71b-3632c3273cc3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18886,
+  "IDcode": "IPX-539",
+  "title": "同學會之夜、突然下大雨與搭不上末班車的前男友在賓館到早上… 岬奈奈美",
+  "publish_date": "2020-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "中出",
+    "同學聚會",
+    "人妻",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230829/20230829013810172172.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230829/20230829013810172172.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18886",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18886&name=岬奈奈美"
+    }
+  ]
+};

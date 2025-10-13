@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/25/760258a2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63727,
+  "IDcode": "NASK-257",
+  "title": "寝取られ人妻 夫が見ている前で他人棒に何度もイキ悶えた不貞妻",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "已婚妇女",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63727",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63727&name=森澤佳奈"
+    },
+    {
+      "name": "桃井杏南",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250823/810c86ae-8ed3-4e75-bb88-3e633ce205da_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63727&name=桃井杏南"
+    },
+    {
+      "name": "飞鸟铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230501/81c21040-e154-4f5b-aa57-2fed1c6a26d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63727&name=飞鸟铃"
+    },
+    {
+      "name": "吉泽ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63727&name=吉泽ひかり"
+    }
+  ]
+};

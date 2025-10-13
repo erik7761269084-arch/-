@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/b7ec83cb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70182,
+  "IDcode": "DASS-641",
+  "title": "おちんコス。あれ？よく見たらおちんちん生えてる？4545コスプレイヤー 柚木れんか",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "各种职业",
+    "荡妇",
+    "肛交",
+    "角色扮演者",
+    "变性者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70182",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70182&name=鲛岛"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70182&name=じゅうもんじ"
+    },
+    {
+      "name": "柚木れんか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70182&name=柚木れんか"
+    }
+  ]
+};

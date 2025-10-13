@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220329/821AEA5BA1250F85/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97526,
+  "IDcode": "GANA-2176",
+  "title": "マジ軟派、初撮。 1401 高尾山で登山女子を登頂！2つそびえるおっぱいに緩やかな傾斜が続くお尻に興奮！大洪水のオマ●コに予測不可能な腰のうねり！女というドエロい山を制覇せよ！",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "女大学生",
+    "颜射",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97526",
+  "actresses": [
+    {
+      "name": "ののは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97526&name=ののは"
+    }
+  ]
+};

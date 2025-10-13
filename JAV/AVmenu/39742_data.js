@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39742,
+  "IDcode": "08682A9E1D55492F254F921C9EAEDDF8",
+  "title": "秋野千寻的惊人服务",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39742",
+  "actresses": []
+};

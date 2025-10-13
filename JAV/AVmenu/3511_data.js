@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9822d263-fb4a-4a30-b604-03304f9f33b3/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/ab5ee3c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3511,
+  "IDcode": "KAM-255",
+  "title": "偷拍→NTR→上傳 色鬼公公奪走兒子豐滿媳婦 爆乳肥臀讓人忍不住想中出她 ~ 藤沢麗央",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "重口味",
+    "口交",
+    "自宅",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "偷拍・盜撮",
+    "奇聞趣事",
+    "自慰",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "父親",
+    "NTR",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "KAM-255为卍GROUP出品,2025年8月14日发行的有碼成人影片由藤沢麗央出演\n跟兒子媳婦住一起的老爸，對年輕又火辣的媳婦心癢難耐，偷偷裝了好幾個攝影機偷拍。臥室鏡頭拍到兒子因為隔天要出差早起，拒絕了媳婦的勾引，結果媳婦只能自己來。某天中午，媳婦又在自慰時，色心大起的公公直接硬上！一開始媳婦還掙扎，但被公公一陣挑逗後直接軟腳張開，隔天早上更是被全程錄下，還被中出塞滿。後來，這段超刺激的影片居然被上傳到色情網站，真的太猛啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814041432227227_38691_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814041432227227_38691_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3511",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3511&name=藤沢麗央"
+    }
+  ]
+};

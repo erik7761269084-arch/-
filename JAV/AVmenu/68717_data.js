@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250411/cr7jBbOY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68717,
+  "IDcode": "PRED-407",
+  "title": "この体、ヤバいほど気持ちイイ。上司の妻=俺のセフレ！巨乳誘惑に勝てず即ハメ×即中出しで社内不倫しつづけている毎日…。 結城りの",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "出轨",
+    "OL",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68717",
+  "actresses": []
+};

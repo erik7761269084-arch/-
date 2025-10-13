@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/ILG2bjQc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69764,
+  "IDcode": "VOSS-145",
+  "title": "妊活のため一ヶ月の禁欲生活をして溜めた僕の濃厚精子をすぐに横取りしてしまう困った嫁の母！今夜こそ嫁を孕ませるぞ…と思っていても溜まりすぎてギンギンになってる勃起チ○ポを見た瞬間に飛びつきむしゃぶり自分のマ○コに強制横取り中出し！ 総集編10名240分",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/1ed96f87f09e6e1eeaa125b843c04c3d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69764",
+  "actresses": []
+};

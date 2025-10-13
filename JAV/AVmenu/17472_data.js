@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1233997f-ff3d-4542-bcc6-bba26009c764/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/24/47f47569/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17472,
+  "IDcode": "ADN-516",
+  "title": "単身赴任NTR 妻子卻打電話給我 “你的上司每天都中出我”",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "中出",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "ADN-516为ATTACKERS出品,2023年12月5日发行的有碼成人影片由白峰美羽出演\n「我和大島先生有染，」當我獨自工作時，我的妻子在電話裡告訴我。 儘管我這麼愛她……她和我的老闆有染。 他們的關係持續多久了？ 我都不知道，也不想知道。 當大島猛烈地插入她時，智慧手機螢幕上反映的妻子沉浸在快樂之中。 我能做的只有絕望。\n「我和大島先生有染，」當我獨自工作時，我的妻子在電話裡告訴我。 儘管我這麼愛她……她和我的老闆有染。 他們的關係持續多久了？ 我都不知道，也不想知道。 當大島猛烈地插入她時，智慧手機螢幕上反映的妻子沉浸在快樂之中。 我能做的只有絕望。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/fcf137d2-4b65-4c14-a279-6a7b59b11df4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/fcf137d2-4b65-4c14-a279-6a7b59b11df4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17472",
+  "actresses": [
+    {
+      "name": "白峰美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/596400d9-22f3-4ee0-8f04-7b524971cacb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17472&name=白峰美羽"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17472&name=大岛丈"
+    }
+  ]
+};

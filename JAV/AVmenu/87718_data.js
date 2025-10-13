@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230815/nApuAIdV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87718,
+  "IDcode": "OBA-384",
+  "title": "ごめんね、お母さん本当はSEXが大好きなの。 牧村彩香",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87718",
+  "actresses": [
+    {
+      "name": "牧村彩香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20251004/55ef6373-bc65-4fcc-b1c8-18d5c3aae496_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87718&name=牧村彩香"
+    }
+  ]
+};

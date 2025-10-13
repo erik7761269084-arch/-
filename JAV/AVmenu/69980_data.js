@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/20/5bf4a78a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69980,
+  "IDcode": "SDNM-192",
+  "title": "その顔、身体、ピュアな心。君のすべては美しい。 三浦歩美 36歳 第3章 禁欲明けの焦らし責めで敏感な身体は理性崩壊 旦那が仕事中ず～っと他人棒でイキっぱなし12時間",
+  "publish_date": "2019-03-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "淫乱，真实",
+    "滥交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/33e28129027dac651eb7db55106d30e3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69980",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69980&name=愛弓涼"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69980&name=鲛岛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69980&name=南佳也"
+    }
+  ]
+};

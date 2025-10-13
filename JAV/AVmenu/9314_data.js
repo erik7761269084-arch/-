@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d151f0f-eb3e-4425-890c-9abf2aefaccf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9314,
+  "IDcode": "GEBB-005",
+  "title": "迷茫的女性客人誤入亂交OK的混浴溫泉，美乳巨臀被癡漢不斷玩弄而發出呻吟聲... ~ 小阪ひまり 波多野結衣 大槻響 北村海智",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "變態",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "溫泉",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "GEBB-005为妄想族出品,2025年1月7日发行的有碼成人影片由波多野结衣，大槻响，北村海智，小坂ひまり出演\n關東附近的熱門混浴溫泉度假村。然而，在幕後，只有知情者知道，這是一個猥褻者可以的溫泉！一位已婚婦女在不知道這一事實的情況下洗澡，意識到有些不對勁，但卻成為了在溫泉出沒的「猥褻鱷魚」毒牙的犧牲品。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/20250105011819418418.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/20250105011819418418.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9314",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9314&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9314&name=大槻响"
+    },
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9314&name=小坂ひまり"
+    },
+    {
+      "name": "北村海智",
+      "img_url": "https://picture.yoshiclub.xyz/20241027/f1cbe407-f71c-4491-98c9-326c292d4c70.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9314&name=北村海智"
+    }
+  ]
+};

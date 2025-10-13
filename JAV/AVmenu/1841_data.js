@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230125/ea22f088-3485-458a-87a5-184bba5b7728/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1841,
+  "IDcode": "MKBD-S99",
+  "title": "KIRARI 99 佐伯雪菜和素人散歩墜入熱戀 : 佐伯雪菜",
+  "publish_date": "2015-06-11",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "乳交",
+    "中出",
+    "潮吹",
+    "泳池",
+    "口交",
+    "美腳",
+    "抹油",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/a9b6c5d3-f986-4f17-b46b-1da02c475f7e.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/a9b6c5d3-f986-4f17-b46b-1da02c475f7e.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1841",
+  "actresses": [
+    {
+      "name": "佐伯雪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/fa6d675d-c784-48a5-b1fa-e15a59f3f150.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1841&name=佐伯雪菜"
+    }
+  ]
+};

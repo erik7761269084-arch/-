@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/272471dc-148d-4ba3-93ed-2eb30eb975ef/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/21/43a94460/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9762,
+  "IDcode": "JUR-120",
+  "title": "和美巨乳人妻小姨滿頭大汗壓倒性的交尾，她的騎乘式太好了，我都不用動就射了 ~ 日下部加奈",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "鄉下",
+    "色誘",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小姨・姑姑",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "探親",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "足交",
+    "熟女"
+  ],
+  "description": "JUR-120为MADONNA出品,2024年12月24日发行的有碼成人影片由日下部加奈出演\n在一個炎熱的夏日，我們一家人去親戚家過暑假。那段時間，我請加奈阿姨看我的作業。假名是我母親的妹妹，她比我母親聰明得多……最重要的是，她的胸部更大。就在我學習的時候，加奈腫脹的胸口也引起了我的注意，我的心止不住地狂跳。今天，當我們像往常一樣單獨做作業時，我的目光被她那汗水潤澤的胸脯所吸引，突然她把汗濕的胸脯貼近了我的身體。然後加奈小姐就用迷人的笑容向我襲來…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218100011992992.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218100011992992.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9762",
+  "actresses": [
+    {
+      "name": "日下部加奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b31aecda-0408-4ba7-be0d-33024ffc71d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9762&name=日下部加奈"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9762&name=日森一"
+    }
+  ]
+};

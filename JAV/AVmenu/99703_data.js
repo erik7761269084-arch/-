@@ -1,0 +1,42 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99703,
+  "IDcode": "HGOT-035-",
+  "title": "彼女がいながらも浮気しました。その後、2人同時に付き合うことにな",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "女上位",
+    "苗条",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99703",
+  "actresses": [
+    {
+      "name": "原美织",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250823/1876b0a8-e189-447b-b303-513c28224e48_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99703&name=原美织"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99703&name=冬爱琴音"
+    },
+    {
+      "name": "栗山絵麻",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99703&name=栗山絵麻"
+    },
+    {
+      "name": "内海みう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99703&name=内海みう"
+    }
+  ]
+};

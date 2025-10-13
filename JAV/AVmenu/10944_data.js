@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a6824d3d-994d-4f56-87e7-1582a147cda2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10944,
+  "IDcode": "DVEH-041",
+  "title": "你有沒有對我流口水？和我關系很微妙的鄰居女孩 ~ 浜崎真緒",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "美少女",
+    "鄰居",
+    "癡女",
+    "巨乳",
+    "足交",
+    "短髮",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241102/3be9b906-9caa-453b-b3f1-84bba817058a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241102/3be9b906-9caa-453b-b3f1-84bba817058a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10944",
+  "actresses": [
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10944&name=浜崎真緒"
+    }
+  ]
+};

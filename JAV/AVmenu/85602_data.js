@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230125/YPECIBe9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85602,
+  "IDcode": "MISM-254",
+  "title": "喉頭小穴陰道肛門狂亂3穴都吞下的變態被虐辣妹直播主 夏目未來",
+  "publish_date": "2022-10-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "淫乱，真实",
+    "SM",
+    "肛交",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230126-1/0d5cc5df8e458a49b700ee08ede669b3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85602",
+  "actresses": [
+    {
+      "name": "夏目未來",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ff2def96-3bcb-4536-ae3c-7abf8587feb3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85602&name=夏目未來"
+    }
+  ]
+};

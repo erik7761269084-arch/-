@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/28/8e3e24dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60432,
+  "IDcode": "MSAJ-017",
+  "title": "SEX依存症の女 A●●現役CA千景29歳",
+  "publish_date": "2025-08-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "潮吹",
+    "吞精",
+    "空中小姐"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/28/8e3e24dc/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60432",
+  "actresses": []
+};

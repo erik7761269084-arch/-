@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/13/d60f3cad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61852,
+  "IDcode": "JAVC-OJKLYIYS",
+  "title": "罩杯爆乳新人写真偶像的黑暗内幕",
+  "publish_date": "2025-07-14",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/13/ef735e057bac6b04378686114d85d85b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61852",
+  "actresses": []
+};

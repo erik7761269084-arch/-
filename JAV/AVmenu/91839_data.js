@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240611/zA9cmZp3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91839,
+  "IDcode": "JUQ-616",
+  "title": "日常を持て余す人妻達に、悪戯されて、搾精され続けて… 今宵、僕は’ハプニングバー’で童貞を捧げた。",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "滥交",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91839",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91839&name=愛弓涼"
+    },
+    {
+      "name": "隠岐玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91839&name=隠岐玲"
+    }
+  ]
+};

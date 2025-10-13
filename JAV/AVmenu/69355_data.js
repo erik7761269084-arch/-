@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/23/657b32fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69355,
+  "IDcode": "NACR-932",
+  "title": "- 突然の豪雨でズブ濡れ… 帰れなくなった愛しの幼なじみ 小野坂ゆいか 生写真とパンティ付き - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "口交",
+    "巨大屁股",
+    "童年朋友",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/11/04f7679e3a7e7d75144b10571f883d45.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69355",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69355&name=小野坂唯香"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69355&name=ナイアガラ翔"
+    }
+  ]
+};

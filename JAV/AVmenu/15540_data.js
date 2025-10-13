@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/42f57916-5e49-4bb7-a42d-72a8e313d2da/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241028/tsm2PDn4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15540,
+  "IDcode": "START-054",
+  "title": "好友的女友近距離勾引我……在我發不出聲音的密閉房間裏，朋友就在身邊！如果被知道了就完了，但是我無法停止……小倉由菜",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "色誘",
+    "中出",
+    "蕩婦",
+    "口交",
+    "勾引・誘惑",
+    "朋友女友・妻子",
+    "艷遇",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240409/abf75947-ffc0-46e1-997a-672ee5d59d35.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240409/abf75947-ffc0-46e1-997a-672ee5d59d35.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15540",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15540&name=小倉由菜"
+    }
+  ]
+};

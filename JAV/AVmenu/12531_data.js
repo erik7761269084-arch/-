@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/10081647-6fe8-4e39-bbd0-ef61422b86bf/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/13/4f55f1b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12531,
+  "IDcode": "KANO-051",
+  "title": "中出調情溫泉旅行 ~ 前田美波",
+  "publish_date": "2024-08-22",
+  "type": "有码",
+  "company": "月刊彼女",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "旅行",
+    "蠻橫嬌羞",
+    "純愛・戀愛",
+    "美腳",
+    "按摩棒",
+    "溫泉",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/bc3181cb-84eb-44f1-b051-7795375ddfee.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/bc3181cb-84eb-44f1-b051-7795375ddfee.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12531",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12531&name=前田美波"
+    }
+  ]
+};

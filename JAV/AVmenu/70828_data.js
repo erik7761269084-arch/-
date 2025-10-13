@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250313/m92fgp5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70828,
+  "IDcode": "MKMP-290",
+  "title": "有坂深雪 ナマ挿入 卑猥なワレメ",
+  "publish_date": "2019-08-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "女上位",
+    "自慰",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70828",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70828&name=有坂深雪"
+    }
+  ]
+};

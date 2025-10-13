@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230131/6988C985A9D4FF50/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99163,
+  "IDcode": "DANDY-497",
+  "title": "「『おばさんの下着を盗んでどうするの？』女を忘れた美人おばさんは自分で発情してくれる少年チ○ポなら下着を盗まれても嫌じゃない」VOL.1",
+  "publish_date": "2016-06-23",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "内衣",
+    "薄马赛克",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy497/1dandy497pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99163",
+  "actresses": [
+    {
+      "name": "彩奈莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/72bb4b00-c5f3-40f8-a6d2-eb03c451b0f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99163&name=彩奈莉娜"
+    },
+    {
+      "name": "篠田步美",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/338ad20f-0823-4893-83c3-8bd6f0affe0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99163&name=篠田步美"
+    }
+  ]
+};

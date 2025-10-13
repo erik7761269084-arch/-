@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/01/374dd76b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106813,
+  "IDcode": "IPZZ-121",
+  "title": "人妻自宅エステサロン 醜いゲス隣人の絶倫チ〇ポで何度もイカされ中出しされてしまった美人エステティシャン 希島あいり 生写真3枚付き",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "按摩",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106813",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106813&name=希島愛理"
+    }
+  ]
+};

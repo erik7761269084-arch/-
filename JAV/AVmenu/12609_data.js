@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f42308ef-db17-425b-9a94-5bbe641ac223/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/sQ4t3ybl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12609,
+  "IDcode": "MUKC-071",
+  "title": "容易上當受騙的地下偶像，往往無法拒絕過份的要求讓老頭爲所欲爲，不知不覺間就被操了。完全處於被掌控中。 中出、角色扮演7本番 ~ 美咲音",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "老頭子",
+    "游戲COSPLAY",
+    "偶像",
+    "中出",
+    "女上位",
+    "角色扮演",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "少女",
+    "手指插入",
+    "誘騙女性",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥"
+  ],
+  "description": "MUKC-071为無垢出品,2024年8月20日发行的有碼成人影片由美咲音出演\n---這個女孩很好對付。如果有人推我，我不能說不…我聯繫了一個容易被愚弄的地下偶像（候選人）女孩，並且有7場off-paco表演。我喜歡唱歌和跳舞。我想有一天出名。利用如此純潔的少女心，他們發生了聯繫並發生了性關係。容易動搖的女孩接受了老人的猥褻要求……即使他射到了她體內，她也什麼也說不出來。一邊接受老爺的雞雞，一邊感覺好極了，簡直是升天了。與生動的地下偶像候選人的幕後聯繫表演。連續幾天拍攝的七個角色扮演裝扮場景。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815234048233233.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815234048233233.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12609",
+  "actresses": [
+    {
+      "name": "美咲音",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/6ee78fe8-b265-4a7d-a342-351f7c908232.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12609&name=美咲音"
+    }
+  ]
+};

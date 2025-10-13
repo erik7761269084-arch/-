@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221023/16314AA7C6F16DC2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54569,
+  "IDcode": "D35DA6D776FA2B77C6818CF16487F74E",
+  "title": "采访性经验后，胖乎乎的日本人与大山雀被戏弄。 BBW 佐保 1 OSAKAPORN 大阪色情",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54569",
+  "actresses": []
+};

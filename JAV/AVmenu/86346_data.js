@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/15/445b02e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86346,
+  "IDcode": "STARS-352",
+  "title": "「謝るまで射精させるからな！」生意気な男子生徒をメスイキ連射で服従させる（元・M 性感エステティシャンの）スゴテク女教師 紗倉まな",
+  "publish_date": "2021-04-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "M男",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230206-1/83b6b0b63893a7f300136e1c45c514f6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86346",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86346&name=纱仓真菜"
+    }
+  ]
+};

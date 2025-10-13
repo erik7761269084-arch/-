@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8bba31a7-f488-4a7c-883a-9fb039b28746/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3011,
+  "IDcode": "IPZZ-688",
+  "title": "新人出道！FIRST IMPRESSION 185 性感與高雅同在！無法掩飾的迷人魅力，IP社9月主打新人 AV DEBUT ~ 三澄寧々",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "4K",
+    "臀控",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "單體作品",
+    "明星臉",
+    "出道作品",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "IPZZ-688为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由三澄寧々出演\n现役写真姐姐三澄宁宁终于AV出道啦！她的美貌能瞬间迷倒所有男人，那完美的身材简直是写真界的顶级尤物，天然H杯美胸让人垂涎三尺。高雅的气质就像穿越时空的宝石，神秘又带着甜美淫荡的诱惑力，让人忍不住想一探究竟。她的每一个姿态都让人屏住呼吸，美貌、高雅与色气完美融合，绝对是极致欲望的化身！最顶级的女人带来最撩人的性爱体验，这份性感与高雅，根本藏不住啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040208334141_81939_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/202509040208334141_81939_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3011",
+  "actresses": [
+    {
+      "name": "三澄寧々",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250904/5fe087b5-847a-4cab-8e33-5fa62a782f8d_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3011&name=三澄寧々"
+    }
+  ]
+};

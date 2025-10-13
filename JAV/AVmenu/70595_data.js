@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/gGj6CU7X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70595,
+  "IDcode": "GS-249",
+  "title": "新しく始めた仕事は1人寂しく社内を見回りする会社警備。そんなある日、薄暗い中響いてくる…アエギ声…？残業のストレスで隠れてオナニー真っ最中のソソるOLを発見！？息を飲んで覗いていたらバレてしまいヤバいと思ったら…OLはボクのチ○ポをむさぼってきた！！…",
+  "publish_date": "2019-03-21",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "自慰",
+    "口交",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70595",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70595&name=小泉真理"
+    },
+    {
+      "name": "神楽アイネ",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/055e11f2-b940-4335-88f2-09461301c1d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70595&name=神楽アイネ"
+    },
+    {
+      "name": "竹内真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70595&name=竹内真琴"
+    }
+  ]
+};

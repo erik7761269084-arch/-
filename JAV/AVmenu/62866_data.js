@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/339652cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62866,
+  "IDcode": "UMD-968",
+  "title": "ピタパンスケベ尻の誘惑",
+  "publish_date": "2025-07-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62866",
+  "actresses": [
+    {
+      "name": "五芭",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/52fde9c6-3d51-4aeb-8190-5ff88995feb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62866&name=五芭"
+    },
+    {
+      "name": "沙月文乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/b7840599-4516-4b77-923f-5b79fb004ed1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62866&name=沙月文乃"
+    }
+  ]
+};

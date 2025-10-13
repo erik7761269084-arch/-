@@ -1,0 +1,98 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ad43f898-2afb-438e-8296-d301269fb53d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/b8bb34d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2840,
+  "IDcode": "SILK-190",
+  "title": "共犯關系 4 剎那愛中沉淪的我們 ~ 桐香悠裏 美咲佳奈 豐岡皐月 夏川步美",
+  "publish_date": "2025-09-10",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "小三・情人",
+    "純愛・戀愛",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "女性向",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "SILK-190为SILK LABO出品,2025年9月10日发行的有碼成人影片由美咲佳奈，桐香悠裡，豊岡さつき，夏川步美出演\n短暫的時光裡，兩個人共享著罪惡的快感，陷入了無法自拔的禁忌戀情。這部Undress先行配信的作品收錄了《最後的夜晚》《抹不去的情感》《自私的慾望》《誘惑的眼神》四大篇章，全部打包進DVD！還有DVD獨家特典，幕後花絮跟オフショット讓你一次看個爽！老司機們，快上車啦，這波福利錯過就虧大了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014348797797_60196_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014348797797_60196_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2840",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=美咲佳奈"
+    },
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=夏川步美"
+    },
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=桐香悠裡"
+    },
+    {
+      "name": "豊岡さつき",
+      "img_url": "https://picture.yoshiclub.xyz/20231228/63f05ddd-9019-4259-be8b-dd0ec2ba913f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=豊岡さつき"
+    },
+    {
+      "name": "天道一然",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=天道一然"
+    },
+    {
+      "name": "木崎凪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=木崎凪"
+    },
+    {
+      "name": "东惣介",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2840&name=东惣介"
+    }
+  ]
+};

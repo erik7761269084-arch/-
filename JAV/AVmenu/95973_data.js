@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/10/01/6b3bea13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95973,
+  "IDcode": "VENZ-018",
+  "title": "フライト前はムラムラ限界ねっとり甘い接吻で中出し誘導する人妻キャビンアテンダント 世界中のVIPを夢中にする絶品リップサービス 乗務のストレスを自慰プレイで発散 機長と部屋に直行し渡航先でもハメまくる 山岸いずみ",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/10/01/779b8678e744fb434fd8a9b64c6b5d92.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95973",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241014/TMdEhAB4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93630,
+  "IDcode": "OKL-003",
+  "title": "紗々原ゆり 神陸上ウェア スポーツ日焼けから筋肉美女アスリートの秘部を隠してきたウェアを巨乳や美乳パイパンや剛毛娘に着せジョリワキやハミ毛を堪能。陸上ユニホーム女子の太腿やお尻や着衣放尿まで！！身体にフィットするウェアのキワキワを超接写＆完全着衣でハメ撮り",
+  "publish_date": "2024-07-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "第一人称摄影",
+    "屁股",
+    "乳液",
+    "运动短裤",
+    "偷窥",
+    "局部特写",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93630",
+  "actresses": [
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93630&name=纱々原ゆり"
+    }
+  ]
+};

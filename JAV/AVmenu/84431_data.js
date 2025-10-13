@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/RUzOgXbv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84431,
+  "IDcode": "FSDSS-317",
+  "title": "男潮吹き管理お姉さんの搾り散らかしびちゃびちゃデート 永瀬みなも",
+  "publish_date": "2021-11-25",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230109-1/3bf5cf3f92f5885da8d6e1c45d32fefa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84431",
+  "actresses": [
+    {
+      "name": "永濑未萌",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84431&name=永濑未萌"
+    }
+  ]
+};

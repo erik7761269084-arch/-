@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250305/o8YlwhxK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70902,
+  "IDcode": "JUFD-780",
+  "title": "爆乳女将の豊満女体をたらふく堪能できる全裸食堂 織田真子",
+  "publish_date": "2017-08-17",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "屁股",
+    "老板娘，女主人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70902",
+  "actresses": []
+};

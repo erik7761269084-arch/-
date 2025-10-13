@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231011/IRyfKYvF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88482,
+  "IDcode": "RCTD-163",
+  "title": "爆乳エロプロレス",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "其他恋物癖",
+    "巨乳",
+    "多P",
+    "企画",
+    "运动",
+    "战斗行动"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/8499ba7b46dd67eba0de80ec060c400d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88482",
+  "actresses": [
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88482&name=優月真裡奈"
+    },
+    {
+      "name": "三苫海",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-三苫うみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88482&name=三苫海"
+    },
+    {
+      "name": "后藤里香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/2483effa658afadc84442d80f1731b75.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88482&name=后藤里香"
+    },
+    {
+      "name": "久我かのん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88482&name=久我かのん"
+    }
+  ]
+};

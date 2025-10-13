@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f8eacecf-c867-4af1-9323-3314ed14648f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11391,
+  "IDcode": "SDNM-489",
+  "title": "新人報到！M屬性的京都34歲人妻瞞着丈夫出演AV是爲了滿足深藏很久的受虐欲 首次亮相 AV DEBUT ~ 三池小春",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "絕頂高潮",
+    "色白",
+    "紀念作",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "出道作品",
+    "情趣內衣",
+    "人妻",
+    "真實拍攝",
+    "熟女",
+    "短髮",
+    "女優",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241008/3fc7d768-de3d-4da3-bcc8-716eb57136ba.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241008/3fc7d768-de3d-4da3-bcc8-716eb57136ba.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11391",
+  "actresses": [
+    {
+      "name": "三池小春",
+      "img_url": "https://picture.yoshiclub.xyz/20241008/bec5c37d-36e2-4483-909e-0205873078ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11391&name=三池小春"
+    }
+  ]
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c99ce76-ae54-43c7-81c4-e3ba7f87e737/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15330,
+  "IDcode": "NOSKN-083",
+  "title": "夏木りん恩愛的NS溫泉之旅",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "溫泉",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/3a5d5dd9-a30e-4bba-8a17-8c18a62d95f6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/3a5d5dd9-a30e-4bba-8a17-8c18a62d95f6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15330",
+  "actresses": [
+    {
+      "name": "凰華鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/ec9a896b-e317-44ce-9a1b-7c45fe76015a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15330&name=凰華鈴"
+    }
+  ]
+};

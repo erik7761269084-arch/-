@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3e836be9-ba99-4e84-aeac-b2257d944b0c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/e9d07644/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6641,
+  "IDcode": "SW-999",
+  "title": "一回家就發現浴室裡光溜溜的表妹！表哥我超愛你！快射裡面啦！隨便玩弄長大表妹的身材和嫩穴！",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "後入",
+    "故事集",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "表姐・表妹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "勾引・誘惑",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "羞恥"
+  ],
+  "description": "SW-999为SWITCH出品,2025年4月24日发行的有碼成人影片\n一開門，浴室裡竟然有個光著身子的超可愛表妹，嗲聲嗲氣地喊著表哥你回來啦！她用粉嫩小舌頭舔遍我全身，連我硬到不行的兄弟都溫柔含住幫我洗乾淨！表哥我真的受不了了，快插進來好不好？她一邊撒嬌一邊秀出粉嫩小穴，我直接用硬梆梆的兄弟狠狠頂進去，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424023004391391_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250424/20250424023004391391_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6641",
+  "actresses": []
+};

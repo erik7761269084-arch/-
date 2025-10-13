@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8eb6a8bc-02e5-40c5-8490-7c4bbb1f4784/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/17/275c4945/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15788,
+  "IDcode": "PFES-061",
+  "title": "淫蕩內衣深處滲出性欲 - 巨臀美女豐滿寡婦的誘惑 -永井マリア",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "喪夫",
+    "臀控",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330031528569569.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240330/20240330031528569569.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15788",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15788&name=永井瑪麗亞"
+    }
+  ]
+};

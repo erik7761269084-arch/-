@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/ac71d957/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69062,
+  "IDcode": "UMD-958",
+  "title": "産婦人科痴●！！25何も知らない若妻に治療と称して中出しまでっ！！",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69062",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69062&name=天月梓"
+    },
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69062&name=月野香澄"
+    }
+  ]
+};

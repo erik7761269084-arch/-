@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241102/GYqj1AQo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89448,
+  "IDcode": "SW-897",
+  "title": "若妻がハマる媚薬オイルマッサージ。敏感になり過ぎたアソコを大股開きで焦らされて熱い肉棒がハマった瞬間、痙攣エビ反り昇天！",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "已婚妇女",
+    "按摩",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89448",
+  "actresses": []
+};

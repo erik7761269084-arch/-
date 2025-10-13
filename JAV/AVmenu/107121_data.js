@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/28/79efd30c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107121,
+  "IDcode": "MIDV-459",
+  "title": "痴●の指マンがストライクすぎて…声も出せず糸引くほど愛液が溢れ出し堕とされた私 石川澪",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "制服",
+    "潮吹",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107121",
+  "actresses": []
+};

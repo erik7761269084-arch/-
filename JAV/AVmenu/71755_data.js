@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/e3218ae8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71755,
+  "IDcode": "ABP-922",
+  "title": "絶対的下から目線 おもてなし庵 神尻小町 乙都さきの 15 お客様のご満足の為、私の全てを捧げます。",
+  "publish_date": "2019-11-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "自慰",
+    "颜射",
+    "肛交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/07472fa16b4421d5726c6468c25a6912.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71755",
+  "actresses": [
+    {
+      "name": "乙都咲乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/48136b8d-e885-4f21-b050-afaefe44a5a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71755&name=乙都咲乃"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71755&name=大岛丈"
+    }
+  ]
+};

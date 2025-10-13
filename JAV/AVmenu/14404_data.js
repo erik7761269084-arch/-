@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e654456a-ec3b-4e5a-a7a8-c9ad545bc65a/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241018/qX1rVNxN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14404,
+  "IDcode": "REAL-847",
+  "title": "溫泉旅館無限強奸",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "調教",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "多P",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "溫泉",
+    "美少女電影",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240526/c859017a-d79b-4085-8443-55868ba0ee08.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240526/c859017a-d79b-4085-8443-55868ba0ee08.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14404",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14404&name=加藤桃香"
+    },
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14404&name=藤田梢"
+    },
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14404&name=星仲ここみ"
+    }
+  ]
+};

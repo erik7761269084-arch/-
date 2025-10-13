@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240224/bznlBwSO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103652,
+  "IDcode": "GANA-2994",
+  "title": "マジ軟派、初撮。 2016 夜の吉祥寺で出会った仕事帰りの歯科助手さんは、押しに弱いスケベ女子！！！雪のように美しい色白おっぱいとプリ尻を揺らしながら連続痙攣イキ！",
+  "publish_date": "2024-02-18",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "屁股",
+    "业余",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103652",
+  "actresses": [
+    {
+      "name": "めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103652&name=めい"
+    }
+  ]
+};

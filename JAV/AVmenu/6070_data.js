@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e49e2d9-8fc9-429a-9dbd-d1cd7e536697/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6070,
+  "IDcode": "EBWH-234",
+  "title": "脫下初戀女友的衣服…沒想到藏著超白嫩巨乳和粉嫩乳頭，興奮到不行瘋狂輸出 ~ 岡田優愛",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "完全着衣",
+    "手指插入",
+    "地味",
+    "美人",
+    "豐滿"
+  ],
+  "description": "EBWH-234为E-BODY出品,2025年5月16日发行的有碼成人影片由岡田優愛出演\n身為一個純情小處男，終於交到人生第一個女朋友。她總是笑咪咪的，跟她在一起真的超開心。終於等到跟她第一次親密的時刻，脫下她的衣服，哇靠！完全想不到的火辣身材，粉嫩嫩的乳頭，白皙軟嫩的大胸，簡直絕了！我直接性慾大爆發，射了又射還是忍不住繼續衝刺，硬到停不下來。平時甜美可愛的她，到了床上超主動，口技跟胸推都騷到不行，反差萌讓我瘋狂上頭。從那天起，我們一有空就瘋狂開戰，日子過得爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150533263535_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/202505150533263535_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6070",
+  "actresses": [
+    {
+      "name": "岡田優愛",
+      "img_url": "https://picture.yoshiclub.xyz/20250411/2ad23981-7dff-4a01-8395-2f812c9299d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6070&name=岡田優愛"
+    }
+  ]
+};

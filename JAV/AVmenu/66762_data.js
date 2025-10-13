@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250506/EqkqHoAG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66762,
+  "IDcode": "GANA-2812",
+  "title": "マジ軟派、初撮。 2020 池袋で仕事終わりのスタイル抜群スレンダー美女をナンパ！普段は心優しきナースさん、チ●ポを咥えるとねっちょり口から離さず・・・！",
+  "publish_date": "2024-03-02",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗条",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250507-1/59ff11689a38116c363a8c1747618f88.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66762",
+  "actresses": [
+    {
+      "name": "しずね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66762&name=しずね"
+    }
+  ]
+};

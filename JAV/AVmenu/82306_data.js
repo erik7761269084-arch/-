@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/2e5a5bdf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82306,
+  "IDcode": "CHN-181",
+  "title": "新・絶対的美少女、お貸しします。 94 斎藤あみり（AV女優）19歳。",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "颜射",
+    "潮吹",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82306",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82306&name=斋藤亚美里"
+    }
+  ]
+};

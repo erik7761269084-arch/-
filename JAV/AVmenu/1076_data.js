@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/804fa6c2-0fd3-4e95-9a27-87f20f491a5d/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20221015/40FE1JBE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1076,
+  "IDcode": "HEYZO-1517",
+  "title": "里美老師的無性消滅課程 - 臼井里美",
+  "publish_date": "2017-06-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "女教師",
+    "3P・4P",
+    "中出",
+    "人妻",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/d7213aa9-9741-44f3-b83b-6d77d3667bf1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/d7213aa9-9741-44f3-b83b-6d77d3667bf1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1076",
+  "actresses": [
+    {
+      "name": "臼井さと美",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/9b6da3be-5c0e-48ec-b37a-d75954fc3259.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1076&name=臼井さと美"
+    }
+  ]
+};

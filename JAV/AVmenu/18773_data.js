@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4e10e6b5-687a-41ff-b206-173245d94d51/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18773,
+  "IDcode": "IPX-609",
+  "title": "最愛大叔癡女美少女舔弄幹砲",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "JK校服",
+    "淫語",
+    "少女",
+    "癡女",
+    "M男・M女",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908211421670670.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/20230908211421670670.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18773",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18773&name=二葉惠麻"
+    }
+  ]
+};

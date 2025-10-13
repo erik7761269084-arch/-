@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/22/be47d555/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86279,
+  "IDcode": "SSIS-419",
+  "title": "三上悠亞的開苞同居檔案",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "偶像",
+    "薄马赛克",
+    "纪录片",
+    "处男",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230205-1/092ba78c6b2e55ae0defac5edcb9cd04.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86279",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86279&name=三上悠亜"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86279&name=左慈半造"
+    }
+  ]
+};

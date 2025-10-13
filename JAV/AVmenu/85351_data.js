@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/12/8a37f16e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85351,
+  "IDcode": "MIAA-605",
+  "title": "いきなり街角拘束乳首トランスBDSM キミが身動きできないように拘束して乳首弄り倒してアゲル 倉本すみれ 沙月恵奈",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "荡妇",
+    "M男",
+    "拘束",
+    "美少女电影",
+    "靴子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85351",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85351&name=沙月惠奈"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240527/KuCH3luo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102191,
+  "IDcode": "MXGS-1078",
+  "title": "追い討ちピストン即ハメFUCK 吉沢明歩",
+  "publish_date": "2018-12-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "巨乳",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_068mxgs01078/h_068mxgs01078pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102191",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102191&name=吉沢明歩"
+    },
+    {
+      "name": "望月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102191&name=望月"
+    }
+  ]
+};

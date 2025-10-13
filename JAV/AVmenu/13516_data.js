@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c59f57dc-bb9d-405d-931a-bec8c955e19f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/536f20f7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13516,
+  "IDcode": "DASS-436",
+  "title": "距離畢業還有一個月，一位老教師用春藥騷擾白石桃，粘稠、羞辱性的愛撫玷污了她白皙皮膚的臀部。",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "性感",
+    "少女",
+    "美少女",
+    "學校",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "DASS-436为DASDAS出品,2024年7月9日发行的有碼成人影片由白石桃出演\n他透過推薦考上了大學，距離畢業只剩下幾天了。我本來應該和她在同一所大學，幸福的日子就在未來等著我。有一天，桃本的班主任拍下了她在學校親吻他的照片。一直關注沫沫的班主任，為了讓沫沫聽話，威脅要取消男友的推薦。第一個指示是第二天早上在指定時間登上火車。莫莫覺得奇怪，但突然她的屁股被人從後面拍了一下，她就明白了意思。莫莫一邊被塗上春藥一邊被愛撫，儘管情況異常，但不管她願不願意，她都感覺到了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240706/20240706010341474474.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240706/20240706010341474474.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13516",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13516&name=白石桃"
+    }
+  ]
+};

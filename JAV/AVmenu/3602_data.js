@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4b5f6a45-223a-4e57-875a-66be253d1233/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/27/2f2cfe07/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3602,
+  "IDcode": "MFYD-032",
+  "title": "極品女將用濃烈舌吻把大叔伺候到高潮迭起 ~ 潤うるる",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "4K",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "獵豔",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "老闆娘，女主人",
+    "野性",
+    "豐滿"
+  ],
+  "description": "MFYD-032为溜池出品,2025年8月14日发行的有碼成人影片由潤うるる出演\n在某个乡下小镇，有一家名叫‘清润庄’的旅馆，女将润うるる自从老公去世后，一个人撑起整个旅馆的运营，生意却始终火爆，尤其是那些精力旺盛的大叔们，络绎不绝，网上评分更是稳坐5.00满分！秘诀就在于她那让人脸红心跳的‘特别服务’。从撩人的舌吻到技巧满分的口活，再到让大叔们欲罢不能的床上功夫，不把人榨干绝不放你走！兄弟们，累了就来这家旅馆放松一下，保证你流连忘返！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030602128128_24369_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030602128128_24369_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3602",
+  "actresses": [
+    {
+      "name": "潤うるる",
+      "img_url": "https://picture.yoshiclub.xyz/20240913/f5f40a41-e077-4fee-a83d-14a0e8c7b8b2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3602&name=潤うるる"
+    }
+  ]
+};

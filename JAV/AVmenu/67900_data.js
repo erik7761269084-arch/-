@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250423/TRa4PBcB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67900,
+  "IDcode": "EBOD-819",
+  "title": "店名は秘密ですが吉原の高級店で働く現役美人ソープ嬢！日本人離れしたヘビー級のデカ尻むちむちボディ桃野りみ E-BODYデビュー",
+  "publish_date": "2021-04-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "胖女人",
+    "巨大屁股",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67900",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67900&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67900&name=鲛岛"
+    }
+  ]
+};

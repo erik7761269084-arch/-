@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230315/C4472C1038FFF154/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39906,
+  "IDcode": "N0402",
+  "title": "n0402 純真炉娘輪カン鬼挿不浄汁",
+  "publish_date": "2009-01-30",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "恋物癖",
+    "深喉",
+    "潮吹",
+    "3P",
+    "性奴",
+    "肛交",
+    "口交",
+    "颜射",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39906",
+  "actresses": []
+};

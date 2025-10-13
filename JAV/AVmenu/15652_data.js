@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f61afe0a-aa74-4f45-92be-0dc3739f0ebb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15652,
+  "IDcode": "MTALL-110",
+  "title": "Magic Mirror x Materialall 慶典獨家！街角連續捕捉素人巨乳100cm J罩杯！大量噴出而渾身溼透的反轉南浸中出SP！鬆本菜奈実",
+  "publish_date": "2024-04-11",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "企畫",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "巨乳",
+    "公共場所",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240403/20240403231935723723.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240403/20240403231935723723.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15652",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15652&name=松本菜奈実"
+    }
+  ]
+};

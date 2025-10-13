@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c33de651-f4b0-40b0-8a3c-7729266d98b9/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/4357cc41/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4048,
+  "IDcode": "SSNI-601",
+  "title": "體液交融，超濃密性愛無剪輯特別版 ~ 琴井汐里",
+  "publish_date": "2019-10-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "絕頂高潮",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "接吻",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "手指插入",
+    "女優訪談",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "女優"
+  ],
+  "description": "SSNI-601为S1出品,2019年10月12日发行的有碼成人影片由琴井汐里出演\n琴井汐里的專屬第三彈作品，來自超夯的‘濃密’系列！27歲的她可不是白過的，全身上下散發著成熟女人的性感與誘惑，展現出讓人心跳加速的艷麗性愛。兩人嘴唇激烈交纏的深吻，身體發燙互相撫摸私處的激情愛撫，高潮連連卻停不下來的狂野活塞運動……她那本能驅使、野性十足地索取快感的模樣，簡直色到爆！敏感帶被深入刺激，露出迷離的表情一次次高潮，這位騷氣滿滿的大姊姊，絕對是極品中的極品！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728053719315315_66784_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250728/20250728053719315315_66784_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4048",
+  "actresses": [
+    {
+      "name": "琴井汐里",
+      "img_url": "https://picture.yoshiclub.xyz/20250115/03946316-a416-43da-836d-aa3b9b676190.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4048&name=琴井汐里"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4048&name=玉木玲"
+    }
+  ]
+};

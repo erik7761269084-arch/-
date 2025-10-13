@@ -1,0 +1,60 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2320,
+  "IDcode": "MIMK-249",
+  "title": "霸道女上司與社畜小弟真人版 加班撞見上司自慰抓把柄逆襲地位中出復仇 ~ 吉根柚莉愛",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "漫畫改編",
+    "加班",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "原作改編",
+    "制服",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "自慰",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "辦公室",
+    "M男・M女",
+    "美人",
+    "職場",
+    "女上司",
+    "眼鏡"
+  ],
+  "description": "MIMK-249为MOODYZ出品,2025年10月2日发行的有碼成人影片由吉根柚莉爱出演\n哇，這片真的超刺激！改編自超夯同人作品，講述一個平時愛欺壓下屬的女上司榊綾女（吉根柚莉愛飾）被社畜小弟木村抓到致命把柄的故事。那天加班時，木村意外發現女上司在辦公室裡自慰，立馬用手機拍下證據，瞬間地位大翻轉！平時被壓榨的怨氣一次爆發，用中出復仇狠狠懲罰這位強勢女上司！M罩杯的肉感身材，爽到不行，性慾直接炸裂，看強硬女人被征服的快感真的超帶感！喜歡看霸道女被調教的兄弟，這部絕對必看啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/202510020218219494_91239_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/202510020218219494_91239_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2320",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2320&name=吉根柚莉爱"
+    }
+  ]
+};

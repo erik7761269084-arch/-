@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/28/9dbfc6e0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88137,
+  "IDcode": "KAWD-653",
+  "title": "和只屬於你的櫻由羅同居性活 櫻由羅",
+  "publish_date": "2015-05-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "接吻",
+    "主观视角",
+    "情侣",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88137",
+  "actresses": [
+    {
+      "name": "樱由罗",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c76954c5a955f9c0cd3358b6008fb1ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88137&name=樱由罗"
+    }
+  ]
+};

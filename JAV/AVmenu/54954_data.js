@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220627/C47B98C45455AB81/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54954,
+  "IDcode": "90001AB178DA91DE1A9AF88DF96747DC",
+  "title": "清纯系白虎妹妹双穴抽插",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54954",
+  "actresses": []
+};

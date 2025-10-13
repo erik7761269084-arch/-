@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/mlZU3WSy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90122,
+  "IDcode": "REAL-808",
+  "title": "喉ジュボ本番サービス イラマチオデリヘル",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "内衣",
+    "苗条",
+    "深喉",
+    "礼仪小姐",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90122",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90122&name=皆月光"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90122&name=安部未華子"
+    }
+  ]
+};

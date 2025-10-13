@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fd2660a4-e558-4813-baf9-231327ed3d01/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/53946b0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7994,
+  "IDcode": "JUR-212",
+  "title": "Modonna移籍，第2彈 - 天然K杯巨乳炸彈：！ ！ 她愛她的公公甚於愛她的丈夫 ~ 二羽紗愛",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "老頭子",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "混血",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "JUR-212为MADONNA出品,2025年2月25日发行的有碼成人影片由二羽紗愛出演\n與老同學結婚五年後，她的公公退休了，身體每況愈下，她獨自生活變得困難，因此她決定和他一起生活。八年前，我是岳父班上的學生。那時，我父親因病去世，精神也不太穩定，所以我愛上了岳父，他溫柔地鼓勵我。但妨礙我們的師生關係，她放棄了公公，開始和丈夫約會。我因為愛我丈夫而嫁給他，但是...當我的公公在身邊時，我當時的感情就開始動搖了...",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093157225225.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220093157225225.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7994",
+  "actresses": [
+    {
+      "name": "二羽紗愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/90eb38cb-3350-4aec-bfd3-05920d07ee90.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7994&name=二羽紗愛"
+    }
+  ]
+};

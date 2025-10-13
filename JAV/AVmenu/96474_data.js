@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/19/2e578266/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96474,
+  "IDcode": "IPZ-131",
+  "title": "很難拒絕求愛的女性 我就是不擅長拒絕人嘛 並木優",
+  "publish_date": "2013-06-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "多P",
+    "数位马赛克",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/19/7d5e1d7b09f680ad2a96d7d971919651.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96474",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96474&name=小田切ジュン"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96474&name=玉木玲"
+    },
+    {
+      "name": "并木优",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/ec5b3d77f5b8d15e1e9717c2e7372ee6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96474&name=并木优"
+    }
+  ]
+};

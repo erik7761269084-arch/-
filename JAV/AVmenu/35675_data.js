@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220702/E2C86F40FF72591F/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35675,
+  "IDcode": "3ACC66439EFC9EC595DBE6A681DE-1006",
+  "title": "用骚穴换投资的熟女人妻",
+  "publish_date": "2024-07-18",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35675",
+  "actresses": []
+};

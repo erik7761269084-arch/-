@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220420/706CB284A9177569/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97740,
+  "IDcode": "DANDY-683",
+  "title": "「J○を寸止めキスで焦らしたら発情！さらに唾液交換キスで豹変！！愛液まみれの挿入チ○ポを何度も舐めたがるフェラ好き女子○生」VOL.1",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "口交",
+    "接吻",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97740",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97740&name=小泉真理"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97740&name=富田优衣"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97740&name=神野雛"
+    }
+  ]
+};

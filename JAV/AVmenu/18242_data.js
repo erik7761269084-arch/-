@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c9f893d-3432-47a2-add8-4254226a726c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/14/e74bdbe9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18242,
+  "IDcode": "SSIS-915",
+  "title": "巨乳女上司與處男下屬出差在飯店同房…誘惑下屬一次次性交",
+  "publish_date": "2023-10-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "偶像",
+    "乳交",
+    "OL",
+    "勾引・誘惑",
+    "艷遇",
+    "巨乳",
+    "出軌",
+    "女上司",
+    "飯店"
+  ],
+  "description": "SSIS-915为S1出品,2023年10月25日发行的有碼成人影片由Unpai 出演\n我的上司是Unpai，一位非常有名的美女。 工作出色，漂亮 ，有著令人驚嘆的巨乳。 在社群網路上也是人氣非常高的網紅。 也許是天意，出差時竟然安排讓我這麼處女和上司共處一室了。 我那累積了20多年的性慾望，在H罩杯的美乳前徹底爆發了。 「我。。我。。我受不了了「，第一次做愛，用嘴巴整個天掉H罩杯巨乳，口水都流到了她的胸上了。\n我的上司是Unpai，一位非常有名的美女。 工作出色，漂亮 ，有著令人驚嘆的巨乳。 在社群網路上也是人氣非常高的網紅。 也許是天意，出差時竟然安排讓我這麼處女和上司共處一室了。 我那累積了20多年的性慾望，在H罩杯的美乳前徹底爆發了。 「我。。我。。我受不了了「，第一次做愛，用嘴巴整個天掉H罩杯巨乳，口水都流到了她的胸上了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231021/20231021023236146146.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231021/20231021023236146146.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18242",
+  "actresses": [
+    {
+      "name": "Unpai",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/95627c3b-6ada-48b2-8dd7-133ad96026b2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18242&name=Unpai"
+    }
+  ]
+};

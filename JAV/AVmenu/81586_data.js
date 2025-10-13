@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241107/8ga4YW5k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81586,
+  "IDcode": "FCH-052",
+  "title": "【配信専用】「ちょ、待っ、え！こんなところで！？」バレたらマズい場所で美少女がチ●ポをエッチに抜きまくり！2",
+  "publish_date": "2020-04-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "户外",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81586",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=胡桃多惠"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=神野雛"
+    },
+    {
+      "name": "香坂みりな",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2d0e463c-2cfd-47f1-b4ad-1e859eed7015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=香坂みりな"
+    },
+    {
+      "name": "望月憧",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/bd6d7f1c-9289-48c0-a295-b93ceabfadbb_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=望月憧"
+    },
+    {
+      "name": "柏木まい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=柏木まい"
+    },
+    {
+      "name": "加贺美まり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=加贺美まり"
+    },
+    {
+      "name": "菊川みつ叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=菊川みつ叶"
+    },
+    {
+      "name": "富永舞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81586&name=富永舞"
+    }
+  ]
+};

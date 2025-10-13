@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221113/77F9A9621BF43029/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64672,
+  "IDcode": "FD1FF2C8F5C1B61B30A05B729E5848A-3",
+  "title": "- 最佳姬路故事Vol.68 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64672",
+  "actresses": []
+};

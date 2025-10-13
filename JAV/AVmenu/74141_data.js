@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/Sv7DbPPM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74141,
+  "IDcode": "MIAA-104",
+  "title": "最近できた彼女のギャル姉2人にこっそり密着ピストンで痴女られたボク AIKA 桐嶋りの",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "姐姐",
+    "荡妇",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74141",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74141&name=AIKA"
+    },
+    {
+      "name": "桐岛莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220050303303_36216_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74141&name=桐岛莉乃"
+    }
+  ]
+};

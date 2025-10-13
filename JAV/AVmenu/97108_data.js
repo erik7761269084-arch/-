@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240705/xzB5IX26/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97108,
+  "IDcode": "DLPN-025",
+  "title": "「尿道が馬鹿なんです…。」イキすぎて潮吹きが止まらない超敏感マ○コを持つ淫乱妻 結子さん（42）",
+  "publish_date": "2023-01-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "潮吹",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97108",
+  "actresses": [
+    {
+      "name": "広瀬结香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97108&name=広瀬结香"
+    }
+  ]
+};

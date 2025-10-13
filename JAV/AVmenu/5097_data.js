@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/115d3ef3-10c6-4e21-8136-4b689a4693ef/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5097,
+  "IDcode": "NMND-001",
+  "title": "妹子淪陷的甜蜜泥沼 Vol01 ~ 都月楓 凰華鈴 白都四季",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "4小時以上作品",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "舞蹈老師",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "豐滿",
+    "無毛",
+    "肌肉"
+  ],
+  "description": "NMND-001为DOC出品,2025年6月20日发行的有碼成人影片由凰華鈴，都月楓，白都四季出演\n愛情讓人盲目，這句話聽得多，但真碰到誰也逃不掉！這部片講的是幾個小迷妹被渣男套牢，深陷「渣男沼」爬不出來的故事。她們為了那點所謂的愛，滿心以為「只要我夠真心，總有機會」，拚了命地付出，結果卻被渣男耍得團團轉。片子裡全是真實又虐心的戀愛拉扯，看得你心癢癢又心疼，快來體驗這甜蜜又危險的陷阱啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051624614614_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051624614614_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5097",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5097&name=都月楓"
+    },
+    {
+      "name": "凰華鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/ec9a896b-e317-44ce-9a1b-7c45fe76015a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5097&name=凰華鈴"
+    },
+    {
+      "name": "白都四季",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/e987248d-c6cd-4e0a-8f60-3319ab9afc92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5097&name=白都四季"
+    }
+  ]
+};

@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9bba1fd6-1d4e-4419-90b9-b9d51583e63b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/784f2f7f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9580,
+  "IDcode": "HAWA-339",
+  "title": "今天讓你們見識的性感人妻，29歲，超喜歡大雞巴並且把精子全部吞下 ~ 一條美緒",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "地雷系",
+    "金髮",
+    "美人妻",
+    "情趣內衣",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "NTR",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241226/1058f96c-0380-4bbe-be88-90f97da569e2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241226/1058f96c-0380-4bbe-be88-90f97da569e2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9580",
+  "actresses": [
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9580&name=一条美緒"
+    },
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9580&name=一条美绪"
+    }
+  ]
+};

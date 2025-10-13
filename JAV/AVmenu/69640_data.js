@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/27/e38cbbf5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69640,
+  "IDcode": "JKSR-681",
+  "title": "盗○撮！家庭教師を誘惑する女子○生 「だって先生のことが大好きなんだもん…アタシじゃダメですか？」勉強よりも性に対して興味深々！本当はイケナイことだとわかっているが… 初めての中出し",
+  "publish_date": "2025-04-26",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "偷窥",
+    "魔鬼系",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69640",
+  "actresses": []
+};

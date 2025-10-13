@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250408/3Zs6rIgy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69018,
+  "IDcode": "SENN-019",
+  "title": "お受験ママが勉強に集中できなくなったショタ息子に性教育 通野未帆",
+  "publish_date": "2020-07-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "乱伦",
+    "企画",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/af701285d0891be66462ee9129c6eb51.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69018",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69018&name=通野未帆"
+    }
+  ]
+};

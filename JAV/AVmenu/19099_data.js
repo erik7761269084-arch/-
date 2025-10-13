@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/71bc941c-841f-4377-a017-d285bc8a32da/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20230906/TH3o8R5E/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19099,
+  "IDcode": "IPX-343",
+  "title": "絕頂後追著猛幹連肏到中出！",
+  "publish_date": "2019-07-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "亂交 • 群P",
+    "猥褻穿著",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717233516133133.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230717/20230717233516133133.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19099",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19099&name=岬奈奈美"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19099&name=鲛岛"
+    }
+  ]
+};

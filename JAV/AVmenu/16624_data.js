@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ba2d8acd-4151-43f9-9df2-17b3ef0d9120/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16624,
+  "IDcode": "REAL-840",
+  "title": "什麼都不懂的女高中生一邊說着淫蕩的話一邊不斷高潮 充滿媚藥骯髒聲音 胡桃櫻花",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "JK校服",
+    "口交",
+    "媚藥・迷藥",
+    "性感",
+    "少女",
+    "美少女",
+    "巨乳",
+    "按摩棒",
+    "眼鏡",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240123/d3032b55-5bb0-40ba-93e4-bac6c5cffdbb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240123/d3032b55-5bb0-40ba-93e4-bac6c5cffdbb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16624",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16624&name=胡桃櫻花"
+    }
+  ]
+};

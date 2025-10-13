@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/13/178dbe97/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61751,
+  "IDcode": "HSODA-076",
+  "title": "着床器官 天羽りりか",
+  "publish_date": "2025-08-12",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "多P",
+    "学校作品",
+    "妄想",
+    "水手服"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/13/aee7f08eb2581d5da85ac2c2aa59b80a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61751",
+  "actresses": [
+    {
+      "name": "天羽梨梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5dc8ef57-bccd-406c-8c5a-fe4e459ec89f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61751&name=天羽梨梨花"
+    }
+  ]
+};

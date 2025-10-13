@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/26/8c781c3b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76063,
+  "IDcode": "PRED-124",
+  "title": "身動き出来ない状態で「もうイッてるってばぁ！」痙攣中に超中出し！ 山岸逢花",
+  "publish_date": "2019-01-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "多P",
+    "潮吹",
+    "女优按摩棒",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/e83701608bedad24b22201b2b5283aa6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76063",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76063&name=山岸逢花"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76063&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76063&name=小田切ジュン"
+    }
+  ]
+};

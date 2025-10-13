@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/5d1af3e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106697,
+  "IDcode": "EBWH-021",
+  "title": "日常で見かけたら3度振り返る 圧倒的存在感のLcup着衣巨乳を好き放題したい… 新田雪",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "妄想",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/15/be9a371c3f3f2d19b12c26b31976ea6e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106697",
+  "actresses": [
+    {
+      "name": "新田雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/7a2f0979-2af4-4461-9e05-2f23ef792d3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106697&name=新田雪"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106697&name=鲛岛"
+    }
+  ]
+};

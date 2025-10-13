@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/d1e51475/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115422,
+  "IDcode": "FC2-4747107",
+  "title": "一名真正的大学生首次尝试拍摄性感性爱影片",
+  "publish_date": "2025-08-31",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115422",
+  "actresses": []
+};

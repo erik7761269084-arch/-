@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6bc585a9-b38c-455b-a757-d27fb029821e/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/J0ErRlnw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13276,
+  "IDcode": "MXGS-1342",
+  "title": "完全支配 ~ 身體不斷抽搐無法從中出高潮中解脫 ~ 倉本菫",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "凌辱",
+    "中出",
+    "蕩婦",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "內衣",
+    "少女",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "手指插入",
+    "按摩棒",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240716/d1125fdc-a2eb-48e2-9fb3-fb743fff2bff.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240716/d1125fdc-a2eb-48e2-9fb3-fb743fff2bff.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13276",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13276&name=倉本菫"
+    }
+  ]
+};

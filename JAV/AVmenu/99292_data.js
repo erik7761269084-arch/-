@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99292,
+  "IDcode": "BBAN-067-",
+  "title": "人妻を虜にする寸止め淫語レズビアン澁谷果歩谷原希美",
+  "publish_date": "2015-12-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫语",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99292",
+  "actresses": [
+    {
+      "name": "谷原希美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526030818714714_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99292&name=谷原希美"
+    },
+    {
+      "name": "澁谷果歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/b3d3f379-2936-451b-abd5-59de169eeda8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99292&name=澁谷果歩"
+    }
+  ]
+};

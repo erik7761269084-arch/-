@@ -1,0 +1,97 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/75760df2-ac7e-4a0f-b647-25b925313ad8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/05/17642923/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5775,
+  "IDcode": "SDDE-752",
+  "title": "性愛綜合大學醫院：10科室護士的口技手技全套服務，100台攝影機直擊超真實操作190分鐘 ~ 花狩舞 辻井穗乃果 石川陽波 糸井ありさ 白浜美羽",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "打手槍",
+    "貧乳",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "看病・住院",
+    "兩女一男",
+    "寫真偶像",
+    "美人",
+    "護士",
+    "美少女電影",
+    "豐滿"
+  ],
+  "description": "SDDE-752为SOD出品,2025年5月27日发行的有碼成人影片由辻井穗乃果，石川陽波，花狩舞，白浜美羽，糸井ありさ出演\n從男性那話兒下手，撐起醫療新境界！為了拯救少子化的日本，守護男性健康就是守護未來！在飯能性愛綜合大學醫院，10個科室的護士小姐姐用黏膜接觸的特別療法，推出‘射精治療’，讓小兄弟重振雄風！這次醫院全力配合，裝了100台攝影機，帶你直擊現場，感受護士小姐姐們每天的火辣操作，超真實，超刺激！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527091933302302_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250527/20250527091933302302_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5775",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=辻井穗乃果"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=花狩舞"
+    },
+    {
+      "name": "白浜美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/1a1ea691-243b-41a9-a41f-dc05448b41a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=白浜美羽"
+    },
+    {
+      "name": "糸井ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/b95a417b-4e89-4ac8-9b6f-893317c399cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=糸井ありさ"
+    },
+    {
+      "name": "石川陽波",
+      "img_url": "https://picture.yoshiclub.xyz/20240920/9ef886c3-3daf-4336-8fd8-b5ad35403329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=石川陽波"
+    },
+    {
+      "name": "山口由愛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250825/7889b177-5fb8-4388-906d-888909afd7c9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5775&name=山口由愛"
+    }
+  ]
+};

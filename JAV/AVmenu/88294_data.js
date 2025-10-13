@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231003/MaXIonbI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88294,
+  "IDcode": "CHN-185",
+  "title": "新・絶対的美少女、お貸しします。 95 南マナ（AV女優）26歳。",
+  "publish_date": "2020-05-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "颜射",
+    "屁股",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/1ab34092cd2e269b7ecb208f4016755a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88294",
+  "actresses": [
+    {
+      "name": "南マナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88294&name=南マナ"
+    }
+  ]
+};

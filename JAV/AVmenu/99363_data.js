@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230202/A34FC86CC66EAFFA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99363,
+  "IDcode": "DGCESD-764",
+  "title": "★配信限定！特典映像付★森沢かなの絶品美尻アナルをひびはたが責める3Pレズビアン",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "淫乱，真实",
+    "多P",
+    "女同性恋",
+    "肛交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dgcesd764/dgcesd764pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99363",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99363&name=波多野结衣"
+    },
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99363&name=森澤佳奈"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99363&name=大槻响"
+    }
+  ]
+};

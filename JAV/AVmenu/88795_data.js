@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/Hk0psDMM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88795,
+  "IDcode": "WAAA-300",
+  "title": "新井リマの凄テクを我慢できれば生★中出しSEX！",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "感谢祭",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/5250b85c4db58258030fa206f285a86f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88795",
+  "actresses": []
+};

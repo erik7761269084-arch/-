@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/09106bf6-d294-4dfe-9a03-5c09c8b17c1d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/7273daf6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10215,
+  "IDcode": "START-234",
+  "title": "大痙攣狀態！超反弓絕頂開發記錄！！【豹変・崩壊・覚醒】子宮高感度過激SPECIAL ~ 紗倉真菜",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "AV拍攝現場",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "女優訪談",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241203/064663b7-21bb-4ead-a978-465d36dd3535.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241203/064663b7-21bb-4ead-a978-465d36dd3535.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10215",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10215&name=纱仓真菜"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250409/nEYEPfQO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68679,
+  "IDcode": "ROE-112",
+  "title": "記録的豪雨、帰宅難民になった夫、暴風雨のように荒々しく求め合う義理の母子。 春谷美雨",
+  "publish_date": "2022-11-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "苗条",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68679",
+  "actresses": []
+};

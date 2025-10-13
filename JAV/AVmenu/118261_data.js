@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/01/54f25ea6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118261,
+  "IDcode": "FC2-4592756",
+  "title": "为内定堕落的她在性接待中被反复中出",
+  "publish_date": "2025-06-02",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118261",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/08/33d95443/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69061,
+  "IDcode": "STSK-166",
+  "title": "お花見【女子飲み・桜の名所・お酒と団子・千鳥足・非合法クスリ・イクイク・理性崩壊・中出し満開】狩り",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "业余",
+    "偷窥",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69061",
+  "actresses": []
+};

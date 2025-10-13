@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/gzvO3zeC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74222,
+  "IDcode": "MIAA-099",
+  "title": "僕に一途な彼女の理性を完全に狂わせ寝取った 親父のポルチオこねくりプレス 黒川すみれ",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗条",
+    "调教",
+    "白天出轨",
+    "子宫颈"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74222",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74222&name=黑川堇"
+    }
+  ]
+};

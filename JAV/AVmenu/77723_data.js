@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/24/20f9682c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77723,
+  "IDcode": "NACR-254",
+  "title": "爆乳ムチムチ妻の下品なマラ喰い肉欲生活 藤白桃羽",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77723",
+  "actresses": [
+    {
+      "name": "藤白桃羽",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/a63c38b0-5ae4-4c8d-ae71-ad37034b45b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77723&name=藤白桃羽"
+    }
+  ]
+};

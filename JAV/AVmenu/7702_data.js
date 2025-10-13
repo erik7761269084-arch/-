@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d553600-98f5-44fd-bab2-79ceb9f7d3e1/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/26/2ebb1f25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7702,
+  "IDcode": "DASS-619",
+  "title": "求你了！給我看看你的小雞雞！ 鄰家色色同人作家姐姐用美白軟巨乳讓我雞巴硬邦邦 ~ 雪代一鳳",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美少女",
+    "鄰居",
+    "其他職業",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "美人",
+    "眼鏡",
+    "美少女電影",
+    "羞恥",
+    "宅男・宅女"
+  ],
+  "description": "DASS-619为DASDAS出品,2025年3月11日发行的有碼成人影片由雪代一鳳出演\n我撿到鄰居馬鈴薯女孩掉落的東西，竟然是一本漫畫手稿？啥？ ？當我們發現我是粉絲時，我們很快就變得親密起來！她出乎意料地懇求他“把你的雞巴給我看看，以便看漫畫！”當她脫下家居服勃起時…露出宛如2D人物般的美麗身體！棉花糖鞭打顫抖的乳房工作是現實！ ？ 與濕潤的處女陰部進行原始性愛！享受按摩、舔和吸吮乳房的樂趣！然後中出！這一切都是為了寫出好的色情漫畫和過著他一直夢想的充滿性愛的生活！相貌平平的大胸妹真是調皮啊…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125221584584.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305125221584584.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7702",
+  "actresses": [
+    {
+      "name": "雪代一鳳",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/b2cb7ec3-4b17-4d6b-ad65-4cc828026d8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7702&name=雪代一鳳"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7702&name=ニック"
+    }
+  ]
+};

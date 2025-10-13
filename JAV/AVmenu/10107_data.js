@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/24dceea0-8cf7-476a-a9ff-d7121e4d9185/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10107,
+  "IDcode": "VENX-300",
+  "title": "不戴胸罩的豐滿阿姨非常色情的勾引我，她強迫我射在她體內！ ！~ 織田真子",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "嬸嬸",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "野性"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241207/941c9882-98ed-47ca-947c-535550632ce1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241207/941c9882-98ed-47ca-947c-535550632ce1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10107",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10107&name=織田真子"
+    }
+  ]
+};

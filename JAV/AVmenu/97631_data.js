@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220411/573F961138905BDE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97631,
+  "IDcode": "GVG-135",
+  "title": "お尻大好きしょう太くんのHなイタズラ 鈴原エミリ",
+  "publish_date": "2015-05-07",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "屁股",
+    "运动短裤",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/13gvg135/13gvg135pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97631",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97631&name=北条麻妃"
+    }
+  ]
+};

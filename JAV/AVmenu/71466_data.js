@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250303/ddUGQFgM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71466,
+  "IDcode": "IENE-822",
+  "title": "永井みひな 朝から晩まで中出しセックス 29",
+  "publish_date": "2017-10-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "姐姐",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71466",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71466&name=佐倉陽菜"
+    }
+  ]
+};

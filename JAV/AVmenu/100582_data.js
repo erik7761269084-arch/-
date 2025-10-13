@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/15/1ddd4952/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100582,
+  "IDcode": "JUQ-262",
+  "title": "昔は細身で地味だったのに…再会したらムッチムチで性欲旺盛な幼馴染の豊満な肉体に僕の精子は限界まで搾り取られてしまった。 花柳杏奈",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/15/c3e2073f1bd4289939a069bf569f8160.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100582",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/01/98d357c1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72135,
+  "IDcode": "DASD-574",
+  "title": "夫の上司に魅せられた人妻。激しくピストンする黒光したペニス。 人妻黒人ntr 星奈あい",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "巨大阴茎",
+    "黑人演员",
+    "平胸",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72135",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72135&name=星奈爱"
+    }
+  ]
+};

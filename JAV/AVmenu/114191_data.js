@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/f22f941f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 114191,
+  "IDcode": "FC2-4761618",
+  "title": "可爱的护士",
+  "publish_date": "2025-09-26",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/f22f941f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=114191",
+  "actresses": []
+};

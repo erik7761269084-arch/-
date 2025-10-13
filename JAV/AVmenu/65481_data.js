@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65481,
+  "IDcode": "B7B3493600D163939DFFCC98A10C77B5",
+  "title": "诱惑露内裤毎天搞痴女中出OK女教师 东条夏",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65481",
+  "actresses": []
+};

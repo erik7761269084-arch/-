@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/RCvskG8R/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69417,
+  "IDcode": "TURA-375",
+  "title": "- 若い頃はさぞや美人だった面影がある掃除のおばちゃんがブチギレ！ 女としてのプライドを懸けた超超高速お掃除フェラwww 「なに？私をオンナとしてみてないってこと？」 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "口交",
+    "业余",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69417",
+  "actresses": []
+};

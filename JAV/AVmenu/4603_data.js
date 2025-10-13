@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6a43d53a-1d05-423b-92e7-2b24381ec04f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/fecf1d7a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4603,
+  "IDcode": "AIAV-029",
+  "title": "【3.1次元】迷你可愛粉發COSER小惡魔上線 內藤妮可",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "色白",
+    "雙馬尾",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "特效",
+    "美人",
+    "AI女優",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛"
+  ],
+  "description": "AIAV-029为NOSKINS出品,2025年7月4日发行的有碼成人影片\n身高僅145cm的迷你可愛COSER妮可火辣出道！粉色頭髮的小萌妹首次登場就帶來超震撼的色氣表現，真的讓人小鹿亂撞停不下來！她害羞地說：雖然有點不好意思，但我要把全部的自己展現給大家…這次她還帶了自己最愛的COS裝，全部穿上給你看，滿滿福利，絕對不能錯過啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707204449259259_86026_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250707/20250707204449259259_86026_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4603",
+  "actresses": [
+    {
+      "name": "内藤にこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4603&name=内藤にこ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231029/9Iv4D5Va/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103477,
+  "IDcode": "MAAN-908",
+  "title": "- 【神尻プリケツ美容師をバックでガン突きSEX】マスクの中の素顔はアイドル級？！今回の裏垢美女は【可愛い笑顔にガチ恋必死のスレンダー美女！】きわどい動画撮影→流されるまま気が付いたら生で合体wぷりっぷりの桃尻をバックで鷲掴み、騎乗位で杭打ちピストン！パンパン波打つ尻肉とエロ可愛い反応に大量精子が乱れ飛ぶッ！【撮影OK #裏垢タダマン FILE03: みなみ】 - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-30",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "颜射",
+    "屁股",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103477",
+  "actresses": [
+    {
+      "name": "みなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103477&name=みなみ"
+    }
+  ]
+};

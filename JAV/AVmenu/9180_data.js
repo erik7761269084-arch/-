@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cce3e08e-7ef6-46f8-9b9e-6f2a3ce41e2e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/650450b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9180,
+  "IDcode": "ALDN-407",
+  "title": "丈母娘，你比我老婆厲害多了…… ~ 佐久間楓",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "岳母",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250112/5c590dac-1524-4535-a130-593ed50e4d0e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250112/5c590dac-1524-4535-a130-593ed50e4d0e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9180",
+  "actresses": [
+    {
+      "name": "佐久間楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240523/7d265f5d-d04b-4ea8-9ce6-ded94b7a935c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9180&name=佐久間楓"
+    },
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9180&name=ミチくん"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/acf1c2cc-5f55-40f5-9a9a-0664bca863ba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1346,
+  "IDcode": "HEYZO-2649",
+  "title": "濕潤的舌吻 濃烈的性愛 舌頭交纏",
+  "publish_date": "2021-11-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "美乳",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729003332294294.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230729/20230729003332294294.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1346",
+  "actresses": [
+    {
+      "name": "世良あさか",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2afe55af-7473-40c3-afb7-ac93599501b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1346&name=世良あさか"
+    }
+  ]
+};

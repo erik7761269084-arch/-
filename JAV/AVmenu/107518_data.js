@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/30/3d884f66/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107518,
+  "IDcode": "PPPE-104",
+  "title": "交尾を重ねるたびに止まらない汗！放出される体液！交わる欲情！オスとメスの本能覚醒オーガズムFUCK 楪カレン",
+  "publish_date": "2023-03-21",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/30/aaa59b8d8eae25be79095521a9a4a6e4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107518",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107518&name=小田切ジュン"
+    }
+  ]
+};

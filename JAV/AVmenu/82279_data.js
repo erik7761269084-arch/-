@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/eb0ea2b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82279,
+  "IDcode": "AVSA-073",
+  "title": "主観的強制射精管理 高級コールガール 男を弄ぶ高慢女 水川スミレ",
+  "publish_date": "2018-09-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "姐姐",
+    "荡妇",
+    "内衣",
+    "M男",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82279",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82279&name=水川蓳"
+    }
+  ]
+};

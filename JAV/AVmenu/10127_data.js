@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0828bad7-46ec-4a0c-9a89-929ec3f95786/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/27/99a48de6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10127,
+  "IDcode": "JUR-110",
+  "title": "上課鈴聲響起時，露出狂保鍵醫生就開始在走廊裏徘徊... ~ 藤環奈",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "女教師",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "吞精",
+    "網襪",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "女醫生",
+    "口爆",
+    "多P",
+    "露出",
+    "美人妻",
+    "情趣內衣",
+    "校園生活",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "猥褻穿著",
+    "學校",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "JUR-110为MADONNA出品,2024年12月10日发行的有碼成人影片由藤環奈出演\n「啊，這種自由的感覺……真是讓人無法抗拒。」他們在父母的要求下包辦婚姻已經五年了，夫妻生活已經冷淡，對愛情也越來越飢渴。也許正是這種反應的結果，一種扭曲的性戀物癖在我內心滋長。他在一所男子學校擔任公共衛生醫生。很高興能在走廊上暴露自己粗俗、變態的“我”，放學鈴聲響起，走廊裡一片寂靜，而我卻貪戀著那裡學生們的男人味。然而逐漸升級的行為終於被學生們發現了，從此他開始透過與學生們發生性關係來滿足自己的快感…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205082401422422.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205082401422422.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10127",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10127&name=藤環奈"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10127&name=ナイアガラ翔"
+    }
+  ]
+};

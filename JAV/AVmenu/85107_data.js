@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230118/cEv2YKop/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85107,
+  "IDcode": "JUNY-053",
+  "title": "地味な同僚がデリヘルをやっている事を発見してしまい…脱がせたら凄い豊満介護士を生ハメ種付け調教 藤沢麗央",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85107",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85107&name=藤沢麗央"
+    },
+    {
+      "name": "戸川夏也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85107&name=戸川夏也"
+    }
+  ]
+};

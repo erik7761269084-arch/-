@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/lLQI4UwS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69518,
+  "IDcode": "MCSR-496",
+  "title": "嫁に禁欲させられていた僕は上京してきた嫁母の百合香さんに何度も中出ししてしまった… 奇跡の四十路爆乳Gカップ熟女 葵百合香",
+  "publish_date": "2022-08-27",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "乳交",
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69518",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69518&name=葵百合香"
+    }
+  ]
+};

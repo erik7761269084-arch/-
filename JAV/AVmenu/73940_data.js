@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250113/HiuISF8W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73940,
+  "IDcode": "VRTM-438",
+  "title": "突然やってきた営業レディは媚薬を飲むと、黒パンストを擦りつけながら淫らに股間を滴らせ、カニバサミで中出しを求めた！ SPECIAL 梨々花＆音海里奈",
+  "publish_date": "2019-07-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "各种职业",
+    "屁股",
+    "制服",
+    "足交",
+    "企画",
+    "连裤袜",
+    "恋腿癖",
+    "药物",
+    "故事集",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/2332032bafb8d9d5bd222c9ecde20061.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73940",
+  "actresses": [
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73940&name=Qべぇ"
+    },
+    {
+      "name": "音海里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73940&name=音海里奈"
+    },
+    {
+      "name": "梨々花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73940&name=梨々花"
+    }
+  ]
+};

@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d14a367a-4a55-45ea-b6de-e874652997c8/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/19/480a4225/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4366,
+  "IDcode": "MMGH-011",
+  "title": "傳聞中的絕對口暴美豔護士 ~ 彌生美月 弘前綾香",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "護士制服",
+    "勾引・誘惑",
+    "美腳",
+    "拜金女",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "看病・住院",
+    "美人",
+    "大奶头",
+    "綠茶婊",
+    "護士",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "MMGH-011为妄想族出品,2025年7月12日发行的有碼成人影片由彌生美月，弘前綾香出演\n聽說有間醫院有個超神祕傳聞，只要半夜把自己的內褲放在枕頭旁，值班護士就會來幫你口！小弟立馬住院試試看！結果我的負責護士是兩位正妹，一個是肉肉超有料的弘前姊，另一個是又萌又騷的彌生妹子。到底誰才是傳說中的口技護士？還是說兩人都是？！滿心期待脫下內褲放枕邊，半夜果然有護士來查房，發現內褲後直接掀開被子，含住我的小老弟就是一陣狂吸，傳聞果真不是蓋的，爽到不行！不過既然能口，是不是還能更進一步？裝睡裝不下去，乾脆爬起來直接撩她，結果…嘿嘿，竟然真的幹上了！這醫院根本是天堂，完全不想出院，巴不得每晚都來一炮！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103810359359_41077_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103810359359_41077_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4366",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4366&name=彌生美月"
+    },
+    {
+      "name": "彩音遙菜",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/a0aa4947-ba65-466f-a1d5-b90a1eee24cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4366&name=彩音遙菜"
+    },
+    {
+      "name": "弘前綾香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250715/a3ce42da-49b5-420b-9b05-d62de2311422_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4366&name=弘前綾香"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4366&name=タクト"
+    }
+  ]
+};

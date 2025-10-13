@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240702/SQKXobMe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104154,
+  "IDcode": "MDTM-119",
+  "title": "本物処女 春乃莉梨 AVデビュー",
+  "publish_date": "2016-04-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "美少女",
+    "处女",
+    "萝莉塔",
+    "颜射",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/61mdtm119/61mdtm119pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104154",
+  "actresses": [
+    {
+      "name": "春乃莉梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104154&name=春乃莉梨"
+    }
+  ]
+};

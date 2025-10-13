@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/925b3553-bbc1-420c-9215-e20dc1c569fd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11769,
+  "IDcode": "EKDV-750",
+  "title": "去鄉村小鎮工作...被住在隔壁性欲過度活躍的離婚美人的甜蜜耳語誘惑，一遍又一遍地中出 ~ 美咲佳奈",
+  "publish_date": "2024-09-25",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "自慰",
+    "美人妻",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "出軌",
+    "按摩棒",
+    "短髮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240923/2199e2cf-30e9-417e-a3f0-e3e8cbc87584.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240923/2199e2cf-30e9-417e-a3f0-e3e8cbc87584.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11769",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11769&name=美咲佳奈"
+    }
+  ]
+};

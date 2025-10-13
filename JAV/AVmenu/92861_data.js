@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240909/bzQ25o2d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92861,
+  "IDcode": "RED-425",
+  "title": "RED425與女上司在飯店兩人獨處…對不小心瞄到的無戒心性感身體無法忍耐，狂中出到早上的我。篠田優。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92861",
+  "actresses": []
+};

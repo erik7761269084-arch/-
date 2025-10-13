@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220622/69F604EB62DD4CD4/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64486,
+  "IDcode": "824FC30C6CD495DA3EC5D7B759A9C-262",
+  "title": "- S Model 162 エロすぎる浓厚中出し交尾 - 水谷心音 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64486",
+  "actresses": []
+};

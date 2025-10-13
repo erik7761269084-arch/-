@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/26f75a5a-6793-4c53-97c2-fdd77daea4e2/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/01/b6e60b04/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5743,
+  "IDcode": "HOMA-153",
+  "title": "被痴女前輩濕吻勾引，每晚緊貼中出瘋狂交尾 ~ 美咲佳奈",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "肉絲",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "美人",
+    "阪道系",
+    "女上司",
+    "熟女"
+  ],
+  "description": "HOMA-153为H.M.P 芳友舍出品,2025年5月24日发行的有碼成人影片由美咲佳奈出演\n公司裡的超人氣女神美咲前輩怎麼會來我這種小透明的家？看我身體不適，特地來探病，還親自下廚陪我吃飯，然後……竟然直接吻上來了！？我腦袋瞬間當機，這是啥狀況啦？不過就算我再孬，這種天降福利我也秒接受好嗎！美咲前輩的吻又溫柔又撩人，舌頭纏得我整個人軟掉，心跟身體都被她融化，夜夜緊貼纏綿，真的欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010950893893_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010950893893_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5743",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5743&name=美咲佳奈"
+    }
+  ]
+};

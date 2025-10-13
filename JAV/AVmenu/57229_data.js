@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57229,
+  "IDcode": "7B1F045D2C23BA5452B3E1B861AA1567",
+  "title": "【無】カリビアンキューティー VOL.30 パート2 YUUNA HIMEKAWA",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57229",
+  "actresses": []
+};

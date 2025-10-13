@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230310/DF8F9E17D275508F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100054,
+  "IDcode": "T-28570",
+  "title": "びしょ濡れ女子○生雨宿り強●わいせつ4",
+  "publish_date": "2019-08-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "企画",
+    "校服",
+    "故事集",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100054",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100054&name=有村希"
+    },
+    {
+      "name": "八寻麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100054&name=八寻麻衣"
+    },
+    {
+      "name": "柏木まい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100054&name=柏木まい"
+    }
+  ]
+};

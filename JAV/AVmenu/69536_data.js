@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/sVg0c7bN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69536,
+  "IDcode": "YSN-479",
+  "title": "真面目がとりえの母さんと姉さん、僕の匂いを嗅ぐとチ●ポを弄ぶだけでは治まらず、挿入をせがむ近親相姦マニアに大変身。家族同士でこんなに変態行為にふける事はイケナイと分かっているのに勃起してしまう僕",
+  "publish_date": "2019-05-31",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "已婚妇女",
+    "乱伦",
+    "口交",
+    "恋物癖",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69536",
+  "actresses": [
+    {
+      "name": "桐谷奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/fa50a5b4-ea3b-4183-8f9a-21cd27d7c044_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69536&name=桐谷奈緒"
+    },
+    {
+      "name": "篠崎环奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69536&name=篠崎环奈"
+    },
+    {
+      "name": "大沢カスミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69536&name=大沢カスミ"
+    },
+    {
+      "name": "黒宫えいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69536&name=黒宫えいみ"
+    }
+  ]
+};

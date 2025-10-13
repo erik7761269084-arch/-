@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/03/2b604c52/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76918,
+  "IDcode": "PGD-650",
+  "title": "與會驚人的淫蕩狂扭腰擺臀的女人的交配 北川杏樹",
+  "publish_date": "2013-05-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "第一人称摄影",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76918",
+  "actresses": [
+    {
+      "name": "北川杏树",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76918&name=北川杏树"
+    }
+  ]
+};

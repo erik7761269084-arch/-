@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220405/C6A302007C57114D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104183,
+  "IDcode": "STAR-447",
+  "title": "橘梨紗 中出派 初中出解禁",
+  "publish_date": "2013-06-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104183",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104183&name=小田切ジュン"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104183&name=玉木玲"
+    },
+    {
+      "name": "橘梨纱",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c6ec03b7ea2d47e6090f014b054dd116.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104183&name=橘梨纱"
+    }
+  ]
+};

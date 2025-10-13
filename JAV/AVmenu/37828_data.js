@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220818/4E5C4BF77F857D77/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37828,
+  "IDcode": "580D97CA0C029F9C92BB1B66990A1DE-7",
+  "title": "デビュー作アンソロジー",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37828",
+  "actresses": []
+};

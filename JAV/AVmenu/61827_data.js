@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/4b5d049a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61827,
+  "IDcode": "UMD-970",
+  "title": "常夏沖縄でなんだか開放的な気分！！水着のままでOK！！Vラインギリギリマッサージで困惑！？4",
+  "publish_date": "2025-08-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "按摩",
+    "泳装"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/4b5d049a/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61827",
+  "actresses": [
+    {
+      "name": "逢澤美優",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61827&name=逢澤美優"
+    }
+  ]
+};

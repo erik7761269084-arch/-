@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/134d791e-9cc9-44d7-bdb5-a4793cca4778/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/07/d42c98a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10582,
+  "IDcode": "PRED-729",
+  "title": "我的泳衣模特 - 與美爆乳且抗壓較弱的先輩沉浸在中出性愛中 ~ JULIA",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "模特兒",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "寫真女郎",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "PRED-729为PREMIUM出品,2024年11月19日发行的有碼成人影片由JULIA出演\n我在一家開發競技泳衣的公司工作，我被分配了一個新的設計，但我沒有任何想法。為了提升我們的形象，我們請了公司裡造型最好的JULIA給我們當模特，結果還可以！單獨在一起的時候，我讓她穿泳衣，巨乳溢出，陰戶呈現高腿狀態，太色情了！我忍不住在辦公室和一位咄咄逼人的前輩進行中出性愛！然後，作為新的測試，我們穿著情色泳衣做愛！它對我來說太棒了，以至於我無法停止勃起！乳交、肛交、透明泳衣性愛…我想享受穿著各種泳衣的身體！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114094525865865.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114094525865865.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10582",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10582&name=JULIA"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10582&name=タツ"
+    }
+  ]
+};

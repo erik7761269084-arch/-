@@ -1,0 +1,112 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9ae31086-71db-4d9d-a512-4148e44b2e8e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4091,
+  "IDcode": "CEAD-694",
+  "title": "極致放浪到失控的阿黑顏高潮自慰合集 第3彈 ~ 北野未奈 吹石玲奈 葉山小百合 白木優子 藤咲紫 宮城理惠 夏川步美 竹內夏希 吉澤友貴 小野坂唯香",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "無做愛場面",
+    "超爆乳",
+    "4K",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "跳蛋",
+    "小隻馬",
+    "港區女子",
+    "女神",
+    "性感",
+    "慾求不滿",
+    "內衣",
+    "高妹",
+    "美腳",
+    "混血",
+    "寫真女郎",
+    "清楚系",
+    "自慰",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "鬃毛",
+    "寫真偶像",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "精選綜合",
+    "插入異物",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "CEAD-694为セレブの友出品,2025年7月19日发行的有碼成人影片由北野未奈，宮城理惠，竹内夏希，吉泽友贵，小野坂唯香，藤咲紫，夏川步美，葉山小百合，吹石玲奈，白木優子出演\n15位頂級女優身披五顏六色的性感內衣，追求極致快感，最終呈現出讓人血脈賁張的阿黑顏高潮自慰合集第3彈！她們直勾勾地看著你，嬌美的臉蛋因快感而扭曲，完全沉浸在慾望中，徹底放飛自我的真實模樣被精心收錄！小玩具的震動讓她們腰肢不受控制地彈跳，插入震動棒一開開關，體內狂野翻湧，直接潮吹到洪水氾濫！更有貪婪的女優偷偷搞來超猛媚藥，塗滿舌頭、乳頭和小穴，汗流浹背、翻白眼地瘋狂高潮，場面簡直失控到不行！在工作人員的圍觀下，她們一次又一次攀上巔峰，終於稍微冷靜後擺出雙V手勢完美收尾！巨乳、翹臀、光滑無毛還是濃密叢林，總有一款戳中你的心！這套超值又超火的系列作，期待已久的第三彈終於上線啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703205205_42471_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703205205_42471_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4091",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=北野未奈"
+    },
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=宮城理惠"
+    },
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=小野坂唯香"
+    },
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=葉山小百合"
+    },
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=夏川步美"
+    },
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=吉泽友贵"
+    },
+    {
+      "name": "藤咲紫",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/a2f08c24-acdb-4780-a800-279fba4951da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=藤咲紫"
+    },
+    {
+      "name": "吹石玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250419/505078e6-8392-4726-b044-bc4af01c91b6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=吹石玲奈"
+    },
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=白木優子"
+    },
+    {
+      "name": "竹内夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/8a26c5ab-4c31-4e32-9aca-af032d4e4e73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4091&name=竹内夏希"
+    }
+  ]
+};

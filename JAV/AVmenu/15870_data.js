@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0dfb03af-ff3b-47d9-8644-4c1f269c257f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15870,
+  "IDcode": "SGKI-015",
+  "title": "人氣AV女優挑戰！在城市裏騎着自行車撒尿、潮吹、高潮！月乃ルナ vs 乙アリス",
+  "publish_date": "2023-12-21",
+  "type": "有码",
+  "company": "SHIGEKI",
+  "genres": [
+    "企畫",
+    "無做愛場面",
+    "潮吹",
+    "運動服裝",
+    "綜藝",
+    "美少女",
+    "公共場所",
+    "按摩棒",
+    "真實拍攝",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240326/2277ce95-c5f6-4075-ae3d-d3d0d1ae1556.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240326/2277ce95-c5f6-4075-ae3d-d3d0d1ae1556.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15870",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/11769d60/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74636,
+  "IDcode": "CJOD-197",
+  "title": "黒人を痴女る 美谷朱里",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "多P",
+    "荡妇",
+    "黑人演员"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/dea65a754dcda4d4888a2d1a8a91b98f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74636",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74636&name=美谷朱里"
+    }
+  ]
+};

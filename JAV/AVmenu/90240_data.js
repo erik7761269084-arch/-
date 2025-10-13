@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240113/DAv2dufE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90240,
+  "IDcode": "REBD-792",
+  "title": "Akari 爆乳桃花源・桃果あかり チェキ付き",
+  "publish_date": "2023-11-02",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "巨乳",
+    "介绍影片",
+    "高",
+    "性感的",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90240",
+  "actresses": [
+    {
+      "name": "桃果明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231111/1fdf73e2-65d9-4a1e-ac07-400487e5b7fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90240&name=桃果明里"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/16/c1fb30d0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66960,
+  "IDcode": "DLDSS-139",
+  "title": "「想要瘋狂般擁抱…」現出本性的淫密性愛 蘆名穗花",
+  "publish_date": "2022-11-23",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "女上位",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/5728ab0fc9230853abeb19405a9eb55e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66960",
+  "actresses": [
+    {
+      "name": "蘆名穗花",
+      "img_url": "https://picture.yoshiclub.xyz/20240129/831d50f4-c90b-4496-8acb-3dfccfccb4da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66960&name=蘆名穗花"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66960&name=鲛岛"
+    }
+  ]
+};

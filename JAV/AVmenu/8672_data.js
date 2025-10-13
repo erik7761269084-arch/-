@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d374d376-0044-4655-bd9c-34ca3742043d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8672,
+  "IDcode": "YST-328",
+  "title": "美人若妻被隔壁粗俗惡心的老頭操了 ~ 真白りま",
+  "publish_date": "2025-02-07",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "老頭子",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "鄰居",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "足交",
+    "出軌",
+    "NTR",
+    "美人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084901727727.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130084901727727.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8672",
+  "actresses": [
+    {
+      "name": "真白りま",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/9cbcbb4b-d68e-456f-b649-c3622f2c73f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8672&name=真白りま"
+    }
+  ]
+};

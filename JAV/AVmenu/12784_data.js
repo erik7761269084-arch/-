@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1c020cf1-6b18-4eb0-934d-12fdadf9e2c5/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241019/u4UrHNKV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12784,
+  "IDcode": "ROE-249",
+  "title": "媽媽來溫暖你，在電被切斷的雪夜裏，我們熱情地尋求彼此的溫暖，連在一起，亂倫中出 ~ 吉永塔子",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "蕩婦",
+    "人妻",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "ROE-249为MADONNA出品,2024年8月13日发行的有碼成人影片由吉永塔子出演\n丈夫過世後，燈子靠自己的雙手撐起了建築公司。他唯一的兒子一郎也作為繼承人努力工作，但公司最終破產了。然後，在一個下雪的夜晚，停電了，兩個人無法取暖，就擠在一起互相取暖。一郎緊緊地抱住了她，說：“我會保護我的母親……”母親和孩子在彼此的溫暖中尋求安慰。不知不覺間，我們脫掉了衣服，將嘴唇貼在了彼此的皮膚上。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234933425425.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240808/20240808234933425425.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12784",
+  "actresses": [
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12784&name=吉永塔子"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12784&name=日森一"
+    }
+  ]
+};

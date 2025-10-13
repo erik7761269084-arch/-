@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/GUKKry1r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79476,
+  "IDcode": "HMN-047",
+  "title": "隣に引っ越してきた隣人が人気AV女優美谷朱里！？AV撮影の前日にナマ中出しの練習台にされた僕",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫语",
+    "颜射",
+    "荡妇",
+    "吞精"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79476",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79476&name=美谷朱里"
+    }
+  ]
+};

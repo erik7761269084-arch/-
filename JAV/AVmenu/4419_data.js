@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6acb3e09-f66d-4511-9fdc-016dffc45f8f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/245d6f3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4419,
+  "IDcode": "GONE-077",
+  "title": "東京懷舊狂想曲：豐滿媽媽桑的致命誘惑 ~ 櫻木湊",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "巨尻",
+    "超爆乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "單體作品",
+    "鬼畜片",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "豐滿",
+    "網路紅人"
+  ],
+  "description": "GONE-077为MERCURY出品,2025年7月12日发行的有碼成人影片由櫻木湊出演\n回到那令人懷念的舊時代，巷尾小酒吧散發著復古情調，她是這兒的媽媽桑，身材豐滿，笑容溫柔又甜美。某天把她約出來，酒店內來場秘密幽會，徹底沉醉在她那讓人慾火焚身的豐腴曲線中。後來聊著聊著，乾脆找來兩個兄弟，直接開啟3P狂熱派對！沒想到她竟然是個隱藏抖M，完全放開自我，各種羞恥姿態展露無遺，看得人臉紅心跳，慾罷不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714063650998998_40931_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250714/20250714063650998998_40931_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4419",
+  "actresses": [
+    {
+      "name": "櫻木湊",
+      "img_url": "https://picture.yoshiclub.xyz/20250329/b72543e5-5e10-48da-915c-4342f25365f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4419&name=櫻木湊"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/16/785bd2ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106003,
+  "IDcode": "MAAN-844",
+  "title": "【止まらん潮吹き！誕生日ガールにセックス☆バースデー】笑顔がキュートなおねだり娘！感度↑↑マ●コはイキすぎ幸せスプラッシュ！ バイブを挿入してオナニー！→「これじゃヤダ…本物がいい…」とチ●コおねだり！コスプレからの連戦でハピバ中出しプレゼント！！！【なまハメT☆kTok Report.58】",
+  "publish_date": "2023-02-11",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "女大学生",
+    "角色扮演",
+    "苗条",
+    "潮吹",
+    "业余",
+    "娃娃"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/16/c0ed850ecd46f426f4c8e0597c500df3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106003",
+  "actresses": [
+    {
+      "name": "すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106003&name=すみれ"
+    }
+  ]
+};

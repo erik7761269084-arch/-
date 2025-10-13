@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230109/6anPQeCB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84417,
+  "IDcode": "FOCS-039",
+  "title": "アイドルになりたかっただけなのに…ボーイッシュ美少女を騙して打ち砕く！！悪徳契約で追い詰め堕とす絶望潮吹きSEX体験 早見なな",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "中出",
+    "凌辱",
+    "制服",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84417",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241115/858inK0s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77357,
+  "IDcode": "IENF-032",
+  "title": "冬愛ことね 3日間滞在して、寝食を共にする超高級美少女ソープ",
+  "publish_date": "2019-10-10",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "中出",
+    "乳液",
+    "学校泳装",
+    "主观视角",
+    "礼仪小姐",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77357",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77357&name=冬爱琴音"
+    }
+  ]
+};

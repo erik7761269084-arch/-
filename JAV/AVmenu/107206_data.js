@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/27/e2174e0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107206,
+  "IDcode": "EBOD-999",
+  "title": "E-BODY15周年記念新人 フォロワー3万人の本物インフルエンサー 天然ロケットLcup 人気裏垢女子AV解禁 新田雪 生写真3枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "首次亮相",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/28/8c8306484f42a93385fb00fd27bf092a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107206",
+  "actresses": [
+    {
+      "name": "新田雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/7a2f0979-2af4-4461-9e05-2f23ef792d3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107206&name=新田雪"
+    }
+  ]
+};

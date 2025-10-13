@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250127/QHz0jhrf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73452,
+  "IDcode": "SSNI-961",
+  "title": "激イキ113回！痙攣4400回！イキ潮1500cc！有栖花あかエロス覚醒 はじめての大・痙・攣スペシャル （ブルーレイディスク）",
+  "publish_date": "2021-01-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73452",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73452&name=小田切ジュン"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73452&name=イセドン内村"
+    },
+    {
+      "name": "有栖花绯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73452&name=有栖花绯"
+    }
+  ]
+};

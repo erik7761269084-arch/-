@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230408/b3fda732-3cd8-4972-9159-5548a9505371/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19529,
+  "IDcode": "MIDE-058",
+  "title": "身體糾纏在一起，激烈的吻",
+  "publish_date": "2014-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫亂",
+    "內衣",
+    "數位馬賽克",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230408/0130574f-8a06-4f4a-960b-7193170e2fa3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230408/0130574f-8a06-4f4a-960b-7193170e2fa3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19529",
+  "actresses": [
+    {
+      "name": "木南日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f64418c6-524e-4e34-9a6f-c0665d817011.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19529&name=木南日菜"
+    }
+  ]
+};

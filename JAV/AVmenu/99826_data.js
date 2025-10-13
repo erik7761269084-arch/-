@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230224/7855E8F50ACB5187/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99826,
+  "IDcode": "DVDMS-382",
+  "title": "一般男女モニタリングAV 女子○生限定高額アルバイト企画！学校帰りに声をかけた有名進学校に通う素人女子○生をインタビュー中にノンストップザーメンぶっかけ！合計52発 溜まりにたまった濃厚精子を大量に浴びせられて制服・髪・顔まで精子でべっとり！うぶなJ○オマ…2",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "颜射",
+    "口交",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99826",
+  "actresses": []
+};

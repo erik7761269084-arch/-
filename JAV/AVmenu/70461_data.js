@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/8f8cbe79/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70461,
+  "IDcode": "KATU-141",
+  "title": "かつお物産コレクション7",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "荡妇",
+    "屁股",
+    "恋乳癖",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/8f8cbe79/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70461",
+  "actresses": []
+};

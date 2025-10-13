@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230119/KavCj7bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85169,
+  "IDcode": "KATU-096",
+  "title": "どすけべW痴女クラブ 超ムチムチでか乳輪スネーク痴女は超ヤリマン×2",
+  "publish_date": "2022-03-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "屁股",
+    "高",
+    "巨大屁股",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/95718023a3faaf84036c513d1e49d5d2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85169",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85169&name=凛音とうか"
+    },
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85169&name=若槻みづな"
+    }
+  ]
+};

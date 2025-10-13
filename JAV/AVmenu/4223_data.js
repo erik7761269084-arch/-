@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c44ed09b-6cb0-4334-a6a4-f72cf7ef112a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4223,
+  "IDcode": "NACR-987",
+  "title": "滿足我的所有幻想！AI智能偶像機器人小詩 ~ 倉木詩織",
+  "publish_date": "2025-07-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "雙馬尾",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "女僕制服",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女機器人"
+  ],
+  "description": "NACR-987为PLANETPLUS出品,2025年7月20日发行的有碼成人影片由倉木詩織出演\n這位就是小詩，一款搭載AI的智能偶像機器人！外貌跟個性都能隨心所欲客製化，根本就是夢中情人！不管你有啥羞羞的請求，她都能通通滿足，AI還會不斷學習，無論是S還是M都能完美配合，絕對是你的專屬極致體驗！所有幻想，她都能用最讚的表現幫你實現，簡直是無敵的絕頂偶像啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720000747432432_73103_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250720/20250720000747432432_73103_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4223",
+  "actresses": [
+    {
+      "name": "倉木詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/84fcb004-8c5b-48c5-b9f5-eaf01dc75d92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4223&name=倉木詩織"
+    }
+  ]
+};

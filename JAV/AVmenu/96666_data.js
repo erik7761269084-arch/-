@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/05/7142ef0e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96666,
+  "IDcode": "EUUD-053",
+  "title": "浮気中毒妻の中出しSEXアルバイト 加藤妃乃",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/05/730b5e0f4a43f09038c17beb4168f835.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96666",
+  "actresses": [
+    {
+      "name": "加藤妃乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/8a239878-0b10-4364-8452-aa08334fb670.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96666&name=加藤妃乃"
+    }
+  ]
+};

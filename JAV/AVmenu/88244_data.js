@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230913/bH5ztzsN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88244,
+  "IDcode": "XDO-003",
+  "title": "しろうとまんまん×DOC 第3号 【完全個撮】素人プラベート映像4時間 サイトでバズった5人を厳選収録！！",
+  "publish_date": "2020-08-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230913-1/012fd48cb2eae0fd08098202bbd74ed8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88244",
+  "actresses": []
+};

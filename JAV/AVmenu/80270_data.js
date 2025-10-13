@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/15/689921b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80270,
+  "IDcode": "MIDV-011",
+  "title": "初次住宿約會 牽手、接吻、微笑、然後、忘記時間般交絡濃密性愛 石川澪",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "口交",
+    "接吻",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80270",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80270&name=鲛岛"
+    }
+  ]
+};

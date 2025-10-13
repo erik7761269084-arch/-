@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f605200-e55d-40f0-977e-d29cf5405b51/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19317,
+  "IDcode": "IPX-124",
+  "title": "重巨乳圧迫杭打ち騎乗位 摇晃着大奶子，极度垂直的臀部運動",
+  "publish_date": "2018-03-30",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "蕩婦",
+    "女上位",
+    "主觀視角",
+    "數位馬賽克",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230601/20230601024206631631.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230601/20230601024206631631.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19317",
+  "actresses": [
+    {
+      "name": "神咲詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230528/fd771b7d-c1da-45c2-bac6-b7ac969fb530.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19317&name=神咲詩織"
+    }
+  ]
+};

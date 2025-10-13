@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0a511e56-a1cf-4b25-af32-364ccd607f63/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17354,
+  "IDcode": "SSIS-901",
+  "title": "高級感貴氣女主人（星宮一花），被春藥迷倒，神奇變身傻白甜。",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "美乳",
+    "拘束・拷問",
+    "女上位",
+    "身體意識",
+    "媚藥・迷藥",
+    "騎乗位",
+    "姐姐・妹妹",
+    "風俗娘",
+    "舔陰",
+    "美腳",
+    "緊縛",
+    "手指插入",
+    "按摩棒"
+  ],
+  "description": "SSIS-901为S1出品,2023年12月13日发行的有碼成人影片由星宮一花出演\n決心要見一見女主星宮一花，看起來很苗條，說話做事都好像很得體。用網上購買的春藥綁架了星宮一花。春藥使星宮一花迷失自己，不敢相信這是星宮一花的反應。太刺激了。\n\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/0a59f528-47b1-4fb7-96d0-27813b2163c6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/0a59f528-47b1-4fb7-96d0-27813b2163c6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17354",
+  "actresses": [
+    {
+      "name": "星宮一花",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/4e7a483e-d339-49ef-a233-7e39adb61a1b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17354&name=星宮一花"
+    }
+  ]
+};

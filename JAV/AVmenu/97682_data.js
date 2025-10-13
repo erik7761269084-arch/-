@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220416/491EB253AF4D552B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97682,
+  "IDcode": "MDB-947",
+  "title": "ボクだけに迫ってくる淫乱美女たち！最後の一滴まで搾りとられるALL主観BEST4時間2",
+  "publish_date": "2018-10-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "多P",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97682",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=波多野结衣"
+    },
+    {
+      "name": "枢木葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/fbe59996-4a9f-4e44-981f-3e90cab6f5ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=枢木葵"
+    },
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=安部未華子"
+    },
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=阿部乃美久"
+    },
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=霧島さくら"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=麻里梨夏"
+    },
+    {
+      "name": "尾上若叶",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/149a4db1-b7b2-4b0f-aef8-10df181c7f86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=尾上若叶"
+    },
+    {
+      "name": "佳苗瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/854d200e-c0ea-4818-afeb-f1d27c90a2a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=佳苗瑠華"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=水野朝陽"
+    },
+    {
+      "name": "佐佐波绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97682&name=佐佐波绫"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250303/tTiUrBIV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71142,
+  "IDcode": "IMOTA-005",
+  "title": "妻の妹が嫁の居ない時を狙ってやってくる！ヤリタイ盛りのビッチ妹に近親SEX盗撮 川越ゆい",
+  "publish_date": "2018-04-20",
+  "type": "有码",
+  "company": "GLAYz",
+  "genres": [
+    "乳交",
+    "乱伦",
+    "内衣",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71142",
+  "actresses": [
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71142&name=川越ゆい"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9cefd4f7-3db6-458e-9240-8756ac373952/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250408/3L0Ifvfv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17693,
+  "IDcode": "IPX-944",
+  "title": "老公不在家從早到晚、被公公的舔舐舌技持續搞到高潮… 宮西光",
+  "publish_date": "2022-10-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "接吻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231124/efdf6380-04ae-4936-b15c-4cf86b4980de.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231124/efdf6380-04ae-4936-b15c-4cf86b4980de.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17693",
+  "actresses": [
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17693&name=宮西光"
+    }
+  ]
+};

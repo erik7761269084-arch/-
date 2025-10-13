@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6928500b-8791-4751-ab00-013e449a48a1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11150,
+  "IDcode": "FOCS-221",
+  "title": "拯救宅男表哥計劃是巨美尻表妹用大屁股來誘惑他！ ？ 無法抗拒淫蕩騷屁股的誘惑，一直不停的連續中出！ ~ 樟葉杏",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "牛仔褲",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "表姐・表妹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "M男・M女",
+    "短髮",
+    "美少女電影",
+    "宅男・宅女"
+  ],
+  "description": "FOCS-221为妄想族出品,2024年10月22日发行的有碼成人影片由樟葉杏出演\n我的姐夫是個遊戲迷和隱士，但他對我來說是個重要的兄弟。我覺得稍微刺激她就很好了，所以我試著用我驕傲的屁股來勾引她……效果驚人！趁我睡著的時候被人襲擊，對我做了一些調皮的事，不過只要哥哥改變了，就沒有問題了！哥哥，我雖然有點複雜，但很開心♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017101523546546.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017101523546546.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11150",
+  "actresses": [
+    {
+      "name": "樟葉杏",
+      "img_url": "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11150&name=樟葉杏"
+    }
+  ]
+};

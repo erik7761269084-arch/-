@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241031/SR9JOsDN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94750,
+  "IDcode": "SUWK-010",
+  "title": "ギャラリーで若手女性写真家を物色する中年ストーカーに彼氏ヅラ粘着されてザーメンマーキングされた隠れ巨乳メガネ美大生 樟葉杏",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "眼镜",
+    "戏剧",
+    "无毛",
+    "女大学生",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/680e1a922ab30f56f0d7924c7aa1e182.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94750",
+  "actresses": [
+    {
+      "name": "樟葉杏",
+      "img_url": "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94750&name=樟葉杏"
+    }
+  ]
+};

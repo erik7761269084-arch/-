@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f1d024f-c5ac-4c79-9956-d5299b6ea7f9/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/Taq0iX4S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14710,
+  "IDcode": "MTALL-115",
+  "title": "學級委員長的真人巨乳安撫奶嘴 ~ 鬆本菜奈実",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "學姐・學妹",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "美少女",
+    "校園生活",
+    "巨乳",
+    "學校",
+    "眼鏡",
+    "短髮",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MTALL-115为MATERIALL出品,2024年5月1日发行的有碼成人影片由松本菜奈実出演\nJ罩杯胸圍100cm！巨乳女神松本奈奈美第二彈專屬版！ ！現在的製服看起來很棒！七海，一個穿著制服樸素謙虛的女孩，為了消除過度性感的男孩帶來的麻煩，競選班代表，七海宣稱，「如果所有男孩都成為智者，他們就會安靜！」「為了為了班級的和平，男生們的金球都空了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240516/07f17aa3-8b55-4109-8e78-d65ff8e4986d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240516/07f17aa3-8b55-4109-8e78-d65ff8e4986d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14710",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14710&name=松本菜奈実"
+    }
+  ]
+};

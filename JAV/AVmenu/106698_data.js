@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/38e6ff0c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106698,
+  "IDcode": "EBWH-023",
+  "title": "オタ活が生き甲斐の男友達みたいな早口女オタクだけど… むちむち恵体Hcupどスケベボディ メスイキ絶頂AVデビュー 矢澤なの 生写真3枚付き",
+  "publish_date": "2023-10-18",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "首次亮相",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/15/03a15e96ea10a4a526505748f945ed9f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106698",
+  "actresses": [
+    {
+      "name": "矢澤なの",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/32d14a14-5e37-4b11-8539-bf7f3193151f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106698&name=矢澤なの"
+    }
+  ]
+};

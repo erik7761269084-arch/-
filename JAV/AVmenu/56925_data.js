@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56925,
+  "IDcode": "E933B6EF06A6487C1AE9AD2A7FA43552",
+  "title": "早川さよ 「グラドル vol.065 廃墟に魅せられて」",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56925",
+  "actresses": []
+};

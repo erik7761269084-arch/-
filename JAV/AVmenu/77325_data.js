@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/X8HYUwZp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77325,
+  "IDcode": "MIAA-081",
+  "title": "むっちり尻Icup爆乳ヤリたい放題 時を止められて中出しされたタイトスカート女教師 時間停止 凛音とうか",
+  "publish_date": "2019-06-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "轮奸",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241127-1/7a8b77ee0280fb5fa73366ac0e18ce81.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77325",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77325&name=凛音とうか"
+    }
+  ]
+};

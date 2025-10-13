@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b3346b2-2f23-48db-9126-1a9b6ab0d9dc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/13/b06cf7fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7350,
+  "IDcode": "JUR-187",
+  "title": "把我驕傲的小嬌妻秀出來！《美顏專屬》初次羞恥“曝光”溼透啦！！ ~ 廣瀨百合",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "奇聞趣事",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "猥褻穿著",
+    "NTR",
+    "美人",
+    "熟女",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUR-187为MADONNA出品,2025年3月25日发行的有碼成人影片由廣瀨百合出演\n我和妻子尤里結婚已經六年了，但是婚姻生活非但沒有變得單調，反而隨著她一天比一天美麗，我對她的愛也與日俱增。然而，與此同時，我不再滿足於與完美妻子的「正常」婚姻關係，因此，我讓尤里在我們每月去一次的酒店換上一些性感的內衣，然後帶她去酒店走廊。我偷偷拍下了尤里的猥褻行為，尤里感到尷尬和反抗，並上傳到社交媒體上。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111840608608.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320111840608608.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7350",
+  "actresses": [
+    {
+      "name": "廣瀨百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/a776073e-a4ab-480e-beb5-0aa4f30f1703.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7350&name=廣瀨百合"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7350&name=ナイアガラ翔"
+    }
+  ]
+};

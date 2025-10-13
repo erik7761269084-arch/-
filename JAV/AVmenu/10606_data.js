@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ee231af-8957-427c-9991-d4757c8f6518/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/2af51072/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10606,
+  "IDcode": "MIDV-925",
+  "title": "極其美麗的修長身體快樂地顫抖，從陰戶不停地溢出的渾濁嚴重的陰汁，絕頂舔陰高潮 ~ 宮下玲奈",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "猥褻穿著",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIDV-925为MOODYZ出品,2024年11月19日发行的有碼成人影片由宮下玲奈出演\n最受女性歡迎的前戲「舔陰」，是細緻徹底地舔舐超苗條少女宮下麗奈的陰戶，讓她高潮到抽搐的豐富舔陰全程！從可愛的陰蒂到謹慎的顫動，將舌尖伸向陰道，舔、挑、吸！口水和真汁混合在一起，延伸到馬賽克外面的體液橋也很色情！ 【即時舔陰採訪、舔插交替性愛、超特寫舔陰、舔3P、沾滿油的舔陰高潮…等】對敏感度已經提升到可以舔的敏感小穴進行無情的最後一擊！ 7 個角落佈滿了精液和陰戶，漂浮著做瑜伽！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114084103656656.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114084103656656.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10606",
+  "actresses": [
+    {
+      "name": "宮下玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/e3fefc9b-635d-4098-9b5f-921fd410b0e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10606&name=宮下玲奈"
+    }
+  ]
+};

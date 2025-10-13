@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/06/1130e487/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104761,
+  "IDcode": "VEC-366",
+  "title": "夫の前で痴漢に絶頂（いか）された妻 君島みお",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/06/8f460115b29552fd46878997e9537a91.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104761",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104761&name=君岛美绪"
+    }
+  ]
+};

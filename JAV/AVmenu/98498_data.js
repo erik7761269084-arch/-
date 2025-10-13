@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230105/7190E54FB4D15DA1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98498,
+  "IDcode": "ATID-200",
+  "title": "潜入捜査官、堕ちるまで… 西野翔",
+  "publish_date": "2012-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "强奸",
+    "监禁",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid200/atid200pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98498",
+  "actresses": [
+    {
+      "name": "西野翔",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/fb6a7a91-1623-44ad-918c-5f08533a1d44.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98498&name=西野翔"
+    }
+  ]
+};

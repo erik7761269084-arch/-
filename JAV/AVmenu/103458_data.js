@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/11/4220f4c1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103458,
+  "IDcode": "JUFE-515",
+  "title": "- えっ？こんな場所で！？美ボディを露出する逆ナンパ痴女のM男くん狩り強●射精 天川そら - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "M男",
+    "猎艳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/10/11/9f9e8bf6983bc6055fac3cabd5662acd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103458",
+  "actresses": [
+    {
+      "name": "天川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d640bb79-ff7b-47ff-9619-fa99350b0b9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103458&name=天川空"
+    },
+    {
+      "name": "ハメ鳥の人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103458&name=ハメ鳥の人"
+    }
+  ]
+};

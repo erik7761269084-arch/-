@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/GVkmXsGA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69426,
+  "IDcode": "VRTM-457",
+  "title": "- 「もうケンカやめなさい！」近親相姦愛を育む兄妹が喧嘩を装い親に隠れて喘ぎ声を押し殺しながら超危険な中出しSEX！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "乱伦",
+    "屁股",
+    "企画",
+    "妹妹",
+    "故事集",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/478b4fe9d197610178d1a8271ca54ad6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69426",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69426&name=皆月光"
+    },
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69426&name=胡桃圓"
+    }
+  ]
+};

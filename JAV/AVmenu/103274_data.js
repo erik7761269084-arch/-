@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230226/72DA7FFB4EBC1F57/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103274,
+  "IDcode": "HODV-21377",
+  "title": "制服姿の、あの子のおっぱい 霧島さくら",
+  "publish_date": "2019-05-10",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "多P",
+    "学校泳装",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/5642hodv21377/5642hodv21377pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103274",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103274&name=霧島さくら"
+    }
+  ]
+};

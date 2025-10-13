@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/03/ae19814d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84093,
+  "IDcode": "BLK-581",
+  "title": "絶倫オフパコギャルとマッチング チクビ弄りっぱの騎乗位で精子枯渇するまで腰フリ連射",
+  "publish_date": "2022-05-17",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "女生",
+    "业余",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/43f5106d279146d09abfab906a58b0a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84093",
+  "actresses": []
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a4e65f52-fde7-4cee-91ea-dc2182579d61/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2021/12/18/bd6e8fec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18366,
+  "IDcode": "IPX-773",
+  "title": "陰影下的戀愛是困難的 學生與老師、孤讀般2人求合禁斷的純愛深吻性交 二葉惠麻",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "JK校服",
+    "口交",
+    "接吻",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231012/20231012001742355355.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231012/20231012001742355355.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18366",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18366&name=二葉惠麻"
+    },
+    {
+      "name": "二叶エマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18366&name=二叶エマ"
+    }
+  ]
+};

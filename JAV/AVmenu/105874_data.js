@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/24/38dba391/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105874,
+  "IDcode": "HUNTB-712",
+  "title": "会員制高級メンズエステ！2人のS級極上BODYエステティシャンの凄テクトリートメントで疲れも性欲も解消！2人の巨乳エステティシャンが最高級の",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "中出",
+    "多P",
+    "制服",
+    "乳液"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105874",
+  "actresses": []
+};

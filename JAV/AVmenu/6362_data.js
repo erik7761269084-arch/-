@@ -1,0 +1,122 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eae2a360-afe8-46c2-9963-aef5affcd564/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/b42374ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6362,
+  "IDcode": "MMPB-077",
+  "title": "這才是世界級！絕美細腰爆乳女優 放心吧腰細到爆 PART2 ~ 西野繪美 結城蘭 有岡美羽 黑川堇 長瀨麻美 夏希栗 百永紗里奈 君島美緒 七原紗由 春陽萌花",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "高妹",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "美人",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "女優"
+  ],
+  "description": "MMPB-077为桃太郎映像出版出品,2025年5月3日发行的有碼成人影片由君島美緒，黑川堇，春陽萌花，有岡みう，七原紗由，长濑麻美，百永纱里奈，結城蘭，夏希栗，西野絵美出演\n想開幹的話，當然要找這種身材誇張到不行的細腰爆乳女優才夠味啦！外表看起來嬌小可人，一脫衣服卻是驚人的大奶！奶子又挺又正，腰細到能一把抓住，從腰線到翹臀的曲線美到爆表！這次又精挑了10位完美身材的女優，個個都是超級騷包！只要肉棒出現在眼前，絕對咬住不放！小穴早就濕得一塌糊塗，硬挺挺的肉棒直接頂到底，激烈搖晃，爆乳大屁股晃到眼花，浪叫聲不斷！熱騰騰的白濁液體從小穴流出來，看得人心癢癢…顏值頂尖，身材炸裂，技術一流，這些女優騷氣全開，保證讓你看得欲罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250507/20250507102823396396_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250507/20250507102823396396_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6362",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=春陽萌花"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=黑川堇"
+    },
+    {
+      "name": "百永纱里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/81c0e6b6-7a6f-46e4-947f-714975b558c1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=百永纱里奈"
+    },
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=西野絵美"
+    },
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=有岡みう"
+    },
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=夏希栗"
+    },
+    {
+      "name": "长濑麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/edce58db-6a40-40a7-95dc-33d756110bc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=长濑麻美"
+    },
+    {
+      "name": "七原紗由",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/a701166b-fe36-4c58-aaad-6b8c7269d4c6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=七原紗由"
+    },
+    {
+      "name": "君島美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230619/95759a80-b4cc-4ccf-ad53-3152e39af8aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=君島美緒"
+    },
+    {
+      "name": "結城蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/6b517e51-4b0e-439b-80e2-52465744d577.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=結城蘭"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=椎叶みくる"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=黑川纱里奈"
+    },
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=长瀬麻美"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6362&name=君岛美绪"
+    }
+  ]
+};

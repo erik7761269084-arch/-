@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/12/bdb68e2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81079,
+  "IDcode": "NGOD-168",
+  "title": "会社のお荷物と蔑まれる窓際中年社員のデカチンをめりめり挿れられめろめろにされた高飛車キャリア女史 浜崎真緒",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81079",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81079&name=浜崎真绪"
+    }
+  ]
+};

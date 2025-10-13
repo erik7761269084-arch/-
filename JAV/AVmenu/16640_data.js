@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/10354021-8a34-45f6-856e-057a205bbc4e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/16/66ba83fa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16640,
+  "IDcode": "MISM-306",
+  "title": "50厘米寬的極致肛門擴張，瘦小女生147厘米",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "肛交",
+    "美乳",
+    "拘束・拷問",
+    "女上位",
+    "素人",
+    "小隻馬",
+    "口爆",
+    "SM",
+    "美少女",
+    "巨乳",
+    "拳擊交"
+  ],
+  "description": "MISM-306为えむっ娘ラボ出品,2024年1月30日发行的有碼成人影片由生田りん出演\n她身材嬌小，讓我們在 30 天內掌握肛交。起初，我只是把手指放在緊緊繃緊的菊花上。等級逐漸提升。如果你是音樂專業人士，你可以用屁股來演奏豎笛，對嗎？日復一日，它進化成了大肛門。 50cm級假陽具。大屌也毫不留情，看來最後還是手拳最好了。 C# 的泛音尖叫着，粉紅色的肛門打開了。沒有馬賽克也喜歡深喉。受虐狂女性的才華綻放，她的三個漏洞被堵住，這是一首歡樂的高潮交響樂。這是一個大混蛋。 [*我在這一集中戴着面具，以防止我的附屬樂團發現我。對不起。他是音樂學院的獎學金生，他的樂器技巧是真實的。在主要部分，請聽音調和肛門合奏。 】",
+  "cover_url": "https://picture.yoshiclub.xyz/20240122/20240122080049452452.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240122/20240122080049452452.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16640",
+  "actresses": [
+    {
+      "name": "生田りん",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/3d97bb04-5498-478e-b2dd-fc5d8c08409c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16640&name=生田りん"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16640&name=イセドン内村"
+    }
+  ]
+};

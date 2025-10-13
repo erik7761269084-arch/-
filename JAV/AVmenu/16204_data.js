@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfe56185-7aba-487d-9a9d-d2988cfb380a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/23/8cecb137/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16204,
+  "IDcode": "FSDSS-735",
+  "title": "2天的訓練，把打工的藤井蘭蘭變成了中出奴隸",
+  "publish_date": "2024-03-20",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "便利商店",
+    "劇情",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "制服",
+    "口交",
+    "職員",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "女同事",
+    "辣妹/GAL系",
+    "羞恥"
+  ],
+  "description": "FSDSS-735为FALENO出品,2024年3月20日发行的有碼成人影片由藤井蘭々出演\n一部令人耳目一新的AV，講述了一位便利店經理被美貌衝昏了頭腦，徵服了一位自大女人的故事。便利店老板的女兒藤井蘭々，是個態度惡劣、隨意打工的厚臉皮女孩。店長忍無可忍，毆打了她並拍照。由於擔心自己的性愛照片被泄露，一場瘋狂的訓練開始了，讓藤井蘭々成爲性奴隸。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240219/20240219051312174174.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240219/20240219051312174174.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16204",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16204&name=藤井蘭々"
+    }
+  ]
+};

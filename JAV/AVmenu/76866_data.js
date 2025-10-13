@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/9FvexX5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76866,
+  "IDcode": "PRED-153",
+  "title": "貞操帯で強制的に禁欲させられた妻 山岸逢花",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "调教",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/1a7d880db79cad723d1dc970aca92c3a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76866",
+  "actresses": [
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76866&name=山岸逢花"
+    }
+  ]
+};

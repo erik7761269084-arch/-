@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/FrJqw83e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71207,
+  "IDcode": "HBAD-480",
+  "title": "欲望余る生徒の為に拘束調教され従順肉便器女に仕込まれた性欲処理穴 新任美乳女教師 河合ののか",
+  "publish_date": "2019-05-23",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "多P",
+    "捆绑",
+    "乳房",
+    "拘束",
+    "调教",
+    "女教师",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71207",
+  "actresses": [
+    {
+      "name": "河合乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20240515/e12cbcad-671b-481c-af70-b128439fce23.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71207&name=河合乃乃花"
+    }
+  ]
+};

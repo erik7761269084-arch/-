@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/MOFc94Yx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81626,
+  "IDcode": "CVDX-393",
+  "title": "甘美な乳房を魅せつけて誘惑する ランジェリー母 20人4時間",
+  "publish_date": "2020-03-05",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81626",
+  "actresses": []
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88d25968-c929-45e6-8c99-20adab538392/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6579,
+  "IDcode": "FUSA-005",
+  "title": "私密偷拍 討厭卻不得不從 現實就是這麼殘酷 素人COSER被不喜歡的人白玩 圈內驅逐攝影師的祕密錄像5 ~ 西村ニーナ 若宮葉月 富井美帆",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "富士",
+  "genres": [
+    "黑絲",
+    "素人作品",
+    "企畫",
+    "劇情",
+    "游戲COSPLAY",
+    "形象俱樂部",
+    "角色扮演",
+    "潮吹",
+    "私房攝影",
+    "高妹",
+    "偷拍・盜撮",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "FUSA-005为富士出品,2025年4月24日发行的有碼成人影片由富井美帆，若宮葉月，西村ニーナ出演\n是為了錢？還是被抓住了把柄？這些COSER妹子竟然願意被不喜歡的男人白玩！我是圈內最討人厭的攝影師，專門獵艷COSER，今天把我的私藏收藏拿出來給大家瞧瞧！#1 她自稱是K杯，但看起來更像是M杯的超級大胸，頂著這麼一對大奶做COSER難道不覺得羞恥嗎？我覺得得給她點教訓，直接約到酒店開整。#2 身材絕了，G杯的強力證明，本以為會是一場硬仗，結果一上手發現就是個外強中乾的菜雞，哈哈。#3 圈內罕見的魅魔型淫亂COSER，把啪啪當決鬥，覺得榨乾我就是她的勝利。我得用不屈的意志和硬度，降服這隻小惡魔！#4 這妹子臉上就寫著推倒不費力，假借拍性感照的名義約到酒店，隨便製造點氣氛就直接進入正題。不過她也沒想到自己會潮吹，慌得一塌糊塗，超好笑！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427000613782782_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250427/20250427000613782782_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6579",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6579&name=若宮葉月"
+    },
+    {
+      "name": "西村ニーナ",
+      "img_url": "https://picture.yoshiclub.xyz/20240626/affb89be-1d23-41b9-bd25-3655100a600e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6579&name=西村ニーナ"
+    },
+    {
+      "name": "富井美帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/17a6ad76-4153-4726-971c-de1729fa871f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6579&name=富井美帆"
+    }
+  ]
+};

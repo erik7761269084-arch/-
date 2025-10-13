@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/27/6030d712/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96329,
+  "IDcode": "SNIS-695",
+  "title": "エグい程の肉感AV 乳・尻・結合が目前に迫る特殊映像＆徹底ローアングル 奥田咲",
+  "publish_date": "2016-07-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "屁股",
+    "薄马赛克",
+    "恋乳癖",
+    "主观视角",
+    "局部特写",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/26/9ce5e9100b4453b79a366b1cd373bc65.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96329",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96329&name=奥田咲"
+    }
+  ]
+};

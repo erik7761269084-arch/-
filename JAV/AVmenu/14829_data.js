@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/142a4501-cec4-43fb-a005-4d99a864d74b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14829,
+  "IDcode": "NGOD-208",
+  "title": "妻子和老板出差時被老板操了，但她卻因老板的絕倫巨根而陷入沉迷 ~ 波多野結衣",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "和服・浴衣・喪服",
+    "中出",
+    "下屬女友・妻子",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "性感",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240511/20240511004716355355.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240511/20240511004716355355.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14829",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14829&name=波多野结衣"
+    }
+  ]
+};

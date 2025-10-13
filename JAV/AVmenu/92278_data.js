@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/20/e602e96f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92278,
+  "IDcode": "MIDV-371",
+  "title": "神エロ対応でビンビン枕営業！ オチ○ポ大好きアイドルが秘密のオフパコぶっかけ乱交 虹色ぐみ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "偶像",
+    "颜射",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240803-1/4cf2080e74cef668b96e2a187d4cd2d6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92278",
+  "actresses": [
+    {
+      "name": "虹色久美",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/e1b36a69-7b08-43c8-8a33-11a83785af77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92278&name=虹色久美"
+    }
+  ]
+};

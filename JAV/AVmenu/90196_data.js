@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240113/icY5H8eY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90196,
+  "IDcode": "REBTD-036",
+  "title": "【AIリマスター版】ドリームシャワー36 音咲絢",
+  "publish_date": "2023-10-18",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "自慰",
+    "口交",
+    "角色扮演者",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90196",
+  "actresses": [
+    {
+      "name": "音咲绚",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90196&name=音咲绚"
+    }
+  ]
+};

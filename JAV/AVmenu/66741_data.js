@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250503/s0iLFSoG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66741,
+  "IDcode": "ALDN-043",
+  "title": "【FANZA限定】同じマンションの人妻がエロ過ぎて… 本真ゆり チェキ付き",
+  "publish_date": "2022-07-13",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/58060c9116fee2af46c914562da9e1dd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66741",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66741&name=本真友里"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230218/0D8D5E83CF9EB6CE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57779,
+  "IDcode": "5D3BF202394FADF970B8354F37DC8BBB",
+  "title": "10mu 101519_01 新庄ゆうこ 面接官に騙されてハメられました",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57779",
+  "actresses": []
+};

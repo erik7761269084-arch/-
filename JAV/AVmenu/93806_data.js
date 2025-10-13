@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241016/8Ghj9pPD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93806,
+  "IDcode": "PKPD-311",
+  "title": "PKPD311完全プライベート映像私の変態力は53マンしおかわ雲丹ちゃんと初めての二人きりお泊まり",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93806",
+  "actresses": []
+};

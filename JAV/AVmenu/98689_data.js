@@ -1,0 +1,38 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98689,
+  "IDcode": "BBAN-261-",
+  "title": "リアル脱出ドキュメントレズセックスをしないと出られない部屋に",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "戏剧",
+    "女同性恋",
+    "接吻",
+    "女同接吻",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98689",
+  "actresses": [
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98689&name=富田优衣"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98689&name=麻里梨夏"
+    },
+    {
+      "name": "管野静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98689&name=管野静香"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221231/6nptNSrl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83837,
+  "IDcode": "PARATHD-2799",
+  "title": "ヨガ教室に通う体のやわらかい美女を性感マッサージでとことこんイカせてみた",
+  "publish_date": "2020-01-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83837",
+  "actresses": []
+};

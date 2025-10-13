@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dda4cc56-1731-4114-9945-bb96da4e3c75/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/10/6ffee912/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14018,
+  "IDcode": "ABF-114",
+  "title": "全裸日常 vol.03 ~ 涼森玲夢",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "真人秀",
+    "形象俱樂部",
+    "倉庫",
+    "電車",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "明星臉",
+    "手指插入",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "ABF-114为蚊香社出品,2024年6月20日发行的有碼成人影片由涼森玲夢出演\n榮譽專屬女星「涼森憐夢」全裸融入日常場景！ ① 我送披薩時去過的房子，原來是我男性朋友的家！過了很長一段時間我們又開始聊天，所以我就去她家做愛了！ ② 一個安慰的吻，讓工地上的同事們高興起來！憑藉在野外訓練的強壯身體和大雞巴，他吃惡魔活塞和精液！ ③ 同事發現我兼職當模特，為了不讓她安靜，我幫她口交！ ④把妳的男友介紹給妳的家人！她和他的感情更加深厚，忘了隔壁的家人，瘋狂地追求對方！ ！在一個只有一個人完全赤裸的世界裡，一種新的色情感覺展開了！美少女「鈴森玲夢」全裸4種狀況！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240613/20240613061626974974.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240613/20240613061626974974.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14018",
+  "actresses": [
+    {
+      "name": "涼森玲夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fcfb5e54-42f4-4bab-b6ee-37fbcd01fa68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14018&name=涼森玲夢"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14018&name=小田切ジュン"
+    },
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14018&name=凉森玲梦"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14018&name=タイ"
+    }
+  ]
+};

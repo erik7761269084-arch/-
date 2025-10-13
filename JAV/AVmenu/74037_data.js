@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/iP8ZiIGu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74037,
+  "IDcode": "MXGS-1105",
+  "title": "どんなチ●ポも連射させてしまう気持ちのいいセックス 飛鳥りん",
+  "publish_date": "2019-06-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "乳交",
+    "中出",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/8469357827b902991987cc8202c39af9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74037",
+  "actresses": [
+    {
+      "name": "飞鸟铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230501/81c21040-e154-4f5b-aa57-2fed1c6a26d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74037&name=飞鸟铃"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74037&name=森林原人"
+    }
+  ]
+};

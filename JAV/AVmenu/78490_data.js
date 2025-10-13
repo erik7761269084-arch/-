@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/dDa59CGa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78490,
+  "IDcode": "MIAA-207",
+  "title": "メイドとして雇われた初恋相手の幼馴染が父親にデカ尻ご奉仕させられていたのに何もできなかった 根尾あかり",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "戏剧",
+    "女佣",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78490",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78490&name=根尾朱里"
+    }
+  ]
+};

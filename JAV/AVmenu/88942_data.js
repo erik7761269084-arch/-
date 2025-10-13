@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/CwouIrk9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88942,
+  "IDcode": "UMSO-514",
+  "title": "【FANZA限定】激イキ杭打ちピストン！！ディルドオナニー10人 パンティと生写真付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "自慰",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/9d935709ddbca381e99e91b9c89c9bfe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88942",
+  "actresses": [
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=井上綾子"
+    },
+    {
+      "name": "青木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/57c16981-b0e6-41b2-b738-a98dcee04483.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=青木玲"
+    },
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=音羽文子"
+    },
+    {
+      "name": "池谷佳纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=池谷佳纯"
+    },
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=今井夏帆"
+    },
+    {
+      "name": "片瀬仁美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=片瀬仁美"
+    },
+    {
+      "name": "羽咲美亜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=羽咲美亜"
+    },
+    {
+      "name": "岛津かおる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=岛津かおる"
+    },
+    {
+      "name": "绿川みやび",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88942&name=绿川みやび"
+    }
+  ]
+};

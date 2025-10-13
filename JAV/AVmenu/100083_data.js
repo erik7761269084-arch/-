@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230310/2DECE309B15C7988/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100083,
+  "IDcode": "JBD-207",
+  "title": "蟻地獄の誘い 澤村レイコ 丘咲エミリ",
+  "publish_date": "2016-06-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "SM",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jbd207/jbd207pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100083",
+  "actresses": [
+    {
+      "name": "丘咲愛蜜莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/b85bb285-c6c2-477a-8460-9f5be4501634.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100083&name=丘咲愛蜜莉"
+    },
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100083&name=高坂ますみ"
+    }
+  ]
+};

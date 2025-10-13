@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65451,
+  "IDcode": "8389018D19C97AFCC1630B642D5256C0",
+  "title": "新発想！逆転マジックミラーで寝取られ検証！「妻の浮気SEXを生で見てみませんか？」旦那に見られているとは知らずに激イキ姿を大胆披露！現役P●A会長 ありささん（31歳） 羽生ありさ",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65451",
+  "actresses": []
+};

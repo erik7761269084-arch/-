@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231216/0UiD8Emm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89307,
+  "IDcode": "STARS-903",
+  "title": "1日中即ハメピストン！足ガクガク腰が抜けても絶対に離さない追撃バックで限界突破！ 稲荷ある",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P",
+    "企画",
+    "纪录片",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89307",
+  "actresses": [
+    {
+      "name": "稻荷步",
+      "img_url": "https://picture.yoshiclub.xyz/20231101/85fc1c0e-ec4f-421f-a966-318055c151d1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89307&name=稻荷步"
+    }
+  ]
+};

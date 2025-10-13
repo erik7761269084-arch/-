@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/27/c6423e8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86997,
+  "IDcode": "ATID-485",
+  "title": "BBP ビッグブラックペニスに堕ちた女捜査官 滝川恵理",
+  "publish_date": "2021-11-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨大阴茎",
+    "黑人演员",
+    "女检察官",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230517-1/5faeca643eb9b15f06796060a89067bb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86997",
+  "actresses": [
+    {
+      "name": "有沢実纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86997&name=有沢実纱"
+    }
+  ]
+};

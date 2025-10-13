@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/632e3e5a-8c76-45e3-8760-eb97b29348ce/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/f9de1b3c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6457,
+  "IDcode": "MIDA-146",
+  "title": "喂，等下啦…！ 挑逗小內褲露底乳溝耳邊騷話連連，處男表弟理智崩盤狂暴抽插，無視高潮被持續插入逆轉絕頂 ~ 八木奈奈",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "校花",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "表姐・表妹",
+    "口交",
+    "騎乗位",
+    "淫語",
+    "不倫",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "羞恥",
+    "處男"
+  ],
+  "description": "MIDA-146为MOODYZ出品,2025年5月2日发行的有碼成人影片由八木奈々出演\n啥？你在偷瞄啥咧？為了找工作暫住表姐家，結果奈奈醬那壞笑挑逗根本停不下來！短裙一掀，小內褲若隱若現；故意在我面前換衣服，翹臀一扭，簡直勾人魂魄。挑逗越來越過火，最後竟然直接來句：想看內褲下面的風景對吧？然後直接全露還張開給你看，簡直是致命誘惑！身為處男的我哪受得了這種刺激，忍無可忍！憋到爆炸的滿載慾望直接硬上，瘋狂衝刺不管不顧！奈奈醬喊著：喂，等下，我已經高潮了啦！可我完全聽不進去，肆意發洩！看來她被我弄得高潮連連，地位好像反轉了呢…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042253916916_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042253916916_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6457",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6457&name=八木奈々"
+    }
+  ]
+};

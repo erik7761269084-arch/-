@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/071b819e-d245-4139-a44b-95f520a9edea/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11600,
+  "IDcode": "NPJS-092",
+  "title": "在約炮平臺上找的H罩杯女孩，看上去很文靜，卻懷着被性虐的願望。 職業：護士(23) ~ 山下望結",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "多P",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "約炮",
+    "護士",
+    "飯店"
+  ],
+  "description": "NPJS-092为NAPA-JAPAN出品,2024年10月1日发行的有碼成人影片由山下望結出演\n搭配的是一個看起來相當成熟的女孩。目前擔任護士的美優（23歲）本來並沒有抱太大期望，但當她脫掉衣服時，卻發現她擁有皮膚白皙的H罩杯大胸！ ！完美的形狀、尺寸和靈敏度！ ！ （她的乳頭也是粉紅色的，性感的！） 而且，她想被責備......並盡情地玩弄它們！ ！抓東西、摸餡餅、打屁股、玩具折磨、三人行、窒息…一個意想不到的受虐狂發布 9 鏡頭為一個真正的業餘愛好者！ ！什麼事都可以！雖然看起來很樸素，但是這個巨乳、性慾極強的女人，實在是太色情了！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/202409261009402121.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/202409261009402121.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11600",
+  "actresses": [
+    {
+      "name": "山下望結",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/866d206a-5855-472c-aeab-6ed92938929d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11600&name=山下望結"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/KXQac0c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78055,
+  "IDcode": "JUY-460",
+  "title": "嫁姑レズ調教 ～義理の親子が奏でる偏愛協奏曲～ 美谷朱里 加山なつこ",
+  "publish_date": "2018-04-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "数位马赛克",
+    "女同接吻",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78055",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78055&name=美谷朱里"
+    },
+    {
+      "name": "加山なつ子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250921/1855e6b0-af8c-48bc-988d-59e26c269961_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78055&name=加山なつ子"
+    }
+  ]
+};

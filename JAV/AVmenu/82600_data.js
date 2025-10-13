@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221117/0i4sBurH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82600,
+  "IDcode": "IESP-656",
+  "title": "渚みつき 麻薬捜査官 ヤク漬け膣痙攣",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82600",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82600&name=渚光希"
+    }
+  ]
+};

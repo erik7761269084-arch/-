@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/U2o6oE6J/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 53787,
+  "IDcode": "081317-01",
+  "title": "081317_01 VIP 素人むすめ Best30 Part 2",
+  "publish_date": "2017-08-13",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "萝莉",
+    "无套内射",
+    "立即口交",
+    "淫荡手淫",
+    "第一人称视角(POV)",
+    "美乳",
+    "白虎",
+    "苗条",
+    "贫乳",
+    "美脚",
+    "漂亮屁股",
+    "中出",
+    "肉肉女",
+    "角色扮演",
+    "制服",
+    "OL",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=53787",
+  "actresses": []
+};

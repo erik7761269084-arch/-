@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/TmOxVfiy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87116,
+  "IDcode": "NHDTB-79704",
+  "title": "生中痴●集団6 女子○生SP 10回連続で中に出され続けたJ○",
+  "publish_date": "2023-05-22",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "制服",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230710-1/f02d3bff07d5d2c0172496721073ce49.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87116",
+  "actresses": []
+};

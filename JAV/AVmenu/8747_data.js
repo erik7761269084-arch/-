@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d0377499-72cb-4683-a913-ee633e2db702/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/14/68748336/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8747,
+  "IDcode": "FSDSS-971",
+  "title": "女上司的美腳分開，穿着黑絲誘惑我！我的M男屬性被徹底激活，請盡管榨取我的雞巴吧！ ~ 楠木里紗",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "加班",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "高妹",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "足交",
+    "辦公室",
+    "抹油",
+    "美人",
+    "女上司"
+  ],
+  "description": "FSDSS-971为FALENO出品,2025年2月20日发行的有碼成人影片由楠愛里紗出演\n我在工作上犯了一個錯誤，在楠木局長的講座中，我透過絲襪發現我沒有穿內褲！看到我迷人的下半身完全勃起的樣子，楠木隊長張開了雙腿，誘惑了我。 「從現在開始，請用你的雞巴滿足我吧」我決定把幕後工作交給她… 無論何時何地，只要我提出要求，我都會受到連褲襪的折磨。用胖胖的美腿將她牢牢壓住，用射精精液剝削到滿足為止！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250128/20250128010313820820.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250128/20250128010313820820.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8747",
+  "actresses": [
+    {
+      "name": "楠愛里紗",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/b2700cfb-1c5c-4a4c-a502-bc15120ec1fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8747&name=楠愛里紗"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8747&name=ニック"
+    }
+  ]
+};

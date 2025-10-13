@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241225/6l0XHBMP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75738,
+  "IDcode": "JUKF-033",
+  "title": "近親相姦兄妹 親の目を盗み3日に1回はセックスしてると言い放つ異常性愛者のキ○ガイ兄妹 河北はるな",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": "JUMP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "乱伦",
+    "女优按摩棒",
+    "妹妹",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/ce0462254bf1e833d625fd9daf01aed5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75738",
+  "actresses": [
+    {
+      "name": "河北春菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/11153449-5c21-4d03-8bc6-21990115b70a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75738&name=河北春菜"
+    }
+  ]
+};

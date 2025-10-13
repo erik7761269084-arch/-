@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55406,
+  "IDcode": "F0897E4271382A8BA0B8F982BCACFF06",
+  "title": "色情三人行",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55406",
+  "actresses": []
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230129/rsGhLoNR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85891,
+  "IDcode": "PFES-028",
+  "title": "下着姿でうろつく美尻お姉さんたちが毎日ボクの精子を搾り尽くすTバック痴女シェアハウス逆5P生活 藤森里穂 月乃ルナ 篠田ゆう 夏希まろん",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "淫乱，真实",
+    "荡妇",
+    "内衣",
+    "屁股",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230130-1/68f7781057795b1cc41ebd097f783bf7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85891",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85891&name=藤森里穂"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85891&name=月乃露娜"
+    },
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85891&name=夏希栗"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85891&name=篠田优"
+    }
+  ]
+};

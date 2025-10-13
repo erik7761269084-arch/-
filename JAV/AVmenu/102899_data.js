@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102899,
+  "IDcode": "NHDTB-211_B",
+  "title": "乳首いじり文化部レズ痴漢2 ～文芸部美術部書道部放送部～ Part 2",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102899",
+  "actresses": []
+};

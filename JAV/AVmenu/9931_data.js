@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b9cf38df-6892-4ada-a045-0fed7a9d920c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2025/01/02/fbe16dec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9931,
+  "IDcode": "PPPE-290",
+  "title": "芸能人御用，一般人難以接近的現役高級風俗娘，令人着迷的密着魅惑SEX ~ 葵百合香",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "拜金女",
+    "傳播妹",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "獵豔",
+    "猥褻穿著",
+    "辣妹/GAL系",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "PPPE-290为OPPAI出品,2024年12月17日发行的有碼成人影片由葵百合香出演\nYURIKA所有迷人的性愛技巧都在這裡。這位總是在預約等候名單上的人氣明星身高172厘米，身材苗條，擁有不標準的G罩杯身材，與任何一個日本人都不同。與從身體中自由抽出的雞巴纏繞在一起的餡餅技術確實是從未體驗過的樂趣。而且，她那讓全世界男人為之傾倒的臀部姿勢，極其淫蕩、粗俗，卻又華麗。有時，她也有像淫蕩野獸的一面，用動物般的呻吟喚起男人的性慾。擁有常人無法體驗的一切的神秘終極女士，現在正在摘下面紗。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211074420547547.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211074420547547.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9931",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9931&name=葵百合香"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9931&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9931&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/8f37f943/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62052,
+  "IDcode": "IPZ-700",
+  "title": "彼女はアナタのいいなり ヤリたい放題ヴァーチャル淫乱SEX 解禁！言われるがままに初パイパンまで！ 輝月あんり",
+  "publish_date": "2016-02-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "无毛",
+    "姐姐",
+    "苗条",
+    "数位马赛克",
+    "主观视角",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62052",
+  "actresses": [
+    {
+      "name": "辉月杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230726/21029c51-346d-47c1-b7ba-29be40141e80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62052&name=辉月杏梨"
+    }
+  ]
+};

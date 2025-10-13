@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/21/70e72eee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63942,
+  "IDcode": "ATYA-021",
+  "title": "「エッチになりたくて来ました」バチボコにヤラれ願望の清楚妻性欲パンパンのおじさんたちとねっとりヤリ狂う 千川とわ",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "苗条",
+    "潮吹",
+    "骑乗位",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63942",
+  "actresses": [
+    {
+      "name": "千川とわ",
+      "img_url": "https://picture.yoshiclub.xyz/20240330/2e9c78eb-2ab3-4399-ad83-c10be424b663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63942&name=千川とわ"
+    }
+  ]
+};

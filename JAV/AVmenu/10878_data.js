@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e87724f3-055c-465a-af5f-609b86291b8b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10878,
+  "IDcode": "YMDD-415",
+  "title": "深夜美女蛇 變幻自在的蛇舌吞吃你雞巴的極上快樂 ~ 明裏友香 西野繪美",
+  "publish_date": "2024-11-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "神話故事",
+    "兩男一女",
+    "慾求不滿",
+    "多P",
+    "美腳",
+    "自慰",
+    "明星臉",
+    "女鬼・女妖",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "猥褻穿著",
+    "熟女",
+    "野性"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/572cd6cc-7171-4594-a486-8527af8fa7eb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/572cd6cc-7171-4594-a486-8527af8fa7eb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10878",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10878&name=西野絵美"
+    },
+    {
+      "name": "明里友香",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/5d03863f-f8f6-4fff-a36a-94c9430ee9b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10878&name=明里友香"
+    }
+  ]
+};

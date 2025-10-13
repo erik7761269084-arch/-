@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/H5blmBz4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80368,
+  "IDcode": "GANA-2661",
+  "title": "マジ軟派、初撮。 1771 【まるっと肉厚いい美尻】広告代理店に務めるバリキャリ美女をナンパ！「強引に来られると弱いかも…」なんて言われたら黙っちゃいられない！部屋に二人っきりにさせて男優に口説かせると即堕ちしてSEX！",
+  "publish_date": "2022-03-17",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "屁股",
+    "业余",
+    "猎艳",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80368",
+  "actresses": [
+    {
+      "name": "ひなの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80368&name=ひなの"
+    }
+  ]
+};

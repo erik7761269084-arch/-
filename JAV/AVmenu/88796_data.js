@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/Nt5PalhJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88796,
+  "IDcode": "WAWA-016",
+  "title": "夢野まりあrevival再降臨 現存する中でNo.1奇跡のPカップ",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": "HAWAII",
+  "genres": [
+    "乳交",
+    "成熟的女人",
+    "巨乳",
+    "多P",
+    "女优按摩棒",
+    "恋乳癖",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/2b0ce3abae90bcb3e72334d3db613c80.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88796",
+  "actresses": [
+    {
+      "name": "大村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88796&name=大村"
+    },
+    {
+      "name": "梦野まりあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88796&name=梦野まりあ"
+    }
+  ]
+};

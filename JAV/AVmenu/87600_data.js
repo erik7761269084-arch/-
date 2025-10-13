@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/3HFBgsjM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87600,
+  "IDcode": "MEYD-784",
+  "title": "透き通る肌に控えめな笑顔。ほんの少しの不倫願望 柚月沙央梨 35歳 AV DEBUT",
+  "publish_date": "2022-09-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "玩具",
+    "出轨",
+    "苗条",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87600",
+  "actresses": [
+    {
+      "name": "柚月沙央梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87600&name=柚月沙央梨"
+    }
+  ]
+};

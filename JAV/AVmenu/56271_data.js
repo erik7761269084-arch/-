@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220421/6E1AE30F72B5FBA3/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56271,
+  "IDcode": "1PON-012415-016",
+  "title": "极品高中生美少女制服心动受不了作品  妹子颜值身材青涩稚嫩鸡动挡不住操穴很刺激720P高清",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56271",
+  "actresses": []
+};

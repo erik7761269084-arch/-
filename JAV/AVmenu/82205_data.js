@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221110/QKM3XxqX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82205,
+  "IDcode": "YKMC-002",
+  "title": "すみれ/なおこ",
+  "publish_date": "2020-03-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女大学生",
+    "潮吹",
+    "按摩棒",
+    "乳房",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82205",
+  "actresses": [
+    {
+      "name": "Sumire",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82205&name=Sumire"
+    }
+  ]
+};

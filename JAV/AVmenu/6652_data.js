@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c9d9b26-9741-46db-8dd7-e1de3056855a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6652,
+  "IDcode": "AKDL-318",
+  "title": "這家著名風俗按摩店的極致慢節奏手活和騎乘位讓我爽到爆射好幾次 2 ~ 宇流木沙羅",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "4K",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "高妹",
+    "打手槍",
+    "口爆",
+    "按摩・美容店",
+    "巨乳",
+    "抹油",
+    "美人"
+  ],
+  "description": "AKDL-318为AKNR出品,2025年3月6日发行的有碼成人影片由宇流木沙羅出演\n【裏オプ 男士エステ】這家店的慢節奏服務根本是治癒系天花板！小姐用柔軟的手指細膩地玩弄你的乳頭、蛋蛋、老二和龜頭，慢慢挑逗到你忍不住噴射！一次還不夠，她們還會用超色情的慢手活繼續撩撥你，耳朵邊低語騷話，腦袋都要被刺激到爆炸！再來個慢節奏騎乘位，磨得你下體爽到不行，簡直欲仙欲死！【精液吞嚥】【手指魔法師】【磨蹭騎乘位】【臉部騎乘壓迫】",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423082925582582_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250423/20250423082925582582_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6652",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6652&name=宇流木沙羅"
+    }
+  ]
+};

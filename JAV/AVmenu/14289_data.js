@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0fa342fe-3185-4d96-a0e2-4039584c4527/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/29/485c5b98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14289,
+  "IDcode": "WAAA-383",
+  "title": "我討厭的公公晚上來操我...... ~ 美園和花",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "家庭主妇",
+    "劇情",
+    "蕩婦",
+    "強姦",
+    "若妻",
+    "不倫",
+    "公公",
+    "兒媳",
+    "人妻",
+    "巨乳",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "WAAA-383为WANZ FACTORY出品,2024年6月4日发行的有碼成人影片由美園和花出演\n瓦卡和善良善良的丈夫過著幸福的婚姻生活。然而，瓦卡有一個抱怨。那就是和一個庸俗無雅的繼父生活在一起。她厭倦了與繼父一起生活，那裡的性騷擾司空見慣。有一天，她的公公發現瓦卡在她丈夫不在的時候睡著了。她趁著兒子不在的時候，偷偷脫掉內衣，吞下充滿女人味和汗味的生殖器，將陰莖塞進兒子體內，進行無情的中出強姦。從此，瓦卡年輕的身體繼續受到公公的污染，公公一有機會就攻擊她…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531035106438438.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531035106438438.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14289",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14289&name=美園和花"
+    }
+  ]
+};

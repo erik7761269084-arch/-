@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/16/42e5677e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35526,
+  "IDcode": "0103197-92",
+  "title": "跪下求土豪内射的拜金母狗人妻上山奈奈",
+  "publish_date": "2025-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/16/912d6890c985b62fcdf753ef9f85c3f0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35526",
+  "actresses": []
+};

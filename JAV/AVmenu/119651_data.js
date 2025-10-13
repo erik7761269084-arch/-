@@ -1,0 +1,26 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119651,
+  "IDcode": "FC2PPV-1249351",
+  "title": "【个人撮影】あんり22歳　虚ろな目をしたダウナー系スレンダー美女に大量中出し",
+  "publish_date": "2020-01-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [
+    "私人摄影",
+    "内射",
+    "原作",
+    "美女",
+    "无码",
+    "巨乳",
+    "无套性交",
+    "可爱",
+    "白虎"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119651",
+  "actresses": []
+};

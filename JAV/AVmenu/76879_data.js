@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/tuvmIK7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76879,
+  "IDcode": "SCOP-576",
+  "title": "下半身タッチNGのセクキャバで人気の電マ無料オプションを利用し新人嬢をイカセまくって言葉巧みに生本番中出しSEX成功！！",
+  "publish_date": "2018-12-14",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "内衣",
+    "妓女",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76879",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76879&name=大島愛里亞"
+    },
+    {
+      "name": "亜矢みつき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-神谷充希.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76879&name=亜矢みつき"
+    },
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76879&name=小西真理繪"
+    },
+    {
+      "name": "桃尻かのん",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/a50d2415-1002-4f26-8f39-2a6deebe896d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76879&name=桃尻かのん"
+    },
+    {
+      "name": "叶月もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76879&name=叶月もえ"
+    }
+  ]
+};

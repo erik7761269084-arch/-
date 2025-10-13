@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/08/f3d844d8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87052,
+  "IDcode": "NNPJ-551",
+  "title": "可愛くて変態。マッチングアプリでゲット！！ 出会って超速ホテルIN即ハメ！美人妻は即効型の都合のイイ絶倫タダマンビッチだった。 「時間ないから早くヤリたいです」 人妻:ここねさん。",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "姐姐",
+    "第一人称摄影",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87052",
+  "actresses": [
+    {
+      "name": "水谷心音",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/c3945dc9-7a74-49e3-87be-04a205ccd178.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87052&name=水谷心音"
+    }
+  ]
+};

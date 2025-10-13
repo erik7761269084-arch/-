@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83fdef8f-3ee5-4b48-90ec-18d148790bb5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19327,
+  "IDcode": "IPX-119",
+  "title": "FIRST IMPRESSION 124 今天開始愛上她新人肏下海來！",
+  "publish_date": "2018-04-06",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "小隻馬",
+    "美少女",
+    "出道作品",
+    "數位馬賽克"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230531/20230531010838812812.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230531/20230531010838812812.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19327",
+  "actresses": [
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19327&name=一条美緒"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19327&name=森林原人"
+    }
+  ]
+};

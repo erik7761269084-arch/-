@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/qqMERsM9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80096,
+  "IDcode": "MIDV-003",
+  "title": "期待の専属第2弾！！ 着エロアイドル子宮ビクビク痙攣性欲爆発4本番 花芽ありす",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "多P",
+    "偶像",
+    "颜射",
+    "肛交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80096",
+  "actresses": [
+    {
+      "name": "友田真希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/024a3bbf-99af-4b33-9026-aa6a1e98dfd3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80096&name=友田真希"
+    },
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80096&name=花芽有朱"
+    },
+    {
+      "name": "夏目ミュウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80096&name=夏目ミュウ"
+    }
+  ]
+};

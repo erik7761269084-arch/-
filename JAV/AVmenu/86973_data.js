@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230413/TP05A7UL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86973,
+  "IDcode": "NTK-364",
+  "title": "300 「男のヒト攻めたい♪」スレンダー美尻妻の欲求は決壊寸前！？既婚者同士のワリキリ不倫で性欲マッチング！！Tバック食い込む美パイパンから溢れる不貞潮！！生チン奥まで飲み込む欲深マ○コでスパイダー騎乗位悦楽！！/ラブホドキュメンタリー休憩2時間/65",
+  "publish_date": "2022-06-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230413-1/fc3f525c76e52f6c9eef2139df787b20.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86973",
+  "actresses": []
+};

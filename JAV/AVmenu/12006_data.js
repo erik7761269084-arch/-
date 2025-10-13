@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8923b0ec-7630-4a5a-b876-447dbb3ff2d8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/25/e2896068/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12006,
+  "IDcode": "HMN-604",
+  "title": "女獄警和囚犯在半夜巡邏時短暫的密會，牢獄裏的射精許可 ~ 美谷朱裏",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "罪犯・逃犯",
+    "口交",
+    "監獄",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "女警",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "艷遇",
+    "奇異的",
+    "熟女",
+    "美少女電影"
+  ],
+  "description": "HMN-604为本中出品,2024年9月17日发行的有碼成人影片由美谷朱里出演\n現在是凌晨 2 點，時間限制為 60 分鐘！守衛x囚犯戀愛無限中出！ ！兩個絕對有戀愛關係的淘氣的人墜入愛河，並在一個絕對淘氣的地方發生原始性行為！因為他的身體有一個很棒的綽號……一旦開始，他就停不下來！ ！監獄裡的性愛！把自己關在牢房裡，不用橡膠就可以做愛！直到下一次換崗、直到時間限制結束為止的極度色情的性愛！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912102944487487.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912102944487487.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12006",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12006&name=美谷朱里"
+    }
+  ]
+};

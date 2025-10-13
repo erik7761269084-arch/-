@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231004/tB43C5gB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88323,
+  "IDcode": "DVDMS-144",
+  "title": "家事代行おばさんのピタパン尻に我慢できずにバックからねじ込むデカチン即ハメ！ 3 「旦那がいるから…」断られても強引にイカせるイケメンの高速ピストン口説きSEXを完全収録！！魅惑の若チ○ポに心奪われたデカ尻妻が旦那では味わえない連続絶頂合計43回！",
+  "publish_date": "2017-07-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "屁股",
+    "业余",
+    "巨大阴茎",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231004-1/2de5891a540b388fb3d3aaaefc450eca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88323",
+  "actresses": [
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88323&name=加藤あやの"
+    },
+    {
+      "name": "大冢れん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88323&name=大冢れん"
+    }
+  ]
+};

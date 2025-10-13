@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221119/c4iCBMJx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82714,
+  "IDcode": "277DCV-134",
+  "title": "家まで送ってイイですか？ case.134 全身ラバースーツ！淫乱リアル不○子ちゃん！1000のディルドを持つ&quot;人間秘宝館&quot;膣内ムッキムキ！締まりにコミットする膣内トレーニング自ら編み出した秘技…大量セルフ潮吹き絶叫！うなる電動マシンバイブ愛する家族…傷だらけの義父に感謝の涙",
+  "publish_date": "2023-03-06",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82714",
+  "actresses": []
+};

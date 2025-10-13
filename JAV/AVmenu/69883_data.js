@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/kU5mP3HI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69883,
+  "IDcode": "WA-399",
+  "title": "家事代行 むっちり完熟妻のブラチラ巨乳と豊満尻に大興奮！早漏なボクに天才的腰使いの優しい筆下し！連続中出しSEX！",
+  "publish_date": "2019-04-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/945140d1b597c59113c29d1e40924a74.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69883",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69883&name=翔田千里"
+    },
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69883&name=音羽文子"
+    },
+    {
+      "name": "一条绮美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69883&name=一条绮美香"
+    }
+  ]
+};

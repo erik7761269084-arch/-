@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240316/kTjJ7vSa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91069,
+  "IDcode": "CJOD-374",
+  "title": "聖水ぶっかけ女上司 びちょ濡れ状態で溺れ射精させられた僕 浜崎真緒 大槻ひびき",
+  "publish_date": "2023-03-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "多P",
+    "放尿",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91069",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91069&name=大槻响"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91069&name=森林原人"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91069&name=浜崎真绪"
+    }
+  ]
+};

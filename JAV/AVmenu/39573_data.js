@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39573,
+  "IDcode": "FE4A11EF9F25F13E5AFAB89A7B0AEA03",
+  "title": "韩国影视圈潜规则偷 29",
+  "publish_date": "",
+  "type": "无码",
+  "company": "G.M.E",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39573",
+  "actresses": []
+};

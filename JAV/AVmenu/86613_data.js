@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230209/GkMS4VIX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86613,
+  "IDcode": "WAAA-130",
+  "title": "コンドームが破れてまさかの生ハメ！超加速するピストンで何度も中出し！ 美波もも",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "颜射",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230210-1/fbabb6a0695cebed6c135519c70619a6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86613",
+  "actresses": []
+};

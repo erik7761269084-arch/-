@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240430/VYsDAD4D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91327,
+  "IDcode": "CJOD-383",
+  "title": "絶対領域 セクシーガールズバー痴女ハーレム 誘惑パンチラ美脚挟み撃ちで何度も射精させる卑猥サービス 大槻ひびき 波多野結衣 有岡みう 橘メアリー",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91327",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91327&name=波多野结衣"
+    },
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91327&name=橘瑪麗"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91327&name=大槻响"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91327&name=椎叶みくる"
+    }
+  ]
+};

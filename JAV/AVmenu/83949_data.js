@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230102/1cLL9ZqS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83949,
+  "IDcode": "FSDSS-383",
+  "title": "初めての彼女は物凄いむっつりスケベ尽きることない性欲で迫られ連続射精セックスし続けた青春の日々 時田亜美",
+  "publish_date": "2022-03-24",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "高中女生",
+    "苗条",
+    "恋爱",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230102-1/4d7fd96f718fe529b54dc96e8bdac0b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83949",
+  "actresses": []
+};

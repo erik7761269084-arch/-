@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/be93b848-cda6-4761-94a2-b89469ef66a7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/13/7bb845db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5352,
+  "IDcode": "PPPE-353",
+  "title": "巨乳女教師的致命誘惑 ~ 雨宮響",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "大姐姐",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "主觀視角",
+    "舔陰",
+    "高妹",
+    "勾引・誘惑",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "學校",
+    "綠茶婊",
+    "極品美人",
+    "無毛"
+  ],
+  "description": "PPPE-353为OPPAI出品,2025年6月13日发行的有碼成人影片由雨宮響出演\n在一間滿是青春期小狼狗的學校裡，突然來了個巨乳又溫柔還超會撩的女老師，學校的風紀還能守得住嗎？！雨宮響老師總是掛著甜甜的笑容，連我們這些小屁孩的色色惡作劇都能笑著原諒，害得我們荷爾蒙直接爆棚！她那對包容力爆表的巨乳，隨時都能給我們打雞血，讀書、社團活動還有那話兒都直接滿血復活！有這樣的老師，別說週末加班上課，就算天天來我也甘願！出勤率和升學率雙雙爆表的學霸學校，就問你怕不怕！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061104968968_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061104968968_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5352",
+  "actresses": [
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5352&name=雨宮響"
+    }
+  ]
+};

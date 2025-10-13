@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e31372ef-69dc-4333-8ce3-1d8571581819/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/b684fdd7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3850,
+  "IDcode": "FJIN-089",
+  "title": "父親再婚帶來的兩個繼姐是超級喪宅女 邋遢卻性感爆棚的無防備巨乳姐姐把我榨幹了 ~ 夕美紫苑 愛川鈴",
+  "publish_date": "2025-08-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "表姐・表妹",
+    "口交",
+    "自宅",
+    "廢青",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "兩女一男",
+    "美人",
+    "眼鏡",
+    "美少女電影",
+    "野性",
+    "女學生",
+    "豐滿",
+    "宅男・宅女"
+  ],
+  "description": "FJIN-089为妄想族出品,2025年8月2日发行的有碼成人影片由夕美紫苑，愛川鈴出演\n爸妈再婚后，我这年纪居然第一次有了姐姐，而且一下就是两个！这简直是人生巅峰啊！悄悄说一句，她们俩都是大胸妹子，奶量惊人！我这辈子都没啥桃花运，面对她们多少有点尴尬……但我的小纠结直接被她们那从エロ漫画里培养出来的超强性欲给冲垮了！我的小兄弟直接被点燃，爆炸开花！她们那肉感十足的大奶子晃得我眼花缭乱，完全不是啥爱啊恋啊，就是纯粹的浓烈SEX！啥想恋爱想受欢迎的心思全被她们扔一边，女人骨子里的本能欲望真是太色太猛了，简直要命w",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032445105105_69125_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032445105105_69125_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3850",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3850&name=夕美紫苑"
+    },
+    {
+      "name": "愛川鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240415/500884a0-5fad-4ab5-9ee1-c34e9415a0b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3850&name=愛川鈴"
+    }
+  ]
+};

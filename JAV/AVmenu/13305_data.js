@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0ba693a6-aba6-4539-81f0-026423ae0e35/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/27/92628769/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13305,
+  "IDcode": "KSBJ-322",
+  "title": "發情時，不穿胸罩來誘惑丈夫下屬 ~ 美波汐裏",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "跳蛋",
+    "口交",
+    "自宅",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "插入異物",
+    "同事女友・妻子",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "色白",
+    "中出"
+  ],
+  "description": "KSBJ-322为妄想族出品,2024年7月16日发行的有碼成人影片由美波汐里出演\n我們結婚已經3年了。由於沒有和丈夫一起活動，她的日子充滿了沮喪。有一天，她的丈夫帶著一名年輕的下屬回家。詩織興奮不已，當丈夫在沙發上打瞌睡時，她大膽地展示了自己沒穿胸罩的胸部，開始勾引他。詩織的誘惑不斷升級，她因與丈夫發生外遇而變得興奮。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714022456740740.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/20240714022456740740.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13305",
+  "actresses": [
+    {
+      "name": "美波汐里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/b6dec06f-fa25-4057-a11d-ced6b50f9c00.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13305&name=美波汐里"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13305&name=日森一"
+    }
+  ]
+};

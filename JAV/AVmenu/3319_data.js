@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e7c6b718-7481-48c6-93f9-ee43864f7c1e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/7843197e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3319,
+  "IDcode": "VENX-334",
+  "title": "心是家人身是路人，禁忌的微妙關系！與年輕繼母獨處一周的火花 ~ 依本詩織",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "繼母",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "正統派",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "VENX-334为VENUS出品,2025年8月21日发行的有碼成人影片由依本詩織出演\n虽然是义理关系，但栞一直坚信能和丈夫的继子贵明建立起真正的亲子羁绊。她用心对待贵明，两人关系好得像姐弟一样亲密。然而，贵明却暗藏着对栞的男女之情！这突如其来的告白让栞慌了神，虽然拒绝了，但从那天起，她却开始忍不住关注贵明的一举一动，心里的小火苗越烧越旺……这禁忌的一周，到底会擦出怎样的火花？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/2025082103545299_99993_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/2025082103545299_99993_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3319",
+  "actresses": [
+    {
+      "name": "依本詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c45b8acc-1cbc-4413-96ea-f3493e184bc7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3319&name=依本詩織"
+    }
+  ]
+};

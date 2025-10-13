@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59260,
+  "IDcode": "316a2197e555189e34705d145a2e9652",
+  "title": "身材苗条的美乳小姐姐情色按摩初体验-放松后的身体更可以享受激情-~1",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59260",
+  "actresses": []
+};

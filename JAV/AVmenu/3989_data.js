@@ -1,0 +1,90 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/51e8da6a-be78-4960-b6a3-70bbd0b15c6b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3989,
+  "IDcode": "MIAB-521",
+  "title": "高射長巨臀癡女教師的後宮學園 絲襪足交挾腳二股杭打急降下 爽爆天了啦！全員170cm OVER天空癡女 ~ 堤芹奈 滝ゆいな 碓井せりな",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "超爆乳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "港區女子",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "多P",
+    "美腳",
+    "寫真女郎",
+    "清楚系",
+    "御姐系",
+    "清純",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "M男・M女",
+    "寫真偶像",
+    "美人",
+    "學校",
+    "阪道系",
+    "綠茶婊",
+    "豐滿"
+  ],
+  "description": "MIAB-521为MOODYZ出品,2025年8月1日发行的有碼成人影片由堤芹奈，滝ゆいな，碓井せりな出演\n【全員身高170cm以上，超高挑大屁股絲襪美腿痴女夾擊爽到起飛！】這些淫蕩火辣的女老師最愛調戲抖M學生的弟弟！年輕力壯的肉棒被她們勾引，絲襪美腿夾緊猛磨，踩踏玩弄腳趾挑逗，逆4P後宮模式直接榨乾你的蛋蛋！大屁股騎臉加上蟹步猛樁雙重快感壓迫，內射一發接一發！「想被老師肉感下半身狠狠欺負的抖M小弟，趕快攢滿精液來找姊姊玩啦！」",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094247873873_51069_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094247873873_51069_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3989",
+  "actresses": [
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3989&name=滝ゆいな"
+    },
+    {
+      "name": "碓井せりな",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/0013eb5d-a157-49cf-9093-7a039092b020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3989&name=碓井せりな"
+    },
+    {
+      "name": "堤芹奈",
+      "img_url": "https://picture.yoshiclub.xyz/20241108/9eb64f5d-9c4d-4187-9e3a-26c678ae8ed8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3989&name=堤芹奈"
+    }
+  ]
+};

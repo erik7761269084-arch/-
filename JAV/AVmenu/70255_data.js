@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250315/Av44Afer/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70255,
+  "IDcode": "SKMJ-037",
+  "title": "新人 腰ふりクイーン女子大生 泉ひなの AVデビュー",
+  "publish_date": "2019-04-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "女上位",
+    "首次亮相",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70255",
+  "actresses": [
+    {
+      "name": "泉ひなの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70255&name=泉ひなの"
+    }
+  ]
+};

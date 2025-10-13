@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/921001c2-f89a-4910-839a-fdceb1b4bf28/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/575896d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10802,
+  "IDcode": "IPZZ-444",
+  "title": "人妻自宅美容院，美人美容師被醜陋的鄰居的淫穢雞巴不斷地中出 ~ 仲村美羽",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "痴漢",
+    "劇情",
+    "按摩女郎",
+    "老頭子",
+    "按摩・物理治療・美容",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "按摩・美容店",
+    "鄰居",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "羞恥"
+  ],
+  "description": "IPZZ-444为IDEA POCKET出品,2024年11月12日发行的有碼成人影片由仲村美羽出演\n是不是濕透了……我想，當你看到我完全勃起的陰莖時，你一定很興奮吧？如果我插入這個會發生什麼？ （笑）善良的丈夫……幸福的婚姻生活……利用自己的經驗在家開美容院的年輕妻子。來自卑鄙敗類鄰居的邪惡陷阱襲擊了她。不……再往下……沒錯……最下面的部分是最難的（笑）。不忠的興奮感在她面前生長的肌肉發達的陰莖中湧動。太濕了（笑），它正在堆積，對嗎？請讓我把它放進你...在無與倫比的鄰居的猛烈活塞的作用下，她將纖細美麗的身體向後彎曲，一次又一次地射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107081858373373.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/20241107081858373373.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10802",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10802&name=仲村美羽"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/06/fa8af01e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67507,
+  "IDcode": "GENU-018",
+  "title": "Wセレブ妻 抑えられない衝動、性欲 ～ママ活アプリで出会った年下男と不貞中出しセックスに溺れた日々～ 百永さりな 黒木奈美",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/06/8ed6efe92d0e140ff5847b370eac74c2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67507",
+  "actresses": [
+    {
+      "name": "黒木奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/7d6103e3-63dd-4460-8237-77fc0ee2f49a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67507&name=黒木奈美"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67507&name=黑川纱里奈"
+    }
+  ]
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b482ad78-a062-4bce-acf8-9070131e47e1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 691,
+  "IDcode": "HEYZO-0828",
+  "title": "變態女人的真面目被揭露 跳蛋還在裏邊 ~ 蓮美",
+  "publish_date": "2015-04-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "打手槍",
+    "美腳",
+    "自慰",
+    "艷遇",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "按摩棒",
+    "熟女",
+    "插入異物",
+    "短髮"
+  ],
+  "description": "HEYZO-0828为HEYZO出品,2015年4月5日发行的無碼成人影片由蓮美出演\n暴かれた変態女の本性～ローターを入れたまま。。。～ - 蓮美",
+  "cover_url": "https://picture.yoshiclub.xyz/20240911/78fcfdd3-81bb-42ea-9eb1-2347bd170fb9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240911/78fcfdd3-81bb-42ea-9eb1-2347bd170fb9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=691",
+  "actresses": [
+    {
+      "name": "蓮美",
+      "img_url": "https://picture.yoshiclub.xyz/20240806/e9f027e3-a296-41e7-83f0-056afba2e30f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=691&name=蓮美"
+    }
+  ]
+};

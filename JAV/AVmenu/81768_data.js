@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/UhH1gGmg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81768,
+  "IDcode": "MICA-022",
+  "title": "初めての他人棒体験 福岡県在住みおさん",
+  "publish_date": "2019-11-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "第一人称摄影",
+    "口交",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/5d45265167bd43b62eb3b97adfaac726.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81768",
+  "actresses": [
+    {
+      "name": "平川琴菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81768&name=平川琴菜"
+    }
+  ]
+};

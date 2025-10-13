@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/18/3cc2a56b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104503,
+  "IDcode": "SHKD-997",
+  "title": "取引先の美人秘書を監禁媚薬漬けキメセク調教 紗々原ゆり",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "秘书",
+    "药物",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104503",
+  "actresses": [
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104503&name=纱々原ゆり"
+    }
+  ]
+};

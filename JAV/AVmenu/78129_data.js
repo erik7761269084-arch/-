@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/9vR2t1Z5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78129,
+  "IDcode": "JUY-728",
+  "title": "新人 菅野真穂 35歳 AVDebut！！ この人妻、異常性欲につき危険―。",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "数位马赛克",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78129",
+  "actresses": [
+    {
+      "name": "菅野真穂",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78129&name=菅野真穂"
+    }
+  ]
+};

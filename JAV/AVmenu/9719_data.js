@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f55cdbc5-855a-45d4-8da0-73a2adc9b601/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/539ec383/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9719,
+  "IDcode": "DASS-539",
+  "title": "換妻NTR，不道德卻很刺激的性愛 ~ 谷梓 碓井せりな",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "變態",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "朋友女友・妻子",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "NTR",
+    "兩男兩女",
+    "夫妻交換",
+    "美少女電影"
+  ],
+  "description": "DASS-539为DASDAS出品,2024年12月24日发行的有碼成人影片由谷梓，碓井せりな出演\n梓的丈夫光一深愛著自己的妻子，但最近他在性愛中崩潰了。當我和我最好的朋友 Hajime 討論這個問題時，他建議說：“你願意和我女朋友 Serina 交換一下嗎？”小一一開始很驚訝，但決定透過交換性行為來恢復勃起。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218105725138138.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218105725138138.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9719",
+  "actresses": [
+    {
+      "name": "碓井せりな",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/0013eb5d-a157-49cf-9093-7a039092b020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9719&name=碓井せりな"
+    },
+    {
+      "name": "谷梓",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/ba28b696-3f19-4d8d-8cc2-34b48994fed5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9719&name=谷梓"
+    },
+    {
+      "name": "トンガ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9719&name=トンガ"
+    }
+  ]
+};

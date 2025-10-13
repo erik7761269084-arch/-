@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56422,
+  "IDcode": "CE4FCB9E3D602C987E79796044B02284",
+  "title": "肉丝轻熟女户外露出调教",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56422",
+  "actresses": []
+};

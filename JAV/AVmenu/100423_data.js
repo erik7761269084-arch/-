@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230729/AsXruS86/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100423,
+  "IDcode": "FSDSS-529",
+  "title": "おしゃぶり申請で業務中のムラムラ解消！オフィス内ならいつでもどこでも口内射精OK！フェラチオ大好き即尺OL！人事部おしゃぶり課 天使もえ 生写真5枚付き",
+  "publish_date": "2023-01-12",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗条",
+    "口交",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100423",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100423&name=天使萌"
+    }
+  ]
+};

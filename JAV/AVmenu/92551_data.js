@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240907/yMeq1wGh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92551,
+  "IDcode": "IAA-591",
+  "title": "IAA591都合のイイ地味メガネ巨乳乳首ビンビンいいなり後輩OLムチムチボディを揉みまくり朝まで、何度も、中出し交遊録。水原美園稻場流花。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240907-1/45e04cf279d853d10478c5534aff4b3b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92551",
+  "actresses": []
+};

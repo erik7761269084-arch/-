@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/5b9ecc25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70918,
+  "IDcode": "MGNL-075",
+  "title": "『人妻OLは後輩社員とラブホテルで2人っきりになったら旦那を忘れて1発10万円の中出しSEXをしてしまうのか！？』徹底検証！素敵上司と生ハメミッション！デカパイズリ＆奥までフェラで刺激MAX！人妻マ●コに中出し一攫千金！【街角素人モニタリング♯まき♯28歳♯会社員】",
+  "publish_date": "2025-03-14",
+  "type": "有码",
+  "company": "MAGNOLIA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "69",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/03/5b9ecc25/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70918",
+  "actresses": []
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/fF3pefZB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83876,
+  "IDcode": "XRW-835",
+  "title": "枯れた夫じゃ満足できない！させ頃の巨乳妻、美乳妻たちの物語 羽生ありさ・優梨まいな・美咲かんな・ましろ杏・花宮レイ・望月りさ",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/ab1d7652e2dc40699f9b172710fa724a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83876",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=美咲佳奈"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=羽生ありさ"
+    },
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=望月理沙"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=优梨まいな"
+    },
+    {
+      "name": "花宫レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=花宫レイ"
+    },
+    {
+      "name": "真城杏",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/389f107a3671aea29c8d49d40657ceb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83876&name=真城杏"
+    }
+  ]
+};

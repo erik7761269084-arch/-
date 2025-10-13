@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/7704c6c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62640,
+  "IDcode": "BONY-153",
+  "title": "24時間居座り集団中出しレ●プ08 色白巨乳Nちゃん",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "滥交",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/21/7704c6c5/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62640",
+  "actresses": []
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231208/shHVnJC5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88749,
+  "IDcode": "XBS-006",
+  "title": "マゾ淫獣ゲロ調教 5人目",
+  "publish_date": "2023-05-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "颜射",
+    "女生",
+    "潮吹",
+    "拘束",
+    "恋物癖",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/e736aa6d622e6aecac7e4caecbbd0186.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88749",
+  "actresses": []
+};

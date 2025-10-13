@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d72fdef1-dd88-4176-8f75-f9063d072b5f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3465,
+  "IDcode": "STZY-018",
+  "title": "初撮！AV出道前的珍藏激情畫面 衝繩離島少女的羞澀綻放 ~ 新川空",
+  "publish_date": "2025-08-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "STZY-018为SOD出品,2025年8月18日发行的有碼成人影片由新川空 出演\nSODSTAR的新川空小姐姐，出道前的私密激情畫面獨家曝光！從沖繩離島遠道而來，面對大都市的繁華街景她滿是興奮，但一站到鏡頭前瞬間緊張到不行。不過慢慢放開後，她的表現超乎預期，激烈到讓人目瞪口呆！第一次體驗潮吹直接爽翻天，最後忍不住嬌喘：太舒服了，要不行啦……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818044502588588_23824_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250818/20250818044502588588_23824_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3465",
+  "actresses": [
+    {
+      "name": "新川空",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250729/78ec5c06-305f-4c22-a088-6eb8c66c43e6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3465&name=新川空"
+    }
+  ]
+};

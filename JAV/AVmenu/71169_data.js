@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/bUDYDbO5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71169,
+  "IDcode": "HONE-237",
+  "title": "真夏のノーブラおっぱいで隣人を勃起させるやわらか巨乳奥さんに中出し 風間ゆみ",
+  "publish_date": "2019-01-24",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71169",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71169&name=風間由美"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71169&name=真琴"
+    }
+  ]
+};

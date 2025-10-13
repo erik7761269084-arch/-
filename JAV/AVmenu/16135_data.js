@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/05cfdaee-1435-4b31-ba61-1274683c9837/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16135,
+  "IDcode": "JRBA-018",
+  "title": "露天將厚顏無恥的女孩徹底奸到她受不了爲止 日泉舞香",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "凌辱",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "舔陰",
+    "少女",
+    "口爆",
+    "多P",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "過膝襪・小腿襪",
+    "手指插入",
+    "M男・M女",
+    "野外露天",
+    "無毛"
+  ],
+  "description": "JRBA-018为妄想族出品,2024年2月20日发行的有碼成人影片由日泉舞香出演\n即使你道歉我也不會原諒你，我會強奸你的陰戶！ ！我帶着一個自私的高中女生，盡管我以爸爸的身份認識了她，但她卻如此自私，到了一個她無法逃脫的深山地方，我無恥地強奸她，所以我要向公衆發布！ ！我已經用了她的陰戶，直到我無法抗拒，",
+  "cover_url": "https://picture.yoshiclub.xyz/20240222/20240222061553346346.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240222/20240222061553346346.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16135",
+  "actresses": [
+    {
+      "name": "日泉舞香",
+      "img_url": "https://picture.yoshiclub.xyz/20230623/4828b925-2cbd-4595-8abd-1a02291e45d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16135&name=日泉舞香"
+    }
+  ]
+};

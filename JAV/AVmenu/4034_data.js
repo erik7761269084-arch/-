@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c47733d7-de39-4b7a-949c-5a23824f28b2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/257e31db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4034,
+  "IDcode": "SAN-376",
+  "title": "被打工店長勾引徹底淪陷的人妻 ~ 富岡亞里沙",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "三十路",
+    "後入",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "職員",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "阪道系",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "SAN-376为マザー出品,2025年7月29日发行的有碼成人影片由富岡亞里沙出演\n在打工地方被店长盯上的亚里沙，被甜言蜜语忽悠，又被偷偷下了媚药，最后直接被寝取！面对那根大宝贝，她彻底沦陷，欲罢不能，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203830846846_86082_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203830846846_86082_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4034",
+  "actresses": [
+    {
+      "name": "富岡亞里沙",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/5e088a12-6398-4dc2-ae80-e63d5428e00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4034&name=富岡亞里沙"
+    }
+  ]
+};

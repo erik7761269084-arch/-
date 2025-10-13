@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220411/495F073B6888B899/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97636,
+  "IDcode": "MIFD-062",
+  "title": "新人 めっちゃ敏感ちょっとクールな超スレンダー美少女 けいおん現役女子大生AVデビュー 岡本真憂",
+  "publish_date": "2019-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "美少女",
+    "女大学生",
+    "颜射",
+    "苗条",
+    "首次亮相",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97636",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97636&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97636&name=玉木玲"
+    },
+    {
+      "name": "冈本真忧",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97636&name=冈本真忧"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241218/pbBjVhlU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76219,
+  "IDcode": "ETQR-125",
+  "title": "オチ●ポへの愛情溢れるしゃぶりつくしピンサロ！冬愛ことね",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "中出",
+    "制服",
+    "口交",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76219",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76219&name=冬爱琴音"
+    }
+  ]
+};

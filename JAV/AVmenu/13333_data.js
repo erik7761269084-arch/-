@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/321e9eda-47f9-487b-b7bc-823560591626/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/GRdHq1Pr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13333,
+  "IDcode": "PRED-695",
+  "title": "「我又高潮了！」絶頂245回！體液2000cc！痙攣4545！前爆乳乳記者在溫泉被大屌操到了極致！ ~ 橋本葵",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "和服・浴衣・喪服",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "接吻",
+    "口爆",
+    "美少女",
+    "AV拍攝現場",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "即時插入",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "PRED-695为PREMIUM出品,2024年7月16日发行的有碼成人影片由橋本葵出演\n前溫泉記者橋本葵讓巨乳顫抖射精！接近早上進入工作室的那一刻，立即開始活塞運動！根據你的撒尿限制進行奶口交！大雞巴追求操！被極端服裝捆綁，被玩具折磨！即使你已經處於狀態，連續惡魔小便3P！優雅女人的愛神強制覺醒！看看茶室時代誰都看不到的他的真面目！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712020956864864.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712020956864864.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13333",
+  "actresses": [
+    {
+      "name": "橋本葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/0fd24c47-046a-4dde-9115-738189026299.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13333&name=橋本葵"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13333&name=Qべぇ"
+    }
+  ]
+};

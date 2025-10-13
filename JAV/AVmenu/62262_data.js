@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/21/90ad0cdd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62262,
+  "IDcode": "FNS-046",
+  "title": "おざなりな塩対応J系を一晩中ねぶり尽くす粘着P活性交 時田亜美 パンティと写真付き",
+  "publish_date": "2025-07-24",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "戏剧",
+    "乳交",
+    "内衣",
+    "口交",
+    "舔阴",
+    "手指插入",
+    "手淫",
+    "接吻",
+    "学校泳装",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62262",
+  "actresses": []
+};

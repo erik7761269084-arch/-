@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241031/ZYuv4D4f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94759,
+  "IDcode": "SUJI-244",
+  "title": "パイパン●学少●中出し淫交映像12人4時間",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "无毛",
+    "女生",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94759",
+  "actresses": [
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94759&name=工藤拉拉"
+    }
+  ]
+};

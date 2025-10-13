@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65748,
+  "IDcode": "259864E0A2E10831261A84C4CEDCB976",
+  "title": "在淫秽色情可爱服装中连续nuki的这顿风土人情全餐",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65748",
+  "actresses": []
+};

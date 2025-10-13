@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/13/d16a162e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82779,
+  "IDcode": "JUY-936",
+  "title": "24時間いつでもどこでも種付け性交に励む妊活中毒の巨乳嫁 稲場るか",
+  "publish_date": "2019-08-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "新娘，年轻妻子",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82779",
+  "actresses": [
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82779&name=稻场流花"
+    }
+  ]
+};

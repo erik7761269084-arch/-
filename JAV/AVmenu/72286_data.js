@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/31/d040e702/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72286,
+  "IDcode": "BLK-436",
+  "title": "修学旅行先逆NTR 生意気ギャル生徒を看病するためまさかの相部屋に…イタズラ誘惑にフル勃起で何度も中出ししまくってしまった教諭。 渚みつき",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "中出",
+    "荡妇",
+    "女生",
+    "瘦小身型",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/3eb5518c9341bbecad90058dd4f8a596.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72286",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72286&name=渚光希"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221118/51703DA2ECB73743/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38674,
+  "IDcode": "F09A6A90C67E18F9CC6DA6D979D-61402",
+  "title": "韩国御姐在被操时仍不忘学习",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38674",
+  "actresses": []
+};

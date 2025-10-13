@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/fWi810GC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93048,
+  "IDcode": "MIAA-156",
+  "title": "鶯谷で超人気！ 赤ちゃんに戻れる大人のおっぱいチューチュー授乳風俗店 松本菜奈実",
+  "publish_date": "2019-10-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "手淫",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93048",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93048&name=松本菜奈実"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240609/Aa2ffXO4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103978,
+  "IDcode": "SDJS-105C",
+  "title": "宮崎玲 初次內射 公司下班後 在飯店內小穴不斷被精液射入直到天明…",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103978",
+  "actresses": []
+};

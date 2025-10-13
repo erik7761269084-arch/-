@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/06/e3df1d72/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84023,
+  "IDcode": "BLK-515",
+  "title": "いますぐファックミー 即ハボギャルと朝からホテルで酒飲みまくりSEXしまくり",
+  "publish_date": "2021-08-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "高",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230103-1/fdf99679146e877e6019570723a0025a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84023",
+  "actresses": []
+};

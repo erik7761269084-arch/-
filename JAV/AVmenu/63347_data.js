@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/44ab04d1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63347,
+  "IDcode": "GTJ-163M",
+  "title": "gtj-163Mドラッグ女体肉便器 雨村梨花",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63347",
+  "actresses": []
+};

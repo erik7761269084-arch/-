@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/877ae0bb-245a-4a73-81d6-ec7ef3ae9faf/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241011/62eU0WPq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13584,
+  "IDcode": "NGOD-215",
+  "title": "橘瑪麗貪婪的看着大雞巴勃起後成爲他的情婦",
+  "publish_date": "2024-07-10",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "小三・情人",
+    "性感",
+    "內衣",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "偷竊",
+    "按摩棒",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/a40a28eb-3149-411a-bcee-bb58006ae92a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/a40a28eb-3149-411a-bcee-bb58006ae92a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13584",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13584&name=橘瑪麗"
+    }
+  ]
+};

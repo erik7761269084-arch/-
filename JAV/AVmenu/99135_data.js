@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230130/FC4E28A625B607FA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99135,
+  "IDcode": "Carib122918-823",
+  "title": "神南ひかり~渋谷まなか蝶が如く-ピンク通りの二輪車ソープランド7-",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99135",
+  "actresses": []
+};

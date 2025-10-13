@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230131/vA4ctNYb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86005,
+  "IDcode": "RCTD-487",
+  "title": "シン・ボディジャック PART.2",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "高中女生",
+    "妄想",
+    "女同性恋",
+    "女教师",
+    "性转换·女体化"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86005",
+  "actresses": [
+    {
+      "name": "天然美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/56ddbd44-256a-4ecb-ab3f-a7ffa30baf55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86005&name=天然美月"
+    },
+    {
+      "name": "美里麻衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250421/73422bff-d7ae-4659-acf6-a38093e1920a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86005&name=美里麻衣"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86005&name=纱々原ゆり"
+    }
+  ]
+};

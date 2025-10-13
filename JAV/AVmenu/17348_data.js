@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e7ae7aeb-356b-4029-bdaa-46664cdb26ad/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/01/77a4713a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17348,
+  "IDcode": "IPZZ-154",
+  "title": "「射精後我還會繼續舔你。」射精後仍吸吮並擊倒的甜美虐待狂蕩婦。總共 11 次！ ！",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "吞精",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "美腳",
+    "按摩・美容店",
+    "過膝襪・小腿襪"
+  ],
+  "description": "IPZZ-154为IDEA POCKET出品,2023年12月13日发行的有碼成人影片由明里紬出演\n小恶魔的追求奶嘴！总共开了11枪！即使我射了，明里紬也会吸两次！ ！女人要吃它，让它勃起，用力扭！ ！明里紬愤怒的追逐口交！ ！口中射精！ ！需要清洁口交！ ！主观性很强！永远不要停止口交！用口交将其拔出，插入，明里紬然后再次吸吮！这是最好的！ ！即使你射精了，明里紬也会让你再次射精！ ？ “让我一遍又一遍地射精，哈哈”\n小恶魔的追求奶嘴！总共开了11枪！即使我射了，明里紬也会吸两次！ ！女人要吃它，让它勃起，用力扭！ ！明里紬愤怒的追逐口交！ ！口中射精！ ！需要清洁口交！ ！主观性很强！永远不要停止口交！用口交将其拔出，插入，明里紬然后再次吸吮！这是最好的！ ！即使你射精了，明里紬也会让你再次射精！ ？ “让我一遍又一遍地射精，哈哈”",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/196709d1-5901-4a19-8738-ee24845b3bfa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/196709d1-5901-4a19-8738-ee24845b3bfa.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17348",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17348&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17348&name=明里䌷"
+    }
+  ]
+};

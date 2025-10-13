@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65294,
+  "IDcode": "DBFBB0475247BB1A9678B60FA705C6D0",
+  "title": "[日本] 大岛优香破坏版AV～被老公上司连干7天到理性全失的美艳人妻～ (JUX-921)",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65294",
+  "actresses": []
+};

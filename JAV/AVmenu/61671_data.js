@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/28/a24464b7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61671,
+  "IDcode": "WA-566",
+  "title": "イケメン専門女性用風俗を覗き見しちゃいました！ 性欲剥き出し妻は【本番NG】行為をガマンできたのか！？",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "女上位",
+    "按摩",
+    "乳液",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61671",
+  "actresses": []
+};

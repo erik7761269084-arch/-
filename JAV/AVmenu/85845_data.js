@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230129/yllCs36b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85845,
+  "IDcode": "OIGS-044",
+  "title": "縄酔い人妻 緊縛不倫温泉 浜崎真緒",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "已婚妇女",
+    "捆绑",
+    "出轨",
+    "拘束",
+    "新娘，年轻妻子",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230130-1/8ad6ee064184b8012e89379638a08be9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85845",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85845&name=浜崎真绪"
+    }
+  ]
+};

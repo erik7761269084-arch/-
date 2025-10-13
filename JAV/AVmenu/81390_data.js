@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221012/RfV3Qimw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81390,
+  "IDcode": "VRTM-450",
+  "title": "突然やってきた営業レディは媚薬を飲むと、黒パンストを擦りつけながら淫らに股間を滴らせ、カニバサミで中出しを求めた！ SPECIAL 凛音とうか＆ましろ杏",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "各种职业",
+    "屁股",
+    "制服",
+    "足交",
+    "企画",
+    "连裤袜",
+    "恋腿癖",
+    "药物",
+    "故事集",
+    "素人作品",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81390",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81390&name=凛音とうか"
+    },
+    {
+      "name": "真城杏",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/389f107a3671aea29c8d49d40657ceb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81390&name=真城杏"
+    }
+  ]
+};

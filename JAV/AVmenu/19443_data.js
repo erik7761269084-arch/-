@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230507/e550c6fb-8742-4f65-9c6d-fe2c8e0dee57/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19443,
+  "IDcode": "HOBD-00007",
+  "title": "明日花綺羅最精選 高畫質★特輯 Vol.2",
+  "publish_date": "2009-07-21",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "美乳",
+    "女上位",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230507/f7b08ec6-5958-4a9b-9c9c-43e2e62271e1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230507/f7b08ec6-5958-4a9b-9c9c-43e2e62271e1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19443",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19443&name=明日花綺蘿"
+    }
+  ]
+};

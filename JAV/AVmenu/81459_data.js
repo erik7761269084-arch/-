@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/VQIxYI4t/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81459,
+  "IDcode": "AP-757",
+  "title": "巨乳ナース 巨乳揉みしだき追いかけ回し痴●",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "凌辱",
+    "制服",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81459",
+  "actresses": [
+    {
+      "name": "星咲ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20240118/92c6b512-ec6c-4ef2-841a-e889eed8c89e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81459&name=星咲ひな"
+    },
+    {
+      "name": "三岛奈津子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9727b9923af1f3fc59264baa0c48b31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81459&name=三岛奈津子"
+    },
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81459&name=瀬戸すみれ"
+    },
+    {
+      "name": "一ノ瀬菫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81459&name=一ノ瀬菫"
+    },
+    {
+      "name": "本桥実来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81459&name=本桥実来"
+    }
+  ]
+};

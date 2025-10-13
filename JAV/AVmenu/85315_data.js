@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/30/f7b8493d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85315,
+  "IDcode": "MIAA-619",
+  "title": "嫁の連れ子がド痴女。愛くるしい笑顔とはギャップすぎるテクで中出しまで誘惑してくる 工藤ララ",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/209e41762ee813b093a8be0b22bc1caa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85315",
+  "actresses": [
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85315&name=工藤拉拉"
+    },
+    {
+      "name": "森萤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85315&name=森萤"
+    }
+  ]
+};

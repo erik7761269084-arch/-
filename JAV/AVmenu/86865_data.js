@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230213/tWEVEOYo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86865,
+  "IDcode": "CPDE-039",
+  "title": "最強属性39 美甘りか",
+  "publish_date": "2020-03-27",
+  "type": "有码",
+  "company": "最強屬性",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "角色扮演者",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86865",
+  "actresses": []
+};

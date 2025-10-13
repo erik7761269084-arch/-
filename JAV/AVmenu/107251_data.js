@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/11/e249112d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107251,
+  "IDcode": "SSIS-845",
+  "title": "乳だけは大人に実った彼女の妹が学校で習った‘SEX’に興味津々すぎて無邪気に僕をムラムラさせてきます！ 安達夕莉 生写真3枚付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "主观视角",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/10/4eec2a6658b80a96881bc346f1c16cfd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107251",
+  "actresses": [
+    {
+      "name": "安達夕莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e2c4dbd3-b98d-44e4-aad6-083b0cb67070.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107251&name=安達夕莉"
+    }
+  ]
+};

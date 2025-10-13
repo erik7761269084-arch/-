@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3de07737-54aa-4be7-bb87-f9b6475342f5/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/05/37dea9c9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13058,
+  "IDcode": "SSNI-348",
+  "title": "喜歡玩弄男人的敏感邪惡小惡魔 ~ 橋本有菜",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "故事集",
+    "劇情",
+    "淫亂",
+    "按摩女郎",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "淫語",
+    "少女",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "護士",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾"
+  ],
+  "description": "SSNI-348为S1出品,2018年11月19日发行的有碼成人影片由新有菜出演\nS-1 的新項目邀請男性透過無情的乳頭遊戲來體驗令人顫抖的快感，並讓他們多次射精！ ！ ！你感覺到的是乳頭還是雞雞？即使它被插入，我也會舔它，並且在接吻時擠壓我的乳頭。 「男人的感覺也很好……」好好看看她挺立的乳頭！痛苦中的12槍！ ！以各種姿勢捏、玩、舔、吸吮，以獲得融化的快感。放蕩少女被折磨得快掉頭髮了！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240728/20240728232520980980.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240728/20240728232520980980.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13058",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13058&name=新有菜"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39600,
+  "IDcode": "523D2EC504C6F0124253F247E1DC65C3",
+  "title": "一条龙服务~真爽",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39600",
+  "actresses": []
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230318/F22AD89B1D938A59/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104211,
+  "IDcode": "MIDD-712",
+  "title": "本番解禁 フェラドルの初SEX 谷村早苗",
+  "publish_date": "2010-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "颜射",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd712/midd712pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104211",
+  "actresses": [
+    {
+      "name": "谷村早苗",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104211&name=谷村早苗"
+    }
+  ]
+};

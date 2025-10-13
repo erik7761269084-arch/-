@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/54e8d754-ad48-450f-b51e-40aded068ba2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/22/0af91e6d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8795,
+  "IDcode": "TPPN-257",
+  "title": "到達最高高潮點的愛神開放！勢不可擋的連續中出、連續顏射，本能的出汗中出性愛 ~ 美咲佳奈",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "TEPPAN 鐵板",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "短髮",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250125/20250125091303823823.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250125/20250125091303823823.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8795",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8795&name=美咲佳奈"
+    }
+  ]
+};

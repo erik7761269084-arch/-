@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/20/fd1eb3c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72355,
+  "IDcode": "ALDN-413",
+  "title": "たびじ 母と子のふたり旅 白木優子",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/02/20/bf19def9c98083c945f2510ffd7655a9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72355",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72355&name=白木優子"
+    },
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72355&name=ミチくん"
+    }
+  ]
+};

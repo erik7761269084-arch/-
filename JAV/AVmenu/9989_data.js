@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c09b1694-c75f-40ca-9788-27ebdeaa6274/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9989,
+  "IDcode": "PPPE-292",
+  "title": "乳頭揉蕩 暗黑癡女 Gal母狗女搜查官爲了情報讓黑社會隨便操 ~ AIKA",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "戰鬥行動",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "金髮",
+    "明星臉",
+    "黑幫",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "心理驚悚",
+    "辣妹/GAL系",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "女搜查官",
+    "野性",
+    "肌肉"
+  ],
+  "description": "PPPE-292为OPPAI出品,2024年12月17日发行的有碼成人影片由AIKA出演\n代號為AK的男子為了從據稱與大麻組織Flame有聯繫的一家大型製藥公司的開發經理千葉道三那裡獲取信息，利用每週四設置的送貨娛樂業務來聽取新女孩的信息。被提名，他進行臥底調查，卻秘密潛入熟食妓院獲取大麻組織的情報……他對多名男性進行色情行動，以在資訊戰中獲得優勢。一個玩弄VIP，提取必要訊息，吞下精子後就停止呼吸的黑暗蕩婦…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073314349349.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211073314349349.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9989",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9989&name=AIKA"
+    }
+  ]
+};

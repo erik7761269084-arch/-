@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/LOwmF1A3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82859,
+  "IDcode": "GENM-008",
+  "title": "寝取らせ露出-新しい刺激の記録- 吉澤友貴",
+  "publish_date": "2019-03-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "多P",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82859",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82859&name=吉泽友贵"
+    }
+  ]
+};

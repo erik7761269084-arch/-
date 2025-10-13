@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2685ef24-aecc-4aac-bac8-ea92d955c56b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11639,
+  "IDcode": "CAWD-736",
+  "title": "100%原始中出男性美學與性感纖細治療師 ~ 雙葉麗奈",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "臀控",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "癡女",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "CAWD-736为KAWAII出品,2024年10月1日发行的有碼成人影片由雙葉麗奈出演\n苗條美少女雙葉玲奈首蕩婦作品&中出公開！ 10次射精全部量大！臉上帶著邪魅的笑容，充分利用自己訓練有素的曲線身材，徹底生吃一切！原始口交，原始打手槍，原始陰道插入！ 100%回春美容，完全被動也OK！在消除疲勞的同時，也可以為不安的性慾排毒！多巴胺和精子都充滿療癒和快感！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926090148158158.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/20240926090148158158.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11639",
+  "actresses": [
+    {
+      "name": "雙葉麗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240803/60b52a82-fa02-4e85-8dac-3c0ed3a66d47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11639&name=雙葉麗奈"
+    }
+  ]
+};

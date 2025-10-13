@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b7b4fa3c-ce34-41c2-b64d-2a86a2bed93c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/0c1be7a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5044,
+  "IDcode": "SDJS-312",
+  "title": "文系祕書上班時間偷偷溜出來瘋狂高潮 大屌猛攻 假陽具自慰 抹油玩法 快來3P SOD總務部祕書 ~ 守屋よしの",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "濕身",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "OL",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "顏射",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "女秘書",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "手指插入",
+    "公共場所",
+    "辦公室",
+    "地味",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "眼鏡",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "SDJS-312为SOD出品,2025年6月24日发行的有碼成人影片由守屋よしの出演\n【@suisuisuimming】高冷秘書守屋よしの第二次AV登場！聽說公司高層不滿意上部片子，覺得太色還不夠過癮，這次一定要看到更騷更浪的守屋醬！於是直接把專業男優叫到SOD總部，上班時間直接開幹，讓她爽到不行！大屌猛插、玩具自慰、滑溜溜的油膩玩法，還有刺激的3P，保證讓你看得心癢癢！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204641802802_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204641802802_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5044",
+  "actresses": [
+    {
+      "name": "守屋よしの",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250526/e5775e0d-f7b6-4171-b04e-2571d2fd81cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5044&name=守屋よしの"
+    }
+  ]
+};

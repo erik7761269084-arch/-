@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de44e104-0677-45da-a1b6-eb3a3f92a0a1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5850,
+  "IDcode": "REAL-913",
+  "title": "天天被絕倫老色鬼強奸的痛苦生活 ~ 北岡果林",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "孙女・爷爷",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "傲嬌",
+    "變態",
+    "校花",
+    "色白",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "接吻",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "母親",
+    "大奶头",
+    "亂倫",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "REAL-913为K.M.P出品,2025年5月24日发行的有碼成人影片由北岡果林出演\n我爷爷为了省钱，从养老院搬出来跟我一起住。妈因为爸去世的打击，身体一直不太好。生活虽然艰难，但我还是尽力让自己过得开心点。可我有个超级大的烦恼，那就是……每天都被这绝伦老色鬼折磨，强制播种的日子简直要命！那种羞耻和痛苦，真的让人崩溃啊！小伙伴们，你懂那种无处可逃的绝望感吗？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235246381381_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235246381381_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5850",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5850&name=北岡果林"
+    }
+  ]
+};

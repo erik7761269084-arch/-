@@ -37,7 +37,7 @@ body {
     max-height: 900px;
     object-fit: contain;
     border-radius: 10px;
-    display: block; /* ✅ 普通流布局 */
+    display: block;
 }
 #overlay {
     position: absolute;
@@ -72,8 +72,7 @@ body {
 
 /* ✅ 右侧信息卡片 */
 .right-panel {
-    width: 300px;
-    height: 400px; /* 固定高度 */
+    width: 320px;
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -82,11 +81,41 @@ body {
     padding: 12px;
     box-shadow: 0 0 10px rgba(0,0,0,0.4);
 }
-.right-panel .cover img {
-    width: 150px;
-    height: 200px; /* ✅ 改为矩形头像比例 */
+
+/* ✅ 女优头像卡 */
+.actress-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.actress-card {
+    position: relative;
+    width: 90px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.actress-card img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border-radius: 8px; /* ✅ 轻微圆角 */
+    transition: transform 0.3s;
+}
+.actress-card:hover img {
+    transform: scale(1.05);
+}
+.actress-card .name {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px 4px;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 /* ✅ 视频下方信息栏 */
@@ -99,7 +128,7 @@ body {
   padding: 12px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  margin-top: 15px; /* ✅ 确保与视频有间距 */
+  margin-top: 15px;
 }
 
 /* ✅ 番号黄色字体 */
@@ -171,16 +200,15 @@ body {
 
     <div class="right-panel">
         <div class="playlist" id="playlist"></div>
+
         <div class="details">
-            <div class="cover">
-                <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
-            </div>
+            <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
         </div>
+
+        <!-- ✅ 新增女优卡片展示区域 -->
         <div class="details">
-            <div class="cover">
-                <p><strong>出演女优:</strong> <span id="actors"></span></p>
-                <img id="coverImg" src="" alt="女优头像">
-            </div>
+            <p><strong>出演女优:</strong></p>
+            <div class="actress-grid" id="actressGrid"></div>
         </div>
     </div>
 </div>
@@ -189,16 +217,13 @@ body {
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
 const overlay = document.getElementById('overlay');
-const coverImg = document.getElementById('coverImg');
-// const infoTitle = document.getElementById('info_title'); // ❌ 删除
-// const metaEl = document.getElementById('meta');           // ❌ 删除
 const bottomTitle = document.getElementById('bottom_title');
 const categoryEl = document.getElementById('category');
 const companyEl = document.getElementById('company');
 const idcodeEl = document.getElementById('idcode');
-const actorsEl = document.getElementById('actors');
 const descriptionEl = document.getElementById('description');
 const publishEl = document.getElementById('publish_date');
+const actressGrid = document.getElementById('actressGrid');
 let currentIndex = 0;
 
 function getSeriesName() {
@@ -225,12 +250,27 @@ function initPlayer() {
   bottomTitle.textContent = seriesInfo.title || "剧名";
   idcodeEl.textContent = seriesInfo.IDcode || "";
   companyEl.textContent = seriesInfo.company || "";
-  actorsEl.textContent = seriesInfo.actress || "";
   descriptionEl.textContent = seriesInfo.description || "";
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
-  if (seriesInfo.img_url) coverImg.src = seriesInfo.img_url;
 
+  // ✅ 生成女优卡片
+  actressGrid.innerHTML = "";
+  if (Array.isArray(seriesInfo.actresses)) {
+    seriesInfo.actresses.forEach(actor => {
+      const card = document.createElement('div');
+      card.className = "actress-card";
+      card.innerHTML = `
+        <a href="${actor.profile_url}" target="_blank">
+          <img src="${actor.img_url}" alt="${actor.name}">
+          <div class="name">${actor.name}</div>
+        </a>
+      `;
+      actressGrid.appendChild(card);
+    });
+  }
+
+  // ✅ 生成播放列表
   playlist.innerHTML = "";
   Object.entries(episodes).forEach(([ep, url], index) => {
     const btn = document.createElement('button');

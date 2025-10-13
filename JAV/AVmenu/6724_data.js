@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6cb4bf43-012c-407a-98e0-5f6624272d29/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/261235b7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6724,
+  "IDcode": "JUR-238",
+  "title": "獨家G杯美巨乳大公開！請來蹂躪寢取我聽話的小騷妻 ~ 藤森裏穂",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "4K",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "多P",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "羞恥",
+    "飯店",
+    "芸能人"
+  ],
+  "description": "JUR-238为MADONNA出品,2025年4月18日发行的有碼成人影片由藤森里穂出演\n老夫老妻的我，最大的癖好就是看着我家藤森裏穂那G杯大奶妹子騷浪賤的樣子被別人欣賞！每個月一次的夫妻夜生活，我都給她穿上超變態的cosplay服裝，拍下照片和視頻偷偷傳到網上炫耀。甚至還把她拉到酒店走廊上，當衆玩弄讓她暴露在衆人目光下……看着她被這種玩法搞得興奮到不行，我終於下定決心，把她送給別的男人隨便玩，滿足我那扭曲的欲望！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092433222222_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092433222222_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6724",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6724&name=藤森里穂"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6724&name=ナイアガラ翔"
+    }
+  ]
+};

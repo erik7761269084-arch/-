@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/01/d0ed9ce5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107018,
+  "IDcode": "IPZZ-099",
+  "title": "夏休み、地味なメガネ図書館司書が閉館後汗だくでいつもボクのち○ぽをゆっくり味わうように痴女る。 古川ほのか",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "苗条",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/10/01/ae07f56d2410aba39b7a22961d31b465.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107018",
+  "actresses": []
+};

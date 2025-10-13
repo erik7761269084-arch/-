@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ac753b4b-d8b7-48c8-977d-cb40dc00f686/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16102,
+  "IDcode": "JUQ-569",
+  "title": "公司的每個人都是受虐狂。擔任管理職位的中年噴淫液的已婚人妻，在幕後控制着充滿扭曲性傾向的辦公室的虐待狂蕩婦 三浦歩美",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "輪姦",
+    "多P",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "熟女"
+  ],
+  "description": "JUQ-569为MADONNA出品,2024年2月27日发行的有碼成人影片由愛弓涼出演\n我在這家公司工作了六年，不知不覺間，三浦歩美 就成了唯一的女性員工。盡管他喜歡自己的工作，但他厭倦了不滿意的同事、下屬和老板。這時，我開始感到奇怪的目光，當我打開上班的紙箱時，我發現裏面有項圈和成人用品。第二天，她遇到一名偷偷溜進女廁所的男員工，懇求他訓練她。亮很困惑，但當他踐踏一名男員工時，他內心深處潛伏的虐待狂綻放了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224070318297297.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240224/20240224070318297297.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16102",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16102&name=愛弓涼"
+    }
+  ]
+};

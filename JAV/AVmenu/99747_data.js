@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230220/02E7BF6B45FCEC5A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99747,
+  "IDcode": "APKH-094",
+  "title": "ご奉仕系・制服美少女H 相手の事が気に入れば、オ○ンチンはもとより、アナルまでベロベロ舐めてあげるんです...。 あゆみ莉花",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "中出",
+    "第一人称摄影",
+    "颜射"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/apkh094/apkh094pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99747",
+  "actresses": [
+    {
+      "name": "あゆみ莉花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99747&name=あゆみ莉花"
+    }
+  ]
+};

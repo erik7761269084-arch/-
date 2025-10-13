@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/AA1FA98DD31F2E33/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35758,
+  "IDcode": "ED2CE9057C5832B07A8A206F73FA80C-9",
+  "title": "赤いビキニの2穴が同時に挿入される",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35758",
+  "actresses": []
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7e0d6012-3e1f-46f1-973c-65a79ff03ab7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17201,
+  "IDcode": "SSNI-034",
+  "title": "《NTR 》在丈夫面前被強姦 - 妻子奥田咲被瘋狂雞巴强奸～",
+  "publish_date": "2017-11-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "在丈夫面前被操",
+    "美乳",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "熟女",
+    "大雞巴",
+    "薄碼"
+  ],
+  "description": "SSNI-034为S1出品,2017年11月1日发行的有碼成人影片由奥田咲出演\n人氣NTR係列『在丈夫面前性交』演員『奧田咲』主演的作品！奧田咲和正宏的婚姻生活很幸福，儘管他們並不富裕。有一天，當正宏外出工作時，他給承包商打電話，因為他家的水無法正常工作，而一件不幸的事件發生了，改變了他們兩人的生活…\n\n人氣NTR係列『在丈夫面前性交』演員『奧田咲』主演的作品！奧田咲和正宏的婚姻生活很幸福，儘管他們並不富裕。有一天，當正宏外出工作時，他給承包商打電話，因為他家的水無法正常工作，而一件不幸的事件發生了，改變了他們兩人的生活…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231218/2fc1cf64-01a9-40f9-bf41-601aed561a43.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231218/2fc1cf64-01a9-40f9-bf41-601aed561a43.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17201",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17201&name=奥田咲"
+    }
+  ]
+};

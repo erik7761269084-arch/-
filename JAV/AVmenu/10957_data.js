@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c6ecd5d3-6f07-4cbd-94d1-4ecae1055762/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/16/91c58ad7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10957,
+  "IDcode": "CAWD-755",
+  "title": "和有着稚氣的笑容，可愛的八重齒和蘿莉臉的風俗娘的極上射精體驗技術 ~ 花乃春日",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "蘿莉",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "淫語",
+    "中囯服裝",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "清純",
+    "癡女",
+    "抹油",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "CAWD-755为KAWAII出品,2024年11月5日发行的有碼成人影片由花乃春日出演\n出道作品成為最受歡迎的AV女優！花野春日宣布從女僕轉型為AV女優，我以為她是一個童話般的女孩，擁有少年偶像般的蘿莉般的外表和讓人無法自拔的甜美聲音。 ！花野春日有膽量！這次的作品是假設她在一家沒有除毛的健康男性美容院工作的作品。她是新人，不知道左右，所以她說，“大家都會偷偷拔出來”，“如果你讓我插3厘米的尖端，我下次就選你。” ”“我會讓你成為第一，所以讓我和你發生性關係。也許我被騙了？我對此有些懷疑，但我不想讓眼前的男顧客失望，我也想讓自己感覺良好，所以我盡力給自己一個調皮的服務。我會立即被殺，如果我想成為顧客第一，我可能會和你發生關係…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031073840940940.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031073840940940.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10957",
+  "actresses": [
+    {
+      "name": "花乃春日",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/50537ab5-f6e1-415b-b2d0-9d7faa087eb5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10957&name=花乃春日"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10957&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10957&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240411/pr3bpFJ3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101778,
+  "IDcode": "LUXU-1605",
+  "title": "ラグジュTV 1624 『男優さんとエッチしてみたかったんです…』フェロモン漂う三十路塾講師がラグジュTVに登場！たわわに実った柔らかバストを弾ませながら、快楽に酔いしれるオトナの濃厚セックス！",
+  "publish_date": "2022-11-04",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101778",
+  "actresses": []
+};

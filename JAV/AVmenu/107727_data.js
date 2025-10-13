@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/02/05ac7b68/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107727,
+  "IDcode": "JUFD-824",
+  "title": "恥辱の生尻肛門調教 かなで自由 肛衆便所にされたオフィスレディ",
+  "publish_date": "2017-11-14",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "肛交",
+    "白天出轨",
+    "二穴同时挿入",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107727",
+  "actresses": [
+    {
+      "name": "奏自由",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/b56a5d8f-b017-4287-9e9a-bc04d7ba82ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107727&name=奏自由"
+    }
+  ]
+};

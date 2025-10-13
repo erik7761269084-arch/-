@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8701afcd-d4f7-43eb-9bd2-0fa60414936b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1366,
+  "IDcode": "HEYZO-2691",
+  "title": "大量中出到精緻美麗的女孩，不問任何問題 x 2 - 標題",
+  "publish_date": "2021-12-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "素人作品",
+    "牛仔褲",
+    "素人",
+    "刺青紋身"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230719/20230719024654585585.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230719/20230719024654585585.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1366",
+  "actresses": []
+};

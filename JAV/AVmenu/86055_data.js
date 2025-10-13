@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230201/qa1UuyZ4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86055,
+  "IDcode": "ROYD-096",
+  "title": "淡白な夫婦SEXに飽きた妊活巨乳兄嫁の都合の良いセフレになった僕。 蜜美杏",
+  "publish_date": "2022-06-28",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "新娘，年轻妻子",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86055",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86055&name=藤井蘭々"
+    }
+  ]
+};

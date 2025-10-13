@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/06/319d3b9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85344,
+  "IDcode": "MIAA-675",
+  "title": "【FANZA限定】彼女と念願の初SEX！…のはずがフェラの最中で女上司に呼び出され、 生殺し勃起チ○ポがバレて10発中出しするまで逆セクハラ性交され続けた… 水川スミレ 生写真3枚付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "荡妇",
+    "手淫",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85344",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85344&name=水川蓳"
+    }
+  ]
+};

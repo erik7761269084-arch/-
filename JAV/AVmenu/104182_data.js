@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/17/fdfd6240/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104182,
+  "IDcode": "STAR-822",
+  "title": "菊川みつ葉は変態中年男の専用肉便器",
+  "publish_date": "2017-09-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "玩具",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1star822/1star822pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104182",
+  "actresses": [
+    {
+      "name": "菊川みつ叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104182&name=菊川みつ叶"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d58102ae-0630-4bb3-bc85-d1cebf4c3c0b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15580,
+  "IDcode": "JUQ-600",
+  "title": "現場美容NTR - 隔着薄布對人妻進行猥褻處理達到高潮 ~ 藤環奈",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "在丈夫面前被操",
+    "3P・4P",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "色白",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "按摩・美容店",
+    "人妻",
+    "出軌",
+    "抹油",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-600为MADONNA出品,2024年4月9日发行的有碼成人影片由藤環奈出演\n與妻子卡娜結婚五年後的某天，我接到一個陌生號碼的電話。打電話的人是他的前老闆大島，他曾經競爭過總經理一職。他們開始了一項新的商務旅行服務，並希望我和卡納嘗試。雖然有過往的聯繫，但聽到大島明亮的聲音，我還是鬆了一口氣，爽快地答應了。然後，到了約定的日子，本來應該是一對美容會議，但我和神無之間有一個隔間，只有我被蒙住眼睛和耳機，因為這應該是有效的。我沒想到我的妻子會在我面前被戴綠帽子...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406053539426426.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240406/20240406053539426426.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15580",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15580&name=藤環奈"
+    }
+  ]
+};

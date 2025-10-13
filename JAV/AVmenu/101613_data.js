@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240331/7wfVWozP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101613,
+  "IDcode": "MAAN-961",
+  "title": "【パイパン美尻ナース】仕事のストレスはSEXで発散！夜勤明けのマ●コはぬるぬる大洪水！！精子大好き！「ワタシのエナドリ！」お口とマ●コで精子採取！中出し精子は掻き出して飲み干す淫獣看護師登場！！【即ヤリゲッチュー】【ゆい】",
+  "publish_date": "2024-03-10",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "无毛",
+    "角色扮演",
+    "屁股",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1711maan961/h_1711maan961pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101613",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101613&name=天馬唯"
+    }
+  ]
+};

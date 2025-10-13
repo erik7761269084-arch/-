@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/vL5MrNv7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77390,
+  "IDcode": "APNS-161",
+  "title": "あなたに見られながら輪●されるって興奮します... 極太肉棒で貫かれ、夫の前で堕とされた巨乳美人女将 音海里奈",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "戏剧",
+    "中出",
+    "多P",
+    "颜射",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77390",
+  "actresses": [
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77390&name=平井シンジ"
+    },
+    {
+      "name": "音海里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77390&name=音海里奈"
+    }
+  ]
+};

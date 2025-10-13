@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/213886a2-1fb0-4130-be86-72a58f5f28d1/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/07/c26477a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9043,
+  "IDcode": "MIMK-196",
+  "title": "你憧憬的人已經完蛋了！真人實寫版：喜歡了三年的老師被朋友吃了…… ~ 都月楓",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "圣诞衣",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "美腳",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "無毛",
+    "情趣飯店",
+    "飯店"
+  ],
+  "description": "MIMK-196为MOODYZ出品,2025年1月21日发行的有碼成人影片由都月楓出演\n如果畢業前按一下，說不定我也能擁有一台！我很想和麗莎約會！我最喜歡的老師，俗稱麗莎，自從我進入學校以來就一直在追我。在我意識到之前，我和我的朋友萬平在我們的智慧型手機上建立了一個“麗莎圖書館”，裡面有數千張照片。啊，好年輕啊！永恆的嚮往！有一天，當我因為考上了自己想上的大學並被確認為浪人而垂頭喪氣時，我讓他給我看萬平的文件夾作為安慰，在那裡我發現了一張照片，我的文件夾裡從來沒有見過...什麼，這是約會嗎？謊言，告訴我這是謊言！我們應該在同一個dohyo！當她看到自己敬佩的老師被自己看不起的朋友滿平吃掉時，她精神崩潰了！怎麼會有這樣的人…我應該更喜歡他，可惡，他應該更主動一些…悔恨、嫉妒、屈辱、渴望……雖然我已經快要瘋了，但我的雞巴卻一直勃起！每張圖片3000日元，每段影片10,000日元…他過著浪人的生活，一邊看著自己崇拜的人被朋友弄髒，一邊徒勞地安慰自己。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/202501160728348787.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/202501160728348787.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9043",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9043&name=都月楓"
+    },
+    {
+      "name": "輝大",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9043&name=輝大"
+    }
+  ]
+};

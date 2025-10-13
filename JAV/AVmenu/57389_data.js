@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57389,
+  "IDcode": "77B2B0BAF8A719E402B903A674F95178",
+  "title": "老师让我忘记我的男人",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57389",
+  "actresses": []
+};

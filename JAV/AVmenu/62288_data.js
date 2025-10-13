@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/2d889e44/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62288,
+  "IDcode": "VSED-266",
+  "title": "温泉旅行で見たお婆ちゃんの裸体に思わず勃起してしまった僕は…3",
+  "publish_date": "2025-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62288",
+  "actresses": [
+    {
+      "name": "北森麻子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62288&name=北森麻子"
+    },
+    {
+      "name": "田所真纪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62288&name=田所真纪"
+    },
+    {
+      "name": "城美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62288&name=城美香"
+    }
+  ]
+};

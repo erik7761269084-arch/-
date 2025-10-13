@@ -1,0 +1,43 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100188,
+  "IDcode": "DOCP-037-",
+  "title": "欲求不満な名門女子大生が気弱なクラスメートを媚",
+  "publish_date": "2018-04-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "多P",
+    "女大学生",
+    "女同性恋",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100188",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100188&name=佐倉陽菜"
+    },
+    {
+      "name": "彩音遙菜",
+      "img_url": "https://picture.yoshiclub.xyz/20250105/a0aa4947-ba65-466f-a1d5-b90a1eee24cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100188&name=彩音遙菜"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100188&name=篠田优"
+    },
+    {
+      "name": "成沢めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100188&name=成沢めい"
+    }
+  ]
+};

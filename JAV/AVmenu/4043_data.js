@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d3329d47-e49c-4752-aee5-1c8af0e7250b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/4612c5a8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4043,
+  "IDcode": "APNS-377",
+  "title": "我超愛大叔的變態少女！被汗臭大叔們玷污到高潮內射墮落 ~ 雙葉麗奈",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "多P",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "自慰",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "APNS-377为AURORA PROJECT ANNEX出品,2025年6月7日发行的有碼成人影片由雙葉麗奈出演\n外表清純的女學生麗奈，常常跑去老爸開的工地幫忙，但她其實有個不可告人的小秘密！這妹子對大叔有種無法抵擋的癡迷，光是偷瞄工地上的大叔們就讓她心癢難耐。某天，她在工地偷偷拿起大叔的工裝猛吸味道，甚至還抓起電動按摩器自慰，結果被回來的工人逮個正著……從此，她純潔的外表被撕開，健康的肉體被淫蕩的汁液污染，清秀小臉因快感而扭曲，白嫩肌膚被大叔們玩到泛紅！她被徹底調教，被一群慾火焚身的大叔輪流上陣，爽到尖叫不停！一根根硬挺的肉棒塞滿她，連內射都不care，射得滿滿der！她嬌羞告白：「其實我是個變態女學生啦」「大叔真的讓我欲罷不能」「拜託讓我多舔幾根大肉棒嘛！」",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014913861861_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014913861861_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4043",
+  "actresses": [
+    {
+      "name": "雙葉麗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240803/60b52a82-fa02-4e85-8dac-3c0ed3a66d47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4043&name=雙葉麗奈"
+    }
+  ]
+};

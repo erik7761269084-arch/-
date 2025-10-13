@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/08/29/51367c3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79628,
+  "IDcode": "JUL-685",
+  "title": "31日間禁欲生活 ペニスが好きすぎる人妻の性欲爆発ドキュメント3本番！！ 長嶋沙央梨",
+  "publish_date": "2021-08-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "高",
+    "苗条",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/643bb47237d904f60f67d7d2ca352801.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79628",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79628&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/26/7c8034ca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95995,
+  "IDcode": "ALDN-357",
+  "title": "僕が会社を辞めない理由 菅日菜子",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "眼镜",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/09/26/52768fefa339c022cb89dd2794338b89.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95995",
+  "actresses": [
+    {
+      "name": "菅日菜子",
+      "img_url": "https://picture.yoshiclub.xyz/20240208/ec150d6e-8bf6-45ca-838e-ad76e79c8df1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95995&name=菅日菜子"
+    }
+  ]
+};

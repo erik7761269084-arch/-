@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241029/iVutuq6p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89423,
+  "IDcode": "STSK-087",
+  "title": "グラビアアイドル握手会イベント 02",
+  "publish_date": "2023-08-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "偶像",
+    "泳装",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/08e79d52e21862af605eafaf584394fe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89423",
+  "actresses": []
+};

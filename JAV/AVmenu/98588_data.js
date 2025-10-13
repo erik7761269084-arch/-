@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230107/C0011BC0D9AADB41/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98588,
+  "IDcode": "FSKI-005",
+  "title": "「イヤだとは言えない…」女子力UPを目指してやって来たエステ店で、女性施術師に身を委ね安心してたのに男性施術師に交代！？まんまと男の口車に乗せられ拒むことができず快楽に身を委ねてしまった制服美少女たちの性感オイルマッサージ2",
+  "publish_date": "2019-06-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "潮吹",
+    "乳液",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_491fski005/h_491fski005pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98588",
+  "actresses": [
+    {
+      "name": "相沢夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/1de5f1c6-0ffa-4d89-924e-44ecb752e374_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98588&name=相沢夏帆"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98588&name=向理来"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98588&name=椎叶みくる"
+    },
+    {
+      "name": "朝比奈しの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98588&name=朝比奈しの"
+    },
+    {
+      "name": "月宫こはる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98588&name=月宫こはる"
+    }
+  ]
+};

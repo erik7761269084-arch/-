@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/26/da0c4b38/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71997,
+  "IDcode": "SNIS-360",
+  "title": "保險女業務的枕營業 明日花綺羅",
+  "publish_date": "2015-03-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "薄马赛克",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/02/26/b22baab250e21eb73501986a68c4f21e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71997",
+  "actresses": [
+    {
+      "name": "明日花綺蘿",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/a5cac9f6-d99f-4c34-bad9-f5bc68b11d25.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71997&name=明日花綺蘿"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71997&name=しみけん"
+    }
+  ]
+};

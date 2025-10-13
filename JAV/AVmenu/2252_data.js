@@ -1,0 +1,63 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2252,
+  "IDcode": "SOAV-129",
+  "title": "人妻の浮気心~ 橘日向",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "三十路",
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "極品美人",
+    "豐滿",
+    "女優"
+  ],
+  "description": "SOAV-129为妄想族出品,2025年10月3日发行的有碼成人影片由橘日向出演\n结婚4年，橘日向一直把家庭和孩子放在第一位，自己的需求早就抛到脑后。虽然生活还算充实，但最近她发现老公对家里越来越不上心，内心的空虚和寂寞开始滋生。某天，她意外碰到学生时代的闺蜜，竟然得知对方成了性感女优！从那天起，她对成人行业好奇心爆棚，各种查资料后，自己也按捺不住想下海试水的冲动。终于鼓起勇气，她把自己的照片寄给了制作公司，想看看自己能不能也成为镜头前的尤物！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004015340812812_61745_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004015340812812_61745_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2252",
+  "actresses": [
+    {
+      "name": "橘日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/72d5e9fe-64e7-4966-9fe5-d356632397db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2252&name=橘日向"
+    }
+  ]
+};

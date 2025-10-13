@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230208/U1YcnjPb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86523,
+  "IDcode": "UMD-833",
+  "title": "産婦人科痴●！！16何も知らない若妻に治療と称して中出しまでっ！！",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86523",
+  "actresses": []
+};

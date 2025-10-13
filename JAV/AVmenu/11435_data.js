@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7071144d-a2ca-40a6-93e3-e2544c74f56d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11435,
+  "IDcode": "NACR-859",
+  "title": "大屁股練習生姐姐那訓練有素的筋肉身材在不知不覺中勾引人 ~ 倉與田",
+  "publish_date": "2024-10-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "臀控",
+    "中出",
+    "緊身衣",
+    "美臀",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "運動女孩",
+    "姐弟・兄妹",
+    "勾引・誘惑",
+    "美少女",
+    "自慰",
+    "亂倫",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241006/07a42c2b-0454-4033-a304-c4b4cd21c93f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241006/07a42c2b-0454-4033-a304-c4b4cd21c93f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11435",
+  "actresses": [
+    {
+      "name": "倉與田",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/35967812-d61d-4b9a-b662-9334d7ff9036.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11435&name=倉與田"
+    }
+  ]
+};

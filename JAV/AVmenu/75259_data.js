@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/aab6eac7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75259,
+  "IDcode": "AUKG-615",
+  "title": "人妻レズ覚醒 ～仲良し夫婦のスワッピングから始まる人妻同士のレズSEX！！～",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/aab6eac7/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75259",
+  "actresses": [
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75259&name=白河花清"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75259&name=纱々原ゆり"
+    }
+  ]
+};

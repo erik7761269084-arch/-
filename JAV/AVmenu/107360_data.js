@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/08/1e8aa1db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107360,
+  "IDcode": "RBD-975",
+  "title": "奴●色のステージ 調教の日々 新村あかり",
+  "publish_date": "2020-06-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "SM",
+    "肛交",
+    "二穴同时挿入"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107360",
+  "actresses": [
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107360&name=新村晶"
+    }
+  ]
+};

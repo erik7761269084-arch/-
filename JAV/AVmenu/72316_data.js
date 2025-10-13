@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/ac34b49b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72316,
+  "IDcode": "NHDTC-013",
+  "title": "指こねくり潮吹きアクメ 敏感な早漏マ○コを変態手マンで弄りまくれ 宇流木さららさんの紙パンティとチェキ付き",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "女大学生",
+    "颜射",
+    "潮吹",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/ac34b49b/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72316",
+  "actresses": []
+};

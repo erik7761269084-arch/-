@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241210/oDeUuZos/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76462,
+  "IDcode": "HUNTA-684",
+  "title": "上京して専門学校から徒歩5分のアパートに一人暮らし！しかし、そこにほぼ毎日誰かしらクラスの女子が泊まりに来る…。初めての一人暮らしで悠々…",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "淫乱，真实",
+    "姐姐",
+    "口交",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241210-1/adaf44527012b4033a4ae41c2f8c43c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76462",
+  "actresses": []
+};

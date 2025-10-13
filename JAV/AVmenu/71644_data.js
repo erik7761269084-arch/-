@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250303/qa99c9hR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71644,
+  "IDcode": "HUSR-200",
+  "title": "国際セックスへの執念！奇跡的にSNSで知り合った神話級韓流娘と韓国で待ち合わせてオフパコ！韓国現地女子シアちゃん＆ジンちゃんのセックスがスゴい…",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "苗条",
+    "业余",
+    "亚洲女演员",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71644",
+  "actresses": []
+};

@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/adce2d5d-d15c-483e-9954-358333a06067/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8370,
+  "IDcode": "TLDC-023",
+  "title": "最強人氣男優 vs 最強傳奇女優 絕對不射的男人和絕對讓你射的女人間的超強對決，SEX鐵人的絕對射精大賽 ~ 椿りか 水川潤 友田彩也香",
+  "publish_date": "2025-02-09",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "中囯服裝",
+    "舔陰",
+    "慾求不滿",
+    "綜藝",
+    "美腳",
+    "奇聞趣事",
+    "癡女",
+    "手指插入",
+    "奇異的",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250210/20250210043947429429.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250210/20250210043947429429.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8370",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8370&name=椿莉香"
+    },
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8370&name=水川潤"
+    },
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8370&name=友田彩也香"
+    }
+  ]
+};

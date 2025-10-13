@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f352804d-4304-4acf-af50-7d96c2d78e0e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/343a0604/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4477,
+  "IDcode": "MUKD-541",
+  "title": "學生黑歷史外流！兩個騷氣學姊喊來學弟開趴狂嗨3P，超真實性愛影片曝光",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "癡女",
+    "校園生活",
+    "雙飛",
+    "手指插入",
+    "兩女一男",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "無毛",
+    "口罩"
+  ],
+  "description": "MUKD-541为無垢出品,2025年7月11日发行的有碼成人影片由雙葉麗奈，南條彩出演\n兩個超辣學姊把學弟叫來，直接開幹3P，學生時代的瘋狂自拍影片竟然外流！青春期的狂野玩法，朋友間的真實性愛畫面，色氣滿滿到不行！輪流品嚐肉棒，爽到高潮不斷，這種青春誰不嫉妒？絕對是當事人一輩子的黑歷史，制服誘惑、內射玩法、後宮3P，現代性教育的徹底崩壞啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042926757757_68301_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042926757757_68301_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4477",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4477&name=南條彩"
+    },
+    {
+      "name": "雙葉麗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240803/60b52a82-fa02-4e85-8dac-3c0ed3a66d47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4477&name=雙葉麗奈"
+    },
+    {
+      "name": "東雲怜弥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4477&name=東雲怜弥"
+    }
+  ]
+};

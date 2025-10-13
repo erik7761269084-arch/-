@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/18/07819a8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78057,
+  "IDcode": "IPZ-850",
+  "title": "身動き取れないM男をかわいがるS級ボンテージ痴女 桐嶋りの",
+  "publish_date": "2016-11-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "紧缚",
+    "淫语",
+    "荡妇",
+    "M男",
+    "数位马赛克",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78057",
+  "actresses": [
+    {
+      "name": "桐岛莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220050303303_36216_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78057&name=桐岛莉乃"
+    }
+  ]
+};

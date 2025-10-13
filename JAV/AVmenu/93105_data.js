@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241008/KTavyAcp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93105,
+  "IDcode": "MMRAA-314",
+  "title": "やっぱり10代（TEEN）が好き/前田花凜 チェキ付き",
+  "publish_date": "2024-01-31",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93105",
+  "actresses": [
+    {
+      "name": "前田花凜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93105&name=前田花凜"
+    }
+  ]
+};

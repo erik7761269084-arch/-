@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/df31760b-80b0-438c-b4df-111603ee0644/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 196,
+  "IDcode": "HEYZO-0213",
+  "title": "高端會員制俱樂部 雅 2 前編：全新開業 ~ 北川みなみ 遠藤あいこ",
+  "publish_date": "2013-01-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "港區女子",
+    "風俗夜場",
+    "騎乗位",
+    "風俗娘",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "金髮",
+    "拜金女",
+    "傳播妹",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "KTV夜總會",
+    "兩女一男",
+    "美人",
+    "辣妹/GAL系",
+    "野性",
+    "豐滿",
+    "女優",
+    "陪酒女"
+  ],
+  "description": "HEYZO-0213为HEYZO出品,2013年1月2日发行的無碼成人影片由遠藤あいこ，北川みなみ出演\n歡迎光臨高端會員制俱樂部「雅」！全新管理陣容，夜店小姐姐們也換上新血，帶來頂級款待等你來爽！故事從一名對平凡日常感到無聊的OL小美開始，她渴望刺激，投了「雅」的招聘廣告。面試當天，小美來到「雅」，沒想到迎接她的是一場淫靡又刺激的考驗……比前作還要炸裂的規模，全新的「雅」故事震撼開場！五位性感女優上演錯綜複雜的人際糾葛，華麗又放蕩的夜店小姐姐們，邀你一起沉醉在這場狂野盛宴！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/20250611082409617617_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250611/20250611082409617617_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=196",
+  "actresses": [
+    {
+      "name": "遠藤あいこ",
+      "img_url": "https://picture.yoshiclub.xyz/20241126/61355523-32b7-4d34-aee8-c2d0a6dbd97b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=196&name=遠藤あいこ"
+    },
+    {
+      "name": "北川みなみ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528054743477477_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=196&name=北川みなみ"
+    }
+  ]
+};

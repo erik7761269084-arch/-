@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/25/cd3759ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68230,
+  "IDcode": "TPIN-090",
+  "title": "【FANZA限定】妻が隣に居るのに…エステティシャンにこっそり中出し搾り取られても拒めない夫 末広純さんのブラ・パンティ上下とチェキセット",
+  "publish_date": "2025-03-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "美容院",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68230",
+  "actresses": [
+    {
+      "name": "桐谷すずね",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/53ec43e7-d6c7-4174-bb03-06dc49ca495f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68230&name=桐谷すずね"
+    },
+    {
+      "name": "优梨まいな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68230&name=优梨まいな"
+    }
+  ]
+};

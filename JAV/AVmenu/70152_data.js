@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250317/VG6Y5uFc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70152,
+  "IDcode": "SSNI-929",
+  "title": "濡れ透けて露出した女上司のブラジャーにボクは我慢できず、全てぶち撒けたゲリラ豪雨の夕暮れ。 小島みなみ",
+  "publish_date": "2020-12-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "苗条",
+    "薄马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250317-1/f71b86103ab6f3a0ef66e46d121674e0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70152",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70152&name=小島南"
+    }
+  ]
+};

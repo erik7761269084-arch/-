@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/07/904f1647/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86517,
+  "IDcode": "VAGU-245",
+  "title": "クレーム処理のため自らマネキンになった女上司～麗しのマネキン夫人外伝～ 児玉れな （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "娃娃",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/437de0d5836d3f6d7f7860f90ecbeec3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86517",
+  "actresses": [
+    {
+      "name": "儿玉玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86517&name=儿玉玲奈"
+    }
+  ]
+};

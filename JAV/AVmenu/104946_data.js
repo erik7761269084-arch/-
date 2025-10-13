@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/30/4d10f026/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104946,
+  "IDcode": "PGD-635",
+  "title": "大嫂的誘惑 ～與淫蕩大嫂在同一個屋簷下～ 小川阿佐美",
+  "publish_date": "2013-02-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "姐姐",
+    "乱伦",
+    "数位马赛克",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/30/23a053cee3e9f053efb36fbdbc4c093e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104946",
+  "actresses": [
+    {
+      "name": "小川阿佐美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fd4524ae-7d4e-4c7f-95a4-8588935c2861.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104946&name=小川阿佐美"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104946&name=イセドン内村"
+    }
+  ]
+};

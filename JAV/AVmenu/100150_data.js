@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230313/04A731CC6DCF9130/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100150,
+  "IDcode": "ZUKO-014",
+  "title": "泣きむしロ○ータ乱交",
+  "publish_date": "2012-11-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "萝莉塔",
+    "滥交",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/zuko014/zuko014pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100150",
+  "actresses": [
+    {
+      "name": "木葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/8e0cd82d-871e-4190-8f9d-640b287e02f7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100150&name=木葉"
+    },
+    {
+      "name": "水菜丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100150&name=水菜丽"
+    },
+    {
+      "name": "七咲枫花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100150&name=七咲枫花"
+    },
+    {
+      "name": "双叶みお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100150&name=双叶みお"
+    }
+  ]
+};

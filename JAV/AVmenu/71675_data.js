@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250220/72SteGTm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71675,
+  "IDcode": "CHRV-088",
+  "title": "アクロバチックな妹の爆乳ブリッジは一見にしかず Gカップ96cmせら 妹パパ活、お兄ちゃんパパに勝つ？！",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "中出",
+    "水手服",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71675",
+  "actresses": [
+    {
+      "name": "优月せら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71675&name=优月せら"
+    }
+  ]
+};

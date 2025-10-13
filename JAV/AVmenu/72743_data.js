@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/xdF7fJzw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72743,
+  "IDcode": "VEMA-129",
+  "title": "SEXYランジェリー訪問販売員の猥褻中出しセールス術 篠原友香",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/3e39603b4f04b49950494214865b2175.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72743",
+  "actresses": [
+    {
+      "name": "篠原友香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72743&name=篠原友香"
+    }
+  ]
+};

@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d0d297a0-e0fe-48fc-b6e3-9640a8398c4f/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/25/5bcedf37/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16523,
+  "IDcode": "MEYD-878",
+  "title": "因爲我孤獨…已婚人妻第一次有了外遇，絕望的日子等待着她。大槻響",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "性感",
+    "不倫",
+    "朋友女友・妻子",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "MEYD-878为溜池出品,2024年1月23日发行的有碼成人影片由大槻响出演\n結婚幾年，大槻響一直努力做丈夫的“好妻子”，但她和丈夫之間的距離卻越來越遠，她擔心自己如何才能回到丈夫身邊。她正常的生活。有一天，大槻響遇到了住在附近的朋友的丈夫葵。當他們談論自己的問題時，兩人變得更加親密，並生平第一次出軌。然而響並不知道，婚後第一次外遇的代價將是巨大的……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240131/20240131022958702702.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240131/20240131022958702702.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16523",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16523&name=大槻响"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16523&name=蓝井优太"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16523&name=まーち"
+    }
+  ]
+};

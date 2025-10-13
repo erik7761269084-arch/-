@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/6IqTSNUY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64050,
+  "IDcode": "NHDTB-939",
+  "title": "尻コキマジックミラー号 Tバック尻にチ○ポ爆ズリ！バックで無断でヌルっとナマ挿入！！突然の激ピストンで感じすぎて中出しも許しちゃう巨尻女子大生 有栖舞衣さんのパンティとチェキ付き",
+  "publish_date": "2024-07-11",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "女大学生",
+    "屁股",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/afaf548acbe3d00c7b24589fefaadd7b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64050",
+  "actresses": []
+};

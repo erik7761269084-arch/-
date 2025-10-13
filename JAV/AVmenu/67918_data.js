@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/Ot7cuZnX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67918,
+  "IDcode": "MDBK-272",
+  "title": "極上外觀讓人持續射精的全裸女僕美少女訪問服務",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "女上位",
+    "口交",
+    "女佣",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/47e7284f2cebf84cf01542bb2d71c0c4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67918",
+  "actresses": [
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67918&name=渚光希"
+    }
+  ]
+};

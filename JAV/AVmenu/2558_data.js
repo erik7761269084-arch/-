@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/30/46297899/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2558,
+  "IDcode": "URKN-005",
+  "title": "狂熱連續射精特輯！性感辣妹+大奶騷貨+翹臀甜妹齊聚！超濃烈性愛4小時大合集 ~ 天月梓 あおい藍 若月もあ",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "Urakin",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "企畫",
+    "巨尻",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "約炮",
+    "美人",
+    "辣妹/GAL系",
+    "精選綜合",
+    "美少女電影"
+  ],
+  "description": "URKN-005为Urakin出品,2025年9月12日发行的有碼成人影片由天月梓，若月もあ，あおい藍出演\n【性感辣妹+大奶騷貨+翹臀甜妹】超火辣4小時性愛合集！各種型號的巨乳、美乳妹子全員到齊！從豐滿到纖細再到大屁股GAL，真實高潮的素人視角拍攝，連續中出畫面超刺激！當然全程無套生插，同一個騷妹子被連射不停！うらキン精選的最頂尖美女素人拍攝，絕對讓你慾罷不能，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914051309736736_98604_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250914/20250914051309736736_98604_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2558",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2558&name=天月梓"
+    },
+    {
+      "name": "若月もあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/d8a4379b-f63b-4090-87c2-abb08b6d60c6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2558&name=若月もあ"
+    },
+    {
+      "name": "あおい藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240414/1fe3c91c-dce6-4310-8680-435233713491.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2558&name=あおい藍"
+    }
+  ]
+};

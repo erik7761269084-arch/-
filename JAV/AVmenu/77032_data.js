@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/USCxPXGW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77032,
+  "IDcode": "PTS-444",
+  "title": "年の差レズエステ 四十路人妻連続アクメ Vol.3 イっても止めないエンドレス絶頂！",
+  "publish_date": "2019-04-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "女同接吻",
+    "美容院",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77032",
+  "actresses": [
+    {
+      "name": "葵玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/7495050f-58ca-4c8d-b86b-f9eb6c06f727.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77032&name=葵玲奈"
+    },
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77032&name=高坂ますみ"
+    }
+  ]
+};

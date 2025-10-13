@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1626d3c7-4969-4394-87b4-daf79a6ec0ec/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/ca57446e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5318,
+  "IDcode": "MIH-018",
+  "title": "五分鐘不算偷吃啦 深夜打工的我被前女友勾引瘋狂短時偷情中出 ~ 松本一香",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "便利商店",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "職員",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "貧乳",
+    "被妹子搭訕",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "MIH-018为本中出品,2025年6月13日发行的有碼成人影片由松本一香出演\n五分钟而已，不算出轨嘛！前女友一香在深夜打工的地方突然出现，身体契合度简直爆表的我们忍不住重燃旧情！瞒着现任男友，偷偷摸摸地疯狂开干，休息时间干，店里干，办公室也干！无套偷情性爱就是爽到爆啊！她还娇滴滴地说：“人家不喜欢套套啦…直接来嘛！”生干的感觉，简直无敌了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062319718718_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062319718718_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5318",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5318&name=松本一香"
+    }
+  ]
+};

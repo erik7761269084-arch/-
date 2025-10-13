@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240515/VZLCZSFy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91517,
+  "IDcode": "APAA-414",
+  "title": "栗の華の匂いと愛液に塗れた、御籠りセックス。 黒宮えりか",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "口交",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91517",
+  "actresses": [
+    {
+      "name": "黒宮えりか",
+      "img_url": "https://picture.yoshiclub.xyz/20250128/da4cda33-44cb-4ff7-bf22-ddd75e83e168.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91517&name=黒宮えりか"
+    }
+  ]
+};

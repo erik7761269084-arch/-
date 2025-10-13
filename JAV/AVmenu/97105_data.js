@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240705/AwYObFQS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97105,
+  "IDcode": "ACZD-048",
+  "title": "縄の淫花_小宮山亜依",
+  "publish_date": "2022-08-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "捆绑",
+    "SM",
+    "拳交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_019aczd048/h_019aczd048pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97105",
+  "actresses": [
+    {
+      "name": "小宫山亜依",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97105&name=小宫山亜依"
+    }
+  ]
+};

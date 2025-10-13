@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/17/6bf520c0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102325,
+  "IDcode": "HOKS-090",
+  "title": "レズ密着 ネコとタチ 11人のワイセツ接吻",
+  "publish_date": "2021-02-01",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "淫乱，真实",
+    "自慰",
+    "玩具",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102325",
+  "actresses": [
+    {
+      "name": "美原すみれ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250527/9e14005f-bd38-41b9-aa95-399c85b00ff2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=美原すみれ"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=香苗レノン"
+    },
+    {
+      "name": "高梨有纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=高梨有纱"
+    },
+    {
+      "name": "菊川麻里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=菊川麻里"
+    },
+    {
+      "name": "篠原りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=篠原りこ"
+    },
+    {
+      "name": "相泽ゆりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=相泽ゆりな"
+    },
+    {
+      "name": "浅宫ちなつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=浅宫ちなつ"
+    },
+    {
+      "name": "月原和奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102325&name=月原和奈"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/8a869010/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75000,
+  "IDcode": "SW-983",
+  "title": "めちゃイキ発情女子！ 僕が買ってきた媚薬を間違えて飲んで、カラダビンビンに感じだして、チ○ポ欲しくて抱きついてきた！",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "中出",
+    "自慰",
+    "口交",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/20/0fa794ddaccd15fbe7efa449f09ec3b7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75000",
+  "actresses": []
+};

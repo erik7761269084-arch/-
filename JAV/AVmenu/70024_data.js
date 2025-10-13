@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/17/69c8381f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70024,
+  "IDcode": "DVEH-050",
+  "title": "立場逆転！昔バカにしてた元教育実習生にドM軟乳を淫路指導（セクハラ）されて乙女みたいなアエギ声で屈辱イキして堕ちこぼれた男勝り元ヤン作業着人妻 有岡みう",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "多P",
+    "各种职业",
+    "制服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70024",
+  "actresses": [
+    {
+      "name": "ハリー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70024&name=ハリー"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70024&name=椎叶みくる"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240120/q5y5h6a9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90524,
+  "IDcode": "PRBYB-094",
+  "title": "GLAMOROUS NUDE/夏川あゆみ （ブルーレイディスク） チェキ付き",
+  "publish_date": "2023-10-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/72b0442bd38364122d0cc98255a87cb9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90524",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90524&name=夏川步美"
+    }
+  ]
+};

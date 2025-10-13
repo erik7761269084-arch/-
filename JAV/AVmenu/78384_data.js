@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/Jvd6J3Wa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78384,
+  "IDcode": "KBI-012",
+  "title": "【MGSだけの特典映像付き+20分】KANBi専属 経験人数1人！旦那しか男を知らない超堅物現役教師人妻 夏目さゆり AVデビュー 超敏感！潮吹きハメ潮奥様解禁",
+  "publish_date": "2019-06-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "自慰",
+    "潮吹",
+    "首次亮相",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/15a739430b8c4a9f880a406b1ba8f2f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78384",
+  "actresses": [
+    {
+      "name": "夏目さゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78384&name=夏目さゆり"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/olTNt3li/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80979,
+  "IDcode": "CLUB-672",
+  "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に連れ込んでめちゃくちゃセックスした件。其の44",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "按摩",
+    "连裤袜",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80979",
+  "actresses": []
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ff19e65-179d-4163-a5c8-fadab5189f62/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11934,
+  "IDcode": "FYSD-017",
+  "title": "巨乳Cosplayer的個人拍攝記錄17 ~ 夕美紫苑",
+  "publish_date": "2024-09-15",
+  "type": "有码",
+  "company": "SHION'S COSPLAY",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "二次元",
+    "業餘",
+    "乳交",
+    "蘿莉",
+    "中出",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "主觀視角",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "網路紅人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240916/dfc3f603-3993-4a0b-b8d7-32d1714879c9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240916/dfc3f603-3993-4a0b-b8d7-32d1714879c9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11934",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11934&name=夕美紫苑"
+    }
+  ]
+};

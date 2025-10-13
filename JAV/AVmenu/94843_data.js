@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241103/IdtWIhvp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94843,
+  "IDcode": "SW-948",
+  "title": "夫婦交換スワッピング「主人の見てる前で熱いおマ○コにぶっ挿してぇ！」パートナー替えてお互いのSEX見て興奮！見られて悶絶！主人の目の前で他人棒の激ピストンでイキまくる",
+  "publish_date": "2024-04-25",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "口交",
+    "新娘，年轻妻子",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241104-1/697f9d635249048172a98b2bce758b78.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94843",
+  "actresses": []
+};

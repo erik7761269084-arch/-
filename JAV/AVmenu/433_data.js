@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d4b116b-4887-4e63-bf99-8e64b7b2198c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 433,
+  "IDcode": "HEYZO-0514",
+  "title": "把金發妹關在密室裏操 ~ 心愛",
+  "publish_date": "2014-01-22",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "金髮",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0514为HEYZO出品,2014年1月22日发行的無碼成人影片\nイマドキ！金髪キャバ嬢を密室独り占め - 心愛",
+  "cover_url": "https://picture.yoshiclub.xyz/20250127/c357d201-b527-4f5c-80b3-f68a00a72938.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250127/c357d201-b527-4f5c-80b3-f68a00a72938.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=433",
+  "actresses": []
+};

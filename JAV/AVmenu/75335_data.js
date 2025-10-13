@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/06/07779931/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75335,
+  "IDcode": "MIAB-402",
+  "title": "「唾液でベチョ濡れ超ビンビンじゃん！」 ベロチュウ制服リフレでヨダレまみれ溺れイキ！さらに裏オプ（本番）杭打ちキスキス騎乗位で脳がトロけて中出し連射！！ 北岡果林 （BOD）",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "荡妇",
+    "制服",
+    "接吻",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/12/28/1ead6b3a1e56c80f246a91ea0e5862b5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75335",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75335&name=北岡果林"
+    }
+  ]
+};

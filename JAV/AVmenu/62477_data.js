@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/30/984c9ce9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62477,
+  "IDcode": "NASK-270",
+  "title": "流れるような曲線美！スレンダー熟女16人",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "苗条",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62477",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=今井栞菜"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=花笑一杏"
+    },
+    {
+      "name": "羽田つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/31911b7e-6600-44e2-ac8e-9fe2d5b00108_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=羽田つばさ"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=安倍亜沙美"
+    },
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=平冈里枝子"
+    },
+    {
+      "name": "麻生千春",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=麻生千春"
+    },
+    {
+      "name": "远藤しおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=远藤しおり"
+    },
+    {
+      "name": "峰岸カレン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=峰岸カレン"
+    },
+    {
+      "name": "宫沢优里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=宫沢优里"
+    },
+    {
+      "name": "沙原さゆ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7fa7458b21b74072ae6343b65c5341b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62477&name=沙原さゆ"
+    }
+  ]
+};

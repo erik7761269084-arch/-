@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65194,
+  "IDcode": "63319A4A7164029E26EA3ADD3218AE49",
+  "title": "10mu 072910_01 一期一会なんだし制服着てみ",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65194",
+  "actresses": []
+};

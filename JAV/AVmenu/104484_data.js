@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/09/f08fce16/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104484,
+  "IDcode": "LUXU-1227",
+  "title": "ラグジュTV 1216 美しさと可愛さを兼ね備えた歯科衛生士がAV出演！恥ずかしい恰好で丸見えになった秘部をねっとり舐められると頬を染め快楽を堪能！忘れかけていたセックスの刺激に嬉しさを噛みしめながら笑みを浮かべイキ乱れる！",
+  "publish_date": "2020-02-03",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "颜射",
+    "屁股",
+    "业余",
+    "娃娃"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104484",
+  "actresses": [
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104484&name=星仲ここみ"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104484&name=大岛丈"
+    }
+  ]
+};

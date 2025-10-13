@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6d4435c-86f4-47d0-ad94-201174be186d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/14/e5897e8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3512,
+  "IDcode": "VEMA-240",
+  "title": "圖書館裏騷人妻老師教我學習還送我福利 ~ 足立美緒",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "三十路",
+    "後入",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "肉絲",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "人妻",
+    "图书馆",
+    "手指插入",
+    "公共場所",
+    "地味",
+    "獵豔",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "VEMA-240为VENUS出品,2025年8月14日发行的有碼成人影片由足立美緒出演\n「有啥不懂的就来问我呗，我能教的绝对不藏私！」达也在图书馆暗恋着人妻司书美绪，天天泡图书馆终于混熟了，学习上的问题她都耐心解答。某天达也实在忍不住表白：「美绪，我真的超喜欢你！」美绪温柔地抱住他，接下来的互动可不仅仅是学习那么简单啦，各种福利让人脸红心跳，简直是学习和激情两不误！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814041430941941_57882_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814041430941941_57882_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3512",
+  "actresses": [
+    {
+      "name": "足立美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20250121/915e2e97-6690-40ff-9fe1-144698ceb5e6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3512&name=足立美緒"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3512&name=タツ"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/28/4a9e7d86/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62291,
+  "IDcode": "JKSR-694",
+  "title": "女子○生 部活合宿SEX 無防備なカラダを狙われた天使たち 汗・涎・涙・潮・精子は青春まっしぐら51人5時間",
+  "publish_date": "2025-07-26",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "巨乳",
+    "第一人称摄影",
+    "业余",
+    "运动",
+    "偷窥",
+    "校服",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62291",
+  "actresses": []
+};

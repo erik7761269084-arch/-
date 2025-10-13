@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b3c1a6ea-9118-46b1-8f67-643a3c2edb3b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/06/245de3ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11212,
+  "IDcode": "SONE-393",
+  "title": "作爲已婚男人，卻和一個年輕、才華橫溢、美麗的下屬在出差住的酒裏一次又一次的做愛 ~ 逢澤美優",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "咖啡店",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "足交",
+    "出軌",
+    "NTR",
+    "出差",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "SONE-393为S1出品,2024年10月22日发行的有碼成人影片由逢澤美優出演\n我決定和我的下屬「相澤」一起出差，他年輕且擅長工作。然而，當她發現自己只在飯店訂了一間房間時，她的態度突然改變了！他把他可愛的臉靠近我，讓我親吻他，然後大膽地開始吸吮我的雞巴。 「這是你妻子的秘密，對吧？」他的理智被這句甜言蜜語徹底崩潰了。我完全沉浸在性技巧帶來的快感中，感覺好極了，就像腦子裡有蟲子一樣，儘管我已經足夠大了，但我還是被逼著射精很多次…我的下屬在各方面都很優秀。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017085121402402.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017085121402402.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11212",
+  "actresses": [
+    {
+      "name": "逢澤美優",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11212&name=逢澤美優"
+    },
+    {
+      "name": "ハリー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11212&name=ハリー"
+    }
+  ]
+};

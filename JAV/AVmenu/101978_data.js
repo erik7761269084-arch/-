@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240508/SkOJwnK2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101978,
+  "IDcode": "MIDE-879C",
+  "title": "解禁 貧乳可愛美少女 人生初次中出性交 藍芽水月",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101978",
+  "actresses": []
+};

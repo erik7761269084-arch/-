@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bcb34fbc-91a0-4ae9-b02d-301b9e3479cc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10728,
+  "IDcode": "NGOD-235",
+  "title": "年齡差不倫事件 人妻被比她大30歲的巨根紳士的絕倫SEX引誘 ~ 春陽モカ",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "乳釘、穿孔、乳環",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "金髮",
+    "明星臉",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241109/d1b5495e-4371-405a-a122-ca12c5cf9d2e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241109/d1b5495e-4371-405a-a122-ca12c5cf9d2e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10728",
+  "actresses": [
+    {
+      "name": "春陽萌花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/358d5492-7126-444f-86b8-76a589f68d9b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10728&name=春陽萌花"
+    }
+  ]
+};

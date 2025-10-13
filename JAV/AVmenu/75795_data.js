@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/dETSmGOQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75795,
+  "IDcode": "GZAP-011",
+  "title": "社内の痴●対策で護身術道場に集まったOLはスキだらけで断れない性格ばかりw稽古中に同僚から黒スト痴●で何度もイカされ…",
+  "publish_date": "2020-01-17",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "连裤袜",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75795",
+  "actresses": [
+    {
+      "name": "卯水咲流",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250518/f4067a91-2dd3-4756-8221-f453b628e5a1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75795&name=卯水咲流"
+    },
+    {
+      "name": "藤井林檎",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-藤井林檎.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75795&name=藤井林檎"
+    },
+    {
+      "name": "桥本丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75795&name=桥本丽华"
+    },
+    {
+      "name": "凉宫ましろ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75795&name=凉宫ましろ"
+    }
+  ]
+};

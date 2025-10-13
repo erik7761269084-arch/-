@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86b65809-dfcc-4048-a105-416aded8f073/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/27/693c3a02/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1153,
+  "IDcode": "HEYZO-1816",
+  "title": "清純臉蛋淫亂女～ 日高千晶",
+  "publish_date": "2018-09-08",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "美乳",
+    "顏射"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029003943539539.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231029/20231029003943539539.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1153",
+  "actresses": [
+    {
+      "name": "日高千晶",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/日高千晶.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1153&name=日高千晶"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/42a7587b-c44b-4e5e-8d61-10fba438d4c3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/9e18a5ec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4417,
+  "IDcode": "BBTU-103",
+  "title": "爆乳肉感大亂鬥 ~ 七草千歲",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "單體作品",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "豐滿",
+    "女優"
+  ],
+  "description": "BBTU-103为DOGMA出品,2025年7月12日发行的有碼成人影片由七草千歲出演\n110cm J罩杯的爆乳淫獸七草千歲，對戰一群肌肉猛男的大屌軍團，肉與肉的激烈碰撞，簡直是場震撼的肉彈大戰！粉色高叉泳裝的千歲女王，夾著鐵柱搞偽パイズリ，挑逗得你心癢癢，下乳和乳暈都快溢出來，J罩杯豪乳被揉得變形，軟到讓人腦補就高潮！連續イラマ攻擊下爆乳狂晃，反擊用爆乳パイズリ榨乾大屌精液，淫獸眼神鎖定下一個獵物，玩具責め讓她高潮到意識飛天，還咆哮著要真屌！換上透視緊身衣，塗滿ローション的白嫩豐滿身軀閃閃發光，簡直神聖又淫蕩！ローション滑溜溜的パイズリ，發出淫靡聲音，大屌狂插爆乳狂抖，各種雜技體位輪番上陣，肉與肉的啪啪聲響徹雲霄，淫獸騷叫‘再來再插我要更多’，這畫面直接讓人隔天夢遺！奶控福利，1秒都不能錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024309505505_59469_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024309505505_59469_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4417",
+  "actresses": [
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4417&name=七草千歲"
+    }
+  ]
+};

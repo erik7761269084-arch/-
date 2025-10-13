@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bf144445-6948-4b04-b520-c5e3503f67e7/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/d234ba90/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6462,
+  "IDcode": "SAME-162",
+  "title": "為了彌補老公的過錯，我甘願淪為奴隸 - 和解的代價 ~ 都月楓",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "老頭子",
+    "調教",
+    "深喉",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "女奴",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "監禁",
+    "舔陰",
+    "口爆",
+    "SM",
+    "美腳",
+    "緊縛",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "謝罪",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "SAME-162为ATTACKERS出品,2025年5月2日发行的有碼成人影片由都月楓出演\n那天我剛搞定一個大項目，心裡爽到不行，陪客戶吃喝玩樂到High，完全忘了時間，喝得醉茫茫的，等到最近的車站都已經是半夜了。家裡老公感冒發燒躺著，我硬是撒嬌讓他來接我，結果他吃著藥腦子迷糊，竟然出了車禍！這全是我作死惹的禍啊…如果當時我老老實實打車回家就好了…現在，為了彌補這一切，我只能用自己的身體去換取對方的原諒，墮入羞恥的深淵…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042724987987_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042724987987_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6462",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6462&name=都月楓"
+    }
+  ]
+};

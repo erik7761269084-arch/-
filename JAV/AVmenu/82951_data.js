@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/01/d1462f03/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82951,
+  "IDcode": "LUXU-1216",
+  "title": "ラグジュTV 1202 その瞳、魔性につき！そのルックス、スタイル、痴女性、全てに長けた神秘的美しさを持つハーフ美女(日本×イタリア)が再び登場！求めるものは性的快感のみ…男を本気にさせる魅惑の責め、そしてイキ乱れる彼女の情熱的セックスは必見！！",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "屁股",
+    "苗条",
+    "业余",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82951",
+  "actresses": [
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82951&name=雾岛里绪菜"
+    }
+  ]
+};

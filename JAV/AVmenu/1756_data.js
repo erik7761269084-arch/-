@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230205/e3b8f47f-34ca-4d46-a57c-8c1619f41d87/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1756,
+  "IDcode": "SMBD-100",
+  "title": "S Model 100 第一次中出性愛：紺野瑪麗惠",
+  "publish_date": "2014-06-12",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "中出",
+    "顏射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230212/12f5c747-8492-4511-b560-03b63b55dba4.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230212/12f5c747-8492-4511-b560-03b63b55dba4.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1756",
+  "actresses": [
+    {
+      "name": "绀野真理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/282da11f-ac40-46d6-a4ae-9f920ba3e66d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1756&name=绀野真理惠"
+    }
+  ]
+};

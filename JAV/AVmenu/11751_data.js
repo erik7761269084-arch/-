@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/02ba9e13-a7d0-4b2d-8b78-36684484f90d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/23/2fa7d717/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11751,
+  "IDcode": "SSNI-390",
+  "title": "圖書館癡漢的無聲騷擾 - 年輕妻子當衆被強奸 ~ 葵司",
+  "publish_date": "2019-01-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "美腳",
+    "中文字幕",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "图书馆",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-390为S1出品,2019年1月19日发行的有碼成人影片由葵司出演\n結婚三年的司原本在出版公司工作，過著忙碌的生活，但為了懷孕而辭去了工作，開始去圖書館。小說家大木恰好也在場。過去在出版公司遇見司後就暗戀她的大木性格黏人，開始跟蹤司，行為迅速升級。幸福的年輕妻子在大廳裡開始被強行強姦，沒有發出任何聲音…徹底描繪強暴陰險本質的正統戲劇作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240923/20240923034909515515.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240923/20240923034909515515.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11751",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11751&name=葵司"
+    }
+  ]
+};

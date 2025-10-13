@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220714/0D9E33A2027CEDFA/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65107,
+  "IDcode": "4502F6DA7A83D5CFD3A79BF28AD280EB",
+  "title": "27岁美腿若妻结婚三周年",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65107",
+  "actresses": []
+};

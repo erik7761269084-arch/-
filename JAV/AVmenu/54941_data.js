@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220729/7C9C5DC12C83E7F3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54941,
+  "IDcode": "EC8CBA1C2433A7941C33D2E7C3576D1E",
+  "title": "暗い過去があるモデル系美人ととことんヤリまくる シリーズ特設",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54941",
+  "actresses": []
+};

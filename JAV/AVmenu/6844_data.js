@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ab75a33e-08ea-46c3-a794-8556b7319bc3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6844,
+  "IDcode": "KSBJ-375",
+  "title": "光滑無毛超誘惑！無毛熟女精選50人集結 ~ 君島美緒 弘中優 永田莉雨 本田瞳 廣瀨里緒菜",
+  "publish_date": "2025-04-12",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "苗條",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "超爆乳",
+    "色白",
+    "性感睡衣",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "4小時以上作品",
+    "小隻馬",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "阪道系",
+    "名人妻子",
+    "熟女",
+    "精選綜合",
+    "無毛"
+  ],
+  "description": "KSBJ-375为KSB企畫出品,2025年4月12日发行的有碼成人影片由君島美緒，廣瀨里緒菜，本田瞳，赤瀬尚子，佐々木咲和，弘中優，仲野梢出演\n這次咱們精選了50位無毛美乳熟女，每一個都是頂級貨色！那滑到不行的私密處，完全無障礙地迎接你的衝擊，結合部位一覽無遺，激烈磨蹭時那對美胸晃得讓人心癢難耐！全身滑溜溜，私處形狀一清二楚，簡直讓人忍不住想從頭舔到腳！這種既有純情感又有致命誘惑的無毛美乳熟女，絕對讓你熱血沸騰，二次元老司機們，快上車，一起衝啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414112455110110_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250414/20250414112455110110_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6844",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=本田瞳"
+    },
+    {
+      "name": "君島美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230619/95759a80-b4cc-4ccf-ad53-3152e39af8aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=君島美緒"
+    },
+    {
+      "name": "弘中優",
+      "img_url": "https://picture.yoshiclub.xyz/20231221/d1040ea7-7a31-477f-b887-d1ad04839e58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=弘中優"
+    },
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=赤瀬尚子"
+    },
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=廣瀨里緒菜"
+    },
+    {
+      "name": "仲野梢",
+      "img_url": "https://picture.yoshiclub.xyz/20250204/dd2f51ab-f4a4-4caf-810b-9060db76c22a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=仲野梢"
+    },
+    {
+      "name": "佐々木咲和",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/61c6cc7f-4818-4b85-ac85-dc51e686e388.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6844&name=佐々木咲和"
+    }
+  ]
+};

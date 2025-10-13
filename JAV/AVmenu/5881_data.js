@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e53a09e0-e525-43f9-8064-32abedbebda6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/3f1ef366/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5881,
+  "IDcode": "MISM-380",
+  "title": "爽到爆！深喉高潮不斷爽翻天！純真無垢的美少女調教志願，連續深喉中出 ~ 美木ひなの",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "苗條",
+    "女僕",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "變態",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "短裙・迷你裙",
+    "角色扮演",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "私房攝影",
+    "騎乗位",
+    "白絲",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "地雷系",
+    "清楚系",
+    "女僕制服",
+    "清純",
+    "過膝襪・小腿襪",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "MISM-380为えむっ娘ラボ出品,2025年5月23日发行的有碼成人影片由美木雛乃出演\n長得像平面模特的小姊姊喉嚨被玩到快爆開，連續喉凹機關槍式調教，爽到根本停不下來！喉嚨高潮的快感讓她徹底淪陷，頭甩到只剩殘影的硬核イラマチオ，喉嚨直接被貫穿！鬼畜級別的斯巴達式猛插，足足569次，喉嚨裡彷彿有宇宙級重力在扭曲，甜蜜點被狠狠戳中！巨大肉棒無止境地插進去，就算暈過去也絕不手軟！這可全都是為了你而獻上的愛啊！這妹子完全是個イラマチオ上癮的痴女，爽到瘋狂！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075229294294_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075229294294_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5881",
+  "actresses": [
+    {
+      "name": "美木雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/1d93f59c-062f-4858-be1b-8eac0c24242b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5881&name=美木雛乃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5881&name=鲛岛"
+    }
+  ]
+};

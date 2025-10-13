@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/xpWMLTSM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94784,
+  "IDcode": "SVSHA-029",
+  "title": "着任式直後に新任教師が男女混合で受ける学園性活‘セクシャル’研修会 お漏らしチ〇ポ拭き/大陰唇の水滴検査/乳房内科検診/尻穴ぎょう虫検査",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "口交",
+    "舔阴",
+    "手淫",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94784",
+  "actresses": []
+};

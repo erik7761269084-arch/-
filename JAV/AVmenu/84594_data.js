@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/15/9003c80e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84594,
+  "IDcode": "HMN-157",
+  "title": "僕は男として見られてません…同じクラスの女子と相部屋ホテル 目の前で丸裸で騒ぎ出した2人にフル勃起… 朝までチ●ポを中出しオモチャにされちゃった日。 倉本すみれ 松本いちか",
+  "publish_date": "2022-04-26",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "平胸",
+    "美少女电影",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230112-36/07e0e548b9732faaa92137ac273357a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84594",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84594&name=松本一香"
+    }
+  ]
+};

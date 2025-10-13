@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/10/a8a3cdf2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102456,
+  "IDcode": "PS-027",
+  "title": "Vivid Drop/麻生恵令奈",
+  "publish_date": "2015-07-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/03/10/cd94b9b59c4fa3c9626d3094ff1294fd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102456",
+  "actresses": [
+    {
+      "name": "麻生恵令奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102456&name=麻生恵令奈"
+    }
+  ]
+};

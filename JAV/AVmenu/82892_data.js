@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221129/FsnW2lgk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82892,
+  "IDcode": "RCTD-259",
+  "title": "TSFプリズン強制女体化監獄",
+  "publish_date": "2019-08-22",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "戏剧",
+    "妄想",
+    "女同性恋",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/30267059d46310fcba9362320764bae8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82892",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82892&name=小泉真理"
+    },
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82892&name=瀬戸すみれ"
+    },
+    {
+      "name": "佐久间恵美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82892&name=佐久间恵美"
+    }
+  ]
+};

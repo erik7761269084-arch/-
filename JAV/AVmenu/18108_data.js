@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/15bb2d71-61a4-4bdf-b585-77247b9ac36a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/03/19/16541944/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18108,
+  "IDcode": "IPX-837",
+  "title": "教師失格 放課後在愛情賓館幽會 沉溺在與女兒年齡相同般學生淫美性愛的我…。 明里紬",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "JK校服",
+    "口交",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029213558563563.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231029/20231029213558563563.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18108",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18108&name=明里紬"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18108&name=大岛丈"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18108&name=明里䌷"
+    }
+  ]
+};

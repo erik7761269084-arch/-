@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/85ad2922/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35309,
+  "IDcode": "MDYD-869",
+  "title": "只属于我的巨乳女教师宠物-椎名由奈",
+  "publish_date": "2025-09-28",
+  "type": "无码",
+  "company": "溜池",
+  "genres": [
+    "凌辱",
+    "强奸",
+    "女教师",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/85ad2922/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35309",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35309&name=椎名由奈"
+    }
+  ]
+};

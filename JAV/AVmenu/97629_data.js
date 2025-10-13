@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220405/CBBCC770BB5B0EE0/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97629,
+  "IDcode": "CHN-182",
+  "title": "新・素人娘、お貸しします。 88 仮名）有原りお（ビール売り子）22歳。",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "无毛",
+    "潮吹",
+    "肛交",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118chn182/118chn182pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97629",
+  "actresses": [
+    {
+      "name": "有原りお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97629&name=有原りお"
+    }
+  ]
+};

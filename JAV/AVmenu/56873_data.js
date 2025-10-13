@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221029/B03C77A1B1D888A9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56873,
+  "IDcode": "BF2681284BDEC6FA9E44B4AA861AD9EA",
+  "title": "不擅长拒绝的新娘 -被新娘礼服负责人在典礼前夜中出NTR- 纱仓美雪",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56873",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103298,
+  "IDcode": "HUNTA-710_B",
+  "title": "義理の姉妹のおかげで毎日エッチなことができています。親が再婚し一緒",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103298",
+  "actresses": []
+};

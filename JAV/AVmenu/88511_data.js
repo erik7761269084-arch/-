@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/15/23e4fc5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88511,
+  "IDcode": "REAL-685",
+  "title": "黒人のデカマラで激イカセ連続中出しFUCK！ 三原ほのか",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "巨大阴茎",
+    "黑人演员"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/3e3c09ec5e8037ce183999319f0f3c17.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88511",
+  "actresses": [
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88511&name=三原穗香"
+    }
+  ]
+};

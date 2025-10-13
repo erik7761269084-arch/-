@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0442b2b1-7ee6-4c76-94c5-ee90300094fd/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/06/1b284fb6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8084,
+  "IDcode": "JUR-176",
+  "title": "和老公做愛生孩子後，總是被公公內射…… ~ 藤森里穗",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "深喉",
+    "變態",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "JUR-176为MADONNA出品,2025年2月25日发行的有碼成人影片由藤森里穂出演\n我和先生結婚幾年後，婆婆過世了，公公開始常來我們家住。即使在這種情況下，我們仍然繼續嘗試要個孩子，但我對丈夫越來越不滿，他只會給我提供平淡的性生活。那天，做愛之後，她正偷偷滿足自己未滿足的身體……卻被公公看見了。然後，好像他看穿了我的沮喪，他攻擊了我...",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093246616616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220093246616616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8084",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8084&name=藤森里穂"
+    }
+  ]
+};

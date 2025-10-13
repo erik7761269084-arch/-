@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/9e46a00e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63104,
+  "IDcode": "SMOK-016",
+  "title": "【FANZA限定】【太ももセクハラ】残業中、2人きりの社内でオキニの若手ち○ぽを連れ回し何度もムチムチ大根脚で挟みヌキするミニスカ太はり人妻女上司 弥生みづき チェキとパンティ付き",
+  "publish_date": "2025-07-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "巨大阴茎",
+    "OL",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63104",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63104&name=タイ"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63104&name=弥生美月"
+    }
+  ]
+};

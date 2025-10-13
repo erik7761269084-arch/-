@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1b4b8c1e-54e0-4fe3-97aa-860eed6608ad/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14782,
+  "IDcode": "CEMD-526",
+  "title": "如果森澤佳奈喝醉了 - 真正的性欲失控的SEX",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "苗條",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "酒後亂性",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "人妻",
+    "真實拍攝",
+    "放尿",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240512/528411e9-9bb5-4cf7-aa5c-8078b0bfff3c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240512/528411e9-9bb5-4cf7-aa5c-8078b0bfff3c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14782",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14782&name=森澤佳奈"
+    }
+  ]
+};

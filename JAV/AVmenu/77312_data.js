@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/16/5a22db62/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77312,
+  "IDcode": "RBD-914",
+  "title": "奴隷色のステージ42 神咲詩織",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77312",
+  "actresses": [
+    {
+      "name": "神咲诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77312&name=神咲诗织"
+    }
+  ]
+};

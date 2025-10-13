@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220319/9EFA51EC10B22B3D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104231,
+  "IDcode": "BDSR-368",
+  "title": "素人限定。出張メンズエステ盗撮 ギンギンチ○ポでチャンスをうかがう…。隠れ巨乳人妻エステティシャンに中出ししちゃいました。",
+  "publish_date": "2018-11-10",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "已婚妇女",
+    "制服",
+    "美容院",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57bdsr368/57bdsr368pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104231",
+  "actresses": [
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104231&name=赤城穂波"
+    },
+    {
+      "name": "森春流",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/7c86e86e-29f6-4136-abc3-e46d0de5193b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104231&name=森春流"
+    },
+    {
+      "name": "尾上若叶",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/149a4db1-b7b2-4b0f-aef8-10df181c7f86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104231&name=尾上若叶"
+    },
+    {
+      "name": "吉川爱美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/吉川あいみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104231&name=吉川爱美"
+    },
+    {
+      "name": "牧野絵里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104231&name=牧野絵里"
+    }
+  ]
+};

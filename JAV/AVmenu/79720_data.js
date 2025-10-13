@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/2FzL1h94/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79720,
+  "IDcode": "STARS-432",
+  "title": "エグすぎる乳首舐め 佐田茉莉子 42歳",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79720",
+  "actresses": [
+    {
+      "name": "佐田茉莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/3442bc99-0d64-4ae4-bc09-087cedaa1bd0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79720&name=佐田茉莉子"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79720&name=タイ"
+    }
+  ]
+};

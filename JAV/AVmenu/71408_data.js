@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/bni9dqN5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71408,
+  "IDcode": "DVDMS-421",
+  "title": "ザ・マジックミラー 顔出し！働く美女限定 大手企業に勤める美脚OLさんが初めてのパンスト履きっぱなしイキ潮体験！濡れシミができるほどパンストの中で手マンされ連続イキ漏らししたインテリオマ○コにデカチン挿入！！ in池袋",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "潮吹",
+    "业余",
+    "巨大阴茎",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/23d6b3e84d66fe15bbd33f2cad2beb41.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71408",
+  "actresses": [
+    {
+      "name": "市川雅美",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/659b1fe6-bc01-4486-b40b-110cc54dd371.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71408&name=市川雅美"
+    },
+    {
+      "name": "藤白桃羽",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/a63c38b0-5ae4-4c8d-ae71-ad37034b45b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71408&name=藤白桃羽"
+    },
+    {
+      "name": "白咲花",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/cec3f967-1da7-42f7-9bb6-eed32d566275.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71408&name=白咲花"
+    },
+    {
+      "name": "宫名初季",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71408&name=宫名初季"
+    },
+    {
+      "name": "优木カリナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71408&name=优木カリナ"
+    }
+  ]
+};

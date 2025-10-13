@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cbd08155-5419-4992-ac2a-d2b40a27c177/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/05/0cba4335/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8242,
+  "IDcode": "MIDA-052",
+  "title": "敏感女孩和老男人交換體液，熱吻，濃厚交尾 ~ 泉百華",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MIDA-052为MOODYZ出品,2025年2月18日发行的有碼成人影片由泉百華出演\n【敏感美少女與年齡是她兩倍的男人交換體液、接吻、做愛！ 】 突然他的眼睛被蒙住，中年男子的唾液灌入他的嘴裡，然後他吞了下去！男人的舌頭深深的探入她純真的口腔之中，讓她的黏膜爆射！護士為你自慰並讓你口吐唾液！穿著超可愛的製服，用舌吻誘惑我們！清新靚麗的女孩身上滴滿了老男人的汁液！與兩個老男人激烈的深吻！一個有著極佳個性和敏感度的美麗女孩在三個舔舐場景中一次又一次地達到高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213072538583583.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213072538583583.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8242",
+  "actresses": [
+    {
+      "name": "泉百華",
+      "img_url": "https://picture.yoshiclub.xyz/20240904/3e4d6272-f158-4d53-965b-472b8d6dc282.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8242&name=泉百華"
+    }
+  ]
+};

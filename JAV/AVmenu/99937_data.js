@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/43ACF649D55DDAC9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99937,
+  "IDcode": "DYD-001",
+  "title": "四十路電マ責め 吹雪かすみ",
+  "publish_date": "2006-05-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "69",
+    "捆绑",
+    "按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99937",
+  "actresses": [
+    {
+      "name": "吹雪かすみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99937&name=吹雪かすみ"
+    }
+  ]
+};

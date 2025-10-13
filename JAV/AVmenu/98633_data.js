@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230108/7BCB279F37F4B6CB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98633,
+  "IDcode": "SVOKS-052",
+  "title": "ゆずかちゃん",
+  "publish_date": "2019-11-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "潮吹",
+    "药物",
+    "魔鬼系",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1svoks052/1svoks052pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98633",
+  "actresses": []
+};

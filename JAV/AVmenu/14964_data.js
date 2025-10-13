@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/09c6d0f1-c8cc-4bb0-b184-430db0a6643a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14964,
+  "IDcode": "LULU-295",
+  "title": "我教我的大奶子大屁股學生如何不要爲性而煩惱，如何作爲一個成年人進行性行爲，她在班主任無與倫比的大雞巴活塞的幫助下學會了如何高潮，並且在她之前連續射精男朋友做到了。天馬唯",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "制服",
+    "口交",
+    "自宅",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "偷竊",
+    "按摩棒",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240506/b84dc1ae-3f5a-4f05-a6d8-462ca94aa41c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/b84dc1ae-3f5a-4f05-a6d8-462ca94aa41c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14964",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14964&name=天馬唯"
+    }
+  ]
+};

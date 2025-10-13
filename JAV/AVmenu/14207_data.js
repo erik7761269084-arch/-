@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8af7c2c8-7406-4e5d-9e39-3c805ca0f0b9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14207,
+  "IDcode": "KSBJ-313",
+  "title": "絶倫巨乳妻性欲極強，我沒辦法只能請我最好的朋友來操她！~ 九井珠奈緒",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "KSBJ-313为妄想族出品,2024年6月4日发行的有碼成人影片由九井珠奈緒出演\n蘇瑙，性慾極強的妻子。我也愛我的妻子，想讓她幸福，但最近她脾氣不好，我無法讓她幸福。所以，為了緩解妻子的挫敗感，也為了讓自己嚐嚐新的滋味，我決定讓我最好的大雞巴朋友給我戴綠帽。雖然一開始我並不喜歡，但當我看到我的妻子開始親自要求時，我忍不住興奮起來...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240604/20240604060039659659.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240604/20240604060039659659.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14207",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14207&name=九井珠奈緒"
+    }
+  ]
+};

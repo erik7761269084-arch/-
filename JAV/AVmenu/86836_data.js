@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230213/nuV84pVW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86836,
+  "IDcode": "CAWD-353",
+  "title": "アナタの五感を制圧しちゃうぞ伊藤舞雪に包み込まれるASMRシコシコ凄テクオナサポ",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "乳交",
+    "中出",
+    "淫语",
+    "手淫",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86836",
+  "actresses": [
+    {
+      "name": "伊藤舞雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/8926413a-85ad-46dd-897e-24b65bcb4d3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86836&name=伊藤舞雪"
+    }
+  ]
+};

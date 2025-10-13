@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b1aec11-3e59-46da-9e42-c4a8d6db3171/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20240303/kirpHOBV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16058,
+  "IDcode": "SDJS-239",
+  "title": "人力資源部的2年目員工石川陽波（Yoha Ishikawa）絕對不能失敗的公司發布會上，玩弄她的小穴",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "劇情",
+    "中出",
+    "OL",
+    "制服",
+    "美少女",
+    "奇聞趣事",
+    "惡搞",
+    "女同事",
+    "辦公室",
+    "奇異的",
+    "插入異物"
+  ],
+  "description": "SDJS-239为SOD出品,2024年2月27日发行的有碼成人影片\n在緊跟着人力資源部的石川陽波一天裏，對着石川小姐的陰部惡作劇！在公司重要的說明會當天，會有很多公司外部的人來公司參觀，但是石川能否在高潮不被人發現的情況下完成工作呢？ ？在很多人的注視下做愛感到興奮，她噴了很多，並痛苦地忍受着！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240227/20240227015941467467.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240227/20240227015941467467.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16058",
+  "actresses": [
+    {
+      "name": "石川陽波",
+      "img_url": "https://picture.yoshiclub.xyz/20240920/9ef886c3-3daf-4336-8fd8-b5ad35403329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16058&name=石川陽波"
+    }
+  ]
+};

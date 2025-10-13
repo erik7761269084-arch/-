@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a3d9c42c-ca3e-488f-a0ec-ea9aa68f458e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4865,
+  "IDcode": "HRSM-102",
+  "title": "汗流浹背桑拿妹 被迫中出整頓身心 ~ 小野阪唯香 三葉彌生 小日向める 望月蕾",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "癡漢廠",
+  "genres": [
+    "後入",
+    "肛交",
+    "4K",
+    "流汗",
+    "中出",
+    "女上位",
+    "素人",
+    "口交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "迷姦",
+    "舔陰",
+    "清楚系",
+    "手指插入",
+    "地味",
+    "美人",
+    "淫蕩・硬核",
+    "美少女電影"
+  ],
+  "description": "HRSM-102为癡漢廠出品,2025年6月27日发行的有碼成人影片由望月蕾，小野坂唯香，小日向める，三葉彌生出演\n極致的整頓快感！身體要從裡到外熱透才夠味！從裡到外？那當然要在小穴最深處射滿熱騰騰的精液啦！會員制私人三溫暖房，4位身材超正的三溫暖妹，汗水滴滴答答，腋下、肚臍、後庭、小穴全濕透！趁她們迷迷糊糊時直接硬上，強行中出，爽到她們連做夢都在high！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006585585_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006585585_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4865",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4865&name=望月蕾"
+    },
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4865&name=小野坂唯香"
+    },
+    {
+      "name": "三葉彌生",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/9f34edd7-6d68-4c5b-9de2-65778b7812dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4865&name=三葉彌生"
+    },
+    {
+      "name": "小日向める",
+      "img_url": "https://picture.yoshiclub.xyz/20241101/c86d8203-ed1d-45e1-a9b9-4e47c43730a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4865&name=小日向める"
+    }
+  ]
+};

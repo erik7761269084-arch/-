@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/10e7bb06-13c0-4a6d-a1ed-8379f26f336c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3761,
+  "IDcode": "JUR-391",
+  "title": "W祕書把抖M社長玩弄於股掌之間 超黑心榨精日程 ~ 沖宮那美",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "心機婊",
+    "女上位",
+    "制服",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "女秘書",
+    "奇聞趣事",
+    "巨乳",
+    "手指插入",
+    "特效",
+    "辦公室",
+    "奇異的",
+    "M男・M女",
+    "美人",
+    "職場",
+    "熟女",
+    "眼鏡",
+    "豐滿"
+  ],
+  "description": "JUR-391为MADONNA出品,2025年8月7日发行的有碼成人影片由沖宮那美出演\n阿部是家族廣告公司的社長，這家公司完全是他的獨裁地盤，職場霸凌、權力壓迫啥都來，簡直是黑心企業中的頂級存在。員工們每天戰戰兢兢，就怕被炒魷魚。而這位霸道社長身後，總有兩位氣場爆棚的美女秘書緊跟在側。她們不僅頭腦聰明，顏值身材更是頂尖，制服穿得性感又專業，業務能力直接滿分，堪稱社長的左右手。但真相是，沒了這兩位秘書，阿部就是個不折不扣的廢柴男，還超級抖M！在社長室裡，他被兩位秘書各種羞辱調教，連精液都被控制得死死的，簡直是個超級窩囊廢，爽到不行又丟臉到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030453631631_45645_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030453631631_45645_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3761",
+  "actresses": [
+    {
+      "name": "沖宮那美",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/0fcd9a6c-0c4b-4fa3-86bd-5ac4366ae3e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3761&name=沖宮那美"
+    }
+  ]
+};

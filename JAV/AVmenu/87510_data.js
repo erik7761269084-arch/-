@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230729/xmBn7lLC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87510,
+  "IDcode": "JJDA-033",
+  "title": "助平な義父に嫁入り前に触られてしまった息子のいいなずけ 森沢かな",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/2c6896d86725fedcaed3b869e83f145d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87510",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87510&name=森澤佳奈"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/4bd2d81c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66260,
+  "IDcode": "NHDTC-058",
+  "title": "髪わし掴みバックでガン突かれアヘ顔でイキまくるショートカット純粋女子2 市井結夏さんの紙パンティとチェキ付き",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "颜射",
+    "潮吹",
+    "羞耻",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/20/3b0bb5c6c5b3db7033886b19994b7c9e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66260",
+  "actresses": []
+};

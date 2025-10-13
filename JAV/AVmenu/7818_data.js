@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6a6b1c91-476f-4721-8e8f-c8b83ae30801/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7818,
+  "IDcode": "PKPD-357",
+  "title": "透視泳裝POV 犬系撒嬌鬼春日＆白眼秒高潮變態抖M辣妹乃乃 ~ 北城希 花乃春日",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "素人作品",
+    "淫亂",
+    "色白",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "偷拍・盜撮",
+    "美少女",
+    "巨乳",
+    "短髮",
+    "美少女電影",
+    "情趣飯店",
+    "泳裝"
+  ],
+  "description": "PKPD-357为妄想族出品,2025年3月4日发行的有碼成人影片由花乃春日，北城希出演\n這是一部關於社交媒體上業餘女孩的紀錄片，僅用一台攝影機和一根雞巴單獨拍攝！正如所料，女孩們對自己的願望很直率，並且興奮到極致！今天他也把保險套取下來，塞進了她的陰道！搖滾樂絕對是女孩音樂風格。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250302/20250302121122608608.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250302/20250302121122608608.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7818",
+  "actresses": [
+    {
+      "name": "花乃春日",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/50537ab5-f6e1-415b-b2d0-9d7faa087eb5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7818&name=花乃春日"
+    },
+    {
+      "name": "北城希",
+      "img_url": "https://picture.yoshiclub.xyz/20250302/a866f52f-934d-4099-875e-1acd52cb1d90.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7818&name=北城希"
+    }
+  ]
+};

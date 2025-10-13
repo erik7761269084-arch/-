@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230116/4185BBCF2A4C7736/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103125,
+  "IDcode": "HKD-113",
+  "title": "本番もお持ち帰りもできる喫茶店 成澤ひなみ",
+  "publish_date": "2018-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "角色扮演",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hkd113/hkd113pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103125",
+  "actresses": [
+    {
+      "name": "成泽ひなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103125&name=成泽ひなみ"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39982,
+  "IDcode": "D88F4D539BCED4360263D8AB74A66534",
+  "title": "性感内衣的爱奴 14 IG-659",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39982",
+  "actresses": []
+};

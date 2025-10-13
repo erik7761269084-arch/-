@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240611/1o5BopMW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104035,
+  "IDcode": "NABU-005",
+  "title": "東京中出し部 Vol.05 8名225分",
+  "publish_date": "2022-07-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "吞精",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1133nabu005/h_1133nabu005pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104035",
+  "actresses": []
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250416/1vbzeeVx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67989,
+  "IDcode": "NACR-616",
+  "title": "W不倫のスリルを楽しむため、私は夫と結婚しました！ 星乃水音 パンティと生写真付き",
+  "publish_date": "2022-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "出轨",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/6d760c51e25c14a2c4eb785a7b586537.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67989",
+  "actresses": [
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67989&name=ニック"
+    },
+    {
+      "name": "星乃水音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67989&name=星乃水音"
+    }
+  ]
+};

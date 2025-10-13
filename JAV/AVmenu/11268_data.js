@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6129ba17-fd00-4a3f-8f18-2203e4f2a400/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11268,
+  "IDcode": "KAM-220",
+  "title": "丈夫不在的3日間...不倫中出 沉迷於通奸中出性愛的美人妻的記錄 ~ 水端麻美",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "舔腳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "自慰",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "足交",
+    "出軌",
+    "按摩棒",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241013/004c3f4a-b530-4ad4-9669-1fb580fe22ac.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241013/004c3f4a-b530-4ad4-9669-1fb580fe22ac.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11268",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11268&name=水端麻美"
+    }
+  ]
+};

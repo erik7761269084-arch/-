@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/V0HaMlS3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81656,
+  "IDcode": "DDOB-065",
+  "title": "ダルマ緊縛肉便器 ドМな人妻を公開種付け 藍川美夏",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "捆绑",
+    "SM"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81656",
+  "actresses": [
+    {
+      "name": "蓝川美夏",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81656&name=蓝川美夏"
+    }
+  ]
+};

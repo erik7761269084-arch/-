@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230123/05251b60-d84e-4098-a1dd-0f9426ec3b15/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1958,
+  "IDcode": "LAFBD-64",
+  "title": "林間少女 64 高級SPA : 美神彩",
+  "publish_date": "2015-12-04",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "乳交",
+    "中出",
+    "口交",
+    "美腳",
+    "抹油",
+    "野外露天"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/89b93128-5795-45e7-bf02-ee0d77aaefb7.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/89b93128-5795-45e7-bf02-ee0d77aaefb7.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1958",
+  "actresses": [
+    {
+      "name": "美神彩",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(步)/美神あや.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1958&name=美神彩"
+    }
+  ]
+};

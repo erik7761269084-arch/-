@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/V5n8AB34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88175,
+  "IDcode": "PPPD-472",
+  "title": "巨乳人妻とヤリ放題 水野らん",
+  "publish_date": "2016-05-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/da98b4aeae5b46dc91d5a7b6743a5f5e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88175",
+  "actresses": []
+};

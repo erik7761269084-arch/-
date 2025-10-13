@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241017/kL0OT7yM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93883,
+  "IDcode": "PYM-485",
+  "title": "素人娘オナホ化 偽ザー無しフェラ特化20人 完全撮り下ろしSP",
+  "publish_date": "2024-07-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "口交",
+    "羞耻",
+    "业余",
+    "恶作剧"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/e3b9d667304af48a07277716cf6cd483.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93883",
+  "actresses": [
+    {
+      "name": "成田紬",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/9558b34c-765a-4e72-9146-37d0761515ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93883&name=成田紬"
+    }
+  ]
+};

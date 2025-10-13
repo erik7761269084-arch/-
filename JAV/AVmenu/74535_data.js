@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/06/c6c4ec88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74535,
+  "IDcode": "ADN-218",
+  "title": "恩師と朝まで… 秋山祥子",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "素人作品",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74535",
+  "actresses": [
+    {
+      "name": "秋山祥子",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/826137fa-94ff-4e9f-b0be-e64cee41a56d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74535&name=秋山祥子"
+    }
+  ]
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231223/2F1pMazI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89497,
+  "IDcode": "LUXU-1254",
+  "title": "ラグジュTV 1245 経験人数一人という美人ピアニストがAV出演！経験したことのない刺激の渦に思わず大量潮吹き！巨根のピストンに巨乳を躍らせ、大胆な腰振りで乱れまくる！",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "姐姐",
+    "颜射",
+    "苗条",
+    "乳液",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89497",
+  "actresses": []
+};

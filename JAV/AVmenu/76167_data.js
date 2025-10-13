@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/h31aWrlL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76167,
+  "IDcode": "FSET-864",
+  "title": "抑えきれないフェラ欲でよだれダラダラ！？チ○ポをジュルジュルフェラする女",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "口交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76167",
+  "actresses": [
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=泉莉音"
+    },
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=望月綾香"
+    },
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=大浦真奈美"
+    },
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=岬梓沙"
+    },
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=雨村梨花"
+    },
+    {
+      "name": "杉咲しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c21c81a4-3a97-4ff7-a774-ee9d2ca09ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=杉咲しずか"
+    },
+    {
+      "name": "神楽アイネ",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/055e11f2-b940-4335-88f2-09461301c1d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=神楽アイネ"
+    },
+    {
+      "name": "三船かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76167&name=三船かれん"
+    }
+  ]
+};

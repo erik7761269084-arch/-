@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/09/419428e9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118827,
+  "IDcode": "FC2-4607596",
+  "title": "我让一个丰满的已婚女人在浴室里洗了身体",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/10/1fb3c1e941279b981c083c8c9dfc3ebd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118827",
+  "actresses": []
+};

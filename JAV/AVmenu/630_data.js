@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/69acd2fb-8fb2-4c4b-96c2-074c827662dc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 630,
+  "IDcode": "HEYZO-0758",
+  "title": "汗液和淫水混合的性愛 操死這個辣妹！ ~ 井上英李",
+  "publish_date": "2014-12-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "打手槍",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0758为HEYZO出品,2014年12月29日发行的無碼成人影片由井上英李出演\n汗だく液だく汁だくセックス～アツアツ美女をイタダキます！～ - 井上英李",
+  "cover_url": "https://picture.yoshiclub.xyz/20241016/bc3a3686-c5d5-48c7-9bbf-4d13925d52d2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241016/bc3a3686-c5d5-48c7-9bbf-4d13925d52d2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=630",
+  "actresses": [
+    {
+      "name": "井上英李",
+      "img_url": "https://picture.yoshiclub.xyz/20241016/e95f5d99-f2f5-4167-a5e9-b21cce8591ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=630&name=井上英李"
+    }
+  ]
+};

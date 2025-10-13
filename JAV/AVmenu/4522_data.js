@@ -1,0 +1,88 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7dceca01-7b01-4f86-8f91-f2dfedf593a4/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/7ded21b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4522,
+  "IDcode": "MIDA-228",
+  "title": "MOODYZ專屬新人出道！ 某知名阪系地下偶像演唱會挖到的原石級美少女！超敏感20歲獨居宅女 AV DEBUT ~ 辻野唯",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "肛交",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "偶像",
+    "乳交",
+    "雙馬尾",
+    "蘿莉",
+    "紀念作",
+    "脚控・戀足癖",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "比基尼",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "出道作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDA-228为MOODYZ出品,2025年7月11日发行的有碼成人影片由辻野唯出演\n有沒有人在偶像演唱會現場偷偷覺得某個女粉絲超正點？聽說某坂系演唱會總有個獨自來看、靜靜又超可愛的妹子，超級迷戀偶像。我們直接衝到現場，鎖定一個眼神閃亮亮盯著舞台的美少女，上前搭訕：“我們在找能當偶像的女孩，有興趣嗎？”當然啦，不是一般的偶像，是那種性感辣妹型的偶像啦…嘿嘿！她竟然有興趣，跟著我們來試鏡！原本只是迷戀偶像的小粉絲，現在卻全裸出鏡，胸部、菊花、小穴通通秀出來，被一大票男人盯著看。不過她好像超愛這種刺激，眼神迷濛地瘋狂啪啪，絕對是天生的AV偶像！MOODYZ直接簽下專屬，前途無量啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031925159159_55060_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031925159159_55060_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4522",
+  "actresses": [
+    {
+      "name": "辻野唯",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250710/169e2b9d-7a8a-4d48-add0-c3f87cd9b680_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4522&name=辻野唯"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4522&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4522&name=イセドン内村"
+    }
+  ]
+};

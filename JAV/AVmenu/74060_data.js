@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/RmgCT7Q6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74060,
+  "IDcode": "SHKD-865",
+  "title": "女体化堕ち捜査官 蓮実クレア",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "女检察官"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/84c4537f3c2835e238df36d78bfa373e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74060",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74060&name=蓮実クレア"
+    }
+  ]
+};

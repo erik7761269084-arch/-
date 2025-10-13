@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/626dc4cd-7666-427d-a770-178303f6a541/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/22/9b50742f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5638,
+  "IDcode": "DRPT-089",
+  "title": "變態弟弟用詭異液體改造姐姐後庭，敏感度爆棚的巨臀姐姐 ~ 佐倉陽菜",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "電脳ラスプーチン",
+  "genres": [
+    "後入",
+    "肛交",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "口交",
+    "自宅",
+    "白眼失神",
+    "媚藥・迷藥",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "迷姦",
+    "舔陰",
+    "姐弟・兄妹",
+    "奇聞趣事",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "淫蕩・硬核",
+    "插入異物",
+    "亂倫",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "DRPT-089为電脳ラスプーチン出品,2025年5月30日发行的有碼成人影片由佐倉陽菜出演\n姊姊的後庭是我的專屬啦！某天弟弟對姊姊的大屁股起了歪念，偷偷在房間裡調配出一種神祕液體，這東西能讓黏膜敏感度飆升幾十倍！趁姊姊熟睡時，弟弟溜進臥室直接給後庭注入液體！姊姊完全沒察覺就被調教到超敏感，雖然覺得有點怪，但慢慢沉迷於後庭的極致快感！弟弟越來越過分，甚至搞來點滴設備，大量液體直灌姊姊腸道！姊姊被灌到崩潰，自我意識直接炸裂，在後庭玩法中爽到瘋狂高潮啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175616681681_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175616681681_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5638",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5638&name=佐倉陽菜"
+    }
+  ]
+};

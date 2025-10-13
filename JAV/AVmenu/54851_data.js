@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54851,
+  "IDcode": "F032DB0B1C57C656B18FB3F4E4D68B02",
+  "title": "干砲人偶 14 4032",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54851",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/27/3d25f4b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76690,
+  "IDcode": "MYAB-004",
+  "title": "高飛車ぷりけつOLに肉体派のガチムチ汗臭宅配業者が玄関先で白目剥くまで無限イカセでエビ反り絶頂びくんびくんっ！ 篠田ゆう",
+  "publish_date": "2019-01-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "眼镜",
+    "姐姐",
+    "屁股",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76690",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76690&name=篠田优"
+    }
+  ]
+};

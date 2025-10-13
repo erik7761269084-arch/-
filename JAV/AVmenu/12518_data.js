@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/741d737c-9499-422e-b28e-7fff95754c17/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/26/6724bed5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12518,
+  "IDcode": "FSDSS-867",
+  "title": "暑假裏，和一位來修空調漂亮姐姐搞在了一起，單獨衣服下我的勃起被發現，在汗流浹背的打樁中出變成了蕩婦 ~ 藤井蘭々",
+  "publish_date": "2024-09-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "金髮",
+    "艷遇",
+    "巨乳",
+    "修理工",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "FSDSS-867为FALENO出品,2024年9月26日发行的有碼成人影片由藤井蘭々出演\n夏天，我在家準備考試時，冷氣壞了。由於我的房間有蒸氣浴室，我打電話給修理工，一位漂亮的女士來了。我滿頭大汗，沒胸罩，而且因為勃起而無法學習。我對姐姐的甜蜜誘惑點點頭，「你想讓我把你拉出來嗎？」然後我們在炎熱的房間裡做愛。感覺太好了，我幾乎要瘋了。部分原因是天氣太熱，我們都無法停止性慾，一次又一次地射精。這是一種關係，直到修復完成...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822200232818818.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822200232818818.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12518",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12518&name=藤井蘭々"
+    }
+  ]
+};

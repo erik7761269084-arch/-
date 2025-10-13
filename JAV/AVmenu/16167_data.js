@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1433b60d-a6b1-44ac-905a-8217c71897d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16167,
+  "IDcode": "SSNI-155",
+  "title": "想要用透明乳頭和笑容讓鄰居勃起的大奶子人妻奧田咲",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "多P",
+    "人妻",
+    "巨乳",
+    "完全着衣",
+    "手指插入",
+    "邻居",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "SSNI-155为S1出品,2018年4月1日发行的有碼成人影片由奥田咲出演\n大奶人妻深受鄰居男人們的喜愛是有原因的……她不穿胸罩，穿着貼身的衣服，用大奶子誘惑男人，透明乳頭。男人們不滿足於僅僅擁有自己的話題和關注，每天都一個接一個地拜訪大奶人妻，尋求治愈和性治療，當看到他勃起的雞巴時，大奶人妻微笑着引誘他。\n大奶人妻深受鄰居男人們的喜愛是有原因的……她不穿胸罩，穿着貼身的衣服，用大奶子誘惑男人，透明乳頭。男人們不滿足於僅僅擁有自己的話題和關注，每天都一個接一個地拜訪大奶人妻，尋求治愈和性治療，當看到他勃起的雞巴時，大奶人妻微笑着引誘他。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240221/202402210706235252.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240221/202402210706235252.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16167",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16167&name=奥田咲"
+    }
+  ]
+};

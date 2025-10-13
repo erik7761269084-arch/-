@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221229/h3wnAYxd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83624,
+  "IDcode": "MGT-106",
+  "title": "街角シロウトナンパ！ vol.81 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 10",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83624",
+  "actresses": [
+    {
+      "name": "香澄せな",
+      "img_url": "https://picture.yoshiclub.xyz/20240416/d3e3db0b-d3f5-4fb0-93a0-db02a1ad7c3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=香澄せな"
+    },
+    {
+      "name": "香坂みりな",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2d0e463c-2cfd-47f1-b4ad-1e859eed7015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=香坂みりな"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=鲛岛"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=新井爱丽"
+    },
+    {
+      "name": "鹰宫ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=鹰宫ゆい"
+    },
+    {
+      "name": "夜空せいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83624&name=夜空せいら"
+    }
+  ]
+};

@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1fcb05b-06b8-4214-9b37-8595b2462816/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/14/262a7e95/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12091,
+  "IDcode": "START-169",
+  "title": "享受被體液浸溼的最佳身體，享受汗水、淫水、口水的神聖汁液 ~ 神木麗",
+  "publish_date": "2024-10-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "多P",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240910/8d94f8b8-8fd3-4b3e-9067-24d483dedd1c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240910/8d94f8b8-8fd3-4b3e-9067-24d483dedd1c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12091",
+  "actresses": [
+    {
+      "name": "神木麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230821/c68e4c6a-cd4c-4b7e-a7c2-af4ded727741.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12091&name=神木麗"
+    }
+  ]
+};

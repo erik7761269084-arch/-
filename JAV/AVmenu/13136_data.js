@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c3e8c3d8-7a92-4f82-8e44-56acb8e05255/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241029/aIDFyOU3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13136,
+  "IDcode": "START-139",
+  "title": "時隔許久再次相見，已經成熟的青梅竹馬長大了，射精根本停不下來！ 3天內操了12次，夏天的回憶 ~ 葵七瀨",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "純愛・戀愛",
+    "勾引・誘惑",
+    "美少女",
+    "青梅竹馬",
+    "清純",
+    "艷遇",
+    "癡女",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240723/72cbf4aa-a177-4c92-8887-8c2feff9e190.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240723/72cbf4aa-a177-4c92-8887-8c2feff9e190.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13136",
+  "actresses": [
+    {
+      "name": "葵七濑",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/0f194612-ba5e-4995-8322-19c58ff3e5b6.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13136&name=葵七濑"
+    }
+  ]
+};

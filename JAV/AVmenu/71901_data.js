@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/28/ec4511b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71901,
+  "IDcode": "FJIN-064",
+  "title": "筆おろし温泉ソープ 親父の再婚で出来た義母さんは絶倫の巨乳泡姫だった！？ ちなみん",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "乱伦",
+    "胖女人",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/28/ec4511b6/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71901",
+  "actresses": [
+    {
+      "name": "ちなみん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71901&name=ちなみん"
+    }
+  ]
+};

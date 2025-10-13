@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7caf40d2-df1f-48e2-bfdd-bdb913e82789/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6103,
+  "IDcode": "MEYD-986",
+  "title": "陷入的陷阱的搜查官...被媚藥迷倒狂被搞到崩潰的人妻搜查官 ~ 佐山愛",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "4K",
+    "傲嬌",
+    "乳交",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "潮吹",
+    "綁架",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "多P",
+    "美腳",
+    "暗黑系",
+    "潛入",
+    "緊縛",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "美人",
+    "熟女",
+    "女搜查官",
+    "豐滿",
+    "羞恥",
+    "報復"
+  ],
+  "description": "MEYD-986为溜池出品,2025年5月16日发行的有碼成人影片由佐山爱出演\n艾是專門負責特殊詐騙的搜查一課探員，最近一直在試圖接觸鬧得滿城風雨的“地面師”詐騙團伙。她偽裝成小吃店服務員潛伏了一個月，終於抓到了一絲線索。團伙的目標是一家老字號旅館“湯川屋”，艾被安排假扮成旅館老闆娘進行臥底行動。然而，這筆百億大案絕不容有失，就在揭開真相的最後關頭，出現在艾面前的買家竟然是她的老公！這場任務不僅刺激，還充滿了禁忌的背叛感，媚藥加持下，艾被搞到神智不清，完全淪為慾望的玩物...",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042941996996_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042941996996_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6103",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6103&name=佐山爱"
+    }
+  ]
+};

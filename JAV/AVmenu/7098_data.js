@@ -1,0 +1,90 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/360a7141-2b5c-4c50-8b9f-ead252475879/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/08/66957fe5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7098,
+  "IDcode": "DSJH-013",
+  "title": "在興奮劑測試期間，會盯著尿道並收集尿液。一名女運動員因無法逃脫的淫穢測試而失敗，並被鬣狗強姦。",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "健身房",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "運動",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "運動女孩",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "學校",
+    "辣妹/GAL系",
+    "放尿",
+    "極品美人",
+    "美少女電影",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250402/f7da3440-36fd-49fe-81fb-81b9897821c4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250402/f7da3440-36fd-49fe-81fb-81b9897821c4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7098",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7098&name=天馬唯"
+    },
+    {
+      "name": "花狩舞",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/217a474a-68f6-428a-b8e4-968d7cb04ea9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7098&name=花狩舞"
+    },
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7098&name=小野寺舞"
+    },
+    {
+      "name": "木野野葉惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20240316/b6637edd-a100-49c5-b22a-eb8c2822f9c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7098&name=木野野葉惠里香"
+    },
+    {
+      "name": "福田もも",
+      "img_url": "https://picture.yoshiclub.xyz/20240326/e3f3af6a-8f02-41be-929e-16d7c7edc324.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7098&name=福田もも"
+    }
+  ]
+};

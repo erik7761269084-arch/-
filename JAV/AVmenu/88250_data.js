@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230918/IoxZp1rD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88250,
+  "IDcode": "JUL-013",
+  "title": "MUTEKI芸能人×超人気中出しシリーズ！！ 妻には口が裂けても言えません、義母さんを孕ませてしまったなんて…。-1泊2日の温泉旅行で、我を忘れて中出ししまくった僕。- もちづきる美",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "偶像",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88250",
+  "actresses": [
+    {
+      "name": "もちづきる美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88250&name=もちづきる美"
+    }
+  ]
+};

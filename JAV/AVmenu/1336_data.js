@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ad1677e1-9496-41b9-b200-10f9b1eceedd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1336,
+  "IDcode": "HEYZO-2630",
+  "title": "応募素人AV 罕見的兩穴通透在素人女孩前來被幹",
+  "publish_date": "2021-09-24",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "肛交",
+    "素人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230803/20230803001913310310.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230803/20230803001913310310.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1336",
+  "actresses": []
+};

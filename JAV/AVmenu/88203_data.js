@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230911/bodZL84X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88203,
+  "IDcode": "SILK-116",
+  "title": "共犯関係 この世でいちばん罪深い僕ら",
+  "publish_date": "2019-06-06",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "戏剧",
+    "出轨",
+    "情侣",
+    "恋爱",
+    "给女性观众",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/8a56fa719c717bde25978ae4e2516c9b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88203",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88203&name=佐倉陽菜"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88203&name=向理来"
+    },
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88203&name=爱乃零"
+    },
+    {
+      "name": "有马芳彦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88203&name=有马芳彦"
+    }
+  ]
+};

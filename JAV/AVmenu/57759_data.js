@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57759,
+  "IDcode": "554864FEFAD9562FA2D9552B5D6C70D3",
+  "title": "10mu 022610_01 二宮みゆ すっぴん巨乳にうずもれたい！",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57759",
+  "actresses": []
+};

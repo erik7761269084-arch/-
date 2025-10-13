@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b6ca6c9a-576c-45ab-aed2-99b182b446fe/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/fbc71ea9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9775,
+  "IDcode": "NACR-891",
+  "title": "用I罩杯爆乳來撫慰您的身心！ ~ 小阪ひまり",
+  "publish_date": "2024-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "按摩女郎",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "拜金女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "獵豔"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241219/1f7781f3-fd93-409b-aab4-e59cf1f6bead.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241219/1f7781f3-fd93-409b-aab4-e59cf1f6bead.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9775",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9775&name=小坂ひまり"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9775&name=タクト"
+    }
+  ]
+};

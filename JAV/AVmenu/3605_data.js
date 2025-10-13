@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f600480b-54f8-4254-b203-f3bbd3c57382/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/26/08d17fc2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3605,
+  "IDcode": "MNGS-021",
+  "title": "從討厭到愛上她的純愛中出 離職後與曾經厭惡的女上司在便利店重逢，一起喝酒聊嗨了，回鄉前一周甜蜜激戰不停 ~ 美谷朱音",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "酒後亂性",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "職場",
+    "女上司",
+    "大奶头",
+    "眼鏡",
+    "短髮",
+    "極品美人",
+    "飯店"
+  ],
+  "description": "MNGS-021为MOODYZ出品,2025年8月14日发行的有碼成人影片由美谷朱里出演\n朱音是個能力爆棚但對下屬超兇的女課長，部下阿凱對她簡直恨到骨子裡。沒想到朱音突然離職後，阿凱在家附近的便利店巧遇她，兩人索性一起喝了起來。酒桌上，阿凱才知道她離職的真實原因，也發現了她平時不為人知的溫柔一面。酒精助興，氣氛到位，兩人直接從上下級變成了男女關係……本以為只是回鄉前的一場便利關係，但一次次肉體交疊，他們的心也慢慢靠近，感情逐漸升溫，甜到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023416694694_79114_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023416694694_79114_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3605",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3605&name=美谷朱里"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3605&name=ナイアガラ翔"
+    }
+  ]
+};

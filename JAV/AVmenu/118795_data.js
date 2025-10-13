@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/11/e068a691/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118795,
+  "IDcode": "FC2-4608943",
+  "title": "连续射精在日本巨乳眼镜妹嘴里",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/12/5d7dc10492d27f3fb4f5989da24dce7c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118795",
+  "actresses": []
+};

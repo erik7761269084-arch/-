@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/02/54459d0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64014,
+  "IDcode": "BEAF-164",
+  "title": "スレンダー美巨乳美人お姉さん、刺激と快感を求めて撮影にやってきちゃいました笑 セフレの指示でリモコンバイブ挿入、屋外で興奮MAXガチ絶頂のド淫乱 底抜けに明るいドMりえちゃん27歳",
+  "publish_date": "2025-05-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "玩具",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64014",
+  "actresses": []
+};

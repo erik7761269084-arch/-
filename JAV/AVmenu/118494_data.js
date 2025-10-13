@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118494,
+  "IDcode": "0DB9258416679FA7F5B3D07F96489857",
+  "title": "[FC2真实素人精选!] 非请勿入~但欲望人妻想要你进来她的淫穴~ (FC2 PPV 1210478)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118494",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221217/22CB895F8366B807/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97945,
+  "IDcode": "ORE-495",
+  "title": "ゆいちゃん 3",
+  "publish_date": "2019-03-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "中出",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97945",
+  "actresses": [
+    {
+      "name": "夏原唯",
+      "img_url": "https://picture.yoshiclub.xyz/20250212/2690f5b5-fed0-40e9-ac45-35a9de35a910.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97945&name=夏原唯"
+    }
+  ]
+};

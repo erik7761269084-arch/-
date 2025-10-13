@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/l13rPDzF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81072,
+  "IDcode": "336KNB-196",
+  "title": "【ガチ美人妻が我慢できず失禁！？】美乳×美脚クール妻のスケベなギャップに悶絶必至！飢えたカラダが乱れまくる！！『SEXは別に嫌いじゃないです』とか言って、おねだりフェラしちゃうほどのド淫乱！ At 神奈川県茅ヶ崎市 茅ヶ崎駅前",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/85927048762feca78ede4cb4144ac8fb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81072",
+  "actresses": []
+};

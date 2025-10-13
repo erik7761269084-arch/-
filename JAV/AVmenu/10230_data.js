@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7bcc2a49-8ddb-45f2-a878-3cb8dbcfb0ba/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/09/5f5bbd09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10230,
+  "IDcode": "VTMN-013",
+  "title": "我的夢想是！大槻響轉生爲我家的貓咪 ~ 大槻響",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "貓耳裝飾",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241202/80631269-d0c9-4b7d-abec-a60adea485d3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241202/80631269-d0c9-4b7d-abec-a60adea485d3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10230",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10230&name=大槻响"
+    }
+  ]
+};

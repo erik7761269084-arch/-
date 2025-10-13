@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/19/12376051/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78807,
+  "IDcode": "ADN-128",
+  "title": "夫の目の前で犯されて―復讐のシナリオ 緒奈もえ",
+  "publish_date": "2017-07-31",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "出轨",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78807",
+  "actresses": [
+    {
+      "name": "绪奈もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78807&name=绪奈もえ"
+    }
+  ]
+};

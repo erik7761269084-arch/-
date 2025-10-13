@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2e87c5a3-485c-4496-9ea6-aec2f8f004b3/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/9a98fd30/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9806,
+  "IDcode": "SYKH-128",
+  "title": "與穿着靴子的美魔女的無套交尾，她的美麗隨着被插入的快感而消失...... Waka，33 歲",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "緊身衣",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "靴子",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "按摩棒",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "SYKH-128为妄想族出品,2024年12月17日发行的有碼成人影片\n若香小姐在月經前性慾異常。今天好像是X日，一開始她似乎對立即的性行為感到尷尬，但當快感開始佔據她時，她壓抑的慾望突然爆發了。插入，插入，插入。她伸出陰戶，粗俗地吸吮著雞巴，吞噬著快感。為了釋放平日的鬱悶，在後半段的3P性愛中，她像性寵一樣被男人輪姦，樂在其中。一個罕見的淫蕩美麗女巫喜歡靴子性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241215/20241215232433766766.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241215/20241215232433766766.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9806",
+  "actresses": [
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9806&name=ひょこり"
+    }
+  ]
+};

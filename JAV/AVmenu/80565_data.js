@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/08/4fff5884/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80565,
+  "IDcode": "NACR-508",
+  "title": "兄貴の嫁は読者モデル 如月美嘉",
+  "publish_date": "2022-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "口交",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/72817f0c64f7844cf119bc03ccfcb329.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80565",
+  "actresses": []
+};

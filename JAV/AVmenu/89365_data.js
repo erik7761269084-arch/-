@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231216/89sEtaG1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89365,
+  "IDcode": "GANA-2276",
+  "title": "マジ軟派、初撮。 1471 奇抜なファッションに身を包んだ美少女の洋服を剥いだら凄まじく柔らかいGカップ爆乳がポロリ♪抵抗してたはずなのにアソコには巨大なシミ♪爆乳揺らして連続中イキッ！！",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89365",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89365&name=田中寧寧"
+    }
+  ]
+};

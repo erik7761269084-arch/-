@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/8b3ncajE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77410,
+  "IDcode": "MOND-169",
+  "title": "うまなみの兄にめろめろにされた弟嫁 美保結衣",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "已婚妇女",
+    "妄想",
+    "口交",
+    "巨大阴茎",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77410",
+  "actresses": [
+    {
+      "name": "美保结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77410&name=美保结衣"
+    }
+  ]
+};

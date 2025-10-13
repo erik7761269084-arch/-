@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221218/FE7A8F6B0AFD50C6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97969,
+  "IDcode": "JUY-037",
+  "title": "暴風雨 憧れの咲先生と二人だけの夜 香西咲",
+  "publish_date": "2016-12-19",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "数位马赛克",
+    "白天出轨",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97969",
+  "actresses": [
+    {
+      "name": "香西咲",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/8ac4d3b669d8adf22e6c340b5fdd375c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97969&name=香西咲"
+    }
+  ]
+};

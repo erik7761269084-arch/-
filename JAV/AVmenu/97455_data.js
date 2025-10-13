@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220317/3E9B422D7C9189A2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97455,
+  "IDcode": "R-660",
+  "title": "妻美喰い～おねだりワイフ～/沖田杏梨",
+  "publish_date": "2016-10-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "艺人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97455",
+  "actresses": [
+    {
+      "name": "沖田杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/2eae04c6-5c92-4209-8b5b-aa4de0fccb96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97455&name=沖田杏梨"
+    }
+  ]
+};

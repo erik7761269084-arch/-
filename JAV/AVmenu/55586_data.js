@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55586,
+  "IDcode": "A2D499A958D266B061BCB451D5E1ADE8",
+  "title": "10mu 110519_01 村田ひとみ 素人のお仕事 -パイパン保母さんは欲求不満-",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55586",
+  "actresses": []
+};

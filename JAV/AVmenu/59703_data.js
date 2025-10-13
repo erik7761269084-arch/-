@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/lHAhMClr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59703,
+  "IDcode": "SSIS-778",
+  "title": "- もうすぐ引退だから…三上悠亜が彼女になって抜くの 毎日手伝ったげる アナタが好き好き主観映像で究極の恋愛オナニーサポート - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "偶像",
+    "接吻",
+    "主观视角",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59703",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59703&name=三上悠亜"
+    }
+  ]
+};

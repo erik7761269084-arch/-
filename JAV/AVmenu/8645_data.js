@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/412ea2e3-180c-4f81-aac7-4253671ce470/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/07/a84120e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8645,
+  "IDcode": "MIDA-001",
+  "title": "都是初體驗！ ！性開發4本番Special！！ ~ 杏津杏",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "紀念作",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "真人秀",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "寫真女郎",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDA-001为MOODYZ出品,2025年2月4日发行的有碼成人影片由杏津杏出演\n前寫真偶像 Anzu An 的第二部獨家作品！特殊訓練開始喚醒她年輕的嬰兒間隙 I 罩杯乳房，使她成為一個更熱愛性愛的女孩！她被蒙住眼睛，用成人玩具迫使她高潮，然後一根大雞巴插入她的體內，讓她瘋狂！雖然她剛滿20歲，但在與大她30多歲的男人發生性關係後，她終於覺醒了！ ？金光閃閃！砰!砰!每次他抽插的時候，他的大腦下方都會釋放出快感物質，讓他達到高潮！四場演出值得一看！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075812806806.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130075812806806.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8645",
+  "actresses": [
+    {
+      "name": "杏津杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250103/4d556e67-2ec1-4870-8fe1-cbd969a08b18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8645&name=杏津杏"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/95a53e93-f149-450c-ac2f-8094aab8578e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/b707f282/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9854,
+  "IDcode": "BBTU-093",
+  "title": "縛乳 拷問交尾 南畑颯花",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "後入",
+    "企畫",
+    "痴漢",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "綁架",
+    "口交",
+    "白眼失神",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "監禁",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "SM",
+    "暗黑系",
+    "緊縛",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "心理驚悚",
+    "插入異物",
+    "放尿",
+    "拳擊交",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9854",
+  "actresses": [
+    {
+      "name": "南畑颯花",
+      "img_url": "https://picture.yoshiclub.xyz/20241215/2fbcb0c5-6cb9-4f39-9b1a-64991eb4d3fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9854&name=南畑颯花"
+    }
+  ]
+};

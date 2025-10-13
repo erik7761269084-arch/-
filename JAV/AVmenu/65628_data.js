@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65628,
+  "IDcode": "9386DC92133EBC42D5B94354158C6650",
+  "title": "老公不在7日间、被讨厌的公公持续搞到高潮的我… 深田咏美",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65628",
+  "actresses": []
+};

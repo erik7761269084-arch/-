@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/66972f18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35359,
+  "IDcode": "MIAD-733",
+  "title": "我家的变态姐姐-樱井步",
+  "publish_date": "2025-09-09",
+  "type": "无码",
+  "company": "MOODYZ",
+  "genres": [
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "数位马赛克",
+    "妹妹",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35359",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35359&name=樱井步"
+    }
+  ]
+};

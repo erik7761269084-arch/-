@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/DCCA2023CE3D2D16/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97433,
+  "IDcode": "LUXU-667",
+  "title": "ラグジュTV 649",
+  "publish_date": "2017-05-06",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "无毛",
+    "姐姐",
+    "颜射",
+    "屁股",
+    "业余",
+    "女优按摩棒",
+    "乳房",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97433",
+  "actresses": [
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97433&name=七海ゆあ"
+    }
+  ]
+};

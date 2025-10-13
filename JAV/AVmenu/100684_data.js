@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230905/dsX0Sj92/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100684,
+  "IDcode": "INOT-003",
+  "title": "推し活女子は￥交で夢を買う！嫌いなはずのおぢチ◎ポでま◎この奥まで開発されて濃厚生中出しで快楽堕ち 福田もも",
+  "publish_date": "2022-12-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "角色扮演者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100684",
+  "actresses": []
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/09/ed00b9ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92558,
+  "IDcode": "MVSD-543",
+  "title": "【FANZA限定】お酒飲みまくりで本性剥き出し！ドスケベ化！？ 台本無し！ゴム無し！1泊2日！完全プライベートベロ酔い中出しお泊りハメ撮りデート4セックス！ 根尾あかり 生写真3枚付き",
+  "publish_date": "2023-04-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "荡妇",
+    "纪录片",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92558",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92558&name=根尾朱里"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92558&name=蓝井优太"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92558&name=小田切ジュン"
+    }
+  ]
+};

@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230428/4109f5be-16bb-4f4b-ba8c-e5915c10b494/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1634,
+  "IDcode": "sdjs-033",
+  "title": "SOD女員工SP版SOD酒吧團呈現！ ！人生充滿坎坷！遊戲裡有這麼多性感的方塊，讓我忍不住感到尷尬！一場盛大的感恩節聚會，我們邀請了每天支持我們的用戶！",
+  "publish_date": "2019-08-22",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "美乳",
+    "OL",
+    "無碼流出",
+    "綜藝",
+    "感謝祭",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1634",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=今井栞菜"
+    },
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=有栖露露"
+    },
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=小泉真理"
+    },
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=優月真裡奈"
+    },
+    {
+      "name": "葉月萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/763a4279-d2c6-4abb-84ca-c24fe0378640.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=葉月萌"
+    },
+    {
+      "name": "梦乃美笑",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/08a114c4-03d4-4f28-bcf5-b40735419f18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=梦乃美笑"
+    },
+    {
+      "name": "矢野乃々華",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/矢野乃々華.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=矢野乃々華"
+    },
+    {
+      "name": "月下あいり",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/月下あいり.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=月下あいり"
+    },
+    {
+      "name": "望月理沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/839e408a-8934-4dee-902c-4ed929b7b5b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1634&name=望月理沙"
+    }
+  ]
+};

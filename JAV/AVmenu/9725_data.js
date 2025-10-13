@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/782eb74e-5196-44d7-b2ec-93dfa1bd5689/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/11b1759a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9725,
+  "IDcode": "SONE-493",
+  "title": "139激烈高潮！超過5500次痙攣！高潮潮吹2,800cc！珍貴的愛神覺醒第一大大大痙攣特輯 ~ 榊原萌",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "濕身",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SONE-493为S1出品,2024年12月24日发行的有碼成人影片由榊原萌出演\n今年你絕對想看的AV。小萌嘗試了一個月的嚴格禁慾。拍攝當天，我的身心都處於焦慮的巔峰。呼吸就能感覺到，指尖觸碰就會抽搐的敏感身體。由於她第一次的春藥、玩具的折磨、以及對她纖細身體的無情敲打…一名20歲的女孩一遍又一遍地高潮，直到失去意識。來自現在最可愛的美麗女孩的世界上最色情的性愛。它是如此可愛和色情。這裡是追求簡約的王道的最高峰。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/202412180950146464.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/202412180950146464.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9725",
+  "actresses": [
+    {
+      "name": "榊原萌",
+      "img_url": "https://picture.yoshiclub.xyz/20240920/8db6622f-527c-4cbe-ba92-ca417da4c2bf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9725&name=榊原萌"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9725&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9725&name=小田切ジュン"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9725&name=イセドン内村"
+    }
+  ]
+};

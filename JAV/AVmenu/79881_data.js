@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/aXqaQbLw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79881,
+  "IDcode": "SIRO-4662",
+  "title": "【初撮り】【童顔×爆乳】【パイズリ奉仕】メイドカフェで働く爆乳文学系JDが登場。童顔でアニメ声の少女は振り子のように爆乳を揺らし、恥ずかしがりながらも淫らな言葉を紡いでいく。 ネットでAV応募→AV体験撮影 1653",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "女大学生",
+    "第一人称摄影",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79881",
+  "actresses": [
+    {
+      "name": "凪沙雪乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79881&name=凪沙雪乃"
+    },
+    {
+      "name": "ゆきの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79881&name=ゆきの"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/3C63B4418BCC7463/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99011,
+  "IDcode": "RPIN-015",
+  "title": "スベ肌＆パイパン娘、デカチ●ポを根元までくわえ込む変態ビッチだった",
+  "publish_date": "2016-12-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "萝莉塔",
+    "业余",
+    "瘦小身型",
+    "平胸",
+    "猥亵穿着"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99011",
+  "actresses": [
+    {
+      "name": "いろはめる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99011&name=いろはめる"
+    }
+  ]
+};

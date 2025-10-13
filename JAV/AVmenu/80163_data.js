@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/23/81ba1d1f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80163,
+  "IDcode": "JUFE-345",
+  "title": "ゲリラ豪雨のたびに濡れ透けたカラダを犯●れてしまう爆乳女子大生 桃園怜奈",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "羞耻",
+    "连裤袜",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/9a2d13451728adb725f791677abdc3b1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80163",
+  "actresses": [
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80163&name=桃園怜奈"
+    }
+  ]
+};

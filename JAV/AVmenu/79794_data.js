@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/KzMprzBb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79794,
+  "IDcode": "GANA-2553",
+  "title": "マジ軟派、初撮。 1699 胸元の谷間が魅力的過ぎる黒髪少女をナンパ！ボーリング対決からの罰ゲームでスタジオ連れ込み！スレンダーな体に不釣り合いな美巨乳に興奮必死！",
+  "publish_date": "2021-10-03",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "苗条",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/98831e76a5b6ece27ad52b3becc04951.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79794",
+  "actresses": []
+};

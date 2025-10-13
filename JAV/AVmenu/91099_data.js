@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/07/1d31190e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91099,
+  "IDcode": "JRZE-150",
+  "title": "初撮り五十路妻ドキュメント 宮下昌代",
+  "publish_date": "2023-06-08",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240318-1/34328ec52e9a804f8c9afaebf748e93b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91099",
+  "actresses": [
+    {
+      "name": "宮下昌代",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91099&name=宮下昌代"
+    }
+  ]
+};

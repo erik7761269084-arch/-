@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220406/952E04F0D5699F49/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102699,
+  "IDcode": "MOND-155",
+  "title": "憧れの女上司と 横山みれい",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102699",
+  "actresses": [
+    {
+      "name": "横山みれい",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a6167fbe-2a86-4933-a009-854ec0b01685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102699&name=横山みれい"
+    }
+  ]
+};

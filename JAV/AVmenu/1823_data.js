@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230121/8b0e6049-82c8-49b9-b29b-de9925f8556b/index.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20230323/D63E5A87DAD00DA1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1823,
+  "IDcode": "CWPBD-80",
+  "title": "CATWALK POISON 80 ～湯煙滿溢的中出旅行～ : 沖仁美（藍光版）",
+  "publish_date": "2013-04-18",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "車震",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "口交",
+    "美少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/d853548e-bdea-4086-be62-2284c6ada0ce.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/d853548e-bdea-4086-be62-2284c6ada0ce.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1823",
+  "actresses": [
+    {
+      "name": "沖仁美",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/bd7c1e98-b854-47f4-828e-05b34d4c16f2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1823&name=沖仁美"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240715/ScFWw8XJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87230,
+  "IDcode": "GMA-035",
+  "title": "緊縛調教妻 成宮彩葉",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "GLOBAL MEDIA ANNEX",
+  "genres": [
+    "成熟的女人",
+    "凌辱",
+    "捆绑",
+    "SM",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87230",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87230&name=成宫いろは"
+    },
+    {
+      "name": "栗原良",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87230&name=栗原良"
+    }
+  ]
+};

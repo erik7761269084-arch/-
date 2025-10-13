@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/7p4CKG9z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90478,
+  "IDcode": "ONEX-001",
+  "title": "黒髪ショートカット美少女と性交 01",
+  "publish_date": "2023-07-07",
+  "type": "有码",
+  "company": "ONE MORE",
+  "genres": [
+    "中出",
+    "制服",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/ffbdf5fbd27d1220c7c300fa6d6e76a5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90478",
+  "actresses": []
+};

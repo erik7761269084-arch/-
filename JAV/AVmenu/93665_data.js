@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241014/7IutqCGR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93665,
+  "IDcode": "OLM-078",
+  "title": "OLM078美乳つるまんお姉さまがキュートな関西弁で淫語責め！脚フェチプレイってめっちゃ気持ちイイっ！！cd5",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "OLYMPUS",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241015-1/c714aca5bac74f33238395ae64eaaa5f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93665",
+  "actresses": []
+};

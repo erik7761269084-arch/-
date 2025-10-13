@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220927/BN28jTcS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81356,
+  "IDcode": "MDVHJ-036",
+  "title": "姑と嫁の夜●いレズビアン5章",
+  "publish_date": "2021-08-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "乱伦",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220927-1/f3a4b7ac74d10956cfe24f4d11d5de3c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81356",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81356&name=翔田千里"
+    },
+    {
+      "name": "远藤しおり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81356&name=远藤しおり"
+    },
+    {
+      "name": "浅宫ちなつ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81356&name=浅宫ちなつ"
+    }
+  ]
+};

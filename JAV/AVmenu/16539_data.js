@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4bfd7b44-e01e-4cbd-8de3-c5e7059b20f1/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/09/23/b5b21e88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16539,
+  "IDcode": "ABF-023",
+  "title": "人氣AV女優流川夕在接受採訪時把我的雞巴含在嘴裏",
+  "publish_date": "2023-08-31",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "網襪",
+    "口交",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "女優"
+  ],
+  "description": "ABF-023为蚊香社出品,2023年8月31日发行的有碼成人影片由流川夕出演\n女演員“流川夕”超人氣AV女優，以非凡的美貌徵服了所有見過她的人。在一家餐館裏，把雞巴含在嘴裏，以免別人發現，盡管我覺得不道德，但我還是試圖給口交。帶着相機去她家到處做愛！享受愉悅的愛撫和活塞，讓甜美的聲音在家中回響！一個月左右的近距離報道，從拍攝現場到私生活！ 「流川夕」笑容背後隱藏着的熱情！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129090718988988.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240129/20240129090718988988.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16539",
+  "actresses": [
+    {
+      "name": "流川夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/7d210205-3d7a-4f95-ac50-64a79fd2f347.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16539&name=流川夕"
+    }
+  ]
+};

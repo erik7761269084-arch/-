@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a976c05e-0586-4602-ba97-bdfab66f1eac/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11443,
+  "IDcode": "HUBLK-037",
+  "title": "睡奸攝影會 ~ 天馬唯 雅子裡菜 有棲舞衣",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "變態",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "少女",
+    "輪姦",
+    "多P",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "清純",
+    "誘騙女性",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "HUBLK-037为HUNTER出品,2024年10月8日发行的有碼成人影片由天馬唯，雅子裡菜，有栖舞衣出演\n如今的網路世界充滿了許多自稱業餘模特的人，我們每個月都會收到各種各樣的模特，其中包括前兒童演員和涉足娛樂行業的初級人才。這只是一次健康的拍攝，但對於那些無法克服自己慾望的人…我們會要求模特兒休息一段時間，在此期間我們會幫助進行性過程。禁止暴力行為。我們也透過休息來為保證著色。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003111420823823.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003111420823823.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11443",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11443&name=天馬唯"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11443&name=有栖舞衣"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11443&name=雅子裡菜"
+    }
+  ]
+};

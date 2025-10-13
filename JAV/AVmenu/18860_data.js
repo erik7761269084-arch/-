@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3cc973c6-36e6-495e-8ca5-5c6a0b460803/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2020/11/01/80411b45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18860,
+  "IDcode": "IPX-555",
+  "title": "被討厭到死的垃圾繼父持續高潮屈辱強暴 毫不寬容肉棒插入強制高潮！",
+  "publish_date": "2020-10-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "繼父",
+    "父女",
+    "強姦",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831233433990990.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230831/20230831233433990990.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18860",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18860&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18860&name=明里䌷"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/18/9dfdbeb6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105081,
+  "IDcode": "WANZ-762",
+  "title": "デカ尻マニアックス JULIA",
+  "publish_date": "2018-06-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女上位",
+    "屁股",
+    "巨大屁股",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105081",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105081&name=JULIA"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105081&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55211,
+  "IDcode": "BD17F5448C51884B710FA00CA2A48859",
+  "title": "韩国巨乳天使美少女火辣热舞自慰口爆露出私处直播第五季",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55211",
+  "actresses": []
+};

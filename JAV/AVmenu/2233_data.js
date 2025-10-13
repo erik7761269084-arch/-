@@ -1,0 +1,62 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2233,
+  "IDcode": "MIX-040",
+  "title": "昭和風清純貓系少女的極致誘惑合集4小時總編集 ~ 伊織雛乃",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "GLAYz",
+  "genres": [
+    "後入",
+    "高顏值",
+    "故事集",
+    "企畫",
+    "二次元",
+    "絕頂高潮",
+    "傲嬌",
+    "校花",
+    "雙馬尾",
+    "蘿莉",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "正統派",
+    "制服",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "美少女電影",
+    "無毛",
+    "女優"
+  ],
+  "description": "MIX-040为GLAYz出品,2025年10月3日发行的有碼成人影片由伊織雛乃出演\n這妹子散發濃濃昭和復古味，貓系小臉蛋清純到爆，但內心性慾直接炸裂，好奇心旺得不得了！超敏感的小隻馬美少女，制服穿上身根本天菜，透明感滿點！那纖細到一抱就怕壞的身材，被大尺寸猛力衝擊，爽翻天！無毛小穴隨時濕答答，隨時準備開戰，敏感小櫻桃隨便一逗就受不了！絕對讓你欲罷不能，伊織雛乃獻上240分鐘精選畫面，錯過就是罪過啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251005/20251005053210903903_41006_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251005/20251005053210903903_41006_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2233",
+  "actresses": [
+    {
+      "name": "伊織雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/6a46a693-db54-443c-92b0-e03cc92d3091.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2233&name=伊織雛乃"
+    }
+  ]
+};

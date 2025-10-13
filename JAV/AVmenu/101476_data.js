@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240319/qd5sHOVc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101476,
+  "IDcode": "MAAN-958",
+  "title": "【エロだらしないムチムチボディ】彼氏の独りよがりセックスが不満！今回の裏垢美女は【笑顔が魅力的な愛嬌抜群ドすけべ保育士】ボンっボンっボンっの3拍子揃った破壊力抜群の肉感ボディ！！上目遣いでじっくり包み込む至高のパイズリ！！美尻がオイルで艶めかしく光る濃密生中セックスッ！！【撮影OK #裏垢タダマン】【スズ】",
+  "publish_date": "2024-03-02",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "乳液",
+    "业余",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101476",
+  "actresses": []
+};

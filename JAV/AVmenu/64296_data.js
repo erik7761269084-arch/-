@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220515/5E2F65EEA4925E40/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64296,
+  "IDcode": "F81961B13FC364831545C5290A9CF-358",
+  "title": "软嫩质感滑溜肌肤G罩杯美巨乳帮射的按摩妹乳交挟射全套 高桥圣子",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64296",
+  "actresses": []
+};

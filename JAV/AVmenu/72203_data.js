@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/i0S8ieek/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72203,
+  "IDcode": "DVAJ-331",
+  "title": "誕生日の彼女を驚かせようと部屋にこっそり入って待機してたら、彼女が僕の友人と二人で帰ってきて…僕はとっさにベッドの下に隠れてしまったのです。息を潜めていると、ベッドの上からピチャピチャいやらしい音が聞こえてきて…【最低最悪の寝取られ体験】 高杉麻里",
+  "publish_date": "2018-05-13",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72203",
+  "actresses": [
+    {
+      "name": "高杉麻里",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/2a480853-ceac-47fb-9c72-98296d6963f6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72203&name=高杉麻里"
+    }
+  ]
+};

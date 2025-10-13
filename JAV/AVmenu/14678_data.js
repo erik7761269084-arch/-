@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a6f0252d-0ad3-4290-be9c-36b34a947c77/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/18/82b6a42c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14678,
+  "IDcode": "MEYD-910",
+  "title": "夜班兼職老婆NTR 夜色掩護下，人妻陷入外遇…… ~ 天海翼",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "咖啡店",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "服務生",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "明星臉",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "美少女電影"
+  ],
+  "description": "MEYD-910为溜池出品,2024年5月21日发行的有碼成人影片由天海翼出演\n我想盡可能遠離騷擾我的丈夫...考慮到這一點，翼開始在附近的咖啡館兼職做夜間清潔工。打烊後的寧靜夜晚，瀰漫著咖啡香味的咖啡店脅津。對於小翼這個安靜愛讀書的人來說，這樣的店內，勾起了一些舊日的回憶，也讓小翼胯部隱隱作痛。她無法忍受身體的酸痛，整天獨自在商店的浴室安慰自己。有一天，同樣喜歡閱讀的喜多大師見到了他…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517042912859859.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517042912859859.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14678",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14678&name=天海翼"
+    }
+  ]
+};

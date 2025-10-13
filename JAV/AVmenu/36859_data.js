@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220517/901368DF72385FF7/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36859,
+  "IDcode": "ABBA13B1E723FFCE62E6B2F9636E-0299",
+  "title": "おねだりSEX 無限の性欲 音羽レオン",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36859",
+  "actresses": []
+};

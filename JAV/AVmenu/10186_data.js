@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fafe4d42-bc97-48e1-b374-7122537f9fae/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10186,
+  "IDcode": "AMBI-202",
+  "title": "制服中出美少女飼育 ~ 美咲音",
+  "publish_date": "2024-12-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "巨尻",
+    "調教",
+    "變態",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "少女",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/09d4a7d5-4705-4d1e-ad84-ec9f9cd7bd9f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/09d4a7d5-4705-4d1e-ad84-ec9f9cd7bd9f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10186",
+  "actresses": [
+    {
+      "name": "美咲音",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/6ee78fe8-b265-4a7d-a342-351f7c908232.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10186&name=美咲音"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230115/4GAOeIxU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84902,
+  "IDcode": "JUFE-353",
+  "title": "美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 三尾めぐ",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "屁股",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84902",
+  "actresses": []
+};

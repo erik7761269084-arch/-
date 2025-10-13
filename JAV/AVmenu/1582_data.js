@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230401/346fd249-6fe6-4837-b6e6-e798bef9c280/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1582,
+  "IDcode": "STAR-931",
+  "title": "退出演藝圈後，小尾渚立即以 AV 出道。",
+  "publish_date": "2018-06-21",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "美乳",
+    "無碼流出",
+    "美少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/6f497f45-799f-4eed-8393-95e9ff1f1272.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/6f497f45-799f-4eed-8393-95e9ff1f1272.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1582",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1582&name=加藤桃香"
+    }
+  ]
+};

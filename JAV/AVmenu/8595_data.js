@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/af06fac0-80ea-4d0e-bb16-d3c475d269bd/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/18/ef2ce34c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8595,
+  "IDcode": "XVSR-797",
+  "title": "泡姬桃源鄉 - 人妻套餐 ～森澤佳奈用泡泡和愛徹底清洗你的敏感部位 ~ 森澤佳奈",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "泡姬",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "女神",
+    "風俗娘",
+    "性感",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "抹油",
+    "美人",
+    "極品美人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250202/404f5d6d-d1d4-4e76-a36f-32d84404ad0b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250202/404f5d6d-d1d4-4e76-a36f-32d84404ad0b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8595",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8595&name=森澤佳奈"
+    }
+  ]
+};

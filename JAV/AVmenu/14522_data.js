@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2829b08b-1407-464c-bcbf-a4615995b7a3/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241015/AKxtMGds/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14522,
+  "IDcode": "PIYO-195",
+  "title": "男人的浪漫！尋找未開發的混浴溫泉……",
+  "publish_date": "2020-12-01",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "劇情",
+    "變態",
+    "少女",
+    "雙飛",
+    "獵豔",
+    "兩女一男",
+    "溫泉"
+  ],
+  "description": "PIYO-195为2020年12月1日发行的有碼成人影片\n我只是想看裸體女孩，所以我跑遍了各地的混浴溫泉，別有用心地等待著。我不能要求更多了。然後怎樣呢？我遇到了一個天真又自命不凡的小妞。 「你之前沒看到我的胸部嗎？」「我的胸部最近變大了。」「你想讓我摸摸它們嗎？」在我意識到之前，我的雞巴已經被擠壓得厲害了。讓我看起來很愚蠢。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522233102925925.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240522/20240522233102925925.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14522",
+  "actresses": []
+};

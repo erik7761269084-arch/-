@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66694053-b7e7-413e-afe1-66bc5fe2f7ec/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17720,
+  "IDcode": "MSMT-002",
+  "title": "我想跟黑人交配！一個開朗的女孩，帶著可愛的咖啡館店員的微笑，用她的黑雞巴帶來了巨大的高潮",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "深喉",
+    "黑人男優",
+    "大雞巴",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231120/20231120004305625625.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231120/20231120004305625625.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17720",
+  "actresses": [
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17720&name=宇流木沙羅"
+    }
+  ]
+};

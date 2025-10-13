@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221016/CLsUFxM2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56153,
+  "IDcode": "GACHI1151",
+  "title": "婴儿肥的美女~被无情中出",
+  "publish_date": "2017-06-15",
+  "type": "无码",
+  "company": "MILK",
+  "genres": [
+    "苗条",
+    "素人",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56153",
+  "actresses": []
+};

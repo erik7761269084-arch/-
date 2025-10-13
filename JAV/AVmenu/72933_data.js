@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/04/7b88097b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72933,
+  "IDcode": "ABP-252",
+  "title": "冬月楓的極上破處",
+  "publish_date": "2015-02-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "苗条",
+    "处男",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/02/06/2ac9d5d4604564903f0e2bbeb9ea07d8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72933",
+  "actresses": [
+    {
+      "name": "冬月枫",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ef569942-7814-4b31-aa3f-255eb66391a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72933&name=冬月枫"
+    }
+  ]
+};

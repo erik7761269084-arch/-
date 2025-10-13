@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230329/8086adfc-7a0a-4438-9162-f7189d9f79b7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1549,
+  "IDcode": "MXGS-874",
+  "title": "新人雲雀～幾個月前擔任學生會長的整齊透明美少女～",
+  "publish_date": "2016-05-16",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "無碼流出",
+    "美少女",
+    "出道作品",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230330/ab120f2b-4394-42a0-a709-56feeb74fe95.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230330/ab120f2b-4394-42a0-a709-56feeb74fe95.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1549",
+  "actresses": [
+    {
+      "name": "雲雀乃愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/f16b47b5-aaea-4248-b16b-3f05777ca3ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1549&name=雲雀乃愛"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/11/28/93a596b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82238,
+  "IDcode": "BLK-386",
+  "title": "旦那の精液の量が減ってきたので応募しました… 受精アクメしかできない元ギャル人妻さん生ハメ志願",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82238",
+  "actresses": [
+    {
+      "name": "枫真衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82238&name=枫真衣"
+    }
+  ]
+};

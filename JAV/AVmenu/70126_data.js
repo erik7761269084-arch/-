@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250324/pKYVc7Mc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70126,
+  "IDcode": "FUGA-54",
+  "title": "FUGA-54",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250325-1/6b46e09aabe91b97102ac025926777ac.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70126",
+  "actresses": []
+};

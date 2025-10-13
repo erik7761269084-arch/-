@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c985c563-1e4d-4634-bd84-3654abf657e3/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240615/Q8wbfbu7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15577,
+  "IDcode": "JUQ-655",
+  "title": "不能告訴妻子我讓嶽母懷孕了...... 在溫泉之旅中度過了兩天一夜，我迷失了自我並在嶽母體內射精 ~ 上羽絢",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "流汗",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "岳母",
+    "口交",
+    "旅行",
+    "性感",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女",
+    "溫泉"
+  ],
+  "description": "JUQ-655为MADONNA出品,2024年4月9日发行的有碼成人影片由上羽絢出演\n「京君，你可以在旅行前禁戒一個月嗎？」我的繼父母突然問我，我很困惑。本來是一次沒有家人陪伴的溫泉旅行，卻被要求趁著旅行的機會，和妻子生個孩子。就我所知，直到旅行當天我都沒有禁慾，但我忍不住感到痛苦......當我前往溫泉平息積聚起來的慾望時，我無法控制住自己，我不小心走進了婆婆的女浴池…親眼目睹了她性感的沐浴模樣…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406053740627627.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240406/20240406053740627627.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15577",
+  "actresses": [
+    {
+      "name": "上羽絢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/fec8fad2-a2cc-4e79-940b-b5d5f985bb5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15577&name=上羽絢"
+    }
+  ]
+};

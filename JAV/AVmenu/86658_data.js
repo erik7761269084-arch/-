@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/15/bb4d18dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86658,
+  "IDcode": "ABW-040",
+  "title": "青春 與制服美少女完全主觀渡過性春3性愛。 ＃01 鈴村愛理",
+  "publish_date": "2021-01-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "颜射",
+    "角色扮演者",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/44f673c06a79c4f6d8325bbe5f253c05.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86658",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86658&name=鈴村愛里"
+    }
+  ]
+};

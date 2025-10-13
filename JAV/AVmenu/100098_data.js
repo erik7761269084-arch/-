@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230311/C84728A094ABE95A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100098,
+  "IDcode": "MIDD-766",
+  "title": "卑猥ボディ濃密セックス 小日向みく",
+  "publish_date": "2011-05-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "多P",
+    "颜射",
+    "荡妇",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd766/midd766pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100098",
+  "actresses": []
+};

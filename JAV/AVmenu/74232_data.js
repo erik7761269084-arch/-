@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250107/XRZTnD75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74232,
+  "IDcode": "JUY-914",
+  "title": "水戸かな初本格NTR作品！！ 交換夫婦NTR 寝室の窓から目撃した妻と友人の衝撃的浮気映像",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "羞耻",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250108-1/b0a4b29754a7efd7cc41d85308361267.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74232",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74232&name=水户香奈"
+    }
+  ]
+};

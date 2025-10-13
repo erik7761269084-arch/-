@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/01/c2152d98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72984,
+  "IDcode": "BF-726",
+  "title": "久しぶりに会った幼馴染がナマイキギャルになっていた！囁き杭打ち騎乗位で誘惑してきて何度も中出しさせられたボク 北岡果林",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "制服",
+    "女生",
+    "童年朋友",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/02/01/f9990c2018fe9e8fabbe929a8bf7aa55.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72984",
+  "actresses": [
+    {
+      "name": "北岡果林",
+      "img_url": "https://picture.yoshiclub.xyz/20240405/26316457-b68d-4e06-8e74-94f05e6136f1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72984&name=北岡果林"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72984&name=いち"
+    }
+  ]
+};

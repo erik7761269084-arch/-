@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c20174ba-1b2a-4bab-a129-88f0d57cc201/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/22/9c1ff272/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6263,
+  "IDcode": "ROE-346",
+  "title": "跟女兒的男友偷情，爽到全身痙攣起不來 ~ 桐岡さつき",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "貴婦",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "岳母",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "清楚系",
+    "單體作品",
+    "巨乳",
+    "地味",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "短髮",
+    "豐滿"
+  ],
+  "description": "ROE-346为MADONNA出品,2025年5月9日发行的有碼成人影片由桐岡さつき出演\n女兒小美剛出生沒多久，我就跟那個賭博成癮、欠債纍纍的老公離婚了。為了不讓女兒因為單親家庭吃苦，這十年我拚命打工賺錢。女兒大學畢業，找到工作，準備結婚，未來一片光明。沒想到某天，我居然跟女兒的男友滾了床單！雖然心裡對女兒滿是愧疚，但壓抑多年的慾望完全失控，身體像是被電流擊中，爽到全身麻痺，根本停不下來啊……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064940875875_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064940875875_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6263",
+  "actresses": [
+    {
+      "name": "桐岡さつき",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/772fa84f-1df3-4385-a0e2-8c032f937f8e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6263&name=桐岡さつき"
+    },
+    {
+      "name": "ラヴズ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6263&name=ラヴズ"
+    },
+    {
+      "name": "桐冈さつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6263&name=桐冈さつき"
+    }
+  ]
+};

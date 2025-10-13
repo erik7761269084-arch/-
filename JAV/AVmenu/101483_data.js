@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240320/ftmreSWX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101483,
+  "IDcode": "SIRO-5219",
+  "title": "【剛毛ギャル】身長172cmのイケイケギャル登場！ノリが軽すぎて何でも言うことを聞いちゃうお手本のようなギャル！気持ち良くなり過ぎて剛毛ま○こから大量潮吹き！【初撮り】ネットでAV応募→AV体験撮影 2116",
+  "publish_date": "2024-02-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "高",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101483",
+  "actresses": [
+    {
+      "name": "セイラ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101483&name=セイラ"
+    }
+  ]
+};

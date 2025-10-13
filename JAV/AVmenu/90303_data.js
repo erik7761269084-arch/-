@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240114/2lZDfLmQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90303,
+  "IDcode": "RKI-650",
+  "title": "パパ活で稼いでるだけのくせに弱者男性を完全に見下している人気インフルエンサー女 クソ生意気でムカついたので腹いせに●して人生滅茶苦茶にしてやります。 斎藤あみり 椿りか",
+  "publish_date": "2023-12-12",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "中出",
+    "偷窥",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90303",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90303&name=椿莉香"
+    },
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90303&name=斋藤亚美里"
+    }
+  ]
+};

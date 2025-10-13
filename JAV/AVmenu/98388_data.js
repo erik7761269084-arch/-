@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230302/6CABD9EEB0B2D63A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98388,
+  "IDcode": "BBAN-266-",
+  "title": "現役モデルはレズビアン某ガールズコレクション出場名前",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "多P",
+    "女同性恋",
+    "女同接吻",
+    "模特儿",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98388",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98388&name=真木今日子"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98388&name=香苗レノン"
+    }
+  ]
+};

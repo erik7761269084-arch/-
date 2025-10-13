@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/15/8aa59c59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89851,
+  "IDcode": "SAME-053",
+  "title": "最後に義母さんは、「中に出して」と俺に言った。 妃ひかり",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "婆婆",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ed60dd254f96cdf176767c6476ccb4e6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89851",
+  "actresses": [
+    {
+      "name": "妃光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/fe0ff9d1-58c0-4ce3-a932-2ff6f585b777.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89851&name=妃光莉"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220718/040E972F00F14D42/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37631,
+  "IDcode": "17E9023AA05A21499DA3BC0496CFE-640",
+  "title": "下は剛毛。上はデカ乳輪の熟女ととことんヤリまくる シリーズ特設",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37631",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/jJ71XGyH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86773,
+  "IDcode": "APKH-134",
+  "title": "【ご奉仕の天才】極上乳圧の芸術的Gカップでパイズリ奉仕する制服美少女と淫猥ハメ撮り 四葉さな",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86773",
+  "actresses": [
+    {
+      "name": "四叶さな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86773&name=四叶さな"
+    }
+  ]
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/85faa693-718a-4668-9f30-64646e2d5ae9/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/941aeb3e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10149,
+  "IDcode": "DASS-500",
+  "title": "我的身材苗條、亭亭玉立、美麗動人的華奢女友，被父親寢取授精了 ~ 倉本菫",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "痴漢",
+    "劇情",
+    "老頭子",
+    "變態",
+    "凌辱",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "迷姦",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美少女電影",
+    "女學生",
+    "泳裝",
+    "羞恥"
+  ],
+  "description": "DASS-500为DASDAS出品,2024年12月10日发行的有碼成人影片由倉本菫出演\n堇和賢二是一對剛開始約會的純真情侶，放學後第一次牽手。有一天，堇來到賢二的家，向他的父親賢三打招呼。雖然賢三取笑這對無辜的情侶，但他還是被禮貌又可愛的堇嚇到了。賢治請堇為他的生日做飯，所以那天堇做了咖哩。以嫉妒的目光注視著的賢三，在兒子的咖哩裡混入了安眠藥，在堇的咖哩裡混入了春藥！ Kenzo 假裝擔心堇的興奮狀態，並像動物一樣撫摸著她熟睡的兒子。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205085843951951.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205085843951951.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10149",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10149&name=倉本菫"
+    }
+  ]
+};

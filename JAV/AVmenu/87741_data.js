@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/tVumDHYA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87741,
+  "IDcode": "SSIS-758",
+  "title": "人生捨てたロリコン教師から学校の教室や廊下で犯●れ続け、それが気持ちいいコトと調教されて世界一エロくなった女子●生 架乃ゆら （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "潮吹",
+    "口交",
+    "薄马赛克",
+    "乳房",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/8085c806ee9db25abff58a98642becdc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87741",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87741&name=架乃由羅"
+    }
+  ]
+};

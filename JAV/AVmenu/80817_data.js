@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/25/5dac9561/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80817,
+  "IDcode": "MIDV-050",
+  "title": "泊まり合宿で性欲体力MAXな巨漢の先輩部員たちと相部屋にさせられた新人女子マネージャー 花芽ありす",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "苗条",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80817",
+  "actresses": [
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80817&name=花芽有朱"
+    }
+  ]
+};

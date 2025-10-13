@@ -1,0 +1,35 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58701,
+  "IDcode": "HEYZO2195",
+  "title": "新城由衣裸族な主婦の破廉恥な私性活",
+  "publish_date": "2020-02-18",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "雪白皮肤",
+    "知名女优",
+    "玩具",
+    "淫荡手淫",
+    "背后插入",
+    "骑乘位",
+    "出轨",
+    "肛交",
+    "苗条",
+    "美脚",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58701",
+  "actresses": [
+    {
+      "name": "吉泽ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58701&name=吉泽ひかり"
+    }
+  ]
+};

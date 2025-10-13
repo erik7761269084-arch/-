@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230218/830C1600A1C22098/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99720,
+  "IDcode": "DANDY-494",
+  "title": "「『夫の浮気が許せない…』昼間からホロ酔いのワケありおばさんは少しの優しさと勃起チ○ポで中出しまでヤれる」VOL.1",
+  "publish_date": "2016-06-09",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy494/1dandy494pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99720",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99720&name=蓝井优太"
+    },
+    {
+      "name": "江波りゅう（RYU)",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99720&name=江波りゅう（RYU)"
+    },
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99720&name=成宫いろは"
+    }
+  ]
+};

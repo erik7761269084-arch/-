@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/07/27/c974a210/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96777,
+  "IDcode": "HSDAM-035",
+  "title": "「バリキャリ女性上司（35歳）と取引先飲み会終わりの反省会で食べられました。」アルハラ眠らせ不同意生ハメ性交 case:01",
+  "publish_date": "2024-04-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96777",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96777&name=大槻响"
+    }
+  ]
+};

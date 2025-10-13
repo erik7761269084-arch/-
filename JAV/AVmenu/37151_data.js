@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220730/9F19BF214B359180/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37151,
+  "IDcode": "E7D37F3CFD2A624D4837B06D602DC2F-9",
+  "title": "妙にそそる友達の妹のノーブラ乳首",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37151",
+  "actresses": []
+};

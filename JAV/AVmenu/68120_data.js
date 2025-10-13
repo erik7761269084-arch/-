@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/31/20861a3e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68120,
+  "IDcode": "TYSF-033",
+  "title": "精飲調酒師  有加里乃乃花",
+  "publish_date": "2023-01-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "颜射",
+    "吞精",
+    "乳房",
+    "滥交",
+    "深喉",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250414-1/af2f7af874d1fa0f1bf58d224da9fc9e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68120",
+  "actresses": []
+};

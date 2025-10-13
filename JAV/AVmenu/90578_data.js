@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/OlBe4Alx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90578,
+  "IDcode": "OREC-1027",
+  "title": "ゆりあん",
+  "publish_date": "2022-02-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "女大学生",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90578",
+  "actresses": []
+};

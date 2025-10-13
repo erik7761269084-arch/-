@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/2d5b6a0c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103390,
+  "IDcode": "IESP-658",
+  "title": "稲場るか 高美はるか 19周年記念SP 麻薬捜査官 ヤク漬け膣痙攣",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "多P",
+    "药物",
+    "女检察官",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/19/0a3cac130a98849461eadd1a8ffc8819.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103390",
+  "actresses": [
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103390&name=胡桃圓"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103390&name=稻场流花"
+    }
+  ]
+};

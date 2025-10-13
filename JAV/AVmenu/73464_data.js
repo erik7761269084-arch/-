@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/XbE1Hx3H/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73464,
+  "IDcode": "SOE-896",
+  "title": "軟体パコパコ 倉多まお",
+  "publish_date": "2013-02-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "其他恋物癖",
+    "美少女",
+    "巨乳",
+    "多P",
+    "颜射",
+    "薄马赛克",
+    "无码流出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/b6ab99fc88b674eca2603c458c89ec8e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73464",
+  "actresses": [
+    {
+      "name": "仓多真央",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/78205700-d6cc-4d27-b31d-c3bf4ead0ad0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73464&name=仓多真央"
+    }
+  ]
+};

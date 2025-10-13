@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/25/cdcb260b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75692,
+  "IDcode": "VENU-897",
+  "title": "親族相姦 きれいな叔母さん 七瀬ひな",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/c7248a03a8ac8cffdd9a53a8bf69d311.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75692",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75692&name=七海雛"
+    }
+  ]
+};

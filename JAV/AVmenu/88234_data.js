@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230912/1iuzTSJb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88234,
+  "IDcode": "T-28572",
+  "title": "びしょ濡れOL雨宿り強●わいせつ",
+  "publish_date": "2019-09-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "OL",
+    "浴衣",
+    "汽车性爱"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88234",
+  "actresses": [
+    {
+      "name": "松永纱奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88234&name=松永纱奈"
+    },
+    {
+      "name": "内海みう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88234&name=内海みう"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88234&name=森本つぐみ"
+    }
+  ]
+};

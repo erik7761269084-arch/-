@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240907/QgkblCOI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92546,
+  "IDcode": "IDE-918",
+  "title": "IDE918偷笑著故意走光的女上司被初川小姐誘惑的我初川南。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240907-1/17e3bf87f3fbc70cb6299c24c848718b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92546",
+  "actresses": []
+};

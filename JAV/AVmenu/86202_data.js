@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/02/0c556026/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86202,
+  "IDcode": "SORA-252",
+  "title": "巨乳妻露胸部姿態讓露出狂歡喜！有末香織",
+  "publish_date": "2020-05-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "户外",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/6d5dac76bd91bbf8c16898a998b2ee2f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86202",
+  "actresses": [
+    {
+      "name": "篠原友香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86202&name=篠原友香"
+    }
+  ]
+};

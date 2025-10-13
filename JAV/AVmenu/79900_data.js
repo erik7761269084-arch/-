@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/QuQv41vV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79900,
+  "IDcode": "EBOD-860",
+  "title": "誠実な人柄と丁寧な指導で予約3ヶ月待ちの人気料理講師は実は下品で淫乱なギャップ有り 167cm（高身長）Gcup（巨乳）の神プロポーションかぐや凛AVデビュー",
+  "publish_date": "2021-10-19",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女上位",
+    "苗条",
+    "口交",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79900",
+  "actresses": []
+};

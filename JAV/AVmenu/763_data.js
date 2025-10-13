@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32599d48-7a0f-47e5-8d28-548fbbb8620e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 763,
+  "IDcode": "HEYZO-0937",
+  "title": "大家都知道從東京撿一個天真的女孩並中出她很容易 ~ 舞阪仁美",
+  "publish_date": "2015-08-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "劇情",
+    "公园",
+    "蘿莉",
+    "中出",
+    "搭訕",
+    "少女",
+    "獵豔",
+    "野外露天"
+  ],
+  "description": "HEYZO-0937为HEYZO出品,2015年8月27日发行的無碼成人影片由舞坂仁美 出演\n世間知らずの上京娘をナンパして中出し～簡単にヤれちゃった～ - 舞坂仁美",
+  "cover_url": "https://picture.yoshiclub.xyz/20240722/4a7ead56-89ae-4d0e-8596-170fe2c8a937.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240722/4a7ead56-89ae-4d0e-8596-170fe2c8a937.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=763",
+  "actresses": [
+    {
+      "name": "舞坂仁美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/黄金むぎ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=763&name=舞坂仁美"
+    }
+  ]
+};

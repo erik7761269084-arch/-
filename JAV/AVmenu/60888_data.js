@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/60031f33/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60888,
+  "IDcode": "MGTD-054",
+  "title": "なまハメT★kTok Vol.26",
+  "publish_date": "2025-09-05",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "苗条",
+    "业余",
+    "角色扮演者",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/26/4aacaaad8a40ebacd9c6160e14720ab0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60888",
+  "actresses": []
+};

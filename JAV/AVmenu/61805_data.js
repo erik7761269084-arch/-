@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/28/5cdae78d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61805,
+  "IDcode": "WA-564",
+  "title": "素人妻ナンパ全員生中出し5時間セレブDX 100",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "多P",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61805",
+  "actresses": []
+};

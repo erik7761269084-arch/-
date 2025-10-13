@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/70f4e074-a66c-4471-980c-92cc85f77347/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 198,
+  "IDcode": "HEYZO-0215",
+  "title": "新春開筆又開戰 春節無套內射大放送 ~ 水菜麗",
+  "publish_date": "2013-01-01",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "巨尻",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "文藝女",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "美腳",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "節日限定",
+    "極品美人",
+    "美少女電影",
+    "羞恥",
+    "芸能人"
+  ],
+  "description": "HEYZO-0215为HEYZO出品,2013年1月1日发行的無碼成人影片由水菜麗出演\n新年快樂啦，兄弟姊妹們！2013年繼續跟我們一起嗨爆！開年第一發，帶來的是清純又火辣的小姐姐水菜麗！從出道時的甜美少女進化成現在風騷入骨的性感女神，她穿著振袖和服登場，美到讓人腿軟！鏡頭前嬌喘不停，眼神勾人，保證讓你看得心癢癢，慾火焚身啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/20250611082336163163_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250611/20250611082336163163_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=198",
+  "actresses": [
+    {
+      "name": "水菜麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/378f23c9-0439-42a6-bb5f-2741a85d223f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=198&name=水菜麗"
+    }
+  ]
+};

@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6e3e352-3178-478d-a535-a68cd727d1e6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/ca66c8e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2890,
+  "IDcode": "HZGD-315",
+  "title": "惡心到爆的猥瑣公公技術太好了，大肉棒讓我高潮到失控 ~ 堀沢茉由",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "二次元",
+    "絕頂高潮",
+    "老頭子",
+    "4K",
+    "傲嬌",
+    "變態",
+    "凌辱",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "極品美人",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "HZGD-315为人妻花園劇場出品,2025年9月4日发行的有碼成人影片由堀沢茉由出演\n年輕小媳婦「茉由」跟老公還有那個超討厭又沒品的變態義父住一起，早就忍不下去想跟老公搬出去。沒想到某天自慰被義父偷窺，直接上手騷擾，把她玩得不要不要的。雖然心裡一百個不願意，但這老傢伙的技術實在太強，硬是讓她爽到高潮。從那天起，每天都被搞到欲仙欲死，茉由徹底淪陷，甚至主動求愛，瘋狂搖腰索取那根讓她快樂到不行的肉棒和濃烈的精液，真的爽到炸裂啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072506716716_96056_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072506716716_96056_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2890",
+  "actresses": [
+    {
+      "name": "堀沢茉由",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/b280a49d-6d83-46c9-b59b-15eb5967e8bb_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2890&name=堀沢茉由"
+    }
+  ]
+};

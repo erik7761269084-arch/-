@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c781697f-e831-4c1e-bc0a-1d80bb942a4e/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250326/GGVWM2b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17688,
+  "IDcode": "IPX-946",
+  "title": "新入社員歡迎會喝醉酒的我被公司櫃姐帶回家榨取精子到早上的一夜。 藤井一夜",
+  "publish_date": "2022-10-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "OL",
+    "口交",
+    "舔陰",
+    "接吻",
+    "艷遇",
+    "女同事",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231124/7d4c0b11-1e54-4c69-9670-4ae3e45ce82e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231124/7d4c0b11-1e54-4c69-9670-4ae3e45ce82e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17688",
+  "actresses": [
+    {
+      "name": "藤井一夜",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/b97f52b8-529b-439b-9a8d-fd90a3de1cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17688&name=藤井一夜"
+    }
+  ]
+};

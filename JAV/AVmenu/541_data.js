@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/706c1375-3dda-466a-bacf-d0b40c62f49c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 541,
+  "IDcode": "HEYZO-0644",
+  "title": "欲求不滿的鄰居熟女 - 偷窺的那位，請給我大雞巴吧！ ~ 大石真理子",
+  "publish_date": "2014-07-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "打手槍",
+    "鄰居",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "偷窺",
+    "熟女"
+  ],
+  "description": "HEYZO-0644为HEYZO出品,2014年7月23日发行的無碼成人影片由大石真理子出演\n欲求不満な隣の熟女～覗いたら肉棒よこしなさい～ - 大石真理子",
+  "cover_url": "https://picture.yoshiclub.xyz/20241204/d031d793-1dbb-4f06-9a4f-c6c64f7ef07c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241204/d031d793-1dbb-4f06-9a4f-c6c64f7ef07c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=541",
+  "actresses": [
+    {
+      "name": "大石真理子",
+      "img_url": "https://picture.yoshiclub.xyz/20241204/507d8106-8771-4656-9959-23ce4f4623e4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=541&name=大石真理子"
+    }
+  ]
+};

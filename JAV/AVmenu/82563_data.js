@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/ec8b941e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82563,
+  "IDcode": "IESP-505",
+  "title": "麻薬捜査官 ヤク漬け膣痙攣 小澤マリア",
+  "publish_date": "2009-09-05",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "凌辱",
+    "多P",
+    "各种职业",
+    "药物",
+    "女检察官",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82563",
+  "actresses": [
+    {
+      "name": "小澤瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/69bdb239-ae30-46b1-991f-445ef9e6c9c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82563&name=小澤瑪麗亞"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/XG1pHxbG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89617,
+  "IDcode": "SCOP-820",
+  "title": "突然の大雨による運休でズブ濡れ姿の姪っ子がボクの部屋にやってきた…女として意識した事なかったのに貸してあげたワイシャツの隙間から無防備に覗かせるオッパイやパンツがチラついて理性崩壊！！無自覚アピールしてくる誘惑に葛藤の末に負けてしまった最低なボク。",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "乱伦",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89617",
+  "actresses": []
+};

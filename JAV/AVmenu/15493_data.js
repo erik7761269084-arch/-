@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5398ccc1-2704-4ece-a026-7ac695b33704/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15493,
+  "IDcode": "MOON-025",
+  "title": "和情人做愛時，安全套脫落，在不同的時間射精，中出風流只持續了48小時，直到我服用了事後避孕藥",
+  "publish_date": "2024-04-11",
+  "type": "有码",
+  "company": "YONAKA",
+  "genres": [
+    "劇情",
+    "中出",
+    "女上位",
+    "性感",
+    "不倫",
+    "出軌",
+    "偷竊",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240411/61c08a4b-b924-48e1-8220-0c83cbc4fc5d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240411/61c08a4b-b924-48e1-8220-0c83cbc4fc5d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15493",
+  "actresses": [
+    {
+      "name": "戶川奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/ea014a96-8ea9-4081-bb38-038531aaf804.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15493&name=戶川奈美"
+    }
+  ]
+};

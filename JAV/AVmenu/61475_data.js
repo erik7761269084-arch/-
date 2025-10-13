@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/27/a8b06a5a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61475,
+  "IDcode": "FGAN-152",
+  "title": "エロエロ熟女出張マッサージ 施術中に僕の勃起したテントを見て目の色が変わるドスケベ熟女",
+  "publish_date": "2025-07-24",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "按摩",
+    "乳液",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/a8b06a5a/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61475",
+  "actresses": [
+    {
+      "name": "佐久間楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240523/7d265f5d-d04b-4ea8-9ce6-ded94b7a935c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61475&name=佐久間楓"
+    },
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61475&name=成宫いろは"
+    }
+  ]
+};

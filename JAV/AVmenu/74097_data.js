@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250116/KiaeAVdR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74097,
+  "IDcode": "MIAA-129",
+  "title": "花嫁姿の妹のそばでこっそり新郎にまたがるデカ尻誘惑お姉さん 篠田ゆう",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "荡妇",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74097",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74097&name=篠田优"
+    }
+  ]
+};

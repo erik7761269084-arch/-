@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230831/ShfzsXeM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58967,
+  "IDcode": "011023-001",
+  "title": "マングリ返しで上から突いてよ！",
+  "publish_date": "2023-01-10",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "69",
+    "立即口交",
+    "淫荡手淫",
+    "美乳",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58967",
+  "actresses": []
+};

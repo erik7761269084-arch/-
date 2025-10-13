@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/08/b160aa25/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85177,
+  "IDcode": "KMHRS-032",
+  "title": "抖音追蹤者接近10萬人！淫蕩可愛話題辣妹夢般AV出道 葉夢空",
+  "publish_date": "2020-11-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "女生",
+    "首次亮相",
+    "业余",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/820f5c67e005b2287704199244aa7617.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85177",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85177&name=鲛岛"
+    },
+    {
+      "name": "叶梦そら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85177&name=叶梦そら"
+    }
+  ]
+};

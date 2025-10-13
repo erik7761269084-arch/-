@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e67916de-668b-4734-8964-4fdd7dd986e0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/23/8332ede7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6338,
+  "IDcode": "PJAM-033",
+  "title": "被兒子的青梅竹馬逼當裸模還被NTR內射的巨乳媽媽 ~ 宇佐美すい",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "Purple Jam",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "奇聞趣事",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "癡女",
+    "同学母亲",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "NTR",
+    "美人",
+    "寢取",
+    "誘騙女性",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "PJAM-033为Purple Jam出品,2025年5月8日发行的有碼成人影片由宇佐美すい出演\n宇佐美すい是個巨乳人妻，家裡三口人過日子，但老公幾年前就不行了，害她慾求不滿，居然跟兒子的攝影部顧問平井搞起了外遇！這事兒偏偏被兒子從小玩到大的兄弟亮給撞見了，亮還偷偷拍下她跟情夫摟摟抱抱的照片。亮抓住了她的把柄，趁機表白心意，硬逼她當自己的拍攝模特，邊拍邊脫，最後忍不住直接內射！這劇情，真的刺激到不行，慾罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041906552552_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041906552552_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6338",
+  "actresses": [
+    {
+      "name": "宇佐美すい",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/5f92179a-6812-4d53-abe9-93779da0381c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6338&name=宇佐美すい"
+    }
+  ]
+};

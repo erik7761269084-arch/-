@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220907/ELiHBv6N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81255,
+  "IDcode": "PARATHD-3564",
+  "title": "友達の妹がメチャメチャかわいい上に隙がありすぎるのでヤレそう（3）",
+  "publish_date": "2022-09-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "口交",
+    "业余",
+    "纪录片",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81255",
+  "actresses": []
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/02/e6449239/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86430,
+  "IDcode": "STARS-604",
+  "title": "裏垢で知り合った巨乳レイヤーさん(Gカップ○○才)と、何度も中出しオフパコ。 朝田ひまり",
+  "publish_date": "2022-05-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86430",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/04/f8a61c98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87717,
+  "IDcode": "NKKD-129",
+  "title": "専業主婦NTR互助会 家計の急な入り用にお困りの主婦の皆様を即金で援助いたします 彩葉みおり",
+  "publish_date": "2019-06-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "调教",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87717",
+  "actresses": [
+    {
+      "name": "豊田爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87717&name=豊田爱菜"
+    }
+  ]
+};

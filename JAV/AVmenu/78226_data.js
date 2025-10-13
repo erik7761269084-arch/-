@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/211b2654/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78226,
+  "IDcode": "PAKO-081",
+  "title": "旦那と同じ会社で共働きの長身美人若妻OLを借金をカタに勤務中に呼び出し寝取る",
+  "publish_date": "2024-11-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "中出",
+    "出轨",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78226",
+  "actresses": []
+};

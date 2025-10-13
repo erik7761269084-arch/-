@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29f81484-c7e8-4332-b5c1-a9852f86e95e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/6df2e9f0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4473,
+  "IDcode": "MUKD-549",
+  "title": "慾火焚身的小騷貨少女笑嘻嘻解放本能狂幹到汗流浹背 ~ 市川りく",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "校花",
+    "流汗",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "顏射",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "MUKD-549为無垢出品,2025年7月11日发行的有碼成人影片由市川りく出演\n帶著天真笑容的小騷貨少女，主動撲向大叔，飢渴地求愛，活脫脫就是肉食系絕倫小野獸！大叔的精力被榨乾都不夠她玩，汗流浹背地瘋狂索求，濕吻、口水交纏、騎乘位猛搖，中出、連續高潮，濃烈到不行的大汗淋漓性愛！越爽越放縱，體液和汗水混在一起，她還是一次次登上巔峰，整整一天沉迷在狂野性愛中，完全停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710041531356356_59969_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710041531356356_59969_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4473",
+  "actresses": [
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4473&name=市川りく"
+    }
+  ]
+};

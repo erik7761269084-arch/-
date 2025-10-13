@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/oa6rKdfL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88967,
+  "IDcode": "URKK-090",
+  "title": "隣の変態大家におっぱいを揉まれ毎日犯●れてます 綾瀬こころ",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "巨乳",
+    "中出",
+    "凌辱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/ada6b17b0069129036e3d6ce04aa79b0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88967",
+  "actresses": [
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88967&name=绫濑心"
+    }
+  ]
+};

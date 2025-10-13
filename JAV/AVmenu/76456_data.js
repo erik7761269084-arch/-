@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241210/uMFTyOTA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76456,
+  "IDcode": "HUNTA-707",
+  "title": "『胸が当たっているよ…』超巨乳過ぎる義母と狭いお風呂で二人きりでボクは超勃起！！突然出来た義母は若くて綺麗で超美巨乳！！しかも無防備＆…",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "女上位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76456",
+  "actresses": [
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=緒川春"
+    },
+    {
+      "name": "上山奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230723/ab83d669-fbbf-478e-a04b-74573d4027eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=上山奈々"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=凛音とうか"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=タツ"
+    },
+    {
+      "name": "森萤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=森萤"
+    },
+    {
+      "name": "河北麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76456&name=河北麻衣"
+    }
+  ]
+};

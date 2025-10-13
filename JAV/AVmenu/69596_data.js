@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250330/Arpres4S/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69596,
+  "IDcode": "STARS-760",
+  "title": "STARS-760",
+  "publish_date": "2023-02-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P",
+    "潮吹",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250331-1/abfa562c2222b53cccbb73bce35a9a0b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69596",
+  "actresses": [
+    {
+      "name": "星乃莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/ac4cdd9b-a9ee-47a0-a206-669f2d143db8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69596&name=星乃莉子"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69596&name=イセドン内村"
+    }
+  ]
+};

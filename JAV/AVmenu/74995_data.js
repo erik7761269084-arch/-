@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/13/cc9d7556/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74995,
+  "IDcode": "AVOP-227",
+  "title": "石原莉奈的幫你脫童貞初體驗",
+  "publish_date": "2016-09-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "角色扮演",
+    "业余",
+    "感谢祭",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/d9f9c235c4f988d59be252cd6fe72e77.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74995",
+  "actresses": [
+    {
+      "name": "石原莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/bc644690-156b-4983-be3b-b76a81a90403.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74995&name=石原莉奈"
+    }
+  ]
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c3775e70-ba0e-499d-95e1-408048ed6f7e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/04/804a882a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8187,
+  "IDcode": "PPPE-306",
+  "title": "女友的姐姐用她的巨乳和中出內射誘惑我 ~ 小野阪唯香",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "女友姐姐",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "PPPE-306为OPPAI出品,2025年2月18日发行的有碼成人影片由小野坂唯香出演\n我的女朋友要求使用保險套並且不允許內射！她的姐姐可以接受中出！而且她的胸部很大！我去女朋友家玩的時候，她姐姐勾引了我，而且在她不知情的情況下偷偷發生了性關係！當她邀請我射進她的體內時，我無法抗拒！被美麗又善良、笑容燦爛的姊姊誘惑的罪惡感！可能被她發現的興奮，加上我平常無法體驗到的中出性愛的快感，讓我越來越著迷……最後，我在她面前，在她體內射精！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073602915915.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213073602915915.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8187",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8187&name=小野坂唯香"
+    }
+  ]
+};

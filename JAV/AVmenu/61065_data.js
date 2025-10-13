@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/1396868a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61065,
+  "IDcode": "FW-003",
+  "title": "熟女のイヤらしい体にピッタリ吸いつく競泳水着をズラしてチ○ポぶち込め！",
+  "publish_date": "2025-08-09",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61065",
+  "actresses": []
+};

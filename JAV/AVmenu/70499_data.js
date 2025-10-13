@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250319/x9GJ5mTv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70499,
+  "IDcode": "STAR-899",
+  "title": "飛鳥りん 僕のツボを完全に押さえているイチャイチャラブラブ◆ノーハンドフェラメイド",
+  "publish_date": "2018-04-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "艺人",
+    "口交",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70499",
+  "actresses": [
+    {
+      "name": "飞鸟铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230501/81c21040-e154-4f5b-aa57-2fed1c6a26d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70499&name=飞鸟铃"
+    }
+  ]
+};

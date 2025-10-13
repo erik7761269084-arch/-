@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250325/UgI8vO09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69410,
+  "IDcode": "FSDSS-455",
+  "title": "- 『私のケツ穴もっと舐めて欲しいの…』剛毛アナルを舐めさせるデカ尻姪っ子の誘惑 戸田真琴 生写真5枚付き - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "淫乱，真实",
+    "女上位",
+    "荡妇",
+    "屁股",
+    "局部特写",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69410",
+  "actresses": [
+    {
+      "name": "戸田真琴",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/06bcf542-32b1-46c5-918e-560e124392b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69410&name=戸田真琴"
+    }
+  ]
+};

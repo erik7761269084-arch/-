@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230815/eLen1UKE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87716,
+  "IDcode": "OBA-378",
+  "title": "うちの実家は欠陥住宅（新築）～やっぱりエアコンも壊れてたよ…。～ Madonna15周年記念だもの…オバさんだってがんばっちゃうんだからSP！！！",
+  "publish_date": "2019-01-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "多P",
+    "数位马赛克",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87716",
+  "actresses": [
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87716&name=姫川礼子"
+    },
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87716&name=音羽文子"
+    },
+    {
+      "name": "一条绮美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87716&name=一条绮美香"
+    },
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87716&name=森下美绪"
+    }
+  ]
+};

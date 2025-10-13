@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/10/495d504c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74309,
+  "IDcode": "MIDE-542",
+  "title": "ノーブラ挑発小悪魔グラドル 高橋しょう子",
+  "publish_date": "2018-05-31",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "艺人",
+    "姐姐",
+    "荡妇",
+    "数位马赛克",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74309",
+  "actresses": [
+    {
+      "name": "高桥圣子",
+      "img_url": "https://picture.yoshiclub.xyz/20240814/d134329a-e45c-458c-8fdd-7c82be139fdc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74309&name=高桥圣子"
+    }
+  ]
+};

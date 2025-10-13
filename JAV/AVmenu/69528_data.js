@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250327/YZh7XDt1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69528,
+  "IDcode": "STARS-621",
+  "title": "「私たち、親子だよね?お願い…普通のお義父さんに戻って!」 変態義父に四六時中狙われて… 体液まみれで犯される町中華屋の看板娘 鈴音りん",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "乱伦",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250327-1/28d77badbbf5fd2e8d64e6233a390ed7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69528",
+  "actresses": []
+};

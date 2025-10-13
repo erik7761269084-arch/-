@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/8cf81445/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102934,
+  "IDcode": "AUKG-455-",
+  "title": "変態熟女レズサークル～義姉とセフレと私のレズビアン交尾～",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102934",
+  "actresses": [
+    {
+      "name": "円城ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102934&name=円城ひとみ"
+    },
+    {
+      "name": "川崎纪里恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102934&name=川崎纪里恵"
+    },
+    {
+      "name": "佐和彩花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102934&name=佐和彩花"
+    }
+  ]
+};

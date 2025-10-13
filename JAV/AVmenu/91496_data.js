@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240513/lmv9XN6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91496,
+  "IDcode": "BACJ-076",
+  "title": "【FANZA限定】W甘サドお姉さまの密着ハーレム痴女エステ 宮崎リン 野咲美桜 宮崎リンさんのパンティと生写真付き",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "中出",
+    "多P",
+    "M男",
+    "乳液",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91496",
+  "actresses": [
+    {
+      "name": "宫崎リン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91496&name=宫崎リン"
+    }
+  ]
+};

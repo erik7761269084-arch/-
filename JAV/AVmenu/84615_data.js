@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230111/2eYFUXg4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84615,
+  "IDcode": "HMN-179",
+  "title": "【FANZA限定】僕のことを今は3分の1くらい好きで、3分の2くらい好きになったら彼氏にしたいと言うバイト先の後輩女子からデートに誘われ… いちゃいちゃ彼氏未満デートを楽しんだあとホテルに入るなりエロいキスを求めてくるのでめちゃくちゃ中出… 松本いちか 生写真2枚付き",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "纪录片",
+    "平胸",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84615",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84615&name=松本一香"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/30/38406322/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105265,
+  "IDcode": "IPZ-560",
+  "title": "美人訪問販売員の枕営業 私が売上げNo.1の秘密を教えてあげます 美雪ありす",
+  "publish_date": "2015-05-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "淫语",
+    "角色扮演",
+    "各种职业",
+    "荡妇",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/29/6b1e9bda68ad36e87f4f87e692db98fb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105265",
+  "actresses": [
+    {
+      "name": "美雪愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5756e434-0a45-4556-9517-e963bdd80e0b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105265&name=美雪愛麗絲"
+    }
+  ]
+};

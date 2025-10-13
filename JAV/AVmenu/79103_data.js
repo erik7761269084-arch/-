@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/23/cbcb233a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79103,
+  "IDcode": "JUL-708",
+  "title": "- 焦らして…焦らして…焦らして…焦らして…、最も濡れた瞬間に挿入する愛液グチョグチョ不倫性交。 武藤あやか - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/b8ad0aad4322c836329f17c3cfde60f9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79103",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79103&name=武藤彩香"
+    }
+  ]
+};

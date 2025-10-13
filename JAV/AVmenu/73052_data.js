@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/6NnYIOw3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73052,
+  "IDcode": "SPRD-1076",
+  "title": "あの時のセフレは…友達の母親 伊織涼子",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/23b454bf4487933ead47086b02ff2c42.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73052",
+  "actresses": [
+    {
+      "name": "伊织凉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250524/39f28971-1e7d-4d1d-8601-e569aae3cba9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73052&name=伊织凉子"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230125/h4CPaY0D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85586,
+  "IDcode": "MOGI-048",
+  "title": "真夏のWhite Love大作戦!はじめてのぶっかけ10発&amp;ごっくん3発 ブラジル出身着エロアイドル吉川瞳美",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "角色扮演",
+    "苗条",
+    "吞精"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85586",
+  "actresses": []
+};

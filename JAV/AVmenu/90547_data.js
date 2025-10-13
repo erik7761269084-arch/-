@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/18/bbf12368/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90547,
+  "IDcode": "PPPE-151",
+  "title": "会社の飲み会で終電を逃した僕に「うちに泊まっていきます？」と巨乳の後輩女子が小悪魔な囁き。部屋着の胸チラ誘惑に負けて何度もSEXした 藤森里穂",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/573b8150bd04d24fe4900f13aceddccc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90547",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90547&name=藤森里穂"
+    }
+  ]
+};

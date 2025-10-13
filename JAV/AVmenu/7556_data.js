@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b846643-ed8c-4cc1-9974-9fe4c57278a4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7556,
+  "IDcode": "MOER-010",
+  "title": "新人出道！膚白爆乳卻…脫了衣服滿身刺青的SEX超色！一揉就上癮的狼女刺青妹被男優大雞巴幹到高潮連連的震撼首次亮相 AV DEBUT ~ 野野宮司",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "刺青紋身",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "出道作品",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "豐滿",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MOER-010为MOODYZ出品,2025年3月18日发行的有碼成人影片由野野宮司出演\n這次的【情色！ 】牙齒……！儘管她皮膚白皙、胸部巨大……但當她脫下衣服時，她身上佈滿了紋身，而且她的性行為很色情！我是野野宮司。住在竹之塚的美容顧問。她意識到自己內心的性慾，為了體驗更愉悅的性愛，決定出演成人影片…！她擁有大獎賽級別的巨大 G 罩杯乳房……但當她脫下它們時，露出了令人難以置信的紋身身體！手臂上有狼紋身、巨乳搖晃的女孩的 3 路不法性愛場景！曾經有過刺青的女孩確實很淫蕩…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313085559421421.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/20250313085559421421.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7556",
+  "actresses": [
+    {
+      "name": "野野宮司",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/a4106018-cbe9-4220-8e56-1f56dd2e67c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7556&name=野野宮司"
+    }
+  ]
+};

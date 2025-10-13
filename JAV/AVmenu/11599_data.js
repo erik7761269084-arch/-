@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/75301795-4ed0-4198-a8aa-c4928b06d861/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/05/11d77a99/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11599,
+  "IDcode": "ADN-607",
+  "title": "女人溼潤的目光盯着我 ~ 十束流羽",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "劇情",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "新人面試",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "艷遇",
+    "女上司",
+    "美少女電影"
+  ],
+  "description": "ADN-607为ATTACKERS出品,2024年10月1日发行的有碼成人影片由十束流羽出演\n悟的父親是一名卡車司機，他在駕駛時睡著了，引發了一場交通事故，導致父子倆喪生。悟的父親入獄，悟和母親屢屢搬家越獄……距離意外發生已有15年了。 「我的媽媽……有一天……當我放學回家時……她自己……嗯，我還得跟她說話嗎？」儘管她對公司持續不斷的面試感到不安富有的高倉伊織，條件異常優厚，在得到工作後決定接受某項工作。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/202409261056347474.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/202409261056347474.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11599",
+  "actresses": [
+    {
+      "name": "十束流羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/cef8997f-6b2e-457e-87e5-8c3764e85e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11599&name=十束流羽"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11599&name=蓝井优太"
+    }
+  ]
+};

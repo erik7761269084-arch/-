@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240627/2JpmQx86/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92010,
+  "IDcode": "KEED-084",
+  "title": "初めて彼女が出来たのに…彼女のお母さんに童貞を奪われた 沢村花恋",
+  "publish_date": "2024-05-02",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240627-1/e4f0cf3970395df22a3d226819063055.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92010",
+  "actresses": [
+    {
+      "name": "沢村花恋",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92010&name=沢村花恋"
+    }
+  ]
+};

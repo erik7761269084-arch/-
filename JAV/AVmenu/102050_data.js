@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/07/ffd55a1d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102050,
+  "IDcode": "RS-027",
+  "title": "さら＆ひな",
+  "publish_date": "2008-09-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "跳蛋",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/06/f16bd260c221b2bc4206f02c7cfca925.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102050",
+  "actresses": []
+};

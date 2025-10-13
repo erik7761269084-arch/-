@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/ovyIGXcH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93488,
+  "IDcode": "NHDTB-943",
+  "title": "パンティ越し指マン羞恥 言い訳できないほど愛液で濡れた巨尻を震わせイキ乱れる美熟女 優木なおさんのパンティとチェキ付き",
+  "publish_date": "2024-07-25",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "已婚妇女",
+    "潮吹",
+    "手指插入",
+    "OL",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93488",
+  "actresses": [
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93488&name=滝ゆいな"
+    },
+    {
+      "name": "田所百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240513/e68f208f-cd84-4490-b22c-00e740f313c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93488&name=田所百合"
+    },
+    {
+      "name": "优木なお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93488&name=优木なお"
+    }
+  ]
+};

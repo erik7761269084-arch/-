@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47263d1f-107e-4aa0-bc3b-6cacb76e459a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1017,
+  "IDcode": "HEYZO-1419",
+  "title": "下班6點後 ～性感全開OL女郎的欲望～ - 江波亮",
+  "publish_date": "2017-03-04",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "劇情",
+    "中出",
+    "美乳",
+    "OL",
+    "制服",
+    "美腳",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020811829829.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240118/20240118020811829829.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1017",
+  "actresses": [
+    {
+      "name": "江波亮",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/bb35074f-bb69-4f95-a19e-d1ac1eec42b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1017&name=江波亮"
+    }
+  ]
+};

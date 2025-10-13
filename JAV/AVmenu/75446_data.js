@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/cLcZaRNb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75446,
+  "IDcode": "PARATHD-2838",
+  "title": "パチンコで大勝ちした激マブヤンキー娘をナンパ～ご機嫌マ●コ大開放！連チャンSEX確定！",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "猎艳",
+    "偷窥",
+    "蛮横娇羞",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75446",
+  "actresses": []
+};

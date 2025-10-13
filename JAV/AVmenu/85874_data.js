@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/09/49a978da/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85874,
+  "IDcode": "PED-021",
+  "title": "【FANZA限定】たった7時間2人っきりにしてみたら…結果、9発セックスしてました。 さつき芽衣 パンティと生写真付き",
+  "publish_date": "2022-06-03",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "荡妇",
+    "女优按摩棒",
+    "感谢祭",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85874",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85874&name=沙月芽衣"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/rq1XHEcL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83301,
+  "IDcode": "SHYN-075",
+  "title": "痴●電車！？股の中身はなんじゃろな？ SOD女子社員 新ゲーム企画部",
+  "publish_date": "2020-01-03",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "羞耻",
+    "企画",
+    "乳房",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/113af374f0eefad8469f83a93a9324d1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83301",
+  "actresses": [
+    {
+      "name": "百瀬凛花",
+      "img_url": "https://picture.yoshiclub.xyz/20241219/45b24ecd-9e65-4152-a172-88be4163dbf1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83301&name=百瀬凛花"
+    },
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83301&name=若宫穂乃"
+    },
+    {
+      "name": "七栄ここ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83301&name=七栄ここ"
+    },
+    {
+      "name": "新海珠理奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83301&name=新海珠理奈"
+    }
+  ]
+};

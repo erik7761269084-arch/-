@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220428/D24F1766966F308E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102729,
+  "IDcode": "SQTE-300",
+  "title": "おしゃべりは得意じゃないけど、脱いだらエロいって褒められます。",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "女上位",
+    "苗条",
+    "口交",
+    "恋爱",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102729",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102729&name=月乃露娜"
+    },
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102729&name=笠木いちか"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102729&name=タツ"
+    },
+    {
+      "name": "山口叶瑠",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102729&name=山口叶瑠"
+    }
+  ]
+};

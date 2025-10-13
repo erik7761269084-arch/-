@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/05/0d98ab6e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89087,
+  "IDcode": "WAAA-271",
+  "title": "新人女子マネージャーが性欲MAX絶倫部員たちのパワーピストン輪●合宿で肉便器化 13発中出し精子逆流アクメ 天川そら",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "苗条",
+    "潮吹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/db46d38d453bd00c7314398833b66c4e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89087",
+  "actresses": [
+    {
+      "name": "天川空",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d640bb79-ff7b-47ff-9619-fa99350b0b9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89087&name=天川空"
+    }
+  ]
+};

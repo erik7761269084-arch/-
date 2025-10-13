@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/BE67AEF2B17C2C4E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98190,
+  "IDcode": "WANZ-861",
+  "title": "悶絶クンニMANIAX 星奈あい",
+  "publish_date": "2019-06-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "69",
+    "女同性恋",
+    "潮吹",
+    "舔阴",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98190",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98190&name=星奈爱"
+    }
+  ]
+};

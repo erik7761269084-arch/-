@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/221d8cd4-d557-4b27-a6d8-9ea52ee8cb1a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17873,
+  "IDcode": "CEMD-432",
+  "title": "羞辱、猥褻穿著的繁華街約會",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "公共場所",
+    "野外露天",
+    "熟女",
+    "紀錄片",
+    "羞恥",
+    "企畫",
+    "中出",
+    "跳蛋",
+    "口交",
+    "貧乳",
+    "露出",
+    "人妻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231113/c035141f-07a8-4f4c-8043-7ff0475081f0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231113/c035141f-07a8-4f4c-8043-7ff0475081f0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17873",
+  "actresses": [
+    {
+      "name": "小松杏",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/546418e6-c184-47d5-a5ec-883e8ca0203b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17873&name=小松杏"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/ad83a321/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63328,
+  "IDcode": "MOON-035",
+  "title": "最終胸チラ誘惑電車 誰もいない2人きりの車内でFカップ美少女と胸揉み性交した 柏木こなつ",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "YONAKA",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63328",
+  "actresses": []
+};

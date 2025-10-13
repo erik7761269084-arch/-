@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250429/IHgEHjZH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66910,
+  "IDcode": "FUCK",
+  "title": "えなちゃんの爆乳ぬるテカフルコース 02-小梅惠奈。.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/efce8fc178afc1c21a6e216c88d7cb4a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66910",
+  "actresses": []
+};

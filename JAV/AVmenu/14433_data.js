@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/25d1d075-7023-449a-8583-8181f9b19a40/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/17/eff2679f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14433,
+  "IDcode": "JUQ-679",
+  "title": "我愛我的公公勝過愛我的丈夫...小花暖",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "性感",
+    "公公",
+    "兒媳",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "熟女",
+    "亂倫",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-679为MADONNA出品,2024年5月28日发行的有碼成人影片由小花暖出演\nNon和Youhei從學生時代起就是青梅竹馬。他們結婚幾年了，最近洋平似乎對非冷淡了，但是……事實證明，洋平一直在欺騙她。被深愛的丈夫背叛，Non 陷入絕望的深淵。她的情感支持來自住在隔壁的公公一平。他對一平的愛，從他學生時代起就對他很好，又回來了。當她回過神來時，她發現自己一直在巧妙地引誘一平，但她還是下定了決心，朝一平的臥室走去…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524035505130130.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240524/20240524035505130130.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14433",
+  "actresses": [
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14433&name=小花暖"
+    }
+  ]
+};

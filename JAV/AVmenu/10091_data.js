@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11027072-7693-47de-9db1-993307fd6487/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/515dd8d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10091,
+  "IDcode": "JUR-124",
+  "title": "在這個月最有可能懷孕的最危險的那天……我把心愛的妻子帶到哥哥那裏一整天，讓他幫忙授精 ~ 今井栞菜",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "嫂嫂",
+    "美腳",
+    "奇聞趣事",
+    "美人妻",
+    "人妻",
+    "奇異的",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUR-124为MADONNA出品,2024年12月10日发行的有碼成人影片由今井栞菜出演\n他和妻子卡娜結婚五年了，雖然一直努力懷孕，但一直沒有懷上孩子。家中的父親只是單方面指責基娜，所以我們決定接受不孕症治療檢查，找出原因。幾天后，醫療證明到達，表明我無法生育。當我低下頭時，加奈告訴我我們兩個在一起很幸福。但我知道她正充滿愛地看著孩子們的衣服。我下定決心，決定依靠我已經很久沒有說話的蹩腳哥哥了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205090548773773.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205090548773773.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10091",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10091&name=今井栞菜"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10091&name=左慈半造"
+    }
+  ]
+};

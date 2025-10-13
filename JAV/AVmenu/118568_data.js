@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118568,
+  "IDcode": "2C8AED71450BF9629DBBF12611F09293",
+  "title": "[FC2] 年轻小夫妻晚餐后的休闲娱乐-1～突然很想要直接在厨房搞起来 (FC2-PPV-1548701_1)",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118568",
+  "actresses": []
+};

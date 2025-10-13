@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250113/WEfswLbP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73966,
+  "IDcode": "SW-640",
+  "title": "親の再婚でやって来た小悪魔姉妹がミニスカパンチラで誘惑！ずっと一人っ子だった僕と同じ屋根の下、わざと目の前で着替えを見せつけたり扉開けっぱなしでオナニー見せつけたりするもんでチ○コ勃ちっぱなしの毎日。",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "自慰",
+    "乱伦",
+    "内衣",
+    "迷你裙",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/e03d30695fa96898f57a58b535237da9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73966",
+  "actresses": [
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73966&name=绀野光"
+    },
+    {
+      "name": "篠宫ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73966&name=篠宫ゆり"
+    },
+    {
+      "name": "皆野あい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cf05a1ebfc6a86b058d02a72ec6bb9a9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73966&name=皆野あい"
+    }
+  ]
+};

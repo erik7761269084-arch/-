@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/94c90aed-42ac-4a16-a53b-0addddd09d8c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/23/7f4b1346/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5032,
+  "IDcode": "BLB-025",
+  "title": "黑人巨根狂虐日本少婦 閨蜜誘惑下藥墮落 夫妻關係崩塌4P瘋狂 ~ 本田瞳",
+  "publish_date": "2025-06-21",
+  "type": "有码",
+  "company": "G.M.E",
+  "genres": [
+    "三十路",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "黑人男優",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "極品美人",
+    "羞恥"
+  ],
+  "description": "BLB-025为G.M.E出品,2025年6月21日发行的有碼成人影片由本田瞳出演\n瞳結婚一年，日子過得還算甜美，老公收入高，但夜生活總是差點意思。她忍不住在酒吧跟閨蜜抱怨，結果閨蜜帶來的黑人兄弟莫里斯剛好出現。閨蜜跟莫里斯偷偷摸摸跑去廁所嗑藥，瞳好奇偷聽，聽到裡面傳來的喘息聲，真的讓人臉紅心跳。後來莫里斯一個人出來，跟瞳搭話還遞了點藥給她。瞳猶豫了一下還是收下了。沒幾天，她一個人又跑回酒吧，主動找莫里斯要藥，兩個人直接開幹，爽到不行，完全沉迷快感，卻沒發現這根本是個致命的圈套……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250625/20250625065454376376_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250625/20250625065454376376_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5032",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5032&name=本田瞳"
+    }
+  ]
+};

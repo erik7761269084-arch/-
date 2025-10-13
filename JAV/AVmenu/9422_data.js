@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/204c6852-5e93-4a57-99c6-a9a202fa766d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/03/139c3ea2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9422,
+  "IDcode": "NPJS-121",
+  "title": "我在IInstagram上發現的肌肉妹，性欲超強！發布了 #我想和喜歡肌肉訓練的人做愛 的女孩會立即被操！ ？性欲太強烈了！ ！ ~ 鳳可怜",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "勾引・誘惑",
+    "美腳",
+    "金髮",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "約炮",
+    "美人",
+    "辣妹/GAL系",
+    "打屁股",
+    "美少女電影",
+    "野性",
+    "飯店",
+    "肌肉"
+  ],
+  "description": "NPJS-121为NAPA-JAPAN出品,2025年1月7日发行的有碼成人影片由鳳可怜出演\n毫無疑問，在Instagram上發文「#我想和喜歡肌肉訓練的人聯繫」的女人想炫耀=想操！ ！ ……還有對似乎有著強烈的認同感和性慾的練習生的DM攻擊！ ！立即與約好的來自洛杉磯的混血小姐Karen會合→前往酒店！ ！她小麥色的屁股和G罩杯的乳房是如此柔軟，她已經準備好像在美國一樣做愛了！她看起來很趾高氣揚，但她的身體確實肌肉發達，我忍不住達到了巨大的高潮！非常滿足的ALL OUT，沒有間隔5次射精！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102082644229229.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102082644229229.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9422",
+  "actresses": [
+    {
+      "name": "鳳可怜",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/80646ba7-fb37-417a-a891-787b532b5f2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9422&name=鳳可怜"
+    }
+  ]
+};

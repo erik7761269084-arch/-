@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/9XtkHdsF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78394,
+  "IDcode": "ITSR-067",
+  "title": "勝手に相席居酒屋ナンパ 連れ出し素人妻 ガチ中出し盗撮無断発売 12",
+  "publish_date": "2019-04-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "业余",
+    "纪录片",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78394",
+  "actresses": []
+};

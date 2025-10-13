@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/1f80395d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115356,
+  "IDcode": "FC2-3702933",
+  "title": "老字号和服店出身的E罩杯巨乳美女",
+  "publish_date": "2025-09-01",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115356",
+  "actresses": []
+};

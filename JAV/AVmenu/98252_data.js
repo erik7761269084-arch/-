@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221228/E1122E6B97FFBE31/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98252,
+  "IDcode": "DANDY-703",
+  "title": "「愛する妻が絶倫AV男優に抱かれ感じている姿を見たい！相部屋になったデカチン男に嫁を何度も中出しさせる寝取らせ温泉旅行」",
+  "publish_date": "2020-02-20",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "成熟的女人",
+    "潮吹",
+    "和服，丧服",
+    "浴衣",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy703/1dandy703pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98252",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98252&name=葵百合香"
+    }
+  ]
+};

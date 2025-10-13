@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/CogVIbTh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69141,
+  "IDcode": "SCD-182",
+  "title": "爆乳爆尻五十路の母に生中出し 三峰かずこ",
+  "publish_date": "2020-05-07",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [
+    "成熟的女人",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250329-1/0078cb7cc2cec4a067f6f1acbf912cf5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69141",
+  "actresses": [
+    {
+      "name": "三峰かずこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69141&name=三峰かずこ"
+    }
+  ]
+};

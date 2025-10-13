@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/12/006da163/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67202,
+  "IDcode": "STARS-757",
+  "title": "小湊よつ葉 本格ドラマ初挑戦! 上京したてのウブで頭でっかちな私がSっ気ある彼氏にして欲しい7つの事",
+  "publish_date": "2023-02-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/7a905bc64ed1f52d657920dd8950e487.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67202",
+  "actresses": [
+    {
+      "name": "小湊四葉",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/8efba086-0ee3-439d-8559-aa2f4b9bb9a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67202&name=小湊四葉"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67202&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221029/yqCWbHQ8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81562,
+  "IDcode": "GZAP-023",
+  "title": "ぶれいんくらっしゅ催●連鎖～俺にだけ態度極悪なパリピナースを催●連鎖でネオ奴●にしてやったw～",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "企画",
+    "护士",
+    "科幻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81562",
+  "actresses": [
+    {
+      "name": "早美怜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ac3eeaa7-100d-40b5-aa3e-94edee995843.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81562&name=早美怜夢"
+    },
+    {
+      "name": "大沢萌音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81562&name=大沢萌音"
+    },
+    {
+      "name": "水沢つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81562&name=水沢つぐみ"
+    }
+  ]
+};

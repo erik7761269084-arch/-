@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/6f1d92e6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73627,
+  "IDcode": "BOKO-016",
+  "title": "あの時、初レズに目覚めた2人は3年後に再会し会えなかった時間を埋めるように本気でサカりあった記録を残した。幾野まち 市川りく 市川りくさんのパンティとチェキ付き",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋",
+    "乳房",
+    "接吻",
+    "女同接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/12/b453ed90161c57d4f9ad5c07b095968c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73627",
+  "actresses": [
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73627&name=市川りく"
+    },
+    {
+      "name": "幾田真知",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/a83356ac-d1df-4288-bc4a-ef5f359a2143.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73627&name=幾田真知"
+    }
+  ]
+};

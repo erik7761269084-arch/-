@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29329f51-db57-4044-8bb6-8a42829dc784/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12131,
+  "IDcode": "HUNTC-188",
+  "title": "神奇的儲物櫃，只要許願，女孩就會出來。當其他人都在工作時，我卻在和可愛的女孩做愛 ~ 皆月ひかる",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "女僕",
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "中囯服裝",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "更衣室",
+    "艷遇",
+    "奇異的",
+    "護士",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾"
+  ],
+  "description": "HUNTC-188为HUNTER出品,2024年9月10日发行的有碼成人影片由皆月光出演\n我無法做好自己的工作，被貼上「壞員工」的標籤，日子過得鬱鬱寡歡。但實際上，當其他人都在辦公室工作時，我正在和一個可愛的女孩做愛。這是公司的禁區更衣室。前幾天…我在這裡偷懶，就在我嘟囔著「我想和一個可愛的女孩做愛！」的瞬間，一個女孩從我的儲物櫃裡走了出來！ ？而且，任何情慾她都會接受！但效果是每天一次，持續1小時！從這一天起，我開始了曠職、做愛的日子…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908002040881881.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240908/20240908002040881881.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12131",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12131&name=皆月光"
+    }
+  ]
+};

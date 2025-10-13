@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/2qIZujPc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72682,
+  "IDcode": "MXGS-1057",
+  "title": "エステ服でパンチラしながら誘惑してくるエステティシャンを壁や床に押し付けチ●ポねじ込んだら体をビクビク痙攣させてきたので、そのまま中出しまでキメてしまった 大槻ひびき",
+  "publish_date": "2018-06-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "中出",
+    "制服",
+    "内衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72682",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72682&name=大槻响"
+    }
+  ]
+};

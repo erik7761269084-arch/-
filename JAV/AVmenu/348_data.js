@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1d050b2c-dd3b-4fe3-bbc3-abb3f500ae81/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 348,
+  "IDcode": "HEYZO-0406",
+  "title": "愛杏美的肛交講座 〜和傲嬌老師一起前後生中出射精 〜 愛杏美",
+  "publish_date": "2013-09-20",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "絕頂高潮",
+    "深喉",
+    "傲嬌",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "制服",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "手指插入",
+    "美人",
+    "學校",
+    "大奶头",
+    "眼鏡",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "肛交",
+    "劇情",
+    "3P・4P",
+    "淫亂"
+  ],
+  "description": "HEYZO-0406为HEYZO出品,2013年9月20日发行的無碼成人影片由爱杏美出演\nあずみ恋のアナル講座～ツンデレ講師に前も後ろも生中出し～ - あずみ恋",
+  "cover_url": "https://picture.yoshiclub.xyz/20250317/2029521e-f329-41ba-8def-4e00a5e61658.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250317/2029521e-f329-41ba-8def-4e00a5e61658.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=348",
+  "actresses": [
+    {
+      "name": "爱杏美",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/e61071d2-ff9b-42e7-a4c3-10c386a6cd7b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=348&name=爱杏美"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed701201-77f7-41e2-9c15-52917b266e0f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/18/1597b7d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6276,
+  "IDcode": "VENZ-054",
+  "title": "陌生人才能徹底放蕩的約炮APP人妻 瘋狂舔滿滿男人味的原味肉棒 24小時小穴癢得受不了自慰不停 老公看不到的秘密野戰 ~ 九井珠奈緒",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "自慰",
+    "單體作品",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "約炮",
+    "美人",
+    "淫蕩・硬核",
+    "熟女",
+    "短髮"
+  ],
+  "description": "VENZ-054为VENUS出品,2025年5月9日发行的有碼成人影片由九井珠奈緒出演\n明明有了相伴一生的老公和可愛的寶貝，偏偏性慾被晾在一旁，家庭生活根本滿足不了這些慾求不滿的人妻！現在她們都湧向約炮APP，找陌生人才能毫無顧忌地放飛自我，展現最騷的一面。老公不知道，她其實每天都慾火焚身，巴不得在床上被幹到暈過去！完全拋開家庭，沉溺在快感中的秘密約炮，真的讓人上癮啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508070720165165_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508070720165165_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6276",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6276&name=九井珠奈緒"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/26/8b07089c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80401,
+  "IDcode": "NGOD-163",
+  "title": "暇すぎてヤることの無い田舎で親戚の美人叔母に汗だく汁だく濡れ透けでなかば強引に童貞を捨てさせられた僕。 推川ゆうり",
+  "publish_date": "2021-12-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80401",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80401&name=推川悠里"
+    }
+  ]
+};

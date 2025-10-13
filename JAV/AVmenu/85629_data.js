@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/29/23ea9147/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85629,
+  "IDcode": "MVSD-526",
+  "title": "【FANZA限定】パーソナルトレーナーNTR 性格最悪セックス最高なクズ元カレのパワー系絶倫ピストンに再び堕ちてしまった私。 根尾あかり 生写真3枚付き",
+  "publish_date": "2022-10-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "苗条",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/50ec65bc7f67390a910c02aa9e152167.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85629",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85629&name=根尾朱里"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85629&name=イセドン内村"
+    }
+  ]
+};

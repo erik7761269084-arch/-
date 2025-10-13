@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/02/075d6b5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79999,
+  "IDcode": "CJOD-321",
+  "title": "M男クンのお家へ凸撃 「アナタのチ●ポをごっくん＆中出し＆男潮でエロ汁空っぽにしてアゲル」 さつき芽衣",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "口交",
+    "感谢祭"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79999",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79999&name=沙月芽衣"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79999&name=タイ"
+    }
+  ]
+};

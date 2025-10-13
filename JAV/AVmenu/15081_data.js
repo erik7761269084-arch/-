@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7cc2aa60-95c9-49af-b4da-b015b35ff167/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15081,
+  "IDcode": "NEOB-040",
+  "title": "被三穴同入痛苦性虐的美人妻 ~ 祈山愛",
+  "publish_date": "2024-05-24",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "肛交",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "拘束・拷問",
+    "口交",
+    "蠻橫嬌羞",
+    "監禁",
+    "口爆",
+    "多P",
+    "SM",
+    "美少女",
+    "緊縛",
+    "喝尿",
+    "M男・M女",
+    "二穴同入",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240502/9a4d3044-a48c-446b-8ee7-87d1a78c7c3f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240502/9a4d3044-a48c-446b-8ee7-87d1a78c7c3f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15081",
+  "actresses": [
+    {
+      "name": "祈山愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240502/682c0d3c-91ee-42e3-9655-a0afab6d2c2f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15081&name=祈山愛"
+    }
+  ]
+};

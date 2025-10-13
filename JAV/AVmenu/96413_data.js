@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/16/9a86ed8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96413,
+  "IDcode": "NASH-079",
+  "title": "もしも、美人奥様が旦那以外の朝勃ちチ○ポに遭遇したら！？",
+  "publish_date": "2019-05-31",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96413",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=佐佐木明希"
+    },
+    {
+      "name": "青木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/57c16981-b0e6-41b2-b738-a98dcee04483.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=青木玲"
+    },
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=平冈里枝子"
+    },
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=森下美绪"
+    },
+    {
+      "name": "大桥ひとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=大桥ひとみ"
+    },
+    {
+      "name": "片瀬仁美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96413&name=片瀬仁美"
+    }
+  ]
+};

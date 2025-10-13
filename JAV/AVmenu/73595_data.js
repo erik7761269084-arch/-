@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/Sa5AFjvl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73595,
+  "IDcode": "MMND-172",
+  "title": "言いなり部屋 01 稲場るか",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "放尿",
+    "拘束",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73595",
+  "actresses": [
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73595&name=稻场流花"
+    }
+  ]
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9abf9e76-ac6c-401a-9a77-8bd34be8b808/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5620,
+  "IDcode": "SQDE-012",
+  "title": "拜託再欺負我嘛！超敏感迷你妹子的極致高潮SEX ~ 二葉惠麻",
+  "publish_date": "2025-05-31",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "高顏值",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "SQDE-012为S-CUTE出品,2025年5月31日发行的有碼成人影片由二葉惠麻出演\n輕輕一摸就全身顫抖！二葉惠麻這妹子天生敏感體質，超色情身材讓人HOLD不住。光是玩弄乳頭就能讓她高潮連連，絕對是M屬性小騷貨！被調教時下面濕得一塌糊塗，求著你“人家是M，快來各種玩弄我啦”，一次次高潮爽到翻白眼喊“不行啦！我還在高潮中！”這敏感小M妹的高潮根本停不下來！注意：本片包含素人專區的內容，購買前請確認唷！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531035049378378_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250531/20250531035049378378_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5620",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5620&name=二葉惠麻"
+    }
+  ]
+};

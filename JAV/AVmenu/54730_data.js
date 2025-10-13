@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54730,
+  "IDcode": "3C9386E3E123345B3955B61E864B7FB6",
+  "title": "润滑液淫荡之舞  Vol.11 宇佐美瑠菜 caribbeancom_090414-682",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54730",
+  "actresses": []
+};

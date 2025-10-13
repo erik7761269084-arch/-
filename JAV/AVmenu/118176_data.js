@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/5fb594a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118176,
+  "IDcode": "FC2-4692327",
+  "title": "领悟性快感的19岁女大学生美女",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/5fb594a6/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118176",
+  "actresses": []
+};

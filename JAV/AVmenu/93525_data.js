@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/ge8Qrayg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93525,
+  "IDcode": "NHDTB-932",
+  "title": "ちびっこ拘束激イカセ悪徳エステ8 愛野ひなたさんのパンティとチェキ付き",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "潮吹",
+    "拘束",
+    "瘦小身型",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/0b16b0398e00e5e4b917e295121c9da2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93525",
+  "actresses": []
+};

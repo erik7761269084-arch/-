@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/96cec592-0c08-47f1-833f-b80b3fe8a896/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1226,
+  "IDcode": "HEYZO-2390",
+  "title": "剃光蘿莉女孩熟食店女孩喜歡即時性愛和體內射精 - Nene - Nene",
+  "publish_date": "2020-10-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "素人",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918230546208208.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230918/20230918230546208208.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1226",
+  "actresses": []
+};

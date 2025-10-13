@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231011/T4g8KuFL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88481,
+  "IDcode": "RKI-299",
+  "title": "世界一ザーメンを大量に発射する男たちのぶっかけSEX 沖田杏梨",
+  "publish_date": "2013-11-19",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/831e9f0bdcc18dc74e3fdda027c962f6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88481",
+  "actresses": [
+    {
+      "name": "沖田杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/2eae04c6-5c92-4209-8b5b-aa4de0fccb96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88481&name=沖田杏梨"
+    }
+  ]
+};

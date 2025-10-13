@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230308/4E647BCCE5309CA8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100007,
+  "IDcode": "CHRV-002",
+  "title": "オンガク ノ ジカン ピアニカ バクニュウ ジョシ イモウト マリエ",
+  "publish_date": "2016-06-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "学校泳装",
+    "运动短裤",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/chrv002/chrv002pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100007",
+  "actresses": [
+    {
+      "name": "このは結衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/20a0e81b-e172-4b23-b20d-251b915c7650_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100007&name=このは結衣"
+    }
+  ]
+};

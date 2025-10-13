@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220626/DF5A786F114CD1C8/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37253,
+  "IDcode": "453BE7CABE525903BB69D44C2755F-019",
+  "title": "あんたの夢をハメたろか 2019 - 碧しの",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37253",
+  "actresses": []
+};

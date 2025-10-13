@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220514/630A5C1F1F8E8013/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36874,
+  "IDcode": "9EFD1DA1800652FA4CBC0B09258E1B-07",
+  "title": "義妹の性感帯3 おさな妻、凌辱かくれんぼ 今井ひろの",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36874",
+  "actresses": []
+};

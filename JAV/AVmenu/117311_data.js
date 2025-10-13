@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/13/ad090fd4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 117311,
+  "IDcode": "FC2-4555108",
+  "title": "散发着成人性感魅力的性伴侣",
+  "publish_date": "2025-07-14",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/13/7c0903c8a6e72f9c4ac91859eb6bd5e8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=117311",
+  "actresses": []
+};

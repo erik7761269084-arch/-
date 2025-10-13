@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240506/M0f7rO4m/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101950,
+  "IDcode": "MIMK-078C",
+  "title": "給1000元快剪的大姊姊打薄修層次。",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101950",
+  "actresses": []
+};

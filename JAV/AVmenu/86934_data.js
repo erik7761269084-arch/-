@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/07/dd89231a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86934,
+  "IDcode": "MIDE-384",
+  "title": "超高級美クビレメイド 冬月かえで",
+  "publish_date": "2016-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗条",
+    "数位马赛克",
+    "女佣",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86934",
+  "actresses": [
+    {
+      "name": "冬月枫",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ef569942-7814-4b31-aa3f-255eb66391a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86934&name=冬月枫"
+    }
+  ]
+};

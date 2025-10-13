@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f035ecc4-2171-4a77-854b-9c63f3ef465e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3293,
+  "IDcode": "MADV-599",
+  "title": "【4K】競泳泳裝NTR 鄰家巨乳正妹的高叉造型讓我硬到爆 已婚還被她激烈SEX弄到爽翻天 ~ 広瀬美結",
+  "publish_date": "2025-08-22",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "4K",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "打手槍",
+    "口爆",
+    "鄰居",
+    "自慰",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "美少女電影",
+    "豐滿",
+    "泳裝"
+  ],
+  "description": "MADV-599为水晶映像出品,2025年8月22日发行的有碼成人影片由広瀬美結出演\n‘我比你老婆正吧？’ 鄰家J罩杯大奶正妹広瀬美結穿著超辣的競泳泳裝，直接誘惑我這個已婚男！她那透視乳頭的潤滑乳交口爆，穿著泳裝的餵奶手活騎乘位痴女玩法，還有高叉泳裝秀出自慰玩具口爆，真的讓人理智崩潰，連續內射加顏射，總共6次爆發！巨乳巨臀的鄰家正妹広瀬美結用她火辣的泳裝造型完全迷倒我，這NTR劇情超級刺激啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033346315315_17394_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033346315315_17394_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3293",
+  "actresses": [
+    {
+      "name": "広瀬美結",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/5eeaab9f-8dca-43a2-ae9e-7f8628257891.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3293&name=広瀬美結"
+    }
+  ]
+};

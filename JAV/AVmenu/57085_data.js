@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57085,
+  "IDcode": "9F87601D5A98DA836A157FE002B83095",
+  "title": "【無】ごっくんしたい年頃の女 パート2",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57085",
+  "actresses": []
+};

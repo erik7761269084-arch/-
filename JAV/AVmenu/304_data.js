@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/84afb702-cf1f-4905-87b5-49e3f899e746/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 304,
+  "IDcode": "HEYZO-0343",
+  "title": "怎麼會這樣！ ？好好的足療，變成了全身感官按摩！ ？ ~ 相川奈美",
+  "publish_date": "2013-06-11",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "濕身",
+    "劇情",
+    "舔腳",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "寢取",
+    "誘騙女性",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0343为HEYZO出品,2013年6月11日发行的無碼成人影片由相川奈美出演\nどうしてこうなった！？足ツボのはずが一転して全身性感マッサージに！？ - 相川奈美",
+  "cover_url": "https://picture.yoshiclub.xyz/20250407/3e94943a-36ec-4b19-9df0-3607ac4bbab1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250407/3e94943a-36ec-4b19-9df0-3607ac4bbab1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=304",
+  "actresses": [
+    {
+      "name": "相川奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20250407/90581209-dc37-4bba-b671-b2784f0317dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=304&name=相川奈美"
+    }
+  ]
+};

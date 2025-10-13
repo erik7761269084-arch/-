@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/DSBaSmms/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72219,
+  "IDcode": "EQ-451",
+  "title": "衝撃の流出！ホームカメラで撮られた飲み会ビデオ！！人妻・泥酔・生中出し！4時間！！",
+  "publish_date": "2019-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "已婚妇女",
+    "多P",
+    "业余",
+    "乳房",
+    "新娘，年轻妻子",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72219",
+  "actresses": []
+};

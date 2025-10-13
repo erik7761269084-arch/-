@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/ncqry1vh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71423,
+  "IDcode": "HOMA-076",
+  "title": "嫁のお義姉さんが僕を大胆に誘惑寝取り 凛音とうか",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "戏剧",
+    "中出",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250228-1/733cbb2f1ccf05c2c13fa4c8469d5fed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71423",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71423&name=凛音とうか"
+    }
+  ]
+};

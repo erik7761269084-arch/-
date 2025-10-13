@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/29/c26242f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67042,
+  "IDcode": "DLDSS-155",
+  "title": "法事で帰省した妻がデカチン自慢の実兄たちに巨根穴兄弟4P輪●されてしまいゲス勃起が収まりません…友田彩也香 パンティと写真付き",
+  "publish_date": "2023-03-23",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "自慰",
+    "玩具",
+    "潮吹",
+    "口交",
+    "羞耻",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67042",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67042&name=友田彩也香"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67042&name=Qべぇ"
+    }
+  ]
+};

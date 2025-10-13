@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/25/39ca773c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66911,
+  "IDcode": "HDKA-274",
+  "title": "はだかの訪問介護士 川上ゆう パンティと生写真付き",
+  "publish_date": "2023-01-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "各种职业",
+    "口交",
+    "恋物癖",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/6ac0e7f5ee3c2a5ef362d959687859bc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66911",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66911&name=川上優"
+    }
+  ]
+};

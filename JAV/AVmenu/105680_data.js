@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/30/1221749f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105680,
+  "IDcode": "SONE-108",
+  "title": "相部屋NTR 絶倫上司と新入社員が朝から晩まで、不倫セックスに明け暮れた出張先の夜。 黒島玲衣 （BOD）",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "OL",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105680",
+  "actresses": [
+    {
+      "name": "黒島玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/f8e4a31b-c4c9-4a29-81b5-31c786e3e10a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105680&name=黒島玲衣"
+    }
+  ]
+};

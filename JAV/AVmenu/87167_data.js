@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230713/Y9Nb0zU9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87167,
+  "IDcode": "KAM-134",
+  "title": "夫の上司の昇進祝賀会でセクハラされまくり NTR人妻ホームパーティー 酔った巨乳尻の嫁が犯●れてイキまくり 美園和花",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "纪录片",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230713-1/e8ca5e15999ed9ec0bfb06d475c39d27.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87167",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87167&name=美園和花"
+    }
+  ]
+};

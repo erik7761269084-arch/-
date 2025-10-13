@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/7B08E1BC79C2AAE5/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102672,
+  "IDcode": "DG-002",
+  "title": "【カルテ＃2】動画投稿サイトに存在する医師らしき男と若い女性患者の映像",
+  "publish_date": "2024-07-08",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1596dg002/h_1596dg002pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102672",
+  "actresses": []
+};

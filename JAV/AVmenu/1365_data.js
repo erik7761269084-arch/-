@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f840e7b-e56b-49a1-b595-22497372ccfc/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220920/3HoOLQVq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1365,
+  "IDcode": "HEYZO-2700",
+  "title": "宅配女僕讓附近迷惑的絶叫性愛 Vol.2",
+  "publish_date": "2022-01-22",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "女僕",
+    "3P・4P",
+    "中出",
+    "美乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230719/20230719023232734734.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230719/20230719023232734734.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1365",
+  "actresses": [
+    {
+      "name": "白雪麻衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230603/05c3813b-53ec-4d40-8311-9332162a2e2d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1365&name=白雪麻衣"
+    }
+  ]
+};

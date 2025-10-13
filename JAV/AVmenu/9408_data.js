@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c65b5933-d6f8-4e34-ac37-aa902836814a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/03/5b7d488b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9408,
+  "IDcode": "NPJS-115",
+  "title": "與新昭和系女孩的盛夏海邊約會。我們走進酒店，狠狠地做愛 ~ 靜河",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "手指插入",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "NPJS-115为NAPA-JAPAN出品,2025年1月7日发行的有碼成人影片由静河出演\n【什麼是新昭和女子？在年幼的孩子看來，昭和時代似乎是「既舊又新」。不恰當的電視劇也開始流行，新昭和女性影響者也出現了。 23歲的靜香對昭和時代一無所知……她欣賞昭和時尚，喜歡了解昭和時代的人。我在海邊搭了個帳篷，在帳篷裡親熱，然後回到飯店，和一個20多歲的女孩做愛，她皮膚白皙，胸部大小剛好，屁股很大。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085314243243.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102085314243243.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9408",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9408&name=静河"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241206/Xf21bP0r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76533,
+  "IDcode": "OFKU-135",
+  "title": "釧路から上京した嫁の母が…爆乳義母 金杉里織 57歳",
+  "publish_date": "2019-11-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "自慰",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/bb0a772cc2e58e9812d990f8c59f7416.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76533",
+  "actresses": [
+    {
+      "name": "金杉里织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76533&name=金杉里织"
+    }
+  ]
+};

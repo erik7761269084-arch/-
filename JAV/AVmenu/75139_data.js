@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241230/amNjdF4b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75139,
+  "IDcode": "ABP-868",
+  "title": "ひたすら生でハメまくる、終らない中出し性交。 予定調和なしの中出しドキュメント 乙都さきの",
+  "publish_date": "2019-06-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "多P",
+    "玩具",
+    "主观视角",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/5e31b38865bb820b44c39473aea51d15.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75139",
+  "actresses": [
+    {
+      "name": "乙都咲乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/48136b8d-e885-4f21-b050-afaefe44a5a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75139&name=乙都咲乃"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75139&name=小田切ジュン"
+    }
+  ]
+};

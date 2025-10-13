@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/06/4cd75094/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84566,
+  "IDcode": "HMN-093",
+  "title": "僕が喘いだらベロキスで封じてチ○ポがバカになっても杭打ちピストンも中出しもやめてくれない接吻騎乗位お姉さん 初川みなみ",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84566",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84566&name=初川南"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84566&name=鲛岛"
+    }
+  ]
+};

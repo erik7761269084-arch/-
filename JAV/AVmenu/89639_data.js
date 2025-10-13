@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/k3gQ6AFk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89639,
+  "IDcode": "SDAM-082",
+  "title": "仕分け作業中にムラついたら、即ヌイてくれる倉庫バイトの女子大生。地味な見た目で下品にバキューム。しかも精飲OK。つばさ22歳",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "眼镜",
+    "中出",
+    "女大学生",
+    "第一人称摄影",
+    "吞精"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/6c93627c59f4818ef55a027db66bed08.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89639",
+  "actresses": [
+    {
+      "name": "南見つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/9bdd7ad9-39b8-4640-b46c-93255c39f9db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89639&name=南見つばさ"
+    }
+  ]
+};

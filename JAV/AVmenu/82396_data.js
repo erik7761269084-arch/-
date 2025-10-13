@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/3ap7E3zQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82396,
+  "IDcode": "HND-558",
+  "title": "絶対妊娠！ガン反り生チ○ポで孕ませ中出しSEX！ 三田杏",
+  "publish_date": "2018-08-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "其他恋物癖",
+    "美少女",
+    "中出",
+    "淫语",
+    "数位马赛克",
+    "巨大阴茎"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82396",
+  "actresses": [
+    {
+      "name": "三田杏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/三田杏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82396&name=三田杏"
+    }
+  ]
+};

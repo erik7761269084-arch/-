@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/dv3orC7q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71047,
+  "IDcode": "HND-726",
+  "title": "あの日、大学の飲み会が中出し輪姦サークルに変わった。 永瀬ゆい",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "轮奸",
+    "女生",
+    "滥交",
+    "瘦小身型",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71047",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71047&name=イセドン内村"
+    },
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71047&name=永濑唯"
+    }
+  ]
+};

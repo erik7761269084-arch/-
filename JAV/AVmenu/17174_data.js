@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/caae5a13-9bff-49cf-ac83-e87bfd18061c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17174,
+  "IDcode": "ZMAR-102",
+  "title": "裸體上門保母水穀葵",
+  "publish_date": "2023-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "4小時以上作品",
+    "口交",
+    "美腳",
+    "巨乳",
+    "精選綜合"
+  ],
+  "description": "ZMAR-102为PLANETPLUS出品,2023年12月20日发行的有碼成人影片由水穀葵出演\n水穀葵以烏黑的長髮、乾淨俐落的外表、D罩杯的美胸、豐滿的屁股擄獲了全世界男人的心。全面介紹她的魅力！多場連褲襪戲，進一步凸顯她健美的雙腿……“連褲襪的誘惑。”因裸體照顧而枯萎的老人也復活了！《裸體上門保母》兩部作品錄製完成！\n水穀葵以烏黑的長髮、乾淨俐落的外表、D罩杯的美胸、豐滿的屁股擄獲了全世界男人的心。全面介紹她的魅力！多場連褲襪戲，進一步凸顯她健美的雙腿……“連褲襪的誘惑。”因裸體照顧而枯萎的老人也復活了！《裸體上門保母》兩部作品錄製完成！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231220/0055ff84-3b1e-42b8-99ec-8281a5e7a03c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/0055ff84-3b1e-42b8-99ec-8281a5e7a03c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17174",
+  "actresses": [
+    {
+      "name": "水穀葵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17174&name=水穀葵"
+    }
+  ]
+};

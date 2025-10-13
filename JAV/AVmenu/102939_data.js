@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230102/8DCE37A840D6C854/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102939,
+  "IDcode": "FIV-014",
+  "title": "★★★★★ 五ツ星ch ハーレム逆3P SP ch.14 世の中の美女は、美女同士群れる！ゆえに、まとめて捕獲すべし！",
+  "publish_date": "2018-04-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "淫乱，真实",
+    "多P",
+    "潮吹",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118fiv014/118fiv014pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102939",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102939&name=大槻响"
+    },
+    {
+      "name": "二宫ナナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102939&name=二宫ナナ"
+    },
+    {
+      "name": "凉南佳奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102939&name=凉南佳奈"
+    },
+    {
+      "name": "藤本紫媛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102939&name=藤本紫媛"
+    }
+  ]
+};

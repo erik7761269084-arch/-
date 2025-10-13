@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/WfDPFxUf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67909,
+  "IDcode": "SOE-898",
+  "title": "在丈夫面前被侵犯的少妻 悲劇的催眠治療 吉澤明歩",
+  "publish_date": "2013-03-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "强奸",
+    "薄马赛克",
+    "深喉",
+    "催眠",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67909",
+  "actresses": [
+    {
+      "name": "吉沢明歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/34de6982-97f8-4dad-a3d0-981d10235e1d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67909&name=吉沢明歩"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67909&name=森林原人"
+    },
+    {
+      "name": "笹木良一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67909&name=笹木良一"
+    }
+  ]
+};

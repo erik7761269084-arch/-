@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/30c7122d-740f-4a0f-8fa8-31330d7a9de9/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/28/0c1e9a88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2930,
+  "IDcode": "SONE-887",
+  "title": "靠太近啦！超零距離挑逗，女友的撒嬌小妹讓我心癢難耐 ~ 三田真鈴",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "校花",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "綠茶婊",
+    "小姨子",
+    "極品美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "SONE-887为S1出品,2025年9月4日发行的有碼成人影片由三田真鈴出演\n【这么可爱又会撒娇的小妹盯着你看，你还能忍得住吗？】今天可是和女友期待已久的约会啊！结果到了约定地点，竟然发现她妹妹也在！？这妹子叫真铃，跟着我们一起回了家。可这真铃有点不对劲啊，对我简直不要太主动！不仅身体贴得超近，脸都快贴脸了，嘴唇离我也就差个0.01公分！天啊，这也太可爱了吧，我快要控制不住自己了！她这撒娇的小手段也太撩人了，亲一个应该没问题吧？肯定没问题吧！啵一个——！然后，我的欲望就彻底炸开了花！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035965965_56467_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035965965_56467_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2930",
+  "actresses": [
+    {
+      "name": "三田真鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231111/36ed4f06-eeb4-48ae-b4dc-8c711af2a84e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2930&name=三田真鈴"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2930&name=トイボーイ相沢"
+    }
+  ]
+};

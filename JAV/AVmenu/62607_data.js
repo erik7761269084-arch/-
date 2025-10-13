@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/41cebe40/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62607,
+  "IDcode": "HHF-081",
+  "title": "ド田舎、娯楽なし。だが、エロはある。セックスしかやることないボクらは朝から晩までヤリまくり4時間BEST",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "女上位",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62607",
+  "actresses": []
+};

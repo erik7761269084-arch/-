@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/7vOzooAm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87117,
+  "IDcode": "NHDTB-79702",
+  "title": "生中痴●集団6 女子○生SP 立て続けに長時間●●れ続けたJ○",
+  "publish_date": "2023-05-22",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "制服",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230710-1/72d01ab2799f82aab36f44b491887939.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87117",
+  "actresses": []
+};

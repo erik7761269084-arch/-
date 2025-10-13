@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/29/edb2fcee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84563,
+  "IDcode": "HMN-232",
+  "title": "【FANZA限定】エスな男は馬鹿ばっか チ○ポが狂うまで犯してあげる 甘サド美少女がM男くん責めるの夢中になりすぎて知らぬ間に抜かずの中出し暴発でとろけるおねだり甘サド膣くちゃどろり性交 牧野みおな 生写真2枚付き",
+  "publish_date": "2022-08-17",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "荡妇",
+    "M男",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84563",
+  "actresses": []
+};

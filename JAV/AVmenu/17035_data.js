@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56d92ac2-e828-43fa-9091-9da5c0805612/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17035,
+  "IDcode": "SSNI-067",
+  "title": "用輕蔑的眼神邊看邊操我",
+  "publish_date": "2017-12-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "劇情",
+    "大小姐",
+    "中出",
+    "形象俱樂部",
+    "JK校服",
+    "口交",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美少女",
+    "女僕制服",
+    "明星臉",
+    "學校"
+  ],
+  "description": "SSNI-067为S1出品,2017年12月13日发行的有碼成人影片由天使萌出演\n「你真是個無可救藥的沒用的人……」平時對我微笑的天使般的女孩掀起了裙子，露出了自己的「褲子」，一臉不屑的樣子，仿佛在看惡魔。我把它給你。我對一個整潔的女孩向我展示她惡心的臉和內褲的差距萌經歷感到非常興奮。一個年輕漂亮的女孩完全看不起你，這是超級勃起！\n「你真是個無可救藥的沒用的人……」平時對我微笑的天使般的女孩掀起了裙子，露出了自己的「褲子」，一臉不屑的樣子，仿佛在看惡魔。我把它給你。我對一個整潔的女孩向我展示她惡心的臉和內褲的差距萌經歷感到非常興奮。一個年輕漂亮的女孩完全看不起你，這是超級勃起！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231229/20231229012430680680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231229/20231229012430680680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17035",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17035&name=天使萌"
+    }
+  ]
+};

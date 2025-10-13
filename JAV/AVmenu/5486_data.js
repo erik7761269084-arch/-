@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bab796d4-26e7-4e71-be9d-8e03dec8703a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5486,
+  "IDcode": "KNIP-007",
+  "title": "超辣爆乳癡女姐姐的慢熱調教玩法 越是危險日越想內射的天然騎乘位高手 ~ 有岡みう",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "KNIP",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "兔女郎妝扮",
+    "主觀視角",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "自慰",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "KNIP-007为KNIP出品,2025年6月7日发行的有碼成人影片由有岡みう出演\n我的天，這位痴女美女真的太誇張啦！平時是牙科助手中田詩音，舔耳朵、脖子、乳頭甚至蛋蛋都舔得超帶勁，舔到你整個人軟掉！口活根本不用你說，她直接深喉上陣，還一邊舔一邊忍不住自摸，慾火燒得不得了！她的騎乘位簡直是神級，插進去就不拔出來，非要爽到爆才肯停！小穴還會瘋狂磨蹭你的龜頭，活塞運動完全看她心情，想怎麼撞子宮就怎麼來！最後內射了整整6次，蛋蛋直接被榨空！兄弟們，快來感受這極致快感啦！（部分畫面有AI加工效果）",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013558809809_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013558809809_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5486",
+  "actresses": [
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5486&name=有岡みう"
+    }
+  ]
+};

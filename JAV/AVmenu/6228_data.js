@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cc060fb6-b87a-4885-aa9a-6a6ab1c451d3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/1b9a13b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6228,
+  "IDcode": "DLDSS-408",
+  "title": "錯過末班車住進女上司家...大屁股毫無防備忍不住直接後入內射！ ~ 小沢菜穂",
+  "publish_date": "2025-05-11",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "同住一屋・相部屋",
+    "小隻馬",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "舔陰",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "職場",
+    "即時插入",
+    "女上司",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "DLDSS-408为DAHLIA出品,2025年5月11日发行的有碼成人影片由小沢菜穂出演\n加班完被上司菜穂拉去慶祝業績爆棚，喝high了小睡一下，結果末班車沒了，只能去她家窩到天亮。看她從正經西裝換成居家服，那反差萌讓人心癢癢，尤其是那若隱若現的大屁股和內褲線條，簡直要人命！連日加班憋的慾火瞬間炸開，忍不住直接從後面進去，還一發內射爽翻天！事後她嬌滴滴地說：這事可別跟公司其他人講哦~結果辦公室裡也偷偷來了好幾次，刺激到不行啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250511/20250511033432946946_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250511/20250511033432946946_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6228",
+  "actresses": [
+    {
+      "name": "小沢菜穂",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/40a55211-02c4-4e28-b616-f817b62a6235.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6228&name=小沢菜穂"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6228&name=左慈半造"
+    }
+  ]
+};

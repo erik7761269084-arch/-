@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/LemArvlL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94704,
+  "IDcode": "SUJI-214",
+  "title": "女子●生のお部屋 えちえちLIVE配信 潮吹きオナニー制服10人4時間",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "自慰",
+    "女生",
+    "潮吹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94704",
+  "actresses": []
+};

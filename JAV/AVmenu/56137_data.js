@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56137,
+  "IDcode": "670543174FFAF425F4455B36455198A4",
+  "title": "絶対にヤれる本番交渉術！人妻回春マッサージ",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56137",
+  "actresses": []
+};

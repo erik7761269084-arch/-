@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/Ke6dR3b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83516,
+  "IDcode": "DIPO-076",
+  "title": "マル秘隠し撮り映像流出！！仕事帰りの爆乳妻を連れ込んでストレス発散！一度限りの貪り合う濃密不倫セックス",
+  "publish_date": "2020-01-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "投稿",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/8dde101fff20bfa29ad57bba5a59d3af.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83516",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83516&name=本真友里"
+    },
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83516&name=優月真裡奈"
+    },
+    {
+      "name": "音海里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83516&name=音海里奈"
+    }
+  ]
+};

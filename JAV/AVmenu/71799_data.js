@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/06/6176ff5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71799,
+  "IDcode": "CJOD-215",
+  "title": "排卵日にフェロモン汗をかく巨乳女上司は始発までボクを誘惑 永井マリア",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "白天出轨",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71799",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71799&name=永井瑪麗亞"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220901/F57FF1F82C2FF71D/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37468,
+  "IDcode": "5627234A161DC6B73C029B1E54942D-38",
+  "title": "爆肏蒙眼爆乳幼教老师",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37468",
+  "actresses": []
+};

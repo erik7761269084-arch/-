@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221123/5uEjOXD7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58090,
+  "IDcode": "HEYZO-2012",
+  "title": "熟女ソープ嬢がネットリご奉仕いたします Vol.3 - 町村小夜子",
+  "publish_date": "2019-06-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "乳液",
+    "立即口交",
+    "淋浴沐浴",
+    "打手枪",
+    "泡泡浴",
+    "背后插入",
+    "骑乘位",
+    "乳交",
+    "口爆/吞精",
+    "巨乳爆乳",
+    "熟女",
+    "苗条",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221123-1/993b645cd0a4c15b30d0b785056e79a1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58090",
+  "actresses": []
+};

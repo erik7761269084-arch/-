@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/11/f3fffa8e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78234,
+  "IDcode": "JUY-885",
+  "title": "夫の上司に犯され続けて7日目、私は理性を失った…。 星奈あい",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "凌辱",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/d6d23fe437d8ab02f025139394a4a3f2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78234",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78234&name=星奈爱"
+    }
+  ]
+};

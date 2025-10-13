@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/42c77837-23b3-49d1-a2c9-ea6ead85bc05/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/26/182b91df/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16174,
+  "IDcode": "NACR-767",
+  "title": "黑發美女鈴木裏美 被春藥浸透",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "拘束・拷問",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240220/181fcf78-51c6-4d53-9c93-8d1da9101a4c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240220/181fcf78-51c6-4d53-9c93-8d1da9101a4c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16174",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16174&name=铃木里美"
+    }
+  ]
+};

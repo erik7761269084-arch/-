@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240418/freWrt8p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59136,
+  "IDcode": "HEYZO-1469",
+  "title": "淫らないたずら～うたた寝した同僚にフェラしてあげたら。。。～ - 白瀬ここね",
+  "publish_date": "2017-07-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "立即口交",
+    "背后插入",
+    "骑乘位",
+    "口爆/吞精",
+    "痴女与M男",
+    "白虎",
+    "苗条",
+    "漂亮屁股",
+    "中出",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59136",
+  "actresses": []
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a9a6a9f-9876-471e-8f96-0a9f7b79bc7d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/b99cf964/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13798,
+  "IDcode": "JUQ-725",
+  "title": "新婚短短五個月後，在妻子之前就讓小姨子懷孕了……",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "少女",
+    "美少女",
+    "出軌",
+    "NTR",
+    "熟女",
+    "小姨子",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-725为MADONNA出品,2024年6月25日发行的有碼成人影片由沙月文乃出演\n我想是時候生孩子了……我的生活很穩定，每天晚上我都在努力工作，和我的妻子生孩子。夫妻倆繼續活動，文野似乎睡不著，聲音似乎也漏了出來。從那以後，我們就互相了解了，並在我妻子不知情的情況下開始了戀愛關係。漸漸地，次數越來越多，本來要和妻子生孩子的精子全都用在了妻子的妹妹文野身上。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621011658628628.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621011658628628.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13798",
+  "actresses": [
+    {
+      "name": "沙月文乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/b7840599-4516-4b77-923f-5b79fb004ed1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13798&name=沙月文乃"
+    }
+  ]
+};

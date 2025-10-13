@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/be73cd68-7afe-408d-adc3-6ef56fe779fc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6657,
+  "IDcode": "IPBZ-013",
+  "title": "櫻空桃私密愛愛篇：雙機位AV拍攝現場超刺激體驗 ~ 櫻空桃",
+  "publish_date": "2025-04-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "自慰",
+    "明星臉",
+    "AV拍攝現場",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "紀錄片",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IPBZ-013为IDEA POCKET出品,2025年4月13日发行的有碼成人影片由桜空桃出演\n櫻空桃的ナチュポケ第二彈來了！這次是滿滿的LoveLove愛愛篇，超私密的ハメ撮り視角，雙機位拍攝，連幕後花絮都看得一清二楚！她嗲聲嗲氣地說“要舔ちんこ囉”，直接來一波霸道的イラマチオ，ピストン猛到高潮イクイク連發！鏡頭角度超ドエロ，絕對是ハメ撮り天花板！還有シャワーヘッド自慰的騷操作，純素人感爆棚！全程H不停，超濃厚ロングSEX，3發無間斷，足足168分鐘，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423080401576576_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250423/20250423080401576576_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6657",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6657&name=桜空桃"
+    }
+  ]
+};

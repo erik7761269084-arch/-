@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/22c05f84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79731,
+  "IDcode": "MIDE-979",
+  "title": "妻子返鄉不在中、與爽到骨子裡的最棒愛人中出做愛不倫生活 藍芽水月",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "姐姐",
+    "荡妇",
+    "出轨",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79731",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79731&name=大岛丈"
+    },
+    {
+      "name": "蓝芽水月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79731&name=蓝芽水月"
+    }
+  ]
+};

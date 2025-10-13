@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220605/D63BD5C9DD09FC2C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35851,
+  "IDcode": "0FDC139C6465CD190E395DC5CD0DFE-00",
+  "title": "中出双马尾JK援交小姐姐",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "WAAP GROUP",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35851",
+  "actresses": []
+};

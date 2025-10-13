@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241010/CKxmzWLJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93350,
+  "IDcode": "NAMH-008",
+  "title": "真正中出しAVデビュー 折原由真（21歳）",
+  "publish_date": "2024-05-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93350",
+  "actresses": []
+};

@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a798a93b-edbb-439e-ab6a-3d06834096b6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16179,
+  "IDcode": "GVH-624",
+  "title": "當你想操的時候就讓你操， 聽話的大奶子，一個淫穢色情角色扮演並且可以中出 安位薫",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "吞精",
+    "網襪",
+    "調教",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "網襪",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "少女",
+    "口爆",
+    "美少女",
+    "緊縛",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "短髮",
+    "美少女電影",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240220/88f8f04a-5539-4cdf-a3ce-3b678d5cf123.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240220/88f8f04a-5539-4cdf-a3ce-3b678d5cf123.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16179",
+  "actresses": [
+    {
+      "name": "安位薫",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/bf0e7d96-e7c4-430b-b352-60886b45c24d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16179&name=安位薫"
+    }
+  ]
+};

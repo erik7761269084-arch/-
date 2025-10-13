@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240614/akxLbQhk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91871,
+  "IDcode": "TOTTE-172",
+  "title": "東京で修学旅行を楽しむ田舎J○と勝ったらその場でお土産代10万円！負けたら即ハメ中出しの野球拳勝負！キツキツウブマンにデカチン挿入目指して、ヨヨイのヨイ～♪撮って出しマジックミラー号宮城県代表らら・ねむ編",
+  "publish_date": "2024-04-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "凌辱",
+    "羞耻",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91871",
+  "actresses": [
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91871&name=雅子裡菜"
+    }
+  ]
+};

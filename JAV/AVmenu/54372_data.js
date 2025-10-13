@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54372,
+  "IDcode": "5AA286497781C416DC54914A61E66557",
+  "title": "FC2 PPV 578890内射粉嫩制服学生妹",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54372",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/d842c566/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 117290,
+  "IDcode": "FC2-4546584",
+  "title": "来自美国的超爱日本网红首日酒店猛烈冲刺中出",
+  "publish_date": "2025-07-15",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/d842c566/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=117290",
+  "actresses": []
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220807/8lVCxoJU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81245,
+  "IDcode": "LB-008",
+  "title": "あふれる泉/和泉まい",
+  "publish_date": "2017-04-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "艺人"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e93bfe4f997c19b0f40a506a53edba0f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81245",
+  "actresses": [
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81245&name=七海ゆあ"
+    }
+  ]
+};

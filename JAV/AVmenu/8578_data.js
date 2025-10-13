@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4ee126d-c057-43cd-93c0-0ad8daf3d196/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8578,
+  "IDcode": "FJIN-058",
+  "title": "用粘稠的熱吻和乳頭來誘惑。淫蕩的J系女孩用口水淋漓的口交讓老師們溼透 ~ 皆月光",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "校花",
+    "臀控",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "主觀視角",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "更衣室",
+    "清純",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "手指插入",
+    "足交",
+    "美人",
+    "學校",
+    "大奶头",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "FJIN-058为妄想族出品,2025年2月4日发行的有碼成人影片由皆月光出演\nHikaru 是個行為不良的問題兒童。第一個被拍到的人：班主任，流口水和潮吹，逆向強姦。玩弄嬰兒和足交。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250203/20250203092522805805.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250203/20250203092522805805.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8578",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8578&name=皆月光"
+    }
+  ]
+};

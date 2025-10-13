@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230102/E286768A7E059AC4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102937,
+  "IDcode": "AP-114",
+  "title": "媚薬口移しレズ痴漢！！！！！超満員電車で気弱そうなウブ女子校生をレズ痴漢しまくり濃厚なキスで媚薬を口移しで飲ませたらド淫乱娘に豹変！",
+  "publish_date": "2014-04-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "女同性恋",
+    "企画",
+    "女同接吻",
+    "药物",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1ap114/1ap114pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102937",
+  "actresses": [
+    {
+      "name": "琥珀歌",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102937&name=琥珀歌"
+    },
+    {
+      "name": "雪本芽衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102937&name=雪本芽衣"
+    },
+    {
+      "name": "朝仓・アヴィゲイル・日菜子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102937&name=朝仓・アヴィゲイル・日菜子"
+    }
+  ]
+};

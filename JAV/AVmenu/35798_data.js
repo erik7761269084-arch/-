@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/D15A6DAA7B792EB3/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35798,
+  "IDcode": "C575E383D29923CC02A1D3BB0E70D8D-9",
+  "title": "恶作剧对弟下药正姊被猛干肏翻 仲间明日香",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35798",
+  "actresses": []
+};

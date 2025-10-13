@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240411/Fem7CU0e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101775,
+  "IDcode": "LUXU-1580",
+  "title": "ラグジュTV 1575 性欲が強い方だと自ら語るスレンダー美女がAV出演！激しいピストンに美意識溢れるボディを仰け反らせ本能のままにイき乱れる！",
+  "publish_date": "2022-06-17",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "无毛",
+    "姐姐",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101775",
+  "actresses": [
+    {
+      "name": "夏子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101775&name=夏子"
+    }
+  ]
+};

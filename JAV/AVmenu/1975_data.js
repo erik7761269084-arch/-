@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230123/341fe408-6b58-4271-a23e-a6902964a8b7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1975,
+  "IDcode": "CWPBD-158",
+  "title": "CATWALK POISON 158 放課後請準備好迅速插入 : 百木希",
+  "publish_date": "2017-04-24",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "深喉",
+    "中出",
+    "口交",
+    "女僕制服"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230123/9f33d2ad-56c3-4a23-b3cc-b3409d0e3859.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230123/9f33d2ad-56c3-4a23-b3cc-b3409d0e3859.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1975",
+  "actresses": [
+    {
+      "name": "百木希",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/fa390465-da35-4dbd-a8ab-4d1246e958b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1975&name=百木希"
+    }
+  ]
+};

@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/72a24e90-fa6c-45df-97a5-0170342c72d5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11043,
+  "IDcode": "KNMB-087",
+  "title": "被暴操中出的女優 ~ 永野つかさ",
+  "publish_date": "2024-10-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "貓耳裝飾",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "金髮",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "猥褻穿著",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241027/f4168952-ae35-407c-a7e7-4e93e7f06411.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241027/f4168952-ae35-407c-a7e7-4e93e7f06411.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11043",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11043&name=永野司"
+    }
+  ]
+};

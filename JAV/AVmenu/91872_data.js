@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240614/4JCdY2em/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91872,
+  "IDcode": "TOTTE-153",
+  "title": "恥じらい爆発！男女♂♀のクラスメイトで受診する青少年発育身体測定検査で敏感になったキツマンに男友達ンポ挿入！マジックミラー号撮って出し！in埼玉～かな・はな編～",
+  "publish_date": "2024-02-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "放尿",
+    "羞耻",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91872",
+  "actresses": []
+};

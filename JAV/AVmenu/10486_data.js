@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fc2cd26c-a42f-472d-ac86-add8b69999a2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10486,
+  "IDcode": "AARM-264",
+  "title": "我想要讓她做所有我能想到的淫蕩事！！！ ~ 倉木詩織",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "癡女",
+    "雙飛",
+    "手指插入",
+    "足交",
+    "兩女一男",
+    "精選綜合",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/52547920-ee7f-404a-8e9c-785d2001bf2e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/52547920-ee7f-404a-8e9c-785d2001bf2e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10486",
+  "actresses": [
+    {
+      "name": "倉木詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/84fcb004-8c5b-48c5-b9f5-eaf01dc75d92.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10486&name=倉木詩織"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/11/e0be8f20/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59901,
+  "IDcode": "DLDSS-030",
+  "title": "- 谷間を魅せつけ視線で誘惑。僕の思春期、毎日セックスをしてくれた姉が今日帰省します。美乃すずめ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫语",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8a0d57e7a444d5c3f70135815029440d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59901",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59901&name=美乃雀"
+    }
+  ]
+};

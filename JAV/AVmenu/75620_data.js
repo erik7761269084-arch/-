@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/08/f82e9dce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75620,
+  "IDcode": "NACR-886",
+  "title": "玉が空っぽになるまで精液を搾りとる！出張オイルマッサージ 川上ゆう 生写真とパンティ付き",
+  "publish_date": "2024-12-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "乳液",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/12/25/9ac2a7dfaa78757d9a063c090df3c204.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75620",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75620&name=川上優"
+    }
+  ]
+};

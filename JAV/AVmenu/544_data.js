@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ee37bb6b-b763-41ce-9fe4-9352e5e7ab86/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 544,
+  "IDcode": "HEYZO-0648",
+  "title": "把她推到吧！不懂拒絕他人的家政娘 ~ 綾瀨唯",
+  "publish_date": "2014-07-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "家政婦",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "獵豔",
+    "M男・M女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0648为HEYZO出品,2014年7月28日发行的無碼成人影片由綾瀬唯出演\n押したらイケる！NOといえないご奉仕ガール - 綾瀬ゆい",
+  "cover_url": "https://picture.yoshiclub.xyz/20241126/995de93d-1f71-4ea6-bd8d-4998360af2f3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241126/995de93d-1f71-4ea6-bd8d-4998360af2f3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=544",
+  "actresses": [
+    {
+      "name": "綾瀬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/ca46bbab-db12-437b-b181-07c36b81bbf6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=544&name=綾瀬唯"
+    }
+  ]
+};

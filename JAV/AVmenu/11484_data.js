@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa3061b6-d70d-479e-b677-8936cecfb890/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/22/5dcd2086/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11484,
+  "IDcode": "JUQ-934",
+  "title": "小鎮露營NTR 妻子在帳篷裏多次中出的震撼出軌視頻 ~ 朝日莉緒",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "帐篷",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "內衣",
+    "性騷擾",
+    "多P",
+    "聚會・PARTY",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "出軌",
+    "NTR",
+    "野外露天",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-934为MADONNA出品,2024年10月8日发行的有碼成人影片由朝妃莉緒出演\n我和妻子Norio結婚三年後，我們厭倦了城市的生活，所以在看到移民廣告後搬到了鄉村。小澤社長舉辦的歡迎會本來氣氛輕鬆，但一提到夏令營的話題，大家的態度瞬間就變了。每個人都被告知必須參加為期 2 晚、3 天的夏令營，這些夏令營經常在鎮上舉辦，以社交為目的。當我告訴他今天是工作日，不能請假時，我的妻子放棄了我，最後我獨自送裡奧去露營…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/202410030940115858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/202410030940115858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11484",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11484&name=朝妃莉緒"
+    }
+  ]
+};

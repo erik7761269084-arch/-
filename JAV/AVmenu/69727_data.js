@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/2u0pjLlt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69727,
+  "IDcode": "YRH-167",
+  "title": "あなたの職場へお伺いします。×03",
+  "publish_date": "2018-08-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "颜射",
+    "潮吹",
+    "口交",
+    "吞精",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69727",
+  "actresses": [
+    {
+      "name": "あかね葵",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cd85a94fd28342c77256d8b4be449dcd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69727&name=あかね葵"
+    },
+    {
+      "name": "小森あんな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69727&name=小森あんな"
+    },
+    {
+      "name": "枝川结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69727&name=枝川结衣"
+    },
+    {
+      "name": "夏川恵茉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69727&name=夏川恵茉"
+    }
+  ]
+};

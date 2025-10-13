@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0d455b4e-5c51-465e-933e-810a34793142/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15184,
+  "IDcode": "START-047",
+  "title": "用按摩棒狠狠的操天宮花南，大量潮吹，然後再狠狠的把雞巴插入她的陰道 ~ 天宮花南",
+  "publish_date": "2024-05-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "美少女",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "START-047为SOD出品,2024年5月23日发行的有碼成人影片由天宮花南出演\n雨宮果南細長的G罩杯美體，用超強活塞振動器和追求活塞來射精！ 「我又要射精了！」無論射多少次，她都會不停地刺穿子宮頸，讓她以痙攣性的活塞性交不斷噴出！高速鑽頭和粗大雞巴無止盡的交替插入，讓她大汗淋漓，昏迷不醒。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423050020511511.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240423/20240423050020511511.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15184",
+  "actresses": [
+    {
+      "name": "天宮花南",
+      "img_url": "https://picture.yoshiclub.xyz/20230927/fed8f42c-0e06-458b-b246-35973ae3db8d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15184&name=天宮花南"
+    }
+  ]
+};

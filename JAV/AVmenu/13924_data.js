@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81a92b53-0f93-4eb9-8409-1c49ba471e98/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/SFQ82NQI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13924,
+  "IDcode": "MUKC-063",
+  "title": "一起打工的變態女傭 ～天馬唯",
+  "publish_date": "2024-06-18",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "女僕",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "SM",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影"
+  ],
+  "description": "MUKC-063为無垢出品,2024年6月18日发行的有碼成人影片由天馬唯出演\n「……在女僕所服務的宅邸裡打工……？」我被這裡的優厚條件所吸引，決定在宅邸裡打工。當你進入宅邸之後，你會發現女僕們竟然在裡面工作…有一天晚上，我偷偷看了一眼。這棟宅邸的秘密在於，奧查馬每天晚上都將他的女僕訓練成性奴隸。變態女僕和主人的關係……而且她還用淫蕩的眼神看著我…… 【純真古裝】奇幻連續劇。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614025835743743.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240614/20240614025835743743.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13924",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13924&name=天馬唯"
+    }
+  ]
+};

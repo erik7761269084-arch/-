@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/fyU6gJq8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77954,
+  "IDcode": "JUY-734",
+  "title": "夫の上司に飾られた 人妻ボディアクセサリー 友田真希",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77954",
+  "actresses": [
+    {
+      "name": "友田真希",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/024a3bbf-99af-4b33-9026-aa6a1e98dfd3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77954&name=友田真希"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/DPM5bCvV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80125,
+  "IDcode": "NTK-663",
+  "title": "【グチョ濡れ美乳メイド】【ギリ合法！？】【2NN性交指導】小動物系の極上美少女の性欲はまさかのガチ肉食系！！性獣の王もびっくりマジ淫乱メイドの登場だ！！！エチエチそそる美味しそうな(確信ww)エチ確ボディ駆使して映え写真ならぬ映えSEX収録！！もちろん全チン生挿入です！！_＃被写体希望_＃17",
+  "publish_date": "2021-11-21",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "角色扮演",
+    "业余",
+    "乳房",
+    "娃娃"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80125",
+  "actresses": []
+};

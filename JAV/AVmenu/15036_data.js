@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bdfa2d9a-e023-406a-8656-acd8296bdf98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15036,
+  "IDcode": "MIDV-703",
+  "title": "「請自慰吧。」耳邊沉重的呼吸聲和高潮激動的聲音籠罩着，升天了！自慰支持炫耀你的高潮！正面 ASMR 主觀 ~ 八木奈々",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "ASMR顱内高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MIDV-703为MOODYZ出品,2024年5月7日发行的有碼成人影片由八木奈々出演\n「請用娜娜令人尷尬的阿赫高臉自慰！」在我眼前同時抽搐和高潮！ 5種共同成長的調情情境！ 【直擊大腦的雙耳主觀性，淹沒在陰部汁液和唾液的黏稠聲音中的ASMR規格】耳中強烈的高潮氣息和萌髒話會誘發射精！ 「當我們高潮時，我們就會在一起，」她一臉狂喜地說，想要阿薩娜的雞巴，當她如此接近時，她的心在顫動！與以往有些不同的驚心動魄的八木奈奈惡魔世界！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503023523726726.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503023523726726.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15036",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15036&name=八木奈々"
+    }
+  ]
+};

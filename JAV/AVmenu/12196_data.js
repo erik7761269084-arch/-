@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6106af37-bc33-4dc0-a13a-8d22f5131aa6/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/07/df098117/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12196,
+  "IDcode": "JUQ-866",
+  "title": "中出雙人房美學 - 人妻在丈夫身邊無數次被操到高潮的絕頂性感開發按摩 ~ 上羽絢",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "在丈夫面前被操",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "按摩・物理治療・美容",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "按摩・美容店",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "抹油",
+    "NTR",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-866为MADONNA出品,2024年9月10日发行的有碼成人影片由上羽絢出演\n阿雅最近一直抱怨因為工作壓力而感到不舒服。當時我就決定在老公的推薦下一起去美容院…她全身都沾滿了油污，敏感部位無情地受到攻擊，讓她一遍又一遍地翻滾，強忍住即將溢出的呻吟。無法抗拒第一次經歷的未知刺激，她又回到了美容院，而她的常客丈夫也在美容院接受治療。儘管她的丈夫就在她身邊，艾雅還是沉迷於禁忌的快樂之中。感受到刺激全身快感中樞的快感的身體…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906053259543543.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906053259543543.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12196",
+  "actresses": [
+    {
+      "name": "上羽絢",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/fec8fad2-a2cc-4e79-940b-b5d5f985bb5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12196&name=上羽絢"
+    }
+  ]
+};

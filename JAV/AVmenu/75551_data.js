@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/A0m5YJOn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75551,
+  "IDcode": "SPRD-1230",
+  "title": "婿に抱かれた義母 緒方泰子",
+  "publish_date": "2019-12-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241223-1/0ba164d2ea6f4f9855c1a10370a6ccde.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75551",
+  "actresses": [
+    {
+      "name": "绪方泰子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75551&name=绪方泰子"
+    }
+  ]
+};

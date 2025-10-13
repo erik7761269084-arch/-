@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250429/9db5d1Nv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67047,
+  "IDcode": "FOCS-104",
+  "title": "唾液滴垂甘甜虐待癡女展現笑臉玩弄徹底搾精！ 連續中出性交 日向由良",
+  "publish_date": "2022-12-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "M男",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67047",
+  "actresses": []
+};

@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/49e497c2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72500,
+  "IDcode": "KSBJ-361",
+  "title": "【FANZA限定】中出し性交に乱れる嫁の母10人 生写真とパンティ付き",
+  "publish_date": "2025-02-19",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/03/4337db1595167450891417650e44dfca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72500",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=川上優"
+    },
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=翔田千里"
+    },
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=井上綾子"
+    },
+    {
+      "name": "汐河佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250207/85daeb69-b1b7-4c7c-869d-9fbdb3637d04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=汐河佳奈"
+    },
+    {
+      "name": "青木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20250202/57c16981-b0e6-41b2-b738-a98dcee04483.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=青木玲"
+    },
+    {
+      "name": "久保今日子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-久保今日子.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=久保今日子"
+    },
+    {
+      "name": "一条绮美香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=一条绮美香"
+    },
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=森下美绪"
+    },
+    {
+      "name": "片瀬仁美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=片瀬仁美"
+    },
+    {
+      "name": "浅井舞香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72500&name=浅井舞香"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54847,
+  "IDcode": "25559089A31C73A07C4FE4E005F56BB3",
+  "title": "【个人摄影】与变态狂乱熟女无套3P大量中出！ 梢 FC2-PPV-892332",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54847",
+  "actresses": []
+};

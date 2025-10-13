@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/db7ba6c3-3c9f-429d-9d35-f232a0325254/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250114/ajPSatUH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9801,
+  "IDcode": "SSNI-495",
+  "title": "無法動彈的患者與淫蕩護士的完全主導控制射精治療 ~ 葵司",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "護士制服",
+    "勾引・誘惑",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "看病・住院",
+    "NTR",
+    "綠茶婊",
+    "護士",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "SSNI-495为S1出品,2019年6月19日发行的有碼成人影片由葵司出演\n司是一位天使般的蕩婦護士，她徹底改變了無聊而痛苦的醫院生活。徹底引導無法移動身體的男性患者達到勃起。她用一種稱為「治療」的熟練射精技術來挑逗他。一旦她射精，她就會讓他再次勃起並尋找她的性感區，例如坐臉、舌吻、舔、肛門折磨、深喉、享受睾丸時的女牛仔姿勢，並繼續愉悅的治療，直到蕩婦保留精液出來了！無論是急診病人還是你太太來看你，我都會以病人第一的精神去做！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241217/20241217200953745745.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241217/20241217200953745745.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9801",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9801&name=葵司"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9801&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9801&name=玉木玲"
+    }
+  ]
+};

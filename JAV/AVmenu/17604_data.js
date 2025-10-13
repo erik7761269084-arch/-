@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e183b42f-b048-4e00-8efc-7f5499e39899/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17604,
+  "IDcode": "NSFS-235",
+  "title": "新婚夫妻人質事件 蜜月期間妻子被绑架從早到晚被內射强奸",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "4K",
+    "和服・浴衣・喪服",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "性騷擾",
+    "輪姦",
+    "新娘",
+    "人妻",
+    "手指插入",
+    "溫泉"
+  ],
+  "description": "NSFS-235为人妻官能AV出品,2023年11月28日发行的有碼成人影片由本田瞳出演\n一對夫婦決定在溫泉旅館度蜜月。玩得很開心，很享受這趟旅行。然而，他们所住的溫泉旅館卻住著一名暴力犯罪者。這對夫婦陷入麻煩...\n一對夫婦決定在溫泉旅館度蜜月。玩得很開心，很享受這趟旅行。然而，他们所住的溫泉旅館卻住著一名暴力犯罪者。這對夫婦陷入麻煩...",
+  "cover_url": "https://picture.yoshiclub.xyz/20231127/d46c0dd1-6a0c-4979-8892-b9860a6523ed.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231127/d46c0dd1-6a0c-4979-8892-b9860a6523ed.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17604",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17604&name=本田瞳"
+    }
+  ]
+};

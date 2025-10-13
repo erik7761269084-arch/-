@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55216,
+  "IDcode": "4F7F7AFB6FC7784685232D6669DB49C2",
+  "title": "蒙眼试味游戏",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55216",
+  "actresses": []
+};

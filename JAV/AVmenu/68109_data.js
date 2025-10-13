@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/vCoZeGnd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68109,
+  "IDcode": "SSIS-106",
+  "title": "すぐそばに嫁がいるのに僕に跨りヒソヒソ密着誘惑してくるささやき淫語お姉さん miru",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "薄马赛克",
+    "主观视角",
+    "美少女电影",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68109",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68109&name=Miru"
+    }
+  ]
+};

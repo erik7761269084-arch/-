@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220603/9460553B4D309BF9/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64360,
+  "IDcode": "57FF2A99D0CFF53A93590FFF-52521398",
+  "title": "19岁G乳少女连续受孕内射",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64360",
+  "actresses": []
+};

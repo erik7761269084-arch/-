@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20240922/cS5va0ai/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58114,
+  "IDcode": "052522-001",
+  "title": "隣人はモトカレNTR 〜美人妻が本気で求めた相手は夫じゃなかった〜",
+  "publish_date": "2022-05-25",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "立即口交",
+    "打手枪",
+    "乳交",
+    "巨乳爆乳",
+    "美乳",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230825-1/4602c7f38c4ab1f7504c6d92c850749a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58114",
+  "actresses": []
+};

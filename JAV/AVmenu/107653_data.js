@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/01/a3745af8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107653,
+  "IDcode": "HMN-414",
+  "title": "私のコト…好きじゃないなら足でしかしてあげないッ！ 足コキ焦らしデートでセフレ卒業ハッピーイチャラブ中出し 森日向子 生写真2枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "姐姐",
+    "足交",
+    "苗条",
+    "恋爱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107653",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107653&name=森日向子"
+    }
+  ]
+};

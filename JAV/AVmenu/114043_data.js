@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/e3ac5d3e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 114043,
+  "IDcode": "FC2-4765796",
+  "title": "与H罩杯OL的私密性爱",
+  "publish_date": "2025-09-28",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/e3ac5d3e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=114043",
+  "actresses": []
+};

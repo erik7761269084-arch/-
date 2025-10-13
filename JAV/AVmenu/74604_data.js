@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/Tuxey2R8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74604,
+  "IDcode": "LUXU-1090",
+  "title": "ラグジュTV 1074 上品な佇まいの奥様が旦那の許可を経て念願のAV出演。旦那以外のペニスの刺激に酔いしれ、頬を染めながら中イキ絶頂！！",
+  "publish_date": "2019-03-08",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74604",
+  "actresses": []
+};

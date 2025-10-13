@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240801/fHPIKmKX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92263,
+  "IDcode": "MIDV-297",
+  "title": "地味で内気な会社の部下は従順な愛人… 初めての不倫温泉旅行で嬉し恥ずかしイチャラブSEX 水卜さくら （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-05-17",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "出轨",
+    "苗条",
+    "浴衣",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92263",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92263&name=水卜櫻"
+    }
+  ]
+};

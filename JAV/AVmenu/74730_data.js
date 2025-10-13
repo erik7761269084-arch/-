@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/43ZmL2Pk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74730,
+  "IDcode": "LUXU-1138",
+  "title": "ラグジュTV 1122 『患者さんに手を出すわけにはいかないし…』捌け口がない欲求を内に秘めた現役看護師がAV出演！日常では味わえない刺激に声を漏らし、恍惚の表情で肉棒を味わいながらイキまくる！",
+  "publish_date": "2019-06-28",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "颜射",
+    "苗条",
+    "业余",
+    "乳房",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/a7a2b6932da00da7431a404ece6725ae.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74730",
+  "actresses": [
+    {
+      "name": "三田杏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Moodyz/三田杏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74730&name=三田杏"
+    }
+  ]
+};

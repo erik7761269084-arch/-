@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231209/ab1JuLfi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88844,
+  "IDcode": "TENX-23031",
+  "title": "初撮り熟女 汗まみれハメられて膣奥まで突かれた12人",
+  "publish_date": "2023-03-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/7e1ec2410d525485f9c0380ae121915e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88844",
+  "actresses": []
+};

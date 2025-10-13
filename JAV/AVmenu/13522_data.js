@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/265e0f37-bef0-4f8b-86e4-6261a4ff5f29/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/09/9675ed8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13522,
+  "IDcode": "JUQ-724",
+  "title": "「竹田夢，你長大了……」每當我回到父母家，兩個叔叔總是叫我……",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "多P",
+    "美少女",
+    "叔叔・姪女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "JUQ-724为MADONNA出品,2024年7月9日发行的有碼成人影片由竹田夢出演\n「我是個壞女孩，讓叔叔們感到孤獨。」「很久以前…當我還小的時候，我的叔叔們經常捉弄我。他們摸我的全身，舔我。」 ，我討厭它。無法控制它，所以我很長一段時間沒有回到我父母的家，然而，我父親的病情突然發生了變化，這讓我更加親近。 ，因為如果我見到我的叔叔們…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705013234499499.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705013234499499.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13522",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13522&name=竹田夢"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240428/Rg9SSUOK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101867,
+  "IDcode": "FGAN-071",
+  "title": "挑発的小悪魔ブルマ娘 なるみ 広瀬なるみ",
+  "publish_date": "2022-09-08",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "第一人称摄影",
+    "荡妇",
+    "屁股",
+    "运动短裤",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101867",
+  "actresses": [
+    {
+      "name": "廣瀨成美",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/c3f9cefa-c546-4e04-b43f-e34ba4b29663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101867&name=廣瀨成美"
+    }
+  ]
+};

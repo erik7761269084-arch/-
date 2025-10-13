@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bc49ec85-9dd5-4b60-b6be-63b3285f32b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 661,
+  "IDcode": "HEYZO-0792",
+  "title": "下班6點後 - 微乳感度 ~ 加藤麻耶",
+  "publish_date": "2015-02-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "貧乳",
+    "美腳"
+  ],
+  "description": "HEYZO-0792为HEYZO出品,2015年2月14日发行的無碼成人影片由加藤麻耶出演\nアフター6～微乳は感度良好～ - 加藤麻耶",
+  "cover_url": "https://picture.yoshiclub.xyz/20241002/b5e2ce0e-941b-494e-9efc-6d98e46b7684.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241002/b5e2ce0e-941b-494e-9efc-6d98e46b7684.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=661",
+  "actresses": [
+    {
+      "name": "加藤麻耶",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-加藤麻耶.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=661&name=加藤麻耶"
+    }
+  ]
+};

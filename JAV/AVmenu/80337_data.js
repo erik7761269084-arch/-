@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/WyOs6xiD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80337,
+  "IDcode": "SPRD-1494",
+  "title": "夫に内緒で義父に頼んだ妊活 小早川怜子",
+  "publish_date": "2021-12-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80337",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80337&name=小早川怜子"
+    }
+  ]
+};

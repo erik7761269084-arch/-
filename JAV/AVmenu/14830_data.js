@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cc890db4-c590-4801-b0de-d8fe0c099eab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14830,
+  "IDcode": "NDRA-113",
+  "title": "瞞着女朋友和她媽媽偷偷做愛……友田彩也香",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "岳母",
+    "口交",
+    "性感",
+    "不倫",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240511/2153cffc-f5cd-4e3a-9abc-9da91f3e3e27.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240511/2153cffc-f5cd-4e3a-9abc-9da91f3e3e27.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14830",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14830&name=友田彩也香"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a5efa46-1975-42a1-b3f9-5f3c6df9619b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15111,
+  "IDcode": "SDJS-255",
+  "title": "突然襲擊超敏感的淫蕩小穴！立即被一根大巨吧操了 ~ 中途入社的助理制片人試有演出本番 ~ 本多そら",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "美少女",
+    "出道作品",
+    "癡女",
+    "女同事",
+    "辦公室",
+    "真實拍攝",
+    "即時插入",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SDJS-255为SOD出品,2024年5月1日发行的有碼成人影片由本多そら出演\nアシスタントプロデューサー本多そら、AV出演して仕事への取り組み方が変わり責任感を持って働いています。そんな本多ちゃんの更なる成長を願って試練を与える事にしました。『業務中にデカチン男に即ハメされても業務を完了させる事はできるのか！？』予告なしの即ハメに何度もイキまくりです！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240430/319e10fa-a135-40ed-9ca8-b5be72bd14ff.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240430/319e10fa-a135-40ed-9ca8-b5be72bd14ff.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15111",
+  "actresses": [
+    {
+      "name": "本多そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240430/34c58f9a-2364-4dc8-b06e-e050bb72390e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15111&name=本多そら"
+    }
+  ]
+};

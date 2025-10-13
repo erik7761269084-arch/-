@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/02/19d42721/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79465,
+  "IDcode": "DASD-920",
+  "title": "親肛行 死ぬほど嫌いな義父に…ケツ穴を犯●れた外国妻 ジューンラブジョイ",
+  "publish_date": "2021-09-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "乱伦",
+    "肛交",
+    "巨大屁股",
+    "西洋片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79465",
+  "actresses": [
+    {
+      "name": "瓊·洛夫喬伊",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/15d750f6-3af9-4072-bd19-c8c9bf59a421.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79465&name=瓊·洛夫喬伊"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79465&name=田渊正浩"
+    }
+  ]
+};

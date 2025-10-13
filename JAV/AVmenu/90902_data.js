@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240301/5lI41d4V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90902,
+  "IDcode": "MBM-727",
+  "title": "ショートヘアーのおばさん スッキリ清潔感！清清しい性格！さわやか美熟女とギャップがエロい濃厚エッチ（ハート）12人240分3",
+  "publish_date": "2023-09-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90902",
+  "actresses": []
+};

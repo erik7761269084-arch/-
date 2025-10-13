@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/798d33b4-20c3-4db0-a9fc-d2de0ccddc1a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/11/e944a5ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3968,
+  "IDcode": "MIDA-168",
+  "title": "十年不見，鹽系貧乳妹妹變成了喪宅女，微乳依舊勾人，乳首玩弄不停中出十發讓她徹底淪陷 ~ 鬆本一香",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "廢青",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "惡搞",
+    "手指插入",
+    "抹油",
+    "美人",
+    "眼鏡",
+    "短髮",
+    "亂倫",
+    "極品美人",
+    "美少女電影",
+    "羞恥",
+    "宅男・宅女"
+  ],
+  "description": "MIDA-168为MOODYZ出品,2025年8月1日发行的有碼成人影片由松本一香出演\n我有個比我小十多歲的妹妹。多年在黑心公司累到精神崩潰，放棄城市生活回老家，結果發現十年前那對小胸的妹妹竟然變成了喪女尼特。跟當年一樣，她對我還是那種冷淡的鹽系態度…其實小時候我對她做過不少色色的事，比如讓她脫內褲給我看，或者求她秀一下小胸，回想起來覺得自己真是個垃圾。如今再見到變成喪女的妹妹，我這顆喜歡小胸蘿莉的心又被撩得不行。當年摸她乳頭她都沒啥反應，可這次一碰，敏感度直接翻十倍！一直揉捏她的乳頭，把她弄得欲罷不能，最後她竟然主動求我給她的小穴來一發…這場禁忌遊戲，真是讓人上頭啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093750787787_45362_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093750787787_45362_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3968",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3968&name=松本一香"
+    }
+  ]
+};

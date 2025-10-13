@@ -1,0 +1,121 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/feccb37d-7094-4930-97b7-a6e48998aedf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3469,
+  "IDcode": "SUJI-284",
+  "title": "來，張嘴幫我好好口幹淨？無毛蘿莉少女被強●猥褻中出性愛 4小時大合集 ~ 伊織雛乃 佐野なつ 知花しおん 美雲そら 月美りょう 市井結夏 天乃のあ 由良佳奈 工藤拉拉",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "3P・4P",
+    "淫亂",
+    "吞精",
+    "深喉",
+    "傲嬌",
+    "變態",
+    "色白",
+    "雙馬尾",
+    "凌辱",
+    "蘿莉",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "暗黑系",
+    "明星臉",
+    "鬼畜片",
+    "清純",
+    "精選總編集",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "大奶头",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "SUJI-284为妄想族出品,2025年8月15日发行的有碼成人影片由由良佳奈，市井結夏，工藤拉拉，美雲そら，知花しおん，伊織雛乃，天乃のあ，佐野なつ，月美りょう出演\n來，張開小嘴，把髒東西舔乾淨，給我好好清理一下！上下小洞洞都變成大叔的專屬玩物。10個無毛少女被中出，年輕的身體被隨意玩弄，爽到不行！大叔們想怎麼搞就怎麼搞，年輕肉體隨便糟蹋，真是太讚了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818090836544544_46804_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250818/20250818090836544544_46804_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3469",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=由良佳奈"
+    },
+    {
+      "name": "伊織雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/6a46a693-db54-443c-92b0-e03cc92d3091.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=伊織雛乃"
+    },
+    {
+      "name": "市井結夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/001e998c-aaf9-4fde-97c5-c91b0625e328.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=市井結夏"
+    },
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=工藤拉拉"
+    },
+    {
+      "name": "天乃のあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/11323ce3-390d-4768-ab59-6eb113e89679.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=天乃のあ"
+    },
+    {
+      "name": "美雲そら",
+      "img_url": "https://picture.yoshiclub.xyz/20240702/9afb3705-56a6-4ed5-9026-138df6d2812c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=美雲そら"
+    },
+    {
+      "name": "月美りょう",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/e48b6201-37a4-4d8f-8339-2209fee20cd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=月美りょう"
+    },
+    {
+      "name": "知花しおん",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/0e5b03a8-ee85-4b85-9119-0616795727e4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=知花しおん"
+    },
+    {
+      "name": "佐野なつ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250514/ad13bce4-1282-414b-89b9-dc6ecb4b0cc2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3469&name=佐野なつ"
+    }
+  ]
+};

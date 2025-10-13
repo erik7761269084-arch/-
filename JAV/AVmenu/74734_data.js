@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241229/9CYNABcB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74734,
+  "IDcode": "ARA-396",
+  "title": "【清純】21歳【美乳】ひなのちゃん参上！大学に通う彼女の応募理由は『冒険したくて…♪』世間知らずのお嬢様！爽やかなイメージとは真逆などエロいキスを披露！【超大量潮吹き】連続は見所！一世一代のアドベンチャーに【大興奮の激イキ】このSEX見逃すな！",
+  "publish_date": "2019-07-16",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女大学生",
+    "自慰",
+    "颜射",
+    "潮吹",
+    "业余",
+    "女优按摩棒",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/e52218878368f1f4ffdeea76bce34be1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74734",
+  "actresses": [
+    {
+      "name": "陆畑ひなの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74734&name=陆畑ひなの"
+    }
+  ]
+};

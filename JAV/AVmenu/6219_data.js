@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16366eef-0446-41fc-afd9-431d71fea4af/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/5f14976b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6219,
+  "IDcode": "USBA-083",
+  "title": "特別搜查官緊縛調教 巨乳女搜查官淪陷於麻繩快感 ~ 椿りか",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "調教",
+    "4K",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "監禁",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "暗黑系",
+    "緊縛",
+    "單體作品",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "淫蕩・硬核",
+    "插入異物",
+    "極品美人",
+    "美少女電影",
+    "女搜查官",
+    "羞恥",
+    "報復"
+  ],
+  "description": "USBA-083为2025年5月10日发行的有碼成人影片由椿莉香出演\n麻繩的刺激讓人受不了，直接爽到炸裂！驕傲被撕得粉碎，女特工在無止境的刺激下徹底淪陷！特工椿接到潛入奴隸販賣組織巢穴的命令。她在酒桌上色誘高層套取情報，隨後潛入敵營。槍戰激烈，椿卻中了毒氣陷阱昏了過去。醒來時已被麻繩緊縛，動彈不得，任由惡徒擺弄。幾天後，她好不容易找到機會逃脫，可前方等著她的卻是更大的深淵……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052527786786_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052527786786_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6219",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6219&name=椿莉香"
+    }
+  ]
+};

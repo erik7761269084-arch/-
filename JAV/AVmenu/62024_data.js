@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/20/4147f809/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62024,
+  "IDcode": "SKMJ-658",
+  "title": "イケメンAV男優の凄テク我慢できたら100万円！イったら即ハメ高速ピストンで容赦なく生中出し！海で声をかけた素人女子大生が初体験の超快感にエビ反り悶絶！開始早々我慢の限界で涎ダラダラあそこもびっしょりで…2025年夏・水着美女SP パンティと生写真付き",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女大学生",
+    "泳装",
+    "业余",
+    "猎艳",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62024",
+  "actresses": []
+};

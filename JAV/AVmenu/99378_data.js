@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230203/28FFDE6BF8260866/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99378,
+  "IDcode": "FETJ-311",
+  "title": "ノーパンパンスト越しのオマ○コもろ見せ状態でチ○ポを誘惑してくるお姉さんにヤラれた！薄手のナイロンに包まれた下半身をすりつけられ辛抱たまらず発射させてもらいました！ 桜井あゆ",
+  "publish_date": "2016-05-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "角色扮演",
+    "制服",
+    "连裤袜",
+    "恋腿癖"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_307fetj311/h_307fetj311pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99378",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99378&name=樱井步"
+    }
+  ]
+};

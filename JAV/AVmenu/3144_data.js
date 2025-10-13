@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0cb289e7-f340-4c7e-99c3-9fd56e73db82/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/34eb916b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3144,
+  "IDcode": "WAAA-557",
+  "title": "被討厭的公公夜襲侵犯 ~ 五日市芽依",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "老頭子",
+    "變態",
+    "臀控",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "若妻",
+    "女神",
+    "性感",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "WAAA-557为WANZ FACTORY出品,2025年8月28日发行的有碼成人影片由五日市芽依出演\n芽依和温柔体贴的老公过着衣食无忧的幸福生活，但她心里有个大疙瘩，就是得和那个粗俗又没下限的公公住一起。公公整天性骚扰，芽依早就烦透了。某天，老公不在家，芽依不小心睡着了，公公瞅准机会，偷偷扒下她的内裤，贪婪地舔弄那带着女性气息和汗味的私处，毫不留情地用肉棒猛插，狠狠中出，简直就是无耻的强暴。从那以后，公公一有机会就扑上来，玷污芽依那年轻诱人的身体，让她一次次陷入羞辱和绝望……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828024017779779_87516_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828024017779779_87516_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3144",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3144&name=五日市芽依"
+    }
+  ]
+};

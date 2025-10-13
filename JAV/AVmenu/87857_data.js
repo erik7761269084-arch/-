@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/16/dd39f7f7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87857,
+  "IDcode": "ROE-143",
+  "title": "僕は大好きな母を7日間で堕とすと決めた。 10年間、胸に抱き続けていた禁断の感情―。 澤乃かのか",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/02ae006226a98093ccca8ac6bdd358e6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87857",
+  "actresses": [
+    {
+      "name": "澤乃明日香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250525/4bcc4468-a959-47cc-87ac-af12dbd39515_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87857&name=澤乃明日香"
+    }
+  ]
+};

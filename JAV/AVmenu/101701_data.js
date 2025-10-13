@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240405/tOs2F9gU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101701,
+  "IDcode": "SIRO-5226",
+  "title": "「旦那のより大きいです…」千葉県在住の人妻と禁断の不倫SEX！下品な音を立てて貪りフェラ&amp;でかパイを揺らしながらの騎乗位に興奮しまくり！こんな人妻とヤリたい！ 【初撮り】ネットでAV応募→AV体験撮影 2134",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101701",
+  "actresses": [
+    {
+      "name": "沙英子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101701&name=沙英子"
+    }
+  ]
+};

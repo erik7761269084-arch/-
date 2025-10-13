@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250423/gJTfA23L/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67599,
+  "IDcode": "HMN-269",
+  "title": "鄉下的少子化對策部署 春藥嗑藥做愛 被當作懷孕對象貶職強迫造人的美人職業婦女 月乃露娜",
+  "publish_date": "2022-10-19",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "颜射",
+    "苗条",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67599",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67599&name=月乃露娜"
+    }
+  ]
+};

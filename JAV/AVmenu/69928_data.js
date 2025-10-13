@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/931b95a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69928,
+  "IDcode": "DVEH-051",
+  "title": "出張マッサージ師の巨根に欲求不満を隠せないHもバリキャリなアラサー独女OLのピタパン尻誘惑 美咲かんな",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "屁股",
+    "按摩",
+    "巨大阴茎",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69928",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69928&name=美咲佳奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69928&name=左慈半造"
+    }
+  ]
+};

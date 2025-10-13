@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/JNdK3kiS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73562,
+  "IDcode": "MKMP-284",
+  "title": "佐倉絆 チコツちゃんにシコられる！",
+  "publish_date": "2019-07-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "女上位",
+    "潮吹",
+    "口交",
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73562",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73562&name=森林原人"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73562&name=しみけん"
+    },
+    {
+      "name": "佐仓绊",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/1ceba413ecbc2f38fe4b8d14a14d47fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73562&name=佐仓绊"
+    }
+  ]
+};

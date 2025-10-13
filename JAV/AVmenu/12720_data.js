@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2edd852d-7374-4c5f-89d3-a4bf673358a8/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241011/cL8TJGpu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12720,
+  "IDcode": "NAMH-011",
+  "title": "超酷金發女郎的13發大量精子的中出內射 ~ 鳳可怜",
+  "publish_date": "2024-09-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "兔女郎妝扮",
+    "兩男一女",
+    "多P",
+    "美腳",
+    "美少女",
+    "金髮",
+    "情趣內衣",
+    "巨乳",
+    "辣妹/GAL系",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240813/de8beae4-7508-4260-93b4-44b9f49e6b6c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240813/de8beae4-7508-4260-93b4-44b9f49e6b6c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12720",
+  "actresses": [
+    {
+      "name": "鳳可怜",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/80646ba7-fb37-417a-a891-787b532b5f2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12720&name=鳳可怜"
+    }
+  ]
+};

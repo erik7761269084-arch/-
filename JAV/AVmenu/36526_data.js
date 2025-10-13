@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220312/28DB50F8D16686C2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36526,
+  "IDcode": "4A5E1792C6A018FC732D5E1240C3E2C-9",
+  "title": "會所偷拍直播白嫩妞玩六九掰穴舔逼連續幹了兩炮對白清晰",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36526",
+  "actresses": []
+};

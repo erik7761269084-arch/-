@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220619/05CC10835DAAD468/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56519,
+  "IDcode": "C424BA8B4BF6E324D70BFBEA287A854A",
+  "title": "小姐姐被抠鲍淫乱呻吟",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56519",
+  "actresses": []
+};

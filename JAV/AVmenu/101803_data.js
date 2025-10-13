@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240420/7HeA6eGg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101803,
+  "IDcode": "GANA-3018",
+  "title": "マジ軟派、初撮。 2030 癒しオーラを身に纏う白衣の天使を渋谷でナンパ！AIグラビアのモデルなんつってエスカレートする要求に恥ずかしがりつつも止まらない潮吹き。現役看護師って普段とエロのギャップがとんでもなくてザワつき半端ねぇって。",
+  "publish_date": "2024-04-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "屁股",
+    "潮吹",
+    "业余",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101803",
+  "actresses": [
+    {
+      "name": "めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101803&name=めい"
+    }
+  ]
+};

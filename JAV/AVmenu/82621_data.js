@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/23/d948800f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82621,
+  "IDcode": "HND-621",
+  "title": "気持ち良すぎて思わず叫んじゃうごめんなさいGスポットずーっと腰振り回し続けるイクイク騎乗位中出し 神宮寺ナオ",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "中出",
+    "女上位",
+    "数位马赛克",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82621",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82621&name=神宫寺奈绪"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d784a69d-85ba-4135-b13c-6fa87ebfd7b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 543,
+  "IDcode": "HEYZO-0646",
+  "title": "極太黑炮 VS 爆乳癡女 - 重磅肉體的對碰 ~ 美月優芽",
+  "publish_date": "2014-07-26",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "黑人男優",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "AV拍攝現場",
+    "情趣內衣",
+    "巨乳",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "女優"
+  ],
+  "description": "HEYZO-0646为HEYZO出品,2014年7月26日发行的無碼成人影片由美月優芽出演\n極太黒砲 VS 爆乳痴女～ダイナマイト悩殺ボディ～ - 美月優芽",
+  "cover_url": "https://picture.yoshiclub.xyz/20241126/56c599a6-6b38-4817-b250-2625c8732924.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241126/56c599a6-6b38-4817-b250-2625c8732924.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=543",
+  "actresses": [
+    {
+      "name": "美月優芽",
+      "img_url": "https://picture.yoshiclub.xyz/20240619/acfcf897-e3e0-4de9-bf19-88fa1d7b8dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=543&name=美月優芽"
+    }
+  ]
+};

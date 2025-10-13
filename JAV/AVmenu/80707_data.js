@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/22/5e2af61d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80707,
+  "IDcode": "SSIS-314",
+  "title": "「新しいママのおっぱい、柔らかくて大きい」息子になった僕と咲さんの初体験レッスンの日々。 奥田咲",
+  "publish_date": "2022-02-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "已婚妇女",
+    "乱伦",
+    "薄马赛克",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/1c7c9def0da4c21c626739a7307e2413.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80707",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80707&name=奥田咲"
+    }
+  ]
+};

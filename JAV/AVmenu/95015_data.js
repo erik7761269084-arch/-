@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241116/S2XdMfuy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95015,
+  "IDcode": "JUNY-017",
+  "title": "ダイエットに励む豊満むっちりな嫁がうっかり義父の勃起薬を飲んでしまって発汗と絶頂が止まらない！ 篠崎かんな",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "胖女人",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/29ffb8d79d1fb0fd4c60f155adfb469a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95015",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95015&name=田渊正浩"
+    },
+    {
+      "name": "篠崎环奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95015&name=篠崎环奈"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/b87142d5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79732,
+  "IDcode": "WAAA-102",
+  "title": "会社飲みで終電逃してオンナ上司の家にお泊りしたら早漏なのがバレて金曜の夜から月曜の朝まで強●射精させられたボク 広瀬りおな",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "荡妇",
+    "苗条",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79732",
+  "actresses": [
+    {
+      "name": "廣瀨里緒菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/497e3d38-4292-4cf8-b298-6dd18f72b99d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79732&name=廣瀨里緒菜"
+    }
+  ]
+};

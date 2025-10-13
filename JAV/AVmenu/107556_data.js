@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/21/69c6f1ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107556,
+  "IDcode": "JUQ-324",
+  "title": "美尻と魔性の微笑みで僕を誘惑する人妻パーソナルトレーナー逆NTR 愛弓りょう",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "荡妇",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107556",
+  "actresses": [
+    {
+      "name": "愛弓涼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/eaa1f49e-8b0d-4aaf-a43e-b8a8484fd0b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107556&name=愛弓涼"
+    }
+  ]
+};

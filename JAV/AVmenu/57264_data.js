@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57264,
+  "IDcode": "6A396592D08FBC455121AC124D1167A7",
+  "title": "孕妇的变态手淫",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57264",
+  "actresses": []
+};

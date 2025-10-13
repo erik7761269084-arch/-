@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241217/9N9R8T8n/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75746,
+  "IDcode": "BBACOS-023",
+  "title": "（羞恥） ババコス！（BBA） 大人しそうな爆乳奥さんを綾●レイにしてみたら潮を吹き上げて淫乱に変身した件 （中田氏） 山本優美奥様 41歳",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "放尿",
+    "羞耻",
+    "角色扮演者",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75746",
+  "actresses": [
+    {
+      "name": "山本优美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75746&name=山本优美"
+    }
+  ]
+};

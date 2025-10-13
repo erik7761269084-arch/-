@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250116/3o94Hkct/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73074,
+  "IDcode": "MIAA-141",
+  "title": "ワキ性感 窒息絶頂アームピット開発 あべみかこ",
+  "publish_date": "2019-09-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗条",
+    "按摩",
+    "纪录片",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250117-1/a81feacf093eb1006cc1919dc04e24b3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73074",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73074&name=安部未華子"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73074&name=鲛岛"
+    }
+  ]
+};

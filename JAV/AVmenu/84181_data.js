@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/ASmrZzSi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84181,
+  "IDcode": "DASD-979",
+  "title": "喉もマ●コも死ぬほど追姦種付け調教されて… 刑務所専用 屈辱肉便器 前乃菜々",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84181",
+  "actresses": [
+    {
+      "name": "前乃菜菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/886ce837-0a74-41dd-9645-35a63f255a74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84181&name=前乃菜菜"
+    }
+  ]
+};

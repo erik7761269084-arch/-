@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230206/03E0DCB62B192BC4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103183,
+  "IDcode": "PKPD-059",
+  "title": "円女交際 中出しoK18歳S級円光娘 早美れむ",
+  "publish_date": "2019-09-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103183",
+  "actresses": [
+    {
+      "name": "早美怜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ac3eeaa7-100d-40b5-aa3e-94edee995843.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103183&name=早美怜夢"
+    }
+  ]
+};

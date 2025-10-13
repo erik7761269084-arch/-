@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6c3bd3bd-3302-4d5d-893f-55c1aa318d05/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7790,
+  "IDcode": "LULU-365",
+  "title": "只是夾一下哦… 被性欲旺盛的胸控侄子央求 無奈用乳交滿足他的豐滿巨乳叔母 ~ 櫻千奈美",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "胖女人",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "美人",
+    "熟女",
+    "阿姨・侄子",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250303/70a0d1f9-3445-40fc-9f7c-b5bf3bfb3de4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250303/70a0d1f9-3445-40fc-9f7c-b5bf3bfb3de4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7790",
+  "actresses": [
+    {
+      "name": "櫻千奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240321/eadac7e8-457d-4a69-a33a-40082814c3db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7790&name=櫻千奈美"
+    }
+  ]
+};

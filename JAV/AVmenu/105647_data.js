@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/29/21ea3989/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105647,
+  "IDcode": "ROE-207",
+  "title": "私のやらしい、やらしい、デカ乳首を発狂するまで調教して下さい―。 瀬尾礼子",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/29/549b320ae4820757d7ffbf943fb0433a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105647",
+  "actresses": []
+};

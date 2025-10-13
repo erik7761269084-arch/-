@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241209/qgHUxD1n/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75702,
+  "IDcode": "KAGP-129",
+  "title": "素人なのにディルドオナニーで激しく感じちゃう一般人娘3",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "淫乱，真实",
+    "自慰",
+    "业余",
+    "恋物癖",
+    "插入异物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75702",
+  "actresses": []
+};

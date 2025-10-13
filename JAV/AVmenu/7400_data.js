@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5276032a-ea48-4946-b1c6-f1be2316500e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/13/455417a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7400,
+  "IDcode": "JUR-204",
+  "title": "不是說好要在一起嗎…現在才說分手，你敢嗎？ 逼我獻精射滿她小穴深處，你是我專屬《造人肉奴》~ 武藤あやか",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "絕頂高潮",
+    "流汗",
+    "脚控・戀足癖",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "小三・情人",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "手指插入",
+    "足交",
+    "出軌",
+    "偷竊",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "綠茶婊"
+  ],
+  "description": "JUR-204为MADONNA出品,2025年3月25日发行的有碼成人影片由武藤彩香出演\n我已經結婚了，但我有一個情婦，Ayaka，我們交往有一段時間了。他無意與現任妻子離婚，但他對她的吸引力已消退，他們不再發生性關係，所以他整天沉迷於與情婦的婚外情......有一天，事情開始變得沉重，所以我決定分手，但她對分手並不滿意，並威脅要告訴她我們關係的一切，包括她的妻子，並把我關進監獄！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320112045393393.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320112045393393.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7400",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7400&name=武藤彩香"
+    }
+  ]
+};

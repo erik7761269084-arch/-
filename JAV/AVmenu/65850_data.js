@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65850,
+  "IDcode": "1PON061010_853",
+  "title": "一本道カップ-AtoJ-(徠夢)(愛咲MIU)(桜あい)",
+  "publish_date": "",
+  "type": "有码",
+  "company": "一本道",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65850",
+  "actresses": []
+};

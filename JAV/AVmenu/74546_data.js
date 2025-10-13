@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/a5IR8Jxy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74546,
+  "IDcode": "JBJB-005",
+  "title": "はかなげな黒髪美少女 長～いベロで全身ご奉仕してオジさんの金玉空っぽにしちゃう 倉木しおり",
+  "publish_date": "2019-07-29",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74546",
+  "actresses": []
+};

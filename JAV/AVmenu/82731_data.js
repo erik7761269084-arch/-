@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/15/a2c766f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82731,
+  "IDcode": "ABP-879",
+  "title": "スプラッシュさきの 女の体液、全部抜く！驚異の3本番 乙都さきの",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "颜射",
+    "玩具",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82731",
+  "actresses": [
+    {
+      "name": "乙都咲乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/48136b8d-e885-4f21-b050-afaefe44a5a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82731&name=乙都咲乃"
+    }
+  ]
+};

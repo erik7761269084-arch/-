@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3f54c647-ff96-4309-a8dc-778e65bc966f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/17/9c485e46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8831,
+  "IDcode": "DASS-583",
+  "title": "快樂又尷尬的外甥洗澡時間 ~ 葵百合香",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小姨・姑姑",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "高妹",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "熟女",
+    "處男"
+  ],
+  "description": "DASS-583为DASDAS出品,2025年1月28日发行的有碼成人影片由葵百合香出演\nAkira 在 SNS 上受到誹謗後傷心欲絕。同時，由於缺乏性生活而與丈夫吵架的姑姑尤里卡來到了家裡。過去讓尤里卡給他洗澡的阿基拉一直對他美麗的阿姨感到興奮，但他的情感創傷仍然難以癒合。有一天，阿基拉洗澡的時候，阿姨誤進來了。 「我們以前經常一起上床睡覺，所以沒關係，」她走進來時說道，並在阿基拉情緒低落時溫柔地鼓勵他。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075207195195.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123075207195195.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8831",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8831&name=葵百合香"
+    }
+  ]
+};

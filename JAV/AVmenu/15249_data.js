@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/48aff0d6-3d59-4ae7-9ea0-09aacf3c1e95/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15249,
+  "IDcode": "DAZD-196",
+  "title": "我不想要了！制服凌亂的美少女未成熟的陰道沾滿大量濃稠的精液，青春就此崩塌！中出4小時",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "警察制服",
+    "劇情",
+    "形象俱樂部",
+    "JK校服",
+    "精選綜合",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "DAZD-196为DASDAS出品,2024年4月23日发行的有碼成人影片由倉本菫，久留木玲，天馬唯，皆瀨明里，小栗操，绫濑心出演\n「裡面太瘋狂了！！」絕望襲擊了穿著清新制服的美麗女孩們。堅硬的雞巴插入徒勞拒絕的未成熟裂縫中。扭著臉哭是沒有意義的。使細長身體彎曲的惡魔活塞。也許我應該讓你口頭操我。深喉無情。你知道女人有責任讓男人感覺良好嗎？我會射在你體內，直到你的子宮鼓起來。我喜歡你最終輸給他的雞雞並愛上一個女人的可愛樣子。我第一次完全屈服於這種快樂。長達 4 小時的殘酷強姦，用渾濁的精液和慾望玷污了閃亮的青春。噗！如果我懷孕了，我會很抱歉。 （哈哈）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420033806510510.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240420/20240420033806510510.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15249",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=天馬唯"
+    },
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=倉本菫"
+    },
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=皆瀨明里"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=绫濑心"
+    },
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=小栗操"
+    },
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15249&name=久留木玲"
+    }
+  ]
+};

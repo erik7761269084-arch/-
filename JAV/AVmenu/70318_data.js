@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/28/dcbc3701/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70318,
+  "IDcode": "KSBJ-365",
+  "title": "息子が愛おしくて我慢できない！ 一場れいか （BOD）",
+  "publish_date": "2025-03-04",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/03/28/5879cce02abff72b48b789bb6f81001d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70318",
+  "actresses": [
+    {
+      "name": "一場れいか",
+      "img_url": "https://picture.yoshiclub.xyz/20240602/a8e16305-bf0f-4c72-8e7c-156484679c82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70318&name=一場れいか"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230411/xCLuBBoL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86972,
+  "IDcode": "GANA-2298",
+  "title": "マジ軟派、初撮。 1495 保険の営業ウーマンがストレス溜まってムラムラ！ストッキング破って発散セックス開始！！濃密な接触の繰り返しに敏感なスレンダーボディを震わせて絶頂を繰り返す！",
+  "publish_date": "2020-06-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "颜射",
+    "高",
+    "苗条",
+    "业余",
+    "女优按摩棒",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230411-41/f8acf684a65017bfb5e2917893340b60.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86972",
+  "actresses": [
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86972&name=タツ"
+    },
+    {
+      "name": "爱音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86972&name=爱音"
+    }
+  ]
+};

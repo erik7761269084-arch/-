@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/76c21627-6bc7-4037-8838-fd5d72c6b50f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/17/824e2c53/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15759,
+  "IDcode": "ADN-547",
+  "title": "我的女上司夏目彩春，幾年前與丈夫離婚（帶着孩子），並說她不再需要男人了，她已經從我身上發展出了沒有性就無法生存的身體，並成爲了我方便的性朋友，夏目彩春",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "勾引・誘惑",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "出軌",
+    "女上司",
+    "熟女"
+  ],
+  "description": "ADN-547为ATTACKERS出品,2024年4月2日发行的有碼成人影片由夏目彩春出演\n幾年前我和先生離婚了。她平日把孩子留在父母家裡，只在週末與孩子住在一起。很難，但我的前夫不給我任何子女扶養費，所以我別無選擇，只能努力賺錢。我以為我需要的只是「孩子」和「工作」。但情況不同了。很長一段時間以來第一次被關押……我想起了身為一個女人我一直在尋找的快樂。我希望你以女人的身份來找我，即使這只是一種方便的關係。但我不能這麼說...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331012935880880.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240331/20240331012935880880.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15759",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15759&name=夏目彩春"
+    }
+  ]
+};

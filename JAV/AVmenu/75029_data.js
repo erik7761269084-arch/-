@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/24/6abd6338/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75029,
+  "IDcode": "SABA-568",
+  "title": "近所のマンションに住む美人妻を部屋に連れ込んで一般マッサージ店を装って口説くと徹底的に気持ちイイSEXが出来る説",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "高",
+    "按摩",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75029",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75029&name=葵百合香"
+    },
+    {
+      "name": "椎木くるみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75029&name=椎木くるみ"
+    }
+  ]
+};

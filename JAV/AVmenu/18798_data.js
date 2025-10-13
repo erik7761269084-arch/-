@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a180b0e5-e77a-441a-8ef0-5966ca4982f3/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/09/29/20b13ce5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18798,
+  "IDcode": "FSDSS-647",
+  "title": "難道我被兄弟的女朋友反向NTR了?她讓我瞬間勃起騎乗位連続射精",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "劇情",
+    "色誘",
+    "美乳",
+    "女上位",
+    "勾引・誘惑",
+    "朋友女友・妻子",
+    "偷竊",
+    "NTR"
+  ],
+  "description": "FSDSS-647为FALENO出品,2023年10月12日发行的有碼成人影片由天使萌出演\n那天，我们三人和朋友的女朋友萌萌在家喝酒。 我很羡慕朋友和他妻子之间的友谊，朋友也睡着了......就在我们独自喝酒的时候，萌萌突然走到我身边，跨坐在我身上......而朋友就睡在我旁边...... \"不出声没关系\"。 我知道我不应该这样，但我抵挡不住萌萌的诱惑，我勃起了......萌萌的站立式女牛仔体位让我在家里喝了一天的酒整夜反复射精......\n那天，我们三人和朋友的女朋友萌萌在家喝酒。 我很羡慕朋友和他妻子之间的友谊，朋友也睡着了......就在我们独自喝酒的时候，萌萌突然走到我身边，跨坐在我身上......而朋友就睡在我旁边...... \"不出声没关系\"。 我知道我不应该这样，但我抵挡不住萌萌的诱惑，我勃起了......萌萌的站立式女牛仔体位让我在家里喝了一天的酒整夜反复射精......",
+  "cover_url": "https://picture.yoshiclub.xyz/20230907/20230907010006233233.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230907/20230907010006233233.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18798",
+  "actresses": [
+    {
+      "name": "天使萌",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/5722e88a-9117-46c0-8ea2-a2d1ae5a0502.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18798&name=天使萌"
+    }
+  ]
+};

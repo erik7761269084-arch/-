@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/NmspA7Db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76862,
+  "IDcode": "SCPX-277",
+  "title": "人妻デリヘル呼んだら上司の奥さん！しかも超清楚美人！初出勤の彼女に、素股を教えるフリしてそのままヌルリと挿入！若くて固い部下ち●ぽにイキまくる不貞妻！「もうやめて！」失神寸前の痙攣ま●こに容赦なく何度も挿入して連続生中出し！",
+  "publish_date": "2018-06-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "妓女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76862",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76862&name=蓮実クレア"
+    },
+    {
+      "name": "池内凉子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76862&name=池内凉子"
+    },
+    {
+      "name": "内川桂帆",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/d34d9c992db21037508c38319872d7ca.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76862&name=内川桂帆"
+    }
+  ]
+};

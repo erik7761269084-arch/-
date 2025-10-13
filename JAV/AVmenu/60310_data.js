@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/d0942e43/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60310,
+  "IDcode": "MEKO-360",
+  "title": "マッチングアプリナンパ中出し不倫SEX010",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": "素人Only",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/d0942e43/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60310",
+  "actresses": []
+};

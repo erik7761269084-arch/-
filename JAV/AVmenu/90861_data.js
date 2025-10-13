@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/23/c3cc01a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90861,
+  "IDcode": "MESU-113",
+  "title": "ホテルで働く淫乱コンシェルジュの中出し接客サービス 大石紗季",
+  "publish_date": "2023-08-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "各种职业",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240223-1/f9863a3e7cc7d94aa00a24a80faeb5b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90861",
+  "actresses": []
+};

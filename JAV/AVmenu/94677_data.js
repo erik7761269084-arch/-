@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/fUWweVIG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94677,
+  "IDcode": "STSK-113",
+  "title": "悪ノリ2 盗撮魔をお仕置きするJ●グループ",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "制服",
+    "业余",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241031-1/069816946e88aec99585f23305835cab.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94677",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94677&name=千石もなか"
+    },
+    {
+      "name": "宫泽千春",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/99a363ed-fd20-401a-af51-8bc2a9792a99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94677&name=宫泽千春"
+    },
+    {
+      "name": "東城ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20240312/424c35f4-9a2a-40cd-b057-e4127986871d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94677&name=東城ゆい"
+    }
+  ]
+};

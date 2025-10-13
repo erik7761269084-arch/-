@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/iFoiaSvY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79239,
+  "IDcode": "KUSE-017",
+  "title": "ヤリたくなったら、即マン！B100cm×H100cmの穴モテ天然ビッチなムッチリボディを持つ現役OLデビュー！！ Natural Born Bitch あさみ潤 AV DEBUT",
+  "publish_date": "2021-07-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "荡妇",
+    "首次亮相",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79239",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79239&name=鲛岛"
+    }
+  ]
+};

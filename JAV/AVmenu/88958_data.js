@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/WEG2IaHB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88958,
+  "IDcode": "UMD-888",
+  "title": "マッサージ師のなすがまま、カーテン越しに上から下まで弄られまくりの人妻たち！！声を殺して、鼻息も荒くオイルで火照ったカラダをふるわせ旦那にバレずにイキ放題っ！！久々の中出しに子宮は切なく痺れ、たっぷり染み込む他人種がメスの性を目覚めさせるっ！！ 6",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "按摩"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88958",
+  "actresses": [
+    {
+      "name": "伊织凉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250524/39f28971-1e7d-4d1d-8601-e569aae3cba9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88958&name=伊织凉子"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88958&name=浜崎真绪"
+    },
+    {
+      "name": "仓木诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88958&name=仓木诗织"
+    }
+  ]
+};

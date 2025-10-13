@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240120/qTHGe1rz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90510,
+  "IDcode": "PRED-420",
+  "title": "お天気お姉さん性感開発ビクビク痙攣 めちゃイキ3本番！ 松本梨穂",
+  "publish_date": "2022-08-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "多P",
+    "女上位",
+    "姐姐",
+    "潮吹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90510",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90510&name=松本梨穂"
+    }
+  ]
+};

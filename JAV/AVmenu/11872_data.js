@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4c862d6-3c42-44f1-8f48-78dc1bdaf04e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/01/ce3e2548/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11872,
+  "IDcode": "SONE-359",
+  "title": "一份無法逃脫的黑暗契約。只允許遮蓋乳頭的平面模特 ~ 鷲尾芽衣",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-359为S1出品,2024年9月24日发行的有碼成人影片由鷲尾芽衣出演\n精心設計的黑暗契約，除了「乳頭不能外露」的規定外，沒有其他任何保護措施。如果真是這樣的話，她就會在半裸的狀態下被強暴、吃掉，讓你誤以為她裸體會更好…這就是她離開鄉村、晚開花時想要完成的凹印偶像的夢想嗎？由於無法取消合同，她去地獄拍照，被尋找巨乳的變態老男人吞噬。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919002403864864.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919002403864864.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11872",
+  "actresses": [
+    {
+      "name": "鷲尾芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/e7c9a2b7-8190-4db3-846f-d44a217fd9ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11872&name=鷲尾芽衣"
+    },
+    {
+      "name": "笕纯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11872&name=笕纯"
+    }
+  ]
+};

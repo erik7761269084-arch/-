@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4bf86643-837b-4e4b-a5fd-868f14bc6edc/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241016/wGk1UPeH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12910,
+  "IDcode": "PKPD-315",
+  "title": "黑色連褲襪專享特輯",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "企畫",
+    "雙馬尾",
+    "脚控・戀足癖",
+    "美腿",
+    "JK校服",
+    "素人",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "PKPD-315为妄想族出品,2024年8月6日发行的有碼成人影片\n我想為黑色褲襪愛好者、由黑色褲襪愛好者、為黑色褲襪愛好者提供個人影片。始終穿著褲襪。丹尼爾在30以內，穿衣服是必須的。我想聞她腳底的味道，享受褲襪的感覺，我想欣賞她的褲襪下半身透過褲襪用電動按摩器扭動。即使插入後，你仍然更專注於她的褲襪腿，而不是她的臉或生殖器。我正在為你製作這個影片。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804210801944944.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240804/20240804210801944944.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12910",
+  "actresses": [
+    {
+      "name": "鳥楽ひな",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/c18d37eb-e9bc-43c1-96f0-c0a07a1297da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12910&name=鳥楽ひな"
+    }
+  ]
+};

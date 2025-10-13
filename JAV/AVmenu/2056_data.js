@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230203/2f423d5f-dd79-4e58-9f50-d80c6b15f34d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2056,
+  "IDcode": "SKYHD-104",
+  "title": "SKY ANGEL 104 波多野結衣",
+  "publish_date": "2013-06-11",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "乳交",
+    "中出",
+    "美乳",
+    "顏射",
+    "口交",
+    "美腳",
+    "過膝襪・小腿襪",
+    "足交",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230210/696f2a6c-3fb0-4d10-9cb4-a4d94ea8c6a7.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230210/696f2a6c-3fb0-4d10-9cb4-a4d94ea8c6a7.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2056",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2056&name=波多野结衣"
+    }
+  ]
+};

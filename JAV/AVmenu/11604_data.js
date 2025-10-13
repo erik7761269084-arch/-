@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e43ef994-7cdc-495b-ba74-0fead6ee2539/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11604,
+  "IDcode": "DLDSS-348",
+  "title": "「別操我！！」熱衷教育的巨乳保育員做錯事生氣，卻遭到奸夫父親的襲擊並中出 ~ 入田真綾",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "後入",
+    "幼稚園老師",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "緊縛",
+    "癡女",
+    "巨乳",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "DLDSS-348为DAHLIA出品,2024年10月24日发行的有碼成人影片由入田真綾出演\n【人見人愛的人氣保育老師…爸爸說這是「可以當肉尿壺的變態性慾處理玩具」。 ] 他們發生了不道德的肉體關係。儘管伊麗塔的工作是指導人們，但當他受到粗暴對待時，他會感到興奮。在你意識到之前，你的本能就變得不可阻擋。 「對不起，我要死你的雞巴。」她的後臉比任何人都更認真地教導著她……她一遍又一遍地懇求射精到陰道深處！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240929/20240929002012871871.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240929/20240929002012871871.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11604",
+  "actresses": [
+    {
+      "name": "入田真綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/87df9d7b-a930-4897-a17d-d32a523ae348.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11604&name=入田真綾"
+    }
+  ]
+};

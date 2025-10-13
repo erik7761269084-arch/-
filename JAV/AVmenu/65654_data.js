@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65654,
+  "IDcode": "385C2D71046CF21F29617E809F0F4F24",
+  "title": "传说的超高级沙龙 究极M性感 秘密倶乐部 爱音麻里亚",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65654",
+  "actresses": []
+};

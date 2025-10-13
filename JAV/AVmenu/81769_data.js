@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/15/f719e41e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81769,
+  "IDcode": "KTRA-196",
+  "title": "超淫乱ドMっ子中出し 一条みお",
+  "publish_date": "2020-03-10",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "淫语",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81769",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81769&name=一条美绪"
+    }
+  ]
+};

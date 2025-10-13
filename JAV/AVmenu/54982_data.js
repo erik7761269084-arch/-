@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54982,
+  "IDcode": "BF35FEAA6C644699C13000FF47A9BF02",
+  "title": "放課後に、仕込んでください ～天然Iカップを虐めてください～ - 祈里きすみ",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54982",
+  "actresses": []
+};

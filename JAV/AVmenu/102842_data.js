@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221224/DD0DD6CB04C123B6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102842,
+  "IDcode": "AUKG-466",
+  "title": "嫁姑レズ ～元レズデリヘル嬢の嫁を寝取る淫乱姑～ 牧村柚希 山口椿",
+  "publish_date": "2019-09-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "成熟的女人",
+    "女同性恋",
+    "新娘，年轻妻子",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/aukg466/aukg466pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102842",
+  "actresses": [
+    {
+      "name": "牧村柚希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102842&name=牧村柚希"
+    },
+    {
+      "name": "山口椿",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102842&name=山口椿"
+    }
+  ]
+};

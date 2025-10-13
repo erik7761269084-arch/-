@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240401/ik2nDoYq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101628,
+  "IDcode": "SIRO-5221",
+  "title": "「乳首をたくさん責めてほしいです」Hカップのおっとり系大和撫子が自らおねだり。欲求不満爆発でマ○コを突き上げる度に爆乳を揺らしイキ狂う！ 【初撮り】ネットでAV応募→AV体験撮影 2127",
+  "publish_date": "2024-03-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "第一人称摄影",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101628",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101628&name=九井珠奈緒"
+    }
+  ]
+};

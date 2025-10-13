@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b90b4600-108d-4f9a-9837-91786f263b87/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/30/e1e2ba08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9226,
+  "IDcode": "NGOD-243",
+  "title": "醫院人妻護士 回診時被巨根患者引誘的背德NTR ~ 森日向子",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "護士制服",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "看病・住院",
+    "美人",
+    "護士",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250111/27cd2c9f-7e08-47b0-b50b-861fda1abc7a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250111/27cd2c9f-7e08-47b0-b50b-861fda1abc7a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9226",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9226&name=森日向子"
+    }
+  ]
+};

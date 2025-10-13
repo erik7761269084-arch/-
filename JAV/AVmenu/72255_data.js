@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/UWpRauvH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72255,
+  "IDcode": "AVSA-087",
+  "title": "「嫌、止めて！！」と言えない状況で感じる女の悲しきエクスタシー 力づくのSEX 就寝中の部屋に忍び込む三匹の悪魔 あずみひな",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "精选，综合",
+    "凌辱",
+    "轮奸",
+    "残忍画面",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72255",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72255&name=佐倉陽菜"
+    }
+  ]
+};

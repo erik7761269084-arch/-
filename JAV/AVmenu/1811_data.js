@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230125/4cb92e4d-a323-4c5b-a697-09743a4e104c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1811,
+  "IDcode": "MKBD-S49",
+  "title": "KIRARI 49 ～前來處男素人影迷家中訪問，奪走寶貴的處男！？～ : 麻生芽依",
+  "publish_date": "2013-05-03",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "美乳",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230131/4d3788fb-4698-42cd-907e-2ec85f87113f.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230131/4d3788fb-4698-42cd-907e-2ec85f87113f.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1811",
+  "actresses": [
+    {
+      "name": "麻生芽依",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1811&name=麻生芽依"
+    }
+  ]
+};

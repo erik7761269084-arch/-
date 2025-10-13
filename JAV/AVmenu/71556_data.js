@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/01/d94b45dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71556,
+  "IDcode": "STAR-995",
+  "title": "古川いおり 百合と蜜 一途な純情レズビアンが初めてチン負けした日",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "多P",
+    "女同性恋",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/03/01/cc07692078f2c5c56997630764e9e954.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71556",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71556&name=推川悠里"
+    },
+    {
+      "name": "古川伊織",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/3889b3b2-bda0-4d8a-8f87-c152ddbf81bc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71556&name=古川伊織"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71556&name=イセドン内村"
+    }
+  ]
+};

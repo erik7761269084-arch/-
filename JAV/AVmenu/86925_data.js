@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/14/80466886/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86925,
+  "IDcode": "IPZ-615",
+  "title": "新作発売イベントで最高のファンサービスを… 天海つばさ",
+  "publish_date": "2015-09-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "姐姐",
+    "羞耻",
+    "数位马赛克",
+    "偷窥",
+    "无码破解",
+    "靴子",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230328-37/9748b1180c3e2ed7ab9e1f4767be442b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86925",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86925&name=天海翼"
+    }
+  ]
+};

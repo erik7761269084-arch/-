@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250407/bxNq7VMB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68685,
+  "IDcode": "MDTM-782",
+  "title": "【FANZA限定】会員制高級制服美少女デリバリーヘルス 柚希あい 01 チェキ付き",
+  "publish_date": "2022-08-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "主观视角",
+    "校服",
+    "礼仪小姐",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250407-1/a481e74f17318937723baccfe3427e6d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68685",
+  "actresses": []
+};

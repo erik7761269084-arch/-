@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c22e0c39-fbee-44e2-b88f-661efa49a033/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 650,
+  "IDcode": "HEYZO-0781",
+  "title": "喝完酒決定出演AV！ ？~ 加護あかね",
+  "publish_date": "2015-01-30",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "69",
+    "巨尻",
+    "中出",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "少女",
+    "打手槍",
+    "蘿莉控",
+    "清純",
+    "癡女",
+    "短髮",
+    "羞恥"
+  ],
+  "description": "HEYZO-0781为HEYZO出品,2015年1月30日发行的無碼成人影片由加護あかね出演\n飲んだノリでAV出演決定！？ - 加護あかね",
+  "cover_url": "https://picture.yoshiclub.xyz/20241008/8e58c56a-14ac-49c9-9518-8acd8aa2d3cb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241008/8e58c56a-14ac-49c9-9518-8acd8aa2d3cb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=650",
+  "actresses": [
+    {
+      "name": "加護あかね",
+      "img_url": "https://picture.yoshiclub.xyz/20241008/3a67f346-bd26-4a03-a62d-db7778f8549d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=650&name=加護あかね"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/89542f4b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62949,
+  "IDcode": "WA-560",
+  "title": "自撮り 見せたがり変態妻のオナニー記録 こんな私だけどオカズにしてシコってくれますか？",
+  "publish_date": "2025-06-15",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "自慰",
+    "手指插入",
+    "主观视角",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/89542f4b/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62949",
+  "actresses": []
+};

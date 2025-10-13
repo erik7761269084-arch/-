@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/09/623efbe5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118634,
+  "IDcode": "FC2-4605938",
+  "title": "射精不会停止",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/10/5e3e19c9bb142235d8af196881d19e51.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118634",
+  "actresses": []
+};

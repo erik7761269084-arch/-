@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/12/d8efba59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85031,
+  "IDcode": "JUFE-381",
+  "title": "保險套都幹破了激情快感抽插！欲求不滿爆乳肉感妻子的流汗中出肉彈交尾 田中寧寧",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "流汗",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/a2405f3824e9244e0cc37f21fce60554.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85031",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85031&name=田中寧寧"
+    }
+  ]
+};

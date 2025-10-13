@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/mTg8lbuh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76809,
+  "IDcode": "FSDSS-005",
+  "title": "昇天へ誘う女神の3本番 美乃すずめ",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "巨乳",
+    "姐姐",
+    "高",
+    "接吻",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76809",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76809&name=美乃雀"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76809&name=鲛岛"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76809&name=玉木玲"
+    }
+  ]
+};

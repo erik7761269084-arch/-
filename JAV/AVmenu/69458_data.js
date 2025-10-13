@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/debe3512/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69458,
+  "IDcode": "CEMD-664",
+  "title": "- アナル舐めで男をイカせる絶品ドスケベ痴女2 水川潤 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "荡妇",
+    "M男",
+    "潮吹",
+    "肛交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/debe3512/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69458",
+  "actresses": [
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69458&name=由爱可奈"
+    }
+  ]
+};

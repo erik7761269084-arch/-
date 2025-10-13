@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221211/D1BF087FE436FCEB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97940,
+  "IDcode": "BTHA-046",
+  "title": "ヘアーヌード～無●正・純朴美少女・Fカップ天然巨乳～/小泉ひなた",
+  "publish_date": "2019-11-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "介绍影片",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/5433btha046/5433btha046pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97940",
+  "actresses": [
+    {
+      "name": "小泉日向",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/9a550037-f39f-46c3-b959-030d8859accc.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97940&name=小泉日向"
+    }
+  ]
+};

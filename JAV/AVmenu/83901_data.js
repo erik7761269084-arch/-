@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/lXCib25F/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83901,
+  "IDcode": "VEMA-140",
+  "title": "アルバイトの僕を助けてくれたパートのおばさんが無理矢理中出しされているのを見てフル勃起 澤村レイコ",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-33/d73dd60adf6f2e4f2816bd1048c09ed8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83901",
+  "actresses": [
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83901&name=高坂ますみ"
+    }
+  ]
+};

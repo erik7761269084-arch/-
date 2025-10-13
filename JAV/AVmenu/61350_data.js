@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/5d80bbc7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61350,
+  "IDcode": "BDSR-540",
+  "title": "甘サド番長熱血指導 射精回数∞ チ○ポ奴●に転職成功！！ 爆乳5時間 キャリアアドバイザー",
+  "publish_date": "2025-08-23",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫语",
+    "荡妇",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61350",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61350&name=月野香澄"
+    },
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61350&name=星乃夏月"
+    }
+  ]
+};

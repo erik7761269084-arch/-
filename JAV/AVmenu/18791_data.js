@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/96fe3593-ace9-49d6-9e6a-544e2fdf04b8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18791,
+  "IDcode": "IPX-596",
+  "title": "美人家教可憐老師的接吻個人課程",
+  "publish_date": "2021-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "口交",
+    "家庭教師",
+    "接吻",
+    "勾引・誘惑"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908002455685685.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/20230908002455685685.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18791",
+  "actresses": [
+    {
+      "name": "楓花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18791&name=楓花戀"
+    }
+  ]
+};

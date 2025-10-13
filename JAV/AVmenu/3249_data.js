@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d135c31-fb5b-4e6d-a8a7-2d027844eb66/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3249,
+  "IDcode": "SDMM-206",
+  "title": "魔鏡號 高學歷小姐姐的主播特訓！播報時被就算被插入也不許分心，鏡頭前必須hold住！ ~ 森彩美 似鳥日菜 朝比ゆの 佐藤愛瑠",
+  "publish_date": "2025-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "直播",
+    "魔鏡號",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "舔陰",
+    "高妹",
+    "美腳",
+    "清楚系",
+    "清純",
+    "惡搞",
+    "巨乳",
+    "新聞采訪",
+    "手指插入",
+    "公共場所",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "SDMM-206为SOD出品,2025年8月25日发行的有碼成人影片由佐藤愛瑠，似鳥日菜，森彩美，朝比ゆの出演\n夢想成為女子主播的高學歷妹子們，來到移動式攝影棚挑戰實戰稿件朗讀訓練！在導師的指導下，練習發音、咬字和表現力，沒想到突然要念的是‘色色台詞’！為了成為不管發生啥都不動搖的專業主播，就算被插到快不行，也得像直播一樣穩住聲線把稿念完！她們的意志力和表現到底能不能過關？快來圍觀這場超刺激的挑戰啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250826/20250826022643821821_33467_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250826/20250826022643821821_33467_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3249",
+  "actresses": [
+    {
+      "name": "似鳥日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/2c3ffb45-3915-4de9-954c-4a6936b28390.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3249&name=似鳥日菜"
+    },
+    {
+      "name": "森彩美",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/c1ed7900-41cd-4741-bb72-b7ee8065a963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3249&name=森彩美"
+    },
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3249&name=朝比ゆの"
+    },
+    {
+      "name": "佐藤愛瑠",
+      "img_url": "https://picture.yoshiclub.xyz/20240309/4519ba79-4491-40aa-8a97-440a9417ee62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3249&name=佐藤愛瑠"
+    }
+  ]
+};

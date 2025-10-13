@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/15/b79a30ed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85391,
+  "IDcode": "MIDV-079",
+  "title": "グラビアアイドルの爆乳に挟んでもらう最高に贅沢なパイズリ 三田サクラ",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "多P",
+    "偶像",
+    "乳液",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230124-1/0f896d6a7b7c4ccfd69b09d6397964f6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85391",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85391&name=大岛丈"
+    }
+  ]
+};

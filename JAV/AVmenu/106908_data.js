@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/28/dd8b9b47/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106908,
+  "IDcode": "RBD-624",
+  "title": "屁眼，狂亂綻放… 上原亞衣",
+  "publish_date": "2014-10-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "高中女生",
+    "强奸",
+    "肛交",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106908",
+  "actresses": [
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106908&name=上原亞衣"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106908&name=しみけん"
+    }
+  ]
+};

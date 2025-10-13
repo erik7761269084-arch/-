@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e4c18e50-5e8b-4b75-a382-64a242e0a23b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3353,
+  "IDcode": "HUNTC-330",
+  "title": "醉酒姐姐被我偷偷用黑絲素股爽到噴射 ~ 岡本莉裏 五十嵐清華 二宮桃 七瀨華蓮",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "酒醉",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "素股",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "姐弟・兄妹",
+    "美腳",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "亂倫",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "HUNTC-330为HUNTER出品,2025年8月21日发行的有碼成人影片由七瀨華蓮，五十嵐清華，岡本莉里，二宮桃出演\n平时姐姐一本正经，谁知道一喝醉就跟我贴身零距离，胸和屁股蹭得我小兄弟直接硬到不行！趁她醉酒不省人事，我偷偷在她黑丝大腿上磨枪，爽到直接射在黑丝上！本以为要被发现，结果她看到黑丝上的精液竟然直接发情，扑上来疯狂索取我的小兄弟！老子也管不了那么多了，欲望爆发直接把她干翻！最爽的是，醉酒的姐姐早上醒来啥也不记得，这操作简直会上瘾啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025754875875_97676_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025754875875_97676_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3353",
+  "actresses": [
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3353&name=五十嵐清華"
+    },
+    {
+      "name": "岡本莉里",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/66611161-4af8-4c68-a2bd-1591ee0fe3ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3353&name=岡本莉里"
+    },
+    {
+      "name": "二宮桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/ede5169d-30d5-4ada-a660-d273ea8643a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3353&name=二宮桃"
+    },
+    {
+      "name": "七瀨華蓮",
+      "img_url": "https://picture.yoshiclub.xyz/20240805/25b1aa74-8978-4f3f-94fd-4f451ba4cd45.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3353&name=七瀨華蓮"
+    }
+  ]
+};

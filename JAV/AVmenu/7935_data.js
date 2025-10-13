@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0d546d2c-e308-474e-bcd7-53ee725dcfb5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7935,
+  "IDcode": "CEMD-641",
+  "title": "在情人旅館裏完全沒有劇本的性愛 Vol.2 ~ 椎名心春",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "後入",
+    "酒醉",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "深喉",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "女優",
+    "情趣飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250226/80c3f48b-f11e-4f02-8f19-220579530edf.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250226/80c3f48b-f11e-4f02-8f19-220579530edf.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7935",
+  "actresses": [
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7935&name=椎名心春"
+    }
+  ]
+};

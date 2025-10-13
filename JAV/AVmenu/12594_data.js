@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b09ed23-e97c-4998-84b6-bd409e14ac28/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/tha0KHgJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12594,
+  "IDcode": "MVSD-616",
+  "title": "臭精液太熱了，她的長舌頭讓我的肥嘴◯舔它！暨愛精液上癮的美麗護士的奶嘴騷擾 ~ 望月つぼみ",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "色白",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "少女",
+    "口爆",
+    "護士制服",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清純",
+    "艷遇",
+    "癡女",
+    "看病・住院",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "MVSD-616为MVG GROUP出品,2024年8月20日发行的有碼成人影片由望月蕾出演\nAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa look:The milk is so thick!超可愛的精液成癮護士吞下了臭精液！讓我們保持身體和陰莖清潔！用你的長舌頭從睪丸到龜頭慢慢地舔，清潔全身！她用嘴吮吸她未洗的、悶熱的粗大雞巴，並將其吸進真空奶嘴！口中大量射精，精液黏稠！直接喝！邊嚼邊喝！聚在一起喝吧！庫楚庫春古古！精液在你嘴裡嘗起來很美味，你就吞下去了！嚴重的雞巴正在用嘴和陰部吸吮雞巴！邀請勃起！ 5 種情色護士服飾！主觀和客觀都可以享受的口交影片！我想多喝Ochi◯Po牛奶...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240816/202408160029457777.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240816/202408160029457777.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12594",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12594&name=望月蕾"
+    }
+  ]
+};

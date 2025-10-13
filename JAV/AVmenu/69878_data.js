@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250317/gpjcL6eO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69878,
+  "IDcode": "STAR-848",
+  "title": "神坂ひなの いいなり温泉旅行",
+  "publish_date": "2017-12-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "艺人",
+    "捆绑",
+    "温泉",
+    "潮吹",
+    "和服，丧服",
+    "滥交",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69878",
+  "actresses": [
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69878&name=神野雛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69878&name=南佳也"
+    }
+  ]
+};

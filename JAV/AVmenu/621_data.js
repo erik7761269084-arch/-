@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ee81d8fa-9f3b-499a-8b8a-1dd2b79960da/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 621,
+  "IDcode": "HEYZO-0747",
+  "title": "即攝影！AV面接3 後編 ~ 桜夜まよい",
+  "publish_date": "2014-12-13",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "網襪",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "顏射",
+    "素人",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "打手槍",
+    "蘿莉控",
+    "情趣內衣",
+    "惡搞",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0747为HEYZO出品,2014年12月13日发行的無碼成人影片由桜夜まよい出演\n即撮影！AV面接3 後編 - 桜夜まよい",
+  "cover_url": "https://picture.yoshiclub.xyz/20241023/abc4c2a3-57e4-4c5b-9fd1-4812d04f3ba0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241023/abc4c2a3-57e4-4c5b-9fd1-4812d04f3ba0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=621",
+  "actresses": [
+    {
+      "name": "桜夜まよい",
+      "img_url": "https://picture.yoshiclub.xyz/20231129/fb5a693e-5d87-4b40-bfa3-ea41c43068c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=621&name=桜夜まよい"
+    }
+  ]
+};

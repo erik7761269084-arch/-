@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/bYqXCP68/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71422,
+  "IDcode": "HUNTA-519",
+  "title": "発射！→バキュームフェラ→発射！「一体いつ終わるの？」エッチ終了直後のフニャフニャになっていくチ○ポを見た義母はバキュームフェラで何度も再勃起させ即挿入を求める！ボクに新しくできた義母は超美人すぎて、正直少し緊張してしまう。そんないつまでも他人行儀な…",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "婆婆",
+    "中出",
+    "淫乱，真实",
+    "口交",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250228-1/ce4e460793b696c3a14f26b6ab0447e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71422",
+  "actresses": [
+    {
+      "name": "三岛奈津子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9727b9923af1f3fc59264baa0c48b31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71422&name=三岛奈津子"
+    },
+    {
+      "name": "一二三铃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71422&name=一二三铃"
+    },
+    {
+      "name": "宫川ありさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71422&name=宫川ありさ"
+    },
+    {
+      "name": "花咲ひらり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71422&name=花咲ひらり"
+    }
+  ]
+};

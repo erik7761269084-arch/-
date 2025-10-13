@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/dFeoaSEJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82642,
+  "IDcode": "HND-547",
+  "title": "ハッスルタイムの10分間は常時生挿入OK！！こっそり無制限中出しを誘う痴女おっパブ嬢 君島みお",
+  "publish_date": "2018-07-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "妓女",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82642",
+  "actresses": []
+};

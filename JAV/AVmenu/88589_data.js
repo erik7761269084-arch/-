@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/07/8e08b710/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88589,
+  "IDcode": "DASS-123",
+  "title": "憑依おじさんin一条みお 生意気スレンダー美少女を乗っ取り代わりに彼氏と情交。",
+  "publish_date": "2023-03-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "中出",
+    "妄想",
+    "苗条",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88589",
+  "actresses": [
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88589&name=一条美绪"
+    }
+  ]
+};

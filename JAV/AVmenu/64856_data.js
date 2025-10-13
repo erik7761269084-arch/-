@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 64856,
+  "IDcode": "CC9FE90706E7857FF5DA0AE08C2930F5",
+  "title": "SOD女子社员 高感度调査 编成部 波田中圣子",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64856",
+  "actresses": []
+};

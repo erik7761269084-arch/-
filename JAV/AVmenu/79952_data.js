@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/Ttm4eom5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79952,
+  "IDcode": "300MIUM-759",
+  "title": "ドS美女メス堕ち！！！【アナル责めもお手の物！生粋のドSガールズバー店员！！！】×【敏感乳首のEカップ×9等身美脚ボディ！！】散々男を见下しあざけ笑っていたくせに、ドMに彻していた巨根男优に无惨にも生ハメされてガンガン突かれまくったあげく、何度も喘ぎヨガって痉挛绝顶していた件www：朝までハシゴ酒85 In目黒駅周辺 ソラ 21歳 ガールズbar店长",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79952",
+  "actresses": []
+};

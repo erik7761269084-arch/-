@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7812f3d9-0207-48b3-b4b3-756bf89429f7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13456,
+  "IDcode": "BACJ-114",
+  "title": "M男壓迫肉彈女 ~ 華澄結愛",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "企畫",
+    "巨尻",
+    "乳交",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "騎乗位",
+    "巨乳",
+    "M男・M女",
+    "豐滿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240709/df64307b-4c2e-46fc-9497-c40bdc52f9f0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240709/df64307b-4c2e-46fc-9497-c40bdc52f9f0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13456",
+  "actresses": [
+    {
+      "name": "華澄結愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/0ec06eb3-2da2-4c20-93f7-daee191f452a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13456&name=華澄結愛"
+    }
+  ]
+};

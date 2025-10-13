@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bfeec4b3-67ce-4995-8c21-693ebb45b69f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/621c0902/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4755,
+  "IDcode": "JUR-414",
+  "title": "考驗老婆對我的愛，在和猛男後輩獨處3小時中...連發16次不拔追擊中出，我被NTR的故事 ~ 美之島惠理",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "同事女友・妻子",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "JUR-414为MADONNA出品,2025年7月4日发行的有碼成人影片由美之島惠理出演\n我跟手下佐治講了一句‘我出去3小時，你跟我寶貝老婆體驗下假夫妻生活吧’，結果這句話直接毀了我的生活。本來是想讓這個只會玩女人的廢柴後輩感受一下有家的責任感和幸福，才特意安排他跟我驕傲的老婆獨處一段時間。可我萬萬沒想到，我不在的時候他們不只是簡單喝喝酒聊聊天，而是發生了讓我絕望到崩潰的事…天啊，我到底造了什麼孽啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703054635516516_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703054635516516_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4755",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4755&name=美之島惠理"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4755&name=左慈半造"
+    }
+  ]
+};

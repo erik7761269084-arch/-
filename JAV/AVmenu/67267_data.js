@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/aaca62b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67267,
+  "IDcode": "NTKD-001",
+  "title": "ぬるテカ巨乳 Vol.1",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "乳液",
+    "业余",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/30/aaca62b4/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67267",
+  "actresses": []
+};

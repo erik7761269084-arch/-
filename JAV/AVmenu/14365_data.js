@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a46d190-f27e-4d55-9763-f5964f9be48e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14365,
+  "IDcode": "SSNI-263",
+  "title": "與通過性訓練的美麗肌肉體進行充滿活力的性交 ~ 凜音とうか",
+  "publish_date": "2018-07-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "運動女孩",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "猥褻穿著",
+    "抹油",
+    "美少女電影",
+    "女優",
+    "肌肉"
+  ],
+  "description": "SSNI-263为S1出品,2018年7月19日发行的有碼成人影片由凛音とうか出演\n凜音董香展現終極銳利性肌肉FUCK！她令人驚嘆的身體，透過性訓練，以女牛仔姿勢和頑皮的狗狗風格變得瘋狂！她自私地渴望雞巴，每次射精時，她的肌肉都會抽搐，美麗的肌肉身體在高潮時劇烈地舞動！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240529/20240529072639783783.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240529/20240529072639783783.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14365",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14365&name=凛音とうか"
+    }
+  ]
+};

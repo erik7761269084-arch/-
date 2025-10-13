@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/10/e1965fe9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106238,
+  "IDcode": "SONE-003",
+  "title": "4K機材撮影 驚異のKcupくびれボディを余すことなく堪能する神楽ももか本気（マジ）イキ！初体験3本番",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106238",
+  "actresses": [
+    {
+      "name": "神樂桃果",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/428d6785-4bd8-4b56-9280-d93662bc7c14.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106238&name=神樂桃果"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106238&name=安倍亜沙美"
+    }
+  ]
+};

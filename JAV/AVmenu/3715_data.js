@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/545cb89a-bd35-441e-89b0-7a0dd113a92d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/26/ba756588/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3715,
+  "IDcode": "REAL-928",
+  "title": "超密着 驚悚！惡靈附身姐妹，靈媒師拼命用大雞巴驅魔救人 ~ 中城葵 藤田柚",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "傲嬌",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "巫女/灵媒师",
+    "少女",
+    "口爆",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "癡女",
+    "雙飛",
+    "手指插入",
+    "奇異的",
+    "兩女一男",
+    "美人",
+    "心理驚悚",
+    "兩男兩女",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "REAL-928为K.M.P出品,2025年8月8日发行的有碼成人影片由中城葵，藤田柚出演\n這是一部直擊惡靈纏身家庭與靈媒師生死搏鬥的紀錄片！一位父親找到攝製組，哭訴自家兩個女兒疑似被惡靈附身，狀況詭異又可怕。攝製組馬上帶著靈媒師上門調查，發現這片土地隱藏著不為人知的恩怨糾葛。為了救回姐妹，靈媒師不惜使出終極絕招——用激烈性愛驅魔，場面火辣又刺激，看得人血脈賁張！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809080334922922_79831_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250809/20250809080334922922_79831_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3715",
+  "actresses": [
+    {
+      "name": "中城葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/09bbbdf9-f79a-473d-b91d-b2071b8b3675.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3715&name=中城葵"
+    },
+    {
+      "name": "藤田柚",
+      "img_url": "https://picture.yoshiclub.xyz/20250126/b0588496-81df-40ba-b9a1-cd29615c489d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3715&name=藤田柚"
+    }
+  ]
+};

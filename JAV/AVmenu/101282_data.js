@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240225/Q6ITKQUT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101282,
+  "IDcode": "NACR-758",
+  "title": "小川葉子におまかせあれ お悩みなんでも相談室「チェリー大学生の場合」 パンティと生写真付き",
+  "publish_date": "2024-02-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女生",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/13/19a151c817af181021da22c1fc09328e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101282",
+  "actresses": [
+    {
+      "name": "小川葉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/f57e8efd-1257-4f82-af2a-c28640d41ab6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101282&name=小川葉子"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101282&name=まーち"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/ziOTl9jh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79956,
+  "IDcode": "300MAAN-716",
+  "title": "【母性溢れるHカップ爆乳JD】ずっと一绪にお酒饮みたい高级ホステス嬢コトネちゃん登场！包容力たっぷりのエロテクが超绝品！！けしからんおっぱいがおっぱいすぎておっぱいとおっぱいがごっつんこして男を埋め尽くす・・・イクイクイク～！と大绝叫で潮吹きまでしちゃった超エロエロ娘のSEXをお构いナシにまるごとREC！！【なま撮りJD。#07】ことね 22歳 児童保育学科4年生 银座ホステス",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79956",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/NolbS8Dj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78762,
+  "IDcode": "SVOKS-075",
+  "title": "サオリちゃん",
+  "publish_date": "2019-12-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "企画",
+    "校服",
+    "魔鬼系",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/b0cb1663c0e4c3c291ef1ff30ef5ae0e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78762",
+  "actresses": [
+    {
+      "name": "幸田ユマ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-幸田ユマ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78762&name=幸田ユマ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231230/kEdv5AFD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101013,
+  "IDcode": "GANA-2976",
+  "title": "マジ軟派、初撮。 2003 買い物帰りの天然巨乳ちゃんをナンパ！警戒心強めかと思いきや、マシュマロおっぱいを揺らしてイキまくりのSEXモンスターでしたw",
+  "publish_date": "2023-12-14",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "无毛",
+    "屁股",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101013",
+  "actresses": [
+    {
+      "name": "奥菜みさき",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/3ff64a1d-af5b-4ad2-82fc-b8321c78d972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101013&name=奥菜みさき"
+    }
+  ]
+};

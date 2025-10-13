@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/09/636db57c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107350,
+  "IDcode": "NACR-694",
+  "title": "催淫暗示 支配され操られた美人妻 黒川すみれ パンティと生写真付き",
+  "publish_date": "2023-08-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "无毛",
+    "苗条",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/09/efb28bb5f9f80e18fc0333307beb185e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107350",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107350&name=黑川堇"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107350&name=岩下たろう"
+    }
+  ]
+};

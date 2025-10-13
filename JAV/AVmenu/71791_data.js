@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250226/cTWpuKFI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71791,
+  "IDcode": "HOKS-029",
+  "title": "田代明男殺人事件 瀬戸すみれ",
+  "publish_date": "2019-06-01",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "妹妹",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71791",
+  "actresses": [
+    {
+      "name": "瀬戸すみれ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71791&name=瀬戸すみれ"
+    }
+  ]
+};

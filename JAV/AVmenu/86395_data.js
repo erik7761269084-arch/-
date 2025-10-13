@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/10/2fc4ce9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86395,
+  "IDcode": "STARS-617",
+  "title": "MINAMOにいきなり逆ナン痴女られ!連射&amp;男潮&amp;中出し犯されて・・・悶絶焦らしで誘惑された俺たち",
+  "publish_date": "2022-08-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "荡妇",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230207-1/1b9cdb260d660246e1e3248a2ddbc568.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86395",
+  "actresses": []
+};

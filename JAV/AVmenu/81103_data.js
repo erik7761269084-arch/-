@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/27/2a6ef816/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81103,
+  "IDcode": "NACR-516",
+  "title": "私を抱きしめて…。 隣人に恋したシングルマザー 結城りの",
+  "publish_date": "2022-03-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "乳液",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81103",
+  "actresses": []
+};

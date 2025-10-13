@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ff62bc2-8de1-49fa-bb0a-ec5de8a11a98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17053,
+  "IDcode": "KKBT-003",
+  "title": "高級風俗店[Club Brenda 東京澀谷店] 現役一條希美展現了她真正的潛力！",
+  "publish_date": "2024-01-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "風俗娘",
+    "性感",
+    "明星臉",
+    "情趣內衣"
+  ],
+  "description": "KKBT-003为SOD出品,2024年1月25日发行的有碼成人影片由一条のぞみ出演\n活躍的成人娱乐风俗娘一條希美展現了她真正的潛力！她將在各種性愛場景中展示她最好的技巧！除了包裹著雞巴的豐富口交和持久的打手槍之外，她還嘗試了她第一次體驗的經典泡泡浴和奇怪的cosplay！也可以透過預約來體驗！？天堂必備的性愛遊戲！\n活躍的成人娱乐风俗娘一條希美展現了她真正的潛力！她將在各種性愛場景中展示她最好的技巧！除了包裹著雞巴的豐富口交和持久的打手槍之外，她還嘗試了她第一次體驗的經典泡泡浴和奇怪的cosplay！也可以透過預約來體驗！？天堂必備的性愛遊戲！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226062851591591.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231226/20231226062851591591.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17053",
+  "actresses": [
+    {
+      "name": "一条のぞみ",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/3dedfe04-2e7e-46c9-8148-ce67e61596a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17053&name=一条のぞみ"
+    }
+  ]
+};

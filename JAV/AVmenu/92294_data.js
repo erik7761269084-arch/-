@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240803/oHuCPJ9a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92294,
+  "IDcode": "MIDV-373",
+  "title": "一夜を使い果たして朝陽が昇るまでの二人っきりの自宅でただひたすら石川澪に痴女られたい。 （ブルーレイディスク）",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "纪录片",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92294",
+  "actresses": []
+};

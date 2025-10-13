@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/11cfffe8-716f-43b0-b04f-c39b2696f931/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16479,
+  "IDcode": "MIAB-103",
+  "title": "爲了增加工資...我是一名低薪護士，乳頭陰蒂發育的很好所以被我討厭的醫院院長強迫失禁...",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "口爆",
+    "護士制服",
+    "勾引・誘惑",
+    "美少女",
+    "女同事",
+    "護士"
+  ],
+  "description": "MIAB-103为MOODYZ出品,2024年2月6日发行的有碼成人影片由木下日葵出演\n最糟糕的是...我要離開這家醫院...！ 木下日葵是一名在東京一家醫院工作的低薪護士。有一天，爲了換取加薪，她接受了一名性騷擾主管的祕密兼職，結果乳頭發育了……！振動乳頭揉捏檢查、刺痛失禁口交、玩具折磨和潮吹、乳頭摸索和溼活塞！自己最討厭的導演，竟然讓他高潮到大小便失禁……！撒尿高潮餅！ “護士真是個變態……（笑）”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204035916318318.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240204/20240204035916318318.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16479",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16479&name=木下日葵"
+    }
+  ]
+};

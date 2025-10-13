@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99117,
+  "IDcode": "HEYZO1833",
+  "title": "泉麻里香ほろ酔い娘とこってりセックス",
+  "publish_date": "2018-10-02",
+  "type": "有码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "背后插入",
+    "3P",
+    "骑乘位",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99117",
+  "actresses": []
+};

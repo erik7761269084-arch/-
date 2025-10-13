@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241103/vH0dZR4j/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94853,
+  "IDcode": "SW-957",
+  "title": "父の再婚で同居することになった義母と義娘姉妹のスケベぇなカラダ！ミニスカパンチラや風呂で裸を見せつけられ、フル勃起チ○ポが隠せない。禁断エッチこっそりヤッちゃうしかありません！！",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "婆婆",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94853",
+  "actresses": [
+    {
+      "name": "前乃菜菜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/886ce837-0a74-41dd-9645-35a63f255a74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94853&name=前乃菜菜"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221101/Z4judyQ8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81727,
+  "IDcode": "JKSR-439",
+  "title": "おとなのおじさんと",
+  "publish_date": "2020-03-28",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "4小时以上作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81727",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81727&name=皆月光"
+    },
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81727&name=泉莉音"
+    },
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81727&name=有栖露露"
+    },
+    {
+      "name": "平花",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\4-Kawaii/平花.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81727&name=平花"
+    },
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81727&name=冬爱琴音"
+    }
+  ]
+};

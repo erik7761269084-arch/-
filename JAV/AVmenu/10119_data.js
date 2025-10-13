@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cd2b0229-2005-43af-bef5-58adc21bc89c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/22/a337e2fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10119,
+  "IDcode": "IPZZ-439",
+  "title": "當出差時遭遇破紀錄的大雨時，只能和處男下屬相部屋……下屬因爲我潮溼的身體興奮並襲擊了我，我們進行了9次溼淋淋的絕倫性交直到早上 ~ 役野満裏奈",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "女上位",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "出差",
+    "女上司",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "IPZZ-439为IDEA POCKET出品,2024年12月10日发行的有碼成人影片由役野満里奈出演\n我以為即使我們住在同一個房間，我們也永遠不會接觸彼此……我們去鄉下出差，颱風即將來臨。如果晚上能回來的話我們應該能及時趕到，但颱風登陸的時間比預計的要早。原本要搭乘的班機取消了，我趕緊找住宿的地方，但只找到一間房間。我是公司的處女下屬，我以為一定不會有這種事，但是… 「你是處女吧？哈哈」男部下被這句話激怒了，靠近了「瑪麗娜」！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205092155114114.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205092155114114.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10119",
+  "actresses": [
+    {
+      "name": "役野満里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240510/7053c94b-2cfc-4ac9-8834-59a20e3928f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10119&name=役野満里奈"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/smPc9AdF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77041,
+  "IDcode": "SABA-516",
+  "title": "童貞さんいらっしゃい！天使のような優しい巨乳介護士さんチャレンジ・ザ・ミッション！授乳手コキ＆おっぱいハグ！恥じらい赤面素股プレイ中ぐちょぐちょマ●コにヌルッと挿入筆おろし3",
+  "publish_date": "2019-04-12",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "手淫",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77041",
+  "actresses": []
+};

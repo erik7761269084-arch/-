@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfc695bf-621e-4f66-af6a-6354f1b1a1ba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15632,
+  "IDcode": "LOL-227",
+  "title": "爺爺的精子放在由良佳奈的洞裏感覺很好 - 剃光陰戶 143cm 由良佳奈",
+  "publish_date": "2024-04-05",
+  "type": "有码",
+  "company": "GLAYz",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "老頭子",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "自慰",
+    "過膝襪・小腿襪",
+    "手指插入",
+    "亂倫",
+    "剃毛",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240405/20240404233431546546.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240405/20240404233431546546.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15632",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15632&name=由良佳奈"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/A0DDF4C5715DBE5D/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36471,
+  "IDcode": "58E435C1B4AC55DA1547899EC6346DF-3",
+  "title": "野生の男のフェラチオを与える美しい短い髪の若い女性",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36471",
+  "actresses": []
+};

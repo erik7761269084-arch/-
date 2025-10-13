@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c38013fc-f1a2-483f-b092-8f74d323597b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18764,
+  "IDcode": "IPX-612",
+  "title": "學生與美人女教師的逃避交 在住處愛合濃密自拍記錄映像",
+  "publish_date": "2021-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "女教師",
+    "劇情",
+    "自拍性愛",
+    "口交",
+    "姐姐・妹妹",
+    "慾求不滿",
+    "真實拍攝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230909/20230909233637915915.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230909/20230909233637915915.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18764",
+  "actresses": [
+    {
+      "name": "楓花戀",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2880be3a-f7bb-4657-8c8b-de1e5fb3d00e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18764&name=楓花戀"
+    }
+  ]
+};

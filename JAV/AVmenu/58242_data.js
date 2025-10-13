@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220416/63B6D63F91A34EA7/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58242,
+  "IDcode": "HEYZO-1106",
+  "title": "ノンストップで精子注入！ - 本間明南",
+  "publish_date": "2016-03-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "知名女优",
+    "玩具",
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "乳交",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58242",
+  "actresses": []
+};

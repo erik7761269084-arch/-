@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230213/5vlTA0uI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86838,
+  "IDcode": "CAWD-212",
+  "title": "女子と会話しただけで嫉妬して邪魔してくる僕のことが大好きすぎる幼馴染に校内でこっそり大胆に射精管理されまくった青春の1ページ 篠原りこ",
+  "publish_date": "2021-04-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "中出",
+    "接吻",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86838",
+  "actresses": [
+    {
+      "name": "篠原りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86838&name=篠原りこ"
+    }
+  ]
+};

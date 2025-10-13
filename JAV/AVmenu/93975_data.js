@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/s8XXa2QD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93975,
+  "IDcode": "RCTD-604",
+  "title": "汚染憑依",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "自慰",
+    "女同性恋",
+    "企画",
+    "双性人",
+    "素人作品",
+    "4K",
+    "性转换·女体化"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93975",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93975&name=大槻响"
+    },
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93975&name=星仲ここみ"
+    }
+  ]
+};

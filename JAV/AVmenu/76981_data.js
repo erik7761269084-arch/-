@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/3c5c107a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76981,
+  "IDcode": "NAMH-023",
+  "title": "小声なお嬢さマ○コに10発 はじめての真正中出し撮影 高城なぎさ",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "纪录片",
+    "角色扮演者",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76981",
+  "actresses": [
+    {
+      "name": "高城なぎさ",
+      "img_url": "https://picture.yoshiclub.xyz/20241208/3846b740-50da-422c-b400-d89b2da83f56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76981&name=高城なぎさ"
+    }
+  ]
+};

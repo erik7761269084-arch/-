@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c4bf3918-6772-4564-ba62-f6a37f638d98/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/a2635db7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4732,
+  "IDcode": "DASS-652",
+  "title": "小頭被吸到變形！真空龜頭吸吮秒爆射！爆了還死纏爛打的超緊貼章魚口技新進員工 ~ 倉本菫",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "加班",
+    "中出",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "打手槍",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "職場",
+    "大奶头",
+    "短髮",
+    "極品美人"
+  ],
+  "description": "DASS-652为DASDAS出品,2025年7月4日发行的有碼成人影片由倉本菫出演\n這新進的小妖精，靠一手魔性章魚口技，把公司裡所有男人整到腿軟啦！那粉嫩嫩的嘴唇一貼上來，軟到讓人心癢癢，龜頭直接被吸得嗖嗖響，硬到不行，眼看要噴了，她偏偏「啪」地一下鬆口，刺激到頭皮發麻！爽過頭直接失控噴射，男潮都飆出來了！還沒完，她又用舌尖瘋狂打轉，舔得你欲仙欲死，部長忍不住狂漏前液，口水嘩啦啦地流，舔得上下左右全濕透，再加一波手技追擊，爽到爆！上司的大棒被她串刺式口技玩弄，龜頭直接被吸成她的小嘴形狀，啊啊又要射了！男人真是太好搞定，超可愛der♪",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073536778778_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073536778778_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4732",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4732&name=倉本菫"
+    }
+  ]
+};

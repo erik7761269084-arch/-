@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/30QFjMrO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68796,
+  "IDcode": "MIAE-314",
+  "title": "男友爸媚藥屌肏到痙攣絕頂 禦阪莉亞",
+  "publish_date": "2018-10-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "强奸",
+    "苗条",
+    "数位马赛克",
+    "白天出轨",
+    "立即口交",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250411-1/0cd6e76f5b26e8c33087a101e1e9628c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68796",
+  "actresses": [
+    {
+      "name": "御坂莉亚",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68796&name=御坂莉亚"
+    }
+  ]
+};

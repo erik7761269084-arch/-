@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221229/64491DBC83FAFB32/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98327,
+  "IDcode": "ATID-221",
+  "title": "純真妻の交尾 私の理性をグチュグチュにしないで…2 あいださくら",
+  "publish_date": "2013-05-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "已婚妇女",
+    "凌辱",
+    "母乳"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid221/atid221pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98327",
+  "actresses": [
+    {
+      "name": "爱田樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/3f770382-48ee-4176-88cd-4fc1111112c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98327&name=爱田樱"
+    }
+  ]
+};

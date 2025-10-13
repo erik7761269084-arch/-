@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7f14ce41-9ebb-4ff8-a77a-6cf59b647c2d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/31/6d426a02/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16170,
+  "IDcode": "SSNI-153",
+  "title": "她被禁止在一個月內發生性行爲或自慰，她變得如此飢渴以至於腎上腺素爆炸！當她抽搐和操時，她的性欲暴露無遺 星野娜美",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-153为S1出品,2018年4月1日发行的有碼成人影片由星野娜美出演\n星野娜美自稱自慰者，挑戰一個月禁欲。每月一次期待着AV拍攝，由於禁欲，從早上起就性欲旺盛！想要快速插入，我瘋狂吸吮雞雞，它爆炸了......自從我上次插入它以來已經有很長一段時間了，當我以女牛仔的姿勢向下擺動臀部時，我在高潮前射精了......我無法讓她射精，很長一段時間以來第一次達到高潮，我開始劇烈抽搐！當開關打開時，我比以往任何時候都無法停止晃動臀部和更換雞巴，高潮也紊亂了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240221/202402210704111212.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240221/202402210704111212.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16170",
+  "actresses": [
+    {
+      "name": "星野娜美",
+      "img_url": "https://picture.yoshiclub.xyz/20231218/56b91853-020c-489e-9dd8-35d125c2177d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16170&name=星野娜美"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16170&name=玉木玲"
+    },
+    {
+      "name": "望月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16170&name=望月"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/rxzwSHD2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85685,
+  "IDcode": "NEWM-025",
+  "title": "真・異常性交 四十路母と子 其の弐拾弐 近親相姦で初めて知った夫以外の魔羅の快楽 川上ゆう",
+  "publish_date": "2022-05-24",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "乱伦",
+    "母亲",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85685",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85685&name=川上優"
+    }
+  ]
+};

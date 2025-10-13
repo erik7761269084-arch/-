@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/d97b9bb2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75261,
+  "IDcode": "NSFS-342",
+  "title": "熟母31 ～息子に抱かれて快楽に溺れてしまった母親～ 野々花さわ （BOD）",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/21/6e08d2b976d7612271c5cd710835d51a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75261",
+  "actresses": [
+    {
+      "name": "野々花さわ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250424/2977457e-b6b1-4a49-a61e-8d46cfbca7da_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75261&name=野々花さわ"
+    }
+  ]
+};

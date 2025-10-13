@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a24ec87c-61b7-4e4c-aa7d-f8e2db6f8d4b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/15/7e93afc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6145,
+  "IDcode": "MIKR-014",
+  "title": "鄉下老家五年後再會，盯著日向子小姐姐美顏誘惑，沉溺舌吻中出的我 ~ 森日向子",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "鄉下",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "姐姐・妹妹",
+    "性感",
+    "探親",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "美人",
+    "極品美人"
+  ],
+  "description": "MIKR-014为MOODYZ出品,2025年5月16日发行的有碼成人影片由森日向子出演\n你喜欢漂亮小姐姐的吻吗？小时候一直暗恋、超级喜欢的隔壁日向子姐姐，回到乡下老家时久违重逢。我以为她已经结婚了，以为她已经是别人的老婆了，但我的心还是放不下她。和日向子姐姐度过了一天极致缠绵的舌吻，简直让人欲罢不能，性欲爆棚！这绝对是今夏最棒的回忆。一起喝酒，从傍晚到深夜再到清晨，疯狂舌吻中出，汗水和唾液交织在一起，她比当年还要美得让人窒息。",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040004177177_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040004177177_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6145",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6145&name=森日向子"
+    }
+  ]
+};

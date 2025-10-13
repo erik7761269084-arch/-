@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240531/NasYt5zt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102308,
+  "IDcode": "KBI-082",
+  "title": "貪る様に舌を激しく絡め、汗だく汁だくで求め合う…。濃厚接吻【なかだし】性交。中出し解禁3本番！！ 冨永ののか【MGSだけのおまけ映像付き+25分】",
+  "publish_date": "2022-08-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102308",
+  "actresses": [
+    {
+      "name": "野々花さわ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250424/2977457e-b6b1-4a49-a61e-8d46cfbca7da_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102308&name=野々花さわ"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102308&name=小田切ジュン"
+    }
+  ]
+};

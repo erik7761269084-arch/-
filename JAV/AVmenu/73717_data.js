@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/dPbAvjGW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73717,
+  "IDcode": "MILK-063",
+  "title": "性欲旺盛J○のハメまくり白書 高美はるか",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "玩具",
+    "口交",
+    "角色扮演者",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73717",
+  "actresses": [
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73717&name=胡桃圓"
+    }
+  ]
+};

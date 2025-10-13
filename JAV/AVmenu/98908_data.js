@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230124/9CB79633F1B5A52A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98908,
+  "IDcode": "OKAX-357",
+  "title": "制服女子を犯りまくり！！",
+  "publish_date": "2018-03-23",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "中出",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98908",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 78766,
+  "IDcode": "3544_MIGD-392",
+  "title": "失禁羞恥お漏らしメイド 周防ゆきこ",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/bae1db063c1015dc5b69960ba8c4ffce.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78766",
+  "actresses": []
+};

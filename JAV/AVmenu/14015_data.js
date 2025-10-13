@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c196fbf0-4ecf-4445-b683-af1588f8dbac/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/Vb6jz3Sr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14015,
+  "IDcode": "MTALL-122",
+  "title": "乙愛麗絲 VS 做愛追擊隊 即使無法動彈也不會結束的中出大亂交",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "大亂交",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "接吻",
+    "多P",
+    "美少女",
+    "金髮",
+    "巨乳",
+    "手指插入",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240613/0d2ae724-9315-47b3-a355-d25b091636ba.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240613/0d2ae724-9315-47b3-a355-d25b091636ba.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14015",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14015&name=乙愛麗絲"
+    }
+  ]
+};

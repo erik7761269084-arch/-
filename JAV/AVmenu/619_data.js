@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c3c2614-46e9-4a13-b5bb-23dad77dd6f5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 619,
+  "IDcode": "HEYZO-0745",
+  "title": "放學後美少女檔案No.9 爲所欲爲的愛玩娘 ~ 森野美由紀",
+  "publish_date": "2014-12-10",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "中出",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "清純",
+    "按摩棒",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "HEYZO-0745为HEYZO出品,2014年12月10日发行的無碼成人影片由森野美由纪出演\n放課後美少女ファイル No.9～されるがままの愛玩娘～ - 森野美由紀",
+  "cover_url": "https://picture.yoshiclub.xyz/20241023/65287a45-fb8f-4f61-81ce-5de68a2b4c9c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241023/65287a45-fb8f-4f61-81ce-5de68a2b4c9c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=619",
+  "actresses": [
+    {
+      "name": "森野美由纪",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/29a3ffca-41ea-45fb-a250-3325ddf7e61b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=619&name=森野美由纪"
+    }
+  ]
+};

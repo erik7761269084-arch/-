@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/35db6ae8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106705,
+  "IDcode": "SDJS-204",
+  "title": "緊急発売！入社後すぐの研修期間中に隠れ巨乳と噂の低身長ロリフェイスの営業部 入社1年目 山下ちゃん(22)うぶすぎるプライベートSEX撮れました！ マイペースでちょっぴり天然だけど、仕事になると人一倍責任感が強いしっかり者！ 研修での仕事を通じて興味のなかったえっちへの関心も人一倍に？？ 山下茉央",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "首次亮相",
+    "纪录片",
+    "偷窥",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/17/0c11cee4a66f36f57a3a450a96880023.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106705",
+  "actresses": [
+    {
+      "name": "山下茉央",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106705&name=山下茉央"
+    }
+  ]
+};

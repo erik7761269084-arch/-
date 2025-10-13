@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/30/9e431340/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107130,
+  "IDcode": "JUL-221",
+  "title": "打開門從未見過的世界大門 被寢取夫婦的調教記録。 一色桃子",
+  "publish_date": "2020-05-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/07/01/4ca80d1db3497f9cb62b64941d8b28c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107130",
+  "actresses": [
+    {
+      "name": "一色桃子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/56005460-4344-41bb-9309-66a9cf22e224.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107130&name=一色桃子"
+    }
+  ]
+};

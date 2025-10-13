@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/28/70cff200/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77802,
+  "IDcode": "VENZ-028",
+  "title": "酔うとキス魔になって滅茶苦茶エロい美人秘書 しゃぶったら射精するまで離さない口マ●コ 欲情したら止まらないおチ●ポ思い出しオナニー 終電逃してお泊まり中出し性交 本田もも",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77802",
+  "actresses": []
+};

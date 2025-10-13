@@ -1,0 +1,97 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/949bb04f-55d7-4bae-a35c-2009ed8d289f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/13/ffc1adf8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10111,
+  "IDcode": "HUNTC-295",
+  "title": "如果有大雞巴犒勞的話，我們一定好好練習！ 女子田徑合宿我的雞巴根本沒有喘息的機會!！",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "小隻馬",
+    "騎乗位",
+    "一男多女",
+    "性感",
+    "兩男一女",
+    "運動女孩",
+    "慾求不滿",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "校園生活",
+    "雙飛",
+    "巨乳",
+    "兩女一男",
+    "兩男兩女",
+    "美少女電影"
+  ],
+  "description": "HUNTC-295为HUNTER出品,2024年12月10日发行的有碼成人影片由由良佳奈，泉莉音，皆月光，市川りく，五十嵐清華，有栖舞衣，愛瀬優里，乙羽あむ出演\n女子田徑俱樂部的集訓超級瘋狂，共有10名女運動員，比上一場增加了4名！我們在親戚開辦的訓練營做兼職。正當我鬱悶的想著今天又要照顧一個大汗淋漓的男人時，田徑隊的10個女孩出現了！妹子們看著制服都已經飢渴難耐，苦練中妹子們都按捺不住自己的性慾了！訓練營裡充滿了淫蕩的味道，她是超級食肉動物，體力深不見底，被人操、中出接二連三！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20241206/20241206065355719719.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241206/20241206065355719719.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10111",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=皆月光"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=由良佳奈"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=有栖舞衣"
+    },
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=五十嵐清華"
+    },
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=泉莉音"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=愛瀬優里"
+    },
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=市川りく"
+    },
+    {
+      "name": "乙羽あむ",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/7e090ae6-dc02-494a-a096-060ba6b4b1b7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10111&name=乙羽あむ"
+    }
+  ]
+};

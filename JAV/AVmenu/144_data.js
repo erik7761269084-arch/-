@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56a66d80-344f-4d74-bcf5-782252adc39c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 144,
+  "IDcode": "HEYZO-0106",
+  "title": "酒店按摩師被老司機搞定！極品正妹淪陷啦 ~ 飯田聖子",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "二次元",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "HEYZO-0106为HEYZO出品,2012年8月31日发行的無碼成人影片由飯田せいこ出演\n試想一下，在酒店叫了個按摩，結果來了一個23歲的超正按摩妹！這妹子認真做按摩的模樣超勾人，結果被一個老色鬼大叔各種挑逗。還拿剛買的攝影機說要試拍，硬是把人給拍下來了。剛開始還聊些有的沒的，後來大叔偷偷摸摸提出想要額外服務。妹子說好久沒男友，久違的親密接觸讓她也有點心動。可能是職業精神作祟，妹子的口技真的是頂級！接下來就是大叔為所欲為的節奏，妹子被弄得全身發抖，那畫面直接讓人血脈賁張，興奮指數直接爆表！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/202507150953439898_91330_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250715/202507150953439898_91330_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=144",
+  "actresses": [
+    {
+      "name": "飯田せいこ",
+      "img_url": "https://picture.yoshiclub.xyz/20250224/77feba81-5846-44da-9a7c-b6d28686e117.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=144&name=飯田せいこ"
+    }
+  ]
+};

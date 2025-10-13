@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/21/fa26f794/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75451,
+  "IDcode": "KSBJ-346",
+  "title": "寝取られ献身妻 その新妻は変態性癖の旦那の為に隣人を誘惑する 藤野つかさ",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "已婚妇女",
+    "无毛",
+    "荡妇",
+    "乳房",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/21/a9094146242e1257b68716834cea8d22.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75451",
+  "actresses": [
+    {
+      "name": "藤野つかさ",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/429e106c-1719-4104-8df3-da0c40f40236.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75451&name=藤野つかさ"
+    }
+  ]
+};

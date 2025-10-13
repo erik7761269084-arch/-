@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57276,
+  "IDcode": "EF8CFBEC7BD2385C59F07A227A00B100",
+  "title": "【無】ダイナマイト 白石真琴 パート2",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57276",
+  "actresses": []
+};

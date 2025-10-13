@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241211/OwveqYGK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75769,
+  "IDcode": "ABP-403",
+  "title": "絶頂ランジェリーナ 7 長谷川るい",
+  "publish_date": "2015-12-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "其他恋物癖",
+    "自慰",
+    "内衣",
+    "连裤袜",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75769",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75769&name=森林原人"
+    },
+    {
+      "name": "长谷川るい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75769&name=长谷川るい"
+    }
+  ]
+};

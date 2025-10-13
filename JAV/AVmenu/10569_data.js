@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/adb6b82e-4843-4252-80ab-7f715190957e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10569,
+  "IDcode": "ACHJ-051",
+  "title": "有着天使面孔的肉感癡女，粗俗地吞噬着受虐狂M男 ~ 推川悠裏",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "熟女",
+    "短髮",
+    "野性"
+  ],
+  "description": "ACHJ-051为MADONNA出品,2024年10月22日发行的有碼成人影片由推川悠里出演\n乳頭冰我杯現在正在加熱！ ！ 《押川由里》史上最粗俗最狠辣的蕩婦作品！ ！威力十足的「超肉」角度！ ！以最高豐滿I罩杯BODY迷倒男人！ ！第一首【關西話】低聲說髒話！ ！汗水多汁的高速打樁女牛仔姿勢，完全勃起瀕臨射精！ ！ 200分鐘的超大體積，吞噬一個又一個受虐狂！ ！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017082533412412.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/20241017082533412412.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10569",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10569&name=推川悠里"
+    }
+  ]
+};

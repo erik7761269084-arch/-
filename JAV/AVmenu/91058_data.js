@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/14/17c5d1d3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91058,
+  "IDcode": "CAWD-530",
+  "title": "僕に一途で大人しい彼女がヤリチン先輩に簡単にネトラレた人生最悪の中出し合宿 設楽ゆうひ",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "苗条",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91058",
+  "actresses": [
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91058&name=真琴"
+    }
+  ]
+};

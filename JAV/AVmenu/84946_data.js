@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/06/01/f9d35a3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84946,
+  "IDcode": "JUL-966",
+  "title": "返鄉探親三日間、與成為人妻的同學忘我愛合記錄。 栗山莉緒",
+  "publish_date": "2022-05-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84946",
+  "actresses": [
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84946&name=栗山莉绪"
+    }
+  ]
+};

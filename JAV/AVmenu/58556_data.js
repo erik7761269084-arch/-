@@ -1,0 +1,20 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58556,
+  "IDcode": "HEYZO2130",
+  "title": "西岡奈央性感マッサージで快感！～の場合～",
+  "publish_date": "2019-11-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "按摩",
+    "立即口交",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58556",
+  "actresses": []
+};

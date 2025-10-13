@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221105/16020D7326534264/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57353,
+  "IDcode": "13963A7DC39BE35654BA04AC9F0C471A",
+  "title": "继母在母亲节的沙发上性交",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57353",
+  "actresses": []
+};

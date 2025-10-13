@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f581a4d0-a3e3-4ed2-b41b-11506035f7ee/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/07/937b5936/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16477,
+  "IDcode": "FSDSS-749",
+  "title": "臼井理佳在 3 個大高潮中首次顫抖高潮",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "自慰",
+    "按摩棒"
+  ],
+  "description": "FSDSS-749为FALENO出品,2024年3月7日发行的有碼成人影片由臼井理佳出演\n身高167公分、模特身材令人印象深刻的明星臼井理佳二次出道，首次體驗3場性愛場面！與老男人的粘稠舌吻特寫SEX，充滿私密感的奇聞趣事SEX，激烈的活塞3P......讓敏感的身體顫抖的同時高潮一次又一次！高級成人美女暴露一切並狂射！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204040032900900.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240204/20240204040032900900.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16477",
+  "actresses": [
+    {
+      "name": "臼井理佳",
+      "img_url": "https://picture.yoshiclub.xyz/20240108/473820e1-0d36-4e0e-b6a4-d307a1f8da86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16477&name=臼井理佳"
+    }
+  ]
+};

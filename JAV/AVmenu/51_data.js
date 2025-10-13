@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2957a3ea-c0c9-47fa-a288-130533a0d7a4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 51,
+  "IDcode": "1PON-010321_001",
+  "title": "早晨丟垃圾的鄰家騷氣無 bra 人妻 ~ 並木静香",
+  "publish_date": "2021-01-03",
+  "type": "无码",
+  "company": "一本道",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "69",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "超爆乳",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "鄰居",
+    "清楚系",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "阪道系",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "1PON-010321_001为一本道出品,2021年1月3日发行的無碼成人影片由並木静香出演\n早晨丟垃圾時，鄰家大奶人妻不小心被隔壁阿北偷瞄到那致命的深溝，結果直接把人迷得不要不要的。這位正點人妻皮膚白得能滴水，隔壁阿北按捺不住直接衝進她家，趁她還沒回過神就開始上下其手。人妻的身體誠實得很，很快就濕得一塌糊塗，被壓在床上時，她居然發現自己對這種危險的刺激場面興奮到不行。在老公不在家的空房間裡，被陌生男人侵犯的快感讓她爽到前所未有的高潮，最後還被直接內射，真的high到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042327202202_28165_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042327202202_28165_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=51",
+  "actresses": [
+    {
+      "name": "並木静香",
+      "img_url": "https://picture.yoshiclub.xyz/20231029/1c789625-b4f3-496e-807f-6717ca561acf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=51&name=並木静香"
+    }
+  ]
+};

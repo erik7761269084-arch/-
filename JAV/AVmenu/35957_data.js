@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/55807DEC8D0CF9A1/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35957,
+  "IDcode": "690355932D183AB7B7C4B1401C3D-1457",
+  "title": "僕の彼女が水鳥文乃だったら～休日は一日中白肌に触れていたい～水鳥文乃",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35957",
+  "actresses": []
+};

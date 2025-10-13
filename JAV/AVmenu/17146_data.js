@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/baca5259-8bf7-43c9-9f6c-68074a8cbabb/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250128/nsMzeFb6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17146,
+  "IDcode": "SSNI-054",
+  "title": "這裡舒服嗎？ 國民偶像三上悠亜流口水的超級口交全程",
+  "publish_date": "2017-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "性感",
+    "口爆",
+    "美少女",
+    "女僕制服",
+    "明星臉",
+    "COSPLAY服飾",
+    "戀物癖",
+    "薄碼",
+    "芸能人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231222/0d88694d-d925-4ca5-8f5a-1f2142b294f8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231222/0d88694d-d925-4ca5-8f5a-1f2142b294f8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17146",
+  "actresses": [
+    {
+      "name": "三上悠亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3cab5ea9-ee56-453c-ac94-7434eb815df4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17146&name=三上悠亜"
+    }
+  ]
+};

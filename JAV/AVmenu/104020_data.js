@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240610/HnFXcpXR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104020,
+  "IDcode": "MKMP-380C",
+  "title": "搬到公寓之後 被隔壁2位人妻每天在玄關誘惑",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104020",
+  "actresses": []
+};

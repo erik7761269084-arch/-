@@ -1,0 +1,31 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102947,
+  "IDcode": "OKAX-510-",
+  "title": "試着室で女性店員に勃起チ○ポを露出して裾上げ依頼240分",
+  "publish_date": "2019-05-31",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "制服",
+    "户外",
+    "口交",
+    "业余",
+    "纪录片",
+    "恶作剧",
+    "OL",
+    "偷窥",
+    "性骚扰",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102947",
+  "actresses": []
+};

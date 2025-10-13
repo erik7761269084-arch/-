@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230330/bd806d1d-5013-43cc-86ea-78a9c9acafdb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1623,
+  "IDcode": "DV-1211",
+  "title": "我會派辰巳結衣去你家。",
+  "publish_date": "2010-11-26",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "企畫",
+    "按摩・物理治療・美容",
+    "口交",
+    "裸體圍裙",
+    "無碼流出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230331/6e5293cd-07a5-4a33-b9f8-c6a173427302.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230331/6e5293cd-07a5-4a33-b9f8-c6a173427302.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1623",
+  "actresses": [
+    {
+      "name": "辰巳ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/2f18a01c-1b71-40a3-9762-6337ae90b85b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1623&name=辰巳ゆい"
+    }
+  ]
+};

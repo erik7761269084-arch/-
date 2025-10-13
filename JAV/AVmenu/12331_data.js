@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/34e05e1b-f3de-4f9d-9664-777fae39cdf2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/13/d887ce28/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12331,
+  "IDcode": "CAWD-726",
+  "title": "愛上了年紀很大的老師，我是有男朋友的，NTR太糟糕了 ~ 川上しずく",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "老頭子",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "少女",
+    "美少女",
+    "清純",
+    "校園生活",
+    "出軌",
+    "NTR",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "CAWD-726为KAWAII出品,2024年9月3日发行的有碼成人影片由川上しずく出演\n<川上雫獨家首次NTR挑戰！中出禁令解除！ >畢業將近。隨著考試的臨近，社團活動也如火如荼地進行著。那時，雫有一個正在秘密交往的男友。他們的關係依然像接吻一樣純潔。考試結束後，我們將迎來第一次在一起。我是這麼想的，但當我的弱點被邪惡的老師抓住後，一切突然變得不對勁…脅迫、體內射精和戴綠帽......面對男友沒有的成人技巧…我開始覺得自己不再是自己了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014301776776.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830014301776776.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12331",
+  "actresses": [
+    {
+      "name": "川上しずく",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/19490754-ba5a-4f7e-a3ee-5e264cd0c441.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12331&name=川上しずく"
+    }
+  ]
+};

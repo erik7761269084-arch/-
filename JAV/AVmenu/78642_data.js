@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/Ho8oWHNa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78642,
+  "IDcode": "SSIS-057",
+  "title": "パンティーストッキングマニア中年男たちが何度も犯した絶品オフィスレディー 三宮つばき （ブルーレイディスク）",
+  "publish_date": "2021-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "连裤袜",
+    "深喉",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/d6097c68f8bc78d9ebd0a51c604529fb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78642",
+  "actresses": [
+    {
+      "name": "三宫つばき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78642&name=三宫つばき"
+    }
+  ]
+};

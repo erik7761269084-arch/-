@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230220/28E6268D53BA37FC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99761,
+  "IDcode": "AKA-037",
+  "title": "シロウト制服美人 07",
+  "publish_date": "2017-05-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "业余",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118aka037/118aka037pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99761",
+  "actresses": [
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99761&name=沢井亮"
+    },
+    {
+      "name": "天音しずか",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/7f48ac3fefd55dc0d048c470483f4c99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99761&name=天音しずか"
+    }
+  ]
+};

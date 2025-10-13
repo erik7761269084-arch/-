@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220925/B961BE166E28011F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56786,
+  "IDcode": "C2CADD78C28980CB68E10B9EC2BC2DDA",
+  "title": "拥有S级美少女的身体！凉宫音",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56786",
+  "actresses": []
+};

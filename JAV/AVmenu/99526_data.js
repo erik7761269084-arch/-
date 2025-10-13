@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230210/3C6E82C817CBA76A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99526,
+  "IDcode": "DART-003",
+  "title": "特別警護隊の女 ～誇り高きアルテミスの無惨なる肉虐～ 鉄壁の防御は破られて堕ちゆく女体 その屈辱、妖しい香りを放ちつつ 梨々花",
+  "publish_date": "2019-05-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "凌辱",
+    "捆绑",
+    "制服",
+    "羞耻",
+    "连裤袜",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dart003/dart003pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99526",
+  "actresses": [
+    {
+      "name": "梨々花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99526&name=梨々花"
+    }
+  ]
+};

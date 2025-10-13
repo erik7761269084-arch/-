@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241014/Czojffkw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93631,
+  "IDcode": "OKY-011",
+  "title": "天月あず これぞ王道 神ビキニ 昭和アイドルやキャンギャル、令和グラドルまで多くの女子の秘部を隠してきたビキニを巨乳や美乳、パイパンから剛毛、無防備ワキやハミ毛を超接写で舐め回す 絶対脱がさない完全着衣だからこそのポロリやハミ出しAV",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳液",
+    "泳装",
+    "偷窥",
+    "局部特写",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93631",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93631&name=天月梓"
+    }
+  ]
+};

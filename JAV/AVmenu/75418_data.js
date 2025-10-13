@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/qyf264QB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75418,
+  "IDcode": "OFKU-138",
+  "title": "箱根から上京した嫁の母が…巨乳義母 福山いろは 46歳",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "自慰",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75418",
+  "actresses": []
+};

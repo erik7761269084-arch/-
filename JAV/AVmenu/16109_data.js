@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4c674b4b-cf19-434f-88bd-ebc817cafa09/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/4ad41e4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16109,
+  "IDcode": "JUQ-553",
+  "title": "裸模NTR震撼出軌視頻，老板和妻子陷入恥辱 小花暖",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "絕頂高潮",
+    "老板",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "飯店"
+  ],
+  "description": "JUQ-553为MADONNA出品,2024年2月27日发行的有碼成人影片由小花暖出演\n與我的妻子 Non 結婚三年後，一對夫婦聯系我，希望爲他們的周年紀念日拍攝一張裸體照片。我第一次讓我的老板大島先生知道我對他的自私行爲感到困惑。大島先生喜歡他的妻子，強迫她和他說話，因爲他認識一位攝影師。大島先生繼續模棱兩可的回答，他變得憤怒……他的妻子讓他平靜下來，但他別無選擇，只能拍照，拍攝的日子毫無解釋地到來了。然後，裸照開始拍攝，這對夫婦很快就分開了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224070005103103.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240224/20240224070005103103.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16109",
+  "actresses": [
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16109&name=小花暖"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16109&name=大岛丈"
+    }
+  ]
+};

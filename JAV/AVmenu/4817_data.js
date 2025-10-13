@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/44c43d53-5b95-414b-af40-d162240d6d3c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/04/294b13bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4817,
+  "IDcode": "SDNM-519",
+  "title": "天生開朗的畫室小姐姐笑容滿面 34歲人妻第四章 白天家裏客廳潮吹噴水爽翻天 禁忌自宅拍攝 ~ 今村由美",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "素人",
+    "跳蛋",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女"
+  ],
+  "description": "SDNM-519为SOD出品,2025年7月1日发行的有碼成人影片由今村由美出演\n由美小姐姐每天忙著家務和工作，簡直分身乏術！好不容易約到她，特地在她家附近等著。車裡一露出那對大胸，開關秒開，直接進入狀態！跟著她回家直接開拍，爽到不行！隔天趁老公不在，大白天又去她家客廳大戰，潮吹噴得到處都是！甚至做晚飯的時候還被調戲，直接來了一場刺激的3P，真的欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233214504504_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233214504504_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4817",
+  "actresses": [
+    {
+      "name": "今村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20250401/0d668141-d9ec-473f-a29b-cc12dea2b687.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4817&name=今村由美"
+    }
+  ]
+};

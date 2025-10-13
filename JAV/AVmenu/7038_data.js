@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f9185c03-b483-4537-b0bf-0ebc4b6c403d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/8caf74e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7038,
+  "IDcode": "JUR-226",
+  "title": "汗水噴涌，理性崩飛—— 爽到浮空彈跳的盛夏大抽搐蝦背不倫SEX ~ 一乃葵",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "自宅",
+    "上司女友・妻子",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "JUR-226为MADONNA出品,2025年4月8日发行的有碼成人影片由一乃葵出演\n結婚幾年後，我的性生活變得非常無性，我不再記得上次與丈夫做愛是什麼時候，我想我已經達到了沮喪的極限。老公出去捕蝦後，我口頭上拒絕，但當他的手下對我有慾望時，我卻達到了高潮，變得瘋狂。她告訴自己這只會一次，但她的身體渴望他，她無法控制自己的理智。每次秘密會面，她就更深陷陷阱，她的身心沉浸在與他刺激的性愛中…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093603880880.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403093603880880.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7038",
+  "actresses": [
+    {
+      "name": "一乃葵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/dac957b6-4ace-4288-9032-f3c3ca213c2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7038&name=一乃葵"
+    }
+  ]
+};

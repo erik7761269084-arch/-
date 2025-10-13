@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/27/bd9ac533/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90660,
+  "IDcode": "NNPJ-562",
+  "title": "キスだけで濡れるJ● 終業式の日、学校終わりに年上好き女子を車で連れ回してベロキス中出し鎌倉デート",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "制服",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90660",
+  "actresses": [
+    {
+      "name": "橋本りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90660&name=橋本りこ"
+    }
+  ]
+};

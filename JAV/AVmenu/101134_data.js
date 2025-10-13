@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240113/Std0z9fy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101134,
+  "IDcode": "SACE-006",
+  "title": "全裸家政婦 おっぱい＆おマ○コ丸出しで…炊事・洗濯・性欲処理 JULIA",
+  "publish_date": "2011-05-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "各种职业",
+    "数位马赛克",
+    "全裸"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sace006/1sace006pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101134",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101134&name=JULIA"
+    }
+  ]
+};

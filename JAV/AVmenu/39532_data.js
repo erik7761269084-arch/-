@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221231/A6618BDCBD4F621E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39532,
+  "IDcode": "RB-007",
+  "title": "RB007 玄関開けたら即挿入！連続中出し！！",
+  "publish_date": "2020-01-10",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "口交",
+    "熟女",
+    "痴女",
+    "人妻",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39532",
+  "actresses": []
+};

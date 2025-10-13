@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221206/pvdLsMoZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82987,
+  "IDcode": "OKAX-579",
+  "title": "クリちゃん＆ま○こが超気持ち良くなる秘オイルで痙攣激イキFUCK240分",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "乳液",
+    "企画",
+    "业余",
+    "纪录片",
+    "恶作剧",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/643ac0fa447e8ceb75dafcb1981873a7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82987",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56884,
+  "IDcode": "3EECFBC1A8F2584ED06C75F04209BC59",
+  "title": "一次就治好阳痿的痴女大姊 -玩弄肉棒到疼痛勃起- 纱仓美雪 樱木梨乃",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56884",
+  "actresses": []
+};

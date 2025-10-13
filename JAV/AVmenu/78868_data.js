@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/QYqqLabU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78868,
+  "IDcode": "RBD-222",
+  "title": "あなた、許して…。 -抱かれるための出社- 月見栞",
+  "publish_date": "2010-11-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "已婚妇女",
+    "强奸",
+    "制服",
+    "舔阴"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78868",
+  "actresses": [
+    {
+      "name": "月见栞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78868&name=月见栞"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/vd0b1QWJ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93721,
+  "IDcode": "PFAS-010",
+  "title": "ふしだらな妻 あぁ、知らぬは夫ばかりなり",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "巨大屁股",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93721",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93721&name=岬櫻"
+    },
+    {
+      "name": "月咲すずね",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93721&name=月咲すずね"
+    }
+  ]
+};

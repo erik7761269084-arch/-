@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/01/caf3e844/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71602,
+  "IDcode": "CJOD-139",
+  "title": "谷間Oフロントでおっぱい好きの僕たちを焦らすエナメルお姉さん 君島みお",
+  "publish_date": "2018-04-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71602",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71602&name=君岛美绪"
+    }
+  ]
+};

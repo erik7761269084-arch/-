@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/RkpXTjdR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83567,
+  "IDcode": "EYAN-146",
+  "title": "白金在住セレブ美人妻は吉原高級ソープ店No.1泡姫 この度AV業界へも進出！！E-BODY専属デビュー 泉ゆうめ",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/8fb2c733b088d4746d24c59ce835fe52.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83567",
+  "actresses": [
+    {
+      "name": "藤井蕾菈",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/216ce817-01c6-43e5-8766-9664bccbf60b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83567&name=藤井蕾菈"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83567&name=しみけん"
+    }
+  ]
+};

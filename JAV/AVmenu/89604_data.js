@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/76acfe34/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89604,
+  "IDcode": "SCOP-812",
+  "title": "学校で一番可愛かったヤンキー娘と久々の再会！童貞をバカにしてきたくせに、1度チ●ポを挿れた瞬間からカラダをビクつかせてイキまくるヤリマンにどっぷり中出し！6",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "女生",
+    "业余",
+    "处男",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89604",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89604&name=蘭々"
+    }
+  ]
+};

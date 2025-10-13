@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230710/eHkpaita/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87122,
+  "IDcode": "NHDTB-796",
+  "title": "接吻マジックミラー号 はじめての3分間ディープキスで理性とマ◎コが蕩けてしまった敏感J○は唾液ダラダラ濃密ベロちゅうSEXしてしまうのか？ 美澄玲衣さんのパンティとチェキ付き",
+  "publish_date": "2023-07-06",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "业余",
+    "猎艳",
+    "接吻",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87122",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87122&name=美澄玲衣"
+    },
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87122&name=雅子裡菜"
+    },
+    {
+      "name": "円井萌華",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/b182b7df-1886-4640-8d17-9aa21bd27e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87122&name=円井萌華"
+    },
+    {
+      "name": "橋本りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87122&name=橋本りこ"
+    }
+  ]
+};

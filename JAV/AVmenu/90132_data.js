@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/08/f9cffef8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90132,
+  "IDcode": "REAL-831",
+  "title": "超密着ドキュメンタリー 20代半ばの再就職活動 小花のん",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "羞耻",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90132",
+  "actresses": []
+};

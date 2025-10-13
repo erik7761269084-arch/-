@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/PNmUBxnf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79848,
+  "IDcode": "NHDTB-575",
+  "title": "痴●師に満員電車の中で下着姿にされ見られる羞恥で抵抗できない敏感女5 巨乳女子○生限定SP",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "内衣",
+    "潮吹",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/b86d9509cc72e8460fdea23a88d5b8ff.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79848",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79848&name=姫咲華"
+    },
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79848&name=高瀬りな"
+    },
+    {
+      "name": "如月夏希",
+      "img_url": "https://picture.yoshiclub.xyz/20230727/3cbb73d0-2ca0-4ee6-972b-d45f835ca081.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79848&name=如月夏希"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79848&name=今井まい"
+    }
+  ]
+};

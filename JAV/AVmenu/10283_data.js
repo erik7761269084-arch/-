@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/53b1e640-cef2-4e15-9450-034c0d81b362/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/21/9047be22/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10283,
+  "IDcode": "JUNY-138",
+  "title": "超高腿泳衣以不可能的角度展現豐滿身材的性感身材！ 平時冷靜嚴肅的豐滿的地系女教師的真面目暴露了！ ~ 冢田詩織",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "女教師",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "多P",
+    "勾引・誘惑",
+    "美人妻",
+    "情趣內衣",
+    "艷遇",
+    "校園生活",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "學校",
+    "熟女",
+    "泳裝"
+  ],
+  "description": "JUNY-138为FITCH出品,2024年12月3日发行的有碼成人影片由塚田詩織出演\nFitch、NIKUYOKU廠牌專屬女星塚田詩織身穿高腿泳衣，豐滿巨乳巨臀身材宛如情色漫畫中不可能的角度（各種東西都伸出來了！） 太淫穢的誘惑教訓！詩織老師是個平淡而嚴肅的人，在周圍人中享有盛譽，但在幕後她實際上是一個掠奪師生同學的性怪物！她有暴露癖，長著一張酷酷的臉，但其實很喜歡在衣服裡面穿變態的泳衣。一天放學後，詩織警告一名試圖搶走一名女學生錄音機的男學生。他以為自己對女孩這麼感興趣，就把自己穿在衣服裡面的變態泳衣給秀了出來，讓她興奮不已。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102146342342.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128102146342342.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10283",
+  "actresses": [
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10283&name=塚田詩織"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10283&name=ニック"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10283&name=ナイアガラ翔"
+    }
+  ]
+};

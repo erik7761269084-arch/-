@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221029/E470D6743BCFD21F/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56882,
+  "IDcode": "2D8A840DCDA809DEC68B5F03AB08552F",
+  "title": "【脱がずにするのも悪くない】あや-二十歳-大学生【完全颜出し】着衣生ハメ中出し6P乱交SEX前编",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56882",
+  "actresses": []
+};

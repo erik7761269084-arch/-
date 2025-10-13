@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240422/QrLNMNNE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91269,
+  "IDcode": "EBOD-667",
+  "title": "東洋で人気No.1凄テク古式マッサージ風俗嬢Iカップ外国人東京でAVデビュー リア",
+  "publish_date": "2018-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "妓女",
+    "首次亮相",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240423-1/6d155b381777a76fc1673385fb26663b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91269",
+  "actresses": [
+    {
+      "name": "藤咲サラ",
+      "img_url": "https://picture.yoshiclub.xyz/20230711/804df7ee-bd08-4df7-a361-629e90f54619.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91269&name=藤咲サラ"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91269&name=小田切ジュン"
+    }
+  ]
+};

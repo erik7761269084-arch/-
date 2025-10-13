@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/c5238033/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59813,
+  "IDcode": "FTHTD-139",
+  "title": "- 【ザ・密着ノンフィクション】引きこもり訪問支援 中年ニートの屋敷に放置された大量のシコティッシュに見かねて内緒で喉鬱イラマチオを笑顔でサポートしてくれる優しいお手伝いさん 本田瞳 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FALENO TUBE",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "各种职业",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59813",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59813&name=本田瞳"
+    }
+  ]
+};

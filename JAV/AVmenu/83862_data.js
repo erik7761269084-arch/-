@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/jMZ3LcBO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83862,
+  "IDcode": "TKBN-005",
+  "title": "妻はもうオバサンだけど多分今夜浮気します…夫の部下のチ○ポによがって腰を振ってしまう中年妻 240分",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83862",
+  "actresses": []
+};

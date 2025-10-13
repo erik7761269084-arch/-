@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230721/OIMkUVuL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87260,
+  "IDcode": "ABW-270",
+  "title": "学校で1番可愛い担任教師に射精管理されています。教え子を呼び出し毎日弄ぶ変態教師【禁断の関係】 鈴村あいり【MGSだけのおまけ映像付き+15分】",
+  "publish_date": "2022-08-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "学校作品",
+    "苗条",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230721-1/92ef8c3eee6e430aec74942745b44ec1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87260",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87260&name=鈴村愛里"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87260&name=イセドン内村"
+    }
+  ]
+};

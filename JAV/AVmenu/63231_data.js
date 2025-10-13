@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/7d96e43a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63231,
+  "IDcode": "DVMM-258",
+  "title": "顔出しMM号 素人限定 ザ・マジックミラー 女子大生が青空ビキニ生着替えチャレンジ！3 タイムアップで公開デカチン即ハメ！イってもやめないデカチン追撃ピストンで連続中出し！",
+  "publish_date": "2025-07-01",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "中出",
+    "女大学生",
+    "企画",
+    "业余",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63231",
+  "actresses": []
+};

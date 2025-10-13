@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e3b0ac33-ea4c-40ab-821b-fb4f4a09610d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19269,
+  "IDcode": "IPX-174",
+  "title": "乙市美音退役，享受一輩子值得的硬活塞！連續中出！大量精液顏射！包含誠實的採訪和想法！ ！",
+  "publish_date": "2018-07-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "顏射",
+    "多P",
+    "數位馬賽克",
+    "退休作品",
+    "女優訪談"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230610/20230610011633577577.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230610/20230610011633577577.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19269",
+  "actresses": [
+    {
+      "name": "音市美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9c27a378-96d0-410f-a249-12e833a32bdb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19269&name=音市美音"
+    }
+  ]
+};

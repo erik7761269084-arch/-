@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231216/MsjruPcr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89363,
+  "IDcode": "GANA-2268",
+  "title": "マジ軟派、初撮。 1468 『ネオンカラーのSSS級読モは勢いでヤラせてくれるのか！？』顔もカラダもSSS級！インタビュー(というテイ)でホテルに連れ込み、スナップ撮影のフリして自慢の美尻に触りまくり！「何してるんですか…んっ！？」キスで口を塞ぎ、ニットの上から乳を揉み、そのまま勢いに任せて読モはヤラせてくれるのか！？",
+  "publish_date": "2020-04-02",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "女大学生",
+    "颜射",
+    "苗条",
+    "业余",
+    "乳房",
+    "猎艳",
+    "模特儿"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89363",
+  "actresses": [
+    {
+      "name": "爱瀬るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89363&name=爱瀬るか"
+    }
+  ]
+};

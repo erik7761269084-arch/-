@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56812c1b-95c4-4328-84ec-9346f24a67c6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/1acb175f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4729,
+  "IDcode": "IPZZ-607",
+  "title": "敏感嬌軀狂飆汗涎潮吹 愛液交纏濕身極樂濃密交合 ~ 望月凜音",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "自慰",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "IPZZ-607为IDEA POCKET出品,2025年7月4日发行的有碼成人影片由望月凜音出演\n望月凜音專屬第二彈！汗水狂流、潮吹噴湧、口水滴答，全身愛液交纏，濕身激戰，濃密性愛直接讓人嗨翻天！這敏感體質一碰就爽到不行，汗水、口水、潮吹全開，美女雙面魅力，嬌媚與可愛兼備，濕透了還在瘋狂扭動，高潮到崩潰！內容超炸裂：（1）敏感體質抽搐蝦彎狂幹；（2）互相自慰到口技高潮；（3）瘋狂挑逗的POV性愛；（4）束縛玩具猛攻高潮不停；（5）無止境絕頂追擊3P大亂鬥！這美女跟愛液的化學反應，真的太絕，欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053925459459_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053925459459_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4729",
+  "actresses": [
+    {
+      "name": "望月凜音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250605/367f3de7-7286-4f99-8b80-c6285d825ed1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4729&name=望月凜音"
+    }
+  ]
+};

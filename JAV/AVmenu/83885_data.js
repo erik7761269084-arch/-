@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/gmKfYddG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83885,
+  "IDcode": "TIKP-040",
+  "title": "【爆乳ド痴女】僕のチ○ポを一晩中フルボッキにさせてくれるデカパイ痴女とキンタマカラッポになるまで痴女られました。 凛音とうか",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "自慰",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83885",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83885&name=凛音とうか"
+    }
+  ]
+};

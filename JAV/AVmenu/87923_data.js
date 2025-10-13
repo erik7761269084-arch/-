@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230820/Co3ojtXX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87923,
+  "IDcode": "MMNA-017",
+  "title": "美しすぎるレズビアンカップルの日常～ねっちょり絡みあう濃厚な接吻と大人のレズセックス 波多野結衣 佐々木あき",
+  "publish_date": "2018-08-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87923",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87923&name=波多野结衣"
+    },
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87923&name=佐佐木明希"
+    }
+  ]
+};

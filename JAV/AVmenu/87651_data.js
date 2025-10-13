@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230814/sYWJ0E27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87651,
+  "IDcode": "SSIS-785",
+  "title": "迫られると断れない美脚アナウンサーは「いじめてほしい」と懇願してくる逆おねだりビッチ！ 楓ふうあ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "苗条",
+    "薄马赛克",
+    "恋腿癖",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/df0a6c52053db852a1af8ac7f1c64304.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87651",
+  "actresses": []
+};

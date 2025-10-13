@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a36f22bf-e802-465b-9fa8-865b07db54f8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/07/e7af367c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10555,
+  "IDcode": "VENX-294",
+  "title": "不戴胸罩的豐滿叔母非常色情，她強迫我射在她體內！ ！ ~ 美園和花",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "嬸嬸",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "明星臉",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "短髮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241116/d37564f6-b626-4ae1-b363-8bde5c00979a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241116/d37564f6-b626-4ae1-b363-8bde5c00979a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10555",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10555&name=美園和花"
+    }
+  ]
+};

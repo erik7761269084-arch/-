@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/06/5ac23c0e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97472,
+  "IDcode": "HND-815",
+  "title": "会社の同期NTR 新卒入社した彼女が同期のイケメン絶倫男に何度も中出しされて身も心も奪われた一部始終。 根尾あかり",
+  "publish_date": "2020-03-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "口交",
+    "接吻",
+    "白天出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97472",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97472&name=根尾朱里"
+    }
+  ]
+};

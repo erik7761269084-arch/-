@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4423ef37-a752-4fa3-aa3d-97a8c5d6a20b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15133,
+  "IDcode": "NEOS-007",
+  "title": "跟蹤07 - 課外活動時跟蹤她，偷拍她，趁她睡着強行帶走 強奸中出",
+  "publish_date": "2024-04-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "素人作品",
+    "劇情",
+    "魔鬼系",
+    "中出",
+    "JK校服",
+    "顏射",
+    "口交",
+    "強姦",
+    "迷姦",
+    "奇異的",
+    "真實拍攝",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240427/d3334adb-d52d-45ae-bdbe-6860b174d096.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240427/d3334adb-d52d-45ae-bdbe-6860b174d096.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15133",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/24/abf6333d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92335,
+  "IDcode": "MIFD-232",
+  "title": "街中で目にする普通な子 でも、結構エロい…かも。 学校、職場、居酒屋、身近にいそうでアナタも知ってるかもしれない。もしかしたら… スケベ原石！？発掘 AV Debut★ 北木里奈 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-03-31",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "颜射",
+    "口交",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92335",
+  "actresses": [
+    {
+      "name": "北木里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92335&name=北木里奈"
+    }
+  ]
+};

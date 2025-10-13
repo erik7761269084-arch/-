@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/doQuaN6I/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73044,
+  "IDcode": "GVH-467",
+  "title": "隔壁班級巨乳學生妹是傳言留級的肉食女 在放學後求愛就能搞上的樣子 月乃雛",
+  "publish_date": "2022-10-15",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73044",
+  "actresses": []
+};

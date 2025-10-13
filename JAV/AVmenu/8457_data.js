@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d65a5a9-f403-477d-920d-644374960b2f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/06/406aa2f8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8457,
+  "IDcode": "DASS-551",
+  "title": "被傲慢的女上司坑了之後，我暗暗發誓，等這個巨乳女人最幸福的時候，我一定要讓她後悔 ~ 藤森裏穂",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "辦公室",
+    "出軌",
+    "NTR",
+    "美人",
+    "女上司",
+    "綠茶婊",
+    "報復"
+  ],
+  "description": "DASS-551为DASDAS出品,2025年2月11日发行的有碼成人影片由藤森里穂出演\n該劇講述辦公室職員小田切因為女上司的惡意而失去一切，他從地獄深處爬起，發誓要向女上司復仇的故事。被公司解僱後，小田切在另一家公司找到了一份工作，並取得了巨大的成功。後來，在收購一家中小型企業時，我們決定把原來的公司買回來。一項計劃正在實施，旨在將當時的女老闆藤森推入絕望的深淵。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080531772772.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206080531772772.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8457",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8457&name=藤森里穂"
+    }
+  ]
+};

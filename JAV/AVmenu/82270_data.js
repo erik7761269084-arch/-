@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/01/c8db6990/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82270,
+  "IDcode": "BUD-001",
+  "title": "大っきいおじちゃんと、わたし。 冬愛ことね",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "多P",
+    "女生",
+    "口交",
+    "舔阴",
+    "接吻",
+    "瘦小身型",
+    "平胸",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/b627681c86be521d7c8a090fec7a669b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82270",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82270&name=冬爱琴音"
+    }
+  ]
+};

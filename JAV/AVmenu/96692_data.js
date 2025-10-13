@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/05/941c81b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96692,
+  "IDcode": "MIDD-799",
+  "title": "大橋未久の宅配ソープ 大橋未久",
+  "publish_date": "2011-09-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "角色扮演",
+    "妓女",
+    "乳液",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/01/3a48b781be9e55e4008345f7197b0009.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96692",
+  "actresses": [
+    {
+      "name": "大橋未久",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/aefa0263-2d5a-41aa-97a2-298dcc454fc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96692&name=大橋未久"
+    }
+  ]
+};

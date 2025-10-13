@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220621/41179F671E07A419/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56530,
+  "IDcode": "A8602113C2C91D38E13A1A07CA30B3AC",
+  "title": "見た目清楚、実は淫乱なヤリマン娘 – 増子理恵",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56530",
+  "actresses": []
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/MnCyghbL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73028,
+  "IDcode": "SCOP-554",
+  "title": "汗でマキシワンピがピタッと張り付いたままのお姉さんをナンパするも玉砕！！どさくさにまぎれて媚薬を吹きかけてみたら即効反応し形勢逆転！！そのまま部屋に連れ込み媚薬絶頂中出しSEXに成功！！",
+  "publish_date": "2018-10-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "姐姐",
+    "苗条",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/afee5ca6a93cc0dbf06a1778aa0e0933.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73028",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73028&name=蓮実クレア"
+    },
+    {
+      "name": "立花瑠莉",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Javrave/立花瑠莉.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73028&name=立花瑠莉"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73028&name=花笑一杏"
+    }
+  ]
+};

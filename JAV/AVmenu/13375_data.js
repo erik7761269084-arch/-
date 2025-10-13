@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c5c82ae0-f0be-4ae9-a0c7-fa2ec42be8bd/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/15/8eee32ab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13375,
+  "IDcode": "MEYD-925",
+  "title": "巨乳已婚人妻的黑暗兼職上門服務，通過被欺騙後開始的女傭上門服務，喚醒了她的受虐傾向 ~ 天月梓",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "女僕",
+    "劇情",
+    "中出",
+    "美乳",
+    "口交",
+    "應召・援交",
+    "白絲",
+    "風俗娘",
+    "性感",
+    "女僕制服",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "人妻",
+    "巨乳",
+    "NTR",
+    "熟女",
+    "飯店小姐・援交妹",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "MEYD-925为溜池出品,2024年7月16日发行的有碼成人影片由天月梓出演\n<我為了保障家庭經濟而開始的家事服務是一位曝光度很高的女傭...>丈夫生病後需要錢的已婚婦女阿茲感到尷尬和焦慮，但她做了第一份工作我穿著女僕裝拜訪過你家。當我完成所有的家務後…「時間到了，拜託，」顧客要求提供性服務。這份兼職工作的主要目的是性工作。都是阿茲的錯，忽視了合約上的內容，儘管她別無選擇，只能發生性關係，但回家路上收到的津貼和打工費卻讓她蒙蔽了雙眼，而且，她意識到了她所需要的快樂和快樂……。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712011404457457.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712011404457457.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13375",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13375&name=天月梓"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/87310994A255EEBA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97784,
+  "IDcode": "GANA-1788",
+  "title": "バスターミナルナンパ 17",
+  "publish_date": "2018-07-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "无毛",
+    "自慰",
+    "颜射",
+    "苗条",
+    "业余",
+    "女优按摩棒",
+    "猎艳",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97784",
+  "actresses": [
+    {
+      "name": "迹美珠里",
+      "img_url": "https://picture.yoshiclub.xyz/20250209/68745e14-acbf-4d33-bf8e-716ff9a5b9b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97784&name=迹美珠里"
+    }
+  ]
+};

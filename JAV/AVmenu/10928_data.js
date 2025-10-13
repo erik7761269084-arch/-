@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/db5f957b-ef53-40fe-a192-b894536367c2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/03/57c3270c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10928,
+  "IDcode": "NIMA-035",
+  "title": "絕對知名可愛同人漫改，善良而又淫蕩的單身母親！ 真人實寫版！毫無防備的鄰家辣媽太好了 ~ 北野未奈",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "二次元",
+    "絕頂高潮",
+    "漫畫改編",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "原作改編",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "鄰居",
+    "明星臉",
+    "美人妻",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "NIMA-035为FITCH出品,2024年11月5日发行的有碼成人影片由北野未奈出演\n【首次與人氣圈RK-2合作！ 】 下載量超過75,000次的大作的真人版！當我搬到東京並開始新生活時，我的公寓旁邊住著一位非常脆弱又善良的女孩媽媽！有一天，當我太太沒穿胸罩去倒垃圾時，我突然勃起，我以為她徹底討厭我了，但她說的話卻出乎我的意料。 「如果你有那麼多，我為什麼不給你呢？事實上，我和一個善良的女孩媽媽失去了童貞，在超市後面給了她口交，舔了她的乳頭，給了她手淫，」並有了她的第一次體內射精。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031070332858858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031070332858858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10928",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10928&name=北野未奈"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10928&name=左慈半造"
+    }
+  ]
+};

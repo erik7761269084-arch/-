@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/DPbkNfmQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90158,
+  "IDcode": "REAL-835",
+  "title": "巨乳ギャル孕ませレ●プ 中出し20連発 蘭々",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "监禁",
+    "女生",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90158",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90158&name=蘭々"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90158&name=鲛岛"
+    }
+  ]
+};

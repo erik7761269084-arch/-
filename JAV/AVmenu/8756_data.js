@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cba5850e-adb0-44b9-921a-d565ee7ab2f6/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/4ce22c79/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8756,
+  "IDcode": "NEOS-013",
+  "title": "尾行 13 觀察南國系美人娘睡得很香，在電車上猥褻她，雞巴硬的受不了，必須用迷藥迷倒帶走強奸 ~ 乙葉らぶ",
+  "publish_date": "2025-01-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "痴漢",
+    "劇情",
+    "大小姐",
+    "尾行",
+    "變態",
+    "校花",
+    "凌辱",
+    "蘿莉",
+    "魔鬼系",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "迷姦",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "手指插入",
+    "奇異的",
+    "M男・M女",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250127/7ff556cb-4ecb-4b18-bb39-8d4884f106b5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250127/7ff556cb-4ecb-4b18-bb39-8d4884f106b5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8756",
+  "actresses": [
+    {
+      "name": "乙葉らぶ",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/3f23b145-f6ee-4458-b2c9-d038226e8b43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8756&name=乙葉らぶ"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99308,
+  "IDcode": "CESD-700-",
+  "title": "レズ解禁作品専属女優-柚月ひまわり×レズ先生-波多野",
+  "publish_date": "2019-01-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "淫乱，真实",
+    "女同性恋",
+    "舔阴",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99308",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99308&name=波多野结衣"
+    },
+    {
+      "name": "柚月ひまわり",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/118fc8ce-a84f-47fe-b872-7c4a9097ee8f.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99308&name=柚月ひまわり"
+    }
+  ]
+};

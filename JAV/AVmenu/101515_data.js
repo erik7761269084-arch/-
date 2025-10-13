@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/27/da04e24b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101515,
+  "IDcode": "IPZZ-228",
+  "title": "人妻自宅エステサロン 醜いゲス隣人の絶倫チ〇ポで何度もイカされ中出しされてしまった美人エステティシャン 明里つむぎ",
+  "publish_date": "2024-03-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "美容院",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/27/c5d16476e0a04de717cb2f415f60dcf2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101515",
+  "actresses": [
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101515&name=明里䌷"
+    }
+  ]
+};

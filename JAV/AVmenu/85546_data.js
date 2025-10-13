@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/05/54b60d09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85546,
+  "IDcode": "MIMK-065",
+  "title": "冬虫夏草 ～親友の姉妹を貪る夏～ 小栗もなか",
+  "publish_date": "2019-01-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "数位马赛克",
+    "妹妹",
+    "白天出轨",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85546",
+  "actresses": [
+    {
+      "name": "小栗萌中",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85546&name=小栗萌中"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/30/dfad6a32/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74888,
+  "IDcode": "ATID-357",
+  "title": "デッサンモデルをさせられた美術部顧問教師 二宮ひかり",
+  "publish_date": "2019-08-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "羞耻",
+    "女教师",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74888",
+  "actresses": [
+    {
+      "name": "二宫ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74888&name=二宫ひかり"
+    }
+  ]
+};

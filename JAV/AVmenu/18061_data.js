@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41f6240d-fa60-49ff-a9fd-07d0bb2cd189/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/05/20/1617d572/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18061,
+  "IDcode": "IPX-866",
+  "title": "與加美杏奈一起溫泉旅行做愛檔案！ 自拍性愛！素顏！微醺！展現淫蕩自拍做愛！",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "和服・浴衣・喪服",
+    "中出",
+    "口交",
+    "女友・妻子",
+    "旅行",
+    "女優訪談",
+    "溫泉",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231102/20231102221354102102.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231102/20231102221354102102.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18061",
+  "actresses": [
+    {
+      "name": "加美杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230806/e3d8a99b-71b8-4f09-b9b2-3f1b4356c96d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18061&name=加美杏奈"
+    }
+  ]
+};

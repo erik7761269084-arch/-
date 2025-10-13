@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54762,
+  "IDcode": "7FDD8D1BE83218BD6D86461BE79F5BB9",
+  "title": "4K高清叁女待候一猥锁鸡巴短粗眼镜男~一个一个地坐上去~射了还能硬",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54762",
+  "actresses": []
+};

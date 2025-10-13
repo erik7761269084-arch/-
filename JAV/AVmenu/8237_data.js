@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4a6db8a0-3445-45f5-95ad-1b2385e3ef36/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/05/0edcdb98/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8237,
+  "IDcode": "MIDV-940",
+  "title": "汗！潮！愛液！渾身沾滿體液的密着性交 ~ 倖月星羅",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "深喉",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "足交",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIDV-940为MOODYZ出品,2025年2月18日发行的有碼成人影片由倖月星羅出演\n深層的、細胞層面的「承諾」！ Kozuki Sera 的第三張 MOODYZ 獨家作品是一段舌與舌、唾液與唾液、體液與體液交織的法式接吻性愛場景！當另一個人的體液被帶入體內時，就會發生基因組編輯，產生天然成分的刺激體驗！這是自古以來女人與男人之間合法的狂喜性交！是的！承諾！體液包裹下的基因交換性行為，是男女之間最深沉，最迷醉，最極致的羈絆！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130728081616.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/202502130728081616.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8237",
+  "actresses": [
+    {
+      "name": "倖月星羅",
+      "img_url": "https://picture.yoshiclub.xyz/20241115/22928b5b-b6a6-4601-b5af-a695fe7a0fae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8237&name=倖月星羅"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8237&name=日森一"
+    }
+  ]
+};

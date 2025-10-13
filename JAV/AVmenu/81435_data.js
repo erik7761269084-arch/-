@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/CBZj7KJR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81435,
+  "IDcode": "ARM-854",
+  "title": "膝上30cmのタイトミニしか履かない小早川怜子社長のエロティック新人社員教育",
+  "publish_date": "2020-04-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "荡妇",
+    "恋腿癖",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81435",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81435&name=小早川怜子"
+    }
+  ]
+};

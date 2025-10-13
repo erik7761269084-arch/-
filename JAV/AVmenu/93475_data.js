@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/IQEFQzx4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93475,
+  "IDcode": "NHDTB-933",
+  "title": "【某旅番組お蔵入り映像】旅ロケで田舎の性豪オヤジたちに盛られイキ潮たれ流し肉便女に成り下がった美人レポーター（21） パンティとチェキ付き",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "多P",
+    "户外",
+    "潮吹",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/9161e79c077b343de05b52e1ca439864.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93475",
+  "actresses": []
+};

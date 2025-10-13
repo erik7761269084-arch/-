@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250407/zH6LfSHT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69130,
+  "IDcode": "HONE-271",
+  "title": "ノーブラ浮き乳首を攻められて乳首イキ依存症になった母 赤井美希",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69130",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/QZWVCiX0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77319,
+  "IDcode": "SABA-377",
+  "title": "＃生中出し家出制服美少女 002 かえで",
+  "publish_date": "2018-02-09",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "美少女",
+    "中出",
+    "口交",
+    "业余",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77319",
+  "actresses": [
+    {
+      "name": "河原かえで",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77319&name=河原かえで"
+    }
+  ]
+};

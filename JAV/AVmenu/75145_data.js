@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/03/13b70e6c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75145,
+  "IDcode": "ABP-877",
+  "title": "スポコス汗だくSEX4本番！ 体育会系・野々浦暖 act.22 超くびれ＆スポーツウェアフェティシズム",
+  "publish_date": "2019-07-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "颜射",
+    "角色扮演者",
+    "运动",
+    "流汗",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75145",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75145&name=野野浦暖"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75145&name=小田切ジュン"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75145&name=南佳也"
+    }
+  ]
+};

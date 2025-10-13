@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231126/f8O6ndsb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100920,
+  "IDcode": "SIRO-5152",
+  "title": "【清楚系に見えて実は…】【「気持ちいい」の連続攻撃】性感帯のオマ○コを愛でれば喜びのシャワーが噴き出す！G乳揺らしガッツリ鬼ハメ！【初撮り】ネットでAV応募→AV体験撮影  2053",
+  "publish_date": "2023-10-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "屁股",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100920",
+  "actresses": [
+    {
+      "name": "かりす",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100920&name=かりす"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/18/80b954f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72386,
+  "IDcode": "MIDD-888",
+  "title": "逆痴漢 里美ゆりあ",
+  "publish_date": "2012-07-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "荡妇",
+    "户外",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/02/18/338adf790baa3cd1728bb7b8662b8914.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72386",
+  "actresses": [
+    {
+      "name": "小泉彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/93095cbe-aaed-41b4-b002-6d18e5a3aec5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72386&name=小泉彩"
+    }
+  ]
+};

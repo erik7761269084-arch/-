@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/2901e502/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81224,
+  "IDcode": "DD-003",
+  "title": "大開脚電車 VOL.3",
+  "publish_date": "2011-01-14",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81224",
+  "actresses": []
+};

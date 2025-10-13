@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/4245C9B338DB57D8/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36124,
+  "IDcode": "76B803AA9C854F1D9A21CD1267524E-72",
+  "title": "超讚肉體極上正妹中出幹砲 - 優希真琴 水谷心音 原千尋 丘咲愛蜜莉",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36124",
+  "actresses": []
+};

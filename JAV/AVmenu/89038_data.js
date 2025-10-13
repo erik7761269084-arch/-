@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/11/346a806c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89038,
+  "IDcode": "VEC-604",
+  "title": "単身赴任で独り暮らしの僕を中出し誘惑してくる大家の奥さん 白木優子 （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/aa5ab09eeb4ed03560ca5ac37177f596.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89038",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89038&name=白木優子"
+    }
+  ]
+};

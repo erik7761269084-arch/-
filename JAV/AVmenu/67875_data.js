@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250417/5p9Jwzmx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67875,
+  "IDcode": "NACR-613",
+  "title": "突然の豪雨でズブ濡れ… 帰れなくなった憧れの家庭教師 春菜はな パンティと生写真付き",
+  "publish_date": "2022-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "巨大屁股",
+    "家教",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67875",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67875&name=春菜华"
+    }
+  ]
+};

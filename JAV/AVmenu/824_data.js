@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/56aa68c3-c040-4b52-bbd7-b4b9353942d3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 824,
+  "IDcode": "HEYZO-1019",
+  "title": "含棒解決問題的客訴達人 ~ 新城由衣",
+  "publish_date": "2015-12-03",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "69",
+    "劇情",
+    "身體換業務",
+    "中出",
+    "OL",
+    "制服",
+    "美腳",
+    "客服小姐"
+  ],
+  "description": "HEYZO-1019为HEYZO出品,2015年12月3日发行的無碼成人影片由新城由衣出演\n含棒解決問題的客訴達人 冴君麻衣子",
+  "cover_url": "https://picture.yoshiclub.xyz/20240529/d27dd22b-fbb7-46f5-82f6-289a29bb1284.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240529/d27dd22b-fbb7-46f5-82f6-289a29bb1284.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=824",
+  "actresses": [
+    {
+      "name": "新城由衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/c8303019-f54b-4382-aca8-a0673569e348.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=824&name=新城由衣"
+    }
+  ]
+};

@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b00b3b91-b9dc-476e-93fd-23135a7e4fed/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241024/gLUw2Cw7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13216,
+  "IDcode": "SONE-264",
+  "title": "轉生後，我是被寢取的AV主角！ ？改變NTR的未來，拯救架乃由羅。 目標是親密的激烈性交大結束END ~ 架乃由羅",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "校園生活",
+    "奇異的",
+    "NTR",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SONE-264为S1出品,2024年7月23日发行的有碼成人影片由架乃由羅出演\n從永無止境的 NTR 循環中拯救卡諾由良。由於長時間自慰造成的技術中斷，我失去了知覺。不知不覺中，我已經進入了我一直在看的 AV 世界......當我努力阻止 Yura Kano 被戴綠帽子時，我意識到我可以穿越時空，瞄準我夢想中的純愛性愛這個世界一遍又一遍地重複著。炫耀強姦、猥褻性行為、集體輪姦、戴綠帽性行為，每次跳躍都變得更加極端。無數次的失敗之後，等待你的是純愛結局，還是令人無法抗拒的NTR…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003620331331.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240719/20240719003620331331.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13216",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13216&name=架乃由羅"
+    }
+  ]
+};

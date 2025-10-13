@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250427/P35BJYNr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67648,
+  "IDcode": "EYAN-094",
+  "title": "母乳促進マッサージで中出し不倫にハマる人妻 結月恭子",
+  "publish_date": "2017-08-01",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "按摩",
+    "母乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67648",
+  "actresses": [
+    {
+      "name": "结月恭子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/d93efdbf6a02f89017a0817a194c91ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67648&name=结月恭子"
+    }
+  ]
+};

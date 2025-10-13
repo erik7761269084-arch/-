@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/JKyOxYlA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77869,
+  "IDcode": "JUY-991",
+  "title": "晴、時々くもり…のち微笑み―。『毎日、会いたい。』元ローカル情報番組 美人お天気キャスター 大城雪乃31歳AVデビュー！！",
+  "publish_date": "2019-10-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "各种职业",
+    "首次亮相",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77869",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77869&name=イセドン内村"
+    },
+    {
+      "name": "大城雪乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77869&name=大城雪乃"
+    }
+  ]
+};

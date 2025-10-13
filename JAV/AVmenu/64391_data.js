@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220605/F76564216048D3FE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64391,
+  "IDcode": "0F1A59F06D28BC0F389AF61BEAAF18B-6",
+  "title": "我一直憧憬的繼母在父親出差時被突然闖入的男人在我眼前持續侵犯了72個小時，最後翻著白眼瘋狂高潮…～ 霧島櫻",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64391",
+  "actresses": []
+};

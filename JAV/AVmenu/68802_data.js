@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250404/3dCQPVQI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68802,
+  "IDcode": "URKK-060",
+  "title": "隔壁變態房東每天搓揉胸部侵犯 星川舞",
+  "publish_date": "2022-06-14",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "巨乳",
+    "中出",
+    "凌辱",
+    "吞精",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250405-1/9bc5c31d963a9dfdd98b1ba8d26dc02e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68802",
+  "actresses": []
+};

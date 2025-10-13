@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/dnCHR95v/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78247,
+  "IDcode": "PPPD-809",
+  "title": "おっぱいをフル活用して学力と射精を管理する巨乳パイテク家庭教師 Hitomi",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "手淫",
+    "家教",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78247",
+  "actresses": [
+    {
+      "name": "田中瞳",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/188e71b46fd4b376e545cd76ce28fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78247&name=田中瞳"
+    }
+  ]
+};

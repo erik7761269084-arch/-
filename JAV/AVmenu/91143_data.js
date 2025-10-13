@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240319/qY6VfQcK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91143,
+  "IDcode": "JUFE-517",
+  "title": "オヤジのハメ撮りドキュメント ねっとり濃厚に貪り尽くす体液ドロドロ汗だく性交 有栖舞衣",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "巨大屁股",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91143",
+  "actresses": [
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91143&name=有栖舞衣"
+    }
+  ]
+};

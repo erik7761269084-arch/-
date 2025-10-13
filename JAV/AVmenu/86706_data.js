@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/btlfaqpu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86706,
+  "IDcode": "ABW-102",
+  "title": "全裸家政婦 新感覚ヴァーチャルセックス性活をあなたに Staff02 松岡すず 【MGSだけのおまけ映像付き+10分】",
+  "publish_date": "2021-06-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "颜射",
+    "各种职业",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86706",
+  "actresses": [
+    {
+      "name": "松冈すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86706&name=松冈すず"
+    }
+  ]
+};

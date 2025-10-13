@@ -1,0 +1,85 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/11/22/a60c3ed7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78346,
+  "IDcode": "SAK-005",
+  "title": "15人の有閑マダム図鑑 NON STOP 4時間",
+  "publish_date": "2004-08-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "多P",
+    "和服，丧服",
+    "插入异物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78346",
+  "actresses": [
+    {
+      "name": "君岛美香子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=君岛美香子"
+    },
+    {
+      "name": "星まなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=星まなみ"
+    },
+    {
+      "name": "桜田佳子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=桜田佳子"
+    },
+    {
+      "name": "星野彩香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=星野彩香"
+    },
+    {
+      "name": "川奈まり子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=川奈まり子"
+    },
+    {
+      "name": "森咲小雪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=森咲小雪"
+    },
+    {
+      "name": "桜田さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=桜田さくら"
+    },
+    {
+      "name": "篠崎さとみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=篠崎さとみ"
+    },
+    {
+      "name": "青山遥",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=青山遥"
+    },
+    {
+      "name": "友崎亜希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=友崎亜希"
+    },
+    {
+      "name": "桜田由加里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=桜田由加里"
+    },
+    {
+      "name": "亜里沙",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78346&name=亜里沙"
+    }
+  ]
+};

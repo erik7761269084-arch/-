@@ -1,0 +1,32 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98236,
+  "IDcode": "APKH-035-",
+  "title": "～3Pヘブン～旅館のアルバイトJKの2人は、宿泊客と競っ",
+  "publish_date": "2017-07-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "颜射"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98236",
+  "actresses": [
+    {
+      "name": "月野優里亞",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903075045717717_93410_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98236&name=月野優里亞"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98236&name=七海ゆあ"
+    }
+  ]
+};

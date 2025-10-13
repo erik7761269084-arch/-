@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/23/86c1c771/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77347,
+  "IDcode": "MEYD-486",
+  "title": "私、実は夫の上司に犯され続けてます… 飛鳥りん",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/92b26268834313ae11fe8f945b0f543d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77347",
+  "actresses": [
+    {
+      "name": "飞鸟铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230501/81c21040-e154-4f5b-aa57-2fed1c6a26d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77347&name=飞鸟铃"
+    }
+  ]
+};

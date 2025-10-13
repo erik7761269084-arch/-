@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/25/6d7e2512/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85337,
+  "IDcode": "MIAA-598",
+  "title": "御社の女子社員が出した損害はアナルぽっかり3穴アダルト配信で補填して頂きます。 日泉舞香",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "肛交",
+    "OL",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230123-1/2266f7156947494ebfa8eb43cd45b86d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85337",
+  "actresses": [
+    {
+      "name": "日泉舞香",
+      "img_url": "https://picture.yoshiclub.xyz/20230623/4828b925-2cbd-4595-8abd-1a02291e45d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85337&name=日泉舞香"
+    }
+  ]
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221105/YFSXP4oT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82011,
+  "IDcode": "SORA-249",
+  "title": "【父と息子のNTR】僕の婚約者は、親父の愛人奴●だった。毎日、親父に種付け屋外調教されヨガリ狂う婚約者を見て僕はフル勃起が治まらず、、、結婚を決めました。 南野あさひ",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "放尿",
+    "户外",
+    "羞耻",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82011",
+  "actresses": []
+};

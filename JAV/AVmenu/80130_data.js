@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/aEerxbY8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80130,
+  "IDcode": "SPRD-1488",
+  "title": "代理出産の母 春菜はな",
+  "publish_date": "2021-11-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e1e982a80ea39a0aa3058800480d7ff7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80130",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80130&name=春菜华"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80130&name=タイ"
+    }
+  ]
+};

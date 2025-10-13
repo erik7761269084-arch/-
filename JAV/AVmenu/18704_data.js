@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8dd5b6e-4afa-45d1-82d4-efaa532a624c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/10/d107f474/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18704,
+  "IDcode": "MTALL-084",
+  "title": "喜歡在床下自慰的姐姐勾引弟弟",
+  "publish_date": "2023-09-21",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "淫亂",
+    "中出",
+    "女上位",
+    "姐姐・妹妹",
+    "姐弟・兄妹",
+    "勾引・誘惑",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230915/20230915005205700700.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230915/20230915005205700700.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18704",
+  "actresses": [
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18704&name=松本一香"
+    }
+  ]
+};

@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d355a86c-f045-4c61-b127-7f18d24d0e5a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/14/29a4a7b9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13546,
+  "IDcode": "JUQ-770",
+  "title": "想被人綠的奇怪願望，我讓心愛的妻子在風俗外賣店工作 ~ 実浜みき",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-770为MADONNA出品,2024年7月9日发行的有碼成人影片由実浜みき出演\n「我太興奮了……對不起，親愛的……」我們結婚已經五年了。我的妻子米基是一位美麗而出色的女性。然而，我的腹股溝區域失去了能量。那時我完全失去了信心，正在尋找一些東西來刺激自己。我偶然在網路上看到一個佈告欄，上面的送貨健康女士們談論著她們的真實感受。它是專門為已婚女性設計的，有人評論說，“感覺比我丈夫更好。”當我看到這一幕時，我的胯部一陣子以來第一次感到發熱。 「如果我的妻子被別人抱著... 』然後我向米基坦白，我希望她在分娩醫療服務機構工作。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/202407050100561717.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/202407050100561717.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13546",
+  "actresses": [
+    {
+      "name": "実浜みき",
+      "img_url": "https://picture.yoshiclub.xyz/20240212/52e5ba59-ff17-4f4b-98fd-450d9a6715bc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13546&name=実浜みき"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/YXEgrWR7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72206,
+  "IDcode": "EIKI-088",
+  "title": "ガチ18歳☆ヤンキー、デビューで盛大にデレる！",
+  "publish_date": "2018-12-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "女生",
+    "瘦小身型",
+    "蛮横娇羞"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72206",
+  "actresses": [
+    {
+      "name": "久远れいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72206&name=久远れいら"
+    }
+  ]
+};

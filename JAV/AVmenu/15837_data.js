@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45923e38-9dae-4471-b0f4-18f41e68d867/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15837,
+  "IDcode": "MSPK-005",
+  "title": "有傳言說他們操了這個J罩杯超大大奶子的JK女孩",
+  "publish_date": "2024-03-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240327/20240327073819465465.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240327/20240327073819465465.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15837",
+  "actresses": []
+};

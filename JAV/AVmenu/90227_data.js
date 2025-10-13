@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240113/pFXh52vs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90227,
+  "IDcode": "REBD-752",
+  "title": "Miru4 みる散歩～北国編～・miru チェキ付き",
+  "publish_date": "2023-06-15",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "巨乳",
+    "介绍影片",
+    "性感的",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90227",
+  "actresses": [
+    {
+      "name": "Miru",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/344aa896-3d7e-4cb4-a8d0-4106360822ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90227&name=Miru"
+    }
+  ]
+};

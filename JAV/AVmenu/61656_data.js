@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/18/e627d3ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61656,
+  "IDcode": "JAVC-IAVF94RS",
+  "title": "「私の言う通りにシコるんやで♡」 つばさ舞の超快感ちんこきアシスト！ つばさ舞",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/18/a95527c267b888c4740d2df513a8dec5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61656",
+  "actresses": []
+};

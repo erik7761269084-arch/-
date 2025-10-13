@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/15/8561234a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66213,
+  "IDcode": "HUNTC-377",
+  "title": "心の声が聞こえる電車痴●！2 えっ！？ウソ！ダメ！お願い！そこで止めないで！イキそうなのに…（※心の声）痴●被害者女性の心の声が聞こえる…3",
+  "publish_date": "2025-05-13",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "中出",
+    "凌辱",
+    "多P",
+    "颜射"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/15/58b2e5f1823ab7b82c4115d527cba168.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66213",
+  "actresses": []
+};

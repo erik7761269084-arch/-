@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/06/4af577b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100179,
+  "IDcode": "MIDD-705",
+  "title": "裸女 ～服を着ない生活～ 桐原エリカ",
+  "publish_date": "2010-11-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/12/06/fc3fef26cc94800e45e7008f7a8180ee.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100179",
+  "actresses": []
+};

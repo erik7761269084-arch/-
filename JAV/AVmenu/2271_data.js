@@ -1,0 +1,45 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2271,
+  "IDcode": "HALE-068",
+  "title": "無限制獵豔 Vol.63 ~ 真白風羽裏",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "素人作品",
+    "4K",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "阪道系"
+  ],
+  "description": "HALE-068为妄想族出品,2025年10月3日发行的有碼成人影片由真白風羽里出演\n這次登場的真白風羽里是位氣質溫柔、身材火辣的性感媽咪！透過幼兒園閨蜜的介紹，她終於按捺不住內心深處的慾望，展現出老公絕對看不到的騷浪一面！一開場就直接開撩，久違的快感讓她整個人酥麻，嘴裡被灌滿還羞澀地細細品嚐。淋浴房裡泡沫纏身，滑溜溜地貼身糾纏，口水滿溢的挑逗讓人完全招架不住！各種姿勢輪番上陣，激烈碰撞讓她尖叫不停，臉都爽到變形！最後滿嘴溢出的精華還意猶未盡地清理乾淨，甚至還約好下次介紹其他閨蜜一起嗨……這刺激的循環，遠遠沒完！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251004/20251004015650538538_58367_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251004/20251004015650538538_58367_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2271",
+  "actresses": [
+    {
+      "name": "真白風羽里",
+      "img_url": "https://picture.yoshiclub.xyz/20250119/96fe7c59-45ab-4fe7-b609-b219e278f1fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2271&name=真白風羽里"
+    }
+  ]
+};

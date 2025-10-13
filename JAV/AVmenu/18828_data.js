@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c7517dee-0bf8-4ab7-8587-d354db6c28cc/playlist.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2020/12/28/4999f5dc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18828,
+  "IDcode": "IPX-575",
+  "title": "巨乳全開猛烈誘惑女友爆乳大姊",
+  "publish_date": "2020-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "劇情",
+    "女友姐姐",
+    "主觀視角",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903200229197197.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230903/20230903200229197197.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18828",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18828&name=栗山莉緒"
+    },
+    {
+      "name": "本田さとみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/ac7601d4-40db-4c59-9d4b-e74a06f66be9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18828&name=本田さとみ"
+    },
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18828&name=栗山莉绪"
+    }
+  ]
+};

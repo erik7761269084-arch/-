@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/Hhcp6Prb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80855,
+  "IDcode": "DTT-099",
+  "title": "バックで思いっきり突かれたい！埼玉県さい○市某内科病院勤務 看護師の人妻 毎日オナニー32歳 上村純奈AVデビュー！",
+  "publish_date": "2022-03-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8a2d58964899385e1356990ab9e377aa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80855",
+  "actresses": []
+};

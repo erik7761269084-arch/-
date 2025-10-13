@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221110/39D17C189D6A21D9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55445,
+  "IDcode": "88D2B4711FC5C37C88524A873B690E6A",
+  "title": "小护士忍不住自慰被骚男撞见",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55445",
+  "actresses": []
+};

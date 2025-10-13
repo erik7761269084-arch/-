@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240908/ZOTBkZjl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92666,
+  "IDcode": "JOD-365",
+  "title": "JOD365妻が出張で不在の間、連れ娘に「もう射精してるってばぁ」状態でも汗だく中出し痴女られた僕工藤拉拉。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240908-1/5908642085d3592182fd7d7ed85cba1d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92666",
+  "actresses": []
+};

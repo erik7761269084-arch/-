@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/29/94664d36/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61709,
+  "IDcode": "ROE-381",
+  "title": "帰省したら、祖父と母がデキていた。あの日、見てしまった出来事が僕を生涯≪熟女好き≫に変えた―。 瀬尾礼子",
+  "publish_date": "2025-08-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61709",
+  "actresses": []
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bb5c6028-2342-4fad-bd16-92d2c80c6e5a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/24/c73c9eb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7690,
+  "IDcode": "DASS-572",
+  "title": "大叔魂穿藤森裏穂 奪舍傲嬌巨乳女替她跟男友開幹 ~ 藤森裏穂",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "巨乳",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "亂倫",
+    "寢取",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "DASS-572为DASDAS出品,2025年3月11日发行的有碼成人影片由藤森里穂出演\n被附身的叔叔被 Hajime 和 Aoki 欺負，他們在鎮上偶然引起了他的注意。該男子拼命道歉，並設法擺脫了困境......並發誓有一天要對他們進行報復。心懷復仇的叔叔發現 Hajime 有一個可愛的女朋友，名叫 Riho。她束縛住了 Hajime，使他無法動彈，然後控制了 Riho，向他展示了她的表演。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123046241241.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305123046241241.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7690",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7690&name=藤森里穂"
+    }
+  ]
+};

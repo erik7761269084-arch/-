@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/qtQEkJ79/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77664,
+  "IDcode": "MOND-174",
+  "title": "憧れの兄嫁と 大森しずか",
+  "publish_date": "2019-09-12",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "调教",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/7e83607452f5a89e1e0f6cfff8a26f20.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77664",
+  "actresses": [
+    {
+      "name": "大森しずか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77664&name=大森しずか"
+    }
+  ]
+};

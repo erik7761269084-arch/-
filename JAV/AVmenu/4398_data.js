@@ -1,0 +1,95 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5fdb661e-eb8e-4dc1-86cd-e8b3f4fe79fa/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/26fa7ef6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4398,
+  "IDcode": "SDDE-755",
+  "title": "超部屋結界 後宮特別篇：電車和校園都是我的天下，純情女學生被洗腦成超淫蕩小奴隸 ~ 響乃詩 水乃菜乃華 雙葉麗奈 天羽梨梨花",
+  "publish_date": "2025-07-15",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "老頭子",
+    "變態",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "電車",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "寫真偶像",
+    "美人",
+    "淫蕩・硬核",
+    "學校",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "SDDE-755为SOD出品,2025年7月15日发行的有碼成人影片由天羽梨梨花，雙葉麗奈，水乃菜乃華，響乃詩出演\n超人气女学院系列第二弹来啦！这次不仅有学校，连电车也成了房间结界的舞台！厕所、车厢、教室、社团活动室，处处都被结界笼罩。史上最强的恶灵遇到了一事无成的中年猥琐教师，纯情女学生瞬间变身淫乱小妖精，任由变态教师摆布，彻底沦为欲望的玩物，场面简直炸裂！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221001548548_38696_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221001548548_38696_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4398",
+  "actresses": [
+    {
+      "name": "響乃詩",
+      "img_url": "https://picture.yoshiclub.xyz/20231123/44dd39e6-08ca-4171-83eb-b583d3a27713.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4398&name=響乃詩"
+    },
+    {
+      "name": "天羽梨梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5dc8ef57-bccd-406c-8c5a-fe4e459ec89f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4398&name=天羽梨梨花"
+    },
+    {
+      "name": "水乃菜乃華",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/5cf59c00-8cc3-4563-a84f-fe5aa8c2e268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4398&name=水乃菜乃華"
+    },
+    {
+      "name": "雙葉麗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240803/60b52a82-fa02-4e85-8dac-3c0ed3a66d47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4398&name=雙葉麗奈"
+    }
+  ]
+};

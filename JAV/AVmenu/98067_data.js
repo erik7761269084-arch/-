@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221220/5065C70BC8425789/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98067,
+  "IDcode": "HUNT-363",
+  "title": "彼氏いない歴18年のレズの私が派遣の家庭教師を雇えば、キレイな女子大生先生と自宅で二人きり（女同士）でイチャイチャできた。",
+  "publish_date": "2010-11-18",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "女同性恋",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98067",
+  "actresses": [
+    {
+      "name": "彩佳リリス",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617083734224224_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98067&name=彩佳リリス"
+    },
+    {
+      "name": "皆瀬ふう花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98067&name=皆瀬ふう花"
+    }
+  ]
+};

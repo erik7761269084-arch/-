@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/02/a07dfe45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64054,
+  "IDcode": "OFKU-233",
+  "title": "欲求不満な義母の誘惑 息子を虜にする濃厚フェラで義母のマ〇コに咥え込まれる息子のチ〇ポ",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "婆婆",
+    "中出",
+    "淫乱，真实",
+    "乱伦",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64054",
+  "actresses": []
+};

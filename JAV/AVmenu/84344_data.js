@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/04/1055d7f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84344,
+  "IDcode": "DVAJ-553",
+  "title": "ほぼ確実に浮気してるけどなかなか尻尾を出さない妻との気が気じゃない新婚生活 藤森里穂",
+  "publish_date": "2022-01-11",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84344",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84344&name=藤森里穂"
+    }
+  ]
+};

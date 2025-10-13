@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/16/8cd75585/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104285,
+  "IDcode": "IPTD-669",
+  "title": "女高中生癡漢電車 希美真由",
+  "publish_date": "2010-12-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "高中女生",
+    "多P",
+    "颜射",
+    "数位马赛克",
+    "性骚扰",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104285",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104285&name=小田切ジュン"
+    },
+    {
+      "name": "希美まゆ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/246877922f68fbbef339d5f7fc3e8907.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104285&name=希美まゆ"
+    }
+  ]
+};

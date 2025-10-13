@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62faecf3-e9b2-4338-afc1-52cd33125055/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/190fb50a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5198,
+  "IDcode": "SONE-763",
+  "title": "河北彩花！平時很內向的文系美人把我調教得服服帖帖 ~ 河北彩花",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "調教",
+    "4K",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "顏射",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "眼鏡",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "SONE-763为S1出品,2025年6月20日发行的有碼成人影片由河北彩花出演\n那天只是随便去图书馆办点事，结果偶遇了图书管理员河北小姐姐。她平时文文静静，温柔又漂亮，我一下子就被她吸引了，之后就老往图书馆跑，就为了多看她几眼。某天，她突然跟我搭话：“你很喜欢看书吧？”我心里那个美啊！但没想到下一秒她画风突变，冷冷地说：“每次来都盯着我看，脑子里在想啥呢？真恶心……”那一刻我才发现，我早就被她玩弄于股掌之间，彻底沦陷了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063352633633_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063352633633_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5198",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5198&name=河北彩花"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/20/fbff0c7f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107000,
+  "IDcode": "ACHJ-022",
+  "title": "今夜はキミを寝かさない…極上の人妻とお泊り中出しスイートルーム 超人気専属『藤かんな』に24時間ず～っと痴女られる！！",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107000",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107000&name=藤環奈"
+    }
+  ]
+};

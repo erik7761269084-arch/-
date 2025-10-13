@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2137bb4e-b9e4-45b9-8db1-aebf5d2c76f2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4086,
+  "IDcode": "OTIN-018",
+  "title": "偷情狂熱 豐滿G杯少婦慾火焚身密會偷吃 中出後仍不滿足 換上火辣cosplay主動求愛 滿臉接下濃精 ~ 真白風羽里",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "純粹的慾望",
+    "游戲COSPLAY",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "白絲",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "約炮",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "OTIN-018为MERCURY出品,2025年7月27日发行的有碼成人影片由真白風羽里出演\n這位慾求不滿的少婦為了追求刺激偷偷跑來偷情！聊沒幾句就脫光衣服，露出一身白皙肌膚和那對G杯大奶，奶頭硬挺挺，下面毛絨絨早就濕透了！剛插進去時還裝害羞，轉眼就變成騷貨本色，浪叫不停，臉上全是迷醉的表情！被中出後還一臉滿足，第二場直接換上超辣cosplay，主動騎上來各種服侍，騷氣完全釋放，密會全程慾罷不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/20250726223644844844_20134_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250726/20250726223644844844_20134_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4086",
+  "actresses": [
+    {
+      "name": "真白風羽里",
+      "img_url": "https://picture.yoshiclub.xyz/20250119/96fe7c59-45ab-4fe7-b609-b219e278f1fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4086&name=真白風羽里"
+    }
+  ]
+};

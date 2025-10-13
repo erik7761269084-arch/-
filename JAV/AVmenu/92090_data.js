@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/16/28e8ddb2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92090,
+  "IDcode": "MEYD-850",
+  "title": "「今日はどっちの奥さんですか…！？」 隣に住む二重人格妻 清純すぎる‘みづき’と、淫乱すぎる‘ミヅキ’。 弥生みづき",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92090",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92090&name=弥生美月"
+    }
+  ]
+};

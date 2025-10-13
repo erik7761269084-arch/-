@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/29/a5d4c123/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86541,
+  "IDcode": "VEC-556",
+  "title": "先輩の奥さんと即ハメW不倫 最高の浮気相手と時間の許す限りフルでまぐわう会ったらヤルだけ中出しセックス 白木優子 （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-10-18",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/b84e786f5f8e1f88033fc5a92472432f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86541",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86541&name=白木優子"
+    }
+  ]
+};

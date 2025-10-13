@@ -1,0 +1,43 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2160,
+  "IDcode": "MIDA-343",
+  "title": "滿臉接招！口水狂流全力口技顏射大放送 ~ 八坂凪",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "二次元",
+    "4K",
+    "偶像",
+    "女上位",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "MIDA-343为MOODYZ出品,2025年10月2日发行的有碼成人影片由八坂凪出演\n「今天就往凪的小臉上使勁射吧！」沒問題，八坂凪小姐姐！經過一陣口技特訓，舌頭功夫練得超溜，絕對能把男人撩到腿軟。那張清純小臉蛋，就等著接下滿滿的熱情吧！她可能是國民偶像級的存在，20歲的青澀少女還帶著點稚氣，但就是這張臉蛋，要被滿滿的精華糊個遍！別看她是新人，那股對肉棒的執著簡直絕了，嘴唇和舌頭配合得天衣無縫，吸得啧啧作響。直接深喉，眼淚汪汪地硬撐著，7發猛烈射擊直擊臉龐！嘴裡含著精液咕嚕咕嚕地玩弄，黏糊糊的口水和白濁混在一起，秀出最色氣的模樣！※這妹子潛力無限，又成長了一大步，快來看看吧！※",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035731488488_59906_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035731488488_59906_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2160",
+  "actresses": [
+    {
+      "name": "八坂凪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250801/59f88b03-02cb-4fe8-964e-567321b31079_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2160&name=八坂凪"
+    }
+  ]
+};

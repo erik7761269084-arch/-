@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3eed047d-684b-4364-8926-9b38aa3b47f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18271,
+  "IDcode": "SQTE-501",
+  "title": "有一個你可以真實感受到的漂亮主人你才可以無限高潮",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "69",
+    "中出",
+    "口交",
+    "女友・妻子",
+    "打手槍",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231018/20231018052200852852.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231018/20231018052200852852.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18271",
+  "actresses": [
+    {
+      "name": "和久井美兎",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18271&name=和久井美兎"
+    }
+  ]
+};

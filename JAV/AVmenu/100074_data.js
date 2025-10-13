@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100074,
+  "IDcode": "MIGD-402_A",
+  "title": "若妻たちの借金返済中出し溫泉ツアーPart1",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100074",
+  "actresses": []
+};

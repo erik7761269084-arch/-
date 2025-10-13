@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ae6262b7-a12c-4588-ad45-aa2fd8447fa0/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/01/8abab4a5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11401,
+  "IDcode": "NACR-861",
+  "title": "資產家公公和兒媳的不倫之戀 ~ 上戶真理",
+  "publish_date": "2024-10-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "在丈夫面前被操",
+    "色白",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "公公",
+    "兒媳",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "出軌",
+    "NTR",
+    "短髮"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241007/9344a23f-c656-42d3-9485-2c675b80d918.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241007/9344a23f-c656-42d3-9485-2c675b80d918.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11401",
+  "actresses": [
+    {
+      "name": "上戶真理",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/5a916915-4355-4d71-8d00-199c67923120.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11401&name=上戶真理"
+    }
+  ]
+};

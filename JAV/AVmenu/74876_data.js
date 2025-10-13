@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/CVCenSuS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74876,
+  "IDcode": "GANA-2051",
+  "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 122 収穫なしの合コンで消化不良気味の爆乳美少女を連れ込み！嫌がりつつも快楽に抗えずにノックアウトされて気づけばGカップおっぱいをプルンプルン揺らして悶えまくり！！",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "颜射",
+    "业余",
+    "女优按摩棒",
+    "乳房",
+    "猎艳",
+    "偷窥",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/5b3f8fd5d6f84abb5fdce76c08028e18.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74876",
+  "actresses": [
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74876&name=市川润"
+    }
+  ]
+};

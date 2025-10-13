@@ -1,0 +1,97 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6dd3a00-544d-48c4-8744-7191ab3aa701/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/e33678d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5157,
+  "IDcode": "DASS-651",
+  "title": "頂級性技大亂鬥！三位女神搶著榨乾我，痴女後宮天堂生活 ~ 希島愛理 大槻響 波多野結衣",
+  "publish_date": "2025-06-20",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "金髮",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "按摩棒",
+    "美人",
+    "阪道系",
+    "母親",
+    "熟女",
+    "大奶头",
+    "短髮",
+    "極品美人",
+    "無毛",
+    "女優",
+    "芸能人"
+  ],
+  "description": "DASS-651为DASDAS出品,2025年6月20日发行的有碼成人影片由波多野结衣，大槻响，希島愛理 出演\n【希島愛理×大槻響×波多野結衣】三位超傳奇性感女神同台飆戲！為了爭奪‘媽媽’寶座，三位美女展開激烈肉搏戰！我那單親老爸去世後，獨自生活實在太孤單，結果突然冒出三個自稱是‘老爸情人’的極品美女！‘我才是你媽咪！’‘不，是我！’這場戰鬥直接升級成色情技能大比拼！前後左右被大胸和嫩穴包圍，爽到飛起！她們爭著用舌頭舔遍我的每一吋，口技簡直絕了！射完還被她們挑逗到硬邦邦，馬上插入下一個緊緻小穴！騎乘位夾得我魂都要沒了，年輕小伙的肉棒讓她們高潮到翻白眼！就算中出也停不下來的痴女後宮風暴，到底誰才是我的真命媽咪啊？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619065059624624_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250619/20250619065059624624_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5157",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5157&name=波多野结衣"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5157&name=大槻响"
+    },
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5157&name=希島愛理"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5157&name=いち"
+    }
+  ]
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58cd3858-83c9-4d74-973b-9efbcb6d4bf9/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/43a30754/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6909,
+  "IDcode": "PPPE-315",
+  "title": "被學生巨乳搞到理智崩盤的我，放學後在情人酒店跟小夏一次次內射開幹 ~ 柏木小夏",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "兔女郎妝扮",
+    "舔陰",
+    "少女",
+    "口爆",
+    "蘿莉控",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "情趣飯店"
+  ],
+  "description": "PPPE-315为OPPAI出品,2025年4月15日发行的有碼成人影片由柏木小夏出演\n「你永遠不該碰的人」——對我這個老師來說，這意味著我的學生。但沒有什麼比「壞事」更令人興奮的了。我因學生那F罩杯的巨乳這個禁果而失去了理智，越過了不該越過的界限，發生了不純潔的性關係！不純潔的師生戀！一次又一次地對青春期學生進行中出！我做了一件不可思議的事…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250411/2025041100310166.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250411/2025041100310166.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6909",
+  "actresses": [
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6909&name=柏木小夏"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/hGfu2fPF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76187,
+  "IDcode": "GGEN-003",
+  "title": "女体化TSFワニ痴●修学旅行で悪友たちに温泉で強●女体化させられた僕はワニチ◎ポで何度も、雌イキさせられて…",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "调教",
+    "浴衣",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76187",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76187&name=七海雛"
+    },
+    {
+      "name": "叶月美音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76187&name=叶月美音"
+    },
+    {
+      "name": "久远れいら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76187&name=久远れいら"
+    },
+    {
+      "name": "黒石ジュリア",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76187&name=黒石ジュリア"
+    }
+  ]
+};

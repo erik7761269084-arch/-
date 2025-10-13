@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/EpO43zI7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76196,
+  "IDcode": "HIKR-148",
+  "title": "ロスでナンパしたハリウッドセレブ人妻が手入れの行き届いた高級美脚の足コキで欲求不満解消のAV出演 カーラ（30歳）",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "白人",
+    "精选，综合",
+    "中出",
+    "已婚妇女",
+    "业余",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/64de3a90d10802a333284bad04f4f4f7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76196",
+  "actresses": []
+};

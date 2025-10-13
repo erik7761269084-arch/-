@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e2090a90-bb17-4020-9b11-d0e09b1feeeb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12527,
+  "IDcode": "OKK-077",
+  "title": "溼漉漉、光澤亮麗，完美契合神級競技泳衣。請欣賞泳衣萌妹子的身影吧！ 從換衣服的偷窺開始 ~ 佐伯紗優梨",
+  "publish_date": "2024-08-22",
+  "type": "有码",
+  "company": "親父の個撮",
+  "genres": [
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "局部特寫",
+    "運動女孩",
+    "偷拍・盜撮",
+    "美腳",
+    "美少女",
+    "完全着衣",
+    "抹油",
+    "偷窺",
+    "美少女電影",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/5962f873-62a4-481d-98af-25b22e88bf1f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/5962f873-62a4-481d-98af-25b22e88bf1f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12527",
+  "actresses": [
+    {
+      "name": "佐伯紗優梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/ad13ee7e-82fb-4deb-a239-83efb7666e36.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12527&name=佐伯紗優梨"
+    }
+  ]
+};

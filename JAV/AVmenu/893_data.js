@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87594512-6735-4132-baab-28902ce7ace6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 893,
+  "IDcode": "HEYZO-1118",
+  "title": "放學後美少女檔案 15 ～妹妹頭正妹被玷汙～ - 青山未來",
+  "publish_date": "2016-03-25",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "蘿莉",
+    "中出",
+    "角色扮演",
+    "潮吹",
+    "淫語",
+    "貧乳"
+  ],
+  "description": "HEYZO-1118为HEYZO出品,2016年3月25日发行的無碼成人影片由青山未来出演\n放學後美少女檔案 15 ～妹妹頭正妹被玷汙～ - 青山未來",
+  "cover_url": "https://picture.yoshiclub.xyz/20240424/20240423222733670670.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240424/20240423222733670670.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=893",
+  "actresses": [
+    {
+      "name": "青山未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/1dbd9ce4-3cc4-4c4a-b705-d27233406e27.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=893&name=青山未来"
+    }
+  ]
+};

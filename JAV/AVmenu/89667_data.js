@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/oipuTFir/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89667,
+  "IDcode": "SDAB-267",
+  "title": "久和原せいら AV DEBUT 爽やか笑顔、性春真っ盛り",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "首次亮相",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89667",
+  "actresses": [
+    {
+      "name": "久和原聖羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231226/cb1705e9-bd24-4056-bd4f-99cb7c6bb505.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89667&name=久和原聖羅"
+    }
+  ]
+};

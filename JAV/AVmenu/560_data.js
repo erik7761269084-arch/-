@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a138e8b8-3860-4fab-9263-8a12c2bd2c64/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220816/EiY7Ic5A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 560,
+  "IDcode": "HEYZO-0668",
+  "title": "約炮介紹社 Vol.6 ～貪婪娘無底的性欲 ～ 沢田ゆかり",
+  "publish_date": "2014-08-25",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "兩男一女",
+    "慾求不滿",
+    "打手槍",
+    "貧乳",
+    "美腳",
+    "自慰",
+    "癡女",
+    "獵豔",
+    "按摩棒",
+    "約炮",
+    "插入異物"
+  ],
+  "description": "HEYZO-0668为HEYZO出品,2014年8月25日发行的無碼成人影片由沢田ユカリ出演\nセフレ紹介所Vol.6～欲張り娘の底なし性欲～ - 沢田ゆかり",
+  "cover_url": "https://picture.yoshiclub.xyz/20241120/081ab0a5-6462-474a-95c2-1350d8f4ff7f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241120/081ab0a5-6462-474a-95c2-1350d8f4ff7f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=560",
+  "actresses": [
+    {
+      "name": "沢田ユカリ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/沢田ユカリ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=560&name=沢田ユカリ"
+    }
+  ]
+};

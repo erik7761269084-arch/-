@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/294959a1-c025-4d45-8936-b7374942add2/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/17/78b9641c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10963,
+  "IDcode": "MIDV-906",
+  "title": "老師，請讓我高潮...不敢說請不要。心在顫抖，被新來的老師的雞巴操的在學校裏到處高潮卻不敢發聲 ~ 宮崎千尋",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "制服",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "少女",
+    "厠所",
+    "美腳",
+    "美少女",
+    "清純",
+    "校園生活",
+    "M男・M女",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "MIDV-906为MOODYZ出品,2024年11月5日发行的有碼成人影片由宮崎千尋出演\n「老師，我也是色狼嗎？」新上任的色狼老師把目標鎖定在優等生、沉默美少女「千尋」，明知她無法拒絕的性格，卻繼續強暴沉默的校內強姦老師。淫蕩的感情中......一個純粹的愛情故事，她愛上了老師的雞巴，甚至在教室裡弄髒了褲子，張開了陰部並乞求......",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031065354771771.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031065354771771.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10963",
+  "actresses": [
+    {
+      "name": "宮崎千尋",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/46823117-47cf-4d14-b242-99c2c2980e35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10963&name=宮崎千尋"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10963&name=小田切ジュン"
+    }
+  ]
+};

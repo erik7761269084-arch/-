@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9d0e15b0-e3d2-411e-8ce8-338c553486af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9029,
+  "IDcode": "VENX-304",
+  "title": "我與嶽母單獨相處的一周 ~ 木野野葉惠裏香",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "岳母",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "熟女",
+    "亂倫",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250118/c7d2ba50-5e82-4093-b432-91fceceff729.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250118/c7d2ba50-5e82-4093-b432-91fceceff729.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9029",
+  "actresses": [
+    {
+      "name": "木野野葉惠里香",
+      "img_url": "https://picture.yoshiclub.xyz/20240316/b6637edd-a100-49c5-b22a-eb8c2822f9c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9029&name=木野野葉惠里香"
+    }
+  ]
+};

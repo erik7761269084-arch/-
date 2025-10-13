@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/31/0b404011/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96889,
+  "IDcode": "MDS-119",
+  "title": "堕天使 X 苺みるく",
+  "publish_date": "2003-02-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "淫乱，真实",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/01/31/2f1b45e00bff0bea44e0e693c18f3ad0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96889",
+  "actresses": [
+    {
+      "name": "苺みるく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96889&name=苺みるく"
+    }
+  ]
+};

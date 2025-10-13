@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230123/f245dffb-a15c-4fce-a4ab-09fbce3c7d2a/index.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20230321/9F6EC7190D318BDB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1929,
+  "IDcode": "LAFBD-45",
+  "title": "林間少女 45 極度上癮的女人 : 水菜麗",
+  "publish_date": "2015-04-06",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "中出",
+    "美乳",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/8edace6d-2be3-49dd-8d62-ad46e29c3cec.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/8edace6d-2be3-49dd-8d62-ad46e29c3cec.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1929",
+  "actresses": [
+    {
+      "name": "水菜麗",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/378f23c9-0439-42a6-bb5f-2741a85d223f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1929&name=水菜麗"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/10/367e7a75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107156,
+  "IDcode": "MUDR-222",
+  "title": "さくら裂ク 散ル花びら ～愚劣なオッサンの手に堕ちた俺の幼なじみ 吉岡美桜～ 朝日りん",
+  "publish_date": "2023-05-16",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "巨乳",
+    "中出",
+    "制服",
+    "白天出轨",
+    "原作改编",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/06/10/8422b3cc03a01c21069cddbe825d4237.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107156",
+  "actresses": []
+};

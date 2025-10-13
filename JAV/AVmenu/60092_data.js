@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/13/80627442/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60092,
+  "IDcode": "SXLF-002",
+  "title": "エロ系Yout●berの生ハメSEX配信中！かなのとSEXしたい人、今からおいで！本田かなの",
+  "publish_date": "2025-08-29",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "偶像",
+    "第一人称摄影",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/13/7790d23d686414ac154c7886b9480440.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60092",
+  "actresses": [
+    {
+      "name": "最上もも",
+      "img_url": "https://picture.yoshiclub.xyz/20241222/08a01501-a6ca-4a16-9891-bab39120c9f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60092&name=最上もも"
+    }
+  ]
+};

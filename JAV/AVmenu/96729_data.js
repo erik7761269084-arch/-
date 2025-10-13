@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/01/f8bd2186/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96729,
+  "IDcode": "AMBI-194",
+  "title": "純文学みたいな禁断の愛に憧れ叔父を挑発する小悪魔姪っ子 天馬ゆい 生写真とパンティ付き",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "戏剧",
+    "荡妇",
+    "苗条",
+    "口交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96729",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96729&name=天馬唯"
+    }
+  ]
+};

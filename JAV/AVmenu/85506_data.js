@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/23/82d2d407/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85506,
+  "IDcode": "MIDV-106",
+  "title": "濃厚親父と脳が溶けるまで接吻交尾 桜井もえ （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗条",
+    "口交",
+    "接吻",
+    "流汗",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230125-1/c9852a7f0ba1a1f6e55e06352517969b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85506",
+  "actresses": []
+};

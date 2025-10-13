@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220702/005929FE38DE6C9F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37380,
+  "IDcode": "73FE49C76F3E42BEB5339748DC19D2B-2",
+  "title": "佐竹.ひな子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37380",
+  "actresses": []
+};

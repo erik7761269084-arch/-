@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220430/A1B64472148341BE/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35896,
+  "IDcode": "2D6BEED9617A450E2AB678D-200206792",
+  "title": "RED HOT JAM 196 制服美女俱乐部 木下凤蝶(完全版) RO-016",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35896",
+  "actresses": []
+};

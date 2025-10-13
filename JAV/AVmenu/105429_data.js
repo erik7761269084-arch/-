@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/08/9cb9e128/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105429,
+  "IDcode": "NASK-045",
+  "title": "昇給の為にオフィスで肉体営業する五十路母",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/08/ee0754e0810535e6cb2fbb688daac392.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105429",
+  "actresses": []
+};

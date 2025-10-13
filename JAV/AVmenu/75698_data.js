@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/w3bx7AqD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75698,
+  "IDcode": "HJMO-420",
+  "title": "第7回ノーパンスウェット染みたら負けよ電マ濡れ我慢対決",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "女大学生",
+    "潮吹",
+    "羞耻",
+    "女优按摩棒",
+    "巨大阴茎"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75698",
+  "actresses": [
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=雾岛里绪菜"
+    },
+    {
+      "name": "富井美帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/17a6ad76-4153-4726-971c-de1729fa871f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=富井美帆"
+    },
+    {
+      "name": "秋本詩音",
+      "img_url": "https://picture.yoshiclub.xyz/20250206/0f7811f1-239a-4c1a-9c24-1e8c543bd67f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=秋本詩音"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=大岛丈"
+    },
+    {
+      "name": "若槻さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=若槻さくら"
+    },
+    {
+      "name": "堀口美衣奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75698&name=堀口美衣奈"
+    }
+  ]
+};

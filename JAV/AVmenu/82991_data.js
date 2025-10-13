@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221206/X2tUa22O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82991,
+  "IDcode": "OKAX-585",
+  "title": "色っぽい母親と旅行中にSEXするために…口説いていく 緊迫の4時間ドキュメンタリー",
+  "publish_date": "2020-01-31",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "婆婆",
+    "乱伦",
+    "母亲",
+    "业余",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/7edcc045f2b3b77f09510f13dac74bc5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82991",
+  "actresses": []
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/IO3Vvo1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86895,
+  "IDcode": "DAC-004",
+  "title": "どっく あまちゅあ ちゃんねる vol.4",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "第一人称摄影",
+    "玩具",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86895",
+  "actresses": []
+};

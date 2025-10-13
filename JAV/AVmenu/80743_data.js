@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/SDQDXL24/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80743,
+  "IDcode": "300MAAN-744",
+  "title": "[HD] 【超绝ド级潮吹き23発超え！推定1000ml出し尽くす！世界レベルの淫獣光临！】圧倒的な美貌と超美乳G乳！常轨を逸した鬼性欲が猛威を振るう！一级品のエロテク连発でチ○ポは常に暴発寸前！「止まらないいィィ！！」敏感マ○コからイキ潮&amp;ハメ潮大放出！「もう何回イッたかわかんないッ！」限界突破の无限イキSEX！Amazing Splash TSUNAMI Girl【なまハメT☆kTok Report.36】",
+  "publish_date": "2022-05-04",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80743",
+  "actresses": []
+};

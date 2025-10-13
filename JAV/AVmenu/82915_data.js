@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/12/bfb9432e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82915,
+  "IDcode": "XVSR-536",
+  "title": "3年ぶりの解禁 濃交レズビアン 涼宮琴音 岬あずさ",
+  "publish_date": "2020-04-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "眼镜",
+    "玩具",
+    "女同性恋",
+    "连裤袜",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221201-1/2dc55f4bface851c9b1f65460b6f199c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82915",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82915&name=岬梓沙"
+    },
+    {
+      "name": "凉宫琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82915&name=凉宫琴音"
+    }
+  ]
+};

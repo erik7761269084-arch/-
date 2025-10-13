@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/tDiu8gRT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80278,
+  "IDcode": "MIDV-012",
+  "title": "「コリコリすぎてウケる！キモカワ先生」 からかい上手の教え子に乳首責められ何度も射精しちゃう僕… 八木奈々",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "手淫",
+    "恋物癖",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/798f8f49abaa7f6a0047f81d22e3aadc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80278",
+  "actresses": [
+    {
+      "name": "八木奈々",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/8e9c82df-6756-4c3a-b01e-167ed71e7726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80278&name=八木奈々"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80278&name=Qべぇ"
+    },
+    {
+      "name": "RIRICO",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80278&name=RIRICO"
+    },
+    {
+      "name": "长瀬优子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80278&name=长瀬优子"
+    }
+  ]
+};

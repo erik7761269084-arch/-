@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/06/17771d84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105319,
+  "IDcode": "FSDSS-768",
+  "title": "自らプリ尻を打ちつけながら絶頂を繰り返す全力騎乗位アクメ 臼井リカ パンティと写真付き",
+  "publish_date": "2024-04-11",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗条",
+    "舔阴",
+    "手指插入",
+    "乳房",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105319",
+  "actresses": [
+    {
+      "name": "臼井理佳",
+      "img_url": "https://picture.yoshiclub.xyz/20240108/473820e1-0d36-4e0e-b6a4-d307a1f8da86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105319&name=臼井理佳"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/05/0702e5bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101598,
+  "IDcode": "LUXU-1346",
+  "title": "ラグジュTV 1328 【美人妻の秘め事…】上品でお淑やかな人妻が豹変！「イかせてください」と涙目で懇願！次第に欲望に正直になった淫熟ボディは本能のまま巨根の刺激を貪り乱れまくる！",
+  "publish_date": "2020-11-18",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "成熟的女人",
+    "自慰",
+    "颜射",
+    "业余",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101598",
+  "actresses": [
+    {
+      "name": "弘崎ゆみな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101598&name=弘崎ゆみな"
+    }
+  ]
+};

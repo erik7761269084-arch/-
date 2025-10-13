@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/PV8taDfA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88349,
+  "IDcode": "HUNTA-972",
+  "title": "ドエロな黒パンスト姿にフル勃起！普段は厳しい女上司が酔うとエッチになりドスケベな黒パンスト姿でボクを誘惑！？いつも厳しい女上司が終電を逃して",
+  "publish_date": "2021-03-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "连裤袜",
+    "恋腿癖",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88349",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88349&name=望月綾香"
+    },
+    {
+      "name": "矢乃花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/4b2d3b2b-3ae0-4293-9a4e-91aaa91c809b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88349&name=矢乃花音"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88349&name=タツ"
+    },
+    {
+      "name": "铃屋いちご",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88349&name=铃屋いちご"
+    },
+    {
+      "name": "黒崎さく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88349&name=黒崎さく"
+    }
+  ]
+};

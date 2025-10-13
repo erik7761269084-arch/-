@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221113/xn7VmNLA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82240,
+  "IDcode": "BBI-168",
+  "title": "逆セクハラ 誘惑特命痴女係長 桜木凛",
+  "publish_date": "2014-08-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫语",
+    "各种职业",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82240",
+  "actresses": [
+    {
+      "name": "桜木凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/ae705f3a-bdba-431e-b102-4da7bd047e68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82240&name=桜木凛"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82240&name=大岛丈"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82240&name=玉木玲"
+    }
+  ]
+};

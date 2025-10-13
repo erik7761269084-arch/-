@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/XTeQK4Ae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69952,
+  "IDcode": "SUPA-449",
+  "title": "高確率でヤレると噂のマッチングアプリで会った爆乳Nさん（広島県出身/上京し一人暮らし/丸の内の証券会社勤務）",
+  "publish_date": "2019-04-26",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "业余",
+    "立即口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69952",
+  "actresses": [
+    {
+      "name": "服部义",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69952&name=服部义"
+    }
+  ]
+};

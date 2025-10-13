@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230103/8WdxOCfc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84048,
+  "IDcode": "BLK-606",
+  "title": "Y2KファッションのZ世代180cmギャルと渋谷デートで1日中パコろうぜ！！ 渋谷華",
+  "publish_date": "2022-09-20",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "高",
+    "女生",
+    "乳液",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84048",
+  "actresses": [
+    {
+      "name": "渋谷華",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/670d6978-181c-4ccf-a1b2-fed540e5b78e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84048&name=渋谷華"
+    }
+  ]
+};

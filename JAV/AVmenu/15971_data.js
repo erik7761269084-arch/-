@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8cb4a313-9354-4760-b595-98cfb401f3eb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15971,
+  "IDcode": "JUNY-112",
+  "title": "巨乳Icup空姐的off-paco淫穢寫真，小小泳衣誘惑秀肉肉身材。",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "空姐制服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "空姐",
+    "按摩棒",
+    "飯店"
+  ],
+  "description": "JUNY-112为FITCH出品,2024年3月5日发行的有碼成人影片由柳可憐出演\n豐滿巨乳美女柳可憐首次登上Fitch！擁有性感Icup身材的空姐在拍照時展現了溢出的性欲和身材。與camco男的性愛照作爲祕密選項，通過搖動巨乳來增加工資來扭轉店長的性騷擾，用小泳衣激發男顧客並進行集體口交，這是一個帶有off-的特殊課程與兩名男性顧客的paco狂歡等。充滿肉欲的特別160分鍾課程！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042351289289.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240302/20240302042351289289.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15971",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15971&name=柳可憐"
+    }
+  ]
+};

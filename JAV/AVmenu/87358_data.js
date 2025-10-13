@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230724/Hp55s8gu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87358,
+  "IDcode": "CHCH-023",
+  "title": "人妻巨乳ヨガインストラクター、旦那の留守中、自宅に生徒を連れ込んで誘惑痴女レッスン。竹内まりか（31歳）",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "CHC工作室",
+  "genres": [
+    "眼镜",
+    "巨乳",
+    "苗条",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/9b886ea2002a7d34d27fe630442e1998.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87358",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 59549,
+  "IDcode": "070716-334",
+  "title": "高挑女神酣畅淋漓的多次内射性爱",
+  "publish_date": "2024-06-01",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59549",
+  "actresses": []
+};

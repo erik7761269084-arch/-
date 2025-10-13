@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231127/kNDxB4pU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100930,
+  "IDcode": "SIRO-5170",
+  "title": "【美人看護師×美尻×スパンキング】Mっ気が強く、痛いのも気持ちいいと感じるヘンタイ美人看護師降臨！経験人数は50人を超えたあたりから数えていない！？【初撮り】ネットでAV応募→AV体験撮影  2060",
+  "publish_date": "2023-11-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "第一人称摄影",
+    "屁股",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100930",
+  "actresses": [
+    {
+      "name": "つばさ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/deaafbafa8518cbd0e993550619d2847.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100930&name=つばさ"
+    }
+  ]
+};

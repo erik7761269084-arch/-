@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3f67bd2e-d8a7-435b-a829-38bcb0b1c4ba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19368,
+  "IDcode": "IPX-063",
+  "title": "噴精快感中毒美少女不幹就不能活 琴水聖羅",
+  "publish_date": "2017-12-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫語",
+    "多P",
+    "美少女",
+    "數位馬賽克",
+    "偷窺"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522013327517517.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230522/20230522013327517517.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19368",
+  "actresses": [
+    {
+      "name": "琴水せいら",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/a3a61f23-18e3-470d-9a3d-e6594970bfce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19368&name=琴水せいら"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19368&name=森林原人"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/18/6edb95a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103632,
+  "IDcode": "YMDS-143",
+  "title": "いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 森沢かなが彼女になった日",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "玩具",
+    "潮吹",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/01/18/adea27c20878ec76b8de7e2080e2768b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103632",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103632&name=森澤佳奈"
+    }
+  ]
+};

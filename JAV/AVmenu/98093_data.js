@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221221/B233E8B40A2F627F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98093,
+  "IDcode": "AUKG-467",
+  "title": "人妻とその彼女 ～秘密のレズ不倫 色欲の罪～ 並木塔子 篠原友香",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "女同性恋",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98093",
+  "actresses": [
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98093&name=吉永塔子"
+    },
+    {
+      "name": "篠原友香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98093&name=篠原友香"
+    }
+  ]
+};

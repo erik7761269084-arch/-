@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/21/87462b7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100566,
+  "IDcode": "WAAA-248",
+  "title": "フル勃起見せつけ挟射おねだり！ 白衣のボインJナースはいつでもどこでも即パイズリでヌイてくれる乳ビッ痴！ JULIA",
+  "publish_date": "2023-03-03",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "乳交",
+    "中出",
+    "荡妇",
+    "恋乳癖",
+    "护士",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100566",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100566&name=JULIA"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/aIWmQzEl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80593,
+  "IDcode": "SDJS-132",
+  "title": "超速報!SOD飲食グループで働く人気現役女子社員中丸未来AV出演!",
+  "publish_date": "2021-12-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80593",
+  "actresses": []
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/22/679d6da1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76811,
+  "IDcode": "SCOP-647",
+  "title": "‘ジム媚薬’スポーツジムで汗をかきながら運動しているスポーツウーマンのドリンクに媚薬を混ぜてイカセまくる！鍛え上げた身体も媚薬には勝てずに失禁しながら快楽堕ち…！",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "多P",
+    "企画",
+    "运动",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76811",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76811&name=七海雛"
+    },
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76811&name=新村晶"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76811&name=黑川纱里奈"
+    }
+  ]
+};

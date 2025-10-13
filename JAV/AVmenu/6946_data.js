@@ -1,0 +1,85 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/06fcc220-8b9d-4ea8-ab7e-98e6644b2322/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/497317eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6946,
+  "IDcode": "ABF-217",
+  "title": "練出超強SEX力秒殺對手！超色小惡魔教練 ~ 涼森玲夢",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "瑜珈·健身",
+    "劇情",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "健身房",
+    "深喉",
+    "臀控",
+    "流汗",
+    "健身教練",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "運動服裝",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "性感",
+    "體操服裝",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250410/74c3b099-ea83-4516-8304-3dc3fc119361.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250410/74c3b099-ea83-4516-8304-3dc3fc119361.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6946",
+  "actresses": [
+    {
+      "name": "涼森玲夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fcfb5e54-42f4-4bab-b6ee-37fbcd01fa68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6946&name=涼森玲夢"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6946&name=イセドン内村"
+    },
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6946&name=凉森玲梦"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/gAyGLGui/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90570,
+  "IDcode": "PIYO-179",
+  "title": "【ひよこファン感謝祭】もてない素人おじさんのがっつきキスに、たっぷり愛情で返してくれる美少女女子校生と自信取り戻しべろちゅうSEX",
+  "publish_date": "2023-09-07",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "高中女生",
+    "业余",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/d6e616b604e3c49e584e9cebc35c0a60.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90570",
+  "actresses": [
+    {
+      "name": "希咲那奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231002/086f8b77-17a0-4642-89e6-3195cc2eeb35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90570&name=希咲那奈"
+    },
+    {
+      "name": "柊有希",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/cfaee073-6471-4640-adda-3b1a060c2969.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90570&name=柊有希"
+    },
+    {
+      "name": "夢莉梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/64c14830-aa57-401a-bfba-12ae122cbe46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90570&name=夢莉梨花"
+    }
+  ]
+};

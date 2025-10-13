@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/25/2953db49/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80830,
+  "IDcode": "MEYD-737",
+  "title": "地味そうに見えた隣家の文学系人妻がある日部屋を間違えオナニーをしている僕の部屋に入ってきた。 見た目とは裏腹に物凄い肉食でねっちょり僕を犯しまくる。 岬さくら",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "苗条",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3236532dcce02f2a6198727da81b01b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80830",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80830&name=岬櫻"
+    }
+  ]
+};

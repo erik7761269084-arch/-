@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dc47ff12-33ee-4ae5-ae93-fda3dab63934/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/89a12c7c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4360,
+  "IDcode": "JUTA-173",
+  "title": "極上！！四十路人妻初脫光紀錄 ~ 巖沢香代",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "熟女JAPAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "乳交",
+    "中出",
+    "美乳",
+    "四十路",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "口爆",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "紀錄片",
+    "豐滿",
+    "女優"
+  ],
+  "description": "JUTA-173为熟女JAPAN出品,2025年7月11日发行的有碼成人影片由岩沢香代出演\n‘做甜點跟做愛，祕訣都是滿滿的愛啦！’40歲的綠川真奈美，横浜甜點師一枚，結婚14年的美艷人妻。她和同一家甜點店的前輩老公因工作結緣，但兩人常年加班，週末也沒空，夫妻交流根本是零。她無奈地說：‘為了兒子，也為了我們夫妻，得調整生活節奏啊……但工作也不能丟，最後只能犧牲夫妻生活啦。’結果，性慾堆積如山，她甚至開始偷吃店裡的小鮮肉打工仔。可這種純發洩、沒甜言蜜語的肉體關係根本填不滿她的空虛，體內慾望越燒越旺。今天，就讓她體驗一場身心交融、熱辣又甜蜜的性愛，徹底融化在這份激情裡吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042919172172_39837_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042919172172_39837_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4360",
+  "actresses": [
+    {
+      "name": "岩沢香代",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/686dcb21-2726-4747-859a-5efb3f4de284_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4360&name=岩沢香代"
+    }
+  ]
+};

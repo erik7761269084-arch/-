@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/Q62qkLRC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93533,
+  "IDcode": "NHDTB-928",
+  "title": "親がいてもスカートの中でこっそりポケオナしまくる発情少女 至る所で指入れオナニーに没頭する連れ子を覗いていたのがバレたのでチ○ポの快感を教えてあげました。 月本海咲さんのパンティとチェキ付き",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "自慰",
+    "女生",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93533",
+  "actresses": []
+};

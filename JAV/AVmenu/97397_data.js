@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/3F10850FF89850E1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97397,
+  "IDcode": "DG-125",
+  "title": "残業中の社内性交！クソえろいセフレが仕事中にフェラしてくれた。バックで挿入したら尻をグライドさせて子宮に当てながら中イキ絶頂！！！！",
+  "publish_date": "2022-08-31",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "出轨",
+    "业余",
+    "偷窥",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97397",
+  "actresses": []
+};

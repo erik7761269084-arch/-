@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/30/8acc21e9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82566,
+  "IDcode": "IPTD-555",
+  "title": "Rio 可愛高中",
+  "publish_date": "2010-03-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "高中女生",
+    "多P",
+    "淫语",
+    "潮吹",
+    "数位马赛克",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82566",
+  "actresses": [
+    {
+      "name": "柚木蒂娜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82566&name=柚木蒂娜"
+    }
+  ]
+};

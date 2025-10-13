@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4116e6f6-321b-4eeb-b716-236b92dd5b37/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250106/1d4fcaWZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19135,
+  "IDcode": "IPX-319",
+  "title": "冷笑妹妹的不穿內褲誘惑日記",
+  "publish_date": "2019-06-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "蕩婦",
+    "JK校服",
+    "制服",
+    "姐姐・妹妹",
+    "學校",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230712/20230712030042971971.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230712/20230712030042971971.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19135",
+  "actresses": [
+    {
+      "name": "森澤理紗",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/a3c7dabf-4543-45e1-97fe-296f0dd80f6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19135&name=森澤理紗"
+    }
+  ]
+};

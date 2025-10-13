@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/smX0qEX8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94697,
+  "IDcode": "SUJI-217",
+  "title": "毎晩わたしに悪戯しにくるおじさんへ…これで最後にしてください。パイパン少●睡眠孕ませレ●プ",
+  "publish_date": "2024-01-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "无毛",
+    "女生",
+    "魔鬼系",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241031-1/c65b51fa442b2c33888ea856abb455e1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94697",
+  "actresses": [
+    {
+      "name": "南見つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/9bdd7ad9-39b8-4640-b46c-93255c39f9db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94697&name=南見つばさ"
+    }
+  ]
+};

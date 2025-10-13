@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/oMRNhSJx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85920,
+  "IDcode": "PRED-390",
+  "title": "サークルの女先輩2人と始発まで5時間 何度も何度も中出しで交わる。 星奈あい 月乃ルナ",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "多P",
+    "女上位",
+    "姐姐",
+    "接吻",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85920",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85920&name=月乃露娜"
+    },
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85920&name=星奈爱"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85920&name=タイ"
+    }
+  ]
+};

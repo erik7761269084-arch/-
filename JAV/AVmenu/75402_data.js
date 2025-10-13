@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250101/YTeBgZyl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75402,
+  "IDcode": "CJOD-203",
+  "title": "下着汗を嫌う従姉のびっちょり濡れ透けが誘惑的すぎた夏休み。 松本菜奈実",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "流汗",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/e9b5d7944d9b317fc40243ba1940cbb5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75402",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75402&name=松本菜奈実"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75402&name=タツ"
+    }
+  ]
+};

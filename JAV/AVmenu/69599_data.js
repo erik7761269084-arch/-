@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250330/ExYdorI1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69599,
+  "IDcode": "JUQ-123",
+  "title": "出差與暗戀女上司在商務旅館同床共寢 一乃葵",
+  "publish_date": "2022-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "连裤袜",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250331-1/88527adbe86e106fedd14bbf84fcbc81.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69599",
+  "actresses": []
+};

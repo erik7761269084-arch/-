@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250121/cm5pPJVF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73438,
+  "IDcode": "NHDTB-77302",
+  "title": "乳首開発痴● 微乳女子○生限定Ver. お嬢様Bカップ娘",
+  "publish_date": "2023-04-03",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "颜射",
+    "潮吹",
+    "业余",
+    "乳房",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/1d28c5f01b727a96f6c2fcb2a175e05e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73438",
+  "actresses": []
+};

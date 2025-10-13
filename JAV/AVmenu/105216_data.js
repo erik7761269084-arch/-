@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/07/94cfe4ca/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105216,
+  "IDcode": "IPZ-236",
+  "title": "快感スパイラル あいのをイカせてイカせてイカせまくり！ 希志あいの",
+  "publish_date": "2013-11-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "潮吹",
+    "数位马赛克",
+    "拘束",
+    "滥交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105216",
+  "actresses": [
+    {
+      "name": "希志爱野",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/e3a956d5-5439-4fcb-b145-ebe8d5d15528.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105216&name=希志爱野"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105216&name=田渊正浩"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105216&name=しみけん"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220518/4F0086928317BA82/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64174,
+  "IDcode": "7059D1B5B735B3898F78CFFF50C-58768",
+  "title": "股下82公分8头身苗条身材 现役模特儿 春泽美妃奈 AV出道",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64174",
+  "actresses": []
+};

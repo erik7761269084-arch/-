@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240616/NBip07mV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102531,
+  "IDcode": "NDRA-080C",
+  "title": "溫柔賢惠的妻子向我講述如何被隔壁混混男人內射調教成為情婦 通野未帆",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102531",
+  "actresses": []
+};

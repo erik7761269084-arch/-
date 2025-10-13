@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240716/lyp7BVJU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97298,
+  "IDcode": "GAJK-003",
+  "title": "蔵の中で緊縛調教される女子校生 父の借金が原因で生贄となった儚き純粋娘 絶望の縁で犯●れ未知の快楽に悶える縄遊戯 涼花くるみ",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "高中女生",
+    "凌辱",
+    "捆绑",
+    "监禁",
+    "校服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97298",
+  "actresses": [
+    {
+      "name": "凉南佳奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97298&name=凉南佳奈"
+    }
+  ]
+};

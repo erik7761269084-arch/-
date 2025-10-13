@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220906/04EE4A72BA018004/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38020,
+  "IDcode": "A8604A5BC051F3ABBFF56B3BFE31F-661",
+  "title": "女中之蝶 ～粉味街3P泡泡浴17- 森田美优 美云爱梨",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38020",
+  "actresses": []
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8a95686f-b485-4292-ac71-8a9d9c89b928/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241107/Z36eclOI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18968,
+  "IDcode": "IPX-424",
+  "title": "給高傲女教師最惡劣的屈辱… 嘴巴塞肉棒集團輪姦",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "黑絲",
+    "女教師",
+    "劇情",
+    "顏射",
+    "輪姦",
+    "按摩棒",
+    "學校"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805212303434434.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230805/20230805212303434434.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18968",
+  "actresses": [
+    {
+      "name": "夏希栗",
+      "img_url": "https://picture.yoshiclub.xyz/20230718/a56986c4-5039-40ed-bd2c-abd45b6b99af.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18968&name=夏希栗"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18968&name=鲛岛"
+    }
+  ]
+};

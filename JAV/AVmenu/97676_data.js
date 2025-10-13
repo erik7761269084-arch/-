@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220415/129AFEE27A1841F1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97676,
+  "IDcode": "ABP-254",
+  "title": "美しいお嬢様の卑猥なる飼育 北野のぞみ",
+  "publish_date": "2015-02-03",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "调教",
+    "大小姐"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp254/118abp254pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97676",
+  "actresses": [
+    {
+      "name": "北野望",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c0f421cd8f98ac9848c592e32f86bf7b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97676&name=北野望"
+    }
+  ]
+};

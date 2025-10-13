@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/49f91c7d-3817-4962-a32c-e3d09acac310/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10680,
+  "IDcode": "CEMD-597",
+  "title": "我是公司負責性欲管理的祕書2 ~ 藍芽水月",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "加班",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "主觀視角",
+    "女秘書",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "女同事",
+    "辦公室",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241110/20241110084027797797.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241110/20241110084027797797.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10680",
+  "actresses": [
+    {
+      "name": "藍芽水月",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/4876a3e9-b596-45d2-ab02-db3a61c74bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10680&name=藍芽水月"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/10/16d479d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80922,
+  "IDcode": "SSIS-326",
+  "title": "葵斯在大家眼前自背後緊貼您呢喃搞逆癡女玩法呦",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "手淫",
+    "4K",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3b37b149a10557334a21266fd7292232.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80922",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80922&name=葵司"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80922&name=Qべぇ"
+    }
+  ]
+};

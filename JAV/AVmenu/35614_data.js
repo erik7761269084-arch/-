@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/06/ac91f7f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35614,
+  "IDcode": "RBD-271",
+  "title": "老公请原谅我之参加同学会被侵犯内射堕落的人妻-椎名由奈",
+  "publish_date": "2025-06-06",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "已婚妇女",
+    "女上位",
+    "出轨",
+    "舔阴"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35614",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35614&name=椎名由奈"
+    }
+  ]
+};

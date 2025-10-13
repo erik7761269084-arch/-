@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e42a05c-4e21-4d0d-9dbd-75cb69e3bb3e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/e05b1e88/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3885,
+  "IDcode": "JJDA-063",
+  "title": "肇事者的老婆 羞恥性服務賠罪 ~ 夏川步美",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "奇聞趣事",
+    "金髮",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "美人",
+    "短髮",
+    "謝罪",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "JJDA-063为卍GROUP出品,2025年8月1日发行的有碼成人影片由夏川步美出演\n老公开车不小心出了人身事故，害得对方受伤在家休养，夫妻俩只好一起上门赔罪道歉。受害者大叔表示：“我看得出你们挺有诚意的。不过我这伤势，日常打扫、洗衣服、买东西啥的都搞不定，要不让你家媳妇儿来帮我照料一段时间？”没办法，从第二周开始，妻子就得天天往大叔公寓跑，帮忙打理生活。然而某天，事情开始变得不对劲……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101258652652_93667_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101258652652_93667_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3885",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3885&name=夏川步美"
+    }
+  ]
+};

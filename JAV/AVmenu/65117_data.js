@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65117,
+  "IDcode": "C1AD5AE842DF3ABE0F6675B96AB7E5B2",
+  "title": "デビュー1周年！新作発売イベントで最高のサービスを… チケット完売！前代未闻のイベントに参加せよ！初の「いきなりSEX」…",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65117",
+  "actresses": []
+};

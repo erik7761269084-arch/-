@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230404/bec82ba7-4bd2-4018-8a0d-c92cc317642d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1625,
+  "IDcode": "MILD-812",
+  "title": "緊身衣角色扮演☆ 小泉真希",
+  "publish_date": "2013-01-11",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "兔女郎妝扮",
+    "無碼流出",
+    "巨乳",
+    "賽車女郎"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/fe7df30f-1f61-40bd-8e75-0a84d694252d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/fe7df30f-1f61-40bd-8e75-0a84d694252d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1625",
+  "actresses": [
+    {
+      "name": "小泉真希",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/8c3bf979-f3e2-495a-b994-a24ecb36294c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1625&name=小泉真希"
+    }
+  ]
+};

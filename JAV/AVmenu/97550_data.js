@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220330/4B6B4D8482C343CF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97550,
+  "IDcode": "HUNTA-282",
+  "title": "超マジメでお堅い義理の姉の正体は、セックス狂いの超ヤリたがり獣欲娘！2 誘惑に負けて一度体を許したら最後！親が近くにいても関係ナシ！とにかくいつでもセックスを求められて、時間も関係なく家中の色々な場所でヤリまくり！親に見つかるかもしれないというスリルも…",
+  "publish_date": "2017-04-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97550",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97550&name=通野未帆"
+    },
+    {
+      "name": "篠惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/97827d0d-951d-46e4-8738-9f2dd1f342e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97550&name=篠惠美"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97550&name=大島愛里亞"
+    },
+    {
+      "name": "吉川爱美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/吉川あいみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97550&name=吉川爱美"
+    },
+    {
+      "name": "藤本紫媛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97550&name=藤本紫媛"
+    }
+  ]
+};

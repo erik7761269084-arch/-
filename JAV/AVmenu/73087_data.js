@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/091002c4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73087,
+  "IDcode": "RCTD-638",
+  "title": "みづきーなにレズテクで勝ったら1000万円",
+  "publish_date": "2025-02-06",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "女同性恋",
+    "潮吹",
+    "舔阴",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73087",
+  "actresses": [
+    {
+      "name": "氷堂ハスミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73087&name=氷堂ハスミ"
+    }
+  ]
+};

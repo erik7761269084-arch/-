@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b75b986-3bcf-4b36-ad50-ed4dd4dba8fe/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/27/66f49643/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16883,
+  "IDcode": "JUQ-540",
+  "title": "..我的NTR故事，講述了我的妻子如何被偷走，總共17次陰道射精",
+  "publish_date": "2024-01-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "自慰",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-540为MADONNA出品,2024年1月9日发行的有碼成人影片由葉山小百合出演\n與葉山小百合結婚幾年後，他們開了一家期待已久的咖啡館並一起經營，但由於附近的建築工程，顧客數量減少，葉山小百合開始對經營生意感到焦慮。正當他感到焦慮的時候，學生時代的學弟圭吾來看望了他。當我和妻子討論這件事時，她告訴我，“我會盡力向她求愛，看看她的感受”，然後我和她單獨呆了三個小時。當我回到家時，她告訴我，“我試圖追求她，但沒有成功，”我相信了她的話。\n與葉山小百合結婚幾年後，他們開了一家期待已久的咖啡館並一起經營，但由於附近的建築工程，顧客數量減少，葉山小百合開始對經營生意感到焦慮。正當他感到焦慮的時候，學生時代的學弟圭吾來看望了他。當我和妻子討論這件事時，她告訴我，“我會盡力向她求愛，看看她的感受”，然後我和她單獨呆了三個小時。當我回到家時，她告訴我，“我試圖追求她，但沒有成功，”我相信了她的話。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106052851374374.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240106/20240106052851374374.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16883",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16883&name=葉山小百合"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16883&name=森林原人"
+    }
+  ]
+};

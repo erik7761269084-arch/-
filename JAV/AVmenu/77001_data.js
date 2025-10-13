@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/08/6f870d04/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77001,
+  "IDcode": "MIDE-726",
+  "title": "無限ピストン潮吹き絶叫アクメ 輸入雑貨店のバイト面接に来た地味巨乳ちゃんおっぱい丸出しの猥褻商品を着用させて逃がさない！ 水卜さくら",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "苗条",
+    "潮吹",
+    "拘束",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77001",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77001&name=水卜櫻"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77001&name=玉木玲"
+    }
+  ]
+};

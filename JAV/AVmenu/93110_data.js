@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241008/hj0Pe6Qr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93110,
+  "IDcode": "MMPB-045",
+  "title": "君たちはどう生きるか 居残り体育少女、健康的で透きとおる小さなカラダ",
+  "publish_date": "2024-07-02",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "女生",
+    "学校泳装",
+    "运动短裤"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93110",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93110&name=千石もなか"
+    },
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93110&name=市川りく"
+    },
+    {
+      "name": "竹内美涼",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/971858a7-062c-4171-a4c1-30264627453b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93110&name=竹内美涼"
+    }
+  ]
+};

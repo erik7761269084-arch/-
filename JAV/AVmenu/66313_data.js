@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/12/628d6ef7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66313,
+  "IDcode": "NASK-243",
+  "title": "寝取られる熟女たちの宴",
+  "publish_date": "2025-05-13",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "投稿",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66313",
+  "actresses": []
+};

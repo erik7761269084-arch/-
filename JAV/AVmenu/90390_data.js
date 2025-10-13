@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/f7CDXBzL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90390,
+  "IDcode": "PKPT-018",
+  "title": "完全プライベート映像 一生揉んでいたい天然Kカップ美女・春菜はなちゃんと初めての二人きりお泊まり2 （BOD）",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "姐姐",
+    "第一人称摄影",
+    "超乳",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90390",
+  "actresses": [
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90390&name=春菜华"
+    }
+  ]
+};

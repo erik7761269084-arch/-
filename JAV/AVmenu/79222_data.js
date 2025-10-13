@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/27/bec76c83/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79222,
+  "IDcode": "MEYD-703",
+  "title": "旦那が喫煙している5分の間義父に時短中出しされて毎日10発孕ませられています…。 乃木蛍",
+  "publish_date": "2021-09-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/10d082b91909d04f5e4dcb75e0995b4d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79222",
+  "actresses": [
+    {
+      "name": "乃木蛍",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d05b6bf7-57f1-4407-ab51-22937cd946d5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79222&name=乃木蛍"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/16/78af3454/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66722,
+  "IDcode": "DLDSS-162",
+  "title": "DLDSS-162",
+  "publish_date": "2023-02-23",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66722",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66722&name=美乃雀"
+    }
+  ]
+};

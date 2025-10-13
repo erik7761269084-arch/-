@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230209/DFEB1AD5EDA715B5/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103237,
+  "IDcode": "DOCP-064",
+  "title": "制服女子の超ミニスカ＋ニーハイ=極上絶対領域に勃起してしまった僕。それに気づいた彼女は興奮した様子で僕のチ●ポをイジりはじめ…",
+  "publish_date": "2018-07-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "4小时以上作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103237",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103237&name=鈴木真夕"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103237&name=椎叶みくる"
+    },
+    {
+      "name": "花宫レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103237&name=花宫レイ"
+    },
+    {
+      "name": "山井すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103237&name=山井すず"
+    },
+    {
+      "name": "菊川みつ叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103237&name=菊川みつ叶"
+    }
+  ]
+};

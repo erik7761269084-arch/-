@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/vAkhiuYz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90489,
+  "IDcode": "OKS-151",
+  "title": "藤田こずえ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
+  "publish_date": "2023-08-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳液",
+    "学校泳装",
+    "偷窥",
+    "局部特写",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90489",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90489&name=藤田梢"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/22/b416a9ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102107,
+  "IDcode": "ADN-112",
+  "title": "夫のいない昼下がり 溺れる女 川上奈々美",
+  "publish_date": "2016-12-13",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102107",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e639c691-cfbd-40a4-8a21-235f5da70ac2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 393,
+  "IDcode": "HEYZO-0466",
+  "title": "純粹素人娘的私人攝影會 ~ 美月優菜",
+  "publish_date": "2013-11-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "素人作品",
+    "企畫",
+    "中出",
+    "素人",
+    "私房攝影",
+    "寫真女郎"
+  ],
+  "description": "HEYZO-0466为HEYZO出品,2013年11月27日发行的無碼成人影片\nヌード撮影会にきた純粋娘を密室独り占め - 美月優菜",
+  "cover_url": "https://picture.yoshiclub.xyz/20250224/952c0bea-bf2b-408f-8118-6bdb923f862a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250224/952c0bea-bf2b-408f-8118-6bdb923f862a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=393",
+  "actresses": []
+};

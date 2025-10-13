@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/8XvOzH01/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81825,
+  "IDcode": "NASH-197",
+  "title": "田舎じゃこんなの当たり前！！ヤリたくなったらその場で即ハメOKな青姦大好き田舎の人妻",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "户外",
+    "口交",
+    "立即口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81825",
+  "actresses": []
+};

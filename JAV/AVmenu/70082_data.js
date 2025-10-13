@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/3YNJiCBa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70082,
+  "IDcode": "SUPA-460",
+  "title": "一人じゃ無理だけど友達と一緒だったからノリと勢いでAV出演しちゃった素人娘達全69人 4時間スペシャル",
+  "publish_date": "2019-05-31",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "企画",
+    "业余",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70082",
+  "actresses": []
+};

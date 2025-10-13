@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27b3698e-1dfa-450c-a44d-d9ec3b7b4b15/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/23/ee873b46/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11490,
+  "IDcode": "SONE-388",
+  "title": "讓男學生瘋狂發情的超絕究級美腳女教師 ~ 明日葉三葉",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "美腳",
+    "美少女",
+    "更衣室",
+    "校園生活",
+    "高跟鞋",
+    "學校",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-388为S1出品,2024年10月8日发行的有碼成人影片由明日葉三葉出演\n新老師阿蘇葉三葉因其良好的作風而受到學生們的歡迎。而且，因為她的身高，她的美腿和絕對的領地，擊中了某位學生的性癖好。在這個學生失控的性傾向、戀情、不順利的戀愛關係、師生關係、易受影響的青春期等多種因素交織在一起的世界裡，學生們不顧一切地奔波前行，他們對腿的痴迷變得渾濁。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003095749886886.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003095749886886.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11490",
+  "actresses": [
+    {
+      "name": "明日葉三葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/44fcabb9-1c79-40cf-89cc-3bfac644247e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11490&name=明日葉三葉"
+    }
+  ]
+};

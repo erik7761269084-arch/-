@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a844fd99-03d9-4b2d-a438-bdf8b9aa138b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11275,
+  "IDcode": "MIAB-348",
+  "title": "W 男士SPA雙飛 - 屁眼一直暴露的姿勢動彈不得，10發榨取 ~ 木下日葵 森日向子",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "按摩女郎",
+    "深喉",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "風俗娘",
+    "性感",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "情趣內衣",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "兩女一男",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "MIAB-348为MOODYZ出品,2024年10月15日发行的有碼成人影片由森日向子，木下日葵出演\n美麗的美容師...連屁股洞都色情了！臀圍總180cm！雙肛炫耀男士美容院！無論你向左或向右看，大屁股都在你面前展開！讓我舔你的雙肛門！肛門舔舔連接玩！強迫混蛋舔陰服務！面對坐騎和女牛仔！快樂雙大屁股壓縮！大屁股撞樁駕駛女牛仔體內射精！相容性很好的後宮連續中出！一個很棒的特寫鏡頭，甚至傳達了氣味和味道！請享受始終暴露屁眼位置的蕩婦的反向3P後宮待遇！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010104545952952.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010104545952952.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11275",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11275&name=森日向子"
+    },
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11275&name=木下日葵"
+    }
+  ]
+};

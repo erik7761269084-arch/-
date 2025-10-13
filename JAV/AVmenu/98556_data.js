@@ -1,0 +1,32 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98556,
+  "IDcode": "TB-001-",
+  "title": "独占！着エロアイドル渚野洋子AV Debut！ベロチューた",
+  "publish_date": "2018-01-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "艺人",
+    "玩具",
+    "女同性恋",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98556",
+  "actresses": [
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98556&name=川越ゆい"
+    },
+    {
+      "name": "渚野洋子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98556&name=渚野洋子"
+    }
+  ]
+};

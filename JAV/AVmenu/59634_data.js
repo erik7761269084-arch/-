@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/10/8f7d3a7e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59634,
+  "IDcode": "091917-502",
+  "title": "何度イっても終わらない！ 〜ケツ穴にも挿れてください〜",
+  "publish_date": "2017-09-19",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "立即口交",
+    "潮吹",
+    "肛交",
+    "美乳",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/09/300eddad41d8958021c5dadfa106aa10.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59634",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231010/dkV3S7Gf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88447,
+  "IDcode": "NHDTB-428",
+  "title": "ショートカット少女痴●BEST 超厳選！敏感すぎて抵抗できないショートヘアが似合う歴代女子○生30人",
+  "publish_date": "2020-08-13",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "4小时以上作品",
+    "凌辱",
+    "手指插入",
+    "羞耻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88447",
+  "actresses": []
+};

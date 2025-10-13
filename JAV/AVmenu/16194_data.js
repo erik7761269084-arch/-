@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8e6c87f3-f983-45ae-9068-e9a143301f60/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/27/f91daf63/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16194,
+  "IDcode": "START-028",
+  "title": "[私拍視頻配信]脅迫 利用接私拍賺取零用錢的女大學生的弱點進行現場做愛直播 星乃莉子",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "凌辱",
+    "中出",
+    "女上位",
+    "口交",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "多P",
+    "美少女",
+    "女僕制服",
+    "巨乳",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "START-028为SOD出品,2024年2月20日发行的有碼成人影片由星乃莉子出演\n星乃莉子通過拍攝個人照片賺取一些零用錢。某天，所拍攝的視頻居然被網站置頂，星乃莉子嚇壞了，怕男朋友發現。她只能去找攝影師要求他刪除視頻，但事情進展不那麼順利，最後，她被迫在男人的擺布下直播 4P 性愛……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220010212156156.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240220/20240220010212156156.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16194",
+  "actresses": [
+    {
+      "name": "星乃莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/ac4cdd9b-a9ee-47a0-a206-669f2d143db8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16194&name=星乃莉子"
+    }
+  ]
+};

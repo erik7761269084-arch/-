@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57617,
+  "IDcode": "519BD5DA9FE766B57EB0A2A8DA9B7263",
+  "title": "公鸡吮吸美女在她甜美的脸上享受精液",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57617",
+  "actresses": []
+};

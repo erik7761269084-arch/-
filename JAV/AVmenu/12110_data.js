@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b9929296-ecf9-4c0a-9f16-7d37597b4765/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12110,
+  "IDcode": "CEMD-575",
+  "title": "不停操不停！ 爆乳女120分鍾50多次絕頂高潮！ ~ 山瀨美紀",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "過膝襪・小腿襪",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240909/6bca89fd-c1dd-430f-b5c5-7559ff3f9bdb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240909/6bca89fd-c1dd-430f-b5c5-7559ff3f9bdb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12110",
+  "actresses": [
+    {
+      "name": "山瀬美紀",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/658e9bbc-c41c-45cd-aace-36b3168e2dd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12110&name=山瀬美紀"
+    }
+  ]
+};

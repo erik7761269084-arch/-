@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220617/A7D6E73536BBDD85/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64170,
+  "IDcode": "6B92D851D181F6A987D3E454A64B8DB-6",
+  "title": "绮丽すぎる素人お姉さんが巨チンと汗だくになるまで鬼イキまくり！！→→すっかり巨チンの虏に性奴隶确定www",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64170",
+  "actresses": []
+};

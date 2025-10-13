@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a14631e7-d031-415d-84ee-c2b0ce1ac8f8/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2022/03/30/f96d5171/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18111,
+  "IDcode": "IPX-832",
+  "title": "人體固定 小穴破壞抽插無限中出 動彈不得強制高潮 櫻空桃",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "中出",
+    "拘束・拷問",
+    "潮吹",
+    "口交",
+    "性感",
+    "暗黑系",
+    "緊縛",
+    "猥褻穿著",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029212700879879.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231029/20231029212700879879.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18111",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18111&name=桜空桃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18111&name=鲛岛"
+    }
+  ]
+};

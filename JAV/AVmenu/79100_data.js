@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/rI7JkhDS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79100,
+  "IDcode": "DLDSS-005",
+  "title": "- 息子の嫁の無自覚なハミ出し露出誘惑に我を忘れて絶倫性交 美乃すずめ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "新娘，年轻妻子",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/aea70775c0dfd4f0b06304996d111a21.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79100",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79100&name=美乃雀"
+    }
+  ]
+};

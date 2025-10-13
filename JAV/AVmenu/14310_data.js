@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/71987ee7-3bd5-476f-8773-7350fb85b542/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/11/405a472b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14310,
+  "IDcode": "FPRE-052",
+  "title": "爲了保護青梅竹馬的朋友...田徑隊的巨乳女經理辻いまる被使用春藥進行輪奸受精 ~ 辻いまる",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "運動",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "更衣室",
+    "癡女",
+    "巨乳",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "FPRE-052为FITCH出品,2024年6月4日发行的有碼成人影片由 辻いまる出演\n青梅竹馬的伊丸是同屬田徑部的經理，我在他面前很強，但在學校卻感覺不可靠，受到伊丸的保護。有一天，我在接力賽中犯了一個錯誤，受到了俱樂部成員和經理的嚴厲批評，但伊丸保護了我。但我不知道。我萬萬沒想到，今丸因為我，被所有人強暴，甚至被逼喝春藥，被迫多次高潮失禁。我看到了...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531022813389389.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531022813389389.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14310",
+  "actresses": [
+    {
+      "name": "辻いまる",
+      "img_url": "https://picture.yoshiclub.xyz/20240205/c9588eed-3bd3-4d58-b541-e4a2ca969f96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14310&name=辻いまる"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14310&name=左慈半造"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14310&name=Qべぇ"
+    }
+  ]
+};

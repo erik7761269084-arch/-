@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/Mxoo9xs7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81429,
+  "IDcode": "BNGD-029",
+  "title": "親友の美人母の弱みを握って徹底的にヤリまくるゲスSEX 絶対服従肉オナホ調教",
+  "publish_date": "2020-03-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/2b7be5e5ba4b632f54bfb03334fbf8d9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81429",
+  "actresses": []
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/80983355-103e-4eae-a8f6-a4f366c3739d/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/17/4db44a51/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17621,
+  "IDcode": "JUQ-417",
+  "title": "傲慢的女上司水戶香奈代替丈夫卻向客戶道歉，卻遭到了恥辱的侵犯",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "身體換業務",
+    "中出",
+    "OL",
+    "口交",
+    "性感",
+    "人妻",
+    "按摩棒",
+    "女上司",
+    "熟女",
+    "老闆娘，女主人",
+    "誘騙女性",
+    "羞恥"
+  ],
+  "description": "JUQ-417为MADONNA出品,2023年11月28日发行的有碼成人影片由水户香奈出演\n水户香奈是老牌裝修公司的第一位女總經理，不知道她對未來是否抱持著很大的希望。但由於她工作嚴格，我行我素，所以下屬在背後說她囂張。有一天，他收到一位生意夥伴的投訴，前去道歉…\n水户香奈是老牌裝修公司的第一位女總經理，不知道她對未來是否抱持著很大的希望。但由於她工作嚴格，我行我素，所以下屬在背後說她囂張。有一天，他收到一位生意夥伴的投訴，前去道歉…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231126/32fcc571-ee1f-4dd4-846e-52fd246967ad.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231126/32fcc571-ee1f-4dd4-846e-52fd246967ad.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17621",
+  "actresses": [
+    {
+      "name": "水户香奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/83fe39fe-6d14-45c8-b70e-9e343bf8f2f7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17621&name=水户香奈"
+    }
+  ]
+};

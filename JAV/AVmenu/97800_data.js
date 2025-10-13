@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/95114696CAF0F838/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97800,
+  "IDcode": "GANA-1943",
+  "title": "マジ軟派、初撮。 1224",
+  "publish_date": "2018-12-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "无毛",
+    "颜射",
+    "苗条",
+    "业余",
+    "猎艳",
+    "平胸",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97800",
+  "actresses": [
+    {
+      "name": "日泉舞香",
+      "img_url": "https://picture.yoshiclub.xyz/20230623/4828b925-2cbd-4595-8abd-1a02291e45d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97800&name=日泉舞香"
+    }
+  ]
+};

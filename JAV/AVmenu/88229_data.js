@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230911/Jlipf8L2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88229,
+  "IDcode": "SDDE-557",
+  "title": "痴女っ気たっぷりなナースと女医がオナニーをコントロールしてくれる『センズリ指示（JOI）病院』",
+  "publish_date": "2018-11-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "数位马赛克",
+    "企画",
+    "护士",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88229",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88229&name=美咲佳奈"
+    },
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88229&name=向井藍"
+    },
+    {
+      "name": "花笑一杏",
+      "img_url": "https://picture.yoshiclub.xyz/20250208/101d5103-d48c-43ab-9a61-54fccba6fa8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88229&name=花笑一杏"
+    },
+    {
+      "name": "香苗レノン",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\8-Ideapocket/香苗レノン.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88229&name=香苗レノン"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 94230,
+  "IDcode": "SKMJ-517",
+  "title": "【童貞君を探し出して筆おろしセックス出来たら100万円！？】親友の素人娘2人が童貞求めてはじめての逆ナンパ！！SNS、マッチングアプリもフル活用！！見つけ出した童貞ち●ぽを奪い合うハーレム筆おろし！生中しすぎてキンタマ枯渇！！5 生写真とパンティ付き",
+  "publish_date": "2024-06-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "女上位",
+    "业余",
+    "猎艳",
+    "处男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94230",
+  "actresses": []
+};

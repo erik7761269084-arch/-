@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241217/nN3mrzYV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75766,
+  "IDcode": "BLOR-137",
+  "title": "デカチン欲しさに現場に来たムチムチドスケベOL 限界まで挿入ジラされ切ないメス顔になった後、巨根ブチ込まれアヘ顔イキ狂い！",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "颜射",
+    "潮吹",
+    "OL",
+    "巨大屁股",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/4a5610fc5950b3a8c1e298fda24a4530.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75766",
+  "actresses": []
+};

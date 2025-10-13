@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/05/28/3077c8e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90714,
+  "IDcode": "AMBI-169",
+  "title": "先生に恋愛相談したら彼氏の前で教師二人に廻されました…。 有加里ののか パンティと生写真付き",
+  "publish_date": "2023-05-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240208-1/bdff2fb01633d9b5db38a14ea38150ad.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90714",
+  "actresses": []
+};

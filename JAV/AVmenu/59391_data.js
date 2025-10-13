@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230320/EB466F8F1CDD9472/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59391,
+  "IDcode": "DSAMBD-15",
+  "title": "働きウーマン ~巨乳眼鏡OLのストレス発散セックス~",
+  "publish_date": "2017-03-09",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "店长推荐",
+    "写真",
+    "无套内射",
+    "立即口交",
+    "3P",
+    "站立性交",
+    "骑乘位",
+    "背部骑乘位",
+    "车站性交",
+    "颜面骑乘",
+    "口交",
+    "束缚",
+    "美女",
+    "苗条",
+    "美脚",
+    "眼镜娘",
+    "中出",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59391",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/51310461/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82508,
+  "IDcode": "EBOD-736",
+  "title": "良家出身！現役美人モデルを撮影するためいざ福岡へ！くびれ巨乳Hカップ叶ユリアE-BODY専属AVデビュー",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "苗条",
+    "首次亮相",
+    "模特儿"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/f296289cbf8b93050567143f06dfdc92.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82508",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82508&name=小田切ジュン"
+    },
+    {
+      "name": "叶ユリア",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82508&name=叶ユリア"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/WDqvDXYR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73850,
+  "IDcode": "SHKD-748",
+  "title": "オフィスレディの湿ったパンスト 石原莉奈",
+  "publish_date": "2017-06-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73850",
+  "actresses": []
+};

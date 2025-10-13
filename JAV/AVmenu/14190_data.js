@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ef0641a6-e99d-4746-baad-7cb17d6dbe00/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/25/23e0a998/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14190,
+  "IDcode": "NACR-809",
+  "title": "把所有的煩惱交給安部藍諮詢室吧",
+  "publish_date": "",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "口交",
+    "蠻橫嬌羞",
+    "性感",
+    "內衣",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240605/40854dd1-f5b5-416c-b2f9-abf08700bb30.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240605/40854dd1-f5b5-416c-b2f9-abf08700bb30.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14190",
+  "actresses": [
+    {
+      "name": "安部藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240605/76a0239b-c4b2-4dde-be11-5cad26240b38.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14190&name=安部藍"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14190&name=まーち"
+    }
+  ]
+};

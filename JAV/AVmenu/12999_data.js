@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/69e6d5b3-7c8d-41dd-96bf-6d661c2a34d9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12999,
+  "IDcode": "BF-716",
+  "title": "我和在一個約炮APP上認識了的不起眼的女孩，在一家情趣酒店發生了性關系 ~ 月野江翠",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "BeFree",
+  "genres": [
+    "苗條",
+    "劇情",
+    "純粹的慾望",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "少女",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "約炮",
+    "美少女電影",
+    "情趣飯店",
+    "飯店"
+  ],
+  "description": "BF-716为BeFree出品,2024年8月6日发行的有碼成人影片由月野江翠出演\n我在配對應用程式上認識的一個女孩。她的長相不錯，但相貌平平，個性陰鬱，我覺得有點讓人失望。我以為我就隨便撒個謊就回家了，但後來我的女朋友邀請我去一家情趣酒店。我對他的攻擊性感到驚訝，但當我們開始與他發生性關係時…他是一個才華橫溢的男人，身體敏感，非常熱愛性。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802002606483483.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802002606483483.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12999",
+  "actresses": [
+    {
+      "name": "月野江翠",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/d8344561-2dfa-4e1f-af7c-30335caa3a59.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12999&name=月野江翠"
+    }
+  ]
+};

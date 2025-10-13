@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/15/7d95237b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92194,
+  "IDcode": "MIAA-954",
+  "title": "「許してください…」 失禁イキ狂いエステ～夫想いの人妻が堕ちた猥褻マッサージ媚薬キメセクNTR ～ 大槻ひびき （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "放尿",
+    "美容院",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92194",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92194&name=大槻响"
+    }
+  ]
+};

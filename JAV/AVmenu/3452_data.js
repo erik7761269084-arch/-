@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6613d5cc-acbb-4f3e-8b6f-93a23b65534e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3452,
+  "IDcode": "NACT-003",
+  "title": "假裝醉酒勾搭大屌上司的淫亂女職員 ~ 雪代一鳳",
+  "publish_date": "2025-08-19",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "美人",
+    "職場",
+    "極品美人"
+  ],
+  "description": "NACT-003为PLANETPLUS出品,2025年8月19日发行的有碼成人影片由雪代一鳳出演\n公司聚会喝嗨了，下属美鳳装作走不动路，上司没办法只好带她回附近家里喝口水。结果到了家，这小妮子居然是装醉！？原来她早就听说上司的大屌传说，目标直指裤裆！谁能想到平时乖巧的女职员私下竟然这么骚浪，简直是隐藏的淫娃，撩得人欲罢不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082701433433_37900_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082701433433_37900_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3452",
+  "actresses": [
+    {
+      "name": "雪代一鳳",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/b2cb7ec3-4b17-4d6b-ad65-4cc828026d8a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3452&name=雪代一鳳"
+    }
+  ]
+};

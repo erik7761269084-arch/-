@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/zMKkyJ7I/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77669,
+  "IDcode": "MIAE-193",
+  "title": "女の子になった発情期のドM子猫ちゃん まり 無邪気にチ○ポ欲しがるスケベちゃんお仕置きするとビクビク痙攣イキまくり！！ 高杉麻里",
+  "publish_date": "2018-03-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "角色扮演",
+    "数位马赛克",
+    "乳房",
+    "调教",
+    "猫耳女",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77669",
+  "actresses": [
+    {
+      "name": "高杉麻里",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/2a480853-ceac-47fb-9c72-98296d6963f6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77669&name=高杉麻里"
+    }
+  ]
+};

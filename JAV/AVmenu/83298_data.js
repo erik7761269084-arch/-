@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/vROVhclQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83298,
+  "IDcode": "SHYN-086",
+  "title": "「全身から体液を漏らし続けたらどうなるか？」を検証した結果、汁どろどろ涎だらだら汗びちょびちょ全身大洪水SEX 椎名美優",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "潮吹",
+    "口交",
+    "业余",
+    "恋物癖",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/79e258fda1ca7f6d8b71309aa990cf5b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83298",
+  "actresses": [
+    {
+      "name": "椎名美优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83298&name=椎名美优"
+    }
+  ]
+};

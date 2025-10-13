@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e3d2bc5e-7e14-4c1d-a9f1-677123b07cdc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5726,
+  "IDcode": "NIMA-059",
+  "title": "實寫版 超受歡迎的王子系女孩實際上卻是個抖M小野貓。和青梅竹馬的溼熱激戰 ~ 菊乃蘭",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "深喉",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "貓耳裝飾",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "中性",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "口爆",
+    "美腳",
+    "地雷系",
+    "青梅竹馬",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "叛逆少女",
+    "COSPLAY服飾",
+    "無毛",
+    "飯店",
+    "肌肉"
+  ],
+  "description": "NIMA-059为FITCH出品,2025年5月30日发行的有碼成人影片由菊乃らん出演\n【Fitch首次聯手T-マン/三崎，火辣登場！】身高腿長、運動全能的高瀨瑞希，表面上是女生眼中的完美王子系女神，但私底下在她霸氣男友面前卻秒變舔狗抖M小騷貓！被逼著舔一週沒洗的硬梆梆傢伙，還得穿上超暴露的色氣服裝，一邊羞恥發言一邊扭腰跳舞……在男友的S系調教下心跳加速、渾身發麻，沉浸在濕熱又甜膩的言語羞辱愛愛中，簡直爽到不行！超人氣同人作品改編，青梅竹馬的抖M秘密大公開，濕熱play讓人臉紅心跳！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075504353353_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075504353353_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5726",
+  "actresses": [
+    {
+      "name": "菊乃らん",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a49b88c-dc69-46b4-814f-d3bb72d3ce53.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5726&name=菊乃らん"
+    }
+  ]
+};

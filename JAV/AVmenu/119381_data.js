@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231003/QLF4wXR1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119381,
+  "IDcode": "FC2-3776092",
+  "title": "初撮り顔",
+  "publish_date": "2023-09-14",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119381",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230126/b937ec42-5b56-4517-a477-d37a218395d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1767,
+  "IDcode": "MKBD-S131",
+  "title": "KIRARI 131 聖誕節來享受高級泡泡浴吧 : 相本美樹",
+  "publish_date": "2016-12-16",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "乳交",
+    "中出",
+    "口交",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230207/b7057179-bb54-4f43-888f-45f561ce037b.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230207/b7057179-bb54-4f43-888f-45f561ce037b.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1767",
+  "actresses": [
+    {
+      "name": "相本みき",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/b8c15299-ed5b-4ebe-b69f-7ba4e1860bc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1767&name=相本みき"
+    }
+  ]
+};

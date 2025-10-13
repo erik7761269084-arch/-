@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221231/No88fM04/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83844,
+  "IDcode": "REBD-417",
+  "title": "Mao えちえちえっちかっぷ 真白真緒",
+  "publish_date": "2019-12-05",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "介绍影片",
+    "偶像",
+    "性感的",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83844",
+  "actresses": [
+    {
+      "name": "三浦瑠衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83844&name=三浦瑠衣"
+    }
+  ]
+};

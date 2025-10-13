@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/14/b7134c0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84793,
+  "IDcode": "HOMA-113",
+  "title": "隣の地味な女子大生は隠れ爆乳の眼鏡腐女子 朝日りん",
+  "publish_date": "2022-01-25",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "眼镜",
+    "戏剧",
+    "巨乳",
+    "女大学生"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/85de6d7eaca683a08b4e3f7fe76b0275.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84793",
+  "actresses": []
+};

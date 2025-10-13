@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/15/8a61a815/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116229,
+  "IDcode": "FC2-4314561",
+  "title": "意大利年轻妻子",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/8a61a815/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116229",
+  "actresses": []
+};

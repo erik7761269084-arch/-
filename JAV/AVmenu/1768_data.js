@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230124/d19dcfe5-9948-4bb5-9123-97013a9cb933/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1768,
+  "IDcode": "LAFBD-78",
+  "title": "林間少女 78 愛肉棒馬上含屌學生妹 : 前田沙羅",
+  "publish_date": "2016-12-02",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "深喉",
+    "中出",
+    "口交",
+    "美腳",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/1a1b70e2-a571-4d0e-95be-f8bee14b3ad3.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/1a1b70e2-a571-4d0e-95be-f8bee14b3ad3.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1768",
+  "actresses": [
+    {
+      "name": "前田沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/f13e0462-ecb9-4cf0-8e0b-a9cb6144f9ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1768&name=前田沙羅"
+    }
+  ]
+};

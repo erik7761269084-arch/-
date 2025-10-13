@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56176,
+  "IDcode": "921F3F37CFA1B8D29245DF6F68A007F9",
+  "title": "我妈妈是精液排出介质和感情满满的M杯",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56176",
+  "actresses": []
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241102/0Lm5TOGX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89452,
+  "IDcode": "SVVRT-040",
+  "title": "お仕事中すみません！美脚で美髪で良い香りがする美容部員さんを休憩中にナンパして路上車内で痴●ごっこでストレス発散！ハメズボSEXで潮吹きまくり！",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "中出",
+    "多P",
+    "潮吹",
+    "口交",
+    "女优按摩棒",
+    "连裤袜",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89452",
+  "actresses": []
+};

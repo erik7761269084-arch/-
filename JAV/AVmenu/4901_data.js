@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e8f0b9b8-1cc5-4a23-a9d7-308d5909dbba/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4901,
+  "IDcode": "YST-336",
+  "title": "剛入坑cos的妹妹被我悄悄吃乾抹淨 ~ 小野寺舞",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "光夜蝶",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "游戲COSPLAY",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "兔女郎妝扮",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "多P",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "美人",
+    "淫蕩・硬核",
+    "亂倫",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾"
+  ],
+  "description": "YST-336为光夜蝶出品,2025年6月28日发行的有碼成人影片由小野寺舞出演\n平時在人前害羞到不行的妹妹舞醬，一穿上cos服就整個high起來了！這次跟哥哥還有個熟識的大叔辦了場私人cos攝影會，結果被他們甜言蜜語騙著擺出各種色氣爆棚的姿勢。氣氛越來越曖昧，舞醬被逼著幫兩個大屌手沖，還被硬塞進嘴裡，甚至小穴都被手指和大屌輪流進攻，喘得不行還被直接無套內射！不過看她那副爽到翻白眼的樣子，應該是完全淪陷了吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095257811811_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250628/20250628095257811811_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4901",
+  "actresses": [
+    {
+      "name": "小野寺舞",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f2a30b51-dd42-495b-a8c9-307339b783e0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4901&name=小野寺舞"
+    }
+  ]
+};

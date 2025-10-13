@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240905/3bXio5eU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92443,
+  "IDcode": "AIT-028",
+  "title": "AIT028美少女暗殺者ヨ●×凌●集団輪●中出しファック×10連続大量ザーメンぶっかけ木下日葵。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/5e9a4024e76cbb44cbc6bb1a286b9623.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92443",
+  "actresses": []
+};

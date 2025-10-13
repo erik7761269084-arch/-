@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250102/qAT8giaY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74510,
+  "IDcode": "HND-682",
+  "title": "すんごい乳首責めで中出しを誘う連続膣搾り痴女お姉さん 秋山祥子",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "淫语",
+    "女上位",
+    "姐姐",
+    "荡妇",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74510",
+  "actresses": [
+    {
+      "name": "秋山祥子",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/826137fa-94ff-4e9f-b0be-e64cee41a56d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74510&name=秋山祥子"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74510&name=鲛岛"
+    }
+  ]
+};

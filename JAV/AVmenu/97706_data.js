@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220418/6BAA9AF30B776292/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97706,
+  "IDcode": "WANZ-637",
+  "title": "オタサーのコスプレ姫が僕たちを裏切ったらどうなるか教えてやる つぼみ",
+  "publish_date": "2017-07-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "轮奸",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97706",
+  "actresses": [
+    {
+      "name": "蕾",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-Madonna/つぼみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97706&name=蕾"
+    }
+  ]
+};

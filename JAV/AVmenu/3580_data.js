@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e79e49f-2ecd-4670-be1e-9cebc8412f85/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/aeb6853f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3580,
+  "IDcode": "FPRE-194",
+  "title": "總裁千金被調教成絕對服從的性處理玩物，爆乳秘書從早到晚被中出尖叫高潮溫泉 ~ 桃園怜奈",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "大小姐",
+    "巨尻",
+    "超爆乳",
+    "調教",
+    "和服・浴衣・喪服",
+    "色白",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "女秘書",
+    "緊縛",
+    "露出",
+    "單體作品",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "欠債肉償",
+    "M男・M女",
+    "美人",
+    "野外露天",
+    "溫泉",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "FPRE-194为FITCH出品,2025年8月14日发行的有碼成人影片由桃園怜奈出演\nFitch专属女优桃园怜奈，在温泉胜地被调教成百依百顺的性奴，沉迷于奉仕快感，彻底变身抖M小骚货！她的家族企业被一个冷酷又手段高超的男人强行收购，怜奈和父母沦为阶下囚。不仅如此，怜奈还被拿过去的黑历史视频威胁，被迫成为这男人的私人秘书兼情妇，丰满爆乳的身材被彻底开发。一开始她当然是抗拒的，但每次被粗暴玩弄奶子、狂虐小穴时，身体却不争气地感受到快感，厌恶渐渐变成享受，理智也一点点崩塌。最终，心和身体都被完全支配，她承认了自己的变态本性，主动渴求男人的大肉棒，简直欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023014573573_56073_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023014573573_56073_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3580",
+  "actresses": [
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3580&name=桃園怜奈"
+    }
+  ]
+};

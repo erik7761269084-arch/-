@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/29/156dd7c3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96250,
+  "IDcode": "IPZ-627",
+  "title": "雙重醜聞 偷拍被把回去幹的天海翼和希美真由後賣給A片商！ 出道6年紀念作！",
+  "publish_date": "2015-10-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "数位马赛克",
+    "滥交",
+    "猎艳",
+    "偷窥",
+    "无码破解",
+    "两男两女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96250",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96250&name=天海翼"
+    },
+    {
+      "name": "希美まゆ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/246877922f68fbbef339d5f7fc3e8907.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96250&name=希美まゆ"
+    }
+  ]
+};

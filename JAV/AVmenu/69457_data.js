@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/09/20b09192/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69457,
+  "IDcode": "BBAN-522",
+  "title": "- 一人旅で狙われた乳房 レズビアンいいなり温泉旅行 水川潤 由良かな 沙月恵奈 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "女同性恋",
+    "女同接吻",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69457",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69457&name=沙月惠奈"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69457&name=由爱可奈"
+    }
+  ]
+};

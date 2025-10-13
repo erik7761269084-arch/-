@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ef8b98a9-2c2f-4dc7-8d95-58f952908660/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 629,
+  "IDcode": "HEYZO-0757",
+  "title": "射了一次又一次 ~ 被連續射入的女孩 ~ 相澤ひなた",
+  "publish_date": "2014-12-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "美少女",
+    "金髮",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0757为HEYZO出品,2014年12月27日发行的無碼成人影片由相澤ひなた出演\n続々生中～スペルマ連続注入でギャルを汚す～ - 相澤ひなた",
+  "cover_url": "https://picture.yoshiclub.xyz/20241016/1bde4a58-facd-4370-9815-3453f9343117.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241016/1bde4a58-facd-4370-9815-3453f9343117.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=629",
+  "actresses": [
+    {
+      "name": "相澤ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/20241016/b6009264-0fc4-4ac3-9c01-4463b591f636.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=629&name=相澤ひなた"
+    }
+  ]
+};

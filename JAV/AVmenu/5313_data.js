@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5c2925ec-0a43-4f5b-b159-e1449b1fa08f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/21/aa4b2c16/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5313,
+  "IDcode": "HMN-700",
+  "title": "新人出道！名門千金大學生脫光後露出驚豔超美臀！穿上T字褲乳頭硬邦邦騎乘位中出首秀 AV DEBUT ~ 渡來楓",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "肛交",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "校花",
+    "臀控",
+    "色白",
+    "蘿莉",
+    "紀念作",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "單體作品",
+    "出道作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "女優",
+    "羞恥"
+  ],
+  "description": "HMN-700为本中出品,2025年6月13日发行的有碼成人影片由渡來楓出演\n【绝世美臀千金小姐AV出道！】表面上看似纯情小白兔，实则内心骚气爆棚！这位现役名门女大学生，拥有令人垂涎的翘臀和诱人硬挺的乳头，直接被扒光光给你看！ 从小练骑马锻炼出的蜜桃臀，弹力十足，Q弹到爆！全程T字裤加持，每个角度都让人血脉喷张，臀控的天堂！ 童年压抑的性欲在和男优的激战中彻底释放，露出小菊花疯狂摇臀，骑乘位玩得超嗨，中出快感直接上天！ 这种羞耻到不敢给爸妈看的骚样，你可千万别错过，快来一饱眼福吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020145145_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020145145_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5313",
+  "actresses": [
+    {
+      "name": "渡來楓",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250614/c40ec49a-b51c-4680-869f-2b9f7413b6b3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5313&name=渡來楓"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5313&name=鲛岛"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5313&name=ナイアガラ翔"
+    }
+  ]
+};

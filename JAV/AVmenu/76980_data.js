@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/9f8136db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76980,
+  "IDcode": "RCTD-633",
+  "title": "羞恥洗脳！ハイグレ人間にされちゃった11 女子校編",
+  "publish_date": "2025-01-09",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "高中女生",
+    "女同性恋",
+    "羞耻",
+    "企画",
+    "恋物癖",
+    "紧身衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76980",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76980&name=乙愛麗絲"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76980&name=有栖舞衣"
+    },
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76980&name=桜木美音"
+    },
+    {
+      "name": "星仲ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240526/be1539b1-7f95-426d-a3be-079923a039f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76980&name=星仲ここみ"
+    }
+  ]
+};

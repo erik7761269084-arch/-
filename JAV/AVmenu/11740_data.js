@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8bc98e9b-f9fa-4090-946d-a3965009d7ff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11740,
+  "IDcode": "START-186",
+  "title": "勾引正在度蜜月的新婚夫婦中的丈夫! 淫蕩美麗的酒店前臺在酒店內的口淫寢取NTR ~ 渚戀生",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "舔腳",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "服務生",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "足交",
+    "出軌",
+    "NTR",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240924/a00cc54c-7448-44d0-93ba-153f0aa803e5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240924/a00cc54c-7448-44d0-93ba-153f0aa803e5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11740",
+  "actresses": [
+    {
+      "name": "渚恋生",
+      "img_url": "https://picture.yoshiclub.xyz/20241206/2c60ff64-6968-43a6-b4b9-5ec6b4cabc09.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11740&name=渚恋生"
+    }
+  ]
+};

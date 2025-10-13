@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250130/BTnB9Fnr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73389,
+  "IDcode": "XVSR-569",
+  "title": "官能小説 息子の嫁 ～巨乳ギャル妻の淫靡な秘蜜～ 浜崎真緒",
+  "publish_date": "2021-01-01",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "潮吹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/ca9055d9a58a2c6b2682dde1baf77879.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73389",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73389&name=大岛丈"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73389&name=浜崎真绪"
+    }
+  ]
+};

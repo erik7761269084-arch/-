@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/26/5c95ae4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67662,
+  "IDcode": "NHDTC-041",
+  "title": "パンスト穴あけ指入れ羞恥でねっとり膣内をほじられ本気汁が滴るほど感じまくる美脚女3 白石ももさんの紙パンティとチェキ付き",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "高",
+    "连裤袜",
+    "恋腿癖",
+    "OL",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/26/1d4a28773971cabac999e846fdbe0c5e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67662",
+  "actresses": []
+};

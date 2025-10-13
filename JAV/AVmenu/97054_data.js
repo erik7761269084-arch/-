@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240702/AdPa6HRm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97054,
+  "IDcode": "VENU-608",
+  "title": "キスからはじまる母と息子の愛情、密着、濃厚セックス 新山沙弥",
+  "publish_date": "2016-05-19",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/venu608/venu608pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97054",
+  "actresses": [
+    {
+      "name": "新山沙弥",
+      "img_url": "https://picture.yoshiclub.xyz/20230207/6f0e2227-2c57-4fe8-b98a-e31f4fe5cf24.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97054&name=新山沙弥"
+    }
+  ]
+};

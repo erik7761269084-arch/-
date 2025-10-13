@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/O0S9TIIV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80592,
+  "IDcode": "MOGI-008",
+  "title": "20年間北国育ち─ 無垢な天然もち肌ガールがAVアイドルを夢見て、ひとり東京にやってきた。AV初出演! 春日えな(仮)20歳",
+  "publish_date": "2021-12-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "第一人称摄影",
+    "首次亮相",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/25e90939d23604ca7d9e20d085e96985.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80592",
+  "actresses": []
+};

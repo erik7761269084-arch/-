@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/664b2728-8319-4775-a431-1a2e74e2e4ec/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/17/158af6a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12105,
+  "IDcode": "MOND-278",
+  "title": "附近風俗按摩店的綺麗人妻 ~ 鈴木真夕",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "兩男一女",
+    "美腳",
+    "按摩・美容店",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "眼鏡"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240909/383cad29-e4c7-4746-b676-aae0db079adf.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240909/383cad29-e4c7-4746-b676-aae0db079adf.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12105",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12105&name=鈴木真夕"
+    }
+  ]
+};

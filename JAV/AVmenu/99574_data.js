@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230211/3C607E4089EE5EC4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99574,
+  "IDcode": "EBOD-420",
+  "title": "初撮り 天然100cm超アイドル！ 宇佐木もも",
+  "publish_date": "2014-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "首次亮相",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod420/ebod420pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99574",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99574&name=大岛丈"
+    },
+    {
+      "name": "宇佐木もも",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99574&name=宇佐木もも"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250429/MF26bmPE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67123,
+  "IDcode": "DVDMS-999",
+  "title": "寝ている息子のムスコをこっそり頂戴する母 永田莉雨",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/aafa96962d9ee32d796d037349b06e13.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67123",
+  "actresses": []
+};

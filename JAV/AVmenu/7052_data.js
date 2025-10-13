@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/030be117-3ff3-402f-b022-c19f6e05635f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/04/15/4a22ffee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7052,
+  "IDcode": "ROE-344",
+  "title": "曾經大吵一架後離婚的元夫妻。20年後和好如初的我們，像新婚時那樣幹到精疲力盡 ~ 岡江凜",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "老太婆",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "重口味",
+    "口交",
+    "胖女人",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "慾求不滿",
+    "人妻",
+    "巨乳",
+    "熟女",
+    "溫泉",
+    "豐滿"
+  ],
+  "description": "ROE-344为MADONNA出品,2025年4月8日发行的有碼成人影片由岡江凛出演\n離婚20年後，這對前夫後妻在他們愛子畢業典禮上第一次重逢，但他們仍然相處不融洽……儘管這是一個快樂的時刻，但他們卻在兒子麵前大吵了一架。儘管她發誓再也不會見到他，但她的兒子突然從畢業旅行回來告訴她，他結婚了。就在她以為兒子通過了律師資格考試，前途無量時，他突然說他想去未婚夫的旅館幫忙。為了不惜一切代價阻止兒子結婚，這對原本關係並不融洽的夫妻暫時聯手…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250404/20250404055248189189.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250404/20250404055248189189.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7052",
+  "actresses": [
+    {
+      "name": "岡江凛",
+      "img_url": "https://picture.yoshiclub.xyz/20240908/e992e81a-2ffe-4c4d-8655-ce8654c92445.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7052&name=岡江凛"
+    }
+  ]
+};

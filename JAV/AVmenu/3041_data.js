@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7972ec87-78a6-464b-aa17-7c1008aabf87/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3041,
+  "IDcode": "MGOLD-046",
+  "title": "蒙眼 撕衣 束縛 調教 淫水橫流求插入 M覺醒高潮連續4本番 ~ 澪奈明日見",
+  "publish_date": "2025-09-03",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "臀控",
+    "流汗",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "御姐系",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "辣妹/GAL系",
+    "極品美人",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MGOLD-046为FALENO出品,2025年9月3日发行的有碼成人影片由澪奈明日見出演\n【電棒女王專屬第二彈！】想看澪奈明日見被玩到高潮的騷樣？那可不能錯過這場揭露她抖M本性的S調教4場SEX！故意吊人胃口的挑逗玩法，敏感度爆表的蒙眼加束縛，羞恥到濕透的撕衣玩法，還有停不下來的電棒折磨，讓她小穴緊縮不停，顫抖著高潮不斷！身心都濕得一塌糊塗，色氣值直接翻倍，帶你走進變態抖M妹子的極致高潮世界，一起來爽爆啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203745249249_74314_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203745249249_74314_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3041",
+  "actresses": [
+    {
+      "name": "澪奈明日見",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250803/99dd92d1-0b4a-4bc2-b797-36ec5b949629_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3041&name=澪奈明日見"
+    }
+  ]
+};

@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220412/F88536E0C316FF15/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97640,
+  "IDcode": "DOCP-124",
+  "title": "向かいの部屋の美少女コスプレイヤーをこっそり覗いていると視線に気づかずSNS映えするエロ撮影をし始め！？",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97640",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97640&name=蘭々"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97640&name=三原穗香"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97640&name=七海ゆあ"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97640&name=今井まい"
+    }
+  ]
+};

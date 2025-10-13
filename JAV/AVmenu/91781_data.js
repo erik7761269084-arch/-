@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/02/03/1bdb875b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91781,
+  "IDcode": "JUQ-512",
+  "title": "卒業式の後に…大人になった君へ義母からの贈り物―。 赤井美希",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "胖女人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91781",
+  "actresses": []
+};

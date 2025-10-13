@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/f10a4d7d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2321,
+  "IDcode": "ADN-688",
+  "title": "老公，對不起…濕身重逢7 ~ 藤原真帆",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "三十路",
+    "苗條",
+    "上門推銷",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "地味",
+    "出軌",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "ADN-688为ATTACKERS出品,2025年10月2日发行的有碼成人影片由藤原真帆出演\n一次偶然的重逢，上门回收贵金属的男人竟然是优香婚前公司的上司太田！当年太田对她照顾有加，如今却突然表白说一直喜欢她。优香明知这可能是对方排解寂寞的借口，却无法拒绝，渐渐陷入禁忌的深渊…这场湿身的邂逅，简直让人心跳加速，欲罢不能！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002041715659659_53818_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002041715659659_53818_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2321",
+  "actresses": [
+    {
+      "name": "藤原真帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240807/90199c77-b61a-4f79-a2f5-ceda6f0bfff3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2321&name=藤原真帆"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2321&name=大岛丈"
+    }
+  ]
+};

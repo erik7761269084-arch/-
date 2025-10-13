@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230316/D181F7B63FB37760/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55638,
+  "IDcode": "N0487",
+  "title": "n0487 上玉Eカップ瞬カン病殺肉便器",
+  "publish_date": "2009-11-24",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "深喉",
+    "3P",
+    "乳交",
+    "口交",
+    "颜射",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55638",
+  "actresses": []
+};

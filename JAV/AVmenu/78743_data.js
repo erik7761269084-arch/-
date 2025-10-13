@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/t4vk1392/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78743,
+  "IDcode": "328HMDNC-493",
+  "title": "【筋肉国际NTR】希望被寝取的肉感巴西混血妻子。",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/ea1dd88e0d5994e1d3cc2a87dc424f5c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78743",
+  "actresses": []
+};

@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/99267ddf-8b73-4fac-85cc-0daf018cd1ba/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/25/510b78ff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9869,
+  "IDcode": "MVSD-618",
+  "title": "超級可愛的女孩驚人的口交和顏射 ~ 根尾朱裏",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "吞精",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "接吻",
+    "口爆",
+    "多P",
+    "美少女",
+    "癡女",
+    "按摩棒",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MVSD-618为MVG GROUP出品,2024年12月17日发行的有碼成人影片由根尾朱里出演\n在 Akari 的臉上撒很多！最強的臉×最強的口交×最強的臉部射精！ 「阿卡里·尼奧」恭喜！第一次大顏射！她把一個大雞巴含在嘴裡，給它一個粗俗的真空口交！舌頭的使用蠻橫，臉部巨量射精讓人無法抗拒！美少女臉色陰沉！連續吸吮雞巴並臉部射精！用口交仔細清理剩餘的汁液！無論如何，我一直在吸它！ 11支濃稠豐富的精液經過儲存和老化！精子數量驚人！安全的精液濃度！這是 MVG，所以都是真正的精液！口交狂熱！臉部射液狂熱！一個令人信服的角度！頑皮的口交聲音也包括在內！以「口交」和「顏射」為中心的終極AV！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211071013850850.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211071013850850.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9869",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9869&name=根尾朱里"
+    }
+  ]
+};

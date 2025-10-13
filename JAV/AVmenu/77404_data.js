@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/TVGeDDNw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77404,
+  "IDcode": "MIAA-195",
+  "title": "隣人妻×逆NTR 彼女の不在中に隣の淫乱巨乳妻に何度も何度も犯され痴女られてしまった僕… 永井マリア",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241127-1/90fea723730ee14cf484a0277cab14d2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77404",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77404&name=永井瑪麗亞"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77404&name=イセドン内村"
+    }
+  ]
+};

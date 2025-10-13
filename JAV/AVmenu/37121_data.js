@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220725/4CD748061CA5E1C6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37121,
+  "IDcode": "E639E4A8E3D0957925B31FA3896BB-871",
+  "title": "ボクの乳首を執拗に責めてくる痴女姉さん Vol.3 - 速美もな",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37121",
+  "actresses": []
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d46c244c-2424-460a-b93d-77809c052016/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16230,
+  "IDcode": "FPRE-020",
+  "title": "揉搓時最好的柔軟蓬鬆的大乳房還在生長！黑長發的女孩想要冒險進入這個行業，豐滿巨乳女大學生七瀨蘭，20 歲，AV 出道！",
+  "publish_date": "2024-02-20",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "口爆",
+    "美少女",
+    "出道作品",
+    "情趣內衣",
+    "巨乳",
+    "女學生"
+  ],
+  "description": "FPRE-020为FITCH出品,2024年2月20日发行的有碼成人影片由七瀬蘭出演\n有着黑色長發的幹淨大氣、友善可愛的笑容、以及正在發育中的不平衡H罩杯乳房的七瀨蘭（20歲）AV出道！從小在嚴格家庭長大的女大學生蘭，終於可以開始獨立生活了，欣喜若狂！她說她渴望嘗試一些她以前從未了解過的東西，所以她跳進了她最感興趣的成人調皮的世界。看看新鮮的性愛與敏感的胸部彈跳！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218065730429429.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240218/20240218065730429429.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16230",
+  "actresses": [
+    {
+      "name": "七瀬蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/4adee8ce-6367-4791-b03c-4ec0347c6b08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16230&name=七瀬蘭"
+    }
+  ]
+};

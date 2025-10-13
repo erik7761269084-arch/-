@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/06/2f7b0563/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85611,
+  "IDcode": "MVSD-505",
+  "title": "ナースコールを押せば速攻チ○ポをしゃぶりに来てくれる即尺フェラナース！ 彼女はボクのオチ○ポ好き好き舐めたい病！しかもかなりの重症 根尾あかり",
+  "publish_date": "2022-04-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "护士",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85611",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85611&name=根尾朱里"
+    }
+  ]
+};

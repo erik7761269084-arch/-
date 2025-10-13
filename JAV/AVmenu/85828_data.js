@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/eaUMq4zc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85828,
+  "IDcode": "ONSG-050",
+  "title": "【FANZA限定】巨乳デリヘル 逢見リカ パンティとチェキ付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "Gain Corporation",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85828",
+  "actresses": []
+};

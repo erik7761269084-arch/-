@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/25/d4d89919/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104465,
+  "IDcode": "SDDE-692",
+  "title": "【ギャル化アプリで催●洗脳卍】カバン持ちのオレを見下すお嬢様育ちの娘たちをチ○ポ中毒化！淫らなビッチギャルに成り果てたこの家の女たちは、俺のち○ぽでちゃーんと再教育してやるよ…",
+  "publish_date": "2023-04-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "荡妇",
+    "女生",
+    "白天出轨",
+    "科幻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/25/eb1db90a4220b2f5a49200c84204ce9e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104465",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104465&name=蘭々"
+    },
+    {
+      "name": "岩沢香代",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250626/686dcb21-2726-4747-859a-5efb3f4de284_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104465&name=岩沢香代"
+    },
+    {
+      "name": "もなみ铃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104465&name=もなみ铃"
+    }
+  ]
+};

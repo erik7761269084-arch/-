@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230917/aivC7eeF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78510,
+  "IDcode": "JUFE-112",
+  "title": "新婚の僕が出張先で女上司とまさかの相部屋 朝から晩まで性奴隷にされた逆NTR 望月あられ",
+  "publish_date": "2019-11-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "巨大屁股",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78510",
+  "actresses": [
+    {
+      "name": "望月憧",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/bd6d7f1c-9289-48c0-a295-b93ceabfadbb_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78510&name=望月憧"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78510&name=Qべぇ"
+    }
+  ]
+};

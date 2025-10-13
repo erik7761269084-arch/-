@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231209/ELO3ex5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88843,
+  "IDcode": "TMRD-1186",
+  "title": "熟妻卑猥ドラマ 清楚妻は電気工事の絶倫男に押し倒されて… 夫の上司に恥部を弄ばれた五十路妻",
+  "publish_date": "2023-09-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "口交",
+    "舔阴"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/57b816b9ddcd78ce2a6bafb1d6b19a17.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88843",
+  "actresses": [
+    {
+      "name": "秋元美織",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88843&name=秋元美織"
+    },
+    {
+      "name": "五十嵐ふゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88843&name=五十嵐ふゆ"
+    }
+  ]
+};

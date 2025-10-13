@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241011/RWzAhBNF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93381,
+  "IDcode": "NEXT-002",
+  "title": "金曜 午後9時 補導前02 チビギャル□リからの秘密の相談 強気なのにキスすると恥ずかしがるくせにち●ぽにメロメロで腰振りまくって中出しもシちゃった話。",
+  "publish_date": "2024-05-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "高中女生",
+    "中出",
+    "口交",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/a247f6743108856607b7d6c9aae75f35.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93381",
+  "actresses": []
+};

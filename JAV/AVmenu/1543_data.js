@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230403/899dce56-193f-4f3c-9561-a6dc29d5213b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1543,
+  "IDcode": "MXGS-895",
+  "title": "泳裝俱樂部 石上里美",
+  "publish_date": "2016-08-16",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "無碼流出",
+    "自慰",
+    "抹油",
+    "學校",
+    "無毛",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/136a202b-16d0-4b9b-8e07-036aff5d7725.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/136a202b-16d0-4b9b-8e07-036aff5d7725.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1543",
+  "actresses": [
+    {
+      "name": "石神里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/b39edc84-2b28-48d5-894f-1cbbb2c48860.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1543&name=石神里美"
+    }
+  ]
+};

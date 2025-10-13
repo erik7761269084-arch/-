@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/cJ68rkbG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93702,
+  "IDcode": "PFAS-014",
+  "title": "令和エレジー 妻がカラダを売る理由",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "巨大屁股",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93702",
+  "actresses": [
+    {
+      "name": "安部藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240605/76a0239b-c4b2-4dde-be11-5cad26240b38.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93702&name=安部藍"
+    }
+  ]
+};

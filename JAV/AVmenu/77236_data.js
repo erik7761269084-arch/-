@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/7c8YoSKX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77236,
+  "IDcode": "RBD-230",
+  "title": "奴隷色のステージ12 吉川ゆあ 風花",
+  "publish_date": "2010-12-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "凌辱",
+    "女上位",
+    "拘束",
+    "奴隶"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/8f9f24645c507ddd19f21fec9c41e5f4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77236",
+  "actresses": [
+    {
+      "name": "风花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77236&name=风花"
+    },
+    {
+      "name": "吉川ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77236&name=吉川ゆあ"
+    }
+  ]
+};

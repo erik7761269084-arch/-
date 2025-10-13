@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/18/be07d3c0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100895,
+  "IDcode": "NACR-719",
+  "title": "発情した婚約中の姪っ子に誘惑された叔父とその息子 神崎くろえ 生写真とパンティ付き",
+  "publish_date": "2023-10-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "自慰",
+    "高",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/18/12bb937bd0f551fb2532e07084d27045.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100895",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100895&name=岩下たろう"
+    },
+    {
+      "name": "神崎くろえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100895&name=神崎くろえ"
+    }
+  ]
+};

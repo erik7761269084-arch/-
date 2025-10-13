@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/05/0955a94a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71323,
+  "IDcode": "PPPD-713",
+  "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 宝生リリー",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "妹妹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/03/05/12c53304f28257d3a375d6e166ffa3ce.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71323",
+  "actresses": [
+    {
+      "name": "寶生莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720024204133133_78676_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71323&name=寶生莉莉"
+    }
+  ]
+};

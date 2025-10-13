@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241218/LjvBnsZm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75509,
+  "IDcode": "BNJC-009",
+  "title": "異常快感地獄 脳内麻薬出まくり意識吹っ飛ぶ快感近親相姦 乳首キメセクVOL.4",
+  "publish_date": "2020-01-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "乱伦",
+    "母亲",
+    "平胸",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75509",
+  "actresses": []
+};

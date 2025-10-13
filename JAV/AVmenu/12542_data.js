@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9bc388b1-3598-488f-add3-25720b050145/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12542,
+  "IDcode": "SDMM-179",
+  "title": "魔鏡【史上最弱？ ！ 】 高學歷JD返校接受挑戰！臉紅的棒球拳對決，包括5名皮膚白皙的天真女大學生！",
+  "publish_date": "2024-09-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "性感",
+    "少女",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "公共場所",
+    "真實拍攝",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240820/183d1274-83b1-4315-9f7e-cb0f9679c399.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240820/183d1274-83b1-4315-9f7e-cb0f9679c399.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12542",
+  "actresses": []
+};

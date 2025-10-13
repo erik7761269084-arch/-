@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/18a11e61-d491-4264-aa37-9bd47936b194/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 768,
+  "IDcode": "HEYZO-0942",
+  "title": "一次又一次的高潮！ ～ - 藤原沙耶",
+  "publish_date": "2015-09-21",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "企畫",
+    "69",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "肉絲",
+    "打手槍",
+    "短髮",
+    "女優"
+  ],
+  "description": "HEYZO-0942为HEYZO出品,2015年9月21日发行的無碼成人影片由藤原沙耶出演\n続々生中～クールビューティーにズコズコ！～ - 藤原沙耶",
+  "cover_url": "https://picture.yoshiclub.xyz/20240717/6ef82419-7332-4b27-910c-416090418983.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240717/6ef82419-7332-4b27-910c-416090418983.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=768",
+  "actresses": [
+    {
+      "name": "藤原沙耶",
+      "img_url": "https://picture.yoshiclub.xyz/20240717/b791a8a1-c168-4564-82c3-c2c82880c501.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=768&name=藤原沙耶"
+    }
+  ]
+};

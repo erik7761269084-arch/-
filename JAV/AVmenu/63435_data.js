@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/04/dd7847f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63435,
+  "IDcode": "FGAN-150",
+  "title": "アニコス美少女 挑発パンチラ＆オナニーサポート",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "荡妇",
+    "角色扮演者",
+    "内衣",
+    "迷你裙"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/dd7847f1/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63435",
+  "actresses": [
+    {
+      "name": "湊波流",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/017b6a1e-ab09-43a4-b7fa-a1d622205fd8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63435&name=湊波流"
+    },
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63435&name=音羽美鈴"
+    }
+  ]
+};

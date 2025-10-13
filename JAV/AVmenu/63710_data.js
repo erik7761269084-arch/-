@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/24/f2bcad42/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63710,
+  "IDcode": "JSOP-051",
+  "title": "新・麗しの熟女湯屋 濃厚ねっとり高級ソープ 豊永映美",
+  "publish_date": "2025-06-24",
+  "type": "有码",
+  "company": "G.M.E",
+  "genres": [
+    "成熟的女人",
+    "乳液",
+    "和服，丧服",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63710",
+  "actresses": []
+};

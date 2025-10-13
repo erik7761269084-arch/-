@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221219/TJKMESYH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83103,
+  "IDcode": "NHDTB-377",
+  "title": "恐怖で振り向けない背後から指が徐々にマ○コに近づく尻ワレメ痴●で興奮し腰を前後に振りだす発情女5",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83103",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83103&name=イセドン内村"
+    }
+  ]
+};

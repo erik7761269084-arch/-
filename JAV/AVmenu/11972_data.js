@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ecd0d9dd-790c-449e-8911-6ad8b2abb058/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11972,
+  "IDcode": "MUDR-270",
+  "title": "發情的春天 - 兩個J系女孩混亂的校園生活 ~ 円井萌華 彌生美月",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "癡女",
+    "校園生活",
+    "雙飛",
+    "兩女一男",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MUDR-270为無垢出品,2024年9月17日发行的有碼成人影片由彌生美月，円井萌華出演\n在漫畫網站上很受歡迎！ 《倉部春》系列首部真人版AV改編作品！主角弘樹暗戀著一個從一年級就暗戀的女孩……學校後背的弘樹無法表白自己的感情，只盼著過去在他的學校生活中，她出現在走廊裡。我最喜歡長峰霞。弘樹以為結局會連一句話都沒有機會結束，但幸虧宮田綾和大家都善於交際，他才得以與單相思的霞展開對話……但不久之後，他卻發現，我發現霞已經有男友了……青春期男孩和女孩之間的三角戀，正處於混亂之中！流行青春故事的真人AV版！演員: 宮田綾/彌生水樹/永嶺霞/丸井萌花 c High Erotic/DEEPER-ZERO",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912111332478478.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912111332478478.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11972",
+  "actresses": [
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11972&name=彌生美月"
+    },
+    {
+      "name": "円井萌華",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/b182b7df-1886-4640-8d17-9aa21bd27e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11972&name=円井萌華"
+    }
+  ]
+};

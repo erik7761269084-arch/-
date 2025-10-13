@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/28/31f92f1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84439,
+  "IDcode": "EYAN-183",
+  "title": "【FANZA限定】Wセックスレス人妻が旦那スワップ スーパーヘビー級の爆乳爆尻挟み撃ちでザーメン絞り合いド痴女ハーレム3P 永井マリア 若月みいな 生写真3枚付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84439",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84439&name=永井瑪麗亞"
+    },
+    {
+      "name": "若槻みづな",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250705/1c1df6fa-1493-4c3c-87da-91043832c072_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84439&name=若槻みづな"
+    }
+  ]
+};

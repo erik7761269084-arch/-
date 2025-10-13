@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220426/57024189FA3EE457/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97757,
+  "IDcode": "AP-334",
+  "title": "母娘同時中出し痴漢",
+  "publish_date": "2016-08-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "强奸",
+    "性骚扰",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97757",
+  "actresses": [
+    {
+      "name": "篠惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/97827d0d-951d-46e4-8738-9f2dd1f342e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=篠惠美"
+    },
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=川越ゆい"
+    },
+    {
+      "name": "卯水咲流",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250518/f4067a91-2dd3-4756-8221-f453b628e5a1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=卯水咲流"
+    },
+    {
+      "name": "西条沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20240710/96e4c274-8c26-4d9d-81ff-178cc49bf5b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=西条沙羅"
+    },
+    {
+      "name": "篠宫ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=篠宫ゆり"
+    },
+    {
+      "name": "迦纳绫子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97757&name=迦纳绫子"
+    }
+  ]
+};

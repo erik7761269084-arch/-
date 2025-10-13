@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221028/LfIYhNbA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81503,
+  "IDcode": "BOKD-177",
+  "title": "街角ニューハーフナンパ！ ナンパした子がまさかのニューハーフ！？けど可愛いからそのままハメちゃいました。5人240分",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "肛交",
+    "变性者",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/bf74978f1d4ea4c124e08e1a27c060a9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81503",
+  "actresses": [
+    {
+      "name": "橘芹那",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-DMM(骑)/AI-Fix-橘芹那.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81503&name=橘芹那"
+    },
+    {
+      "name": "増田ゆめ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81503&name=増田ゆめ"
+    },
+    {
+      "name": "星越かなめ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81503&name=星越かなめ"
+    }
+  ]
+};

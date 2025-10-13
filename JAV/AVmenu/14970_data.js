@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d7c16edb-3b37-4bba-9144-ad9c22753abb/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/04/079c790e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14970,
+  "IDcode": "BF-710",
+  "title": "喜歡舔和吮吸的護士白石桃充滿唾液的服務",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "BeFree",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "按摩・物理治療・美容",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "白絲",
+    "性感",
+    "少女",
+    "接吻",
+    "口爆",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "護士",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "BF-710为BeFree出品,2024年5月7日发行的有碼成人影片由白石桃出演\n【近距離口交、口射體溫檢查、變態護士口水、強行精液剝削】高燒時照顧我的上門護士是穿著可愛白大褂的淫蕩色情天使。她是個變態護士，還給胯下的熱氣降溫。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506031257673673.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/20240506031257673673.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14970",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14970&name=白石桃"
+    }
+  ]
+};

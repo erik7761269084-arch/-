@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230402/d44ceebc-4ff9-40ff-8616-240dfae11a8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1688,
+  "IDcode": "STARS-182",
+  "title": "青空光 絶頂開發 纖細手足一面顫抖一面激情高潮！第一次的巨根大絶頂性愛",
+  "publish_date": "2020-01-09",
+  "type": "无码",
+  "company": "SOD",
+  "genres": [
+    "素人作品",
+    "無碼流出",
+    "大雞巴",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/17c7e814-4978-4b44-9af7-3d73e3db23bb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/17c7e814-4978-4b44-9af7-3d73e3db23bb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1688",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1688&name=青空光"
+    }
+  ]
+};

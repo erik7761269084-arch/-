@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220707/1440808F21E6486F/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64488,
+  "IDcode": "F4B9702097CC61E40B25CCBBE71B0E-83",
+  "title": "- 出差住同房NTR 被上司内射一晚上的美人女社员 梓光莉 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64488",
+  "actresses": []
+};

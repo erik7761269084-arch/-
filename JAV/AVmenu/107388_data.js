@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/24/1ffa3596/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107388,
+  "IDcode": "IPZZ-097",
+  "title": "新人 FIRST IMPRESSION 160-新星- 豹変の超ド級美少女 AV デビュー 南條彩 （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-07-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "口交",
+    "首次亮相",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107388",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107388&name=南條彩"
+    }
+  ]
+};

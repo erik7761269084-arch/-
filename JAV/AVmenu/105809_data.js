@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/23/ea629b91/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105809,
+  "IDcode": "ADN-542",
+  "title": "やっと幸せを手にしたあの子が汚濁した精液に支配された話。 漂流少女EPISODE:03 工藤ゆら",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/23/69d1a462f99b0d4ee63b913480571004.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105809",
+  "actresses": [
+    {
+      "name": "工藤由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/55c36f05-5e3a-4559-b26f-3cf634b2a753.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105809&name=工藤由羅"
+    }
+  ]
+};

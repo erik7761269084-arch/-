@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/30/3ae6b759/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71783,
+  "IDcode": "HND-635",
+  "title": "すんごい乳首責めで中出しを誘う連続膣搾り痴女お姉さん 水野朝陽",
+  "publish_date": "2019-02-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "荡妇",
+    "M男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/7816db314c64daa3c772b3cdf47b56c4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71783",
+  "actresses": [
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71783&name=水野朝陽"
+    }
+  ]
+};

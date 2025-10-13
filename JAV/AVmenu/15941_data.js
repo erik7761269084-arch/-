@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c875a30c-3289-4e6d-80b6-9c701b90ea10/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/23/568d596b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15941,
+  "IDcode": "SONE-126",
+  "title": "「猜出我的內褲顏色，我就讓你幹哦！」100%可操的超迷你裙女孩",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "中出",
+    "亂交 • 群P",
+    "JK校服",
+    "口交",
+    "兩男一女",
+    "美少女",
+    "更衣室",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "图书馆",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SONE-126为S1出品,2024年3月26日发行的有碼成人影片由宮城理惠出演\n【裙子越短越可愛，褲子佈料面積越小越可愛！ 】 所以，以自己的理論走自己的路的女學生宮城理惠，並不在乎違反校規。她穿著超級超短裙丁字褲上學，調皮邊緣，追求可愛的韓流自愧不如！最近，周圍的男生開始對我投以好感，但我想我還是太可愛了。莫提基來襲！ ？不管我怎麼想，男孩們都非常興奮，舔著他們的雞巴！她無法忍受我並要求發生性關係，但到底會發生什麼事？",
+  "cover_url": "https://picture.yoshiclub.xyz/20240322/202403220854262424.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240322/202403220854262424.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15941",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15941&name=宮城理惠"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15941&name=Qべぇ"
+    }
+  ]
+};

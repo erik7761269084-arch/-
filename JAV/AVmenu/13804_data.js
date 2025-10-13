@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2a5c7c64-661d-43b1-84aa-0c49c4d9200c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/26/6b7389ba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13804,
+  "IDcode": "JUQ-827",
+  "title": "寢取在你面前 輪流操操你心愛的妻子到高潮 ~ 二宮光",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "在丈夫面前被操",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "熟女",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-827为MADONNA出品,2024年6月25日发行的有碼成人影片由二宮光出演\n我很長一段時間都無法告訴妻子。他想看到他深愛的妻子光被陌生男人醜陋的雞巴插入…他們無法以這種扭曲的傾向繼續他們的婚姻生活。於是我向她吐露心聲。光對我險些告白感到困惑，但她為了我而接受了…妻子被男人包圍，喉嚨和陰道被強暴，那場面可以用「串燒」來形容，我感受到了一生中最大的興奮。而她也漸漸感受到了快樂…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621003314761761.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621003314761761.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13804",
+  "actresses": [
+    {
+      "name": "二宮光",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/a14b6165-c976-4ac8-be63-24bd2cc160a3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13804&name=二宮光"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13804&name=大岛丈"
+    },
+    {
+      "name": "二宫ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13804&name=二宫ひかり"
+    }
+  ]
+};

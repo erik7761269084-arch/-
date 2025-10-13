@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c890e573-54a2-4d8e-8357-ad115ed5a452/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241023/SxYAADPV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14149,
+  "IDcode": "SONE-139",
+  "title": "被一大羣男人包圍，她被一個接一個插進去，慘叫一聲！我人生中第一次大狂歡性愛！村上悠華",
+  "publish_date": "2024-06-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SONE-139为S1出品,2024年6月11日发行的有碼成人影片由村上悠華出演\n這一天，AV界流傳著一句名言：“我的視野充滿了雞巴，甚至在我的夢中都可能出現。”出道以來一直想做的大亂交！無論你有多滿足，滲透都會持續，你會在另一個維度的性愛中達到高潮！村上由香非常喜歡雞巴，以至於她噴得爆炸！事實上，環境似乎太棒了，你想同時插入所有的雞雞。她對性的熱愛是首屈一指的，所以她沉浸在快樂中的景象簡直令人驚嘆！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607010545763763.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240607/20240607010545763763.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14149",
+  "actresses": [
+    {
+      "name": "村上悠華",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/4a139c3b-1bbb-44c1-ad60-72a46e09e0aa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14149&name=村上悠華"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14149&name=タイ"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14149&name=ナイアガラ翔"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14149&name=Qべぇ"
+    }
+  ]
+};

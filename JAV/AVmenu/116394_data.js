@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/12/9c766208/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116394,
+  "IDcode": "FC2-4737353",
+  "title": "被丈夫卖掉还债",
+  "publish_date": "2025-08-13",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/12/c76805f85c4050671ba31bcf79d40292.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116394",
+  "actresses": []
+};

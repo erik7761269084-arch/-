@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/a6bdfjBy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76679,
+  "IDcode": "SY-189",
+  "title": "ちくぴんく…女の子ってやっぱりいいな OL 霧島レオナ 22歳148センチ… （素人四畳半生中出し）",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "放尿",
+    "玩具",
+    "屁股",
+    "业余",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/d564201a6c66d5b712550cae1a46f541.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76679",
+  "actresses": [
+    {
+      "name": "雾岛里绪菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76679&name=雾岛里绪菜"
+    }
+  ]
+};

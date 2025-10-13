@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231031/9WA2SO69/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103479,
+  "IDcode": "SIRO-5144",
+  "title": "- 【あっ…気持ちいッッ…】スレンダー美女が大好きなセックスに溺れる！巨根を膣奥に打ちつけると腰をくねらせイキまくる！！【初撮り】ネットでAV応募→AV体験撮影  2037 - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "屁股",
+    "苗条",
+    "业余",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103479",
+  "actresses": [
+    {
+      "name": "まみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103479&name=まみ"
+    }
+  ]
+};

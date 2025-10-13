@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220602/B023D38A7D38C782/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104189,
+  "IDcode": "CON-005",
+  "title": "増刊DVD 蒼井そら",
+  "publish_date": "2006-06-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "介绍影片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104189",
+  "actresses": [
+    {
+      "name": "苍井空",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/f5005cff0e73d2cfe7e633140ef5f54e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104189&name=苍井空"
+    }
+  ]
+};

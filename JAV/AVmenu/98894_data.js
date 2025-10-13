@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/4DC7B896AF906B3D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98894,
+  "IDcode": "SNIS-526",
+  "title": "美乳彈出來 椿愛乃",
+  "publish_date": "2015-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "乳房",
+    "恋乳癖",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98894",
+  "actresses": [
+    {
+      "name": "藤井蕾菈",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/216ce817-01c6-43e5-8766-9664bccbf60b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98894&name=藤井蕾菈"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98894&name=玉木玲"
+    }
+  ]
+};

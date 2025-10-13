@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240123/bwhEJPvZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90644,
+  "IDcode": "NOSKN-053",
+  "title": "ガチ中出し5P大輪●！149cmちびカワ素人女子20歳が初めてのハプバー輪●で中出しまみれ 素人コスプレイヤーななみ（20） 横宮七海",
+  "publish_date": "2023-10-06",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "滥交",
+    "美少女电影",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240123-1/d839a7817ea6d90fcbb6b42410592866.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90644",
+  "actresses": []
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/725dc875-346b-477d-b6cd-bde63524b035/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6041,
+  "IDcode": "VENX-320",
+  "title": "日夜纏綿心愛的阿姨，沉溺愛液與中出的極致高潮 ~ 東ふうか",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "旅行",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "美人",
+    "熟女",
+    "阿姨・侄子",
+    "豐滿"
+  ],
+  "description": "VENX-320为VENUS出品,2025年5月16日发行的有碼成人影片由東ふうか出演\n姐姐優香打電話來說要跟老公去旅行，拜託颯花幫忙照顧兒子達也。好久不見的颯花跟達也聊起過去，回憶滿滿，氣氛超棒，玩得特別開心……然而，暗戀颯花已久的達也終於按捺不住內心的慾火，猛地撲向颯花，上演一場禁忌的激情戲碼！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063815527527_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063815527527_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6041",
+  "actresses": [
+    {
+      "name": "東ふうか",
+      "img_url": "https://picture.yoshiclub.xyz/20250227/e8d23a58-6a74-45cb-baf9-7e0259aadf1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6041&name=東ふうか"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cd719dd9-c38e-4153-a56c-e37b669f489a/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250130/uGU7AJza/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1197,
+  "IDcode": "HEYZO-2096",
+  "title": "對喜歡惡作劇的美少女滑溜插入: 菊川三葉",
+  "publish_date": "2019-10-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "乳交",
+    "中出",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231002/202310022206227272.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/202310022206227272.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1197",
+  "actresses": [
+    {
+      "name": "菊川三葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/d2252b5e-29c4-49d1-b4f5-3bb3b3e8fee8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1197&name=菊川三葉"
+    }
+  ]
+};

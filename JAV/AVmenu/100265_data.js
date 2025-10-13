@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230325/91AB31BEFC09FBA4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100265,
+  "IDcode": "CAWD-056",
+  "title": "セックス（特に騎乗位）が好き過ぎて留年しちゃったエロ賢い女子大生を焦らし続けたら36回も絶頂AVデビュー 志木あかね",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "多P",
+    "女上位",
+    "苗条",
+    "羞耻",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/cawd056/cawd056pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100265",
+  "actresses": [
+    {
+      "name": "奥井楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240726/be65c9db-cf0f-4ccb-beaf-d67b3efbf372.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100265&name=奥井楓"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100265&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d736f7d-2cdf-48e9-8f9f-a241c3bfe0af/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/c485be60/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6952,
+  "IDcode": "AVSA-371",
+  "title": "超貼身特寫 肉彈エロコス11變身 H杯爆乳豐滿幹到瘋 ~ 乙愛麗絲",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "金髮",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "短髮",
+    "極品美人",
+    "野性",
+    "叛逆少女",
+    "豐滿",
+    "無毛",
+    "女優"
+  ],
+  "description": "AVSA-371为妄想族出品,2025年4月8日发行的有碼成人影片由乙愛麗絲出演\n對她身穿一件又一件情色服裝的性感身體進行特寫！ H罩杯金髮辣妹的巨乳逼近，毫無縫隙的強力影像！巨乳、豐臀的情色服裝在你眼前翩翩起舞！豐滿金髮GAL的神聖巨乳和臀部特寫！全新的虛擬世界！相機靠近了！令人驚奇的特寫！ ！令人難以置信的沉浸式拍攝角度，讓你感受到呼吸，並靠近你！ 「特寫×巨乳豐臀×豐滿肉感」必殺技！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250409/202504090614316868.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250409/202504090614316868.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6952",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6952&name=乙愛麗絲"
+    }
+  ]
+};

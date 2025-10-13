@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57775,
+  "IDcode": "10MU052110_01",
+  "title": "愛川みさ3大フェチを制せよ！パイパン-放尿-スク水",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57775",
+  "actresses": []
+};

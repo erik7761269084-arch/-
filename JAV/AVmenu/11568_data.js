@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32e4c2c3-2c28-4393-9edd-529eb75ef675/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11568,
+  "IDcode": "SAN-279",
+  "title": "新人男優的憂鬱 ~ 夏白麻矢",
+  "publish_date": "2024-09-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "美少女",
+    "奇聞趣事",
+    "AV拍攝現場",
+    "女同事",
+    "奇異的",
+    "紀錄片",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240930/18021acb-c8e9-4676-8e9b-1ebf8fa3d98a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240930/18021acb-c8e9-4676-8e9b-1ebf8fa3d98a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11568",
+  "actresses": [
+    {
+      "name": "夏白麻矢",
+      "img_url": "https://picture.yoshiclub.xyz/20240321/8122ced2-c1b9-4239-b3a3-6d858d809e6c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11568&name=夏白麻矢"
+    }
+  ]
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/02/9219e270/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79612,
+  "IDcode": "LUXU-1483",
+  "title": "ラグジュTV 1462 彼の浮気をきっかけに失恋したと語る美人管理栄養士が登場。初めて出会った男とのセックスに緊張した面持ちだが、大人の女性として熟れ始めた体は敏感に反応！いつしか日常を忘れ目の前の快楽に没入し、卑猥な声を漏らし喘ぎ乱れる！",
+  "publish_date": "2021-09-27",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79612",
+  "actresses": [
+    {
+      "name": "小嶋由里子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79612&name=小嶋由里子"
+    }
+  ]
+};

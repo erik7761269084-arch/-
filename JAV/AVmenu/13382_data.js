@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e32f45c-70e4-4129-b4f5-5f10513795f4/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/14/5f5d289d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13382,
+  "IDcode": "MIDV-788",
+  "title": "比基尼親密接觸！媚藥男士美容院 ~ 七澤美亞",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "深喉",
+    "按摩・物理治療・美容",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "比基尼",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIDV-788为MOODYZ出品,2024年7月16日发行的有碼成人影片由七泽美亚出演\n[比裸體更色情！比基尼親密接觸催情美學！ 】 極度可愛美麗的女孩七澤米亞邀你來到療癒天堂！首先，用混著甜甜唾液的嘴餵春藥！我要和這位女士和雙打一起度過愉快的時光！而且她還穿著小比基尼，太色情了！透過 Nuruteka 全身按摩提高您的敏感度！直立乳頭服裝組合！邋遢油打手槍&追求男人潮！低聲說髒話，到達你的腦袋！超越女牛仔位置陰道治療極限的服務！即使射精一次，也會立即勃起，體驗異次元持續射精！帶著非凡的喜悅去天堂吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001851670670.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712001851670670.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13382",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13382&name=七泽美亚"
+    }
+  ]
+};

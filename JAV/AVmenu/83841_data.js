@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221231/YMWJ0ICO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83841,
+  "IDcode": "REBD-452",
+  "title": "Rena 二十歳の誓い/児玉れな",
+  "publish_date": "2020-03-19",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "介绍影片",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83841",
+  "actresses": [
+    {
+      "name": "儿玉玲奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83841&name=儿玉玲奈"
+    }
+  ]
+};

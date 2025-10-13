@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250413/fbnO1avX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68671,
+  "IDcode": "STARS-689",
+  "title": "笑顔で中出し懇願!「あなたの赤ちゃん作りたい…」子宮の奥で生ザーメンを受け止める妊娠淫語中出しSEX SODstar 月乃ひな",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "中出",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68671",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ce8e23db-93e8-4671-b6ce-90511abc89aa/playlist.m3u8",
+  "线路2": "https://v2024.bbffsl.com/20250114/Md1ddhdb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8918,
+  "IDcode": "SSNI-571",
+  "title": "【異常高潮大絕頂】愛欲大覺醒，不停地做愛，怒濤的本氣性交 ~ 架乃由羅",
+  "publish_date": "2019-09-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "癡女",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SSNI-571为S1出品,2019年9月19日发行的有碼成人影片由架乃由羅出演\n嘉納由良擁有迷人的個性和敏感度，與平時溫柔的外表形成鮮明對比。據她說，如果拍攝過程中性愛更激烈一點也沒關係。如果性慾無底的嘉納由良繼續毫不留情地射下去的話，會發生什麼事…？從採訪到拍攝結束，無需等待，無盡的性愛！演員也以認真的性愛為榮！請看一下持續射精、超越高潮極限的她最性感的身材。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250122/20250122031753349349.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250122/20250122031753349349.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8918",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8918&name=架乃由羅"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8918&name=しみけん"
+    }
+  ]
+};

@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a711cdc8-72d4-46aa-9a71-9ba5cba0eb39/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8642,
+  "IDcode": "ATKD-387",
+  "title": "猥褻背德SPA理療 BEST 大合集 4小時 ~ 二宮光 高阪ますみ 鬆本菜奈実 鬆永さな 星野娜美 天然美月 夏目彩春 末広純",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "企畫",
+    "劇情",
+    "按摩・物理治療・美容",
+    "形象俱樂部",
+    "4小時以上作品",
+    "美少女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "抹油",
+    "美人",
+    "誘騙女性",
+    "美少女電影"
+  ],
+  "description": "ATKD-387为ATTACKERS出品,2025年2月4日发行的有碼成人影片由夏目彩春，松本菜奈実，星野娜美，松永さな，二宮光，天然美月，末広純，高坂ますみ出演\n揉捏、放鬆、梳…當他黏黏、變態的手指移動她時，她情不自禁地發出一聲呻吟。我不是故意的……這是女人不能告訴任何人的秘密。她沉迷於禁忌的歡樂並墮落了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130085103332332.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250130/20250130085103332332.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8642",
+  "actresses": [
+    {
+      "name": "末広純",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/52b7f8cf-362e-4460-b9d8-a55df7001082.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=末広純"
+    },
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=松本菜奈実"
+    },
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=夏目彩春"
+    },
+    {
+      "name": "星野娜美",
+      "img_url": "https://picture.yoshiclub.xyz/20231218/56b91853-020c-489e-9dd8-35d125c2177d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=星野娜美"
+    },
+    {
+      "name": "天然美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/56ddbd44-256a-4ecb-ab3f-a7ffa30baf55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=天然美月"
+    },
+    {
+      "name": "松永さな",
+      "img_url": "https://picture.yoshiclub.xyz/20230601/37e77928-2d8a-4deb-b2dd-80cce487495a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=松永さな"
+    },
+    {
+      "name": "二宮光",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/a14b6165-c976-4ac8-be63-24bd2cc160a3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=二宮光"
+    },
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8642&name=高坂ますみ"
+    }
+  ]
+};

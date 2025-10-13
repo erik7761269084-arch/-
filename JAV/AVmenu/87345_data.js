@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230724/MeDVU91W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87345,
+  "IDcode": "CHRV-162",
+  "title": "妹の白くて柔らかくてドデカイ乳房の淫靡てーしょんに理性をコントロール出来ない俺 妹の爆乳は一見にしかず！ Hカップ98cm くるくる",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "水手服",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87345",
+  "actresses": []
+};

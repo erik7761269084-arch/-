@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b08ddda7-edcd-43b0-b557-924b03deb3f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17184,
+  "IDcode": "SDNM-411",
+  "title": "新人出道 天城雪乃 立志成為歌手的農婦，無法停止渴望登上舞台中央 首次亮相 AV DEBUT",
+  "publish_date": "2024-01-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "中出",
+    "口交",
+    "出道作品",
+    "情趣內衣",
+    "人妻",
+    "女優訪談",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "SDNM-411为SOD出品,2024年1月11日发行的有碼成人影片\n一位曾立志成為演歌歌手，結婚後卻放棄了夢想，現在務農的已婚人妻，無法放下對舞台的渴望，申請出演AV。 天城雪乃友善、明亮、苗條，她透過演歌訓練出來的聲音卻像喘息聲一樣響徹整個飯店房間。 事實上，可能只是為了追求慾望…\n一位曾立志成為演歌歌手，結婚後卻放棄了夢想，現在務農的已婚人妻，無法放下對舞台的渴望，申請出演AV。 天城雪乃友善、明亮、苗條，她透過演歌訓練出來的聲音卻像喘息聲一樣響徹整個飯店房間。 事實上，可能只是為了追求慾望…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231219/20231219043834755755.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231219/20231219043834755755.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17184",
+  "actresses": []
+};

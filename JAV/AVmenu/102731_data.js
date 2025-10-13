@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/9215350F3C755A00/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102731,
+  "IDcode": "NHDTA-833",
+  "title": "春藥浣腸癡漢 4 兩穴射好射滿SP",
+  "publish_date": "2016-06-09",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "肛交",
+    "灌肠",
+    "药物",
+    "性骚扰",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102731",
+  "actresses": [
+    {
+      "name": "恵沙也香",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8b3f628e-e7ce-42d4-953d-5e935ccc8851.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102731&name=恵沙也香"
+    },
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102731&name=南梨央奈"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102731&name=三原穗香"
+    }
+  ]
+};

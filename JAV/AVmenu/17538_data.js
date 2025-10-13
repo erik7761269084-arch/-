@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6de3dfe8-48b8-49de-ae36-c6c0f566644e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/19/6351282f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17538,
+  "IDcode": "DLDSS-243",
+  "title": "在超早漏體質的美女為你服務的泡泡浴場裡 讓你一次又一次的全力射精",
+  "publish_date": "2023-12-21",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "口交",
+    "風俗夜場",
+    "風俗娘",
+    "性感",
+    "抹油"
+  ],
+  "description": "DLDSS-243为DAHLIA出品,2023年12月21日发行的有碼成人影片由水川潤出演\n超敏感美女水川潤加入了可以让客人無限射精和无套中出的高級泡泡浴俱乐部“DAHLIA”。在和客人打了招呼后，客人就突然扑了上来操了水川潤。感觉太强烈了，水川潤以混浴，乳液，全身漫游等各种方式服务客人。感觉到了就让客人操。\n超敏感美女水川潤加入了可以让客人無限射精和无套中出的高級泡泡浴俱乐部“DAHLIA”。在和客人打了招呼后，客人就突然扑了上来操了水川潤。感觉太强烈了，水川潤以混浴，乳液，全身漫游等各种方式服务客人。感觉到了就让客人操。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231129/70eada79-c336-4da2-aaf5-a8e424aa119b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231129/70eada79-c336-4da2-aaf5-a8e424aa119b.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17538",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17538&name=水川潤"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17538&name=鲛岛"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17538&name=由爱可奈"
+    }
+  ]
+};

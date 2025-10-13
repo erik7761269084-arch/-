@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/OIf4ew3g/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78217,
+  "IDcode": "SVSHA-007",
+  "title": "羞恥！教員採用試験を合格した新任女教師が医師も看護師も男の病院で男性教諭と一緒に着任前健康診断を受けさせられる 2023",
+  "publish_date": "2023-05-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "插入异物",
+    "女教师",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78217",
+  "actresses": [
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78217&name=桐香悠裡"
+    },
+    {
+      "name": "月妃さら",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/6a49432d-3ba4-44b8-a519-8e4fa48c3767.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78217&name=月妃さら"
+    }
+  ]
+};

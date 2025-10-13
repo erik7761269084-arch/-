@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240114/vDoez2gI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90283,
+  "IDcode": "RKI-639",
+  "title": "変態の天才 有賀みなほ",
+  "publish_date": "2023-08-08",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "淫语",
+    "口交",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240115-1/b8e6a48b0c76c4cfc56b972ab5d7fedc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90283",
+  "actresses": [
+    {
+      "name": "有贺みなほ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90283&name=有贺みなほ"
+    }
+  ]
+};

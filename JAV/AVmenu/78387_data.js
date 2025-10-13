@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241124/Ijtk42N5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78387,
+  "IDcode": "JUY-787",
+  "title": "妻と子作りの為に一ヶ月禁欲して溜め込んだ僕の精子をいつも横取りする義姉 八乃つばさ",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "姐姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/d43ae7059dad8eca6a31027705bb7ae4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78387",
+  "actresses": [
+    {
+      "name": "八乃翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230627/41b87ec0-c280-4254-8027-00efed0d58f4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78387&name=八乃翼"
+    }
+  ]
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e50ea1d8-6401-4cf2-98c9-787ef287417d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/18/102b6b4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14671,
+  "IDcode": "MEYD-912",
+  "title": "我那有着讓人秒射名器的老婆卻遇上了一個超級不射的竊賊 ~ 都月楓",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "流汗",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "罪犯・逃犯",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "內衣",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女",
+    "美少女電影",
+    "肌肉"
+  ],
+  "description": "MEYD-912为溜池出品,2024年5月21日发行的有碼成人影片由都月楓出演\n「無與倫比的延遲射精陰莖 ~我明白了！」擔心無法從丈夫的陰莖中射出的已婚婦女 Ruisa 正在進行陰道訓練。然而，她訓練的陰道太過堅忍，最終導致了她丈夫的早洩。已經是不可逆轉的局面了。為了發洩自己的性慾，她儘管心疼丈夫，卻日復一日地不斷地出軌，尋找能讓丈夫滿意的陰莖。然而，所有男人都會立即射精，沒有任何洩漏。啊……我不能再指望性愛帶來的快感了……就在失望的那一刻……一個竊賊出現在她的面前，果然，她被這個男人襲擊了，故事開始了！ ！從強暴開始的立場逆轉，蕩婦作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517043924551551.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517043924551551.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14671",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14671&name=都月楓"
+    },
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14671&name=平井シンジ"
+    }
+  ]
+};

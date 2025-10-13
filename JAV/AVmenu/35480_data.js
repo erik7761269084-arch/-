@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/27/a9a00d0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35480,
+  "IDcode": "CWPBD-24",
+  "title": "猫步毒药-大枝千穂",
+  "publish_date": "2025-07-28",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/a9a00d0f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35480",
+  "actresses": []
+};

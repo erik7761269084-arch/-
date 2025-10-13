@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/14/097c2281/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105366,
+  "IDcode": "SONE-149",
+  "title": "激イキ100回！痙攣5232回！イキ潮2200cc！清楚系本物アイドルがエロス覚醒 はじめての大・痙・攣スペシャル 逢沢みゆ （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2024-03-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "偶像",
+    "潮吹",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105366",
+  "actresses": [
+    {
+      "name": "逢澤美優",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105366&name=逢澤美優"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105366&name=小田切ジュン"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65406,
+  "IDcode": "39B192880681B74BB934F60D4DFD62B6",
+  "title": "血行促进器具モニターに応募してきた美人OL 青叶はるな",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65406",
+  "actresses": []
+};

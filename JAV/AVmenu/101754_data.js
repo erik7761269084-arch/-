@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240410/SNMBfjc9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101754,
+  "IDcode": "IENFH-31803",
+  "title": "種付け特化！素人女子●生限定！孕ませ中出しナンパ！！ 中出し処女のウブなオマ○コに濃厚精子を大量投入！ 妊娠確定w子宮の奥まで届く種付けプレスで中出し！ うららちゃん 花音うらら",
+  "publish_date": "2024-03-25",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "高中女生",
+    "中出",
+    "企画",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1ienfh31803/1ienfh31803pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101754",
+  "actresses": [
+    {
+      "name": "花音うらら",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/26afbe3f-ddc4-4b5e-9ad4-3d316df450ca.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101754&name=花音うらら"
+    }
+  ]
+};

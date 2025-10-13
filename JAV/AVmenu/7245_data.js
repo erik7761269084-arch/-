@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7451fe30-a844-427b-a1a4-03a88f38c234/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/05/7317e695/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7245,
+  "IDcode": "KNMB-096",
+  "title": "G杯生食愛好者 素人OL ~ 九井珠奈緒",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "真人秀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "癡女",
+    "巨乳",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "美少女電影",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/1f26950c-962c-44ec-890a-74615f8512fe.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/1f26950c-962c-44ec-890a-74615f8512fe.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7245",
+  "actresses": [
+    {
+      "name": "九井珠奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/2732b0ec-95fb-456d-b58e-3ea48414655f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7245&name=九井珠奈緒"
+    }
+  ]
+};

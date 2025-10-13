@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250415/RClrwzOZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68052,
+  "IDcode": "SUPA-196",
+  "title": "Hな取材かも…と分かっていながらも「友達と一緒なら…」と安心してしまった素人娘たちはどこまでエロい要求に応えてくれるのか徹底調査！ 2 素人女子大生8名収録！",
+  "publish_date": "2017-06-09",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "女大学生",
+    "口交",
+    "企画",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68052",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=推川悠里"
+    },
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=南梨央奈"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=羽生ありさ"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=水野朝陽"
+    },
+    {
+      "name": "松本芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20240522/a9640024-e2c8-4c8d-aafd-76ab2005b3e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=松本芽依"
+    },
+    {
+      "name": "ちなみん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=ちなみん"
+    },
+    {
+      "name": "生驹はるな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=生驹はるな"
+    },
+    {
+      "name": "心花ゆら",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/84657d0cd32124984bda4df485efaa13.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68052&name=心花ゆら"
+    }
+  ]
+};

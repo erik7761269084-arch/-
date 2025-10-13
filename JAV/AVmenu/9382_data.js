@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f5fa838b-d139-4e05-a667-ed04d2e167f7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9382,
+  "IDcode": "AIAV-017",
+  "title": "【3.1次元】AI素人 H罩杯巨乳看護學生(21歲)",
+  "publish_date": "2025-02-07",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "巨尻",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "明星臉",
+    "巨乳",
+    "特效",
+    "美人",
+    "AI女優",
+    "極品美人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/20250105060211492492.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/20250105060211492492.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9382",
+  "actresses": []
+};

@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/51fe50f3-eed2-4172-b37a-23624f143d7a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/f5058fbe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2995,
+  "IDcode": "JUR-469",
+  "title": "町內熟女肉便器 大叔們的輪⬤集會 ~ 風間由美",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "濕身",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "老頭子",
+    "4K",
+    "深喉",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "四十路",
+    "亂交 • 群P",
+    "女上位",
+    "顏射",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "暗黑系",
+    "鄰居",
+    "單體作品",
+    "美人妻",
+    "鬼畜片",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "按摩棒",
+    "抹油",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "JUR-469为MADONNA出品,2025年9月4日发行的有碼成人影片由風間由美出演\n由美跟老公因工作調動，搬到一個小到不能再小的鄉下社區。地方雖偏，規矩卻多到誇張，首要就是得參加社區的定期聚會。老公忙到沒空，只能由美硬著頭皮上，沒想到這群大叔根本是變態集中營！他們連由美丟的垃圾都要翻，甚至夫妻之間的私事也要管。最扯的是，他們盯著由美那對超犯規的大胸，直接嗆說：這麼大就是違規！接著以處罰為由，一個個撲上來，把由美當成發洩對象，場面整個失控啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020933801801_91754_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020933801801_91754_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2995",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2995&name=風間由美"
+    },
+    {
+      "name": "大志",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2995&name=大志"
+    }
+  ]
+};

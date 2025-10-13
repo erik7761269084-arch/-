@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/68603003-92bf-413b-af69-7090941b07bf/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/25/e3fb1e9f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18296,
+  "IDcode": "FSDSS-688",
+  "title": "新人 永野鈴 首次出道作品 AV Debut",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "企畫",
+    "中出",
+    "口交",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "紀錄片",
+    "女學生",
+    "女優"
+  ],
+  "description": "FSDSS-688为FALENO出品,2023年11月9日发行的有碼成人影片由永野鈴出演\n年輕的外表，謙虛善良的個性… 當穿上衣服時，擁有與年輕外表不符的修長而美麗的四肢，適度隆起的胸部，彎曲的腰部和迷人的陰毛。 第一次性愛一開始是被動的，親吻，自然地撫摸大雞雞 ，時而出現時而消失的調皮好奇心無法累積。 這是一位20歲的女大學生的AV DEBUT記錄，她的志向是成為幼兒園老師。\n年輕的外表，謙虛善良的個性… 當穿上衣服時，擁有與年輕外表不符的修長而美麗的四肢，適度隆起的胸部，彎曲的腰部和迷人的陰毛。 第一次性愛一開始是被動的，親吻，自然地撫摸大雞雞 ，時而出現時而消失的調皮好奇心無法累積。 這是一位20歲的女大學生的AV DEBUT記錄，她的志向是成為幼兒園老師。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231017/36d821b1-82f8-4b45-976b-bcb025e55c12.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231017/36d821b1-82f8-4b45-976b-bcb025e55c12.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18296",
+  "actresses": [
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18296&name=永野鈴"
+    }
+  ]
+};

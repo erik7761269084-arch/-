@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230106/AFF40AEA979350EC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98545,
+  "IDcode": "CESD-235",
+  "title": "イチャLOVEデート2 世界で1番大切な波多野結衣",
+  "publish_date": "2016-07-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "第一人称摄影",
+    "纪录片",
+    "主观视角",
+    "恋爱"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/cesd235/cesd235pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98545",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98545&name=波多野结衣"
+    }
+  ]
+};

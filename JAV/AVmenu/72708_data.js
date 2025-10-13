@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250202/GqxC37y0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72708,
+  "IDcode": "BAHP-020",
+  "title": "いたずらっ子な御坂りあがこっそり逆夜●い...淫靡な女体と痴女プレイで連続射精を誘う",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "荡妇",
+    "口交",
+    "手淫",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72708",
+  "actresses": [
+    {
+      "name": "御坂莉亚",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72708&name=御坂莉亚"
+    }
+  ]
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e447ef31-dbe8-4d76-9008-7c32aaf190ae/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15106,
+  "IDcode": "SPLY-020",
+  "title": "高潮後立即追逐抽搐的蜜桃臀，用後入式再次插入，突破體液極限的情欲覺醒SEX ~ 樟葉杏",
+  "publish_date": "2024-05-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "流汗",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "感官作品",
+    "肉絲",
+    "口交",
+    "性感",
+    "兩男一女",
+    "內衣",
+    "美少女",
+    "過膝襪・小腿襪",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SPLY-020为SOD出品,2024年5月1日发行的有碼成人影片由樟葉杏出演\n「アクメ直後の追撃ピストン！体液どろどろ開発！」。汗・唾・潮・汁を全放出させるSEXドキュメント！とにかく怒涛の追撃ピストンでイキっぱなし状態！その多幸感により女性ホルモンが全身に行き渡り女の子成分がダダ漏れ…。エロエロな発情姿をカメラに納めることになりました！のけぞり絶頂の潮噴水と共に性欲大解放！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240430/2904665c-bb3e-466f-a83b-c4b325110c53.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240430/2904665c-bb3e-466f-a83b-c4b325110c53.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15106",
+  "actresses": [
+    {
+      "name": "樟葉杏",
+      "img_url": "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15106&name=樟葉杏"
+    }
+  ]
+};

@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dbdac44c-14f7-4b66-97d8-6b5df991d77f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/24/0af2c7c9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13797,
+  "IDcode": "JUQ-750",
+  "title": "爲了我心愛的丈夫，我甘願成爲要債人的周末肉便器。 我被這個極其邪惡的老男人一遍又一遍地內射，直到懷孕...... 武藤あやか",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "凌辱",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "人妻",
+    "巨乳",
+    "欠債肉償",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-750为MADONNA出品,2024年6月25日发行的有碼成人影片由武藤彩香出演\n他們一帆風順的婚姻生活有一天陷入了混亂。經營公司的丈夫遭到一位放債人信任的朋友的背叛，最終負債累累，被迫破產。一位想要回到那些幸福日子的妻子決定在不告訴丈夫的情況下去見一個放債人。 「如果你想幫助你的丈夫，週末就做我的女人吧！」如果她能忍住就好了……心中這樣想著，妻子決定犧牲自己的身體。從那天起，一個屈辱的周末開始了，直到她懷孕才結束。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621011913823823.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621011913823823.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13797",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13797&name=武藤彩香"
+    }
+  ]
+};

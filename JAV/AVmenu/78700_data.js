@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/VqL33EbW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78700,
+  "IDcode": "LULU-068",
+  "title": "再婚して新しくできた凄腕エステ嬢の巨乳義母に練習台として朝から晩まで金玉回春マッサージで搾られ続けました 夕季ちとせ",
+  "publish_date": "2021-05-01",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78700",
+  "actresses": [
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78700&name=七草千歲"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230405/ab6c267a-18cc-4049-bcbd-5459290f39fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1544,
+  "IDcode": "HERY-001",
+  "title": "種付女學園…體育教師 有村千佳",
+  "publish_date": "2011-10-13",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "女教師",
+    "自拍性愛",
+    "中出",
+    "亂交 • 群P",
+    "無碼流出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230405/b0ce7ad9-1e3b-4fe0-a6da-18ce002d98fb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230405/b0ce7ad9-1e3b-4fe0-a6da-18ce002d98fb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1544",
+  "actresses": [
+    {
+      "name": "有村千佳",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/02a4a2bb-c0fb-4779-8bb9-970b306a5beb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1544&name=有村千佳"
+    }
+  ]
+};

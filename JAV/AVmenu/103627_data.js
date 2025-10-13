@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240126/i93EDNqN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103627,
+  "IDcode": "MAAN-940",
+  "title": "【Gカップ巨乳ギャル】自称パチプロのどすけべギャル登場wwwおもちゃで責められマ●コビシャビシャ！チ●コを一度咥えたら射精するまで離さない！バニーコスに着替えてケツを鷲掴み本気バック！ギャルマ●コを全部味わい尽くせ！！【即ヤリゲッチュー】【りか】",
+  "publish_date": "2024-01-12",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "巨乳",
+    "中出",
+    "角色扮演",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1711maan940/h_1711maan940pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103627",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103627&name=椿莉香"
+    }
+  ]
+};

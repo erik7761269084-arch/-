@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f95a7042-0cd3-4634-8991-c4213c2a2275/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10974,
+  "IDcode": "MANX-004",
+  "title": "讓你手淫致死的淫蕩性感姿勢，一直對你說騷話的豐滿美女 ~ 永井マリア",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "奇異的",
+    "猥褻穿著",
+    "女優"
+  ],
+  "description": "MANX-004为FITCH出品,2024年11月5日发行的有碼成人影片由永井瑪麗亞出演\n為了自慰而設計的淫蕩、性感的姿勢是用固定攝影機記錄的，這樣它們就不會脫離視角。可以同時享受性感姿勢的肉慾角度和豐滿美女盯著你的髒話！專為自慰而設計的珍品之一！在 Fitch 的新廠牌 MANIAX 欣賞 Yumeno 導演的戀物作品。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031064311934934.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031064311934934.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10974",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10974&name=永井瑪麗亞"
+    }
+  ]
+};

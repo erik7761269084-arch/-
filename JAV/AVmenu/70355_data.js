@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/02/0a4d553c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70355,
+  "IDcode": "MOND-289",
+  "title": "憧れの女上司と 海埜ほたる",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70355",
+  "actresses": [
+    {
+      "name": "森萤",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70355&name=森萤"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/wwbdekHM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77862,
+  "IDcode": "MKON-002",
+  "title": "一緒の大学合格したら告白しようって思ってた片想いの幼馴染が、俺の親父に寝取られて知らない男達からも中出しされまくっていた。 沖田里緒",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出",
+    "多P",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77862",
+  "actresses": [
+    {
+      "name": "冲田里绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77862&name=冲田里绪"
+    }
+  ]
+};

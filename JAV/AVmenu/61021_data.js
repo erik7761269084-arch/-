@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/05/2aeaaa19/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61021,
+  "IDcode": "LULU-398",
+  "title": "社畜訪問営業のいいなり崖っぷち巨乳セールスレディに契約をチラつかせ乳首こねくり回しイキさせて弄び中出し乳オナホに仕立て上げた。 武田怜香",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "恋乳癖",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61021",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61021&name=柳可憐"
+    }
+  ]
+};

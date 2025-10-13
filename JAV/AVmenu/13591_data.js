@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/07703532-205b-49a0-a6e1-6cc3cc16a6db/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/27/3df93217/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13591,
+  "IDcode": "JUQ-804",
+  "title": "藤環奈 串燒輪奸 ，操你心愛的妻子到深處 NTR",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "女友・妻子",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "輪姦",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "熟女",
+    "飯店"
+  ],
+  "description": "JUQ-804为MADONNA出品,2024年7月9日发行的有碼成人影片由藤環奈出演\n我很長一段時間都無法告訴妻子。他想看到他深愛的妻子卡娜被陌生男人醜陋的雞巴插入…他們無法以這種扭曲的傾向繼續他們的婚姻生活。於是我向她吐露心聲。光對我險些告白感到困惑，但她為了我而接受了…妻子被男人包圍，喉嚨和陰道被強暴，那場面可以用「串燒」來形容，我感受到了一生中最大的興奮。而她也漸漸感受到了快樂…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/202407050054015858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/202407050054015858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13591",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13591&name=藤環奈"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13591&name=大岛丈"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/23/71518e15/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86314,
+  "IDcode": "SSIS-280",
+  "title": "讓年輕的我為之瘋狂的22歳美人可愛家教 河北彩花",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "手淫",
+    "接吻",
+    "家教",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86314",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86314&name=河北彩花"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240314/ceoEGtu7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103736,
+  "IDcode": "GML-254",
+  "title": "セクハラ再現ドキュメントドラマ ピタパン家事代行ヘルパー いやらしいおばさん家政婦のムチ尻を犯し尽くして中出し！！ パート1 今浪 優 今浪優",
+  "publish_date": "2024-03-03",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "屁股",
+    "白天出轨",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103736",
+  "actresses": [
+    {
+      "name": "今浪优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103736&name=今浪优"
+    }
+  ]
+};

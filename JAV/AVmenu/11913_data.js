@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83e523fd-188e-413c-9a79-ad3d390bd4f7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11913,
+  "IDcode": "PARATHD-4035",
+  "title": "享受色情淫蕩按摩的性感妹妹們(6) ~岬櫻",
+  "publish_date": "2024-09-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "業餘",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "金髮",
+    "巨乳",
+    "抹油",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240918/6db8cbb8-5e58-4b70-8a58-53889eb61e2e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240918/6db8cbb8-5e58-4b70-8a58-53889eb61e2e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11913",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11913&name=岬櫻"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221203/C38FC30FFDF4F260/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39159,
+  "IDcode": "FD21B214A7918B38ABC2949B690F97F-1",
+  "title": "パンツを売る女 VOL.23制服女子変態ざんまい後編",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39159",
+  "actresses": []
+};

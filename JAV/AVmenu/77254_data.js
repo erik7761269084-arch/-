@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241127/55nTsoP3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77254,
+  "IDcode": "MISM-123",
+  "title": "素人マゾFILE 奴隷No.1みか（仮名）28歳 自ら調教志願してきた規格外の脳イキ変態鬼マゾ美人妻",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "已婚妇女",
+    "捆绑",
+    "SM",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/f54acf373485b2c21cdad5922bd8e64b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77254",
+  "actresses": [
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77254&name=雨村梨花"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77254&name=鲛岛"
+    }
+  ]
+};

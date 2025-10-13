@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/07/ffaad8eb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66794,
+  "IDcode": "DNJR-094",
+  "title": "フェラチオ大好きぃ～ おしゃぶりギャルのイッてもやめない小悪魔痴女フェラ 射精ホヤホヤの敏感チ●ポをしゃぶり続けて連続発射ザーメン搾り 水卜麻衣奈",
+  "publish_date": "2023-03-11",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "荡妇",
+    "M男",
+    "苗条",
+    "女生",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66794",
+  "actresses": [
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66794&name=水卜麻衣奈"
+    }
+  ]
+};

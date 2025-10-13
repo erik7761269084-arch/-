@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de2a7828-702e-428c-a0d6-9895774bb927/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/87a4d1ad/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13557,
+  "IDcode": "IPZZ-322",
+  "title": "課間休息時被一個大雞巴的老師強奸了10次 ~ 杏可可",
+  "publish_date": "2024-07-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "脅迫做愛",
+    "變態",
+    "中出",
+    "形象俱樂部",
+    "JK校服",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "校園生活",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "IPZZ-322为IDEA POCKET出品,2024年7月9日发行的有碼成人影片由杏可可出演\n這是一個擁有纖細美臀的女學生，被變態老師注意到，甚至被強暴。起初，她只是因為受到威脅才把自己的身體借給老師，但她對老師熱情的指導和大雞巴越來越飢渴。穿著老師最喜歡的棉褲還大聲向老師求教的一男一女的關係…兩人在學校沒有讓任何人知道的情況下繼續他們的關係。 10個角落都中出！一定要看的是各種場合、各種姿勢、穿著各種服裝做愛的學校SEX！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705003809831831.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240705/20240705003809831831.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13557",
+  "actresses": [
+    {
+      "name": "杏可可",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/12724e38-77f9-452f-b478-b35c10fb1977.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13557&name=杏可可"
+    }
+  ]
+};

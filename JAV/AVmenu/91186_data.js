@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/ICONHuks/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91186,
+  "IDcode": "GVH-565",
+  "title": "お色気P●A会長と悪ガキ生徒会 夏川あゆみ",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "眼镜",
+    "中出",
+    "多P",
+    "巨大屁股",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91186",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91186&name=夏川步美"
+    }
+  ]
+};

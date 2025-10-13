@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240107/61yHKPZ7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89763,
+  "IDcode": "SABA-829",
+  "title": "性欲が抑えきれない女子達が秘密の自慰行為 本気の無防備生オナニー完全盗撮 超特選美少女16人249分",
+  "publish_date": "2023-05-23",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "4小时以上作品",
+    "自慰",
+    "业余",
+    "偷窥",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89763",
+  "actresses": []
+};

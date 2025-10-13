@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/j4XUjBOV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73578,
+  "IDcode": "ABS-139",
+  "title": "僕を誘惑する隣の綺麗なお姉さん 咲夜由愛",
+  "publish_date": "2012-08-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/4414b7436a86b76cc21116901e6c5473.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73578",
+  "actresses": []
+};

@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f55d1250-b807-4131-9c7a-e12675995304/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240619/J8jGoBy0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14888,
+  "IDcode": "JUQ-705",
+  "title": "First Affair 初不倫 - 迷失的人妻6年來的第一次外遇 天宮かすみ 30 歲 AV 首次亮相",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "內衣",
+    "多P",
+    "美腳",
+    "出道作品",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "按摩棒",
+    "熟女",
+    "無毛"
+  ],
+  "description": "JUQ-705为MADONNA出品,2024年5月14日发行的有碼成人影片由天宮かすみ出演\n「比起永恆的幸福，更要追求一時的慾望。 「我真的很想被強烈地愛……我真的很想被強烈地擁抱……在經歷了大約六年的外遇之後，這一天終於到來了。” 30歲的雨宮霞與兒時好友結婚，從一開始，他們就更像是最好的朋友，而不是夫妻，即使沒有性生活，他們也很幸福。不……我一直告訴自己我很幸福。然後，她站在第一次戀情的舞台上，神經顫抖，瞬間淹沒在罪惡的快感之中…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510035943799799.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510035943799799.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14888",
+  "actresses": [
+    {
+      "name": "天宮かすみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240510/988179e0-576c-4098-917c-3d44cbacac5d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14888&name=天宮かすみ"
+    }
+  ]
+};

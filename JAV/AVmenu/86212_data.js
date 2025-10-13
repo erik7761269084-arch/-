@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230203/33dWVRHt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86212,
+  "IDcode": "SDNM-360",
+  "title": "区役所勤務7年目 真面目一筋の奥さんは実はレーベル史上最高のドM体質 望月瞳 33歳 第2章 夫に仕事だと嘘をつきSMラブホで密会調教 手足を拘束されイカされまくって恍惚の笑み!",
+  "publish_date": "2022-10-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "出轨",
+    "苗条",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86212",
+  "actresses": [
+    {
+      "name": "望月瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/584efab0-8613-454f-99b8-14d604bc2c50.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86212&name=望月瞳"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/09/79f8a6fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70388,
+  "IDcode": "BLOR-265",
+  "title": "クールな巨乳エステティシャン…中身は超インドアオタクおねえさん 性感マッサージと凄チ●ポで徹底的にイカされ半泣きに…",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "颜射",
+    "按摩",
+    "胖女人",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/79f8a6fe/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70388",
+  "actresses": []
+};

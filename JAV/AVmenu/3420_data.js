@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ea5b6e75-5756-4ce3-b950-2cf18a185a13/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/f82ee8cc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3420,
+  "IDcode": "SONE-857",
+  "title": "隔壁女大學生竟是超辣自慰直播主 突然跑來借我老二一起開色情直播的夢幻故事 ~ 早坂ひめ",
+  "publish_date": "2025-08-21",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "4K",
+    "校花",
+    "色白",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "正統派",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "奇聞趣事",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "網路紅人"
+  ],
+  "description": "SONE-857为S1出品,2025年8月21日发行的有碼成人影片由早坂ひめ出演\n「兄弟们多刷点礼物，今晚我玩得更骚哦！」长得超正的女大学生ひめ，背地里居然是个靠自慰直播赚学费的色情网红！但因为不露脸，粉丝们天天在评论区吵着要看更刺激的SEX直播，再这样下去礼物都要没了咋办？于是ひめ灵机一动，直接把隔壁的邻居小哥叫过来，借他的老二来救场！叮咚！「嘿，拜托了，借我用一下你的老二！」「啥？？啥情况？？」就这样，隔壁的美少女突然杀上门，硬拉着我在几千观众面前开色情直播，全世界都能看到我们激战！屏幕上看不到的真实胸部触感，还有那股原始的诱人味道…「天啊，这老二…我好像爱上了…」礼物满屏飞，氪金不停，欲望爆棚，这简直就是一场邻居之间的奇迹色情大戏！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/202508210242156767_69142_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/202508210242156767_69142_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3420",
+  "actresses": [
+    {
+      "name": "早坂ひめ",
+      "img_url": "https://picture.yoshiclub.xyz/20240120/6635338b-8b85-4aa3-b950-dd2556cdcae6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3420&name=早坂ひめ"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3420&name=トイボーイ相沢"
+    }
+  ]
+};

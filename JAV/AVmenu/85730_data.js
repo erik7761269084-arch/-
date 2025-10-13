@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/21/21247ec6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85730,
+  "IDcode": "NACR-498",
+  "title": "パパ活美少女はちくび責めと全身ペロペロ愛撫が大好物！！ 寺田ここの",
+  "publish_date": "2022-01-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "荡妇",
+    "乳液",
+    "口交",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85730",
+  "actresses": []
+};

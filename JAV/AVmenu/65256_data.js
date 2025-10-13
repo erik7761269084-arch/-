@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65256,
+  "IDcode": "20509417F15F96E5F38381D7AA6AE6B2",
+  "title": "D哥 外表清纯内心狂野的乖乖人妻~完美露脸销魂淫叫~还不小心射到嘴巴里了 !",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65256",
+  "actresses": []
+};

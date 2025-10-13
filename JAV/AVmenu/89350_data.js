@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/17/485e549d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89350,
+  "IDcode": "STARS-886",
+  "title": "初ナマ中出し解禁。汗だくまみれの大絶頂、大絶叫セックス 恋渕ももな",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "乳房",
+    "超乳",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231216-1/f5a01a4ddce5e7e3abfdacf90585be05.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89350",
+  "actresses": []
+};

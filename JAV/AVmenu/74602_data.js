@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/oKDzBatY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74602,
+  "IDcode": "LUXU-1116",
+  "title": "ラグジュTV 1123  オナニーだけでは納まりきれない性欲…全身性感帯と化したカラダに止めどない快楽が訪れ、忘れかけていたオンナとしての悦びにいやらしくも愛らしい声を漏らしてイキ乱れる。",
+  "publish_date": "2019-07-01",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "已婚妇女",
+    "颜射",
+    "屁股",
+    "苗条",
+    "业余",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74602",
+  "actresses": [
+    {
+      "name": "茜えりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74602&name=茜えりな"
+    }
+  ]
+};

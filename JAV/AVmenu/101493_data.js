@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240320/6nD8OXpF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101493,
+  "IDcode": "HDKA-285",
+  "title": "はだかのパーソナルトレーナー ちゃんよた パンティと生写真付き",
+  "publish_date": "2023-08-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "无毛",
+    "肌肉",
+    "讲师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/17/ec1e224b019ba6dd7a34d394fd22d67f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101493",
+  "actresses": [
+    {
+      "name": "倉與田",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/35967812-d61d-4b9a-b662-9334d7ff9036.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101493&name=倉與田"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101493&name=ひょこり"
+    }
+  ]
+};

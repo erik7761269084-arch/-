@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cf21eca6-1033-4cb0-ad9e-da2780d0f56e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3174,
+  "IDcode": "NPJS-215",
+  "title": "T●KT●K上小火的野球部妹子原來是個壓不住呻吟的性欲小怪獸 ~ 夕木小彩",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "企畫",
+    "乳交",
+    "色白",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "運動女孩",
+    "高妹",
+    "接吻",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "網路紅人"
+  ],
+  "description": "NPJS-215为NAPA-JAPAN出品,2025年8月28日发行的有碼成人影片由夕木小彩出演\n高中时候在抖音上穿着野球部制服跳舞小火了一把的妹子，竟然被我们在交友APP上偶遇了！趁着她刚练完野球，我们直接把人带到酒店开房。果然传言没错，运动系妹子的性欲真的爆棚！她毫不犹豫地露出那对大到犯规的胸，饥渴地扑上来，简直让人招架不住（笑）。可能是平时训练习惯了大声喊叫，她的呻吟声也超夸张，粗俗又销魂，隔壁房间都忍不住敲墙抗议了。当然，一次怎么够，直接二回战走起！这只可爱又狂野的运动系小怪兽的超猛床上表现，赶紧来看！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032703413413_80795_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032703413413_80795_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3174",
+  "actresses": [
+    {
+      "name": "夕木小彩",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/5bd2226c-7e4e-4457-bf7c-85f73e6f4c31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3174&name=夕木小彩"
+    }
+  ]
+};

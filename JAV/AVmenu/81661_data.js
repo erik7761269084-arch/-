@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/ewWsXbb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81661,
+  "IDcode": "GENM-032",
+  "title": "痴女×尻-尻フェチマニアック- 高美はるか",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "屁股",
+    "M男",
+    "连裤袜",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81661",
+  "actresses": [
+    {
+      "name": "胡桃圓",
+      "img_url": "https://picture.yoshiclub.xyz/20250308/e3d138be-fa30-4e94-a877-55727e2dba0f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81661&name=胡桃圓"
+    }
+  ]
+};

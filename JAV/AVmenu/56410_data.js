@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56410,
+  "IDcode": "73C5892217423D6C0FAD847370CABDD7",
+  "title": "肥臀巨乳K罩杯美人~2",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56410",
+  "actresses": []
+};

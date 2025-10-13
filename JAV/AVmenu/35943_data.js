@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/970D48F9330CAE69/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35943,
+  "IDcode": "ECA6482AE05D7174ABA9D455DCE22EB-7",
+  "title": "あどけない童顔美女のズブ濡れオマンコに生中出し",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35943",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/30/7999d0b3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82250,
+  "IDcode": "BLK-302",
+  "title": "淫語で誘うとんでもないギャル妹 跡美しゅり",
+  "publish_date": "2017-02-01",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "女生",
+    "妹妹",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82250",
+  "actresses": [
+    {
+      "name": "迹美珠里",
+      "img_url": "https://picture.yoshiclub.xyz/20250209/68745e14-acbf-4d33-bf8e-716ff9a5b9b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82250&name=迹美珠里"
+    }
+  ]
+};

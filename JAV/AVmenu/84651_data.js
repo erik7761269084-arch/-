@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/yTu1uzMS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84651,
+  "IDcode": "GVH-449",
+  "title": "ママシ●タ実話 初音みのり",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "正太控",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84651",
+  "actresses": [
+    {
+      "name": "初音實",
+      "img_url": "https://picture.yoshiclub.xyz/20230802/4614c692-bc12-48a7-9db1-3de86fd41696.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84651&name=初音實"
+    }
+  ]
+};

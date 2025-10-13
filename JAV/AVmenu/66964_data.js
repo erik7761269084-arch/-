@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250503/ORshQQ1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66964,
+  "IDcode": "ATID-532",
+  "title": "【FANZA限定】BBPリアルドキュメンタリー 初めて黒太棒をねじ込まれて 櫻井まみ 生写真付き",
+  "publish_date": "2022-10-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨大阴茎",
+    "黑人演员",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66964",
+  "actresses": [
+    {
+      "name": "樱井まみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66964&name=樱井まみ"
+    }
+  ]
+};

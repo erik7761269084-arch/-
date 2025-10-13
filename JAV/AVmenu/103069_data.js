@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230115/31C4DDCCE07E081D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103069,
+  "IDcode": "JUY-099",
+  "title": "隣人調教～人妻が教え込まれた雌犬性奉仕～ 小花まなみ",
+  "publish_date": "2017-03-01",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "苗条",
+    "数位马赛克",
+    "调教",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103069",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103069&name=田渊正浩"
+    },
+    {
+      "name": "小花まなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103069&name=小花まなみ"
+    }
+  ]
+};

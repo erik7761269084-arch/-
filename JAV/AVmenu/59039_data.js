@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240224/SiLPlDyW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59039,
+  "IDcode": "HEYZO-3273",
+  "title": "素人若妻の淫体 お小遣い稼ぎに脱いでしまう敏感人妻 - ゆかり",
+  "publish_date": "2024-02-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59039",
+  "actresses": []
+};

@@ -1,0 +1,88 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cd4a4633-bd2a-4a8c-aa6a-90c0ab158a9c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/22ccdf91/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6914,
+  "IDcode": "MUDR-314",
+  "title": "反正最後一次，不如把她輪了吧 - 畢業紀念被超持久男上下插爆口交+隨意內射，蹂躪到崩潰的即將上京美少女 ~ 倉本菫",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "傲嬌",
+    "變態",
+    "校花",
+    "流汗",
+    "凌辱",
+    "魔鬼系",
+    "早漏",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "接吻",
+    "多P",
+    "唾液敷面",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "清楚系",
+    "清純",
+    "校園生活",
+    "手指插入",
+    "公共場所",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "學校",
+    "大奶头",
+    "美少女電影",
+    "女學生",
+    "同學",
+    "羞恥"
+  ],
+  "description": "MUDR-314为無垢出品,2025年4月15日发行的有碼成人影片由倉本菫出演\n「我們再也見不到面了，所以讓我們最後一次強姦這個傢伙吧，哈哈。」堇，一個安靜整潔的女孩，決定畢業後搬到東京，卻成為一個她從未見過的渣男的畢業慶祝強奸的目標。幸福時光瞬間變成地獄……邪惡的深喉技術，醜陋的雞巴無情地蹂躪兩個緊緻美麗的洞，兩人在 PtoM 場景中從上到下穿刺，看不到盡頭。連純真的小穴也承受不住連續的強制高潮和爆發、噴水。她被當作自慰玩具，反覆灌注污穢的精液。畢業典禮結束後的學校…那裡沒有人，也沒有人來幫忙…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410222644312312.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250410/20250410222644312312.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6914",
+  "actresses": [
+    {
+      "name": "倉本菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/26e5f0cd-47f8-4fae-acce-d31718c9a914.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6914&name=倉本菫"
+    },
+    {
+      "name": "マサムー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6914&name=マサムー"
+    },
+    {
+      "name": "青沼",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6914&name=青沼"
+    }
+  ]
+};

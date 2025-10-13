@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/f444fa14/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68874,
+  "IDcode": "DVMM-227",
+  "title": "顔出しMM号 ザ・マジックミラー 大学生カップル限定NTR企画 巨乳女子大生2人組が初めての青空ぬるぬる二輪車ソープ体験！彼氏たちの目の前なのに逆3Pハーレム密着マットプレイ！Wオマ○コに生中出し！",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "女大学生",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/29/75b0d0fd6a2da2a0a7266af3c2306bdd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68874",
+  "actresses": []
+};

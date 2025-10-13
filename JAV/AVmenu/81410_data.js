@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221026/AjqTt5Y9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81410,
+  "IDcode": "SPZ-1132",
+  "title": "意外とヤレる！！会社の既婚オンナ上司",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "苗条",
+    "连裤袜",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221026-1/51361a411a65c061ec2bc558b27de885.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81410",
+  "actresses": [
+    {
+      "name": "福富りょう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81410&name=福富りょう"
+    }
+  ]
+};

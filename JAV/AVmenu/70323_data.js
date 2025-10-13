@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/28/78197260/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70323,
+  "IDcode": "NTR-017",
+  "title": "快來夜襲我老婆 三喜本望",
+  "publish_date": "2020-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "颜射",
+    "按摩棒",
+    "吞精",
+    "业余",
+    "白天出轨",
+    "娃娃",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70323",
+  "actresses": [
+    {
+      "name": "石原める",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70323&name=石原める"
+    }
+  ]
+};

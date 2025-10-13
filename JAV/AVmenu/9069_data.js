@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/10ea55f0-25db-4626-a188-7523f56adcb1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/22/53374423/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9069,
+  "IDcode": "MIDV-964",
+  "title": "差出相部屋被上司狙擊NTR - 討厭的絕倫上司操了我一次又一次 ~ Himari",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "內衣",
+    "巨乳",
+    "女同事",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "出差",
+    "寢取",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MIDV-964为MOODYZ出品,2025年1月21日发行的有碼成人影片由Himari出演\n【Q杯大奶隨心所欲！ ！希瑪莉第一部共享房間NTR劇！ 】 上班族希瑪麗與她討厭的老闆武田一起出差，而同事的男友則憂心忡忡。武田瞄準了她殘酷頑皮的Q罩杯乳房，將她灌醉並強迫她留在他的共用房間，在那裡他撫摸她的巨乳並強姦了她！被錄影和威脅的希瑪麗無處可逃……即使是在淋浴時！跟男友打電話也能NTR幹！當然我也會為你提供乳交！雖然不喜歡，但巨乳顫抖持續高潮！漸漸地，她對男友的感情被老闆的雞雞所覆蓋。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116073959896896.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/20250116073959896896.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9069",
+  "actresses": [
+    {
+      "name": "Himari",
+      "img_url": "https://picture.yoshiclub.xyz/20240413/b745c0b9-e4ea-4aa3-b24f-fd6359111922.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9069&name=Himari"
+    }
+  ]
+};

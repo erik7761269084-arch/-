@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/1033eefa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71037,
+  "IDcode": "HND-740",
+  "title": "巨乳グラドルに剥き出しで誘惑される色恋中出し闇営業 松本菜奈実",
+  "publish_date": "2019-10-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/a9a6a5ddaf209ab4be8f9de92292ea27.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71037",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71037&name=松本菜奈実"
+    }
+  ]
+};

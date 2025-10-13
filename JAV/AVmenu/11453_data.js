@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a3ef992a-bf2e-4a00-a3c4-f77a792e170c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/16/4756bb27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11453,
+  "IDcode": "JUQ-859",
+  "title": "【風俗經驗！】純潔的未婚妻做愛技術精湛，讓我很懷疑 ~ 竹田夢",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "網襪",
+    "深喉",
+    "按摩・物理治療・美容",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "貓耳裝飾",
+    "女友・妻子",
+    "騎乗位",
+    "若妻",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "明星臉",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "熟女"
+  ],
+  "description": "JUQ-859为MADONNA出品,2024年10月8日发行的有碼成人影片由竹田夢出演\nMahiro 是 Yuzuru 的未婚夫，也是一家擁有 150 年歷史的和服店的長子。為了嫁入名門望族，她必須得到嚴厲的父親的認可。美麗、健康、整潔，真弘是完美的妻子……但是……事實上，她還有另一張臉：連續兩年排名第一的傳奇妓女「莉卡醬」。這絕對不能揭露。她訴諸自己的貞操感，不讓她結婚前發生性行為，幾乎到了這個地步…然而身經百戰的利卡醬（真弘飾）卻在不知不覺中展現了他的「驚人技術」。結弦對真弘產生了懷疑。然後，真尋的父親請偵探調查真尋的背景。我們該做什麼？ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003104736187187.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003104736187187.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11453",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11453&name=竹田夢"
+    }
+  ]
+};

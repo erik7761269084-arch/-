@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4213708c-29bd-412a-8ac4-7536fcb2e6c8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/25/ef1df50e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11778,
+  "IDcode": "NSFS-317",
+  "title": "讓你夢想成真。與夢想中的人妻一起度過夢幻般的性體驗！ ~ 雪川櫻花",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "苗條",
+    "後入",
+    "上門福利",
+    "企畫",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "蒙面・面罩",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "粉絲福利",
+    "出軌",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240922/baee8796-e675-4e51-a131-4b10f3d6b920.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240922/baee8796-e675-4e51-a131-4b10f3d6b920.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11778",
+  "actresses": [
+    {
+      "name": "雪川桜花",
+      "img_url": "https://picture.yoshiclub.xyz/20240922/40a4d6bc-490d-4074-b9da-0ca614c14f50.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11778&name=雪川桜花"
+    },
+    {
+      "name": "美仓あやみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11778&name=美仓あやみ"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/09/28/574eece5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88013,
+  "IDcode": "EBOD-763",
+  "title": "「だってエッチが好きなんだもん」美白巨乳のメチャ可愛アパレル店員 衣吹かのん 19歳AVデビュー",
+  "publish_date": "2020-09-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "潮吹",
+    "首次亮相",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230904-1/dfa97e853e1778cae4ce6195daadd247.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88013",
+  "actresses": [
+    {
+      "name": "衣吹花音",
+      "img_url": "https://picture.yoshiclub.xyz/20230711/9f2d00f2-39ee-455d-b8d6-2e3061a25020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88013&name=衣吹花音"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88013&name=イセドン内村"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88013&name=タツ"
+    },
+    {
+      "name": "市川润",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88013&name=市川润"
+    }
+  ]
+};

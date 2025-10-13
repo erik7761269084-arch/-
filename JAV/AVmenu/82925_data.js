@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/02/71db882f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82925,
+  "IDcode": "XVSR-522",
+  "title": "涼宮琴音ちゃんのリアル自宅を訪問！！アナタ目線でめちゃくちゃセックス 涼宮琴音",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "自慰",
+    "乳房",
+    "主观视角",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82925",
+  "actresses": [
+    {
+      "name": "凉宫琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82925&name=凉宫琴音"
+    }
+  ]
+};

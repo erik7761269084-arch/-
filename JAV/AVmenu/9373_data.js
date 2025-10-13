@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/340046d8-d771-4118-8449-a7767a8e8ad6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9373,
+  "IDcode": "MMPB-062",
+  "title": "新春快樂！爲您精心挑選的最華麗女優應援特輯 ~ 鬆本一香 友田彩也香 小花暖 天馬唯 浜崎真緒 深田泳美 彌生美月 東條夏 新村朱裏",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "企畫",
+    "形象俱樂部",
+    "4小時以上作品",
+    "口交",
+    "主觀視角",
+    "美少女",
+    "自慰",
+    "精選總編集",
+    "美人",
+    "節日限定",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/7e9bd56f-43ff-4c21-bffa-acdf56a65123.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/7e9bd56f-43ff-4c21-bffa-acdf56a65123.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9373",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=天馬唯"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=彌生美月"
+    },
+    {
+      "name": "松本一香",
+      "img_url": "https://picture.yoshiclub.xyz/20240408/2896c837-5c55-43d3-9af9-aae7a5355ea7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=松本一香"
+    },
+    {
+      "name": "新村朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230905/2de253ba-94e4-4453-8696-de0a1ab6ab9b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=新村朱里"
+    },
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=浜崎真緒"
+    },
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=友田彩也香"
+    },
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=小花暖"
+    },
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=東條夏"
+    },
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9373&name=深田詠美"
+    }
+  ]
+};

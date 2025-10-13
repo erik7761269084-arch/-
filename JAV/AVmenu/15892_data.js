@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/35955204-dd95-4c54-aedf-47d19f858c6f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15892,
+  "IDcode": "DASS-358",
+  "title": "沒想到在夜店中遇到了鄰居霸道渣女 ~ 我抓住了她的弱點，一遍又一遍地中出她，讓她成爲我的中出肉便器",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "飯店"
+  ],
+  "description": "DASS-358为DASDAS出品,2024年3月26日发行的有碼成人影片由美園和花出演\n我總是被霸道的鄰居和歌小姐挑釁。當我為了緩解平日的鬱悶而去成人娛樂業時，出乎意料的是和歌小姐出來了。 「你不想讓你的男朋友發現，對吧？」他威脅道，然後把它生生地插入了，沒有真正的健康。機車追擊活塞，不會在濕透的緊身衣中停止。她的大胸部沾滿了油，滑溜溜的，軟軟的。無憐憫的中出。之後我多次打電話給她，把她當作免費送醫服務。最後，我打電話給我的朋友並實施了強姦。來來來，洗洗身體。提升到接二連三撞擊子宮的邪惡陰莖。抓住她的頭，用力讓她射精。你知道你出了什麼問題嗎？把它深深地含在嘴裡。她沉迷於享樂，最後要求喝濃濃的精液。真是個可憐的女人（笑）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065838900900.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240323/20240323065838900900.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15892",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15892&name=美園和花"
+    }
+  ]
+};

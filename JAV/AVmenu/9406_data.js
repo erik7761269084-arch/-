@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f433c1fe-51e8-498d-af28-4e0a4d8878be/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/30/41ee4fff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9406,
+  "IDcode": "FOCS-231",
+  "title": "【G杯隱匿巨乳】女友是我還是處男時候交往的第一個女友，一開始的地味素樸女孩，經過性愛的澆灌後，變身爲一個隨便就可以操的超絕肉食系癡女 ~ 月見若葉",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "文藝女",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "美腳",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "地味",
+    "眼鏡",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "FOCS-231为妄想族出品,2025年1月7日发行的有碼成人影片由月見若葉出演\n若葉，我身為素人處女的第一個女朋友。她是個戴著眼鏡的普通女孩，但她有一張很可愛的臉，我很喜歡她。交往不久，我就把她叫到我家，和她過夜約會，當我把她的衣服脫掉時，她竟然是一個擁有美麗巨乳的肉食女孩！我對這意外的差距感到興奮，無法停止勃起，於是我和她發生了一夜的性關係！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085452662662.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/20250102085452662662.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9406",
+  "actresses": [
+    {
+      "name": "月見若葉",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/654e69ae-4525-4aa8-88e6-b7bd6162a471.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9406&name=月見若葉"
+    }
+  ]
+};

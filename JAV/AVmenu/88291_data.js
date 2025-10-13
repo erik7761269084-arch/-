@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231003/1MH6qocv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88291,
+  "IDcode": "BHG-034",
+  "title": "悩殺‘癒し痴女’お姉さん 雪美千夏",
+  "publish_date": "2019-09-25",
+  "type": "有码",
+  "company": "Gain Corporation",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/805349202b89de9417349deef3091ac8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88291",
+  "actresses": [
+    {
+      "name": "雪美千夏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/雪美千夏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88291&name=雪美千夏"
+    }
+  ]
+};

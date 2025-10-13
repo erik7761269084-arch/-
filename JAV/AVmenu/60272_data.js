@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/d549e635/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60272,
+  "IDcode": "OFSD-038",
+  "title": "欲求不満ギャルしかいない男はボク1人のヤリマン編集部 すぐにでも辞めたいけど…1日20回射精するまで退職できません！",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "内衣",
+    "女生",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60272",
+  "actresses": []
+};

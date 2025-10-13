@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/27782efd-81fe-4d21-80f0-6310bb607043/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/03/e5a17194/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8391,
+  "IDcode": "ALDN-424",
+  "title": "妻子閨蜜突然在我面前褲掉了褲子 ... ~ 桃井しずか",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女友閨蜜",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "出軌",
+    "美人",
+    "熟女",
+    "綠茶婊"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250208/7183be6c-7d85-4826-950e-079a61011884.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/7183be6c-7d85-4826-950e-079a61011884.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8391",
+  "actresses": [
+    {
+      "name": "桃井しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/50526825-bb96-4f1e-bfd0-5812ceaf0c3e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8391&name=桃井しずか"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8391&name=ひょこり"
+    }
+  ]
+};

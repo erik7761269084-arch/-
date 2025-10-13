@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230720/AzK0YUH6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87200,
+  "IDcode": "GMEM-076",
+  "title": "【FANZA限定】ULTRA SWEET赤貝 美少女戦士爆淫玩具化調教 ～無垢なる幼肉限界絶頂地獄～ もなみ鈴 パンティと生写真とデジタル写真集付き",
+  "publish_date": "2022-08-10",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "捆绑",
+    "羞耻",
+    "拘束",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87200",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87200&name=岩下たろう"
+    },
+    {
+      "name": "もなみ铃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87200&name=もなみ铃"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240503/2fqM02Y3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57861,
+  "IDcode": "22C1DD0BA4C8B20622196966810FA0BB",
+  "title": "超级白虎可爱学生妹萝莉，撸点太高，最干净的白虎粉穴之一，后入美臀梁旭内射两次，粉穴太紧把它撑大，萝莉娇滴滴的不敢太用力插",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57861",
+  "actresses": []
+};

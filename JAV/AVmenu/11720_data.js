@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a271753-e97a-489c-a209-cfd71b4fc739/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11720,
+  "IDcode": "WAWA-027",
+  "title": "雨天溼漉漉的身體讓人欲火中燒的巨乳人妻，專屬 ~ 夢野瑪莉亞",
+  "publish_date": "2024-09-26",
+  "type": "有码",
+  "company": "HAWAII",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/bfb92ade-b7c1-4622-a2ba-9890a36a195c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/bfb92ade-b7c1-4622-a2ba-9890a36a195c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11720",
+  "actresses": [
+    {
+      "name": "夢野瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-夢野まりあ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11720&name=夢野瑪麗亞"
+    }
+  ]
+};

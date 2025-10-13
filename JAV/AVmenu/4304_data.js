@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81e0511f-0b53-4162-99b2-20c42a18ac51/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4304,
+  "IDcode": "ROYD-254",
+  "title": "假裝情侶先來一發！為了安撫逼婚的爸媽，我當了可愛女同事的一日男友 ~ 虹村由美",
+  "publish_date": "2025-07-18",
+  "type": "有码",
+  "company": "ROYAL",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "傲嬌",
+    "色白",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "大奶头",
+    "短髮",
+    "羞恥"
+  ],
+  "description": "ROYD-254为ROYAL出品,2025年7月18日发行的有碼成人影片由虹村由美出演\n被公司超甜女同事拉去当一日男友，假装情侣应付她爸妈。本以为会被嫌弃，结果居然和她爸妈聊得火热，关系拉得飞快！她急了想拆台，但又不能露馅，只能硬着头皮演下去。结果被爸妈安排一起洗澡、钻一个被窝，假戏真做的感觉越来越上头，气氛暧昧到不行，后面会擦出啥火花你懂的啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170040227171_66681_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250717/202507170040227171_66681_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4304",
+  "actresses": [
+    {
+      "name": "虹村由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240802/1856ac29-74fb-4966-9a71-2ce9489ed910.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4304&name=虹村由美"
+    }
+  ]
+};

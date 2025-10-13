@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/21/eb783bb4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90979,
+  "IDcode": "JUQ-334",
+  "title": "寝取らせ串刺し輪● 愛する妻を深奥まで犯し尽くして下さい―。 玉城夏帆",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240308-1/ab3298ce027faddbf9d02bdf0251150d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90979",
+  "actresses": [
+    {
+      "name": "玉城夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/38bdeeca-b286-487d-9966-b060917d40a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90979&name=玉城夏帆"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90979&name=大岛丈"
+    }
+  ]
+};

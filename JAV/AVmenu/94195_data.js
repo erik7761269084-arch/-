@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241021/owHajpAQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94195,
+  "IDcode": "SDJS-278",
+  "title": "担当業務じゃなくても同僚が困っていたら一緒にがんばっちゃう 制作部美術班 中途2年目 北村海智 SEX業務が撮影出来たのでAVデビューという事になります SOD女子社員ハイエロポテンシャルタスクシート",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/1f19f1c85bcfbe0bfbc673e01da91b4d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94195",
+  "actresses": [
+    {
+      "name": "北村海智",
+      "img_url": "https://picture.yoshiclub.xyz/20241027/f1cbe407-f71c-4491-98c9-326c292d4c70.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94195&name=北村海智"
+    }
+  ]
+};

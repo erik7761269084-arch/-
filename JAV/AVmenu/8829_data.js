@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9adafa86-1b4c-428d-88b5-9809c3fcbe0e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/18/d94d653d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8829,
+  "IDcode": "HMN-649",
+  "title": "每天照顧我的可愛護士，半夜在空蕩蕩的病房裏被醫院院長操了！她被授精，被壓倒，操到精子倒流……夜班NTR ~ 東條夏",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "癡女",
+    "看病・住院",
+    "NTR",
+    "美人",
+    "護士",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HMN-649为本中出品,2025年1月28日发行的有碼成人影片由東條夏出演\n當我骨折後第一次住院時，我愛上了笑容可愛的護士納茲。上夜班的時候，我常常能和夏同學單獨交談，這對我來說是一件很有趣的事。有一天晚上，當我像往常一樣去護士站看她時，她不在。正當我焦急地尋找她的時候，安靜空蕩的病房裡傳來一男一女的聲音。納茲桑？ ？ ？想到這裡，我緩緩向病房內望去……只見一名白大褂老者將納茲按倒在床上，看到白大褂的墮落天使壓著聲音高潮……",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072125370370.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123072125370370.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8829",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8829&name=東條夏"
+    }
+  ]
+};

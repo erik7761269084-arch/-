@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/17/54e899bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59941,
+  "IDcode": "JAVC-VTAZD7VC",
+  "title": "罩杯前地下偶像凭借敏感的身体和剃光的阴部达到7次高潮",
+  "publish_date": "2025-09-18",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59941",
+  "actresses": []
+};

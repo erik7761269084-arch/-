@@ -1,0 +1,139 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f540965-144c-4cdf-a10e-0cf463b080e2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 5218,
+  "IDcode": "GMAB-006",
+  "title": "鄉下老宅裡被緊縛調教的女學生精選合集 第二彈 純情美少女身心淪陷繩藝快感 10人4小時 ~ 綾瀨ひまり はないしずく 渚光希 白石環奈 森咲はるの 河合陽菜 天野花乃 由良佳奈 千石もなか 中城葵",
+  "publish_date": "2025-06-07",
+  "type": "有码",
+  "company": "GLOBAL MEDIA ANNEX",
+  "genres": [
+    "苗條",
+    "導尿",
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "二次元",
+    "絕頂高潮",
+    "性虐癖",
+    "蠟燭",
+    "吞精",
+    "調教",
+    "深喉",
+    "校花",
+    "色白",
+    "雙馬尾",
+    "凌辱",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "綁架",
+    "4小時以上作品",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "監禁",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "美少女",
+    "暗黑系",
+    "緊縛",
+    "清楚系",
+    "鬼畜片",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "心理驚悚",
+    "大奶头",
+    "精選綜合",
+    "插入異物",
+    "口球",
+    "紋身刺字",
+    "打屁股",
+    "美少女電影",
+    "女學生",
+    "拳擊交",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "GMAB-006为GLOBAL MEDIA ANNEX出品,2025年6月7日发行的有碼成人影片由由良佳奈，渚光希，天野花乃，白石環奈，中城葵，森咲はるの， 綾瀬ひまり，河合陽菜，千石もなか，はないしずく出演\n超人氣系列《鄉下老宅裡被緊縛調教的女學生》精選10位美少女的超值合集來囉！從第11部到第20部，精心剪輯濃縮成這部頂級收藏品。劇情超有感覺，純情美少女在繩子、蠟燭和鞭子的刺激下徹底淪陷，嬌喘不停，欲罷不能！不僅有硬核玩法，深層次的繩藝緊縛和日式風情也讓人上癮。10位美少女，240分鐘的極致享受，不管你是第一次看還是老粉，這部永久珍藏版絕對不能錯過，趕快來爽一波吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5218",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=由良佳奈"
+    },
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=渚光希"
+    },
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=千石もなか"
+    },
+    {
+      "name": "中城葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/09bbbdf9-f79a-473d-b91d-b2071b8b3675.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=中城葵"
+    },
+    {
+      "name": "天野花乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/3eca0983-85a5-48d9-8a6c-8a07e5b92b4a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=天野花乃"
+    },
+    {
+      "name": "河合陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240704/1df72745-df9d-4467-b773-298af2b539a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=河合陽菜"
+    },
+    {
+      "name": "白石環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/1b9431b5-57c0-4fe3-916f-90f05c52a063.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=白石環奈"
+    },
+    {
+      "name": "森咲はるの",
+      "img_url": "https://picture.yoshiclub.xyz/20250225/d95bc051-3bc5-446b-a024-1408d5eb8ea3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=森咲はるの"
+    },
+    {
+      "name": "綾瀬ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20241207/5f0fba89-b7b0-4747-b493-d7c3f1c9336b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=綾瀬ひまり"
+    },
+    {
+      "name": "はないしずく",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/花井しずく.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5218&name=はないしずく"
+    }
+  ]
+};

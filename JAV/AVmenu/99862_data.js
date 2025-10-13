@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230225/4576246F10259AFB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99862,
+  "IDcode": "HODV-21416",
+  "title": "魅惑のFカップ 回春中出しエステサロン 古賀まつな",
+  "publish_date": "2019-10-04",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "中出",
+    "制服",
+    "乳房",
+    "美容院",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/5642hodv21416/5642hodv21416pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99862",
+  "actresses": [
+    {
+      "name": "古贺まつな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99862&name=古贺まつな"
+    }
+  ]
+};

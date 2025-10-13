@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/s53kpopi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82658,
+  "IDcode": "HND-557",
+  "title": "声出したら中に出すぞ！！追い詰め孕ませレ×プ～ストーカーに脅されたOL～ 有坂深雪",
+  "publish_date": "2018-08-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "美少女",
+    "中出",
+    "强奸",
+    "数位马赛克",
+    "OL",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82658",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82658&name=有坂深雪"
+    }
+  ]
+};

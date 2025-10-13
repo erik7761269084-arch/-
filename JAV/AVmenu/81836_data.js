@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/KB4cpjGP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81836,
+  "IDcode": "NACX-050",
+  "title": "おっぱい激揺れ！超乳熟女の中出しセックス10人",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/60227e81e04573afc55e1be381636ec4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81836",
+  "actresses": [
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=真木今日子"
+    },
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=七草千歲"
+    },
+    {
+      "name": "塚田詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ac3a0344-fda4-4482-8f6c-911ba6412c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=塚田詩織"
+    },
+    {
+      "name": "彩奈莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/72bb4b00-c5f3-40f8-a6d2-eb03c451b0f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=彩奈莉娜"
+    },
+    {
+      "name": "羽生ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20230506/a2baf6d1-30fb-4ddf-a6f5-5a930b7df783.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=羽生ありさ"
+    },
+    {
+      "name": "时田こずえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=时田こずえ"
+    },
+    {
+      "name": "樱井夕树",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=樱井夕树"
+    },
+    {
+      "name": "响りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=响りん"
+    },
+    {
+      "name": "青木りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81836&name=青木りん"
+    }
+  ]
+};

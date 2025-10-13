@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/P1AGHMlW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77159,
+  "IDcode": "NKKD-141",
+  "title": "北関東方面への一泊二日の地方出張で会社の経費削減の一環でツインの相部屋で現地泊する事になってしまった女上司と絶倫部下 今井夏帆",
+  "publish_date": "2019-10-07",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "苗条",
+    "调教",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/17bd65755cafdd92da750be0de4e5199.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77159",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77159&name=今井夏帆"
+    }
+  ]
+};

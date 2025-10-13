@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230215/CC5BCDA345566E77/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99621,
+  "IDcode": "MIGD-395",
+  "title": "巨乳処女×真性中出し 里美理恵",
+  "publish_date": "2011-06-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "处女",
+    "巨乳",
+    "中出",
+    "多P",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/migd395/migd395pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99621",
+  "actresses": [
+    {
+      "name": "里美理恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99621&name=里美理恵"
+    }
+  ]
+};

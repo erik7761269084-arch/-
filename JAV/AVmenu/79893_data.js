@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/pXMhQATw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79893,
+  "IDcode": "NSFS-032",
+  "title": "夫婦人質事件 ～朝から晩まで性欲の道具にされた妻～ 乃木はるか",
+  "publish_date": "2021-10-12",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/51f0c7ce4b2cbfa291fd5112f0551f76.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79893",
+  "actresses": [
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79893&name=乃木遥"
+    }
+  ]
+};

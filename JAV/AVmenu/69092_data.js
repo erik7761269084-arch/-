@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250331/8nAFMb1s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69092,
+  "IDcode": "L",
+  "title": "要认真去做。罩杯100cm-李佳绝顶4sex【专属第2弹-庵姫花。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/89a8a156f3cc358c8b3ce67fb8c95f12.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69092",
+  "actresses": []
+};

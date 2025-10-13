@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/780384fd-cc42-491c-adea-91af8f64fa66/playlist.m3u8",
+  "线路2": "https://vip1.slslvip12.com/20220927/PhUYEj1L/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1119,
+  "IDcode": "HEYZO-1613",
+  "title": "May Doll Vol.10～主人的聽話性愛玩偶",
+  "publish_date": "2017-11-21",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "性愛娃娃"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113232131146146.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231113/20231113232131146146.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1119",
+  "actresses": [
+    {
+      "name": "白瀬心乙",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-白瀬心乙.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1119&name=白瀬心乙"
+    }
+  ]
+};

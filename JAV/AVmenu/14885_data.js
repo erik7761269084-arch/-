@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f2f67cc-333c-45ae-9106-a5bf99a43a84/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240618/swgoyypG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14885,
+  "IDcode": "JUQ-695",
+  "title": "壞女人NTR～我的報復就是搶走你的丈夫……～治愈系專屬美女《壞女人解除！！》 ~ 葉山小百合",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "心機婊",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "熟女",
+    "報復"
+  ],
+  "description": "JUQ-695为MADONNA出品,2024年5月14日发行的有碼成人影片由葉山小百合出演\n葉山夫婦購買了二手公寓，開始了新的生活。然而，小百合的妻子小百合受到了附近家庭主婦的注意，她們兩個相處得很好。當我繼續收到尖刻的評論和嚴重的騷擾時，我正處於精神崩潰的邊緣。當時，小百合在網路上發現瞭如何透過勾引她討厭的女人的情人和丈夫來報仇。然後，當小百合摘下眼鏡，嘴唇被染成紅色，穿著挑釁的內衣和挑釁的衣服時，她開始對目標鄰家男人像「壞女孩」一樣微笑…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510043535741741.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510043535741741.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14885",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14885&name=葉山小百合"
+    }
+  ]
+};

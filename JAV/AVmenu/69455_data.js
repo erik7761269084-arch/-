@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/10/d45fc7e5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69455,
+  "IDcode": "HUNTC-274",
+  "title": "- 妻の女友達2人とヤッては寝て…を繰り返すだけの狂った三日間。ボクの妻が帰省中に妻の友達と浮気セックスしまくりのヤリ部屋となったボクと妻の寝室 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/10/d45fc7e5/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69455",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240625/7Q4eSDCr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96992,
+  "IDcode": "CAWD-104C",
+  "title": "被雨淋濕的學生妹和暗戀的中年老師在學校教室內瘋狂做愛的一晚 吉良鈴",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96992",
+  "actresses": []
+};

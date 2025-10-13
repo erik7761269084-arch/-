@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230209/4724C42E1A53AFAD/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99456,
+  "IDcode": "BLK-392-",
+  "title": "家出中の嫌がる巨乳ギャルのデカ乳首を執拗にねっちょり",
+  "publish_date": "2018-12-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "制服",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99456",
+  "actresses": [
+    {
+      "name": "星宮虹乃",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/bf02cac3-867d-41b0-96e3-3106eeba0df2.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99456&name=星宮虹乃"
+    }
+  ]
+};

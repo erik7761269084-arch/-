@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/PFJZdFDu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88944,
+  "IDcode": "USAG-057",
+  "title": "【FANZA限定】我マン汁溢れる日焼けギャルま○こ調教週姦「発情期なので好き勝手使ってください」ドMサーファー 瀬那ルミナ パンティとチェキ付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "各种职业",
+    "荡妇",
+    "女生",
+    "潮吹",
+    "晒黑",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88944",
+  "actresses": [
+    {
+      "name": "瀬那瑠美奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/8285743d-fa71-4e90-98dc-b4cea336c46b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88944&name=瀬那瑠美奈"
+    }
+  ]
+};

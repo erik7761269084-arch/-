@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/21/6346ca81/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100969,
+  "IDcode": "RS-042",
+  "title": "素人レズビアン 生撮り 看護師が女子大生を愛するとき…",
+  "publish_date": "2014-10-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "女同性恋",
+    "业余",
+    "护士",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/11/21/13c43e4cbbe1261a352b1089e4445f22.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100969",
+  "actresses": [
+    {
+      "name": "須崎美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20240217/5ae4418e-f02b-484f-82e4-fc714d3eca70.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100969&name=須崎美羽"
+    },
+    {
+      "name": "凉南佳奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100969&name=凉南佳奈"
+    }
+  ]
+};

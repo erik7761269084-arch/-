@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/5eff724b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95259,
+  "IDcode": "RCTD-629",
+  "title": "壁尻×近親相姦ゲーム3",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "高中女生",
+    "中出",
+    "乱伦",
+    "屁股",
+    "肛交",
+    "羞耻",
+    "企画",
+    "拘束",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95259",
+  "actresses": []
+};

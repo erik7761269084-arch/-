@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1ef781f9-fa32-4a94-8205-4d4170493948/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/10/24/db42d425/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18504,
+  "IDcode": "MIAA-958",
+  "title": "G罩杯巨乳家庭教師的成績管理系統 光屁股性愛輔導",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "口交",
+    "性感",
+    "家庭教師",
+    "巨乳"
+  ],
+  "description": "MIAA-958为MOODYZ出品,2023年10月3日发行的有碼成人影片由森下悠莉出演\n森下悠莉初・中出し解禁作品 貼心乳房私人輔導，成績大提升！ 一個巨乳家教老师森下悠莉出現在面前！ 学生興奮地開始學習，但困恼的是大奶子在面前晃啊晃的，鸡巴总是硬起来根本无法集中精神！ 為了提高成績，森下悠莉老師说好好学习就奖励做爱！ 從那時起，成績和性技巧都直線上升！ 一堂夢幻般的特別課堂即將開始！\n森下悠莉初・中出し解禁作品 貼心乳房私人輔導，成績大提升！ 一個巨乳家教老师森下悠莉出現在面前！ 学生興奮地開始學習，但困恼的是大奶子在面前晃啊晃的，鸡巴总是硬起来根本无法集中精神！ 為了提高成績，森下悠莉老師说好好学习就奖励做爱！ 從那時起，成績和性技巧都直線上升！ 一堂夢幻般的特別課堂即將開始！",
+  "cover_url": "https://picture.yoshiclub.xyz/20230930/20230930020124614614.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930020124614614.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18504",
+  "actresses": [
+    {
+      "name": "森下悠莉",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/d1d00cee-fb2c-48b7-84cc-32526f3f6779.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18504&name=森下悠莉"
+    },
+    {
+      "name": "ふれんち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18504&name=ふれんち"
+    }
+  ]
+};

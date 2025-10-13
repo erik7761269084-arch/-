@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/462562FD7AB80CED/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55932,
+  "IDcode": "3DE0BB239588507F7D66F675704A1B9A",
+  "title": "透明泳衣的粘稠遊戲",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55932",
+  "actresses": []
+};

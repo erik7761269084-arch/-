@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/90484378-cc48-4ce9-9079-911ec944fe1c/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/31d06f7b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3017,
+  "IDcode": "IPZZ-657",
+  "title": "女友不在的兩天，去體驗了高檔風俗店，結果陷入了小姐姐的巨乳和絕技中出誘惑 ~ 役野滿裏奈",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "泡姬",
+    "超爆乳",
+    "色白",
+    "中出",
+    "美乳",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "拜金女",
+    "單體作品",
+    "情趣內衣",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "獵豔",
+    "猥褻穿著",
+    "抹油",
+    "NTR",
+    "美人",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "IPZZ-657为IDEA POCKET出品,2025年9月4日发行的有碼成人影片由役野満里奈出演\n女友不在的這兩天，跟風俗店小姐姐滿里奈來了一場中出純愛劇！跟女友的性生活不順？沒事，來我這中出吧！就是這句話，讓我徹底淪陷，兩天瘋狂搖腰11次，爽到天上去！她的胸軟得誇張，下面更是緊到不行，插進去的那瞬間，感覺整個人都被吸走了！她問：你是不是愛上我了？雖然我有最愛的女友，但現在的我，已經回不去了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021326377377_92495_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021326377377_92495_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3017",
+  "actresses": [
+    {
+      "name": "役野満里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240510/7053c94b-2cfc-4ac9-8834-59a20e3928f0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3017&name=役野満里奈"
+    }
+  ]
+};

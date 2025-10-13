@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/09/31e6e659/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97658,
+  "IDcode": "SDDE-376",
+  "title": "デカちん執事をオナニー道具のために雇って、腰フリ騎乗位で快楽を満たす美人三姉妹",
+  "publish_date": "2014-11-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "女上位",
+    "屁股",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97658",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97658&name=波多野结衣"
+    },
+    {
+      "name": "佳苗瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/854d200e-c0ea-4818-afeb-f1d27c90a2a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97658&name=佳苗瑠華"
+    },
+    {
+      "name": "早瀬ありす",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97658&name=早瀬ありす"
+    }
+  ]
+};

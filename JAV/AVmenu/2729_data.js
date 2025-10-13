@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e2ad9d5d-a341-4b08-8374-ed30bd16cadb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2729,
+  "IDcode": "EBWH-257",
+  "title": "超色爆尻，天才腰技，性愛化身 極致 fetish 特寫 全球最騷的騎乘位視覺盛宴 傳奇幹炮映像 ~ 美谷朱里",
+  "publish_date": "2025-09-11",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "4K",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "正統派",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "熟女",
+    "極品美人",
+    "豐滿",
+    "女優"
+  ],
+  "description": "EBWH-257为E-BODY出品,2025年9月11日发行的有碼成人影片由美谷朱里出演\n腰技、臀型、fetish 全都拉满！美谷朱音用她那传奇般的腰肢摇摆，打造出让人血脉喷张的极致 fetish 画面！这可不是普通的性爱，每一帧都直击视觉和肉欲，120 分钟全程高能，爽到灵魂出窍！网友直呼：每 10 秒就能冲一次！这不只是肉体艺术，是 fetish 的巅峰之作！那超乎常人的弹力腰肢和滴水的爱液，真实到爆，光是看看就让人脑子发麻，绝对是摇摆腰肢 fetish 的终极收藏版！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015611469469_70031_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015611469469_70031_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2729",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2729&name=美谷朱里"
+    }
+  ]
+};

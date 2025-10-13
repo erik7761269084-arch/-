@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220319/A921503965D8799E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59506,
+  "IDcode": "MAAN-514",
+  "title": "I杯山雀缩身超过100厘米！滚下牛奶底部的牛奶！19岁的人仍在增长乳房！自然丰满的乳沟马●柯！丽岩发生的Paizuri革命！！itch！滚！旋转摇！穿得越多~横冲直撞！大释放到大乳房",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59506",
+  "actresses": []
+};

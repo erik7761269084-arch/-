@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/70c31670-3dfa-471c-bade-e1dcae7fd6eb/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/20/22ded046/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5564,
+  "IDcode": "SONE-778",
+  "title": "前偶像現役網路紅人 潮吹痙攣爆紅網路 ~ 櫻乃莉乃",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "4K",
+    "偶像",
+    "流汗",
+    "色白",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "無毛",
+    "女優",
+    "網路紅人"
+  ],
+  "description": "SONE-778为S1出品,2025年6月6日发行的有碼成人影片由櫻乃莉乃出演\n今天我的偶像小穴要被玩壞啦，麻煩大家全網轉發幫忙衝一波！這位前偶像妹子一心想靠激烈性愛飆到高潮巔峰，狠狠刷爆流量啦！沒問題，安排好了！讓那嬌小的少女身軀爽到失控，猛男們衝衝衝，用力幹到她覺醒為止！現役網紅AV女優櫻乃莉乃，第四部作品就直接身體狂抖痙攣，徹底放飛自我，真的不要太刺激啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035030920920_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035030920920_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5564",
+  "actresses": [
+    {
+      "name": "櫻乃莉乃",
+      "img_url": "https://picture.yoshiclub.xyz/20250306/88344ec0-e1a4-4e79-b4fa-6efdfc49727f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5564&name=櫻乃莉乃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5564&name=イセドン内村"
+    }
+  ]
+};

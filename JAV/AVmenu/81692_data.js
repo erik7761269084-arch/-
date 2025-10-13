@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/LI3EOx8M/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81692,
+  "IDcode": "DSD-791",
+  "title": "白女尻4",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "乳液",
+    "肛交",
+    "巨大屁股",
+    "西洋片"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/de7bdea14aa5e818a2223b9a53446f65.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81692",
+  "actresses": [
+    {
+      "name": "アニカ アルブライト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=アニカ アルブライト"
+    },
+    {
+      "name": "ミア・レラーニ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=ミア・レラーニ"
+    },
+    {
+      "name": "ジュリア・アン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=ジュリア・アン"
+    },
+    {
+      "name": "リリス・ラヴェイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=リリス・ラヴェイ"
+    },
+    {
+      "name": "レキシー・ベル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=レキシー・ベル"
+    },
+    {
+      "name": "ライリー・エヴァンス",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=ライリー・エヴァンス"
+    },
+    {
+      "name": "キャグニー リン カーター",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=キャグニー リン カーター"
+    },
+    {
+      "name": "ナタリア・スター",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81692&name=ナタリア・スター"
+    }
+  ]
+};

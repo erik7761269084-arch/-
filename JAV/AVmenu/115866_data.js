@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/23/5ff3372e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115866,
+  "IDcode": "FC2PPV-3986224F",
+  "title": "罩杯25岁药剂师",
+  "publish_date": "2025-08-23",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/5ff3372e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115866",
+  "actresses": []
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/06/ce30f68e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92051,
+  "IDcode": "MDBK-289",
+  "title": "指先から膣穴まで駆使する全裸スレンダー回春オイルエステ",
+  "publish_date": "2023-05-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "苗条",
+    "按摩",
+    "乳液",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92051",
+  "actresses": [
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92051&name=藤田梢"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92051&name=篠田优"
+    }
+  ]
+};

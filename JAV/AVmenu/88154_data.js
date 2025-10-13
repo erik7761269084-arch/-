@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/bCZWHsFR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88154,
+  "IDcode": "PPPE-039",
+  "title": "Hcupの巨乳が目立ち過ぎちゃってた元地方局アナウンサーAVデビュー 百瀬りこ",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "潮吹",
+    "口交",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/ee7f008ea2cb50513dfc0cae8e02c49b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88154",
+  "actresses": [
+    {
+      "name": "百瀨莉子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250714/8e697530-fd34-41c9-ae23-708ed38055b3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88154&name=百瀨莉子"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88154&name=小田切ジュン"
+    },
+    {
+      "name": "叶月桃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88154&name=叶月桃"
+    }
+  ]
+};

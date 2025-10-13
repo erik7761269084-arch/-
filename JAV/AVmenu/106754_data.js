@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/08/dca5a25a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106754,
+  "IDcode": "STARS-450",
+  "title": "ドS愛人の超絶上から見下しマウント騎乗位!ダメな男を罵ることで快感を得る激ヤバ痴女の密室射精管理 本庄鈴",
+  "publish_date": "2021-10-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106754",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106754&name=本庄鈴"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106754&name=蓝井优太"
+    }
+  ]
+};

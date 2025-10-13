@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/df5edd8a-18d4-4104-9f8b-8831e225d523/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14663,
+  "IDcode": "EBWH-106",
+  "title": "被無良脊椎按摩師操了……雨宮響運動員般的身體跳躍抽搐 ~雨宮響",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "內衣",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "無毛",
+    "飯店"
+  ],
+  "description": "EBWH-106为E-BODY出品,2024年5月21日发行的有碼成人影片由雨宮響出演\n大胸運動員飛起來了！ ！脊椎按摩師的技術讓她射精，乳房在彈跳，臀部在彎曲和抽搐！ ！ ！女排運動員沉重的Hcup被無良按摩師的手法重重擊中……並達到了從未達到過的最深的快感……！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517024738302302.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517024738302302.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14663",
+  "actresses": [
+    {
+      "name": "雨宮響",
+      "img_url": "https://picture.yoshiclub.xyz/20240115/e1e1db12-ac1b-44b0-99e0-ab49085fbb98.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14663&name=雨宮響"
+    }
+  ]
+};

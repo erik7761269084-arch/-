@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fd3339aa-bf2a-405e-b86a-a2307a7fdff7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/2bec2b5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3697,
+  "IDcode": "AVSA-391",
+  "title": "TWIN EROTICA W巨乳剛毛姐姐用SNS釣到M男狠狠榨精啦！~ 寶生梅 鈴木真夕",
+  "publish_date": "2025-08-08",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "老頭子",
+    "調教",
+    "4K",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "後宮系",
+    "監禁",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "拜金女",
+    "清純",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "鬃毛",
+    "足交",
+    "猥褻穿著",
+    "兩女一男",
+    "M男・M女",
+    "約炮",
+    "美人",
+    "綠茶婊",
+    "豐滿",
+    "女優"
+  ],
+  "description": "AVSA-391为2025年8月8日发行的有碼成人影片由鈴木真夕，宝生めい出演\n兩位超敏感又超色的剛毛姊姊，把M男當獵物，玩起變態色色大作戰！這對大胸剛毛姊姊在SNS上釣到一票男粉，直接把人騙進房間半囚禁調教，超辣身材加上淫蕩技巧，撩得男粉們欲罷不能，榨精榨到腿軟！那天然未處理的茂密剛毛，色氣直接爆表！撥開剛毛直接插入，愛液和精液糾纏，胯下都快冒泡啦！還有雙倍大胸壓臉窒息攻擊，爽到飛天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013353370370_50181_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013353370370_50181_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3697",
+  "actresses": [
+    {
+      "name": "鈴木真夕",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/010671b2-4d91-432b-a824-68286442fe7f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3697&name=鈴木真夕"
+    },
+    {
+      "name": "宝生めい",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/938134a7-6744-473d-923a-ba7db44f2d99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3697&name=宝生めい"
+    }
+  ]
+};

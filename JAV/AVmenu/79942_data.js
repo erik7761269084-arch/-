@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/dLmGfjvc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79942,
+  "IDcode": "MIDV-005",
+  "title": "大嫌いなこどおじ義兄の媚薬チ○ポで体液ドロドロ汗だく貪り合いキメセク性交 中山ふみか",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "成熟的女人",
+    "巨乳",
+    "乱伦",
+    "潮吹",
+    "羞耻",
+    "寡妇",
+    "兔女郎",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/5aa2f5904733c148bb707b5ddee3d435.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79942",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79942&name=中山文香"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79942&name=田渊正浩"
+    },
+    {
+      "name": "kaede",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79942&name=kaede"
+    },
+    {
+      "name": "宫下真纪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79942&name=宫下真纪"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230113/AF46B285F703189B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103091,
+  "IDcode": "MMGH-250",
+  "title": "制服少女inNTRマジックミラー号なつき(18)",
+  "publish_date": "2020-02-27",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "美少女",
+    "制服",
+    "苗条",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103091",
+  "actresses": [
+    {
+      "name": "浅仓真凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103091&name=浅仓真凛"
+    }
+  ]
+};

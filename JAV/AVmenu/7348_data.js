@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a8b9984c-37cd-4176-8c5c-ed4ada7b53ea/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/05a9d575/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7348,
+  "IDcode": "MISM-372",
+  "title": "解禁。心動呻吟扭動到崩潰。人外快感深喉專屬 ~ 二葉惠麻",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "性虐癖",
+    "吞精",
+    "老頭子",
+    "調教",
+    "深喉",
+    "變態",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "緊縛",
+    "清楚系",
+    "巨乳",
+    "按摩棒",
+    "M男・M女",
+    "女優訪談",
+    "美人",
+    "阪道系",
+    "極品美人",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MISM-372为えむっ娘ラボ出品,2025年3月25日发行的有碼成人影片由二葉惠麻出演\n真正的野獸會採取行動。深喉專家 Futaba Emma 的新篇章開始了。 「這是我一生中最愉悅的時刻。」連續六次灼燒喉嚨的組合。你的才華不僅限於此。一根直徑 3 毫米、長 17 公分的吸管假陽具被戳進胃裡。隨後，嘔吐物噴湧而出。一個眼睛佈滿血絲的美麗女孩。地下令人作嘔的汁液四溢開來，你能感覺到。很美麗。音波嘔吐轟鳴聲在你的突觸中產生共鳴。當這個令人毛骨悚然的老人將口水直接噴到她身上時，她抽泣著，高興得哭了起來。一個高大的男人壓下她的喉嚨並射精。喝。不要溢出。當這種撕心裂肺的深喉動作開始時，她興奮地扭動著身體。艾瑪醬，你也會從人類畢業嗎？",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320105704740740.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320105704740740.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7348",
+  "actresses": [
+    {
+      "name": "二葉惠麻",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/b0a5ec88-b9ba-4fc3-a4fb-695df3fbd618.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7348&name=二葉惠麻"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7348&name=鲛岛"
+    },
+    {
+      "name": "二叶エマ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7348&name=二叶エマ"
+    }
+  ]
+};

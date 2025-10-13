@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/02/3f8a2581/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61203,
+  "IDcode": "BDST-071",
+  "title": "妹のおっぱいは僕のモノ すっごく優しく褒められ見下されて犯●れる…甘やかしダメ男製造機 星乃夏月",
+  "publish_date": "2025-08-03",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/3f8a2581/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61203",
+  "actresses": []
+};

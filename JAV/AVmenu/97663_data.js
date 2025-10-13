@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220414/E587E3BDD3F2F035/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97663,
+  "IDcode": "NITR-495",
+  "title": "処女を捧げた彼氏に言われてAVに出るデカパイ娘がアヘ顔でイキ狂い",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "第一人称摄影",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97663",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97663&name=小梅惠奈"
+    }
+  ]
+};

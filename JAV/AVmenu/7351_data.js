@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aebb43e8-e276-456a-95a8-ceeeb72b759f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/8209c72f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7351,
+  "IDcode": "DASS-614",
+  "title": "被下媚藥狂冒汗發騷！下流弓腿噴水跟尿崩似的，敏感抽搐的熱瑜伽教室 ~ 慄山莉緒",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "瑜珈·健身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "健身房",
+    "凌辱",
+    "中出",
+    "美乳",
+    "早漏",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "運動服裝",
+    "小隻馬",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "性感",
+    "迷姦",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "熟女"
+  ],
+  "description": "DASS-614为DASDAS出品,2025年3月25日发行的有碼成人影片由栗山莉緒出演\n[麥當娜 x Dasu！ ]令人震驚的合作！ ]裡約參加熱瑜珈課時，一名男子注視著她苗條的身材。他趁機在她的水中放入了春藥…裡約的身體開始變熱。隔著衣服用羽毛撫摸敏感的私處。跳！瞬間喚醒開關打開！粗俗的蟹腿噴水尼加拉淋浴！聖水散發著白麝香的香氣。陰道收緊、陰莖享受的性交。她擁有令人印象深刻的腹肌，當她達到高潮並抽搐時，她的腰部會跳動。女牛仔式的抽插會破壞陰道深處的肉棒，讓你達到高潮！中出陰部被淹沒了！意識變得模糊，呼吸變得沉重，重力變得扭曲。一頭沉浸在汗流浹背、毒品引發的性愛中的變態野獸。成熟女性往往看起來很漂亮，真是太瘋狂了（哈哈）",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320105835329329.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320105835329329.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7351",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7351&name=栗山莉緒"
+    },
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7351&name=栗山莉绪"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241102/Yt0D22Kp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89492,
+  "IDcode": "SW-928",
+  "title": "お願いエッチさせて！う～ん、ゴムフェラだったらいいよ 童貞の僕はエッチしたくて土下座でお願いしたら、断れない幼なじみの妥協案はゴムフェラだった！？でも勃起チ○ポ舐めてたら興奮しちゃって、ねっとりバキュームフェラからマ○コに入れて欲しくなったみたい！",
+  "publish_date": "2023-12-07",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "口交",
+    "处男",
+    "童年朋友"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231219-1/c87199b4e4626c2b490ad50c0f8504cd.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89492",
+  "actresses": []
+};

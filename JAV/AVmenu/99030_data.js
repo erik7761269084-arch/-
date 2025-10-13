@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/EFF6E5FD73882CD4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99030,
+  "IDcode": "JUFD-976",
+  "title": "接吻乳首責めレズビアン ～敏腕女社長の卑猥なレズキスニップル調教～ 梨々花 澤村レイコ",
+  "publish_date": "2018-11-01",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "淫乱，真实",
+    "女同性恋",
+    "调教",
+    "女同接吻",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99030",
+  "actresses": [
+    {
+      "name": "高坂ますみ",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-Derekhsu/高坂保奈美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99030&name=高坂ますみ"
+    },
+    {
+      "name": "梨々花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99030&name=梨々花"
+    }
+  ]
+};

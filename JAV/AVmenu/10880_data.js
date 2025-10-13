@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fb38fa68-6688-4f66-8a42-7200b452c3e8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10880,
+  "IDcode": "GVH-698",
+  "title": "把生意氣巨乳俱樂部女經理操到頂點，讓她徹底在墮落中毀滅 ~ 有棲奏羽",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "純粹的慾望",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "變態",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "JK校服",
+    "顏射",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "厠所",
+    "體育舘",
+    "更衣室",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/dfb46089-c97d-443d-abbb-c24da31bdf81.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/dfb46089-c97d-443d-abbb-c24da31bdf81.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10880",
+  "actresses": [
+    {
+      "name": "有棲奏羽",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/f867a15e-7a22-4e69-ae5b-d0b4538bfe5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10880&name=有棲奏羽"
+    }
+  ]
+};

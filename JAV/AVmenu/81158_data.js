@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/oVk3qY5q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81158,
+  "IDcode": "SDMM-108",
+  "title": "看護師限定 童貞くんを赤面筆おろし…のはずが実は絶倫AV男優 失禁・痙攣お構いなし何度イっても止まらない激ピストンでイカせる!【マジックミラー号25周年記念作品】",
+  "publish_date": "2022-03-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "女上位",
+    "口交",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81158",
+  "actresses": [
+    {
+      "name": "日々樹梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20241205/31702bc5-8847-4c11-8586-d1e73eafa2ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81158&name=日々樹梨花"
+    },
+    {
+      "name": "朝比奈かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81158&name=朝比奈かれん"
+    },
+    {
+      "name": "珠未みさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81158&name=珠未みさ"
+    }
+  ]
+};

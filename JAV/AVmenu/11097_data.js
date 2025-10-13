@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/47d393af-babe-4633-bd7c-42ed135276ff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11097,
+  "IDcode": "SSNI-437",
+  "title": "被嫉妒的女祕書 - 成爲社內性玩具的OL ~ 吉高寧寧",
+  "publish_date": "2019-03-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "多P",
+    "女秘書",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "更衣室",
+    "女同事",
+    "辦公室",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SSNI-437为S1出品,2019年3月19日发行的有碼成人影片由吉高寧寧出演\n最先被公司總裁注意到的內內，從接待員變成了秘書。因為美麗，她受到公司總裁的喜歡，在薪資和職位上也紛紛超越了老員工。奈奈自然會用嫉妒的眼神看著她。有一天，內內被一名陌生男子強姦。從那天開始，羞辱的日子也被年輕的員工和老闆侵犯。她每天都繼續遭受公司性暴力。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024032126178178.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241024/20241024032126178178.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11097",
+  "actresses": [
+    {
+      "name": "吉高寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/8be29e73-e6d8-482c-bd31-6c7a0e9f0a72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11097&name=吉高寧寧"
+    }
+  ]
+};

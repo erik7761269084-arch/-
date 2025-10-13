@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/opEudRd5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79181,
+  "IDcode": "EYAN-176",
+  "title": "- 優しすぎる家事代行若妻の豊満デカ尻に欲情してフル勃起！ 見かねてヌイてくれたその日から家に来る度ヤリまくった 瀬田一花 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "女上位",
+    "口交",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79181",
+  "actresses": []
+};

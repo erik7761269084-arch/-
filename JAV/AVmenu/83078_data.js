@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221218/GaH9JFAv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83078,
+  "IDcode": "CESD-855",
+  "title": "居酒屋を切り盛りする美人若女将AVデビュー みお",
+  "publish_date": "2020-01-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "业余",
+    "纪录片",
+    "老板娘，女主人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83078",
+  "actresses": []
+};

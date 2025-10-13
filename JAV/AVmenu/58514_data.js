@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58514,
+  "IDcode": "f3cd8a765cbb6e3f681bcbf9729eba24",
+  "title": "性感肉丝妹子激情做爱 口暴吞精上演美腿的诱惑",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58514",
+  "actresses": []
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/27/23340041/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104770,
+  "IDcode": "IPZ-616",
+  "title": "『まだ未開の快感が欲しくて…』催眠・トランス・バースト寸前！激オーガズムSEX 希崎ジェシカ",
+  "publish_date": "2015-09-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "姐姐",
+    "数位马赛克",
+    "滥交",
+    "催眠",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104770",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104770&name=希崎潔西卡"
+    },
+    {
+      "name": "ゆうき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/AI-Fix-ゆうき.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104770&name=ゆうき"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104770&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104770&name=玉木玲"
+    }
+  ]
+};

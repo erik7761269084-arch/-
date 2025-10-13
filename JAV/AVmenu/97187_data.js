@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240710/6cjXAqs0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97187,
+  "IDcode": "ABW-049C",
+  "title": "漂亮大姊的完全伴遊性愛 讓小鮮肉解放性愛煩惱的檔案 愛音麻里亞",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97187",
+  "actresses": []
+};

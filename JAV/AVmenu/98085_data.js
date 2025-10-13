@@ -1,0 +1,33 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98085,
+  "IDcode": "BBAN-030-",
+  "title": "同棲姉妹レズビアン飯岡かなこ野宮さとみ",
+  "publish_date": "2015-02-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "戏剧",
+    "乱伦",
+    "女同性恋",
+    "女同接吻",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98085",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98085&name=森澤佳奈"
+    },
+    {
+      "name": "野々宫みさと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98085&name=野々宫みさと"
+    }
+  ]
+};

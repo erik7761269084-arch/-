@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/563dcb8f-4a14-4a9c-97b2-ae650686fe8f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17568,
+  "IDcode": "FGEN-008",
+  "title": "整整四次無力的抵抗鬼畜大叔的輪姦",
+  "publish_date": "2023-11-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "廢墟",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "拘束・拷問",
+    "JK校服",
+    "4小時以上作品",
+    "口交",
+    "強姦",
+    "輪姦",
+    "美少女",
+    "暗黑系",
+    "手指插入",
+    "精選綜合",
+    "打屁股",
+    "女學生",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231128/a3d2bd65-0484-4e60-bbc8-00009d5f492a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231128/a3d2bd65-0484-4e60-bbc8-00009d5f492a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17568",
+  "actresses": [
+    {
+      "name": "高杉麻里",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/2a480853-ceac-47fb-9c72-98296d6963f6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17568&name=高杉麻里"
+    }
+  ]
+};

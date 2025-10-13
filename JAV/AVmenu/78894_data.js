@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/12/11b16a2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78894,
+  "IDcode": "SSPD-082",
+  "title": "侵入者 片桐えりりか",
+  "publish_date": "2012-03-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "强奸",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78894",
+  "actresses": [
+    {
+      "name": "片桐Eririka, 片桐えりりか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78894&name=片桐Eririka, 片桐えりりか"
+    }
+  ]
+};

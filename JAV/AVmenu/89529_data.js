@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231226/If8BHL2b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89529,
+  "IDcode": "LUXU-1335",
+  "title": "ラグジュTV 1318 『結婚前に冒険がしたくて…』彼とのセックスに満足できず入籍前に思い切ってAV出演！快楽に満たされたい、じっくりイってみたい。アラサーを迎えた身体は刺激に敏感！ねっとりとした責めにM気が反応しいつしかとろけるうような恍惚の表情へ…。開放的な景色を眼下に、他人棒で非日常な気持ち良さに喘ぎまくる！",
+  "publish_date": "2020-10-26",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "苗条",
+    "泳装",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89529",
+  "actresses": [
+    {
+      "name": "奥井楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240726/be65c9db-cf0f-4ccb-beaf-d67b3efbf372.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89529&name=奥井楓"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89529&name=鲛岛"
+    }
+  ]
+};

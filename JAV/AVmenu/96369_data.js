@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/31/0045826e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96369,
+  "IDcode": "DV-1574",
+  "title": "毎日やらしいパンスト履いてる女子社員 朝日奈あかり",
+  "publish_date": "2013-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "足交",
+    "连裤袜",
+    "恋腿癖",
+    "OL",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96369",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96369&name=田渊正浩"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96369&name=小田切ジュン"
+    },
+    {
+      "name": "朝日奈あかり",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/90eeaa7cac45b19be43329c05a4e9df1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96369&name=朝日奈あかり"
+    }
+  ]
+};

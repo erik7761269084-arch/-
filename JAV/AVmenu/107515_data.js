@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/02/e9def315/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107515,
+  "IDcode": "SDNM-385",
+  "title": "娘が保育園の間だけ女に戻る明るいチャキチャキママ 渋谷なつ 32歳 AV DEBUT",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "已婚妇女",
+    "潮吹",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/02/b09152c95c13a1e05c46461d2b3e95a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107515",
+  "actresses": [
+    {
+      "name": "渋谷夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230907/31041301-2db7-42cd-b698-f26848491889.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107515&name=渋谷夏"
+    }
+  ]
+};

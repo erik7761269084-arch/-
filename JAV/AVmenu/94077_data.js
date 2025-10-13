@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241020/HdKG6boz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94077,
+  "IDcode": "SAN-257",
+  "title": "素人奥さんとホテルでしっぽり中出し不倫セックス",
+  "publish_date": "2024-06-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/6a1fae05bc97bb83220022173f5d7eb1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94077",
+  "actresses": []
+};

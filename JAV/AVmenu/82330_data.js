@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/5eebdd03/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82330,
+  "IDcode": "DASD-435",
+  "title": "「服を脱いで待ってます」年収2000万円を超えると可愛いすぎる妻が手に入り毎日ベロキスセックスしてくれる。（仮想通貨編） 河南実里",
+  "publish_date": "2018-05-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "屁股",
+    "乳房",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82330",
+  "actresses": [
+    {
+      "name": "河南実里",
+      "img_url": "https://picture.yoshiclub.xyz/20250219/c9a5832d-0674-40f7-8a56-8fbdc0a42091.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82330&name=河南実里"
+    }
+  ]
+};

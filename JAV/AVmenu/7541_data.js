@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14f8bf29-8ce7-4fa7-825b-f69a1e8ad76e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7541,
+  "IDcode": "MEYD-984",
+  "title": "來家裏的客人的大雞巴被口交狂熱人妻吃個遍 ~ 真北祈",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "吞精",
+    "深喉",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "唾液敷面",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "短髮"
+  ],
+  "description": "MEYD-984为溜池出品,2025年3月18日发行的有碼成人影片由真北祈出演\n「你喜歡接受口交嗎？」獨家女演員牧田祈 (Inori Makita) 的口交和吞精特輯！老公的雞巴根本不夠用……我鎖定了來我家的五根大雞巴，用力的吮吸它們，享受它們的精液！還有大量的鏡頭，顯示一根透過口交變得堅硬的大雞巴插入張開的陰戶！我完全滿足了，舔著睪丸、陰莖、龜頭和肛門的每一部分！我還將被授予下一代口交女王的頭銜！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084650955955.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/20250313084650955955.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7541",
+  "actresses": [
+    {
+      "name": "真北祈",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/2e65b45a-9409-419d-8784-86625a07e2ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7541&name=真北祈"
+    }
+  ]
+};

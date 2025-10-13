@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230115/bOwBWi59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84877,
+  "IDcode": "ISRD-013",
+  "title": "【FANZA限定】女教師in...（脅迫スイートルーム） 永野つかさ パンティとチェキ付き",
+  "publish_date": "2022-06-03",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "多P",
+    "捆绑",
+    "肛交",
+    "按摩棒",
+    "女优按摩棒",
+    "深喉",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84877",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84877&name=永野司"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84877&name=鲛岛"
+    }
+  ]
+};

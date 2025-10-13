@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250224/srXl54Sx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72071,
+  "IDcode": "HDKA-166",
+  "title": "はだかの主婦 練馬区在住松永さな（30）",
+  "publish_date": "2019-04-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "自慰",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250225-1/0863c277217281e7f3337342434a5a7a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72071",
+  "actresses": [
+    {
+      "name": "松永纱奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72071&name=松永纱奈"
+    }
+  ]
+};

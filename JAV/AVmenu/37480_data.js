@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220708/44C951F919E864C9/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37480,
+  "IDcode": "BB1A1E662F89D9F66ECFF081EC37BB-77",
+  "title": "第一次的无套中出好害羞",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37480",
+  "actresses": []
+};

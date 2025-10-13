@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/B0370ACEC658D069/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99936,
+  "IDcode": "MIGD-405",
+  "title": "解禁真性アナルFUCK 大沢美加",
+  "publish_date": "2011-07-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "多P",
+    "肛交",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99936",
+  "actresses": [
+    {
+      "name": "大沢美加",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/a890b723-b49d-476a-bf12-a9a1f483719b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99936&name=大沢美加"
+    }
+  ]
+};

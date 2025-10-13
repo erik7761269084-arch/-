@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/12/29/1d8c7108/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88025,
+  "IDcode": "HND-868",
+  "title": "フェラが得意なイケメン美人セックスの女神になりたくてはじめてのナマ中出し 金城麗奈",
+  "publish_date": "2020-08-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "M男",
+    "苗条",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230905-1/262d63cb8905794c1671287e5d34a330.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88025",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88025&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88025&name=鲛岛"
+    },
+    {
+      "name": "金城丽奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88025&name=金城丽奈"
+    }
+  ]
+};

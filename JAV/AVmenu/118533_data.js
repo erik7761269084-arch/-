@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230423/F85F240001F4FC4C/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118533,
+  "IDcode": "0DE149DB71828C00C5A5E0C47CA63A9A",
+  "title": "[FC2] 长发人妻挑战不伦性爱！记得帮我上码喔！ (FC2-PPV-1364424)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118533",
+  "actresses": []
+};

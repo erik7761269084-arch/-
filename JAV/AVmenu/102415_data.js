@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240605/CPaQwRL9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102415,
+  "IDcode": "PGD-618",
+  "title": "引退×放尿、潮吹きスペシャル アンジェ",
+  "publish_date": "2012-10-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "放尿",
+    "潮吹",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102415",
+  "actresses": [
+    {
+      "name": "アンジェ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102415&name=アンジェ"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241022/aQFjnwzY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94220,
+  "IDcode": "SKMJ-519",
+  "title": "顔出し解禁！マスク美女の歯科衛生士さんが童貞君と口SEX！普段はマスクの下に隠された美顔を初披露！キス未経験男子に優しくDキス、舌吸い、舌挿入、舌激ピストン！顔中よだれまみれで恍惚絶頂！下のお口も濡れ濡れになってま○こでも童…生写真とパンティ付き",
+  "publish_date": "2024-06-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "各种职业",
+    "业余",
+    "猎艳",
+    "接吻",
+    "处男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/e5ac9add40d6b787490771939df44594.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94220",
+  "actresses": []
+};

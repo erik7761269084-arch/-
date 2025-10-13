@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f6f686fb-74c5-4d8a-abdd-1e245a5666b4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4378,
+  "IDcode": "SDMM-204",
+  "title": "魔鏡號的體驗極致背德感 偷偷給溫柔人妻媽媽秀大屌 素股摩擦挑逗育兒空窗期的欲求不滿 老公面前直接滑進去 產後軟嫩小穴爽到爆 中出偷情爽翻天 ~ 七原紗由 南條みや子",
+  "publish_date": "2025-07-15",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "劇情",
+    "4K",
+    "魔鏡號",
+    "中出",
+    "美腿",
+    "素股",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "綜藝",
+    "美腳",
+    "惡搞",
+    "手指插入",
+    "公共場所",
+    "地味",
+    "美人",
+    "真實拍攝",
+    "極品美人"
+  ],
+  "description": "SDMM-204为SOD出品,2025年7月15日发行的有碼成人影片由七原紗由，綾瀬舞菜出演\n這次的目標是位溫柔的帶娃媽媽，老公不在家時，假裝諮詢者的巨屌男優直接秀出他的驕傲本錢！這位媽媽因為育兒好久沒開葷，下面早就飢渴得不行！本來只是素股磨蹭，沒想到她濕得一塌糊塗，老公和小孩就在旁邊，還是忍不住直接滑進去！產後的嫩穴又緊又軟，爽得她自己扭腰求愛，最後直接中出，背德感爆棚，爽到停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103354602602_97584_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103354602602_97584_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4378",
+  "actresses": [
+    {
+      "name": "七原紗由",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/a701166b-fe36-4c58-aaad-6b8c7269d4c6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4378&name=七原紗由"
+    },
+    {
+      "name": "綾瀬舞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/f019b8a1-7dc2-44b1-8f71-f9587e03099e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4378&name=綾瀬舞菜"
+    }
+  ]
+};

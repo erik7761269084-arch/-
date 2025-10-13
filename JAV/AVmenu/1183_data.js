@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7721fcbd-6aa7-4022-94bd-096bd9491abc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1183,
+  "IDcode": "HEYZO-1954",
+  "title": "美形家政婦的危險情事",
+  "publish_date": "2019-03-23",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "中出",
+    "家政婦",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015211752358358.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231015/20231015211752358358.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1183",
+  "actresses": [
+    {
+      "name": "池内涼子",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/3fa9726c-15b8-4751-8799-3c9b448b8f5a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1183&name=池内涼子"
+    }
+  ]
+};

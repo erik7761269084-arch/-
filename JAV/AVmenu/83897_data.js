@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/IBoFrdUw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83897,
+  "IDcode": "UMD-723",
+  "title": "えっ！！友達のカノジョが僕の布団の中に潜り込んできたっ？！「ねえ、しよっか？布団の中だったらバレないからしてもいいよ◆」",
+  "publish_date": "2020-03-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-33/06ab2643efd0afa771f585080af6a986.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83897",
+  "actresses": [
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83897&name=富田优衣"
+    },
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83897&name=雨村梨花"
+    },
+    {
+      "name": "夏川海",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/757995ee-c9d3-4073-a3c8-5bf79bd7084a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83897&name=夏川海"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83897&name=Qべぇ"
+    }
+  ]
+};

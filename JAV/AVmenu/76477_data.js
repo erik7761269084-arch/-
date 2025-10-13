@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/13b30c27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76477,
+  "IDcode": "MDTM-583",
+  "title": "銀河級美少女在籍 感じすぎて裏オプしちゃうおっパブ店 今井夏帆 Vol.002",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "主观视角",
+    "礼仪小姐",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76477",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76477&name=今井夏帆"
+    }
+  ]
+};

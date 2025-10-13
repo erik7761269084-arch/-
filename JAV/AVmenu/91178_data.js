@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/IqubjxK0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91178,
+  "IDcode": "GTJ-129",
+  "title": "拘束レズフィスト",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "多P",
+    "女同性恋",
+    "肛交",
+    "拘束",
+    "拳交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91178",
+  "actresses": [
+    {
+      "name": "塩见彩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91178&name=塩见彩"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/29/2c72d96f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104666,
+  "IDcode": "AARM-229",
+  "title": "ぷりぷりショートパンツの尻にザーメンぶっかけ！！",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "屁股",
+    "口交",
+    "胖女人",
+    "猥亵穿着"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/06/29/7f54b37e934b49d4f12c62abc1745843.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104666",
+  "actresses": [
+    {
+      "name": "岬櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/197e790b-dfef-4c09-99d8-6d2c8f13120f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104666&name=岬櫻"
+    },
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104666&name=佐倉陽菜"
+    },
+    {
+      "name": "藤子未央",
+      "img_url": "https://picture.yoshiclub.xyz/20240422/5a4b056a-20c5-40d9-b164-dfcc61dd5b40.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104666&name=藤子未央"
+    }
+  ]
+};

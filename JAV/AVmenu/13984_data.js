@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/afc74c2e-08e6-4b94-9b05-d8eabf71e9cd/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/Dy0ScpdO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13984,
+  "IDcode": "PRED-689",
+  "title": "大奶子溫泉記者性感覺醒，心驚肉跳！那麼潮溼！橋本葵",
+  "publish_date": "2024-06-18",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "性感",
+    "美少女",
+    "巨乳",
+    "偷竊",
+    "溫泉",
+    "美少女電影"
+  ],
+  "description": "PRED-689为PREMIUM出品,2024年6月18日发行的有碼成人影片由橋本葵出演\n【溫泉記者專屬第二版！第一次這麼激烈的比賽！ 】 超美體溫泉記者橋本葵覺醒性感感官！自首次亮相以來，遊戲性和敏感性已經發生了巨大的變化！克制蒙眼電動按摩器做愛！舔遍全身，發育起來！讓敏感度加倍的黏稠乳液SEX！玩具折磨高潮服務乳交！即使射精也不會結束的追求3P！巨大的雞巴堅硬的活塞撞擊子宮後部！經歷了之前工作中無法體驗到的AV屌的洗禮而發展起來！純白巨乳身材3次高潮！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614024823298298.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240614/20240614024823298298.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13984",
+  "actresses": [
+    {
+      "name": "橋本葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/0fd24c47-046a-4dde-9115-738189026299.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13984&name=橋本葵"
+    }
+  ]
+};

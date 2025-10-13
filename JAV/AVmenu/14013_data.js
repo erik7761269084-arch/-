@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4ab69f1d-94f8-4893-aeec-71f34ee46f71/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/eCjX3Swy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14013,
+  "IDcode": "MTALL-121",
+  "title": "世界上最敏感乳頭的G罩杯女孩在鄉村溫泉旅館的的連續絕頂高潮SEX ~ 五日市芽衣",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "口交",
+    "旅行",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "美少女",
+    "巨乳",
+    "溫泉",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240613/e0129256-072e-4323-934a-cd6e8a278086.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240613/e0129256-072e-4323-934a-cd6e8a278086.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14013",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14013&name=五日市芽依"
+    }
+  ]
+};

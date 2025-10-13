@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 97893,
+  "IDcode": "17f42670446d0e76bfb9033293273e63",
+  "title": "被女上司用中出OK淫语与香汗裤袜诱惑我 希岛爱理",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97893",
+  "actresses": []
+};

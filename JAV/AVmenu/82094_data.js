@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221106/0me7lXAa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82094,
+  "IDcode": "TKSH-012",
+  "title": "筋肉軟体チアガール 水村りさ",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "拘束",
+    "深喉",
+    "运动短裤",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82094",
+  "actresses": [
+    {
+      "name": "水村りさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82094&name=水村りさ"
+    }
+  ]
+};

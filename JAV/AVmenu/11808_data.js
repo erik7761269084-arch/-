@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58cd668f-5a65-4b82-8c23-5ce0e6550203/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11808,
+  "IDcode": "MFCD-010",
+  "title": "MOON FORCE G乳狂癡女 Vol.10 ~ 乃木絢愛 長澤りつ 椿りか 都月楓",
+  "publish_date": "2024-09-20",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "業餘",
+    "臀控",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "內衣",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "約炮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240921/cdfeb727-ffb7-4eb3-b00b-a27da47a2d59.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240921/cdfeb727-ffb7-4eb3-b00b-a27da47a2d59.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11808",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11808&name=都月楓"
+    },
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11808&name=椿莉香"
+    },
+    {
+      "name": "乃木絢愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/b2f2b937-dde8-47e5-b166-2e739029015a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11808&name=乃木絢愛"
+    },
+    {
+      "name": "長澤りつ",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/4a797d31-a065-4ca5-9c64-b840e8d21856.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11808&name=長澤りつ"
+    }
+  ]
+};

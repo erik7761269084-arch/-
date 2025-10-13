@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231207/tgLFmcRE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88682,
+  "IDcode": "YMDD-338",
+  "title": "おじさん、あそぼ ～1日だけのわるい子～ 市川りく",
+  "publish_date": "2023-08-01",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "中出",
+    "学校泳装",
+    "运动短裤",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88682",
+  "actresses": [
+    {
+      "name": "市川りく",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/295a112a-2042-4a55-9be7-1bc7823a10ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88682&name=市川りく"
+    }
+  ]
+};

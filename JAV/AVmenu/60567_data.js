@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220418/BD7F30B47383565D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60567,
+  "IDcode": "RCT-402",
+  "title": "以奇蹟般的機率發生的近親相姦 不小心被兒子的肉棒插入而有感覺的媽媽  2",
+  "publish_date": "2012-05-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乱伦",
+    "母亲",
+    "企画",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60567",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60567&name=椎名由奈"
+    },
+    {
+      "name": "青山結衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250506/de6591a5-6fd9-46dc-8fa8-152712a99a23_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60567&name=青山結衣"
+    },
+    {
+      "name": "北川爱莉香",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/489441ba348341feefd5155ed212b2c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60567&name=北川爱莉香"
+    }
+  ]
+};

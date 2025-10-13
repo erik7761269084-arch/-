@@ -1,0 +1,97 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/84287394-0d9b-4497-bf0e-575cf5da0558/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13787,
+  "IDcode": "CJOB-156",
+  "title": "大奶子翹臀搖曳生姿，就是大奶子蕩婦的證明！大奶子我是最棒的，用令人驚嘆的臀部動作讓我射到裏面",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "多P",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "CJOB-156为癡女特化出品,2024年6月25日发行的有碼成人影片由藤森里穂，JULIA，小花暖，乙愛麗絲，彌生美月，橘瑪麗，吉根柚莉爱，真木今日子，七草千歲，本真友里，绫濑心出演\n巨乳翹臀搖曳生姿，就是巨乳蕩婦的證明！大胸部！布倫！最好的打樁女牛仔位置！打樁、清日、碾壓、夾擊！乳房祭上的女牛仔位置最強！非小花、JULIA、藤森裡穗、姫咲花…等F罩杯以上大胸淫蕩女牛仔姿勢40個角！光是看著她的胸部就讓我高潮了！男人只是睡覺就可以了♪畢竟，胸部彈跳的女牛仔姿勢是最色情的！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621021022808808.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240621/20240621021022808808.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13787",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=乙愛麗絲"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=彌生美月"
+    },
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=橘瑪麗"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=吉根柚莉爱"
+    },
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=藤森里穂"
+    },
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=JULIA"
+    },
+    {
+      "name": "绫濑心",
+      "img_url": "https://picture.yoshiclub.xyz/20231117/3f03efca-3003-4ab2-9a8c-8c50c5836629.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=绫濑心"
+    },
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=小花暖"
+    },
+    {
+      "name": "真木今日子",
+      "img_url": "https://picture.yoshiclub.xyz/20230121/0e85e872-9fb0-4691-9e2d-69b557884e56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=真木今日子"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=本真友里"
+    },
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13787&name=七草千歲"
+    }
+  ]
+};

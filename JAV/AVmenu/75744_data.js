@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/7ublKKPx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75744,
+  "IDcode": "HAVD-991",
+  "title": "誘惑接吻人妻レズビアン 初めての同性愛SEXで絶頂！ 理性を失くしレズに目覚める新妻",
+  "publish_date": "2019-12-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "女同性恋",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/8f096f74a95e614d3286e05adc5c23d5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75744",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75744&name=铃木里美"
+    },
+    {
+      "name": "凉城りおな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75744&name=凉城りおな"
+    }
+  ]
+};

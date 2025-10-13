@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/ixwQ4s4q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90449,
+  "IDcode": "ONI-042",
+  "title": "「やばい！オマ●コイッちゃう！」ロ●系女子●生15人がカメラ片手に小さな手でくちゅくちゅマジイキ連発！ちっちゃな幼穴がマン汁でびちょ濡れ！自画撮り投稿オナニー4時間",
+  "publish_date": "2023-11-05",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "无毛",
+    "淫语",
+    "自慰",
+    "手指插入",
+    "投稿",
+    "瘦小身型",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/a39606ffb890bd6084a12131fcc82f74.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90449",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=沙月惠奈"
+    },
+    {
+      "name": "市井結夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/001e998c-aaf9-4fde-97c5-c91b0625e328.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=市井結夏"
+    },
+    {
+      "name": "菜月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/f75dbc85-4a6e-4721-a0da-fcae7ddf1f85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=菜月光"
+    },
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=工藤拉拉"
+    },
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=花芽有朱"
+    },
+    {
+      "name": "南見つばさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/9bdd7ad9-39b8-4640-b46c-93255c39f9db.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=南見つばさ"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90449&name=安倍亜沙美"
+    }
+  ]
+};

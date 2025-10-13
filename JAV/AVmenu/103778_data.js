@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240317/h1t9ro9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103778,
+  "IDcode": "LUXU-1778",
+  "title": "ラグジュTV 1764 透明感のある美白Fカップが眩しい！大好物のチ●ポに無心でしゃぶりつく痴女ゲームプログラマーはゲームもセックスも全身全霊！",
+  "publish_date": "2024-03-04",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "姐姐",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103778",
+  "actresses": [
+    {
+      "name": "羽佐美めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103778&name=羽佐美めい"
+    },
+    {
+      "name": "芽依",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103778&name=芽依"
+    }
+  ]
+};

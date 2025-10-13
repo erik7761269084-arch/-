@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/ad8aeaed/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116975,
+  "IDcode": "FC2-4545189",
+  "title": "紧实身材被大鸡巴猛插",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/21/e687c22ca30707a74fcf8e43adcfffc2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116975",
+  "actresses": []
+};

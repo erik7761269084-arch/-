@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/18/ecf99fd2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88545,
+  "IDcode": "DASS-143",
+  "title": "お母さんに毎日好き好きオーラを浴びせた一ヶ月後、理性が外れたお母さんと子作りセックスを何度も何度も繰り返した。 君塚ひなた",
+  "publish_date": "2023-05-09",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "乱伦",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88545",
+  "actresses": [
+    {
+      "name": "君塚ひなた",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88545&name=君塚ひなた"
+    }
+  ]
+};

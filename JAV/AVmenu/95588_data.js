@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/08/f3e5776d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95588,
+  "IDcode": "NEO-820",
+  "title": "【FANZA限定】美熟女の足裏をふやけるまで舐めたい！ 白河花清 足裏コピーとチェキセット",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "成熟的女人",
+    "足交",
+    "高",
+    "苗条",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/08/1c1e15187bdb5aab2132da2ee59e577c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95588",
+  "actresses": [
+    {
+      "name": "白河花清",
+      "img_url": "https://picture.yoshiclub.xyz/20240403/b443f959-f02e-438a-81db-95026b91650a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95588&name=白河花清"
+    }
+  ]
+};

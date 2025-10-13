@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0f33be1-137d-4fca-b4b5-7624cc6f02b7/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/10/c30a10a8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16978,
+  "IDcode": "ADN-491",
+  "title": "已婚人妻被人從酒吧帶回家操到早上。",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "性感",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "報復"
+  ],
+  "description": "ADN-491为ATTACKERS出品,2024年1月2日发行的有碼成人影片由三宮椿出演\n我丈夫不愛我，他在欺騙我。我無法原諒。我決定邀請我的朋友米卡去酒吧，讓他聽聽我的抱怨。我喝得有點多了，不知不覺間，酒吧裏就只剩下我和店員皆川君了。由於我站不穩，皆川君照顧了我……並邀請我去旅館。就一次也沒關系……我跟着他了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240101/20240101100044299299.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240101/20240101100044299299.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16978",
+  "actresses": [
+    {
+      "name": "三宮椿",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/d66b829a-f8fa-4acd-8dc2-af9769573e6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16978&name=三宮椿"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16978&name=蓝井优太"
+    },
+    {
+      "name": "三宫つばき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16978&name=三宫つばき"
+    }
+  ]
+};

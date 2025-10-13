@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/30/95c349b4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85932,
+  "IDcode": "PRED-362",
+  "title": "妻と倦怠期中の僕はカレン（義妹）に誘惑されて何度も、何度も、中出しをしてしまった…。 楪カレン",
+  "publish_date": "2021-12-21",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "荡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85932",
+  "actresses": []
+};

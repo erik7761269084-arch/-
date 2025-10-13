@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/13/b3d41ced/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101657,
+  "IDcode": "DASS-362",
+  "title": "膣口1cm10コキ挿入に溺れる空気椅子騎乗位SEX 黒川すみれ",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/13/383c268d3eefee2bf36e2127bc9fff26.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101657",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101657&name=黑川堇"
+    },
+    {
+      "name": "ミチくん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101657&name=ミチくん"
+    }
+  ]
+};

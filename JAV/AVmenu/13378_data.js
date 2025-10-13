@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9e081614-d9b3-4ef5-8861-8b10c956f22f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13378,
+  "IDcode": "FPRE-066",
+  "title": "禁欲1個月後Gcup身體覺醒，首次體驗中出特輯！ ！ ~ 羽月果音",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "感官作品",
+    "口交",
+    "比基尼",
+    "丁字裤",
+    "兩男一女",
+    "慾求不滿",
+    "少女",
+    "美少女",
+    "清純",
+    "巨乳",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "豐滿",
+    "女優"
+  ],
+  "description": "FPRE-066为FITCH出品,2024年7月16日发行的有碼成人影片由羽月果音出演\n惠譽專屬G杯前偶像葉月花音被勒令禁慾一個月！她承認，自上次拍攝以來，她的性慾有所增強，並且無法停止感到性慾，作為成功禁慾的獎勵，她正在等待人生中的「第一場」戲。與中年男子的舔舐性愛、大雞巴中出性愛、沾滿油的屁股、玩具乳頭折磨、原始高潮3P……全身變成性感帶的加隆，在未知的快感中扭動著。看她是如何一次又一次地射精的！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712005957873873.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712005957873873.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13378",
+  "actresses": [
+    {
+      "name": "羽月果音",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/1dfd6268-b9bd-4c2b-889c-27fc2721b78c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13378&name=羽月果音"
+    }
+  ]
+};

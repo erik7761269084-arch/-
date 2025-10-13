@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/28/13a5476c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68446,
+  "IDcode": "DASS-628",
+  "title": "最愛ニューハーフ彼女は他の男と毎日アクメ浮気ックス 池田マリナ",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "肛交",
+    "变性者",
+    "校服",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/28/13a5476c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68446",
+  "actresses": [
+    {
+      "name": "ティカル",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68446&name=ティカル"
+    },
+    {
+      "name": "池田マリナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68446&name=池田マリナ"
+    }
+  ]
+};

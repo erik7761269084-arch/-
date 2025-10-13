@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9449c20a-3f87-4f1f-8d4c-da87034f82e2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3449,
+  "IDcode": "NACT-008",
+  "title": "透視緊身衣的致命誘惑 ~ 織田真子",
+  "publish_date": "2025-08-19",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "三十路",
+    "後入",
+    "黑絲",
+    "濕身",
+    "企畫",
+    "絕頂高潮",
+    "超爆乳",
+    "4K",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "混血",
+    "單體作品",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "人妻",
+    "巨乳",
+    "完全着衣",
+    "手指插入",
+    "抹油",
+    "美人",
+    "熟女",
+    "野性",
+    "女優"
+  ],
+  "description": "NACT-008为PLANETPLUS出品,2025年8月19日发行的有碼成人影片由織田真子出演\n為啥比全裸還讓人慾火焚身？織田真子套上這層薄到不行的透視緊身衣，貼身布料根本遮不住啥，反而超級挑逗，隔著布料隱約可見的肉感，色氣直接爆棚！穿衣服咋能這麼勾人啊？四種不同風格的緊身衣，把織田真子的魅力發揮到極致。想知道原因？快點開影片看看吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082756806806_49962_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/20250820082756806806_49962_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3449",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3449&name=織田真子"
+    }
+  ]
+};

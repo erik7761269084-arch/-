@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/01/43e1e1d7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69645,
+  "IDcode": "GMJK-022",
+  "title": "素人覆面モデル 調教監禁完全孕ませ",
+  "publish_date": "2025-04-27",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "中出",
+    "监禁",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/01/6521357a808f029620508464bec252a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69645",
+  "actresses": []
+};

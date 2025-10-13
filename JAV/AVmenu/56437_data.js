@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220602/5C2B69FFA244E136/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56437,
+  "IDcode": "10A3ECCA6B51C37A98100690254B0EDA",
+  "title": "超VIP 秘蔵マンコセレクション-ゆうのオマンコ見てください-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56437",
+  "actresses": []
+};

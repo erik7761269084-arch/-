@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250501/5UEwmden/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66776,
+  "IDcode": "CAWD-418",
+  "title": "性欲を持て余した田舎の絶倫生娘は近所のオジさんを小悪魔誘惑して痴女って跨って中出しさせ続ける… 日向なつ",
+  "publish_date": "2022-09-06",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "荡妇",
+    "接吻",
+    "主观视角",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66776",
+  "actresses": []
+};

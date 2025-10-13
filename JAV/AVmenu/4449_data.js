@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2936101c-f78b-410d-9a8d-e229ef2f8eab/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/80f4c6a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4449,
+  "IDcode": "VENX-330",
+  "title": "最愛的繼母：跟老婆離婚後我徹底淪陷 ~ 月野ゆりね",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "繼母",
+    "後入",
+    "劇情",
+    "淫亂",
+    "4K",
+    "中出",
+    "四十路",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "NTR",
+    "美人",
+    "熟女"
+  ],
+  "description": "VENX-330为VENUS出品,2025年7月11日发行的有碼成人影片由月野ゆりね出演\n夫妻間因為一點小事吵得天翻地覆，還好溫柔的繼母百合音出面調解。她那輕柔的聲音和優雅的舉止，瞬間撫平了我被老婆氣炸的心情。跟老是發脾氣的媳婦完全不一樣，百合音既溫柔又美艷，簡直讓我心動到不行！沒想到當晚，我不小心撞見她洗澡的畫面，那一幕直接讓我血脈賁張，慾罷不能……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042925400400_58182_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042925400400_58182_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4449",
+  "actresses": [
+    {
+      "name": "月野ゆりね",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/95b029a3-a179-4ed5-b405-5151fd036726.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4449&name=月野ゆりね"
+    }
+  ]
+};

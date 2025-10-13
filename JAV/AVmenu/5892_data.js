@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b2a8b8e-f2ec-489f-aa19-54d87ba5c885/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/b0792ef3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5892,
+  "IDcode": "VENZ-057",
+  "title": "慾求不滿的人妻色氣爆棚舌吻勾引 口水直流濃密口活大屌爆硬狂射 騷穴全開自慰秀誘惑 老公不在家被帶回家中出啪啪 ~ 工藤百合",
+  "publish_date": "2025-05-23",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "跳蛋",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "自慰",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "寢取"
+  ],
+  "description": "VENZ-057为VENUS出品,2025年5月23日发行的有碼成人影片由工藤百合出演\n一个饥渴到不挑对象只想马上开干的人妻，把我直接带回家开战。嘴唇一碰就爽到爆炸，湿吻一秒钟让我理智全无，直接滚床单。不管高潮多少次，她腿一缠就不让我抽身，贪婪地索取精液，简直是榨汁姬本姬，疯狂中出不停歇。遇上这种魔性女人，人生都要被她搞乱了。最后射到一滴不剩，欲火还是烧得停不下来啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522083216642642_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250522/20250522083216642642_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5892",
+  "actresses": [
+    {
+      "name": "工藤百合",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/bf846095-e357-46ce-a41f-5f9bf9669c96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5892&name=工藤百合"
+    }
+  ]
+};

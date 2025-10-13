@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220901/D5E45ED5E04B0AB1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37465,
+  "IDcode": "CDDE75AB9B879D1F9EE7B030BAC715B-4",
+  "title": "巨乳デリヘル嬢のボディに我慢できず本番中だししちゃいました",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37465",
+  "actresses": []
+};

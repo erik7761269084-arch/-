@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1d45448e-4d1f-4a41-af8c-8873347567ba/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/d75c9c36/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8879,
+  "IDcode": "JUR-132",
+  "title": "可以讓你的妻子假扮一下我的女友嗎？……我最好的朋友因家裏逼婚的關系，求借出我心愛的妻子幫忙，但最壞的結果…… ~ 希島愛裏",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "傲嬌",
+    "和服・浴衣・喪服",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "美腳",
+    "朋友女友・妻子",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "美人",
+    "熟女",
+    "短髮",
+    "寢取",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "JUR-132为MADONNA出品,2025年1月28日发行的有碼成人影片由希島愛理 出演\n「我們要去餐廳吃飯，對吧？我很期待假裝成他的女朋友。」我最好的朋友小田切讓我把他的妻子愛理借給他，以欺騙他的母親，誰正在向她施壓，要求她包辦婚姻。無奈之下，他只能勉強答應了與工作上有合作關係的小田切的方案。幾天后，當我看到愛理穿著漂亮的衣服去參加晚宴時，我的心沉了下去。以為幾個小時後他就能回來，但小田切的母親已經幫他安排了旅館，看來他回不了家了。當我妻子告訴我她要搭計程車回家後，她就不再回覆了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/202501230733173030.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/202501230733173030.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8879",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8879&name=希島愛理"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8879&name=小田切ジュン"
+    }
+  ]
+};

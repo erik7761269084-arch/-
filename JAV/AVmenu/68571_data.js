@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250414/3OS9FvF4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68571,
+  "IDcode": "STARS-780",
+  "title": "いつでもフェラしたい!絶倫彼氏とバレたらヤバい所でフェラチオ個撮しまくりの年下チンしゃぶビッチ彼女 工藤ゆら",
+  "publish_date": "2023-03-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "苗条",
+    "口交",
+    "情侣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68571",
+  "actresses": [
+    {
+      "name": "工藤由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/55c36f05-5e3a-4559-b26f-3cf634b2a753.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68571&name=工藤由羅"
+    }
+  ]
+};

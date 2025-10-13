@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240125/75YLHHXO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90678,
+  "IDcode": "OAE-239",
+  "title": "裸神 山手梨愛",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90678",
+  "actresses": []
+};

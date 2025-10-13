@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/12/535c4476/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73508,
+  "IDcode": "HODV-21926",
+  "title": "エッチなお義姉さん好きですか？僕の兄貴のお嫁さんは巨乳と中出しOKで僕を誘惑 月野かすみ パンティと生写真付き",
+  "publish_date": "2024-12-20",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "主观视角",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/25/6a3c8b15f60c51f0f6ff9210d658ec2f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73508",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73508&name=月野香澄"
+    }
+  ]
+};

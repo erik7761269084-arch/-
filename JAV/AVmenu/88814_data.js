@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231209/qR8g8QsO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88814,
+  "IDcode": "TDMN-019",
+  "title": "【FANZA限定】3発NS組 鬼畜せんせい 円井萌華 パンティと生写真付き",
+  "publish_date": "2023-06-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女生",
+    "肛交",
+    "瘦小身型",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88814",
+  "actresses": [
+    {
+      "name": "円井萌華",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/b182b7df-1886-4640-8d17-9aa21bd27e85.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88814&name=円井萌華"
+    }
+  ]
+};

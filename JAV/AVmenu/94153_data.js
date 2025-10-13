@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241021/CfN9yClc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94153,
+  "IDcode": "SCPX-503",
+  "title": "姉のヤリマン友達と2人きり 童貞の僕を見透かして「私とヤンない？」と誘惑挑発 断れないラッキー神展開SEX筆おろし",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "荡妇",
+    "女生",
+    "处男",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94153",
+  "actresses": [
+    {
+      "name": "河合乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20240515/e12cbcad-671b-481c-af70-b128439fce23.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94153&name=河合乃乃花"
+    }
+  ]
+};

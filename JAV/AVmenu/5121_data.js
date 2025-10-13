@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/169af9dc-086c-48bb-b081-e9dc30f268c3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/11/1faa388d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5121,
+  "IDcode": "NSFS-393",
+  "title": "偷吻人妻6：老婆的嘴唇被搶走啦 ~ 澄河美花",
+  "publish_date": "2025-06-21",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "三十路",
+    "後入",
+    "睡衣",
+    "家庭主妇",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "老頭子",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "嫂嫂",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "昭和系",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "豐滿"
+  ],
+  "description": "NSFS-393为人妻官能AV出品,2025年6月21日发行的有碼成人影片由澄河美花出演\n美花跟老公的婚姻生活毫無愛意，日子過得讓人喘不過氣。就在這時，她邂逅了曾經是出差ホスト的小叔子，被他的魅力深深吸引。一次出於好奇的吻，點燃了禁忌的火焰，那種快感讓人上癮，她再也無法自拔，完全沉淪在小叔子的懷抱中……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210632424343_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250621/202506210632424343_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5121",
+  "actresses": [
+    {
+      "name": "澄河美花",
+      "img_url": "https://picture.yoshiclub.xyz/20240225/e80965d3-57ce-4c40-a53a-4f8b1a0acb10.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5121&name=澄河美花"
+    }
+  ]
+};

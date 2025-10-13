@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/29/35964729/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104672,
+  "IDcode": "JUY-600",
+  "title": "No.1アラフィフ妻 遂に解禁！！ 夫以外と初めての中出し 吉瀬菜々子",
+  "publish_date": "2018-09-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "数位马赛克",
+    "乳房",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104672",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104672&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104672&name=イセドン内村"
+    },
+    {
+      "name": "吉瀬菜々子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104672&name=吉瀬菜々子"
+    }
+  ]
+};

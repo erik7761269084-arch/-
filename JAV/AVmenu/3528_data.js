@@ -1,0 +1,86 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b84591e-7a8d-4b20-9c46-f37d0921ae5f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3528,
+  "IDcode": "DVMM-276",
+  "title": "魔鏡特別編！老婆被寢取願意實現企劃 in MM號，裸體拍攝清純人妻羞澀滴愛液，隔着鏡子不知道老公在偷看，巨根SEX爽到翻天高潮不停！2 ~ 丸石稀有 月見伊織 葉山小百合 長谷川れいみ",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "臀控",
+    "魔鏡號",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "綜藝",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "美人妻",
+    "清純",
+    "癡女",
+    "惡搞",
+    "巨乳",
+    "手指插入",
+    "公共場所",
+    "地味",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "DVMM-276为DEEP'S出品,2025年8月14日发行的有碼成人影片由月見伊織，丸石稀有，葉山小百合，長谷川れいみ出演\n超夯企劃！萬眾期待的第二彈來啦！反轉MM號震撼登場！特別徵集有綠帽癖的老公，在魔法鏡專屬攝影棚拍攝老婆的紀念裸體照！安排年輕巨根男模與久未開葷的人妻近距離貼身拍攝，獨處時人妻會不會直接淪陷到SEX？！老公就在眼前看著，男模的巨根貼上來，人妻表面羞澀糾結，心裡卻狂喊“想被插爆…”！密室裡兩人獨處，男模一陣甜言蜜語，人妻完全不知道老公在偷看，慾望爆發直接偷情中出SEX，爽到靈魂出竅！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023420302302_30700_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023420302302_30700_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3528",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3528&name=葉山小百合"
+    },
+    {
+      "name": "丸石稀有",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/3a3a3a25-b601-4b95-90f8-bcf1074ac8f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3528&name=丸石稀有"
+    },
+    {
+      "name": "月見伊織",
+      "img_url": "https://picture.yoshiclub.xyz/20240506/c5bd83c9-6d48-4042-94dc-dc2693693733.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3528&name=月見伊織"
+    },
+    {
+      "name": "長谷川れいみ",
+      "img_url": "https://picture.yoshiclub.xyz/20241222/9e12041c-8fb9-43ba-afb5-1774dc062ed2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3528&name=長谷川れいみ"
+    }
+  ]
+};

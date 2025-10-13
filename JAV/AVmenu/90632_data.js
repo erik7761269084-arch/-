@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/LuLTbLfQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90632,
+  "IDcode": "PAKO-066",
+  "title": "現役極●を寝取る心臓と興奮炸裂！何度も生棒中出し姦！",
+  "publish_date": "2023-10-12",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "出轨",
+    "业余",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90632",
+  "actresses": [
+    {
+      "name": "瀬崎彩音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90632&name=瀬崎彩音"
+    }
+  ]
+};

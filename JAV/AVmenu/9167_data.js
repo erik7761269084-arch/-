@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a71c811-8684-497d-a355-ed8653db802a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9167,
+  "IDcode": "C-2882",
+  "title": "The history of 人妻・香苗",
+  "publish_date": "2025-01-11",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "後入",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "吞精",
+    "深喉",
+    "和服・浴衣・喪服",
+    "中出",
+    "美腿",
+    "美臀",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美人妻",
+    "人妻",
+    "辦公室",
+    "溫泉",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250113/3d46280e-14b3-41d1-b8b7-80fe77a779e0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250113/3d46280e-14b3-41d1-b8b7-80fe77a779e0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9167",
+  "actresses": []
+};

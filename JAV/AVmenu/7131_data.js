@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f5bcf92c-40e5-40c5-b0f4-83fd15e31221/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/09/0f1c804e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7131,
+  "IDcode": "FJIN-070",
+  "title": "肉感爆棚I罩杯巨乳：白領西裝OL的泡泡浴服務 ~ 羽月乃蒼",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "黑絲",
+    "濕身",
+    "企畫",
+    "泡姬",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "素股",
+    "泡泡浴店",
+    "OL",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "制服",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "主觀視角",
+    "口爆",
+    "癡女",
+    "巨乳",
+    "獵豔",
+    "抹油",
+    "美人",
+    "豐滿"
+  ],
+  "description": "FJIN-070为妄想族出品,2025年4月1日发行的有碼成人影片由羽月乃蒼出演\n當她超級豐滿的身體融化你的雞巴時，那將是一種幸福而天堂般的體驗！近距離接觸肥皂會讓你的陰莖變硬！在色情肥皂劇中，擁有 I 罩杯乳房的豐滿美麗辦公室女士可以盡情享受按摩！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250330/20250330053333646646.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250330/20250330053333646646.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7131",
+  "actresses": [
+    {
+      "name": "羽月乃蒼",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250906/1fbeb3f6-54a2-4e0c-aefd-9249df203e74_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7131&name=羽月乃蒼"
+    }
+  ]
+};

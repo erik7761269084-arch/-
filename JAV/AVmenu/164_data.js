@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/767d3182-bf37-4d63-ae26-dc49233931c6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 164,
+  "IDcode": "HEYZO-0128",
+  "title": "菁英女強人的性慾飢渴 ~ 柴咲ゆうり",
+  "publish_date": "2012-09-28",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "OL",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "手指插入",
+    "鬃毛",
+    "地味",
+    "美人",
+    "真實拍攝",
+    "眼鏡",
+    "短髮"
+  ],
+  "description": "HEYZO-0128为HEYZO出品,2012年9月28日发行的無碼成人影片由柴咲ゆうり出演\n菁英女強人總是特別撩人，尤其是那種工作超正經的類型！這次來拍AV的ゆうり小姐姐可不是普通人，她是律師事務所的高階白領，社會地位超硬！那她為啥要下海拍片？答案很簡單——她對啪啪啪渴到不行！工作忙到爆，和老公的夜生活早就沒了激情，長期處於無性狀態的她，憋到快抓狂！就算只是工作空檔來拍攝，她也直接燒起來了！ゆうり小姐姐對自己的翹臀超有信心，男優一要求，她就害羞地扭起小腰，臀部晃來晃去，真的超勾人！正式開戰後，她像是把所有怨氣都發洩出來，各種騷操作看得人臉紅心跳！尤其是被男優從後面猛力衝撞時，她那迷離的表情，絕對是神級畫面，兄弟們千萬別錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/20250708034832423423_69343_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250708/20250708034832423423_69343_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=164",
+  "actresses": [
+    {
+      "name": "柴咲ゆうり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521081949667667_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=164&name=柴咲ゆうり"
+    }
+  ]
+};

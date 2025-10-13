@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/03/b9e08d9d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85755,
+  "IDcode": "NNPJ-509",
+  "title": "大手企業社員のフリしてOB訪問アプリに紛れ込み、就活迷子リクスー女子大生を即ハメ、即ヤリ捨て 撮影した動画は勝手に配信。AV女優に就職デビューさせました。 あいり",
+  "publish_date": "2022-05-03",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "女大学生",
+    "苗条",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85755",
+  "actresses": []
+};

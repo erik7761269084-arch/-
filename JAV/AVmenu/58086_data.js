@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58086,
+  "IDcode": "112517_01",
+  "title": "112517_01 超VIP 素人AV面接 〜ガールズバーで働いていました〜",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58086",
+  "actresses": []
+};

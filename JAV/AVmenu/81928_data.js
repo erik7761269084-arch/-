@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221104/7gmWIuw3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81928,
+  "IDcode": "SDFK-017",
+  "title": "砂風呂に埋まって動けない拘束エステ 媚薬と熱気で火照ったカラダは感度10倍！すぐ隣にほかの客がいるのに何度も漏らしてイキまくり！さらに！マ●コの疼きが抑えきれず固定されたまま挿入を懇願！！ まりあ（22）花嫁修業 ゆみ（48）主婦 【配信限定で復刻】",
+  "publish_date": "2020-03-16",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "已婚妇女",
+    "放尿",
+    "潮吹",
+    "拘束",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81928",
+  "actresses": []
+};

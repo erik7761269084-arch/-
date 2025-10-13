@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/3fcf7f1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97724,
+  "IDcode": "ABP-439",
+  "title": "彼女のお姉さんは、誘惑ヤリたがり娘。 若菜奈央",
+  "publish_date": "2016-02-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "姐姐",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/01/b5b6d4ccdc5e5cf676ee4e8bf923c973.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97724",
+  "actresses": [
+    {
+      "name": "若菜奈央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723224636646646_32231_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97724&name=若菜奈央"
+    }
+  ]
+};

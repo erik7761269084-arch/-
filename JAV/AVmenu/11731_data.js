@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dcc1681e-cbb7-43e3-b716-574171b0a8d5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11731,
+  "IDcode": "SDAM-125",
+  "title": "新人報到！七色喘息聲！成人遊戲現役聲優！首次亮相 AV DEBUT ~ 六華ノア",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "業餘",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "多P",
+    "寫真女郎",
+    "女僕制服",
+    "出道作品",
+    "巨乳",
+    "抹油",
+    "COSPLAY服飾",
+    "豐滿",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240925/813e63e2-9ded-4a21-8587-7e529022bed6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240925/813e63e2-9ded-4a21-8587-7e529022bed6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11731",
+  "actresses": [
+    {
+      "name": "六華ノア",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/011478c7-b331-4fd7-b7aa-3be0eca34e83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11731&name=六華ノア"
+    }
+  ]
+};

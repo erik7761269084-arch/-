@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/7F2D336727374BDA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97337,
+  "IDcode": "DG-098",
+  "title": "【産婦人科検診】医師の生中療法！女性ホルモンバランスの乱れには精子を注入するのが一番効果的ですから、",
+  "publish_date": "2022-06-30",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "女优按摩棒",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1596dg098/h_1596dg098pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97337",
+  "actresses": []
+};

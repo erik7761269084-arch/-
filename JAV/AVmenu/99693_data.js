@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230217/EB91D5868AFB381A/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99693,
+  "IDcode": "MIDD-662",
+  "title": "きよみ玲の美尻を制服します。",
+  "publish_date": "2010-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "屁股",
+    "潮吹",
+    "乳液",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd662/midd662pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99693",
+  "actresses": [
+    {
+      "name": "きよみ玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99693&name=きよみ玲"
+    }
+  ]
+};

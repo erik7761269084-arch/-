@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4ec2eec3-7684-42f5-a94a-d1d44284af55/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/19/a0a83294/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14700,
+  "IDcode": "ABF-107",
+  "title": "每天都會在一個偏僻的地方與青梅竹馬進行一場大汗淋漓、激烈的性愛 Case.12 ~ 蒼乃美月",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "ABF-107为蚊香社出品,2024年6月6日发行的有碼成人影片由蒼乃美月出演\n尊貴專屬女星「青野瑞希」與我們在炎熱的天氣中揮汗如雨地互相尋找！他決定向青梅竹馬的瑞希訴說自己多年的感情，但她很快就拋棄了他。放學後，當我們像往常一樣在一起度過時光時，美月突然要求我做愛…美月把嘴唇貼在我困惑的嘴唇上。她脫掉衣服，展示她的胸部和陰戶，好像在戲弄我。在青梅竹馬的汗水般柔軟的肌膚面前，我的理智崩潰了。他一邊貪婪地貼著嘴唇，一邊將活塞吞入她被汗水和愛液浸濕的私處。請在偏僻的鄉村享受與「青野瑞希」的激烈性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240516/20240516055612450450.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240516/20240516055612450450.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14700",
+  "actresses": [
+    {
+      "name": "蒼乃美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231208/4dc98d20-c362-4e82-a356-cbe6a730a902.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14700&name=蒼乃美月"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14700&name=タツ"
+    }
+  ]
+};

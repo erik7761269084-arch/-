@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230303/105F453C9CAB8D90/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58814,
+  "IDcode": "Heydouga4102-PPV007",
+  "title": "ももたん（２１）–平成生まれの素人パイパンおさな妻夫責め2穴スワップ依頼調教乱交山崎夫妻編",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58814",
+  "actresses": []
+};

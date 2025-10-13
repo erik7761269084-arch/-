@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221123/179F0015D54299AA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38741,
+  "IDcode": "2FC8C388659EC0C30A383C7332FD5BE-9",
+  "title": "红色的情趣内衣",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38741",
+  "actresses": []
+};

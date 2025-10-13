@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220630/C3C9ECB1221CB631/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37144,
+  "IDcode": "BD1D2CE0EB0B116AF98C1039CD0DA-268",
+  "title": "彻底击败爆肏爆乳亚美酱",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37144",
+  "actresses": []
+};

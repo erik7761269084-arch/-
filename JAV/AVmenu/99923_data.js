@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/80A32991B245F38B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99923,
+  "IDcode": "SQTE-252",
+  "title": "大人しそうな女の子ほど、オ○ンコがいつも濡れてるって本当ですか？",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "羞耻",
+    "瘦小身型",
+    "恋爱",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99923",
+  "actresses": [
+    {
+      "name": "星咲凛",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/c8640e75-0917-4989-aaca-b0293d53809a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99923&name=星咲凛"
+    },
+    {
+      "name": "星仲みなみ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924070839913913_39817_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99923&name=星仲みなみ"
+    },
+    {
+      "name": "千夏丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99923&name=千夏丽"
+    },
+    {
+      "name": "栗山夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99923&name=栗山夏帆"
+    }
+  ]
+};

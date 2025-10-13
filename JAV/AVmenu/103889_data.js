@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240521/JaFO3Fut/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103889,
+  "IDcode": "JUY-808",
+  "title": "やはり素人妻のSEXがダントツで生々しかった！！ 公営住宅で慎ましく夫婦生活を送る、実はスキモノのメガネ団地妻 戸田美々香 30歳 AVデビュー！！",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "乳房",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/juy808/juy808pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103889",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103889&name=小田切ジュン"
+    },
+    {
+      "name": "戸田美々香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103889&name=戸田美々香"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/51c5d422-d85f-4f50-b258-0eb613a198c2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1097,
+  "IDcode": "HEYZO-1571",
+  "title": "杉浦花音親自教你！！〜天真的男人的性指導〜",
+  "publish_date": "2017-09-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "上門福利",
+    "劇情",
+    "中出",
+    "口交",
+    "粉絲福利",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129034129261261.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231129/20231129034129261261.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1097",
+  "actresses": [
+    {
+      "name": "杉浦花音",
+      "img_url": "https://picture.yoshiclub.xyz/20231109/27554127-9a7d-4d43-929f-a838ace0e895.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1097&name=杉浦花音"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98401,
+  "IDcode": "AUKS-106-",
+  "title": "レズハッテン場サロン～くびれウエスト美乳女子×ベロフェチ淫",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "淫乱，真实",
+    "女同性恋",
+    "苗条",
+    "接吻",
+    "女同接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98401",
+  "actresses": [
+    {
+      "name": "桐谷奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/fa50a5b4-ea3b-4183-8f9a-21cd27d7c044_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98401&name=桐谷奈緒"
+    },
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98401&name=爱乃零"
+    }
+  ]
+};

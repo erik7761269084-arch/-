@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d59231da-121a-4194-91cd-b37196d3a418/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/19/259db15f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15126,
+  "IDcode": "YSN-621",
+  "title": "嫂子很笨，但性欲很強，徵服了我 ~濱崎真緒",
+  "publish_date": "2024-05-04",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "苗條",
+    "劇情",
+    "中出",
+    "蕩婦",
+    "口交",
+    "嫂嫂",
+    "勾引・誘惑",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "猥褻穿著",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240428/f134dc3f-a5cc-43cc-9875-d3f43a124ac4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240428/f134dc3f-a5cc-43cc-9875-d3f43a124ac4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15126",
+  "actresses": [
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15126&name=浜崎真緒"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15126&name=浜崎真绪"
+    }
+  ]
+};

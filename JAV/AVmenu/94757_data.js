@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241031/0MCVMtu0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94757,
+  "IDcode": "SUJI-231",
+  "title": "昔いたずらした少●が少し大人になって訪ねて来た…パイパン●学生中出し映像",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "中出",
+    "无毛",
+    "女生",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94757",
+  "actresses": []
+};

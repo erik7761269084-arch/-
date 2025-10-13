@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21283ab2-f737-4908-a48f-c8abcc1e93aa/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10829,
+  "IDcode": "BAB-145",
+  "title": "還是個新人，濃厚密室操的滿頭大漢 & 媚藥！ ~ 羽月果音",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "癡女",
+    "巨乳",
+    "抹油",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "BAB-145为妄想族出品,2024年11月5日发行的有碼成人影片由羽月果音出演\n她用電動按摩器自慰，同時從後面猥褻地摩擦她的乳房。她被客觀地拍攝到與一個有著邪惡陰莖的男人發生性關係，搖晃著她的大胸部，一邊尖叫一邊尖叫。我最喜歡的生雞巴大量射精，口交和乳交",
+  "cover_url": "https://picture.yoshiclub.xyz/20241104/20241104084225934934.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241104/20241104084225934934.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10829",
+  "actresses": [
+    {
+      "name": "羽月果音",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/1dfd6268-b9bd-4c2b-889c-27fc2721b78c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10829&name=羽月果音"
+    }
+  ]
+};

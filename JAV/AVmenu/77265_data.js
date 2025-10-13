@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/ENByQXdo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77265,
+  "IDcode": "PRED-138",
+  "title": "ギャルの追撃腰振りがすごすぎる！おチ○ポこねくり騎乗位ソープ AIKA",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "女生",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77265",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77265&name=AIKA"
+    }
+  ]
+};

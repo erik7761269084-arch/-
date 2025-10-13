@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eec51c69-6684-46d2-b30f-8dbf5b74e0ab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13280,
+  "IDcode": "TIKB-188",
+  "title": "酒醉淫蕩的GAL女孩！亂癡氣癡女雙飛 ~ 蘭華 岬梓沙",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "酒醉",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "酒後亂性",
+    "中出",
+    "女上位",
+    "乳釘、穿孔、乳環",
+    "潮吹",
+    "口交",
+    "性感",
+    "膚黑",
+    "少女",
+    "美少女",
+    "金髮",
+    "情趣內衣",
+    "艷遇",
+    "雙飛",
+    "猥褻穿著",
+    "兩女一男",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "叛逆少女"
+  ],
+  "description": "TIKB-188为妄想族出品,2024年7月16日发行的有碼成人影片由岬梓沙，蘭華出演\nOtsupie!! 這是女導演的Chokodesu!! 假期時，我和我最好的朋友Azunya 和Ranka 一起喝酒♪ 每當我們三個一起喝酒時，我的記憶就會飛走♪ 我有一個強烈的習慣，就是和我一起談論失敗酒精太強烈了哈哈我有喝醉的時候拍視頻的習慣，第二天我看到一個如此色情如此瘋狂的視頻我真的很興奮，但是wwwwwww快遞員來送包裹了。的上帝反應為你！雞巴和精子的鬥爭爆發了......色情和令人髮指的視頻真的很激烈，所以我會分享給大家www女孩是最強的♪",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714025737107107.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/20240714025737107107.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13280",
+  "actresses": [
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13280&name=蘭華"
+    },
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13280&name=岬梓沙"
+    }
+  ]
+};

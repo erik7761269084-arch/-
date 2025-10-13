@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/08/218df31f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88729,
+  "IDcode": "WAAA-298",
+  "title": "やっぱり、君が大好きだ！地元の夏祭りで初恋の幼馴染と再会…終電を逃して連れ込み宿で汗だく発情交尾 JULIA",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "流汗",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88729",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88729&name=JULIA"
+    }
+  ]
+};

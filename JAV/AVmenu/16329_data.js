@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aa39f4bf-c9bc-4fb1-ac77-c652a9767a26/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/26/d25d0515/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16329,
+  "IDcode": "START-008",
+  "title": "在社團成員家喝酒時被喂了安眠藥，中出到毫無防備的身體裏……小倉由菜",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "3P・4P",
+    "酒吧",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "輪姦",
+    "多P",
+    "美少女",
+    "巨乳",
+    "手指插入"
+  ],
+  "description": "START-008为SOD出品,2024年3月7日发行的有碼成人影片由小倉由菜出演\n小倉由菜從小生活一帆風順，在大學時以美貌聞名。當他被大學同學邀請出去喝酒時，卻被告知原本應該來的女性朋友在最後一刻取消了。祝酒時間很短，但酒精讓小倉由菜昏昏欲睡。男人們對熟睡的女友爲所欲爲，並在她體內射精。之後，小倉由菜被逼喝酒撒嬌，醒來後她失去了理智，被性欲吞噬。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213012742223223.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240213/20240213012742223223.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16329",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16329&name=小倉由菜"
+    }
+  ]
+};

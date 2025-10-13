@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/05462361-1f9b-4217-9504-734180ded483/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/24/d6b93842/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17467,
+  "IDcode": "ADN-517",
+  "title": "未亡人寡婦，悲傷的懷孕妊娠報告",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "喪夫",
+    "和服・浴衣・喪服",
+    "凌辱",
+    "中出",
+    "口交",
+    "強姦",
+    "嫂嫂",
+    "未亡人・寡婦",
+    "亂倫",
+    "報復"
+  ],
+  "description": "ADN-517为ATTACKERS出品,2023年12月5日发行的有碼成人影片由三宮椿出演\n我哥哥過世已經一年了。 即使他死了，我也無法原諒他。 我暗下決心，總有一天我要做一些他永遠不會原諒的事。 時機已到。 我強奸了他的妻子鈴。 她的妻子剛剛在他的佛壇前完成一周年追悼會。 ……這是最好的場合。\n我哥哥過世已經一年了。 即使他死了，我也無法原諒他。 我暗下決心，總有一天我要做一些他永遠不會原諒的事。 時機已到。 我強奸了他的妻子鈴。 她的妻子剛剛在他的佛壇前完成一周年追悼會。 ……這是最好的場合。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/06aa4eca-5b3b-48d5-9392-add0c7780d1d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/06aa4eca-5b3b-48d5-9392-add0c7780d1d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17467",
+  "actresses": [
+    {
+      "name": "三宮椿",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/d66b829a-f8fa-4acd-8dc2-af9769573e6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17467&name=三宮椿"
+    },
+    {
+      "name": "三宫つばき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17467&name=三宫つばき"
+    }
+  ]
+};

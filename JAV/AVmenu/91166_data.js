@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/16/8d1af734/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91166,
+  "IDcode": "HDKA-284",
+  "title": "はだかの家政婦 全裸家政婦紹介所 水月ありす パンティと生写真付き",
+  "publish_date": "2023-08-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "无毛",
+    "各种职业",
+    "乳房",
+    "恋物癖",
+    "局部特写",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91166",
+  "actresses": [
+    {
+      "name": "花芽有朱",
+      "img_url": "https://picture.yoshiclub.xyz/20240727/ce09631d-4d47-4301-8a78-95ebba9360fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91166&name=花芽有朱"
+    }
+  ]
+};

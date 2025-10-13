@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/7ea04b1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63768,
+  "IDcode": "KINM-003",
+  "title": "ボクにベタ惚れ！隣に引っ越してきた最強ヤリマン人妻ヤリモク巣でセックスモンスター射精！ 密室ふたりで腰破壊限界ピストン03",
+  "publish_date": "2025-06-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "吞精",
+    "业余",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/7ea04b1a/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63768",
+  "actresses": []
+};

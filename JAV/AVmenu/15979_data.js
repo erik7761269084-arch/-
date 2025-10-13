@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ecbf3f2f-d030-40ee-8ba4-e9d412a28b56/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/23/1f48286b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15979,
+  "IDcode": "FPRE-021",
+  "title": "巨乳女教師，濕透透明身子，每次下起傾盆大雨就被強暴",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "淫亂",
+    "絕頂高潮",
+    "凌辱",
+    "中出",
+    "美乳",
+    "電車",
+    "胸控・戀乳癖",
+    "潮吹",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "高妹",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "图书馆",
+    "手指插入",
+    "美少女電影",
+    "泳裝"
+  ],
+  "description": "FPRE-021为FITCH出品,2024年3月5日发行的有碼成人影片由瀬田一花出演\n體育老師一花在外面教學時遭遇了傾盆大雨。等待着瀬田一花，透過溼透的衣服可以看到她性感的身體。在回家路上擁擠的火車上，瀬田一花成爲了一個惡棍的目標，他玩弄着她豐滿的身體。由於無法向周圍的人尋求幫助，周圍的人逐漸消失，最終她被猥褻她的男人強奸。而她的悲劇還不止於此，即將發生在她的工作場所、學校……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302041714475475.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240302/20240302041714475475.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15979",
+  "actresses": [
+    {
+      "name": "瀬田一花",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/094e17d8-31bd-46e0-a18b-6a268f141685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15979&name=瀬田一花"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15979&name=いち"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15979&name=ニック"
+    }
+  ]
+};

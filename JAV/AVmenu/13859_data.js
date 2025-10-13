@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0a5fc2e5-5f9d-449e-8153-0fe4321f05f7/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241010/CtFaU3FN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13859,
+  "IDcode": "NACR-816",
+  "title": "擠出精液，直到蛋蛋變空！出差精油按摩 ~ 黑木玲奈",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "口交",
+    "風俗娘",
+    "美腳",
+    "巨乳",
+    "抹油",
+    "辣妹/GAL系"
+  ],
+  "description": "NACR-816为PLANETPLUS出品,2024年6月1日发行的有碼成人影片由黑木玲奈出演\n一名男子聯繫了一家出差按摩院，據說那裡有很多可愛的女孩。當鈴聲響起，我走到前門時，蕾娜，一個性感迷人、身材出眾的女人來了。寒暄完畢，她就在門口猛然一吻，然後脫掉內褲，給他口交！雷納持續不斷的服務讓人感覺非常好，簡直就是一種地獄般的快樂…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240620/202406200138403535.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240620/202406200138403535.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13859",
+  "actresses": [
+    {
+      "name": "黑木玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/35ebc30b-31e7-4132-832e-abfe4d005785.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13859&name=黑木玲奈"
+    }
+  ]
+};

@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/46f41f81-5305-431f-a544-460a005a2978/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/04/a6b369af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6390,
+  "IDcode": "YMDD-442",
+  "title": "素人觀察監控 抓你啦！痴女警察色色執法逼素人小哥哥射爆！DVD店裡篇 & 10發不完不許走篇 ~ AIKA",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "街頭福利",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "打手槍",
+    "口爆",
+    "美腳",
+    "金髮",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "粉丝",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "女優"
+  ],
+  "description": "YMDD-442为桃太郎映像出版出品,2025年5月3日发行的有碼成人影片由AIKA出演\n快把那話兒掏出來！ 在某市中心DVD店，AIKA性感登場！ 為了促銷，她化身騷氣警察，盯著素人顧客來場色色執法！？ 不買AIKA的片子就抓你哦！ 直接在店裡扒光衣服，懲罰式手活逼你射出來！有些小哥哥幾秒就投降了…（笑） 可以插進去嗎？硬到爆的生那話兒直接頂進去！插著還在店裡晃悠！ 連續中出兩發，爽到直接逮捕！ 店裡人太多，撤到酒店繼續！ 拍攝空檔還把助理給硬上了…（笑） 接下來AIKA的任務是，把素人小哥哥騙到酒店，10發不完不許走！！ 強行帶來的素人小哥哥，精液攢到爆的絕倫那話兒，搞得AIKA都認真高潮了！ 10發不完就一直幹，黏糊糊的連續生中出！ 小穴都被幹到濕透還在瘋狂輸出！！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102559125125_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102559125125_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6390",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6390&name=AIKA"
+    }
+  ]
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fe56fe56-7c0a-4737-8934-025d1596c4d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11582,
+  "IDcode": "SORA-564",
+  "title": "實寫版：生徒會長是真性露出狂 ~ 天馬唯",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "多P",
+    "美腳",
+    "美少女",
+    "露出",
+    "奇聞趣事",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "奇異的",
+    "學校",
+    "野外露天",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SORA-564为妄想族出品,2024年10月1日发行的有碼成人影片由天馬唯出演\n學生會長君島由花是個暴露狂。當她在學校再也忍無可忍，進城體驗暴露自己的快感時，卻被陌生男人強暴，齒輪開始瘋狂…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240929/20240929023329199199.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240929/20240929023329199199.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11582",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11582&name=天馬唯"
+    }
+  ]
+};

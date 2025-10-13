@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/13/62f8feb0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86833,
+  "IDcode": "CAWD-327",
+  "title": "「しゃぶるのやめないもん。だってまだエッチしてないじゃん」挿入直前に何発もイカせちゃうフェラチオ大好きセクシーリップ少女 辻真希",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "巨乳",
+    "颜射",
+    "口交",
+    "深喉",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86833",
+  "actresses": [
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86833&name=イセドン内村"
+    }
+  ]
+};

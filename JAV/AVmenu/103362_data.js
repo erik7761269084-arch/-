@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230319/02D9F7A790AC8174/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103362,
+  "IDcode": "MIGD-472",
+  "title": "女を穴扱い 3穴中出し輪姦 有安真里",
+  "publish_date": "2012-10-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "凌辱",
+    "轮奸",
+    "强奸",
+    "肛交",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/migd472/migd472pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103362",
+  "actresses": [
+    {
+      "name": "三浦凉花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103362&name=三浦凉花"
+    }
+  ]
+};

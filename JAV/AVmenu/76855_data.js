@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/xdBCbM8d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76855,
+  "IDcode": "PRED-186",
+  "title": "元地方局アナウンサー大痙攣ビクビク絶頂3本番Special 世良あさか",
+  "publish_date": "2019-10-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "精选，综合",
+    "淫乱，真实",
+    "姐姐",
+    "苗条",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76855",
+  "actresses": [
+    {
+      "name": "世良あさか",
+      "img_url": "https://picture.yoshiclub.xyz/20230729/2afe55af-7473-40c3-afb7-ac93599501b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76855&name=世良あさか"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76855&name=南佳也"
+    }
+  ]
+};

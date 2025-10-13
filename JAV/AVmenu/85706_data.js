@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/28/cf47727d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85706,
+  "IDcode": "NACR-584",
+  "title": "浮気をされた腹いせに家政夫を玩具にする淫乱婦人 山口珠理 パンティと生写真付き",
+  "publish_date": "2022-09-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "自慰",
+    "荡妇",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85706",
+  "actresses": [
+    {
+      "name": "山口珠理",
+      "img_url": "https://picture.yoshiclub.xyz/20250127/96fe89f5-9b81-4d84-8009-f9d78344c352.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85706&name=山口珠理"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85706&name=岩下たろう"
+    }
+  ]
+};

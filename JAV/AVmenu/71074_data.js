@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/MzjDvjCT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71074,
+  "IDcode": "HODV-21392",
+  "title": "全身を隈なくねっとり舐め回される密着ディープキス性交 凛音とうか",
+  "publish_date": "2019-07-05",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "口交",
+    "流汗",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71074",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71074&name=凛音とうか"
+    }
+  ]
+};

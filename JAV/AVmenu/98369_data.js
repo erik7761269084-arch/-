@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/31/4813f950/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98369,
+  "IDcode": "ABP-932",
+  "title": "乙都さきのの極上筆おろし 2nd 32 さらに磨かれたテクニックで待望の第二弾",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "口交",
+    "纪录片",
+    "角色扮演者",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/30/bfa8c34a96baf21d74e06338a109b9fa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98369",
+  "actresses": [
+    {
+      "name": "乙都咲乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/48136b8d-e885-4f21-b050-afaefe44a5a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98369&name=乙都咲乃"
+    }
+  ]
+};

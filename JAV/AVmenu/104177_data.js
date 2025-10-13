@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220405/542FC79271DF943C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104177,
+  "IDcode": "EBOD-555",
+  "title": "涎（男女）汗（男女）潮（女）精液（男） 中年おやじと美少女の体液ミックス性交 鈴木心春",
+  "publish_date": "2016-12-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod555/ebod555pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104177",
+  "actresses": []
+};

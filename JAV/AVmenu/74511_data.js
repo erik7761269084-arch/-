@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250102/tsnZCpZi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74511,
+  "IDcode": "DASD-551",
+  "title": "唾液を絡ませ自ら腰を振る。素顔丸出し一泊旅行。「おねだりが止まらない神乳美女の新痴態」 神咲詩織",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "纪录片",
+    "浴衣",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74511",
+  "actresses": [
+    {
+      "name": "神咲诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74511&name=神咲诗织"
+    }
+  ]
+};

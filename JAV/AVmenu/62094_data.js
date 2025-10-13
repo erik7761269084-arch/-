@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/07/63b477c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62094,
+  "IDcode": "BF-738",
+  "title": "葉山さゆりの初めてのレズエッチ",
+  "publish_date": "2025-08-05",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "高",
+    "女同性恋",
+    "乳房",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62094",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62094&name=葉山小百合"
+    },
+    {
+      "name": "管野静香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62094&name=管野静香"
+    }
+  ]
+};

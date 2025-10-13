@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65735,
+  "IDcode": "F10BC541042722C288243121BAE162A5",
+  "title": "初次当摸摸茶妹子的棉花糖爆乳I罩杯妹子乳头敏感过头无法工作决定转当AV女优",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65735",
+  "actresses": []
+};

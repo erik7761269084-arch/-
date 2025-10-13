@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/Kx1bHZez/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83574,
+  "IDcode": "IENF-065",
+  "title": "生まれて初めての人妻風俗面接 7",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83574",
+  "actresses": [
+    {
+      "name": "逢澤理衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/7a596a53-16e7-4d13-9446-cdb1739a0c79_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83574&name=逢澤理衣奈"
+    },
+    {
+      "name": "雪美千夏",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\5-Ebody/雪美千夏.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83574&name=雪美千夏"
+    },
+    {
+      "name": "内海みう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83574&name=内海みう"
+    },
+    {
+      "name": "滝川由真",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83574&name=滝川由真"
+    }
+  ]
+};

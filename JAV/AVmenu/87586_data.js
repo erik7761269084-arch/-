@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230804/7TfGX1oj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87586,
+  "IDcode": "MDVHJ-064",
+  "title": "母親失格…夫の連れ子との禁断相姦にはまり狂う義母… 櫻田杏奈 パンティとチェキ付き",
+  "publish_date": "2022-08-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "乱伦",
+    "巨大阴茎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230804-1/8e78848d662403893f7271e889d98253.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87586",
+  "actresses": [
+    {
+      "name": "櫻田杏奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87586&name=櫻田杏奈"
+    }
+  ]
+};

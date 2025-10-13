@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1f6d736-6038-4945-a0aa-48e0a55e9e52/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15780,
+  "IDcode": "CAWD-655",
+  "title": "微笑搖擺的 H罩杯超大奶子女孩 20 歲 AV 首次亮相 ~ 森本明裏",
+  "publish_date": "2024-04-02",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "內衣",
+    "少女",
+    "多P",
+    "美少女",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "CAWD-655为KAWAII出品,2024年4月2日发行的有碼成人影片由森本あかり出演\n森本明里，20歲，住在靜岡縣的文科大學生，是個臉上總是掛著笑容的聰明女孩。總是對一切都感興趣、充滿好奇心的明里，看著AV，對這個世界充滿了敬佩。我非常熱愛性，強烈渴望體驗各種性愛，成為不一樣的男人。終於到了 20 歲了，我想體驗 AV 和令人興奮的性愛的新世界，所以我搬到了東京並出現在 Kawaii* 上。 「一滿20歲就想出演AV…」笑容純真的H罩杯巨乳妹期待已久的AV出道！搖晃著100cm巨乳，開心又羞恥又FUCK！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330084747560560.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240330/20240330084747560560.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15780",
+  "actresses": [
+    {
+      "name": "森本あかり",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/f0545c1c-260e-48c0-819c-fcb7f185a6bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15780&name=森本あかり"
+    }
+  ]
+};

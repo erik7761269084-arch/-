@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/5trGqeWR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78900,
+  "IDcode": "SNIS-093",
+  "title": "体内汁ダラダラ さくらえな",
+  "publish_date": "2014-02-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "美少女",
+    "艺人",
+    "苗条",
+    "潮吹",
+    "薄马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78900",
+  "actresses": [
+    {
+      "name": "さくらえな",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/b7c25d5187a468d25255d6e3935e5b6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78900&name=さくらえな"
+    }
+  ]
+};

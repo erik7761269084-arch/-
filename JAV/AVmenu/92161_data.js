@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/22/fed62b76/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92161,
+  "IDcode": "MIAA-873",
+  "title": "中出しおねだり潮吹きま○こになるまで媚薬とねっちょりピストン調教し続けた7日間4015回強●絶頂の記録。 デカ尻部活少女キメセク開発マッサージ 天馬ゆい （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "潮吹",
+    "乳液",
+    "巨大屁股",
+    "药物",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92161",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92161&name=天馬唯"
+    }
+  ]
+};

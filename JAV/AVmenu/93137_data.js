@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/60a7Bm4Y/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93137,
+  "IDcode": "PPPD-828",
+  "title": "初めて巨乳のセフレができたのでペチャパイの彼女とはできないド変態おっぱいプレイをやってみた Hitomi",
+  "publish_date": "2020-03-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "捆绑",
+    "第一人称摄影",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241007-1/dd6d981e103c9cb6d6a3ba4195e3a538.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93137",
+  "actresses": [
+    {
+      "name": "田中瞳",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/188e71b46fd4b376e545cd76ce28fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93137&name=田中瞳"
+    }
+  ]
+};

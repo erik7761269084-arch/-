@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230131/66CB8F474594A16E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99180,
+  "IDcode": "BBAN-193",
+  "title": "レズ未経験の君色華奈が個人的に気になる女優の愛瀬美希を自宅に連れ込みガチ口説き。禁断の女優同士のプライベートでレズ解禁映像。君色華奈レズ解禁！！ 愛瀬美希",
+  "publish_date": "2018-08-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "美少女",
+    "第一人称摄影",
+    "女同性恋",
+    "纪录片",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99180",
+  "actresses": [
+    {
+      "name": "凉美ほのか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99180&name=凉美ほのか"
+    },
+    {
+      "name": "爱瀬美希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99180&name=爱瀬美希"
+    }
+  ]
+};

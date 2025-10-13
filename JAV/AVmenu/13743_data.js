@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/16a6c390-2318-45ef-a7cc-a460a28adc12/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13743,
+  "IDcode": "CEMD-548",
+  "title": "不停含淚高潮 櫻茉日",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "白絲",
+    "性感",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240624/13aa7cb2-2524-4c3b-83cb-8406693e6144.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240624/13aa7cb2-2524-4c3b-83cb-8406693e6144.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13743",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13743&name=堀北実来"
+    }
+  ]
+};

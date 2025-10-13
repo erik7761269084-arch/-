@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230503/EEFBE95D45DC891F/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65889,
+  "IDcode": "E8389451E595ABE67E013138CBB095BF",
+  "title": "[日本] 鹫尾芽衣破坏版AV～喝酒后变了个人似的公公在老公面前侵犯我～ (SSIS-275)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65889",
+  "actresses": []
+};

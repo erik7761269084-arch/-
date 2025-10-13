@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/31/a53c2e4d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92251,
+  "IDcode": "MIAB-147",
+  "title": "睡姦キメセクレ×プ 僕が先に好きだったのに…思いを寄せていた幼馴染が親友と付き合ったことを知った僕は、彼女を眠らせ中出し15発OVER 柏木こなつ （BOD）",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "深喉",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240730-1/04e353fb709d858745e6c014102dfcaf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92251",
+  "actresses": []
+};

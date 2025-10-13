@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250422/tURo5WkC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67956,
+  "IDcode": "MIAA-754",
+  "title": "僕だけが知ってる学級委員長の裏顔。 学年一の清楚なクラスメイトからド下品にアナルを見せつけられて誘惑杭打ち中出しされちゃった僕。 皆瀬あかり （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-12-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "制服",
+    "肛交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67956",
+  "actresses": []
+};

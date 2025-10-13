@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220408/17E6036EDD3C4B6B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54810,
+  "IDcode": "417A943A0D93AB7F25EAF02FB760C3FE",
+  "title": "第一次当电话女郎的女高中生 4419",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54810",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240306/exnQYPsd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90939,
+  "IDcode": "KING-193",
+  "title": "それなーっ！こっそり媚薬で勝手に性欲覚醒 巨乳JDがビキニで挑戦するヌルッヌルオイルマッサージ！いやだ勃起しちゃう …凸ったビーチク＆クリトリスを激震電マで執拗に愛撫、ガニ股失禁イキ潮ブッシャーッ！～みな編～",
+  "publish_date": "2023-10-09",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "女大学生",
+    "潮吹",
+    "女优按摩棒",
+    "美容院",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90939",
+  "actresses": []
+};

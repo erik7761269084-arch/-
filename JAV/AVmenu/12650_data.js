@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6042959-8dee-4d9c-8018-bd2da01d0d2c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/03/d75ec0e2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12650,
+  "IDcode": "MIDV-823",
+  "title": "完整的舔陰過程，渾濁的、嚴重的汁液不斷從美麗的陰戶中溢出 ~ 九野雛乃",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "MIDV-823为MOODYZ出品,2024年8月20日发行的有碼成人影片由九野雛乃出演\n用最流行的前戲「舔陰」，舔舔日野久野直到她的陰戶變得愚蠢，讓女性高潮的豐富舔陰全套課程！小心地舔、挑、吸從陰蒂到陰道內部的一切！口水和真汁混合黏稠的白色體液橋太色情了！ 【立即舔陰採訪，一邊舔一邊自拍，氣喘吁籲的忍耐舔陰挑戰，舔不停3P]越舔敏感度越高的敏感小穴，被無情攻擊，逼瘋！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815232822902902.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815232822902902.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12650",
+  "actresses": [
+    {
+      "name": "九野雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/25340066-475f-4e48-82af-79d90054c935.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12650&name=九野雛乃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12650&name=イセドン内村"
+    }
+  ]
+};

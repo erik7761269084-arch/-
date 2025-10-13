@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/26/696a7564/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85464,
+  "IDcode": "MIDV-111",
+  "title": "両親が不在の間、暇なド田舎に預けられた私は近所のオジさんを誘惑して勝手にまたがり腰を振り続けた… 葵いぶき 生写真3枚付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "女上位",
+    "接吻",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85464",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85464&name=葵伊吹"
+    }
+  ]
+};

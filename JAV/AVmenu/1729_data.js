@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230428/61bc6278-d407-4324-8f50-8247a02d1ae0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1729,
+  "IDcode": "smbd-30",
+  "title": "S Model 30 : 熱情交尾 ~ 愛內梨花",
+  "publish_date": "2011-05-12",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "中出",
+    "美乳",
+    "顏射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230211/d3e001df-9b3f-428c-aff1-b769d89da3c5.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230211/d3e001df-9b3f-428c-aff1-b769d89da3c5.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1729",
+  "actresses": [
+    {
+      "name": "愛内梨花",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/e89e30f1-6638-4c85-b246-326e918c0628.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1729&name=愛内梨花"
+    }
+  ]
+};

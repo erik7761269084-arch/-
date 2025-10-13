@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/oPq4cDhr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72885,
+  "IDcode": "SOE-757",
+  "title": "爆乳處男開苞 沖田杏梨",
+  "publish_date": "2012-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "角色扮演",
+    "薄马赛克",
+    "处男",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/15c48c1a087521f13f32c2c7f2eaa7e8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72885",
+  "actresses": [
+    {
+      "name": "沖田杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/2eae04c6-5c92-4209-8b5b-aa4de0fccb96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72885&name=沖田杏梨"
+    }
+  ]
+};

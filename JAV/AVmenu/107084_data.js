@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/24/4af66da6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107084,
+  "IDcode": "MIDE-779",
+  "title": "可以馬上吹馬上幹 絶對領域服侍女僕 藍芽水月",
+  "publish_date": "2020-06-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "苗条",
+    "潮吹",
+    "女佣",
+    "立即口交",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/25/d0a45c3f5e24c4bdb067bb6883f1484f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107084",
+  "actresses": [
+    {
+      "name": "蓝芽水月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107084&name=蓝芽水月"
+    }
+  ]
+};

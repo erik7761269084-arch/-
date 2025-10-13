@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/07/59d7bdd6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62390,
+  "IDcode": "KSBJ-377",
+  "title": "私が飼っている自慢の生チ○ポペットを紹介します！ 安野由美 （BOD）",
+  "publish_date": "2025-05-06",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "荡妇",
+    "胖女人",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62390",
+  "actresses": [
+    {
+      "name": "安野由美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250511/e4843f6e-3df9-4aa1-b730-14ed4bdc04cd_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62390&name=安野由美"
+    }
+  ]
+};

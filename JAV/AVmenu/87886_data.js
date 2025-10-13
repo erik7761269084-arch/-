@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/a7a6ea29/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87886,
+  "IDcode": "SABA-831",
+  "title": "暴露映像 都内某マンションにある生中出しが出来るメンズエステ 01",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "按摩",
+    "业余",
+    "美容院",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/fc01dcbc2855c7be2f2b574b55216237.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87886",
+  "actresses": [
+    {
+      "name": "星空萌愛",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/5633e352-9d50-4abc-a0fa-7afd25737f80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87886&name=星空萌愛"
+    },
+    {
+      "name": "尾上若叶",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/149a4db1-b7b2-4b0f-aef8-10df181c7f86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87886&name=尾上若叶"
+    },
+    {
+      "name": "凉川绚音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87886&name=凉川绚音"
+    }
+  ]
+};

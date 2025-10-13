@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f8272549-b50a-4e3c-a9cb-af0e4f078217/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6208,
+  "IDcode": "BAGR-059",
+  "title": "老爸的債我來還！發育爆表的癡少女最強傳說 ~ 加藤桃香",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "4K",
+    "乳交",
+    "雙馬尾",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "少女",
+    "接吻",
+    "口爆",
+    "美少女",
+    "單體作品",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "KTV夜總會",
+    "欠債肉償",
+    "美人",
+    "學校",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "BAGR-059为BALTAN出品,2025年5月10日发行的有碼成人影片由加藤桃香出演\n發育實在太逆天的小學生ののか醬，為了幫老爸還債，天天泡在風俗圈，晚上在酒吧陪客，任人玩弄那嫩到不行的身軀。‘ののか，我受不了啦…’ 她用那種完全不像幼女的致命誘惑當武器，今晚又要迷倒一堆男人！連平時總是關心她的班主任，也被她反手拿捏，瞬間變成舔狗！這位處男老師從沒體驗過這麼黏膩的舌吻，直接被她吻到腳軟，完全淪陷…究竟ののか醬的還債故事會有啥結局？快來一探究竟啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505100602351515_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/202505100602351515_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6208",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6208&name=加藤桃香"
+    }
+  ]
+};

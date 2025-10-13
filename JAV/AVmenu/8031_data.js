@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c77e5c55-29fe-414f-a376-511b1114089e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/ef8af21e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8031,
+  "IDcode": "REAL-892",
+  "title": "把順從性感COSPLAYER帶到酒店，用媚藥後的大量中出 ~ 夕美紫苑",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "淫亂",
+    "舔腳",
+    "二次元",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "深喉",
+    "傲嬌",
+    "流汗",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "早漏",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "媚藥・迷藥",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "迷姦",
+    "舔陰",
+    "少女",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250223/ccbfae1b-1a5e-43a0-9030-4d92de798e9a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250223/ccbfae1b-1a5e-43a0-9030-4d92de798e9a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8031",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8031&name=夕美紫苑"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231029/dSMo0kS0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103472,
+  "IDcode": "SSIS-050",
+  "title": "- 上司出差不在時、與上司妻子搞翻天的3日間。  安齋拉拉 - JAV目錄大全javmenu.com",
+  "publish_date": "2021-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103472",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103472&name=安斋拉拉"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103472&name=ニック"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230728/bnwFICIw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87485,
+  "IDcode": "IENF-226",
+  "title": "素人女子大生が高額バイト代につられてヌードデッサンモデルに！マ○コのビラビラまで丁寧に描かれる視姦の羞恥にマ○コはグッショリ！生で挿入されてイキまくり！ 3",
+  "publish_date": "2022-07-21",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "中出",
+    "业余",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87485",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87485&name=天馬唯"
+    },
+    {
+      "name": "天然美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/56ddbd44-256a-4ecb-ab3f-a7ffa30baf55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87485&name=天然美月"
+    },
+    {
+      "name": "南乃そら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87485&name=南乃そら"
+    }
+  ]
+};

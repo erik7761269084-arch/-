@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230227/4DDDA19AFEF19624/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103303,
+  "IDcode": "HRV-016",
+  "title": "絶対的美少女 極上フェラチオ40連発 SPECIAL 8時間",
+  "publish_date": "2019-12-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "颜射",
+    "口交",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103303",
+  "actresses": [
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=鈴村愛里"
+    },
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=彩美旬果"
+    },
+    {
+      "name": "愛名光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20241115/5073dd74-ba29-4882-97b9-06a468188395.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=愛名光莉"
+    },
+    {
+      "name": "园田美樱",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/49d60faa-ccb3-491a-96ac-19bc1bcca92f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=园田美樱"
+    },
+    {
+      "name": "愛音麻里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/50af9cbc-9b8c-4ec6-8f92-87c622882fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=愛音麻里亞"
+    },
+    {
+      "name": "松永纱奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=松永纱奈"
+    },
+    {
+      "name": "水嶋那奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=水嶋那奈"
+    },
+    {
+      "name": "长谷川るい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103303&name=长谷川るい"
+    }
+  ]
+};

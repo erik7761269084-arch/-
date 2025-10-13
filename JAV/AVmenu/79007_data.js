@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/AQVdGsQl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79007,
+  "IDcode": "MIGD-434",
+  "title": "- 真性中出し 笠木忍 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/d147f0a18431b200dd10db02f35e7749.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79007",
+  "actresses": [
+    {
+      "name": "笠木忍",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623084952744744_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79007&name=笠木忍"
+    }
+  ]
+};

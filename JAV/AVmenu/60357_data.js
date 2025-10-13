@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/298b931f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60357,
+  "IDcode": "OAE-291",
+  "title": "裸神 瀬戸環奈 （ブルーレイディスク）",
+  "publish_date": "2025-09-23",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "介绍影片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/07/bd9fdf250a94890af1ddacf806f27989.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60357",
+  "actresses": [
+    {
+      "name": "瀨戶環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20250123/62d7850c-466b-4aff-bc26-a877fbe1b6e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60357&name=瀨戶環奈"
+    }
+  ]
+};

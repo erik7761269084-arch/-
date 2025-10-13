@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f3e9fe49-0e37-4c89-8fc1-999777c0ee22/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19236,
+  "IDcode": "IPX-216",
+  "title": "超聽話失禁見習女僕 來當主人的聽話女寵",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "女僕",
+    "調教",
+    "美少女",
+    "自慰",
+    "女僕制服",
+    "數位馬賽克",
+    "巨乳",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230619/20230619014741988988.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230619/20230619014741988988.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19236",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19236&name=桃乃木香奈"
+    }
+  ]
+};

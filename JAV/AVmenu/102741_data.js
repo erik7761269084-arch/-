@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/06/cf697ca1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102741,
+  "IDcode": "AARM-034",
+  "title": "アナル舐めガチ勢 黒宮えいみ",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "荡妇",
+    "屁股",
+    "胖女人"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/aarm034/aarm034pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102741",
+  "actresses": [
+    {
+      "name": "黒宫えいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102741&name=黒宫えいみ"
+    }
+  ]
+};

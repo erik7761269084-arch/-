@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/10/ad8bfcce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62067,
+  "IDcode": "HKIK-017",
+  "title": "一日女将に就任しました 山本かをり",
+  "publish_date": "2025-08-05",
+  "type": "有码",
+  "company": "RUBY",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "户外",
+    "老板娘，女主人",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62067",
+  "actresses": [
+    {
+      "name": "山本かをり",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250922/7dc2ba11-81c2-4dcb-aece-5111e6a870c8_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62067&name=山本かをり"
+    }
+  ]
+};

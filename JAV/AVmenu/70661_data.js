@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/lJHrvEMV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70661,
+  "IDcode": "SDDE-590",
+  "title": "全裸婚活パーティー",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "口交",
+    "羞耻",
+    "企画",
+    "滥交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70661",
+  "actresses": [
+    {
+      "name": "加藤あやの",
+      "img_url": "https://picture.yoshiclub.xyz/20240824/2bc3e18c-a3dc-4a53-9621-c5755fda4b16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70661&name=加藤あやの"
+    },
+    {
+      "name": "卯水咲流",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250518/f4067a91-2dd3-4756-8221-f453b628e5a1_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70661&name=卯水咲流"
+    },
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70661&name=井上綾子"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70661&name=纱々原ゆり"
+    }
+  ]
+};

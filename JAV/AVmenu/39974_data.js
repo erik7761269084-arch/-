@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/D57AAF4BCEFE6F73/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39974,
+  "IDcode": "F5B8B273497EDC7271746D0E40A3DD7C",
+  "title": "【日韩】高贵的极品短发美人妻 一个人拥有两个 听话肯伺候 满足 听她的男人。",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39974",
+  "actresses": []
+};

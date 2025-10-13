@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c66611d-7aa4-47a0-9a3e-d8103dd28840/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/6d67dfb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8099,
+  "IDcode": "SONE-602",
+  "title": "生意氣可愛的兼職女學生像小混蛋一樣對待我！我要讓她明白我那勃起不退的大雞巴的厲害！ ~ 渚あいり",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "便利商店",
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "傲嬌",
+    "色白",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "公共場所",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "飯店"
+  ],
+  "description": "SONE-602为S1出品,2025年2月25日发行的有碼成人影片由渚愛梨出演\n【我是被新來的無辜打工仔真次郎誘惑，然後徹底敗下陣來的受虐狂店員。 】新來的打工者渚。她舉止優雅、彬彬有禮，就像一位現代的高中女生。我以為我們獲得了強大的力量，但他們的本質卻完全不同。我被一個有虐待傾向的可愛女孩單方面指責、舔和控制……這真是令人沮喪！ ！但是...我能感覺到。被比自己小一歲的可愛又調皮的惡魔級打工妹玩弄，敗下陣來……#沒有逆轉#想要讓姑娘讓我屈服#虐戀男作品！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093025922922.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220093025922922.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8099",
+  "actresses": [
+    {
+      "name": "渚愛梨",
+      "img_url": "https://picture.yoshiclub.xyz/20240322/592b6afe-eb78-41dd-a192-92d259e154f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8099&name=渚愛梨"
+    }
+  ]
+};

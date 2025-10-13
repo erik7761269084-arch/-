@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240425/bqtaTOhI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91291,
+  "IDcode": "EBOD-690",
+  "title": "身長170cm バレーボール暦12年 全国大会出場の経歴を持つ 元アスリート現在ソープ嬢 もの凄い筋肉BODYマットプレイヤーAVデビュー 日向菜々子",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "高",
+    "乳液",
+    "首次亮相",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240426-1/9dff88887517208ee53f1efaec55506b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91291",
+  "actresses": [
+    {
+      "name": "三吉菜々",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91291&name=三吉菜々"
+    }
+  ]
+};

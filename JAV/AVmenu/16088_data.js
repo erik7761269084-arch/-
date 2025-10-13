@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/158e21d8-353e-400e-9143-5186db9c861a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/08/7a57f499/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16088,
+  "IDcode": "HMN-530",
+  "title": "2階段NTR 第一階段：讓被抓包的部下主動與自己的妻子發生性關系 第二階段：之後，被無法拒絕的部下的妻子討厭，被生中出10次以上再次",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "中出",
+    "口交",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "HMN-530为本中出品,2024年2月27日发行的有碼成人影片由美谷朱里出演\n美谷朱裏的丈夫在工作中犯了一個嚴重的錯誤。再這樣下去，他就要被解僱了……丈夫收到了老板的惡魔求婚。內容是[和我的妻子美谷朱裏拍攝性愛視頻]......可以通過與一無所知的美谷朱裏的恩愛視頻戴綠帽子，也可以通過與無法拒絕的明裏的原始中出性交來真正戴綠帽子，這是2階段NTR的新感覺。我不敢相信別人能看到我如此生動的性交狀態，只有我丈夫知道……然後我多次射精，甚至我的身體都被接管了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240225/20240224230803919919.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240225/20240224230803919919.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16088",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16088&name=美谷朱里"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16088&name=田渊正浩"
+    }
+  ]
+};

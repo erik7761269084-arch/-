@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/94c3487f-3f47-48ca-8aca-424a7294699c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/30/4f69694d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17356,
+  "IDcode": "IPZZ-158",
+  "title": "色情蕩婦護士喜歡口爆。用誘人的骚語迷惑男人的惡魔極品護士！",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "劇情",
+    "醫院・診所",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "口交",
+    "口爆",
+    "多P",
+    "護士制服",
+    "勾引・誘惑",
+    "癡女",
+    "護士"
+  ],
+  "description": "IPZZ-158为IDEA POCKET出品,2023年12月13日发行的有碼成人影片由朝妃莉緒出演\n熱愛精液的惡魔蕩婦護士吞噬了病人的雞巴！一旦吸了，就不要放手，直到射精！將男人的雞雞折腾到極致！技術完美的打手槍，真空豐富的口交，口爆！喜歡雞雞但也想要被操的淫蕩護士。想要口爆！\n熱愛精液的惡魔蕩婦護士吞噬了病人的雞巴！一旦吸了，就不要放手，直到射精！將男人的雞雞折腾到極致！技術完美的打手槍，真空豐富的口交，口爆！喜歡雞雞但也想要被操的淫蕩護士。想要口爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231209/1c216511-a99d-4960-98c7-b278070941a8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231209/1c216511-a99d-4960-98c7-b278070941a8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17356",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17356&name=朝妃莉緒"
+    }
+  ]
+};

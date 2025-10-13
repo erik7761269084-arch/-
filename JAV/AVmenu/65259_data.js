@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230513/7BEAE6F1C21E4A6C/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65259,
+  "IDcode": "8107F35FA6D24C392376B564177545BC",
+  "title": "《91大神牛哥》无套狂肏中出地方少妇两次！少妇饥渴狂骑全都录！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65259",
+  "actresses": []
+};

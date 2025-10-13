@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230329/36939f40-15b2-4fa2-9133-0feef7a1326c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1690,
+  "IDcode": "ABP-664",
+  "title": "超豪華背部水療療愈沙龍 02 療愈密語 x 最佳護送性愛 彩美旬果",
+  "publish_date": "2017-11-17",
+  "type": "无码",
+  "company": "蚊香社",
+  "genres": [
+    "按摩・物理治療・美容",
+    "乳交",
+    "主觀視角",
+    "無碼流出",
+    "按摩・美容店",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230329/00d477ab-3fac-4c5c-a744-e9f2033eff34.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230329/00d477ab-3fac-4c5c-a744-e9f2033eff34.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1690",
+  "actresses": [
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1690&name=彩美旬果"
+    }
+  ]
+};

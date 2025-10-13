@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/RjDl3cTr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77022,
+  "IDcode": "SCOP-564",
+  "title": "校内のラッキースケベ！！気になっていたアノ子の胸チラ乳首を見てしまった僕は興奮してしまい襲ってみると乳首イキする敏感娘だった！！",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "水手服",
+    "运动短裤",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77022",
+  "actresses": [
+    {
+      "name": "山井すず",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77022&name=山井すず"
+    },
+    {
+      "name": "枝川结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77022&name=枝川结衣"
+    },
+    {
+      "name": "まゆのゆま",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77022&name=まゆのゆま"
+    }
+  ]
+};

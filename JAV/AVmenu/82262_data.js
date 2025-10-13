@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/09/30/22538a15/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82262,
+  "IDcode": "BF-593",
+  "title": "完全主観 お義姉さんと筆おろし性活 望月あられ",
+  "publish_date": "2019-11-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "中出",
+    "乱伦",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82262",
+  "actresses": [
+    {
+      "name": "望月憧",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/bd6d7f1c-9289-48c0-a295-b93ceabfadbb_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82262&name=望月憧"
+    }
+  ]
+};

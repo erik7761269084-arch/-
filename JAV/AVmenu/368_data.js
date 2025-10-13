@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/34be1384-6559-42b1-8e01-a037c0d2d96d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 368,
+  "IDcode": "HEYZO-0434",
+  "title": "他人妻味 全身欲望的巨乳主婦 ~ 柚木楓",
+  "publish_date": "2013-10-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "金髮",
+    "美人妻",
+    "艷遇",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "野性",
+    "羞恥"
+  ],
+  "description": "HEYZO-0434为HEYZO出品,2013年10月9日发行的無碼成人影片由柚木楓出演\n他人妻味～隙だらけの巨乳主婦～ - 柚木楓",
+  "cover_url": "https://picture.yoshiclub.xyz/20250303/96ae711a-993f-4143-9ee8-ce08c6844a13.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250303/96ae711a-993f-4143-9ee8-ce08c6844a13.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=368",
+  "actresses": [
+    {
+      "name": "柚木楓",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/239a4697-84e8-4535-b55a-7828bdabd915.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=368&name=柚木楓"
+    }
+  ]
+};

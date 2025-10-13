@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/3SdzBDwT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79989,
+  "IDcode": "MXGS-1211",
+  "title": "拘束絶頂 ～身動きが取れない状況で痙攣イキするえっちなオマ○コ 沙月恵奈",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "玩具",
+    "拘束",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/100b10a2918c586ec713a4ac24d88ea8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79989",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79989&name=沙月惠奈"
+    }
+  ]
+};

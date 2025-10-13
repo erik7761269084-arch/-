@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/LCYWa54y/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70823,
+  "IDcode": "SDNM-214",
+  "title": "ニコニコ笑顔に励まされる。不器用で真面目な2児のママ。 西村有紗 41歳 第2章 2児のママが嬉し恥ずかし初絶頂 旦那が仕事中の10時間 中でも外でもず～っと悶絶イキまくりSEX",
+  "publish_date": "2019-09-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "淫乱，真实",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/fc163bbd8702ced6a318035ce462d272.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70823",
+  "actresses": [
+    {
+      "name": "西村有纱",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70823&name=西村有纱"
+    }
+  ]
+};

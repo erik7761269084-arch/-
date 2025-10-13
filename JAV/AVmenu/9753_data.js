@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7352ae11-eb18-4fe4-b8d9-12720ba3d4b8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/4eeace1f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9753,
+  "IDcode": "JUR-148",
+  "title": "本來很美好的公司的溫泉之旅，整個部門都在輪奸人妻女社員，把她調教成了肉便器 ~ 鬆野蘭",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "吞精",
+    "網襪",
+    "深喉",
+    "變態",
+    "和服・浴衣・喪服",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "OL",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "強姦",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "女同事",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "M男・M女",
+    "熟女",
+    "溫泉",
+    "打屁股",
+    "羞恥"
+  ],
+  "description": "JUR-148为MADONNA出品,2024年12月24日发行的有碼成人影片由松野蘭出演\n我是那種看到已婚婦女被輪姦最興奮的人。有一天，我聘用了處於職業生涯中期的松野先生，因為他因為無法適應以前的公司而多次換工作。我的公司看起來很適合，當我看到她和同事們一起愉快地工作時，我的壞習慣開始顯現出來...他是個理想的人，只用一個聲音就可以決定是否要解僱我。工作認真，聽話。已婚婦女，也有丈夫。我們將為您帶來一段她在訓練之旅中被做成肉小便池的影片。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218103926222222.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218103926222222.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9753",
+  "actresses": [
+    {
+      "name": "松野蘭",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/686800d1-935f-434b-809c-7b4f93288a03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9753&name=松野蘭"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9753&name=大岛丈"
+    }
+  ]
+};

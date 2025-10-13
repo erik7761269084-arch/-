@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/22331656-1ddf-41d2-ad55-ebe32568e488/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/23/3a0e1cb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5281,
+  "IDcode": "SQTE-615",
+  "title": "炮友以上，戀人未滿！一次怎夠，超辣炮友讓我忍不住多次內射 ~ 靜河",
+  "publish_date": "2025-06-14",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "女僕",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "小三・情人",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "約炮",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "飯店"
+  ],
+  "description": "SQTE-615为S-CUTE出品,2025年6月14日发行的有碼成人影片由静河出演\n這妹子又甜又辣，差點讓我認真陷入戀愛！約會時就忍不住親不停，笑容天真無邪卻超愛玩色色遊戲的小美女靜河。剛啪完想走人，她立馬換上騷氣女僕裝勾引我，硬是把我留下！還甜甜地問：主人，感覺如何？那舌技絕了，所谓的侍奉根本就是欲拒還迎的挑逗！被她弄到高潮後，她還不滿足，直接騎上來搖腰，簡直太貼心了！這樣的極品炮友，哪能只來一次？直接大戰三回合，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/202506141005442929_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250614/202506141005442929_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5281",
+  "actresses": [
+    {
+      "name": "静河",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/11e96a05-6d57-4199-9a45-36f354d14897.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5281&name=静河"
+    }
+  ]
+};

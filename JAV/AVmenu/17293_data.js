@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7f5e9ffd-e375-4129-bd22-8a13f7cab2e4/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/BDYpEGPu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17293,
+  "IDcode": "STARS-956",
+  "title": "天才性感少女綾瀨天做了想做的事。第一次解放性慾中出！",
+  "publish_date": "2024-01-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "中出",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "性感",
+    "兩男一女",
+    "美少女",
+    "女優訪談",
+    "紀錄片",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "STARS-956为SOD出品,2024年1月11日发行的有碼成人影片由綾瀬天出演\n外表酷炫、性慾極強的綾瀨天第一次嘗試了自己一直想做的性愛！想要被大雞雞插入，想要在鏡子裡注視的情況下做愛，想要3P被操…173cm的纖細身體，從令人興奮的快感中射出第一次！\n外表酷炫、性慾極強的綾瀨天第一次嘗試了自己一直想做的性愛！想要被大雞雞插入，想要在鏡子裡注視的情況下做愛，想要3P被操…173cm的纖細身體，從令人興奮的快感中射出第一次！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231212/20231212013526753753.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231212/20231212013526753753.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17293",
+  "actresses": [
+    {
+      "name": "綾瀬天",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/81f07390-78ff-4827-89fc-f48be57d8b29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17293&name=綾瀬天"
+    }
+  ]
+};

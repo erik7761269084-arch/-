@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fe6e5130-5529-407e-93c3-d7924b4ac95f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/14b60d84/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10394,
+  "IDcode": "JUQ-964",
+  "title": "和公公住在一起已經四年了……愛上公公插入我的快感 ~ 瑤真由香",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "公公",
+    "兒媳",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "亂倫",
+    "羞恥"
+  ],
+  "description": "JUQ-964为MADONNA出品,2024年11月26日发行的有碼成人影片由瑶真由香出演\n結婚一年後，我們搬到了我丈夫的父母家，最後和我的岳父住在一起。看來岳父很盼望抱孫子，但一直沒有抱孫子，夫妻倆的活動也逐漸減少。有一天，我的岳父在後面看著這一切，突然襲擊了我。從那天起，每一天……這段關係持續了一年，然後兩年，不知不覺中，我的身體開始尋求岳父灌輸給我的快樂，四年了已經過去了……",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122001847761761.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122001847761761.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10394",
+  "actresses": [
+    {
+      "name": "瑶真由香",
+      "img_url": "https://picture.yoshiclub.xyz/20240921/f7ce3488-11dd-48ee-ac9f-0fa2ad98d268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10394&name=瑶真由香"
+    }
+  ]
+};

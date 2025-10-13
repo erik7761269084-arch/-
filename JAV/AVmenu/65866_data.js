@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65866,
+  "IDcode": "6C92DAE963883B8C7C0E46E2C7D01CD4",
+  "title": "[限制级快车] 听说日裔骚女Rae Lil Black深喉咙很厉害～人妻请她来授课顺便拍下来学习学习！",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65866",
+  "actresses": []
+};

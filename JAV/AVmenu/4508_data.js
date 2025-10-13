@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/79221513-d16c-48ff-a502-18aa51a1b55f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/17/1411148e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4508,
+  "IDcode": "PRED-790",
+  "title": "新任女教師遭侵犯～絕倫學生的懷孕比賽中出輪姦～ 出演：蒼乃美月",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "調教",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "倉庫",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "肉絲",
+    "跳蛋",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "更衣室",
+    "御姐系",
+    "清純",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "學校",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "PRED-790为PREMIUM出品,2025年7月11日发行的有碼成人影片由蒼乃美月出演\n新上任的美月老師被不良學生鎖定，為了替偷東西的學生掩蓋，竟被對方突襲強行中出！身為關心學生的女教師，她只能無奈屈服……在教室裡被迫進行羞辱的口交服務！在校園各處被當成玩具調教玩弄！青春期超級絕倫的學生用3P狠狠幹翻她！美艷動人，身材火辣，百依百順，簡直是極品肉便器！被慾望爆棚的學生們隨意踐踏，教師的尊嚴與貞操全被摧毀……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032818471471_86938_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032818471471_86938_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4508",
+  "actresses": [
+    {
+      "name": "蒼乃美月",
+      "img_url": "https://picture.yoshiclub.xyz/20231208/4dc98d20-c362-4e82-a356-cbe6a730a902.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4508&name=蒼乃美月"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4508&name=左慈半造"
+    }
+  ]
+};

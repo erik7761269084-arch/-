@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/09/15/df993feb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96193,
+  "IDcode": "ADN-596",
+  "title": "私のお腹の中にいる子供は夫の子か…それとも義父の子か。 黒木れいな",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96193",
+  "actresses": [
+    {
+      "name": "黑木玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/35ebc30b-31e7-4132-832e-abfe4d005785.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96193&name=黑木玲奈"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96193&name=田渊正浩"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/feccc414/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60166,
+  "IDcode": "APNS-385",
+  "title": "恥辱の家庭訪問 マゾ調教に孕ませ性交…夫の目の前で素行不良生徒にハメられた美人教師 花衣つばき",
+  "publish_date": "2025-09-09",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "戏剧",
+    "中出",
+    "多P",
+    "颜射",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/22/14921d3b97692d43d229362199faa7fc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60166",
+  "actresses": [
+    {
+      "name": "花衣つばき",
+      "img_url": "https://picture.yoshiclub.xyz/20240927/7b95adfc-a57c-411b-9c35-30d23774b174.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60166&name=花衣つばき"
+    }
+  ]
+};

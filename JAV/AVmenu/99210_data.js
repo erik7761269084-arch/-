@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/2C53B95C0DA8D25F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99210,
+  "IDcode": "OMT-006",
+  "title": "ベロちゅうだけでグチョグチョになるドMバイリンガル才女がおっさんチ●ポにどハマり！ 望月りさ",
+  "publish_date": "2019-07-29",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1359omt006/h_1359omt006pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99210",
+  "actresses": []
+};

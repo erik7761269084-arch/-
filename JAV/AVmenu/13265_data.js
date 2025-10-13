@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d13ab7f7-c816-48f4-9572-4d7a39216b65/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13265,
+  "IDcode": "SSNI-317",
+  "title": "限定10人！ 鈴木心春1泊2日連續13發的溫泉粉絲見面會流出動畫",
+  "publish_date": "2018-10-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "比基尼",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "感謝祭",
+    "美少女",
+    "明星臉",
+    "粉絲福利",
+    "溫泉",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-317为S1出品,2018年10月7日发行的有碼成人影片由鈴木心春出演\n僅限10人的高價溫泉線下派對，名為拍照會，是真正可以和鈴木小春一起出去玩的終極線下活動！參與用戶拍攝的線下會議影片外洩！裡面，展現出了線下會議的駭人場面！課程分為金獎、銀獎、銅獎！根據等級，內容會變得更加極端！參加者將把自己夢寐以求的小春的陰戶完全勃起！加了酒精，小春完全是蕩婦模式！ 發展成為坂池肉林的大派對！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240716/20240716222525226226.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240716/20240716222525226226.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13265",
+  "actresses": [
+    {
+      "name": "鈴木心春",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/0889e894-28b0-4cd5-b83a-b580f16e9330.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13265&name=鈴木心春"
+    }
+  ]
+};

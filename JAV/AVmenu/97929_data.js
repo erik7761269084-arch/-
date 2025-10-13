@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/31/637853c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97929,
+  "IDcode": "ATID-382",
+  "title": "就活残酷物語 採用面接で犯されて私の夢は悪夢になった 柊るい",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "凌辱",
+    "女大学生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97929",
+  "actresses": [
+    {
+      "name": "柊留衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250707/27dc95b2-345b-406e-8dba-556ca6e47082_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97929&name=柊留衣"
+    }
+  ]
+};

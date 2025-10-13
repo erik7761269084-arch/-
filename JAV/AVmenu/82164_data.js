@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221109/z4n2TDoA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82164,
+  "IDcode": "PRED-231",
+  "title": "年末の宝クジにまさかの当選。ド淫乱巨乳痴女2人を自宅に呼んで一日中こってり生中出し性交～初日編～",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "淫语",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82164",
+  "actresses": [
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82164&name=凛音とうか"
+    },
+    {
+      "name": "新井爱丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82164&name=新井爱丽"
+    }
+  ]
+};

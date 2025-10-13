@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230912/YR9cw5TA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88235,
+  "IDcode": "SW-607",
+  "title": "近所の奥さんがゴミ捨て場や階段でミニスカパンチラ誘惑してきます。むっちり尻を僕のチ○ポに突き出してくるもんで思わずグッさり入れちゃった",
+  "publish_date": "2019-01-24",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "屁股",
+    "恋腿癖",
+    "内衣",
+    "迷你裙",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88235",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88235&name=通野未帆"
+    },
+    {
+      "name": "绀野光",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/88604ee4-10a8-410f-bfe2-d526b5c28620.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88235&name=绀野光"
+    },
+    {
+      "name": "爱乃零",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88235&name=爱乃零"
+    }
+  ]
+};

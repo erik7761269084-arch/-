@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230117/NVqyPth1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85030,
+  "IDcode": "JUFE-434",
+  "title": "爆乳キメセク潮吹き絶頂 彼氏が居るすぐ隣で整体師に寝取られて… 松本菜奈実",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "潮吹",
+    "乳液",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/d6ed917740b122c09be2717272640d46.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85030",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85030&name=松本菜奈実"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85030&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85030&name=鲛岛"
+    }
+  ]
+};

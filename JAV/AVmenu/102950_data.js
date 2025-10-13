@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230104/4C172FF4EF817080/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102950,
+  "IDcode": "ETQR-063",
+  "title": "恥じらいお漏らし制服イメクラ 明海こう",
+  "publish_date": "2018-11-24",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "中出",
+    "放尿",
+    "制服",
+    "口交",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102950",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102950&name=小泉真理"
+    }
+  ]
+};

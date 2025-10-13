@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230321/B865C08B3BF2D430/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103377,
+  "IDcode": "CESD-844",
+  "title": "感じすぎていっぱいおもらしごめんなさい…24 野々原なずな",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "多P",
+    "放尿",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103377",
+  "actresses": [
+    {
+      "name": "野野原薺",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ddc8286c-a8a3-4658-b234-f724ff12c3dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103377&name=野野原薺"
+    }
+  ]
+};

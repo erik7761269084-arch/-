@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/25/77daadf6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67020,
+  "IDcode": "MIAB-490",
+  "title": "女の子とのエッチより気持ちイイNHソープ部 男の’気持ちイイ’を一番知っているニューハーフの凄テクで何度も射精し合える学園生活 一ノ瀬ラム （BOD）",
+  "publish_date": "2025-06-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "乳液",
+    "口交",
+    "手淫",
+    "变性者",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67020",
+  "actresses": [
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67020&name=左慈半造"
+    },
+    {
+      "name": "凉宫ラム",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67020&name=凉宫ラム"
+    }
+  ]
+};

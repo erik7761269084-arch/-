@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240911/9Mdi0AIX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92926,
+  "IDcode": "YAN-001",
+  "title": "GAPE 類まれなるアナル名器を持つ淫乱女 美咲結衣",
+  "publish_date": "2013-02-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "屁股",
+    "肛交",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240912-1/f8e4db26a6e062cea3646011fc4c362d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92926",
+  "actresses": [
+    {
+      "name": "美咲结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92926&name=美咲结衣"
+    }
+  ]
+};

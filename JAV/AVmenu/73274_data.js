@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/CWY9GIe1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73274,
+  "IDcode": "SCG-004",
+  "title": "＃ちょうゆとりちゃん 04.のんちゃん",
+  "publish_date": "2019-06-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "业余",
+    "拘束",
+    "深喉",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/bb7600157044f825fc8d3f348152eef8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73274",
+  "actresses": []
+};

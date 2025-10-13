@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1ae3aefe-9801-46f3-aabb-5c1056634ace/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/16/8d311a31/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10132,
+  "IDcode": "JUQ-981",
+  "title": "爲了我心愛的丈夫，甘願成爲債主的周末肉便器。我被這個邪惡的老男人一遍又一遍地內射，直到懷孕...... ~ 竹田夢",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "吞精",
+    "調教",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "SM",
+    "美腳",
+    "緊縛",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "欠債肉償",
+    "M男・M女",
+    "熟女",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUQ-981为MADONNA出品,2024年12月10日发行的有碼成人影片由竹田夢出演\n一對夫妻一帆風順的生活有一天被打亂了。經營公司的丈夫被放高利貸的朋友背叛，背負龐大債務被迫破產。一位想要回到那些幸福日子的妻子決定在不告訴丈夫的情況下去見一個放債人。 「如果你想幫助你的丈夫，週末就做我的女人吧！！」一位妻子在心裡這樣想著，決定犧牲自己的身體。從那天起，作為代孕肉小便池的恥辱週末開始了，直到她懷孕才結束。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205082851569569.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205082851569569.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10132",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10132&name=竹田夢"
+    }
+  ]
+};

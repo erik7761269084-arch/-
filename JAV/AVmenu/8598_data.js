@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e7512b2b-04af-4318-bf6b-e9d0074d844d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/5905821e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8598,
+  "IDcode": "DLDSS-387",
+  "title": "解禁：禁欲後 超敏感陰道10次大量射精 大絕對無套性高潮 ~ 小沢菜穂",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "解禁作",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "癡女",
+    "手指插入",
+    "美人",
+    "極品美人",
+    "女優"
+  ],
+  "description": "DLDSS-387为DAHLIA出品,2025年3月6日发行的有碼成人影片由小沢菜穂出演\n抱歉讓您久等了！小澤菜穗的中出工作終於完成了！拍攝結束後，馬上就開始了下一部作品的拍攝會議......作品的內容是時隔約17年後的首次中出拍攝。為了拍攝出最棒的純天然中出性愛場面，最近性慾高漲的奈穗被要求禁慾一個月後再拍攝！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202020837153153.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250202/20250202020837153153.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8598",
+  "actresses": [
+    {
+      "name": "小沢菜穂",
+      "img_url": "https://picture.yoshiclub.xyz/20240918/40a55211-02c4-4e28-b616-f817b62a6235.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8598&name=小沢菜穂"
+    }
+  ]
+};

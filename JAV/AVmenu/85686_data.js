@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/6E6xjjYI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85686,
+  "IDcode": "NACR-520",
+  "title": "義兄に弱みを握られた私は、毎日犯●れています… 織田真子",
+  "publish_date": "2022-03-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "口交",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85686",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85686&name=織田真子"
+    }
+  ]
+};

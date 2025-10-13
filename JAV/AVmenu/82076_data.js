@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221106/Y45GtUac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82076,
+  "IDcode": "TLZ-011",
+  "title": "小早川怜子のレズナンパ",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221107-1/5e8b95c9ae746ae9c1a1013655f9667b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82076",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82076&name=小早川怜子"
+    }
+  ]
+};

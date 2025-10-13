@@ -1,0 +1,65 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2449,
+  "IDcode": "CKCK-027",
+  "title": "女護士學生的專屬挑戰 - 超猛持久力大屌診療！20分鍾內榨精10次獎勵百萬，失敗就中出到榨幹爲止！~ 本田瞳 美波梢 前田美波",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "69",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "打手槍",
+    "口爆",
+    "護士制服",
+    "美人妻",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "護士",
+    "豐滿"
+  ],
+  "description": "CKCK-027为HAJIME-KIKAKU出品,2025年9月25日发行的有碼成人影片由本田瞳，前田美波，美波梢出演\n【护士学生疯狂榨精，榨干为止不许走！】三位护士小鲜肉挑战20分钟内让大屌射10次的超刺激企划！她们自信满满地说：对付男人那话儿我可是老司机！手活、口活、大腿夹击、玩弄乳头，各种花样百出榨精不停！为了挑逗男人，她们更是直接秀胸、开腿露穴、脸骑、69姿势，把男人的冷静期直接干爆！但要是时间到了还没完成任务，惩罚就是中出榨干所有存货！骚气满满的小穴和大屌直接炸裂，场面超火爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032657758758_80830_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032657758758_80830_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2449",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2449&name=前田美波"
+    },
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2449&name=本田瞳"
+    },
+    {
+      "name": "美波梢",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a35e0f9-5180-46c6-9993-7e373ec8fc3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2449&name=美波梢"
+    }
+  ]
+};

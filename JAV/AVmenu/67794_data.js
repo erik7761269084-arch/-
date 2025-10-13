@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250418/y59NOXXB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67794,
+  "IDcode": "IPZ-623",
+  "title": "穿超薄誘人實習教師 立花陽未",
+  "publish_date": "2015-09-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "苗条",
+    "吞精",
+    "数位马赛克",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250419-1/dc5a46b7bf2013cd929a1cc9fbba8181.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67794",
+  "actresses": [
+    {
+      "name": "立花はるみ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/1b2d4ea7bb07a6be01414af54f4d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67794&name=立花はるみ"
+    }
+  ]
+};

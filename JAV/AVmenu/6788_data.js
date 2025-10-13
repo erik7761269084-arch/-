@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c3ef7d69-b649-4f30-a116-5452aa18873e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/3894c5d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6788,
+  "IDcode": "JUR-254",
+  "title": "小鎮露營NTR：帳篷裏的禁忌出軌，嬌妻被灌滿的刺激畫面 ~ 小島南",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子",
+    "酒後亂性",
+    "變態",
+    "色白",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "帐篷",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "迷姦",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "多P",
+    "美腳",
+    "聚會・PARTY",
+    "鄰居",
+    "明星臉",
+    "御姐系",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "JUR-254为MADONNA出品,2025年4月18日发行的有碼成人影片由小島南出演\nこの度、妻のみなみと都会から移り住み、田舎で暮らす事になりました。引っ越し当日、家の前を偶然通りかかった町内会長の小沢さんたちと出会いました。優しい方で安心していたのですがその日以来、僕たち夫婦の生活に入り込んでくるようになりました。そしてある日、キャンプの案内を渡されました。特別な理由がない限り、全員参加との事で僕は仕事を理由に不参加、妻だけ参加してもらう事にしました。妻は押しに弱い僕の選択に不満げでしたが、その選択を後悔する事になるとは思いもしませんでした…。",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/202504170852331515_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/202504170852331515_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6788",
+  "actresses": [
+    {
+      "name": "小島南",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/a9be3f86-fab2-439c-8f39-23eb9bbceb57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6788&name=小島南"
+    }
+  ]
+};

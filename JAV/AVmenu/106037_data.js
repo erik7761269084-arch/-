@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/28/a3287a8f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106037,
+  "IDcode": "PRED-547",
+  "title": "綺麗になりたい巨乳人妻キメセク開発マッサージ 媚薬オイルで膣バグ潮ダダ漏れ状態の子宮に何度も孕ませ中出し。 松本梨穂",
+  "publish_date": "2024-01-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106037",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106037&name=松本梨穂"
+    }
+  ]
+};

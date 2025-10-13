@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2bf640a0-411a-44f0-8f54-017d62ea9dcc/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/03/29265c18/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5768,
+  "IDcode": "GONE-076",
+  "title": "天賜完美身材，極品爆乳細腰大長腿，性感黑皮姊姊 ~ 沙月文乃",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "純粹的慾望",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "阪道系",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "肌肉"
+  ],
+  "description": "GONE-076为MERCURY出品,2025年5月27日发行的有碼成人影片由沙月文乃出演\n沙月文乃這位姊姊氣質高雅，娃娃臉下卻滿滿騷氣！曬痕超明顯的火辣身材，玩起超猛玩法根本讓人招架不住。化身風俗店肥皂小姐姐，潤滑液滑溜溜，技術屌到爆，爽度直接衝天！當起外送茶小姐姐，甜膩又黏人的愛愛模式，撩得男人心癢難耐。扮演人妻時，來一場油光閃亮的按摩，徹底解放壓抑的慾望，騷氣爆棚讓人徹底淪陷！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527112345769769_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250527/20250527112345769769_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5768",
+  "actresses": [
+    {
+      "name": "沙月文乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/b7840599-4516-4b77-923f-5b79fb004ed1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5768&name=沙月文乃"
+    }
+  ]
+};

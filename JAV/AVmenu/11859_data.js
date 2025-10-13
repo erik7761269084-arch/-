@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/aaa57fa0-9181-4311-a041-ca21d2034c6b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/07/7966f844/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11859,
+  "IDcode": "SONE-373",
+  "title": "看到我在學校喜歡的女孩在電車上被癡漢猥褻了 ~ 白上咲花",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "痴漢",
+    "劇情",
+    "猥亵",
+    "變態",
+    "脚控・戀足癖",
+    "中出",
+    "美臀",
+    "形象俱樂部",
+    "電車",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "慾求不滿",
+    "性騷擾",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "图书馆",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SONE-373为S1出品,2024年9月24日发行的有碼成人影片由白上咲花出演\n這孩子的臉蛋、皮膚、個性、氣味，均勻，修長白皙的雙腿。所有這些都讓我發瘋。這件事發生在火車上。身為老師，我每天和一位美麗、認真、好看、愛閱讀的女學生一起搭火車。有一天，我親眼目睹她被一名可疑的人猥褻。她很困惑。不知為什麼，看到那副困擾的表情，我就興奮起來…雖然我有老婆了，但我還是忍無可忍，開始猥褻一個無辜的學生。當我以為我的教學生涯結束時，一名學生告訴我，“我希望你更多地騷擾我。”之後，我開始主動觸摸她的身體，因為她想要我的猥褻。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/202409190018147171.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/202409190018147171.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11859",
+  "actresses": [
+    {
+      "name": "白上咲花",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/c4c22386-5449-41e4-87f4-790e57e9abab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11859&name=白上咲花"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11859&name=大岛丈"
+    }
+  ]
+};

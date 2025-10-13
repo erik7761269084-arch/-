@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a10c781d-016e-4677-9e20-9b8e43a9fee7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12729,
+  "IDcode": "ETQR-531",
+  "title": "宅女妹子的小惡魔服務 ~ RURU",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "素人作品",
+    "企畫",
+    "4K",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "主觀視角",
+    "少女",
+    "美少女",
+    "清純",
+    "辣妹/GAL系",
+    "精選綜合",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240812/fb4b6f3e-4d30-459a-b8fd-ddb3075561c8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240812/fb4b6f3e-4d30-459a-b8fd-ddb3075561c8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12729",
+  "actresses": []
+};

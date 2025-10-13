@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/03/5138cb5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69053,
+  "IDcode": "BOKO-020",
+  "title": "【FANZA限定】キレイなお姉さんに恋した私 勇気を出してレズビアンを伝えたら優しく受け入れてくれて…一緒にゴハンを作ってお風呂に入ってベッドで何度も身体を重ね合った初めてのレズ同棲 有加里ののか 森沢かな 有加里ののかさんのパンティとチェキ付き",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69053",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69053&name=森澤佳奈"
+    }
+  ]
+};

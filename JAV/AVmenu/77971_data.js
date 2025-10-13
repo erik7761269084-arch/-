@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241121/uJIA9fCN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77971,
+  "IDcode": "HODV-21415",
+  "title": "僕ちゃん専用 ママの射精管理 霧島さくら",
+  "publish_date": "2019-10-04",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "巨乳",
+    "淫语",
+    "母亲",
+    "主观视角",
+    "正太控",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/66fff0353b1238deba0322e2c30eca61.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77971",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77971&name=霧島さくら"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c86c84de-3388-4099-a0cb-d43287ff6377/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/17/e1a8229a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15954,
+  "IDcode": "WAAA-347",
+  "title": "我討厭的公公晚上來找我......",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "中出",
+    "美乳",
+    "美臀",
+    "潮吹",
+    "口交",
+    "強姦",
+    "公公",
+    "美腳",
+    "新娘",
+    "人妻",
+    "巨乳",
+    "亂倫"
+  ],
+  "description": "WAAA-347为WANZ FACTORY出品,2024年1月2日发行的有碼成人影片由森澤佳奈出演\n我想知道我是否能和一個善良的丈夫擁有一段舒適的婚姻。然而，卡納有一個抱怨。她和一個粗俗的繼父住在一起，繼父每天都用淫蕩的眼睛盯着她的身體。表面上，他厭倦了友善的生活。有一天，丈夫不在，公公發現她睡着了，趁兒子不在身邊，脫掉她的內褲，吞沒了她散發着女人味和汗味的私處，並強迫他射在她體內。對少婦身體情有獨鍾的公公幾乎每天都對卡娜肆無忌憚地強奸，並把她當作性奴隸一樣對待。\n我想知道我是否能和一個善良的丈夫擁有一段舒適的婚姻。然而，卡納有一個抱怨。她和一個粗俗的繼父住在一起，繼父每天都用淫蕩的眼睛盯着她的身體。表面上，他厭倦了友善的生活。有一天，丈夫不在，公公發現她睡着了，趁兒子不在身邊，脫掉她的內褲，吞沒了她散發着女人味和汗味的私處，並強迫他射在她體內。對少婦身體情有獨鍾的公公幾乎每天都對卡娜肆無忌憚地強奸，並把她當作性奴隸一樣對待。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102055919426426.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240102/20240102055919426426.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15954",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15954&name=森澤佳奈"
+    }
+  ]
+};

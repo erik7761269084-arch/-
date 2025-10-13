@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250422/5o1JSvMl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67605,
+  "IDcode": "XVSR-657",
+  "title": "制服狩獵 女教師編 長瀨麻美",
+  "publish_date": "2022-07-06",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "中出",
+    "凌辱",
+    "苗条",
+    "乳房",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250423-1/fd349cf0321a20c13359587c901410be.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67605",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67605&name=蓝井优太"
+    },
+    {
+      "name": "长瀬麻美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67605&name=长瀬麻美"
+    }
+  ]
+};

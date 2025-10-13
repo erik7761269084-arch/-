@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/lZ3a2XZv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86812,
+  "IDcode": "APKH-162",
+  "title": "「汚されたいの…変態にして…」アイドル並みの制服娘が、学校帰りにパパと同年代のチ○ポと戯れてイキ狂う禁断ハメ撮り 白城リサ",
+  "publish_date": "2021-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86812",
+  "actresses": [
+    {
+      "name": "白城梨紗",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/0480c016-abe0-49a7-af3c-3891f79d83a8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86812&name=白城梨紗"
+    }
+  ]
+};

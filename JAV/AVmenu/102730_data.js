@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/39B217101CDB2945/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102730,
+  "IDcode": "CJOD-200",
+  "title": "男潮吹くまでお掃除フェラしてあげる 美谷朱里",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "淫语",
+    "女上位",
+    "荡妇",
+    "口交",
+    "接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102730",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102730&name=美谷朱里"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102730&name=鲛岛"
+    }
+  ]
+};

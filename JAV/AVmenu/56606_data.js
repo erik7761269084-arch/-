@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220823/2D9BB3A2A07890F7/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56606,
+  "IDcode": "A186AB334DDA6D4486B38D7E9B4EC13A",
+  "title": "敏感少女再度被3P玩弄",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56606",
+  "actresses": []
+};

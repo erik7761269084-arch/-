@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/83bfe190-1cf8-4582-8dea-f871c77ae5ec/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14187,
+  "IDcode": "MILK-212",
+  "title": "隔壁的傲慢OL被下了催情藥，變得瘋狂。無限性訓練 ~ 望月綾香",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "魔鬼系",
+    "中出",
+    "OL",
+    "肉絲",
+    "口交",
+    "白眼失神",
+    "強姦",
+    "媚藥・迷藥",
+    "蠻橫嬌羞",
+    "性感",
+    "迷姦",
+    "內衣",
+    "奇聞趣事",
+    "巨乳",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240606/af2d3bd5-4fc3-4ec4-a6e4-41ae352cb3fc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240606/af2d3bd5-4fc3-4ec4-a6e4-41ae352cb3fc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14187",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14187&name=望月綾香"
+    }
+  ]
+};

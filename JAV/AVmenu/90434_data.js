@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240117/u8k2PE0v/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90434,
+  "IDcode": "PKPD-269",
+  "title": "半中半外半彼女 りほたん（20） 白橋りほ （BOD）",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90434",
+  "actresses": [
+    {
+      "name": "白橋里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/6cd1c601-58fd-413e-947d-d7b1f7f40ec7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90434&name=白橋里帆"
+    }
+  ]
+};

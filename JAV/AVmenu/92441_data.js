@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240905/0jhTQFdK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92441,
+  "IDcode": "ASD-728",
+  "title": "ASD728讓已經習慣了每天做愛的痴女AV女優深田詠美長久禁慾後的解放性愛自拍全記錄深田詠美。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240905-1/9000a47d8f107bb900bbd8f19a619312.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92441",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/17/9bd84696/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86594,
+  "IDcode": "WAAA-133",
+  "title": "行列が出来る中出し中毒公衆便女 濃厚オヤジの追撃種付けプレス20連発大乱交 東條なつ",
+  "publish_date": "2022-01-04",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "荡妇",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86594",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86594&name=東條夏"
+    }
+  ]
+};

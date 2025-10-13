@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/077b8164/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77506,
+  "IDcode": "MIMK-121",
+  "title": "実写でも！ヤラせてくれる先輩 FANZA同人ランキング日間1位週間1位月間1位シリーズ総販売数30万部超 花柳杏奈 花狩まい （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "苗条",
+    "无码破解",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77506",
+  "actresses": []
+};

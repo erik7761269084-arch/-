@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/owSBiFXC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83206,
+  "IDcode": "OPPW-052",
+  "title": "寝バック大好き スタイル抜群な男の娘 AVデビュー！！ 桐生もえか",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高",
+    "肛交",
+    "首次亮相",
+    "女佣",
+    "女装人妖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/0365aba752eb0afbe708ef49c116e469.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83206",
+  "actresses": [
+    {
+      "name": "桐生もえか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83206&name=桐生もえか"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c7e310a-921c-4665-8d13-f8c1653ffcc1/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/01/4a1cf55e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17367,
+  "IDcode": "IPZZ-160",
+  "title": "酒会后，错过末班车，和最好的朋友南條彩去酒店开房，当然该发生的都发生了",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "潮吹",
+    "口交",
+    "性感",
+    "舔陰",
+    "接吻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "飯店"
+  ],
+  "description": "IPZZ-160为IDEA POCKET出品,2023年12月13日发行的有碼成人影片由南條彩出演\n「我可能會變得認真……」一遍又一遍……我們沉迷於性沼澤无法自拔。雖然是朋友，但畢竟是異性……睡在同一張床上，就想發生性關係。「我知道這樣不好，但我並沒有為此感到難過……」我有男朋友……他是我最好的男性友人，我喜歡他的温柔。沉迷於與男友不同的深度性愛。「感覺比男友的雞巴大……」一遍又一遍……我們沉迷於性愛沼澤。認識很久的朋友之間的性愛是令人興奮的...\n「我可能會變得認真……」一遍又一遍……我們沉迷於性沼澤无法自拔。雖然是朋友，但畢竟是異性……睡在同一張床上，就想發生性關係。「我知道這樣不好，但我並沒有為此感到難過……」我有男朋友……他是我最好的男性友人，我喜歡他的温柔。沉迷於與男友不同的深度性愛。「感覺比男友的雞巴大……」一遍又一遍……我們沉迷於性愛沼澤。認識很久的朋友之間的性愛是令人興奮的...",
+  "cover_url": "https://picture.yoshiclub.xyz/20231209/dfd9fb51-c4b7-4c26-a8d8-0c09201441f2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231209/dfd9fb51-c4b7-4c26-a8d8-0c09201441f2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17367",
+  "actresses": [
+    {
+      "name": "南條彩",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/afbc7c9c-a59f-4539-926a-d15036c5c274.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17367&name=南條彩"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250225/ANVsLGJn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71206,
+  "IDcode": "GVG-892",
+  "title": "家庭教師が巨乳受験生にした事の全記録 夢咲ひなみ",
+  "publish_date": "2019-06-20",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "家教",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71206",
+  "actresses": [
+    {
+      "name": "梦咲ひなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71206&name=梦咲ひなみ"
+    }
+  ]
+};

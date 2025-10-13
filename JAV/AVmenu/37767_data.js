@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220804/001750135A00EA2C/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37767,
+  "IDcode": "D0A2925EB6F119E1C7F894194E406C-46",
+  "title": "小姐姐的女警制服诱惑",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37767",
+  "actresses": []
+};

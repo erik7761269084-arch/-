@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/K7ya8IhG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69682,
+  "IDcode": "YSN-483",
+  "title": "豊満な姉は肉厚なカラダで僕をイヤしてくれる 赤瀬尚子",
+  "publish_date": "2019-08-02",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "中出",
+    "乱伦",
+    "屁股",
+    "深喉",
+    "妹妹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69682",
+  "actresses": [
+    {
+      "name": "赤瀬尚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250131/a7bcaef5-ba38-4f42-99dd-2f2747bc0a79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69682&name=赤瀬尚子"
+    }
+  ]
+};

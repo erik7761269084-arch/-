@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9175b6d5-c34f-4054-9cbe-53b4a8500297/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/29/42d499d2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17347,
+  "IDcode": "IPZZ-152",
+  "title": "我想被淫蕩的姐姐引誘並進行乳交。",
+  "publish_date": "2023-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "護士制服",
+    "勾引・誘惑",
+    "巨乳"
+  ],
+  "description": "IPZZ-152为IDEA POCKET出品,2023年12月13日发行的有碼成人影片由梓光莉出演\n这个调皮的女人出现在男厕、医院、学校等各种地方，炫耀自己精致的女性身体，引诱男人，玩弄他们的阴茎，一旦他勃起，她就用她美丽的大奶子给他一个很爽的乳交。乳房...大多数男人都无法抑制并在眨眼之间射精，现在梓光莉姐姐就用她的大奶子为你服务\n这个调皮的女人出现在男厕、医院、学校等各种地方，炫耀自己精致的女性身体，引诱男人，玩弄他们的阴茎，一旦他勃起，她就用她美丽的大奶子给他一个很爽的乳交。乳房...大多数男人都无法抑制并在眨眼之间射精，现在梓光莉姐姐就用她的大奶子为你服务",
+  "cover_url": "https://picture.yoshiclub.xyz/20231210/a195bc23-327d-4190-be8e-1fe2cebd3dc5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231210/a195bc23-327d-4190-be8e-1fe2cebd3dc5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17347",
+  "actresses": [
+    {
+      "name": "梓光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230811/0b448ec0-7d4f-4e10-b79a-b7051caa7ebd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17347&name=梓光莉"
+    }
+  ]
+};

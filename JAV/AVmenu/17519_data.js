@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5b563589-486c-4e07-b7bb-0fe4100c61ee/playlist.m3u8",
+  "线路2": "https://vip4.bbffsl.com/20250415/lbYUnO68/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17519,
+  "IDcode": "IPX-982",
+  "title": "大嫂與小叔是家庭內炮友！？ 長裙中偷偷馬上抽插要求！？老公在附近緊張的連續作愛！ LONG SKIRT 天海翼",
+  "publish_date": "2022-12-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "嫂嫂",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231201/748245a2-6980-4175-b90c-89d578c6132d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231201/748245a2-6980-4175-b90c-89d578c6132d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17519",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17519&name=天海翼"
+    }
+  ]
+};

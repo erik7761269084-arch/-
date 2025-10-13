@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3e808983-83f0-4905-87ba-d8afaa8ddfd5/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/27/cf196b71/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12263,
+  "IDcode": "NPJS-073",
+  "title": "在五星級酒店的頂層豪華行政酒廊獵豔，騎乘式5本番中出 ~ 木下日葵",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "調教",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "搭訕",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "美少女",
+    "拜金女",
+    "情趣內衣",
+    "高跟鞋",
+    "獵豔",
+    "抹油",
+    "辣妹/GAL系",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "NPJS-073为NAPA-JAPAN出品,2024年9月3日发行的有碼成人影片由木下日葵出演\n這是位於樓上的酒吧酒廊，您可以遇見傳聞中在街上很受歡迎的美麗成年女性。今天去尋找獵物的時候，發現一個漂亮的女孩獨自在喝酒！我一定會對那個等著被接走的姊姊開槍！它很有趣、可愛、很棒！喝醉了請我去飯店！腿長啊！大屁股！享受你想操的身體！畢竟，她想要一個男人用嚴厲的女牛仔活塞射在她體內！五個精液被擠進了可以被操一遍又一遍的極品肉體！色情又可愛的女孩推薦的接送地點！我不會告訴你它在哪裡，因為我想玩得更開心（笑）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830012941911911.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830012941911911.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12263",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12263&name=木下日葵"
+    }
+  ]
+};

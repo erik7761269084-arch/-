@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231012/OygRXV4G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58144,
+  "IDcode": "ZEAA-56",
+  "title": "Bukkake 丰满的妻子 H 杯已婚妇女",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "熟女人妻最強廠",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231012-1/601c96023a4766df5b1ebbd832b7668b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58144",
+  "actresses": []
+};

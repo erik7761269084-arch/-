@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240430/BmXnwUeI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91328,
+  "IDcode": "CJOD-381",
+  "title": "【FANZA限定】M男専用密着ささやき淫語で何度もヌカれちゃう無制限射精ソープ 小花のん 生写真3枚付き",
+  "publish_date": "2023-05-24",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91328",
+  "actresses": []
+};

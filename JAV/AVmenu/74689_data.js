@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/06/485c9601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74689,
+  "IDcode": "STAR-905",
+  "title": "白石茉莉奈 耳元で囁きながら生徒の彼氏をつまみ喰いする誘惑女教師",
+  "publish_date": "2018-04-26",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "主观视角",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74689",
+  "actresses": [
+    {
+      "name": "白石茉莉奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/4ec478ed-5902-48fd-9544-7c34a10e1245.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74689&name=白石茉莉奈"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/hkLxPiAG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76802,
+  "IDcode": "PPPD-817",
+  "title": "欲求不満の巨乳義姉さんの中出ししても止まらない密着ピストンで種を搾り尽くされる2日間 永井マリア",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76802",
+  "actresses": [
+    {
+      "name": "永井瑪麗亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240226/a1d371a0-c11e-4823-8b61-4e4e91269b72.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76802&name=永井瑪麗亞"
+    }
+  ]
+};

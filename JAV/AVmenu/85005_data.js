@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/18/1db13f0d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85005,
+  "IDcode": "JUFE-426",
+  "title": "【FANZA限定】美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 佐山愛 生写真5枚付き",
+  "publish_date": "2022-10-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230118-1/1c6c3db6b191273c6fd6defa68e51760.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85005",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85005&name=佐山爱"
+    }
+  ]
+};

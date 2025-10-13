@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231126/GSJ0ihzX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100919,
+  "IDcode": "SIRO-5159",
+  "title": "【セックスの本髄を知ったハーフ美女】【野球のバットよりこっちのバットの方がお好きでしょ？】普段の生ぬるいセックスよりも濃厚なセックスを体験したらもう抜け出せない！【初撮り】ネットでAV応募→AV体験撮影  2047",
+  "publish_date": "2023-10-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "第一人称摄影",
+    "潮吹",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100919",
+  "actresses": [
+    {
+      "name": "千鶴えま",
+      "img_url": "https://picture.yoshiclub.xyz/20240425/b626b612-35e7-46e9-a586-4bd0c7d1a45c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100919&name=千鶴えま"
+    }
+  ]
+};

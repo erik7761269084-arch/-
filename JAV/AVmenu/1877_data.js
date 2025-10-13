@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230121/7a96a734-eb3e-4f5b-8009-30ca2957adee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1877,
+  "IDcode": "CWPBD-81",
+  "title": "CATWALK POISON 81 ～可愛的小姊姊讓你盡情中出到爽～ : 小橋咲",
+  "publish_date": "2013-05-03",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "苗條",
+    "中出",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230121/71bfddf9-a802-4381-8349-fe546e3e8b36.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230121/71bfddf9-a802-4381-8349-fe546e3e8b36.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1877",
+  "actresses": [
+    {
+      "name": "小橋咲",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\w-Prestige/AI-Fix-小橋咲.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1877&name=小橋咲"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240503/uuw14bQ7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39439,
+  "IDcode": "CE6E3CF8F4738D81C89CDD8DF79D-4119",
+  "title": "19岁的超级美少女，皮肤稚嫩手感十足，小可爱惨遭大叔蹂躏，大叔你能不能轻点儿，她那娇小的身躯快要顶不住大叔的暴力输出了",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39439",
+  "actresses": []
+};

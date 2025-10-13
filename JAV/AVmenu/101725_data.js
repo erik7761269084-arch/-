@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240408/iwHkPVFv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101725,
+  "IDcode": "PRED-564",
+  "title": "「先生のフェラ彼女のよりすっごいよ？」～彼女がいる生徒に追撃フェラチオ女教師～ 松本梨穂",
+  "publish_date": "2024-03-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "颜射",
+    "荡妇",
+    "口交",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101725",
+  "actresses": [
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101725&name=松本梨穂"
+    }
+  ]
+};

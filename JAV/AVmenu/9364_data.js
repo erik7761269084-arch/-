@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/efb22989-a002-4c79-b027-725821556cd7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/6d073cc6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9364,
+  "IDcode": "EKDV-766",
+  "title": "女友的姐姐是個癡女……女友不在的時候我和她發生了很多次性關系，她完全就是個婊子，我沉迷其中 ~ 小那海綾",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "69",
+    "劇情",
+    "吞精",
+    "乳交",
+    "中出",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "短裙・迷你裙",
+    "潮吹",
+    "口交",
+    "女友姐姐",
+    "姐姐・妹妹",
+    "不倫",
+    "主觀視角",
+    "舔陰",
+    "接吻",
+    "勾引・誘惑",
+    "自慰",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250105/8976e809-f1bf-4768-9c40-6097a4e3e444.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250105/8976e809-f1bf-4768-9c40-6097a4e3e444.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9364",
+  "actresses": [
+    {
+      "name": "小那海綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/1f4dc819-5d18-4526-9273-6eba7b32fa08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9364&name=小那海綾"
+    },
+    {
+      "name": "佐佐波绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9364&name=佐佐波绫"
+    }
+  ]
+};

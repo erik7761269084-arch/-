@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230204/8c58ed4a-5bca-44d8-a3e8-04fb17ea0370/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1796,
+  "IDcode": "SMBD-53",
+  "title": "S 模型 53 : 筱惠 (HD)",
+  "publish_date": "2012-08-15",
+  "type": "无码",
+  "company": "SUPER MODEL",
+  "genres": [
+    "中出",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230212/d94911a5-aba2-4f0b-a58b-4429ec52e58b.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230212/d94911a5-aba2-4f0b-a58b-4429ec52e58b.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1796",
+  "actresses": [
+    {
+      "name": "篠惠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/97827d0d-951d-46e4-8738-9f2dd1f342e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1796&name=篠惠美"
+    }
+  ]
+};

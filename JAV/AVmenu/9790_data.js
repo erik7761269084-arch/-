@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c278cc43-a6bb-4bf4-abfa-b70fcfd8cc18/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9790,
+  "IDcode": "MTALL-143",
+  "title": "甜蜜的同居生活，每天都密着做愛 ~ 黑川堇",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "純粹的慾望",
+    "巨尻",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "主觀視角",
+    "接吻",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241219/69ee3a77-3223-4f57-b4e3-40232bf06004.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241219/69ee3a77-3223-4f57-b4e3-40232bf06004.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9790",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9790&name=黑川堇"
+    }
+  ]
+};

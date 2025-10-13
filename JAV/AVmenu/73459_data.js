@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250127/DfgkaYm1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73459,
+  "IDcode": "STAR-622",
+  "title": "松岡ちな 朝から晩まで挿れっぱなしチ●ポ大乱交 巨根デカチンSP",
+  "publish_date": "2015-09-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "滥交",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/f7d7a9fbb812159f1c94e369d19be61d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73459",
+  "actresses": [
+    {
+      "name": "松冈千菜",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/42a7336be572834bd99eb5cac4853159.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73459&name=松冈千菜"
+    }
+  ]
+};

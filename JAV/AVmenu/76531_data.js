@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/21/65fc457a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76531,
+  "IDcode": "SSNI-671",
+  "title": "射精20発させちゃう神乳‘安齋らら’の超絶倫性交",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "薄马赛克",
+    "恋乳癖",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/ea404e4efc8dd438919ce7fcd7a2bc10.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76531",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76531&name=安斋拉拉"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76531&name=イセドン内村"
+    }
+  ]
+};

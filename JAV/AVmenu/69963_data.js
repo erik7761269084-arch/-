@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250321/mwFqM9dp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69963,
+  "IDcode": "VRTM-501",
+  "title": "チ○ポしゃぶり大好きな義母が父に隠れて童貞息子を家中でフェラチオ！拒む息子をよそに生挿入すると身震いしながらイキ乱れ何度も中出し懇願！",
+  "publish_date": "2020-05-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "屁股",
+    "口交",
+    "白天出轨",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69963",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69963&name=佐伯由美香"
+    },
+    {
+      "name": "向理来",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69963&name=向理来"
+    },
+    {
+      "name": "目黑惠",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69963&name=目黑惠"
+    }
+  ]
+};

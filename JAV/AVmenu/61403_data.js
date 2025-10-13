@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/097e626c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61403,
+  "IDcode": "DOCS-095",
+  "title": "ゆうな",
+  "publish_date": "2025-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女上位",
+    "第一人称摄影",
+    "潮吹",
+    "口交",
+    "按摩棒",
+    "巨大屁股",
+    "晒黑",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61403",
+  "actresses": [
+    {
+      "name": "ゆうな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61403&name=ゆうな"
+    }
+  ]
+};

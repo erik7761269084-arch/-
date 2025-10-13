@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/16/21d18f1e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87889,
+  "IDcode": "ROE-144",
+  "title": "元国際的メジャーミスコン日本代表、世界に愛された美しき人妻―。 七月りな 48歳 AV DEBUT",
+  "publish_date": "2023-07-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "首次亮相",
+    "乳房",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/02384ab64deec1edc1f375b9fb0f7bf1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87889",
+  "actresses": [
+    {
+      "name": "七月りな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87889&name=七月りな"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d193732-d4cc-4593-a008-462fd6aace74/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 146,
+  "IDcode": "HEYZO-0102",
+  "title": "魅惑のGreasy Hands ~ 河西亞美",
+  "publish_date": "2012-08-31",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "二次元",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "美乳",
+    "真人秀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "打手槍",
+    "美腳",
+    "清楚系",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "美人",
+    "真實拍攝",
+    "女優"
+  ],
+  "description": "HEYZO-0102为HEYZO出品,2012年8月31日发行的無碼成人影片由河西亞美出演\n身材丰满到让人想一把抱住，天生自带骚气的河西亞美小姐姐，独家献上这部超刺激的原创片！前半段，她用那双嫩滑小手为你服务，画面纯净到只有她的动作和喘息，闭上眼就能脑补被她撩拨的快感，绝对的虚拟手活体验，兄弟们不容错过！后半段，她换上透视全身网袜，性感爆棚，直接跨坐男优脸上，自己掰开小花园，肆无忌惮地用男优的舌头取悦自己，简直把人当工具用！那种沉迷欲望、完全放飞自我的骚样，真的会让人上头，快来感受这致命的快感吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715095308578578_60445_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250715/20250715095308578578_60445_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=146",
+  "actresses": [
+    {
+      "name": "河西亞美",
+      "img_url": "https://picture.yoshiclub.xyz/20241106/b817c731-434d-464d-969b-a43896a76f83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=146&name=河西亞美"
+    }
+  ]
+};

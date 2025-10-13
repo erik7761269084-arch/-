@@ -1,0 +1,35 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102863,
+  "IDcode": "AUKG-453-",
+  "title": "のぞき見人妻レズビアン2～インポの夫は婿養子、妻は内緒でレズ不倫～",
+  "publish_date": "2019-04-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "已婚妇女",
+    "女同性恋",
+    "偷窥",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102863",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102863&name=铃木里美"
+    },
+    {
+      "name": "一ノ瀬あやめ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102863&name=一ノ瀬あやめ"
+    }
+  ]
+};

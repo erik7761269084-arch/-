@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/30/8041ff1f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61356,
+  "IDcode": "HUSR-295",
+  "title": "人妻残酷物語 悲鳴も涙も、鬼畜の肉棒で塗り潰す。完全服従の刻は来た。",
+  "publish_date": "2025-08-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61356",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221125/E5E89AA65B69C8E9/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38900,
+  "IDcode": "E871FEBA426CEF2EFFC4145727E1652C",
+  "title": "刺激的挤奶曝光驾驶！",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38900",
+  "actresses": []
+};

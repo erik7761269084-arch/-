@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/20/cf64b827/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96494,
+  "IDcode": "NNPJ-213",
+  "title": "男女玩色色小遊戲友情大挑戰！ 搭訕Japan大調查",
+  "publish_date": "2016-12-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "女上位",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96494",
+  "actresses": [
+    {
+      "name": "栄川乃亜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bc731d12-2d4f-426f-a573-18db4ef5f6fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96494&name=栄川乃亜"
+    },
+    {
+      "name": "朝仓琴美",
+      "img_url": "https://picture.yoshiclub.xyz/20230210/04ec3ee2-4fd5-4a27-a525-5ffff58d9e5f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96494&name=朝仓琴美"
+    },
+    {
+      "name": "咲坂花恋",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/049ccbe14a4d64d36ee74b922d491c10.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96494&name=咲坂花恋"
+    }
+  ]
+};

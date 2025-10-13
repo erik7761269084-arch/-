@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1030e6a4-c866-47b9-9edf-dce034ea8a74/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/19/44eac890/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14284,
+  "IDcode": "ADN-572",
+  "title": "在我丈夫面前被強奸 - 在公司宿舍內強迫通奸 ~ 工藤由羅",
+  "publish_date": "2024-06-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "在丈夫面前被操",
+    "色白",
+    "凌辱",
+    "中出",
+    "下屬女友・妻子",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "若妻",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "明星臉",
+    "人妻",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "ADN-572为ATTACKERS出品,2024年6月4日发行的有碼成人影片由工藤由羅出演\n辦公室戀情後結婚的浩司和由良，正忙著搬家開始新的生活。住在同一公司宿舍的兩位老闆大木先生和女士也來支持我，搬家順利完成。當 Yura 準備食物時，Oki 悄悄地從後面接近她，偷走了 Koji 和他妻子的眼睛，並偷走了 Yura 的嘴唇作為感謝。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531041637795795.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240531/20240531041637795795.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14284",
+  "actresses": [
+    {
+      "name": "工藤由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231108/55c36f05-5e3a-4559-b26f-3cf634b2a753.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14284&name=工藤由羅"
+    }
+  ]
+};

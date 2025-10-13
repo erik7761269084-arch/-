@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d275eacd-d8f8-4dad-a77b-0cfd327056c5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15703,
+  "IDcode": "SAN-231",
+  "title": "鄰家巨乳美人老婆／白石もも",
+  "publish_date": "2024-03-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "苗條",
+    "後入",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "打手槍",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "自慰",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401042836407407.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240401/20240401042836407407.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15703",
+  "actresses": [
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15703&name=白石桃"
+    }
+  ]
+};

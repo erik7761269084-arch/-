@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a416bcce-17ed-472e-ad4c-c5b01c8ee424/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10487,
+  "IDcode": "AARM-263",
+  "title": "短裙美腿大合集",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "無做愛場面",
+    "脚控・戀足癖",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "護士制服",
+    "美腳",
+    "精選總編集",
+    "美少女電影",
+    "女學生",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122012806498498.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122012806498498.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10487",
+  "actresses": [
+    {
+      "name": "和久井美兎",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=和久井美兎"
+    },
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=桐香悠裡"
+    },
+    {
+      "name": "音羽美鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/bcbc1816-6ebb-47e6-b9e4-856cb15088b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=音羽美鈴"
+    },
+    {
+      "name": "弘中優",
+      "img_url": "https://picture.yoshiclub.xyz/20231221/d1040ea7-7a31-477f-b887-d1ad04839e58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=弘中優"
+    },
+    {
+      "name": "森下ことの",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/85274818-989d-4131-85d4-5d96c209c16a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=森下ことの"
+    },
+    {
+      "name": "杉咲しずか",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c21c81a4-3a97-4ff7-a774-ee9d2ca09ebe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10487&name=杉咲しずか"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/14/e56be98b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91042,
+  "IDcode": "CAWD-444",
+  "title": "想改變不擅長拒絕的自己而AV應募 被拜託後無法拒絕…？？ 清澈臉蛋性欲超強親切過頭超M現役女大生出道！！ 杉咲麥",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "第一人称摄影",
+    "颜射",
+    "潮吹",
+    "首次亮相",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91042",
+  "actresses": [
+    {
+      "name": "杉咲麦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91042&name=杉咲麦"
+    }
+  ]
+};

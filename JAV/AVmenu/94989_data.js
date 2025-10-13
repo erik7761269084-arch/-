@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241115/hhuxFC7z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94989,
+  "IDcode": "JUFE-064CN",
+  "title": "JUFE064CN 奪目巨屌貫穿肉穴中出黑人溫泉 凜音桃香.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/b57e0385d90825cac2d4eb59ccc09b7c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94989",
+  "actresses": []
+};

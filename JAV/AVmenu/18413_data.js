@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a32121d5-b922-467d-96c3-4e91697e6c81/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/27/05c863ff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18413,
+  "IDcode": "FSDSS-686",
+  "title": "初入AV界的限界羞恥 做愛前10秒打開SNS社交軟體開始直播 從陰道到全身都變的敏感",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "直播",
+    "中出",
+    "亂交 • 群P",
+    "口交",
+    "性感",
+    "兩男一女",
+    "按摩棒",
+    "真實拍攝",
+    "女優",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "FSDSS-686为FALENO出品,2023年11月9日发行的有碼成人影片由深田詠美出演\n對SNS社群軟體上粉絲超過1000萬的深田詠美發起的無限恥辱策劃！ 在SNS上從性愛開始前5秒開始直播！ 不少粉絲在觀看的同時，感受到了與平常完全不同的緊張與尷尬。 只要男優的手一接觸身體，粉絲們就大聲呼喊，深田詠美羞的全身都像陰蒂一樣敏感。 下身全濕了，從脖子到奶子都變紅了，深田詠美的眼睛和臉都讓大家懷疑她是不是要死了？ 千萬不要錯過這真正萬眾期待的絕美容顏陷入極度羞恥的景象。\n對SNS社群軟體上粉絲超過1000萬的深田詠美發起的無限恥辱策劃！ 在SNS上從性愛開始前5秒開始直播！ 不少粉絲在觀看的同時，感受到了與平常完全不同的緊張與尷尬。 只要男優的手一接觸身體，粉絲們就大聲呼喊，深田詠美羞的全身都像陰蒂一樣敏感。 下身全濕了，從脖子到奶子都變紅了，深田詠美的眼睛和臉都讓大家懷疑她是不是要死了？ 千萬不要錯過這真正萬眾期待的絕美容顏陷入極度羞恥的景象。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231008/20231008220611731731.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231008/20231008220611731731.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18413",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18413&name=深田詠美"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18413&name=鲛岛"
+    }
+  ]
+};

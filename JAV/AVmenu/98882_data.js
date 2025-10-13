@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230120/1F75E178C505996B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98882,
+  "IDcode": "OKP-022",
+  "title": "神パンスト 阿部乃みく 制服ロリ美少女から人妻や母まで、やらしいオンナの美脚を包んだ生ナマしいパンストを完全着衣でムレた足裏からつま先を味わい尽くす！オナニーや顔騎や足コキ、時には中出し時にはお尻にコスってぶっかけとやりたい放題！",
+  "publish_date": "2018-10-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "屁股",
+    "投稿",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1okp022/1okp022pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98882",
+  "actresses": [
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98882&name=阿部乃美久"
+    }
+  ]
+};

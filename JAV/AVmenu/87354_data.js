@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230724/L3X2C0yM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87354,
+  "IDcode": "CMC-281",
+  "title": "蕾絲老闆的規則 秘唇執著束縛癡情",
+  "publish_date": "2022-09-27",
+  "type": "有码",
+  "company": "CineMagic",
+  "genres": [
+    "捆绑",
+    "SM",
+    "女同性恋",
+    "女同接吻",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/f5e6843b17fb5e12e8720051a21cd47c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87354",
+  "actresses": [
+    {
+      "name": "蓬莱かすみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240604/168d8c2d-b7f0-447d-8dd3-fbf6b54ae181.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87354&name=蓬莱かすみ"
+    },
+    {
+      "name": "盛岡みゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87354&name=盛岡みゆ"
+    }
+  ]
+};

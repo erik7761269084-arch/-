@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f5050c44-0896-4414-b0b0-98239c481278/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/01/06b4d176/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18418,
+  "IDcode": "IPZZ-120",
+  "title": "午後打完網球 汗流滿面的人妻明里紬引誘我不得不..",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "劇情",
+    "流汗",
+    "中出",
+    "蕩婦",
+    "運動",
+    "口交",
+    "運動服裝",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "偷竊",
+    "NTR"
+  ],
+  "description": "IPZZ-120为IDEA POCKET出品,2023年10月11日发行的有碼成人影片由明里紬出演\n每週末的時候 社區居民流行打網球，明里紬是我太太的好朋友。 「餵，我們一起做愛吧……」一場淫蕩而又快樂的性交，在被明里紬充滿汗水的全身親密接觸下再也無法忍受下而開始。 貼在身上的頭髮，汗味，體液的味道，以及柔軟的身體。 我對這一切瘋狂...\n每週末的時候 社區居民流行打網球，明里紬是我太太的好朋友。 「餵，我們一起做愛吧……」一場淫蕩而又快樂的性交，在被明里紬充滿汗水的全身親密接觸下再也無法忍受下而開始。 貼在身上的頭髮，汗味，體液的味道，以及柔軟的身體。 我對這一切瘋狂...",
+  "cover_url": "https://picture.yoshiclub.xyz/20231008/20231008090446920920.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231008/20231008090446920920.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18418",
+  "actresses": [
+    {
+      "name": "明里紬",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/f029e2ef-0eff-4250-b7b4-da6305ec7bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18418&name=明里紬"
+    },
+    {
+      "name": "明里䌷",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18418&name=明里䌷"
+    }
+  ]
+};

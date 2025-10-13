@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a98b3fb7-2786-458b-8cfd-ded7c13b0dad/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/adc4cd05/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10428,
+  "IDcode": "JUQ-989",
+  "title": "本該圓了多年來夢想的田園生活，卻被前來裝修的肉體勞動者中出輪奸 ~ 澄河美花",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "鄉下",
+    "老頭子",
+    "深喉",
+    "變態",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "看房",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "修理工",
+    "羞恥",
+    "報復"
+  ],
+  "description": "JUQ-989为MADONNA出品,2024年11月26日发行的有碼成人影片由澄河美花出演\n為了丈夫一直夢想的鄉村生活，我們在鄉村購買了一套二手房，並請當地的建築公司做了一些修繕工作。然而，當我去查看情況時，我發現工作做得很馬虎，與我之前聽到的相反…？ ？我情緒激動，開始發洩憤怒，但也許是我的話激發了他們，我被一群男人包圍在鄉村的一處私人住宅裡，周圍沒有其他人，我試圖發洩他們的沮喪，他開始做愛。 ..",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010528501501.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122010528501501.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10428",
+  "actresses": [
+    {
+      "name": "澄河美花",
+      "img_url": "https://picture.yoshiclub.xyz/20240225/e80965d3-57ce-4c40-a53a-4f8b1a0acb10.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10428&name=澄河美花"
+    },
+    {
+      "name": "もんご",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10428&name=もんご"
+    }
+  ]
+};

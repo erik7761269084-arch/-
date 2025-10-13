@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250316/8v4aUxQG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70670,
+  "IDcode": "SDAM-020",
+  "title": "レイブパーティー中の素人ギャルに媚薬入りのお酒を振舞ったらヨダレを垂らしすぐそこに友達が居るにもかかわらずチ○ポを激しく求めるド淫乱娘に変貌！",
+  "publish_date": "2019-06-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "户外",
+    "女生",
+    "业余",
+    "药物",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70670",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/28/93f5bf5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107530,
+  "IDcode": "HOKS-151",
+  "title": "熟女ハツラツ！ おばさんとセックス 人妻は夫よりもラーメン屋がお好き/とてもいやらしい僕のおばさん/熟女の欲求不満を見抜く男",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "淫乱，真实"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107530",
+  "actresses": [
+    {
+      "name": "姫川礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20241225/b2c8ec16-553c-433f-ad2b-198a0b1aaedf.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107530&name=姫川礼子"
+    }
+  ]
+};

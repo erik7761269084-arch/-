@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4788f47a-c43a-43f7-a51e-933fa7c5dfc6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17860,
+  "IDcode": "BONY-068",
+  "title": "勃起不可避! 巨乳女優在你耳旁輕聲淫語ASMR",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "黑絲",
+    "ASMR顱内高潮",
+    "中出",
+    "緊身衣",
+    "蕩婦",
+    "口交",
+    "淫語",
+    "巨乳",
+    "戀物癖"
+  ],
+  "description": "BONY-068为2023年11月14日发行的有碼成人影片由夏川步美出演\n戴上耳機，樂趣加倍！系列的第二部分，您可以享受耳語、呼吸和嘎吱聲，夏川亞由美，一位舒緩的美女！B 94cm G罩杯，醇厚奶水飽滿！請用她發出的聲音來治癒吧！在「ASMR誘惑影像自慰」區，您可以聽到呼吸聲和假陽具被擠壓的聲音，在「乳房按摩和慢性愛」專區，您可以聽到乳房被摩擦的聲音、口交的聲音以及您感受到的聲音，而在《女王秘技課程》中你可以聽到女王的聲音，享受被毆打的感覺！這次還有「舔臉專門性」〼。我舔得臉都濕了！\n戴上耳機，樂趣加倍！系列的第二部分，您可以享受耳語、呼吸和嘎吱聲，夏川亞由美，一位舒緩的美女！B 94cm G罩杯，醇厚奶水飽滿！請用她發出的聲音來治癒吧！在「ASMR誘惑影像自慰」區，您可以聽到呼吸聲和假陽具被擠壓的聲音，在「乳房按摩和慢性愛」專區，您可以聽到乳房被摩擦的聲音、口交的聲音以及您感受到的聲音，而在《女王秘技課程》中你可以聽到女王的聲音，享受被毆打的感覺！這次還有「舔臉專門性」〼。我舔得臉都濕了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231112/35b514b8-2a78-4d0b-b71f-daeebac7ea17.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231112/35b514b8-2a78-4d0b-b71f-daeebac7ea17.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17860",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17860&name=夏川步美"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4b235427-3e10-494e-96ac-6be370b43a3f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/15f2a0f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5762,
+  "IDcode": "KNAM-072",
+  "title": "頂級無套風俗：小辣妹口技爆棚，榨乾你每一滴 ~ 柚木ひなた",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "二次元",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "舔陰",
+    "高妹",
+    "少女",
+    "口爆",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "辣妹/GAL系"
+  ],
+  "description": "KNAM-072为FIRST STAR出品,2025年5月27日发行的有碼成人影片由柚木ひなた出演\n在街頭瞄到一個穿超短裙的小辣妹，內褲若隱若現，兄弟直接硬到不行，手不自覺就摸下去了。沒想到小辣妹直接走過來，挑逗地說：『剛偷瞄我對吧？』我還沒反應過來，她就拉著我說：『想打手槍的話，姐帶你去個好地方！』結果被她拉到一個沒人的破樓梯間，她二話不說就扒我褲子，瘋狂口技直接讓我繳械。完事後她還拋個媚眼：『想再爽一波不？』於是我們直奔飯店，後面的事，嘿嘿，你懂啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527114832685685_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250527/20250527114832685685_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5762",
+  "actresses": [
+    {
+      "name": "柚木ひなた",
+      "img_url": "https://picture.yoshiclub.xyz/20250224/4bee6cce-c9cc-4106-b325-aaad79e05288.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5762&name=柚木ひなた"
+    }
+  ]
+};

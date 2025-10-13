@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1cd9074f-3a2c-41e1-9d88-e2da7a5d3f11/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15450,
+  "IDcode": "MIDV-672",
+  "title": "讓男人瘋狂的惡魔舌吻！沾滿唾液、舔舐、吸吮、沉浸在高潮回春反射療法中 九野雛乃",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "MIDV-672为MOODYZ出品,2024年4月16日发行的有碼成人影片由九野雛乃出演\n充滿唾液的極度親密接觸和融化的舌吻！舔、吸、溺水和回春反射！ J式製服、女僕、比基尼、瓷器、內衣的淫穢角色扮演，5種令人震驚的場景！療癒系的楚楚服務玩法，還有把精液擠出金球的小惡魔術，讓你腦殼融化炸裂！此外，蜘蛛女牛仔的接吻姿勢和窒息般的G罩杯乳房和甜美口水交織在一起的特寫SEX，讓她登上了天堂！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412214358740740.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412214358740740.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15450",
+  "actresses": [
+    {
+      "name": "九野雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/25340066-475f-4e48-82af-79d90054c935.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15450&name=九野雛乃"
+    }
+  ]
+};

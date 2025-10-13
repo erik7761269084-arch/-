@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/GBBXXUJI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89682,
+  "IDcode": "SDAB-272",
+  "title": "わたしのみずみずしい姿、見てくれますか?敏感すぎる潮まみれおもらしエース 月美りょう AV DEBUT",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "制服",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/a4a10182852e93d38650d7de6e20cf26.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89682",
+  "actresses": [
+    {
+      "name": "月美りょう",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/e48b6201-37a4-4d8f-8339-2209fee20cd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89682&name=月美りょう"
+    }
+  ]
+};

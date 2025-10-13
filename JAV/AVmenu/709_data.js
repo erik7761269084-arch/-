@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/70cd50db-8633-4808-abb7-61b813fa4eb3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 709,
+  "IDcode": "HEYZO-0855",
+  "title": "熱褲狂人 ~ 紺野真理惠",
+  "publish_date": "2015-06-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "牛仔褲",
+    "企畫",
+    "69",
+    "淫亂",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "人妻",
+    "足交",
+    "熟女",
+    "短髮",
+    "女優"
+  ],
+  "description": "HEYZO-0855为HEYZO出品,2015年6月7日发行的無碼成人影片由绀野真理惠出演\nホットパンツマニアック - 滝川エリナ",
+  "cover_url": "https://picture.yoshiclub.xyz/20240821/9801d427-7baa-49e2-87ff-9ab240c609d7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240821/9801d427-7baa-49e2-87ff-9ab240c609d7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=709",
+  "actresses": [
+    {
+      "name": "绀野真理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/282da11f-ac40-46d6-a4ae-9f920ba3e66d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=709&name=绀野真理惠"
+    }
+  ]
+};

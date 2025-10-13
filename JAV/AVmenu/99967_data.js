@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230306/C9B959E69B13E2AA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99967,
+  "IDcode": "DVDMS-473",
+  "title": "一般男女ドキュメントAV 同じ家で暮らす女子○校生の生意気な姪っ子に仕返し（卑劣） 利尿剤による強制お漏らしで失禁イキの快楽を覚えこませた恥辱〈おしっこまみれ〉の一週間",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "放尿",
+    "乱伦",
+    "调教"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99967",
+  "actresses": []
+};

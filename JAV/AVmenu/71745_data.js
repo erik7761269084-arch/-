@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250220/p5h0CPDc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71745,
+  "IDcode": "CLUB-537",
+  "title": "隠れヤリマンの制服美少女をSNSナンパ！エッチな王様ゲームした後パリピ万歳中出し乱交パーティーした件",
+  "publish_date": "2019-02-01",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "滥交",
+    "偷窥",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71745",
+  "actresses": [
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71745&name=大浦真奈美"
+    },
+    {
+      "name": "日向澪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/f82b72a5-0d1e-43cf-afd3-ed571d592b55_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71745&name=日向澪"
+    },
+    {
+      "name": "仓木诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71745&name=仓木诗织"
+    },
+    {
+      "name": "梦咲ひなみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71745&name=梦咲ひなみ"
+    }
+  ]
+};

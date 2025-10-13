@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240611/QQCRXLNf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104039,
+  "IDcode": "SRD-056",
+  "title": "志摩紫光調教シリーズ 裸囚淫ら責め",
+  "publish_date": "2005-03-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "捆绑",
+    "放尿",
+    "SM",
+    "调教",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104039",
+  "actresses": [
+    {
+      "name": "东京子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104039&name=东京子"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/D6FCE55F8CC4A878/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55875,
+  "IDcode": "BE4F1D016909B8ADB513CA4F493F162A",
+  "title": "究极M BODY奸～超乎想像M罩杯巨乳妹",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55875",
+  "actresses": []
+};

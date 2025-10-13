@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/053f000f-c560-450c-b4a7-75859ce6f9e9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/04/752d622e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12497,
+  "IDcode": "CJOD-431",
+  "title": "綺麗的巨乳姐姐，因婚姻失敗，成爲了一個整天把自己關在家裏的死宅喪女，狠狠的把肉棒插入到姐姐的陰戶裏，先射10發再說 ~ JULIA",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "慾求不滿",
+    "姐弟・兄妹",
+    "巨乳",
+    "抹油",
+    "熟女",
+    "眼鏡",
+    "亂倫"
+  ],
+  "description": "CJOD-431为癡女特化出品,2024年8月27日发行的有碼成人影片由JULIA出演\n曾經美麗的Juri姊姊離婚了，在父母家裡成了魚乾NEET…！因為我退縮，隻手淫，壓抑的性慾失控了！ 「姊姊……我們是姊妹和兄弟……！不！她被她放蕩的妹妹中出，並以女牛仔的姿勢被中出！」主觀生舌接吻性交！在廚房不告訴父母的乳頭口交！中出連續油性！雖然不大，但成熟的身體卻蜷縮在胯間……！充分利用在 2D 中培養的色情知識的姐姐，將其作為便利的雞巴玩具來玩，真是令人無法抗拒……！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223804719719.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822223804719719.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12497",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12497&name=JULIA"
+    }
+  ]
+};

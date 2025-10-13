@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f3b85ce-3def-4f43-8e75-cf2c952ad44e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/01/494e899d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15510,
+  "IDcode": "ROE-222",
+  "title": "媽媽溼潤透明的身體。就我們兩個人在同一個屋檐下...一夜傾盆大雨。母親和兒子渾身溼透亂倫 瀬尾禮子",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "母親",
+    "熟女",
+    "亂倫",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "ROE-222为MADONNA出品,2024年4月9日发行的有碼成人影片由瀬尾礼子出演\n我一直很愛我的母親。我知道這是不可原諒的，所以我一生都隱藏著這些感受......有一天，儘管天氣越來越糟，她的父親還是去上班了。雨和風越來越大，當我和媽媽趕緊走到外面，確保窗戶不會在傾盆大雨中被打破時，她濕漉漉的透明內衣出現在我的面前…她的頭髮濕漉漉的，亮晶晶的，透過衣服可以看到她的身體，我忍不住把全身濕透的母親推倒在地…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407034840584584.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240407/20240407034840584584.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15510",
+  "actresses": [
+    {
+      "name": "瀬尾礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/936a6e05-b988-4a4e-8a13-c06e5e045771.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15510&name=瀬尾礼子"
+    },
+    {
+      "name": "真琴",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15510&name=真琴"
+    }
+  ]
+};

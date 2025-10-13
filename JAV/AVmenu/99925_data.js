@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230305/9CC60C5932D5FAC6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99925,
+  "IDcode": "HONB-015",
+  "title": "ヲタとド変態の親友2人",
+  "publish_date": "2017-04-14",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "萝莉塔",
+    "无毛",
+    "多P",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99925",
+  "actresses": [
+    {
+      "name": "前田沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/f13e0462-ecb9-4cf0-8e0b-a9cb6144f9ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99925&name=前田沙羅"
+    },
+    {
+      "name": "西野なこ",
+      "img_url": "https://picture.yoshiclub.xyz/20240118/eb81b050-747b-4972-a41a-b10ebe21cb47.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99925&name=西野なこ"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a7d367ae-e779-42be-b64d-1e84dc088b28/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12460,
+  "IDcode": "HMN-572",
+  "title": "本州約會第4彈，就算今天女友休息，我也要去酒店 ~ 宮城理惠",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "女上位",
+    "口交",
+    "慾求不滿",
+    "內衣",
+    "美少女",
+    "約炮",
+    "真實拍攝",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HMN-572为本中出品,2024年8月27日发行的有碼成人影片由宮城理惠出演\n《超人氣本約會系列第4彈…由專屬宮城理惠決定！ 》雖然今天是我最喜歡的女朋友的休息日，我卻和曾經的好朋友的後輩開始約會，竊竊私語，忍住勃起！ 「我愛你，前輩，」他輕聲說道，甚至在戶外也大膽地親吻她。雖然只是前輩和後輩，卻被甜言蜜語誘惑、洗腦，然後送到旅館……互相忍耐後，性愛就是一場激烈活塞的連續中出！做愛後，我們的第二輪約會在晚上再次開始，但隨著我的乳頭壓在我的乳房上和無休止的親吻，我最終在公共場合勃起......",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822224902843843.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/20240822224902843843.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12460",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12460&name=宮城理惠"
+    }
+  ]
+};

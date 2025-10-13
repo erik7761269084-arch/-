@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/30/369bf225/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80421,
+  "IDcode": "CJOD-339",
+  "title": "M男クンをホテルに連れ込み！黒ギャル痴女二人の逆ナン ごっくん＆中出し＆男潮でチ○ポバカにされちゃう AIKA REMI",
+  "publish_date": "2022-03-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "荡妇",
+    "女生"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/48453838baa0b92b8be42bb4222c3028.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80421",
+  "actresses": [
+    {
+      "name": "AIKA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/9226738d-0a7c-48df-8169-92585ea10683.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80421&name=AIKA"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80421&name=小田切ジュン"
+    },
+    {
+      "name": "REMI",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80421&name=REMI"
+    }
+  ]
+};

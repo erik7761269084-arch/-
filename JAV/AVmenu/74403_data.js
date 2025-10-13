@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/5Z0GLCEQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74403,
+  "IDcode": "SABA-521",
+  "title": "中高年好きギャルの ガチンコしゃぶり",
+  "publish_date": "2019-05-17",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女生",
+    "乳房",
+    "连裤袜"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74403",
+  "actresses": [
+    {
+      "name": "長谷川玲",
+      "img_url": "https://picture.yoshiclub.xyz/20231029/88c53ac2-7534-4b6e-b839-38525b171ad1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74403&name=長谷川玲"
+    },
+    {
+      "name": "爱里るい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74403&name=爱里るい"
+    },
+    {
+      "name": "浅仓真凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74403&name=浅仓真凛"
+    }
+  ]
+};

@@ -1,0 +1,22 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98578,
+  "IDcode": "BAZX-189-",
+  "title": "働く新卒社会人と性交。VOL",
+  "publish_date": "2019-05-17",
+  "type": "有码",
+  "company": "BAZOOKA",
+  "genres": [
+    "中出",
+    "制服",
+    "口交",
+    "业余",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98578",
+  "actresses": []
+};

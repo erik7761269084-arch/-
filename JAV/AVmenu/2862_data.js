@@ -1,0 +1,245 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/523a07ea-f9ef-4178-a137-1371b701c7a9/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2862,
+  "IDcode": "MKMP-674",
+  "title": "JK美少女徹底放縱！癡女M女大集合！超可愛J系4小時精選合集 ~ 姫野蘭 小慄操 末広純 ゆめみてうた 中城葵 乙愛麗絲 皆瀨明裏 美園和花 天馬唯 冬愛琴音 藤田梢 柏木小夏 水卜麻衣奈 橫宮七海 一條美緒 大空七海 由良佳奈 流川莉央 七瀨愛麗絲 小那海綾 新井裏真 森日向子",
+  "publish_date": "2025-09-05",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "二次元",
+    "絕頂高潮",
+    "吞精",
+    "超爆乳",
+    "傲嬌",
+    "校花",
+    "流汗",
+    "乳交",
+    "色白",
+    "凌辱",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "正統派",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "多P",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "緊縛",
+    "清楚系",
+    "自慰",
+    "明星臉",
+    "清純",
+    "過膝襪・小腿襪",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "寫真偶像",
+    "美人",
+    "淫蕩・硬核",
+    "學校",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "精選綜合",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "野性",
+    "女學生",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "MKMP-674为K.M.P出品,2025年9月5日发行的有碼成人影片由美園和花，小那海綾，森日向子，小花暖，天馬唯，乙愛麗絲，流川莉央，柏木小夏，一条美緒，横宮七海，七瀨愛麗絲，由良佳奈，渚光希，皆瀨明里，小栗操，冬愛琴音，藤田梢，天月梓，新井里真，幾田真知，中城葵，姫野らん，大空七海，大島愛里亞，末広純，水卜麻衣奈，沙月惠奈，ゆめみてうた出演\n这些制服J系美少女，攻受切换毫无压力！绝对不能错过这种背德的超刺激SEX！从超色情的J系作品中精选了30个片段，全部收录！纯真笑容、紧致身材、娇喘声声，J系的魅力根本无法抗拒！一不小心就上瘾啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250907/20250907005935897897_54427_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250907/20250907005935897897_54427_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2862",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=美園和花"
+    },
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=天馬唯"
+    },
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=乙愛麗絲"
+    },
+    {
+      "name": "柏木小夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2ef252e4-9b17-48b9-aa2e-4c3395e6fb22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=柏木小夏"
+    },
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=森日向子"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=天月梓"
+    },
+    {
+      "name": "末広純",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/52b7f8cf-362e-4460-b9d8-a55df7001082.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=末広純"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=沙月惠奈"
+    },
+    {
+      "name": "小那海綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/1f4dc819-5d18-4526-9273-6eba7b32fa08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=小那海綾"
+    },
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=新井里真"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=由良佳奈"
+    },
+    {
+      "name": "七瀨愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240114/6d8ca794-c12e-4de8-8f5d-c8433e029fc2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=七瀨愛麗絲"
+    },
+    {
+      "name": "皆瀨明里",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/1e8e889d-8f6f-4210-a368-9e92de07f9dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=皆瀨明里"
+    },
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=一条美緒"
+    },
+    {
+      "name": "渚光希",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/55d46251-2210-482f-84c8-221b7cb1b8ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=渚光希"
+    },
+    {
+      "name": "小花暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/2af08093-09e7-41eb-8943-4921e623d17f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=小花暖"
+    },
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=冬愛琴音"
+    },
+    {
+      "name": "流川莉央",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/181ac8f5-9bf0-4543-8047-3ed2391b7b78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=流川莉央"
+    },
+    {
+      "name": "横宮七海",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/46de250d-6034-43d1-ab6f-6e3d4a519176.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=横宮七海"
+    },
+    {
+      "name": "藤田梢",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/6c9fab6d-2723-4857-a386-38d945533f57.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=藤田梢"
+    },
+    {
+      "name": "小栗操",
+      "img_url": "https://picture.yoshiclub.xyz/20240421/179a43a5-42d3-43e6-bdec-eea925532108.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=小栗操"
+    },
+    {
+      "name": "幾田真知",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/a83356ac-d1df-4288-bc4a-ef5f359a2143.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=幾田真知"
+    },
+    {
+      "name": "中城葵",
+      "img_url": "https://picture.yoshiclub.xyz/20240509/09bbbdf9-f79a-473d-b91d-b2071b8b3675.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=中城葵"
+    },
+    {
+      "name": "姫野らん",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/e8c74bfa-a4ca-4879-8060-3df057e3a8ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=姫野らん"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=大島愛里亞"
+    },
+    {
+      "name": "大空七海",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/40834b70-9470-435c-847a-674fc5d61f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=大空七海"
+    },
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=水卜麻衣奈"
+    },
+    {
+      "name": "ゆめみてうた",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\y-KMP/夢見照うた.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2862&name=ゆめみてうた"
+    }
+  ]
+};

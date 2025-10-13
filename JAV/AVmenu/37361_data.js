@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220821/5E4E34728FAF6F04/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37361,
+  "IDcode": "1CD93E506A7B6AEC4077DF5DF827B2A-0",
+  "title": "有些漂亮的女孩",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37361",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/KnbRW0eE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82832,
+  "IDcode": "SDNT-017",
+  "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case16 専業主婦・高木陽菜（仮名）26歳 愛媛県在住 AVデビュー 主人のためにネトラレます",
+  "publish_date": "2020-02-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "新娘，年轻妻子",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82832",
+  "actresses": [
+    {
+      "name": "高木阳菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82832&name=高木阳菜"
+    }
+  ]
+};

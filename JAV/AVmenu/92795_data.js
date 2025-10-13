@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240911/G3IEGq8a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92795,
+  "IDcode": "TID-530",
+  "title": "TID530著名偶像淪為富豪大叔的性玩物工藤拉拉唯奈美月。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92795",
+  "actresses": []
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/vcVQ5EP5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93970,
+  "IDcode": "RCTD-609",
+  "title": "妄想アイテム究極進化シリーズ マネキン化スプレー リメイク",
+  "publish_date": "2024-09-12",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "妄想",
+    "各种职业",
+    "羞耻",
+    "企画",
+    "恋物癖",
+    "恶作剧",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93970",
+  "actresses": [
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93970&name=堀北実来"
+    },
+    {
+      "name": "桜木美音",
+      "img_url": "https://picture.yoshiclub.xyz/20230827/61ca64e3-2581-44bd-bd57-0ce3b3c0186a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93970&name=桜木美音"
+    },
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93970&name=赤城穂波"
+    }
+  ]
+};

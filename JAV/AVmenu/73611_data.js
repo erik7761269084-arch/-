@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/01djAebO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73611,
+  "IDcode": "MDTM-554",
+  "title": "先生、私、先生との赤ちゃんが欲しいの。子作り淫語で中出し誘惑してくる清純系制服美少女 皆月ひかる",
+  "publish_date": "2019-08-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "无毛",
+    "淫语",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73611",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73611&name=皆月光"
+    }
+  ]
+};

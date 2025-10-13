@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/09/f262d117/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78920,
+  "IDcode": "ABP-369",
+  "title": "- 北野のぞみドッキリSP 専属女優・北野のぞみを即ハメドッキリでイカせちゃいます！！ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78920",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78920&name=しみけん"
+    },
+    {
+      "name": "北野望",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/c0f421cd8f98ac9848c592e32f86bf7b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78920&name=北野望"
+    }
+  ]
+};

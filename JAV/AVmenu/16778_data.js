@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e373619d-3fd7-4e49-b782-96d37cfcabb4/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/31/5bdec63e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16778,
+  "IDcode": "FPRE-005",
+  "title": "巨乳護士對討厭的性騷擾如此沉迷，以至於乞求插入，因爲感覺太好了",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "醫院・診所",
+    "絕頂高潮",
+    "中出",
+    "口交",
+    "護士制服",
+    "巨乳",
+    "護士"
+  ],
+  "description": "FPRE-005为FITCH出品,2024年1月23日发行的有碼成人影片由桃園怜奈出演\n新護士桃園憐奈建議她心愛的未婚夫住進她工作的醫院，以便爲患有嚴重且無法治愈的疾病的心愛未婚夫找到治療方法。檢測結果顯示，這種病症只能使用未經批準的海外藥物來治療。主任要求他將桃園憐奈年輕的身體交給他，以換取她可以將藥物用於臨牀，盡管它不能正常使用。桃園憐奈出於拯救他的願望而接受了這些條款，並最終從與她鄙視的人發生性關系中體驗到了不可能的快樂。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113063948646646.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240113/20240113063948646646.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16778",
+  "actresses": [
+    {
+      "name": "桃園怜奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/2603778d-3acd-4d77-938e-cf5f88e23f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16778&name=桃園怜奈"
+    }
+  ]
+};

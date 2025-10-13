@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/oevB73E1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81075,
+  "IDcode": "CEMD-140",
+  "title": "大嫌いな上司に何度も犯●れ続けて…。 広瀬みつき",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "凌辱",
+    "口交",
+    "乳房",
+    "拘束",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81075",
+  "actresses": []
+};

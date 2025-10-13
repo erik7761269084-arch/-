@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7a1aa3eb-ff44-445e-9abd-118cb4d7e053/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7264,
+  "IDcode": "NATR-748",
+  "title": "2作全收錄！ ~ 三尾惠",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "後入",
+    "企畫",
+    "家庭主妇",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "騎乗位",
+    "內衣",
+    "口爆",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250326/28ff5d10-c4f0-4bcc-8653-4ab50045f3c2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250326/28ff5d10-c4f0-4bcc-8653-4ab50045f3c2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7264",
+  "actresses": [
+    {
+      "name": "三尾惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/f8d44d3e-6849-4d2e-9eba-61a1d72f6491.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7264&name=三尾惠"
+    }
+  ]
+};

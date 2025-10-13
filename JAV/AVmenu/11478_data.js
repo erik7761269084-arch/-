@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d9d7ec27-97d6-48b6-aaf0-079d8360492c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11478,
+  "IDcode": "SONE-395",
+  "title": "最愛歡迎的自然身體和靈魂！零距離口交，性交 10式 ~ 川越仁子",
+  "publish_date": "2024-10-08",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "游戲COSPLAY",
+    "深喉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "貓耳裝飾",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "主觀視角",
+    "兩男一女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "女僕制服",
+    "情趣內衣",
+    "猥褻穿著",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "SONE-395为S1出品,2024年10月8日发行的有碼成人影片由川越仁子出演\n有10個角落，10種服裝和10種令人愉悅的口交，讓你在被舔的那一刻充滿你的心！ ① 假陽具口交圖像② 出汗的雞巴舔清醒的會計女孩③ 家居服的愛口交④ 與穿制服的女孩的3P 口交性愛⑤ 電影院裡的秘密口交礦山女孩⑥ 貓耳朵乳頭舔口交⑦ 大雞巴檢查護士⑧ 歌舞女郎的嫉妒口交 ⑨ 性感女僕口交 SEX ⑩ 大規模面部射液pinsaro 口交",
+  "cover_url": "https://picture.yoshiclub.xyz/20241003/20241003081051154154.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241003/20241003081051154154.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11478",
+  "actresses": [
+    {
+      "name": "川越仁子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250924/453f0baa-66d8-4228-8fb6-892be3d3ba64_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11478&name=川越仁子"
+    }
+  ]
+};

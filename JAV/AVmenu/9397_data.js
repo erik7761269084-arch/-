@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e44b39c6-cb2c-4cf9-a910-9e57d24dcc9b/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/28/d125ac8b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9397,
+  "IDcode": "CLUB-860",
+  "title": "變態淫蕩美容院，人妻失禁按摩！全身塗抹媚藥，不斷蹂躪乳頭，暴走失控！！ ~ 如月りいさ 八森若菜 惠沙也香 辻いまる",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "按摩・物理治療・美容",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "內衣",
+    "按摩・美容店",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "偷窺",
+    "誘騙女性",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250104/12be1949-62fc-40c6-9c82-c7cc3f23757e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250104/12be1949-62fc-40c6-9c82-c7cc3f23757e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9397",
+  "actresses": [
+    {
+      "name": "八森若菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231231/6c0cec5b-9ec8-4063-b445-e62e376fbf56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9397&name=八森若菜"
+    },
+    {
+      "name": "恵沙也香",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8b3f628e-e7ce-42d4-953d-5e935ccc8851.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9397&name=恵沙也香"
+    },
+    {
+      "name": "如月りいさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/d7700eb3-262c-4135-99be-f216cdd6c8df.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9397&name=如月りいさ"
+    },
+    {
+      "name": "辻いまる",
+      "img_url": "https://picture.yoshiclub.xyz/20240205/c9588eed-3bd3-4d58-b541-e4a2ca969f96.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9397&name=辻いまる"
+    }
+  ]
+};

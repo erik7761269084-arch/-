@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241206/sflocw3X/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76988,
+  "IDcode": "NACR-286",
+  "title": "夫とマッサージ師が企てた罠 美人妻NTR計画 白咲花",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "苗条",
+    "按摩",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/69b2bc0070aa1f88ee21f4c7258a68a2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76988",
+  "actresses": [
+    {
+      "name": "白咲花",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/cec3f967-1da7-42f7-9bb6-eed32d566275.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76988&name=白咲花"
+    }
+  ]
+};

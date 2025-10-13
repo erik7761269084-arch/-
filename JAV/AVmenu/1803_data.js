@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230123/a196c574-9159-4bd2-8bb5-37901e7f4ec0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1803,
+  "IDcode": "CWPBD-161",
+  "title": "CATWALK POISON 161 24小時斷斷續續的性愛，你絕對不該射精：七瀨裡奈",
+  "publish_date": "2017-05-10",
+  "type": "无码",
+  "company": "CATWALK",
+  "genres": [
+    "苗條",
+    "中出",
+    "美乳",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230123/82ae692e-0803-492c-8529-dd6995e63e0e.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230123/82ae692e-0803-492c-8529-dd6995e63e0e.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1803",
+  "actresses": [
+    {
+      "name": "七濑莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/dd4165e4-cbdf-45c9-95f6-d20fe5a4afb5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1803&name=七濑莉娜"
+    }
+  ]
+};

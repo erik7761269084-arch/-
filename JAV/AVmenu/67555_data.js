@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/16/c9288601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67555,
+  "IDcode": "HDKA-276",
+  "title": "はだかの主婦 渋谷区在住君塚ひなた（30） パンティと生写真付き",
+  "publish_date": "2023-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "口交",
+    "吞精",
+    "恋物癖",
+    "局部特写",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/9621f2a460fbfddcaea8cab942b3cd74.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67555",
+  "actresses": [
+    {
+      "name": "君塚ひなた",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67555&name=君塚ひなた"
+    }
+  ]
+};

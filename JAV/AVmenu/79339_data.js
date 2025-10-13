@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/03/2614d03f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79339,
+  "IDcode": "MUDR-153",
+  "title": "痴●ダメ絶対。完全版 初川みなみ",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "多P",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/e1e7945faef12d3ac5a08e74862196c7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79339",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79339&name=初川南"
+    }
+  ]
+};

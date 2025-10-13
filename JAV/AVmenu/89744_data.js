@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240106/hdZsCHUb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89744,
+  "IDcode": "ROE-158",
+  "title": "解禁 本格緊縛作品 緊縛ペットになった母 家賃滞納、進学する息子の為に…。 平岡里枝子",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "凌辱",
+    "捆绑",
+    "乱伦",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89744",
+  "actresses": [
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89744&name=平冈里枝子"
+    }
+  ]
+};

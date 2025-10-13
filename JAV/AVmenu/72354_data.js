@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250202/IyEtUnI2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72354,
+  "IDcode": "YRH-036",
+  "title": "働くオンナ猟り vol.08",
+  "publish_date": "2014-03-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "多P",
+    "各种职业",
+    "制服"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250202-1/cf296cc2810043865ea1e064c34f7c42.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72354",
+  "actresses": [
+    {
+      "name": "三条みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72354&name=三条みく"
+    },
+    {
+      "name": "河合优衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72354&name=河合优衣"
+    },
+    {
+      "name": "杉原优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72354&name=杉原优"
+    },
+    {
+      "name": "长瀬あおい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72354&name=长瀬あおい"
+    }
+  ]
+};

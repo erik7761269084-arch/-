@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220912/1F96ACAE1BA6A60B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64906,
+  "IDcode": "0C71B4A1C12B240C15E86789732123AB",
+  "title": "新人 12歳就独自上京、自童星到真正偶像团体总是担任谐星…想当偶像中出AV出道！ ！姬野牛奶",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64906",
+  "actresses": []
+};

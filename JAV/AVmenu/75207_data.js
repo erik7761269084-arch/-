@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/dudAaOXR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75207,
+  "IDcode": "HJMO-429",
+  "title": "親友対決！固定ディルド腰ふり競争1000回ふらなきゃ帰れまセン！！6",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "女大学生",
+    "潮吹",
+    "羞耻",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75207",
+  "actresses": [
+    {
+      "name": "原花音",
+      "img_url": "https://picture.yoshiclub.xyz/20250122/59ad9b88-7e3d-44ee-beca-b7f7c98764b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=原花音"
+    },
+    {
+      "name": "天月叶菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=天月叶菜"
+    },
+    {
+      "name": "大原えりか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=大原えりか"
+    },
+    {
+      "name": "山本莲加",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=山本莲加"
+    },
+    {
+      "name": "星岛るり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=星岛るり"
+    },
+    {
+      "name": "林爱菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75207&name=林爱菜"
+    }
+  ]
+};

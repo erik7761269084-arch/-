@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed654900-458f-49e8-99f2-35d0c2424450/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9872,
+  "IDcode": "MUKC-082",
+  "title": "迷倒老男人的可愛地下偶像。祕密的援交服務生意。中出OK Cosplay SEX 7瘋狂本番 ~ 永野鈴",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "網襪",
+    "校花",
+    "偶像",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "貓耳裝飾",
+    "小隻馬",
+    "應召・援交",
+    "私房攝影",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "拜金女",
+    "女僕制服",
+    "清純",
+    "獵豔",
+    "美少女電影",
+    "COSPLAY服飾",
+    "飯店"
+  ],
+  "description": "MUKC-082为無垢出品,2024年12月17日发行的有碼成人影片由永野鈴出演\n【偶像不應該向任何人展示的幕後面孔】一個可愛的地下偶像女孩迷住了老男人，她與一個有錢的老男人和宅男有秘密關係......如果你在拍攝個人照片時被要求這樣做，請來照相館內射性愛。即使在只有我們兩個人的秘密旅行中，她也下班了......她微笑著，弄濕了她的陰部，並在任何地方接受粗大的雞巴......一個秘密的 off paco 視頻，您可以穿著可愛的角色扮演服裝來感受和射精。歷時數日拍攝的美少女偶像生動的交配場面。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211072434240240.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241211/20241211072434240240.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9872",
+  "actresses": [
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9872&name=永野鈴"
+    }
+  ]
+};

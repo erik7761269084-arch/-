@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/ZswWdkN3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85939,
+  "IDcode": "PPPE-079",
+  "title": "ねっとり甘い淫語パイズリと激しい騎乗位で搾り抜く巨乳痴女ナース 蜜美杏",
+  "publish_date": "2022-09-16",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/94dee5e8fbd78a30bde67dcd917abe5e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85939",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85939&name=藤井蘭々"
+    }
+  ]
+};

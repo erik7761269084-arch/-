@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230202/vVh80NSz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86182,
+  "IDcode": "SCOP-760",
+  "title": "酒に酔った友人の巨乳彼女のおっぱいをひたすら揉み続けてたら、初めは嫌がっていたものの、自ら股間に手を入れオナニー。隣で彼氏が寝ているにも関わらず、声を押し殺しながら絶頂イキマ●コに無断中出し",
+  "publish_date": "2022-03-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女上位",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230203-1/2a6432350d7ac416a66338c96a510369.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86182",
+  "actresses": [
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86182&name=姫咲華"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86182&name=浅田结梨"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240514/WY2ipUdI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91553,
+  "IDcode": "ALDN-280",
+  "title": "娘の彼と… 密会中出し続ける日々 成宮いろは",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/0b0c1e590b3f03c2e65b058f7387c329.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91553",
+  "actresses": [
+    {
+      "name": "成宫いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91553&name=成宫いろは"
+    }
+  ]
+};

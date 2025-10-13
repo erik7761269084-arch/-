@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81573ef1-5c0c-4185-a156-e5c20075924e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/462b7354/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6488,
+  "IDcode": "WAAA-470",
+  "title": "酒店妹24小時中出し失禁拘束侵犯 ~ 本田瞳",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美臀",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "服務生",
+    "性感",
+    "監禁",
+    "兩男一女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "巨乳",
+    "按摩棒",
+    "美人",
+    "淫蕩・硬核",
+    "熟女",
+    "放尿",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "WAAA-470为WANZ FACTORY出品,2025年5月2日发行的有碼成人影片由本田瞳出演\n一个看似老实的酒店服务小妹被无理投诉骗到房间里，直接被强行口爆、3P串刺、未经允许就中出し，简直鬼畜到爆！手脚被绑住，毫无反抗之力，连着三次中出し，完全不给喘息机会，敏感地带被玩具疯狂刺激，泪眼婆娑失禁高潮，尖叫到嗓子都哑了！口爆地狱没完没了，这位看似文静的大胸服务妹被一夜无休的狂野凌辱搞到崩溃，体液满身，失控放尿，震撼流出画面全程记录，刺激到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043831244244_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043831244244_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6488",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6488&name=本田瞳"
+    }
+  ]
+};

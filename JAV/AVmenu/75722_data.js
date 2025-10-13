@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/921f0968/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75722,
+  "IDcode": "NPJB-110",
+  "title": "別次元の美女を抱きたい 色気あふれる気品の高いオンナたち5人が淫れるSEX 高級美女5人分お得まとめ4時間",
+  "publish_date": "2024-12-31",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "第一人称摄影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75722",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75722&name=水川蓳"
+    }
+  ]
+};

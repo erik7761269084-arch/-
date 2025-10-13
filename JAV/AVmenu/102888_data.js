@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102888,
+  "IDcode": "HUNTA-528_B",
+  "title": "本番行為NG！のおっパブ嬢は超欲求不満！おっパブの",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102888",
+  "actresses": []
+};

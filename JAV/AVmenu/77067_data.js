@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241129/eCUUrEy4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77067,
+  "IDcode": "NASH-086",
+  "title": "「もうこれで最後にして…」大嫌いな親族（義父、義兄弟）に力ずくで犯られた嫁",
+  "publish_date": "2019-06-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77067",
+  "actresses": []
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2defe0f4-2e31-4d41-b5ec-127f64284f2c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/12/ed5d6025/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15401,
+  "IDcode": "MVSD-597",
+  "title": "我想在護士辦公室裏玩弄大奶子，就一次！ （認真）111cm！ M罩杯！吉根柚莉愛的性教育",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "黑絲",
+    "女教師",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "性感",
+    "內衣",
+    "美腳",
+    "情趣內衣",
+    "巨乳",
+    "辦公室",
+    "按摩棒",
+    "熟女",
+    "護士"
+  ],
+  "description": "MVSD-597为MVG GROUP出品,2024年4月16日发行的有碼成人影片由吉根柚莉爱出演\n你們！你無事可做，卻來到了護士辦公室……嗯，我猜你是在計畫著什麼吧？ 111公分！ M罩杯！我想和 Yuria 一起玩，這個前蕩婦洋基肉食蕩婦來自學校護士的大胸部！當我被那些柔軟的乳房和色情費洛蒙包圍時，我忍不住射精。壞男孩們爭奪尤莉亞老師的百萬噸巨乳！我趁機蹭它、舔它、吸它！老師！即使您有陰戶，您也可以輕鬆尋求指導！女牛仔教育與打樁餅同時搖晃豐滿！他媽的奶子！派工！餡餅開火！你們真的很喜歡胸部（笑）。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414071300939939.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240414/20240414071300939939.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15401",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15401&name=吉根柚莉爱"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15401&name=Qべぇ"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15401&name=まーち"
+    }
+  ]
+};

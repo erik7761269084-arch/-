@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220417/CA1F71BBA07ED7DC/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56214,
+  "IDcode": "78B499BE9A812C7116E1E602BD0A7E5E",
+  "title": "就爱侍奉超M巨乳圣诞装正妹 宫国花子 10musume_122418_01",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56214",
+  "actresses": []
+};

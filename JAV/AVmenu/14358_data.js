@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c86c365-8d88-4dbf-a1ae-f5de8bc5974f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/11/3b66eb47/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14358,
+  "IDcode": "ABF-109",
+  "title": "被小惡魔美少女誘惑而理性崩潰的老師，被擺弄下溼透了的做愛性交 ~ 八掛海",
+  "publish_date": "2024-06-06",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "白人女優",
+    "明星臉",
+    "更衣室",
+    "情趣內衣",
+    "癡女",
+    "校園生活",
+    "猥褻穿著",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "ABF-109为蚊香社出品,2024年6月6日发行的有碼成人影片由八掛海出演\n*本作品以穿著制服的成人角色扮演為特色。渴望Prestige專屬女演員「Yakake Umi」的濕潤身體。身為老師，我應該是一位受到班上學生敬佩的「好老師」。一個下雨天，我獨自一人和我的學生“Umi”，優等生。短暫交談後，海突然要求他吻她。當他柔軟的唇瓣壓在她的身上，舌尖糾纏在一起時，她失去了作為老師的理智，這個吻逐漸變成了熱烈的吻。海將他堅硬的雞巴包在手中，給他口交，把他逼到了射精的邊緣。當Umi的裙子被掀起，她的內褲被脫掉，他的雞巴被插入時，她忘記了他們兩個之間的關係，瘋狂地擺動著她的臀部。在這個下雨天，與海展開了一段不能告訴任何人的秘密關係。惡魔般的美少女理性被破壞，濕漉漉的裸露肌膚勾起男人的慾望的全身濕透透視AV。 *本作品的所有表演者均為19歲以上的成年人。 （本作品的所有表演者均為19歲以上的成年人。）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240530/20240530054059962962.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240530/20240530054059962962.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14358",
+  "actresses": [
+    {
+      "name": "八掛海",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/f551ef55-83f0-457e-b900-ad16708e5d03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14358&name=八掛海"
+    },
+    {
+      "name": "八挂うみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14358&name=八挂うみ"
+    }
+  ]
+};

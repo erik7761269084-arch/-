@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240619/XTT7kVTj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102604,
+  "IDcode": "VENU-648",
+  "title": "近親［無言］相姦 隣にお父さんがいるのよ… 通野未帆",
+  "publish_date": "2016-10-19",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102604",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102604&name=通野未帆"
+    }
+  ]
+};

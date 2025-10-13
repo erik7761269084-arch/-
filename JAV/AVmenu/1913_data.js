@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230201/fa7680cc-b9e2-4f60-85ac-fc14d4ec1573/index.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2022/12/06/13759255/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1913,
+  "IDcode": "SKYHD-012",
+  "title": "SKY ANGEL 12 櫻井莉亞",
+  "publish_date": "2009-03-16",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "中出",
+    "美乳",
+    "美少女"
+  ],
+  "description": "SKYHD-012为2009年3月16日发行的無碼成人影片由櫻井莉亞出演\n人气爆棚的樱井莉亚的《天空天使》，期待已久的 Blu-ray Ray 上架了！你过着悲惨的生活，从未见过蓝光质量。. . 无论如何，请尝试一次品尝蓝光清晰的高清猫世界！就算你家里没有播放器，也可以买一本樱井莉雅的蓝光作品，马上跑去电器店！如果你询问店员并看到这个，Blu-ray Manco World 已经是你的了！！忍不住立马买了蓝色层！Ria-chan 的好皮肤，这如雪般美丽的白皮肤 2008 年 7 月刚刚出道的新人模特樱井莉亚已经在 J​​apolno 首次亮相！而且，还是天空天使的最新作品！身高 152 厘米。三种尺寸分别是 B80、W56 和 H82 B 罩杯。出生于秋田县。皮肤白皙，五官端正的正统秋田美女。裤裆要炸开裤衩一定要满满的撩人高潮戏，适合这样的冬日天空天使！连续口交、Twister 玩具攻击、奇闻趣事内射和乳液内射 3P 操！！以闪亮的美肌和cue smile为武器的完全羞耻游戏着迷的隆冬天空天使莉亚！不要错过这个！",
+  "cover_url": "https://picture.yoshiclub.xyz/20230209/9e773f72-43df-4618-be0d-ae4bd3741d57.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230209/9e773f72-43df-4618-be0d-ae4bd3741d57.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1913",
+  "actresses": [
+    {
+      "name": "櫻井莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/324a598d-34c9-43d0-b80c-f78b2775ae34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1913&name=櫻井莉亞"
+    }
+  ]
+};

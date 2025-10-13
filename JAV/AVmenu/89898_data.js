@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240109/uvPYplNl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89898,
+  "IDcode": "SDDE-704",
+  "title": "アナル●● 生意気なカリスマギャルにけつあな中出しで●●完了 ガバアナルを求愛見せつけ配信事故！ 夏目みらい",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "肛交",
+    "灌肠",
+    "战斗行动",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/ca5fa6d2d259f429f62e1e682bc1d3bb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89898",
+  "actresses": [
+    {
+      "name": "夏目未來",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/ff2def96-3bcb-4536-ae3c-7abf8587feb3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89898&name=夏目未來"
+    }
+  ]
+};

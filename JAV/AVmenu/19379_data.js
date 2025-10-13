@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c0c0b9e0-37a9-43ca-9bb1-77df6ad42eb6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19379,
+  "IDcode": "IPX-067",
+  "title": "爽到大爆射！鬼畜雙癡女淫技",
+  "publish_date": "2017-12-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "打手槍",
+    "數位馬賽克",
+    "M男・M女",
+    "兩男兩女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522015003119119.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230522/20230522015003119119.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19379",
+  "actresses": [
+    {
+      "name": "織笠るみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230514/756dac77-2635-4bac-9a25-a9d2ce5632ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19379&name=織笠るみ"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19379&name=麻里梨夏"
+    }
+  ]
+};

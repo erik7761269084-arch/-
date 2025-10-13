@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221024/CII2zLVc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81396,
+  "IDcode": "SDMT-268",
+  "title": "おっぱいが3つあるオンナノコ",
+  "publish_date": "2010-11-18",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "其他恋物癖",
+    "乳交",
+    "女大学生",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81396",
+  "actresses": [
+    {
+      "name": "佐藤みく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81396&name=佐藤みく"
+    }
+  ]
+};

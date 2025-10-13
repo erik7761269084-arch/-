@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/09/34876a74/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87264,
+  "IDcode": "AARM-120",
+  "title": "全裸按摩師2",
+  "publish_date": "2022-09-20",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "荡妇",
+    "M男",
+    "按摩",
+    "恋物癖",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87264",
+  "actresses": []
+};

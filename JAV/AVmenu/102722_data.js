@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220428/D7C2C85D3C46A022/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102722,
+  "IDcode": "AVOP-173",
+  "title": "脳内麻薬～2穴挿入！連続中出し！浣腸ぶっかけ大噴水！～ 江波りゅう",
+  "publish_date": "2015-09-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "中出",
+    "潮吹",
+    "肛交",
+    "灌肠",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102722",
+  "actresses": [
+    {
+      "name": "江波りゅう（RYU)",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102722&name=江波りゅう（RYU)"
+    }
+  ]
+};

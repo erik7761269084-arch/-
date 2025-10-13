@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/15/ad85150c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89857,
+  "IDcode": "SAME-062",
+  "title": "身代わりにレ●プされた娘。 美空みく",
+  "publish_date": "2023-07-04",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "大小姐",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89857",
+  "actresses": [
+    {
+      "name": "美空",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89857&name=美空"
+    }
+  ]
+};

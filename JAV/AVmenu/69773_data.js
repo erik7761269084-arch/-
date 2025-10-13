@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250317/qvexz4Gu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69773,
+  "IDcode": "SSNI-641",
+  "title": "極小マイクロビキニお姉さんが大量ローションまみれで超密着プレイしてあげる 椎葉えま",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "荡妇",
+    "足交",
+    "高",
+    "乳液",
+    "薄马赛克",
+    "泳装"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250317-1/bffda908360df341b6b8044bfb4664f6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69773",
+  "actresses": [
+    {
+      "name": "泉百合",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/泉ゆり.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69773&name=泉百合"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69773&name=鲛岛"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69773&name=南佳也"
+    }
+  ]
+};

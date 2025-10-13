@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4cb38b26-e5e3-432b-aabe-ef388ddeb7b5/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/in2dzG1U/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14048,
+  "IDcode": "MOGI-136",
+  "title": "【初撮】酷酷的漁業女孩，從分揀、運輸，她都幹。天真爛漫的笑容，真誠害羞的舉止，九州口音，毛茸茸的小穴，完美的新面孔。実田あのん，20歲。",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "淫亂",
+    "色白",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "素人",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "美少女",
+    "出道作品",
+    "短髮",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "企畫",
+    "3P・4P"
+  ],
+  "description": "MOGI-136为SOD出品,2024年7月1日发行的有碼成人影片\n他處理魚的景象百分百讓人產生共鳴！笑容燦爛的漁港偶像AV出道！她平常是個嚴肅的女孩，但她真的很喜歡色情的東西！去拍照，同時增加你隱藏的性慾！只要出現在我的雞巴面前，我就被愛情汁液浸濕了！當它插入她的陰道時，她敏感的全身顫抖，理智崩潰！中出的那一刻是最愉快的時刻，我呻吟了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/96e23d09-0449-4c28-b26d-05ba714a0c3c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/96e23d09-0449-4c28-b26d-05ba714a0c3c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14048",
+  "actresses": [
+    {
+      "name": "実田あのん",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/16798002-5311-4ee1-96ae-65406c48dcb7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14048&name=実田あのん"
+    }
+  ]
+};

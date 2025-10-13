@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/16BDAB3DA6BD53F2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99192,
+  "IDcode": "JAN-001",
+  "title": "制服の中のE みのり 1",
+  "publish_date": "2015-10-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "制服",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118jan001/118jan001pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99192",
+  "actresses": [
+    {
+      "name": "莳田みのり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99192&name=莳田みのり"
+    }
+  ]
+};

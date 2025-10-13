@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220523/2886915887B02280/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65047,
+  "IDcode": "88285EDA8434BB0953FA60AF7958122B",
+  "title": "メルシーボークー DV 02 中出しナースコール - 美咲ひな",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65047",
+  "actresses": []
+};

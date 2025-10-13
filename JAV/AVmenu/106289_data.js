@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/28/a1e09c79/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106289,
+  "IDcode": "FOCS-166",
+  "title": "彼氏の兄にフェラ調教された私…いいなりオナホール化した口マ●コにイラマチオで完堕ち！NTR声我慢中出し 夏木りん",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "羞耻",
+    "护士",
+    "深喉",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/12/27/881d0afa872c35f20c85a9cb17b3b2a3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106289",
+  "actresses": []
+};

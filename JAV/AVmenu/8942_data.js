@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/61ff98ae-9866-476b-89a1-f86513b4f0e0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/22/f8743d8c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8942,
+  "IDcode": "START-262",
+  "title": "在像往日一樣面對全球的直播中，我被超惡心低俗的哥哥強奸了！現在全世界都知道我成了他的肉便器 ~ 唯井真尋",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "深喉",
+    "變態",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蒙面・面罩",
+    "美臀",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "姐姐・妹妹",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "口爆",
+    "姐弟・兄妹",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "清楚系",
+    "明星臉",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "M男・M女",
+    "美人",
+    "短髮",
+    "亂倫",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "羞恥",
+    "網路紅人",
+    "宅男・宅女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250121/97086a02-7afe-4405-9e7b-fde5a5596e33.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250121/97086a02-7afe-4405-9e7b-fde5a5596e33.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8942",
+  "actresses": [
+    {
+      "name": "唯井真寻",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/bf2b9699-b121-462f-ba29-548f845a13d0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8942&name=唯井真寻"
+    }
+  ]
+};

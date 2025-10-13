@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/31/b4939d10/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86084,
+  "IDcode": "SAME-001",
+  "title": "ATTACKERS 引退 女教師、お礼参り輪●。 川上奈々美",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cde9011d92adf049ce69bbe0f8429f2d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86084",
+  "actresses": [
+    {
+      "name": "川上奈奈美",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/9ed348835f631c5dbbf3be00bbac5c63.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86084&name=川上奈奈美"
+    }
+  ]
+};

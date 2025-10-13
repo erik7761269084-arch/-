@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/01/c662f454/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105171,
+  "IDcode": "PPPD-308",
+  "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 波多野結衣",
+  "publish_date": "2014-08-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/01/26f515d783a0aa8c288580e89505306b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105171",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105171&name=波多野结衣"
+    }
+  ]
+};

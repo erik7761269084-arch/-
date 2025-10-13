@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230509/946a79a6-4395-4d38-91dd-d8310e294fd5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1512,
+  "IDcode": "SKYHD-048",
+  "title": "SKY ANGEL BLUE Vol.48 : 鈴木里美",
+  "publish_date": "2011-06-01",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "乳交",
+    "中出",
+    "美乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230509/a1338c8e-3287-4c09-b8a3-9f4cbdf66397.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230509/a1338c8e-3287-4c09-b8a3-9f4cbdf66397.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1512",
+  "actresses": [
+    {
+      "name": "铃木里美",
+      "img_url": "https://picture.yoshiclub.xyz/20230209/5f97a227-b0de-4e25-ab20-5771e6b2d61c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1512&name=铃木里美"
+    }
+  ]
+};

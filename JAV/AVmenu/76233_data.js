@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241218/0SXulLt6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76233,
+  "IDcode": "DVDMS-481",
+  "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 心優しい現役看護師さん お昼休み中に癒しの手コキとフェラで男性たちの溜まったち○ぽを連続でヌいてくれませんか？勢いよく飛び出る濃厚ザーメンに濡れてしまったナースおま○こは生挿入を受け挿れて搾精腰振り騎乗…",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "业余",
+    "手淫",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76233",
+  "actresses": []
+};

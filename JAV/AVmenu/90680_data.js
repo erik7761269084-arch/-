@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240125/Fibx1qUV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90680,
+  "IDcode": "NYKD-132",
+  "title": "還暦で初撮り 岡江みどり",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "成熟的女人",
+    "巨乳",
+    "首次亮相",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90680",
+  "actresses": [
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90680&name=大岛丈"
+    },
+    {
+      "name": "岡江みどり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90680&name=岡江みどり"
+    }
+  ]
+};

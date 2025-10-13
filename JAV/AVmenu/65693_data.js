@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221001/A3025CD8DE966EF6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65693,
+  "IDcode": "02997E504370481C178C647945FD7A5F",
+  "title": "毎日がいたずら日和 ごっくん 颜射 放尿 处女丧失 中出し おじさんが全部教えました。少女を骗して、少女宅に侵入して、少女にいたずらし続けた30日奸（かん） 有栖露露",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65693",
+  "actresses": []
+};

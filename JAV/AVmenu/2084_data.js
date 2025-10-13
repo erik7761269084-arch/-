@@ -1,0 +1,58 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2084,
+  "IDcode": "JUR-502",
+  "title": "拜託讓我插一下下就好！30歲還是童貞的小叔子太可憐，心軟答應了他，結果爽到爆一次次求着內射 ~ 椎名由奈",
+  "publish_date": "2025-10-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "中出",
+    "美乳",
+    "四十路",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "嫂嫂",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "JUR-502为MADONNA出品,2025年10月9日发行的有碼成人影片由椎名由奈出演\n裕介這傢伙混得超慘，公司被炒魷魚，房子也沒了，只能暫時寄住在哥哥嫂嫂家。但他在哥哥家根本沒地位，每天被哥哥罵：30歲了還是個童貞，真丟臉！裕介為了找回點自信，竟然厚著臉皮求嫂子由奈幫他破處。由奈看他可憐，心一軟就答應了，就一下下啦！誰知道剛插進去的那一刻，雙方都爽到不行，電流般的快感直衝腦門，之後根本停不下來，一次又一次地求著內射，簡直欲罷不能啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251009/20251009033331658658_71255_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251009/20251009033331658658_71255_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2084",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2084&name=椎名由奈"
+    }
+  ]
+};

@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/72bc88d5-e186-4747-a691-46ebb5eec3c5/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/25/f027c89b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7471,
+  "IDcode": "AQSH-122",
+  "title": "隔壁的生意氣人妻受到天罰！！知道人妻祕密的鄰居用中出來懲罰她 ~ 一條美緒",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "傲嬌",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "若妻",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "鄰居",
+    "美人妻",
+    "人妻",
+    "手指插入",
+    "欠債肉償",
+    "NTR",
+    "美人",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "寢取",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "AQSH-122为妄想族出品,2025年3月18日发行的有碼成人影片由一条美緒出演\n為了瞞著丈夫償還債務，澪作為一名送貨保健女孩努力工作，但她卻對公寓大樓裡那些無憂無慮的居民感到厭煩，每當他們見面時，她都會通過挑他們的毛病來釋放壓力。然而，當這位居民發現她是一名送貨保健女孩時，為了報復，他把她叫了出來並讓她與他發生性關係。事情還沒結束，甚至連一位對 Mio 懷恨在心的居民也被叫了進來，在他們兩人面前，她被迫成為他們的雞巴奴隸，反復被插入陰戶並多次達到高潮。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316104154792792.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250316/20250316104154792792.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7471",
+  "actresses": [
+    {
+      "name": "一条美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230531/9b60a34a-288f-4362-b0a0-878ee49334cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7471&name=一条美緒"
+    },
+    {
+      "name": "一条美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7471&name=一条美绪"
+    }
+  ]
+};

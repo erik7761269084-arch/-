@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65486,
+  "IDcode": "28DE24CACB773AF59962699F33C72813",
+  "title": "午前は旦那、午後は他人棒 ホテルの1室に響くのは熟女妻の快楽の啼き聲",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65486",
+  "actresses": []
+};

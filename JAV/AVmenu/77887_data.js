@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/dtWpp9Z6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77887,
+  "IDcode": "MDTM-537",
+  "title": "ベロチュー大好き小悪魔メイドの唾液たっぷりご奉仕中出しSEX 森下美怜",
+  "publish_date": "2019-06-28",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女佣",
+    "接吻",
+    "瘦小身型",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77887",
+  "actresses": [
+    {
+      "name": "相沢夏帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/1de5f1c6-0ffa-4d89-924e-44ecb752e374_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77887&name=相沢夏帆"
+    }
+  ]
+};

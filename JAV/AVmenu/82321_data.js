@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/08/78db30d8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82321,
+  "IDcode": "DASD-351",
+  "title": "俺だけに優しい従順な彼女が隣家の親父に寝取られ種付けプレスされていた 波多野結衣",
+  "publish_date": "2016-09-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82321",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82321&name=波多野结衣"
+    }
+  ]
+};

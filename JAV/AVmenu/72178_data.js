@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/21/0a066c0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72178,
+  "IDcode": "REAL-886",
+  "title": "種付けキメセク洗脳 美人妻が悪徳占い師にクチも膣内も心も精液で汚され、侵食されていった記録映像。 都月るいさ",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "苗条",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72178",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72178&name=都月楓"
+    }
+  ]
+};

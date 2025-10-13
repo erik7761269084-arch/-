@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7fe2d34f-a365-45d5-a161-72d0096a48c1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1442,
+  "IDcode": "HEYZO-2816",
+  "title": "與自慰到溼透的女孩絶頂性交Vol.25",
+  "publish_date": "2022-07-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230611/1f17bd4d-ebcb-4632-8e0e-ff9cb604fff3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230611/1f17bd4d-ebcb-4632-8e0e-ff9cb604fff3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1442",
+  "actresses": [
+    {
+      "name": "沢田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20230611/9d69f192-85a2-42ae-af2a-d808612f4207.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1442&name=沢田美波"
+    }
+  ]
+};

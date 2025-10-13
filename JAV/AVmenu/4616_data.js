@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ecda51d3-8319-48f2-8677-23c2e566208d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/08daa9fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4616,
+  "IDcode": "NKKD-354",
+  "title": "我家老婆被打工小鮮肉給撩走了...不甘心所以直接拍成AV求發行 ~ 西野絵美",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "偷拍・盜撮",
+    "美人妻",
+    "清純",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "真實拍攝",
+    "綠茶婊",
+    "極品美人",
+    "寢取",
+    "報復"
+  ],
+  "description": "NKKD-354为卍GROUP出品,2025年7月4日发行的有碼成人影片由西野絵美出演\n最近物價飆漲，我家老婆開始每週打工4天，看她幹得還挺開心的樣子，我作為老公也覺得能補貼家用挺不錯，就樂呵呵地支持她。誰知道最近發現她居然和一個20歲左右的打工小弟弟在家里喝茶聊天，氣氛曖昧得不行...我心裡不爽，就偷偷裝了攝影機。結果拍到她竟然和這小鮮肉直接開幹的全過程，畫面辣眼到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075045431431_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075045431431_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4616",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4616&name=西野絵美"
+    },
+    {
+      "name": "ラビットけんと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4616&name=ラビットけんと"
+    }
+  ]
+};

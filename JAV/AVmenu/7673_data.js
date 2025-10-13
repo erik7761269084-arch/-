@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/218e1a53-f983-4b11-a7d1-986012feebc1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7673,
+  "IDcode": "RKI-698",
+  "title": "還想再來一次 性格超爛但大雞巴太對胃口了 身體契合度爆棚竟忍不住重復生幹到爽 ~ 逢澤美優",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "二次元",
+    "絕頂高潮",
+    "漫畫改編",
+    "傲嬌",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "原作改編",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "情趣飯店",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "RKI-698为ROOKIE出品,2025年3月11日发行的有碼成人影片由逢澤美優出演\n在食品製造商工作的犬神結奈和猿島隼人在工作中經常發生衝突和爭吵。兩人的爭論十分激烈，下班後還在居酒屋裡繼續爭論…但接下來他們醒來時發現自己身處一家情人酒店。為什麼要跟這樣的人在一起！但我記得一件事。性愛感覺真美好…我討厭它，但我想再試一次......根據在 Comic Anthurium 上發表的備受關注的作品進行真人改編！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124515685685.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305124515685685.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7673",
+  "actresses": [
+    {
+      "name": "逢澤美優",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/38f5dfb3-e96c-4826-ac06-e4920ec7529f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7673&name=逢澤美優"
+    }
+  ]
+};

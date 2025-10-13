@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/562f9d3d-3ee4-4f2b-a1e6-c501e4278156/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241031/zMyB6c6r/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12567,
+  "IDcode": "SUJI-246",
+  "title": "背德兄妹中出亂倫與美麗的乳房，由於不道德而加倍興奮 ~ 木村好乃美",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "姐姐・妹妹",
+    "少女",
+    "蘿莉控",
+    "姐弟・兄妹",
+    "美少女",
+    "清純",
+    "手指插入",
+    "亂倫",
+    "美少女電影"
+  ],
+  "description": "SUJI-246为妄想族出品,2024年8月20日发行的有碼成人影片由 木村好乃美出演\n身高148cm，最低身材，E罩杯還在發育的美乳！貪戀嬌小精緻妹妹美麗的胸部！我想一直觸摸她柔軟的乳房......誘惑和困惑刺激我的雞巴！與哥哥亂倫而一次次興奮的最色情最驕傲的妹妹！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240818/20240818032431186186.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240818/20240818032431186186.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12567",
+  "actresses": [
+    {
+      "name": "木村好乃美",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/5b528335-86a3-44a1-a217-486e1af467eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12567&name=木村好乃美"
+    }
+  ]
+};

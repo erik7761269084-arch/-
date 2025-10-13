@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/02/d2e73eb8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62591,
+  "IDcode": "MBMA-070",
+  "title": "SEXするなら絶対 地方の人妻！！ヤリたい盛りの奧さんたち 平日昼間はイケない浮気タイム 清楚に見えて…実はヤリマン？旦那は知らない愛妻の淫らな性癖12名240分@11",
+  "publish_date": "2025-07-18",
+  "type": "有码",
+  "company": "MBM",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "潮吹",
+    "业余",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/02/1696e0434d78867b89aef01ffe454341.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62591",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220314/10AD4B3DC076370F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56045,
+  "IDcode": "AA6AD861396862B6C6E8E583CFDE886F",
+  "title": "《演播室》",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56045",
+  "actresses": []
+};

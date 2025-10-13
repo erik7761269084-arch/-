@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c053d18d-e48b-4fd3-aa93-4ed1254ac598/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241009/OsEX0i7W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13286,
+  "IDcode": "MRPA-010",
+  "title": "根據無法抗拒來我家打掃的F杯美乳家政婦的誘惑，自從和她做愛後，她每天都來榨精 ~ 宮西光",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "家政婦",
+    "性感",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美少女電影"
+  ],
+  "description": "MRPA-010为妄想族出品,2024年7月16日发行的有碼成人影片由宮西光出演\n我和女朋友分手了，我的房間年久失修，所以我決定聘請家事服務。送到我家的人是個超級沮喪的F罩杯美乳人妻！無法抗拒誘惑，他不自覺地在她面前自慰。然而，“我希望有一天能和顧客的男孩發生關係！” 「那個正在幻想的已婚女人一開始很不高興，但隨著她繼續用千載難逢的機會來誘惑我，她更加誘惑了我！從那天起，那個已婚女人開始每天到我家來找我的雞雞......",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714025158452452.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/20240714025158452452.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13286",
+  "actresses": [
+    {
+      "name": "宮西光",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/f540a9c2-4f08-44ac-93f1-c5ceb43c3302.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13286&name=宮西光"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13286&name=まーち"
+    }
+  ]
+};

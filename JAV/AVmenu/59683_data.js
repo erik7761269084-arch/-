@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/04/4eeb2541/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59683,
+  "IDcode": "420ERK-085",
+  "title": "- ゆかちゃん(25) 素人ホイホイ・えろきゅん・素人・美少女・清楚・黒髪・巨乳・パイパン・コスプレ・ - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/4eeb2541/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59683",
+  "actresses": []
+};

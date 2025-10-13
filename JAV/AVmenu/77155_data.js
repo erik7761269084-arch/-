@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/c6TW0nCw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77155,
+  "IDcode": "POST-453",
+  "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
+  "publish_date": "2018-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "乳房",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/f9be27f4ae14a23e17e564bc0aae6077.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77155",
+  "actresses": [
+    {
+      "name": "川越ゆい",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/d916bf90-a495-4e04-a30c-de7915ddd40a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77155&name=川越ゆい"
+    },
+    {
+      "name": "近藤ユキ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77155&name=近藤ユキ"
+    },
+    {
+      "name": "NIMO",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77155&name=NIMO"
+    },
+    {
+      "name": "河原かえで",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77155&name=河原かえで"
+    }
+  ]
+};

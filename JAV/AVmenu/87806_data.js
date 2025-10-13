@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/21/a083bf45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87806,
+  "IDcode": "PPPE-142",
+  "title": "田舎は暇すぎてクソ生意気なメスガキの玩具にされた童貞の僕チン 「ウチとパコりたい？」と見下して発育オッパイで搾精中出し乳ビッ痴 星乃夏月",
+  "publish_date": "2023-07-18",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "女上位",
+    "妹妹",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87806",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87806&name=星乃夏月"
+    },
+    {
+      "name": "大村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87806&name=大村"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/T4VVlJGT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81211,
+  "IDcode": "MIDV-072",
+  "title": "在垃圾房間被濃厚大叔搓奶到乳頭激凸絶倫抽插持續高潮身為鄰居的我 水卜櫻",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "制服",
+    "潮吹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f5675790770959a865ae69a175615a90.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81211",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81211&name=水卜櫻"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81211&name=田渊正浩"
+    }
+  ]
+};

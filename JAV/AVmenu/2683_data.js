@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/77c86074-041d-42a5-a2a6-2220b5bb1278/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/22/8d1ae82e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2683,
+  "IDcode": "MXGS-1399",
+  "title": "老公的下屬糾纏不休…家中偷情的NTR ~ 友田彩也香",
+  "publish_date": "2025-09-15",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "絕頂高潮",
+    "臀控",
+    "乳交",
+    "性感睡衣",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "上司女友・妻子",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "MXGS-1399为MAXING出品,2025年9月15日发行的有碼成人影片由友田彩也香出演\n【老公的下屬和上司的太太】那天老公醉得一塌糊塗，是他送回來照顧的，我隨口說了句「今晚就住這吧」，沒想到...從那晚開始，我整個人都離不開他了，身心都被他勾引，背叛的快感根本停不下來，NTR的刺激真的太爽啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220102276276_84573_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220102276276_84573_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2683",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2683&name=友田彩也香"
+    }
+  ]
+};

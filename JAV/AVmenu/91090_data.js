@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240318/gi4L0uvi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91090,
+  "IDcode": "JSOP-029",
+  "title": "新・麗しの熟女湯屋 濃厚ねっとり高級ソープ 玉木くるみ",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "G.M.E",
+  "genres": [
+    "成熟的女人",
+    "乳液",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91090",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91090&name=大島愛里亞"
+    }
+  ]
+};

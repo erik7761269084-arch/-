@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/04/c8e49cec/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83956,
+  "IDcode": "FSDSS-365",
+  "title": "田舎の夏休みはヤることが無いから都会で洗練された幼なじみを帰省中にキメセク漬けにして絶頂しまくり即アクメBODYに仕上げた 橋本ありな",
+  "publish_date": "2022-02-10",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "淫乱，真实",
+    "药物",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83956",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83956&name=新有菜"
+    }
+  ]
+};

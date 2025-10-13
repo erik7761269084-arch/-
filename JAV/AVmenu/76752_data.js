@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241203/Ui1lkiIi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76752,
+  "IDcode": "EMOT-006",
+  "title": "完全主観で楽しむ南梨央奈との新婚生活",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "口交",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/9cbce7528b9f784f0ddea0206d02e0b7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76752",
+  "actresses": [
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76752&name=南梨央奈"
+    }
+  ]
+};

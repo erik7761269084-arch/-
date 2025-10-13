@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0f670abf-2990-40a0-b210-b860da828e90/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1421,
+  "IDcode": "HEYZO-2758",
+  "title": "同居的日子~做愛一整天 ！",
+  "publish_date": "2022-04-12",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230622/9309e42a-1e6a-444c-9d4e-18e3fa22626a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230622/9309e42a-1e6a-444c-9d4e-18e3fa22626a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1421",
+  "actresses": [
+    {
+      "name": "長澤ルナ",
+      "img_url": "https://picture.yoshiclub.xyz/20230618/045748fd-0a3e-4e5e-9daf-0b4513daa74c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1421&name=長澤ルナ"
+    }
+  ]
+};

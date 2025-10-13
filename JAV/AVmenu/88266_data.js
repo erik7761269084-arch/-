@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230929/JnL0fZHG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88266,
+  "IDcode": "MIST-396",
+  "title": "危険日直撃！！子作りできるソープランド44 大槻ひびき",
+  "publish_date": "2023-05-11",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "中出",
+    "淫语",
+    "乳液",
+    "礼仪小姐",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230929-1/3c8d7196f7c1899f011e6fbeaea59c83.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88266",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88266&name=大槻响"
+    }
+  ]
+};

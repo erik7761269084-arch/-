@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250308/JK3aJiFH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70892,
+  "IDcode": "JUL-356",
+  "title": "隣の奥さんが帰ってくる前に…。 君島みお",
+  "publish_date": "2020-10-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/f1c09c9b6f5bbb3946ad36f6dff2628e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70892",
+  "actresses": [
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70892&name=君岛美绪"
+    }
+  ]
+};

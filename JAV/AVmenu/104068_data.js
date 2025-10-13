@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240612/1my0Pzvn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104068,
+  "IDcode": "SSNI-991C",
+  "title": "睽違許久成長期的表妹技巧讓人受不了三天三夜持續射了18發的返鄉回憶 架乃由羅",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104068",
+  "actresses": []
+};

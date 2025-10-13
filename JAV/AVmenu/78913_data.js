@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/Z425NKXu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78913,
+  "IDcode": "EBOD-274",
+  "title": "- 148cmメガマラSEX 奥田咲 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "萝莉塔",
+    "淫乱，真实",
+    "子宫颈"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/0198ad0e17b6ed7d9ebb69268521a371.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78913",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78913&name=奥田咲"
+    }
+  ]
+};

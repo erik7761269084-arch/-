@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250423/qBVqZ89l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67571,
+  "IDcode": "ADN-434",
+  "title": "父親、對不起。 請原諒淫蕩成長的我… 月妃紗羅",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "OL",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67571",
+  "actresses": [
+    {
+      "name": "月妃さら",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/6a49432d-3ba4-44b8-a519-8e4fa48c3767.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67571&name=月妃さら"
+    }
+  ]
+};

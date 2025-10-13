@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230107/AA1D9E6FEDDA5C2D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98596,
+  "IDcode": "ETQR-005",
+  "title": "生中出しOKセーラー服JKリフレ 白咲ゆず",
+  "publish_date": "2017-07-21",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "高中女生",
+    "中出",
+    "按摩",
+    "口交",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98596",
+  "actresses": [
+    {
+      "name": "白咲柚子",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cac76ac11ebaf77f42f57b4bb7c189b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98596&name=白咲柚子"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221227/475BD861B92B37F2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98239,
+  "IDcode": "BBAN-209",
+  "title": "義母娘 接吻レズ調教 長い舌を絡ませて義母の全てを味わいつくす義娘の蛇舌 音羽文子 優月まりな",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "女同性恋",
+    "舔阴",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98239",
+  "actresses": [
+    {
+      "name": "優月真裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/fa418d29-2f54-418c-af19-d7f81975904b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98239&name=優月真裡奈"
+    },
+    {
+      "name": "音羽文子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98239&name=音羽文子"
+    }
+  ]
+};

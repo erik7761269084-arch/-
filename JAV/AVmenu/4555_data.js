@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/df916504-13dd-46c9-beec-c7427a590a03/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4555,
+  "IDcode": "SILK-186",
+  "title": "只會用這種方式去愛 Case2 ~ 友田彩也香 美波梢",
+  "publish_date": "2025-07-10",
+  "type": "有码",
+  "company": "SILK LABO",
+  "genres": [
+    "後入",
+    "企畫",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "純愛・戀愛",
+    "舔陰",
+    "貧乳",
+    "美腳",
+    "清楚系",
+    "清純",
+    "巨乳",
+    "女性向",
+    "手指插入",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "SILK-186为SILK LABO出品,2025年7月10日发行的有碼成人影片由友田彩也香，美波梢出演\n愛意讓我徹底失控！嫉妒心像脫韁野馬，佔有慾爆棚，只能用最霸道的方式去愛妳！這部片子講述了幾個愛得太沉重、笨拙到不會好好表達的男人，和他們的激烈情事。收錄了Undress平台先行配信的超火爆作品《真心藏在小號裡》、《刻骨銘心的愛》、《覆蓋妳的全部》，直接上DVD！還有DVD獨家福利，幕後花絮和私密側拍，絕對讓妳心動到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710000417855855_15109_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710000417855855_15109_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4555",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4555&name=友田彩也香"
+    },
+    {
+      "name": "美波梢",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a35e0f9-5180-46c6-9993-7e373ec8fc3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4555&name=美波梢"
+    }
+  ]
+};

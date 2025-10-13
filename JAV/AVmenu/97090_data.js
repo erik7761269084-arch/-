@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240704/PHORrRjz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97090,
+  "IDcode": "ACZD-054",
+  "title": "スカトロレズビアン 及川貴和子＆天野萌絵",
+  "publish_date": "2022-08-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "放尿",
+    "屁股",
+    "女同性恋",
+    "肛交",
+    "女同接吻",
+    "灌肠",
+    "饮尿",
+    "排便"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97090",
+  "actresses": [
+    {
+      "name": "及川贵和子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97090&name=及川贵和子"
+    },
+    {
+      "name": "天野萌絵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97090&name=天野萌絵"
+    }
+  ]
+};

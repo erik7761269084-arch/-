@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230904/BY0Glhv0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88017,
+  "IDcode": "EYAN-116",
+  "title": "元タレント人妻のポルチオを大開発する拘束×媚薬オイル×マッサージ 高丘大空",
+  "publish_date": "2018-05-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "已婚妇女",
+    "潮吹",
+    "按摩",
+    "拘束",
+    "子宫颈"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88017",
+  "actresses": [
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88017&name=玉木玲"
+    },
+    {
+      "name": "高丘大空",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88017&name=高丘大空"
+    }
+  ]
+};

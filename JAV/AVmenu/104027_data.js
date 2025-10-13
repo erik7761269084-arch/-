@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240610/Pnwm9JEF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104027,
+  "IDcode": "SSNI-997C",
+  "title": "不小心激起性慾的穿衣巨乳妹 天音真比奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104027",
+  "actresses": []
+};

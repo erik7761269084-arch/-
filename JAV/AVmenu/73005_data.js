@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/06/f88f6905/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73005,
+  "IDcode": "YUJ-028",
+  "title": "最高の愛人、最高の中出し。 海老咲あお",
+  "publish_date": "2025-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/01/30/8e40651a4851ff49c327e31e2302dd92.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73005",
+  "actresses": [
+    {
+      "name": "海老咲碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/48b52330-5465-4e18-8d80-4944b87eee01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73005&name=海老咲碧"
+    }
+  ]
+};

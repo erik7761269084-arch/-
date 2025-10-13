@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240705/LI7eAtlC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97112,
+  "IDcode": "ACZD-042",
+  "title": "某大学教授の秘匿SM映像",
+  "publish_date": "2022-08-12",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "捆绑",
+    "肛交",
+    "业余",
+    "灌肠",
+    "粪便"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97112",
+  "actresses": []
+};

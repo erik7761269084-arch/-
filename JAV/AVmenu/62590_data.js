@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/02/b9e87c3a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62590,
+  "IDcode": "MBMA-075",
+  "title": "ノンフィクション ハメられた女たち 20名-知らぬ間に撮影された痴態-",
+  "publish_date": "2025-07-18",
+  "type": "有码",
+  "company": "MBM",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "乳房",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/02/b9e87c3a/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62590",
+  "actresses": []
+};

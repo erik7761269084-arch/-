@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/23/cff5f6b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104989,
+  "IDcode": "VGD-199",
+  "title": "尻貴族 橋本れいか、小椋綾乃",
+  "publish_date": "2019-04-27",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104989",
+  "actresses": [
+    {
+      "name": "桥本丽华",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104989&name=桥本丽华"
+    },
+    {
+      "name": "梁井一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104989&name=梁井一"
+    },
+    {
+      "name": "小椋绫乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104989&name=小椋绫乃"
+    }
+  ]
+};

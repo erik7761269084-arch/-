@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118555,
+  "IDcode": "13B50C5CFAE546E64317068792749044",
+  "title": "[FC2] 经常上健身房的美丽年轻少妇在床上享受偷情时光~ 叫声可射! (FC2-PPV-1510103)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118555",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240623/f80YoUtg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96900,
+  "IDcode": "TOEN-74",
+  "title": "[HD] 旦那が一服している短い時間で、義理の息子に毎日10発以上中出しされています…。 織田真子",
+  "publish_date": "2022-12-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96900",
+  "actresses": []
+};

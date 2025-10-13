@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221027/96693A1A43DDC1AC/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38316,
+  "IDcode": "35A337447ABCA6AC5098D1EB30C9F-655",
+  "title": "自慰然后被性交",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38316",
+  "actresses": []
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bc9cfb32-eb70-4a84-b6dc-ff12cdcaa164/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18837,
+  "IDcode": "LULU-238",
+  "title": "【ASMR】在公司加班，屁股很大的女職員不斷在耳邊說著些淫蕩的話，差點就讓我射了出來",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "ASMR顱内高潮",
+    "中出",
+    "OL",
+    "淫語",
+    "勾引・誘惑",
+    "辦公室"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903010725916916.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230903/20230903010725916916.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18837",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18837&name=蘭々"
+    }
+  ]
+};

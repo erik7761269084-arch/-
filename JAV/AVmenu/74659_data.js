@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/24/e53784a5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74659,
+  "IDcode": "BBAN-516",
+  "title": "十川ありさ レズ解禁 ママ友と禁断の愛人契約 奥様同士のドM懇願レズ調教 友田彩也香",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "女同性恋",
+    "乳房",
+    "接吻",
+    "女同接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/e53784a5/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74659",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74659&name=友田彩也香"
+    },
+    {
+      "name": "十川ありさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240611/727905f3-1840-446c-9f59-14c34e9951a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74659&name=十川ありさ"
+    }
+  ]
+};

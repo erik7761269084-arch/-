@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231010/k7lcgZET/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100703,
+  "IDcode": "SIRO-5137",
+  "title": "【白衣の天使】桃尻震わせ久しぶりセックスを堪能【初撮り】ネットでAV応募→AV体験撮影  2026",
+  "publish_date": "2023-08-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100703",
+  "actresses": []
+};

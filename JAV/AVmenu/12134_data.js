@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6fdccab9-86c2-407a-a444-5b9204966182/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/16/e7bb190b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12134,
+  "IDcode": "HSODA-041",
+  "title": "舌尖交錯的婚外情，忘記一切，暴露不可抗拒的本能 ~ 水川潤",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "純愛・戀愛",
+    "不倫",
+    "美腳",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HSODA-041为HUNTER出品,2024年9月10日发行的有碼成人影片由水川潤出演\n一對情侶在沒有發生性行為的情況下互相擦肩而過。我的妻子被同一個工作場所的男人引誘，失去了釋放性慾和感受他所尋求的快感的慾望，所以她最終發生了外遇。雖然她一頭霧水，但還是被男人認真的態度和性慾所折服，當她放開身體的時候，她蟄伏的慾望就爆發了！沉浸在火熱的性愛和高潮中！然而，妻子沉迷於性只是為了滿足自己的性慾。一次又一次地疊加他們的身體後，她終於要求中出！我不滿意，一次又一次地操她！今天又送別老公之後，就要去見他被射中了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908000642985985.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240908/20240908000642985985.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12134",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12134&name=水川潤"
+    },
+    {
+      "name": "由爱可奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12134&name=由爱可奈"
+    }
+  ]
+};

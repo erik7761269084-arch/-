@@ -1,0 +1,78 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfb7d008-4c4b-4d0f-9ca5-e3ab77dfebe1/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/877b0b1a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6508,
+  "IDcode": "MIAB-484",
+  "title": "女主播透明羞恥輪流上陣 傲嬌菁英妹子穿綠緊身衣被隱形猛男瘋狂羞辱復仇 ~ 月野江翠",
+  "publish_date": "2025-05-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "深喉",
+    "傲嬌",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "女主持・主播",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "肉絲",
+    "跳蛋",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "高妹",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "清楚系",
+    "單體作品",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "公共場所",
+    "奇異的",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIAB-484为MOODYZ出品,2025年5月2日发行的有碼成人影片由月野江翠出演\n【直播事故】【隐形猛男让高冷妹子憋声高潮】态度超烂的傲娇女主播被抓到枕营业把柄，助理导演们决定在直播中狠狠羞辱她！录节目时用透明状态的电棒狂震，读稿子时远程遥控玩具搞得她腿软，节目结束后更是直接来一波教育式猛烈冲刺！三根大棒轮流上嘴，美食报道直接变口技表演！绿紧身衣下隐形猛男疯狂后入，敏感小穴被干到高潮迭起，最后五人轮流狂轰加一脸精华！在镜头前拼命忍住呻吟，一个人偷偷高潮的女主播，简直色到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043629956956_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043629956956_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6508",
+  "actresses": [
+    {
+      "name": "月野江翠",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/d8344561-2dfa-4e1f-af7c-30335caa3a59.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6508&name=月野江翠"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6508&name=大岛丈"
+    }
+  ]
+};

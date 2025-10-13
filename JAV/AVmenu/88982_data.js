@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/PbCE13iG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88982,
+  "IDcode": "UMD-893",
+  "title": "ラッキーな胸チラを発見し、気づかれないように見てたけど、やっぱりバレてた？！ 26～ヨガインストラクター編～",
+  "publish_date": "2023-11-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "手淫",
+    "讲师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88982",
+  "actresses": [
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88982&name=春原未来"
+    },
+    {
+      "name": "斉藤あみり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88982&name=斉藤あみり"
+    }
+  ]
+};

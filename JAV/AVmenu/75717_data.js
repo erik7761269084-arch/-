@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/2ae2cccd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75717,
+  "IDcode": "PAIS-079",
+  "title": "孫がいるとは思えない奇跡のJ-cup美魔女五十路妻の波乱万丈人生 7SEX 4時間収録",
+  "publish_date": "2024-12-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/2ae2cccd/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75717",
+  "actresses": []
+};

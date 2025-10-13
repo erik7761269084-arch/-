@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/03/4fac7a2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105219,
+  "IDcode": "SNIS-918",
+  "title": "完全従順パイズリ専用Jカップ神乳ご奉仕メイド RION （ブルーレイディスク）",
+  "publish_date": "2017-05-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "女佣",
+    "猥亵穿着",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/03/d0e938d6dfcd6c3256c06e9c5f72a4be.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105219",
+  "actresses": [
+    {
+      "name": "安斋拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/e9f43fa2-ec8b-4904-82c1-4250029a319b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105219&name=安斋拉拉"
+    }
+  ]
+};

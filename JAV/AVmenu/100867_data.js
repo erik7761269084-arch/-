@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231113/Of1ewDPT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100867,
+  "IDcode": "GANA-2944",
+  "title": "マジ軟派、初撮。 1981 「付き合った人は0人。でもセフレは…」清楚な見た目とのギャップが興奮する丸の内OLと濃厚SEX。ねっとりとした舌遣いで男優を翻弄するエロフェラテクを披露！",
+  "publish_date": "2023-10-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "美少女",
+    "苗条",
+    "业余",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100867",
+  "actresses": [
+    {
+      "name": "はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100867&name=はな"
+    }
+  ]
+};

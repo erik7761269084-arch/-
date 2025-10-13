@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/13/0dc8ea65/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84107,
+  "IDcode": "CAWD-429",
+  "title": "親友にダマされ万引き犯にさせられカラダで償わされる身代わり中出し制裁 桜もこ",
+  "publish_date": "2022-10-04",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "多P",
+    "制服",
+    "巨大阴茎",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84107",
+  "actresses": [
+    {
+      "name": "櫻萌子",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-AVDBS/AI-Fix-桜もこ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84107&name=櫻萌子"
+    }
+  ]
+};

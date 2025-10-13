@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8d7f6407-00a4-4abc-a5b6-804a17d1e061/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18585,
+  "IDcode": "APNS-322",
+  "title": "我被卑鄙下流的男人輪姦了",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "劇情",
+    "廢墟",
+    "中出",
+    "JK校服",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "輪姦",
+    "多P",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230924/49a57632-9770-4c46-bc3d-19662135d46d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230924/49a57632-9770-4c46-bc3d-19662135d46d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18585",
+  "actresses": [
+    {
+      "name": "內田菫",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/1b9f2215-4529-4c48-8c52-ac37c494feee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18585&name=內田菫"
+    }
+  ]
+};

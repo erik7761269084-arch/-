@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230405/e17091f8-4b4d-4c89-b7d5-55ed6e8241b8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1685,
+  "IDcode": "FMES-037",
+  "title": "無碼流出 47分鐘 有村千佳",
+  "publish_date": "2014-01-01",
+  "type": "无码",
+  "company": "FetishMonster",
+  "genres": [
+    "蕩婦",
+    "4小時以上作品",
+    "無碼流出",
+    "打手槍",
+    "美少女",
+    "放尿",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230405/202304050523221515.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230405/202304050523221515.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1685",
+  "actresses": [
+    {
+      "name": "有村千佳",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/02a4a2bb-c0fb-4779-8bb9-970b306a5beb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1685&name=有村千佳"
+    }
+  ]
+};

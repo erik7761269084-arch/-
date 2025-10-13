@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230123/5D8B4342E941054C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98929,
+  "IDcode": "MUM-016",
+  "title": "まや148cm",
+  "publish_date": "2012-02-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "萝莉塔",
+    "学校泳装",
+    "瘦小身型",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mum016/mum016pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98929",
+  "actresses": [
+    {
+      "name": "葛城まや",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98929&name=葛城まや"
+    }
+  ]
+};

@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/20472a1e-54ed-42da-9192-17eb993d4a24/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/591166b6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2696,
+  "IDcode": "KSBJ-397",
+  "title": "垃圾屋×欠租妹，用身體還債的絕望交易 ~ 流川莉央",
+  "publish_date": "2025-09-12",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "舔腳",
+    "4K",
+    "臀控",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "裸體圍裙",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "巨乳",
+    "手指插入",
+    "欠債肉償",
+    "M男・M女",
+    "美人",
+    "阪道系",
+    "大奶头",
+    "極品美人",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "KSBJ-397为KSB企畫出品,2025年9月12日发行的有碼成人影片由流川莉央出演\n莉央是个兼职小妹，最近工作被砍，收入少得可怜，身心都快崩了。房租已经欠了半年，家里还乱得像垃圾场。走投无路的她被房东逼到墙角，房东冷笑说：不交钱就拿身体抵押吧！直接命令她脱光衣服打扫房间，还拿手机全程偷拍。莉央羞得发抖却不敢反抗，而房东看到她这副模样彻底兽性大发，暗示可以少收点房租，但前提是得把身体交出来…这交易，真的让人心跳加速又心酸啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050743652652_40504_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050743652652_40504_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2696",
+  "actresses": [
+    {
+      "name": "流川莉央",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/181ac8f5-9bf0-4543-8047-3ed2391b7b78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2696&name=流川莉央"
+    }
+  ]
+};

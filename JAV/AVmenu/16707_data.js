@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/efb8a979-1586-479d-9352-d157d710d181/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16707,
+  "IDcode": "FFT-009",
+  "title": "最好的已婚女人和最好的中出性愛。井尾昭宏",
+  "publish_date": "2024-01-18",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "人妻",
+    "出軌",
+    "約炮",
+    "劇情",
+    "中出",
+    "口交",
+    "性感"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240118/784db1ce-e0e8-42cd-919a-ac4c0df190f8.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240118/784db1ce-e0e8-42cd-919a-ac4c0df190f8.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16707",
+  "actresses": [
+    {
+      "name": "秋廣衣緒",
+      "img_url": "https://picture.yoshiclub.xyz/20231201/666efaf1-fcc4-4ca6-9b02-d3f602aad621.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16707&name=秋廣衣緒"
+    }
+  ]
+};

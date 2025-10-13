@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/94138e67-8afc-463c-a01a-c7141943c1b7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17285,
+  "IDcode": "JUFE-214",
+  "title": "終於緊縛解禁！鍛練肉體被麻繩不寬容陷入 豐滿爆乳運動員調教 美園和花",
+  "publish_date": "2020-10-13",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "劇情",
+    "調教",
+    "凌辱",
+    "中出",
+    "拘束・拷問",
+    "潮吹",
+    "口交",
+    "監獄",
+    "SM",
+    "暗黑系",
+    "緊縛",
+    "巨乳",
+    "放尿",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231213/20231213044224847847.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231213/20231213044224847847.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17285",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17285&name=美園和花"
+    }
+  ]
+};

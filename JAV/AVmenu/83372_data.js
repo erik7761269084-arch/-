@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221223/DwE3OCGt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83372,
+  "IDcode": "KUD-014",
+  "title": "アクメ拷問 地獄の薔薇",
+  "publish_date": "2019-12-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "捆绑"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/5683b63bfc92f8d59d88a0d634baed3d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83372",
+  "actresses": [
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83372&name=水野朝陽"
+    }
+  ]
+};

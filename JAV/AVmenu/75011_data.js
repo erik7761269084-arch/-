@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/01/20/c8ed757d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75011,
+  "IDcode": "EUUD-058",
+  "title": "相河沙季が浮世を忘れ本性むき出しでハメ倒す種付け混浴温泉旅行",
+  "publish_date": "2024-12-26",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "多P",
+    "纪录片",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75011",
+  "actresses": [
+    {
+      "name": "相河沙季",
+      "img_url": "https://picture.yoshiclub.xyz/20241226/c5ed9536-adbb-458f-987b-162a6d4936b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75011&name=相河沙季"
+    }
+  ]
+};

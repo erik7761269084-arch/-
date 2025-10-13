@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250330/kARb74xK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69271,
+  "IDcode": "SDMUA-021",
+  "title": "- 到M男家訪問後…遠超過預期的要求一面困惑一面最終的癡女覺醒！學到破壞性高潮的真尋 市來真尋 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "荡妇",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69271",
+  "actresses": [
+    {
+      "name": "竹田夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/2c95090d-8c36-414f-af11-98ef35673ea5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69271&name=竹田夢"
+    }
+  ]
+};

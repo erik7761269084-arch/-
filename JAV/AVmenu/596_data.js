@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/548e0204-61eb-4fce-9d82-5db054820a9f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 596,
+  "IDcode": "HEYZO-0715",
+  "title": "發情系爆乳應召女 ~ 里中結衣",
+  "publish_date": "2014-10-29",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "打手槍",
+    "美腳",
+    "拜金女",
+    "巨乳",
+    "獵豔",
+    "飯店小姐・援交妹",
+    "飯店"
+  ],
+  "description": "HEYZO-0715为HEYZO出品,2014年10月29日发行的無碼成人影片由里中結衣出演\n発情系爆乳デリヘル嬢 - 里中結衣",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/fc646042-7066-4659-920a-b558366d30e3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/fc646042-7066-4659-920a-b558366d30e3.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=596",
+  "actresses": [
+    {
+      "name": "里中結衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240417/aaa9981b-3cca-4c48-b3c1-971e85021a8d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=596&name=里中結衣"
+    }
+  ]
+};

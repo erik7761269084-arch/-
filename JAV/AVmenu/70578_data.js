@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/fShDkl7O/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70578,
+  "IDcode": "TRUM-019",
+  "title": "実話再現NTRドラマ 子宝種付け温泉当日ネトラレ 佐倉ねね",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/aaab35584736835f87772cee8ecc0730.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70578",
+  "actresses": [
+    {
+      "name": "佐仓宁宁",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b5e96211403cafb4159cda9e00f33f9d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70578&name=佐仓宁宁"
+    }
+  ]
+};

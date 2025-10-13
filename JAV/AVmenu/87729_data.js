@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230816/lwMQBt8B/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87729,
+  "IDcode": "NOSKN-041",
+  "title": "ガチ中出し4P大輪●！パパ活で生計を立てるアパレル系ピンクギャルヤリマン23歳が大量中出し＆ぶっかけ絶叫イキ 素人コスプレイヤーえな（23） 沙月恵奈",
+  "publish_date": "2023-07-07",
+  "type": "有码",
+  "company": "NOSKINS",
+  "genres": [
+    "中出",
+    "滥交",
+    "角色扮演者",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/8e91b0b974bf7f801fe58751cc1fc76a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87729",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87729&name=沙月惠奈"
+    }
+  ]
+};

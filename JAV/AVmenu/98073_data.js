@@ -1,0 +1,31 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98073,
+  "IDcode": "RBD-200-",
+  "title": "奴隷色のステージ9 桜井あみ 春風えみ",
+  "publish_date": "2010-06-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "女同性恋",
+    "灌肠",
+    "奴隶"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98073",
+  "actresses": [
+    {
+      "name": "春风えみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98073&name=春风えみ"
+    },
+    {
+      "name": "桜井あみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98073&name=桜井あみ"
+    }
+  ]
+};

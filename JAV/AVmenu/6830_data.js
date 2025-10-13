@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/660ca4e3-b7bd-4ad5-aa92-275d2b302310/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/808dfdf7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6830,
+  "IDcode": "SDMM-196",
+  "title": "魔鏡號！制服女子大生妹子爲了獎金脫光光玩滑溜溜潤滑遊戲！和同學貼身摩擦擦出火花直接羞恥開幹？",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "素人作品",
+    "故事集",
+    "企畫",
+    "劇情",
+    "校花",
+    "色白",
+    "中出",
+    "美乳",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "素人",
+    "口交",
+    "少女",
+    "綜藝",
+    "美少女",
+    "奇聞趣事",
+    "清楚系",
+    "清純",
+    "公共場所",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "SDMM-196为SOD出品,2025年4月15日发行的有碼成人影片\n今回はリクルートスーツに身を包んだ就職活動中のグループに声をかけてローションぬるぬるツ〇スターゲームを実施してもらいました！賞金獲得目指してノーパンノーブラ姿で仲のいい同級生等密着し合いゲームに挑戦！罰ゲームもあり一気に距離が縮まる二人が友達が近くにいる前で羞恥SEXしてしまうのか？",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250415/20250415002438869869_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250415/20250415002438869869_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6830",
+  "actresses": []
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/HOAkkqbm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83153,
+  "IDcode": "SDJS-050",
+  "title": "SOD女子社員 極上BODYの女子社員を激ピス鬼突き弾丸FUCKでエロス覚醒 はじめての大絶頂4本番スペシャル 吉岡明日海",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "潮吹",
+    "羞耻",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/3aec7100563920488fe8a7937c95ee04.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83153",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83153&name=鲛岛"
+    },
+    {
+      "name": "吉冈明日海",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83153&name=吉冈明日海"
+    }
+  ]
+};

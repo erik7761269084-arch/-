@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65094,
+  "IDcode": "1E29CF993058A824B7E64C3F699D2E94",
+  "title": "THE FINAL 吉澤明步AV引退",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65094",
+  "actresses": []
+};

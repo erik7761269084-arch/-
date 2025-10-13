@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/20/d4349ca5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 118460,
+  "IDcode": "FC2-4680424",
+  "title": "皮肤白皙可爱的女孩",
+  "publish_date": "2025-05-21",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/05/20/255ce3b8ec3fc1d091c92499138d3f61.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118460",
+  "actresses": []
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230203/A921ED942A071414/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99406,
+  "IDcode": "SCB-006",
+  "title": "【個撮】G→Hに成長中！J○エチ神様なっちゃんがオレのタダマンになったからこの前撮ったやばめオフパコをお前らに見せてやるよwww",
+  "publish_date": "2019-09-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "第一人称摄影",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118scb006/118scb006pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99406",
+  "actresses": []
+};

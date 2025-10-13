@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240630/95D2UGTe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104136,
+  "IDcode": "PRED-293C",
+  "title": "與搭不上末班車的爆乳前輩住愛情賓館。",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104136",
+  "actresses": []
+};

@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/97ae2298-ffd0-4b34-8493-e3698a66c7e0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/b0fb98d6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4546,
+  "IDcode": "IENF-411",
+  "title": "從早到晚不停中出內射 61 ~ 五芭",
+  "publish_date": "2025-07-09",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "自拍性愛",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "少女",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IENF-411为IENERGY出品,2025年7月9日发行的有碼成人影片由五芭出演\n超人氣女神五芭！天真無邪的個性狂吸粉，這次她從早戰到晚不停歇，到底會爽到什麼境界？她總是活力滿滿不怕生，跟誰都能自來熟，就連在床上也超體貼，服務精神滿點！尤其在這個系列中，她騎乘位蜘蛛式上下衝刺的時間最長，真的讓人腿軟到不行！五芭全程笑容滿面超會撩，甜到讓人犯規啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507101010581010_44420_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/202507101010581010_44420_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4546",
+  "actresses": [
+    {
+      "name": "五芭",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/52fde9c6-3d51-4aeb-8190-5ff88995feb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4546&name=五芭"
+    }
+  ]
+};

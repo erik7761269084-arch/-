@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 118503,
+  "IDcode": "9F37B1D51499C7071920FD4C41E8FE64",
+  "title": "[FC2真实素人精选!] 骚气人妻~肉棒插入淫叫就一直没停!! (FC2 PPV 1249863)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=118503",
+  "actresses": []
+};

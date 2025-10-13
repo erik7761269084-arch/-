@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/44d6d88c-1489-4168-9766-f8b08e4c088a/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241030/Fn5Op8xl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13029,
+  "IDcode": "STSK-133",
+  "title": "南國度假超私人的女性SPA",
+  "publish_date": "2024-08-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "苗條",
+    "劇情",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "比基尼",
+    "蠻橫嬌羞",
+    "性感",
+    "偷拍・盜撮",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "人妻",
+    "抹油",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240801/57bee563-3050-4a1b-bcb2-a913bc73e6e7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240801/57bee563-3050-4a1b-bcb2-a913bc73e6e7.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13029",
+  "actresses": []
+};

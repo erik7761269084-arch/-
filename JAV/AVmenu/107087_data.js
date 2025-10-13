@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/27/1bc8f5d3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107087,
+  "IDcode": "HUNTB-634",
+  "title": "僕にハーレムセフレができた理由2 弄んでくれるセフレギャルから【オナ禁】指令-実写版- 美園和花 水原みその 姫咲はな 宝田もなみ",
+  "publish_date": "2023-08-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "女生",
+    "原作改编"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/09/27/ec45b9518f19cb729d40c2a52892da2d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107087",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107087&name=美園和花"
+    },
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107087&name=姫咲華"
+    }
+  ]
+};

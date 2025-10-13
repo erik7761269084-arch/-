@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/E2Xw4T99/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70084,
+  "IDcode": "VAGU-205",
+  "title": "近親相姦中出しソープ 初めての熟女風俗、指名したら母ちゃんだった 牧村彩香",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70084",
+  "actresses": [
+    {
+      "name": "牧村彩香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20251004/55ef6373-bc65-4fcc-b1c8-18d5c3aae496_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70084&name=牧村彩香"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250329/pz9Tzuc3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68808,
+  "IDcode": "MKON-081",
+  "title": "綺麗好きだった僕の彼女は悪臭漂うゴミ部屋で中年おやじに中出しされまくってボロボロに汚された 幾田まち パンティと生写真付き",
+  "publish_date": "2022-07-20",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "制服",
+    "白天出轨",
+    "魔鬼系",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250330-1/22b3d1245ea64ad74fa6b3a6dfa671ff.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68808",
+  "actresses": []
+};

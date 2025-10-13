@@ -1,0 +1,28 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 66781,
+  "IDcode": "LUXU-1745",
+  "title": "ラグジュTV 1730 清楚で知的、そしてグローバルに活躍する美女が登場！スレンダーボデイを惜しみなく晒し普段とは違うセックスにうっとり顔で受け入れイき乱れる！",
+  "publish_date": "2023-10-27",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "姐姐",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66781",
+  "actresses": [
+    {
+      "name": "优里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66781&name=优里"
+    }
+  ]
+};

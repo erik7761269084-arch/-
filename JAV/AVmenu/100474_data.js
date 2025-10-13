@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230817/TmI4TYyz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100474,
+  "IDcode": "IDBD-867",
+  "title": "【全員S級】アヘ顔でにやにやフェラする美女たち69連発！！",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "淫乱，真实",
+    "姐姐",
+    "颜射",
+    "荡妇",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100474",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=美谷朱里"
+    },
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=水川蓳"
+    },
+    {
+      "name": "川菜美铃",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/f475ef92-3b3c-4641-a10c-78cc5f5ce09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=川菜美铃"
+    },
+    {
+      "name": "柚月ひまわり",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/118fc8ce-a84f-47fe-b872-7c4a9097ee8f.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=柚月ひまわり"
+    },
+    {
+      "name": "七実りな",
+      "img_url": "https://picture.yoshiclub.xyz/20230610/60494e76-f8d1-4934-bdcb-de76226196b8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=七実りな"
+    },
+    {
+      "name": "織笠るみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230514/756dac77-2635-4bac-9a25-a9d2ce5632ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=織笠るみ"
+    },
+    {
+      "name": "小西真理繪",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/26d5080a-2ae8-4554-9962-4b1caedd2da5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=小西真理繪"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=神宫寺奈绪"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=安倍亜沙美"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=篠田优"
+    },
+    {
+      "name": "蒂亚",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/74d95fd68c0f3d25714ec5ce86ea8827.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100474&name=蒂亚"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/130e271a-4b35-41f2-b400-863cdfd4181d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/29/c8ff0857/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10635,
+  "IDcode": "JUNY-136",
+  "title": "爲了保護膽小的自己…陸上部巨乳人妻女教練被下媚藥後的i超激激輪奸受精 ~ 柳可憐",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "女教師",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "變態",
+    "乳交",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "女上位",
+    "肉絲",
+    "重口味",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "輪姦",
+    "多P",
+    "更衣室",
+    "校園生活",
+    "巨乳",
+    "學校",
+    "熟女",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "JUNY-136为FITCH出品,2024年11月19日发行的有碼成人影片由柳可憐出演\n新上任的武田先生是我的班主任兼田徑部顧問，他總是擔心我這個膽小、受霸凌的孩子。有一天，武田先生親眼目睹我被經理和俱樂部成員欺負，並救了我。但我不知道。沒想到，武田老師因為我，被所有人強暴，甚至被逼喝春藥，屢次被迫高潮失禁。我看到了...",
+  "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114102241962962.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241114/20241114102241962962.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10635",
+  "actresses": [
+    {
+      "name": "柳可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20231210/8d0bcce5-3a71-4a76-a0c9-7674e1ddbbd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10635&name=柳可憐"
+    },
+    {
+      "name": "じゅうもんじ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10635&name=じゅうもんじ"
+    },
+    {
+      "name": "マサムー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10635&name=マサムー"
+    }
+  ]
+};

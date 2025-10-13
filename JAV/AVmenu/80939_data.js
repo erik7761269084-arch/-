@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/13/1b6d1568/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80939,
+  "IDcode": "CAWD-343",
+  "title": "挿入を匂わせながら超絶テクで焦らしてくるアイドルより可愛い大当たりの確信犯セラピスト 天音ゆい",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫语",
+    "荡妇",
+    "手淫",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80939",
+  "actresses": [
+    {
+      "name": "天音ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80939&name=天音ゆい"
+    }
+  ]
+};

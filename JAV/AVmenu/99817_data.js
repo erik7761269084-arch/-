@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230224/78C96917F91E5446/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99817,
+  "IDcode": "GZAP-016",
+  "title": "女子がみんな穿くだけでマネキン化する【魔パンティ】をゲッツしたので俺たちを毛嫌いする真面目ちゃん美少女に穿かせたところ…",
+  "publish_date": "2020-02-21",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "妄想",
+    "企画",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99817",
+  "actresses": []
+};

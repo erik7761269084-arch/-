@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/Z3VWLTUv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79387,
+  "IDcode": "300MAAN-698",
+  "title": "【童贞チ○ポで性欲解消】相手にしてくれない彼氏へ当てつけ？！そこにチ○ポがある限り谁のだって咥えちゃう欲求不満な超ドビッチ♪巨乳プリケツ美女がエロエロ全开NTR笔おろしSEXでイキまくる！！寝取らせぇぇぇee(そうだ！今からお前ん家でSEXしない？)#12",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/72f5c82638a30b45260f02f8febdc120.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79387",
+  "actresses": []
+};

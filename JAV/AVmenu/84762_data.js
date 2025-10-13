@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/21/b6c254ab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84762,
+  "IDcode": "IPIT-028",
+  "title": "素人辣妹配對把上！！ ≪港區在住≫即交型！！名媛辣妹AV出道 IP逸材發掘計畫 藤井梨亞奈",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "女生",
+    "首次亮相",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/24f87fea13e1721cd585b19130d5e464.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84762",
+  "actresses": [
+    {
+      "name": "百合咲うるみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/4170ccb6-1207-49ef-bcff-185a773f8940.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84762&name=百合咲うるみ"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84762&name=鲛岛"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84762&name=小田切ジュン"
+    }
+  ]
+};

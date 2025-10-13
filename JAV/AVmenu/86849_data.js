@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/11/03/a08346f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86849,
+  "IDcode": "CJOD-262",
+  "title": "排卵日にムラムラ汗だく巨乳妻は隣の住人に淫らな中出し誘惑 椿りか",
+  "publish_date": "2020-10-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/34d914ce91bc9923aa117a61637a61d9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86849",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86849&name=椿莉香"
+    }
+  ]
+};

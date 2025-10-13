@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/16/45f2f601/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86041,
+  "IDcode": "REAL-693",
+  "title": "女子校生孕ませレイプ中出し20連発 篠宮ゆり",
+  "publish_date": "2019-03-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "轮奸",
+    "监禁",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/6b62f1c45281ea8be66a409eee020caf.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86041",
+  "actresses": [
+    {
+      "name": "篠宫ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86041&name=篠宫ゆり"
+    }
+  ]
+};

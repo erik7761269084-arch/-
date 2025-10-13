@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eff62ea4-9229-4c3e-bb5c-ff4cf155dd4c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/21/c2e01d30/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4436,
+  "IDcode": "PKPR-040",
+  "title": "私密獨家影像 北野未奈超猛！硬核色氣爆棚 首次二人獨處過夜 ~ 北野未奈",
+  "publish_date": "2025-07-12",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "自拍性愛",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "女神",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "PKPR-040为妄想族出品,2025年7月12日发行的有碼成人影片由北野未奈出演\n北野未奈，AV界的頂級寶藏女神，絕對不是鏡頭前裝腔作勢的那種貨色！她24小時都超萌，24小時都是真·硬核色氣！別被那些假騷的女優騙了，選北野未奈絕對穩，保證讓你心跳加速，慾火焚身啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712065530243243_82323_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250712/20250712065530243243_82323_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4436",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4436&name=北野未奈"
+    }
+  ]
+};

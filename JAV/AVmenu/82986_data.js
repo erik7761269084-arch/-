@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221206/KSWGmhsY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82986,
+  "IDcode": "NTSU-115",
+  "title": "五十路の母",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乱伦",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/1a2448289a89999359b88beae4f95535.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82986",
+  "actresses": []
+};

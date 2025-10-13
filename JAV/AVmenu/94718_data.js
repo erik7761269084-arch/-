@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/4gslEMjE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94718,
+  "IDcode": "STSK-116",
+  "title": "粘着生刺し営業研修～新人女性社員4名・OD中出し指導～",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "苗条",
+    "乳房",
+    "OL",
+    "偷窥",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94718",
+  "actresses": []
+};

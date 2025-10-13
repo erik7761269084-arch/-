@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/18/898f7f36/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107721,
+  "IDcode": "ABF-001",
+  "title": "どちゃくそエロい最高級ギャルと中出ししまくった、あの夜。 04 八掛うみ【MGSだけのおまけ映像付き+10分】",
+  "publish_date": "2023-06-29",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "中出",
+    "无毛",
+    "苗条",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107721",
+  "actresses": [
+    {
+      "name": "八挂うみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107721&name=八挂うみ"
+    }
+  ]
+};

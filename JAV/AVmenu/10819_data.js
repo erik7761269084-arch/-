@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f870c949-c3dc-4ccf-b366-87598976f481/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/26/9c81c283/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10819,
+  "IDcode": "IESP-747",
+  "title": "偷錢被發現後的中出20連發 ~ 有村希",
+  "publish_date": "2024-12-12",
+  "type": "有码",
+  "company": "IENERGY",
+  "genres": [
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "女賊",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "美少女",
+    "金髮",
+    "巨乳",
+    "手指插入",
+    "短髮",
+    "美少女電影",
+    "叛逆少女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107044618351351.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/20241107044618351351.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10819",
+  "actresses": [
+    {
+      "name": "有村希",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/03d82b59-c6ee-4743-b547-ba226b8973eb.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10819&name=有村希"
+    }
+  ]
+};

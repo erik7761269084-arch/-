@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250426/UR7ZF3RS/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67037,
+  "IDcode": "ADN-072",
+  "title": "哀しみの痴漢バス 立花美涼",
+  "publish_date": "2015-09-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "性骚扰",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67037",
+  "actresses": [
+    {
+      "name": "立花美涼",
+      "img_url": "https://picture.yoshiclub.xyz/20230120/4944af0d-ba1f-43cc-98a8-8fa9883f62d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67037&name=立花美涼"
+    }
+  ]
+};

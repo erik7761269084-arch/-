@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/30/1cdbf668/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62478,
+  "IDcode": "NASK-269",
+  "title": "本当にあったエッチなお話55 嫁よりエロい義母全四話",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "婆婆",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62478",
+  "actresses": [
+    {
+      "name": "井上綾子",
+      "img_url": "https://picture.yoshiclub.xyz/20240930/d8d0ebdf-e3a3-4eda-8894-2383ae231a66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62478&name=井上綾子"
+    },
+    {
+      "name": "麻生まり",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-麻生まり.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62478&name=麻生まり"
+    },
+    {
+      "name": "近藤郁",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/近藤郁美.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62478&name=近藤郁"
+    },
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62478&name=平冈里枝子"
+    }
+  ]
+};

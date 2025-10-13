@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230621/13B13C10F1D73160/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100344,
+  "IDcode": "326FCT-028",
+  "title": "厚颜无耻制服JK中出！！！奇闻趣事记录与年长最喜欢纤细的身体颤抖和",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100344",
+  "actresses": []
+};

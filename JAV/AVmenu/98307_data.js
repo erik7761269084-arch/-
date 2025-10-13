@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221229/BDC15C76AC142F35/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98307,
+  "IDcode": "ORE-517",
+  "title": "ミユキ",
+  "publish_date": "2019-04-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "中出",
+    "口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98307",
+  "actresses": [
+    {
+      "name": "有坂深雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/ff59df69-b2b7-4159-a248-c121eeb86d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98307&name=有坂深雪"
+    }
+  ]
+};

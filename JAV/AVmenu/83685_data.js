@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/12/16/0280665f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83685,
+  "IDcode": "JUL-156",
+  "title": "抱かれたくない男に死にたくなるほどイカされて… 生駒みちる",
+  "publish_date": "2020-03-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "凌辱",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/b7e4c8d631eda8ef287aebeb429266a0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83685",
+  "actresses": [
+    {
+      "name": "生驹みちる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83685&name=生驹みちる"
+    }
+  ]
+};

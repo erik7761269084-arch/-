@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/10/6c9414a6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80933,
+  "IDcode": "SSIS-331",
+  "title": "いつでもどこでもスマイル即尺フェラチオ 最後まで笑顔で大量顔射スペシャル 天音まひな （ブルーレイディスク）",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "颜射",
+    "口交",
+    "女佣",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80933",
+  "actresses": [
+    {
+      "name": "あまねまひな",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\7-S1/天音まひな.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80933&name=あまねまひな"
+    }
+  ]
+};

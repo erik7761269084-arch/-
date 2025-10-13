@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/51396b26-15a4-4bf8-bf31-57271f95bab2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 524,
+  "IDcode": "HEYZO-0622",
+  "title": "Z ～黑絲下是如絲般光滑純白的肌膚 ～ 水城奈緒",
+  "publish_date": "2014-06-21",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0622为HEYZO出品,2014年6月21日发行的無碼成人影片由水城奈緒出演\nZ～わがままボディと吸い付く純白シルクスキン～ - 水城奈緒",
+  "cover_url": "https://picture.yoshiclub.xyz/20241216/56f525f9-923b-44be-819b-b4fdeedbdd9e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241216/56f525f9-923b-44be-819b-b4fdeedbdd9e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=524",
+  "actresses": [
+    {
+      "name": "水城奈緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241023/abadb674-e201-4632-8844-7b0dc78e2ded.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=524&name=水城奈緒"
+    }
+  ]
+};

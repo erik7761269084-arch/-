@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/7c31b20e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79631,
+  "IDcode": "WAAA-106",
+  "title": "色気ムンムン女上司に仕組まれた相部屋マラ喰い逆NTR 朝までムチ乳デカ尻中出しプレスで10発ヌカれたボク… 藤森里穂",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/edec80b8820e6d27761165de3f7fe6b3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79631",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79631&name=藤森里穂"
+    }
+  ]
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/894c0256-0730-4b62-b9d8-009a3d33a030/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15867,
+  "IDcode": "AVSA-304",
+  "title": "僅限女性的受虐狂俱樂部、勒死、失禁、錫鑞觀賞、真正的受虐狂女性拍賣、喜歡被人使用她的洞、令人震驚的淫穢展示會",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "魔鬼系",
+    "中出",
+    "蕩婦",
+    "拘束・拷問",
+    "重口味",
+    "口交",
+    "強姦",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "SM",
+    "緊縛",
+    "金髮",
+    "巨乳",
+    "M男・M女",
+    "心理驚悚",
+    "美少女電影",
+    "二穴同入",
+    "羞恥"
+  ],
+  "description": "AVSA-304为妄想族出品,2024年3月26日发行的有碼成人影片由乙愛麗絲出演\n孔（嘴）、孔（肛門）、孔（陰部）被侵犯的性奴隸的幸福！ ！痛苦就是快樂Do М限量版瘋狂高潮！遭受肛刑、掌摑、勒殺、巨噴等痛苦羞辱，愉悅尖叫的變態妖豔美女！只有S成員的秘密俱樂部。今天來的女性也想自己進行受虐行為。她們的外表、性習慣等都會被記錄下來並轉播，然後由出價最高的施虐成員購買。展會的完整故事即將揭曉！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324063553122122.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240324/20240324063553122122.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15867",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15867&name=乙愛麗絲"
+    }
+  ]
+};

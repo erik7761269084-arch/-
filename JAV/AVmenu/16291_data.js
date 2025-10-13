@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9110c313-fcb7-4e93-857a-439ba44c5eff/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16291,
+  "IDcode": "DASS-319",
+  "title": "風度翩翩、令人敬佩的學生會長，原來是一個渾身大汗、滿臉射精的瘋狂粗俗女人美谷朱裏 。",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "性感",
+    "少女",
+    "美腳",
+    "美少女",
+    "手指插入",
+    "學校",
+    "女學生"
+  ],
+  "description": "DASS-319为DASDAS出品,2024年2月13日发行的有碼成人影片由美谷朱里出演\n與我同班的學生會長明裏，雖然很有淑女風範，但當我開始觀察她時，她發現她有點色情……放學後，她勾引了一個男孩，與他發生了激烈的性行爲，並目睹了一些令人震驚的事件！我還是不敢相信，看似毫無性欲的明裏，居然是學校裏最變態的女生（一邊偷窺一邊自慰）",
+  "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214030921545545.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240214/20240214030921545545.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16291",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16291&name=美谷朱里"
+    }
+  ]
+};

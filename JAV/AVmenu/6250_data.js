@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45e77bd7-03e7-4a4c-8dfb-3a960f6a821c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6250,
+  "IDcode": "KNIP-006",
+  "title": "做女友太重，當朋友又虧，做炮友才是大贏家！超長口暴+無套生騎乘性愛，極品敏感美女火爆登場 ~ 友田彩也香",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "KNIP",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "單體作品",
+    "癡女",
+    "獵豔",
+    "約炮",
+    "美人",
+    "極品美人",
+    "美少女電影"
+  ],
+  "description": "KNIP-006为KNIP出品,2025年5月10日发行的有碼成人影片由友田彩也香出演\n熱衷性愛的頂級美女福岡愛麗絲，22歲，簡直是個勾人精！她超愛舔那話兒，濕滑的深喉技巧讓人爽到不行，但她偏偏不讓你輕易解放，非得等你蛋蛋脹得受不了才准你射！清理口交更是持久到爆，只要還有一滴精沒榨乾，她絕不收手，根本就是個超級浪女！她還迷戀生插和內射，喜歡用緊實的小穴瘋狂磨蹭騎乘，逼你舉白旗投降。順便一提，她的蜜桃臀誘惑力爆表，看了就想狠狠來一發！快來體驗看看，保證讓你爽到上天！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052228215215_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052228215215_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6250",
+  "actresses": [
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6250&name=友田彩也香"
+    }
+  ]
+};

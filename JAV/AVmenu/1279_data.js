@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/33b9522c-712b-4cc8-b743-320d9dc59c64/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1279,
+  "IDcode": "HEYZO-2517",
+  "title": "男人的夢想！快樂的逆3P！！Vol.6",
+  "publish_date": "2021-05-08",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "3P・4P",
+    "中出",
+    "顏射",
+    "女同性戀"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230830/20230830014755520520.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230830/20230830014755520520.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1279",
+  "actresses": [
+    {
+      "name": "清宮りえ",
+      "img_url": "https://picture.yoshiclub.xyz/20230830/e6ee0163-7241-4346-b96b-1ccc974790e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1279&name=清宮りえ"
+    },
+    {
+      "name": "春風コウ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1279&name=春風コウ"
+    }
+  ]
+};

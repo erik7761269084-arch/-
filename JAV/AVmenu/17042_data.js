@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/66e724a3-2a4d-4d4d-b4ee-e37113d8a069/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17042,
+  "IDcode": "SSNI-064",
+  "title": "新人出道 NO.1STYLE 架乃由羅18 歲 AV DEBUT 首次亮相",
+  "publish_date": "2017-11-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "企畫",
+    "美乳",
+    "騎乗位",
+    "性感",
+    "美少女",
+    "出道作品",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "SSNI-064为S1出品,2017年11月19日发行的有碼成人影片由架乃由羅出演\n１８歳。未だ何色にも染まっていない、駆け出しのヌードモデル少女がＡＶ女優に転身します。スレンダーなカラダ、きれいなＤカップバスト、ツンと上向きのピンク色乳首、絶対的な透明感。うぶで恥ずかしがりだけどスイッチ入ると大人の表情に。感度は素晴らしく良く本気でＳＥＸに向き合います。上げたらキリが無いほど魅力がいっぱいな未だ未完成の１８歳、架乃ゆらです。\n１８歳。未だ何色にも染まっていない、駆け出しのヌードモデル少女がＡＶ女優に転身します。スレンダーなカラダ、きれいなＤカップバスト、ツンと上向きのピンク色乳首、絶対的な透明感。うぶで恥ずかしがりだけどスイッチ入ると大人の表情に。感度は素晴らしく良く本気でＳＥＸに向き合います。上げたらキリが無いほど魅力がいっぱいな未だ未完成の１８歳、架乃ゆらです。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231228/20231228010020467467.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231228/20231228010020467467.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17042",
+  "actresses": [
+    {
+      "name": "架乃由羅",
+      "img_url": "https://picture.yoshiclub.xyz/20230923/3d3a0574-0326-4fe6-bd66-f20ee98f13e2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17042&name=架乃由羅"
+    }
+  ]
+};

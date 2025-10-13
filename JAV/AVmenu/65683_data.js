@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65683,
+  "IDcode": "CC5A82D3857146F52AB9A37CA6A1B7D0",
+  "title": "翘不起来的老公不想妻子被人睡走拜托公公上她。家庭内公认NTR 筱田优",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65683",
+  "actresses": []
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3c7a7168-8d57-49d9-86e4-cf40eda80eb0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/27/73f1e98b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7515,
+  "IDcode": "MEYD-978",
+  "title": "肉感超色巨乳空姐一起爽飛天！免費炮航空×高潮航班！！ ~ 佐山愛",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "拜金女",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "公共場所",
+    "空姐",
+    "美人",
+    "熟女",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "MEYD-978为溜池出品,2025年3月18日发行的有碼成人影片由佐山爱出演\n塔達曼航空起飛，性感、豐滿的空服員佐山愛提供服務！ ！ #1 在飛行途中與一個大胸女孩做愛，她會幫你擼管；#2 飛行結束後，在酒店裡用大胸女孩做愛，她會幫你擼管；#2 飛行結束後，在酒店裡用大雞巴雙重口交；#3 與你最喜歡的乘客緊急做愛，然後帶她回家；#4 一場激烈的三人行，當飛行員以閃電般的速度抽動活塞時，你會射精！請搭乘塔達曼航空的這趟史詩般的航班，它比廉價航空公司的航班便宜，航班的四個角落都有超級性感的空姐服裝！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/202503130837595858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/202503130837595858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7515",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7515&name=佐山爱"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7515&name=タツ"
+    }
+  ]
+};

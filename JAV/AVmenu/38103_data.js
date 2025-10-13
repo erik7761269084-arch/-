@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221013/326476140D403D76/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38103,
+  "IDcode": "16A88E745FC8E55F69D0990D522BC-954",
+  "title": "【無】何度もイった放課後の机の上でもう一度 パート1",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38103",
+  "actresses": []
+};

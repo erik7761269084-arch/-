@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e90f2eb6-3b5c-4077-92b1-65bde6c1ce26/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/13/6b1bc585/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7112,
+  "IDcode": "START-267",
+  "title": "妹妹離婚後變爲單親媽媽回了老家，被初體驗的哥哥強制寢取 ~ 矢埜愛茉",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "4K",
+    "深喉",
+    "變態",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "探親",
+    "口爆",
+    "姐弟・兄妹",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "亂倫",
+    "極品美人",
+    "寢取",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250331/a04a2921-dfb1-4885-9a5f-d66b653d956d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250331/a04a2921-dfb1-4885-9a5f-d66b653d956d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7112",
+  "actresses": [
+    {
+      "name": "矢埜愛茉",
+      "img_url": "https://picture.yoshiclub.xyz/20240206/49794802-ee93-4341-8ad7-2d5f4e8de90f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7112&name=矢埜愛茉"
+    }
+  ]
+};

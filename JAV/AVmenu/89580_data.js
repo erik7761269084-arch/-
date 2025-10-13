@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/bd43e529/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89580,
+  "IDcode": "SCOP-811",
+  "title": "バレないよう校内でこっそり没頭玩具オナニーしている女子とバッタリ！イク直前で絶頂を止められずビクビク大痙攣！！内緒にする代わりに敏感マ●コへ追撃生ハメ中出しSEX！！",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "中出",
+    "自慰",
+    "校服",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89580",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89580&name=天馬唯"
+    },
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89580&name=皆月光"
+    }
+  ]
+};

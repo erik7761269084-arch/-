@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230115/7I8CGnSg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84869,
+  "IDcode": "ISRD-007",
+  "title": "受付嬢in...（脅迫スイートルーム） 白川ゆず",
+  "publish_date": "2021-12-03",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "多P",
+    "捆绑",
+    "颜射",
+    "女优按摩棒",
+    "连裤袜",
+    "深喉",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84869",
+  "actresses": [
+    {
+      "name": "白川柚子",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/29865739-e674-4aa4-a00a-ddde9e535ee7.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84869&name=白川柚子"
+    }
+  ]
+};

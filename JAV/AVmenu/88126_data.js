@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/22/baf6e33e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88126,
+  "IDcode": "MKMP-246",
+  "title": "佐倉絆 アイドル羞恥輪姦ライブ",
+  "publish_date": "2018-11-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "多P",
+    "艺人",
+    "轮奸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/c7236a076e3c977baa92df73368f60ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88126",
+  "actresses": [
+    {
+      "name": "佐仓绊",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/1ceba413ecbc2f38fe4b8d14a14d47fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88126&name=佐仓绊"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/bcDYmirg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78656,
+  "IDcode": "SIRO-4893",
+  "title": "【身長143センチ】【声優を目指す萌え声】いつかエロアニメに出るときにAVを経験しておきたいと応募してきた声優の卵！ちっちゃいけど好奇心旺盛！ ネットでAV応募→AV体験撮影 1882",
+  "publish_date": "2022-07-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "无毛",
+    "第一人称摄影",
+    "业余",
+    "平胸",
+    "娃娃"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78656",
+  "actresses": [
+    {
+      "name": "かな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78656&name=かな"
+    }
+  ]
+};

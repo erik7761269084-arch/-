@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dabc5116-20e1-473a-be5a-e0202a26ece1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/24/62003417/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10083,
+  "IDcode": "JUQ-995",
+  "title": "很抱歉女兒嘲笑您早泄……？ 女友的大屁股媽媽把幫我治愈了早泄改善SEX ~ 赤井美希",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "乳交",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "岳母",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "勾引・誘惑",
+    "出軌",
+    "NTR",
+    "熟女",
+    "短髮",
+    "豐滿"
+  ],
+  "description": "JUQ-995为MADONNA出品,2024年12月10日发行的有碼成人影片由赤井美希出演\n看來女兒有男朋友了，最近還帶他回家玩，笑死我了。有一天，我好奇兩人的狀況，去查看時，聽到了打架的聲音。我無法了解具體情況，但她似乎對健太早洩感到憤怒，並且對他說了一些讓她作為父母都感到難過的話。看到健太鬱悶的樣子，我決定脫掉衣服安慰他…",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205091957336336.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205091957336336.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10083",
+  "actresses": [
+    {
+      "name": "赤井美希",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/d3c8c6ee-63ff-458f-90b0-25f590b30dd3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10083&name=赤井美希"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/05/23ebba5c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77909,
+  "IDcode": "DDK-195",
+  "title": "こんな可愛いらし娘さんがッ！若いカラダに飢えたオジサンたちと密室で一日過ごした場合。 優木しの",
+  "publish_date": "2020-05-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77909",
+  "actresses": [
+    {
+      "name": "优木しの",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77909&name=优木しの"
+    }
+  ]
+};

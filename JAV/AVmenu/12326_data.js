@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/349cbe1c-23bb-4670-9a82-9d1e3a07600d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12326,
+  "IDcode": "ATID-604",
+  "title": "被污辱的人妻 可恥的排便 10 ~ 水谷夢露",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "導尿",
+    "後入",
+    "黑絲",
+    "肛交",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "變態",
+    "色白",
+    "凌辱",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "肉絲",
+    "重口味",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "兩男一女",
+    "輪姦",
+    "口爆",
+    "貧乳",
+    "黑幫",
+    "清純",
+    "人妻",
+    "插入異物",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "ATID-604为ATTACKERS出品,2024年9月3日发行的有碼成人影片由水谷夢露出演\n新一現在是片木，但他是前黑道成員。他保守了這個秘密，沒有告訴他的妻子梅羅。這時，電視傳來消息，新一曾經欠下的老闆櫻井越獄了。該組織的辦公室擠滿了媒體和圍觀者，而他一直躲藏的新一的家也成為了攻擊目標。櫻井和弟弟細田趁新一不在的時候威脅他。和…。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830015306724724.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240830/20240830015306724724.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12326",
+  "actresses": [
+    {
+      "name": "水谷夢露",
+      "img_url": "https://picture.yoshiclub.xyz/20240831/d245fecd-251f-4660-a1fa-8a013a14b2b4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12326&name=水谷夢露"
+    }
+  ]
+};

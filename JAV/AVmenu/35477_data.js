@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/29/97f4b000/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35477,
+  "IDcode": "WANZ-123",
+  "title": "色情痴女姐妹花白丝护士逆3P-桜井あゆ 水树りさ",
+  "publish_date": "2025-07-30",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "多P",
+    "荡妇",
+    "女生",
+    "护士",
+    "主观视角",
+    "无码破解",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2022/11/10/a5b3f4ee6837b3b686b51da6087c81ff.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35477",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35477&name=樱井步"
+    },
+    {
+      "name": "水树りさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35477&name=水树りさ"
+    }
+  ]
+};

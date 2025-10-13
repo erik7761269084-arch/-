@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231012/X6AHS7PG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88497,
+  "IDcode": "YSN-534",
+  "title": "子供おじさんの僕は四六時中母に犯●れたい 本真ゆり",
+  "publish_date": "2021-01-01",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88497",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88497&name=本真友里"
+    }
+  ]
+};

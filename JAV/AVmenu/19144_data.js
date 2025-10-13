@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2beaaa26-0e7e-4ebf-a675-11164434339f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19144,
+  "IDcode": "IPX-302",
+  "title": "南國笑臉早洩日曬美少女AV出道",
+  "publish_date": "2019-04-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "3P・4P",
+    "巨尻",
+    "口交",
+    "膚黑",
+    "兩男一女",
+    "出道作品",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230709/20230709230929684684.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230709/20230709230929684684.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19144",
+  "actresses": [
+    {
+      "name": "根尾朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230710/e3d24615-4b02-4397-9618-fbd5ff5bddd9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19144&name=根尾朱里"
+    }
+  ]
+};

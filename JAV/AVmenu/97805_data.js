@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220429/034E6F61220D6A5F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97805,
+  "IDcode": "GANA-1797",
+  "title": "【花火大会・浴衣ナンパ！】百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 075",
+  "publish_date": "2018-07-22",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "玩具",
+    "屁股",
+    "苗条",
+    "业余",
+    "乳房",
+    "猎艳",
+    "浴衣",
+    "偷窥",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97805",
+  "actresses": []
+};

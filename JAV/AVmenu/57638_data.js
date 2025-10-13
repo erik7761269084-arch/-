@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57638,
+  "IDcode": "DB4272E536F829B476B78746FFC4ADD0",
+  "title": "高颜值极品韩国美女",
+  "publish_date": "",
+  "type": "无码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57638",
+  "actresses": []
+};

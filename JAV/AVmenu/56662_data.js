@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220724/A8BE825A21639A9A/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56662,
+  "IDcode": "9F52964B79DC52AB4D53ADC0F367E5FD",
+  "title": "F罩杯美人妻受孕内射",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56662",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/52fQBvj8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80665,
+  "IDcode": "KUSE-032",
+  "title": "肛門処女の若手舞台役者が初アナルで腸汁ダクダク気張りイキ!連続AtoM 大量浣腸 3穴SEX 茉宮なぎ(21)",
+  "publish_date": "2022-02-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "多P",
+    "肛交",
+    "灌肠"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80665",
+  "actresses": [
+    {
+      "name": "藤森朱音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80665&name=藤森朱音"
+    }
+  ]
+};

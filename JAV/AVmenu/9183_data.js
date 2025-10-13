@@ -1,0 +1,106 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/88c1033a-376c-45e6-8bd8-970eaeb6d679/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9183,
+  "IDcode": "HUNTC-305",
+  "title": "你最喜歡誰的內衣？在內衣工廠找到工作時，被10個巨乳女員工勾引……真是不可思議！ 原來內衣工廠是我的後宮。。。。 ~ 胡桃櫻花 星空萌愛 等 10位女優",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "內衣",
+    "少女",
+    "多P",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "女上司",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HUNTC-305为HUNTER出品,2025年1月14日发行的有碼成人影片由胡桃櫻花，星空萌愛，白橋里帆，若宮葉月，永野司，滝ゆいな，咲野瑞希，美澄玲衣，碓井せりな，愛瀬優里出演\n這是一個令人難以置信的情況！進入內衣製造商的第一天，女員工在辦公室穿內衣！這就是我平常的工作場景！ ？如果實在憋不住勃起的話，女員工會很失望……但是她會因為每天的辛苦工作而沮喪到爆炸！ ？被極度色情的逆向性騷擾逼迫，在公司內發生性關係！我被要求射精並射精，直到我的內褲沾滿精液！想到這些色情的日子還會繼續下去，我就忍不住興奮起來！對於我這樣的好色之人來說，最好的工作場所！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080836226226.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250109/20250109080836226226.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9183",
+  "actresses": [
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=胡桃櫻花"
+    },
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=若宮葉月"
+    },
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=美澄玲衣"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=愛瀬優里"
+    },
+    {
+      "name": "滝ゆいな",
+      "img_url": "https://picture.yoshiclub.xyz/20241028/203ab91d-8cc9-4d74-9f8b-50235b538c86.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=滝ゆいな"
+    },
+    {
+      "name": "碓井せりな",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/0013eb5d-a157-49cf-9093-7a039092b020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=碓井せりな"
+    },
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=永野司"
+    },
+    {
+      "name": "咲野瑞希",
+      "img_url": "https://picture.yoshiclub.xyz/20240909/c66d8553-01ef-4953-a917-ddab6c5646d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=咲野瑞希"
+    },
+    {
+      "name": "白橋里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/6cd1c601-58fd-413e-947d-d7b1f7f40ec7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=白橋里帆"
+    },
+    {
+      "name": "星空萌愛",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/5633e352-9d50-4abc-a0fa-7afd25737f80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9183&name=星空萌愛"
+    }
+  ]
+};

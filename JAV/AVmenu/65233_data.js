@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65233,
+  "IDcode": "0D6968A9472E7B96C203E21EE95CE427",
+  "title": "[日本] 29岁欲求不满的人妻小林美织～前戏做足后被捣出浓密白浆！(MYWIFE-1078破坏版)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65233",
+  "actresses": []
+};

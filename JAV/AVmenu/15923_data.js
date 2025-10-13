@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/60ca296a-0d71-4b2c-a1c7-62c6cdee7cd0/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240611/kIom8Vc3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15923,
+  "IDcode": "JUQ-618",
+  "title": "向井藍，短發好看。已婚人妻收到了一把鑰匙，男學生裕太朗在畢業前一直在內射她",
+  "publish_date": "2024-03-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "劇情",
+    "蕩婦",
+    "自宅",
+    "不倫",
+    "人妻",
+    "出軌",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-618为MADONNA出品,2024年3月26日发行的有碼成人影片由向井藍出演\n有一天，獨居的裕太郎在附近的酒吧遇到了一位已婚婦女艾愛。他最後和女友喝酒，而女友因為與丈夫不和而不知所措，但是…此後，他和她成為了朋友，不知不覺中，他們開始發生肉體關係。裕太郎給了小愛一把他家的複製鑰匙，當她的丈夫去上班時，小愛拿著購物袋開始前往裕太郎的家。然後，彷彿為了排解夫妻的孤獨，她開始花很多時間在他年輕男友的房間裡…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322222927764764.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240322/20240322222927764764.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15923",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15923&name=向井藍"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15923&name=ニック"
+    }
+  ]
+};

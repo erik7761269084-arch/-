@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b5d3a8c-9d5b-4f4d-a928-01bc77333a45/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/12/23aedbc6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14673,
+  "IDcode": "MIAB-197",
+  "title": "在我回國宣布結婚的三天裏，我親眼目睹心愛的新娘被強大的哥哥們嫉妒的大雞巴多次強奸 ~ 木下日葵",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "輪姦",
+    "接吻",
+    "美腳",
+    "美少女",
+    "人妻",
+    "弟媳",
+    "出軌",
+    "猥褻穿著",
+    "NTR",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "MIAB-197为MOODYZ出品,2024年5月21日发行的有碼成人影片由木下日葵出演\n三兒子明仁已經很久沒回家了，決定時隔一段時間第一次去父母家宣布結婚消息。然而，當弟弟搶走了新娘希瑪麗時，哥哥們嫉妒極了，試圖強行奪走他們的幸福！我的大兒子和二兒子不喜歡就強行接近我。淫亂與日俱增……他毫不猶豫地多次射入陰道。他粗壯的雞巴和強壯的身體是他丈夫無法比擬的，對女人充滿飢渴。有一天，明人目睹了與他的兄弟們的性行為。然而，希瑪麗的心和身體已經屬於她的兄弟們了。希瑪麗因自己無法做到的強烈而強烈的性愛而猥褻地呻吟著，她在她眼前被摧毀和強姦，無法拯救希瑪麗......",
+  "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517043811143143.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240517/20240517043811143143.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14673",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14673&name=木下日葵"
+    }
+  ]
+};

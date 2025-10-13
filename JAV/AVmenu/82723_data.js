@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221119/Rbp1naSA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82723,
+  "IDcode": "GANA-2138",
+  "title": "プールナンパ 28 ナイトプールで女子2人組をホテルへ連れ込み！ノリノリの友達は男と別部屋でSEX！置いてけぼりの優衣ちゃんは戸惑いつつもムッツリな性格を見抜かれてしまい…？",
+  "publish_date": "2019-08-11",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "颜射",
+    "苗条",
+    "潮吹",
+    "泳装",
+    "业余",
+    "乳房",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221119-1/e511ee09cf1b2a361edb8cc51e6f4f99.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82723",
+  "actresses": [
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82723&name=富田优衣"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82723&name=玉木玲"
+    }
+  ]
+};

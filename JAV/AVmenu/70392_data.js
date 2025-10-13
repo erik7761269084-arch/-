@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/zfROfVDE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70392,
+  "IDcode": "XRW-582",
+  "title": "バイノーラル爆音フェラチオ",
+  "publish_date": "2018-10-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "淫乱，真实",
+    "淫语",
+    "荡妇",
+    "制服",
+    "口交",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/fa21613c2ac06479f191e796abb6ada0.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70392",
+  "actresses": [
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70392&name=佐倉陽菜"
+    },
+    {
+      "name": "海空花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70392&name=海空花"
+    },
+    {
+      "name": "七瀬あいり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70392&name=七瀬あいり"
+    },
+    {
+      "name": "桜川かなこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70392&name=桜川かなこ"
+    },
+    {
+      "name": "并木杏梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70392&name=并木杏梨"
+    }
+  ]
+};

@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/65633e1b-cbae-4c1d-b78a-c4d1ad748f88/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/21/90e088e8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9720,
+  "IDcode": "DASS-546",
+  "title": "我本應該可以和巨乳姐姐做愛，但我的損友總是從中作梗壞我好事 ~ 森澤佳奈",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "鄰居",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "DASS-546为DASDAS出品,2024年12月24日发行的有碼成人影片由森澤佳奈出演\n加奈小姐是住在我隔壁的姐姐，我們從小就關係很好。最近，她抽空教我學習，每次她來的時候，我都會因為成年女性特有的甜美氣味而興奮不已。不，我不能再忍受了！他鼓起勇氣想要吻她，但就在這之前，他的壞朋友日森走進房間打斷了他…啊，只剩下一點了……當她獨自扭動時，她的壞朋友以他特有的厚顏無恥的方式接近她，隨心所欲地操她的陰戶……",
+  "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218105750733733.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241218/20241218105750733733.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9720",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9720&name=森澤佳奈"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9720&name=日森一"
+    }
+  ]
+};

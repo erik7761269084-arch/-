@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230109/9E234BA661564B07/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98673,
+  "IDcode": "DAYD-012",
+  "title": "引きこもりの娘は昔のままのBカップ！そして無職になったお父さんとの真っ昼間、親子水入らず2人っきりのいやらしい時間！！ 新川優里",
+  "publish_date": "2018-03-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "萝莉塔",
+    "乱伦",
+    "苗条",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98673",
+  "actresses": [
+    {
+      "name": "新川优里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98673&name=新川优里"
+    }
+  ]
+};

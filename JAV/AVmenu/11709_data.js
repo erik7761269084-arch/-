@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d2c49e9a-480b-4381-90a7-1cb187475f4a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11709,
+  "IDcode": "DJN-016",
+  "title": "見參！御前試合 水着劍豪中出七色勝負 ！ [第一卷] ~ 皆月光 富井美帆",
+  "publish_date": "2024-09-26",
+  "type": "有码",
+  "company": "MONSTERS",
+  "genres": [
+    "後入",
+    "女格鬥家",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "二次元",
+    "絕頂高潮",
+    "游戲COSPLAY",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "女戰士",
+    "多P",
+    "奇聞趣事",
+    "癡女",
+    "巨乳",
+    "奇異的",
+    "兩男兩女",
+    "女忍者",
+    "美少女電影",
+    "COSPLAY服飾",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926055153794794.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/20240926055153794794.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11709",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11709&name=皆月光"
+    },
+    {
+      "name": "富井美帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/17a6ad76-4153-4726-971c-de1729fa871f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11709&name=富井美帆"
+    }
+  ]
+};

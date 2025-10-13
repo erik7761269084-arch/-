@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/21/b1767940/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79801,
+  "IDcode": "FSDSS-289",
+  "title": "昔から好きだった幼馴染はNo.1風俗嬢に…オプション全乗せ発射無制限で本番セックスしまくった同棲生活3日間 橋本ありな",
+  "publish_date": "2021-09-09",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "足交",
+    "礼仪小姐",
+    "美少女电影",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79801",
+  "actresses": [
+    {
+      "name": "新有菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230409/29cfa005-3b46-4c17-87f7-0367c14aa0fd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79801&name=新有菜"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b298abef-1fcb-4828-97d2-b6329db89a3e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/06/13fdaa2a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16429,
+  "IDcode": "FSDSS-754",
+  "title": "同人AV網站人氣No.1！幻影業餘 Momo Misono 20 歲 AVdebut",
+  "publish_date": "2024-03-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "企畫",
+    "中出",
+    "美乳",
+    "口交",
+    "性感",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "FSDSS-754为FALENO出品,2024年3月7日发行的有碼成人影片由御園桃出演\n御園もも，僅在該同人 AV 網站上出現過一部電影並一度統治該網站人氣的幽靈素人！真正的 AV 首次亮相 FALENOstar！纖細身材上的豐滿E罩杯！真是可愛又可愛，拍戲的時候還緊張呢！但這不僅僅是可愛！她的眼神很色情！反應也很色情！畢竟，視頻中的女孩熱愛性！引起大家關注的國民素人真正的AV出道！從第一場開始錄制了 3 場表演！她的性愛只能在AV中看到！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207041838579579.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240207/20240207041838579579.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16429",
+  "actresses": [
+    {
+      "name": "御園桃",
+      "img_url": "https://picture.yoshiclub.xyz/20240208/102fef2d-e63e-4dbf-b9ac-d4db18082b67.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16429&name=御園桃"
+    }
+  ]
+};

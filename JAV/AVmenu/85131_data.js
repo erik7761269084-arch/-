@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/18/6ec3f8c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85131,
+  "IDcode": "KSBJ-178",
+  "title": "夫の部下に犯●れ続けた一週間 田中ねね",
+  "publish_date": "2022-01-18",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85131",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85131&name=田中寧寧"
+    }
+  ]
+};

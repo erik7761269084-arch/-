@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/17/cb68a447/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82458,
+  "IDcode": "EBOD-506",
+  "title": "E-BODY再光臨 JULIAイカセ究極美ボディ絶叫トランス性交",
+  "publish_date": "2016-04-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "乳房",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/2362eaa2fbbe371d3b51de12580e00c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82458",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82458&name=JULIA"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82458&name=小田切ジュン"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82458&name=大岛丈"
+    }
+  ]
+};

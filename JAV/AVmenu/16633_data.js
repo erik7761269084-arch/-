@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b22ad594-e28f-407a-ae9c-347b6eb5c269/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16633,
+  "IDcode": "GVH-617",
+  "title": "禁忌護理水皆月光",
+  "publish_date": "2024-01-24",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "醫院・診所",
+    "絕頂高潮",
+    "女看護",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "性感",
+    "舔陰",
+    "接吻",
+    "美少女",
+    "巨乳",
+    "手指插入"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240122/5eb1096a-54d0-4617-9833-d0895a07f731.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240122/5eb1096a-54d0-4617-9833-d0895a07f731.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16633",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16633&name=皆月光"
+    }
+  ]
+};

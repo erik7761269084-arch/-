@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/30/21c899ce/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91280,
+  "IDcode": "DASS-165",
+  "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 花柳杏奈",
+  "publish_date": "2023-06-13",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "按摩",
+    "乳液",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91280",
+  "actresses": []
+};

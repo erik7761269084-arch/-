@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8ad537e9-9522-4b33-9598-23cec72efdaf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4663,
+  "IDcode": "HOKS-200",
+  "title": "內射肉便器 軟妹子今天又拒絕不了誘惑 ~ 及川莉央",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "美人",
+    "淫蕩・硬核",
+    "職場",
+    "眼鏡",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HOKS-200为FAプロ出品,2025年7月5日发行的有碼成人影片由及川莉央出演\n對大肉棒完全沒抵抗力的素人妹子居然有這麼多！？沒錯，慾求不滿的素人小姐姐才是最騷最帶勁的！嘴上說著“哎呀，怎麼辦好呢？”，其實下面早就濕透了（笑）！專門捕獲那些故意晃蕩等著被搭訕的素人小浪貨，不管有沒有男友，上了床都一個樣。看到大肉棒就忍不住含住，超會撩又超可愛的免費炮友隨便你享用！快來體驗這群素人妹子的極致誘惑啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103243385385_31928_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103243385385_31928_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4663",
+  "actresses": [
+    {
+      "name": "及川莉央",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250429/7af47491-e67b-4714-a3a2-9e2c90449bc4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4663&name=及川莉央"
+    }
+  ]
+};

@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f12fb355-a022-4dac-b617-0d4ecee6cd93/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/18/0c82a6d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6255,
+  "IDcode": "ROE-353",
+  "title": "老爸再婚一個月，繼母下媚藥飯把我養成絕倫怪物 ~ 吉永塔子",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "苗條",
+    "繼母",
+    "後入",
+    "高顏值",
+    "牛仔褲",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "四十路",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女",
+    "大奶头",
+    "綠茶婊"
+  ],
+  "description": "ROE-353为MADONNA出品,2025年5月9日发行的有碼成人影片由吉永塔子出演\n嘿嘿嘿，来，多吃点嘛～新婚老公浩二是个店长，塔子嫁给他后第一次见他儿子半造，瞬间被电到！这小子不仅帅得掉渣，还是个肌肉猛男，简直就是行走的荷尔蒙炸弹！虽然塔子爱着浩二，但老男人哪能满足她这旺盛的欲望啊？遇到这么个极品猛男，塔子实在是按捺不住，偷偷网购了媚药（当天发货还免运费，超值！）。日复一日的下药，终于有一天，半造被刺激成了超越人类的绝伦怪物，彻底爆发啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064938901901_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064938901901_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6255",
+  "actresses": [
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6255&name=吉永塔子"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6255&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240719/QIDHIHSo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92174,
+  "IDcode": "MIAA-915",
+  "title": "【FANZA限定】Wデカ尻おばさんに連れていかれてケツ肉圧迫挟み撃ちハーレム中出し！！ 弥生みづき・美園和花 生写真3枚付き",
+  "publish_date": "2023-07-19",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "屁股",
+    "巨大屁股",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92174",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92174&name=美園和花"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92174&name=左慈半造"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92174&name=タイ"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92174&name=弥生美月"
+    }
+  ]
+};

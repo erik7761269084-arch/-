@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119696,
+  "IDcode": "FC2PPV-4056704",
+  "title": "[HD/720p] Fc2ppv 4056704 田舎の校料理部の元気・デート門限気にしつつホテル…快感に負け中出し",
+  "publish_date": "",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119696",
+  "actresses": []
+};

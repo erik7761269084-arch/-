@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58019,
+  "IDcode": "110516_01",
+  "title": "110516_01 超VIP 制服時代 〜学校でのSEXが一番興奮しました〜",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221002-1/6dbb722f7189939b1b34411070ae961f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58019",
+  "actresses": []
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250128/gpiMk3ah/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73440,
+  "IDcode": "SNIS-383",
+  "title": "絞められ願望 イクまで首絞めをやめないで ティア",
+  "publish_date": "2015-04-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "薄马赛克",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/3bc035f58ccf18595580a0a4cffe4dfb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73440",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73440&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73440&name=玉木玲"
+    },
+    {
+      "name": "蒂亚",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/74d95fd68c0f3d25714ec5ce86ea8827.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73440&name=蒂亚"
+    }
+  ]
+};

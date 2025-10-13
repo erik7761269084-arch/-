@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/465B887B5EA5B849/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55836,
+  "IDcode": "50CB9417BC37DA1977BFA97041A1BB8D",
+  "title": "淫乱娘的变态志愿",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55836",
+  "actresses": []
+};

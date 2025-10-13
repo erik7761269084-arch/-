@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa11f4a1-521a-4ae5-aa15-2ab1bc3615f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9099,
+  "IDcode": "MXGS-1367",
+  "title": "絕叫高潮！射精後，敏感度已達到100%的陰部立即又被插入一根大雞巴，進一步的無限循環活塞 ~ 森澤佳奈",
+  "publish_date": "2025-01-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "傲嬌",
+    "臀控",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "御姐系",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "美人",
+    "真實拍攝",
+    "極品美人",
+    "無毛",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/150e79be-4ef9-4ff8-ad89-08109b5d3058.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/150e79be-4ef9-4ff8-ad89-08109b5d3058.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9099",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9099&name=森澤佳奈"
+    }
+  ]
+};

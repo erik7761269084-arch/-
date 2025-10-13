@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250412/iPzyTgqm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67311,
+  "IDcode": "STARS-706",
+  "title": "終電逃した妻の妹を泊めるだけだったのに…。セックスレスで溜まったストレスが暴発して、朝まで無理やり犯しまくってしまった。 工藤ゆら",
+  "publish_date": "2022-10-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "戏剧",
+    "乱伦",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67311",
+  "actresses": []
+};

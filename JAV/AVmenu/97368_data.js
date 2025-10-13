@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/BCAEA65CF57BE590/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97368,
+  "IDcode": "DG-183",
+  "title": "【※削除注意※】19！19！19！円光3人組を並べて片っ端から生挿入&amp;生中出し。主催者も混ざっての大乱交5Pで現場はカオス！！おじさんには限界です。",
+  "publish_date": "2023-02-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "多P",
+    "业余",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97368",
+  "actresses": []
+};

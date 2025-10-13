@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250404/73w41o7G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68915,
+  "IDcode": "NGOD-172",
+  "title": "隣のぷりけつ人妻の無意識な尻肉挑発に興奮してフル勃起のデカチンで旦那の留守中イキまくるまで鬼突きしてしまった… 黒川すみれ （ブルーレイディスク） （BOD）",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "巨大阴茎",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68915",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68915&name=黑川堇"
+    }
+  ]
+};

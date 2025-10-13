@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250327/MEpCUEHm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69796,
+  "IDcode": "SSIS-492",
+  "title": "「生意気で男性不信…」彼女のツンデレ妹に欲情し、こっそりハメ続けた最低な僕。 坂井なるは 生写真3枚付き",
+  "publish_date": "2022-08-10",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "戏剧",
+    "薄马赛克",
+    "妹妹",
+    "白天出轨",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/31d72935e29976401fd81b5a007d18f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69796",
+  "actresses": []
+};

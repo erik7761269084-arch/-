@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/sszZhty6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71398,
+  "IDcode": "GANA-2230",
+  "title": "マジ軟派、初撮。 1439 奇跡のアラフォー！逆サバを疑うほど若々しい38歳の美女を恵比寿でナンパ！物腰柔らかでおしとやか…かと思いきやSEXになると豹変！甘美な声でいつまでも喘ぎ続ける！",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "成熟的女人",
+    "巨乳",
+    "无毛",
+    "颜射",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71398",
+  "actresses": [
+    {
+      "name": "仲间明日香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71398&name=仲间明日香"
+    }
+  ]
+};

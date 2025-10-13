@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c10bcb5c-f4a9-4592-9731-36dfdd00f881/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 329,
+  "IDcode": "HEYZO-0382",
+  "title": "在戶外泳池幹了一個身材超贊的喲 ~ HIKARI",
+  "publish_date": "2013-08-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "69",
+    "劇情",
+    "純粹的慾望",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "野戰",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "泳池",
+    "口交",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美人",
+    "野外露天",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性"
+  ],
+  "description": "HEYZO-0382为HEYZO出品,2013年8月2日发行的無碼成人影片由HIKARI出演\nイマドキ水着ギャルを野外でハメちゃいました！ - HIKARI",
+  "cover_url": "https://picture.yoshiclub.xyz/20250325/c9ab0618-1559-4f08-ae27-eeda2818837e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250325/c9ab0618-1559-4f08-ae27-eeda2818837e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=329",
+  "actresses": [
+    {
+      "name": "HIKARI",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/5d53de50-3637-407e-8f34-49727f7785d4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=329&name=HIKARI"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/219554a6-6f68-4bbe-97da-51973bdc2b09/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/16/cec36a90/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16451,
+  "IDcode": "ADN-531",
+  "title": "妻子一喝酒就會亂改",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "酒後亂性",
+    "中出",
+    "蕩婦",
+    "口交",
+    "性感",
+    "人妻",
+    "出軌",
+    "NTR"
+  ],
+  "description": "ADN-531为ATTACKERS出品,2024年2月6日发行的有碼成人影片由夏目彩春出演\n妻子喜歡喝酒。但喝多了，就會突然變成一個花癡性欲狂女。這就是爲什麼我對今晚的居委會會議感到擔心。因爲工作沒辦法去，就讓老婆參加，條件是她不能喝酒，沒想到竟然發生了這樣的事……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205010956909909.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240205/20240205010956909909.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16451",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16451&name=夏目彩春"
+    }
+  ]
+};

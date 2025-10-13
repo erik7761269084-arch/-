@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/pONfNar2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76051,
+  "IDcode": "SABA-512",
+  "title": "就職活動女子大生生中出し面接Vol.004",
+  "publish_date": "2019-03-22",
+  "type": "有码",
+  "company": "S級素人",
+  "genres": [
+    "中出",
+    "女大学生",
+    "口交",
+    "业余",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/98155d988cc800b25eac890222b03ec5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76051",
+  "actresses": []
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241205/EnfIJGni/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76508,
+  "IDcode": "YRH-216",
+  "title": "下ネタ屋台×PRESTIGE PREMIUM 01 屋台の親父が出す’安酒’と、’聞き上手のイケメン’で、泥●手前の本能剥き出しセックス！！",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "颜射",
+    "玩具",
+    "潮吹",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/79d503cf9ca456e89aed75ac07238a91.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76508",
+  "actresses": [
+    {
+      "name": "ゆうき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\.Recycled\\Ebody/AI-Fix-ゆうき.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76508&name=ゆうき"
+    }
+  ]
+};

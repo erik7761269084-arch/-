@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/17907630-68ee-4aa0-92b1-7d6bca8f128c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/04/2c9fe669/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11837,
+  "IDcode": "JUQ-872",
+  "title": "代替女兒進行同人AV出道的母親 ~ 佐田茉莉子",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "AV拍攝現場",
+    "情趣內衣",
+    "巨乳",
+    "猥褻穿著",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-872为MADONNA出品,2024年9月24日发行的有碼成人影片由佐田茉莉子出演\n媽媽真理子最近對女兒尤里的行為感到擔憂。有一天，當我看尤里手機上的影片時…有一段她做愛的影片。真理子驚訝地找到導演梅谷，要求立即撤回廣播，但…相反，他利用影片的病毒式傳播作為盾牌，讓真理子答應出現。真理子出現在同人 AV 中，儘管她說這是給她女兒的。由於快樂與羞恥相結合，她無性別的身體不斷受到強烈高潮的攻擊......",
+  "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919031640754754.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240919/20240919031640754754.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11837",
+  "actresses": [
+    {
+      "name": "佐田茉莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/3442bc99-0d64-4ae4-bc09-087cedaa1bd0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11837&name=佐田茉莉子"
+    },
+    {
+      "name": "家入ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11837&name=家入ゆり"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250223/bxP7r8jH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71186,
+  "IDcode": "EBOD-658",
+  "title": "笑顔が素敵すぎる純白Gカップ美白美人ののか（22歳）さん 彼氏との婚約中にまさかのAV出演",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "苗条",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/a25f40f0f52190155e11dbb84c7f712b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71186",
+  "actresses": [
+    {
+      "name": "河合乃乃花",
+      "img_url": "https://picture.yoshiclub.xyz/20240515/e12cbcad-671b-481c-af70-b128439fce23.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71186&name=河合乃乃花"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71186&name=しみけん"
+    }
+  ]
+};

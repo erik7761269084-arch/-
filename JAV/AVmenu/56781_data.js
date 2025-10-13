@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56781,
+  "IDcode": "8E7729FEADD04FFB363DB551AA904604",
+  "title": "巨臀爱好 -惠美的肉臀猥亵过头让人着迷- 碧惠美",
+  "publish_date": "",
+  "type": "无码",
+  "company": "DOGMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56781",
+  "actresses": []
+};

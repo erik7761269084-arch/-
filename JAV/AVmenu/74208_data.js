@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250106/doDZsJY8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74208,
+  "IDcode": "LUXU-1083",
+  "title": "ラグジュTV 1068 美意識高い美巨乳美女は想像以上にエロ感度良好！「気持ちいいッ！」と声を上げながら自らの小刻み腰振りで中イキする騎乗位は必見！",
+  "publish_date": "2019-02-22",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "姐姐",
+    "颜射",
+    "屁股",
+    "业余",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250106-1/97b467acd41ce93f02b9513cfbdcc023.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74208",
+  "actresses": [
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74208&name=南真悠"
+    }
+  ]
+};

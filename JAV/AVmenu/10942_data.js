@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed9b4339-8c81-4c73-9955-c431528c589d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10942,
+  "IDcode": "CLUB-853",
+  "title": "以練習按摩爲幌子，一遍又一遍地刺激來聚會女孩的敏感部位，原本沒有反應的身體有了反應！我可以盡情地享用她了！ 變態狂按摩盜攝 ~ 乙愛麗絲 水瀨 彌生美月 蘭華",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "後入",
+    "故事集",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "變態",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "膚黑",
+    "舔陰",
+    "偷拍・盜撮",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "金髮",
+    "手指插入",
+    "抹油",
+    "偷窺",
+    "辣妹/GAL系",
+    "短髮",
+    "誘騙女性",
+    "美少女電影",
+    "野性",
+    "女學生",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241101/f8b7fa4f-df3c-4a97-8838-4e2a332b56a0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241101/f8b7fa4f-df3c-4a97-8838-4e2a332b56a0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10942",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10942&name=乙愛麗絲"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10942&name=彌生美月"
+    },
+    {
+      "name": "蘭華",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/fb5d944b-38f2-4878-b1e8-401fd6537139.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10942&name=蘭華"
+    },
+    {
+      "name": "水瀨裡奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240519/de11ba91-ebb3-48a0-9ead-8797084ba61e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10942&name=水瀨裡奈"
+    }
+  ]
+};

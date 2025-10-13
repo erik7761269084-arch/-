@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/516428fa-23b8-4431-97b1-9ebc84b17b70/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 398,
+  "IDcode": "HEYZO-0471",
+  "title": "只有我知道！喜歡着的姐姐的羞恥淫液是蜂蜜的味道 ~ 柚木楓",
+  "publish_date": "2013-12-01",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "御姐系",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "熟女",
+    "綠茶婊",
+    "短髮",
+    "豐滿",
+    "女優"
+  ],
+  "description": "HEYZO-0471为HEYZO出品,2013年12月1日发行的無碼成人影片由柚木楓出演\nボクだけが知っている！憧れのお姉さんの羞恥プレイは蜜の味 - 柚木楓",
+  "cover_url": "https://picture.yoshiclub.xyz/20250217/65a1b596-ea0d-47a1-b57a-3197bc9b519a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250217/65a1b596-ea0d-47a1-b57a-3197bc9b519a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=398",
+  "actresses": [
+    {
+      "name": "柚木楓",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/239a4697-84e8-4535-b55a-7828bdabd915.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=398&name=柚木楓"
+    }
+  ]
+};

@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230201/5250D8AB3215BCC5/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99196,
+  "IDcode": "NANP-011",
+  "title": "予約しても中々現れないというJ○が働く噂のデリで、宝くじ一等当選並みの引きでJ○をリアルゲット！ウブなマ○コにニュポリ生ハメ『中はダメ』と言われながらのたっぷり強制中出し！",
+  "publish_date": "2019-07-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "中出",
+    "纪录片",
+    "猎艳",
+    "校服",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99196",
+  "actresses": [
+    {
+      "name": "七瀬りん",
+      "img_url": "https://picture.yoshiclub.xyz/20230706/36c9fe57-9637-4b1a-8428-cbdc8332cd16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99196&name=七瀬りん"
+    },
+    {
+      "name": "岬澪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99196&name=岬澪"
+    },
+    {
+      "name": "彩风のん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99196&name=彩风のん"
+    }
+  ]
+};

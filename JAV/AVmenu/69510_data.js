@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250327/NPGvE6eD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69510,
+  "IDcode": "STARS-727",
+  "title": "對敏感乳頭煩惱的制服美少女在整體時被性感開發乳頭高潮…。工藤由羅",
+  "publish_date": "2022-12-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69510",
+  "actresses": []
+};

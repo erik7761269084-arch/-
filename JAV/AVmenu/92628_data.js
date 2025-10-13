@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240908/ckqnFtsC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92628,
+  "IDcode": "ND-449",
+  "title": "ND449美女媽媽佐佐木明希發現兒子在偷偷看麻里梨夏的VR作品一邊說梨夏不可愛很討厭一邊想用身體挽回兒子。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92628",
+  "actresses": []
+};

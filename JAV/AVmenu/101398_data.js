@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240304/bEmOQkdB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101398,
+  "IDcode": "TENC-012",
+  "title": "仕事をサボってカーセックスしていた新社会人カップルを催●ガスで眠らせNTR ターゲット…新社会人OL 彼氏…職場の先輩",
+  "publish_date": "2024-02-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "凌辱",
+    "OL",
+    "魔鬼系",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1tenc012/1tenc012pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101398",
+  "actresses": []
+};

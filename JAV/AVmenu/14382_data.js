@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f1df66bb-6aa3-405b-a340-7fa056116d12/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14382,
+  "IDcode": "SDJS-262",
+  "title": "長谷川音映（22歲），戴着振動器，在公司裏隨身攜帶的無辜實習生SOD女員工",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "OL",
+    "口交",
+    "少女",
+    "辦公室",
+    "羞恥"
+  ],
+  "description": "SDJS-262为SOD出品,2024年6月1日发行的有碼成人影片\n實習生SOD女職員長谷川音頻第2部。我想幫助我的前輩！我不想輸給同學！考慮到這一點，我接受了侮辱性工作的挑戰，這進一步激發了我的變態本性。一位年輕女導演，自上一部作品拍攝以來一直在教導長谷川，讓他射精，讓他射精，奇聞趣事，射精，廁所自慰，大腿工作等，並擁有超過4 小時的潮吹工作記錄，自慰效果很好。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528003942980980.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240528/20240528003942980980.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14382",
+  "actresses": []
+};

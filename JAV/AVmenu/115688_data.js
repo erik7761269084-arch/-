@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/26/bbd83865/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 115688,
+  "IDcode": "FC2-3799214",
+  "title": "就读于明治大学国文系拥有美乳美臀清纯外貌的美少女",
+  "publish_date": "2025-08-27",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=115688",
+  "actresses": []
+};

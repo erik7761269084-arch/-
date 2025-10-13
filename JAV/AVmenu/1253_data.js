@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9f0cd65b-7573-4159-9a79-baac71ab1310/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1253,
+  "IDcode": "HEYZO-2457",
+  "title": "與自慰到溼透的女孩絶頂性交Vol.12 涼宮音",
+  "publish_date": "2021-01-30",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230907/20230907002537280280.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230907/20230907002537280280.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1253",
+  "actresses": [
+    {
+      "name": "涼宮のん",
+      "img_url": "https://picture.yoshiclub.xyz/20230719/d0015802-112e-4590-86aa-e726fbbbce2d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1253&name=涼宮のん"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231207/Zehmr2OP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88653,
+  "IDcode": "XVSR-728",
+  "title": "【FANZA限定】逆バニーDE泡姫桃源郷 泡と愛情でお客様の敏感な所をじっくり丁寧に洗いつくす 斎藤あみり パンティとチェキセット",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "中出",
+    "接吻",
+    "主观视角",
+    "礼仪小姐",
+    "兔女郎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/21c7ece8275ac7617bd0ed8ba824b3af.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88653",
+  "actresses": [
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88653&name=斋藤亚美里"
+    }
+  ]
+};

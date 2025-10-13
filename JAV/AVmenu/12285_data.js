@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4701c5e5-8710-476f-84d7-521b1601be29/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12285,
+  "IDcode": "FJIN-035",
+  "title": "安靜認真的女生的真面目竟然是J系惡魔，挑逗着急的男人，被親密的耳語和下流的淫語所誘惑...... ~ 天月梓",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "故事集",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "淫語",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "更衣室",
+    "艷遇",
+    "校園生活",
+    "巨乳",
+    "野外露天",
+    "短髮",
+    "女學生"
+  ],
+  "description": "FJIN-035为妄想族出品,2024年9月3日发行的有碼成人影片由天月梓出演\n班上嚴肅的J型突然變了！老師們被腦筋急轉彎的髒話羞辱了，按捺不住，變成了不合格的學生…1 補課時的教室裡 ＃2 放學後的淋浴間裡 ＃3 教室裡可以看到校園的Piloti ＃ 4 打掃時在廁所裡秘密＃5 放學後的教室裡有學生＃6 俱樂部活動結束時的儲物櫃",
+  "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901022620343343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240901/20240901022620343343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12285",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12285&name=天月梓"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/04/183e0140/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78213,
+  "IDcode": "PRED-205",
+  "title": "ヤリマンの友達はやっぱりヤリマン！絶品ボディ高級下着販売員 AV出演！ 美月咲良",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "潮吹",
+    "首次亮相",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/53a8c9cd8a42567448f7d28c256fdd8d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78213",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78213&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78213&name=イセドン内村"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78213&name=玉木玲"
+    },
+    {
+      "name": "枫真衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78213&name=枫真衣"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230725/YbrbxLoh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58930,
+  "IDcode": "011823-001",
+  "title": "マンコ図鑑 今田美玲",
+  "publish_date": "2023-01-18",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "偷窥",
+    "淫荡手淫",
+    "美乳",
+    "白虎",
+    "美脚"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58930",
+  "actresses": [
+    {
+      "name": "今田美玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=58930&name=今田美玲"
+    }
+  ]
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240429/Qoghjewb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91340,
+  "IDcode": "CHRV-190",
+  "title": "【FANZA限定】お兄ちゃんの性欲を満たす代理デカパイ妹サービス！ 「妹レンタル」の爆乳は一見にしかず！半袖セーラー服生中出し！ Iカップ97cm まなちぃ パンティと生ポラ付き",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "水手服",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240430-1/a242af475139f7b55bd9461b67171f68.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91340",
+  "actresses": []
+};

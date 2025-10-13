@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/8mZZzMlE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83381,
+  "IDcode": "KATU-066",
+  "title": "むっちりすけべなお姉さん 超乳Kカップイケイケお姉さんのド変態性活",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "屁股",
+    "胖女人",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83381",
+  "actresses": [
+    {
+      "name": "麻仓ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83381&name=麻仓ゆあ"
+    }
+  ]
+};

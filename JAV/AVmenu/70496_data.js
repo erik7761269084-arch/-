@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/19/6abeefea/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70496,
+  "IDcode": "STAR-925",
+  "title": "小倉由菜 精子を舌で舐め取りじっくり味わう初ごっくん",
+  "publish_date": "2018-06-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "口交",
+    "吞精",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70496",
+  "actresses": []
+};

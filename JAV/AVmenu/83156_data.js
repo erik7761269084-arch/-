@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/02/c6b423a3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83156,
+  "IDcode": "SDDE-609",
+  "title": "今日から君は、セックス地球防衛軍 2169 宇宙戦艦で戦う強かっこいい女隊員たちとセックスをして地球を守れ！",
+  "publish_date": "2020-01-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "主观视角",
+    "女战士",
+    "科幻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/1ae2c232256598387b57d83ff321e628.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83156",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83156&name=美園和花"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83156&name=黑川堇"
+    }
+  ]
+};

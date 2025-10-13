@@ -1,0 +1,85 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a2f9c784-fb6c-4963-a52a-7c5a2b8f9517/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/b2fcd1f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7990,
+  "IDcode": "HNTRZ-004",
+  "title": "淫蕩後宮聖水部：沉浸在苗條同學和巨乳學長們的體液和快感中的極品校園生活 ~ 沙月惠奈 白石桃 彌生美月 美園和花",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "校花",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "泳池",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "一男多女",
+    "後宮系",
+    "少女",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "體育舘",
+    "更衣室",
+    "清純",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "美人",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "泳裝"
+  ],
+  "description": "HNTRZ-004为HUNTER出品,2025年2月25日发行的有碼成人影片由美園和花，彌生美月，白石桃，沙月惠奈出演\n我是一名充滿夢想和希望的新生。當我班上最漂亮的女孩Momo-chan邀請我去看游泳俱樂部的比賽時，我欣喜若狂。我自然同意了，當我和她一起去游泳俱樂部時，她告訴我有一個入學考試。她沒多想就接受了測試，但是當社團長開始測試時，他不知為何摸了摸桃醬的小腹並說道：“這樣，多存點水。”我歪著頭問：「要不要存起來？」社團的學長們笑著回答。 “我們是‘神聖’游泳社的！”",
+  "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093658255255.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250220/20250220093658255255.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7990",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7990&name=美園和花"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7990&name=彌生美月"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7990&name=沙月惠奈"
+    },
+    {
+      "name": "白石桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2c30d68c-5834-4e2a-968b-0b2c6e23c666.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7990&name=白石桃"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7990&name=弥生美月"
+    }
+  ]
+};

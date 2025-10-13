@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/031b0067-36f1-4ff4-81a6-37265c43b39f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12882,
+  "IDcode": "BOBB-414",
+  "title": "按摩吸吮L罩杯超巨乳破壞性的天然神乳徹底享受！~ 新田雪",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "紀念作",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "美少女",
+    "巨乳",
+    "抹油",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "BOBB-414为妄想族出品,2024年8月6日发行的有碼成人影片由新田雪出演\n擁有超大體積神乳的新田由希來到了BoinBB！她性感的身體和各種大小、形狀、顏色和光澤的高品質乳房一定會讓您完全勃起，每次被陰莖擊中時它們都會動態顫抖！請盡情享受BoinBB充滿肉感和色情的流動奶水吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802005901756756.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802005901756756.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12882",
+  "actresses": [
+    {
+      "name": "新田雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/7a2f0979-2af4-4461-9e05-2f23ef792d3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12882&name=新田雪"
+    }
+  ]
+};

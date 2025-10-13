@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a72e175c-3bb1-41ad-be6d-6085f0c221bd/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20240409/mgxfNHUM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15966,
+  "IDcode": "SAME-099",
+  "title": "只要1000日元就可以跟老師做愛（笑）",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "女教師",
+    "脅迫做愛",
+    "劇情",
+    "凌辱",
+    "中出",
+    "強姦",
+    "輪姦",
+    "學校",
+    "美少女電影"
+  ],
+  "description": "SAME-099为ATTACKERS出品,2024年3月5日发行的有碼成人影片由遠藤沙耶出演\n西野是一個問題兒童，他利用父母向學校捐贈大量資金的事實。 “我認爲對某些學生給予特殊對待對教育來說並不是一件好事。”剛剛上任的遠藤沙耶無法忽視老師們的偏袒和西野的不良行爲，西野引起了她的注意。受到“教育”。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302084548622622.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240302/20240302084548622622.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15966",
+  "actresses": [
+    {
+      "name": "遠藤沙耶",
+      "img_url": "https://picture.yoshiclub.xyz/20240102/42bd8204-35e9-483b-b0db-7950bd916c1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15966&name=遠藤沙耶"
+    }
+  ]
+};

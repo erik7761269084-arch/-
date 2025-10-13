@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/9cwPHD4G/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85702,
+  "IDcode": "NGOD-173",
+  "title": "【FANZA限定】隣家の美人なシンママさんにある日突然痴女られて一滴も残らず搾り獲られた陰キャな僕。 水川スミレ パンティと生写真付き",
+  "publish_date": "2022-05-11",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/59fcbe4944f512e59a6db5d2d2edadcb.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85702",
+  "actresses": [
+    {
+      "name": "水川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20230517/eb90692d-2857-408c-a8bf-5a9f57713932.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85702&name=水川蓳"
+    }
+  ]
+};

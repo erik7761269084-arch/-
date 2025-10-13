@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230127/Rx6Jl0Jk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85684,
+  "IDcode": "NACR-552",
+  "title": "オモチャ売りの少女 さつき芽衣 パンティと生写真付き",
+  "publish_date": "2022-06-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "多P",
+    "玩具",
+    "乱伦",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85684",
+  "actresses": [
+    {
+      "name": "沙月芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/4cafabdb-655c-40c7-a010-fe82e44a03ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85684&name=沙月芽衣"
+    }
+  ]
+};

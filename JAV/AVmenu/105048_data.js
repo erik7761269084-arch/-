@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/19/a22c1119/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105048,
+  "IDcode": "MTALL-108",
+  "title": "【FANZA限定】童貞のみ本番OKド健全メンエス嬢 稲荷ある パンティとチェキ付き",
+  "publish_date": "2024-03-20",
+  "type": "有码",
+  "company": "MATERIALL",
+  "genres": [
+    "淫语",
+    "荡妇",
+    "口交",
+    "手淫",
+    "礼仪小姐",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105048",
+  "actresses": [
+    {
+      "name": "稻荷步",
+      "img_url": "https://picture.yoshiclub.xyz/20231101/85fc1c0e-ec4f-421f-a966-318055c151d1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105048&name=稻荷步"
+    }
+  ]
+};

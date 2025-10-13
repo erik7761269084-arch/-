@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241225/pCpAaITh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75077,
+  "IDcode": "KTKZ-060",
+  "title": "［発掘］真面目なごく普通の大学一年生はデカ尻マシュマロヒップの高身長スタイル抜群な逸材でした。",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "高",
+    "业余",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75077",
+  "actresses": []
+};

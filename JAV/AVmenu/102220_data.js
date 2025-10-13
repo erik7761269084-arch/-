@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240527/tafP8Imx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102220,
+  "IDcode": "MXGS-1100",
+  "title": "デビューしたばかりの新人AV女優をスタジオ入り直後、腰を抜かすほどのピストンで即ハメSEX 月乃ルナ",
+  "publish_date": "2019-05-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "纪录片",
+    "立即口交",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102220",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102220&name=月乃露娜"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/AC2253218566C8ED/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65814,
+  "IDcode": "3D5280279F268878FED7C158F6A3C1EA",
+  "title": "金8天國 3188 LUXURIOUS 贅沢で官能的な大人の時間 男性の欲望全て葉えてくれる女",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65814",
+  "actresses": []
+};

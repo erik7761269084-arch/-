@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/F7A7AC23702C0259/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99008,
+  "IDcode": "AMBI-074",
+  "title": "犯され壊されたちっぱい娘 れな あおいれな",
+  "publish_date": "2017-02-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "萝莉塔",
+    "监禁",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99008",
+  "actresses": [
+    {
+      "name": "葵玲奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/7495050f-58ca-4c8d-b86b-f9eb6c06f727.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99008&name=葵玲奈"
+    }
+  ]
+};

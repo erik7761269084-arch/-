@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241122/RxEqa3PZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77942,
+  "IDcode": "JUY-629",
+  "title": "新人 高級百貨店の現役受付嬢 本上さつき 42歳 AVDebut！！",
+  "publish_date": "2018-11-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "数位马赛克",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77942",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77942&name=小田切ジュン"
+    },
+    {
+      "name": "本上さつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77942&name=本上さつき"
+    }
+  ]
+};

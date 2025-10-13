@@ -1,0 +1,90 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c74f7f0c-36b9-4b36-b4ef-e2034de62a56/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/8838de14/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4884,
+  "IDcode": "FJIN-083",
+  "title": "雙人妻綁架調教 肉感熟女被瘋狂中出淪為肉棒奴隸 痙攣高潮不間斷 ~ 佐久間楓 徳島理子",
+  "publish_date": "2025-06-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "貴婦",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "超爆乳",
+    "調教",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "四十路",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "顏射",
+    "綁架",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "緊縛",
+    "清楚系",
+    "鬼畜片",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "兩男兩女",
+    "熟女",
+    "野性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "FJIN-083为妄想族出品,2025年6月28日发行的有碼成人影片由佐久間楓，徳島理子出演\n這些壞女人就該被私刑懲罰！表面上看起來老實，其實根本不顧家，滿腦子只有性慾，到處偷腥搞外遇。這次接到委託，我們替人出氣，狠狠修理了這兩個熟女！鬼畜中出輪流上陣，幹到她們小穴都沒空閒，徹底淪為肉棒的俘虜！一次又一次被幹到崩潰，哭喊著“放過我吧！”還在亂交中被玩弄，強制中出侵犯。為了考驗她們的“姊妹情”，硬是被迫口爆，還得忍受羞辱的強制女女互動，臉都扭曲了卻越來越有感覺。想成為孩子們驕傲的媽媽？看來還得繼續再教育啦，哈哈！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224212610610_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224212610610_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4884",
+  "actresses": [
+    {
+      "name": "佐久間楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240523/7d265f5d-d04b-4ea8-9ce6-ded94b7a935c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4884&name=佐久間楓"
+    },
+    {
+      "name": "徳島理子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250629/701c239c-a375-441f-8fc1-2c7d42a0d1d8_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4884&name=徳島理子"
+    },
+    {
+      "name": "徳岛理子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4884&name=徳岛理子"
+    }
+  ]
+};

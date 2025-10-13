@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1fecdc7c-3031-4c05-9317-55b666227535/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1322,
+  "IDcode": "HEYZO-2604",
+  "title": "操了一個穿泳裝的素人娘",
+  "publish_date": "2021-09-05",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "素人",
+    "抹油",
+    "泳裝"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806213251835835.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230806/20230806213251835835.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1322",
+  "actresses": [
+    {
+      "name": "御坂恵衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230707/ef7534b8-d195-4e40-b1a1-755c6dc5fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1322&name=御坂恵衣"
+    }
+  ]
+};

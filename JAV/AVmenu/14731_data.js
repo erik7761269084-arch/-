@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/21af9da4-b368-4e53-820f-c26becf94481/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14731,
+  "IDcode": "SDNM-460",
+  "title": "通過出演AV踏上尋找內心性欲的旅程。茉乃莉華子，32歲，最終章，與自結婚以來一直無性的丈夫無法滿足的性欲，在AV中得到了滿足......",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "中出",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "出道作品",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "人妻",
+    "猥褻穿著",
+    "飯店"
+  ],
+  "description": "SDNM-460为SOD出品,2024年6月1日发行的有碼成人影片\n身高166公分、東京美容俱樂部常駐的莉香子·馬裡諾（Rikako Marino）結婚三年了，這是她32歲的最後一章。結婚以來一直無性的丈夫無法滿足的性慾，在AV中得到了滿足……生中出、玩具折磨、女性高潮覺醒！ ！被不認識的男人在沒有避孕的情況下插入……終於，一個擁有全身性感區的受虐狂已婚婦女暴露了她的本能並發生了性行為！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240514/4e30f897-c22e-41a9-ae7d-9022439aff57.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240514/4e30f897-c22e-41a9-ae7d-9022439aff57.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14731",
+  "actresses": []
+};

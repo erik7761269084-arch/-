@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221222/624E290D937482E3/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102812,
+  "IDcode": "ETQR-058",
+  "title": "ベロチュウイチャラブ制服リフレ 南なつき",
+  "publish_date": "2018-09-29",
+  "type": "有码",
+  "company": "Eromanga",
+  "genres": [
+    "中出",
+    "口交",
+    "校服",
+    "礼仪小姐",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1186etqr058/h_1186etqr058pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102812",
+  "actresses": [
+    {
+      "name": "南なつき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102812&name=南なつき"
+    }
+  ]
+};

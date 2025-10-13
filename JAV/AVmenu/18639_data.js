@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a844255f-e1b6-41e9-8e4b-91553bc5d5ac/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18639,
+  "IDcode": "IPX-674",
+  "title": "是夢?抑是現實? 真人版！！",
+  "publish_date": "2021-06-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "原作改編",
+    "口交",
+    "少女",
+    "奇聞趣事",
+    "巨乳",
+    "出軌",
+    "奇異的",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230920/20230920223703679679.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230920/20230920223703679679.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18639",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18639&name=桜空桃"
+    }
+  ]
+};

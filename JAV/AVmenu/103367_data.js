@@ -1,0 +1,38 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103367,
+  "IDcode": "ABP-135-",
+  "title": "天然成分由來芽森しずく汁120％芽森しずくの體液",
+  "publish_date": "2014-04-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "多P",
+    "潮吹",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103367",
+  "actresses": [
+    {
+      "name": "寶生莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720024204133133_78676_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103367&name=寶生莉莉"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103367&name=森林原人"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103367&name=沢井亮"
+    }
+  ]
+};

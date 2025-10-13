@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/245834b5-25cb-485e-b0ea-6492f8d3c954/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/12/05989640/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15466,
+  "IDcode": "MIDV-704",
+  "title": "新上任的月雲夜老師居然和宅男老師同住一個房間，我親眼目睹了月雲夜是如何陷入巨大雞巴的，我是一個瘋狂的NTR。",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "熟女",
+    "無毛",
+    "飯店"
+  ],
+  "description": "MIDV-704为MOODYZ出品,2024年4月16日发行的有碼成人影片由月雲夜出演\n月雲成為老師，第一次與學生進行通宵學習之旅。睡前，當我從浴室回來時，不知為何，我發現我的書呆子物理老師植村在我的房間裡。植村始終將月雲視為女性，無法逃離，月雲進行了抵抗，但最終在未經同意的情況下與她發生了性關係。然而，儘管這是一個不情願的行為，但月雲卻因為上村的大雞巴和精緻的活塞而逐漸達到了高潮。即使回到日常生活後，上村仍然堅持做某件事。真噁心……但她無法忘記自己的身體……月雲沉浸在上田的摩擦術中……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412051806587587.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412051806587587.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15466",
+  "actresses": [
+    {
+      "name": "月雲夜",
+      "img_url": "https://picture.yoshiclub.xyz/20231104/dfaef203-ad5b-446e-9ed2-a988cae22fb2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15466&name=月雲夜"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15466&name=まーち"
+    }
+  ]
+};

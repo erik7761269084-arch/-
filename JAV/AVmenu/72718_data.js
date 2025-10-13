@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/09/432b5293/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72718,
+  "IDcode": "HEZ-753",
+  "title": "超セレブ 清楚高学歴な’お受験ママ’ナンパ！名門学×の入試説明会帰りの人妻を狙え！！Vol.02",
+  "publish_date": "2025-02-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "羞耻",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/09/432b5293/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72718",
+  "actresses": []
+};

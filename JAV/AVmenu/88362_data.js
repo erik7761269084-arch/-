@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/d64DvWr4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88362,
+  "IDcode": "HND-933",
+  "title": "絶対にナマで連射させてくれる連続中出しソープ 川村晴",
+  "publish_date": "2020-12-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "巨乳",
+    "中出",
+    "口交",
+    "礼仪小姐",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/332a30eb8c8d145b664136f67d8ed695.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88362",
+  "actresses": [
+    {
+      "name": "川村晴",
+      "img_url": "https://picture.yoshiclub.xyz/20240808/7fcdf88c-21e3-43a1-bd9c-2b7078f89367.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88362&name=川村晴"
+    }
+  ]
+};

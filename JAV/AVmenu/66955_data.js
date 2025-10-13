@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250421/a88uckHP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66955,
+  "IDcode": "HBAD-630",
+  "title": "爆乳變態癡女護理師盯上沉穩患者連夜徘徊搾取精液 真仲涼音",
+  "publish_date": "2022-08-11",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "巨乳",
+    "荡妇",
+    "护士",
+    "蒙面・面罩",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/cc79fb5a985891186c3efd48f2bc59b8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66955",
+  "actresses": []
+};

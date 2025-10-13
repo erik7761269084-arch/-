@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221231/yX73UCbr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83836,
+  "IDcode": "REBD-447",
+  "title": "Yuko 麗しき高嶺の花/白木優子",
+  "publish_date": "2020-03-05",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [
+    "介绍影片",
+    "偶像"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83836",
+  "actresses": [
+    {
+      "name": "白木優子",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/38b0d51b-9c36-443a-81f1-14c192125f9c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83836&name=白木優子"
+    }
+  ]
+};

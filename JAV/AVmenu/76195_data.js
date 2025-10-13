@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/KYDf97a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76195,
+  "IDcode": "GDHH-185",
+  "title": "エアセックス中にヌルっとズボっと生挿入！？同級生とエッチの練習がまさかの生本番に！！年上の彼氏をゲットして舞い上がっている同級生は初の…",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/152fbfc0f120e82ac9afb2cd8b534f68.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76195",
+  "actresses": [
+    {
+      "name": "貓宮美結",
+      "img_url": "https://picture.yoshiclub.xyz/20250219/5f701900-c639-47b7-90fa-c32d41ffab5a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76195&name=貓宮美結"
+    },
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76195&name=浅田结梨"
+    },
+    {
+      "name": "前田いろは",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76195&name=前田いろは"
+    },
+    {
+      "name": "东山想叶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76195&name=东山想叶"
+    }
+  ]
+};

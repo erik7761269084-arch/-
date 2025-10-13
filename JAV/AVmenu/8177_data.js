@@ -1,0 +1,69 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d53af67-e814-4440-945a-83c3a2961c48/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8177,
+  "IDcode": "SDNM-506",
+  "title": "我喜歡幫助別人。她在一家兒童餐廳做志願者。熱愛烹飪的30歲人妻。第2章：在當地情趣酒店的暴露和失禁。已婚人妻的性欲通過變態遊戲後徹底釋放 ~ 足立美緒",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "流汗",
+    "色白",
+    "中出",
+    "真人秀",
+    "早漏",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "緊縛",
+    "露出",
+    "清楚系",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "人妻",
+    "手指插入",
+    "地味",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "女優",
+    "情趣飯店",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250217/32238731-4fad-435c-91a5-e79b7b7028bd.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250217/32238731-4fad-435c-91a5-e79b7b7028bd.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8177",
+  "actresses": [
+    {
+      "name": "足立美緒",
+      "img_url": "https://picture.yoshiclub.xyz/20250121/915e2e97-6690-40ff-9fe1-144698ceb5e6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8177&name=足立美緒"
+    }
+  ]
+};

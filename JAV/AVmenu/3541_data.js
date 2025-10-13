@@ -1,0 +1,77 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/23a945e7-501d-40ea-ae27-e5cf048cf076/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/19/c2d97bfe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3541,
+  "IDcode": "FPRE-191",
+  "title": "M男是我的食物 絕對癡女的性感開發全套大餐 ~ 海老咲碧",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "肛交",
+    "企畫",
+    "巨尻",
+    "調教",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "拘束・拷問",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "顔面騎乘",
+    "舔陰",
+    "打手槍",
+    "SM",
+    "美腳",
+    "寫真女郎",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "鬼畜片",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "醫生製服",
+    "猥褻穿著",
+    "M男・M女",
+    "寫真偶像",
+    "美人",
+    "真實拍攝",
+    "眼鏡",
+    "極品美人",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "FPRE-191为FITCH出品,2025年8月14日发行的有碼成人影片由海老咲碧出演\n海老咲碧化身绝对痴女，强势上线！“从今天起，你就是我的小奴隶！”狂扇巴掌、狠踹、玩弄后庭，把M男调教得服服帖帖！手活、逼你连射、佩尼班猛攻、捆绑男潮吹，还有老男人被痴女狠狠玩弄，简直不要太爽！M男就是她的盘中餐，快乐被她舔得一干二净，绝对女王的性感全套大餐，奢华到爆！想沉溺在痛并快乐的极致折磨中吗？M男小哥哥们，这部片绝对不能错过！“M男就是我的饮料，嘻嘻……”",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034349662662_37503_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034349662662_37503_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3541",
+  "actresses": [
+    {
+      "name": "海老咲碧",
+      "img_url": "https://picture.yoshiclub.xyz/20240406/48b52330-5465-4e18-8d80-4944b87eee01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3541&name=海老咲碧"
+    },
+    {
+      "name": "ようく",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3541&name=ようく"
+    }
+  ]
+};

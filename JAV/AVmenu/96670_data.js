@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/05/42d55425/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96670,
+  "IDcode": "JRZE-194",
+  "title": "初撮り五十路妻ドキュメント 浪川ゆかり",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "熟女人妻最強廠",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "纪录片",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/05/c24bf124276217e7b810c6fc14e779fc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96670",
+  "actresses": [
+    {
+      "name": "浪川ゆかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96670&name=浪川ゆかり"
+    }
+  ]
+};

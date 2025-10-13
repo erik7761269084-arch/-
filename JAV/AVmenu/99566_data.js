@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230211/1DFB84B66CEC879E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99566,
+  "IDcode": "EBOD-371",
+  "title": "女のカラダは胸だけ育ち盛りで選ぶ。 さとう愛理",
+  "publish_date": "2014-05-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "淫乱，真实",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99566",
+  "actresses": [
+    {
+      "name": "安部藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240605/76a0239b-c4b2-4dde-be11-5cad26240b38.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99566&name=安部藍"
+    }
+  ]
+};

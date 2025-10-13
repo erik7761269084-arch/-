@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/8PJOBHXV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88908,
+  "IDcode": "UMD-880",
+  "title": "入院生活が長すぎて無防備な新人ナースのぱつぱつスケパン尻で毎日勃起してしまう僕4",
+  "publish_date": "2023-08-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "手淫",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88908",
+  "actresses": [
+    {
+      "name": "若宫穂乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88908&name=若宫穂乃"
+    }
+  ]
+};

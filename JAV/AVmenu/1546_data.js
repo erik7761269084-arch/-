@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230401/339a463d-c04e-46af-8dec-9c119b9b461b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1546,
+  "IDcode": "PPPD-206",
+  "title": "淫蕩姊姊的伺候乳房美體沙龍 菅野佐由紀",
+  "publish_date": "2012-09-19",
+  "type": "无码",
+  "company": "OPPAI",
+  "genres": [
+    "按摩・物理治療・美容",
+    "乳交",
+    "胸控・戀乳癖",
+    "無碼流出",
+    "按摩・美容店",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230402/45daad3e-6360-4330-93a2-e28ca9aa5670.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230402/45daad3e-6360-4330-93a2-e28ca9aa5670.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1546",
+  "actresses": [
+    {
+      "name": "菅野松雪",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/086229ee-a402-433d-b1ac-c7a36b793f6b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1546&name=菅野松雪"
+    }
+  ]
+};

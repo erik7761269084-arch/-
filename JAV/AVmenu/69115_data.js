@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250325/DHnOwGhF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69115,
+  "IDcode": "DVAJ-582",
+  "title": "【鬼焦らし】射精の瞬間にチ○ポ放置されザーメンお漏らしする‘ルーインドオーガズム’で賢者タイムにもさせてもらえず何度も何度も暴発射精させられる僕【計28発】 小花のん",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "中出",
+    "荡妇",
+    "M男",
+    "巨大阴茎",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250326-1/6b70e585f4c33f7c884d288659132676.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69115",
+  "actresses": []
+};

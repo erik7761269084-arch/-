@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230203/927e0f3e-7fbc-4e45-93c8-3552dedd0b49/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1798,
+  "IDcode": "SKYHD-154",
+  "title": "天空天使藍 Vol.146 ：堀口真紀",
+  "publish_date": "2015-08-19",
+  "type": "无码",
+  "company": "SKY HIGH",
+  "genres": [
+    "中出",
+    "顏射",
+    "美少女",
+    "COSPLAY服飾"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230211/1847b27d-060e-4e24-a768-7c6b91c3e31c.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230211/1847b27d-060e-4e24-a768-7c6b91c3e31c.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1798",
+  "actresses": [
+    {
+      "name": "堀口真希",
+      "img_url": "https://picture.yoshiclub.xyz/20230211/772fe23c-7f16-4286-ad4f-fe954f8172e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1798&name=堀口真希"
+    }
+  ]
+};

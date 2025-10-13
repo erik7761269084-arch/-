@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/VGlrRiPW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73822,
+  "IDcode": "MKON-013",
+  "title": "中出しヤリサー合宿 彼女と一緒にテニスサークルに参加したら、まだキスもしてなかったのに寝取られて生ハメ肉便器にされてしまった 逢沢りいな",
+  "publish_date": "2019-07-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "女大学生",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/901f3fa9b816093d4270ad2aeadf6e8a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73822",
+  "actresses": [
+    {
+      "name": "逢澤理衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/7a596a53-16e7-4d13-9446-cdb1739a0c79_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73822&name=逢澤理衣奈"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73822&name=岩下たろう"
+    }
+  ]
+};

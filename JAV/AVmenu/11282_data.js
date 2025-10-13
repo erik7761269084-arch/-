@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a1de2360-cc66-4dcc-b060-7729382cfc2a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/01/487865c4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11282,
+  "IDcode": "MIMK-160",
+  "title": "以羞辱和肉欲聞名的殘暴醫生的性騷擾強奸檢查中，J罩杯J系女被無良醫生在男友面前操到高潮 第2彈 ~ 水原みその",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "在丈夫面前被操",
+    "醫院・診所",
+    "二次元",
+    "漫畫改編",
+    "變態",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "原作改編",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "少女",
+    "蘿莉控",
+    "奇聞趣事",
+    "巨乳",
+    "看病・住院",
+    "奇異的",
+    "NTR",
+    "誘騙女性",
+    "羞恥"
+  ],
+  "description": "MIMK-160为MOODYZ出品,2024年10月15日发行的有碼成人影片由水原みその出演\n我突然腹痛，趕緊去醫院。原來這是一家令人難以置信的診所，由某種可疑的醫生經營… 【系列累計銷量突破23萬！ Itibocchi 和 MOODYZ 的第二次合作] Nanami 與男友一起參觀診所。為了找出腹痛的原因，七海接受了相當於性騷擾的不雅體檢……以X光的名義用智慧型手機拍攝了她的全身照片。記錄她的乳房並張開肛門。無知的男友不保護七海，只是看著她被放在產床上，用指涉和舔陰讓她高潮… 「這不是測試…！」無論你如何抱怨，你的男朋友仍然相信醫生的診斷，無論你怎麼看，這都是可疑的。當她在她面前被強姦時，她最終高潮了…人氣同人真人版，豐滿的J●被無良醫生強暴！還包括對性騷擾的徹底檢查。在男友面前晃動巨乳並被幹的3個鏡頭真是太酷了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010102545169169.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010102545169169.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11282",
+  "actresses": [
+    {
+      "name": "水原みその",
+      "img_url": "https://picture.yoshiclub.xyz/20240111/08b89e09-be7e-4410-a76a-3252f5c987ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11282&name=水原みその"
+    }
+  ]
+};

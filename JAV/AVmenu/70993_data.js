@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/OECfmcX0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70993,
+  "IDcode": "HND-751",
+  "title": "名門私立大学に通う19歳天然才女 初めてのナマ中出し 藍色なぎ",
+  "publish_date": "2019-11-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "多P",
+    "女大学生",
+    "玩具",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70993",
+  "actresses": [
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70993&name=しみけん"
+    },
+    {
+      "name": "藤森朱音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70993&name=藤森朱音"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/8yNdjgD8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80275,
+  "IDcode": "WAAA-126",
+  "title": "隣のゴミ部屋に監禁された制服少女は 絶倫オヤジの精液ぶっかけ種付けレ×プで汚されてイク... 川北メイサ",
+  "publish_date": "2021-12-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/5c0ca09806845f8b88e3ab6301ead5b5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80275",
+  "actresses": [
+    {
+      "name": "鳳美優",
+      "img_url": "https://picture.yoshiclub.xyz/20240830/99039d59-9884-40af-bf10-5d31920fdc0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80275&name=鳳美優"
+    }
+  ]
+};

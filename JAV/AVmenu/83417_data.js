@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/06/2e3e9fd7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83417,
+  "IDcode": "ARA-428",
+  "title": "【超ウルトラ級変態】20歳【シリーズ最高傑作】あずさちゃん参上！全てが規格外な美少女！説明は不要！とにかくこの逸材のSEX見逃すな！",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "屁股",
+    "苗条",
+    "乳液",
+    "业余",
+    "女优按摩棒",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/721774033415f6d047c70b752abd3faa.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83417",
+  "actresses": [
+    {
+      "name": "岬梓沙",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/2603d214-e17f-4f14-bc42-a088c7bd2afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83417&name=岬梓沙"
+    }
+  ]
+};

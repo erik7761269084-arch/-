@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/28/6a9850bd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85754,
+  "IDcode": "NSFS-079",
+  "title": "ザ・和姦12 犯●れた男に狂う妻 ～夫の横で強引に奪われて・・～ 紫月ゆかり",
+  "publish_date": "2022-04-12",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85754",
+  "actresses": []
+};

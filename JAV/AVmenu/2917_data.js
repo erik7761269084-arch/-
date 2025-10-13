@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/787bb7f0-e807-4420-b87a-cecd9a4a103d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2917,
+  "IDcode": "NGOD-284",
+  "title": "人妻酒店服務員 被無理投訴叫去房間慘遭住客巨根強行插入 ~ 小野坂唯香",
+  "publish_date": "2025-09-04",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "超爆乳",
+    "臀控",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "制服",
+    "肉絲",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "輪姦",
+    "接吻",
+    "口爆",
+    "單體作品",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "阪道系",
+    "客服小姐",
+    "極品美人",
+    "謝罪",
+    "豐滿",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "NGOD-284为卍GROUP出品,2025年9月4日发行的有碼成人影片由小野坂唯香出演\n小野坂唯香，一个身为人妻的酒店服务员，被莫名其妙的投诉叫到房间，结果却被住客用巨根强行霸王硬上弓！她一边挣扎一边却被身体的反应出卖，背德感和快感交织，简直让人看得血脉喷张！这种禁忌play，谁能顶得住啊！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045532868868_79050_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045532868868_79050_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2917",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2917&name=小野坂唯香"
+    }
+  ]
+};

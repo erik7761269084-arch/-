@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220713/C601DBD6A5192177/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65123,
+  "IDcode": "C79374D55607AC4A2B9398CED36EF7FF",
+  "title": "妖艶な神乳Icup美女の淫魔に精子が空になるまで毎晩吸い尽くされる 凛音とうか",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65123",
+  "actresses": []
+};

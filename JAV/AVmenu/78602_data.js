@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/22/b747d95b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78602,
+  "IDcode": "DOA-085",
+  "title": "剃毛飼育 身動きとれない美女4人の陰毛を剃り恥ずかしいワレメを晒す！",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "凌辱",
+    "无毛",
+    "羞耻",
+    "拘束",
+    "局部特写"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/22/aa789458e37aae867024401335031e5a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78602",
+  "actresses": []
+};

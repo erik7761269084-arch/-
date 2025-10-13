@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230111/6VVk6gIF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84603,
+  "IDcode": "HHH-199",
+  "title": "ウブな人妻さんに狙いをつけて「服の上からならイイですよね？」と電マで超敏感ビクイキ初体験エスカレートしたら即ズボSEX中出し13人4時間",
+  "publish_date": "2020-06-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "已婚妇女",
+    "女优按摩棒"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84603",
+  "actresses": []
+};

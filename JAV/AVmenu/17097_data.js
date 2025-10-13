@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/05f5977b-d0a6-4c3d-bda8-a59f456d5ba6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/04/98ca5a62/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17097,
+  "IDcode": "JUQ-502",
+  "title": "在這個月最有可能懷孕的一天……我把我心愛的妻子帶到我哥哥那裏一整天，讓他直接給她授精。",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "在丈夫面前被操",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "情趣內衣",
+    "人妻",
+    "NTR",
+    "熟女"
+  ],
+  "description": "JUQ-502为MADONNA出品,2023年12月26日发行的有碼成人影片由森日向子出演\n我和心愛的妻子森日向子過着幸福的生活，但我有一個嚴重的缺陷。我們一直想有孩子，面臨着不可能的現實。我向哥哥坦白了無法射精的痛苦。然後，哥哥一臉無所畏懼地低聲說道：“你知道什麼是借精嗎？”我唯一的選擇就是緊緊抓住和我有着相同血型的哥哥，所以我決定把森日向子交給他一天。然而，雖然他只要求了她一次，但兩人卻一次次的觸碰……\n我和心愛的妻子森日向子過着幸福的生活，但我有一個嚴重的缺陷。我們一直想有孩子，面臨着不可能的現實。我向哥哥坦白了無法射精的痛苦。然後，哥哥一臉無所畏懼地低聲說道：“你知道什麼是借精嗎？”我唯一的選擇就是緊緊抓住和我有着相同血型的哥哥，所以我決定把森日向子交給他一天。然而，雖然他只要求了她一次，但兩人卻一次次的觸碰……",
+  "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224001355314314.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231224/20231224001355314314.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17097",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17097&name=森日向子"
+    }
+  ]
+};

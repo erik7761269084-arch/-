@@ -1,0 +1,63 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/40a07dc6-7876-4ae7-b5f3-87ac5ae8dbca/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/7633f2ee/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4719,
+  "IDcode": "ROE-375",
+  "title": "新人出道！忘不了那段下課後被大屌校長夜夜狂幹日子的前美女教師 42歲 AV DEBUT ~ 片平友理",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "紀念作",
+    "中出",
+    "蕩婦",
+    "真人秀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "貧乳",
+    "美腳",
+    "自慰",
+    "單體作品",
+    "出道作品",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "熟女",
+    "女優",
+    "羞恥"
+  ],
+  "description": "ROE-375为MADONNA出品,2025年7月4日发行的有碼成人影片由片平友理出演\n42歲的已婚婦女片平友理，三年前還是位教師，學生告白不斷，超受歡迎。但誰能料到，她每晚下課後都被大屌絕倫校長抱上床狠狠幹！現在的婚姻生活無聊到爆，老公那方面的表現淡如白水，最後一次夫妻生活都記不清啥時候了，簡直性冷淡到不行。每天只能偷摸自慰解饞，腦海裡卻老是浮現被校長狂幹的火辣回憶。這次，她下定決心要找回那種刺激，甚至要超越當年的激情，直接投身AV圈，尋求更猛烈的快感啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703071009569569_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703071009569569_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4719",
+  "actresses": [
+    {
+      "name": "片平友理",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250704/0c3ca012-6802-4b9e-812d-fbe0e6302833_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4719&name=片平友理"
+    }
+  ]
+};

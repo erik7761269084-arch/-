@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/10278e6a-8eb6-46fb-8ca9-4aac7d1ba5c4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 578,
+  "IDcode": "HEYZO-0692",
+  "title": "操了一次又一次 絲襪巨乳娘被連續中出發射 ~ 河西あみ",
+  "publish_date": "2014-09-27",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "少女",
+    "美少女",
+    "女僕制服",
+    "癡女",
+    "巨乳",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "HEYZO-0692为HEYZO出品,2014年9月27日发行的無碼成人影片由河西亞美出演\n続々生中～スキモノ巨乳娘に連続発射～ - 河西あみ",
+  "cover_url": "https://picture.yoshiclub.xyz/20241106/91d5e9e9-a2da-4ab2-ba4c-9d887d1a89a0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241106/91d5e9e9-a2da-4ab2-ba4c-9d887d1a89a0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=578",
+  "actresses": [
+    {
+      "name": "河西亞美",
+      "img_url": "https://picture.yoshiclub.xyz/20241106/b817c731-434d-464d-969b-a43896a76f83.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=578&name=河西亞美"
+    }
+  ]
+};

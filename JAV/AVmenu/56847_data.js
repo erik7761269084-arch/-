@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56847,
+  "IDcode": "6079C8D77C2927CC2063F5B184A14502",
+  "title": "【无码流出】仆を犯してくれる优しいお姉さん达2",
+  "publish_date": "",
+  "type": "无码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56847",
+  "actresses": []
+};

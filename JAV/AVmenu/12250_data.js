@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ff1d189-6fa2-416e-87f9-bb46e59d414a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/27/951cf982/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12250,
+  "IDcode": "BF-719",
+  "title": "住在隔壁的H罩杯巨乳姐姐，穿着透明泳衣，以騎乘式的姿勢引誘我 ~ 星明日菜",
+  "publish_date": "2024-09-03",
+  "type": "有码",
+  "company": "BeFree",
+  "genres": [
+    "後入",
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "鄰居",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "泳裝"
+  ],
+  "description": "BF-719为BeFree出品,2024年9月3日发行的有碼成人影片由星明日菜出演\n我和鄰居亞絲娜小姐的關係僅限於寒暄而已。然而，發生了一些事情，使他們成為了朋友，他最終去他家拜訪了她。我已婚並與我的妻子住在一起。所以，雖然我有些不捨，但也有些期待。當我走進家門時，亞絲娜穿著泳裝出現了。而且泳衣是透明的…我們陷入了一段無法告訴任何人的關係。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829233856365365.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240829/20240829233856365365.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12250",
+  "actresses": [
+    {
+      "name": "星明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240113/8440afe2-37f9-4684-bee8-1dd1fcc223a2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12250&name=星明日菜"
+    }
+  ]
+};

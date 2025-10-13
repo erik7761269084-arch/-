@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240301/KT00eUBY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90901,
+  "IDcode": "MADM-171",
+  "title": "【FANZA限定】ヤリたくなったら即注文 家にやって来る配達員を狙って●す痴女人妻 美咲かんな チェキ付き",
+  "publish_date": "2023-08-23",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "乳交",
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "女上位",
+    "自慰",
+    "姐姐",
+    "颜射",
+    "荡妇",
+    "出轨",
+    "口交",
+    "按摩棒",
+    "乳房",
+    "巨大阴茎",
+    "新娘，年轻妻子",
+    "手淫",
+    "骑乗位",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90901",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90901&name=美咲佳奈"
+    }
+  ]
+};

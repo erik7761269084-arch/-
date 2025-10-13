@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ccf6f046-156e-4596-9885-b908dab0dfc9/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/16/f1eb1dba/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7335,
+  "IDcode": "ROE-330",
+  "title": "「真的嗎，看到我內褲你也會硬？」被偷拍視頻撩發情的變態部下肉棒，讓歐巴桑上司藏不住女人快感，不但不罵還用射精管理調教他 ~ 鬆本翔子",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "加班",
+    "中出",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "制服",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "辦公室",
+    "美人",
+    "女上司",
+    "熟女",
+    "豐滿"
+  ],
+  "description": "ROE-330为MADONNA出品,2025年3月25日发行的有碼成人影片由松本翔子出演\n當孩子長大成人後，翔子回到了原來的公司工作。這幾年她和丈夫一直沒有性生活，她一心撲在工作上。她的下屬園田對翔子暗自懷有扭曲的感情。園田會偷偷拍攝翔子換衣服的照片…並且每天用這些鏡頭作為刺激。然後有一天加班時，當他像往常一樣沉迷於自慰時，翔子就站在園田的身後。當園田坦白一切時，翔子想起了被視為女人的快樂，並利用她的地位開始吞噬園田的陰莖......",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320112536698698.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320112536698698.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7335",
+  "actresses": [
+    {
+      "name": "松本翔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240420/d1acf4b8-baf9-44d4-961b-049e3e22ed17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7335&name=松本翔子"
+    }
+  ]
+};

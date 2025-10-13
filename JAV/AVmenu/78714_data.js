@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220824/vmeNc4uX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78714,
+  "IDcode": "ABW-089",
+  "title": "【MGSだけのおまけ映像付き+20分】超！透け透けスケベ学園 CLASS 11 美しい裸身が透き通る、透けフェチ特濃SEX！ 唯月優花",
+  "publish_date": "2021-05-06",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "多P",
+    "学校作品",
+    "角色扮演",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/01c5a74dcaea3358f2bdf6fb91bfd282.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78714",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78714&name=鲛岛"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78714&name=タイ"
+    },
+    {
+      "name": "唯月优花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78714&name=唯月优花"
+    }
+  ]
+};

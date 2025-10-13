@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/25/20cc9371/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67173,
+  "IDcode": "FSDSS-534",
+  "title": "地味巨乳女子大生が童貞彼氏を上回る性欲で絶倫巨乳お姉さんに’性長’した記録。 本郷愛 生写真5枚付き",
+  "publish_date": "2023-01-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "乳交",
+    "女上位",
+    "口交",
+    "手淫",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/e56177298d9ec76854e162653c26f012.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67173",
+  "actresses": [
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67173&name=蓝井优太"
+    }
+  ]
+};

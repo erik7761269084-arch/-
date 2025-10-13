@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0e1cd842-50ac-4879-b0ed-f8693f5a0878/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/4IjhMUC2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14046,
+  "IDcode": "SDMF-051",
+  "title": "從名牌大學畢業並將成爲醫生的兒子，還沒有辦法斷奶。~ 古東まりこ",
+  "publish_date": "2024-07-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "乳交",
+    "中出",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "巨乳",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "SDMF-051为SOD出品,2024年7月1日发行的有碼成人影片由古東まりこ出演\n我的兒子畢業於一所名牌大學並成為一名醫生。我為自己感到驕傲，並被所有人羨慕。只有一件事……他還沒有完成母乳哺育。我很久以前就停止生產母乳了。然而，我兒子不吸我的乳房就睡不著。我的兒子成為醫生是因為我繼續哺乳他。我的兒子將在繁忙的醫療領域工作……而我的工作就是治癒他。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/496f3657-b989-4266-9213-d46dafb8ddda.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/496f3657-b989-4266-9213-d46dafb8ddda.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14046",
+  "actresses": [
+    {
+      "name": "古東まりこ",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/ce43c6b5-5d4e-42cb-9eb1-0d357d760e8b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14046&name=古東まりこ"
+    }
+  ]
+};

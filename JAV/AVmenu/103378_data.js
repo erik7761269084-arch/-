@@ -1,0 +1,24 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 103378,
+  "IDcode": "ABP-244-",
+  "title": "女子マネージャーは、僕達の性処理ペット。003翼みさき",
+  "publish_date": "2015-01-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "运动"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103378",
+  "actresses": [
+    {
+      "name": "翼美咲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103378&name=翼美咲"
+    }
+  ]
+};

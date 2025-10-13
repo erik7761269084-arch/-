@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56787,
+  "IDcode": "B98735E944E1573BEE0A30976BDBC585",
+  "title": "被在泡泡浴工作的大嫂当成练习台 樱木梨乃",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56787",
+  "actresses": []
+};

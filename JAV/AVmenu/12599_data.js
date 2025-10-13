@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/894d0e82-5449-4f85-a4cf-79053f471596/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241017/143Io5GA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12599,
+  "IDcode": "PPPE-249",
+  "title": "對肉感辦公室OL性騷擾，她承壓很弱，敏感巨乳顏射及內射，淪爲肉便器 ~ 藤沢麗央",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "凌辱",
+    "大乳暈",
+    "中出",
+    "蕩婦",
+    "OL",
+    "亂交 • 群P",
+    "女上位",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "性騷擾",
+    "人妻",
+    "巨乳",
+    "辦公室",
+    "熟女",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "PPPE-249为OPPAI出品,2024年8月20日发行的有碼成人影片由藤沢麗央出演\n【臉和身材比例不對的超肉感身材！對一個頑皮的豐滿女孩為所欲為！ 】當你對一個抗壓性弱的白領進行性騷擾時…一個雖然不喜歡但也有感覺的變態！當你用大雞巴訓練羞辱他時，他會流汗、流汁、流體液，他的理智就會飛走！她的性慾也達到了百萬噸級，她將雞巴插入了她厚實的屁股！更加惡魔活塞！然後，她全身顫抖、慘叫、尿尿、抽搐！我主宰了天然稀有的軀體，做成了性處理女豬肉小便器！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815235615207207.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815235615207207.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12599",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12599&name=藤沢麗央"
+    }
+  ]
+};

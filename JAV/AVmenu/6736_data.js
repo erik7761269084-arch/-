@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/17a33089-39d6-4822-8aa7-70ee0d441747/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/e0c15951/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6736,
+  "IDcode": "JUR-295",
+  "title": "遠離都市喧囂的旅行中邂逅人妻，溫泉裏的激情一夜 ~ 北條麻妃",
+  "publish_date": "2025-04-18",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "4K",
+    "和服・浴衣・喪服",
+    "流汗",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "女神",
+    "旅行",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "明星臉",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "熟女",
+    "溫泉",
+    "芸能人"
+  ],
+  "description": "JUR-295为MADONNA出品,2025年4月18日发行的有碼成人影片由北条麻妃出演\n工作和生活雙雙失意，かける身心俱疲，幹脆拋下一切，來到一家破舊的溫泉旅館療傷。沒想到在這裏偶遇了性感人妻北條麻妃，倆人一見如故，幹脆直接開房共度春宵！忘掉現實的束縛，晝夜不停地沉溺於肉欲的狂歡，溫泉霧氣中，汗水與情欲交織，麻妃那溼熱的小穴讓かける瘋狂迷戀，一次次深入衝刺，爽到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417090312841841_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/20250417090312841841_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6736",
+  "actresses": [
+    {
+      "name": "北条麻妃",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b1a83bbb-09be-4664-b6ac-03a706c564cc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6736&name=北条麻妃"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6736&name=ナイアガラ翔"
+    }
+  ]
+};

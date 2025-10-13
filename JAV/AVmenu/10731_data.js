@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/80895478-76b0-427f-a158-3abc616a888f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/30/8106ea93/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10731,
+  "IDcode": "JUQ-962",
+  "title": "你長大了…… 每當我回到父母家，兩個叔叔總是叫我…… ~ 今井栞菜",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "脅迫做愛",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "鄉下",
+    "老頭子",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "探親",
+    "兩男一女",
+    "貧乳",
+    "美腳",
+    "美人妻",
+    "叔叔・姪女",
+    "癡女",
+    "人妻",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-962为MADONNA出品,2024年11月12日发行的有碼成人影片由今井栞菜出演\n「我來自一個沒有父親的家庭，所以小時候，叔叔們經常和我一起玩，漸漸地就變成了惡作劇，他們吞食我的嘴唇，舔我的身體，吮吸我的生殖器……我非常討厭它但是……透過那次經歷，我意識到我是一個女人。當我回到父母家時，叔叔們用他們當時的笑容迎接我。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/202411070958407474.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/202411070958407474.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10731",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10731&name=今井栞菜"
+    }
+  ]
+};

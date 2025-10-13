@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1877a541-f12f-4252-8ef0-54f700dfd0b3/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231215/5p9bi7C9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17658,
+  "IDcode": "SSIS-951",
+  "title": "夜，酒店，反向NTR！和我的女老闆單獨在一起 河北彩花",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "劇情",
+    "脚控・戀足癖",
+    "中出",
+    "OL",
+    "感官作品",
+    "口交",
+    "性感",
+    "舔陰",
+    "勾引・誘惑",
+    "艷遇",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "出差",
+    "女上司",
+    "飯店"
+  ],
+  "description": "SSIS-951为S1出品,2023年11月28日发行的有碼成人影片由河北彩花出演\n【與女上司河北彩花單獨共處一室……如果被勾引，你能忍住嗎？】决定和我心中的偶像，上司河北彩花一起出差的那天晚上，我无法拒绝的喝了很多酒，其实我很不喜欢喝醉的。果不其然，当我醒来时，我面前的河北彩花前辈，正在亲切吸吮我的鸡巴。\n【與女上司河北彩花單獨共處一室……如果被勾引，你能忍住嗎？】决定和我心中的偶像，上司河北彩花一起出差的那天晚上，我无法拒绝的喝了很多酒，其实我很不喜欢喝醉的。果不其然，当我醒来时，我面前的河北彩花前辈，正在亲切吸吮我的鸡巴。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231125/33609924-3115-4f0c-8987-687a58a1c8e5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231125/33609924-3115-4f0c-8987-687a58a1c8e5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17658",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17658&name=河北彩花"
+    }
+  ]
+};

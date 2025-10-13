@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/03/22/8c29ddb9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102077,
+  "IDcode": "RS-026",
+  "title": "あこ",
+  "publish_date": "2008-08-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "自慰",
+    "颜射",
+    "口交",
+    "舔阴",
+    "女佣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102077",
+  "actresses": []
+};

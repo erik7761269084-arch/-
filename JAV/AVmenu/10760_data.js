@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/461bb355-6631-45e3-8017-c05c6cffd89e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/28/6db13ad1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10760,
+  "IDcode": "IPSE-007",
+  "title": "新人出道！因想體驗專業情色而應募女優的超級變態M美少女 首次亮相 AV DEBUT ~ 龍恩寺華夜",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "色白",
+    "蘿莉",
+    "紀念作",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "少女",
+    "蘿莉控",
+    "SM",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "情趣內衣",
+    "癡女",
+    "猥褻穿著",
+    "M男・M女",
+    "女優訪談",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IPSE-007为IDEA POCKET出品,2024年11月12日发行的有碼成人影片由竜恩寺華夜出演\n僅限出場一次！我的名字叫龍園寺花屋！她真是個變態、受虐狂，簡直無法用言語形容！ 「我厭倦了業餘性愛，所以我來這裡嘗試職業性愛。」我說的第一句話令人驚訝！ 「欺負我，欺負我，欺負我，請打我」總共6個角落，你可以折磨一個變態女孩，讓你折磨到她乳頭脫落！ ① 告訴我你自己。 「啊啊啊，感覺真好……我體內的怪物正在乞求更多……」",
+  "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107095637595595.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241107/20241107095637595595.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10760",
+  "actresses": [
+    {
+      "name": "竜恩寺華夜",
+      "img_url": "https://picture.yoshiclub.xyz/20241108/240655aa-916b-4ebd-b639-00fe89c4c966.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10760&name=竜恩寺華夜"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10760&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10760&name=イセドン内村"
+    }
+  ]
+};

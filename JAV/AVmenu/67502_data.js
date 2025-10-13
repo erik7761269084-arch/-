@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/ab65af4e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67502,
+  "IDcode": "NHDTC-047",
+  "title": "発情オイルまみれのチ○ポで即ハメ中出しされた後も完全に効くまで侵入者に居座られ意識がぶっ飛ぶほどイカされまくる貞淑妻5 九井スナオさんの紙パンティとチェキ付き",
+  "publish_date": "2025-04-24",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "潮吹",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67502",
+  "actresses": []
+};

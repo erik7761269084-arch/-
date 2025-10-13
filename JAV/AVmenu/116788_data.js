@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/25/0c93d90c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116788,
+  "IDcode": "FC2-4527683",
+  "title": "和外遇温泉发情就马上想要鸡巴",
+  "publish_date": "2025-07-26",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/25/0c93d90c/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116788",
+  "actresses": []
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/26/3cfbe5c3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105029,
+  "IDcode": "SCOP-842",
+  "title": "都内某所のビル・マンション内で秘密裏に営業しているエステでは旦那に内緒で過激マイクロビキニでM男イジメ！！こっそりナマ挿入して男をイカせる非合法人妻エステに潜入！！",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "女上位",
+    "企画",
+    "新娘，年轻妻子",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105029",
+  "actresses": [
+    {
+      "name": "二宮桃",
+      "img_url": "https://picture.yoshiclub.xyz/20231127/ede5169d-30d5-4ada-a660-d273ea8643a6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105029&name=二宮桃"
+    },
+    {
+      "name": "斋藤亚美里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105029&name=斋藤亚美里"
+    },
+    {
+      "name": "天音れいあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105029&name=天音れいあ"
+    }
+  ]
+};

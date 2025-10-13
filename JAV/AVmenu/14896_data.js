@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9fbf2b20-7657-4a1d-b408-3ed6dcbfc5b9/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/06/07/8f51d383/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14896,
+  "IDcode": "IPZZ-311",
+  "title": "高潮覺醒 沒有性我就活不下去了... 高潮高潮 309 次 陰戶抽搐 1704 次 惡魔活塞 2521 次 快感潮汐 無法估量 ~ 水色乃亞",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "癡女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "IPZZ-311为IDEA POCKET出品,2024年5月14日发行的有碼成人影片由桃咲乃亞出演\n我不能再沒有性生活了...在淺藍諾亞的歷史上，那天是我激動得腦袋一片空白，停止思考的日子。為了喚醒潛在的情慾，她有時會猛烈地向體內灌輸快感。 (1) 春藥按摩讓敏感度爆炸 (2) 口交和電動按摩器潮吹 (3) 一遍又一遍不斷高潮的後續 FUCK (4) Porti 發育大雞巴激烈活塞 (5) 無盡高潮 3PFUCK。一個皮膚白皙的季美少女激動得全身抽搐，噴水！ 140分鐘強行喚醒你沉睡的性慾，喚醒你的情慾！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510035602816816.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240510/20240510035602816816.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14896",
+  "actresses": [
+    {
+      "name": "桃咲乃亞",
+      "img_url": "https://picture.yoshiclub.xyz/20231209/a8837d4d-d943-489f-920f-0b7cf868a285.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14896&name=桃咲乃亞"
+    }
+  ]
+};

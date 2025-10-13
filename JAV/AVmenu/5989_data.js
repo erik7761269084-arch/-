@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5a1967af-4c80-4e39-a2a2-84b80e52efd3/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/02/4d2f6c09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5989,
+  "IDcode": "NACR-957",
+  "title": "預約爆滿！滿意度百分百！美熟女COSPLAY外送服務 ~ 川上優",
+  "publish_date": "2025-05-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "4K",
+    "游戲COSPLAY",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "運動",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "應召・援交",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "兔女郎妝扮",
+    "舔陰",
+    "拜金女",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "熟女",
+    "飯店小姐・援交妹",
+    "COSPLAY服飾",
+    "豐滿"
+  ],
+  "description": "NACR-957为PLANETPLUS出品,2025年5月20日发行的有碼成人影片由川上優出演\n身為一個超愛熟女又迷戀角色扮演的lsp，我毫不猶豫預約了超夯的美熟女外送服務！川上ゆう的身材真的是絕，不管穿啥服裝都超正，辣到爆表！運動裝、小惡魔造型，甚至是超誘惑的性感兔女郎，她穿啥都美到不行！那熟練的技巧讓我整場都被電到，爽到天上去啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215924798798_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215924798798_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5989",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5989&name=川上優"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5989&name=岩下たろう"
+    }
+  ]
+};

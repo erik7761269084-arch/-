@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/11/57ee3bbe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61338,
+  "IDcode": "MFC-342",
+  "title": "みぅ",
+  "publish_date": "2025-07-30",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "潮吹",
+    "口交",
+    "吞精",
+    "角色扮演者",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/08/11/e516c75c1b09975f7eccd879bfe42d0f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61338",
+  "actresses": [
+    {
+      "name": "海宝美羽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61338&name=海宝美羽"
+    }
+  ]
+};

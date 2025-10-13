@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/095464bc-e403-482e-a09e-9ef3bf5096ca/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8961,
+  "IDcode": "KYMI-046",
+  "title": "視男人爲玩物，令人無法抗拒的性感美腳W癡女 ~ 椿りか 藤井蕾菈",
+  "publish_date": "2025-01-22",
+  "type": "有码",
+  "company": "MILU",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "多P",
+    "美腳",
+    "情趣內衣",
+    "癡女",
+    "雙飛",
+    "足交",
+    "按摩棒",
+    "猥褻穿著",
+    "兩女一男",
+    "美人",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250120/c2abf6d8-1038-4312-89b3-6b81439e0b04.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250120/c2abf6d8-1038-4312-89b3-6b81439e0b04.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8961",
+  "actresses": [
+    {
+      "name": "椿莉香",
+      "img_url": "https://picture.yoshiclub.xyz/20230829/c230365d-d94f-4dfc-ac92-707c20050972.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8961&name=椿莉香"
+    },
+    {
+      "name": "藤井蕾菈",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/216ce817-01c6-43e5-8766-9664bccbf60b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8961&name=藤井蕾菈"
+    }
+  ]
+};

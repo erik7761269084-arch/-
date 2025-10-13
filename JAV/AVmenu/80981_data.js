@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/ZHNl0blW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80981,
+  "IDcode": "STARS-522",
+  "title": "お客様のチ〇ポが超ストライク!毎回本番OKしちゃう新人風俗嬢♪全部はじめて超フレッシュ4変化!! 工藤ゆら",
+  "publish_date": "2022-03-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "角色扮演"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80981",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/GCHMURia/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86801,
+  "IDcode": "BF-582",
+  "title": "生意気オイルメイドと中出し同棲生活 今井夏帆",
+  "publish_date": "2019-07-07",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "女生",
+    "女佣",
+    "主观视角",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/7ee13169d8f6d3624a64a0975576deb8.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86801",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86801&name=今井夏帆"
+    }
+  ]
+};

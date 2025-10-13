@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eab9758c-186e-4389-95ee-5ef41ba644e4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17799,
+  "IDcode": "GNI-002",
+  "title": "新人Prestige獨家登場! 前写真偶像「瀧本雫葉」首次亮相AV第一作!",
+  "publish_date": "2023-11-24",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "4小時以上作品",
+    "出道作品",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116084249111111.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231116/20231116084249111111.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17799",
+  "actresses": [
+    {
+      "name": "瀧本雫葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231116/c99ddf36-8fca-44bc-86f4-ed7f1ffcd522.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17799&name=瀧本雫葉"
+    }
+  ]
+};

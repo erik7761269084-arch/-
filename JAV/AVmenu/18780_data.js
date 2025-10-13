@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c11a5f21-263f-42d0-92a4-e9e972837e98/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18780,
+  "IDcode": "IPX-601",
+  "title": "成為過激內衣模特兒的女友 惡劣服裝公司陷阱墮落的女友性愛映像",
+  "publish_date": "2021-01-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "脅迫做愛",
+    "劇情",
+    "私房攝影",
+    "強姦",
+    "模特兒",
+    "內衣",
+    "出軌",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908202033483483.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230908/20230908202033483483.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18780",
+  "actresses": [
+    {
+      "name": "岬奈奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/3200e669-8c06-4a64-9ae4-e838a336c87d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18780&name=岬奈奈美"
+    }
+  ]
+};

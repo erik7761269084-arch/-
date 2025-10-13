@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/24/0b9c39bc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104316,
+  "IDcode": "MIDE-775",
+  "title": "地味な教え子のノーブラ、ポロリ、透け乳首 着衣巨乳の再会でゲス勃起 水卜さくら",
+  "publish_date": "2020-05-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "乳液",
+    "乳房",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104316",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104316&name=水卜櫻"
+    }
+  ]
+};

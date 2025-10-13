@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/gpqT0SzO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81107,
+  "IDcode": "HZGD-213",
+  "title": "レンタル奥さん 水谷心音",
+  "publish_date": "2022-03-11",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "姐姐",
+    "新娘，年轻妻子",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81107",
+  "actresses": [
+    {
+      "name": "水谷心音",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/c3945dc9-7a74-49e3-87be-04a205ccd178.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81107&name=水谷心音"
+    }
+  ]
+};

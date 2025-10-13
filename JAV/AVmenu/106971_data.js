@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/17/a9de9683/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106971,
+  "IDcode": "HUNTB-396",
+  "title": "誰都能繳費盡情抽插到飽！溫泉旅館編 2",
+  "publish_date": "2022-11-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "企画",
+    "和服，丧服",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/huntb396/huntb396pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106971",
+  "actresses": [
+    {
+      "name": "大空七海",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/40834b70-9470-435c-847a-674fc5d61f3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106971&name=大空七海"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106971&name=タツ"
+    },
+    {
+      "name": "ハカー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106971&name=ハカー"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106971&name=若宫はずき"
+    }
+  ]
+};

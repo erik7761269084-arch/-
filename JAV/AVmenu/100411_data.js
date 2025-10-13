@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230726/4LuYnXQN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100411,
+  "IDcode": "MGMQ-108",
+  "title": "息子の彼女が責め痴女で息子の留守中にアナル開発されてメスイキさせられまくった父。 佐藤ののか",
+  "publish_date": "2023-03-04",
+  "type": "有码",
+  "company": "MEGAMI",
+  "genres": [
+    "荡妇",
+    "M男",
+    "口交",
+    "肛交",
+    "手淫",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mgmq108/mgmq108pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100411",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100411&name=加藤桃香"
+    }
+  ]
+};

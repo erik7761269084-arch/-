@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/18/07c190f1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98455,
+  "IDcode": "AP-696",
+  "title": "開門就在玄關強迫口交！！突擊強迫口交10人隊！少妻編",
+  "publish_date": "2019-09-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "轮奸",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98455",
+  "actresses": [
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98455&name=雨村梨花"
+    },
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98455&name=七海雛"
+    },
+    {
+      "name": "花宫レイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98455&name=花宫レイ"
+    },
+    {
+      "name": "绫瀬さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98455&name=绫瀬さくら"
+    },
+    {
+      "name": "滝本エレナ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98455&name=滝本エレナ"
+    }
+  ]
+};

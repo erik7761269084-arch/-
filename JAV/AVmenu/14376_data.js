@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c525f0d9-82c1-468b-ac52-6a59327d9dae/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/01/4e2cf81b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14376,
+  "IDcode": "FSDSS-788",
+  "title": "被小姨子調戲勾引，性欲大爆發！與大雞巴做愛的3天，無論射精多少次都會復活 ~ 茉城真美",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "美少女",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "出軌",
+    "NTR",
+    "小姨子",
+    "美少女電影"
+  ],
+  "description": "FSDSS-788为FALENO出品,2024年6月20日发行的有碼成人影片由善場麻美出演\n妹妹麻美因與男友吵架而搬到姊姊家，第一次見到姊姊的男友。當我戲謔地挑釁看似嚴肅的姊姊男友時，他就燃起了性慾，從那天起，他一次又一次地要求我和他發生性關係。結果發現，她有一個早洩的雞巴，無論射精多少次，它都會復活，而且她被操得如此之多，以至於她後悔用這樣的活塞，以至於她的陰部破裂了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240530/202405300038581818.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240530/202405300038581818.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14376",
+  "actresses": [
+    {
+      "name": "善場麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/5cb58970-bd57-4357-b110-785c7b31c6e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14376&name=善場麻美"
+    }
+  ]
+};

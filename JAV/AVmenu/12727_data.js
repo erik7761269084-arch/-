@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f4937675-332f-4686-840c-7dc2349d2caf/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12727,
+  "IDcode": "PIYO-091",
+  "title": "對絕對不能出手的嫩妹用塗藥老二鬼爆深喉嚨。之後… 5",
+  "publish_date": "2020-10-08",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "後入",
+    "劇情",
+    "吞精",
+    "深喉",
+    "中出",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "強姦",
+    "騎乗位",
+    "少女",
+    "美少女",
+    "緊縛",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240812/674f2385-d6fe-49c4-a3f3-50c528ea2c8f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240812/674f2385-d6fe-49c4-a3f3-50c528ea2c8f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12727",
+  "actresses": []
+};

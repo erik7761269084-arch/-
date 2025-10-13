@@ -1,0 +1,84 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c8b87b6f-eb2e-40fe-8b2b-373e185921e2/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/719fc9c5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8776,
+  "IDcode": "JUR-183",
+  "title": "寢取精飲輪奸 我最愛的妻子的嘴和陰道都被其它男人的精液填滿 ~ 佐田茉莉子",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "吞精",
+    "深喉",
+    "變態",
+    "臀控",
+    "流汗",
+    "乳交",
+    "色白",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "輪姦",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "熟女",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "JUR-183为MADONNA出品,2025年1月28日发行的有碼成人影片由佐田茉莉子出演\n我的妻子真理子有著令我無法抗拒的美貌。我無法滿足她，我相信她會感到沮喪。這就是為什麼我決定釋放內心的性衝動，成為戴綠帽的人。他與透過社群媒體認識的一些變態策劃了一個計劃，並製定了讓他們強姦他的妻子的計劃。在中年男子的包圍下，我妻子的喉嚨和陰道被強姦，精液從上到下傾瀉而出的狂喜表情是我見過的最美麗的事情...",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074446966966.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123074446966966.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8776",
+  "actresses": [
+    {
+      "name": "佐田茉莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/3442bc99-0d64-4ae4-bc09-087cedaa1bd0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8776&name=佐田茉莉子"
+    },
+    {
+      "name": "タクト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8776&name=タクト"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8776&name=まーち"
+    },
+    {
+      "name": "モンチ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8776&name=モンチ"
+    }
+  ]
+};

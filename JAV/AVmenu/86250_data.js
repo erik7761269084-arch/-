@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230203/bNU3c6lU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86250,
+  "IDcode": "SORA-381",
+  "title": "隠れマゾおばはんド助平レンタル マゾ性癖即バレ野外チ●ポ狂い 新川愛七",
+  "publish_date": "2022-05-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "户外",
+    "巨大阴茎",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/c1753e100ed25f6701f690e638d46f36.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86250",
+  "actresses": [
+    {
+      "name": "新川爱七",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86250&name=新川爱七"
+    }
+  ]
+};

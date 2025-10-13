@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240112/axZSedSA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90175,
+  "IDcode": "RDVHJ-147",
+  "title": "相席居酒屋で1人飲みしている熟女をナンパしたら何と人妻だった。欲求不満な体と久々な女扱いにお持ち帰りセックスしたらヤバすぎる乱れっぷりでした…（2） 姫川麗子さんのパンティとチェキ付き",
+  "publish_date": "2022-07-27",
+  "type": "有码",
+  "company": "塗鴉日本",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90175",
+  "actresses": [
+    {
+      "name": "武藤彩香",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/8acf2b70-9f8f-4178-b2ee-c447da43dbad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90175&name=武藤彩香"
+    },
+    {
+      "name": "三云ゆり子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90175&name=三云ゆり子"
+    },
+    {
+      "name": "姫川麗子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90175&name=姫川麗子"
+    }
+  ]
+};

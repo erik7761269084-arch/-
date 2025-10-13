@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220401/FFF8CBC0755D7055/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97559,
+  "IDcode": "NEY-001",
+  "title": "姑と嫁の卑猥な醜怪接吻！同性愛者の濃厚容貌",
+  "publish_date": "2018-05-31",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "成熟的女人",
+    "乱伦",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1297ney001/h_1297ney001pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97559",
+  "actresses": []
+};

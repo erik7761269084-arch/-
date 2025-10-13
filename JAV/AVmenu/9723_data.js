@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ed5ee56c-6e5c-41b6-a6fe-14664ae5e438/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/17/430aa8ef/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9723,
+  "IDcode": "REXD-545",
+  "title": "熱血教師 ~ 前田美波",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "後入",
+    "黑絲",
+    "女教師",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "老頭子",
+    "深喉",
+    "變態",
+    "凌辱",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "強姦",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "過膝襪・小腿襪",
+    "校園生活",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "學校",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241220/670f2853-72fa-4e71-af3b-ef50d8d5db96.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241220/670f2853-72fa-4e71-af3b-ef50d8d5db96.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9723",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9723&name=前田美波"
+    },
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9723&name=平井シンジ"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9723&name=岩下たろう"
+    }
+  ]
+};

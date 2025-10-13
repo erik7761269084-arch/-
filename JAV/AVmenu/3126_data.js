@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/baad4df4-9ebd-448b-98ff-80fcad9940d6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3126,
+  "IDcode": "YSN-647",
+  "title": "隔壁超正點的小妹被我包養了 ~ 皐月ゆら",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "二次元",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "早漏",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "鄰居",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "淫蕩・硬核",
+    "極品美人",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "YSN-647为WAAP GROUP出品,2025年8月28日发行的有碼成人影片由皐月ゆら出演\n小妹「ゆら」已經被關在一個陌生男人的房間好幾天了，滿腦子只想趕快回家。為了脫身，她只能聽這男人的話，奉上自己纖細的身體。但今天更誇張，又來了一個不認識的中年大叔，兩個人一起把她上下兩張嘴當成玩具，硬是把她當成洩慾工具，簡直要把她玩壞啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040655334334_47276_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040655334334_47276_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3126",
+  "actresses": [
+    {
+      "name": "皐月ゆら",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/a16b2ca9-d1b8-4e14-bfd7-afeb4c385a0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3126&name=皐月ゆら"
+    }
+  ]
+};

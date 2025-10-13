@@ -1,0 +1,76 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8d6114ad-2f36-4cbf-8282-12b88b8a0a46/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3432,
+  "IDcode": "ARSO-25197",
+  "title": "優雅人妻高級俱樂部 197 ~ 佐伯蓮加 真北祈",
+  "publish_date": "2025-08-20",
+  "type": "有码",
+  "company": "AROUND",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "企畫",
+    "家庭主妇",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "清楚系",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "約炮",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "無毛",
+    "飯店"
+  ],
+  "description": "ARSO-25197为AROUND出品,2025年8月20日发行的有碼成人影片由佐伯蓮加，真北祈出演\n〇武田優：老公忙著經營公司，夫妻間連聊天都變少，夜生活更是早就沒了溫度。慾求不滿的她開始靠看小黃片打發時間，結果竟然迷上了一個男人！那傢伙是片中能讓無數女人爽到翻天的AV男優。她忍不住查了男優的資料，還直接在社群平台上私訊他：「我想被你當成女人對待，填補我的空虛。」男優收到訊息後，覺得可以幫她散散心，就約她來一場小旅行，放鬆一下。〇佐伯凛：剛新婚的佐伯小姐姐，卻發現老公婚後態度180度大轉變，冷漠到讓人心寒。以前周末還會一起旅行、吃大餐，現在兩人幾乎沒啥交集。寂寞難耐的她為了逃避現實，開始沉迷女性專用風俗服務。漸漸地，她渴望更強烈的刺激，渴望被當作女人狠狠地需要，於是主動報名出演，釋放內心深處的慾望！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021445149149_60709_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021445149149_60709_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3432",
+  "actresses": [
+    {
+      "name": "佐伯蓮加",
+      "img_url": "https://picture.yoshiclub.xyz/20250218/4eab377b-5c2a-40b3-b129-450943801d27.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3432&name=佐伯蓮加"
+    },
+    {
+      "name": "真北祈",
+      "img_url": "https://picture.yoshiclub.xyz/20250118/2e65b45a-9409-419d-8784-86625a07e2ba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3432&name=真北祈"
+    }
+  ]
+};

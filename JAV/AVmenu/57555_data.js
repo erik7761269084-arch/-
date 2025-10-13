@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221118/90BE1A529010C8BD/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57555,
+  "IDcode": "C0F2FDF9C798BF1666883595395AE1CF",
+  "title": "可爱日本女孩被迫迎战大黑屌被内射",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57555",
+  "actresses": []
+};

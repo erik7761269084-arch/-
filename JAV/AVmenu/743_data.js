@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e704511f-77b1-4563-a9d7-6b9974f6ded7/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 743,
+  "IDcode": "HEYZO-0912",
+  "title": "在男生宿舍被變成玩具的變態女人 ~ 羽月ミリア",
+  "publish_date": "2015-07-22",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "制服",
+    "口交",
+    "多P",
+    "美腳",
+    "男朋友的朋友",
+    "熟女",
+    "辣妹/GAL系"
+  ],
+  "description": "HEYZO-0912为HEYZO出品,2015年7月22日发行的無碼成人影片由羽月ミリア出演\n男子寮でオモチャにされた変態女 - 羽月ミリア",
+  "cover_url": "https://picture.yoshiclub.xyz/20240728/9761e9e2-324c-4508-b3b2-81d2bd309b6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240728/9761e9e2-324c-4508-b3b2-81d2bd309b6e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=743",
+  "actresses": [
+    {
+      "name": "羽月ミリア",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-羽月ミリア.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=743&name=羽月ミリア"
+    }
+  ]
+};

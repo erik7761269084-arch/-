@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231003/o593rM6h/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58136,
+  "IDcode": "Carib-102018-777",
+  "title": "很会挑逗的骚货",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58136",
+  "actresses": []
+};

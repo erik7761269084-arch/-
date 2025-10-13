@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241012/HQCtEv6v/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93515,
+  "IDcode": "NHDTB-951",
+  "title": "性知識にうとい彼女の妹をパンツ越しクリ責めで初イキ開発 藤田こずえさんのパンティとチェキ付き",
+  "publish_date": "2024-08-08",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "制服",
+    "女生",
+    "手指插入",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93515",
+  "actresses": []
+};

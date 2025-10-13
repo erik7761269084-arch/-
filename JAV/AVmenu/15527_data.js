@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7af13033-c61b-422d-a3c5-40009d9d1094/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15527,
+  "IDcode": "SSNI-176",
+  "title": "阿由葉亞美 AV出道 名牌女校出身的S級苗條女大學生",
+  "publish_date": "2018-04-13",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "出道作品",
+    "手指插入",
+    "放尿",
+    "女學生",
+    "無毛",
+    "女優",
+    "飯店"
+  ],
+  "description": "SSNI-176为S1出品,2018年4月13日发行的有碼成人影片由阿由葉あみ出演\n阿美阿尤巴，19歲，是一名現役女大學生，身材修長美麗，身高165公分。一位時下罕見的優雅謙遜的小姐姐將在S1首次亮相。由於性格嚴肅，她也有自然的一面，在拍攝前一天就剃光了。當她變得飢渴時，她會一遍又一遍地射精，同時讓她苗條的身體下垂！她噴出她的水，高興得渾身發抖，發出粗俗的叫聲！雖然看起來乾淨整潔，但性愛卻極為粗俗！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240409/20240409083311237237.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240409/20240409083311237237.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15527",
+  "actresses": [
+    {
+      "name": "阿由葉あみ",
+      "img_url": "https://picture.yoshiclub.xyz/20240410/7d176f02-761e-4ff5-a9e1-8c361edc1ead.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15527&name=阿由葉あみ"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d165e13-98d0-4dc2-a91b-afe6506bef8b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13284,
+  "IDcode": "GVH-670",
+  "title": "結婚8年後出軌，成爲人妻專用受虐M男…… 長瀨麻美",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "內衣",
+    "美腳",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "M男・M女",
+    "NTR",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714025350434434.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/20240714025350434434.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13284",
+  "actresses": [
+    {
+      "name": "长濑麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/edce58db-6a40-40a7-95dc-33d756110bc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13284&name=长濑麻美"
+    }
+  ]
+};

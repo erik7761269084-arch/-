@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/22/01eec392/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92180,
+  "IDcode": "MIAA-879",
+  "title": "俺の彼女を一晩貸すから、お前の彼女を一晩貸してくれないか？ 大学の先輩とほんの遊びのつもりで一晩限りの彼女交換をしたら、僕の彼女に中出ししていました...（絶望） 橋本りこ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "颜射",
+    "口交",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240718-1/fdaa08e4cc9cbea6ae3b952b915c02ed.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92180",
+  "actresses": [
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92180&name=日森一"
+    },
+    {
+      "name": "橋本りこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=92180&name=橋本りこ"
+    }
+  ]
+};

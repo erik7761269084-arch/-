@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/18/46b63560/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84925,
+  "IDcode": "JUL-959",
+  "title": "ヌードモデルNTR 上司と羞恥に溺れた妻の衝撃的浮気映像 篠田ゆう",
+  "publish_date": "2022-05-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "乳房",
+    "巨大屁股",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84925",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84925&name=篠田优"
+    }
+  ]
+};

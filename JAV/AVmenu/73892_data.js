@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250115/ZFMmOJhO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73892,
+  "IDcode": "MIDE-670",
+  "title": "彼女が四日間、旅行で留守の間、彼女のグラドルお姉さんとハメまくったドエロ純愛記録。 高橋しょう子",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "偶像",
+    "第一人称摄影",
+    "出轨",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/ea1f5272edae41fc85039a62e5bf5f31.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73892",
+  "actresses": [
+    {
+      "name": "高桥圣子",
+      "img_url": "https://picture.yoshiclub.xyz/20240814/d134329a-e45c-458c-8fdd-7c82be139fdc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73892&name=高桥圣子"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73892&name=蓝井优太"
+    }
+  ]
+};

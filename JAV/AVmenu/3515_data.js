@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f91d2d6-4feb-473d-8b69-95300c31e2a8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/14/73dd2694/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3515,
+  "IDcode": "VENX-333",
+  "title": "小姨子來家裡借宿太迷人，兩天兩夜瘋狂纏綿的頂級情慾 ~ 水崎瑠華",
+  "publish_date": "2025-08-14",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "不倫",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "美人",
+    "熟女",
+    "小姨子",
+    "短髮"
+  ],
+  "description": "VENX-333为VENUS出品,2025年8月14日发行的有碼成人影片由水崎瑠華出演\n瑠华因为朋友的婚礼，借住在东京独自生活的侄子大树的家里。瑠华本来没多想，但大树面对这位美艳小姨子，内心早就按捺不住那股冲动。两天时间有限，大树一次次释放欲望，而瑠华也沉沦在这禁忌的快感中，欲罢不能，简直是情欲爆棚的极致体验！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040543208208_54405_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040543208208_54405_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3515",
+  "actresses": [
+    {
+      "name": "水崎瑠華",
+      "img_url": "https://picture.yoshiclub.xyz/20250301/d1ef771c-2f47-4ddb-96da-f090971fd241.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3515&name=水崎瑠華"
+    }
+  ]
+};

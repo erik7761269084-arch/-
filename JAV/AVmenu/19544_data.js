@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230408/257a873b-83ab-49e1-ba1f-c7fa51c1a0e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19544,
+  "IDcode": "PPPD-439",
+  "title": "癡女巨乳姐偷睡走好友男友 JULIA",
+  "publish_date": "2016-02-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "中出",
+    "蕩婦",
+    "無碼破解",
+    "巨乳",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230408/c4977ee6-0e32-4caf-b6ef-39a61e1010b9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230408/c4977ee6-0e32-4caf-b6ef-39a61e1010b9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19544",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19544&name=JULIA"
+    }
+  ]
+};

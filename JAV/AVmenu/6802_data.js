@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/89ebbc2d-9ec7-4d36-89aa-cc784dc3bbc6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/29/70cbcf7d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6802,
+  "IDcode": "FFT-026",
+  "title": "新人出道！人妻漫畫家超辣登場！全靠親身經歷畫出最色劇情 30歲 AV DEBUT ~ 新井伊織",
+  "publish_date": "2025-04-17",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "臀控",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "美腳",
+    "美人妻",
+    "其他職業",
+    "出道作品",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "人妻",
+    "手指插入",
+    "按摩棒",
+    "猥褻穿著",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "大奶头",
+    "女優",
+    "羞恥"
+  ],
+  "description": "FFT-026为KANBi出品,2025年4月17日发行的有碼成人影片由新井伊織出演\n這位30歲的人妻新井伊織可不是普通主婦，她是現役的工口漫畫家！每一幅畫作都來自她的真實經歷，超刺激的H體驗直接化作筆下火辣劇情！這次她親自下海，首次AV出道，簡直是二次元迷的天菜！想知道她有多會玩？快來一探究竟，絕對讓你的小心髒撲通撲通跳不停！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/58f9ecad-df37-4d92-8569-de09d758f737_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250417/58f9ecad-df37-4d92-8569-de09d758f737_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6802",
+  "actresses": [
+    {
+      "name": "新井伊織",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250417/138a4e35-7b51-432c-90f9-5a73145162b0_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6802&name=新井伊織"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6802&name=鲛岛"
+    }
+  ]
+};

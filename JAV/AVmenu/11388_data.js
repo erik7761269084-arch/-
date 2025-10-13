@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/99b61834-76bc-4304-a18c-5b0cd407e88e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11388,
+  "IDcode": "SDDE-737",
+  "title": "背式騎乘性交診療所 Vol.2 由4名專業護士進行的180分鍾背式做愛治療 ~ 清巳麗乃 桐谷すずね 美咲佳奈 永野鈴",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "醫院・診所",
+    "絕頂高潮",
+    "大亂交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "護士制服",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "癡女",
+    "巨乳",
+    "看病・住院",
+    "奇異的",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241008/d080c6c3-80fa-4b99-82e5-273a295cdca6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241008/d080c6c3-80fa-4b99-82e5-273a295cdca6.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11388",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11388&name=美咲佳奈"
+    },
+    {
+      "name": "永野鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/4142e40f-d5ce-45e8-84e3-cedaf8280d0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11388&name=永野鈴"
+    },
+    {
+      "name": "清巳麗乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250927/af1506c6-fd74-41e4-935f-8160240f6147_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11388&name=清巳麗乃"
+    },
+    {
+      "name": "桐谷すずね",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/53ec43e7-d6c7-4174-bb03-06dc49ca495f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11388&name=桐谷すずね"
+    }
+  ]
+};

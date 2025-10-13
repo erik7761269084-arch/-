@@ -1,0 +1,101 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a79ee2c3-b0de-4c36-b728-3245f91cf1e1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/24/ddf4dc52/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9159,
+  "IDcode": "CEAD-661",
+  "title": "15名女優扒開屁股爲你而自慰 Vol.4 ~ 友田彩也香 胡桃櫻花 堤芹奈 椎名心春 堀北実來 美園和花 等",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "高顏值",
+    "企畫",
+    "巨尻",
+    "無做愛場面",
+    "臀控",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "感官作品",
+    "跳蛋",
+    "丁字裤",
+    "局部特寫",
+    "慾求不滿",
+    "自慰",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "熟女",
+    "插入異物",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250113/4167fbb7-31fd-4028-b7e1-8cab329d5511.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250113/4167fbb7-31fd-4028-b7e1-8cab329d5511.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9159",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=美園和花"
+    },
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=天月梓"
+    },
+    {
+      "name": "胡桃櫻花",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/cda0c567-4690-41fa-a93f-e4d366bfe09c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=胡桃櫻花"
+    },
+    {
+      "name": "友田彩也香",
+      "img_url": "https://picture.yoshiclub.xyz/20230823/125f9410-5638-4d02-9bc7-963bb64685e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=友田彩也香"
+    },
+    {
+      "name": "堀北実来",
+      "img_url": "https://picture.yoshiclub.xyz/20231107/ceae8cd6-a1b2-477a-bae1-2eddb7fe3912.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=堀北実来"
+    },
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=椎名心春"
+    },
+    {
+      "name": "上戶真理",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/5a916915-4355-4d71-8d00-199c67923120.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=上戶真理"
+    },
+    {
+      "name": "堤芹奈",
+      "img_url": "https://picture.yoshiclub.xyz/20241108/9eb64f5d-9c4d-4187-9e3a-26c678ae8ed8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=堤芹奈"
+    },
+    {
+      "name": "緒川春",
+      "img_url": "https://picture.yoshiclub.xyz/20240917/7d591269-d2bb-43e6-834e-39076d533dc6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=緒川春"
+    },
+    {
+      "name": "工藤りおな",
+      "img_url": "https://picture.yoshiclub.xyz/20240801/8ac074c6-eb38-47be-88ce-ee38ba22a585.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=工藤りおな"
+    },
+    {
+      "name": "安倍亜沙美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9159&name=安倍亜沙美"
+    }
+  ]
+};

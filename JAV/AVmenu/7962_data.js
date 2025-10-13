@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c6730af5-f157-421e-b5d4-efe6887a7824/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/516bd51a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7962,
+  "IDcode": "SAN-319",
+  "title": "當熟練的AD成爲AV監督 ~ 西尾真裏奈",
+  "publish_date": "2025-02-25",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "性感睡衣",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美腳",
+    "AV拍攝現場",
+    "其他職業",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250225/db5a3ba5-2718-48ea-b392-b8c59e931ba0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250225/db5a3ba5-2718-48ea-b392-b8c59e931ba0.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7962",
+  "actresses": [
+    {
+      "name": "西尾真里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/24bdd887-15ed-4728-9d5b-b7568e4807ec.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7962&name=西尾真里奈"
+    }
+  ]
+};

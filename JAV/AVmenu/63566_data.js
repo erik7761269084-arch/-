@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/ba62d0af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63566,
+  "IDcode": "MDBK-367",
+  "title": "脳がトロける甘～いささやきで何度も快楽に導くナース派遣クリニックの絶品中出しサービス",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "淫语",
+    "护士"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63566",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63566&name=木下日葵"
+    },
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63566&name=星乃夏月"
+    }
+  ]
+};

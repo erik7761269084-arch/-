@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221126/jz2l8sO1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82828,
+  "IDcode": "MDBK-084",
+  "title": "杭打ちピストン騎乗位 絶頂を繰り返すPtoMセックス",
+  "publish_date": "2020-02-14",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "姐姐",
+    "苗条",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/70a09c7b560eb9b597591b156ec4df45.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82828",
+  "actresses": [
+    {
+      "name": "美咲佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/13ab166a-450e-4a61-82bf-be0dbf94e7c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82828&name=美咲佳奈"
+    },
+    {
+      "name": "奏自由",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/b56a5d8f-b017-4287-9e9a-bc04d7ba82ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82828&name=奏自由"
+    },
+    {
+      "name": "凛音とうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240216/bb57caa0-0437-4930-ad90-6bdaabdb3521.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82828&name=凛音とうか"
+    },
+    {
+      "name": "仓木诗织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82828&name=仓木诗织"
+    }
+  ]
+};

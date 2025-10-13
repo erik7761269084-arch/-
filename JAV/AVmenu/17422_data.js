@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f35a0fc-7722-4a72-95ae-e7e2e7f0d19c/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/16/c8cd5f4c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17422,
+  "IDcode": "WAAA-325",
+  "title": "請操我這樣的美熟女好嗎？ 被學生猛烈襲擊的女教師渲染在雞巴的大力抽插中要瘋狂了",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "女教師",
+    "劇情",
+    "淫亂",
+    "中出",
+    "制服",
+    "口交",
+    "性感",
+    "巨乳",
+    "學校"
+  ],
+  "description": "WAAA-325为WANZ FACTORY出品,2023年12月5日发行的有碼成人影片由森澤佳奈出演\n森澤佳奈是一名因缺乏性而困擾的老師，多次被學生告白。 儘管她以自己的立場為由拒絕了，並表示“你應該和同學約會，而不是這個像我這樣的成熟女人”，但森澤佳奈最終還是屈服於熱情的態度，與該學生開始了戀愛關係。 她本來打算只做一次，但嚴肅的老師突然變了，她沉迷於年輕雞巴的快感！ 她一遍又一遍地呼喚她的學生操她，讓她的陰戶濕漉漉的，像野獸一樣瘋狂！ ！\n森澤佳奈是一名因缺乏性而困擾的老師，多次被學生告白。 儘管她以自己的立場為由拒絕了，並表示“你應該和同學約會，而不是這個像我這樣的成熟女人”，但森澤佳奈最終還是屈服於熱情的態度，與該學生開始了戀愛關係。 她本來打算只做一次，但嚴肅的老師突然變了，她沉迷於年輕雞巴的快感！ 她一遍又一遍地呼喚她的學生操她，讓她的陰戶濕漉漉的，像野獸一樣瘋狂！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231203/fc5a3ede-baa5-4425-a868-daf655c10070.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231203/fc5a3ede-baa5-4425-a868-daf655c10070.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17422",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17422&name=森澤佳奈"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17422&name=蓝井优太"
+    }
+  ]
+};

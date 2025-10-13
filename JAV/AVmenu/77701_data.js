@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/6kdy8Rw2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77701,
+  "IDcode": "NNPJ-345",
+  "title": "個撮で見つけた現役グラビアアイドルGcupロリボインあやみちゃん（18才）着エロ撮影だけのはずが感じすぎてそのままAV出演。 ナンパJAPAN EXPRESS Vol.110",
+  "publish_date": "2019-06-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "泳装",
+    "业余",
+    "猎艳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77701",
+  "actresses": [
+    {
+      "name": "长滨もも",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77701&name=长滨もも"
+    }
+  ]
+};

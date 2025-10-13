@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/20847296-7b0e-40c9-bfdc-974eaa3793c4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12430,
+  "IDcode": "CEMD-569",
+  "title": "都合之女 4 - 都月楓",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "網襪",
+    "深喉",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "美腳",
+    "美少女",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240825/9d272bd1-e78f-4f2d-8a15-7b7ba4d2461a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240825/9d272bd1-e78f-4f2d-8a15-7b7ba4d2461a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12430",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12430&name=都月楓"
+    }
+  ]
+};

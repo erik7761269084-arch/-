@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240523/AQbqkiUh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103939,
+  "IDcode": "LOL-215",
+  "title": "LOL-215",
+  "publish_date": "2023-01-05",
+  "type": "有码",
+  "company": "GLAYz",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "第一人称摄影",
+    "女生",
+    "口交",
+    "乳房",
+    "瘦小身型",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12lol215/12lol215pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103939",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103939&name=天馬唯"
+    },
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103939&name=沙月惠奈"
+    },
+    {
+      "name": "工藤拉拉",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/57750c96-9374-4eb5-907f-509384974b56.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103939&name=工藤拉拉"
+    },
+    {
+      "name": "蓮見天",
+      "img_url": "https://picture.yoshiclub.xyz/20241218/0a3de4c0-bfcd-4611-a8ce-96298f44f6d3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103939&name=蓮見天"
+    }
+  ]
+};

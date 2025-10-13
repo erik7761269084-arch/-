@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/16/6f755150/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86377,
+  "IDcode": "STARS-507",
+  "title": "「ごめんなさい、パパ、ママ。」学校サボって19時まで、大好きな絶倫担任に私の巨乳を滅茶苦茶に犯されに行ってきます。 朝田ひまり",
+  "publish_date": "2022-01-27",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "巨乳",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86377",
+  "actresses": []
+};

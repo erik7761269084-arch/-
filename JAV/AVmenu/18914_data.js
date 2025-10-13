@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cafa052d-d5f5-49d8-b31d-9cafa5ffc6f6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/02/37fc75a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18914,
+  "IDcode": "CKW-002",
+  "title": "【FANZA限定】老是白天把我叫出去 然後就是不停的做愛",
+  "publish_date": "2023-09-01",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "中出",
+    "蕩婦",
+    "女上位",
+    "騎乗位",
+    "姐姐・妹妹",
+    "淫語",
+    "內衣",
+    "打手槍",
+    "足交",
+    "M男・M女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230826/20230826024248919919.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230826/20230826024248919919.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18914",
+  "actresses": [
+    {
+      "name": "木下日葵",
+      "img_url": "https://picture.yoshiclub.xyz/20230826/bfbe85be-f9ae-45ca-853e-25e45dc5b941.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18914&name=木下日葵"
+    }
+  ]
+};

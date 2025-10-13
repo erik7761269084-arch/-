@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220711/44E55E21C2ED6282/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 54420,
+  "IDcode": "890D92532ECF1978859A5B83E8EA978B",
+  "title": "着物美人が静かにあなたのご要望にお応えします - 山咲ことみ",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54420",
+  "actresses": []
+};

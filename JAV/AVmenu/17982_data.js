@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b4852b8-9b62-4d91-862b-543a3ffd6f19/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/20/180d8894/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17982,
+  "IDcode": "LULU-249",
+  "title": "今晚加班~大屁股美人妻老闆熱辣黑絲挑逗~被她的腿夾的一次又一次的射精!!",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "LUNATICS",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "舔腳",
+    "脚控・戀足癖",
+    "中出",
+    "OL",
+    "制服",
+    "口交",
+    "性感",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "足交",
+    "辦公室",
+    "女上司"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105232939948948.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231105/20231105232939948948.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17982",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17982&name=美園和花"
+    }
+  ]
+};

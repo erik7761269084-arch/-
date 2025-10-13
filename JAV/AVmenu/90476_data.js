@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/tHoS9HwR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90476,
+  "IDcode": "OMT-038",
+  "title": "デカ尻ボディ美熟お姉さんの性欲が強すぎる！女王様スタイルで中年オヤジを完全征服ファック 永野つかさ パンティと生写真付き",
+  "publish_date": "2023-09-23",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "姐姐",
+    "荡妇",
+    "M男",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/c726a9a019f0d068efbf537754346b4d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90476",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90476&name=永野司"
+    }
+  ]
+};

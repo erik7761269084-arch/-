@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/09/13/ddad4205/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96691,
+  "IDcode": "MIDD-807",
+  "title": "露出痴女 大橋未久",
+  "publish_date": "2011-10-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "荡妇",
+    "户外",
+    "数位马赛克",
+    "露出",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/08/01/d28fd1a00449461d805e934c0c6db334.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96691",
+  "actresses": [
+    {
+      "name": "大橋未久",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/aefa0263-2d5a-41aa-97a2-298dcc454fc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96691&name=大橋未久"
+    }
+  ]
+};

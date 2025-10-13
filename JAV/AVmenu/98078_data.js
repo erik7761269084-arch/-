@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221220/BE83B96F0FD323F4/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98078,
+  "IDcode": "AUKG-408",
+  "title": "人妻略奪レズビアン～夫の目前ビアンSHOW～",
+  "publish_date": "2017-12-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98078",
+  "actresses": [
+    {
+      "name": "京野美丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98078&name=京野美丽"
+    },
+    {
+      "name": "佳乃美冬",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98078&name=佳乃美冬"
+    },
+    {
+      "name": "白藤ゆりえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98078&name=白藤ゆりえ"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/63b95cbd-384e-469d-bdb4-7e6d98465c5f/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231215/ZkpRG6jp/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17671,
+  "IDcode": "SSIS-963",
+  "title": "與 Ai Hongo ULTRA VIP 性愛產業 10 4K 一起享受一生中最好的射精體驗",
+  "publish_date": "2023-11-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "劇情",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "JK校服",
+    "口交",
+    "風俗夜場",
+    "風俗娘",
+    "性感",
+    "按摩・美容店",
+    "巨乳",
+    "猥褻穿著",
+    "抹油",
+    "COSPLAY服飾"
+  ],
+  "description": "SSIS-963为S1出品,2023年11月28日发行的有碼成人影片由本郷愛出演\nS1 Presents ４Ｋ機材×最佳服務無限射精10次ULTRA VIP性愛特別全程課程！男士美容院、別針沙龍、反射療法、布布酒吧、小倉、形象俱樂部、SM 俱樂部、受虐狂、肥皂劇… 以「本鄉愛」的極致技術和貼心服務，滿足您所有願望的成人娛樂場所！每個男人一生中至少應該嚐一次！！210分鐘壓倒性的奢華和奢華的射精，擠出你的慾望汁液！\nS1 Presents ４Ｋ機材×最佳服務無限射精10次ULTRA VIP性愛特別全程課程！男士美容院、別針沙龍、反射療法、布布酒吧、小倉、形象俱樂部、SM 俱樂部、受虐狂、肥皂劇… 以「本鄉愛」的極致技術和貼心服務，滿足您所有願望的成人娛樂場所！每個男人一生中至少應該嚐一次！！210分鐘壓倒性的奢華和奢華的射精，擠出你的慾望汁液！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231125/a460c952-ff07-4500-98ff-aa569ddababe.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231125/a460c952-ff07-4500-98ff-aa569ddababe.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17671",
+  "actresses": [
+    {
+      "name": "本郷愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230818/7f34986f-7cf0-4a09-9dd4-9536634aa42b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17671&name=本郷愛"
+    }
+  ]
+};

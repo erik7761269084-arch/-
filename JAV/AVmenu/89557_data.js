@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/11/59bf1b16/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89557,
+  "IDcode": "AARM-178",
+  "title": "「もおこんな大きくしちゃって…ダメなおち○ぽさんね」と耳元で優しく囁かれながらチ○ポじゅるんじゅるんにおしゃぶりされ続ける。",
+  "publish_date": "2023-05-02",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "淫乱，真实",
+    "妄想",
+    "淫语",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89557",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89557&name=望月綾香"
+    },
+    {
+      "name": "优木なお",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89557&name=优木なお"
+    }
+  ]
+};

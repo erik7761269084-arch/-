@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/75cad0f3-1ee2-4c39-8e3d-a231ddae5b86/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12396,
+  "IDcode": "NEBO-019",
+  "title": "與年長男人在山莊的野外露出性愛，從早到晚不斷，最愉快的回憶！ ~ 泉莉音",
+  "publish_date": "2024-08-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "劇情",
+    "中出",
+    "JK校服",
+    "小隻馬",
+    "不倫",
+    "少女",
+    "蘿莉控",
+    "美少女",
+    "露出",
+    "清純",
+    "野外露天",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240828/8bc3ecf6-db8f-4e0e-b8c8-7692d53a7609.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240828/8bc3ecf6-db8f-4e0e-b8c8-7692d53a7609.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12396",
+  "actresses": [
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12396&name=泉莉音"
+    }
+  ]
+};

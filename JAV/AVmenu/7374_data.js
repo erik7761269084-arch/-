@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b665e283-6da4-445c-8438-9734626ea93d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/15/7ad5250c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7374,
+  "IDcode": "MISM-375",
+  "title": "迷入未熟深淵！最狂服從深喉調教 ~ 美木雛乃",
+  "publish_date": "2025-03-25",
+  "type": "有码",
+  "company": "えむっ娘ラボ",
+  "genres": [
+    "苗條",
+    "導尿",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "校花",
+    "流汗",
+    "凌辱",
+    "中出",
+    "美乳",
+    "早漏",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "刑架",
+    "少女",
+    "口爆",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "清楚系",
+    "清純",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "美少女電影",
+    "女學生",
+    "泳裝",
+    "羞恥",
+    "殘忍畫面"
+  ],
+  "description": "MISM-375为えむっ娘ラボ出品,2025年3月25日发行的有碼成人影片由美木雛乃出演\n叮咚。歡迎。我的褲襠太腫了，老兄。他從入口處就將自己的性慾釋放到了日本女孩的喉嚨裡。從一開始，他就被懷孕了，喉嚨深處昏了過去。你看起來很開心。我們可以做更多嗎？仰臥時進行深喉口交，然後用整個重量壓在上面進行深喉。口水流出來真漂亮。這是青春的標誌。儘管她哭泣著，但喉嚨馬桶仍然繼續進行火車頭的深喉，臉上露出了欣喜若狂的表情。我也邀請了很多朋友。被敵人重重包圍。你生來就是要被男人侵犯的。感受到活力。明天見。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320112752712712.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250320/20250320112752712712.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7374",
+  "actresses": [
+    {
+      "name": "美木雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20240816/1d93f59c-062f-4858-be1b-8eac0c24242b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7374&name=美木雛乃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7374&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7374&name=イセドン内村"
+    }
+  ]
+};

@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/57c8e533-a3bb-4bdd-a0e0-04a45627d9fa/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/jeJ3rtvt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14552,
+  "IDcode": "SDNM-454",
+  "title": "來自長崎的32 歲優雅人妻，即使在喧囂的大城市中也脫穎而出，最終章 消除了焦慮和抵抗的大雞巴剝奪了理智，第一次與丈夫外的男人中出 ~ 足立友梨",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "素人",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "短髮",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "SDNM-454为SOD出品,2024年6月1日发行的有碼成人影片\n這是來自長崎的美麗妻子足立由里的最後一次 AV 亮相。最後，我向尤里建議了原始性愛，她想體驗她以前從未經歷過的令人興奮的性愛。即使在拍攝當天，她似乎也無法做出決定，但當我生插的時候，她就失去了理智。當你刺激她的受虐性時，她會以你從未見過的淫蕩方式出來！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240521/bc631528-90d8-4b6e-850a-cc12c209d1d1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240521/bc631528-90d8-4b6e-850a-cc12c209d1d1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14552",
+  "actresses": []
+};

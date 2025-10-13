@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/p8507V4Q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74085,
+  "IDcode": "MVSD-396",
+  "title": "制服美少女ごっくんアルバイト 中年限定デリバリー全身リップ精飲リフレ 加瀬ななほ",
+  "publish_date": "2019-08-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "高中女生",
+    "吞精",
+    "接吻",
+    "礼仪小姐",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/891033145acd210a7c8f887637e7126c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74085",
+  "actresses": [
+    {
+      "name": "加濑七穗",
+      "img_url": "https://picture.yoshiclub.xyz/20230401/4eb3653f-c0bb-4f91-af40-c8b1fc34e9dc.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74085&name=加濑七穗"
+    }
+  ]
+};

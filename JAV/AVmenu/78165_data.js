@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/12/38ae6670/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78165,
+  "IDcode": "MIAA-074",
+  "title": "放課後裏ピンサロ チンしゃぶ制服少女のご奉仕連続射精 星奈あい",
+  "publish_date": "2019-05-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "颜射",
+    "制服",
+    "苗条",
+    "口交",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241127-1/3a7c1a1463500b1f39d1d0362967b4ff.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78165",
+  "actresses": [
+    {
+      "name": "星奈爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231213/1b0e6e86-48dd-465c-82b3-346ca6f32aa1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78165&name=星奈爱"
+    }
+  ]
+};

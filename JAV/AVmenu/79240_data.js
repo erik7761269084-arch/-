@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/1CW6LabD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79240,
+  "IDcode": "SDAB-186",
+  "title": "ぼくのことが大好きなブラスバンド部のマドンナ・のんちゃん◆休み時間におしゃべりしたり放課後いっしょに帰ったりして毎日最高の気分♪ 花門のん",
+  "publish_date": "2021-07-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "学校作品",
+    "苗条",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79240",
+  "actresses": []
+};

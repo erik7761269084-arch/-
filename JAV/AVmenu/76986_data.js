@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241206/WMm5DraY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76986,
+  "IDcode": "NACR-292",
+  "title": "若すぎる父の後妻 今井夏帆",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "乱伦",
+    "白天出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/4963732bce9aed78b3d5e08102e7239f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76986",
+  "actresses": [
+    {
+      "name": "今井夏帆",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76986&name=今井夏帆"
+    }
+  ]
+};

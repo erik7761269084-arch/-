@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/11/6395ec5d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89556,
+  "IDcode": "AARM-174",
+  "title": "続・エロ揉み熟女の全裸マッサージ 裏メニューで本番させてもらっちゃった僕。…の巻",
+  "publish_date": "2023-04-11",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "荡妇",
+    "M男",
+    "按摩",
+    "恋物癖",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89556",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89556&name=小早川怜子"
+    },
+    {
+      "name": "乃木遥",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/cea61c08-4506-44e2-a8b6-cf55f46655ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89556&name=乃木遥"
+    }
+  ]
+};

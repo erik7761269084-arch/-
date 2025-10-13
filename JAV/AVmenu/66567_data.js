@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/22/7b81dfd7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66567,
+  "IDcode": "RCTD-667",
+  "title": "もうひとつのアシコイ～僕は保健室の先生に足コキされた～",
+  "publish_date": "2025-06-12",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "学校作品",
+    "足交",
+    "M男",
+    "连裤袜",
+    "恋腿癖",
+    "女教师",
+    "恋爱",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66567",
+  "actresses": [
+    {
+      "name": "蓝芽水月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=66567&name=蓝芽水月"
+    }
+  ]
+};

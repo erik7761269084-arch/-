@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa5ae325-5598-4fe4-8dd0-0d8e0d095b22/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8290,
+  "IDcode": "MUKC-088",
+  "title": "爆乳啦啦隊長兔女郎攝影會，身材火辣撩人...蒙受美少女Cosplayer中出鏡頭私密性交 ~ 白橋りほ",
+  "publish_date": "2025-02-18",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "劇情",
+    "舔腳",
+    "二次元",
+    "深喉",
+    "色白",
+    "中出",
+    "美乳",
+    "蒙面・面罩",
+    "形象俱樂部",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "小隻馬",
+    "私房攝影",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "寫真女郎",
+    "地雷系",
+    "奇聞趣事",
+    "巨乳",
+    "手指插入",
+    "奇異的",
+    "美人",
+    "不露臉",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MUKC-088为無垢出品,2025年2月18日发行的有碼成人影片由白橋里帆出演\n【白橋裡保無久第2彈獨家發售！ 】 擁有H罩杯巨乳的美少女被迫穿著淫穢服裝進行私密拍攝…在身為攝影師的顧客面前，乳房被擠壓的感覺棒極了…被調教成淫婦的淫蕩女孩，被人注視著，興奮起來，乖乖地將雞巴含在嘴裡，全身濕透。 「Muku-Cos」以「面具×巨乳×啦啦隊兔」開闢出新天地，穿衣性愛中凌亂的淫穢身體是真正的狂想曲。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074209394394.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/20250213074209394394.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8290",
+  "actresses": [
+    {
+      "name": "白橋里帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/6cd1c601-58fd-413e-947d-d7b1f7f40ec7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8290&name=白橋里帆"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250112/uTMRcAMT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74042,
+  "IDcode": "SDMM-025",
+  "title": "お花見中のホロ酔い女子大生3人組や人妻3人組が巨チン男と人生初のハーレム4P体験！！～花びら大回転！ハメ比べをして今春1番の気持ちいいマ○コを探しちゃいます～ マジックミラー号",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "女大学生",
+    "企画",
+    "业余",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74042",
+  "actresses": [
+    {
+      "name": "雨村梨花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523095512260260_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=雨村梨花"
+    },
+    {
+      "name": "亜矢みつき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-神谷充希.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=亜矢みつき"
+    },
+    {
+      "name": "七瀬りん",
+      "img_url": "https://picture.yoshiclub.xyz/20230706/36c9fe57-9637-4b1a-8428-cbdc8332cd16.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=七瀬りん"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=森林原人"
+    },
+    {
+      "name": "黒宫えいみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=黒宫えいみ"
+    },
+    {
+      "name": "七瀬もな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=七瀬もな"
+    },
+    {
+      "name": "滝川穗乃果",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74042&name=滝川穗乃果"
+    }
+  ]
+};

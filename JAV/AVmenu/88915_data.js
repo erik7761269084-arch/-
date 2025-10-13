@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231210/nnca3Hr0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88915,
+  "IDcode": "TPIN-063",
+  "title": "【FANZA限定】僕の部屋はWデカ尻の誘惑から絶対に逃げれず100％ヤラれ放題のヤラれ部屋になりました 有加里ののか 雨宮凛 有加里ののかさんのランジェリー上下とチェキセット",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "屁股",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/6288b695b5c2ec6a2b6a44e5a77805e7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88915",
+  "actresses": [
+    {
+      "name": "雨宫凛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88915&name=雨宫凛"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/22/de84759e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95446,
+  "IDcode": "GEBB-003",
+  "title": "無防備女 睡眠姦盗撮 4名捕獲",
+  "publish_date": "2024-11-30",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/22/ad531617bc7c765a1362c819f80ab088.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95446",
+  "actresses": []
+};

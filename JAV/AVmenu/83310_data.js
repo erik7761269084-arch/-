@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/08/7be0f3a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83310,
+  "IDcode": "STARS-208",
+  "title": "大嫌いで大好きな先生を、DQNの先輩達に犯してもらいました…。 小倉由菜",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "深喉",
+    "女教师",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83310",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83310&name=小倉由菜"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83310&name=鲛岛"
+    }
+  ]
+};

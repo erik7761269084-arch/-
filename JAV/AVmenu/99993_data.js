@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/13/e6700e4e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99993,
+  "IDcode": "HND-788",
+  "title": "仙台から夜行バスを使ってアイドルライブの合間に緊急上京！本物ロコドル中出しデビュー！ 音羽ねいろ",
+  "publish_date": "2020-02-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "偶像",
+    "颜射",
+    "首次亮相",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99993",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99993&name=森林原人"
+    },
+    {
+      "name": "音羽ねいろ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99993&name=音羽ねいろ"
+    }
+  ]
+};

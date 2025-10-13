@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241013/kpLtL1PU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94596,
+  "IDcode": "NPS-450",
+  "title": "ガチナンパ！ 耐えられたら100万！姉弟でも欲情するか検証！姉（ドM欲求不満）弟（絶倫）に発情我慢ゲームさせたら成功or性交？",
+  "publish_date": "2024-07-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "业余",
+    "猎艳",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94596",
+  "actresses": []
+};

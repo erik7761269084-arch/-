@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/lWSkAruM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78829,
+  "IDcode": "CAWD-039",
+  "title": "出張先の相部屋で絶倫上司に何度も中出しされて… 部長の粘着質な愛撫と濃厚SEXに溺れた剛毛新人OL 奏音かのん",
+  "publish_date": "2019-12-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "戏剧",
+    "中出",
+    "连裤袜",
+    "OL",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78829",
+  "actresses": [
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78829&name=奏音花音"
+    }
+  ]
+};

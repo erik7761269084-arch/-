@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/JLQHjL6L/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81786,
+  "IDcode": "MIAA-245",
+  "title": "180cm高身長タトゥー美女媚薬オイルマッサージで悶絶中出し堕とし 佐藤エル",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "苗条",
+    "按摩",
+    "拘束",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/d5987d21ee4b7c2d2de1ee1bd0aee88e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81786",
+  "actresses": [
+    {
+      "name": "佐藤爱琉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81786&name=佐藤爱琉"
+    }
+  ]
+};

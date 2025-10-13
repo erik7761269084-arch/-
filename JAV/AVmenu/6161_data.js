@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/52ee8438-d7bb-4515-9ae4-ecd0a130ef31/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6161,
+  "IDcode": "KTRA-717",
+  "title": "順從抖M小妹被狂灌滿！第二彈4小時合集 ~ 冬愛琴音 夏目涼子 白城梨紗 本田さとみ",
+  "publish_date": "2025-05-10",
+  "type": "有码",
+  "company": "K-Tribe",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "故事集",
+    "劇情",
+    "純粹的慾望",
+    "舔腳",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "精選綜合",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "女優"
+  ],
+  "description": "KTRA-717为K-Tribe出品,2025年5月10日发行的有碼成人影片由冬愛琴音，夏目りょうこ，本田さとみ，白城梨紗出演\n一切都照你的意思來…要不要跟這些超可愛又超順從的妹子來場無套激情？她們完全不反抗，任你玩弄，感受她們在你手下顫抖，直接往那緊緻的小穴裡猛灌滿！她們是我一個人的乖巧小寵物，下面只屬於我一個人！這些抖M妹子的小穴緊到不行，4小時精選讓你一次爽翻天，直接射爆她們！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102505966966_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102505966966_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6161",
+  "actresses": [
+    {
+      "name": "冬愛琴音",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/3dccf0db-8abf-4b05-8624-84f40b564cf7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6161&name=冬愛琴音"
+    },
+    {
+      "name": "白城梨紗",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/0480c016-abe0-49a7-af3c-3891f79d83a8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6161&name=白城梨紗"
+    },
+    {
+      "name": "本田さとみ",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/ac7601d4-40db-4c59-9d4b-e74a06f66be9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6161&name=本田さとみ"
+    },
+    {
+      "name": "夏目りょうこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6161&name=夏目りょうこ"
+    }
+  ]
+};

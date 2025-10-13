@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/34Jf8acn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81787,
+  "IDcode": "MIST-295",
+  "title": "妊娠したくてAVデビュー！！このまま妊娠せずに歳を取りたくないんです… Kカップ爆乳 えりこさん（42）",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "业余",
+    "巨大阴茎"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/b2077f3868844967a55f0872486a2a58.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81787",
+  "actresses": []
+};

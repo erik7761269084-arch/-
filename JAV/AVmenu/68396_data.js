@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/7SRva3Wm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68396,
+  "IDcode": "JUQ-088",
+  "title": "合鍵をもらった人妻が、男子学生が卒業するまで中出しされた一人暮らし部屋。 篠田ゆう",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250411-1/ff1c79fa08b7947f5721d831e5bb9d29.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68396",
+  "actresses": [
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68396&name=篠田优"
+    }
+  ]
+};

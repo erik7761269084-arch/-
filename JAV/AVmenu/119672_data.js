@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 119672,
+  "IDcode": "FC2PPV2686299",
+  "title": "无码 F奶清純女學生下課後課外活動 激情猛操騷氣叫床[Part1]",
+  "publish_date": "2022-02-26",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119672",
+  "actresses": []
+};

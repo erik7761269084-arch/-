@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/beb990c0-b9c8-41c2-a6fb-71f60060474d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13599,
+  "IDcode": "MILK-213",
+  "title": "在街上發現的穿着制服的天使被綁架並受到徹底的折磨，她已經變成了會服從任何事情的肉便器 ~ 河合陽菜",
+  "publish_date": "2024-07-04",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "苗條",
+    "後入",
+    "巨尻",
+    "尾行",
+    "性虐癖",
+    "吞精",
+    "深喉",
+    "色白",
+    "魔鬼系",
+    "中出",
+    "女上位",
+    "JK校服",
+    "顏射",
+    "綁架",
+    "口交",
+    "騎乗位",
+    "少女",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "美少女",
+    "清純",
+    "手指插入",
+    "短髮",
+    "打屁股",
+    "美少女電影",
+    "女學生",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240704/3284ff60-3df4-4828-9ae0-118a33db4ba2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240704/3284ff60-3df4-4828-9ae0-118a33db4ba2.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13599",
+  "actresses": [
+    {
+      "name": "河合陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240704/1df72745-df9d-4467-b773-298af2b539a0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13599&name=河合陽菜"
+    }
+  ]
+};

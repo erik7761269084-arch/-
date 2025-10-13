@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1562bf06-cfa8-44c6-89c2-659ddb28b7cc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 633,
+  "IDcode": "HEYZO-0762",
+  "title": "想要工作的話就來我這裏！ ～墮入援交業的女孩 ~ 桜井心菜",
+  "publish_date": "2015-01-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "少女",
+    "打手槍",
+    "美少女",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "HEYZO-0762为HEYZO出品,2015年1月2日发行的無碼成人影片由桜井心菜出演\n仕事が欲しけりゃヤらせろ！～枕営業に堕ちたタレント～ - 桜井心菜",
+  "cover_url": "https://picture.yoshiclub.xyz/20241016/acfc2695-1408-4294-a8ee-4dac946233ee.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241016/acfc2695-1408-4294-a8ee-4dac946233ee.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=633",
+  "actresses": [
+    {
+      "name": "桜井心菜",
+      "img_url": "https://picture.yoshiclub.xyz/20241016/5496bcdb-6cf0-4d23-a85b-e7a63906f364.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=633&name=桜井心菜"
+    }
+  ]
+};

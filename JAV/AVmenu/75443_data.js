@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/8kg2OYZw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75443,
+  "IDcode": "OTIM-017",
+  "title": "【配信専用】【妄想主観】広島弁がぶち可愛いお姉ちゃんメイド 七瀬ひな",
+  "publish_date": "2020-02-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "妄想",
+    "苗条",
+    "口交",
+    "女佣",
+    "主观视角",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75443",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75443&name=七海雛"
+    }
+  ]
+};

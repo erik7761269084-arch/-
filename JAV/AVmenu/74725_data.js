@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250109/moLDBHy3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74725,
+  "IDcode": "LUXU-1142",
+  "title": "ラグジュTV 1115 肉欲そそる魔性ボディが目を惹く美人バイヤー再び！全身が性感帯と化した身体が本能的に巨根を求め、美巨乳、美尻を揺らしながら喘ぎまくる！",
+  "publish_date": "2019-06-12",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "姐姐",
+    "屁股",
+    "业余",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74725",
+  "actresses": [
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74725&name=小田切ジュン"
+    },
+    {
+      "name": "斎藤ミオリ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74725&name=斎藤ミオリ"
+    }
+  ]
+};

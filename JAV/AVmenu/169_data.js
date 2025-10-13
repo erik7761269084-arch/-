@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c948db22-14d4-432f-a10e-5ce98740eb1f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 169,
+  "IDcode": "HEYZO-0157",
+  "title": "貼身跟拍！白皙F杯小姐姐悠希めい全裸大公開~悠希めい",
+  "publish_date": "2012-11-02",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "劇情",
+    "臀控",
+    "乳交",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "清楚系",
+    "明星臉",
+    "清純",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "阪道系",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "HEYZO-0157为HEYZO出品,2012年11月2日发行的無碼成人影片由悠希めい出演\n超人氣AV女優悠希めい小姐姐，這次居然在HEYZO平台震撼登場！她那白嫩嫩、軟綿綿的身軀，F杯大胸晃得讓人小鹿亂撞，直接全裸開腿，火力全開啦！這次是貼身跟拍，拍攝當天還有專訪，她毫不掩飾地分享拍攝心情，果然全裸露點還是會害羞（這不是廢話嘛）！更刺激的是，她連私底下都沒試過的中出，這次竟然直接解鎖初體驗！天啊，對戲男優真的讓人羨慕到不行！剛出道才拍了4部片的めい醬，青澀又誘人的表現，絕對值得你慢慢欣賞，趕快來看啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630104400325325_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250630/20250630104400325325_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=169",
+  "actresses": [
+    {
+      "name": "悠希めい",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630105743315315_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=169&name=悠希めい"
+    }
+  ]
+};

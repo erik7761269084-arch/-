@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220906/37777861F28F5D09/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 38023,
+  "IDcode": "850161031BB20B28E6E05F83A762D-378",
+  "title": "自己活动小穴抽插的超淫荡痴女 -被触感出众的胸部夹住晃动- 日向千寻",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38023",
+  "actresses": []
+};

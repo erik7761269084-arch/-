@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221222/j5XQS4Xq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83238,
+  "IDcode": "SW-691",
+  "title": "捨てられてたカワイイ猫（メス）ちゃんを拾って飼うことにしたんだけど、お世話するのは超大変！モフモフキャッキャッと戯れて癒されて、肉棒を与えれば、嬉しそうにぺロぺロ舐めてくれて、試しに猫マ○コにチ○ポぶっさしたら案外気持ちよくてニャンニャン感じてくれた！",
+  "publish_date": "2020-03-12",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "角色扮演者"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/25ddc174f9592be8a61ea19d14a9096d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83238",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83238&name=小泉真理"
+    },
+    {
+      "name": "亜矢みつき",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/AI-Fix-神谷充希.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83238&name=亜矢みつき"
+    },
+    {
+      "name": "八寻麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83238&name=八寻麻衣"
+    }
+  ]
+};

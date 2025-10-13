@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230217/207986D7D238B161/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99694,
+  "IDcode": "HONB-099",
+  "title": "【初撮り】制服ぎゃるのア○ルに指入れたり3Pしたりぶっかけ顔射したり生で中出ししたり勝手に販売したり",
+  "publish_date": "2018-11-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "中出",
+    "女生",
+    "业余",
+    "纪录片",
+    "猎艳",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1133honb099/h_1133honb099pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99694",
+  "actresses": []
+};

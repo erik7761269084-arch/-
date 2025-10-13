@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9cd910a9-8d3b-40fa-9107-aed2eff2db3a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/01/d8c3dd23/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5750,
+  "IDcode": "MIHA-096",
+  "title": "風俗妹子全程挑弄你的乳頭 超級勾人玩法 ~ 美澄玲衣",
+  "publish_date": "2025-05-22",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "巨尻",
+    "按摩女郎",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "淫語",
+    "主觀視角",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "飯店小姐・援交妹",
+    "美少女電影"
+  ],
+  "description": "MIHA-096为Mr.Michiru出品,2025年5月22日发行的有碼成人影片由美澄玲衣出演\n這位風俗妹子從頭到尾都在玩弄你的乳頭，又揉又舔，真的讓人受不了！她一邊用甜到發膩的聲音在你耳邊輕聲細語，一邊狂撩你的敏感帶，害你下面硬到爆！忍不住直接衝進去也是男人的本能啦！F杯93cm的妹子用乳頭責罰把你搞得暈頭轉向，全程主觀視角讓你爽到不行，趕快來感受一下吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528060835854854_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250528/20250528060835854854_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5750",
+  "actresses": [
+    {
+      "name": "美澄玲衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/fe3066b2-1a9d-4c6b-ad93-86b343e259c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5750&name=美澄玲衣"
+    }
+  ]
+};

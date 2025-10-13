@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240331/BWg9wowe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64797,
+  "IDcode": "1480-JUQ-539",
+  "title": "野生男人往家带，就是婆婆也得载",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64797",
+  "actresses": []
+};

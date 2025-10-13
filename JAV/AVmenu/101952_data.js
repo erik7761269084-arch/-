@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240507/mhSxIgkB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101952,
+  "IDcode": "DOCP-024",
+  "title": "妄想力半端ないむっつり地味っこ巨乳ちゃん 下ネタ話をしているだけで体ビクビク、お股モジモジ、周りに隠れて妄想オナニー！？興奮しまくった彼女は見た目からは想像できない神ボディを僕に見せつけ貪欲にチ○ポを求める淫乱女に大豹変！！",
+  "publish_date": "2018-02-16",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118docp024/118docp024pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101952",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101952&name=霧島さくら"
+    },
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101952&name=神宫寺奈绪"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/29/658d4f78/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 116709,
+  "IDcode": "FC2-4518435",
+  "title": "已婚女性当护士",
+  "publish_date": "2025-07-29",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/28/600a73470850cb6d14758dfd81995ff9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=116709",
+  "actresses": []
+};

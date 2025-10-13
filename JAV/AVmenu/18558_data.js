@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4dbeee89-2ff9-4dc4-9a56-ceb02501dae2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18558,
+  "IDcode": "IPX-705",
+  "title": "到家福利 女神加美杏奈挑選7名粉絲上門做愛",
+  "publish_date": "2021-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "上門福利",
+    "企畫",
+    "角色扮演",
+    "4小時以上作品",
+    "感謝祭",
+    "粉絲福利",
+    "出軌",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926234159206206.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230926/20230926234159206206.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18558",
+  "actresses": [
+    {
+      "name": "加美杏奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230806/e3d8a99b-71b8-4f09-b9b2-3f1b4356c96d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18558&name=加美杏奈"
+    }
+  ]
+};

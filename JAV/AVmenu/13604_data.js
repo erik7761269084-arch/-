@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7ce6d69a-cc66-48e9-8b88-56a8ef7826a5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13604,
+  "IDcode": "MILK-214",
+  "title": "藥草屋美女店員沉迷於性欲和雞巴！~ 早川瑞希",
+  "publish_date": "2024-07-04",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "感官作品",
+    "口交",
+    "性感",
+    "按摩・美容店",
+    "巨乳",
+    "抹油",
+    "辣妹/GAL系",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240704/3040be84-b955-4b26-bb72-217ff9de143c.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240704/3040be84-b955-4b26-bb72-217ff9de143c.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13604",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13604&name=若宮葉月"
+    }
+  ]
+};

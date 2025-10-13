@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/eddb62c2-6c81-463a-859b-2e03ced3e5e7/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/10/028def83/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3953,
+  "IDcode": "ADN-697",
+  "title": "和性格超拽的青梅竹馬幹到精盡人亡的記錄 ~ 七海那美",
+  "publish_date": "2025-08-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "臀控",
+    "流汗",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "探親",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "青梅竹馬",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "大奶头",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "田舍娘"
+  ],
+  "description": "ADN-697为ATTACKERS出品,2025年8月1日发行的有碼成人影片由七海那美出演\n没想到当年那个男人婆一样的那美，竟然跑去当木匠学徒了！回想过去，她那股不服输的劲头真不是盖的，每次吵架都被她压得死死的。回老家好久没见，几年后重逢，她还是那个拽样……但等等，咋回事？她这身材咋变得这么有女人味了？！靠，我在想啥啊，对方可是那美啊！！可一旦起了心思就收不住了，我完全压不住内心的冲动，彻底沦陷了……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085536463463_23464_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085536463463_23464_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3953",
+  "actresses": [
+    {
+      "name": "七海那美",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/96b99143-4036-4c22-aed9-1598e5409326.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3953&name=七海那美"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3953&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/15/9d3737de/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61002,
+  "IDcode": "CRNX-235",
+  "title": "【4K】自慢のご奉仕メイドと杭打ち騎乗位SEX 小野坂ゆいか",
+  "publish_date": "2025-07-30",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "精选，综合",
+    "中出",
+    "无毛",
+    "女上位",
+    "自慰",
+    "荡妇",
+    "口交",
+    "女佣",
+    "接吻",
+    "内衣",
+    "骑乗位",
+    "素人作品",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/9d3737de/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61002",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61002&name=小野坂唯香"
+    }
+  ]
+};

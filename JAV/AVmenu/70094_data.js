@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/07zq6zXs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70094,
+  "IDcode": "MRSC-006",
+  "title": "「おばさんの下着なんか盗んで一体ナニするの…？」2 夫に相手にされなくなった人妻はパンツを盗られて発情する！ 13人全員撮り下ろし",
+  "publish_date": "2020-12-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "口交",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70094",
+  "actresses": []
+};

@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241219/7VupIMi2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76166,
+  "IDcode": "GDHH-184",
+  "title": "エロ過ぎる！ラッキー突き出し尻にもう我慢の限界！！我も忘れてチ●ポ挿入＆中出しに美女も興奮！？逆にチ●ポを求められてハメまくりの神展開に…",
+  "publish_date": "2020-01-19",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "女上位",
+    "各种职业",
+    "屁股",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76166",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=美園和花"
+    },
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=小泉真理"
+    },
+    {
+      "name": "神楽アイネ",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/055e11f2-b940-4335-88f2-09461301c1d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=神楽アイネ"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=タツ"
+    },
+    {
+      "name": "藤川菜绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=藤川菜绪"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=今井まい"
+    },
+    {
+      "name": "千种ちな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=千种ちな"
+    },
+    {
+      "name": "若槻さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=若槻さくら"
+    },
+    {
+      "name": "叶山りん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=叶山りん"
+    },
+    {
+      "name": "小园梨央",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=小园梨央"
+    },
+    {
+      "name": "中西南",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76166&name=中西南"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/26/ae54586b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85676,
+  "IDcode": "NACR-589",
+  "title": "彼シャツメンズエステ ちっぱいセラピストのプレミアムコース あべみかこ パンティと生写真付き",
+  "publish_date": "2022-10-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "无毛",
+    "乳液",
+    "口交",
+    "平胸",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/9c856edfc1c94183164eb1d93d4b23ca.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85676",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85676&name=安部未華子"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85676&name=岩下たろう"
+    }
+  ]
+};

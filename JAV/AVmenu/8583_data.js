@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b412e52e-d6a8-4adf-b8c9-9e24a5da277a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8583,
+  "IDcode": "HALE-056",
+  "title": "媽媽的朋友貪得無厭，不斷索要我的雞巴 Vol.51 ~ 湊波流",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "貴婦",
+    "企畫",
+    "淫亂",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "母親的朋友",
+    "美人",
+    "熟女",
+    "短髮"
+  ],
+  "description": "HALE-056为妄想族出品,2025年2月4日发行的有碼成人影片由湊波流出演\n這位是上次美花小姐介紹過的Haru小姐。擁有偶像般面容的小胸媽媽出現。年輕的妻子仍然希望被視為一個女人……這是她的第一次婚外情，她永遠不能告訴她的丈夫！第一次大屌插入，興奮又震驚！她說，她丈夫的臉在她的腦海裡閃過，但在我們從頭到尾的激情性愛過程中，她卻一次又一次地達到高潮！我無法停止吃我媽媽的朋友。接下來還有更多。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202130708337337.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250202/20250202130708337337.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8583",
+  "actresses": [
+    {
+      "name": "湊波流",
+      "img_url": "https://picture.yoshiclub.xyz/20240628/017b6a1e-ab09-43a4-b7fa-a1d622205fd8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8583&name=湊波流"
+    }
+  ]
+};

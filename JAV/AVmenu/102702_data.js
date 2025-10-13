@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220406/B667B3E33A80912D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102702,
+  "IDcode": "KAWD-913",
+  "title": "痴漢した制服美少女とその後、むさぼり合うようなドエロ純愛 伊藤舞雪",
+  "publish_date": "2018-07-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102702",
+  "actresses": []
+};

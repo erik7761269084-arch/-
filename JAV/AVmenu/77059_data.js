@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241201/ZOTR0dG0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77059,
+  "IDcode": "PTS-414",
+  "title": "某有名アイドルグループに在籍していたあの子が遂にAV出演！体験人数1人なのに底なし性欲変態ドM娘！",
+  "publish_date": "2018-03-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "偶像",
+    "女生",
+    "乳房",
+    "猎艳",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/fda4099c66142bc34345b750e85b7432.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77059",
+  "actresses": [
+    {
+      "name": "望月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77059&name=望月"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221230/VOW6qI40/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83709,
+  "IDcode": "MKMP-312",
+  "title": "殿堂！スーパーアイドル4時間 霧島さくら",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "中出",
+    "偶像",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/6c7a3acddc881c0e61c6b7f87cbcfc85.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83709",
+  "actresses": [
+    {
+      "name": "霧島さくら",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/b16494b7-ed0a-4cd6-899f-1f68f402d81f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83709&name=霧島さくら"
+    }
+  ]
+};

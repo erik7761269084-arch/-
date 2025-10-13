@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221102/u42i6LS4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81773,
+  "IDcode": "MANE-044",
+  "title": "強●入院病棟 ～退院させてくれない看護師たち～",
+  "publish_date": "2020-01-09",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "M男",
+    "饮尿"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81773",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81773&name=望月綾香"
+    },
+    {
+      "name": "冲田里绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81773&name=冲田里绪"
+    },
+    {
+      "name": "今井まい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/f0428129028595673c85cf6532222267.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81773&name=今井まい"
+    }
+  ]
+};

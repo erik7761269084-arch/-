@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dd7b8848-6605-4a27-b3bf-f31706b044ba/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241020/S4eIMXRr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13637,
+  "IDcode": "SAN-251",
+  "title": "妻子的性魅力 尾崎惠梨香",
+  "publish_date": "2024-06-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "自慰",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240630/20240630085448179179.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240630/20240630085448179179.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13637",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13637&name=尾崎惠梨香"
+    },
+    {
+      "name": "マリモン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13637&name=マリモン"
+    },
+    {
+      "name": "ふれんち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13637&name=ふれんち"
+    }
+  ]
+};

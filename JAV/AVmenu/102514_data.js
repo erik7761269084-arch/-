@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240616/VjehliPk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102514,
+  "IDcode": "AFS-061",
+  "title": "AFS-061",
+  "publish_date": "2022-12-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102514",
+  "actresses": [
+    {
+      "name": "堀内美香",
+      "img_url": "https://picture.yoshiclub.xyz/20241107/032c2195-c558-4806-a43c-9252cb184e6e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102514&name=堀内美香"
+    },
+    {
+      "name": "桜庭ひかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102514&name=桜庭ひかり"
+    },
+    {
+      "name": "三浦瑠衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102514&name=三浦瑠衣"
+    }
+  ]
+};

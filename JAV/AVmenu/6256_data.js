@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5365fad8-431c-4e04-b10c-92b8c844f2e8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6256,
+  "IDcode": "ROE-350",
+  "title": "偷拍NTR 兄弟誤傳的偷拍影片裡的人竟然是我媽 ~ 瀬尾礼子",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "色白",
+    "中出",
+    "四十路",
+    "女上位",
+    "重口味",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "奇聞趣事",
+    "單體作品",
+    "同学母亲",
+    "地味",
+    "NTR",
+    "熟女",
+    "短髮"
+  ],
+  "description": "ROE-350为MADONNA出品,2025年5月9日发行的有碼成人影片由瀬尾礼子出演\n最近死黨小一迷上了偷拍，還是處男的我也好奇到不行，就叫他傳影片給我瞧瞧。結果他突然說剛剛傳錯了，叫我趕緊刪掉。但那影片一看就是偷拍嘛，我忍不住看完，發現裡面的人怎麼看都像我媽…這事一直在腦海裡揮之不去，心裡超級糾結，但我媽看起來啥事都沒有。沒多久，小一又聯繫我說要開直播，這下我整個炸開了…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508070831828828_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508070831828828_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6256",
+  "actresses": [
+    {
+      "name": "瀬尾礼子",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/936a6e05-b988-4a4e-8a13-c06e5e045771.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6256&name=瀬尾礼子"
+    }
+  ]
+};

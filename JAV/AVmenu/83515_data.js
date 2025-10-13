@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/o6MHvg1N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83515,
+  "IDcode": "EKDV-621",
+  "title": "親友の地味で真面目な彼女は、追撃中出し発射無制限の裏オプデリヘル嬢！！美園和花",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "戏剧",
+    "中出",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/b0fca3be7b54c005f53c8e9d01cc06c5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83515",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83515&name=美園和花"
+    }
+  ]
+};

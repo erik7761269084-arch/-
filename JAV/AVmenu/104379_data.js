@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/19/1bcd78a4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104379,
+  "IDcode": "WAAA-251",
+  "title": "社員旅行で下品な宴会ゲームをやらされて発情した同僚たちに一晩中犯●れた彼女 松本菜奈実",
+  "publish_date": "2023-03-31",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "羞耻",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/04/20/fb2a3e7764fc922accfc53b666925f66.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104379",
+  "actresses": [
+    {
+      "name": "松本菜奈実",
+      "img_url": "https://picture.yoshiclub.xyz/20231214/e25f8794-9bf7-44ea-8c45-88d36d87c032.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104379&name=松本菜奈実"
+    }
+  ]
+};

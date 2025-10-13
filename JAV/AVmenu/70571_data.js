@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250318/seOdWiVr/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70571,
+  "IDcode": "SPZ-1049",
+  "title": "オバサンがメスになった瞬間 出張オイルマッサージ盗撮",
+  "publish_date": "2019-10-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "按摩",
+    "投稿",
+    "业余",
+    "偷窥",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70571",
+  "actresses": []
+};

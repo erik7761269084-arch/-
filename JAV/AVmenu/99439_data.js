@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/3775F0DE7F099F07/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99439,
+  "IDcode": "AUKG-464",
+  "title": "レズビアンエタニティ ～美魔女の濡れたランジェリー～",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "已婚妇女",
+    "内衣",
+    "女同性恋",
+    "乳液",
+    "接吻",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99439",
+  "actresses": [
+    {
+      "name": "吉永塔子",
+      "img_url": "https://picture.yoshiclub.xyz/20240221/16d8bf67-9d59-4fed-8a0d-45d54631b60d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99439&name=吉永塔子"
+    },
+    {
+      "name": "古川祥子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99439&name=古川祥子"
+    }
+  ]
+};

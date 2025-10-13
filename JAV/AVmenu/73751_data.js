@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250117/d8RmYG4p/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73751,
+  "IDcode": "OBA-385",
+  "title": "夫の留守、自宅にセフレを招いてセックスに溺れる人妻 八嶋みどり",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/1ff83b92b2b97ccc33b8e8049af8ebc4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73751",
+  "actresses": [
+    {
+      "name": "八嶋みどり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73751&name=八嶋みどり"
+    }
+  ]
+};

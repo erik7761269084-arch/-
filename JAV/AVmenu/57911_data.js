@@ -1,0 +1,27 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57911,
+  "IDcode": "N1028",
+  "title": "n1028 鬼逝 - 西川七瀬",
+  "publish_date": "2015-03-10",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "玩具",
+    "恋物癖",
+    "深喉",
+    "3P",
+    "性奴",
+    "肛交",
+    "肛交",
+    "口交",
+    "颜射",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57911",
+  "actresses": []
+};

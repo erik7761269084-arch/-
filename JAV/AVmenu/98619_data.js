@@ -1,0 +1,22 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98619,
+  "IDcode": "BAZX-229-",
+  "title": "生中出しアイドル枕営業 Vol",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": "BAZOOKA",
+  "genres": [
+    "中出",
+    "偶像",
+    "制服",
+    "口交",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98619",
+  "actresses": []
+};

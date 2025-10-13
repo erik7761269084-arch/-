@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230504/EC399990F78B718A/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65925,
+  "IDcode": "C0045DB64FEAFDD6E0D72ED173BE080E",
+  "title": "[日本] 芦永丽破坏版AV～堕落成亲子肉便器的美人妻～ (MVSD-458)",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65925",
+  "actresses": []
+};

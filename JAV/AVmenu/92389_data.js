@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240824/686Z3mOu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92389,
+  "IDcode": "BEST-12",
+  "title": "スタイル抜群の美熟女BEST12人-君岛美绪,森泽佳奈,大槻响等演员。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92389",
+  "actresses": []
+};

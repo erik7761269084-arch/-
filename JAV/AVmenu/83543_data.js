@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/qICb9paD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83543,
+  "IDcode": "FIV-060",
+  "title": "全ての男が勃起する極上のカラダの素人 5 最旬極上BODY",
+  "publish_date": "2020-03-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "颜射",
+    "玩具",
+    "屁股",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/d4140090f0f91595c509b6fa9ae6de61.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83543",
+  "actresses": [
+    {
+      "name": "音海里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=音海里奈"
+    },
+    {
+      "name": "凉海みさ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=凉海みさ"
+    },
+    {
+      "name": "杏璃さや",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=杏璃さや"
+    },
+    {
+      "name": "大桥依织",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=大桥依织"
+    },
+    {
+      "name": "水川爱莉",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=水川爱莉"
+    },
+    {
+      "name": "本多由奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83543&name=本多由奈"
+    }
+  ]
+};

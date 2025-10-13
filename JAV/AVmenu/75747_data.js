@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/06/01/db438870/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75747,
+  "IDcode": "ABP-939",
+  "title": "風俗塔 性感全套3小時SPECIAL 31 涼森玲夢",
+  "publish_date": "2020-01-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "肛交",
+    "角色扮演者",
+    "素人作品",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75747",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75747&name=田渊正浩"
+    },
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75747&name=凉森玲梦"
+    }
+  ]
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/04808ac3-a279-48c3-acd5-8c7f053cf868/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 2347,
+  "IDcode": "MIDA-352",
+  "title": "地味眼鏡娘女老師大變身！放學後到清晨瘋狂無套激情啪啪 ~ 天宮花南",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "女教師",
+    "高顏值",
+    "劇情",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "文藝女",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "口爆",
+    "清楚系",
+    "單體作品",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "地味",
+    "美人",
+    "眼鏡",
+    "寢取",
+    "羞恥"
+  ],
+  "description": "MIDA-352为MOODYZ出品,2025年10月2日发行的有碼成人影片由天宮花南出演\n【悶騷爆乳天宮老師讓我失控狂中出！】突然肚子痛的我被天宮老師帶回家照顧。原本以為她很樸素，沒想到她竟然有G杯好身材，悶騷到不行，毫無防備的樣子直接讓我性慾暴走！揉爆她的巨乳，忍不住發情中出！明知道不行，卻越陷越深，興奮到不行！浴室裡她還幫我泡沫洗體口活，青春期的慾火根本壓不住！從晚上到早上瘋狂纏綿，完全忘記身份，只顧追求快感，天宮老師化身騷浪女人，和我整整幹了10發！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035726411411_71579_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035726411411_71579_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2347",
+  "actresses": [
+    {
+      "name": "天宮花南",
+      "img_url": "https://picture.yoshiclub.xyz/20230927/fed8f42c-0e06-458b-b246-35973ae3db8d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2347&name=天宮花南"
+    }
+  ]
+};

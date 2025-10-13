@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/05/756888b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72690,
+  "IDcode": "MSPK-022",
+  "title": "メスパコNo.22 拘束女体観察 ーみくー",
+  "publish_date": "2025-02-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "巨乳",
+    "中出",
+    "颜射",
+    "拘束",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/756888b0/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72690",
+  "actresses": [
+    {
+      "name": "有馬美玖",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/3f39576f-93cb-416b-9fff-145bf8f9554d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72690&name=有馬美玖"
+    }
+  ]
+};

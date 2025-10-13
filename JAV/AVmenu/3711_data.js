@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fb589da5-7613-4507-88b4-95692c702218/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/15/09f69710/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3711,
+  "IDcode": "DLDSS-422",
+  "title": "工廠打工的隱藏巨乳眼鏡妹看起來不起眼，玩玩而已結果是個超淫亂妹子，瘋狂高潮求內射 ~ 善場麻美",
+  "publish_date": "2025-08-10",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "少女",
+    "美少女",
+    "寫真女郎",
+    "清楚系",
+    "自慰",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "辦公室",
+    "猥褻穿著",
+    "M男・M女",
+    "寫真偶像",
+    "約炮",
+    "美人",
+    "眼鏡",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "DLDSS-422为DAHLIA出品,2025年8月10日发行的有碼成人影片由善場麻美出演\n去風俗店太燒錢，自己打手槍又沒啥感覺，想找個免費的炮友爽一下，就把公司裡一個不起眼但身材超正的孤僻妹子約出來吃飯，順勢把她上了。沒想到這妹子居然是個隱藏的超M屬性，性慾強到爆，嘴裡喊著‘想要大肉棒…’，像變了個人一樣流口水狂甩臀求愛，潮吹高潮一波接一波，內射後還一臉滿足地繼續舔棒棒。從那天起，她在公司也隨時給我幹，爽到不行啦哈哈！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809231713542542_69893_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250809/20250809231713542542_69893_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3711",
+  "actresses": [
+    {
+      "name": "善場麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/5cb58970-bd57-4357-b110-785c7b31c6e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3711&name=善場麻美"
+    }
+  ]
+};

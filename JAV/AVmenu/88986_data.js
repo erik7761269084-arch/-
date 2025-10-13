@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231211/Jf5y9I5C/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88986,
+  "IDcode": "URKK-086",
+  "title": "最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 星乃夏月",
+  "publish_date": "2023-07-11",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "巨乳",
+    "中出",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/61fdf0daa265ee00ec3e206687cf4b92.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88986",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88986&name=星乃夏月"
+    }
+  ]
+};

@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4b95aea7-ab74-4a4f-a03e-e484a2c04e65/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15980,
+  "IDcode": "FPRE-019",
+  "title": "新人！ H罩杯女大學生宮本里美，皮膚光滑美麗，AV DEBUT 臉蛋可愛，其實是蜘蛛女牛仔位置的天才！ ！",
+  "publish_date": "2024-03-05",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美少女",
+    "出道作品",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "女學生",
+    "無毛",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "FPRE-019为FITCH出品,2024年3月5日发行的有碼成人影片由宮本聡美出演\n天真無邪的21歲女大學生將 AV出道！她有着開朗充滿活力的性格、年輕有彈性的純白肌膚、美麗的H罩杯胸脯、遊泳籃球練就的玲瓏腰肢、不知疲倦的下半身！她有一張如此可愛的臉，而且是舔乳頭和女牛仔姿勢的天才！千變萬化的乳頭舔和口交等舔玩也很棒！ 170分鍾無辜的Satomi醬，因男人臉上的感覺而興奮，猛烈地拍打她溼漉漉的陰部並彈跳！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302041545353353.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240302/20240302041545353353.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15980",
+  "actresses": [
+    {
+      "name": "宮本聡美",
+      "img_url": "https://picture.yoshiclub.xyz/20240303/dacfc2e4-5eb9-4f19-b470-3b128e0158d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15980&name=宮本聡美"
+    }
+  ]
+};

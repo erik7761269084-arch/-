@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/01/c112fa81/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59927,
+  "IDcode": "DASS-762",
+  "title": "金曜夜は、絶対的男の娘で決まり。荒木ゆあ、お貸しします。",
+  "publish_date": "2025-09-23",
+  "type": "有码",
+  "company": "DASDAS",
+  "genres": [
+    "荡妇",
+    "肛交",
+    "女装人妖",
+    "感谢祭",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/01/e448cbbfdf1b1448e84d66598e917097.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59927",
+  "actresses": [
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59927&name=岩下たろう"
+    },
+    {
+      "name": "荒木ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59927&name=荒木ゆあ"
+    }
+  ]
+};

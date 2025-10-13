@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/xlw0okqv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83538,
+  "IDcode": "DTSG-007",
+  "title": "童貞マッサージ師 勇気を出して初めての媚薬オイルマッサージ 感度覚醒 キメセク 中出し",
+  "publish_date": "2020-03-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "荡妇",
+    "按摩",
+    "口交",
+    "手淫",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/7c1c5f95c16c392696978923ea2c0a40.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83538",
+  "actresses": [
+    {
+      "name": "爱実ありあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83538&name=爱実ありあ"
+    }
+  ]
+};

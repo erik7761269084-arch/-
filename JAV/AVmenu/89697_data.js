@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/9f694ebe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89697,
+  "IDcode": "SDAB-250",
+  "title": "【完全主観】俺に片思いバレバレなやわふわ系教え子、小島みこにジーーっと見つめられてコソコソ校内セックス!",
+  "publish_date": "2023-06-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89697",
+  "actresses": [
+    {
+      "name": "小島美子",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/94e36d78-25f4-4161-9ea7-97da1a4f25eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89697&name=小島美子"
+    }
+  ]
+};

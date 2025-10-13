@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cafa45c5-f88e-4897-8806-a5f2cc5d174e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/26/989b647e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15070,
+  "IDcode": "CAWD-648",
+  "title": "慄宮雙葉傳銷妹，用性改變世界",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "女業務",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "艷遇",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "CAWD-648为KAWAII出品,2024年5月7日发行的有碼成人影片由設樂夕日出演\n偽裝成應用程式的多次招攬。當然，我無意加入，但我配對的那個女孩似乎抗壓性較弱，所以我說服了她，然後…不知怎的，只有我們兩個人，所以我邀請她加入，玩弄她柔軟的身體。雖然她不喜歡，但我還是強行把她的衣服脫了，她的腰肢纖細，胸脯完美無缺…當我猛烈活塞的時候，女人也有感覺，這就是我喜歡的那種受虐狂女孩。看來她很容易被騙，而且她的臉和身體都很好，所以從現在開始我要對她進行大量的訓練，也作為修復世界的一種手段哈哈。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503031500555555.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240503/20240503031500555555.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15070",
+  "actresses": [
+    {
+      "name": "設樂夕日",
+      "img_url": "https://picture.yoshiclub.xyz/20230913/6a9bf07d-7cd5-4a21-9242-2b39d6faad1a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15070&name=設樂夕日"
+    }
+  ]
+};

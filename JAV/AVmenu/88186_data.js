@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230910/9lPsH17D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88186,
+  "IDcode": "PGD-946",
+  "title": "彼氏がいるのに誘惑おしゃぶり女子校生 3 姫川ゆうな",
+  "publish_date": "2017-04-25",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "口交",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88186",
+  "actresses": [
+    {
+      "name": "姬川优奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88186&name=姬川优奈"
+    }
+  ]
+};

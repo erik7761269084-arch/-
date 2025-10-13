@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/27/a1d5d522/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107207,
+  "IDcode": "IPZ-718",
+  "title": "豪華尻槍補助器 桃乃木香奈 3小時",
+  "publish_date": "2016-03-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "淫语",
+    "数位马赛克",
+    "乳房",
+    "主观视角",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/28/9039b20175e824de9fad5fa9bd750967.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107207",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107207&name=桃乃木香奈"
+    }
+  ]
+};

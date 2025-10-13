@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/03/15/4155bc13/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105639,
+  "IDcode": "DVAJ-355",
+  "title": "彼女が3日間家族旅行で家を空けるというので、彼女の友達と3日間ハメまくった記録（仮） 麻里梨夏 富田優衣",
+  "publish_date": "2018-10-13",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "多P",
+    "女大学生",
+    "白天出轨",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105639",
+  "actresses": [
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105639&name=富田优衣"
+    },
+    {
+      "name": "麻里梨夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230522/fb513b24-1f08-4802-aa05-c7d5baa66304.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105639&name=麻里梨夏"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7396a034-ed5a-4cdb-b84e-3dcdb2217470/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11121,
+  "IDcode": "TLDC-019",
+  "title": "Oho 色情墮落指導 ~ 月妃さら",
+  "publish_date": "2024-11-15",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "網襪",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "主觀視角",
+    "膚黑",
+    "少女",
+    "金髮",
+    "情趣內衣",
+    "猥褻穿著",
+    "約炮",
+    "辣妹/GAL系"
+  ],
+  "description": "TLDC-019为BOTAN出品,2024年11月15日发行的有碼成人影片由月妃さら出演\n「我」遇到了一位 Instagram 女孩，她是一個金髮、曬黑 D 罩杯頭髮的女孩，自稱 SARA-chan，這正是我喜歡的，所以我完全吃了一驚。到目前為止都很好。真的很好。只要我還活著，我相信大多數男人都會經歷這樣的發展，甚至身為一個非正式員工，我想我也有權利感到一點高興。嗯，也就是說，我真是太幸運了……然而，這個SARA醬竟然有著令人難以置信的「喔」的聲音！這幾乎是野獸的聲音！ ！我一操她，她就發出令人難以置信的喘息、呻吟，甚至尖叫！現在這是一聲尖叫！可以說，這是一個極其沙啞的聲音……但無論如何，這完全就是一個變成了女孩的女孩的聲音。我終於來了。希望大家戴上耳機來觀看這個視頻，看看SARA醬的聲音有多麼美妙。因為我真的很驚訝。一個。需要明確的是，這段影片是使用所謂的 POV 方法拍攝的，因此感覺身臨其境且令人難以置信的強大。所以，如果你不是很謹慎，暗中觀察，仔細觀察，你就會有麻煩。在此鄭重提醒大家，不要像玩普通遊戲一樣隨意玩這款遊戲。我們建議在觀看之前在附近準備一盒紙巾。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241020/20241020221844819819.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241020/20241020221844819819.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11121",
+  "actresses": [
+    {
+      "name": "月妃さら",
+      "img_url": "https://picture.yoshiclub.xyz/20231103/6a49432d-3ba4-44b8-a519-8e4fa48c3767.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11121&name=月妃さら"
+    }
+  ]
+};

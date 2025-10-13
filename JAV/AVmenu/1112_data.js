@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5f5c6eb0-dd50-447c-9fab-9b46a509037a/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1112,
+  "IDcode": "HEYZO-1595",
+  "title": "6點下班後～痛苦的白肌OL～ - 生島涼",
+  "publish_date": "2017-12-16",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "OL",
+    "淫語",
+    "足交"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231122/20231122005751787787.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231122/20231122005751787787.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1112",
+  "actresses": [
+    {
+      "name": "生島涼",
+      "img_url": "https://picture.yoshiclub.xyz/20231122/2198ace0-3c99-44f9-923b-d489c343ce53.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1112&name=生島涼"
+    }
+  ]
+};

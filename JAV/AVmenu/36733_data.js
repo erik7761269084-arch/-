@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220419/15239661969B589F/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36733,
+  "IDcode": "F77B91C1E0F0089800EAE60A03A-82793",
+  "title": "F罩杯神乳外露清纯女大生 田尾 FC2-PPV-906585",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36733",
+  "actresses": []
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241121/p27wHRN4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77985,
+  "IDcode": "HBAD-487",
+  "title": "息子の友達のマセガキ共に性処理をさせられる母親～葵百合香",
+  "publish_date": "2019-07-11",
+  "type": "有码",
+  "company": "HIBINO",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "母亲"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77985",
+  "actresses": [
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77985&name=葵百合香"
+    }
+  ]
+};

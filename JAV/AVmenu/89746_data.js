@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/25/cff8e32e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89746,
+  "IDcode": "ROE-167",
+  "title": "汗と愛液にまみれた肉体内申書 愛する息子の進学の為だったのに、私は身も心もカレに溺れてしまった…。 平岡里枝子",
+  "publish_date": "2023-10-10",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "母亲",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89746",
+  "actresses": [
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89746&name=平冈里枝子"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/13/f941ce45/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105419,
+  "IDcode": "ADN-212",
+  "title": "息も出来ないくらいに抱きしめて。 密着不倫性交 夏目彩春",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "已婚妇女",
+    "出轨",
+    "苗条",
+    "素人作品",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105419",
+  "actresses": [
+    {
+      "name": "夏目彩春",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/df8b2d1f-2dfb-45eb-bcb0-bc740c2feea7_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105419&name=夏目彩春"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105419&name=イセドン内村"
+    }
+  ]
+};

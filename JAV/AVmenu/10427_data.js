@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ff058c3c-028e-4352-a259-8bb3f34328d3/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/bfb6f4ff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10427,
+  "IDcode": "HUNTC-237",
+  "title": "和女孩子的共租生活！超可能無防備！處男也無法不動心！ ~ 五十嵐清華 咲野瑞希 千石もなか",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "故事集",
+    "劇情",
+    "純粹的慾望",
+    "中出",
+    "女上位",
+    "口交",
+    "同住一屋・相部屋",
+    "騎乗位",
+    "美腳",
+    "美少女",
+    "清純",
+    "艷遇",
+    "癡女",
+    "室友",
+    "美少女電影"
+  ],
+  "description": "HUNTC-237为HUNTER出品,2024年11月26日发行的有碼成人影片由咲野瑞希，五十嵐清華，千石もなか出演\n當我一個男人在網路上尋找室友時，我竟然找到了一個女孩！解釋完一切之後，只剩下我們兩個人了！我說沒關係。並搬了進來。不過，這是我第一次和媽媽以外的女人單獨生活，所以每一天都很興奮！更何況我還是處女…當我們開始同居時，我因一個手無寸鐵的女孩的無意識行為而陷入恐慌，當我在是否要付房租或是否有性慾的矛盾中時，女孩注意到了我的勃起，並將手放在我的身上。我已經無法抗拒了……我沒有浪漫的情懷，卻無法抑制我的淫蕩之情！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122010324628628.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122010324628628.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10427",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10427&name=千石もなか"
+    },
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10427&name=五十嵐清華"
+    },
+    {
+      "name": "咲野瑞希",
+      "img_url": "https://picture.yoshiclub.xyz/20240909/c66d8553-01ef-4953-a917-ddab6c5646d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10427&name=咲野瑞希"
+    }
+  ]
+};

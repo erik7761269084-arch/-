@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2933bc41-8841-4d4e-91be-22ebbea26ed5/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231207/iHS6QDfR/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18818,
+  "IDcode": "YAKO-043",
+  "title": "［瘦女孩的名人堂】狂流口水！日本肋骨最美的女孩 5sex 4 小時 - 奶子不好看的女孩性慾確實很強",
+  "publish_date": "2023-08-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "業餘",
+    "中出",
+    "蕩婦",
+    "素人",
+    "4小時以上作品",
+    "重口味",
+    "小隻馬",
+    "貧乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230827/20230827230419590590.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230827/20230827230419590590.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18818",
+  "actresses": []
+};

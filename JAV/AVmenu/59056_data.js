@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240305/7guJa5Ne/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59056,
+  "IDcode": "022324-001",
+  "title": "シェアガール ～令和版あなたの街のかわいい何でも屋さん～",
+  "publish_date": "2024-02-23",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "最新影片",
+    "写真",
+    "正在上映",
+    "无套内射",
+    "69",
+    "立即口交",
+    "淫荡手淫",
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "乳交",
+    "口交",
+    "巨乳爆乳",
+    "美少女",
+    "美乳",
+    "白虎",
+    "美脚",
+    "漂亮屁股",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59056",
+  "actresses": [
+    {
+      "name": "四葉さな",
+      "img_url": "https://picture.yoshiclub.xyz/20230604/87e7a0e5-778e-4f70-818e-d05e01760fe1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=59056&name=四葉さな"
+    }
+  ]
+};

@@ -1,0 +1,80 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/348374de-7e16-41d2-87cb-bf5220e2e740/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/20/9d4a5634/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8862,
+  "IDcode": "SONE-598",
+  "title": "突破！與25個業界最大雞巴男優的大亂交 ~ 本鄉愛",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "大亂交",
+    "流汗",
+    "色白",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "內衣",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "明星臉",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "短髮",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SONE-598为S1出品,2025年1月28日发行的有碼成人影片由本郷愛出演\n盼盼盼！ ！尊尊尊尊！夏布利120分鐘！它保持插入狀態！我一直在顫抖！ ！本鄉愛人生第一次十萬活塞狂歡！劇烈的搖晃幾乎摧毀你的陰戶！ AV界最美身材VS業界25隻最大雞雞！追求硬性交大發展特別，推動超敏感的陰道後部和射精！ Masa瘋狂舞蹈15P無限高潮操！太大了…感覺真好…ikuuuuuuuuuuuuuuuuuuuuuuuu！ ！ ！這是本鄉愛的妙語◯破愛！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072549811811.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123072549811811.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8862",
+  "actresses": [
+    {
+      "name": "本郷愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230818/7f34986f-7cf0-4a09-9dd4-9536634aa42b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8862&name=本郷愛"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8862&name=日森一"
+    }
+  ]
+};

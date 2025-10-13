@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240224/wkCeOZ27/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103654,
+  "IDcode": "DA-002",
+  "title": "OH！！モーレツ熟女 電動バイブオナニー 2",
+  "publish_date": "2012-07-20",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "自慰",
+    "按摩棒",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/104da002/104da002pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103654",
+  "actresses": [
+    {
+      "name": "井上千草",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103654&name=井上千草"
+    },
+    {
+      "name": "松山ももか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103654&name=松山ももか"
+    },
+    {
+      "name": "美川志乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103654&name=美川志乃"
+    },
+    {
+      "name": "青木恵里",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103654&name=青木恵里"
+    }
+  ]
+};

@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/84034b8e-613d-4d9f-8aca-e13a81da1e1e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/03/22/e434384a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8894,
+  "IDcode": "SHF-005",
+  "title": "最高的愛人，最高的中出性交 Vol.76",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "高顏值",
+    "濕身",
+    "企畫",
+    "純粹的慾望",
+    "絕頂高潮",
+    "業餘",
+    "臀控",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "素人",
+    "肉絲",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "小三・情人",
+    "純愛・戀愛",
+    "性感",
+    "淫語",
+    "慾求不滿",
+    "內衣",
+    "美腳",
+    "明星臉",
+    "清純",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "出軌",
+    "抹油",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "羞恥",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/7790d6ec-a6c3-4360-9e8f-abfc28e927a9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/7790d6ec-a6c3-4360-9e8f-abfc28e927a9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8894",
+  "actresses": [
+    {
+      "name": "小野坂唯香",
+      "img_url": "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8894&name=小野坂唯香"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/O56fSQ64/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78808,
+  "IDcode": "TLS-001",
+  "title": "巨乳OLバス痴漢",
+  "publish_date": "2012-07-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "业余",
+    "OL",
+    "性骚扰"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78808",
+  "actresses": [
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78808&name=上原亞衣"
+    },
+    {
+      "name": "大西皐月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78808&name=大西皐月"
+    },
+    {
+      "name": "たなか唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78808&name=たなか唯"
+    },
+    {
+      "name": "由良真央",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78808&name=由良真央"
+    }
+  ]
+};

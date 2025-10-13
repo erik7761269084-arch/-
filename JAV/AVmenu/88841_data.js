@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231209/sX1qYAGm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88841,
+  "IDcode": "TENN-009",
+  "title": "【FANZA限定】贖罪 万引き○女を学校や家に言わないかわりに緊縛凌●輪● 千葉あやめ パンティと生写真付き",
+  "publish_date": "2023-09-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "捆绑",
+    "女生",
+    "瘦小身型",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/5dfba019dc47a48e41b1f43b4ba170e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88841",
+  "actresses": [
+    {
+      "name": "千葉彩芽",
+      "img_url": "https://picture.yoshiclub.xyz/20250331/6dd783b2-f893-4523-a4f1-822d85db1fe9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88841&name=千葉彩芽"
+    }
+  ]
+};

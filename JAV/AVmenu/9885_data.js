@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4add28f2-a5c8-49e5-9bda-23702c6ed124/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9885,
+  "IDcode": "HJBB-202",
+  "title": "美腳OL黑絲被暴力撕破！固定振動器插到痙攣失禁 大合集 BEST",
+  "publish_date": "2024-12-17",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "企畫",
+    "舔腳",
+    "脚控・戀足癖",
+    "美腿",
+    "OL",
+    "形象俱樂部",
+    "4小時以上作品",
+    "美腳",
+    "精選總編集",
+    "足交",
+    "辦公室",
+    "按摩棒",
+    "放尿",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241214/d1904354-613e-4a2c-945b-14d41ab3a2d1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241214/d1904354-613e-4a2c-945b-14d41ab3a2d1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9885",
+  "actresses": []
+};

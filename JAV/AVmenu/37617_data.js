@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220718/17750C10E2C45D5C/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37617,
+  "IDcode": "573F1EA92D75189256B1F9773C673B-90",
+  "title": "おんなのこのしくみ -オマンコが熱い！膣温39.6度-",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37617",
+  "actresses": []
+};

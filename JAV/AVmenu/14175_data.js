@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f4b82794-eaaf-4aeb-8cd6-9faeca3ac3d8/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14175,
+  "IDcode": "ABF-112",
+  "title": "絕對高潮！第08卷 ~ 美之島惠理",
+  "publish_date": "2024-06-20",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "性感",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "AV拍攝現場",
+    "手指插入",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優",
+    "飯店"
+  ],
+  "description": "ABF-112为蚊香社出品,2024年6月20日发行的有碼成人影片由美之島惠理出演\n榮譽專屬女演員「箕島巡」以極好的身材和超凡的技術讓雞巴射精！ ① 將無法正常射精的演員叫到候診室，對演員本人進行徹底的射精指導！用口交擠出精液後，他將其插入並說：“你仍然射精，對吧？” ② 和男友吵架、準備分手時的性回憶！她一次射精就不滿意，用盡全力擠壓，直到睪丸空了為止！ ③正值青春年華的兩人在家玩得正開心時，男友的媽媽回來了！在發不出聲音的情況下，躲著父母，偷偷地做！ ④ 被雞巴氣味的魅魔巡登場！玩弄雞巴直到精液罐耗盡並導致射精極限！請欣賞「甕島巡」呈現的共16次射精、4個內容的連續射精專用AV！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240606/202406060423294444.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240606/202406060423294444.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14175",
+  "actresses": [
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14175&name=美之島惠理"
+    }
+  ]
+};

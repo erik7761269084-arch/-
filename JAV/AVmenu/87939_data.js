@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/07/05b156f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87939,
+  "IDcode": "IPZ-666",
+  "title": "僕と友貴の甘～い同棲性活 吉澤友貴",
+  "publish_date": "2015-12-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "颜射",
+    "数位马赛克",
+    "OL",
+    "主观视角"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87939",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87939&name=吉泽友贵"
+    }
+  ]
+};

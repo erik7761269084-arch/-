@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/21/79f52919/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77686,
+  "IDcode": "MIDE-698",
+  "title": "103cm→105cm成長Kカップ爆乳メイド チ○ポを全て包み込むご奉仕パイズリ挟射Special 小梅えな",
+  "publish_date": "2019-11-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫语",
+    "女佣"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241118-1/ef3d23aa813ac66a8105de7bd49046b5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77686",
+  "actresses": [
+    {
+      "name": "小梅惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240101/92149341-b7c9-4f03-8a8d-ce59f1dac525.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77686&name=小梅惠奈"
+    }
+  ]
+};

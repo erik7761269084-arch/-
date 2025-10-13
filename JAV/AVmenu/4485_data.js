@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/38b2364c-5410-41cb-aea6-22cb529cdf0f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/29/5aa47abe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4485,
+  "IDcode": "MIDA-248",
+  "title": "羞恥服裝街頭心動散步即插內射之旅 ~ 仲村美羽",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "真人秀",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "白絲",
+    "蠻橫嬌羞",
+    "性感",
+    "兔女郎妝扮",
+    "舔陰",
+    "美腳",
+    "單體作品",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "粉絲福利",
+    "猥褻穿著",
+    "約炮",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "極品美人",
+    "COSPLAY服飾",
+    "女優",
+    "情趣飯店",
+    "羞恥"
+  ],
+  "description": "MIDA-248为MOODYZ出品,2025年7月11日发行的有碼成人影片由仲村美羽出演\n平時超愛窩在家嗑零食的甜美系女優仲村美羽，這次被騙來拍啥約會片，結果卻是穿著超羞恥的衣服，帶著遙控跳蛋在大街上晃，隨時可能被路人發現的刺激感直接爆棚！這妹子一臉不安地問：真的要穿這樣走嗎？結果還是被無情地玩到高潮邊緣卻不給解放，真的超虐！一進室內，直接無前戲即插，仲村美羽那騷浪的本性完全藏不住！加上酒精、媚藥和挑逗三重加持，爽到整個人快崩壞，這位知名女優史上最狂野的醉酒高潮影片，千萬別錯過啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031544816816_10183_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031544816816_10183_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4485",
+  "actresses": [
+    {
+      "name": "仲村美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20230816/0ff991ca-05f1-4743-a6ef-2ca795226d43.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4485&name=仲村美羽"
+    }
+  ]
+};

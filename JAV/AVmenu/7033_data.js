@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/bfff377b-32b2-4526-8be8-f3dfd1922618/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/10/09c70b0f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7033,
+  "IDcode": "IPZZ-498",
+  "title": "美人家教老師的接吻指導一對一課程 ~ 西宮夢",
+  "publish_date": "2025-04-08",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "傲嬌",
+    "臀控",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "家庭教師",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "明星臉",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美人",
+    "大奶头",
+    "辣妹/GAL系",
+    "極品美人"
+  ],
+  "description": "IPZZ-498为IDEA POCKET出品,2025年4月8日发行的有碼成人影片由西宮夢出演\n不確定是否要接吻？那麼……我們可以跟你練習接吻嗎？來吧...我會讓你成為一個成年男人... Yume 老師給她的處女學生上了一堂溫柔而頑皮的法式接吻私人課程。沒錯...多伸出一下你的舌頭...你很擅長這件事。她溫柔而誘人地纏繞著她的舌頭和唾液，並用熟練的色情技巧引導你射精！你怎麼認為？這是成年人的吻……夢老師流著口水的誘惑，進行法式接吻和中出性愛。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092500609609.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250403/20250403092500609609.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7033",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7033&name=西宮夢"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7033&name=蓝井优太"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/06/03/1e0ada32/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77414,
+  "IDcode": "MVSD-428",
+  "title": "美少女妄想脳内エステ 醜いおじさんに体中をまさぐられオイルまみれで中出しセックスされるのを想像して興奮してる私って変態ですか？ 久留木玲",
+  "publish_date": "2020-05-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "苗条",
+    "口交",
+    "美容院",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77414",
+  "actresses": [
+    {
+      "name": "久留木玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/f177fa16-e42a-42f1-b1ff-1ea6226e67d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77414&name=久留木玲"
+    }
+  ]
+};

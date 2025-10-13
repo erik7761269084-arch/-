@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221030/lDIq3TnF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81620,
+  "IDcode": "HGOT-033",
+  "title": "下着姿のまま玄関先に現れてデリバリー業者を誘惑する女と…",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "姐姐",
+    "苗条",
+    "口交",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/bffb0845b4bec0e9fdee87961ef7792f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81620",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81620&name=天馬唯"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81620&name=富田优衣"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81620&name=森本つぐみ"
+    }
+  ]
+};

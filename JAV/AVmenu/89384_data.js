@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/VGcHtqZ7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89384,
+  "IDcode": "SUJI-206",
+  "title": "数年ぶりに再会した東欧パイパン美妖精 Gina Gerson",
+  "publish_date": "2023-10-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "白人",
+    "中出",
+    "无毛",
+    "西洋片",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89384",
+  "actresses": [
+    {
+      "name": "ジーナ・ガーソン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89384&name=ジーナ・ガーソン"
+    }
+  ]
+};

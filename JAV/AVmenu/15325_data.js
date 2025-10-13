@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c0cbd22-316b-4068-a7f5-3da19989da02/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/30/024ea932/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15325,
+  "IDcode": "HUNTC-053",
+  "title": "【學業成績第一的妹子和做愛第一的辣妹】兩個極端的青梅竹馬在3P中爭奪我的雞巴！你們2個我都喜歡操",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "中出",
+    "亂交 • 群P",
+    "JK校服",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "勾引・誘惑",
+    "美少女",
+    "青梅竹馬",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "兩女一男",
+    "美少女電影",
+    "女學生",
+    "同學"
+  ],
+  "description": "HUNTC-053为HUNTER出品,2024年4月23日发行的有碼成人影片\n兩個對我有興趣的兒時好友不知為何來到我的房間。雖然我有女朋友了，但性標準很高的青梅竹馬卻不管這些，還引誘我做一些調皮的事！唉，我突然在我面前勃起，那個放蕩的女孩和我兒時的朋友兼同學開始互相做愛，那個瘦小的女孩說：「我們也混進去吧！」然後侵入了一個3P！學術天才和色情天才都在用我的雞雞射精！完全相反的兩個人，都是最好的！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419064420357357.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240419064420357357.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15325",
+  "actresses": [
+    {
+      "name": "宫崎リン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15325&name=宫崎リン"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220626/3F0A3651AEB6EF1E/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65524,
+  "IDcode": "7E4CC66C3FD5371DC4628F676556842B",
+  "title": "爱音まりあ ラッキースケベ 5 空想できる全てのエロい事は现実に起こりうる！！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65524",
+  "actresses": []
+};

@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/02/0a1b8c38/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67484,
+  "IDcode": "SY-214",
+  "title": "前略四畳半の奥様 ゆりなさん 34歳 ●素人四畳半生中出しシリーズ 若林ゆりな 目覚まし時計と生写真セット",
+  "publish_date": "2025-05-08",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "投稿",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/07/02/d190d355359f8eb1df42f3fc69bb4df1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67484",
+  "actresses": []
+};

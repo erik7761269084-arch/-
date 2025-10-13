@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/02/bc60d8e7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76566,
+  "IDcode": "MEYD-439",
+  "title": "接吻の悪癖 本田岬",
+  "publish_date": "2018-11-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76566",
+  "actresses": [
+    {
+      "name": "本田岬",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/b27aa824-eb3f-492b-b103-7283031805ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76566&name=本田岬"
+    }
+  ]
+};

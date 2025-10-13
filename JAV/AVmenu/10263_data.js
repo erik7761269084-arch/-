@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b8bcc536-a108-42b3-abf1-9378100c0e7d/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/12/12ecca9b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10263,
+  "IDcode": "CLUB-858",
+  "title": "已婚人妻回春按摩37 交涉後本番中出被盜撮 ~ 碓井せりな 末広純 月野香澄 田中寧寧",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "変態紳士倶楽部",
+  "genres": [
+    "後入",
+    "故事集",
+    "企畫",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "偷拍・盜撮",
+    "美腳",
+    "按摩・美容店",
+    "拜金女",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "足交",
+    "抹油",
+    "偷窺",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241130/bce94d6c-4e6f-42c2-856c-38cb662aadcc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241130/bce94d6c-4e6f-42c2-856c-38cb662aadcc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10263",
+  "actresses": [
+    {
+      "name": "末広純",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/52b7f8cf-362e-4460-b9d8-a55df7001082.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10263&name=末広純"
+    },
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10263&name=月野香澄"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10263&name=田中寧寧"
+    },
+    {
+      "name": "碓井せりな",
+      "img_url": "https://picture.yoshiclub.xyz/20240925/0013eb5d-a157-49cf-9093-7a039092b020.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10263&name=碓井せりな"
+    },
+    {
+      "name": "ひょこり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10263&name=ひょこり"
+    }
+  ]
+};

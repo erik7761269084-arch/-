@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55298,
+  "IDcode": "217A80A5F470FE86EF44A99FDD41FB30",
+  "title": "【素人盗撮】性欲が止まらないJD　4回連続ピクピク激イキオナニー",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55298",
+  "actresses": []
+};

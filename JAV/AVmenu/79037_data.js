@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/09/19/614150bf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79037,
+  "IDcode": "JUL-703",
+  "title": "- 人妻秘書、汗と接吻に満ちた社長室中出し性交 男の憧れ『金髪』×『秘書』ついに登場！！ リリー・ハート - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "各种职业",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79037",
+  "actresses": []
+};

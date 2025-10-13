@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250130/uPyKMHUa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 73387,
+  "IDcode": "XV-1028",
+  "title": "全裸突撃！瀬名一花がお宅訪問します！",
+  "publish_date": "2012-05-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "放尿",
+    "足交",
+    "羞耻",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/181dd3542d3792feea035f271165c035.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73387",
+  "actresses": [
+    {
+      "name": "瀬名一花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=73387&name=瀬名一花"
+    }
+  ]
+};

@@ -1,0 +1,132 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9e072ae2-abc9-486f-ae1e-1bf2c8e239bc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7591,
+  "IDcode": "THU-043",
+  "title": "完全主觀×狂虐高潮 8小時精選 vol.01 鈴村愛理、河合明日菜、野野浦暖、涼森玲夢、八卦海 等",
+  "publish_date": "2025-03-13",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "性虐癖",
+    "調教",
+    "深喉",
+    "臀控",
+    "流汗",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "早漏",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "白眼失神",
+    "小隻馬",
+    "比基尼",
+    "騎乗位",
+    "丁字裤",
+    "若妻",
+    "女神",
+    "性感",
+    "主觀視角",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "清楚系",
+    "明星臉",
+    "美人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "足交",
+    "按摩棒",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "精選綜合",
+    "插入異物",
+    "紀錄片",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/0eb1ba1f-bfa7-40fa-9581-6c301485a236.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/0eb1ba1f-bfa7-40fa-9581-6c301485a236.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7591",
+  "actresses": [
+    {
+      "name": "鈴之家鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230915/f072832c-4a24-43b8-a5c0-53a60feebc74.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=鈴之家鈴"
+    },
+    {
+      "name": "涼森玲夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/fcfb5e54-42f4-4bab-b6ee-37fbcd01fa68.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=涼森玲夢"
+    },
+    {
+      "name": "七嶋舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/57aaee8c-c74b-4282-bd80-3059e8a4f3e9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=七嶋舞"
+    },
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=野野浦暖"
+    },
+    {
+      "name": "八掛海",
+      "img_url": "https://picture.yoshiclub.xyz/20230928/f551ef55-83f0-457e-b900-ad16708e5d03.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=八掛海"
+    },
+    {
+      "name": "鈴村愛里",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/77f689f5-7cf5-4329-851c-b48df22f7b1f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=鈴村愛里"
+    },
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=河合明日菜"
+    },
+    {
+      "name": "美之島惠理",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/dd95e08c-663e-49f6-8399-da83d4ec9ba9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7591&name=美之島惠理"
+    }
+  ]
+};

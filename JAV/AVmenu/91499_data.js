@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240513/cIR6dUDZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91499,
+  "IDcode": "BACJ-074",
+  "title": "【FANZA限定】「キミのガマン顔ずーーーっと見ててあげる。」小悪魔女子の見つめあい射精管理ビデオ 前田美波 パンティと生写真付き",
+  "publish_date": "2023-10-11",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "中出",
+    "口交",
+    "手淫",
+    "白天出轨",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91499",
+  "actresses": [
+    {
+      "name": "前田美波",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/bc37a6ee-efe0-45fc-bbb5-d1cf0379de29.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91499&name=前田美波"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230130/CDX53SXX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85919,
+  "IDcode": "PRED-438",
+  "title": "楪可憐的M男君到家外送性愛！",
+  "publish_date": "2022-10-18",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "荡妇",
+    "M男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/1fbbaca6c841107a1590e0495543b0e1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85919",
+  "actresses": [
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85919&name=タイ"
+    }
+  ]
+};

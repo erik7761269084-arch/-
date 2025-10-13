@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/30/38d8915a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68984,
+  "IDcode": "HJMO-679",
+  "title": "オマ〇コ食い込み超振動スクワット！引っ張り棒をリフティングして超ハイレグ状態でイキ我慢チャレンジ！クリ擦れ＆振動マシン追撃でアクメ失禁しちゃう敏感早漏女子は罰ゲームでナマ中出しSEX！（HJMO-679）",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "HAJIME-KIKAKU",
+  "genres": [
+    "淫乱，真实",
+    "放尿",
+    "屁股",
+    "羞耻",
+    "紧身衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68984",
+  "actresses": []
+};

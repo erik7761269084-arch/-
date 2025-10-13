@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/592d8e7e-10fe-4c5e-89e3-1da1d249a770/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3148,
+  "IDcode": "YUJ-043",
+  "title": "第一次交到的女友脫光後身材超猛性慾爆棚把我榨到腿軟 ~ 七海那美",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "超爆乳",
+    "乳交",
+    "中出",
+    "美乳",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "文藝女",
+    "制服",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "純愛・戀愛",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "美人",
+    "職場",
+    "眼鏡",
+    "豐滿",
+    "飯店"
+  ],
+  "description": "YUJ-043为ATTACKERS出品,2025年8月28日发行的有碼成人影片由七海那美出演\n不知不覺我就老是偷瞄同事那美，心裡小鹿亂撞得不行。雖然我這人沒啥自信，但感情這東西根本壓不住啊！抱著必死的決心跟那美告白，沒想到她居然答應了！一時衝動就跟著她直衝酒店，衣服一脫，哇塞，那身材簡直逆天，性感得要命，床上更是大膽火辣，直接把我弄得骨頭都酥了，整個人都被榨乾，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023017469469_45301_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023017469469_45301_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3148",
+  "actresses": [
+    {
+      "name": "七海那美",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/96b99143-4036-4c22-aed9-1598e5409326.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3148&name=七海那美"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/12/c629fc26/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77186,
+  "IDcode": "CEMD-607",
+  "title": "僕の思い通りになる性処理人形を飼育してみたvol.13 小春まり",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "捆绑",
+    "苗条",
+    "平胸",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77186",
+  "actresses": [
+    {
+      "name": "上戶真理",
+      "img_url": "https://picture.yoshiclub.xyz/20240911/5a916915-4355-4d71-8d00-199c67923120.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77186&name=上戶真理"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221003/NiZn87j6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81378,
+  "IDcode": "AUKG-517",
+  "title": "五十路レズ ～昼下がり密会欲情ラブホテル～ 翔田千里 西園寺美緒",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "女同性恋",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221003-1/3f5730a9dd5b2aa5ded9f42c98a59f8e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81378",
+  "actresses": [
+    {
+      "name": "翔田千里",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/57b6854f-dfed-4fe7-b741-ab9ff702bc78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81378&name=翔田千里"
+    },
+    {
+      "name": "森下美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81378&name=森下美绪"
+    }
+  ]
+};

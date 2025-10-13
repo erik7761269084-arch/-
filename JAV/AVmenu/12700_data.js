@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/685b212e-022d-46b8-b113-5539dcee4ede/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12700,
+  "IDcode": "SSNI-359",
+  "title": "激烈的活塞式性愛，無情地刺入高潮時抽搐的陰部 ~ 奧田咲",
+  "publish_date": "2018-12-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "69",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "網襪",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "口爆",
+    "巨乳",
+    "手指插入",
+    "短髮",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "SSNI-359为S1出品,2018年12月7日发行的有碼成人影片由奥田咲出演\n發現了奧田咲「超級高潮」的要點！她說，由於男人的技術，她對性的感覺完全不同，所以她給了他一個硬活塞，在她射精後，他立即再次活塞了她！如此反复，我才得以嚐到高潮的天堂。小咲一開始很困惑，但她被迫射精，最後她開始自己要求射精。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240813/20240813232207823823.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240813/20240813232207823823.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12700",
+  "actresses": [
+    {
+      "name": "奥田咲",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/f1c6d2ec-d4f0-468d-b582-25819acd31fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12700&name=奥田咲"
+    }
+  ]
+};

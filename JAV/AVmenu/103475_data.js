@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231029/vUKAlP29/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103475,
+  "IDcode": "MAAN-906",
+  "title": "- 【金モクのはずがッ…快楽堕ちしてチ●ポの虜になったパパ活GALに徹底バック責め！！】『お金大好き』と断言するS級神尻ギャルと金モクSEXのはずが…全身ヌルヌルの激感プレイに大エクスタシー！快感に●いしれながら潮を吹き散らすドすけべBODY！デカすぎる生チンから送り込まれる鬼ピス刺激に銭ゲバGALが完堕ち！性欲大解放の種付け交尾3連発！！！【なまハメT☆kTok Report.71】【あゆ】 - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-23",
+  "type": "有码",
+  "company": "DOC",
+  "genres": [
+    "中出",
+    "玩具",
+    "苗条",
+    "乳液",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103475",
+  "actresses": [
+    {
+      "name": "久須美亜優",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103475&name=久須美亜優"
+    },
+    {
+      "name": "あゆ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103475&name=あゆ"
+    }
+  ]
+};

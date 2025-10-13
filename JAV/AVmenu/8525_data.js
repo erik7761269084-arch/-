@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/28ed9581-592c-44c3-981f-26d88d9a56d8/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/14/8fa6277d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8525,
+  "IDcode": "FSDSS-958",
+  "title": "直播結束後和同事練習做愛，他看起來還是個處男，早上之前要讓他射10次 ~ 山下紗和",
+  "publish_date": "2025-03-06",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "艷遇",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "正太",
+    "美人",
+    "美少女電影",
+    "處男"
+  ],
+  "description": "FSDSS-958为FALENO出品,2025年3月6日发行的有碼成人影片由山下紗和出演\n因為我最喜歡的偶像和我工作上明顯是處女的學長是同一個人，所以我們兩個人決定一起去當地的一場演唱會。因為誤會，兩人只能住在情趣飯店，所以兩人只能同住一間房…學姐取笑學姐還是處女……當處女學姐感興趣時，她決定成為他的性伴侶。起初她沒覺得有什麼大不了的，但出乎意料的性慾讓她多次向他屈服，最終被這個處女逼到了高潮。這場激烈的性愛讓他到早上為止射了10次精，而小女生則被這位前處女一次又一次地逼得高潮。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206034922456456.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206034922456456.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8525",
+  "actresses": [
+    {
+      "name": "山下紗和",
+      "img_url": "https://picture.yoshiclub.xyz/20241001/e467ae6d-bdfc-4cab-9be7-c029825e5016.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8525&name=山下紗和"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8525&name=トイボーイ相沢"
+    }
+  ]
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241008/RA40IEBG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93120,
+  "IDcode": "MMMB-119",
+  "title": "オバさんでも風俗なら女房より興奮する夫！ぬるぬる我慢汁ビンビンに勃起して大量発射4時間",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "4小时以上作品",
+    "戏剧",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93120",
+  "actresses": []
+};

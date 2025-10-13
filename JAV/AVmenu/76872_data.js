@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241202/Rs3KQQMz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76872,
+  "IDcode": "SCPX-292",
+  "title": "雑魚寝中に隣でヤリはじめた友人カップル！そっと覗くと友人の上で腰フリ中の彼女と目があってしまった！最初恥ずかしさで固まっていた彼女だったが気づかぬ彼氏の執拗な突き上げに声が漏れ始め僕の目を見つめながらオマ○コ痙攣イキ！",
+  "publish_date": "2018-08-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "中出",
+    "女大学生",
+    "女上位",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/10dfb748d1e0ac635d17d874e44d6960.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76872",
+  "actresses": [
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76872&name=大島愛里亞"
+    },
+    {
+      "name": "富田优衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/6faeaf41-2187-4e8e-b750-12ab352ac8ed.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76872&name=富田优衣"
+    },
+    {
+      "name": "吉川爱美",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Nanairo/吉川あいみ.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76872&name=吉川爱美"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76872&name=椎叶みくる"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250331/dJyxoYJn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69262,
+  "IDcode": "JUQ-139",
+  "title": "- 畢業典禮後…給成為大人的您繼母的贈禮―。 藤環奈 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "已婚妇女",
+    "出轨",
+    "处男",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/2b1ddf37ca936bcc84764e32ebadd742.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69262",
+  "actresses": [
+    {
+      "name": "藤環奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/bfcb931d-fc84-4c41-9266-04be0e7e3a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69262&name=藤環奈"
+    }
+  ]
+};

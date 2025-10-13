@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/21/6da03369/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86379,
+  "IDcode": "STARS-551",
+  "title": "激ピストン限定即ハメ筋トレジム 美女モデル・小倉由菜 〜絶頂イカせで鍛え抜かれた美しいカラダを作る〜",
+  "publish_date": "2022-04-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "运动",
+    "运动"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86379",
+  "actresses": [
+    {
+      "name": "小倉由菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/5c15ad50-f8b5-4c15-bfce-4cde49e6001d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86379&name=小倉由菜"
+    },
+    {
+      "name": "倉與田",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/35967812-d61d-4b9a-b662-9334d7ff9036.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86379&name=倉與田"
+    }
+  ]
+};

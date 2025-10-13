@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/86d2d4a7-bb4f-4bd5-87c2-b46fbbb610cc/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14040,
+  "IDcode": "TKOU-011",
+  "title": "精液爆炸！瘋狂的痛苦做愛、有棲舞衣被多P中出",
+  "publish_date": "2024-06-12",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "調教",
+    "深喉",
+    "中出",
+    "美乳",
+    "拘束・拷問",
+    "胸控・戀乳癖",
+    "網襪",
+    "潮吹",
+    "顏射",
+    "跳蛋",
+    "口交",
+    "性感",
+    "口爆",
+    "多P",
+    "美少女",
+    "自慰",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240612/c56e5b6b-c6e7-4de6-b413-b7e41ba27a62.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240612/c56e5b6b-c6e7-4de6-b413-b7e41ba27a62.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14040",
+  "actresses": [
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14040&name=有栖舞衣"
+    }
+  ]
+};

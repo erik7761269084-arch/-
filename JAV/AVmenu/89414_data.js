@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241030/Am9EQcnd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89414,
+  "IDcode": "SUJI-202",
+  "title": "親の目が届かない一人暮らしの兄の部屋 妹中出し映像4時間",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "4小时以上作品",
+    "中出",
+    "乱伦",
+    "妹妹",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89414",
+  "actresses": []
+};

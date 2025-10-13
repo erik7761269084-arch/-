@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220928/B5C34EAF4F39C248/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65638,
+  "IDcode": "C2794815A89B3C7FC61BA89F5CCC01EC",
+  "title": "末班车后强迫住同房NTR 丑陋中年校骚扰店长对巨乳打工妹持续中出的屈辱高潮之夜 飞鸟里伊奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65638",
+  "actresses": []
+};

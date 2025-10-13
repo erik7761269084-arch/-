@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/IdFrdMtK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90585,
+  "IDcode": "ONSG-071",
+  "title": "巨乳デリヘル Hカップ 鬼塚もなみ",
+  "publish_date": "2023-11-21",
+  "type": "有码",
+  "company": "Gain Corporation",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90585",
+  "actresses": [
+    {
+      "name": "鬼塚萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250706/89370c6f-0d8f-4d61-9a37-c21e0c95c4b5_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90585&name=鬼塚萌奈美"
+    }
+  ]
+};

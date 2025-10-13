@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/02/ac4c5f4f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76840,
+  "IDcode": "JUL-063",
+  "title": "新居探し新婚NTR 妻が密かに寝取られた【胸糞】内見記録。 《専属》新人第三弾！！初寝取られ中出しドラマ作品。 大城雪乃",
+  "publish_date": "2019-12-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76840",
+  "actresses": [
+    {
+      "name": "大城雪乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76840&name=大城雪乃"
+    }
+  ]
+};

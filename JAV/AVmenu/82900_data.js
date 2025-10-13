@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221129/teuT9uQV/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82900,
+  "IDcode": "PPPD-770",
+  "title": "SNSで見つけた卒業したて制服のよく似合うGcup18さい ももちゃん",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "第一人称摄影",
+    "业余",
+    "瘦小身型"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82900",
+  "actresses": [
+    {
+      "name": "长滨もも",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82900&name=长滨もも"
+    }
+  ]
+};

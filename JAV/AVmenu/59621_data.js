@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/08/16/f413396c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59621,
+  "IDcode": "100519-001",
+  "title": "奥まで突いて！グチャグチャにして！",
+  "publish_date": "2019-10-05",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "滥交",
+    "立即口交",
+    "潮吹",
+    "口爆/吞精",
+    "美乳",
+    "痴女",
+    "苗条",
+    "美脚",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59621",
+  "actresses": []
+};

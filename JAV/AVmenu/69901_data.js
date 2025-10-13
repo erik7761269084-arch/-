@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/11/286a0ed6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69901,
+  "IDcode": "MVG-123",
+  "title": "不登校少●を自立支援するために洗脳イラマチオを施して精飲催●したらアヘ顔しながら学校に通うようになりました 有加里ののか （BOD）",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "高中女生",
+    "淫乱，真实",
+    "潮吹",
+    "吞精",
+    "深喉",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69901",
+  "actresses": []
+};

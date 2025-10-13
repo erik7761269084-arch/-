@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/06/f150140f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63862,
+  "IDcode": "HUNTC-352",
+  "title": "「先生！私たちの成長した姿見せてあげるね」以前、手を出してしまった女子生徒からの何発発射しても絶対に許してくれない復讐ハーレム乱交！",
+  "publish_date": "2025-05-27",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫乱，真实",
+    "多P",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/06/f150140f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63862",
+  "actresses": []
+};

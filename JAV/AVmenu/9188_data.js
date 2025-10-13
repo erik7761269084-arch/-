@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/be0eb7c1-7270-480a-af3c-59f5967056b5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9188,
+  "IDcode": "HUNTC-282",
+  "title": "回家後30秒，馬上插入！我家成了問題女生宿舍了，我每天都教她們怎麼做愛 ~ 白浜美羽 宮崎玲 雅子裡菜 乙羽あむ",
+  "publish_date": "2025-01-14",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "校花",
+    "乳交",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "後宮系",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "少女",
+    "多P",
+    "蘿莉控",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "地雷系",
+    "清純",
+    "過膝襪・小腿襪",
+    "艷遇",
+    "雙飛",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女學生",
+    "叛逆少女",
+    "無毛"
+  ],
+  "description": "HUNTC-282为HUNTER出品,2025年1月14日发行的有碼成人影片由宮崎玲，雅子裡菜，白浜美羽，乙羽あむ出演\n一個從不聽老師上課的問題女學生把我的房子當作聚會場所。然而，在家裡，她卻完全不同，是個順從的、隨時準備做愛的女孩！今天，我一回到家，我就會立刻操她，並讓她射在我體內來戲弄她。當雞巴從陰戶中出來時，下一個女孩過來並說“也做我”，然後立即操他！在這房子裡，學校裡不准說髒話！一個聽話、善於傾聽的淫蕩女孩會有所幫助。唯一的問題是我的性慾太強了…無論如何，希望學校不要發現！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080527618618.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250109/20250109080527618618.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9188",
+  "actresses": [
+    {
+      "name": "雅子裡菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/b58b8921-9a9b-4175-aa87-b11a2aa981ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9188&name=雅子裡菜"
+    },
+    {
+      "name": "乙羽あむ",
+      "img_url": "https://picture.yoshiclub.xyz/20240713/7e090ae6-dc02-494a-a096-060ba6b4b1b7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9188&name=乙羽あむ"
+    },
+    {
+      "name": "宮崎玲",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/b0b88669-8529-4702-919e-8055b8c53ce9.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9188&name=宮崎玲"
+    },
+    {
+      "name": "白浜美羽",
+      "img_url": "https://picture.yoshiclub.xyz/20250112/1a1ea691-243b-41a9-a41f-dc05448b41a7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9188&name=白浜美羽"
+    }
+  ]
+};

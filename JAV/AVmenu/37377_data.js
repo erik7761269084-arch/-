@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220822/5B0B18597CECA0A6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 37377,
+  "IDcode": "F14EDB47A0ECA4E04D1E43492FE214D-1",
+  "title": "大好きな挿入とおしゃぶりを繰り返す欲しがり女子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37377",
+  "actresses": []
+};

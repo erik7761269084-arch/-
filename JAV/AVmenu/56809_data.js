@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56809,
+  "IDcode": "C521E96116249D42D9CC465DB1456E70",
+  "title": "没有极限 -包围着做爱让她高潮- 高树美香",
+  "publish_date": "",
+  "type": "无码",
+  "company": "WANZ FACTORY",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56809",
+  "actresses": []
+};

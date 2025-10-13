@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c339f1fc-c2c1-463a-bebb-2a6aff017ddd/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12530,
+  "IDcode": "MOON-034",
+  "title": "丈夫上夜班時，妻子公然在酒店約炮，從黃昏操到黎明 ~ 三嶽祐奈",
+  "publish_date": "2024-08-22",
+  "type": "有码",
+  "company": "YONAKA",
+  "genres": [
+    "後入",
+    "69",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "膚黑",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "約炮",
+    "辣妹/GAL系",
+    "野性",
+    "飯店",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240822/d26b64b2-f2be-49fe-bfdc-13f216189ecc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240822/d26b64b2-f2be-49fe-bfdc-13f216189ecc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12530",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12530&name=三岳祐奈"
+    }
+  ]
+};

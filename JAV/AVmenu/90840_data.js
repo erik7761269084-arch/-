@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/23/a7091280/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90840,
+  "IDcode": "MESU-115",
+  "title": "三ツ星熟女ソープ 入店初日の泡姫と射精無制限で過ごすラッキーなひととき 岡西友美",
+  "publish_date": "2023-09-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90840",
+  "actresses": [
+    {
+      "name": "岡西友美",
+      "img_url": "https://picture.yoshiclub.xyz/20240929/2af6dac7-a743-42da-afbf-99ba642d7eb7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90840&name=岡西友美"
+    }
+  ]
+};

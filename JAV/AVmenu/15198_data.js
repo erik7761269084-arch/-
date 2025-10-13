@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d9189286-5aca-4a3f-9b67-ff8cab0232ca/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15198,
+  "IDcode": "VOTAN-088",
+  "title": "AV拍攝後臺的無限耐力訓練！我絕對不會輸給你的！ ~ 日向ひかげ",
+  "publish_date": "2024-05-03",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "緊身衣",
+    "蕩婦",
+    "美少女",
+    "奇聞趣事",
+    "AV拍攝現場",
+    "奇異的",
+    "真實拍攝",
+    "紀錄片",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優"
+  ],
+  "description": "VOTAN-088为BOTAN出品,2024年5月3日发行的有碼成人影片由日向ひかげ出演\n「嘿！你在後台做什麼！？」「我正在正賽前進行自己的訓練！」日向日向回答。是的，這就是 IKUNA 開始之前在幕後、候診室裡發生的事情。換句話說，IKUNA，簡而言之，就是頑固之人的對決。如果你是個早洩的演員，那更是一場耐心與毅力的激烈較量，所以即使你在候診室做一些無恥的自我訓練，工作人員也只能視而不見。但打開相機不是比閉上眼睛更好嗎？ ？所以，我決定發布某種花絮視頻並同時出售，由於它如此受歡迎，我決定將其做成一個系列，所以最新的《等候室》系列就是。 “IKUNA 當天的後台到底是什麼樣子？”當然，不僅是用戶，我們這些相關人員也對此感興趣。於是，這部紀錄片就這樣被發行並變成了一個系列。一種說法是，這是一個商業精神很強的項目，但說實話，我是在看到日影醬的認真訓練後才成為粉絲的。非常感謝您的支持！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421083738989989.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240421/20240421083738989989.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15198",
+  "actresses": [
+    {
+      "name": "日向ひかげ",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/be3cf3d9-da23-429d-883b-152d805635da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15198&name=日向ひかげ"
+    }
+  ]
+};

@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b0c93fac-b197-486b-8534-94700c7d8bd5/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241029/w4pyNKDX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13053,
+  "IDcode": "START-137",
+  "title": "末班車上遇到的離家出走的甜美蕩婦！ 發現我偷拍了她的內褲，卻跟着我回了家 ~ 星乃莉子",
+  "publish_date": "2024-07-30",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "電車",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "靴子",
+    "奇聞趣事",
+    "金髮",
+    "艷遇",
+    "手指插入",
+    "足交",
+    "奇異的",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影",
+    "叛逆少女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240730/75996334-9a73-4390-abdd-75e9c79ba9ec.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240730/75996334-9a73-4390-abdd-75e9c79ba9ec.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13053",
+  "actresses": [
+    {
+      "name": "星乃莉子",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/ac4cdd9b-a9ee-47a0-a206-669f2d143db8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13053&name=星乃莉子"
+    }
+  ]
+};

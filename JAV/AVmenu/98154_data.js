@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221226/6FD346D6A6CA93F6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 98154,
+  "IDcode": "DIC-058",
+  "title": "普通の女の子がAV女優になるまでの軌跡にカメラが密着！2年間も気になりつづけたAVの世界へ！電マでマン汁大量流出 ダンサーのスケベさは格が違うショーダンサーりりかちゃん（仮名）AVdebut！！",
+  "publish_date": "2019-03-29",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "颜射",
+    "潮吹",
+    "业余",
+    "纪录片",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118dic058/118dic058pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98154",
+  "actresses": [
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98154&name=南佳也"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98154&name=沢井亮"
+    }
+  ]
+};

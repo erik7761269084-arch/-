@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/04baa8a3-1d6a-4cc4-90c7-bead6724811d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7612,
+  "IDcode": "SSNI-600",
+  "title": "飽滿溢出的美豔巨臀 ~ 黑川晴美",
+  "publish_date": "2019-10-19",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "臀控",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "局部特寫",
+    "主觀視角",
+    "慾求不滿",
+    "內衣",
+    "勾引・誘惑",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "美人",
+    "寢取",
+    "美少女電影"
+  ],
+  "description": "SSNI-600为S1出品,2019年10月19日发行的有碼成人影片由黒川晴美出演\n大屁股一直是她的情結...緊實的屁股肉體時而溢出，時而凹陷，不自覺地勾引著男人...彈性十足！ ！毫無防備的、赤裸的、大屁股劇烈地彈跳著！豐滿、多肉、神聖的屁股。不自覺誘人的大屁股汗流浹背的潮吹性愛。肉臀坐臉按摩。大屁股打屁股追逐性交。乞求用她豐滿的桃子屁股揉捏進行性愛。肛門露出！強壯豐滿的大屁股，你可以刺穿！大肉屁股戀物癖的誘惑！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312051117453453.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250312/20250312051117453453.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7612",
+  "actresses": [
+    {
+      "name": "黒川晴美",
+      "img_url": "https://picture.yoshiclub.xyz/20241218/a6063d4d-efa2-463c-a0a0-6a4ff0366e30.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7612&name=黒川晴美"
+    }
+  ]
+};

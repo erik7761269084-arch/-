@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250416/jyfozip8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68563,
+  "IDcode": "MEYD-437",
+  "title": "私、実は夫の上司に犯され続けてます… 河北麻衣",
+  "publish_date": "2018-11-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "凌辱",
+    "强奸",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/2a7e517a3a9e63d2c36ccd24b44af9ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68563",
+  "actresses": [
+    {
+      "name": "河北麻衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68563&name=河北麻衣"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/rTV04Alc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84513,
+  "IDcode": "GVH-360",
+  "title": "僕のことが大好きなママと、クラスで一番美人な友達のママで行った二泊三日の混浴温泉旅行 推川ゆうり/大浦真奈美",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "中出",
+    "多P",
+    "乱伦",
+    "浴衣",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84513",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84513&name=推川悠里"
+    },
+    {
+      "name": "大浦真奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/d87c8052-5d11-4c00-9d2b-c9b614423963.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84513&name=大浦真奈美"
+    }
+  ]
+};

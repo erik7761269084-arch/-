@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/13d23017/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59892,
+  "IDcode": "259LUXU-1206",
+  "title": "- 259luxu-1206巨乳心理咨询师用笑容治疗我的心灵和肉棒 - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59892",
+  "actresses": []
+};

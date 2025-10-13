@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2bf30f8c-d27a-4dc5-9370-0679c3a88dbf/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/21/6045b571/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15443,
+  "IDcode": "PPPE-202",
+  "title": "我女朋友的姐姐用她的大奶子和中出來誘惑我，好吧。愛寶鈴",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友姐姐",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "內衣",
+    "少女",
+    "勾引・誘惑",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "亂倫",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "PPPE-202为OPPAI出品,2024年4月16日发行的有碼成人影片由愛寶鈴出演\n我的女朋友永遠不會讓我直接幹她！現在插入它！每次我都會收到一條橡皮筋...我感覺不那麼興奮，想要擁有更愉快的性愛！但她的妹妹不一樣！她的胸部比她大，而且身體看起來握起來更舒服，所以她引誘我並說可以射在她體內！我喜歡她，但是……我的理智因為她期待已久的生貓而崩潰！當我和姐姐做愛時，她終於發現了！但這感覺太好了，讓我忍不住扭動臀部！終於在姊姊面前射精了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412230405904904.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412230405904904.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15443",
+  "actresses": [
+    {
+      "name": "愛寶鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/8a4b0db0-67d0-448f-9b65-6c444a9a499b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15443&name=愛寶鈴"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250228/AEEMJHa5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71171,
+  "IDcode": "HND-617",
+  "title": "「AV男優に抱かれてほしい-」ネトラセラレ本物人妻AVデビュー 花咲里菜",
+  "publish_date": "2019-01-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "首次亮相",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71171",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71171&name=鲛岛"
+    },
+    {
+      "name": "花咲里菜",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71171&name=花咲里菜"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/njkfcxNy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83521,
+  "IDcode": "EMRD-150",
+  "title": "メガネをかけると発情する変わった性癖の女 戸田美々香",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "眼镜",
+    "成熟的女人",
+    "巨乳",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83521",
+  "actresses": [
+    {
+      "name": "戸田美々香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83521&name=戸田美々香"
+    }
+  ]
+};

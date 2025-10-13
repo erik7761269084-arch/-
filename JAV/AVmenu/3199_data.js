@@ -1,0 +1,81 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/110473d9-2ddb-45cb-af39-0572e93ed101/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/20/8f39f2f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3199,
+  "IDcode": "MIDA-307",
+  "title": "小穴被狂幹到高潮連連，忍不住喊停了還被多次內射 ~ 葵伊吹",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "丁字裤",
+    "蠻橫嬌羞",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "女優訪談",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "極品美人",
+    "女優"
+  ],
+  "description": "MIDA-307为MOODYZ出品,2025年8月28日发行的有碼成人影片由葵伊吹出演\n【狂野刺激G點，掀起高潮新玩法！】身材辣到爆的細腰巨乳正妹葵伊吹，被從下往上狠狠衝擊，硬生生頂到崩潰！上勾拳式活塞運動讓她高潮連連，還沒喘過氣就直接內射連發！她那自豪的騷氣腰技，騎乘位能讓無數男優爽到上天，但半路冷不防被猛力一頂，嫩穴被撐到極限，子宮深處被滾燙精液灌滿，熱到不行！“不行啦…真的要瘋了！要被頂壞啦！”被硬邦邦的肉棒無情碾壓，頂級女優被幹到失控浪叫的樣子，絕對不要錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023658287287_92214_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023658287287_92214_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3199",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3199&name=葵伊吹"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3199&name=日森一"
+    }
+  ]
+};

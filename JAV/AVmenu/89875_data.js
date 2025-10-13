@@ -1,0 +1,20 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240108/qgiDHuEw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89875,
+  "IDcode": "SAME-059",
+  "title": "輪●計画 巨乳インフルエンサー編",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/2c0b1b2de0880380e71fa092687811b2.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89875",
+  "actresses": []
+};

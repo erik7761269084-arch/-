@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/20/2ca98b76/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70710,
+  "IDcode": "JUL-098",
+  "title": "車中泊NTR ―社員旅行の帰り道、ドライブレコーダーに記録された汗だく中出し映像― 栗栖みなみ",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70710",
+  "actresses": [
+    {
+      "name": "天沢ゆきね",
+      "img_url": "https://picture.yoshiclub.xyz/20240812/a487922b-a365-4c1a-9229-26072d2f6dfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70710&name=天沢ゆきね"
+    }
+  ]
+};

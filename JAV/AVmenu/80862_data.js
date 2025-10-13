@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220809/xstKRR5h/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80862,
+  "IDcode": "CHN-214",
+  "title": "新・素人娘、お貸しします。 102 仮名)一条えりか(ラウンジ嬢&amp;パパ活)22歳。",
+  "publish_date": "2022-03-17",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "业余",
+    "感谢祭",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80862",
+  "actresses": []
+};

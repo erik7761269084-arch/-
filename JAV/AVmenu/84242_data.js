@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230106/cue5fB3q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84242,
+  "IDcode": "CJOD-359",
+  "title": "僕達の憧れだった女教師はエグイ程下品な性欲モンスターでした… 蛇舌で全身ぐっちょり舐め回し、放尿ぶっかけ体液まみれで顔射後も精飲＆男潮吹き追撃逆レ○プ白書 佐伯由美香",
+  "publish_date": "2022-07-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女上位",
+    "颜射",
+    "荡妇",
+    "口交",
+    "女教师",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84242",
+  "actresses": [
+    {
+      "name": "佐伯由美香",
+      "img_url": "https://picture.yoshiclub.xyz/20250125/1097d394-b90d-4962-a00f-1c258875af66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84242&name=佐伯由美香"
+    }
+  ]
+};

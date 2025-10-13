@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/BE17Dz7q/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87271,
+  "IDcode": "CADV-855",
+  "title": "憧れのカノジョ 北野未奈",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "精选，综合",
+    "乳交",
+    "巨乳",
+    "中出",
+    "无毛",
+    "荡妇",
+    "玩具",
+    "潮吹",
+    "OL",
+    "骑乗位",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87271",
+  "actresses": []
+};

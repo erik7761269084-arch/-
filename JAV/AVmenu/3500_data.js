@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f242f6a7-a29b-497a-9084-0fd84f4d7610/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 3500,
+  "IDcode": "MYBA-085",
+  "title": "人妻の花 ~ 沙月文乃",
+  "publish_date": "2025-08-15",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "三十路",
+    "後入",
+    "貴婦",
+    "高顏值",
+    "企畫",
+    "家庭主妇",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "正統派",
+    "口交",
+    "騎乗位",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "美腳",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "清純",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "豐滿"
+  ],
+  "description": "MYBA-085为妄想族出品,2025年8月15日发行的有碼成人影片由沙月文乃出演\n这位人妻无奈吐槽：“我老公总觉得自己床上功夫一流，可能因为婚前泡过不少妹子，自信心爆棚，但技术真的一言难尽。”每次完事后，看着老公一脸满足地呼呼大睡，她心里只有失望，爱意也一点点被磨没了。她很想吼一句：“人多不代表你牛逼啊！”但又不敢说，只能默默忍着。虽然她也知道夫妻生活不全靠性，但那种身体和心灵的双重空虚，实在是压不住了，终于爆发出来，渴望被真正满足的滋味！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032235418418_93366_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032235418418_93366_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3500",
+  "actresses": [
+    {
+      "name": "沙月文乃",
+      "img_url": "https://picture.yoshiclub.xyz/20231125/b7840599-4516-4b77-923f-5b79fb004ed1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3500&name=沙月文乃"
+    }
+  ]
+};

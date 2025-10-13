@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/cb01ef48-1066-4354-b60d-a7db766fee44/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/13/11cb2dc4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11631,
+  "IDcode": "NPJS-101",
+  "title": "我想快點吃掉它…… 約炮平臺線下去了超級快捷的酒店並立即開操！美人妻母狗 ~ 胡桃多惠",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "出軌",
+    "NTR",
+    "約炮",
+    "情趣飯店"
+  ],
+  "description": "NPJS-101为NAPA-JAPAN出品,2024年10月1日发行的有碼成人影片由胡桃多惠出演\n限時作弊！享受性愛，直到老公下午 5 點回家！ 「我想快點把它放進嘴裡…」用配套的應用程式獲取它！ ！我們見面並去了一家超級快捷的酒店並立即發生了性關係！意志堅強、美麗的妻子是個行動敏捷、方便、自由的母狗。業餘時間欺騙性行為！立即口交！立即原始性愛！即使射精也要繼續插入！情趣酒店休息2小時。操到你精疲力盡為止！口內射精＆中出④連續射擊？ ⑨ 再過2小時！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926100741976976.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/20240926100741976976.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11631",
+  "actresses": [
+    {
+      "name": "胡桃多惠",
+      "img_url": "https://picture.yoshiclub.xyz/20240926/3e0282a6-3661-4e1e-81f2-ecdb6e52b141.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11631&name=胡桃多惠"
+    }
+  ]
+};

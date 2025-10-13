@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/D8F559A574B497D9/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64214,
+  "IDcode": "68D285A753D3C0BF7CD88A39D0465E-65",
+  "title": "放課後美少女ファイル No.14～汚されていく美肌娘",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64214",
+  "actresses": []
+};

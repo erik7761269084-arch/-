@@ -1,0 +1,83 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/924666d9-3227-4192-8d3e-125fcf27a0b4/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11922,
+  "IDcode": "SDDE-718",
+  "title": "綜藝特別節目 - 女主持們被洗腦侵蝕 我們是專爲主人服務的小貓",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "女主持・主播",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "催眠",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "迷姦",
+    "多P",
+    "綜藝",
+    "美腳",
+    "美少女",
+    "搞笑・模仿",
+    "奇聞趣事",
+    "明星臉",
+    "清純",
+    "癡女",
+    "惡搞",
+    "雙飛",
+    "巨乳",
+    "特效",
+    "奇異的",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240917/20240917062943178178.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240917/20240917062943178178.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11922",
+  "actresses": [
+    {
+      "name": "水端麻美",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/766e0cf2-8c0b-4e32-b2cf-1179df135f3f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11922&name=水端麻美"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11922&name=有栖舞衣"
+    },
+    {
+      "name": "乃々瀬あい",
+      "img_url": "https://picture.yoshiclub.xyz/20240417/1797904e-7ba5-451b-894f-bd9e97ff118f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11922&name=乃々瀬あい"
+    },
+    {
+      "name": "綾瀬舞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/f019b8a1-7dc2-44b1-8f71-f9587e03099e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11922&name=綾瀬舞菜"
+    }
+  ]
+};

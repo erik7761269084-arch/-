@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/11/28/8758a871/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105502,
+  "IDcode": "IPTD-553",
+  "title": "ミスキャンパスはSEXが大好き 希崎ジェシカ",
+  "publish_date": "2010-03-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫语",
+    "颜射",
+    "潮吹",
+    "数位马赛克",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/04/02/9f3bc9efdc3cb2fc9041fd5ba6499e36.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105502",
+  "actresses": [
+    {
+      "name": "希崎潔西卡",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/8a3b57e3-688d-4c25-a4b6-893257e943d8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105502&name=希崎潔西卡"
+    }
+  ]
+};

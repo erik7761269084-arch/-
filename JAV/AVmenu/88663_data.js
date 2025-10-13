@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/15/355ff51a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88663,
+  "IDcode": "YMDD-328",
+  "title": "おじさん、あそぼ ～1日だけのわるい子～ 倉本すみれ",
+  "publish_date": "2023-06-06",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "中出",
+    "玩具",
+    "学校泳装",
+    "校服",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88663",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/ZPPzLBJx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81411,
+  "IDcode": "CLO-034",
+  "title": "どこを施術する時も必ず乳首に寄り道する弄りがしつこいメンズエステ かすみりさ",
+  "publish_date": "2020-04-10",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "女上位",
+    "姐姐",
+    "按摩",
+    "接吻",
+    "美容院",
+    "骑乗位",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/25e7191a507b4cef9737095ca883f4ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81411",
+  "actresses": [
+    {
+      "name": "松岡仁美",
+      "img_url": "https://picture.yoshiclub.xyz/20241231/d7aad9ed-209d-4f32-9ac6-44d6e7d3de78.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81411&name=松岡仁美"
+    }
+  ]
+};

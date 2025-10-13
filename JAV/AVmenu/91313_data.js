@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240429/uGLiXJPc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91313,
+  "IDcode": "DFE-071",
+  "title": "【FANZA限定】娘に喰わせてもらってます。 姫野らん パンティと生写真付き",
+  "publish_date": "2023-09-01",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "水手服",
+    "女优按摩棒",
+    "运动短裤",
+    "魔鬼系",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240429-1/614b4e80783bc81dcbf53d9455ac586d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91313",
+  "actresses": [
+    {
+      "name": "姫野らん",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/e8c74bfa-a4ca-4879-8060-3df057e3a8ce.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91313&name=姫野らん"
+    }
+  ]
+};

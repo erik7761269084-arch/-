@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d1d205ae-ddd8-4d71-944e-95bc745606a4/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20230729/ayt5bdN1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17786,
+  "IDcode": "IPX-924",
+  "title": "新人 京都大姊AV出道 FIRST IMPRESSION 155 淫裸MIDARA 都月琉衣紗",
+  "publish_date": "2022-08-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "苗條",
+    "企畫",
+    "女上位",
+    "口交",
+    "姐姐・妹妹",
+    "出道作品",
+    "女優訪談",
+    "紀錄片",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231118/20231118001557878878.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231118/20231118001557878878.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17786",
+  "actresses": [
+    {
+      "name": "都月楓",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/5529d25d-c524-48ac-9179-b45b81db5fbd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17786&name=都月楓"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17786&name=小田切ジュン"
+    }
+  ]
+};

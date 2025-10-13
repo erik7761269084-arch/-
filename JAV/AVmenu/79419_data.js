@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/23/018b4be5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79419,
+  "IDcode": "MVSD-474",
+  "title": "出張先のひなびた温泉旅館で新卒女子社員とまさかの相部屋逆NTR 特別編 彼女のもの凄い腰使いに何度も何度も中出しさせられてしまった私 初川みなみ",
+  "publish_date": "2021-08-19",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "中出",
+    "荡妇",
+    "白天出轨",
+    "流汗",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79419",
+  "actresses": [
+    {
+      "name": "初川南",
+      "img_url": "https://picture.yoshiclub.xyz/20230820/ed9110b7-794d-4051-9cc3-1af6e43eafd5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79419&name=初川南"
+    }
+  ]
+};

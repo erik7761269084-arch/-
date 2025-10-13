@@ -1,0 +1,133 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/da0a772e-fe7a-486e-986e-bfca6118f714/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4866,
+  "IDcode": "DVMM-247",
+  "title": "全新實拍街頭素人摸胸大作戰！用歐派力量讓日本嗨起來！羞澀臉紅的100位妹子，各種形狀大小的生猛歐派隨便揉隨便抓！vol.11 ！~ 岡本莉裏 本田瞳 葉山小百合 天晴乃愛 天晴乃愛 小阪ひまり 足立るい 等",
+  "publish_date": "2025-06-27",
+  "type": "有码",
+  "company": "DEEP'S",
+  "genres": [
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "無做愛場面",
+    "脚控・戀足癖",
+    "美乳",
+    "OL",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "素人",
+    "口交",
+    "街頭福利",
+    "性感",
+    "綜藝",
+    "美腳",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "公共場所",
+    "美人",
+    "真實拍攝",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "DVMM-247为DEEP'S出品,2025年6月27日发行的有碼成人影片由本田瞳，白石渚，浜辺栞帆，依本詩織，天野花乃，天野花乃，如月りいさ，白崎水麗，天晴乃愛，天晴乃愛，赤城穂波，矢澤なの，水川かえで，足立るい，岡本莉里，月見若葉，葉山小百合，黒木奈美，小坂ひまり，沢北あんな出演\n久等啦！超火爆系列第11彈強勢來襲！整整5小時，100位素人妹子全新實拍，顏值身材簡直炸裂！街頭偶遇的妹子，直接上手揉歐派，晃得不要不要的，抓得心癢癢！是不是你認識的小姐姐也偷偷上了片？男人的終極幻想，這部直接幫你實現！歐派揉捏系列累計突破1144人，紀念神作不容錯過！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031326654654_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031326654654_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4866",
+  "actresses": [
+    {
+      "name": "小坂ひまり",
+      "img_url": "https://picture.yoshiclub.xyz/20240318/f44d4c21-5a2e-4c4c-bc0b-66de8d34d2da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=小坂ひまり"
+    },
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=浜辺栞帆"
+    },
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=本田瞳"
+    },
+    {
+      "name": "黒木奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240110/7d6103e3-63dd-4460-8237-77fc0ee2f49a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=黒木奈美"
+    },
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=葉山小百合"
+    },
+    {
+      "name": "天晴乃愛",
+      "img_url": "https://picture.yoshiclub.xyz/20230921/7131d9cb-5b7b-4e26-9265-278cb35933d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=天晴乃愛"
+    },
+    {
+      "name": "白石渚",
+      "img_url": "https://picture.yoshiclub.xyz/20241104/2bf3dd17-2b68-4fdc-99a0-353abd274001.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=白石渚"
+    },
+    {
+      "name": "月見若葉",
+      "img_url": "https://picture.yoshiclub.xyz/20240311/654e69ae-4525-4aa8-88e6-b7bd6162a471.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=月見若葉"
+    },
+    {
+      "name": "岡本莉里",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/66611161-4af8-4c68-a2bd-1591ee0fe3ac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=岡本莉里"
+    },
+    {
+      "name": "如月りいさ",
+      "img_url": "https://picture.yoshiclub.xyz/20240331/d7700eb3-262c-4135-99be-f216cdd6c8df.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=如月りいさ"
+    },
+    {
+      "name": "依本詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20241122/c45b8acc-1cbc-4413-96ea-f3493e184bc7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=依本詩織"
+    },
+    {
+      "name": "天野花乃",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/3eca0983-85a5-48d9-8a6c-8a07e5b92b4a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=天野花乃"
+    },
+    {
+      "name": "赤城穂波",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/d30af288-ebd4-444b-8989-2322c13f5aa8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=赤城穂波"
+    },
+    {
+      "name": "矢澤なの",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/32d14a14-5e37-4b11-8539-bf7f3193151f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=矢澤なの"
+    },
+    {
+      "name": "白崎水麗",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/2d87722f-cc29-4443-95c2-3e96a902636c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=白崎水麗"
+    },
+    {
+      "name": "足立るい",
+      "img_url": "https://picture.yoshiclub.xyz/20240615/b91c68b3-2a56-49ee-819c-634eb302e012.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=足立るい"
+    },
+    {
+      "name": "水川かえで",
+      "img_url": "https://picture.yoshiclub.xyz/20241030/1732c987-cf42-4339-a20b-3f0d23177f45.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=水川かえで"
+    },
+    {
+      "name": "沢北あんな",
+      "img_url": "https://picture.yoshiclub.xyz/20250312/b46d90c4-c4aa-416d-8f10-7aad880233c5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4866&name=沢北あんな"
+    }
+  ]
+};

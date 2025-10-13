@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2fa55df-bd76-4c30-b989-d1a0e54c0dbf/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/31/1d4a91d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17048,
+  "IDcode": "SSNI-058",
+  "title": "不戴胸罩渾身溼透的巨乳女學生，溼漉漉的透明粉色乳頭的誘惑",
+  "publish_date": "2017-11-25",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "濕身",
+    "劇情",
+    "JK校服",
+    "泳池",
+    "性感",
+    "美少女",
+    "巨乳",
+    "學校",
+    "女學生"
+  ],
+  "description": "SSNI-058为S1出品,2017年11月25日发行的有碼成人影片由夢乃愛華出演\n比全裸還難受…夢乃愛華H罩杯美乳被溼漉漉的制服覆蓋！ 「夢乃，你沒穿胸罩嗎？」透過乳頭可以看到美麗的粉紅色。女學生年輕、有彈性、隔着衣服都能看到的美麗巨乳和腰部讓全校師生興奮不已。 “你不是故意淋溼的嗎？你是在誘惑我嗎？”120分鍾的全程都是溼透透明的！ ！\n比全裸還難受…夢乃愛華H罩杯美乳被溼漉漉的制服覆蓋！ 「夢乃，你沒穿胸罩嗎？」透過乳頭可以看到美麗的粉紅色。女學生年輕、有彈性、隔着衣服都能看到的美麗巨乳和腰部讓全校師生興奮不已。 “你不是故意淋溼的嗎？你是在誘惑我嗎？”120分鍾的全程都是溼透透明的！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227100231224224.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231227/20231227100231224224.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17048",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17048&name=夢乃愛華"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17048&name=森林原人"
+    }
+  ]
+};

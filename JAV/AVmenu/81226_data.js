@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220807/qy9pUCjn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81226,
+  "IDcode": "TT-006",
+  "title": "「私、借金をアナルで完済いたします」 ドM美尻人妻",
+  "publish_date": "2011-08-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "凌辱",
+    "肛交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81226",
+  "actresses": [
+    {
+      "name": "椎名绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81226&name=椎名绫"
+    }
+  ]
+};

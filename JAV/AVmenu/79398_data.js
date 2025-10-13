@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/2q0ZxZYn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79398,
+  "IDcode": "SAN-020",
+  "title": "配達員に自分の妻を寝取らせたED（勃起不全）夫の計画 / 成海美雨",
+  "publish_date": "2021-09-21",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "玩具",
+    "潮吹",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79398",
+  "actresses": [
+    {
+      "name": "成海美雨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79398&name=成海美雨"
+    }
+  ]
+};

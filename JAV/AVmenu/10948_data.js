@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6a94cc8-a55c-4578-aa57-97386f6dc11e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10948,
+  "IDcode": "MIDV-917",
+  "title": "新人報到！可愛到讓人丟魂落魄的可愛田舍美少女 首次亮相 AV DEBUT ~ 野宮杏",
+  "publish_date": "2024-11-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "紀念作",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "出道作品",
+    "女優訪談",
+    "真實拍攝",
+    "美少女電影",
+    "女優",
+    "羞恥"
+  ],
+  "description": "MIDV-917为MOODYZ出品,2024年11月5日发行的有碼成人影片由野宮杏出演\n亮得令人作嘔！發現一個能讓男人愛上她的新女演員！個性出眾，個性迷人，而且還很可愛（笑）。一個愛好用相機拍風景的鄉村女孩，露出了她很少向男人展示的裸體！她白皙年輕的肌膚略顯豐潤，觸感很好。美麗的乳頭、柔軟的乳房、修長的雙腿和圓潤的臀部。看起來很正常，但我第一次做愛是把自己全裸地露出出來，這是男人最喜歡的！一般女孩成為AV女優的第一步！我想看到成長潛力突出的野宮安醬成長為一個頑皮女孩，所以我決定成為MOODYZ獨家！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031070849122122.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241031/20241031070849122122.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10948",
+  "actresses": [
+    {
+      "name": "野宮杏",
+      "img_url": "https://picture.yoshiclub.xyz/20241101/020049c9-345d-4766-b233-a70d40d8114b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10948&name=野宮杏"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230110/sgow9S17/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84526,
+  "IDcode": "GENM-096",
+  "title": "爆乳スレンダー美女 月島さくら",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "多P",
+    "苗条",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230110-1/bc898029b6e1900225c0f6e3ef4ae988.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84526",
+  "actresses": [
+    {
+      "name": "月岛さくら",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84526&name=月岛さくら"
+    }
+  ]
+};

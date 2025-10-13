@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/516766b0-d074-4488-b7d5-dbb97fa59e48/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1361,
+  "IDcode": "HEYZO-2697",
+  "title": "櫻桃男孩瞞著老公的新畫筆 Vol.6 - 大月野野",
+  "publish_date": "2022-01-09",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "中出",
+    "出道作品",
+    "人妻",
+    "出軌",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230719/20230719023733828828.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230719/20230719023733828828.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1361",
+  "actresses": []
+};

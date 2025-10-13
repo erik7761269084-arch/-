@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230723/9GwvKXDw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87275,
+  "IDcode": "BONY-019",
+  "title": "巨乳を目の前にすると男は無力だ！ 素人チムコテイスティング 逆ナンパ連れ込み痴女 夕季ちとせ",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "荡妇",
+    "M男",
+    "倒追",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87275",
+  "actresses": [
+    {
+      "name": "七草千歲",
+      "img_url": "https://picture.yoshiclub.xyz/20231203/5c71bd09-b5ae-44bc-a2a4-abd6dc83473f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87275&name=七草千歲"
+    }
+  ]
+};

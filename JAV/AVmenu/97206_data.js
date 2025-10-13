@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240711/WgRuAlGm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97206,
+  "IDcode": "NSPS-790",
+  "title": "義父を誘う嫁 ～もう私、お義父さんアレなしじゃ生きられない～ 大沢カスミ",
+  "publish_date": "2019-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97206",
+  "actresses": [
+    {
+      "name": "大沢カスミ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97206&name=大沢カスミ"
+    }
+  ]
+};

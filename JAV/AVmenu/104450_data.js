@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/05/13/1a1fc052/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104450,
+  "IDcode": "URLH-008",
+  "title": "おっぱいで超誘惑してくる新人セクキャバ嬢 5 三原ほのか",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "礼仪小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104450",
+  "actresses": [
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104450&name=三原穗香"
+    }
+  ]
+};

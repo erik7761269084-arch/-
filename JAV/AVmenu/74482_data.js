@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250104/uqv1EBtZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74482,
+  "IDcode": "EYAN-140",
+  "title": "豊満Hカップ激むち巨尻 上品なのにムチムチ助平ボディ元キャビンアテンダント人妻AVデビュー 朝倉凪",
+  "publish_date": "2019-08-13",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "已婚妇女",
+    "首次亮相",
+    "巨大屁股",
+    "空中小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74482",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74482&name=鲛岛"
+    },
+    {
+      "name": "朝仓凪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74482&name=朝仓凪"
+    }
+  ]
+};

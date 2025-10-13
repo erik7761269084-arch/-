@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241031/hnrHgWF1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78287,
+  "IDcode": "SUJI-230",
+  "title": "個人撮影 金髪素人自画撮りオナニー投稿映像10人vol.02",
+  "publish_date": "2024-04-16",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "白人",
+    "淫语",
+    "自慰",
+    "手指插入",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/21f90b79086cd61c2332b909a1da7cda.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78287",
+  "actresses": []
+};

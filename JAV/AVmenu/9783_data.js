@@ -1,0 +1,82 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d6af7205-0bfc-44b6-aad8-224fa8c37a23/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/02/0f473f4a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9783,
+  "IDcode": "ABF-182",
+  "title": "給客人們擠代包括乳交，顏射，本番，甚至亂交服務。將爺爺遺傳下來的家族浴池生意從倒閉的邊緣救回。 ~ 河合明日菜",
+  "publish_date": "2024-12-19",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "後入",
+    "濕身",
+    "泡姬",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "泡泡浴店",
+    "水療・泡泡浴",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "比基尼",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "多P",
+    "美少女",
+    "寫真女郎",
+    "金髮",
+    "拜金女",
+    "自慰",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241219/65084640-4d74-4732-8128-6232894c2d77.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241219/65084640-4d74-4732-8128-6232894c2d77.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9783",
+  "actresses": [
+    {
+      "name": "河合明日菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231020/df251d4e-78ea-4853-b44b-07ca3e9773ad.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9783&name=河合明日菜"
+    },
+    {
+      "name": "いち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9783&name=いち"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9783&name=小田切ジュン"
+    }
+  ]
+};

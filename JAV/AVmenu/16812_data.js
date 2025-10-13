@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/19a5e2ea-4f2d-4a08-8276-4f855531685b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/16/292856f3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16812,
+  "IDcode": "SSNI-080",
+  "title": "完全聽話服從的大奶子女僕夢乃愛華",
+  "publish_date": "2018-01-01",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "女僕",
+    "後入",
+    "乳交",
+    "雙馬尾",
+    "中出",
+    "美乳",
+    "網襪",
+    "女上位",
+    "口交",
+    "裸體圍裙",
+    "騎乗位",
+    "美腳",
+    "女僕制服",
+    "巨乳",
+    "手指插入",
+    "按摩棒"
+  ],
+  "description": "SSNI-080为S1出品,2018年1月1日发行的有碼成人影片由夢乃愛華出演\n讓主人射精是我的任務！請隨時隨地使用夢乃愛華的奶子。如果家裏有這麼漂亮的大奶子女僕的話……我恨不得從早到晚都把雞巴夾在雙乳之間！ 「今天要開始乳交嗎？還是等我們做愛之後再做乳交？」愛主人雞巴的大奶子女僕用她迷人的身體提供徹底的服務！ ！\n讓主人射精是我的任務！請隨時隨地使用夢乃愛華的奶子。如果家裏有這麼漂亮的大奶子女僕的話……我恨不得從早到晚都把雞巴夾在雙乳之間！ 「今天要開始乳交嗎？還是等我們做愛之後再做乳交？」愛主人雞巴的大奶子女僕用她迷人的身體提供徹底的服務！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111102009223223.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240111/20240111102009223223.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16812",
+  "actresses": [
+    {
+      "name": "夢乃愛華",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1d601876-8681-41f3-a824-74bed6f7a1f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16812&name=夢乃愛華"
+    }
+  ]
+};

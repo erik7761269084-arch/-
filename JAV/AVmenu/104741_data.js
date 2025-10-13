@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/06/21/239ab91d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104741,
+  "IDcode": "SW-544",
+  "title": "兄貴の嫁さん達のゴージャス大人ボインが目の前に！独身の僕の下の世話まで焼いてくれるのは、兄貴のチ○ポじゃ満足できず、オナニーばかりして頑丈になりすぎた僕のチ○ポを根元まで挿し込みたいからです",
+  "publish_date": "2018-03-08",
+  "type": "有码",
+  "company": "SWITCH",
+  "genres": [
+    "巨乳",
+    "多P",
+    "乱伦",
+    "企画",
+    "妹妹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104741",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104741&name=推川悠里"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104741&name=君岛美绪"
+    }
+  ]
+};

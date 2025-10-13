@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/ACLS32un/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82664,
+  "IDcode": "HND-419",
+  "title": "焦らし寸止め女子校生意識ぶっ飛びナマ殺しSEX 椎名そら",
+  "publish_date": "2017-07-07",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "高中女生",
+    "中出",
+    "淫语",
+    "荡妇",
+    "数位马赛克"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82664",
+  "actresses": []
+};

@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8dd6772f-0882-4b2d-a6fb-5bbc75efb195/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14816,
+  "IDcode": "APAK-277",
+  "title": "讓我流口水！高潮！淫蕩受虐狂透美かなた“吸吮口交！透美かなた的”乳暈和大奶頭",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女學生",
+    "無毛"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240511/572d7ab3-6a82-4c01-bac4-e48c8b9a3fbc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240511/572d7ab3-6a82-4c01-bac4-e48c8b9a3fbc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14816",
+  "actresses": [
+    {
+      "name": "透美かなた",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/2004bea4-bc98-4b9b-8762-1b22bd0426e5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14816&name=透美かなた"
+    }
+  ]
+};

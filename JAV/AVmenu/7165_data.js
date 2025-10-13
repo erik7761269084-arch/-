@@ -1,0 +1,75 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7ecc0f22-2e24-4425-9a29-53cf6c5f7ea6/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/b6563c12/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7165,
+  "IDcode": "FPRE-156",
+  "title": "周五夜錯過末班車的童貞後輩被我收留誘惑，早泄卻超絕倫讓我周末兩天被幹到高潮連連 ~ 藤森日南",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "酒醉",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "酒後亂性",
+    "深喉",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "早漏",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "正統派",
+    "制服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "足交",
+    "美人",
+    "阪道系",
+    "職場",
+    "極品美人",
+    "美少女電影",
+    "豐滿",
+    "處男"
+  ],
+  "description": "FPRE-156为FITCH出品,2025年4月1日发行的有碼成人影片由藤森日南出演\n日南是一名空姐，她因為高挑、豐滿的身材而受到同事們的歡迎，但她的酒量很差，以至於她最終會讓每個接近她的男人都喝醉。新進員工歡迎會上，日南一如既往地狂飲，但同事們把她交給新進員工篠田照顧，然後大家都回家了。日南以比預想中更快的速度喝酒並喝醉後，決定讓篠田在錯過末班火車後留在她家。回家的路上，日南發現篠田還是處女，想要享受他純真的反應，但當她體驗到篠田那根遠超她想像的強悍陰莖的驚人時，她發現自己反而被迷住了…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250327/2025032708411100.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250327/2025032708411100.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7165",
+  "actresses": [
+    {
+      "name": "藤森日南",
+      "img_url": "https://picture.yoshiclub.xyz/20250201/3dfe3221-707e-41d6-9f2b-444220e251b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7165&name=藤森日南"
+    },
+    {
+      "name": "トイボーイ相沢",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7165&name=トイボーイ相沢"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/11/710d5dfe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79632,
+  "IDcode": "WAAA-104",
+  "title": "ホロ酔い女上司に常に口を封じられてW杭打ち逆3Pハーレム ホテル連れ込みベロキス姦 辻井ほのか 君島みお",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "巨乳",
+    "中出",
+    "女上位",
+    "荡妇",
+    "两女一男"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d9aaee3c703a13a00fb234917567362d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79632",
+  "actresses": [
+    {
+      "name": "辻井穗乃果",
+      "img_url": "https://picture.yoshiclub.xyz/20230920/01254cb2-cc4f-4f90-9c1f-23c18ba63144.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79632&name=辻井穗乃果"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79632&name=君岛美绪"
+    }
+  ]
+};

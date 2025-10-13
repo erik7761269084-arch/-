@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220326/E1649D6ABCFBB1F5/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61284,
+  "IDcode": "RBD-628",
+  "title": "貞操小偷 離別屋的寢取報告書 櫻井步",
+  "publish_date": "2014-10-07",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "第一人称摄影",
+    "强奸",
+    "大小姐",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61284",
+  "actresses": [
+    {
+      "name": "樱井步",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61284&name=樱井步"
+    }
+  ]
+};

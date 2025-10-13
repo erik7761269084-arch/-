@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221030/3A3AC0253B2EA6DF/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65743,
+  "IDcode": "689369BF2BA62A5F7107EFFA4F0922EB",
+  "title": "终极乐趣和大量唾液汁湿肉 Jcup 身体筋疲力尽",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65743",
+  "actresses": []
+};

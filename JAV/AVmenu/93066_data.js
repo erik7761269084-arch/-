@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241005/cgeKer2N/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93066,
+  "IDcode": "MIDE-877",
+  "title": "被住隔壁H罩杯爆乳大姊誘惑乳交每天射精的我 中山文香",
+  "publish_date": "2021-02-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "淫语",
+    "姐姐",
+    "荡妇",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241006-1/91da2e8ab329bcf1407346b453bc3069.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93066",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93066&name=中山文香"
+    }
+  ]
+};

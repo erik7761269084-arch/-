@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/9958940f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68713,
+  "IDcode": "AKDL-321",
+  "title": "「ねぇ、クンニしてくれる？」 僕の彼女は●息顔面騎乗で圧迫させるのが大好き",
+  "publish_date": "2025-04-10",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "吞精",
+    "骑乗位",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/06/29/b86b409550adf1c56eb9e6a1a7ca4b49.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68713",
+  "actresses": [
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68713&name=松井日奈子"
+    },
+    {
+      "name": "宇流木沙羅",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/dfdd383c-21fc-4b45-8951-05863177a5bb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68713&name=宇流木沙羅"
+    },
+    {
+      "name": "那賀崎雪音",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/87ab423c-c619-4ccd-ae2f-88fcabc03bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68713&name=那賀崎雪音"
+    },
+    {
+      "name": "安堂はるの",
+      "img_url": "https://picture.yoshiclub.xyz/20240603/a99a3667-810d-4742-8eba-53534ad3f779.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68713&name=安堂はるの"
+    }
+  ]
+};

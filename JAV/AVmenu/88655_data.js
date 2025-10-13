@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/11/3b8fe386/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88655,
+  "IDcode": "YMDD-325",
+  "title": "【FANZA限定】GIN GIRA GAL 強靱デスパンチ エンジェル！！極めテクで連続絶頂×全てのザーメンを吸引スプラッシュ×ブレイキングファック デスマ ギャビ三岳マルシアさんの目覚まし時計と生写真セット",
+  "publish_date": "2023-06-07",
+  "type": "有码",
+  "company": "桃太郎映像出版",
+  "genres": [
+    "荡妇",
+    "女生",
+    "潮吹",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/8b112f2b0eb4640bc9388cb7010316b6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88655",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88655&name=三岳祐奈"
+    },
+    {
+      "name": "倉與田",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/35967812-d61d-4b9a-b662-9334d7ff9036.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88655&name=倉與田"
+    }
+  ]
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f469d45e-2903-4351-8c94-e99bd4eae09c/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240206/o973DE2Z/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17181,
+  "IDcode": "NACR-738",
+  "title": "覺醒油玩，華澄結愛",
+  "publish_date": "2023-12-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "巨尻",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "口交",
+    "情趣內衣",
+    "巨乳",
+    "按摩棒",
+    "抹油",
+    "豐滿"
+  ],
+  "description": "NACR-738为PLANETPLUS出品,2023年12月20日发行的有碼成人影片由華澄結愛出演\n友愛霞用足夠的油讓自己的身體變得光滑、閃亮，等待男人。透過乳交、腳間性交、玩具折磨等各種玩法，扭動美麗的身體，覺醒油玩！！\n友愛霞用足夠的油讓自己的身體變得光滑、閃亮，等待男人。\n\n透過乳交、腳間性交、玩具折磨等各種玩法，扭動美麗的身體，覺醒油玩！！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231220/3ed23c84-8a09-4c50-96c7-6d58b9428aaa.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/3ed23c84-8a09-4c50-96c7-6d58b9428aaa.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17181",
+  "actresses": [
+    {
+      "name": "華澄結愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231220/0ec06eb3-2da2-4c20-93f7-daee191f452a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17181&name=華澄結愛"
+    },
+    {
+      "name": "麻仓ゆあ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17181&name=麻仓ゆあ"
+    }
+  ]
+};

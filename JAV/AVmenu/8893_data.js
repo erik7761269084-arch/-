@@ -1,0 +1,79 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b79ecbfe-72cc-4aa4-95bd-17898c9945eb/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/12/a67115db/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8893,
+  "IDcode": "AEGE-043",
+  "title": "限界突破！深喉奧義破壞 ~ 有賀千里",
+  "publish_date": "2025-01-23",
+  "type": "有码",
+  "company": "AEGEAN",
+  "genres": [
+    "後入",
+    "濕身",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "性虐癖",
+    "吞精",
+    "調教",
+    "深喉",
+    "變態",
+    "ASMR顱内高潮",
+    "臀控",
+    "脚控・戀足癖",
+    "魔鬼系",
+    "中出",
+    "美腿",
+    "OL",
+    "真人秀",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "騎乗位",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "唾液敷面",
+    "美腳",
+    "自慰",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "按摩棒",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "熟女",
+    "插入異物",
+    "打屁股",
+    "女優",
+    "飯店",
+    "殘忍畫面"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/cbce845b-16cc-4a66-ab47-2cf474586a67.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/cbce845b-16cc-4a66-ab47-2cf474586a67.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8893",
+  "actresses": [
+    {
+      "name": "有賀千里",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/2c5d6583-f71f-4c1a-8270-1c83baecc8e4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8893&name=有賀千里"
+    },
+    {
+      "name": "有贺みなほ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8893&name=有贺みなほ"
+    }
+  ]
+};

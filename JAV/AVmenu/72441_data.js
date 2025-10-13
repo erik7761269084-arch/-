@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/04/2dc48aff/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72441,
+  "IDcode": "PIYO-214",
+  "title": "『絶対に俺の子を孕ませてやる！』ガンギマリ眠姦×中出し×レ●プ！2 ’異物挿入編’ 若月もあちゃんのパンティとチェキ付き",
+  "publish_date": "2025-02-20",
+  "type": "有码",
+  "company": "Hiyoko",
+  "genres": [
+    "高中女生",
+    "中出",
+    "无毛",
+    "插入异物",
+    "魔鬼系"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72441",
+  "actresses": []
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220420/9723D13DE2BFD636/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97730,
+  "IDcode": "GETS-066",
+  "title": "衝撃！家から追い出された全裸妻を偶然目撃！超ビビりながら逃げ隠れしているので、後をつけて捕まえたら…",
+  "publish_date": "2018-02-09",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "已婚妇女",
+    "户外"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97730",
+  "actresses": [
+    {
+      "name": "平冈里枝子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=97730&name=平冈里枝子"
+    }
+  ]
+};

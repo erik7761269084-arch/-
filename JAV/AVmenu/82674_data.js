@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2020/05/20/af4ff45c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82674,
+  "IDcode": "HDKA-204",
+  "title": "はだかの家政婦 全裸家政婦紹介所 奏音かのん",
+  "publish_date": "2020-04-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "无毛",
+    "各种职业",
+    "口交",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/432f4cf8fb7bf93e00f3808e3da5c842.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82674",
+  "actresses": [
+    {
+      "name": "奏音花音",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/c6daf4e2-e77c-4cec-96a8-7d1aa4c1e043.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82674&name=奏音花音"
+    }
+  ]
+};

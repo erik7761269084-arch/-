@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/195f38b0-919c-47eb-9ef7-61bec9cac04d/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/23/7305486e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12989,
+  "IDcode": "SAME-120",
+  "title": "記錄了一名中年男子對一名從小看着她長大的美麗女孩進行性侵的多日記錄。~ 小慄美優",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "劇情",
+    "老頭子",
+    "變態",
+    "凌辱",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "口交",
+    "小隻馬",
+    "強姦",
+    "少女",
+    "美少女",
+    "緊縛",
+    "清純",
+    "抹油",
+    "羞恥"
+  ],
+  "description": "SAME-120为ATTACKERS出品,2024年8月6日发行的有碼成人影片由小栗美優出演\n合約終止後，我一直靠打短工維持生計，結果卻成了所謂的地下打工，不知不覺就走向了犯罪。我的地址和名字都被人知道了，我無法逃脫。 ……我受夠了。正當我這麼想的時候，住在附近的小由美剛好過來了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802021028421421.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240802/20240802021028421421.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12989",
+  "actresses": [
+    {
+      "name": "小栗美優",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/126da289-9eed-4b59-a6fc-bb3036543685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12989&name=小栗美優"
+    }
+  ]
+};

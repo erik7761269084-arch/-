@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/803d44b5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95433,
+  "IDcode": "UMD-938",
+  "title": "夫婦交換スワップ温泉旅行 12",
+  "publish_date": "2024-11-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "已婚妇女",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95433",
+  "actresses": [
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95433&name=本真友里"
+    }
+  ]
+};

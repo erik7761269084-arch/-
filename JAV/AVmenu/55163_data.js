@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 55163,
+  "IDcode": "E56684392A6DF37EF4EAFC9A903D1243",
+  "title": "まんチラの诱惑 -金髪ママの濡れた股间に诱われて-",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55163",
+  "actresses": []
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241117/rVx9ybVy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95001,
+  "IDcode": "MCSR-368",
+  "title": "団地妻 密着汗だく汁まみれ 熟女を性獣にするハメ撮りセックス。潮吹き、愛液、連続絶頂に野獣アクメ 昼下がりの淫行",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "第一人称摄影",
+    "潮吹",
+    "业余",
+    "流汗",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95001",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250123/UCrHQRWD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72902,
+  "IDcode": "YMDS-096",
+  "title": "いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 田中なな実が彼女になった日",
+  "publish_date": "2022-06-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "玩具",
+    "口交",
+    "主观视角",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72902",
+  "actresses": []
+};

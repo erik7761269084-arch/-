@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/10/30/15060d28/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80001,
+  "IDcode": "PPPD-970",
+  "title": "拘束した状態で金玉カラッポになるまで性感開発！＜亀頭責め・強●連射・男潮吹き＞骨抜き悶絶射精M性感ヘルス 藤森里穂",
+  "publish_date": "2021-10-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "紧缚",
+    "女上位",
+    "M男",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80001",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80001&name=藤森里穂"
+    }
+  ]
+};

@@ -1,0 +1,72 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/25/e7d41b59/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 2535,
+  "IDcode": "NACT-015",
+  "title": "快感按摩室 噁心大叔絕技讓我上癮了 ~ 小早川怜子",
+  "publish_date": "2025-09-19",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "三十路",
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "超爆乳",
+    "調教",
+    "4K",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "極品美人",
+    "寢取",
+    "誘騙女性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "NACT-015为PLANETPLUS出品,2025年9月19日发行的有碼成人影片由小早川怜子出演\n网上评价火爆的一家按摩店，怜子被那猥琐大叔老板搞得有点慌，但想着首次免费，大不了不爽就走人呗，于是硬着头皮试了试。结果全身被大叔的神技玩弄得酥麻，连肉棒按摩都体验上了！本来心情超差地回家，却发现身体根本忘不了那种快感，简直要命！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919072013148148_86463_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250919/20250919072013148148_86463_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2535",
+  "actresses": [
+    {
+      "name": "小早川怜子",
+      "img_url": "https://picture.yoshiclub.xyz/20230922/7068e510-ab24-4abc-bc7f-e062a7fe9059.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2535&name=小早川怜子"
+    }
+  ]
+};

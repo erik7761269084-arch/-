@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d0c1f8c4-0edc-4b29-8264-dc2d8c0116d8/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/1bbb3b6d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16371,
+  "IDcode": "IPZZ-203",
+  "title": "客人愛上了這個泡泡浴女郎，軟禁後被強奸，除非她同意，否則我不會讓她回家",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "按摩女郎",
+    "凌辱",
+    "魔鬼系",
+    "拘束・拷問",
+    "口交",
+    "強姦",
+    "風俗娘",
+    "性感",
+    "監禁",
+    "美少女",
+    "暗黑系",
+    "緊縛",
+    "手指插入",
+    "猥褻穿著",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "IPZZ-203为IDEA POCKET出品,2024年2月13日发行的有碼成人影片由朝妃莉緒出演\n直到早上都不去店裏親自招待我，我就給你一百萬......等待着我的，是那些被這些話震撼的，是無盡的性服務日子…… “你只是用一張非常漂亮的臉來射精。畢竟，你的身體是最好的。”我被車帶走，關在家裏，每天都被強奸。 “說定了，我喝了你的精液，你也得喝我的精液。”下沼瘋狂的幻想升級，終於讓我穿上了婚紗……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240210/20240210222707131131.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240210/20240210222707131131.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16371",
+  "actresses": [
+    {
+      "name": "朝妃莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/44f9b54f-850f-4fe2-a870-81b2342924b4_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16371&name=朝妃莉緒"
+    }
+  ]
+};

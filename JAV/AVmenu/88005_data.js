@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230903/LkR1aTAX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88005,
+  "IDcode": "DANDY-711",
+  "title": "痴●を断れず濡れてしまう敏感女子○生を何度もつま先立ちバックでイカせまくる",
+  "publish_date": "2020-04-23",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "潮吹",
+    "口交",
+    "巨大阴茎"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230903-1/c5e017fe55a808edaca38af03aa498ef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88005",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88005&name=弥生美月"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/04/12/3e1f4eb3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85723,
+  "IDcode": "NACR-510",
+  "title": "パパ活美少女はちくび責めと全身ペロペロ愛撫が大好物！！ 白桃はな",
+  "publish_date": "2022-02-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "荡妇",
+    "玩具",
+    "口交",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/2693cae6421591ea15bc0ba03d72c240.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85723",
+  "actresses": [
+    {
+      "name": "白桃はな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85723&name=白桃はな"
+    }
+  ]
+};

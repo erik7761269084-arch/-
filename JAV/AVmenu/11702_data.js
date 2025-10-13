@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c330c5f4-7fc9-4d01-b97e-9012af9aa6fe/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11702,
+  "IDcode": "KNMB-085",
+  "title": "G罩杯巨胸M系半業餘美女優 ~ 皐月ゆら",
+  "publish_date": "2024-09-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "素人",
+    "騎乗位",
+    "白絲",
+    "少女",
+    "美腳",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240927/dfb88a63-cd26-4715-81b1-47fe44fcb650.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240927/dfb88a63-cd26-4715-81b1-47fe44fcb650.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11702",
+  "actresses": [
+    {
+      "name": "皐月ゆら",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/a16b2ca9-d1b8-4e14-bfd7-afeb4c385a0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11702&name=皐月ゆら"
+    }
+  ]
+};

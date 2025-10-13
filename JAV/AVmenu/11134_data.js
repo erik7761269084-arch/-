@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/63f46b99-c1b8-4b34-91c5-196956b2386e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/11/068cd29f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11134,
+  "IDcode": "HDKA-310",
+  "title": "裸體家政婦 - 全裸家政婦介紹社 ~ 早川瑞希",
+  "publish_date": "2024-10-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "家政婦",
+    "局部特寫",
+    "蠻橫嬌羞",
+    "性感",
+    "巨乳",
+    "戀物癖",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241020/8a5b83ed-540c-43aa-bb37-ed5c153eed10.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241020/8a5b83ed-540c-43aa-bb37-ed5c153eed10.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11134",
+  "actresses": [
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11134&name=若宮葉月"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11134&name=若宫はずき"
+    }
+  ]
+};

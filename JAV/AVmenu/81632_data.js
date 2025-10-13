@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/07/71744aaa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81632,
+  "IDcode": "ECB-129",
+  "title": "君が、乳首でイケますように あべみかこ",
+  "publish_date": "2020-01-31",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "荡妇",
+    "M男",
+    "平胸",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81632",
+  "actresses": [
+    {
+      "name": "安部未華子",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d5c81943-31ee-4b1c-bfe6-a9fa65e603ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81632&name=安部未華子"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81632&name=玉木玲"
+    }
+  ]
+};

@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/09/f5a1225e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82662,
+  "IDcode": "HND-601",
+  "title": "時間停止能力少女 周囲の時間を止めて好きな男子と1対1で絡み合う濃密中出し性交 神宮寺ナオ",
+  "publish_date": "2018-11-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "中出",
+    "荡妇",
+    "数位马赛克",
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82662",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82662&name=神宫寺奈绪"
+    }
+  ]
+};

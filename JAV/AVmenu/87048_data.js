@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230709/5rTQpW7u/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87048,
+  "IDcode": "NXG-428",
+  "title": "個人撮影 イチャラブコレクション（2）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "口交",
+    "业余",
+    "角色扮演者",
+    "情侣",
+    "蛮横娇羞"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87048",
+  "actresses": []
+};

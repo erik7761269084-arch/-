@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220523/35E59B04201586EB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64311,
+  "IDcode": "3DEB27DB55776630C1FFA626B84FDAA-0",
+  "title": "Hcup高级内衣贩卖员的诱惑贩售术 中野七绪",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64311",
+  "actresses": []
+};

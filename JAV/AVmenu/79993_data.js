@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/s64Z8AE1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79993,
+  "IDcode": "MXGS-1208",
+  "title": "素人初撮りドキュメント・渚 青果売り場で働きながらはじめてのAV出演 広瀬渚",
+  "publish_date": "2021-11-16",
+  "type": "有码",
+  "company": "GOGOS",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79993",
+  "actresses": []
+};

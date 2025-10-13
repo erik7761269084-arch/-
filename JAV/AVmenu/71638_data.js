@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/S4OfElSO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71638,
+  "IDcode": "BLK-385",
+  "title": "メンズに跨り腰をぐりんぐりんにかき回すトルネード騎乗位ビッチ黒ギャルAVデビュー！！",
+  "publish_date": "2018-11-19",
+  "type": "有码",
+  "company": "KIRAKIRA",
+  "genres": [
+    "女上位",
+    "荡妇",
+    "女生",
+    "口交",
+    "晒黑"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250222-1/1863a2591d7e2eb5f47bb689c1da54f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71638",
+  "actresses": []
+};

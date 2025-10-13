@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e3f06857-580a-44ee-81d7-6f6cd5379b45/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16881,
+  "IDcode": "FSDSS-731",
+  "title": "AI女友山光凜",
+  "publish_date": "2024-02-08",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "劇情",
+    "中出",
+    "形象俱樂部",
+    "口交",
+    "性感",
+    "美少女",
+    "奇聞趣事",
+    "明星臉",
+    "特效",
+    "奇異的",
+    "女機器人"
+  ],
+  "description": "FSDSS-731为FALENO出品,2024年2月8日发行的有碼成人影片由八蜜凛出演\n純吉與配備AI（人工智能）的機器人八蜜凜一起過着夢想的生活。他將她訓練成他喜歡的女人，並將她變成他的理想情人，但八蜜凜實際上是一個與純吉暗戀的女人非常相似的人工智能。多虧了八蜜凜，還是處男的純吉學會了如何與女人相處，終於能得到單戀女友……不知不覺間，八蜜凜開始對他產生感情.“艾什特瑪蘇，再見”",
+  "cover_url": "https://picture.yoshiclub.xyz/20240107/20240107033016524524.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240107/20240107033016524524.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16881",
+  "actresses": [
+    {
+      "name": "八蜜凛",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/262e7dfd-cd6f-4642-aca7-8c8ceb5429ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16881&name=八蜜凛"
+    }
+  ]
+};

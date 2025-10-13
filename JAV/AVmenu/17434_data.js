@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/25784b65-2565-424f-8ef6-8a5af73db8f3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17434,
+  "IDcode": "IKUNA-001",
+  "title": "浜崎真緒 VS 乙愛麗絲 性感界高潮對決 潮噴警告 女王的頂級對決 誰是最好的潮噴女王?",
+  "publish_date": "2023-12-01",
+  "type": "有码",
+  "company": "BOTAN",
+  "genres": [
+    "素人作品",
+    "企畫",
+    "中出",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "潮吹",
+    "口交",
+    "女王",
+    "性感",
+    "綜藝",
+    "女優",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231203/6aeca59c-d697-40c1-9034-1d657adc220f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231203/6aeca59c-d697-40c1-9034-1d657adc220f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17434",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17434&name=乙愛麗絲"
+    },
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17434&name=浜崎真緒"
+    }
+  ]
+};

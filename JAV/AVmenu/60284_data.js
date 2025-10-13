@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/29/4d6ae24f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60284,
+  "IDcode": "AKDLD-322",
+  "title": "超密着！股間が顔に当たるメンズエステ 顔でクリを刺激してたらそのまま顔面放尿そしてSEX",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "AKNR",
+  "genres": [
+    "吞精",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/29/4d6ae24f/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60284",
+  "actresses": [
+    {
+      "name": "天馬唯",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/76a01138-1f1d-459f-a7db-d3d2aaf57127.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60284&name=天馬唯"
+    },
+    {
+      "name": "松井日奈子",
+      "img_url": "https://picture.yoshiclub.xyz/20240503/b8e25cbd-b515-461e-9032-2c7cdc07dc01.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60284&name=松井日奈子"
+    },
+    {
+      "name": "那賀崎雪音",
+      "img_url": "https://picture.yoshiclub.xyz/20240419/87ab423c-c619-4ccd-ae2f-88fcabc03bc9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60284&name=那賀崎雪音"
+    }
+  ]
+};

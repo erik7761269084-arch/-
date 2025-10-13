@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230115/3E23248F44F40904/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103038,
+  "IDcode": "DOCP-119",
+  "title": "「見ないで…おしっこ漏れちゃう…」変態塾講師に利尿剤＆媚薬を盛られ和式便所で大量失禁快感に耐え切れず連続絶頂する足腰ガクブル制服女子",
+  "publish_date": "2019-01-04",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "放尿",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103038",
+  "actresses": [
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103038&name=阿部乃美久"
+    },
+    {
+      "name": "有栖露露",
+      "img_url": "https://picture.yoshiclub.xyz/20230405/500e99ba-5d9f-4dc2-8f95-5db149da940c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103038&name=有栖露露"
+    },
+    {
+      "name": "宫崎彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/5391bf25-c850-4c23-8f3b-e8947519f2bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103038&name=宫崎彩"
+    },
+    {
+      "name": "爱瀬るか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103038&name=爱瀬るか"
+    }
+  ]
+};

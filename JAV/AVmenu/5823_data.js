@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6f9fb1f7-92c5-41b5-a211-784de81bef6b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/18/f3bde11c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5823,
+  "IDcode": "SCPX-528",
+  "title": "想當內衣模特的媽媽給兒子們的致命誘惑，忍不住直接中出 ~ 澤乃明日香 城咲京花 上田紗奈",
+  "publish_date": "2025-05-24",
+  "type": "有码",
+  "company": "SCOOP",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "網襪",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "重口味",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "母子",
+    "美人",
+    "母親",
+    "熟女",
+    "大奶头",
+    "亂倫"
+  ],
+  "description": "SCPX-528为SCOOP出品,2025年5月24日发行的有碼成人影片由上田紗奈，澤乃明日香，城咲京花出演\n為啥媽媽穿著這麼性感的內衣在我房間晃悠啊？明知道我在用色咪咪的眼神盯著她看…我猜媽媽絕對是在勾引我吧！想著想著就硬了…忍不住貼上媽媽的翹臀，聽到她那撩人的喘息聲…我心想，媽媽這是默許了吧？結果她直接握住我的傢伙，貼著我耳朵低語：用這個想對媽媽幹啥呢？那聲音，簡直要命！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010929350350_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010929350350_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5823",
+  "actresses": [
+    {
+      "name": "上田紗奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231219/6f071616-6cec-4a49-a27a-e9d5078d06ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5823&name=上田紗奈"
+    },
+    {
+      "name": "澤乃明日香",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250525/4bcc4468-a959-47cc-87ac-af12dbd39515_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5823&name=澤乃明日香"
+    },
+    {
+      "name": "城咲京花",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250525/daefc02b-b1b4-440d-acb9-a9eabf81eb97_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5823&name=城咲京花"
+    }
+  ]
+};

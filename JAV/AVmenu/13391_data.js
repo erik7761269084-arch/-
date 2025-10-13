@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/69888964-0bab-41bd-9725-480606f3da23/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/16/b911b72d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13391,
+  "IDcode": "MIAB-259",
+  "title": "勃起不全的M男患者有福了，會用美腳和乳頭，不斷用騷話挑逗診病的癡女醫師的改善射精20發治療 ~ 森日向子",
+  "publish_date": "2024-07-16",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "舔腳",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "女醫生",
+    "美腳",
+    "過膝襪・小腿襪",
+    "足交",
+    "醫生製服",
+    "看病・住院",
+    "M男・M女",
+    "美少女電影"
+  ],
+  "description": "MIAB-259为MOODYZ出品,2024年7月16日发行的有碼成人影片由森日向子出演\n這是一間由美麗女醫生開辦的診所，刺激勃起功能障礙患者的五種感官，恢復他們的自信和勃起強度……今天又來了一位對自己陰莖失去信心的患者……``你怎麼樣？他被用令人不快的敬語進行檢查，並被要求聞她的陰部，然後完全勃起。當病人做了一點手交後射精時，他會說：「為什麼未經允許就放出來？我不是說過你需要耐心才能改善勃起嗎？」他熟練地讓病人再次勃起。讓他射精以追求由變態蕩婦醫生經營的勃起改善診所...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712004835467467.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240712/20240712004835467467.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13391",
+  "actresses": [
+    {
+      "name": "森日向子",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/1479e77f-0c42-4f8c-afbd-3bdcd2d2e329.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13391&name=森日向子"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13391&name=Qべぇ"
+    }
+  ]
+};

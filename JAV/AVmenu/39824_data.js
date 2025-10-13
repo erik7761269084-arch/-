@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220905/BB638343DB2D026F/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39824,
+  "IDcode": "8B21820638745FC5C54EE70D03D52E5C",
+  "title": "拘束性爱让素人娘高潮！羽田洋子",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39824",
+  "actresses": []
+};

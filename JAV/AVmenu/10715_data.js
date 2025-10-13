@@ -1,0 +1,53 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/36648f07-f06f-439c-b974-74421560cc8f/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/10/04/aadcde08/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10715,
+  "IDcode": "GARA-004",
+  "title": "丈夫欠了高利貸而被黑社會3P凌辱輪奸若妻的慘烈絕叫 ~ 本田瞳",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "GLOBAL MEDIA ANNEX",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "凌辱",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "輪姦",
+    "明星臉",
+    "美人妻",
+    "黑幫",
+    "人妻",
+    "巨乳",
+    "欠債肉償",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241110/c2e1caca-3771-45d2-b918-86ca628d58f4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241110/c2e1caca-3771-45d2-b918-86ca628d58f4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10715",
+  "actresses": [
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10715&name=本田瞳"
+    }
+  ]
+};

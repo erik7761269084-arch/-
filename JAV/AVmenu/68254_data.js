@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250412/h35ZqPkl/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68254,
+  "IDcode": "MDBK-251",
+  "title": "ささやき淫語で男性を確実に昇天させる絶品中出しチャイナエステ5",
+  "publish_date": "2022-07-12",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "苗条",
+    "美容院"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250413-1/03f0886335d7b94d2100def28d21f066.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68254",
+  "actresses": [
+    {
+      "name": "高瀬りな",
+      "img_url": "https://picture.yoshiclub.xyz/20240402/bec08c78-e6cb-468c-82b2-af743722ec95.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68254&name=高瀬りな"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68254&name=浜崎真绪"
+    },
+    {
+      "name": "朝比奈かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68254&name=朝比奈かれん"
+    }
+  ]
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/oK6u7LTv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83199,
+  "IDcode": "PKPD-077",
+  "title": "円女交際 中出しoK18歳むっつり潮吹き陰キャ娘 水木舞香",
+  "publish_date": "2020-02-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "高中女生",
+    "中出",
+    "第一人称摄影",
+    "水手服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83199",
+  "actresses": [
+    {
+      "name": "水木舞香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83199&name=水木舞香"
+    }
+  ]
+};

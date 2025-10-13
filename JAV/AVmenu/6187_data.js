@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a28e446f-a52c-4cf8-ac37-161fa23dde5b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6187,
+  "IDcode": "OFJE-511",
+  "title": "世界級美人 楓富愛 三年來全33部作品 16小時超長大大合集 ~ 楓富愛",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "女僕",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "巨尻",
+    "4K",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "4小時以上作品",
+    "姐姐・妹妹",
+    "女神",
+    "性感",
+    "高妹",
+    "美腳",
+    "女僕制服",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "出軌",
+    "真實拍攝",
+    "精選綜合",
+    "紀錄片",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "OFJE-511为S1出品,2025年5月9日发行的有碼成人影片由楓富愛出演\n不論男女都瘋狂迷戀的絕世美顏，身材纖細腿長到爆，性格還溫柔得不行！這種三全其美的極品美女楓富愛，簡直是S1的頂流代表！從出道到最新作品，33部片子全收錄，超大份量精選集來啦！長相完全不輸K-POP偶像，卻在鏡頭前露出超淫蕩的表情高潮不斷；身材好到能去走T台，扭腰擺臀到整個人快壞掉，絕對是令和AV的巔峰之作！劇情片、絕頂玩法、真實紀錄，16小時全涵蓋這位頂級美女楓富愛的三年歷程！想體驗最正的御姊風範，趕快來感受一下吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080657232323_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/202505080657232323_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6187",
+  "actresses": [
+    {
+      "name": "楓富愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231022/de79db28-576f-4deb-bbdb-bd3f10cd80de.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6187&name=楓富愛"
+    }
+  ]
+};

@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c3763b2-54ea-421b-ba03-d94ee65c5d6f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4021,
+  "IDcode": "FNS-058",
+  "title": "早漏雞巴被榨幹到腿軟！M男專屬連續射精風俗按摩店 ~ 山下紗和",
+  "publish_date": "2025-07-30",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "少女",
+    "接吻",
+    "口爆",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "拜金女",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "阪道系",
+    "極品美人"
+  ],
+  "description": "FNS-058为FALENO出品,2025年7月30日发行的有碼成人影片由山下紗和出演\n我們這間店可不是一般的按摩店，專為M男設計，帶點小虐的玩法保證讓你爽到停不下來！不管你能射幾次，時間內小姐姐絕不放過你，慢節奏挑逗、直接用小穴服務，榨到你蛋蛋空空為止！全身抹滿油，乳頭和小老弟都被玩得滑不溜丟，滿嘴口水的口活直接讓你爆在嘴裡，還沒喘過氣，小姐姐就用濕到不行的風俗小穴把你最後一滴都榨乾，爽到靈魂出竅啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250730/20250730010658535535_77335_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250730/20250730010658535535_77335_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4021",
+  "actresses": [
+    {
+      "name": "山下紗和",
+      "img_url": "https://picture.yoshiclub.xyz/20241001/e467ae6d-bdfc-4cab-9be7-c029825e5016.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4021&name=山下紗和"
+    }
+  ]
+};

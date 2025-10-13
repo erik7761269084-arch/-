@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/01/66b34188/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86715,
+  "IDcode": "ABW-076",
+  "title": "青春 與制服美少女完全主觀渡過性春3性愛。 ＃04  涼森玲夢",
+  "publish_date": "2021-04-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "主观视角",
+    "美少女电影",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/b29d3d21dd803b16671b88775cc227d5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86715",
+  "actresses": [
+    {
+      "name": "凉森玲梦",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86715&name=凉森玲梦"
+    }
+  ]
+};

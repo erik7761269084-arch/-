@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/25/b6e0839c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81184,
+  "IDcode": "MIDV-073",
+  "title": "妹の性欲モンスター彼氏に恥ずかしいほどイカされまくったワタシ… 葵いぶき",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "潮吹",
+    "拘束",
+    "美少女电影",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81184",
+  "actresses": [
+    {
+      "name": "葵伊吹",
+      "img_url": "https://picture.yoshiclub.xyz/20230912/8861a44f-d827-4752-9c81-ce061753962c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81184&name=葵伊吹"
+    }
+  ]
+};

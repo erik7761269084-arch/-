@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250125/xdijjQjY/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62498,
+  "IDcode": "PGD-736",
+  "title": "誘惑女教師～癡女緊身裙編～ 里美尤莉亞",
+  "publish_date": "2014-12-07",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "荡妇",
+    "数位马赛克",
+    "女教师",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62498",
+  "actresses": [
+    {
+      "name": "小泉彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/93095cbe-aaed-41b4-b002-6d18e5a3aec5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62498&name=小泉彩"
+    }
+  ]
+};

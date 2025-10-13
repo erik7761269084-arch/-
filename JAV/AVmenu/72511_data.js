@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250128/VKHQt3OI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72511,
+  "IDcode": "SORA-300",
+  "title": "フェラ友ごっくん一泊二日デート 蘭々",
+  "publish_date": "2021-03-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "4小时以上作品",
+    "第一人称摄影",
+    "户外",
+    "口交",
+    "吞精"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72511",
+  "actresses": [
+    {
+      "name": "蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/1e909892-ae6e-49c4-9dd1-4ce5ccfa501b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72511&name=蘭々"
+    }
+  ]
+};

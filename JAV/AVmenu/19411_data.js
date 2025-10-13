@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230513/a157239d-e8b3-4ff3-8f10-3ae17fc63d52/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19411,
+  "IDcode": "IPX-025",
+  "title": "禁閉與訓練結束…陷入受虐狂的美少女",
+  "publish_date": "2017-10-01",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "大小姐",
+    "調教",
+    "深喉",
+    "潮吹",
+    "數位馬賽克",
+    "放尿"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230513/20230513104212319319.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230513/20230513104212319319.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19411",
+  "actresses": [
+    {
+      "name": "織笠るみ",
+      "img_url": "https://picture.yoshiclub.xyz/20230514/756dac77-2635-4bac-9a25-a9d2ce5632ae.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19411&name=織笠るみ"
+    }
+  ]
+};

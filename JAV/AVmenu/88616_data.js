@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/24/added17f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88616,
+  "IDcode": "DVDMS-886",
+  "title": "魔鏡號×東條夏粉絲感謝祭企劃！能忍耐東條夏高超技巧15分鐘就有褒獎的無套中出開苞破處！！",
+  "publish_date": "2022-11-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "处男",
+    "感谢祭",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88616",
+  "actresses": [
+    {
+      "name": "東條夏",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/45a08ac2-0f9e-44a7-b25c-579f2135ec0d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88616&name=東條夏"
+    }
+  ]
+};

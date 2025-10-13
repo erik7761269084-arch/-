@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/19bf7ef9-4413-49bd-b48f-faee57f7a5b3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 814,
+  "IDcode": "HEYZO-1007",
+  "title": "為了還貸款瞞著老公下海拍片 - 三倉紗帆",
+  "publish_date": "2015-11-17",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "企畫",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "女上位",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "打手槍",
+    "AV拍攝現場",
+    "惡搞",
+    "人妻",
+    "出軌",
+    "女優"
+  ],
+  "description": "HEYZO-1007为HEYZO出品,2015年11月17日发行的無碼成人影片由三倉紗帆出演\n為了還貸款瞞著老公下海拍片 - 三倉紗帆",
+  "cover_url": "https://picture.yoshiclub.xyz/20240611/202406112333168383.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240611/202406112333168383.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=814",
+  "actresses": [
+    {
+      "name": "三倉紗帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240417/476f2ac9-c537-4561-86d2-ad6c4962d652.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=814&name=三倉紗帆"
+    }
+  ]
+};

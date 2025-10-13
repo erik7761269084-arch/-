@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250130/zHMrPn3C/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57954,
+  "IDcode": "HEYZO-2115",
+  "title": "ゆさのおっぱいで気持ちよくしてアゲル！ - 美波ゆさ",
+  "publish_date": "2019-10-22",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "萝莉",
+    "知名女优",
+    "立即口交",
+    "打手枪",
+    "背后插入",
+    "骑乘位",
+    "乳交",
+    "巨乳爆乳",
+    "颜射",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/21c59fbdb1417d4beaf5734c91d69d5d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57954",
+  "actresses": []
+};

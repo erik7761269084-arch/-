@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/feaf0243-d695-41c1-8bb9-d02be7f801a0/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/26/3ae0c028/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7729,
+  "IDcode": "JUR-234",
+  "title": "本來只是想逗逗他…… 我卻迷上了兒子朋友的乳首高潮按摩 ~ 風間由美",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "深喉",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "重口味",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "口爆",
+    "按摩・美容店",
+    "巨乳",
+    "熟女",
+    "儿子的朋友",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "JUR-234为MADONNA出品,2025年3月11日发行的有碼成人影片由風間由美出演\n「一開始，我只是開玩笑地讓他摸我的胸部…」 Yumi 來到一家按摩院，以緩解她的慢性肩痛，在那裡她與她兒子的同學 Tetsuya 重逢。因為他的按摩技術太好了，我開始把他當成小孩子，調皮地讓他也按摩我的胸部...哲也被 Yumi 豐滿的身體所激起性慾，無法抗拒，不斷地刺激她的乳頭，讓她一次又一次地達到高潮。尤美興奮不已，無法忘記那次貫穿全身的意外高潮，於是她再次呼喚他…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123432208208.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305123432208208.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7729",
+  "actresses": [
+    {
+      "name": "風間由美",
+      "img_url": "https://picture.yoshiclub.xyz/20240122/f40884f4-27dd-456d-acc4-bd9a73f0a2b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7729&name=風間由美"
+    }
+  ]
+};

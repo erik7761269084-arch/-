@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 100389,
+  "IDcode": "230ORECO145",
+  "title": "用金錢打破妹子道德底線 最後被快感沖昏頭腦越來越淫蕩",
+  "publish_date": "",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100389",
+  "actresses": []
+};

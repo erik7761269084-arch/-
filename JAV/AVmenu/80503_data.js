@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/Ylyyq5Z9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80503,
+  "IDcode": "300MIUM-779",
+  "title": "[HD] 瞳キラキラ美少女の正体はあざとさを极めたロリビッチ！！颜でヌケる保証のアイドルルック&amp;声、体、仕草どこをとっても最高★旅ロケ中もキュンが止まりませんww毎日オナニーで発达しすぎた敏感ボディはイケばイクほど更に敏感になり…最后は润んだ瞳で「すっごく気持ち良いから中にだしてほしぃ♪︎」：今日、会社サボりませんか？47in渋谷",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80503",
+  "actresses": []
+};

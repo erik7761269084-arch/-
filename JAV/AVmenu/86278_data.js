@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/31/e737030d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86278,
+  "IDcode": "SSIS-397",
+  "title": "1ヶ月間も2人きりで禁欲同棲した男女の人生史上最高に快感極まる1対1濃密交尾ドキュメント 七ツ森りり 生写真3枚付き",
+  "publish_date": "2022-05-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "女上位",
+    "薄马赛克",
+    "纪录片",
+    "接吻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230205-1/e62b8d221298e83e927647fc07330231.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86278",
+  "actresses": [
+    {
+      "name": "七森莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230819/2199c99b-1dc3-47f9-bb93-14388f02dc17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86278&name=七森莉莉"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86278&name=小田切ジュン"
+    }
+  ]
+};

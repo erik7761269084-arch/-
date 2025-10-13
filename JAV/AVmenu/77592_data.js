@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/09/c2312c96/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77592,
+  "IDcode": "SSIS-667",
+  "title": "滴る汁、痙攣する敏感ボディが超鮮明4K撮影 イッても抜かない絶撃ピストン 汗・潮・涎 失神寸前の過去最高ガチアクメ 七ツ森りり （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-04-11",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "多P",
+    "潮吹",
+    "薄马赛克",
+    "流汗",
+    "子宫颈",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/09/1510a8e66210275a520232e05e39f29d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77592",
+  "actresses": [
+    {
+      "name": "七森莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230819/2199c99b-1dc3-47f9-bb93-14388f02dc17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77592&name=七森莉莉"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77592&name=イセドン内村"
+    }
+  ]
+};

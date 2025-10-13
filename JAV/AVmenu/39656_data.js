@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 39656,
+  "IDcode": "BEF128F5EA09D23F577DEA2CF75BF930",
+  "title": "很享受~全场都是闭着眼",
+  "publish_date": "",
+  "type": "无码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39656",
+  "actresses": []
+};

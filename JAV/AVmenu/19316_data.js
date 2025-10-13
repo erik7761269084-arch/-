@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b90c097b-5aeb-459d-9e8c-7b23a67838d1/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/20/fdd689b2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19316,
+  "IDcode": "IPX-134",
+  "title": "G奶讓患者勃起！求幹就給肏純情護士 櫻空桃",
+  "publish_date": "2018-05-31",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "乳交",
+    "美乳",
+    "打手槍",
+    "數位馬賽克",
+    "巨乳",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230601/20230601222453951951.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230601/20230601222453951951.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19316",
+  "actresses": [
+    {
+      "name": "桜空桃",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/209c51b6-8c90-4ed6-886d-c803d9798a35.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19316&name=桜空桃"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19316&name=イセドン内村"
+    },
+    {
+      "name": "しみけん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19316&name=しみけん"
+    }
+  ]
+};

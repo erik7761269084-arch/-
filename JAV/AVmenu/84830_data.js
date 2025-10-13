@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/JQRUzVzB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84830,
+  "IDcode": "HUNBL-074",
+  "title": "私、どこまでできるんだろう…喉奥の限界に挑戦する女たち",
+  "publish_date": "2021-12-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "深喉",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84830",
+  "actresses": [
+    {
+      "name": "笠木いちか",
+      "img_url": "https://picture.yoshiclub.xyz/20240629/f1a7c593-bdf9-4894-a25e-83febbbc5114.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84830&name=笠木いちか"
+    }
+  ]
+};

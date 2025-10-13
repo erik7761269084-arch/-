@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/10/d0380ba0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100466,
+  "IDcode": "JUQ-267",
+  "title": "人妻キメセク中出し 同窓会で媚薬を仕込まれた果てに…日常を一変させる痙攣絶頂の日々― 夏川あゆみ",
+  "publish_date": "2023-04-25",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "药物",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/05/10/9aab21012607bd3f4c55c52bb2d6a5d7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100466",
+  "actresses": [
+    {
+      "name": "夏川步美",
+      "img_url": "https://picture.yoshiclub.xyz/20231112/d6df3d65-cd6d-4ced-940a-092c79ef8afb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100466&name=夏川步美"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 57359,
+  "IDcode": "B6A50F0B284A3539B4E108FF6DEDCCF6",
+  "title": "各种口味",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57359",
+  "actresses": []
+};

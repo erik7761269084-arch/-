@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/277ad9d7-40d5-409d-adae-ab0374863e67/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/30/5a912501/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6870,
+  "IDcode": "HMN-688",
+  "title": "極樂責罰擼管快感！性感姐姐俯視羞辱，邊謝罪邊射爆無套福利 ~ 五日市芽依",
+  "publish_date": "2025-04-15",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "高顏值",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "健身房",
+    "游戲COSPLAY",
+    "色白",
+    "健身教練",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "感官作品",
+    "口交",
+    "自宅",
+    "運動服裝",
+    "騎乗位",
+    "女神",
+    "性感",
+    "體操服裝",
+    "主觀視角",
+    "慾求不滿",
+    "美腳",
+    "明星臉",
+    "御姐系",
+    "癡女",
+    "巨乳",
+    "M男・M女",
+    "美人",
+    "學校",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "女優"
+  ],
+  "description": "HMN-688为本中出品,2025年4月15日发行的有碼成人影片由五日市芽依出演\n「我想在梅醬責罵我的時候自慰！」≫五日市 芽衣責罵我的五種情況！ ！ ASMR×JOI×主觀鏡頭，你會永遠盯著我看！美醬看不起你，有時會溫柔地責罵你，有時會嚴厲地責罵你——「對不起，我是個變態，」當你道歉時，她會這樣說，當你手淫時，她會凝視著她的眼睛！如果你能正確地說“對不起”，你可能會得到一個原始的奶油餡餅作為獎勵！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412023313146146.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250412/20250412023313146146.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6870",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6870&name=五日市芽依"
+    }
+  ]
+};

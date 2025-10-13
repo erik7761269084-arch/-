@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56132,
+  "IDcode": "5A5476537583150CA1FB1ABB56DDE4E5",
+  "title": "初试娇羞素人",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56132",
+  "actresses": []
+};

@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/Md7SYWEQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78407,
+  "IDcode": "MDBK-074",
+  "title": "超接写！乳首で何度もイキまくるアルティメットおっぱいVol.2",
+  "publish_date": "2019-12-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "乳交",
+    "姐姐",
+    "内衣",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/33c6f4dd7f4ebb6f29bbbc4a13f73cfe.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78407",
+  "actresses": [
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78407&name=蓮実クレア"
+    },
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78407&name=浜崎真绪"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78407&name=稻场流花"
+    },
+    {
+      "name": "石原理央",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78407&name=石原理央"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231005/7RbOi6Uk/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88348,
+  "IDcode": "INCT-032",
+  "title": "パイパン巨乳女子○生はオナペット ゆうり18歳 深田結梨",
+  "publish_date": "2019-01-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "美少女",
+    "巨乳",
+    "中出",
+    "无毛"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88348",
+  "actresses": [
+    {
+      "name": "浅田结梨",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=88348&name=浅田结梨"
+    }
+  ]
+};

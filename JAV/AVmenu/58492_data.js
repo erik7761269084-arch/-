@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58492,
+  "IDcode": "6a22f8d52b756be6ce62a068538d18a4",
+  "title": "18岁女大生酮体的诱惑",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58492",
+  "actresses": []
+};

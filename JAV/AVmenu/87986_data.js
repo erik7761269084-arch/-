@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230901/4Q5U6TJU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87986,
+  "IDcode": "ABP-614",
+  "title": "天然成分由来 ひなた澪汁 120％ 45",
+  "publish_date": "2017-07-14",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "颜射",
+    "潮吹",
+    "口交",
+    "肛交",
+    "流汗"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/9da9494090fb5044ff510c9bc6ec1df1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87986",
+  "actresses": [
+    {
+      "name": "日向澪",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250623/f82b72a5-0d1e-43cf-afd3-ed571d592b55_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87986&name=日向澪"
+    }
+  ]
+};

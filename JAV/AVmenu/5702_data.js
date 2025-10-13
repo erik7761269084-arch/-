@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/32279c64-1587-4842-b2c5-4f5bd3e4e868/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/02/4ad6785c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5702,
+  "IDcode": "WAAA-528",
+  "title": "絲襪美腿誘惑，甜系抖S榨汁狂潮 ~ 五日市芽依",
+  "publish_date": "2025-05-30",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "女教師",
+    "高顏值",
+    "故事集",
+    "劇情",
+    "舔腳",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "女神",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "單體作品",
+    "明星臉",
+    "更衣室",
+    "癡女",
+    "手指插入",
+    "足交",
+    "美人",
+    "學校",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "WAAA-528为WANZ FACTORY出品,2025年5月30日发行的有碼成人影片由五日市芽依出演\n【絲襪美腿殺傷力MAX×甜系抖S女教師！】光滑絲襪美腳挑逗抖M小弟弟，欲拒還迎的寸止play，俯視視角滿滿羞辱感！還有那色氣爆棚的蟹腿式足交、龜頭揉捏、腳趾挑逗，簡直是痴女的終極玩法！再來個大開腿秀身材，樁式猛插一邊幹一邊用腳尖玩弄乳頭，蟹夾式高潮鎖死，惡魔系性感美腳直接帶你爽到升天，中出狂飆根本停不下來！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170216940940_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170216940940_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5702",
+  "actresses": [
+    {
+      "name": "五日市芽依",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/9727efeb-e2cf-4f7f-9a40-0582aebb204e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5702&name=五日市芽依"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5702&name=ニック"
+    }
+  ]
+};

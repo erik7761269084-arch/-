@@ -1,0 +1,89 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87b9ae50-d4c5-45db-b74e-8bc31c216770/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/19/b71d9841/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10469,
+  "IDcode": "HMN-631",
+  "title": "深夜航班 大奶 大屁股 女空乘的跨坐後宮中出之旅 ~ 有岡みう 田中寧寧 美園和花",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "一男多女",
+    "性感",
+    "主觀視角",
+    "慾求不滿",
+    "多P",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "巨乳",
+    "公共場所",
+    "足交",
+    "空姐",
+    "M男・M女",
+    "綠茶婊",
+    "短髮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "HMN-631为本中出品,2024年11月26日发行的有碼成人影片由美園和花，田中寧寧，有岡みう出演\n與喜歡雞巴的變態CA一起起飛的深夜中出航班！屁股之間…時時刻刻親密接觸！被發現的感覺是無法抗拒的！ ！ 「飛機會很髒，所以請在我體內射精。」精液一次又一次地被擠出！出！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/202411220058036060.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/202411220058036060.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10469",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10469&name=美園和花"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10469&name=田中寧寧"
+    },
+    {
+      "name": "有岡みう",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/6efd37dd-2979-4990-9883-a8dfac53bb88.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10469&name=有岡みう"
+    },
+    {
+      "name": "椎叶みくる",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10469&name=椎叶みくる"
+    },
+    {
+      "name": "アリト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10469&name=アリト"
+    }
+  ]
+};

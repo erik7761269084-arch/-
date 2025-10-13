@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ba63b17f-2547-47e1-b54b-3fc9b9ef3b0e/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/04/c46d2a0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4077,
+  "IDcode": "HONB-439",
+  "title": "初次拍攝 神秘刺青妹子露臉登場",
+  "publish_date": "2025-07-27",
+  "type": "有码",
+  "company": "MERCURY",
+  "genres": [
+    "後入",
+    "企畫",
+    "絕頂高潮",
+    "變態",
+    "色白",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "刺青紋身",
+    "口交",
+    "小隻馬",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "地雷系",
+    "奇聞趣事",
+    "情趣內衣",
+    "癡女",
+    "手指插入",
+    "美人",
+    "真實拍攝",
+    "辣妹/GAL系",
+    "短髮",
+    "野性",
+    "無毛",
+    "戀物癖",
+    "飯店"
+  ],
+  "description": "HONB-439为MERCURY出品,2025年7月27日发行的有碼成人影片\n这妹子身上纹身超有故事，首次拍摄青涩又带劲！别看她外表改造感十足，下面和内心还是纯纯的人类，超带感！2025年绝对值得一看的硬货，冲就完事儿了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/202507262236168585_36977_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250726/202507262236168585_36977_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4077",
+  "actresses": []
+};

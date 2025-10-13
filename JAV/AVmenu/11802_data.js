@@ -1,0 +1,58 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/79f58aa8-4e2d-410c-9e6d-d9e083d8253b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/19/12a257a0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11802,
+  "IDcode": "MKMP-578",
+  "title": "美麗善良的女老師的真面目其實是一個蕩婦，喜歡將學校裏的男人訓練成M男 ~ 尾崎惠裏香",
+  "publish_date": "2024-09-24",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "苗條",
+    "後入",
+    "女教師",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "形象俱樂部",
+    "網襪",
+    "女上位",
+    "口交",
+    "女王",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美腳",
+    "更衣室",
+    "情趣內衣",
+    "艷遇",
+    "校園生活",
+    "高跟鞋",
+    "猥褻穿著",
+    "M男・M女",
+    "學校",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240921/a92c8152-8ab1-48a8-a169-a9bbe30124c5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240921/a92c8152-8ab1-48a8-a169-a9bbe30124c5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11802",
+  "actresses": [
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11802&name=尾崎惠梨香"
+    }
+  ]
+};

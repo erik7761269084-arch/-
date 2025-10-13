@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/oTnSc7IX/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83102,
+  "IDcode": "MDBK-076",
+  "title": "可愛くて優等生の女子校生たちから中出しSEXをせがまれて困っている僕。4時間フルコンプリートベスト",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "4小时以上作品",
+    "中出",
+    "淫乱，真实"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83102",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=加藤桃香"
+    },
+    {
+      "name": "佐倉陽菜",
+      "img_url": "https://picture.yoshiclub.xyz/20231024/6c6d4b9a-ec4e-473a-b3f5-b8ce90a9cf73.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=佐倉陽菜"
+    },
+    {
+      "name": "阿部乃美久",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/c7bb4f99-8a58-4b75-ac9f-a5fad1265bfb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=阿部乃美久"
+    },
+    {
+      "name": "南梨央奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230402/4371106c-5a87-4600-a1d2-da5003f171d6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=南梨央奈"
+    },
+    {
+      "name": "安部藍",
+      "img_url": "https://picture.yoshiclub.xyz/20240605/76a0239b-c4b2-4dde-be11-5cad26240b38.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=安部藍"
+    },
+    {
+      "name": "稻场流花",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=稻场流花"
+    },
+    {
+      "name": "一宫みかり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=一宫みかり"
+    },
+    {
+      "name": "初音ろな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83102&name=初音ろな"
+    }
+  ]
+};

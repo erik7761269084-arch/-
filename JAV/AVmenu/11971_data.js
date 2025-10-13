@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/61cc5922-5806-4410-9052-1cc1249c598b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11971,
+  "IDcode": "MUDR-277",
+  "title": "喜歡老男人！口交癡女娘追擊誘惑老男人 ~ 北山憂",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "無垢",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "吞精",
+    "老頭子",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "JK校服",
+    "制服",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "慾求不滿",
+    "口爆",
+    "勾引・誘惑",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "MUDR-277为無垢出品,2024年9月17日发行的有碼成人影片由北山憂出演\n[超口交專業！ 】 我愛老男人！佔有欲極強的小玉，後續口交引誘老男人！被一個無辜的小惡魔玩弄著，老頭子卻無奈的勃然大怒！ Yu-chan邀請我並招待我，幫我口交！當然是射精後的後續口交，擠出最後一滴口交誘惑NTR！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912111506864864.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912111506864864.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11971",
+  "actresses": [
+    {
+      "name": "北山憂",
+      "img_url": "https://picture.yoshiclub.xyz/20240915/d987c48a-5e67-4112-806a-cfdc5e18d8d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11971&name=北山憂"
+    }
+  ]
+};

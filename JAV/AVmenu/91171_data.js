@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240401/4xU7BkGw/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91171,
+  "IDcode": "GVH-604",
+  "title": "姑の卑猥過ぎる巨乳を狙う娘婿 夏八木彩月",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "婆婆",
+    "巨乳",
+    "中出",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/0e5a7d3974b332877478dc9f6b58246d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91171",
+  "actresses": [
+    {
+      "name": "夏八木彩月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91171&name=夏八木彩月"
+    },
+    {
+      "name": "イッセイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91171&name=イッセイ"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/13/eac08106/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103460,
+  "IDcode": "MIAA-950",
+  "title": "- 夫の上司に喉ボコイラマチオされ続けて7日間、私は人権を失った… 通野未帆 （ブルーレイディスク） （BOD） - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "吞精",
+    "深喉",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/10/13/caae46b2b7286bad4f3486287d987e82.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103460",
+  "actresses": [
+    {
+      "name": "通野未帆",
+      "img_url": "https://picture.yoshiclub.xyz/20231027/2d7d1e56-ae45-482f-809d-bb6f66890cc0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103460&name=通野未帆"
+    }
+  ]
+};

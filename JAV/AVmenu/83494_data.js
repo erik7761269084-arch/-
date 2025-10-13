@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221226/JybXVOZB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83494,
+  "IDcode": "COWP-002",
+  "title": "小悪魔肉体営業で契約数No.1を誇る爆乳J-cup不動産レディ佐知子",
+  "publish_date": "2020-02-19",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/46a7eb862324a1e76af21cb71fcd94f7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83494",
+  "actresses": [
+    {
+      "name": "佐知子",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250722/86057d1f-f0b8-487e-aae4-bb288be267d2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83494&name=佐知子"
+    }
+  ]
+};

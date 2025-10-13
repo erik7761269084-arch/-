@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221123/8T8H1V3C/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82763,
+  "IDcode": "HNDS-064",
+  "title": "100万×中出し 完全版 AV女優37人のガチンコ中出しサバイバルの裏側全部見せます！！",
+  "publish_date": "2019-08-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "4小时以上作品",
+    "巨乳",
+    "中出",
+    "荡妇",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82763",
+  "actresses": [
+    {
+      "name": "乙愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/a06c3870-806d-4c97-9a82-e67ff0796e0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=乙愛麗絲"
+    },
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=向井藍"
+    },
+    {
+      "name": "蓮実クレア",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/a1368520-2efb-41b0-b94b-c0463074b453.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=蓮実クレア"
+    },
+    {
+      "name": "大島愛里亞",
+      "img_url": "https://picture.yoshiclub.xyz/20240213/0cd0d687-2242-4cbc-aaad-329de2bf10d7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=大島愛里亞"
+    },
+    {
+      "name": "富井美帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/17a6ad76-4153-4726-971c-de1729fa871f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=富井美帆"
+    },
+    {
+      "name": "宫村ななこ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=宫村ななこ"
+    },
+    {
+      "name": "初美りん",
+      "img_url": "https://www.hhkoo.com/d/file/20170712/42ec51cf59a9693aaa1f85397ba59898.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=初美りん"
+    },
+    {
+      "name": "仓科もえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82763&name=仓科もえ"
+    }
+  ]
+};

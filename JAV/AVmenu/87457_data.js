@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230727/g6l4c2Cm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87457,
+  "IDcode": "DVDMS-851",
+  "title": "一般男女モニタリングAV×マジックミラー便コラボ企画‘フライト帰りのCAはチ○ポが欲しくてたまらない’という噂は本当か！？大手航空会社勤務のキャビンアテンダントが黒パンスト美脚でフル勃起したデカチ○ポに自らまたがり腰振りガニ股騎乗位で連続中出し！5「あなたよ…",
+  "publish_date": "2022-08-02",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "女上位",
+    "荡妇",
+    "业余",
+    "空中小姐"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87457",
+  "actresses": []
+};

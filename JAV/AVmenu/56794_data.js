@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56794,
+  "IDcode": "F16DBDC320CB8A89708BBE22F00BA572",
+  "title": "极上性服务款待治愈系老板娘 小泉真希",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56794",
+  "actresses": []
+};

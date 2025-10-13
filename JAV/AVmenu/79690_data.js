@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220811/3xtUJ9Fd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79690,
+  "IDcode": "FSDSS-277",
+  "title": "死ぬほど大好きだった恩師に裏切られ、何度も何度も犯●れ続けています… 沙月恵奈",
+  "publish_date": "2021-08-26",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "监禁",
+    "深喉",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79690",
+  "actresses": [
+    {
+      "name": "沙月惠奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/d69ac5fc-195c-4b40-96c0-36c5f4d6429a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79690&name=沙月惠奈"
+    }
+  ]
+};

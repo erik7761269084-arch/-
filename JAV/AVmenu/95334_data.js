@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/3374edc1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95334,
+  "IDcode": "BBAN-494",
+  "title": "制服少女レズ痴● 疼く身体を卑猥な手つきで病みつきになるほど敏感開発されて…。 月本海咲 百永さりな",
+  "publish_date": "2024-11-12",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "高中女生",
+    "女同性恋",
+    "女同接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95334",
+  "actresses": [
+    {
+      "name": "月本海咲",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/0fa31ab6-d0e4-4a3a-8370-d325baa734e6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95334&name=月本海咲"
+    },
+    {
+      "name": "黑川纱里奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95334&name=黑川纱里奈"
+    }
+  ]
+};

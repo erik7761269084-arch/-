@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f777fb08-10f6-4e5d-b990-f21388552eb5/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/17/c42629cb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12626,
+  "IDcode": "MIDV-827",
+  "title": "「以前洗澡的時候總是摸你的胸……」十年來再次見到表弟的巨乳姐姐，和她調情混浴，與她發生性關系，並在體內射精。 ~ 中山文香",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "乳交",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "表姐・表妹",
+    "口交",
+    "性感",
+    "不倫",
+    "美少女",
+    "巨乳",
+    "美少女電影"
+  ],
+  "description": "MIDV-827为MOODYZ出品,2024年8月20日发行的有碼成人影片由中山文香出演\n[與我的初戀巨乳妹妹中出性愛！ 】 小時候常常和我一起洗澡的富美香姊姊回到了我的家鄉。婚姻似乎已經破裂，她正在請假……儘管經歷瞭如此困難的時期，富美花姐姐仍然一如既往地善良。有一天，母親不在，姊姊的善良和時而悲傷的表情壓倒了他的理智，把他壓垮了。我姐姐就是這樣接受我的。十多年來我們第一次一起洗澡，小富美香還很寵我。我們一遍又一遍地進行體內射精性愛...",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815235113383383.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815235113383383.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12626",
+  "actresses": [
+    {
+      "name": "中山文香",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/2b6dd636-7669-4e77-a4ba-c42a376fba5c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12626&name=中山文香"
+    }
+  ]
+};

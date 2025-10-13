@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e0a80e50-6f5b-40d3-90d3-5b7035747a9d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/23/3f72a3f5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4620,
+  "IDcode": "NACR-984",
+  "title": "探祕女子大生神待娘 深夜站街的真實原因 ~ 真白風羽裏",
+  "publish_date": "2025-07-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "校花",
+    "神待娘",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "舔陰",
+    "少女",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "手指插入",
+    "獵豔",
+    "美人",
+    "阪道系",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "NACR-984为PLANETPLUS出品,2025年7月5日发行的有碼成人影片由真白風羽里出演\n為了搞清楚站街女大學生的真實狀況，採訪團隊親自上陣，找到了一位小姐姐聊聊內幕。她收了點額外費用後勉強同意拍攝，但一開口就一臉不耐煩，摆明想快點打發我們。不過，採訪組可沒打算就這麼草草結束，索性找來專業男優，想讓她感受一下真正的爽感，看她還能不能繼續擺臭臉……",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707040523738738_56225_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250707/20250707040523738738_56225_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4620",
+  "actresses": [
+    {
+      "name": "真白風羽里",
+      "img_url": "https://picture.yoshiclub.xyz/20250119/96fe7c59-45ab-4fe7-b609-b219e278f1fb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4620&name=真白風羽里"
+    }
+  ]
+};

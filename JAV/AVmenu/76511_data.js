@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241128/xGj4kc6g/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 76511,
+  "IDcode": "MOND-164",
+  "title": "うまなみの兄にめろめろにされた弟嫁 徳島理子",
+  "publish_date": "2019-04-11",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "调教",
+    "巨大阴茎",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/e0900b40b1cd9bbf6a0dd31e74cab184.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76511",
+  "actresses": [
+    {
+      "name": "徳岛理子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=76511&name=徳岛理子"
+    }
+  ]
+};

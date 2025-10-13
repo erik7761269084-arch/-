@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/29ee61e7-c4cf-4dbe-aa30-46900b2f4f8a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/21/c9cc53a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10484,
+  "IDcode": "SONE-512",
+  "title": "潮吹敏感體質終於崩壞了！ ！淫蕩按摩伴隨着巨大的痙攣和高潮 ~ 水乃菜乃華",
+  "publish_date": "2024-11-26",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "舔腳",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "變態",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "誘騙女性",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-512为S1出品,2024年11月26日发行的有碼成人影片由水乃菜乃華出演\n水野奈葉尚不成熟的身體正在由一位對女性身體瞭如指掌的強勢色情按摩師開發，她的G點、陰蒂、陰部、斯彭斯的乳腺……所有的性感帶都被一遍又一遍地小心翼翼地停住。 ！是以前的兩倍！不，噴出三倍的巨量高潮真是不好意思……但不僅如此，感覺還不錯……純白修長的身體劃出美麗的拱門，將高潮的精液噴出到了俗不可耐的地步，導致全身抽搐，水野奈葉的性慾潛能全面綻放。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003910198198.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241122/20241122003910198198.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10484",
+  "actresses": [
+    {
+      "name": "水乃菜乃華",
+      "img_url": "https://picture.yoshiclub.xyz/20240719/5cf59c00-8cc3-4563-a84f-fe5aa8c2e268.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10484&name=水乃菜乃華"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10484&name=タイ"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/09/02/9e7c5184/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107334,
+  "IDcode": "HMN-430",
+  "title": "半年付き合っているのに...全然セックスしてくれない彼氏との 初めての中出しお泊りデート 倉田美穂 生写真2枚付き",
+  "publish_date": "2023-08-16",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "苗条",
+    "乳房",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107334",
+  "actresses": [
+    {
+      "name": "倉田美穂",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107334&name=倉田美穂"
+    }
+  ]
+};

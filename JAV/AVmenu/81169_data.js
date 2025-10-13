@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220808/mWgai5FH/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81169,
+  "IDcode": "MIFD-201",
+  "title": "新人 19歳 明日の原石。 自分の可愛さにまだ気づいていない！性格明るくて天真爛漫 でも、経験人数1人の原石AVDebut！！ 河北あさひ",
+  "publish_date": "2022-03-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "女上位",
+    "苗条",
+    "首次亮相",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81169",
+  "actresses": [
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81169&name=鲛岛"
+    }
+  ]
+};

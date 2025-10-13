@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250331/0sZe6x7j/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69022,
+  "IDcode": "IPZ-750",
+  "title": "美尻が際立つ究極の尻コスマニアックス×大量尻ぶっかけ！ 立花はるみ",
+  "publish_date": "2016-05-19",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "角色扮演",
+    "姐姐",
+    "屁股",
+    "数位马赛克",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/4f95817c1df0e59daa4589817efe60c3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69022",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69022&name=森林原人"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69022&name=玉木玲"
+    },
+    {
+      "name": "立花はるみ",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/1b2d4ea7bb07a6be01414af54f4d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69022&name=立花はるみ"
+    }
+  ]
+};

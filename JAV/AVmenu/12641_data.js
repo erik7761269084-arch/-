@@ -1,0 +1,48 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ce2ef42b-415b-49b9-b271-b00f4124830b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12641,
+  "IDcode": "MIDV-830",
+  "title": "巨乳遊泳俱樂部的誘惑，招募穿着競技泳衣的會員，看起來奶子就要溢出來了 ~ 七海那美",
+  "publish_date": "2024-08-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "色白",
+    "身體換業務",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "多P",
+    "美少女",
+    "更衣室",
+    "癡女",
+    "巨乳",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "泳裝"
+  ],
+  "description": "MIDV-830为MOODYZ出品,2024年8月20日发行的有碼成人影片由七海那美出演\n游泳社的巨乳成員娜美，為了拯救游泳社人手短缺的問題，用自己的身體進行調皮的拉客。男孩們在他們見過的最極端的戀物癖泳衣的誘惑下無法阻止勃起。他們在更衣室裡互相操，在浴室裡給她口交……她把她的G罩杯巨乳從她的淫洞里扔出來，一次又一次地引誘她。他讓青春期的雞雞一根一根地射精！利用運動員少女體力的5P性愛，俱樂部會員數量迅速增加！ [比裸體更色情！這個性感的泳裝戀物癖影片絕對不會錯，你會被 G 型乳房和美麗屁股所誘惑！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815231921971971.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815231921971971.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12641",
+  "actresses": [
+    {
+      "name": "七海那美",
+      "img_url": "https://picture.yoshiclub.xyz/20240517/96b99143-4036-4c22-aed9-1598e5409326.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12641&name=七海那美"
+    }
+  ]
+};

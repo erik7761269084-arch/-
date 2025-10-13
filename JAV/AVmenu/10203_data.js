@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f322a487-9393-417b-bf34-8bcb93e8470f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10203,
+  "IDcode": "NSFS-311",
+  "title": "極致淫蕩的人妻肉體 3 這淫蕩的肉體讓男人瘋狂 ~ 天月梓",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [
+    "後入",
+    "痴漢",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "老頭子",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "美腳",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241204/3e431fb3-3e70-44db-8822-5d959672c6f4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241204/3e431fb3-3e70-44db-8822-5d959672c6f4.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10203",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10203&name=天月梓"
+    }
+  ]
+};

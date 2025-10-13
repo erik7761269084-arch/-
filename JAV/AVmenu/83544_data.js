@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221228/AN5xQttx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83544,
+  "IDcode": "HUSR-201",
+  "title": "で、でけぇぇぇえええ！！大発掘！合計912cm 奇跡のヨーロッパデカパイ金髪美女！ 8人4時間",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "白人",
+    "4小时以上作品",
+    "巨乳",
+    "业余",
+    "恋乳癖",
+    "猎艳",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83544",
+  "actresses": [
+    {
+      "name": "キャシー・ヘブン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=キャシー・ヘブン"
+    },
+    {
+      "name": "ケイティ・ジェイン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=ケイティ・ジェイン"
+    },
+    {
+      "name": "クリスティーナ・シャイン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=クリスティーナ・シャイン"
+    },
+    {
+      "name": "リシェール・リチ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=リシェール・リチ"
+    },
+    {
+      "name": "キラクィーン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=キラクィーン"
+    },
+    {
+      "name": "エンジェル・ウィッキー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=エンジェル・ウィッキー"
+    },
+    {
+      "name": "ヴィクトリア・ドルチェ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=ヴィクトリア・ドルチェ"
+    },
+    {
+      "name": "アイダ・スインガー",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83544&name=アイダ・スインガー"
+    }
+  ]
+};

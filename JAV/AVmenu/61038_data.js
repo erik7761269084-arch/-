@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/26/edac6a0b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61038,
+  "IDcode": "CEAD-696",
+  "title": "フル勃起デカチンに欲情して中出しまでも許してしまった長身デカ尻美人 葉山さゆり",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "セレブの友",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫乱，真实",
+    "高",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61038",
+  "actresses": [
+    {
+      "name": "葉山小百合",
+      "img_url": "https://picture.yoshiclub.xyz/20231009/91b03688-3bf3-4caa-b352-0646b342d928.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=61038&name=葉山小百合"
+    }
+  ]
+};

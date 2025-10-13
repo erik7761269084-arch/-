@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220516/B3F8BB6F96DBFDAA/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64303,
+  "IDcode": "50087D9A6124F5CCB85FA946A-6837343",
+  "title": "献出本能的绝顶性爱 G罩杯美乳美脚高身长闷绝淫乱美人太太 滝川穂乃果",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64303",
+  "actresses": []
+};

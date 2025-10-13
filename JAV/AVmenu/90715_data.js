@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/23/b800e413/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90715,
+  "IDcode": "APAA-401",
+  "title": "APAA-401",
+  "publish_date": "2023-01-21",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "口交",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240208-1/6287bdf96f63e09f33df05143db327be.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90715",
+  "actresses": [
+    {
+      "name": "ひかり唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90715&name=ひかり唯"
+    }
+  ]
+};

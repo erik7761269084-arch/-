@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/14/d3789428/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68463,
+  "IDcode": "SCPX-527",
+  "title": "赤面人妻モニタリング ご無沙汰オマ〇コが疼いてしょうがない人妻モデルの下着にバイブを挟んだら どうなるか徹底検証！！優しい子持ちの奥様の即ズボ公開不倫中出しSEX2枚組310分",
+  "publish_date": "2025-04-22",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "已婚妇女",
+    "按摩棒",
+    "企画",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68463",
+  "actresses": []
+};

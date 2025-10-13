@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/27/e1bc311f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 79557,
+  "IDcode": "CAWD-263",
+  "title": "出張先の相部屋で絶倫上司に何度も中出しされて…部長の粘着質な愛撫と濃厚SEXに溺れた美乳新人OL 紺野みいな",
+  "publish_date": "2021-08-25",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "戏剧",
+    "中出",
+    "OL",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/e4516d53143fc923099cca2e00c8fa90.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79557",
+  "actresses": [
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=79557&name=田渊正浩"
+    }
+  ]
+};

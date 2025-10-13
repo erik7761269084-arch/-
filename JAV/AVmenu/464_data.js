@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fed816af-4626-4f95-b665-7eedee03d669/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 464,
+  "IDcode": "HEYZO-0555",
+  "title": "清楚系女孩與淫蕩老男人的禁斷關系 極上性愛 ~ 美裏麻衣",
+  "publish_date": "2014-03-19",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "色白",
+    "蘿莉",
+    "脚控・戀足癖",
+    "中出",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "少女",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "清純",
+    "美少女電影"
+  ],
+  "description": "HEYZO-0555为HEYZO出品,2014年3月19日发行的無碼成人影片由美里麻衣 出演\nえっちなおじさんに発情したうぶっ娘～禁断の関係は極上のエロスパイス～ - 美里麻衣",
+  "cover_url": "https://picture.yoshiclub.xyz/20250114/91188b95-85cb-4b64-8b57-2482d0a951db.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250114/91188b95-85cb-4b64-8b57-2482d0a951db.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=464",
+  "actresses": [
+    {
+      "name": "美里麻衣",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250421/73422bff-d7ae-4659-acf6-a38093e1920a_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=464&name=美里麻衣"
+    }
+  ]
+};

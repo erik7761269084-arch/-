@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/25/b3906457/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67986,
+  "IDcode": "YSN-589",
+  "title": "【FANZA限定】ヒィヒィ～言っちゃうほど、佐藤さんに弄られたい 佐藤ののか パンティと生写真付き",
+  "publish_date": "2022-12-30",
+  "type": "有码",
+  "company": "WAAP GROUP",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "乳房",
+    "恋物癖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250416-1/21de8908fefcaf57bd82fcc98a5f4bea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67986",
+  "actresses": [
+    {
+      "name": "加藤桃香",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/4864718b-aed5-454e-82d8-decaafd0cff1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67986&name=加藤桃香"
+    }
+  ]
+};

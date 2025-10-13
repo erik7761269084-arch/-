@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2019/08/12/63edc357/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104993,
+  "IDcode": "MDYD-907",
+  "title": "夫の親族一同に輪姦された美人妻 波多野結衣",
+  "publish_date": "2014-05-13",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "巨乳",
+    "凌辱",
+    "轮奸",
+    "强奸",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/05/23/d93d57bd4c6088f6638a0550a09c17ec.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104993",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=104993&name=波多野结衣"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/23/8734bc28/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 63331,
+  "IDcode": "MIRD-140",
+  "title": "Lord of Walkure×MOODYZ合作企畫 第2彈 上原亞衣",
+  "publish_date": "2014-09-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "数位马赛克",
+    "深喉",
+    "女战士",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/8734bc28/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63331",
+  "actresses": [
+    {
+      "name": "上原亞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230208/5e636633-49c3-4699-bc3d-baa835427f77.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63331&name=上原亞衣"
+    },
+    {
+      "name": "南佳也",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=63331&name=南佳也"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/549b8f65-b771-4b2d-9d86-9c4d1eeb25de/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241008/r4HteJEK/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13909,
+  "IDcode": "MVSD-595",
+  "title": "愛口交臉的兔女郎，沉迷在我的雞巴裏！將大量精液注入陰部！醉酒抽搐瘋狂受精極致！",
+  "publish_date": "2024-06-18",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "苗條",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "性感",
+    "兔女郎妝扮",
+    "少女",
+    "美少女",
+    "巨乳",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "MVSD-595为MVG GROUP出品,2024年6月18日发行的有碼成人影片\n在池袋加爾巴被發現的女子酒吧員工詩乃（22歲）。一隻超級漂亮的兔子，最可愛的臉舔著他的雞雞！高挑修長的身材（170cm）和豐滿的臀部（85cm），造型出眾！只要心情好，什麼都可以！一個熱愛性的享樂主義婊子美女，在關門後在商店裡玩得很開心，因為喝了很多酒並吸了春藥而變得性慾旺盛！充滿男性汁液的原始性愛4P性交！當雞巴進入她的臉的那一刻，她變成了女人！活塞繼電器，臉部融化，抽搐抽搐和瘋狂高潮！ 11 次射擊被陰戶的精液覆蓋！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614030830264264.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240614/20240614030830264264.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13909",
+  "actresses": [
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13909&name=まーち"
+    }
+  ]
+};

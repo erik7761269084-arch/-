@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221116/GUDousjt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82654,
+  "IDcode": "GVG-627",
+  "title": "夫の実家で起こった悲劇 波多野結衣",
+  "publish_date": "2018-02-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "戏剧",
+    "已婚妇女",
+    "强奸",
+    "乱伦"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/ffd4e489d43b900b5d991cceb84f0463.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82654",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82654&name=波多野结衣"
+    }
+  ]
+};

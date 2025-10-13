@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/07/0c3b176a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85187,
+  "IDcode": "MEYD-733",
+  "title": "女教師NTR 学年主任の妻が教頭先生と修学旅行の下見へ行ったきり… 月乃ルナ",
+  "publish_date": "2022-01-18",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "戏剧",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "女教师"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85187",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85187&name=月乃露娜"
+    }
+  ]
+};

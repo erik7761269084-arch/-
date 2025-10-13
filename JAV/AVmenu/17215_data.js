@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/181a78fd-6df9-4bb9-8644-db4aad6a0c2e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/31/8f49b1fa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17215,
+  "IDcode": "HMN-507",
+  "title": "【FANZA限定】和一向牛氣沖天、從不示弱的女上司北野未奈同住一間房間……在毫無防備的雙乳裡射精，帶著幾分孤獨的臉，活塞發情……",
+  "publish_date": "2023-12-20",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "後入",
+    "劇情",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "口爆",
+    "美腳",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "女上司",
+    "飯店"
+  ],
+  "description": "HMN-507为本中出品,2023年12月20日发行的有碼成人影片由北野未奈出演\n把從不示弱的女上司北野未奈壓在身下，…在毫無防備的雙乳裡射精，使北野未奈陰戶濕噠噠，乳頭挺起。 。 。 。\n把從不示弱的女上司北野未奈壓在身下，…在毫無防備的雙乳裡射精，使北野未奈陰戶濕噠噠，乳頭挺起。 。 。 。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231215/b9700fa0-6347-4e94-a378-8886fc010b50.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231215/b9700fa0-6347-4e94-a378-8886fc010b50.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17215",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17215&name=北野未奈"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17215&name=Qべぇ"
+    }
+  ]
+};

@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/10/8a0b7b09/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85300,
+  "IDcode": "MIAA-575",
+  "title": "えっココで…いきなりスプラッシュ！ ドMクンはズブ濡れでイッちゃいな！ ビチョビッ痴のWメガ潮吹きクレイジー逆ナンパ！ 大槻ひびき 皇ゆず",
+  "publish_date": "2022-02-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "荡妇",
+    "M男",
+    "潮吹"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85300",
+  "actresses": [
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85300&name=大槻响"
+    },
+    {
+      "name": "タイ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85300&name=タイ"
+    }
+  ]
+};

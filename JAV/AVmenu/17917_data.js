@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfc1f57d-0d71-4e39-8987-adc240706716/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/04/e1c00826/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17917,
+  "IDcode": "SSIS-940",
+  "title": "絶倫女医深夜回诊帮助患者治疗性欲成瘾综合症",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "性感",
+    "女醫生",
+    "口爆",
+    "巨乳",
+    "猥褻穿著"
+  ],
+  "description": "SSIS-940为S1出品,2023年11月14日发行的有碼成人影片由葵司出演\n葵司是一位才華橫溢的內科醫生，她受到其他醫生的信任，在照顧患者的同時提供心理護理。不過，有些患者仍持謹慎態度。她深夜來到病房，變身為吞噬年輕男子雞雞的放蕩醫生。很難相信白天的醫生是同一個人。很多人是被迫接受骑乘势的姿势结束，而另一些人被强迫接受超大吸力的口暴。今晚，整个病房都回荡着她的淫叫声。\n葵司是一位才華橫溢的內科醫生，她受到其他醫生的信任，在照顧患者的同時提供心理護理。不過，有些患者仍持謹慎態度。她深夜來到病房，變身為吞噬年輕男子雞雞的放蕩醫生。很難相信白天的醫生是同一個人。很多人是被迫接受骑乘势的姿势结束，而另一些人被强迫接受超大吸力的口暴。今晚，整个病房都回荡着她的淫叫声。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231111/847c85e7-ea03-4326-ad95-80f2617dca22.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231111/847c85e7-ea03-4326-ad95-80f2617dca22.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17917",
+  "actresses": [
+    {
+      "name": "葵司",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/d2071028-ed2e-4cc3-967f-5beeaf73b015.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17917&name=葵司"
+    }
+  ]
+};

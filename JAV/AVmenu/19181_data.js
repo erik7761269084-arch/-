@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/28e61d66-bb51-412d-b69a-b929a34cf80c/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/13/ac758ef6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19181,
+  "IDcode": "ADN-211",
+  "title": "不純潔的白大褂 - 已婚護士米卡的錯誤",
+  "publish_date": "2019-04-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "素人作品",
+    "醫院・診所",
+    "無碼破解",
+    "強姦",
+    "人妻",
+    "護士",
+    "精選綜合"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230704/20230704003829624624.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230704/20230704003829624624.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19181",
+  "actresses": [
+    {
+      "name": "松下紗栄子",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/743731c7-7a85-481a-8854-8183befc1094.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19181&name=松下紗栄子"
+    },
+    {
+      "name": "小田切ジュン",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19181&name=小田切ジュン"
+    },
+    {
+      "name": "松下纱栄子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19181&name=松下纱栄子"
+    }
+  ]
+};

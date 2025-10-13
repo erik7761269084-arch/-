@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220531/7E49B2CA0074A76B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 56389,
+  "IDcode": "09A6C3A1569EC74C9B3AB727D9EBA36A",
+  "title": "乳此美腿如此白虎穴-7",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56389",
+  "actresses": []
+};

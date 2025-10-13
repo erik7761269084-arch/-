@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/67a02053-eff6-4c17-a1c7-138411ae7c24/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15099,
+  "IDcode": "SAN-237",
+  "title": "薄幸的家政婦 ~ 櫻井麻美",
+  "publish_date": "2024-04-01",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "口交",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "SAN-237为2024年4月1日发行的有碼成人影片由櫻井麻美出演\n當他的妻子住院時，一個男人雇了一個管家來照顧她，一個美麗、善良、完美的女人瑪米來看望她。一個男人對他身患絕症的妻子感到難過，並承認他對她的愛。 他們最終不可避免地建立了關係。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240430/20240430011309232232.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240430/20240430011309232232.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15099",
+  "actresses": [
+    {
+      "name": "櫻井麻美",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250426/096265d6-c62e-4537-93fa-081b77bd3d32_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15099&name=櫻井麻美"
+    }
+  ]
+};

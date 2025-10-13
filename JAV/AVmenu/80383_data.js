@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/25/6fb5232d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80383,
+  "IDcode": "STARS-487",
+  "title": "担任に犯され【専属服従契約】媚薬NTRセックスの快楽に堕ちていくいいなり女子校生。 夏目響",
+  "publish_date": "2021-12-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "苗条"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80383",
+  "actresses": [
+    {
+      "name": "夏目响",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80383&name=夏目响"
+    }
+  ]
+};

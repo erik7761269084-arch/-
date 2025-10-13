@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/09/c29f7148/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85461,
+  "IDcode": "MIDV-147",
+  "title": "気高き女捜査官-冷酷指令・増援が来るまで媚薬キメセク中出しに24時間耐え続けよ- 深田えいみ 生写真3枚付き",
+  "publish_date": "2022-07-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "凌辱",
+    "淫乱，真实",
+    "多P",
+    "颜射",
+    "女检察官",
+    "无码破解",
+    "靴子",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230125-1/b9d347c46e75a9f02afc30a6ef8fe483.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85461",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85461&name=深田詠美"
+    }
+  ]
+};

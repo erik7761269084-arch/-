@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/27/058b509c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89654,
+  "IDcode": "SDAB-279",
+  "title": "初体験だけの4科目(3エッチ)【1時間目:はじめてのデカチンSEX 2時間目:はじめての拘束おもちゃオイルSEX 3時間目:はじめての3P ひみつの4時間目:はじめての顔射】 樟葉杏",
+  "publish_date": "2023-11-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "女上位",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89654",
+  "actresses": [
+    {
+      "name": "樟葉杏",
+      "img_url": "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89654&name=樟葉杏"
+    }
+  ]
+};

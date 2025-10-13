@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b2912c2d-eb6c-4270-8e6e-d2d464c6baa6/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17889,
+  "IDcode": "FSDSS-683",
+  "title": "打工時愛上的女孩…",
+  "publish_date": "2023-12-07",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "便利商店",
+    "劇情",
+    "舔腳",
+    "吞精",
+    "中出",
+    "商店",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "口交",
+    "服務生",
+    "性感",
+    "多P",
+    "美少女",
+    "羞恥"
+  ],
+  "description": "FSDSS-683为FALENO出品,2023年12月7日发行的有碼成人影片由時田亜美出演\n刚开始到这家便利店打工的时候，我就喜欢上了同样在此兼职的大学生時田亜美，而渐渐的我对她的感情越来越深...最后，我鼓起勇气向時田亜美表白。幸福的是，她答应和我交往。我每天都期待和她的约会，约会时的她会完全脱下了工作时的纯情伪装。每天工作后，我们都会做爱！有时候在工作时，我们也会在商店后边做爱！哪怕休息日，我们也会做爱。\n刚开始到这家便利店打工的时候，我就喜欢上了同样在此兼职的大学生時田亜美，而渐渐的我对她的感情越来越深...最后，我鼓起勇气向時田亜美表白。幸福的是，她答应和我交往。我每天都期待和她的约会，约会时的她会完全脱下了工作时的纯情伪装。每天工作后，我们都会做爱！有时候在工作时，我们也会在商店后边做爱！哪怕休息日，我们也会做爱。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111223706246246.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231111/20231111223706246246.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17889",
+  "actresses": [
+    {
+      "name": "時田亜美",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/b456a572-c239-4889-a850-6f32d969ee22.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17889&name=時田亜美"
+    }
+  ]
+};

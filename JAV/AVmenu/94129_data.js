@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241020/62iRcbmh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94129,
+  "IDcode": "SAN-258",
+  "title": "エッチな言葉を連発してくる痴女と生ハメセックス8人",
+  "publish_date": "2024-06-30",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "4小时以上作品",
+    "淫乱，真实",
+    "荡妇",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94129",
+  "actresses": []
+};

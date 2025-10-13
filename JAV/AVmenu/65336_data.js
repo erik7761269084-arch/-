@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65336,
+  "IDcode": "978E3B25AE8FB4401C42417ACE0C4AF7",
+  "title": "[日本] 北野未奈破坏版AV～青梅竹马的性感丰臀让我受不了持续中出～ (JUL-784)",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65336",
+  "actresses": []
+};

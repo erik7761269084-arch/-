@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fa71c348-708e-441d-976e-0372b980aa91/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/JerXfF4j/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12939,
+  "IDcode": "SQTE-556",
+  "title": "關西美少女的氣息好色呀！ 0距離接觸感覺她乳頭硬了 ~ 武田萌奈美",
+  "publish_date": "2024-08-06",
+  "type": "有码",
+  "company": "S-CUTE",
+  "genres": [
+    "後入",
+    "劇情",
+    "絕頂高潮",
+    "中出",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "少女",
+    "美少女",
+    "自慰",
+    "清純",
+    "約炮",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240804/24ce816d-aeb7-40b7-aace-84fffa568c39.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240804/24ce816d-aeb7-40b7-aace-84fffa568c39.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12939",
+  "actresses": [
+    {
+      "name": "武田萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/367c8532-0ca0-485f-918b-f5cc8e6a1a55.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12939&name=武田萌奈美"
+    }
+  ]
+};

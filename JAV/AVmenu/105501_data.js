@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/01/28/08cd2150/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105501,
+  "IDcode": "BF-524",
+  "title": "本田岬の誘惑中出し家庭教師",
+  "publish_date": "2017-11-01",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [
+    "巨乳",
+    "中出",
+    "荡妇",
+    "家教"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bf524/bf524pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105501",
+  "actresses": [
+    {
+      "name": "本田岬",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/b27aa824-eb3f-492b-b103-7283031805ff.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105501&name=本田岬"
+    }
+  ]
+};

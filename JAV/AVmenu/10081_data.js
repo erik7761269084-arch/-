@@ -1,0 +1,109 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/653ba3df-2eca-472b-aa8c-6138e9923c90/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10081,
+  "IDcode": "HUNTC-293",
+  "title": "情趣內衣商的社員旅行注定是超級瘋狂的事！社員全體都喝多了，在各個房間裏大肆狂亂交，甚至有陌生人，有遊客！ ~ 皆月光 本田瞳 有棲舞衣 愛瀨優裏 若宮葉月 泉莉音 由良佳奈等",
+  "publish_date": "2024-12-10",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "吞精",
+    "深喉",
+    "臀控",
+    "大亂交",
+    "和服・浴衣・喪服",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "旅行",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "多P",
+    "蘿莉控",
+    "厠所",
+    "美腳",
+    "美少女",
+    "奇聞趣事",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "奇異的",
+    "真實拍攝",
+    "溫泉",
+    "綠茶婊",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "HUNTC-293为HUNTER出品,2024年12月10日发行的有碼成人影片由由良佳奈，本田瞳，若宮葉月，泉莉音，皆月光，有栖舞衣，愛瀬優里出演\n內衣製造商的員工旅行是一場喝酒和做愛的超狂野事件！光是這一天，就是總裁、部門經理、科長與職務無關的粗話節！ 9名內衣製造商員工忘我亂搞的大型狂歡！晶片都是本地採購的！男嘉賓也參與其中，宴會廳一片淫亂！一旦開始，就無法停止！即使你射精或射精也不會結束！一段令人驚嘆的狂歡視頻，活塞向各個方向展開，前、後、左、右！每年一次的公司旅行當天就瘋狂的白領女郎們的幕後面孔，比你想像的還要色情！毫無疑問，你會對她深不見底的性慾感到驚訝！",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205092258402402.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/20241205092258402402.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10081",
+  "actresses": [
+    {
+      "name": "皆月光",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/154ba6f0-4399-4ce5-bb09-197df93eaa46.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=皆月光"
+    },
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=由良佳奈"
+    },
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=有栖舞衣"
+    },
+    {
+      "name": "本田瞳",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/1b29ae89-bfa2-41a3-af2b-dff08f598d7d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=本田瞳"
+    },
+    {
+      "name": "若宮葉月",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/be4b274b-fceb-4923-b285-5c6a46080c80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=若宮葉月"
+    },
+    {
+      "name": "泉莉音",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/e22f3d30-5994-4f53-9927-e56b050cc2b2_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=泉莉音"
+    },
+    {
+      "name": "愛瀬優里",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/246bbb4f-b2a1-4840-949f-bb220664de99.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10081&name=愛瀬優里"
+    }
+  ]
+};

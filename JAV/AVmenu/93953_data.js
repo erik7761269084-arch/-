@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/aJAGIiyc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93953,
+  "IDcode": "REBD-861Hikari7",
+  "title": "REBD861Hikari7ササヤキとヒメゴト·青空ひかり",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/9eba9bb381272f04f3e5a888bde2f2c6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93953",
+  "actresses": []
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8c2c4a19-5dd9-4dc7-97f4-33fa76276ac3/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19348,
+  "IDcode": "IPX-096",
+  "title": "療癒快感回春按摩店偷拍實況！",
+  "publish_date": "2018-02-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "乳交",
+    "胸控・戀乳癖",
+    "風俗娘",
+    "按摩・美容店",
+    "數位馬賽克",
+    "抹油",
+    "偷窺"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528030035805805.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230528/20230528030035805805.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19348",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19348&name=天海翼"
+    }
+  ]
+};

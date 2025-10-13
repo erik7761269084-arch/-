@@ -1,0 +1,61 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2329,
+  "IDcode": "MIDA-344",
+  "title": "抵抗不住輕春女生的誘惑，放學後在酒店一次又一次地開幹 ~ 輝星綺羅",
+  "publish_date": "2025-10-02",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "校花",
+    "色白",
+    "雙馬尾",
+    "脚控・戀足癖",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "正統派",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "少女",
+    "接吻",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "校園生活",
+    "手指插入",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "女學生",
+    "飯店"
+  ],
+  "description": "MIDA-344为MOODYZ出品,2025年10月2日发行的有碼成人影片由輝星綺羅出演\n【越是禁忌越是爽到爆】師生間的背德性愛，刺激到讓人停不下來！明知這是不對的事，卻還是被校內最可愛的學生告白，直接淪陷。我明明有老婆，身為老師也該保持理智，但面對她甜美又撩人的撒嬌，我完全招架不住！她軟糯地問：老師，怎麼不射在裡面？老師，再來一次好不好？看著她在我的衝擊下高潮連連，身子顫抖，那又純又騷的模樣實在太誘人，爽到我一次次違背倫理，徹底沉淪！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021515354354_93454_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021515354354_93454_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2329",
+  "actresses": [
+    {
+      "name": "輝星綺羅",
+      "img_url": "https://picture.yoshiclub.xyz/20241129/5ab1d926-01b5-4097-8030-95715fe869ea.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2329&name=輝星綺羅"
+    }
+  ]
+};

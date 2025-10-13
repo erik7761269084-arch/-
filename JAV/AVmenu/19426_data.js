@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230512/292d5a5d-5d55-43fe-9eba-628884daa3ce/index.m3u8",
+  "线路2": "https://t27.cdn2020.com/video/m3u8/2022/11/26/32aeda5e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19426,
+  "IDcode": "IPX-007",
+  "title": "我被強暴太多了…女學生的強暴紀錄-受害班長",
+  "publish_date": "2017-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "凌辱",
+    "美少女",
+    "數位馬賽克",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512211412557557.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/20230512211412557557.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19426",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19426&name=西宮夢"
+    }
+  ]
+};

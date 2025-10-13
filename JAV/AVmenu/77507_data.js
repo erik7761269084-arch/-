@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/29/ff85ca51/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77507,
+  "IDcode": "MIMK-122",
+  "title": "鉄拳精裁ストップマン 時間停止vs元彼殺しサイコ女 原作・alansmithee同人を実写化！ 黒川すみれ （ブルーレイディスク） （BOD）",
+  "publish_date": "2023-06-20",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "中出",
+    "苗条",
+    "原作改编",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77507",
+  "actresses": [
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77507&name=黑川堇"
+    }
+  ]
+};

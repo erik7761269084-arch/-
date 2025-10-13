@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230621/E04C7540D6691427/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119403,
+  "IDcode": "FC2-2172490",
+  "title": "「初美沙希」无修正生中出し映像流出！7 ／ パイパン中编 さきっぽちゃん性欲爆発！つるマン丸见え暴走SEX！",
+  "publish_date": "2022-05-05",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119403",
+  "actresses": []
+};

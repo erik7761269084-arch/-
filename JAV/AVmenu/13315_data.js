@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d38d41d3-1d48-4407-aa2a-78a97e11e2d2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13315,
+  "IDcode": "DDFF-037",
+  "title": "喉奸面接 ~ 三嶽祐奈",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "後入",
+    "企畫",
+    "3P・4P",
+    "淫亂",
+    "深喉",
+    "流汗",
+    "健身教練",
+    "中出",
+    "蕩婦",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "運動",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "口爆",
+    "多P",
+    "人妻",
+    "手指插入",
+    "抹油",
+    "熟女",
+    "辣妹/GAL系",
+    "野性",
+    "女優",
+    "肌肉"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240714/b5966b62-0c7c-4a54-ab55-8f9129d1586a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240714/b5966b62-0c7c-4a54-ab55-8f9129d1586a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13315",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13315&name=三岳祐奈"
+    }
+  ]
+};

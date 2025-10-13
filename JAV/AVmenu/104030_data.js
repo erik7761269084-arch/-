@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240611/hShE3Hna/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104030,
+  "IDcode": "AMTR-030",
+  "title": "【FANZA限定】【流出】ものすごく可愛い3人の素人巨乳娘との貴重なハメ撮り動画 パンティと生写真付き",
+  "publish_date": "2022-07-27",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104030",
+  "actresses": []
+};

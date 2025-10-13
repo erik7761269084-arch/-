@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221221/UaJJ9fgF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83137,
+  "IDcode": "SGSR-249",
+  "title": "お酒のシーズン到来！！ 普段は地味で清楚だけどパリピデビューの女の子を酔わせて理性吹っ飛び濃厚SEX 15人4時間",
+  "publish_date": "2019-12-28",
+  "type": "有码",
+  "company": "Big Morkal",
+  "genres": [
+    "4小时以上作品",
+    "纪录片",
+    "OL",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83137",
+  "actresses": []
+};

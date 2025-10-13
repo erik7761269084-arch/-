@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81bbdd0e-0e52-4040-b1d4-00d9f510d47f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 1042,
+  "IDcode": "HEYZO-1457",
+  "title": "我被男朋友的朋友操了- 咲田凜",
+  "publish_date": "2017-05-20",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "中出",
+    "性感",
+    "出軌",
+    "NTR"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105010938232232.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240105/20240105010938232232.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1042",
+  "actresses": [
+    {
+      "name": "咲田凛",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/15c29681-651e-4cfe-a43e-2b9fd7060d08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1042&name=咲田凛"
+    }
+  ]
+};

@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/19af6c3a-5ec3-41d6-95bf-a62657c9e9af/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16949,
+  "IDcode": "FPRE-008",
+  "title": "無法承受社長情婦的強硬要求…進階到大屁股坐上大雞巴上左右搖擺並在裏面射精！！",
+  "publish_date": "2024-01-02",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "網襪",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "女秘書",
+    "巨乳",
+    "辦公室"
+  ],
+  "description": "FPRE-008为FITCH出品,2024年1月2日发行的有碼成人影片由菊乃らん出演\n我是一名辦公室職員，被選爲我已晉升的新項目的負責人。我對這份由總統親自任命和提拔的工作充滿了動力，但這時候，傳聞是總統情婦的美麗祕書蘭出現了。然後，他的眼神就像是在瞄準獵物，就這樣開始了。 「我也厭倦了和社長打交道。他已經無能爲力了。他會幫我緩解鬱悶……」我無法拒絕誘人的蘭先生的強硬要求……\n我是一名辦公室職員，被選爲我已晉升的新項目的負責人。我對這份由總統親自任命和提拔的工作充滿了動力，但這時候，傳聞是總統情婦的美麗祕書蘭出現了。然後，他的眼神就像是在瞄準獵物，就這樣開始了。 「我也厭倦了和社長打交道。他已經無能爲力了。他會幫我緩解鬱悶……」我無法拒絕誘人的蘭先生的強硬要求……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060705959959.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240102/20240102060705959959.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16949",
+  "actresses": [
+    {
+      "name": "菊乃らん",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/5a49b88c-dc69-46b4-814f-d3bb72d3ce53.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16949&name=菊乃らん"
+    }
+  ]
+};

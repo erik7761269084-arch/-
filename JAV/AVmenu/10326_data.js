@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dfcd0132-41d4-409c-ac39-0f5fbb7a4c28/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/25/0df74468/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10326,
+  "IDcode": "MIFD-534",
+  "title": "浪速娘的天真約會 - 第一次使用約炮，第一次在情趣酒店，第一次中出性愛 ~ 內山真宙",
+  "publish_date": "2024-12-03",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "企畫",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "美腳",
+    "美少女",
+    "清純",
+    "短髮",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "網路紅人"
+  ],
+  "description": "MIFD-534为MOODYZ出品,2024年12月3日发行的有碼成人影片由内山真宙出演\n一個從未使用過配對應用程式、從未去過情趣酒店、熱愛遊戲（她也是主播）、在現實世界中有點害羞的女孩，在她的第一次約會中發生了性行為。讓我們在大阪戶外吃飯、玩耍、接吻吧。我在一家情趣酒店與一位快樂的女朋友發生了性關係，她說：“我想進行這樣的約會。”和！ ！ ！我甚至有了我的第一次體內射精！ ！ ？你是因為他心情好才原諒他的嗎？ ？浪速女孩充滿興奮的初戀愛約會",
+  "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128094646662662.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241128/20241128094646662662.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10326",
+  "actresses": [
+    {
+      "name": "内山真宙",
+      "img_url": "https://picture.yoshiclub.xyz/20241101/638a075d-a383-4827-907e-7cd271746eb7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10326&name=内山真宙"
+    },
+    {
+      "name": "まーち",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10326&name=まーち"
+    }
+  ]
+};

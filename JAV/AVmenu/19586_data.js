@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230409/619a138a-2398-48fa-bc85-96d615b60fbb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 19586,
+  "IDcode": "SDNM-061",
+  "title": "4年沒幹砲的35歲清純妻下海給肏 佐佐木明希",
+  "publish_date": "2015-10-08",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "無碼破解",
+    "出道作品",
+    "人妻"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230408/b1b929b3-aba9-4bbb-8d27-4f5da68db002.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230408/b1b929b3-aba9-4bbb-8d27-4f5da68db002.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19586",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19586&name=佐佐木明希"
+    }
+  ]
+};

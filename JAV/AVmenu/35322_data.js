@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/59f5c40e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35322,
+  "IDcode": "0505200-01",
+  "title": "带女朋友菊川三叶见老爸却不曾想到在我睡着之后被老爸无套插入内射寝取",
+  "publish_date": "2025-09-26",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35322",
+  "actresses": []
+};

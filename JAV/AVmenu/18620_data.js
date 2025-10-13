@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b007eddf-8037-4b35-8bd6-e93f4a768adb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18620,
+  "IDcode": "IPX-685",
+  "title": "一直微笑著的溫柔技師你不射精她不會停止的",
+  "publish_date": "2021-07-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "女上位",
+    "風俗娘",
+    "內衣",
+    "按摩・美容店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230921/20230921223932335335.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230921/20230921223932335335.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18620",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18620&name=栗山莉緒"
+    }
+  ]
+};

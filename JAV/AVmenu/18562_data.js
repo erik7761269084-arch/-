@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f34f2afe-fe3d-4f68-8999-d699c1a3838c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18562,
+  "IDcode": "IPX-702",
+  "title": "[完美] -KANZETSU- 部分開發！生殖器晃動，超高潮FUCK，突破極限！ ！春潮大噴射！ ！",
+  "publish_date": "2021-08-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "淫亂",
+    "潮吹",
+    "口交",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926233228972972.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230926/20230926233228972972.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18562",
+  "actresses": [
+    {
+      "name": "栗山莉緒",
+      "img_url": "https://picture.yoshiclub.xyz/20230831/c1a0f807-13a1-4570-bcc9-8601692d3f76.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18562&name=栗山莉緒"
+    }
+  ]
+};

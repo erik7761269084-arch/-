@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/76362185-5c49-4380-bfd3-0f870382fd23/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15495,
+  "IDcode": "HUNTC-042",
+  "title": "許多年輕妻子報名參加！很多年輕太太下午都來男士美容院上班！想要在閒暇時間賺快錢的年輕妻子.....",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "HUNTER",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "美腳",
+    "按摩・美容店",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "無毛"
+  ],
+  "description": "HUNTC-042为HUNTER出品,2024年4月9日发行的有碼成人影片由森澤佳奈出演\n很多年輕太太下午都會來男士美容院上班！想要在閒暇時間賺快錢的年輕妻子...自然地，他會完全勃起，因為他非常飢渴並且想要被命名！所以，當我把勃起的雞巴按在她的屁股上時，她不但不喜歡，反而很興奮！她還移動臀部並插入自己！一位年輕的美容師妻子，同時獲得零用錢和雞巴，笑容滿面。下午是與年輕妻子發生性關係的最佳時間，她擁有晚上之後再也看不到的最好身材！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407221431371371.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240407/20240407221431371371.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15495",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15495&name=森澤佳奈"
+    }
+  ]
+};

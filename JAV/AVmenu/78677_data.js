@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220825/rIG9GnmO/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78677,
+  "IDcode": "HUNTA-999",
+  "title": "混浴温泉に1人で入っていたら、町内会バスツアーの巨乳若妻たちが突然入ってきた！気まずくて出ようと思ったら巨乳若妻のタオルから大きな胸が…",
+  "publish_date": "2021-05-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "口交",
+    "和服，丧服",
+    "浴衣"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78677",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78677&name=田中寧寧"
+    },
+    {
+      "name": "奥井楓",
+      "img_url": "https://picture.yoshiclub.xyz/20240726/be65c9db-cf0f-4ccb-beaf-d67b3efbf372.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78677&name=奥井楓"
+    },
+    {
+      "name": "若宫はずき",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78677&name=若宫はずき"
+    },
+    {
+      "name": "高坂あいり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78677&name=高坂あいり"
+    },
+    {
+      "name": "新川爱七",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78677&name=新川爱七"
+    }
+  ]
+};

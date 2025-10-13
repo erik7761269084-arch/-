@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/09a7e80b-5d0a-44df-8fa9-257a99dbbb86/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7677,
+  "IDcode": "URE-121",
+  "title": "把小處男挑逗折磨玩弄到極限 地味巨乳人妻的熟女正太交尾5連發!!!!! 原作：藤崎チロ《我和事務員藤田小姐》完結篇全實拍化!! 超大容量超200分鍾 ~ 木下凜凜子",
+  "publish_date": "2025-03-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "巨尻",
+    "二次元",
+    "漫畫改編",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "倉庫",
+    "女上位",
+    "原作改編",
+    "口交",
+    "胖女人",
+    "騎乗位",
+    "慾求不滿",
+    "勾引・誘惑",
+    "巨乳",
+    "正太",
+    "熟女",
+    "眼鏡",
+    "豐滿",
+    "處男"
+  ],
+  "description": "URE-121为MADONNA出品,2025年3月11日发行的有碼成人影片由木下凜々子出演\n一部講述在虐待狂變態辦公室職員的控制下成為受虐狂的少年的純情戀愛訓練的成熟女性/少年同人誌的里程碑作品！但他不允許我和他發生性關係...但是，發生了一些事情，導致我和藤田先生發生了性關係！我以為這會是平等的關係，但是......結果今天又被藤田強暴了。",
+  "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123809428428.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305123809428428.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7677",
+  "actresses": [
+    {
+      "name": "木下凜々子",
+      "img_url": "https://picture.yoshiclub.xyz/20240511/c1a5a9d6-6708-4a6b-8bbd-24d72cbc6018.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7677&name=木下凜々子"
+    }
+  ]
+};

@@ -1,0 +1,68 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e8c301f1-54d8-4b30-b856-58edd832882a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/23/c4106704/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6306,
+  "IDcode": "JUR-287",
+  "title": "朋友炫耀每周和老婆大戰3次，我不服氣說我可以每周5次每次都3、4發中出。就這樣合計18發寢取了他老婆 ~ 橘瑪麗",
+  "publish_date": "2025-05-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "高顏值",
+    "家庭主妇",
+    "劇情",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "口爆",
+    "美腳",
+    "朋友女友・妻子",
+    "單體作品",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "熟女",
+    "寢取",
+    "野性",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "JUR-287为MADONNA出品,2025年5月9日发行的有碼成人影片由橘瑪麗出演\n最近跟老婆的次数越来越少，咋回事啊…以前从没这样过。大学死党 Kent 好久没见，约了一波聚会。这哥们儿结婚了，老婆玛丽不仅长得美还特会玩，他还特得意地说现在每周还能大战3次。单身的我，战斗力爆表的超绝伦男，听了心里那叫一个不爽！于是我直接找上玛丽，硬是把她给推倒了。我这战斗力，玛丽一边挣扎一边高潮不断，连续每周5天被我中出灌满，最后她老公完全满足不了她，直接被我拿下！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065234682682_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065234682682_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6306",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6306&name=橘瑪麗"
+    },
+    {
+      "name": "ニック",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6306&name=ニック"
+    }
+  ]
+};

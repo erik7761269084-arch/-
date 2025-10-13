@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/02/a5b51ead/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90874,
+  "IDcode": "BIJN-240",
+  "title": "THE ドキュメント 本能丸出しでする絶頂SEX 色白ムッチリ巨乳若妻快楽トリップ乱交交尾 水原みその パンティと生写真付き",
+  "publish_date": "2023-03-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "胖女人",
+    "滥交",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90874",
+  "actresses": []
+};

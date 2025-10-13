@@ -1,0 +1,26 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 1629,
+  "IDcode": "EBOD-203",
+  "title": "火燙的肉體 椎名優奈",
+  "publish_date": "2012-05-13",
+  "type": "无码",
+  "company": "E-BODY",
+  "genres": [
+    "騎乗位",
+    "無碼流出",
+    "巨乳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230405/1950c682-3dfa-40db-910f-c6f35b0f4f37.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230405/1950c682-3dfa-40db-910f-c6f35b0f4f37.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1629",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1629&name=椎名由奈"
+    }
+  ]
+};

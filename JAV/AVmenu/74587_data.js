@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250103/NZLw6vHQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74587,
+  "IDcode": "HND-695",
+  "title": "夏休みの雨上がり濡れ透けつるぺた従妹に中出ししまくった思い出 れむ",
+  "publish_date": "2019-07-25",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "精选，综合",
+    "中出",
+    "苗条",
+    "女生",
+    "瘦小身型",
+    "校服",
+    "流汗",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250103-1/16529470927fae42a31cc75c3ff2b5ea.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74587",
+  "actresses": [
+    {
+      "name": "早美怜夢",
+      "img_url": "https://picture.yoshiclub.xyz/20250309/ac3eeaa7-100d-40b5-aa3e-94edee995843.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74587&name=早美怜夢"
+    }
+  ]
+};

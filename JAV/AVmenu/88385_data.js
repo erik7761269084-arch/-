@@ -1,0 +1,21 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20231006/QInddQKT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 88385,
+  "IDcode": "JBD-223",
+  "title": "マニアの生贄 川崎紀里恵",
+  "publish_date": "2018-04-01",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "捆绑",
+    "SM"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/1c41fc514ea52f001c7cfe9ec0d5c326.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=88385",
+  "actresses": []
+};

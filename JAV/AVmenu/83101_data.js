@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221220/Y5sgCBWn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83101,
+  "IDcode": "MDTM-618",
+  "title": "イマドキ女子大生の過激なセックスライフ",
+  "publish_date": "2020-03-13",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "4小时以上作品",
+    "中出",
+    "女大学生",
+    "荡妇",
+    "玩具",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83101",
+  "actresses": [
+    {
+      "name": "水谷あおい",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/0e5dcb49ec859991528eb7f0c1e5efb4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83101&name=水谷あおい"
+    },
+    {
+      "name": "凉美ほのか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83101&name=凉美ほのか"
+    },
+    {
+      "name": "东条有希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83101&name=东条有希"
+    },
+    {
+      "name": "西村春香",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83101&name=西村春香"
+    }
+  ]
+};

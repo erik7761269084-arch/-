@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241001/DSDeOjg3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93012,
+  "IDcode": "NSFS-111-C",
+  "title": "投稿実話 妻がまわされた18 ～田舎生活に憧れた夫婦の悲劇～",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "人妻官能AV",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93012",
+  "actresses": []
+};

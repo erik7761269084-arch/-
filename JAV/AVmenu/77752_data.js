@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241125/DPydyTgu/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77752,
+  "IDcode": "MEYD-540",
+  "title": "本番なしのマットヘルスに行って出てきたのは隣家の高慢な美人妻。弱みを握った僕は本番も中出しも強要！店外でも言いなりの性奴隷にした 深田えいみ",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "礼仪小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77752",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77752&name=深田詠美"
+    }
+  ]
+};

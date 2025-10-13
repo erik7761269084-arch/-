@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/45973a5f-293b-4ad6-b0f6-a4ee639c7ef0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12739,
+  "IDcode": "MIST-446",
+  "title": "乳首發狂 最愛你的乳頭 ~ 花撫あや",
+  "publish_date": "2024-09-12",
+  "type": "有码",
+  "company": "Mr.Michiru",
+  "genres": [
+    "後入",
+    "黑絲",
+    "企畫",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "人妻",
+    "巨乳",
+    "抹油",
+    "熟女",
+    "女優"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240812/1db09bb9-2b94-4788-8825-10ddfd234b04.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240812/1db09bb9-2b94-4788-8825-10ddfd234b04.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12739",
+  "actresses": [
+    {
+      "name": "池谷佳純",
+      "img_url": "https://picture.yoshiclub.xyz/20240812/65ec1154-cdad-46fb-bad0-aab7738c1e67.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12739&name=池谷佳純"
+    }
+  ]
+};

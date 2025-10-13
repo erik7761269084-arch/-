@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240614/Rr9cyA3s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102487,
+  "IDcode": "IRO-050",
+  "title": "人妻痴●電車～さわられた七十路母～ 川畑千代子",
+  "publish_date": "2022-09-01",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "羞耻",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102487",
+  "actresses": []
+};

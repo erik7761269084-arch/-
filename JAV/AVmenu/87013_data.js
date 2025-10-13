@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/22/42dcd033/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87013,
+  "IDcode": "MIDV-146",
+  "title": "巨根子宮口開發 高潮陰道追撃抽插潮吹覺醒高潮 神宮寺奈緒",
+  "publish_date": "2022-07-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "多P",
+    "玩具",
+    "潮吹",
+    "口交",
+    "子宫颈",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87013",
+  "actresses": [
+    {
+      "name": "神宫寺奈绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87013&name=神宫寺奈绪"
+    }
+  ]
+};

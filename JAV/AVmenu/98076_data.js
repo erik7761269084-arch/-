@@ -1,0 +1,26 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98076,
+  "IDcode": "STAR-373-",
+  "title": "紗倉まな 激イキッ！！鬼ピストン（ハート）",
+  "publish_date": "2012-10-06",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P",
+    "玩具",
+    "女同性恋"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98076",
+  "actresses": [
+    {
+      "name": "纱仓真菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/ffac4f34-f3d3-4cb1-9910-380d0a1e3cba.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98076&name=纱仓真菜"
+    }
+  ]
+};

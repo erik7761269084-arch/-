@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ddbe1123-e7ad-41b0-98db-bc42958282f2/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11693,
+  "IDcode": "MIAB-335",
+  "title": "我是排球部的唯一的男生！？ 被兩位負責練習而欲求不滿的隊長榨幹精液的難忘日子！ ~ 瀨田一花 天月梓",
+  "publish_date": "2024-10-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "運動",
+    "倉庫",
+    "女上位",
+    "口交",
+    "運動服裝",
+    "騎乗位",
+    "性感",
+    "運動女孩",
+    "體育舘",
+    "更衣室",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "雙飛",
+    "巨乳",
+    "兩女一男"
+  ],
+  "description": "MIAB-335为MOODYZ出品,2024年10月1日发行的有碼成人影片由天月梓，瀬田一花出演\n《滿頭大汗的幸運青春SEX來了！ 》去年加入排球部時，排球部還是女子高中……我是唯一的男生！ ？我是排球初學者，但…隊長一花前輩和副隊長阿津前輩會一步步指導我！ （我立刻從她緊身製服的汗濕悶熱的乳房和屁股中勃起......）這是一個意想不到的充滿激情的雞巴撞擊指令！ ！運動員的性慾是無底的沼澤……每天都被從右到左近距離靠近，訓練騎乘他的角質雞巴雙打！ ！ 「你好多了♪來吧，再努力一點！」巨大的乳房！大屁股讓人無法抗拒！ ！中心青年15槍！很多製服都穿了！ ！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240926/202409260640211111.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240926/202409260640211111.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11693",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11693&name=天月梓"
+    },
+    {
+      "name": "瀬田一花",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/094e17d8-31bd-46e0-a18b-6a268f141685.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11693&name=瀬田一花"
+    }
+  ]
+};

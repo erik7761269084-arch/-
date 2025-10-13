@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 40013,
+  "IDcode": "388778DC7E5181D161FB278267774F64",
+  "title": "骚虎每周15部动作精彩大片剪辑 第三期",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=40013",
+  "actresses": []
+};

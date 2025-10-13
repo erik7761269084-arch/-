@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/15/7c5d190e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92950,
+  "IDcode": "NACR-596",
+  "title": "ごっくん大好き！タダまんドスケベ女子！！ 堀沢茉由 パンティと生写真付き",
+  "publish_date": "2022-10-20",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "中出",
+    "无毛",
+    "口交",
+    "吞精",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240914-1/7e18c1b5df9c58a8c0de40de19374bef.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92950",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220628/A4494725C1CE9A17/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64574,
+  "IDcode": "63CB9F6C2530FF49282862543A-800314",
+  "title": "- 宅集體輪姦爆乳角色扮演妹 RION - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64574",
+  "actresses": []
+};

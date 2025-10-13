@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e293b03f-49a3-4660-a4ad-aa02656593c1/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/20/898ec826/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 9046,
+  "IDcode": "MEYD-960",
+  "title": "在浴室修好之前的一周裏，我沉迷於與住在隔壁人妻進行短暫的、渾身溼透的性愛…… ~ 佐山愛",
+  "publish_date": "2025-01-21",
+  "type": "有码",
+  "company": "溜池",
+  "genres": [
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "勾引・誘惑",
+    "鄰居",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "美人",
+    "熟女"
+  ],
+  "description": "MEYD-960为溜池出品,2025年1月21日发行的有碼成人影片由佐山爱出演\n當我回到家時，我父母家的浴缸壞了，在去公共浴室的路上，我遇到了住在隔壁的艾，她說：「你可以使用我們的浴室！」我決定租用洗澡。當我一個人泡在浴缸裡，感謝小愛的好意時，小愛竟然一絲不掛地進來了！我因為從小就崇拜的愛桑的破壞力而失去了理智。從那天起，我和艾就陷入了一段短暫的戀情，這種戀情只在修理浴室期間持續，但是…",
+  "cover_url": "https://picture.yoshiclub.xyz/20250116/202501160727459191.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250116/202501160727459191.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9046",
+  "actresses": [
+    {
+      "name": "佐山爱",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/da434bd5-5190-4a50-b168-d139dc05cdc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9046&name=佐山爱"
+    }
+  ]
+};

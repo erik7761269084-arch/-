@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241018/ckxC86Nz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93959,
+  "IDcode": "REBD-867Mei",
+  "title": "REBD867Mei初恋サマーバケーション·五日市芽依",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "GRATZ",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/5412b7e5096666343e7c8e545e841a8b.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93959",
+  "actresses": []
+};

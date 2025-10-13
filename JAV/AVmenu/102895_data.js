@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221225/37EA7A1898FBABD6/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102895,
+  "IDcode": "MIDE-517",
+  "title": "ダメな夫のためにヌードモデルになった貞淑巨乳妻 JULIA",
+  "publish_date": "2018-02-26",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "羞耻",
+    "数位马赛克",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102895",
+  "actresses": [
+    {
+      "name": "JULIA",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/6d1aec6a-5674-4d76-80bd-d728856cdb66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102895&name=JULIA"
+    },
+    {
+      "name": "玉木玲",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102895&name=玉木玲"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102895&name=タツ"
+    }
+  ]
+};

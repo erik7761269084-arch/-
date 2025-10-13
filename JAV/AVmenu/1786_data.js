@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230326/8721498f-dfc4-4d26-9b57-2910ff1f8d7d/index.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20230320/CC5BE2E0BC4353BB/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1786,
+  "IDcode": "lafbd-37",
+  "title": "Laforet Girl Vol.37 真泉里奈",
+  "publish_date": "2014-12-22",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "深喉",
+    "乳交",
+    "中出",
+    "OL",
+    "潮吹",
+    "口交",
+    "美腳"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/64a9f067-328f-49aa-9218-10f7c571cb02.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/64a9f067-328f-49aa-9218-10f7c571cb02.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1786",
+  "actresses": [
+    {
+      "name": "星咲優菜",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/eb12651d-43bd-4b40-86f9-2acc979bf86e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1786&name=星咲優菜"
+    }
+  ]
+};

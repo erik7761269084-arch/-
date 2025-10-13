@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230302/3E038E061DC8140E/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99877,
+  "IDcode": "KTKL-064",
+  "title": "北関東のド田舎で義父と暮らす超貧乳少女ゆいチャンの自宅にて。※生活保護受けてます。",
+  "publish_date": "2019-11-19",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "苗条",
+    "平胸",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99877",
+  "actresses": [
+    {
+      "name": "永濑唯",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99877&name=永濑唯"
+    }
+  ]
+};

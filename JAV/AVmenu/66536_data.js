@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/20/e551475c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 66536,
+  "IDcode": "DNJR-143",
+  "title": "【FANZA限定】若奥様の性癖暴露～M男体験ドキュメント～ 私、SMバーで女王様として働いてました…でもM男が忘れられなくて今回応募しました りおさん チェキ付き",
+  "publish_date": "2025-06-11",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "已婚妇女",
+    "荡妇",
+    "M男",
+    "业余",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=66536",
+  "actresses": []
+};

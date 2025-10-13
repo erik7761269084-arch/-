@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3561e7ad-7b73-494f-b8b4-ee425e015c54/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/05/5c28e4af/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 10358,
+  "IDcode": "SSNI-469",
+  "title": "這樣的酒吧風俗娘太棒了！I Cpu極品巨乳奉仕 ~ 夕美紫苑",
+  "publish_date": "2019-05-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "黑絲",
+    "劇情",
+    "絕頂高潮",
+    "網襪",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "風俗夜場",
+    "騎乗位",
+    "白絲",
+    "風俗娘",
+    "性感",
+    "美少女",
+    "傳播妹",
+    "明星臉",
+    "情趣內衣",
+    "過膝襪・小腿襪",
+    "巨乳",
+    "獵豔",
+    "美少女電影"
+  ],
+  "description": "SSNI-469为S1出品,2019年5月7日发行的有碼成人影片由夕美紫苑出演\n如果有一個這樣的酒吧女孩該有多好啊！終極巨乳酒吧女孩“Shion”的頂級服務。 「用柔軟的乳房來釋放你的壓力吧」紫苑充分利用I罩杯巨乳的神作！一個女神的乳交包裹在超彈性的屁股裡。我很高興看到顧客完全勃起的雞巴，我把它完全插入了。 100%滿意度、100%產出率、100%重複率！ “如果一個顧客摩擦我的胸部......我會想把我的雞巴插進去。”",
+  "cover_url": "https://picture.yoshiclub.xyz/20241127/20241127034015407407.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241127/20241127034015407407.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10358",
+  "actresses": [
+    {
+      "name": "夕美紫苑",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/45ca7a81-3e04-47d3-ae04-c8f83c356ce5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10358&name=夕美紫苑"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10358&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/18/3ff1dede/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85572,
+  "IDcode": "MKMP-433",
+  "title": "暇を持て余したセレブ人妻たちのオトコを飼いならす淫乱不倫ハーレム性交",
+  "publish_date": "2022-01-11",
+  "type": "有码",
+  "company": "K.M.P",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "多P",
+    "荡妇"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85572",
+  "actresses": [
+    {
+      "name": "森澤佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/f3f101e1-4f3c-40ba-ab60-ce54f17f4c34.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85572&name=森澤佳奈"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85572&name=大槻响"
+    },
+    {
+      "name": "篠田优",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85572&name=篠田优"
+    }
+  ]
+};

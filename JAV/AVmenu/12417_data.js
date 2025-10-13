@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2d102c5c-cb7c-4525-9e36-8e37e0a11812/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/16/2eafe237/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12417,
+  "IDcode": "DNJR-127",
+  "title": "年輕人妻的性癖暴露 - M男體驗記錄 - 只經歷過正常的性行爲......但我愛上了一個M男……月野香澄",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "企畫",
+    "淫亂",
+    "性虐癖",
+    "網襪",
+    "調教",
+    "色白",
+    "中出",
+    "美乳",
+    "緊身衣",
+    "蕩婦",
+    "蒙面・面罩",
+    "亂交 • 群P",
+    "女上位",
+    "素人",
+    "重口味",
+    "口交",
+    "女王",
+    "性感",
+    "美少女",
+    "人妻",
+    "猥褻穿著",
+    "M男・M女",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "DNJR-127为妄想族出品,2024年8月13日发行的有碼成人影片由月野香澄出演\n「堅硬的受虐狂的雞巴讓我興奮...」意想不到的系列的第二部分！素人女子生平第一次遇見真正的受虐狂男人，女王天賦綻放！被強暴不只是女人的夢想……也有蕩婦有這種渴望！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815061402657657.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/20240815061402657657.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12417",
+  "actresses": [
+    {
+      "name": "月野香澄",
+      "img_url": "https://picture.yoshiclub.xyz/20231028/047ecb23-5b4b-47a3-91f5-f1839acc84b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12417&name=月野香澄"
+    }
+  ]
+};

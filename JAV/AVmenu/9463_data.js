@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1377bb4c-b566-4ab5-ac3d-263638b53941/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9463,
+  "IDcode": "ABF-186",
+  "title": "「我真的很喜歡做愛……」case.03 ~ 瀧本雫葉",
+  "publish_date": "2025-01-02",
+  "type": "有码",
+  "company": "蚊香社",
+  "genres": [
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蒙面・面罩",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "多P",
+    "美腳",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "高跟鞋",
+    "手指插入",
+    "女優訪談",
+    "美人",
+    "真實拍攝",
+    "紀錄片",
+    "極品美人",
+    "美少女電影",
+    "女優",
+    "飯店",
+    "苗條",
+    "後入",
+    "企畫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250102/7203631c-a7a1-4a59-b76e-b64596da182e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250102/7203631c-a7a1-4a59-b76e-b64596da182e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9463",
+  "actresses": [
+    {
+      "name": "瀧本雫葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231116/c99ddf36-8fca-44bc-86f4-ed7f1ffcd522.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9463&name=瀧本雫葉"
+    }
+  ]
+};

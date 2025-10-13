@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41f6e7cd-d3c7-4375-8ef6-de23e08b218f/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 19346,
+  "IDcode": "IPX-093",
+  "title": "可幹到內射的奶子摸摸茶！",
+  "publish_date": "2018-02-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "乳交",
+    "風俗娘",
+    "數位馬賽克",
+    "巨乳",
+    "偷窺"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528021450270270.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230528/20230528021450270270.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19346",
+  "actresses": [
+    {
+      "name": "神咲詩織",
+      "img_url": "https://picture.yoshiclub.xyz/20230528/fd771b7d-c1da-45c2-bac6-b7ac969fb530.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=19346&name=神咲詩織"
+    }
+  ]
+};

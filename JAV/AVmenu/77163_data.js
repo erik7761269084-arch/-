@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241126/ojq8iI3w/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 77163,
+  "IDcode": "MIAA-170",
+  "title": "童貞を卒業しに行ったソープで出会った年上のお姉さんとおれのどエロすぎて切ない初恋 深田えいみ",
+  "publish_date": "2019-10-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "恋爱",
+    "礼仪小姐",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241127-1/cfb3703be772e6bb659b89b82aca7ec9.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=77163",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=77163&name=深田詠美"
+    }
+  ]
+};

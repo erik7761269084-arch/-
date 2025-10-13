@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241105/thhpNaUI/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94885,
+  "IDcode": "SYKH-108",
+  "title": "ブーツの美魔女とナマ交尾 即ズボチ〇ポの快感に美貌が蕩ける… あやめさん28歳",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "恋腿癖",
+    "立即口交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94885",
+  "actresses": []
+};

@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/8b697405-b431-4a77-86ef-f15270c9726c/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 16126,
+  "IDcode": "SONE-079",
+  "title": "享受120％的搖擺臀部，按摩和肛門的美麗的女士與白皙的皮膚豐滿的大屁股戀物癖感性視頻 宮城理惠",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "淫亂",
+    "巨尻",
+    "臀控",
+    "乳交",
+    "中出",
+    "美乳",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "女優",
+    "飯店"
+  ],
+  "description": "SONE-079为S1出品,2024年2月27日发行的有碼成人影片由宮城理惠出演\n擦、捏、弄溼、埋、一路推！ 5個工具就能享受極品豐臀的超級肉感大屁股狂人！當然，這個屁股並不是唯一的。白皙的皮膚和渾圓的身材也很棒！她美麗的曲線美到讓人看了就心動！更何況，這個屁股上還融合了一個聰明的美少女，還有一張超可愛的臉，就在我眼前……！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223082214180180.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240223/20240223082214180180.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16126",
+  "actresses": [
+    {
+      "name": "宮城理惠",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/162afcfa-5253-47f7-85ae-a63e86fbca79.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16126&name=宮城理惠"
+    }
+  ]
+};

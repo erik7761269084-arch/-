@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/03/02/0cf4b9b0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105812,
+  "IDcode": "REXD-503",
+  "title": "下着の中まで調べ上げろ！ 香典袋を盗んだ女 弥生みづき",
+  "publish_date": "2024-01-23",
+  "type": "有码",
+  "company": "卍GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "姐姐",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/03/02/f8e8bdcc5ff058deffdf777a4369db8f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105812",
+  "actresses": [
+    {
+      "name": "平井シンジ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105812&name=平井シンジ"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105812&name=岩下たろう"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105812&name=弥生美月"
+    }
+  ]
+};

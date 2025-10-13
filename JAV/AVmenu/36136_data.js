@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220307/0E1E95E4D1C83884/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 36136,
+  "IDcode": "613918F372BAE0272DE535CDC-8344880",
+  "title": "高級会員制クラブ『雅』4 後編～欲望の狂宴～",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36136",
+  "actresses": []
+};

@@ -1,0 +1,57 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b3f85e10-98ec-486d-abc7-c1fb1202e094/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/03/d5f73de8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6948,
+  "IDcode": "BACJ-148",
+  "title": "指技騷到爆回頭客不斷的極致調教按摩店 ~ 五十嵐清華",
+  "publish_date": "2025-04-09",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "按摩女郎",
+    "深喉",
+    "按摩・物理治療・美容",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "明星臉",
+    "手指插入",
+    "抹油",
+    "美人",
+    "大奶头",
+    "極品美人"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250409/7669f549-03fb-492d-a674-50ee9ed2fdd5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250409/7669f549-03fb-492d-a674-50ee9ed2fdd5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6948",
+  "actresses": [
+    {
+      "name": "五十嵐清華",
+      "img_url": "https://picture.yoshiclub.xyz/20240815/7d552de7-8cc3-40d1-9ab4-ff7409538e66.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6948&name=五十嵐清華"
+    }
+  ]
+};

@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2cb3d5ce-79ee-4087-97ad-520d7b398482/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 6107,
+  "IDcode": "EBWH-219",
+  "title": "剛來大城市就陷進去啦！對面房間的巨乳浪女每天換男人，我卻憋得要死 ~ 清宮仁愛",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "鄰居",
+    "單體作品",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "美人",
+    "辣妹/GAL系",
+    "美少女電影",
+    "野性",
+    "豐滿",
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "慾求不滿"
+  ],
+  "description": "EBWH-219为E-BODY出品,2025年5月16日发行的有碼成人影片由清宮仁愛出演\n从乡下刚搬到大城市的我，无意间从窗户瞅见对面房间的巨乳辣妹在跟男人激战！没几天又换了个男的，她那火辣身材和J杯大胸简直让人喷鼻血。我天天偷看，结果被她发现了，直接喊我：嘿，小哥，老盯着看啥？来我家玩呗！就这样，我俩稀里糊涂滚了床单。她那风骚又开朗的性格，床上功夫更是绝了，我慢慢对她动了真心。可她完全不care我的感情，转头又跟别的男人搞上了！我气炸了，忍不住质问她：为啥能跟那么多男人乱来啊！她却幽幽地说：我以为你能懂我，咱俩都是乡下来的，我也很空虚啊…这是一段隔着窗户的虐心又色气的纯爱故事，巨乳辣妹的诱惑，真的让人上头！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042526598598_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042526598598_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6107",
+  "actresses": [
+    {
+      "name": "清宮仁愛",
+      "img_url": "https://picture.yoshiclub.xyz/20240414/61d09530-6aa9-4dbe-983f-1243fff4c365.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6107&name=清宮仁愛"
+    }
+  ]
+};

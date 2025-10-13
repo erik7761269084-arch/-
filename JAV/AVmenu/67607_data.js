@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250422/Vq1OQCtn/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67607,
+  "IDcode": "YMDS-124",
+  "title": "愛愛在家喝酒濃厚深吻密著做愛 波多野結衣成為我女友的那一天",
+  "publish_date": "2022-12-06",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "第一人称摄影",
+    "玩具",
+    "潮吹",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250423-1/712ec213e698f14dc22d32a4ca6e6fa4.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67607",
+  "actresses": [
+    {
+      "name": "波多野结衣",
+      "img_url": "https://picture.yoshiclub.xyz/20230122/e7667588-ac34-4d62-810e-bec5f039db3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=67607&name=波多野结衣"
+    }
+  ]
+};

@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/35e3dc37-8d42-49a8-96b5-e223fe4cfa7b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/19/b990b770/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4371,
+  "IDcode": "MXGS-1391",
+  "title": "渣男友的命令下NTR實錄 ~ 和久井美兎",
+  "publish_date": "2025-07-16",
+  "type": "有码",
+  "company": "MAXING",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "在丈夫面前被操",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "調教",
+    "變態",
+    "凌辱",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "口交",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "少女",
+    "口爆",
+    "SM",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "奇聞趣事",
+    "單體作品",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "M男・M女",
+    "NTR",
+    "美人",
+    "口球",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "MXGS-1391为MAXING出品,2025年7月16日发行的有碼成人影片由和久井美兎出演\n男友無聊到不行，竟然說：'看你跟別的男人上床我超想看！不願意就分手啦！' 沒轍，只能聽他的，第一次跟陌生男人拍片，從口技開始到被男友親自錄影的羞恥玩法！一開始還很抗拒，但慢慢就興奮到不行，高潮連連...最後男友也加入，來了場中出3P，真的刺激到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716001307182182_67284_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250716/20250716001307182182_67284_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4371",
+  "actresses": [
+    {
+      "name": "和久井美兎",
+      "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4371&name=和久井美兎"
+    }
+  ]
+};

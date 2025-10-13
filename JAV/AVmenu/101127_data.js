@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240112/s7FTF4Pv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101127,
+  "IDcode": "SIRO-5197",
+  "title": "【豊満EカップOL】「何か新しい事に挑戦してみたいから・・・」スタイル抜群の清楚系OLが決心のAV応募！久しぶりのSEXに自慢のEカップ巨乳を激しく揺らす。 【初撮り】ネットでAV応募→AV体験撮影 2089",
+  "publish_date": "2023-12-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101127",
+  "actresses": [
+    {
+      "name": "羽佐美めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101127&name=羽佐美めい"
+    },
+    {
+      "name": "めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101127&name=めい"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56298,
+  "IDcode": "13B15B0D3DCDEFD297CF36A2AB582310",
+  "title": "オフィス街で外回り中の男上司と女部下に",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56298",
+  "actresses": []
+};

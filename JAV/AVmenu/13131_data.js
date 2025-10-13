@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/97bedc46-17db-4476-843a-b74fb6dd7362/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241021/0fdirXkN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13131,
+  "IDcode": "SDMUA-085",
+  "title": "我會一次又一次地射精到你即將絕經前的子宮裏，讓你懷上孩子~已婚人妻大學生之間的4個月外遇記錄~居住在小山市，43歲，一個孩子的母親，兼職工作",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "素人作品",
+    "69",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "潮吹",
+    "素人",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "不倫",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "艷遇",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240723/49bb4428-869b-4e94-b1f8-5d9475746a86.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240723/49bb4428-869b-4e94-b1f8-5d9475746a86.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13131",
+  "actresses": []
+};

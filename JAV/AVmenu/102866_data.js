@@ -1,0 +1,35 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 102866,
+  "IDcode": "AUKG-448-",
+  "title": "五十路を誘う魔性の微笑み～匂う熟女の矯正下着レズビアン～",
+  "publish_date": "2019-02-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "精选，综合",
+    "成熟的女人",
+    "已婚妇女",
+    "内衣",
+    "女同性恋",
+    "恋物癖",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102866",
+  "actresses": [
+    {
+      "name": "さくらい麻乃",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102866&name=さくらい麻乃"
+    },
+    {
+      "name": "黒柳美沙子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102866&name=黒柳美沙子"
+    }
+  ]
+};

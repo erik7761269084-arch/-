@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41a9b207-f9f5-4798-92e4-45e0bbd80527/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/01/23/0b35e352/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11023,
+  "IDcode": "START-178",
+  "title": "探望搬到鄉下的前男友……與即將結婚的女人無套中出性愛，久別後的重逢 ~ 宮島芽衣",
+  "publish_date": "2024-11-21",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "鄉下",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "前女友",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "慾求不滿",
+    "美腳",
+    "美少女",
+    "清純",
+    "手指插入",
+    "NTR",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241029/b220a833-e41f-44d6-a95a-f8c2db24fd21.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241029/b220a833-e41f-44d6-a95a-f8c2db24fd21.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11023",
+  "actresses": [
+    {
+      "name": "宮島芽衣",
+      "img_url": "https://picture.yoshiclub.xyz/20241126/9ac5abc7-e67d-467d-8830-357eff61bf9a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11023&name=宮島芽衣"
+    },
+    {
+      "name": "宫岛めい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11023&name=宫岛めい"
+    }
+  ]
+};

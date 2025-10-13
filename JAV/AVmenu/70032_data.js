@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/05/d1ae954e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70032,
+  "IDcode": "FNEW-008",
+  "title": "真面目な就活生とばぶばぶ退行 性癖解放おむつ交尾 （メスガキ23） 片寄しゅうか",
+  "publish_date": "2025-03-27",
+  "type": "有码",
+  "company": "FIRST STAR",
+  "genres": [
+    "中出",
+    "放尿",
+    "羞耻",
+    "恋物癖",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/d1ae954e/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70032",
+  "actresses": [
+    {
+      "name": "片寄しゅうか",
+      "img_url": "https://picture.yoshiclub.xyz/20240712/c96e9b68-62a1-4fbf-a0be-7e6d85c36fd1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70032&name=片寄しゅうか"
+    }
+  ]
+};

@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/1a0e7bca-349b-46a3-b5a6-0d4477920f20/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/09/05/d02ea430/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3197,
+  "IDcode": "FOCS-271",
+  "title": "超敏感肉體狂噴水 減肥按摩院體質改造後小心脫水無止境潮吹 沉迷特殊快感NTR按摩的G杯正妹 ~ 瀧川蓳",
+  "publish_date": "2025-08-28",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "舔腳",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "按摩・美容店",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "NTR",
+    "美人",
+    "辣妹/GAL系",
+    "寢取",
+    "誘騙女性",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "FOCS-271为妄想族出品,2025年8月28日发行的有碼成人影片由瀧川蓳出演\n被同居男友嫌弃身材走样，趁着他出差一个月，蓳决定要瘦身变美，报名了一家减肥按摩院。起初对男按摩师有点抗拒，但按摩效果太惊艳，慢慢就彻底信任对方……没想到按摩到最后竟然变成狂喷潮吹的高潮性爱，蓳的身心完全沦陷在按摩师的顶级手法中，无法自拔！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042102456456_52512_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042102456456_52512_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3197",
+  "actresses": [
+    {
+      "name": "瀧川蓳",
+      "img_url": "https://picture.yoshiclub.xyz/20250404/fa4d489f-50a3-4797-8d60-2612cf71cb3c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3197&name=瀧川蓳"
+    }
+  ]
+};

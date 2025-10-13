@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240218/tkcaCKA0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101244,
+  "IDcode": "SIRO-5209",
+  "title": "【締めつけ最高の名器】「気持ち良くなりたくて…」と応募してきてくれたプリ尻女子大生！エロさMAXのえっちなカラダを堪能！徐々にスイッチが入ってくる姿は圧巻！ 【初撮り】ネットでAV応募→AV体験撮影 2096",
+  "publish_date": "2024-01-13",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "女大学生",
+    "第一人称摄影",
+    "屁股",
+    "业余",
+    "乳房"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101244",
+  "actresses": [
+    {
+      "name": "四季",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101244&name=四季"
+    }
+  ]
+};

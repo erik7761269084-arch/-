@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/29/fed3a1f6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85151,
+  "IDcode": "KIRE-084",
+  "title": "傲慢イケイケ女上司がゴミクズ無能部下と出張相部屋 パワハラに逆上されて失禁するほどイカされて中出しされ続けた 藤森里穂",
+  "publish_date": "2022-10-06",
+  "type": "有码",
+  "company": "NEXT",
+  "genres": [
+    "巨乳",
+    "中出"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/7e2a0bd77a67e164050613a3b7dc9821.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85151",
+  "actresses": [
+    {
+      "name": "藤森里穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/008d5bc1-503e-47e4-97e4-2d590105cda7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85151&name=藤森里穂"
+    }
+  ]
+};

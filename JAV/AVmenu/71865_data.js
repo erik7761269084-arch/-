@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/5UE4VfA0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71865,
+  "IDcode": "BADA-006",
+  "title": "モテる若妻の淫風の日々～あたりまえの‘ごっくん中出し連続絶頂’が不倫相手を虜にさせる～ 七瀬ひな",
+  "publish_date": "2019-11-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "出轨",
+    "苗条",
+    "吞精",
+    "新娘，年轻妻子"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71865",
+  "actresses": [
+    {
+      "name": "七海雛",
+      "img_url": "https://picture.yoshiclub.xyz/20250226/18bffa55-bf61-4382-a9f9-3fbc332af689.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71865&name=七海雛"
+    }
+  ]
+};

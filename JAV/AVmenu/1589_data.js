@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230405/52ce5789-af82-4fcb-b962-a5bd61d50f3c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1589,
+  "IDcode": "MXGS-784",
+  "title": "下海4周年紀念！第一次中出！ 由愛可奈 A",
+  "publish_date": "2015-07-16",
+  "type": "无码",
+  "company": "MAXING",
+  "genres": [
+    "中出",
+    "無碼流出",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230404/20230404092017786786.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230404/20230404092017786786.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1589",
+  "actresses": [
+    {
+      "name": "水川潤",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/69551c45-454c-413d-8545-fd79e533a311.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1589&name=水川潤"
+    }
+  ]
+};

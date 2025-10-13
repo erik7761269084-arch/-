@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6de33fa0-fe81-428a-8e74-b2de7d34e75d/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241026/f9mz6jJM/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17821,
+  "IDcode": "STARS-957",
+  "title": "極上做愛射精後的精子用最棒的口交一滴都不要浪費的舔掉",
+  "publish_date": "2023-12-07",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "企畫",
+    "吞精",
+    "中出",
+    "亂交 • 群P",
+    "顏射",
+    "口交",
+    "性感",
+    "舔陰",
+    "口爆",
+    "多P",
+    "巨乳",
+    "手指插入",
+    "女優"
+  ],
+  "description": "STARS-957为SOD出品,2023年12月7日发行的有碼成人影片由夏目響出演\n她被舔的快感驚醒。越舔越能感受到高潮的反覆…用擠出精液的細緻口交將其舔掉！舌尖相互纏繞的深吻！對於舔戀人來說，這是不可抗拒的！享受夏目響如果你想，那就来吧！\n她被舔的快感驚醒。越舔越能感受到高潮的反覆…用擠出精液的細緻口交將其舔掉！舌尖相互纏繞的深吻！對於舔戀人來說，這是不可抗拒的！享受夏目響如果你想，那就来吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024918124124.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231115/20231115024918124124.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17821",
+  "actresses": [
+    {
+      "name": "夏目響",
+      "img_url": "https://picture.yoshiclub.xyz/20240716/ec528bca-b23f-466f-bf41-2fa4c9b031dd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17821&name=夏目響"
+    },
+    {
+      "name": "夏目响",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17821&name=夏目响"
+    }
+  ]
+};

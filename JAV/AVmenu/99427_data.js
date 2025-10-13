@@ -1,0 +1,34 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 99427,
+  "IDcode": "BBAN-217-",
+  "title": "飲尿-浴尿レズビアン～相手の体液全てを味わい尽くしまみれる2人～",
+  "publish_date": "2019-02-07",
+  "type": "有码",
+  "company": "BIBIAN",
+  "genres": [
+    "精选，综合",
+    "女同性恋",
+    "女同接吻",
+    "饮尿",
+    "COSPLAY服饰",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99427",
+  "actresses": [
+    {
+      "name": "宫崎彩",
+      "img_url": "https://picture.yoshiclub.xyz/20230701/5391bf25-c850-4c23-8f3b-e8947519f2bd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99427&name=宫崎彩"
+    },
+    {
+      "name": "七海ゆあ",
+      "img_url": "https://www.hhkoo.com/d/file/20180126/a2532a72644883402720ababf0002dc5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99427&name=七海ゆあ"
+    }
+  ]
+};

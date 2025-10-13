@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/07/18/915ae851/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100457,
+  "IDcode": "PRED-321",
+  "title": "都合の良い女上司。オレのチ○ポの虜でいいなり希島部長と相部屋でヤリまくり出張不倫旅行 希島あいり",
+  "publish_date": "2021-07-07",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "戏剧",
+    "中出",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/pred321/pred321pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100457",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100457&name=希島愛理"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100457&name=蓝井优太"
+    }
+  ]
+};

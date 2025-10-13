@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230212/GewFQ0Rt/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86782,
+  "IDcode": "APKH-114",
+  "title": "「もっと掻き回して！」天然Gカップ巨乳を揺らす超肉感の絶頂騎乗位！包み込むパイズリと濃蜜フェラの至極ご奉仕！SEX狂の制服美少女 森本つぐみ",
+  "publish_date": "2019-09-13",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "精选，综合",
+    "巨乳",
+    "中出",
+    "第一人称摄影",
+    "颜射",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/16c3c06b8510fcb010df595e6ca18df1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86782",
+  "actresses": [
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86782&name=森本つぐみ"
+    }
+  ]
+};

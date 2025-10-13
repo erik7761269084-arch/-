@@ -1,0 +1,74 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5dfa263a-496c-4a08-b644-466f4382b628/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/086db254/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3903,
+  "IDcode": "INSTNA-005",
+  "title": "溫泉粉絲祭 2泊3日無套亂交內射派對，粉絲感恩大放送 ~ 紗紗原百合 小那海綾",
+  "publish_date": "2025-07-07",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "4K",
+    "臀控",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "高妹",
+    "接吻",
+    "美腳",
+    "感謝祭",
+    "明星臉",
+    "清純",
+    "巨乳",
+    "手指插入",
+    "粉絲福利",
+    "粉丝",
+    "美人",
+    "兩男兩女",
+    "溫泉",
+    "大奶头",
+    "極品美人",
+    "豐滿",
+    "無毛"
+  ],
+  "description": "INSTNA-005为H.M.P 芳友舍出品,2025年7月7日发行的有碼成人影片由小那海綾，紗紗原百合出演\n一群熱衷素人拍攝的老司機，為了感謝粉絲一路支持，特別找來超人氣的兩位正妹，包下整間溫泉旅館，舉辦了一場三天兩夜的超狂亂交派對！抽獎中獎的幸運粉絲們興奮到炸裂，本以為只是泡泡溫泉喝喝酒，沒想到一聽說可以無套內射，個個變成飢渴野狼，瘋狂輸出，場面直接失控！房門一開，兩個絕色小妖精登場，身材辣到不行，浴衣底下藏不住的極品翹臀，簡直讓人鼻血直噴！她們一上來就狂秀口技，粉絲們直接嗨到大喊，差點當場投降！還沒回過神，兩個妹子直接跨坐上來，翹臀上下猛烈撞擊，雙倍快感讓人完全頂不住，眼前的畫面實在太色氣了！再這樣下去，明天的大亂交還沒開場，兄弟們就要被榨乾啦！來吧，兄弟們，翻身反擊的時刻到了！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804003857999999_71028_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250804/20250804003857999999_71028_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3903",
+  "actresses": [
+    {
+      "name": "小那海綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/1f4dc819-5d18-4526-9273-6eba7b32fa08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3903&name=小那海綾"
+    },
+    {
+      "name": "紗紗原百合",
+      "img_url": "https://picture.yoshiclub.xyz/20240214/84ef27e3-7750-48a1-a9b4-fadaa07120ef.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3903&name=紗紗原百合"
+    }
+  ]
+};

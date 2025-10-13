@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9704ea65-4272-49fe-9fe9-ced9cecff934/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 972,
+  "IDcode": "HEYZO-1346",
+  "title": "先輩，喜歡枕頭嗎？ - 深見裏奈",
+  "publish_date": "2016-12-07",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "69",
+    "乳交",
+    "中出",
+    "OL",
+    "淫語",
+    "打手槍"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240216/38a36716-3c9f-46a3-b592-fbabaa903843.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240216/38a36716-3c9f-46a3-b592-fbabaa903843.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=972",
+  "actresses": [
+    {
+      "name": "深美里奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/4461dce1-ab3d-4d79-952b-4df419a181fe.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=972&name=深美里奈"
+    }
+  ]
+};

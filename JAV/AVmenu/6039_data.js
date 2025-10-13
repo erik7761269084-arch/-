@@ -1,0 +1,113 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/05ec9962-d1ff-4435-93b9-f8c1e055a21a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/18/74387a1c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6039,
+  "IDcode": "PBD-493",
+  "title": "陷入性感大姐姐的極致口暴服務沼澤無法自拔 ~ 楪可憐 月乃露娜 竹內有紀 長谷川夕奈 希島愛理 尾崎惠梨香 鬆本梨穂 橫宮七海",
+  "publish_date": "2025-05-16",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "苗條",
+    "高顏值",
+    "大姐姐",
+    "企畫",
+    "劇情",
+    "巨尻",
+    "無做愛場面",
+    "吞精",
+    "深喉",
+    "色白",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "感官作品",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "姐姐・妹妹",
+    "女神",
+    "局部特寫",
+    "性感",
+    "舔陰",
+    "高妹",
+    "少女",
+    "接吻",
+    "口爆",
+    "唾液敷面",
+    "美腳",
+    "美少女",
+    "自慰",
+    "明星臉",
+    "御姐系",
+    "清純",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "美人",
+    "精選綜合",
+    "極品美人",
+    "美少女電影",
+    "女優"
+  ],
+  "description": "PBD-493为PREMIUM出品,2025年5月16日发行的有碼成人影片由希島愛理 ，楪可憐，月乃露娜，横宮七海，松本梨穂，尾崎惠梨香，長谷川夕奈，竹内有紀出演\n被經驗豐富的大姊姊那讓人上癮的口技服務徹底迷倒！她不只舔棒舔蛋還舔菊花，技術屌到爆，吸得你精液狂噴，完全停不下來！那甜美笑容下的蛋蛋舔弄，簡直讓精子生產加速到起飛！最頂級的菊花服務，爽到你尖叫連連，興奮到不行！濃稠的精液她還故意秀給你看，直接吞下去！這些性感大姊姊用她們熟練又優雅的口技，榨得你精盡人亡，爽到發瘋！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063814809809_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063814809809_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6039",
+  "actresses": [
+    {
+      "name": "希島愛理",
+      "img_url": "https://picture.yoshiclub.xyz/20240411/ba25a91c-ad17-414b-8714-229b43712b58.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=希島愛理"
+    },
+    {
+      "name": "楪可憐",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/1f48a437-7d85-4aa3-977f-7cced42039fa.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=楪可憐"
+    },
+    {
+      "name": "尾崎惠梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/f57001d3-f004-4808-b92a-9368d0918b62.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=尾崎惠梨香"
+    },
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=月乃露娜"
+    },
+    {
+      "name": "松本梨穂",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/0e7de225-b13f-4f8e-b0ba-87a3fda834eb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=松本梨穂"
+    },
+    {
+      "name": "山岸逢花",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/1b1a08ff-de5b-4c1c-9afb-dadab8ee6afd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=山岸逢花"
+    },
+    {
+      "name": "竹内有紀",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/d5d5021b-67a2-4f42-88dd-d2222f6efb3d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=竹内有紀"
+    },
+    {
+      "name": "横宮七海",
+      "img_url": "https://picture.yoshiclub.xyz/20230917/46de250d-6034-43d1-ab6f-6e3d4a519176.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=横宮七海"
+    },
+    {
+      "name": "長谷川夕奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/5bb30062-3dcc-418b-94dc-00ab747ad25d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=長谷川夕奈"
+    },
+    {
+      "name": "香椎花乃",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250712/bb8fea6e-ed05-4b85-824e-97c09961520b_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6039&name=香椎花乃"
+    }
+  ]
+};

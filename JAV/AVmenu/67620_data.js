@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250416/69ir69Hv/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 67620,
+  "IDcode": "MEYD-791",
+  "title": "私、実は夫の上司に犯●れ続けてます… 双葉くるみ",
+  "publish_date": "2022-11-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "白天出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67620",
+  "actresses": []
+};

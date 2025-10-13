@@ -1,0 +1,64 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6ecae3b1-751f-4b42-9ea5-c9b2d43670d5/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 157,
+  "IDcode": "HEYZO-0138",
+  "title": "性感女醫幫你解決性困擾 上集 ~ Rinka",
+  "publish_date": "2012-10-14",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "醫院・診所",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "女醫生",
+    "少女",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "金髮",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "醫生製服",
+    "看病・住院",
+    "美人",
+    "熟女",
+    "辣妹/GAL系",
+    "極品美人",
+    "野性"
+  ],
+  "description": "HEYZO-0138为HEYZO出品,2012年10月14日发行的無碼成人影片由徳川静香出演\n秋天越來越濃，天氣也開始涼颼颼的，兄弟們最近身體如何啊？啥？感覺有點不對勁？那就趕緊來HEYZO診所掛號啦！超辣微熟女Rinka醫生親自坐診，給你最貼心的治療體驗！啥治療？別急，咱慢慢看。首先是對一個童貞小哥哥進行診斷，Rinka醫生直接用胸當聽診器，帶你一步步擺脫對女性的緊張，舌吻、舔胸大放送，最後還用口技來個終極治療，技術簡直絕了！接著是對一個不感症患者，Rinka醫生全身心投入，胸技按摩讓症狀大有好轉，最後直接插入，給你來個徹底解放！後面的劇情咋樣？嘿嘿，自己看吧，絕對刺激到爆！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/20250708035354571571_96910_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250708/20250708035354571571_96910_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=157",
+  "actresses": [
+    {
+      "name": "徳川静香",
+      "img_url": "https://picture.yoshiclub.xyz/20250407/114dc657-5011-4988-9253-c8bc978656b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=157&name=徳川静香"
+    }
+  ]
+};

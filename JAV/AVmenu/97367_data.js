@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220308/77E5900076E79043/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97367,
+  "IDcode": "DG-006",
+  "title": "【CASE＃2】就活面接に来た女子大生にSEXリキッド入りのお茶を出した結果...！？",
+  "publish_date": "2024-07-08",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1596dg006/h_1596dg006pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97367",
+  "actresses": []
+};

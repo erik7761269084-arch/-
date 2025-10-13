@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250403/f4HMBFUZ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68593,
+  "IDcode": "MIDV-244",
+  "title": "與清爽笑臉反差過頭濕濡露內褲全力誘惑的小惡魔學生會長 九野雛乃",
+  "publish_date": "2022-12-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "荡妇",
+    "内衣",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68593",
+  "actresses": [
+    {
+      "name": "九野雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/25340066-475f-4e48-82af-79d90054c935.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68593&name=九野雛乃"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68593&name=鲛岛"
+    }
+  ]
+};

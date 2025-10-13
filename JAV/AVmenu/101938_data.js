@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240506/mFknLlYT/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101938,
+  "IDcode": "WPSL-142",
+  "title": "I Love オジサマ 逢見リカ",
+  "publish_date": "2022-08-04",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "乳交",
+    "巨乳",
+    "无毛",
+    "69",
+    "女上位",
+    "制服",
+    "口交",
+    "舔阴",
+    "手淫",
+    "接吻",
+    "骑乗位",
+    "素人作品",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101938",
+  "actresses": []
+};

@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221007/xpe1HTf7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 58040,
+  "IDcode": "GACHI-1133",
+  "title": "オムニバス　−マンコレ番外編　中出しマ〇コ−",
+  "publish_date": "2017-05-03",
+  "type": "无码",
+  "company": "MILK",
+  "genres": [
+    "尿失禁",
+    "巨乳爆乳",
+    "白虎",
+    "素人",
+    "中出",
+    "肉肉女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58040",
+  "actresses": []
+};

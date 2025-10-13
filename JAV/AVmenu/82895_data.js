@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241006/gs6jciBq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82895,
+  "IDcode": "PPPD-766",
+  "title": "無愛想なお隣の巨乳お姉さんと1週間のツンデレ同棲生活 Hitomi",
+  "publish_date": "2019-06-19",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "巨乳",
+    "中出",
+    "姐姐",
+    "恋爱",
+    "蛮横娇羞"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/73a01896f1054b4ecaa3acfff179461e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82895",
+  "actresses": [
+    {
+      "name": "田中瞳",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/188e71b46fd4b376e545cd76ce28fcd4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82895&name=田中瞳"
+    }
+  ]
+};

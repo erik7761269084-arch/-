@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240105/uWYh9B4V/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89685,
+  "IDcode": "SDAB-289",
+  "title": "嫌がる制服美少女をヤリ部屋で終日加●教育 新宿区●●ハイツ305号室 半べそでイキ狂うまでイラマ性交 樟葉杏",
+  "publish_date": "2023-12-19",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "高中女生",
+    "淫乱，真实",
+    "多P",
+    "放尿",
+    "制服",
+    "运动短裤",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/5548b61a11b055dd5918d8f3babc64d5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89685",
+  "actresses": [
+    {
+      "name": "樟葉杏",
+      "img_url": "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89685&name=樟葉杏"
+    }
+  ]
+};

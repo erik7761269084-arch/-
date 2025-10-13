@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/02/25/72d9eb9c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 72009,
+  "IDcode": "NPJS-147",
+  "title": "【個撮】 担当ホストに貢ぎたくて、個撮に応募してきた裏垢女子。 「金額次第で何でも…」 撮影始めたら変態娘で理性は薄れSEX没入。 【許可済み販売】",
+  "publish_date": "2025-02-04",
+  "type": "有码",
+  "company": "NAPA-JAPAN",
+  "genres": [
+    "精选，综合",
+    "巨乳",
+    "第一人称摄影",
+    "业余",
+    "猎艳",
+    "美少女电影",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72009",
+  "actresses": [
+    {
+      "name": "椎名心春",
+      "img_url": "https://picture.yoshiclub.xyz/20240313/10a399b7-9efa-44ef-ad74-821acd8d054a.png",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=72009&name=椎名心春"
+    }
+  ]
+};

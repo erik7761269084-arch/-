@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230123/ce4bf0ab-be70-41d0-81cd-c1f1eb62f99a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1846,
+  "IDcode": "LAFBD-66",
+  "title": "林間少女 66 重現她的初體驗！！ :楓優香",
+  "publish_date": "2015-12-25",
+  "type": "无码",
+  "company": "LAFORET GIRL",
+  "genres": [
+    "深喉",
+    "中出",
+    "美乳",
+    "口交",
+    "美腳",
+    "學校",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230124/0cd91936-d823-4f07-8e70-0c5338af86f9.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230124/0cd91936-d823-4f07-8e70-0c5338af86f9.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1846",
+  "actresses": [
+    {
+      "name": "楓優香",
+      "img_url": "https://picture.yoshiclub.xyz/20230124/b19f395a-0c5b-4c3a-8e8d-c514c67650b1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1846&name=楓優香"
+    }
+  ]
+};

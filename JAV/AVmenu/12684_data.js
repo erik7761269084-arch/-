@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/db76c481-ce89-451f-97bb-7b0499bcea1d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12684,
+  "IDcode": "BAGR-040",
+  "title": "思春期的漂亮女孩限界誘惑同學 ~ 葵美玲",
+  "publish_date": "2024-08-14",
+  "type": "有码",
+  "company": "BALTAN",
+  "genres": [
+    "後入",
+    "劇情",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "勾引・誘惑",
+    "美少女",
+    "艷遇",
+    "癡女",
+    "校園生活",
+    "巨乳",
+    "M男・M女",
+    "學校",
+    "美少女電影",
+    "女學生",
+    "同學",
+    "戀物癖"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240815/bd60cd6c-926f-4929-91bb-b514c85e65ab.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240815/bd60cd6c-926f-4929-91bb-b514c85e65ab.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12684",
+  "actresses": [
+    {
+      "name": "葵美玲",
+      "img_url": "https://picture.yoshiclub.xyz/20231115/9aae1f8f-8a15-4b2b-bae1-caaf3ee94a4c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12684&name=葵美玲"
+    }
+  ]
+};

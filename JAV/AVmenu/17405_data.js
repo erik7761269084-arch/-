@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/58550b10-91fd-4456-a547-af9d1c5620d9/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/01/04/c8ebc320/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17405,
+  "IDcode": "NACR-737",
+  "title": "狂熱瘋狂做愛 宝田萌奈美",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "巨尻",
+    "乳交",
+    "中出",
+    "胸控・戀乳癖",
+    "口交",
+    "性感",
+    "內衣",
+    "巨乳",
+    "猥褻穿著",
+    "抹油"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231205/034f5912-f802-4ff6-8640-7241751298c9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231205/034f5912-f802-4ff6-8640-7241751298c9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17405",
+  "actresses": [
+    {
+      "name": "宝田萌奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20230616/69d08327-8fa4-49f6-b2e3-2a42181dcf31.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17405&name=宝田萌奈美"
+    },
+    {
+      "name": "岩下たろう",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17405&name=岩下たろう"
+    }
+  ]
+};

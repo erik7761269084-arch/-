@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/152af798-bb3d-4df8-95a8-2e15e982d265/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/fbfb9ae4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5548,
+  "IDcode": "SONE-743",
+  "title": "巨乳控的天堂！H杯軟妹幫你實現所有幻想，每天榨汁助攻 小日向みゆう",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "高顏值",
+    "濕身",
+    "企畫",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "4K",
+    "游戲COSPLAY",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "角色扮演",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "淫語",
+    "兔女郎妝扮",
+    "主觀視角",
+    "舔陰",
+    "少女",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "明星臉",
+    "情趣內衣",
+    "清純",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "猥褻穿著",
+    "抹油",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "無毛",
+    "女優"
+  ],
+  "description": "SONE-743为S1出品,2025年6月6日发行的有碼成人影片由小日向美優出演\n史上最幸福的打手槍神片，胸控的終極夢想！你的專屬女友‘みゆう’不只超可愛，還對你愛得要死要活，連你的小老弟都寵上天！那對柔軟到爆的H杯大奶隨時隨地任你揉捏，撒個嬌就能夾緊給你來一發爽到飛起的胸推。早上叫你起床，做飯餵飽你，洗澡幫你搓背，想開幹隨時奉陪，各種姿勢都能解鎖，浪叫聲聽得你心癢癢。甚至還能穿上性感cosplay，滿足你的各種癖好，她簡直就是你肚子裡的蛔蟲，啥需求都能懂！全程第一人稱視角，沉浸式體驗拉滿，耳邊傳來的雙聲道低語酥到骨子裡，和她一起進入只有你倆的甜蜜小世界吧！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035623523523_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035623523523_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5548",
+  "actresses": [
+    {
+      "name": "小日向美優",
+      "img_url": "https://picture.yoshiclub.xyz/20230908/47cfce8f-8903-4f3b-96f9-d3b9400a111d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5548&name=小日向美優"
+    }
+  ]
+};

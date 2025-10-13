@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240408/M4GV53OA/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101732,
+  "IDcode": "DDH-253",
+  "title": "陰キャに優しい激カワお姉さん【うた/20】陰キャ男子の必死なナンパに同情したスレンダー美女がイチャイチャセックスでイキ乱れ大量潮吹き！",
+  "publish_date": "2024-03-28",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "美少女",
+    "中出",
+    "姐姐",
+    "屁股",
+    "苗条",
+    "潮吹",
+    "业余",
+    "偷窥"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101732",
+  "actresses": [
+    {
+      "name": "うた",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101732&name=うた"
+    }
+  ]
+};

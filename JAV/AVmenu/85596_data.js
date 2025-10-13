@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230125/msxlByBs/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85596,
+  "IDcode": "MOGI-055",
+  "title": "ぽやんとして素朴なむっつりスケベちゃん。 「大きいおちんちん挿れてみたいです…。」 妄想ばくはつレンタカー屋の道産子娘の赤面AVdebut 星宮こと",
+  "publish_date": "2022-08-25",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "美少女",
+    "巨乳",
+    "口交",
+    "首次亮相"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85596",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85596&name=森林原人"
+    },
+    {
+      "name": "星宮こと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85596&name=星宮こと"
+    }
+  ]
+};

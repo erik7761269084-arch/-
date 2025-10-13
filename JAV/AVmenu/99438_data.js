@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230122/302403F3E3F65B5D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99438,
+  "IDcode": "JKNK-081",
+  "title": "年の差レズ 6",
+  "publish_date": "2019-03-01",
+  "type": "有码",
+  "company": "BROLLE",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "女同性恋",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99438",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/15/26d957fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106690,
+  "IDcode": "USAG-043",
+  "title": "尻穴・喉奥・膣奥 欲張り全穴絶頂！Hカップ巨乳娘 富田さん（25） 巨乳/デカ尻/長身/マゾ/イラマチオ/アナルファック/潮吹き/2本番",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "巨乳",
+    "多P",
+    "肛交",
+    "深喉",
+    "巨大屁股"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106690",
+  "actresses": [
+    {
+      "name": "富井美帆",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/17a6ad76-4153-4726-971c-de1729fa871f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106690&name=富井美帆"
+    }
+  ]
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/03/16e7a3d4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82866,
+  "IDcode": "MIDD-828",
+  "title": "ロリ爆乳人妻の勝手に誘惑ムチムチノーブラ生活 ももかさくら",
+  "publish_date": "2011-12-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "已婚妇女",
+    "出轨",
+    "胖女人",
+    "恋乳癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/49c0384f66683d08b6a1261c6926175d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82866",
+  "actresses": [
+    {
+      "name": "桜咲ひな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82866&name=桜咲ひな"
+    }
+  ]
+};

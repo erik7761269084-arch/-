@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220326/683D9E5B5895F82D/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 97509,
+  "IDcode": "HZGD-094",
+  "title": "とある人妻の、危険な情事 宝田もなみ",
+  "publish_date": "2018-10-26",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "自慰",
+    "跳蛋",
+    "内衣",
+    "胖女人",
+    "倒追",
+    "性感的"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd094/h_1100hzgd094pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=97509",
+  "actresses": []
+};

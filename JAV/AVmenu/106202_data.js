@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/05/52324c43/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106202,
+  "IDcode": "NHDTB-854",
+  "title": "親戚のエロガキにスカートもぐりクンニされ夫がいる至近距離でイってしまった叔母さんは挿入も拒めない7 中出しSP 前田美波さんのパンティとチェキ付き",
+  "publish_date": "2023-12-07",
+  "type": "有码",
+  "company": "DREAMTICKET",
+  "genres": [
+    "中出",
+    "舔阴",
+    "白天出轨",
+    "正太控"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/01/04/811c09dc4529dc9cbc43b44b807aadfc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106202",
+  "actresses": []
+};

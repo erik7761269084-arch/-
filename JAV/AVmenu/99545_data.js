@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230210/38C3A22DF20BB10B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99545,
+  "IDcode": "DANDY-456",
+  "title": "「休憩中の1時間バイトくんと2人きり！女を忘れたパートの美人おばさんは息子ほど年の離れたイケメンチ○ポならセクハラされても嫌じゃない」VOL.2",
+  "publish_date": "2015-10-22",
+  "type": "有码",
+  "company": "DANDY",
+  "genres": [
+    "成熟的女人",
+    "各种职业",
+    "制服",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy456/1dandy456pl.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99545",
+  "actresses": [
+    {
+      "name": "美织舞",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/d4d05a5d-624c-4584-93c7-8a43ac8711b5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99545&name=美织舞"
+    },
+    {
+      "name": "京野美丽",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99545&name=京野美丽"
+    },
+    {
+      "name": "爱原さえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99545&name=爱原さえ"
+    },
+    {
+      "name": "神崎久美",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99545&name=神崎久美"
+    }
+  ]
+};

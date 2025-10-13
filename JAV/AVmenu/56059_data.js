@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56059,
+  "IDcode": "528FBEACA9C8A2E84C595B88421D5808",
+  "title": "双人姐妹花",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56059",
+  "actresses": []
+};

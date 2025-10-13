@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230126/DJNFaPWc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85621,
+  "IDcode": "MVSD-512",
+  "title": "看起來妻子從以前就被調教的樣子。 不知道的妻子過去…誰都會嫉妒的愛妻是超S大肉棒鄰居的中出M寵物 蜜美杏",
+  "publish_date": "2022-06-21",
+  "type": "有码",
+  "company": "MVG GROUP",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "淫乱，真实",
+    "白天出轨",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85621",
+  "actresses": [
+    {
+      "name": "藤井蘭々",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/cbee59ad-8406-4edb-90fe-2bede6978561.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85621&name=藤井蘭々"
+    }
+  ]
+};

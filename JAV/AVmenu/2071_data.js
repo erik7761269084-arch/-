@@ -1,0 +1,29 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 2071,
+  "IDcode": "ABP-948",
+  "title": "密著檔案 FILE.04 野野浦暖",
+  "publish_date": "2020-02-14",
+  "type": "无码",
+  "company": "蚊香社",
+  "genres": [
+    "素人作品",
+    "美乳",
+    "顏射",
+    "口交",
+    "無碼流出",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230403/70b6254c-ce40-47e8-8fd1-a7e6e9b0664f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230403/70b6254c-ce40-47e8-8fd1-a7e6e9b0664f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=2071",
+  "actresses": [
+    {
+      "name": "野野浦暖",
+      "img_url": "https://picture.yoshiclub.xyz/20230213/e2f51326-7006-4c7e-b27d-ad3cf44a8e04.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=2071&name=野野浦暖"
+    }
+  ]
+};

@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2025/01/02/9486bfde/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 57965,
+  "IDcode": "CWP-29",
+  "title": "キャットウォーク ポイズン 29",
+  "publish_date": "2012-10-30",
+  "type": "无码",
+  "company": null,
+  "genres": [
+    "雪白皮肤",
+    "店长推荐",
+    "写真",
+    "立即口交",
+    "淫荡手淫",
+    "深喉",
+    "淋浴沐浴",
+    "骑乘位",
+    "跳",
+    "口交",
+    "美女",
+    "苗条",
+    "美脚"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57965",
+  "actresses": []
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241107/bUBaPXS9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94933,
+  "IDcode": "IPX-123CN",
+  "title": "IPX123CN乳頭！陰蒂！菊花！3點挑逗絕頂升天幹砲！天海翼.",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94933",
+  "actresses": []
+};

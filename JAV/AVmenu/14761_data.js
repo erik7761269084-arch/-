@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b7f5e137-50af-47cd-b3df-33f24e42def1/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14761,
+  "IDcode": "AVSA-312",
+  "title": "Pride MAX 體力強美的Boss - 將看不起自己的霸道女人打入地獄，一邊哭泣一邊高潮的復仇強奸！ ~ 三嶽祐奈",
+  "publish_date": "2024-05-14",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "女格鬥家",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "格鬥",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "膚黑",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "多P",
+    "美腳",
+    "暗黑系",
+    "癡女",
+    "熟女",
+    "辣妹/GAL系",
+    "野性",
+    "羞恥",
+    "肌肉"
+  ],
+  "description": "AVSA-312为妄想族出品,2024年5月14日发行的有碼成人影片由三岳祐奈出演\n完成對白眼失禁、因頸部勒頸而高潮下降的臉部顏射！一個無論精神上或身體上都沒有敵人的女強人！ ！ 『美麗的身體和臉孔，完美的工作。工作之餘，他透過武術鍛鍊身體，體力強健，一般人無法比擬。她性慾極強，但她不認為有男人可以配得上她。她對下屬的強制力很強，只能透過派遣按摩來緩解自己的性慾，但她對待按摩師的態度也很傲慢，把他當作一個會說話的性玩具。在這樣的日子裡，懷抱著向尤娜報仇的男人的成長。 」",
+  "cover_url": "https://picture.yoshiclub.xyz/20240512/202405122200505858.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240512/202405122200505858.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14761",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14761&name=三岳祐奈"
+    }
+  ]
+};

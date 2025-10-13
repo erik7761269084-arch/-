@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220928/C762AE1F1D3E98A2/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 65636,
+  "IDcode": "B611FAFC7B7B72623957DD2DB7A5BF2D",
+  "title": "人妻完全主观 二人独处无套中出爱情宾馆不伦 梨花（假名）27歳",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "Baby Entertainment",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65636",
+  "actresses": []
+};

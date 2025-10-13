@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/05/28/7b3d0d37/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85221,
+  "IDcode": "KSBJ-196",
+  "title": "留年した息子を惑わすHカップ義母 織田真子 パンティと生写真付き",
+  "publish_date": "2022-05-18",
+  "type": "有码",
+  "company": "KSB企畫",
+  "genres": [
+    "成熟的女人",
+    "婆婆",
+    "巨乳",
+    "乱伦",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/a245307efc4512d47dc53d68df2b9542.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85221",
+  "actresses": [
+    {
+      "name": "織田真子",
+      "img_url": "https://picture.yoshiclub.xyz/20231106/c6b96a8e-5301-4fe9-a0aa-1f69d3343281.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85221&name=織田真子"
+    }
+  ]
+};

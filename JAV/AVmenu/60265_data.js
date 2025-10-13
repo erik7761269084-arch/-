@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/28/08b16c0d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 60265,
+  "IDcode": "NEO-134",
+  "title": "舐めレズ 広瀬このみ＆美波こづえ",
+  "publish_date": "2025-09-25",
+  "type": "有码",
+  "company": "RADIX",
+  "genres": [
+    "女同性恋",
+    "舔阴",
+    "恋腿癖",
+    "接吻",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60265",
+  "actresses": [
+    {
+      "name": "廣瀬好美",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/4d06b4c2-a1a6-4360-8127-dae4f44aa72a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=60265&name=廣瀬好美"
+    }
+  ]
+};

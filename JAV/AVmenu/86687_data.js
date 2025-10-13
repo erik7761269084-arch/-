@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/YXO3X1lN/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86687,
+  "IDcode": "APAK-183",
+  "title": "【超スケベ美巨乳】一度ヤラセて欲しい、隣の巨乳シングルママ。父兄会で知り合った他人パパに発情して自宅不倫SEX 三船かれん",
+  "publish_date": "2020-02-13",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "精选，综合",
+    "戏剧",
+    "巨乳",
+    "中出",
+    "颜射",
+    "口交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/3bbb5ef722625dc8cae8670fb27761e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86687",
+  "actresses": [
+    {
+      "name": "三船かれん",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86687&name=三船かれん"
+    }
+  ]
+};

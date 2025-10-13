@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221028/XaxUtpW8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81519,
+  "IDcode": "BBSS-029",
+  "title": "ビビアンで目醒めた初めてのレズSEX 4時間～初々しいレズ解禁ベスト～",
+  "publish_date": "2020-01-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "女同性恋",
+    "接吻",
+    "女同接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81519",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=美谷朱里"
+    },
+    {
+      "name": "水野朝陽",
+      "img_url": "https://picture.yoshiclub.xyz/20230608/f04c23d2-5290-40a2-9f97-77ba42be2be1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=水野朝陽"
+    },
+    {
+      "name": "神野雛",
+      "img_url": "https://picture.yoshiclub.xyz/20241128/c4a345fb-23a5-4c8a-a479-3b515641e26a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=神野雛"
+    },
+    {
+      "name": "西田卡莉娜",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723230156158158_27005_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=西田卡莉娜"
+    },
+    {
+      "name": "琴羽雫",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/b9e153366cea5d0c99fc5151ed4fcec5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=琴羽雫"
+    },
+    {
+      "name": "野々宫みさと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=野々宫みさと"
+    },
+    {
+      "name": "春川せせら",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/20aa9d16faee662d0fab348801ee486f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=春川せせら"
+    },
+    {
+      "name": "大岛美绪",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/ac050a28b1efd00be7d5fd55db887fe9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81519&name=大岛美绪"
+    }
+  ]
+};

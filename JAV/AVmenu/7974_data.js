@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/885cb64b-2dc4-45bf-a1bd-9deaacf24f37/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/05/08/c65c56e1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7974,
+  "IDcode": "START-270",
+  "title": "無限射精 超大H杯泡姬的泡泡浴服務-至少讓你射精10次！用微笑治愈的神體 ~ 彩月七緒",
+  "publish_date": "2025-02-24",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "濕身",
+    "泡姬",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "色白",
+    "脚控・戀足癖",
+    "大乳暈",
+    "中出",
+    "美乳",
+    "美腿",
+    "泡泡浴店",
+    "美臀",
+    "水療・泡泡浴",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "風俗娘",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "口爆",
+    "美腳",
+    "拜金女",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250224/4d45c4d5-b8bb-4900-b29d-b0e16383bf73.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250224/4d45c4d5-b8bb-4900-b29d-b0e16383bf73.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7974",
+  "actresses": [
+    {
+      "name": "彩月七緒",
+      "img_url": "https://picture.yoshiclub.xyz/20240124/89258f5a-d05b-4e7c-801b-afd89a03261a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7974&name=彩月七緒"
+    }
+  ]
+};

@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/6d7def9c-4b4d-4ec9-a020-17210b32dd88/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 17505,
+  "IDcode": "MIRD-233",
+  "title": "極上大奶超密著接觸 中出発射無限制 爆乳風俗娘",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "泡泡浴店",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "感官作品",
+    "口交",
+    "風俗夜場",
+    "風俗娘",
+    "性感",
+    "多P",
+    "按摩・美容店",
+    "雙飛",
+    "巨乳",
+    "抹油",
+    "兩女一男"
+  ],
+  "description": "MIRD-233为MOODYZ出品,2023年12月5日发行的有碼成人影片由美園和花，田中寧寧，姫咲華，吉根柚莉爱出演\n完全包圍！ 距離大奶子零距離！ 當然，你可以無限的中出內射！ 4位巨乳美女用絕妙的玩法技巧招待你！ 終極色情娛樂！ 改善疲勞男士的油壓按摩水摩，用巨乳打著泡沫給你全身周遊，最後當然是中出內射收尾了！ 13次射精，不把你榨乾不算完。 請把雙手放在胸前，大奶子來了！\n完全包圍！ 距離大奶子零距離！ 當然，你可以無限的中出內射！ 4位巨乳美女用絕妙的玩法技巧招待你！ 終極色情娛樂！ 改善疲勞男士的油壓按摩水摩，用巨乳打著泡沫給你全身周遊，最後當然是中出內射收尾了！ 13次射精，不把你榨乾不算完。 請把雙手放在胸前，大奶子來了！",
+  "cover_url": "https://picture.yoshiclub.xyz/20231202/1115905e-1955-4ad1-9e18-f34eaf3ddbca.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231202/1115905e-1955-4ad1-9e18-f34eaf3ddbca.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17505",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17505&name=美園和花"
+    },
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17505&name=吉根柚莉爱"
+    },
+    {
+      "name": "姫咲華",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/1cb32d64-ec1d-49cb-9f9d-6ad61fe73925.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17505&name=姫咲華"
+    },
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17505&name=田中寧寧"
+    }
+  ]
+};

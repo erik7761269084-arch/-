@@ -1,0 +1,39 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20221225/6E3B608E31771E41/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 102898,
+  "IDcode": "RCTD-129",
+  "title": "巨乳女囚レズバトル 三原ほのか 推川ゆうり 黒木いくみ",
+  "publish_date": "2018-07-26",
+  "type": "有码",
+  "company": "ROCKET",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "女同性恋",
+    "企画"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=102898",
+  "actresses": [
+    {
+      "name": "推川悠里",
+      "img_url": "https://picture.yoshiclub.xyz/20231211/a1703542-04e6-494e-b31e-5f4d4b30ef61.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102898&name=推川悠里"
+    },
+    {
+      "name": "三原穗香",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/c8abb500-7012-41a9-b637-c4a07de8705f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102898&name=三原穗香"
+    },
+    {
+      "name": "ゆうひ菜那",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=102898&name=ゆうひ菜那"
+    }
+  ]
+};

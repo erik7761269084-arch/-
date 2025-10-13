@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/27/e7540814/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 95211,
+  "IDcode": "SORA-572",
+  "title": "隠れマゾ見つけた。レ×プしてキャッチ＆リリース繰り返す内犯●れすぎて脳バグって家に来たドM女 朝比ゆの",
+  "publish_date": "2024-11-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "潮吹",
+    "残忍画面",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/27/d22602a723980d8faa742b2b1cd273f1.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=95211",
+  "actresses": [
+    {
+      "name": "朝比ゆの",
+      "img_url": "https://picture.yoshiclub.xyz/20240709/3013bb6e-820d-4e8c-a6ce-d85c58b8f91c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=95211&name=朝比ゆの"
+    }
+  ]
+};

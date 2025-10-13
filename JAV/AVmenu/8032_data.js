@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14089198-2b6d-4dc9-b231-e8b171dee594/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 8032,
+  "IDcode": "DLDSS-390",
+  "title": "謝罪NTR：用身體爲丈夫贖罪的美人妻 ~ 美乃雀",
+  "publish_date": "2025-03-20",
+  "type": "有码",
+  "company": "DAHLIA",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "絕頂高潮",
+    "老頭子",
+    "深喉",
+    "流汗",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "接吻",
+    "口爆",
+    "美腳",
+    "奇聞趣事",
+    "明星臉",
+    "美人妻",
+    "御姐系",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "足交",
+    "奇異的",
+    "NTR",
+    "美人",
+    "短髮",
+    "極品美人",
+    "寢取",
+    "謝罪",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250223/20250223054700285285.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250223/20250223054700285285.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8032",
+  "actresses": [
+    {
+      "name": "美乃雀",
+      "img_url": "https://picture.yoshiclub.xyz/20230904/58cba746-ee8f-4333-9894-4bfc1098d470.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8032&name=美乃雀"
+    }
+  ]
+};

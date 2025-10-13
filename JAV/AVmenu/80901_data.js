@@ -1,0 +1,25 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/02/1c664541/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80901,
+  "IDcode": "JUL-874",
+  "title": "Gカップ無自覚美人！！人気シリーズに登場！！ 母の友人 及川うみ",
+  "publish_date": "2022-02-22",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "荡妇",
+    "出轨",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/71caba18a609e3450e6f52b263e8a906.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80901",
+  "actresses": []
+};

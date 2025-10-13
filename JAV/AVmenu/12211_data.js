@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62887df1-b637-425f-a40c-b576548301e4/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/21/bc441d7e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12211,
+  "IDcode": "SONE-343",
+  "title": "高身長美女在媚藥油壓按摩下身體彎曲痙攣得厲害，感覺就像漂浮在空中 ~ 明日葉三葉",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "流汗",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "感官作品",
+    "顏射",
+    "口交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "兩男一女",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "接吻",
+    "美腳",
+    "美少女",
+    "按摩・美容店",
+    "手指插入",
+    "按摩棒",
+    "抹油",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "SONE-343为S1出品,2024年9月10日发行的有碼成人影片由明日葉三葉出演\n<高挑美女扭動全身，拱頭高潮！ ！ >剛搬到東京的三葉阿蘇葉已經厭倦了這個城市。我在那裡找到了一家美容院。那裡的處方很值得商榷，但這裡是首都東京。不知不覺中，有一些我所居住的地方所沒有的東西，我沉浸在春藥性高潮的沼澤之中……我每天都在向性高潮投降，無法抑制內心溢出的快感。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906021635820820.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906021635820820.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12211",
+  "actresses": [
+    {
+      "name": "明日葉三葉",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/44fcabb9-1c79-40cf-89cc-3bfac644247e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12211&name=明日葉三葉"
+    }
+  ]
+};

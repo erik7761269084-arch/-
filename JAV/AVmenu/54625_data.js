@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54625,
+  "IDcode": "8D6B031F411C17EF39DAB67C8C4D97D2",
+  "title": "10mu 081410_01 ガッ尻 -素人アナル開発-　巨乳娘の人生初アナル挑戦編 安部ゆみか",
+  "publish_date": "",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54625",
+  "actresses": []
+};

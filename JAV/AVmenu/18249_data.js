@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/5d4597e5-67d0-4d68-8f10-b3d5d2b001b6/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/14/54ab6031/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18249,
+  "IDcode": "HMN-471",
+  "title": "我要結婚了，瘋狂的婚前飯店內射做愛行為",
+  "publish_date": "2023-10-18",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "劇情",
+    "中出",
+    "口交",
+    "接吻",
+    "巨乳",
+    "約炮",
+    "飯店"
+  ],
+  "description": "HMN-471为本中出品,2023年10月18日发行的有碼成人影片由北野未奈出演\n【北野美奈的告別時刻中出獨家】我要結婚了，所以再也見不到她了- 這是我和交往了兩年的北野美奈最後一次約會，我依然就內射了她，我們接吻了很多 次。 一到飯店，開始貪婪地撫摸對方，沒有任何言語交流。 被操、打屁股和粗暴地對待之後，忍不住發現北野美奈流著淚眼的喜悅呻吟聲是如此可愛。 「我想最後一次…」北野美奈擁有史上最暖心的中出。\n【北野美奈的告別時刻中出獨家】我要結婚了，所以再也見不到她了- 這是我和交往了兩年的北野美奈最後一次約會，我依然就內射了她，我們接吻了很多 次。 一到飯店，開始貪婪地撫摸對方，沒有任何言語交流。 被操、打屁股和粗暴地對待之後，忍不住發現北野美奈流著淚眼的喜悅呻吟聲是如此可愛。 「我想最後一次…」北野美奈擁有史上最暖心的中出。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231017/202310170223302525.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231017/202310170223302525.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18249",
+  "actresses": [
+    {
+      "name": "北野未奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231018/e8677aa5-434a-40de-871e-695b7cf518e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18249&name=北野未奈"
+    }
+  ]
+};

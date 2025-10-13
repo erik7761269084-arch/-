@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/87face68-7402-4ebc-8b59-4c83eca9e51a/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/12/628f6d87/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5512,
+  "IDcode": "JUR-384",
+  "title": "還能有這種服務！？ 5秒鍾就射了！ 鄰居人妻將自宅改裝成風俗按摩店後，我的榨幹日常 ~ 岬光莉",
+  "publish_date": "2025-06-06",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "三十路",
+    "後入",
+    "高顏值",
+    "濕身",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "臀控",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "口爆",
+    "按摩・美容店",
+    "鄰居",
+    "清楚系",
+    "單體作品",
+    "美人妻",
+    "御姐系",
+    "情趣內衣",
+    "清純",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "美人",
+    "阪道系",
+    "熟女",
+    "大奶头",
+    "豐滿"
+  ],
+  "description": "JUR-384为MADONNA出品,2025年6月6日发行的有碼成人影片由岬光莉出演\n我是在東京某商社上班的社畜，薪水不錯但每天被工作壓得喘不過氣，日子就是公司跟家兩點一線。某天，隔壁的岬姐把自家改造成了風俗店，聽說還得到了在外派老公的同意。我被邀請去體驗新開張的店，沒想到氛圍超專業，手法更是熟練到讓我完全被牽著走！？她三兩下就把我搞得酥麻，工作壓力跟積攢的慾望瞬間爆炸，爽到不行—。",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042723202202_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042723202202_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5512",
+  "actresses": [
+    {
+      "name": "岬光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20250403/f8b36ebd-60de-4df8-86a9-f94f669a96f3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5512&name=岬光莉"
+    }
+  ]
+};

@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/HfmUUNgj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78847,
+  "IDcode": "SHKD-505",
+  "title": "女子校生美畜同好会 輪姦標的 儚く散った夢と残酷な現実 有賀あり",
+  "publish_date": "2013-05-07",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "轮奸",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78847",
+  "actresses": [
+    {
+      "name": "有贺あり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78847&name=有贺あり"
+    }
+  ]
+};

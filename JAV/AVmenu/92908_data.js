@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240911/6y3AuZv8/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 92908,
+  "IDcode": "VSR-488",
+  "title": "VSR488和女友波多野結衣在公司辦公室內偷偷摸摸的做愛。。",
+  "publish_date": "2024-11-22",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=92908",
+  "actresses": []
+};

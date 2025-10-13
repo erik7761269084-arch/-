@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230104/OdaqkJWP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84057,
+  "IDcode": "CAWD-287",
+  "title": "媚薬漬けにされた連れ子の汗と潮と愛液ダダ漏れキメセク性交 天音ゆい",
+  "publish_date": "2021-10-05",
+  "type": "有码",
+  "company": "KAWAII",
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "拘束",
+    "药物"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84057",
+  "actresses": [
+    {
+      "name": "天音ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84057&name=天音ゆい"
+    }
+  ]
+};

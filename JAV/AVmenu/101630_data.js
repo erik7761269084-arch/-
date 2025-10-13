@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240401/MnGmRvlz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101630,
+  "IDcode": "SIRO-5225",
+  "title": "【騎乗位で責めるのが好き】大阪からSEXを極めるために上京！責め好きと言いながらも、責められると体は敏感に反応してしまい、潮吹きしながら何度もイキまくる！！ 【初撮り】ネットでAV応募→AV体験撮影 2124",
+  "publish_date": "2024-03-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "姐姐",
+    "第一人称摄影",
+    "屁股",
+    "潮吹",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101630",
+  "actresses": [
+    {
+      "name": "梨沙",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=101630&name=梨沙"
+    }
+  ]
+};

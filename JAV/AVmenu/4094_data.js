@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62baf34a-f8b3-4804-8a95-ceb2c2cc8d6b/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/26/dacabeb7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4094,
+  "IDcode": "ALDN-488",
+  "title": "妻子沉迷內射快感無法自拔 ~ 川上優",
+  "publish_date": "2025-07-19",
+  "type": "有码",
+  "company": "TAKARA",
+  "genres": [
+    "後入",
+    "黑絲",
+    "脅迫做愛",
+    "家庭主妇",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "4K",
+    "乳交",
+    "色白",
+    "中出",
+    "下屬女友・妻子",
+    "美乳",
+    "美腿",
+    "四十路",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "兩男一女",
+    "舔陰",
+    "單體作品",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "M男・M女",
+    "美人",
+    "職場",
+    "熟女",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "ALDN-488为TAKARA出品,2025年7月19日发行的有碼成人影片由川上優出演\n因為我的失誤，公司吃了大虧，本以為鐵定要被開除了，沒想到上司挺身而出保住了我，那一刻他就像神一樣偉大！但暗地裡卻有一場骯髒的交易——我老婆成了他的情婦，不，應該說是性處理的工具！我完全被蒙在鼓裡，還傻傻地出差去了。更誇張的是，後來我收到了一段影片，裡面是我老婆被玩弄的畫面，看得我既心痛又忍不住血脈賁張…",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212849949949_83660_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212849949949_83660_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4094",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4094&name=川上優"
+    },
+    {
+      "name": "ロダン富士",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4094&name=ロダン富士"
+    }
+  ]
+};

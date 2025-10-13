@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d05de3bb-3c96-4c4b-87f0-c431a39a1efc/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/10/2fd2bfb2/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17896,
+  "IDcode": "JUQ-411",
+  "title": "處男第一次來東京卻將自己的童貞交給了一個網路上認識的人妻",
+  "publish_date": "2023-11-14",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "劇情",
+    "中出",
+    "正太控",
+    "口交",
+    "性感",
+    "勾引・誘惑",
+    "艷遇",
+    "人妻",
+    "約炮",
+    "處男"
+  ],
+  "description": "JUQ-411为MADONNA出品,2023年11月14日发行的有碼成人影片由一乃葵出演\n「你要是來東京，我就会奪走你的童貞哦。」往返7000日元，單程約8小時。對於像我這樣連兼職都沒有的人來說，這可是一大筆錢了。但如果我能遇到那個人，如果我能和那個人發生性關係，我一點也不後悔。六個月前我認識了她，當時我們透過一個網路遊戲成為了朋友… 她的名字叫「一乃葵」… 我在高速巴士上度過了一個晚上，抱著很低的期望。而她真的就在約會地點…\n「你要是來東京，我就会奪走你的童貞哦。」往返7000日元，單程約8小時。對於像我這樣連兼職都沒有的人來說，這可是一大筆錢了。但如果我能遇到那個人，如果我能和那個人發生性關係，我一點也不後悔。六個月前我認識了她，當時我們透過一個網路遊戲成為了朋友… 她的名字叫「一乃葵」… 我在高速巴士上度過了一個晚上，抱著很低的期望。而她真的就在約會地點…",
+  "cover_url": "https://picture.yoshiclub.xyz/20231112/93ef2a89-bf59-4090-a348-1839ebcc84e9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231112/93ef2a89-bf59-4090-a348-1839ebcc84e9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17896",
+  "actresses": [
+    {
+      "name": "一乃葵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/dac957b6-4ace-4288-9032-f3c3ca213c2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17896&name=一乃葵"
+    }
+  ]
+};

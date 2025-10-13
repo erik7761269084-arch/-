@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/967da18b-49fa-47fb-94e7-a954a908478b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 13777,
+  "IDcode": "GVH-664",
+  "title": "禁忌護理 星乃夏月",
+  "publish_date": "2024-06-25",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "調教",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "內衣",
+    "少女",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "護士",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240623/5a979388-f722-4fb0-9a51-053a813bf9d9.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240623/5a979388-f722-4fb0-9a51-053a813bf9d9.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13777",
+  "actresses": [
+    {
+      "name": "星乃夏月",
+      "img_url": "https://picture.yoshiclub.xyz/20231216/b40db2c3-bcf4-4e04-b532-ca40e80f79a4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13777&name=星乃夏月"
+    }
+  ]
+};

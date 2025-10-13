@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3a80ba43-c85d-4b54-a109-113fc7b3428b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/07/27/2bf4a6fe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14506,
+  "IDcode": "HODV-21871",
+  "title": "兼職工作中認識的阿姨，成年女人的味道不是單身狗可以理解的 ~ 橘瑪麗",
+  "publish_date": "2024-05-24",
+  "type": "有码",
+  "company": "H.M.P 芳友舍",
+  "genres": [
+    "劇情",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "女上位",
+    "感官作品",
+    "口交",
+    "蠻橫嬌羞",
+    "純愛・戀愛",
+    "性感",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "女同事"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240524/55038a98-2f7a-45c1-b53f-f0a4ee00a12d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240524/55038a98-2f7a-45c1-b53f-f0a4ee00a12d.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14506",
+  "actresses": [
+    {
+      "name": "橘瑪麗",
+      "img_url": "https://picture.yoshiclub.xyz/20231013/2ec61969-c35c-44fd-837b-ee78ab4672c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14506&name=橘瑪麗"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14506&name=タツ"
+    }
+  ]
+};

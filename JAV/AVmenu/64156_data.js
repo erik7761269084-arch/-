@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220306/B988B581332F2B67/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64156,
+  "IDcode": "6F6569AFDD97BA28DD79CAEEAB5D4A-52",
+  "title": "【首发推荐】国产AV佳作MD0072-性福端午 骚货老婆扮演白娘子露出饥渴本性超清无水印",
+  "publish_date": "2024-07-18",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64156",
+  "actresses": []
+};

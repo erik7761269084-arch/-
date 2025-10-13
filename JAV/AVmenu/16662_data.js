@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/37f6daad-50c0-4f8f-99f2-9ef23cc1dfae/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/03/d49216d9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16662,
+  "IDcode": "JUQ-521",
+  "title": "與丈夫發生性關系並生下孩子後，公公一直在我體內射精......",
+  "publish_date": "2024-01-30",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "中出",
+    "美乳",
+    "女上位",
+    "口交",
+    "自宅",
+    "不倫",
+    "公公",
+    "兒媳",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "即時插入",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "JUQ-521为MADONNA出品,2024年1月30日发行的有碼成人影片由石原希望出演\n我和我的丈夫結婚已經一年了，他是我的同事。我的丈夫很善良，我過着沒有任何不便的日子，但有一件事我忍不住感到不滿意。在過去的一年裏，我的丈夫只是因爲我想要孩子而強制與我發生性行爲。我想要正常的性生活……但是我的願望不是被我可愛的丈夫發現的，而是被我傲慢的公公發現的，他和我一起住了幾個月。而我的公公，一直在偷聽我們的活動，趁我丈夫睡覺的時候強奸了我……\n我和我的丈夫結婚已經一年了，他是我的同事。我的丈夫很善良，我過着沒有任何不便的日子，但有一件事我忍不住感到不滿意。在過去的一年裏，我的丈夫只是因爲我想要孩子而強制與我發生性行爲。我想要正常的性生活……但是我的願望不是被我可愛的丈夫發現的，而是被我傲慢的公公發現的，他和我一起住了幾個月。而我的公公，一直在偷聽我們的活動，趁我丈夫睡覺的時候強奸了我……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240120/20240120062325581581.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240120/20240120062325581581.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16662",
+  "actresses": [
+    {
+      "name": "石原希望",
+      "img_url": "https://picture.yoshiclub.xyz/20230916/96c8475c-25b6-4745-8e75-87c0c0fb8590.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16662&name=石原希望"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16662&name=大岛丈"
+    }
+  ]
+};

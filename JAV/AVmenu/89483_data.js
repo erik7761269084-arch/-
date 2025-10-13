@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241101/Zx4cEh1l/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89483,
+  "IDcode": "SVDVD-945",
+  "title": "軟体肉便器 高身長182cm！パリピギャルの四肢をガッチリ拘束してマシンバイブで鬼調教！‘ご自由に射精可能な肉便器’に仕上げ、ねっちょりピストンで連続中出し11連発！きゃぱい（ハート） 渋谷華",
+  "publish_date": "2023-08-24",
+  "type": "有码",
+  "company": "Sadistic Village",
+  "genres": [
+    "多P",
+    "颜射",
+    "女生",
+    "潮吹",
+    "口交",
+    "按摩棒",
+    "拘束",
+    "紧身衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89483",
+  "actresses": [
+    {
+      "name": "渋谷華",
+      "img_url": "https://picture.yoshiclub.xyz/20230903/670d6978-181c-4ccf-a1b2-fed540e5b78e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89483&name=渋谷華"
+    }
+  ]
+};

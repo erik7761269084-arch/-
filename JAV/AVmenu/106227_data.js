@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2024/01/15/951b5927/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106227,
+  "IDcode": "JBD-292",
+  "title": "社長秘書 被虐の熟成解禁 生田望美",
+  "publish_date": "2023-10-03",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "SM",
+    "秘书",
+    "灌肠",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2024/01/15/b77b33f794e21abe1b8e8e189c8a929f.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106227",
+  "actresses": [
+    {
+      "name": "生田望美",
+      "img_url": "https://picture.yoshiclub.xyz/20231126/50837e24-6234-4798-8b74-cba6a8f8de0e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106227&name=生田望美"
+    }
+  ]
+};

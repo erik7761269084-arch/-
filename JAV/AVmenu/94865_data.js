@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241105/3KZyVqmh/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94865,
+  "IDcode": "TANF-011",
+  "title": "近所で見つけた女子校生Mちゃんと失神キメセク遊び【素人投稿】",
+  "publish_date": "2023-12-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241105-1/a5337a67be2dca0e138099ffbd66a68a.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94865",
+  "actresses": []
+};

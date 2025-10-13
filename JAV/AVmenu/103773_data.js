@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240317/tbRr2kP5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103773,
+  "IDcode": "326FCT-088",
+  "title": "【神美巨乳&くびれ】取引先の不動産美人OLとデート→自宅でSEXハメ撮り！",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250509-1/38caad31ced3c5661d276f973edd254c.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103773",
+  "actresses": []
+};

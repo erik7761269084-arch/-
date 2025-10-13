@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230126/at7uz9CU/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85657,
+  "IDcode": "MUDR-203",
+  "title": "想被喉頭開發的超苗條美少女讓她從順超M校內調教 支配口腔憧憬強迫口交的少女被大肉棒抽插到喉頭發出聲音… 日向日景",
+  "publish_date": "2022-10-18",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "中出",
+    "苗条",
+    "深喉",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85657",
+  "actresses": [
+    {
+      "name": "日向ひかげ",
+      "img_url": "https://picture.yoshiclub.xyz/20240116/be3cf3d9-da23-429d-883b-152d805635da.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85657&name=日向ひかげ"
+    }
+  ]
+};

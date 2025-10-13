@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/04/23/b28d288f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119115,
+  "IDcode": "FC2-4649443",
+  "title": "在排卵日陷入与另一名男子的性爱",
+  "publish_date": "2025-05-19",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/04/23/009e0e42094121ad3a4427a003692e57.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119115",
+  "actresses": []
+};

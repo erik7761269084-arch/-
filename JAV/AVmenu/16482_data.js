@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b1e7224d-1590-4dc7-a126-beb9f1f6736a/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/02/17/c93ecfae/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16482,
+  "IDcode": "MIDV-577",
+  "title": "1億日元的身體，流汗的體液和反復高潮，強烈的交織性愛 百田光希",
+  "publish_date": "2024-02-06",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "和服・浴衣・喪服",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "性感",
+    "舔陰",
+    "少女",
+    "唾液敷面",
+    "美少女",
+    "情趣內衣",
+    "巨乳",
+    "手指插入",
+    "美少女電影",
+    "女優",
+    "飯店"
+  ],
+  "description": "MIDV-577为MOODYZ出品,2024年2月6日发行的有碼成人影片由百田光稀出演\n百田光希一億身子滿身汗水，髒兮兮的！理由是無從談起的！憑本能的性交開始了！百田光希的乳頭和陰蒂因柔軟的觸感而變得敏感，交感神經被激活！炎熱的身體裏溢出的汗水是天然的春藥！ ！當充滿房間的女性氣味與男性體液混合時，男人和女人都變成了野獸！當它擊中我的那一刻，我的理智轟然崩潰！由於攝入過多的性信息素，她失去了所有的羞恥感和外表，並重復了過量的高潮！激烈而激烈的性愛就在這裏！ ！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202091805523523.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240202/20240202091805523523.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16482",
+  "actresses": [
+    {
+      "name": "百田光稀",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/3c352e67-cd0d-486f-8d37-0a39aafdd3a8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16482&name=百田光稀"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16482&name=鲛岛"
+    }
+  ]
+};

@@ -1,0 +1,36 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/07/26/71ddef2f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87704,
+  "IDcode": "SSIS-694",
+  "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 美晴のん （ブルーレイディスク） 生写真3枚付き",
+  "publish_date": "2023-07-12",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "淫乱，真实",
+    "潮吹",
+    "接吻",
+    "流汗",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87704",
+  "actresses": [
+    {
+      "name": "美晴のん",
+      "img_url": "https://picture.yoshiclub.xyz/20231008/9dfd383d-e2b0-47ba-896d-2567827bd0e1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87704&name=美晴のん"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87704&name=鲛岛"
+    }
+  ]
+};

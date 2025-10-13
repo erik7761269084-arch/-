@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231027/WY7J6mJq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103463,
+  "IDcode": "NTK-837",
+  "title": "- 残暑吹き飛ばすヤリマンWタイフーン上陸！！エロ乳ビッチ美少女&amp;スレンダーぴえん美少女ビッチ4P乱交SP！！【エロムチ美少女とヤンデレ美少女のビッチ波状攻撃！！】【ずーっとエロい水着乱交タイム！！常時クライマックス！！】【もちろんオール生SEX！！交互に生挿入！！連続昇天！！】エロビッチ100%乱交で昇天回数MAXで残暑を吹き飛ばすの巻！！ - JAV目錄大全javmenu.com",
+  "publish_date": "2023-09-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "美少女",
+    "中出",
+    "多P",
+    "泳装",
+    "业余",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103463",
+  "actresses": [
+    {
+      "name": "【あいまり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103463&name=【あいまり"
+    }
+  ]
+};

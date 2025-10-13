@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241225/ZcSacKth/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75199,
+  "IDcode": "KBI-026",
+  "title": "美しすぎる看護師と二日間、連続で種付けしまくる 終わらない中出し不倫性交。中出し20連発 神咲まい",
+  "publish_date": "2019-12-27",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "多P",
+    "玩具",
+    "出轨",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75199",
+  "actresses": [
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75199&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75199&name=鲛岛"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75199&name=タツ"
+    },
+    {
+      "name": "神咲舞",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75199&name=神咲舞"
+    }
+  ]
+};

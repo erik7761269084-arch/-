@@ -1,0 +1,96 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/ec607ef0-1957-4b03-9e68-b5b232c15084/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 9616,
+  "IDcode": "NASK-173",
+  "title": "強行索要鄰居年輕大雞巴的放蕩人妻 大合集 VOL.02 ~ 大槻響 黑川堇 吉根柚莉愛 本真友裏 春原未來 春菜華",
+  "publish_date": "2024-12-24",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "苗條",
+    "後入",
+    "家庭主妇",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "老頭子",
+    "深喉",
+    "乳交",
+    "色白",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "4小時以上作品",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "兒媳",
+    "舔陰",
+    "慾求不滿",
+    "內衣",
+    "口爆",
+    "勾引・誘惑",
+    "美腳",
+    "鄰居",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "精選總編集",
+    "手指插入",
+    "NTR",
+    "熟女",
+    "精選綜合",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241225/e0577d0b-470e-4d77-a505-cfda5d0cad8a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241225/e0577d0b-470e-4d77-a505-cfda5d0cad8a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9616",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=吉根柚莉爱"
+    },
+    {
+      "name": "大槻响",
+      "img_url": "https://picture.yoshiclub.xyz/20230331/fc9e7591-f554-477c-bca5-c9ca05b3e60c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=大槻响"
+    },
+    {
+      "name": "黑川堇",
+      "img_url": "https://picture.yoshiclub.xyz/20230404/ff614a90-d21a-4b72-9873-870cebd21c18.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=黑川堇"
+    },
+    {
+      "name": "本真友里",
+      "img_url": "https://picture.yoshiclub.xyz/20231212/d2565cb1-735e-452d-aff6-dfb974831868.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=本真友里"
+    },
+    {
+      "name": "春菜华",
+      "img_url": "https://picture.yoshiclub.xyz/20240529/7ea00ac9-2abc-474c-aa71-dd6813a32534.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=春菜华"
+    },
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9616&name=春原未来"
+    }
+  ]
+};

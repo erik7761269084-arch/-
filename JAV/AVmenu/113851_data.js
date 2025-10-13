@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/03/64ba385b/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 113851,
+  "IDcode": "FC2-3067222",
+  "title": "银座化妆品品牌的顶级美容顾问",
+  "publish_date": "2025-10-03",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/10/03/2f89558c136e2503c8f41abd884cb01e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=113851",
+  "actresses": []
+};

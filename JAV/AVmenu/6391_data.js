@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/badf6208-6e09-48b0-9aec-3db094e4be2e/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/01/a6ab4ba9/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6391,
+  "IDcode": "RPIN-086",
+  "title": "溫柔笑容拉面店員小姐姐 肉感爆乳加滿身刺青反差超帶感 笑眯眯被猛男狂幹到不行 ~ 野野宮司",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "大姐姐",
+    "企畫",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "乳交",
+    "色白",
+    "凌辱",
+    "中出",
+    "美乳",
+    "蒙面・面罩",
+    "拘束・拷問",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "素人",
+    "刺青紋身",
+    "口交",
+    "職員",
+    "騎乗位",
+    "姐姐・妹妹",
+    "性感",
+    "兩男一女",
+    "口爆",
+    "緊縛",
+    "清楚系",
+    "巨乳",
+    "地味",
+    "按摩棒",
+    "豐滿",
+    "羞恥"
+  ],
+  "description": "RPIN-086为妄想族出品,2025年5月3日发行的有碼成人影片由野野宮司出演\n在拉麵店打工的甜美妹子，說話慢吞吞，超愛貓咪，溫柔到不行，但身材超火辣，爆乳加上滿身刺青，反差感直接炸裂！先用大號電棒爽了一波，又被三個猛男用情趣玩具輪番調教，輪流口技伺候大肉棒，還被狠狠插入小穴，狂搖臀部高潮連連。後來還被綁起來手技玩到潮吹，油壓按摩放鬆後，又被激烈衝刺到一次次爽到不行，真的欲罷不能啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105509925925_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105509925925_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6391",
+  "actresses": [
+    {
+      "name": "野野宮司",
+      "img_url": "https://picture.yoshiclub.xyz/20250314/a4106018-cbe9-4220-8e56-1f56dd2e67c4.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6391&name=野野宮司"
+    }
+  ]
+};

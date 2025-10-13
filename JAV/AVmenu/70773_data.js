@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/Y2XblSTb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70773,
+  "IDcode": "SHKD-770",
+  "title": "受付嬢レイプ 俺の女 輝月あんり",
+  "publish_date": "2017-11-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "凌辱",
+    "强奸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/0a197fd42881d893acd7b77fe68de265.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70773",
+  "actresses": [
+    {
+      "name": "辉月杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20230726/21029c51-346d-47c1-b7ba-29be40141e80.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70773&name=辉月杏梨"
+    }
+  ]
+};

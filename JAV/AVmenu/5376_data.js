@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a25d194a-9137-4c7a-9897-d9c66b97b606/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/19/233d3093/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5376,
+  "IDcode": "MIAB-499",
+  "title": "菁英女搜查官被貶到鄉下，啥事件都沒有整天跟駐守大叔汗流浹背偷情啪啪啪 ~ 天月梓",
+  "publish_date": "2025-06-13",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "鄉下",
+    "流汗",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "制服",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "不倫",
+    "舔陰",
+    "慾求不滿",
+    "接吻",
+    "清楚系",
+    "單體作品",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "地味",
+    "美人",
+    "短髮",
+    "女搜查官",
+    "豐滿",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "MIAB-499为MOODYZ出品,2025年6月13日发行的有碼成人影片由天月梓出演\n「怎麼會變成這樣啦！」就因為一次任務失手，天月被發配到鳥不生蛋的鄉下。本來一心想東山再起的她，卻發現這地方根本沒啥像樣的事件可查，整個人直接傻眼。就在這時，她遇上了傳說中的前搜查官大島，一個駐守鄉下的老司機。某天，潛入任務時突然下起大雨，天月全身濕透，性感身材一覽無遺，大島完全壓不住火，強行抱住她就是一陣狂吻。雖然天月嘴上說不要，但身體卻誠實得很，直接被大島“滿載”了……明知道這是不倫關係，可天月卻慢慢沉迷於肉體的快感，用激情來填補內心的失落與空虛。後來甚至主動撩大島，激烈舌吻、瘋狂纏綿，肉貼肉地廝磨，一次又一次求著內射，簡直停不下來。兩人獨處時，所有理智和情感都丟到腦後，只剩彼此貪婪地索取，完全墮入慾望的深淵。",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063355945945_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063355945945_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5376",
+  "actresses": [
+    {
+      "name": "天月梓",
+      "img_url": "https://picture.yoshiclub.xyz/20231016/830567d3-2b87-4eda-9a3a-50f5223caa5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5376&name=天月梓"
+    },
+    {
+      "name": "大岛丈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5376&name=大岛丈"
+    }
+  ]
+};

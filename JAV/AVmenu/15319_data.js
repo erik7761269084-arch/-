@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b494e84b-d446-4461-8ca7-9139ffe86ed0/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240612/0uxQgiAd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 15319,
+  "IDcode": "JUQ-637",
+  "title": "麥當娜20周年紀念！ ！第六次奇跡般的合作！ ！我愛我的公公勝過愛我的丈夫... ~ 七森莉莉",
+  "publish_date": "2024-04-23",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "公公",
+    "兒媳",
+    "舔陰",
+    "內衣",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "NTR",
+    "熟女",
+    "亂倫",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "JUQ-637为MADONNA出品,2024年4月23日发行的有碼成人影片由七森莉莉出演\n她在婚姻生活中繼續對公公懷有隱密的感情。儘管她飽受對丈夫的愧疚之苦，但她對公公的愛卻與日俱增。我肯定會讓我的岳父難堪……我不能讓自己有這樣的感覺，如果可以的話，我想忘記它。可是，我越想越想見見我的岳父。我打定主意，給丈夫留了一張紙條，就去看岳父。我不想再後悔了，我想表達我最真實的感受…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419002214929929.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240419/20240419002214929929.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15319",
+  "actresses": [
+    {
+      "name": "七森莉莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230819/2199c99b-1dc3-47f9-bb93-14388f02dc17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15319&name=七森莉莉"
+    }
+  ]
+};

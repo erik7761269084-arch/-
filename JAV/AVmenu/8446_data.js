@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/022a0841-4201-4ea0-b71f-a92eea4f9f5a/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/09/8f9782fc/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8446,
+  "IDcode": "JUR-200",
+  "title": "男孩的東京遠徵，將自己的童貞獻給他在網絡遊戲中偶遇的已婚人妻 ~ 吉澤友貴",
+  "publish_date": "2025-02-11",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "後入",
+    "劇情",
+    "純粹的慾望",
+    "巨尻",
+    "絕頂高潮",
+    "中出",
+    "美乳",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "美腳",
+    "美人妻",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "人妻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "美人",
+    "熟女",
+    "處男"
+  ],
+  "description": "JUR-200为MADONNA出品,2025年2月11日发行的有碼成人影片由吉泽友贵出演\n「如果你能來東京，我就奪走你的貞操。」往返票價為7000日元，單程約8小時。對我這種連兼職都沒有的人來說，這是一筆相當可觀的錢。但如果我能見到那個人，如果我能和那個人發生性關係，我就不會後悔。六個月前，我和她在一款網路遊戲中相識並成為朋友。她自稱「Yuu」…我懷著一絲希望，在高速公路巴士上搖搖晃晃地度過了一夜。她確實在會面的地方......",
+  "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080458378378.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250206/20250206080458378378.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8446",
+  "actresses": [
+    {
+      "name": "吉泽友贵",
+      "img_url": "https://picture.yoshiclub.xyz/20231010/697aaec6-f0dd-4635-984b-abb7622f89a1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8446&name=吉泽友贵"
+    }
+  ]
+};

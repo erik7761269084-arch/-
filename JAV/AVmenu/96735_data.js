@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/08/05/0ca39581/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 96735,
+  "IDcode": "ABP-040",
+  "title": "人生初・トランス状態 激イキ絶頂セックス あやみ旬果",
+  "publish_date": "2013-09-12",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "多P",
+    "潮吹",
+    "女优按摩棒",
+    "药物",
+    "无码破解",
+    "高跟鞋",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=96735",
+  "actresses": [
+    {
+      "name": "彩美旬果",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/ff17d1c2-09a6-45a0-9409-2ca4e781b67d.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96735&name=彩美旬果"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96735&name=森林原人"
+    },
+    {
+      "name": "沢井亮",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=96735&name=沢井亮"
+    }
+  ]
+};

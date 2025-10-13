@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/14/d23654dd/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100472,
+  "IDcode": "JUQ-212",
+  "title": "夫不在の5日間、初夜まで禁欲を命じられた私は性豪義父に身も心も調教されてしまった―。 望まない政略結婚、義父の狙いはワタシでした…。 栗山莉緒",
+  "publish_date": "2023-03-24",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "乳房",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100472",
+  "actresses": [
+    {
+      "name": "栗山莉绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=100472&name=栗山莉绪"
+    }
+  ]
+};

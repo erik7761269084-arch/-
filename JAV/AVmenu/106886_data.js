@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/11/04/bbf0ba3f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 106886,
+  "IDcode": "HMN-461",
+  "title": "競泳水着マニアの富豪に監禁され1週間ねっちょり中出しご奉仕させられた 美人インストラクター 美谷朱里",
+  "publish_date": "2023-09-26",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "凌辱",
+    "多P",
+    "姐姐",
+    "角色扮演者",
+    "学校泳装",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=106886",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=106886&name=美谷朱里"
+    }
+  ]
+};

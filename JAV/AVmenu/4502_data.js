@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/7b473751-988d-44e1-b408-5424b35e40d2/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/14/84687ba7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4502,
+  "IDcode": "FPRE-190",
+  "title": "像要咽氣一般的癡女極端調教M男的狂野快感 ~ 吉根柚莉愛",
+  "publish_date": "2025-07-11",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "後入",
+    "企畫",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "超爆乳",
+    "調教",
+    "變態",
+    "乳交",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "重口味",
+    "口交",
+    "白眼失神",
+    "胖女人",
+    "女王",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "顔面騎乘",
+    "舔陰",
+    "慾求不滿",
+    "SM",
+    "單體作品",
+    "鬼畜片",
+    "情趣內衣",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "M男・M女",
+    "美人",
+    "真實拍攝",
+    "豐滿",
+    "女優"
+  ],
+  "description": "FPRE-190为FITCH出品,2025年7月11日发行的有碼成人影片由吉根柚莉爱出演\n这部片简直绝了！丰满痴女把M男调教到欲仙欲死！痛苦就是爽到爆！突破极限后，迎接你的就是炸裂般的快感奖励！爆乳爆臀压迫、舌吻封嘴、窒息手指深喉、鼻孔封堵、巨臀窒息脸骑、勒颈SEX、墙咚肉体挤压、圣水和水责惩罚，各种玩法轮番上阵！痴女的窒息技巧让大脑爽到融化，被她的丰满肉体埋没，意识模糊间脑内毒药般的快感和精华一起喷涌而出，爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031431134134_66332_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031431134134_66332_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4502",
+  "actresses": [
+    {
+      "name": "吉根柚莉爱",
+      "img_url": "https://picture.yoshiclub.xyz/20231202/95975c23-c471-4c47-9e61-e9c5e18927f9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4502&name=吉根柚莉爱"
+    }
+  ]
+};

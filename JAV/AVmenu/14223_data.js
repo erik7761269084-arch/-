@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fbe25d54-de80-41b8-9a37-6035e1cbcf77/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14223,
+  "IDcode": "DOKS-604",
+  "title": "想要高潮後被中出 ~ 天乃のあ",
+  "publish_date": "2024-06-01",
+  "type": "有码",
+  "company": "OFFICE K’S",
+  "genres": [
+    "苗條",
+    "後入",
+    "企畫",
+    "淫亂",
+    "色白",
+    "中出",
+    "美臀",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "騎乗位",
+    "舔陰",
+    "少女",
+    "貧乳",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "自慰",
+    "清純",
+    "放尿",
+    "美少女電影",
+    "女學生",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "DOKS-604为OFFICE K’S出品,2024年6月1日发行的有碼成人影片由天乃のあ出演\n脳イキ腹パン軽率にイク炉利マンM志願 天乃のあ パンティとチェキ付き",
+  "cover_url": "https://picture.yoshiclub.xyz/20240603/ceeed5a8-41ff-4daf-bdc4-3809f7e5648e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240603/ceeed5a8-41ff-4daf-bdc4-3809f7e5648e.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14223",
+  "actresses": [
+    {
+      "name": "天乃のあ",
+      "img_url": "https://picture.yoshiclub.xyz/20240305/11323ce3-390d-4768-ab59-6eb113e89679.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14223&name=天乃のあ"
+    }
+  ]
+};

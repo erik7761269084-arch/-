@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f2b146ce-1f78-42fd-918b-d82c773af253/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18055,
+  "IDcode": "KBR-010",
+  "title": "與模特兒出身的已婚人妻的一泊兩日溫泉之旅 無與倫比的第一次NTR旅行",
+  "publish_date": "2023-11-02",
+  "type": "有码",
+  "company": "KANBi",
+  "genres": [
+    "劇情",
+    "中出",
+    "泡泡浴店",
+    "口交",
+    "模特兒",
+    "旅行",
+    "舔陰",
+    "SM",
+    "人妻",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "溫泉"
+  ],
+  "description": "KBR-010为KANBi出品,2023年11月2日发行的有碼成人影片由平松杏梨出演\nKANBi專屬女演員「平松杏裡」首次溫泉旅館出軌旅行！。到達時，平松杏裡濕漉漉的陰戶已經完全準備好並用手指撫摸，讓她立即達到高潮!! 在用乳頭和口交仔細服務雞巴後，期待已久的插入！當持續暴力抽插時，淫蕩的聲音迴盪在整個房間！在露天浴池裡，她在與平常不同的地點做愛，感到非常興奮。在戶外享受開放性愛的同時體驗前所未有的高潮！成為不忠母親的平松杏裡，在為期一晚、兩天的婚外溫泉之旅中與自己的慾望糾纏！\nKANBi專屬女演員「平松杏裡」首次溫泉旅館出軌旅行！。到達時，平松杏裡濕漉漉的陰戶已經完全準備好並用手指撫摸，讓她立即達到高潮!! 在用乳頭和口交仔細服務雞巴後，期待已久的插入！當持續暴力抽插時，淫蕩的聲音迴盪在整個房間！在露天浴池裡，她在與平常不同的地點做愛，感到非常興奮。在戶外享受開放性愛的同時體驗前所未有的高潮！成為不忠母親的平松杏裡，在為期一晚、兩天的婚外溫泉之旅中與自己的慾望糾纏！\n",
+  "cover_url": "https://picture.yoshiclub.xyz/20231103/58f7312b-cccf-4c1e-92ca-db47793e784f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231103/58f7312b-cccf-4c1e-92ca-db47793e784f.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18055",
+  "actresses": [
+    {
+      "name": "平松杏梨",
+      "img_url": "https://picture.yoshiclub.xyz/20231006/91ec387e-2ab5-4ba4-9df3-1ab33454659f.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18055&name=平松杏梨"
+    }
+  ]
+};

@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/184c6e22-c676-4ffa-9ef2-bd13deb19eb0/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18381,
+  "IDcode": "IPX-761",
+  "title": "淫穢的乳頭蕩婦護士，猥褻的髒話和乳頭酷刑，將引導您達到最佳射精效果",
+  "publish_date": "2021-11-09",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "醫院・診所",
+    "中出",
+    "蕩婦",
+    "女上位",
+    "口交",
+    "淫語",
+    "護士制服",
+    "護士"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231011/20231011003435676676.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231011/20231011003435676676.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18381",
+  "actresses": [
+    {
+      "name": "天海翼",
+      "img_url": "https://picture.yoshiclub.xyz/20230515/7860d679-1203-4710-a4d8-6beb0ac4c8be.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18381&name=天海翼"
+    }
+  ]
+};

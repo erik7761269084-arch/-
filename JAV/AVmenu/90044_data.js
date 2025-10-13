@@ -1,0 +1,41 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240110/97tHCEjq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90044,
+  "IDcode": "PRED-519",
+  "title": "ビクビク痙攣めちゃイキ お天気お姉さん性感開発3本番 汗・愛液5000cc絶頂数3100回イキ潮19000cc 高島愛",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "姐姐",
+    "颜射",
+    "苗条",
+    "潮吹",
+    "流汗",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240111-1/0e292d451a82821f0f1eeb4524ffa6e5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90044",
+  "actresses": [
+    {
+      "name": "高島愛",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/95a6408a-46a3-4837-a8df-241632e125c0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90044&name=高島愛"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90044&name=鲛岛"
+    },
+    {
+      "name": "イセドン内村",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90044&name=イセドン内村"
+    }
+  ]
+};

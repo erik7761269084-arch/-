@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/7D04BEF39CDA840D/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 55866,
+  "IDcode": "3822C87788C8C5DA83F0F67A4C66A56E",
+  "title": "白雪結花-股交",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55866",
+  "actresses": []
+};

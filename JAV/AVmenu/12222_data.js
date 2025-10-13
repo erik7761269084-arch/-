@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/79dbef39-a148-4172-b6cd-ef9faa717a4a/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/09/18/0e3d2497/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12222,
+  "IDcode": "IPZZ-362",
+  "title": "雞巴在色情的大屁股裏失控！ 當我醉酒醒來時，半裸的女孩睡在邊上！ ？她平時很自大……我受夠了！看起來我們做了愛！ ~ 西宮夢",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "酒醉",
+    "69",
+    "劇情",
+    "巨尻",
+    "舔腳",
+    "絕頂高潮",
+    "酒後亂性",
+    "流汗",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "丁字裤",
+    "性感",
+    "舔陰",
+    "接吻",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "情趣內衣",
+    "艷遇",
+    "辣妹/GAL系",
+    "美少女電影"
+  ],
+  "description": "IPZZ-362为IDEA POCKET出品,2024年9月10日发行的有碼成人影片由西宮夢出演\n我酒量不太好，所以喝多了就醉了……早上醒來的時候……嗯？哈！ ？呃……為什麼西宮同學在我旁邊！ ？我不記得了...？還有半裸的？啊啊！說實話，這是最糟糕的！我做到了（汗）嘿...昨晚太棒了...我不敢相信你有如此激烈的性愛...而且這太令人難以置信...我可能會對此上癮！我平常厚臉皮的同學女孩突然乞求做愛！嘿嘿嘿……我們再來一次好嗎？我對我的處女處女大雞巴上癮了！ ？在濕熱的房間裡出汗的同時，我一次又一次地射精（強迫）。你的雞雞實在太危險了！我們操了12個小時直到第二天早上！被迫？ 11次大量射精！",
+  "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906013803209209.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240906/20240906013803209209.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12222",
+  "actresses": [
+    {
+      "name": "西宮夢",
+      "img_url": "https://picture.yoshiclub.xyz/20230513/36c0b1b0-db13-4bf8-810d-643803439625.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12222&name=西宮夢"
+    }
+  ]
+};

@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/08a6b232-3876-4e0c-96eb-35e30f8b6e83/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11084,
+  "IDcode": "PJAM-021",
+  "title": "美人嫂子 ~ 嫂子是個有着超性感屁股的美人，她欲求不滿，在用APP約炮......！~ 濱崎真緒",
+  "publish_date": "2024-10-24",
+  "type": "有码",
+  "company": "Purple Jam",
+  "genres": [
+    "後入",
+    "劇情",
+    "巨尻",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "肉絲",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "慾求不滿",
+    "嫂嫂",
+    "明星臉",
+    "美人妻",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "約炮",
+    "熟女",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/temp/20241025044745327327.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/temp/20241025044745327327.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11084",
+  "actresses": [
+    {
+      "name": "浜崎真緒",
+      "img_url": "https://picture.yoshiclub.xyz/20241116/febcd7ee-27e9-41b5-a1f7-60d1209e7806.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11084&name=浜崎真緒"
+    }
+  ]
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 65591,
+  "IDcode": "88AB6363A9F6249FD98D4D6B4DE63C81",
+  "title": "新人好色妹 关西发 清楚系淫乱婊子东京进出AV出道 莲实恋",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65591",
+  "actresses": []
+};

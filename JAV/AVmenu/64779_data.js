@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231012/8MZcZPcF/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 64779,
+  "IDcode": "AC2E5047282FFA5618EF3E9A0E2ECCE-8",
+  "title": "拜託破處男的小叔是個絕讚怪物！沒察覺到嫂子高潮的不拔播種失控NTR",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=64779",
+  "actresses": []
+};

@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/r7FySU6A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78902,
+  "IDcode": "GVG-986",
+  "title": "美人ファイター輪●地獄 マッスル凌●サブミッションFUCK！ 向井藍",
+  "publish_date": "2019-12-19",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "多P",
+    "苗条",
+    "肌肉",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78902",
+  "actresses": [
+    {
+      "name": "向井藍",
+      "img_url": "https://picture.yoshiclub.xyz/20230924/8882ab4b-2d7f-4270-9606-c4b5126fd962.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78902&name=向井藍"
+    }
+  ]
+};

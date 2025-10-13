@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58446,
+  "IDcode": "d06dbd8de1194d3da9682a1e854199d2",
+  "title": "享受色情按摩！  池田咲",
+  "publish_date": "",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58446",
+  "actresses": []
+};

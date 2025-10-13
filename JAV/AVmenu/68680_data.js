@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250410/kHHNGmjx/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68680,
+  "IDcode": "RBK-002",
+  "title": "被母親再婚對象大叔每天強暴。 七瀨愛麗絲",
+  "publish_date": "2021-01-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "戏剧",
+    "凌辱",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68680",
+  "actresses": [
+    {
+      "name": "七瀨愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240114/6d8ca794-c12e-4de8-8f5d-c8433e029fc2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68680&name=七瀨愛麗絲"
+    },
+    {
+      "name": "田渊正浩",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=68680&name=田渊正浩"
+    }
+  ]
+};

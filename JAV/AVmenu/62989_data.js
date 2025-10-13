@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/22/b662351d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62989,
+  "IDcode": "SOON-003",
+  "title": "いつでもどこでも人妻オナホ したがり温泉旅行 藤原真帆",
+  "publish_date": "2025-06-17",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "出轨",
+    "浴衣",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62989",
+  "actresses": [
+    {
+      "name": "藤原真帆",
+      "img_url": "https://picture.yoshiclub.xyz/20240807/90199c77-b61a-4f79-a2f5-ceda6f0bfff3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=62989&name=藤原真帆"
+    }
+  ]
+};

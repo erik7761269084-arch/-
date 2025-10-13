@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/05/889f0529/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85430,
+  "IDcode": "MIDV-036",
+  "title": "創建泡泡浴部的學生會長櫻穿起性感服裝大奮闘！發射無限制服務 水卜櫻",
+  "publish_date": "2022-01-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "高中女生",
+    "巨乳",
+    "角色扮演者",
+    "兔女郎",
+    "美少女电影",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85430",
+  "actresses": [
+    {
+      "name": "水卜櫻",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/8184e7b6-7070-44f5-8bdc-3746c9a79a2c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85430&name=水卜櫻"
+    }
+  ]
+};

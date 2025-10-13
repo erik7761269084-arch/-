@@ -1,0 +1,28 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/11/26/8ad54e92/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82258,
+  "IDcode": "BIJN-140",
+  "title": "最高潮に気持ちのいいSEXがしたい！！ 快楽に堕ちた女に大量の精子を連続中出しして孕ませてやる！ 佐々木あき",
+  "publish_date": "2018-09-19",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "已婚妇女",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82258",
+  "actresses": [
+    {
+      "name": "佐佐木明希",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/d62b398f-5ff8-4643-a18d-0e0380b34447.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82258&name=佐佐木明希"
+    }
+  ]
+};

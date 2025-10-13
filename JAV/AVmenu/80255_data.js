@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220810/vwmqS3NW/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80255,
+  "IDcode": "GVH-370",
+  "title": "優等生調教 卑猥な冬休み妊娠勉強合宿 真白みくる",
+  "publish_date": "2022-03-01",
+  "type": "有码",
+  "company": "GLORY QUEST",
+  "genres": [
+    "高中女生",
+    "中出",
+    "多P",
+    "监禁",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/4fa6730c1f1e1cb71dbdffbe69a4eac6.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80255",
+  "actresses": []
+};

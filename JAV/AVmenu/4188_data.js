@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3216ab48-c3fb-4931-b0de-4884b4b283ac/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 4188,
+  "IDcode": "SDAB-337",
+  "title": "貼心貧乳苗條美少女的粉絲上門訪問，把絕倫大叔榨幹到最後一滴 ~ 皆川蘭",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "上門福利",
+    "企畫",
+    "絕頂高潮",
+    "老頭子",
+    "4K",
+    "色白",
+    "中出",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "素人",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "少女",
+    "口爆",
+    "貧乳",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "女僕制服",
+    "單體作品",
+    "清純",
+    "癡女",
+    "手指插入",
+    "粉丝",
+    "女優訪談",
+    "美人",
+    "極品美人",
+    "美少女電影",
+    "COSPLAY服飾",
+    "女優",
+    "羞恥"
+  ],
+  "description": "SDAB-337为SOD出品,2025年7月22日发行的有碼成人影片由皆川蘭出演\n溫暖與愛意，這就是母性本能的起點！這位小可愛已經體驗過高潮的快感，現在她要用滿滿的母性溫柔，幫那些性慾爆棚的大叔徹底解放！三個超爽的情景，面對那些藏不住變態癖好的絶倫大叔，她笑咪咪地用最貼心的服務，把他們的精液榨到一滴不剩，簡直是欲罷不能的享受啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722052313984984_37775_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250722/20250722052313984984_37775_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4188",
+  "actresses": [
+    {
+      "name": "皆川蘭",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250512/db3c583b-cdab-40e0-87a6-5c0fd29e69e6_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4188&name=皆川蘭"
+    }
+  ]
+};

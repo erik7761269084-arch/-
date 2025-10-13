@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241106/1OSAluUo/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81474,
+  "IDcode": "DNJR-025",
+  "title": "ド派手なネイルにピンクヘアー 超気合の入った漆黒ギャルMARIAちゃんのハードM男イジメ",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "淫乱，真实",
+    "荡妇",
+    "M男",
+    "女生",
+    "晒黑"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/a42b97dacaba40d610e1a6606691bf51.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81474",
+  "actresses": [
+    {
+      "name": "MARIA",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81474&name=MARIA"
+    }
+  ]
+};

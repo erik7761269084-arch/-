@@ -1,0 +1,66 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b30f451e-cdb5-4c16-a973-125e1cd17961/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 7118,
+  "IDcode": "SAN-337",
+  "title": "被人強制寢取的幼妻們260分鍾 ~ 千石もなか 千葉彩芽",
+  "publish_date": "2025-03-31",
+  "type": "有码",
+  "company": "マザー",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "4小時以上作品",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "若妻",
+    "性感",
+    "兩男一女",
+    "多P",
+    "蘿莉控",
+    "美腳",
+    "奇聞趣事",
+    "美人妻",
+    "清純",
+    "人妻",
+    "精選總編集",
+    "奇異的",
+    "按摩棒",
+    "欠債肉償",
+    "M男・M女",
+    "美人",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20250331/f1fc2f29-3638-4304-922e-a5a0586c3bbb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250331/f1fc2f29-3638-4304-922e-a5a0586c3bbb.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7118",
+  "actresses": [
+    {
+      "name": "千石もなか",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/408e6b15-5136-4ae7-b355-8beccf55cac9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7118&name=千石もなか"
+    },
+    {
+      "name": "千葉彩芽",
+      "img_url": "https://picture.yoshiclub.xyz/20250331/6dd783b2-f893-4523-a4f1-822d85db1fe9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7118&name=千葉彩芽"
+    }
+  ]
+};

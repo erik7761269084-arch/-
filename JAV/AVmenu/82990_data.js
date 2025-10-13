@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221206/3nUr9hgb/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82990,
+  "IDcode": "NSPS-869",
+  "title": "ザ・寝取らせ 他人と濃厚に抱き合っていた妻・オムニバス",
+  "publish_date": "2020-01-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "戏剧",
+    "成熟的女人",
+    "已婚妇女",
+    "出轨",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/2592482aa169de2a2b681a9cfb626d6e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82990",
+  "actresses": [
+    {
+      "name": "妃月るい",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/354fbc48-e376-4c1d-b653-d73a06bc78b0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82990&name=妃月るい"
+    },
+    {
+      "name": "纱々原ゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82990&name=纱々原ゆり"
+    }
+  ]
+};

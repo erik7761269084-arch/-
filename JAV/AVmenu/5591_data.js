@@ -1,0 +1,70 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/556e9a2f-a136-4ab2-95b5-05a691e00f6d/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/06/03/71c5cd5f/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 5591,
+  "IDcode": "FJIN-076",
+  "title": "胸狠正妹！油膩滑溜細腰巨乳溫泉約會 ~ 九十九メイ",
+  "publish_date": "2025-05-31",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "素人作品",
+    "濕身",
+    "劇情",
+    "純粹的慾望",
+    "絕頂高潮",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "港區女子",
+    "騎乗位",
+    "旅行",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "慾求不滿",
+    "高妹",
+    "口爆",
+    "美腳",
+    "拜金女",
+    "單體作品",
+    "御姐系",
+    "艷遇",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "約炮",
+    "美人",
+    "阪道系",
+    "溫泉",
+    "大奶头",
+    "綠茶婊",
+    "辣妹/GAL系",
+    "短髮",
+    "美少女電影"
+  ],
+  "description": "FJIN-076为妄想族出品,2025年5月31日发行的有碼成人影片由九十九メイ出演\n原本以為這輩子跟高冷女神無緣，沒想到居然約成功了！在交友APP上認識的超正巨乳正妹メイ醬，帶我玩了一場超嗨的3O約會（戶外、油滑、大奶）！這女神平時冷豔，一開啟色色模式就變成騷氣小野貓，臉紅潮吹高潮連連，真的讓人停不下來啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042200241241_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042200241241_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=5591",
+  "actresses": [
+    {
+      "name": "九十九メイ",
+      "img_url": "https://picture.yoshiclub.xyz/20231113/32428801-d061-402c-9f80-0a1db7a24be0.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=5591&name=九十九メイ"
+    }
+  ]
+};

@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/07/3203c47e/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107660,
+  "IDcode": "PRED-497",
+  "title": "跨り女上司ハーレム 婚約直前のボクを密着奪い合い、挟み撃ち中出しさせまくってくる2人… ひなたまりん 西野絵美",
+  "publish_date": "2023-07-18",
+  "type": "有码",
+  "company": "PREMIUM",
+  "genres": [
+    "中出",
+    "多P",
+    "荡妇",
+    "OL"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2023/08/08/da5d0f8730ca3b3399223ee66bf393f5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107660",
+  "actresses": [
+    {
+      "name": "西野絵美",
+      "img_url": "https://picture.yoshiclub.xyz/20231025/f77f3e53-4d7d-4b25-b0f4-ffc0b4ef1433.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107660&name=西野絵美"
+    },
+    {
+      "name": "日向真凛",
+      "img_url": "https://picture.yoshiclub.xyz/20231207/05ff9aa2-6577-4d89-a652-a92e437469b6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107660&name=日向真凛"
+    }
+  ]
+};

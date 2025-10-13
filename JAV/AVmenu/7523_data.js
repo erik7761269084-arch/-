@@ -1,0 +1,65 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fc3e412e-3e3b-46d1-81fe-3fa0c8b9e85f/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/29/2eaae765/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 7523,
+  "IDcode": "MIDA-085",
+  "title": "把宅家病嬌地雷學生帶到戶外，結果被拖進情趣酒店癡女到弟弟發瘋人生崩盤的我 ~ 七澤美亞",
+  "publish_date": "2025-03-18",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "校花",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "淫語",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "美人",
+    "綠茶婊",
+    "美少女電影",
+    "女學生",
+    "COSPLAY服飾",
+    "宅男・宅女"
+  ],
+  "description": "MIDA-085为MOODYZ出品,2025年3月18日发行的有碼成人影片由七泽美亚出演\n有一天，我多次探望把自己關在家裡不願出門的學生米婭，希望能找到一些安慰。然後她說她會去，但有一個條件。 「只要你跟我去情人旅館，我就讓你出去。」我以為這個條件可能是個玩笑，但我好不容易把米婭帶到外面，但她的誘惑是認真的！ ！ ！我抵擋不住學生的誘惑，採取了行動……！ ？",
+  "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313082655822822.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250313/20250313082655822822.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=7523",
+  "actresses": [
+    {
+      "name": "七泽美亚",
+      "img_url": "https://picture.yoshiclub.xyz/20231014/33c5fdef-7524-4d4c-b5e5-5d7f10c4f756.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7523&name=七泽美亚"
+    },
+    {
+      "name": "タツ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7523&name=タツ"
+    }
+  ]
+};

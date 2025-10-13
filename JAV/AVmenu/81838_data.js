@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221103/qaVFwvtG/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 81838,
+  "IDcode": "MUDR-106",
+  "title": "地味なふりした優等生 エッチが大好き過ぎて理性が保てなくなるおじさん大好き娘のリアル交尾。 咲乃小春",
+  "publish_date": "2020-04-13",
+  "type": "有码",
+  "company": "MUGEN",
+  "genres": [
+    "第一人称摄影",
+    "颜射",
+    "口交",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/d8a857eb1d3a667381eac0d35a67fc7d.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81838",
+  "actresses": [
+    {
+      "name": "咲乃小春",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=81838&name=咲乃小春"
+    }
+  ]
+};

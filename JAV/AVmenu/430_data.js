@@ -1,0 +1,59 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/41bd2b31-e1a4-48e3-bd7a-5af899e9ec67/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 430,
+  "IDcode": "HEYZO-0511",
+  "title": "淫蕩女孩的猥褻懲罰 老頭的復仇劇 ~ 長谷川玲",
+  "publish_date": "2014-01-18",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "深喉",
+    "變態",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "港區女子",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "口爆",
+    "美腳",
+    "靴子",
+    "金髮",
+    "拜金女",
+    "手指插入",
+    "美人",
+    "辣妹/GAL系",
+    "插入異物",
+    "羞恥",
+    "報復",
+    "苗條",
+    "後入",
+    "痴漢",
+    "劇情",
+    "尾行",
+    "舔腳",
+    "絕頂高潮",
+    "老頭子"
+  ],
+  "description": "HEYZO-0511为HEYZO出品,2014年1月18日发行的無碼成人影片由長谷川玲出演\n性悪ギャルに卑猥なお仕置き～オヤジのネットリ復讐劇～ - 霜月るな",
+  "cover_url": "https://picture.yoshiclub.xyz/20250127/5031c1f8-8363-46ba-9c1d-8ce6f15a0ab5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250127/5031c1f8-8363-46ba-9c1d-8ce6f15a0ab5.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=430",
+  "actresses": [
+    {
+      "name": "長谷川玲",
+      "img_url": "https://picture.yoshiclub.xyz/20231029/88c53ac2-7534-4b6e-b839-38525b171ad1.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=430&name=長谷川玲"
+    }
+  ]
+};

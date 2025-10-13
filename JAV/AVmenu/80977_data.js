@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/22/377a0b0c/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 80977,
+  "IDcode": "STARS-556",
+  "title": "奪走我初吻的是表姊。 一面深吻被口內凌辱、一面打樁抽插侵犯到滿足！！ 青空光",
+  "publish_date": "2022-03-10",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "戏剧",
+    "女上位",
+    "姐姐",
+    "无码破解"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80977",
+  "actresses": [
+    {
+      "name": "青空光",
+      "img_url": "https://picture.yoshiclub.xyz/20230403/24ec7089-5092-4d61-8c3d-4afeab8bad5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=80977&name=青空光"
+    }
+  ]
+};

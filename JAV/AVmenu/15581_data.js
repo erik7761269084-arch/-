@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/669f2991-7d15-43de-a3f3-75ef4262139d/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 15581,
+  "IDcode": "JUQ-666",
+  "title": "傲慢的商業夥伴總裁不斷中出她的出差娛樂 ~ 專屬美麗 ~ 今井栞菜",
+  "publish_date": "2024-04-09",
+  "type": "有码",
+  "company": "MADONNA",
+  "genres": [
+    "苗條",
+    "黑絲",
+    "劇情",
+    "身體換業務",
+    "凌辱",
+    "脚控・戀足癖",
+    "中出",
+    "OL",
+    "形象俱樂部",
+    "制服",
+    "口交",
+    "性感",
+    "女秘書",
+    "美腳",
+    "招待",
+    "人妻",
+    "辦公室",
+    "出差",
+    "熟女",
+    "羞恥"
+  ],
+  "description": "JUQ-666为MADONNA出品,2024年4月9日发行的有碼成人影片由今井栞菜出演\n假名被指派去出差，因為她被指派進行一項關於事關公司命運的商業談判。我之所以被委託進行這次商務談判...這是因為該公司的商業夥伴山本社長是一位以「熱愛女性」和「傲慢」而聞名的男人。本來打算把她這個公司裡最漂亮的女人帶過來，讓交易成功，但…當娛樂開始時，假名被迫進行羞辱性的性娛樂，在老闆面前玩弄她的身體。她從棘手的性騷擾中倖存下來，回到了住所，但山本的性娛樂才剛開始…",
+  "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406053509696696.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240406/20240406053509696696.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15581",
+  "actresses": [
+    {
+      "name": "今井栞菜",
+      "img_url": "https://picture.yoshiclub.xyz/20240215/680d6667-5b4b-48c4-9fc9-0075b19525a5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15581&name=今井栞菜"
+    }
+  ]
+};

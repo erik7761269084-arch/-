@@ -1,0 +1,55 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c7adf14-5d6b-4f48-9ef0-4515548aaf07/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241029/WHFui9dy/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13134,
+  "IDcode": "START-097",
+  "title": "美腳淫蕩房產中介本莊鈴帶着一對情侶客戶看房時寢取了男客戶，讓客戶中出 ~ 本莊鈴",
+  "publish_date": "2024-07-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "苗條",
+    "後入",
+    "黑絲",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "色白",
+    "身體換業務",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "房產中介",
+    "制服",
+    "口交",
+    "看房",
+    "騎乗位",
+    "性感",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "明星臉",
+    "出軌",
+    "NTR",
+    "美少女電影"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240723/9d712660-fe5a-4ce3-8232-fcb9b0b94939.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240723/9d712660-fe5a-4ce3-8232-fcb9b0b94939.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13134",
+  "actresses": [
+    {
+      "name": "本庄鈴",
+      "img_url": "https://picture.yoshiclub.xyz/20230330/70fc1eaf-635b-4992-b6a5-d89ab977b1c2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13134&name=本庄鈴"
+    }
+  ]
+};

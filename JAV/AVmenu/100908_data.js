@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231125/dSfpPmuq/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 100908,
+  "IDcode": "SIRO-5150",
+  "title": "【もう限界なんです…】久しぶりのセックスに忘れかけていた熱情がよみがえる！手マンだけで息も絶え絶えなほど敏感なオマ○コに肉棒を突き刺せば…【初撮り】ネットでAV応募→AV体験撮影  2048",
+  "publish_date": "2023-10-20",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "无毛",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=100908",
+  "actresses": []
+};

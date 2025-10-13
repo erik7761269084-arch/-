@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 54837,
+  "IDcode": "73ED07EF77B76746C458145073E867E0",
+  "title": "无码流出 1 早乙女露依 FC2-PPV-941852",
+  "publish_date": "",
+  "type": "无码",
+  "company": "S1",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54837",
+  "actresses": []
+};

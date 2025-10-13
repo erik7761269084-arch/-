@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/50e73404-93bd-4cfd-aeb0-c316d5a83a22/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/18/766289a7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 4778,
+  "IDcode": "IPZZ-613",
+  "title": "手機護士鈴一響，24小時隨時口內解放！超愛即尺的痴女護士 ~ 愛才莉亞",
+  "publish_date": "2025-07-04",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "後入",
+    "高顏值",
+    "劇情",
+    "醫院・診所",
+    "絕頂高潮",
+    "吞精",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "白絲",
+    "性感",
+    "主觀視角",
+    "舔陰",
+    "慾求不滿",
+    "少女",
+    "口爆",
+    "護士制服",
+    "勾引・誘惑",
+    "美腳",
+    "美少女",
+    "清楚系",
+    "單體作品",
+    "清純",
+    "艷遇",
+    "癡女",
+    "手指插入",
+    "看病・住院",
+    "美人",
+    "大奶头",
+    "護士",
+    "極品美人",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "IPZZ-613为IDEA POCKET出品,2025年7月4日发行的有碼成人影片由愛才莉亞出演\n【天生美少女護士上線啦！】我們醫院為了讓病人專心治療，每人配備一位專屬性處理護士！只要手機護士鈴一按，隨時隨地都能召喚她，不管是吃飯、檢查還是手術中，隨時來一場舒爽的即尺，口內解放完全沒問題！就算兄弟沒洗有點味兒也沒事，護士小姐姐完全不介意！來吧，享受一場超貼心的住院生活，包你爽到不行！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040521997997_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040521997997_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=4778",
+  "actresses": [
+    {
+      "name": "愛才莉亞",
+      "img_url": "https://picture.yoshiclub.xyz/20250110/a1622abe-d2ba-40be-87ab-736d873358e3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=4778&name=愛才莉亞"
+    }
+  ]
+};

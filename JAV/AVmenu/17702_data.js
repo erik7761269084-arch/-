@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b14ef6b3-3f98-4984-bfb3-5872eae81000/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/05/05/7ffdd4ac/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17702,
+  "IDcode": "IPX-934",
+  "title": "與睽違一年再會的小三一秒都不放過盡情抽插的出差處假日 桃乃木香奈",
+  "publish_date": "2022-09-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "劇情",
+    "純粹的慾望",
+    "中出",
+    "女上位",
+    "口交",
+    "旅行",
+    "小三・情人",
+    "舔陰",
+    "接吻",
+    "巨乳",
+    "手指插入",
+    "出軌",
+    "NTR",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231123/bc696a40-56c5-49b6-9109-40ed707670c1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231123/bc696a40-56c5-49b6-9109-40ed707670c1.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17702",
+  "actresses": [
+    {
+      "name": "桃乃木香奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230408/c69f9f72-2407-42b7-a68d-286575722a0b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17702&name=桃乃木香奈"
+    }
+  ]
+};

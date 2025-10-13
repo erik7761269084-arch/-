@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/fb1b3d7c-eec1-4e74-88ad-b7fd2f25ca7b/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/15/5befe312/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12047,
+  "IDcode": "EBWH-151",
+  "title": "一向看不起我的公司總裁祕書竟然兼職援交，她曾經傷害了我的自尊，我現在要用媚藥把她變成蕩婦好好調教她 ~ 宮本留衣",
+  "publish_date": "2024-09-17",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "後入",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "調教",
+    "深喉",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "應召・援交",
+    "媚藥・迷藥",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "舔陰",
+    "接吻",
+    "女秘書",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "抹油",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "羞恥",
+    "飯店",
+    "報復"
+  ],
+  "description": "EBWH-151为E-BODY出品,2024年9月17日发行的有碼成人影片由 宮本留衣出演\n身為一個很酷的推銷員，我常常帶著我的後輩一起，讓他們尖叫。即使在白天銷售期間，我也打算一次做出決定。但……她卻被當作上市公司總裁秘書一樣對待，尷尬極了。我打電話給送貨健康來釋放我累積的壓力，沒想到我卻兼職擔任公司總裁的秘書！ ？這是你最大的機會。我讓她用我平常玩女人的東西，顛倒位置把她變成母狗！ 「你對我的身體做了什麼……」她焦急的臉色好難看！逼小貓報仇！我想知道下次再去上班時我的臉會是什麼樣子。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912101543260260.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240912/20240912101543260260.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12047",
+  "actresses": [
+    {
+      "name": "宮本留衣",
+      "img_url": "https://picture.yoshiclub.xyz/20240317/5a67da63-6ee5-4545-816b-83b2643e97e8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12047&name=宮本留衣"
+    },
+    {
+      "name": "アリト",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12047&name=アリト"
+    }
+  ]
+};

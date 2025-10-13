@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20220823/OgC6kZo5/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 78985,
+  "IDcode": "DVDMS-483",
+  "title": "- 一般男女ドキュメントAV 私の妻の中出しバースデイ 愛しているから、誕生日に歳の数だけ知らない男たちの膣内射精をプレゼント ゆり（27歳） - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "中出",
+    "已婚妇女",
+    "业余",
+    "滥交",
+    "白天出轨"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=78985",
+  "actresses": [
+    {
+      "name": "篠崎环奈",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=78985&name=篠崎环奈"
+    }
+  ]
+};

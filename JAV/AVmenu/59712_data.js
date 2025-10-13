@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/10/05/96ebfdf7/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 59712,
+  "IDcode": "MFC-346",
+  "title": "- いのりん - JAV目錄大全javmenu.com",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "中出",
+    "淫乱，真实",
+    "女上位",
+    "第一人称摄影",
+    "内衣",
+    "口交",
+    "OL",
+    "巨大屁股",
+    "素人作品",
+    "4K"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/96ebfdf7/vod.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59712",
+  "actresses": []
+};

@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230129/OJJgpOk0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85812,
+  "IDcode": "PFES-036",
+  "title": "小悪魔妹のじゃれ合いグリグリ亀頭擦りつけ誘惑にパンツ越し挿入しちゃったボク 琴石ゆめる",
+  "publish_date": "2022-04-05",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "高中女生",
+    "中出",
+    "苗条",
+    "口交",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85812",
+  "actresses": [
+    {
+      "name": "琴石ゆめる",
+      "img_url": "https://picture.yoshiclub.xyz/20240220/b9d67258-b4c2-47bb-ab17-b7f6e371c958.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85812&name=琴石ゆめる"
+    }
+  ]
+};

@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/9311e281/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 35380,
+  "IDcode": "MDYD-803",
+  "title": "掉了钥匙的已婚少妇-椎名由奈",
+  "publish_date": "2025-09-02",
+  "type": "无码",
+  "company": "溜池",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "已婚妇女",
+    "足交",
+    "苗条",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://tutu1.space/images/2025/09/01/88d2ae2cd89535be92470dcbe642a1a5.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35380",
+  "actresses": [
+    {
+      "name": "椎名由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20230406/defdafe5-e137-49d1-a81b-13d6aeb6f8ab.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35380&name=椎名由奈"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=35380&name=森林原人"
+    }
+  ]
+};

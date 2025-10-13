@@ -1,0 +1,34 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240119/mOxFM4j3/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90635,
+  "IDcode": "PAK-001",
+  "title": "【はめちゃん新レーベル開幕】【スパンキング・ザ・美巨尻】【お尻を叩かれるのが大好き】【連続イキ潮アクメ】【超高速異次元ピストンでハメ潮大洪水】お尻好き必見！酒好き男好きのビッチ系美容部員が、連続痙攣アクメでビックビク！人生最高のセックスを堪能！出没！ナン街ック天国#001",
+  "publish_date": "2022-02-16",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "巨乳",
+    "中出",
+    "角色扮演",
+    "苗条",
+    "潮吹",
+    "业余",
+    "猎艳",
+    "巨大屁股",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90635",
+  "actresses": [
+    {
+      "name": "永野司",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/f18fc413-53e9-44a8-95f8-ff40e30acd5e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90635&name=永野司"
+    }
+  ]
+};

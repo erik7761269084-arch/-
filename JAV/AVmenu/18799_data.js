@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c657a58a-3ece-42ff-9114-1eb2ab9739c5/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231216/th8wbWRP/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 18799,
+  "IDcode": "STARS-908",
+  "title": "休息日和有著超大天然巨乳的浜辺栞帆生中出",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "自拍性愛",
+    "中出",
+    "性感",
+    "巨乳",
+    "紀錄片"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906014304283283.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230906/20230906014304283283.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18799",
+  "actresses": [
+    {
+      "name": "浜辺栞帆",
+      "img_url": "https://picture.yoshiclub.xyz/20230906/ddd8327f-6d6a-4abd-a693-4b8e1c56abac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18799&name=浜辺栞帆"
+    }
+  ]
+};

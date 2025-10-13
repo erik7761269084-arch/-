@@ -1,0 +1,49 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/81457ad6-1e2b-4ab5-8a54-8b97c42146f0/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/12/a5be4776/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16125,
+  "IDcode": "SONE-071",
+  "title": "護士的叫聲是淫蕩的標志。一個舔啊舔的放蕩護士會讓你一遍又一遍地射精。河北彩花",
+  "publish_date": "2024-02-27",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "醫院・診所",
+    "絕頂高潮",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "美乳",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "舔陰",
+    "少女",
+    "口爆",
+    "護士制服",
+    "美少女",
+    "巨乳",
+    "手指插入",
+    "護士",
+    "羞恥"
+  ],
+  "description": "SONE-071为S1出品,2024年2月27日发行的有碼成人影片由河北彩花出演\n我在打棒球時摔斷了手臂，在醫院我與一直有感情但因調職而分開的綾香重逢了。在病人和護士之間的關系中，我不能正確地手淫，因爲我不能使用我的手臂，但當她看到我這樣做時，停止的針開始移動。河北彩花 ，一個用柔軟的長舌頭和透明的手指輕輕刺激乳頭和雞巴的惡魔小蕩婦，開始了一場無論早上、中午還是晚上的祕密戀愛……",
+  "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223091400536536.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240223/20240223091400536536.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16125",
+  "actresses": [
+    {
+      "name": "河北彩花",
+      "img_url": "https://picture.yoshiclub.xyz/20230914/df5943a4-bf36-4bdf-ab41-60918d7e13b3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16125&name=河北彩花"
+    }
+  ]
+};

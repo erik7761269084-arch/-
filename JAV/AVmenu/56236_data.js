@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 56236,
+  "IDcode": "AF8CA21AC3B1C2074E16C9DDBAB79B30",
+  "title": "朋美老师的私人课程～保健室是天堂～ - 本泽朋美",
+  "publish_date": "",
+  "type": "无码",
+  "company": "妄想族",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=56236",
+  "actresses": []
+};

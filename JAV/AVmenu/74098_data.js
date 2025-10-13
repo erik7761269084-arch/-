@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20250116/MauGetQL/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 74098,
+  "IDcode": "MIAA-130",
+  "title": "娘の大親友からの純愛猛アプローチに負けて受け入れたのは、一晩の「フェラチオだけ」の関係だったはずが… 美谷朱里",
+  "publish_date": "2019-08-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "戏剧",
+    "苗条",
+    "口交",
+    "巨大屁股",
+    "美少女电影",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74098",
+  "actresses": [
+    {
+      "name": "美谷朱里",
+      "img_url": "https://picture.yoshiclub.xyz/20230214/35cb9492-e924-42f9-b840-cbc1a1981981.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=74098&name=美谷朱里"
+    }
+  ]
+};

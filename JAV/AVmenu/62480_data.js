@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/03/ccdb8195/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 62480,
+  "IDcode": "NASK-265",
+  "title": "傲慢S嬢に顔騎プレイを強要されるも逆転拘束してこってりイラマから捻じ込み交尾へ5",
+  "publish_date": "2025-07-22",
+  "type": "有码",
+  "company": "Nadeshiko",
+  "genres": [
+    "中出",
+    "拘束",
+    "骑乗位"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62480",
+  "actresses": []
+};

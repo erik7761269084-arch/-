@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/3e454365-d102-4f8c-99ff-dec2e8884e41/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 12149,
+  "IDcode": "NGOD-226",
+  "title": "「在回家的路上……」在妻子還沒到家前，我和她的閨蜜發生了性關系，她的胸部和屁股太誘人了……明日見未來",
+  "publish_date": "2024-09-10",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "劇情",
+    "絕頂高潮",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "形象俱樂部",
+    "女友閨蜜",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "美腳",
+    "美少女",
+    "清純",
+    "癡女",
+    "巨乳",
+    "出軌",
+    "NTR",
+    "短髮",
+    "美少女電影",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240908/2211f26c-960f-4244-b18e-584615375680.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240908/2211f26c-960f-4244-b18e-584615375680.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12149",
+  "actresses": [
+    {
+      "name": "明日見未来",
+      "img_url": "https://picture.yoshiclub.xyz/20231015/dd5db95b-7aa0-4d12-8aca-33059203e7b9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12149&name=明日見未来"
+    }
+  ]
+};

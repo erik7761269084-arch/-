@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241022/QQjGrf1W/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 94215,
+  "IDcode": "SHIC-297",
+  "title": "現在、お隣の娘さんは一人でお留守番中です… / こはくちゃん",
+  "publish_date": "2024-05-28",
+  "type": "有码",
+  "company": "思春期.com",
+  "genres": [
+    "校服"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=94215",
+  "actresses": [
+    {
+      "name": "奈津野こはく",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/8127be1e-e63f-4a31-ae3b-4e19d63d4c17.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=94215&name=奈津野こはく"
+    }
+  ]
+};

@@ -1,0 +1,42 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20240301/PQY0x4S4/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 90915,
+  "IDcode": "MADM-172",
+  "title": "【FANZA限定】ヤリたくなったら即注文 家にやって来る配達員を狙って●す痴女人妻 新村あかり チェキ付き",
+  "publish_date": "2023-09-13",
+  "type": "有码",
+  "company": "水晶映像",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "无毛",
+    "69",
+    "女上位",
+    "自慰",
+    "颜射",
+    "荡妇",
+    "口交",
+    "舔阴",
+    "按摩棒",
+    "手淫",
+    "连裤袜",
+    "骑乗位",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=90915",
+  "actresses": [
+    {
+      "name": "新村晶",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=90915&name=新村晶"
+    }
+  ]
+};

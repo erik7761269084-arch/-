@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230126/78F3CB1BF1C14D6B/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 99027,
+  "IDcode": "HAVD-980",
+  "title": "接吻レズビアン・女教師と女子生徒 女子生徒に快楽を教え込まれる女教師の熟れた肉体",
+  "publish_date": "2019-03-21",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "高中女生",
+    "女同性恋",
+    "女同接吻",
+    "女教师",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=99027",
+  "actresses": [
+    {
+      "name": "绀野さゆり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99027&name=绀野さゆり"
+    },
+    {
+      "name": "野々宫みさと",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=99027&name=野々宫みさと"
+    }
+  ]
+};

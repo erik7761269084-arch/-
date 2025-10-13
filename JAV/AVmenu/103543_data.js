@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/12/21/a4f6be75/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103543,
+  "IDcode": "JUX-671",
+  "title": "路上下着強盗 人妻ノーパン潮吹き露出 林ゆな",
+  "publish_date": "2015-08-25",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "户外",
+    "潮吹",
+    "数位马赛克",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103543",
+  "actresses": [
+    {
+      "name": "林由奈",
+      "img_url": "https://picture.yoshiclub.xyz/20240223/a971ec67-15b3-4151-a292-320e2982b9c9.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103543&name=林由奈"
+    }
+  ]
+};

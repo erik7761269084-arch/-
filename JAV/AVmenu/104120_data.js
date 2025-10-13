@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240630/agFdPFSg/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 104120,
+  "IDcode": "GOJU-180C",
+  "title": "有著想與兒子年齡差不多小鮮肉做愛願望的超下流美熟女",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=104120",
+  "actresses": []
+};

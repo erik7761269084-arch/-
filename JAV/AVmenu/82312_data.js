@@ -1,0 +1,29 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/06/05/8b19df96/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82312,
+  "IDcode": "CJOD-077",
+  "title": "圧縮拘束され身動きできない状態の兄を射精コントロールする妹 椎名そら",
+  "publish_date": "2017-03-25",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "高中女生",
+    "荡妇",
+    "SM",
+    "拘束"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82312",
+  "actresses": [
+    {
+      "name": "椎名空",
+      "img_url": "https://picture.yoshiclub.xyz/20241020/9a3c11c5-e99b-40b4-bdf4-77cb26c98bf3.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=82312&name=椎名空"
+    }
+  ]
+};

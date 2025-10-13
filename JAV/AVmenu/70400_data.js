@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250320/7OgiUD2A/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70400,
+  "IDcode": "XRW-576",
+  "title": "お見合いの席でセックス！カラダの相性や性癖を知り合う目的でドM調教してしまいました。 美保結衣",
+  "publish_date": "2018-10-26",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "按摩棒",
+    "吞精",
+    "女优按摩棒",
+    "大小姐",
+    "深喉"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70400",
+  "actresses": [
+    {
+      "name": "美保结衣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=70400&name=美保结衣"
+    }
+  ]
+};

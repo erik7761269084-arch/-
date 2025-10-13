@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/62f5c8c4-e9d1-4679-973c-f6d0e2c3902e/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2023/12/22/d27b509a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17740,
+  "IDcode": "EBWH-025",
+  "title": "能做的就是蹭、舔、搖世界級L罩杯反轉兔女郎的神乳！推奶風俗之旅",
+  "publish_date": "2023-11-22",
+  "type": "有码",
+  "company": "E-BODY",
+  "genres": [
+    "按摩女郎",
+    "按摩・物理治療・美容",
+    "乳交",
+    "中出",
+    "泡泡浴店",
+    "胸控・戀乳癖",
+    "口交",
+    "風俗娘",
+    "性感",
+    "淫語",
+    "兔女郎妝扮",
+    "按摩・美容店",
+    "巨乳"
+  ],
+  "description": "EBWH-025为E-BODY出品,2023年11月22日发行的有碼成人影片由新田雪出演\n世界標準超神胸L罩杯☆新田雪入隊！限定比裸體還色情的巨乳！兔子装成人娛樂豪華版。丰满的身材X淫荡的耳语X超近距离的玩弄。当巨乳女神用嘴把我的鸡巴吸到入魂入骨时，我充满了快感。她以柔軟的身體和毛茸茸的胸部讓男人融化。\n世界標準超神胸L罩杯☆新田雪入隊！限定比裸體還色情的巨乳！兔子装成人娛樂豪華版。丰满的身材X淫荡的耳语X超近距离的玩弄。当巨乳女神用嘴把我的鸡巴吸到入魂入骨时，我充满了快感。她以柔軟的身體和毛茸茸的胸部讓男人融化。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119030135186186.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231119/20231119030135186186.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17740",
+  "actresses": [
+    {
+      "name": "新田雪",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/7a2f0979-2af4-4461-9e05-2f23ef792d3b.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17740&name=新田雪"
+    },
+    {
+      "name": "ナイアガラ翔",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17740&name=ナイアガラ翔"
+    }
+  ]
+};

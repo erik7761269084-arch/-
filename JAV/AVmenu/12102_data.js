@@ -1,0 +1,52 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a97cd1a6-99ea-4762-bc67-77cdb91edc4f/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/11/19/ca250dea/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 12102,
+  "IDcode": "URKK-105",
+  "title": "隔壁的變態房東讓我給他乳交，每天都被操 ~ 望月蕾",
+  "publish_date": "2024-09-11",
+  "type": "有码",
+  "company": "UNFINISHED",
+  "genres": [
+    "後入",
+    "脅迫做愛",
+    "劇情",
+    "猥亵",
+    "老頭子",
+    "變態",
+    "乳交",
+    "凌辱",
+    "中出",
+    "美乳",
+    "女上位",
+    "JK校服",
+    "房东",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "性騷擾",
+    "少女",
+    "美腳",
+    "美少女",
+    "清純",
+    "巨乳",
+    "誘騙女性",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240909/25f7054c-04a2-4c4e-9709-44c0b8b51658.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240909/25f7054c-04a2-4c4e-9709-44c0b8b51658.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12102",
+  "actresses": [
+    {
+      "name": "望月蕾",
+      "img_url": "https://picture.yoshiclub.xyz/20231007/e883678f-6dbb-4ab7-8a93-8fd3558d5370.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12102&name=望月蕾"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/2c95556b-ddcb-4f09-a511-488aaf4b20b7/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231208/m98FNFJC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17994,
+  "IDcode": "WAAA-312",
+  "title": "田徑女孩集訓時被無良教練下了催情藥，達到大汗淋漓的性高潮",
+  "publish_date": "2023-11-07",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "流汗",
+    "中出",
+    "亂交 • 群P",
+    "女上位",
+    "潮吹",
+    "口交",
+    "運動服裝",
+    "媚藥・迷藥",
+    "性感",
+    "迷姦",
+    "兩男一女",
+    "運動女孩",
+    "慾求不滿",
+    "手指插入"
+  ],
+  "description": "WAAA-312为WANZ FACTORY出品,2023年11月7日发行的有碼成人影片由有栖舞衣出演\n有棲舞衣是一位女田徑運動員，有望代表俱樂部比賽獲得優異的成績，在訓練營接受教練一對一的特訓。 然後教練看到她滿頭大汗的樣子性感到雞巴都硬了。 。 無良教練偷偷用媚藥使有棲舞衣無法抗拒。 瘋狂的3P。\n有棲舞衣是一位女田徑運動員，有望代表俱樂部比賽獲得優異的成績，在訓練營接受教練一對一的特訓。 然後教練看到她滿頭大汗的樣子性感到雞巴都硬了。 。 無良教練偷偷用媚藥使有棲舞衣無法抗拒。 瘋狂的3P。",
+  "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105224429548548.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231105/20231105224429548548.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17994",
+  "actresses": [
+    {
+      "name": "有栖舞衣",
+      "img_url": "https://picture.yoshiclub.xyz/20231001/36b242e1-37be-4e4e-9e98-231974cb494c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17994&name=有栖舞衣"
+    }
+  ]
+};

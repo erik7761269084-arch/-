@@ -1,0 +1,50 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/de5d08c4-efce-4c51-b077-16b3bf053bab/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 10183,
+  "IDcode": "MILK-229",
+  "title": "立刻插入、無套性愛和體內中出都可以！極色情的母狗GAL，她可以接受任何事！專業援交服務 ~ 鳳可憐",
+  "publish_date": "2024-12-05",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "後入",
+    "吞精",
+    "中出",
+    "美乳",
+    "美腿",
+    "胸控・戀乳癖",
+    "女上位",
+    "JK校服",
+    "口交",
+    "應召・援交",
+    "騎乗位",
+    "風俗娘",
+    "性感",
+    "口爆",
+    "美腳",
+    "美少女",
+    "金髮",
+    "拜金女",
+    "巨乳",
+    "獵豔",
+    "辣妹/GAL系",
+    "飯店小姐・援交妹",
+    "美少女電影",
+    "無毛",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20241205/fb87912c-7492-4ce1-96d8-e7eb5b211607.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241205/fb87912c-7492-4ce1-96d8-e7eb5b211607.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=10183",
+  "actresses": [
+    {
+      "name": "鳳可怜",
+      "img_url": "https://picture.yoshiclub.xyz/20231119/80646ba7-fb37-417a-a891-787b532b5f2e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10183&name=鳳可怜"
+    }
+  ]
+};

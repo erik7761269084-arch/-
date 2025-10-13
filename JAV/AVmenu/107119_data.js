@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://t26.cdn2020.com/video/m3u8/2023/10/13/cbac8d23/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 107119,
+  "IDcode": "MIDV-462",
+  "title": "おしゃぶり覚醒 じゅッぽベロンッ！竿玉アナル舐め尽くし本気のフェラでイカせまくってアゲル 九野ひなの",
+  "publish_date": "2023-09-05",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "女上位",
+    "颜射",
+    "荡妇",
+    "口交",
+    "无码破解",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=107119",
+  "actresses": [
+    {
+      "name": "九野雛乃",
+      "img_url": "https://picture.yoshiclub.xyz/20230930/25340066-475f-4e48-82af-79d90054c935.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=107119&name=九野雛乃"
+    }
+  ]
+};

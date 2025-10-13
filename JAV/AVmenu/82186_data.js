@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221110/evZvwnEj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 82186,
+  "IDcode": "VEC-413",
+  "title": "友人の母親 総集編9 11人4時間",
+  "publish_date": "2020-04-07",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "成熟的女人",
+    "中出",
+    "已婚妇女"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=82186",
+  "actresses": []
+};

@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 58604,
+  "IDcode": "RB024",
+  "title": "RB024 雑誌の取材と偽りエッチな取材に変更〜！！",
+  "publish_date": "2003-11-08",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58604",
+  "actresses": []
+};

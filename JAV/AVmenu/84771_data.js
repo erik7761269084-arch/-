@@ -1,0 +1,33 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230113/Vfnvf5Q6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84771,
+  "IDcode": "HZGD-220",
+  "title": "「大嫌いな義弟に犯●れ、未知の快楽に堕ちました…。」心はそのまま…身体が入れ替わった相手は旦那の弟 河南実里",
+  "publish_date": "2022-05-13",
+  "type": "有码",
+  "company": "人妻花園劇場",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "荡妇",
+    "白天出轨",
+    "4K",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84771",
+  "actresses": [
+    {
+      "name": "河南実里",
+      "img_url": "https://picture.yoshiclub.xyz/20250219/c9a5832d-0674-40f7-8a56-8fbdc0a42091.jpeg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84771&name=河南実里"
+    }
+  ]
+};

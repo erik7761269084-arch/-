@@ -1,0 +1,61 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/4f6d0795-deb1-4f92-b7f4-619f29326a1c/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/02/08/06a7f7aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 8809,
+  "IDcode": "CJOD-449",
+  "title": "出差喝醉後的相部屋，和我一起出差的後輩女社員變的淫蕩起來，以騎乘位的姿勢誘惑我射了12發 ~ 千川とわ",
+  "publish_date": "2025-01-28",
+  "type": "有码",
+  "company": "癡女特化",
+  "genres": [
+    "後入",
+    "酒醉",
+    "高顏值",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "酒後亂性",
+    "傲嬌",
+    "和服・浴衣・喪服",
+    "中出",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "心機婊",
+    "女上位",
+    "潮吹",
+    "口交",
+    "同住一屋・相部屋",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "舔陰",
+    "慾求不滿",
+    "美少女",
+    "清楚系",
+    "清純",
+    "艷遇",
+    "癡女",
+    "女同事",
+    "手指插入",
+    "美人",
+    "出差",
+    "溫泉",
+    "綠茶婊",
+    "美少女電影"
+  ],
+  "description": "CJOD-449为癡女特化出品,2025年1月28日发行的有碼成人影片由千川とわ出演\n馬鞍潮龍捲風女牛仔位置...蕩婦！色情！太嚴酷了！在一次出差中，我因失誤而與女下屬東和同住一間房間。當我們一起喝酒時…我們很快就會變得淫蕩！醉酒噴女牛仔活塞！ 「前輩……你真可愛……」她用臀部繞著堅硬的雞巴移動，未經允許就潮吹！追求每次高潮時都會加速的性愛循環！晚上到早上，一遍又一遍…！",
+  "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075506871871.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250123/20250123075506871871.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=8809",
+  "actresses": [
+    {
+      "name": "千川とわ",
+      "img_url": "https://picture.yoshiclub.xyz/20240330/2e9c78eb-2ab3-4399-ad83-c10be424b663.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8809&name=千川とわ"
+    }
+  ]
+};

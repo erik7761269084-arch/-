@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230112/99z4IASj/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 84572,
+  "IDcode": "HMN-085",
+  "title": "俺専用中出し放題 都合の良い肉オナホ 義父にDV虐●されている家出願望女子とネットで出会って自宅に連れ込んだ話-。 月乃ルナ",
+  "publish_date": "2021-11-23",
+  "type": "有码",
+  "company": "本中",
+  "genres": [
+    "中出",
+    "苗条",
+    "口交",
+    "接吻",
+    "美少女电影"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230112-36/f60bdf1e57ea261e3e34135f656cef13.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84572",
+  "actresses": [
+    {
+      "name": "月乃露娜",
+      "img_url": "https://picture.yoshiclub.xyz/20231118/d6f1b4a5-64f1-4617-a0bd-934390589aac.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=84572&name=月乃露娜"
+    }
+  ]
+};

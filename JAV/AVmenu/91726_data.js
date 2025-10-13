@@ -1,0 +1,35 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20221016/pSmbp4MD/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 91726,
+  "IDcode": "AUKG-495",
+  "title": "生徒会長×ギャルビアン ～白が黒に染まるとき～ 五十嵐かな 冬愛ことね",
+  "publish_date": "2020-09-13",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "高中女生",
+    "戏剧",
+    "女同性恋",
+    "女生",
+    "平胸"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221019-1/0d0e3136cd0e705f581477de9760e530.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=91726",
+  "actresses": [
+    {
+      "name": "冬爱琴音",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91726&name=冬爱琴音"
+    },
+    {
+      "name": "五十岚かな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=91726&name=五十岚かな"
+    }
+  ]
+};

@@ -1,0 +1,60 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9ed9dd83-64d5-455e-ab7d-a6e2fac057e7/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/10/28/705175aa/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 11304,
+  "IDcode": "PPPE-277",
+  "title": "我被鄰居巨乳人妻的大奶子誘惑，盡管我有同居女友，但她還是給我乳交，我射了26次！ ~ 三嶽祐奈",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "OPPAI",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "美腿",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "感官作品",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "性感",
+    "不倫",
+    "膚黑",
+    "慾求不滿",
+    "美腳",
+    "鄰居",
+    "美人妻",
+    "艷遇",
+    "人妻",
+    "巨乳",
+    "出軌",
+    "偷竊",
+    "NTR",
+    "熟女",
+    "野性",
+    "肌肉"
+  ],
+  "description": "PPPE-277为OPPAI出品,2024年10月15日发行的有碼成人影片由三岳祐奈出演\n我和女朋友同居一年後，我的公司破產了。自從我因為找不到新工作而開始模仿家庭主婦一個半月後的一天，我公寓隔壁的門打開了，一位穿著長裙的已婚婦女出來拿東西。我太興奮了......一個已婚女人在盛年時發現一個年輕人並用她的乳頭引誘他，正在與她的妻子工作發生外遇......一個好色的女人不讓獵物逃脫的已婚女人...擁有充滿激情的性愛...",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010103305544544.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010103305544544.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11304",
+  "actresses": [
+    {
+      "name": "三岳祐奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/26a60fbc-a826-4943-adb3-2f5f531cc7f3_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11304&name=三岳祐奈"
+    }
+  ]
+};

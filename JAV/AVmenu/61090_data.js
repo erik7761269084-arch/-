@@ -1,0 +1,24 @@
+episodes = {
+  "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/09/7775e0c6/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 61090,
+  "IDcode": "HAZU-025",
+  "title": "【投稿】「Iカップの私の妻です。男好きするヤラしい体をしており、すっごいスケベな女です」久美子（38歳） ＃生活苦 ＃旦那無職 ＃子供3人 ＃ドM妻 ＃不謹慎な性欲 ＃避妊はしない主義 ＃懲りずに中出し",
+  "publish_date": "2025-09-02",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "已婚妇女",
+    "胖女人",
+    "超乳"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61090",
+  "actresses": []
+};

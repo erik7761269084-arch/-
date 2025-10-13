@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20230306/C832E870A7EC56E1/hls/1000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 119275,
+  "IDcode": "FC2-1197058",
+  "title": "【期間限定】玲子さんの妊婦オフパコ臨月編",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "FC2",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=119275",
+  "actresses": []
+};

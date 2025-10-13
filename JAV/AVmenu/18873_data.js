@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/34119260-5c9c-42ac-8d67-3f82e3b5e0eb/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18873,
+  "IDcode": "IPX-548",
+  "title": "出差住同房NTR 被上司內射一晚上的美人女社員 加美杏奈",
+  "publish_date": "2020-10-13",
+  "type": "有码",
+  "company": "IDEA POCKET",
+  "genres": [
+    "酒醉",
+    "黑絲",
+    "劇情",
+    "OL",
+    "口交",
+    "強姦",
+    "巨乳",
+    "女同事",
+    "NTR",
+    "出差",
+    "美少女電影",
+    "飯店"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831004611765765.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230831/20230831004611765765.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18873",
+  "actresses": [
+    {
+      "name": "梓光莉",
+      "img_url": "https://picture.yoshiclub.xyz/20230811/0b448ec0-7d4f-4e10-b79a-b7051caa7ebd.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18873&name=梓光莉"
+    }
+  ]
+};

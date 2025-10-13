@@ -1,0 +1,54 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dbde7b96-b2fa-400c-9790-5e5a13bc208e/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 14974,
+  "IDcode": "PKPD-302",
+  "title": "我女朋友中野まこ給我戴綠帽子 28 歲",
+  "publish_date": "2024-05-07",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "苗條",
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "性感",
+    "內衣",
+    "勾引・誘惑",
+    "美腳",
+    "情趣內衣",
+    "人妻",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "NTR",
+    "熟女",
+    "美少女電影",
+    "無毛",
+    "羞恥"
+  ],
+  "description": "PKPD-302为妄想族出品,2024年5月7日发行的有碼成人影片由戶川奈美出演\n我和交往半年的女友娜美處於戀愛關係。事實上，當我向她坦白我的性傾向時，儘管我很擔心，她還是接受了我。 「我想看你和另一個男人做愛。」她覺得自己陷入了墨守成規的境地，不情願地接受了這個提議。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505084836648648.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240505/20240505084836648648.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14974",
+  "actresses": [
+    {
+      "name": "戶川奈美",
+      "img_url": "https://picture.yoshiclub.xyz/20240320/ea014a96-8ea9-4081-bb38-038531aaf804.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14974&name=戶川奈美"
+    }
+  ]
+};

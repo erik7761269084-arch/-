@@ -1,0 +1,40 @@
+episodes = {
+  "主线路": "https://v2025.bbffsl.com/20250222/mLf0h33s/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 71487,
+  "IDcode": "FSET-850",
+  "title": "完全着衣の美学 競泳水着の女 水泳部顧問は白目・痙攣・連続イキ 志田雪奈",
+  "publish_date": "2019-09-26",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "第一人称摄影",
+    "乳液",
+    "连裤袜",
+    "接吻",
+    "学校泳装"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=71487",
+  "actresses": [
+    {
+      "name": "志田雪奈",
+      "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\z-ラグジュTV/AI-Fix-志田雪奈.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71487&name=志田雪奈"
+    },
+    {
+      "name": "森林原人",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71487&name=森林原人"
+    },
+    {
+      "name": "鲛岛",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=71487&name=鲛岛"
+    }
+  ]
+};

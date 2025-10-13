@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250330/1YUnuWLC/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69154,
+  "IDcode": "MIAA-728",
+  "title": "遅洩改善 催眠癡女男士按摩 讓人成為精液停不下早洩肉棒的搾精全套 彌生美月",
+  "publish_date": "2022-11-01",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "巨乳",
+    "中出",
+    "淫语",
+    "荡妇",
+    "美容院",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69154",
+  "actresses": [
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69154&name=弥生美月"
+    }
+  ]
+};

@@ -1,0 +1,26 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/06/07/2f886ba1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86419,
+  "IDcode": "STARS-606",
+  "title": "無愛想な人妻家政婦「とっとと済ませて下さいませ。家事が出来ませんので。」【業務中はいつでもハメられます】“膣ハメ”の裏オプ付き 夏目響",
+  "publish_date": "2022-05-12",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "多P"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230207-1/5a4e234c5fcb6b07d53be8280bfd41e3.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86419",
+  "actresses": [
+    {
+      "name": "夏目响",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86419&name=夏目响"
+    }
+  ]
+};

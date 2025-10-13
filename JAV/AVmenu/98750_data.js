@@ -1,0 +1,32 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98750,
+  "IDcode": "RKI-410-",
+  "title": "ふたなり×ふたなり 大量射精＆大量潮噴き ふたなりが",
+  "publish_date": "2016-01-19",
+  "type": "有码",
+  "company": "ROOKIE",
+  "genres": [
+    "女同性恋",
+    "潮吹",
+    "女教师",
+    "双性人"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98750",
+  "actresses": [
+    {
+      "name": "浜崎真绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98750&name=浜崎真绪"
+    },
+    {
+      "name": "千乃杏美",
+      "img_url": "https://www.hhkoo.com/d/file/20170611/cad5ba42130c383298721dc8cb58ef94.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=98750&name=千乃杏美"
+    }
+  ]
+};

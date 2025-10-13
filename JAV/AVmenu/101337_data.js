@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20240301/3jcacaWm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101337,
+  "IDcode": "LUXU-215",
+  "title": "ラグジュTV 200",
+  "publish_date": "2016-02-12",
+  "type": "有码",
+  "company": "Luxury TV",
+  "genres": [
+    "业余",
+    "乳房",
+    "大小姐",
+    "HDTV"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101337",
+  "actresses": []
+};

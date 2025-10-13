@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0aff6343-959f-4542-b5cb-6a681f69c65e/playlist.m3u8",
+  "线路2": "https://t25.cdn2020.com/video/m3u8/2024/03/23/3f89abab/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16433,
+  "IDcode": "FSDSS-687",
+  "title": "即使手腳被束縛也能回視意志堅強，無論在陰道裏射多少次，她的心都不會落下",
+  "publish_date": "2024-02-22",
+  "type": "有码",
+  "company": "FALENO",
+  "genres": [
+    "後入",
+    "劇情",
+    "調教",
+    "乳交",
+    "凌辱",
+    "中出",
+    "緊身衣",
+    "綁架",
+    "口交",
+    "強姦",
+    "性感",
+    "潛入",
+    "緊縛",
+    "高跟鞋",
+    "手指插入",
+    "美少女電影",
+    "女搜查官",
+    "羞恥"
+  ],
+  "description": "FSDSS-687为FALENO出品,2024年2月22日发行的有碼成人影片由深田詠美出演\n深田詠美飾演的才華橫溢的女特工，即使手腳被束縛，也不向內心屈服。 她是一個意志堅強的女人，無論身處逆境，哪怕是從穿透喉嚨的深喉中感到想吐，或者持續受到強烈的電刺激，她都會怒視對手塗在她的陰蒂上。然而，持續的陰道刺激和陰道射精刺激了她的“女性生殖本能”。 我想被 SNS 上擁有超過 1000 萬粉絲、吸引全世界男人的人氣網紅的美麗面孔所崇拜。 ——我想在被人瞪着的時候毫不猶豫地射在她體內。一部充滿不道德、刺激男人隱藏欲望的十足戲劇。",
+  "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207041959982982.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240207/20240207041959982982.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16433",
+  "actresses": [
+    {
+      "name": "深田詠美",
+      "img_url": "https://picture.yoshiclub.xyz/20230724/abfcfd6a-ca78-409e-ad08-f446aee2dca2.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16433&name=深田詠美"
+    }
+  ]
+};

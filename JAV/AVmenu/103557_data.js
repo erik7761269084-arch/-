@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20231223/O8ONvkUf/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 103557,
+  "IDcode": "SIRO-5173",
+  "title": "【絶妙な舌技】パイパンGカップ美女は触られるより舐められるほうがお好き♪可愛らしい表情がいやらしい表情に変わるとき…それはもう結合の合図なのです！【初撮り】ネットでAV応募→AV体験撮影 2063",
+  "publish_date": "2023-11-11",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "乳交",
+    "巨乳",
+    "无毛",
+    "第一人称摄影",
+    "业余"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview_lg.jpg?v=5.4.25.0.2.4",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=103557",
+  "actresses": [
+    {
+      "name": "りんか",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=103557&name=りんか"
+    }
+  ]
+};

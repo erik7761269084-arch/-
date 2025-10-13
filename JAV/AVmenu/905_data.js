@@ -1,0 +1,67 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/14a60b1a-c2be-4705-8ac9-a703c21c2d65/playlist.m3u8",
+  "线路2": "https://player.putaoplayer.com:166/20220427/83F3B52AAF4349CF/hls/1500k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 905,
+  "IDcode": "HEYZO-1136",
+  "title": "上司壓榨到榨精報復 - 小泉瑪莉",
+  "publish_date": "2016-04-16",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "苗條",
+    "後入",
+    "69",
+    "劇情",
+    "淫亂",
+    "巨尻",
+    "絕頂高潮",
+    "網襪",
+    "深喉",
+    "乳交",
+    "蘿莉",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "淫語",
+    "舔陰",
+    "內衣",
+    "少女",
+    "美腳",
+    "美少女",
+    "情趣內衣",
+    "惡搞",
+    "巨乳",
+    "女同事",
+    "手指插入",
+    "出軌",
+    "按摩棒",
+    "美少女電影",
+    "無毛"
+  ],
+  "description": "HEYZO-1136为HEYZO出品,2016年4月16日发行的無碼成人影片由小泉真理出演\n上司壓榨到榨精報復 - 小泉瑪莉",
+  "cover_url": "https://picture.yoshiclub.xyz/20240417/20240417040126873873.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240417/20240417040126873873.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=905",
+  "actresses": [
+    {
+      "name": "小泉真理",
+      "img_url": "https://picture.yoshiclub.xyz/20230123/36a5143f-4cc5-40be-a4bd-eb423478ef15.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=905&name=小泉真理"
+    }
+  ]
+};

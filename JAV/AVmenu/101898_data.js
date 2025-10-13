@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.hgplayer00.com/20240429/CNrrRBj0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 101898,
+  "IDcode": "MRSC-006C",
+  "title": "「竟然偷了大嬸的內褲 要拿去自慰嗎…？」2 和老公很久沒性愛的人妻",
+  "publish_date": "2024-07-17",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=101898",
+  "actresses": []
+};

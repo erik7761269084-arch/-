@@ -1,0 +1,30 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230211/GbDAWOvQ/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86686,
+  "IDcode": "APAK-234",
+  "title": "美爆乳・ド淫乱 わか（Hcup） 超肉感ムチムチHカップ（100cm）ギャルと肉食SEX！マ○コとチ○コがズドンと強力絶頂！過激ガチハメ密着撮り！美園和花",
+  "publish_date": "2022-08-23",
+  "type": "有码",
+  "company": "AURORA PROJECT ANNEX",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "女上位",
+    "颜射",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/4b48c888a2ddcce6b76543cb224f22f7.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86686",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86686&name=美園和花"
+    }
+  ]
+};

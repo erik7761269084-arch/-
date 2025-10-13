@@ -1,0 +1,62 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/d0977550-b70e-4bc9-9e84-30eec5d1e069/playlist.m3u8",
+  "线路2": "https://1.mysqldata3202s4l.com/20241011/HiCQlh1D/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 13534,
+  "IDcode": "NGOD-214",
+  "title": "穿貞操帶的人妻 小那海綾 她在禁欲結束時，妻子期待已久的插入使妻子變的瘋狂",
+  "publish_date": "2024-07-10",
+  "type": "有码",
+  "company": "JET映像",
+  "genres": [
+    "後入",
+    "劇情",
+    "淫亂",
+    "絕頂高潮",
+    "乳交",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "亂交 • 群P",
+    "胸控・戀乳癖",
+    "女上位",
+    "潮吹",
+    "口交",
+    "自宅",
+    "女友・妻子",
+    "騎乗位",
+    "性感",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "出軌"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240706/01611cfc-7382-4dd5-95a8-3119972d4a0a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240706/01611cfc-7382-4dd5-95a8-3119972d4a0a.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=13534",
+  "actresses": [
+    {
+      "name": "小那海綾",
+      "img_url": "https://picture.yoshiclub.xyz/20230407/1f4dc819-5d18-4526-9273-6eba7b32fa08.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13534&name=小那海綾"
+    },
+    {
+      "name": "蓝井优太",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13534&name=蓝井优太"
+    },
+    {
+      "name": "日森一",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13534&name=日森一"
+    },
+    {
+      "name": "佐佐波绫",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=13534&name=佐佐波绫"
+    }
+  ]
+};

@@ -1,0 +1,18 @@
+episodes = {
+  "主线路": "https://player.putaoplayer.com:166/20220310/C3D007BCEFC2B4D8/hls/2000k/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 39972,
+  "IDcode": "7AE9DC785E4A0B5A6A0A3A99C2B69EDF",
+  "title": "【ヤル男】肏素人渣男 6 全都超完美！大家的裕子来给干 Part1",
+  "publish_date": "2024-07-17",
+  "type": "无码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=39972",
+  "actresses": []
+};

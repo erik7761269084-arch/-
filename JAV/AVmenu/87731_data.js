@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vip3.slslvip3.com/20230816/xZOVmg60/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 87731,
+  "IDcode": "NXG-434",
+  "title": "ヤリたくてたまらない！アパート管理人のおばちゃん",
+  "publish_date": "2023-07-20",
+  "type": "有码",
+  "company": "MILK",
+  "genres": [
+    "成熟的女人",
+    "巨乳",
+    "苗条",
+    "连裤袜",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=87731",
+  "actresses": [
+    {
+      "name": "柏原友美恵",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87731&name=柏原友美恵"
+    },
+    {
+      "name": "七海祐希",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87731&name=七海祐希"
+    },
+    {
+      "name": "二ノ宫庆子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87731&name=二ノ宫庆子"
+    },
+    {
+      "name": "竹内美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=87731&name=竹内美绪"
+    }
+  ]
+};

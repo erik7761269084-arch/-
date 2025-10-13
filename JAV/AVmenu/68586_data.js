@@ -1,0 +1,22 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250408/3jFfN8Kz/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 68586,
+  "IDcode": "STARS-614",
+  "title": "開朗健康的運動女子×強壯的強欲男 激烈抽插高潮中絶頂中出 鈴音鈴",
+  "publish_date": "2022-06-09",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "中出",
+    "多P",
+    "滥交"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/e19cada4c3fd50d034e2cb6793c3b170.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68586",
+  "actresses": []
+};

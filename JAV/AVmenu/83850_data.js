@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip1.slslvip12.com/20230101/LNtSXWzB/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 83850,
+  "IDcode": "ZMAR-007",
+  "title": "まるっと！澁谷果歩",
+  "publish_date": "2020-01-01",
+  "type": "有码",
+  "company": "PLANETPLUS",
+  "genres": [
+    "精选，综合",
+    "4小时以上作品",
+    "乳交",
+    "巨乳",
+    "潮吹",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/d4cd6a2ea426f2f21a36d65726c583fc.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=83850",
+  "actresses": [
+    {
+      "name": "澁谷果歩",
+      "img_url": "https://picture.yoshiclub.xyz/20230328/b3d3f379-2936-451b-abd5-59de169eeda8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=83850&name=澁谷果歩"
+    }
+  ]
+};

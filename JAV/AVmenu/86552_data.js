@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230208/8BAdN9Bi/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 86552,
+  "IDcode": "UMD-835",
+  "title": "大丈夫、おばさんに任せて！！2",
+  "publish_date": "2022-07-07",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "成熟的女人",
+    "荡妇",
+    "手淫"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=86552",
+  "actresses": [
+    {
+      "name": "川上優",
+      "img_url": "https://picture.yoshiclub.xyz/20240324/039647b9-48ea-49bb-a705-2287df2d9d81.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86552&name=川上優"
+    },
+    {
+      "name": "舞原圣",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86552&name=舞原圣"
+    },
+    {
+      "name": "君岛美绪",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=86552&name=君岛美绪"
+    }
+  ]
+};

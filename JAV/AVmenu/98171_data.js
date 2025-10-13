@@ -1,0 +1,16 @@
+episodes = {};
+
+seriesInfo = {
+  "id": 98171,
+  "IDcode": "APAE-063_A",
+  "title": "汗と愛液と精液に咽び泣く慘劇の女教師たちPart1",
+  "publish_date": "",
+  "type": "有码",
+  "company": null,
+  "genres": [],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/no_preview.png",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=98171",
+  "actresses": []
+};

@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://vip4.bbffsl.com/20250314/FFZm3sSe/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 70587,
+  "IDcode": "SDNM-348",
+  "title": "檜山百合香 34歳 最終章 名媛人妻淫亂懇求無套肉棒 直到門限20時的無套中出輪姦",
+  "publish_date": "2022-06-23",
+  "type": "有码",
+  "company": "SOD",
+  "genres": [
+    "巨乳",
+    "中出",
+    "多P",
+    "纪录片"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70587",
+  "actresses": []
+};

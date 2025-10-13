@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://t30.cdn2020.com/video/m3u8/2025/07/19/7dfb0b54/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 69629,
+  "IDcode": "JUTA-164",
+  "title": "極上！！三十路奥さま初脱ぎAVドキュメント 麻生えりな",
+  "publish_date": "2025-04-01",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "成熟的女人",
+    "中出",
+    "已婚妇女",
+    "高",
+    "首次亮相",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69629",
+  "actresses": [
+    {
+      "name": "麻生えりな",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=69629&name=麻生えりな"
+    }
+  ]
+};

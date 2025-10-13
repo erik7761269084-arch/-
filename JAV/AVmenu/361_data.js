@@ -1,0 +1,51 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f75f3573-de73-4fb2-a6e6-f0360441e31b/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 361,
+  "IDcode": "HEYZO-0423",
+  "title": "密室小屋的色色宴會 NicoHame Vol.1 中篇 ~ 神山詩步 新倉步美 中山美優",
+  "publish_date": "2013-10-22",
+  "type": "无码",
+  "company": "HEYZO",
+  "genres": [
+    "後入",
+    "企畫",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "形象俱樂部",
+    "女上位",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "口爆",
+    "美人妻",
+    "人妻",
+    "雙飛",
+    "地味",
+    "兩女一男",
+    "美人",
+    "熟女",
+    "短髮",
+    "女優"
+  ],
+  "description": "HEYZO-0423为HEYZO出品,2013年10月22日发行的無碼成人影片由神山詩歩，中山美優出演\nニコはめ Vol.1 中編～密室ロッジでエッチな宴～ - 神山詩歩 - 新倉あゆみ - 中山美優",
+  "cover_url": "https://picture.yoshiclub.xyz/20250311/541b5f3b-15ef-4715-82e6-a9981d3b4d85.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250311/541b5f3b-15ef-4715-82e6-a9981d3b4d85.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=361",
+  "actresses": [
+    {
+      "name": "中山美優",
+      "img_url": "https://picture.yoshiclub.xyz/20230824/d8ef1795-f577-4c88-aa26-8d25a793f716.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=361&name=中山美優"
+    },
+    {
+      "name": "神山詩歩",
+      "img_url": "https://picture.yoshiclub.xyz/20250121/14bc1c8d-c383-4315-a9a5-9aa94817db48.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=361&name=神山詩歩"
+    }
+  ]
+};

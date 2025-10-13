@@ -1,0 +1,32 @@
+episodes = {
+  "主线路": "https://cloud.avking.xyz/20230125/8f8d52dd-e207-4e9e-95b6-112b24874c5a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 1721,
+  "IDcode": "MKBD-S46",
+  "title": "KIRARI 46 ～我的寵物是宮地由梨香～ : 宮地由梨香",
+  "publish_date": "2013-02-19",
+  "type": "无码",
+  "company": "MUGEN",
+  "genres": [
+    "苗條",
+    "中出",
+    "美乳",
+    "顏射",
+    "口交",
+    "美少女",
+    "女僕制服"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230131/269f1721-4d89-4f86-9083-f8c433c594f6.webp",
+  "background_img": "https://picture.yoshiclub.xyz/20230131/269f1721-4d89-4f86-9083-f8c433c594f6.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=1721",
+  "actresses": [
+    {
+      "name": "宫地由梨香",
+      "img_url": "https://picture.yoshiclub.xyz/20230131/44e29b46-2077-41a1-9281-193d8f1d810e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=1721&name=宫地由梨香"
+    }
+  ]
+};

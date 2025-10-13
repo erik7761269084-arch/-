@@ -1,0 +1,46 @@
+episodes = {
+  "主线路": "https://1.mysqldata3202s4l.com/20241015/ET07gkeE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 93747,
+  "IDcode": "PFAS-018",
+  "title": "やっぱりこれがたまらねぇ むすめ/幼なじみ/愛しき妻 乳房おっぱい",
+  "publish_date": "2024-08-13",
+  "type": "有码",
+  "company": "FAプロ",
+  "genres": [
+    "戏剧",
+    "巨乳",
+    "胖女人",
+    "恋乳癖",
+    "巨大屁股",
+    "故事集"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=93747",
+  "actresses": [
+    {
+      "name": "宮ノ木しゅんか",
+      "img_url": "https://picture.yoshiclub.xyz/20241202/8e78ecb6-9c8b-4cc0-8c87-649eab5bbf1c.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93747&name=宮ノ木しゅんか"
+    },
+    {
+      "name": "西山あさひ",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250504/966c50a1-85bd-47ab-adc5-9c330f9cee8f_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93747&name=西山あさひ"
+    },
+    {
+      "name": "岡江みどり",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93747&name=岡江みどり"
+    },
+    {
+      "name": "后藤さなえ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=93747&name=后藤さなえ"
+    }
+  ]
+};

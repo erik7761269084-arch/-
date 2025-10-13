@@ -1,0 +1,31 @@
+episodes = {
+  "主线路": "https://vip2.slslvip12.com/20230118/FBtZSFrm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85108,
+  "IDcode": "JUNY-056",
+  "title": "むっちり卑猥なお肉がハミ出たドスケベ過ぎるスタイルで僕の事を誘惑してくる向かいに住んでるヤリマンお姉さん 藤沢麗央",
+  "publish_date": "2022-02-15",
+  "type": "有码",
+  "company": "FITCH",
+  "genres": [
+    "巨乳",
+    "淫乱，真实",
+    "乳液",
+    "胖女人",
+    "巨大屁股",
+    "单体作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85108",
+  "actresses": [
+    {
+      "name": "藤沢麗央",
+      "img_url": "https://picture.yoshiclub.xyz/20240218/fb9d5769-7433-4641-9c29-e89c3138a30a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=85108&name=藤沢麗央"
+    }
+  ]
+};

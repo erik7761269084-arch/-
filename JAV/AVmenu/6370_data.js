@@ -1,0 +1,56 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/dda3a9a6-24c5-4eae-b577-e41c6e747390/playlist.m3u8",
+  "线路2": "https://t30.cdn2020.com/video/m3u8/2025/07/04/39e0255d/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 6370,
+  "IDcode": "XVSR-812",
+  "title": "爆乳搖不停 啊啊叫到高潮的低俗SEX ~ 田中寧寧",
+  "publish_date": "2025-05-03",
+  "type": "有码",
+  "company": "MAX-A",
+  "genres": [
+    "後入",
+    "高顏值",
+    "素人作品",
+    "企畫",
+    "巨尻",
+    "絕頂高潮",
+    "乳交",
+    "色白",
+    "中出",
+    "美乳",
+    "蕩婦",
+    "美臀",
+    "形象俱樂部",
+    "胸控・戀乳癖",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "性感",
+    "慾求不滿",
+    "單體作品",
+    "美人妻",
+    "情趣內衣",
+    "人妻",
+    "巨乳",
+    "猥褻穿著",
+    "美人",
+    "淫蕩・硬核",
+    "真實拍攝",
+    "熟女",
+    "女優"
+  ],
+  "description": "XVSR-812为MAX-A出品,2025年5月3日发行的有碼成人影片由田中寧寧出演\n派對辣妹爆乳妹子爽到舌頭都伸出來高潮啦！超人氣女優田中寧寧一邊搖著大胸一邊來場超低俗的SEX，啊啊叫聲加上潮吹絕頂，簡直不要太刺激！“抖抖抖！啊啊啊！抖抖抖！爽爽爽！”明明超可愛卻又這麼下流，色氣爆棚！高潮尖叫到失控，爆乳晃到眼花，鬼畜般的狂野FUCK讓人直接飛起！這種舌頭伸出爽到翻白的田中寧寧，絕對是你沒見過的誘惑一面，錯過就虧大啦！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102526917917_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250503/20250503102526917917_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=6370",
+  "actresses": [
+    {
+      "name": "田中寧寧",
+      "img_url": "https://picture.yoshiclub.xyz/20231023/89a94781-761e-40c5-a1c1-d6e5b37c31e7.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=6370&name=田中寧寧"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/b2d9c813-6cf0-4855-9137-5412e8205f45/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11305,
+  "IDcode": "MIFD-538",
+  "title": "新人報到！喜歡老男人、在名演員常去的六本木某高級夜店工作的媽媽桑，脫下和服，AV出道！ ~ 桐山ここみ",
+  "publish_date": "2024-10-15",
+  "type": "有码",
+  "company": "MOODYZ",
+  "genres": [
+    "後入",
+    "3P・4P",
+    "淫亂",
+    "絕頂高潮",
+    "和服・浴衣・喪服",
+    "紀念作",
+    "中出",
+    "蕩婦",
+    "亂交 • 群P",
+    "女上位",
+    "口交",
+    "騎乗位",
+    "風俗娘",
+    "兩男一女",
+    "出道作品",
+    "真實拍攝",
+    "熟女",
+    "女優"
+  ],
+  "description": "MIFD-538为MOODYZ出品,2024年10月15日发行的有碼成人影片由桐山ここみ出演\n端莊的眼睛和黑色的短髮。他的言行舉止都很有禮貌。乍看之下似乎與AV相去甚遠的新人來到了MOODYZ。來自名演員經常光顧的六本木某高級俱樂部的年輕媽媽脫下和服，以AV出道！她真的很喜歡老男人。首次亮相時，她微笑著吞下老人的唾液……貪婪地尋找雞巴和精液……我對老人的熱愛給我留下了深刻的印象。在商店裡要謙虛，但在性方面要大膽。裡面隱藏的愛欲是不可抗拒的！請看一下。",
+  "cover_url": "https://picture.yoshiclub.xyz/20241010/20241010100516600600.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241010/20241010100516600600.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11305",
+  "actresses": [
+    {
+      "name": "桐山ここみ",
+      "img_url": "https://picture.yoshiclub.xyz/20241011/7b400d15-e6f6-4591-8af1-1f6803246af8.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11305&name=桐山ここみ"
+    }
+  ]
+};

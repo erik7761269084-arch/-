@@ -1,0 +1,73 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/a63cc9b1-88c4-4166-b256-8c07110e0780/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 11205,
+  "IDcode": "BONY-123",
+  "title": "今天的獵物是這對母女 24小時入室強奸 01 ~ 葵百合香 由良佳奈",
+  "publish_date": "2024-10-22",
+  "type": "有码",
+  "company": "妄想族",
+  "genres": [
+    "後入",
+    "痴漢",
+    "劇情",
+    "3P・4P",
+    "淫亂",
+    "性虐癖",
+    "深喉",
+    "變態",
+    "凌辱",
+    "蘿莉",
+    "魔鬼系",
+    "中出",
+    "美乳",
+    "美腿",
+    "美臀",
+    "亂交 • 群P",
+    "形象俱樂部",
+    "女上位",
+    "JK校服",
+    "潮吹",
+    "顏射",
+    "口交",
+    "自宅",
+    "小隻馬",
+    "強姦",
+    "騎乗位",
+    "性感",
+    "兩男一女",
+    "舔陰",
+    "輪姦",
+    "口爆",
+    "蘿莉控",
+    "美腳",
+    "美少女",
+    "緊縛",
+    "美人妻",
+    "清純",
+    "人妻",
+    "手指插入",
+    "熟女",
+    "美少女電影",
+    "女學生",
+    "羞恥"
+  ],
+  "description": "BONY-123为妄想族出品,2024年10月22日发行的有碼成人影片由由良佳奈，葵百合香出演\n看似幸福的父母和孩子突然遭遇了一場悲劇。一群蒙面男子突然衝進屋內，用翅膀勒死了母女倆。女兒哭泣，母親拼命反抗，卻被多個男人包圍，無能為力，淪為玩具。一名母親被迫在女兒面前發生性關係，一名女兒儘管向母親求助卻仍被強暴。中出性愛不斷重複著，令人驚嘆不已，大聲叫喊著。這樣的行為永遠沒有結束，在廁所、浴室、臥室裡也不知道重複了多少次。母女倆的陰部和精神都因為24小時待在家裡如同自己的蒙面群體無休止的授精而崩潰，無法自製失禁。 （請欣賞Masked Group的美味母女碗傑作影片）",
+  "cover_url": "https://picture.yoshiclub.xyz/20241017/202410170932384343.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241017/202410170932384343.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11205",
+  "actresses": [
+    {
+      "name": "由良佳奈",
+      "img_url": "https://picture.yoshiclub.xyz/20231120/a6c10eb5-8a77-4c14-be1b-9c2a7516046a.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11205&name=由良佳奈"
+    },
+    {
+      "name": "葵百合香",
+      "img_url": "https://picture.yoshiclub.xyz/20231105/611b4b08-7a0c-416b-b23b-d7ab8bbec3f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11205&name=葵百合香"
+    }
+  ]
+};

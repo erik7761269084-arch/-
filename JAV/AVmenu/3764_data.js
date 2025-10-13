@@ -1,0 +1,71 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/e6efb615-4442-4c2a-8eee-2d4a78c14983/playlist.m3u8",
+  "线路2": "https://t33.cdn2020.com/video/m3u8/2025/08/25/d32c3013/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 3764,
+  "IDcode": "SONE-839",
+  "title": "發現絕色女上司竟是我每晚幻想的色情Vtuber主播 ~ 花愛麗絲",
+  "publish_date": "2025-08-07",
+  "type": "有码",
+  "company": "S1",
+  "genres": [
+    "苗條",
+    "後入",
+    "高顏值",
+    "大姐姐",
+    "劇情",
+    "二次元",
+    "絕頂高潮",
+    "4K",
+    "偶像",
+    "乳交",
+    "脚控・戀足癖",
+    "中出",
+    "美乳",
+    "美腿",
+    "OL",
+    "美臀",
+    "形象俱樂部",
+    "女上位",
+    "口交",
+    "小隻馬",
+    "騎乗位",
+    "蠻橫嬌羞",
+    "性感",
+    "舔陰",
+    "美腳",
+    "奇聞趣事",
+    "自慰",
+    "單體作品",
+    "明星臉",
+    "癡女",
+    "巨乳",
+    "手指插入",
+    "特效",
+    "辦公室",
+    "美人",
+    "女上司",
+    "大奶头",
+    "無毛",
+    "羞恥",
+    "網路紅人"
+  ],
+  "description": "SONE-839为S1出品,2025年8月7日发行的有碼成人影片由花愛麗絲出演\n白天她是辦公室裡高冷又迷人的完美上司，誰能料到，她就是我每晚對著螢幕流口水的超火辣Vtuber主播！那熟悉的低語聲線，鏡頭前挑逗的手指動作，一切都對上了，現實直接崩壞！螢幕背後的她，竟然就是每天近在咫尺的‘那個人’。被我發現的秘密和內心慾望交織碰撞，逼出了她在辦公室從不展露的另一面，真的讓人血脈賁張，完全HOLD不住！",
+  "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031134919919_11186_thumbnail.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031134919919_11186_s.webp",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=3764",
+  "actresses": [
+    {
+      "name": "花愛麗絲",
+      "img_url": "https://picture.yoshiclub.xyz/20240706/c50dc3fe-d28c-4c59-9f4d-ff9f005f18ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3764&name=花愛麗絲"
+    },
+    {
+      "name": "左慈半造",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=3764&name=左慈半造"
+    }
+  ]
+};

@@ -1,0 +1,47 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/c070dde9-d2a0-4937-ba05-1b13fd745f5e/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20231208/BD91ysxE/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 17454,
+  "IDcode": "WAAA-326",
+  "title": "W型蕩婦和J型一起性虐超級M男，用騷話挑逗他，讓他內射。",
+  "publish_date": "2023-12-05",
+  "type": "有码",
+  "company": "WANZ FACTORY",
+  "genres": [
+    "劇情",
+    "中出",
+    "蕩婦",
+    "JK校服",
+    "淫語",
+    "艷遇",
+    "癡女",
+    "雙飛",
+    "兩女一男",
+    "M男・M女",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20231203/f2732ed1-b429-4407-8633-5f77cf8994fc.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231203/f2732ed1-b429-4407-8633-5f77cf8994fc.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17454",
+  "actresses": [
+    {
+      "name": "美園和花",
+      "img_url": "https://picture.yoshiclub.xyz/20230329/d61cd24b-698e-4599-9cbb-64d9f57ea752.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17454&name=美園和花"
+    },
+    {
+      "name": "彌生美月",
+      "img_url": "https://picture.yoshiclub.xyz/20230901/1404d80e-28c5-4fba-9844-43fbc74cd6ee.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17454&name=彌生美月"
+    },
+    {
+      "name": "弥生美月",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=17454&name=弥生美月"
+    }
+  ]
+};

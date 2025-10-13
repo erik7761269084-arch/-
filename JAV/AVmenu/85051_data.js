@@ -1,0 +1,23 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2021/11/15/1805303a/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 85051,
+  "IDcode": "HJ-082",
+  "title": "超舌！ベロベロランド",
+  "publish_date": "2007-08-18",
+  "type": "有码",
+  "company": null,
+  "genres": [
+    "多P",
+    "女生",
+    "口交",
+    "恋物癖"
+  ],
+  "description": "",
+  "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230119-1/e23793547a5a37dd2cb331e52363095e.jpg",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85051",
+  "actresses": []
+};

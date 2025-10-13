@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://v2024.bbffsl.com/20241223/L1GJicO0/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 75994,
+  "IDcode": "SIM-050",
+  "title": "育児に忙しい新米ママのプリプリなピタパン尻に我慢できずに即ズボ！ 突然の中出しに発情した美尻ママは赤ちゃんには見せられない姿でおねだりおかわりSEX！",
+  "publish_date": "2019-11-15",
+  "type": "有码",
+  "company": "TMA",
+  "genres": [
+    "巨乳",
+    "中出",
+    "已婚妇女",
+    "素人作品"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=75994",
+  "actresses": [
+    {
+      "name": "望月綾香",
+      "img_url": "https://picture.yoshiclub.xyz/20231017/3c632ce7-a53e-46b6-bab5-82e4602ba386.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75994&name=望月綾香"
+    },
+    {
+      "name": "高杉麻里",
+      "img_url": "https://picture.yoshiclub.xyz/20231128/2a480853-ceac-47fb-9c72-98296d6963f6.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75994&name=高杉麻里"
+    },
+    {
+      "name": "森本つぐみ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75994&name=森本つぐみ"
+    },
+    {
+      "name": "永原ゆい",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=75994&name=永原ゆい"
+    }
+  ]
+};

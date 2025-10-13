@@ -1,0 +1,37 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/9461f4bc-8a10-4e7b-bae6-db85f7bf7335/playlist.m3u8"
+};
+
+seriesInfo = {
+  "id": 18647,
+  "IDcode": "GTJ-126",
+  "title": "混蛋串酷刑Anka Suzune",
+  "publish_date": "2023-09-19",
+  "type": "有码",
+  "company": "DOGMA",
+  "genres": [
+    "凌辱",
+    "中出",
+    "女奴",
+    "拘束・拷問",
+    "性感",
+    "監禁",
+    "少女",
+    "SM",
+    "暗黑系",
+    "緊縛",
+    "心理驚悚",
+    "羞恥"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20230919/20230919221137846846.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230919/20230919221137846846.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=18647",
+  "actresses": [
+    {
+      "name": "鈴音杏夏",
+      "img_url": "https://picture.yoshiclub.xyz/20230919/9c3ff1bd-5789-494b-a078-8f29f210e02e.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=18647&name=鈴音杏夏"
+    }
+  ]
+};

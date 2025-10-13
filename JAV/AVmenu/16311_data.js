@@ -1,0 +1,45 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/234c643e-773a-4590-87f3-990a8e8d4fe5/playlist.m3u8",
+  "线路2": "https://t26.cdn2020.com/video/m3u8/2024/03/08/02f229a1/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 16311,
+  "IDcode": "DVAJ-644",
+  "title": "K歌時，我被人舔乳頭打手槍……深夜在卡拉OK被戲弄，雞巴被舌吻快要爆炸，在情趣旅館操了一夜。新井裏真",
+  "publish_date": "2024-02-13",
+  "type": "有码",
+  "company": "ALICE JAPAN",
+  "genres": [
+    "乳交",
+    "中出",
+    "蕩婦",
+    "胸控・戀乳癖",
+    "潮吹",
+    "口交",
+    "騎乗位",
+    "少女",
+    "接吻",
+    "美少女",
+    "情趣內衣",
+    "手指插入",
+    "美少女電影",
+    "女學生"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240213/93202f0b-cf5c-4280-876c-46a700bf4f58.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240213/93202f0b-cf5c-4280-876c-46a700bf4f58.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=16311",
+  "actresses": [
+    {
+      "name": "新井里真",
+      "img_url": "https://picture.yoshiclub.xyz/20230910/dac2be1f-3be0-4a07-84fa-ef524548c920.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16311&name=新井里真"
+    },
+    {
+      "name": "Qべぇ",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16311&name=Qべぇ"
+    }
+  ]
+};

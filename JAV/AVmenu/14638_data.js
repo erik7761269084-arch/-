@@ -1,0 +1,38 @@
+episodes = {
+  "主线路": "https://vz-a59c6881-d86.b-cdn.net/f7740565-5e92-462e-b736-0a1b9578ca4c/playlist.m3u8",
+  "线路2": "https://vip3.slslvip3.com/20240618/aQFswPmm/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 14638,
+  "IDcode": "VENX-267",
+  "title": "母親優雅的長裙遮擋不了溼漉漉的陰戶 ~ 響かれん",
+  "publish_date": "2024-05-21",
+  "type": "有码",
+  "company": "VENUS",
+  "genres": [
+    "劇情",
+    "變態",
+    "色白",
+    "中出",
+    "蕩婦",
+    "形象俱樂部",
+    "舔陰",
+    "人妻",
+    "母子",
+    "母親",
+    "熟女",
+    "亂倫"
+  ],
+  "description": "",
+  "cover_url": "https://picture.yoshiclub.xyz/20240518/c4cdef6c-f888-4918-aa47-ac9196a06c37.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240518/c4cdef6c-f888-4918-aa47-ac9196a06c37.jpg",
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14638",
+  "actresses": [
+    {
+      "name": "響かれん",
+      "img_url": "https://picture.yoshiclub.xyz/20240505/dac6ecc3-932d-47de-9c46-98b1dcdd5b3a.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14638&name=響かれん"
+    }
+  ]
+};

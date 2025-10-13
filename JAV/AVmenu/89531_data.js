@@ -1,0 +1,44 @@
+episodes = {
+  "主线路": "https://t27.cdn2020.com/video/m3u8/2022/10/18/c04e4411/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 89531,
+  "IDcode": "AARM-123",
+  "title": "ベロチュー＋フェラチオ＋千手観音乳首弄りの4P性感プレイで60分間限界勃起キープさせられ続ける",
+  "publish_date": "2022-10-04",
+  "type": "有码",
+  "company": "AROMA PLANNING",
+  "genres": [
+    "多P",
+    "荡妇",
+    "口交",
+    "接吻"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=89531",
+  "actresses": [
+    {
+      "name": "桐香悠裡",
+      "img_url": "https://picture.yoshiclub.xyz/20230909/a22c1d0f-f486-400b-a1dd-c514abc100f5.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89531&name=桐香悠裡"
+    },
+    {
+      "name": "水卜麻衣奈",
+      "img_url": "https://picture.yoshiclub.xyz/compressed/20250427/5993615c-e405-4271-8ed6-1745a39852d9_s.webp",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89531&name=水卜麻衣奈"
+    },
+    {
+      "name": "春原未来",
+      "img_url": "https://picture.yoshiclub.xyz/20230212/04b8b546-36f3-46af-8799-53dbe5dfda82.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89531&name=春原未来"
+    },
+    {
+      "name": "南真悠",
+      "img_url": "https://picture.yoshiclub.xyz/20240512/ebe99be1-82f7-48b8-a66e-0f8a97f786cb.jpg",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=89531&name=南真悠"
+    }
+  ]
+};

@@ -1,0 +1,27 @@
+episodes = {
+  "主线路": "https://t25.cdn2020.com/video/m3u8/2024/04/13/a18b9f74/index.m3u8"
+};
+
+seriesInfo = {
+  "id": 105417,
+  "IDcode": "ATID-343",
+  "title": "内科医 長谷川秋子 凌辱のカルテ 年下医師の抑えきれない衝動",
+  "publish_date": "2019-03-07",
+  "type": "有码",
+  "company": "ATTACKERS",
+  "genres": [
+    "凌辱",
+    "女医生"
+  ],
+  "description": "",
+  "cover_url": "https://cdn4.aiscan.cc/theme/javmenu/images/loading.gif",
+  "background_img": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=105417",
+  "actresses": [
+    {
+      "name": "长谷川秋子",
+      "img_url": "",
+      "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=105417&name=长谷川秋子"
+    }
+  ]
+};
