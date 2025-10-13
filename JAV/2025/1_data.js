@@ -1,5 +1,5 @@
 episodes = {
-  "1": "https://8.bf8bf.com/video/dingfengbo2025/第01集/index.m3u8",
+  "主线路": "https://8.bf8bf.com/video/dingfengbo2025/第01集/index.m3u8",
  
 };
 
