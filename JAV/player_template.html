@@ -231,11 +231,13 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 改成从 JSON 加载（原先是加载 .js）
+// ✅ 改为加载 JSON 数据文件
 function loadSeriesData(seriesName) {
-  fetch(`2025/${seriesName}_data.json`)
+  const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/2025/${seriesName}_data.json`;
+
+  fetch(dataUrl)
     .then(response => {
-      if (!response.ok) throw new Error("无法加载数据文件");
+      if (!response.ok) throw new Error("加载失败");
       return response.json();
     })
     .then(data => {
