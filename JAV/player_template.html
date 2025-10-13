@@ -231,7 +231,7 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 改为加载 JSON 数据文件
+// ✅ 改为加载 JSON 数据文件（保持你已有的远程 json 路径）
 function loadSeriesData(seriesName) {
   const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/2025/${seriesName}_data.json`;
 
@@ -258,7 +258,7 @@ function initPlayer() {
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
 
-  // ✅ 生成女优卡片
+  // ✅ 生成女优卡片（未改）
   actressGrid.innerHTML = "";
   if (Array.isArray(seriesInfo.actresses)) {
     seriesInfo.actresses.forEach(actor => {
@@ -274,23 +274,24 @@ function initPlayer() {
     });
   }
 
-  // ✅ 生成播放列表
+  // === 播放列表：仅改这里（按线路名传参，保证中文键也能正确取到） ===
   playlist.innerHTML = "";
-  Object.entries(episodes).forEach(([ep, url], index) => {
+  Object.entries(episodes).forEach(([epName, epUrl], index) => {
     const btn = document.createElement('button');
-    btn.textContent = ep;
-    btn.onclick = () => loadEpisode(index, btn);
+    btn.textContent = epName;
+    btn.onclick = () => loadEpisode(epName, epUrl, btn); // 改成传名字和 url
     playlist.appendChild(btn);
   });
 
   if (playlist.firstChild) {
     playlist.firstChild.classList.add('active');
-    loadEpisode(0, playlist.firstChild);
+    const firstKey = Object.keys(episodes)[0];
+    loadEpisode(firstKey, episodes[firstKey], playlist.firstChild); // 用第一个 key 作为默认播放
   }
 }
 
-function loadEpisode(index, btn) {
-  const url = Object.values(episodes)[index];
+// === 仅改动播放实现：接收 epName, url, btn（其余保持不变） ===
+function loadEpisode(epName, url, btn) {
   if (!url) return;
 
   if (Hls.isSupported()) {
@@ -304,9 +305,8 @@ function loadEpisode(index, btn) {
   }
 
   document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  currentIndex = index;
-  overlay.textContent = `${seriesInfo.title} - 第${index+1}集`;
+  if (btn) btn.classList.add('active');
+  overlay.textContent = `${seriesInfo.title} - ${epName}`;
 }
 
 video.addEventListener('pause', () => overlay.style.opacity = 1);

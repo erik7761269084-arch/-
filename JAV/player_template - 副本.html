@@ -231,19 +231,23 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 动态加载数据文件
+// ✅ 改为加载 JSON 数据文件
 function loadSeriesData(seriesName) {
-  const script = document.createElement('script');
-  script.src = `2025/${seriesName}_data.js`;
-  script.onload = () => {
-      if (typeof episodes !== "undefined" && typeof seriesInfo !== "undefined") {
-          initPlayer();
-      } else {
-          alert("数据文件格式不正确，请检查 " + script.src);
-      }
-  };
-  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
-  document.body.appendChild(script);
+  const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/2025/${seriesName}_data.json`;
+
+  fetch(dataUrl)
+    .then(response => {
+      if (!response.ok) throw new Error("加载失败");
+      return response.json();
+    })
+    .then(data => {
+      window.episodes = data.episodes;
+      window.seriesInfo = data.seriesInfo;
+      initPlayer();
+    })
+    .catch(err => {
+      alert("剧集数据加载失败: " + err.message);
+    });
 }
 
 function initPlayer() {
