@@ -93,14 +93,15 @@ body::before {
 
 /* ✅ 右侧信息卡片 */
 .right-panel {
-    width: 320px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    background-color: #202020;
-    border-radius: 10px;
-    padding: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  /* 隐藏边框/背景/阴影 */
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
 }
 
 /* ✅ 女优头像卡 */
@@ -145,14 +146,24 @@ body::before {
   bottom: auto;
   left: auto;
   width:  97%;
-  background-color: #202020;
-  padding: 12px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  /* 隐藏背景和边框 */
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
   margin-top: 15px;
 }
 
-/* ✅ 番号黄色字体 */
+/* category 样式 */
+#category {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* 番号黄色字体 */
 #idcode {
   color: #ffcc00;
   font-weight: bold;
@@ -176,11 +187,12 @@ body::before {
     background-color: #007bff;
     color: #fff;
 }
+/* ✅ details 框隐藏背景/边框 */
 .details {
-    background: #2a2a2a;
-    color: #f0f0f0;
-    padding: 12px;
-    border-radius: 8px;
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
 }
 .details h2 {
     font-size: 1.2em;
