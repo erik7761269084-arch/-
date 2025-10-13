@@ -1,6 +1,13 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8"
+    "主线路": "https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+	"第1集": "https://jx.xmflv.com/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第2集": "https://jx.hls.one/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第3集": "https://rdfplayer.mrgaocloud.com/player/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第4集": "https://bd.jx.cn/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第5集": "https://jx.77flv.cc/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第6集": "https://jx.2s0.cn/player/?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+    "第7集": "https://jx.nnxv.cn/tv.php?url=https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8"
   },
   "seriesInfo": {
     "id": 1,
