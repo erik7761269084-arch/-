@@ -6,13 +6,34 @@
 <title>播放器 - 线上看</title>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
 <style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #1a1a1a;
-    color: #eaeaea;
+:root {
+  --bg-url: none;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #eaeaea;
+  position: relative;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ✅ 背景图层 */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-url) center center / cover no-repeat;
+  filter: brightness(0.3);
+  opacity: 0.6;
+  z-index: -1;
+}
+
 .container {
     display: flex;
     max-width: 1800px;
@@ -143,8 +164,8 @@ body {
     gap: 10px;
 }
 .playlist button {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 20px;
     background: #2a2a2a;
     border: 1px solid #444;
     color: #ddd;
@@ -189,7 +210,13 @@ body {
 
         <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
-            <p><strong> </strong> <span id="category"></span></p>
+<!--            <div class="playlist" id="playlist"></div>-->
+<!--            <p><strong> </strong> <span id="category"></span></p>-->
+            <div class="playlist-container" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+                <div class="playlist" id="playlist"></div>
+                <p style="margin:0;"><strong></strong> <span id="category"></span></p>
+            </div>
+
             <h2 id="bottom_title">剧名 - 集数</h2>
             <p><strong>番号:</strong> <span id="idcode"></span></p>
             <p><strong>出品厂商:</strong> <span id="company"></span></p>
@@ -199,7 +226,6 @@ body {
     </div>
 
     <div class="right-panel">
-        <div class="playlist" id="playlist"></div>
 
         <div class="details">
             <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
@@ -234,7 +260,7 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 改为加载 JSON 数据文件（保持你已有的远程 json 路径）
+// ✅ 改为加载 JSON 数据文件
 function loadSeriesData(seriesName) {
   const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/2025/${seriesName}_data.json`;
 
@@ -246,6 +272,12 @@ function loadSeriesData(seriesName) {
     .then(data => {
       window.episodes = data.episodes;
       window.seriesInfo = data.seriesInfo;
+
+      // ✅ 设置背景图
+      if (seriesInfo.background_img) {
+        document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
+      }
+
       initPlayer();
     })
     .catch(err => {
@@ -261,7 +293,7 @@ function initPlayer() {
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
 
-  // ✅ 生成女优卡片（未改）
+  // ✅ 生成女优卡片
   actressGrid.innerHTML = "";
   if (Array.isArray(seriesInfo.actresses)) {
     seriesInfo.actresses.forEach(actor => {
@@ -293,21 +325,18 @@ function initPlayer() {
   }
 }
 
-// ✅ 改进后的播放逻辑
+// ✅ 播放逻辑
 function loadEpisode(epName, url, btn) {
   if (!url) return;
 
-  // ✅ 清理旧 HLS 实例
   if (hls) {
     hls.destroy();
     hls = null;
   }
 
-  // 重置 overlay
   overlay.textContent = `${seriesInfo.title} - ${epName}`;
   overlay.style.opacity = 0;
 
-  // 初始化新播放源
   if (Hls.isSupported()) {
     hls = new Hls({
       maxBufferLength: 30,
@@ -317,9 +346,7 @@ function loadEpisode(epName, url, btn) {
     hls.attachMedia(video);
 
     hls.on(Hls.Events.MANIFEST_PARSED, () => {
-      video.play().catch(() => {
-        console.warn("自动播放被阻止，请手动播放");
-      });
+      video.play().catch(() => console.warn("自动播放被阻止，请手动播放"));
     });
 
     hls.on(Hls.Events.ERROR, (event, data) => {
@@ -334,7 +361,6 @@ function loadEpisode(epName, url, btn) {
     alert("您的浏览器不支持 HLS 播放。");
   }
 
-  // ✅ 更新按钮状态
   document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
 }
