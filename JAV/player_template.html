@@ -290,27 +290,59 @@ function initPlayer() {
   }
 }
 
-// === 仅改动播放实现：接收 epName, url, btn（其余保持不变） ===
+// ✅ 改进后的播放逻辑
 function loadEpisode(epName, url, btn) {
   if (!url) return;
 
+  // 清理旧实例，防止冲突
+  if (hls) {
+    hls.destroy();
+    hls = null;
+  }
+
+  // 重置 overlay
+  overlay.textContent = `${seriesInfo.title} - ${epName}`;
+  overlay.style.opacity = 0;
+
+  // 初始化新播放源
   if (Hls.isSupported()) {
-    const hls = new Hls();
+    hls = new Hls({
+      maxBufferLength: 30,
+      enableWorker: true
+    });
     hls.loadSource(url);
     hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+
+    hls.on(Hls.Events.MANIFEST_PARSED, () => {
+      video.play().catch(() => {
+        console.warn("自动播放被阻止，用户需手动点击播放");
+      });
+    });
+
+    hls.on(Hls.Events.ERROR, (event, data) => {
+      console.error("HLS 错误：", data);
+      if (data.fatal) alert("播放出错，请尝试刷新或更换线路。");
+    });
+
   } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
     video.src = url;
     video.addEventListener('loadedmetadata', () => video.play());
+  } else {
+    alert("您的浏览器不支持 HLS 播放。");
   }
 
+  // 更新播放按钮状态
   document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
-  overlay.textContent = `${seriesInfo.title} - ${epName}`;
 }
 
-video.addEventListener('pause', () => overlay.style.opacity = 1);
-video.addEventListener('play', () => overlay.style.opacity = 0);
+// ✅ 播放状态浮层
+video.addEventListener('pause', () => {
+  overlay.style.opacity = 1;
+});
+video.addEventListener('play', () => {
+  overlay.style.opacity = 0;
+});
 
 loadSeriesData(getSeriesName());
 </script>
