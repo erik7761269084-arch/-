@@ -231,19 +231,21 @@ function getSeriesName() {
   return params.get('series') || 'default';
 }
 
-// ✅ 动态加载数据文件
-function loadSeriesData(seriesName) {
-  const script = document.createElement('script');
-  script.src = `2025/${seriesName}_data.js`;
-  script.onload = () => {
-      if (typeof episodes !== "undefined" && typeof seriesInfo !== "undefined") {
-          initPlayer();
-      } else {
-          alert("数据文件格式不正确，请检查 " + script.src);
-      }
-  };
-  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
-  document.body.appendChild(script);
+// ✅ 从 JSON 文件加载数据（替换原 script.src）
+async function loadSeriesData(seriesName) {
+  try {
+    const response = await fetch(`2025/${seriesName}_data.json`);
+    if (!response.ok) throw new Error("无法加载数据文件");
+    const data = await response.json();
+
+    // 从 JSON 中取出 episodes 和 seriesInfo
+    window.episodes = data.episodes;
+    window.seriesInfo = data.seriesInfo;
+
+    initPlayer();
+  } catch (err) {
+    alert("加载失败: " + err.message);
+  }
 }
 
 function initPlayer() {

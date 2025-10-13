@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>播放器 - 线上看</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #eaeaea;
+}
+.container {
+    display: flex;
+    max-width: 1800px;
+    margin: 20px auto;
+    gap: 20px;
+}
+.left-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    background: #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#video {
+    width: 100%;
+    height: auto;
+    max-height: 900px;
+    object-fit: contain;
+    border-radius: 10px;
+    display: block;
+}
+#overlay {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.video-controls {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.video-controls button {
+    padding: 6px 16px;
+    background-color: #333;
+    color: #f2f2f2;
+    border: 1px solid #555;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.video-controls button:hover {
+    background-color: #555;
+}
+
+/* ✅ 右侧信息卡片 */
+.right-panel {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #202020;
+    border-radius: 10px;
+    padding: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+/* ✅ 女优头像卡 */
+.actress-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.actress-card {
+    position: relative;
+    width: 90px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.actress-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+.actress-card:hover img {
+    transform: scale(1.05);
+}
+.actress-card .name {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px 4px;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+/* ✅ 视频下方信息栏 */
+.down-panel {
+  position: relative;
+  bottom: auto;
+  left: auto;
+  width:  97%;
+  background-color: #202020;
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  margin-top: 15px;
+}
+
+/* ✅ 番号黄色字体 */
+#idcode {
+  color: #ffcc00;
+  font-weight: bold;
+}
+
+.playlist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.playlist button {
+    width: 40px;
+    height: 40px;
+    background: #2a2a2a;
+    border: 1px solid #444;
+    color: #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.playlist button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+.details {
+    background: #2a2a2a;
+    color: #f0f0f0;
+    padding: 12px;
+    border-radius: 8px;
+}
+.details h2 {
+    font-size: 1.2em;
+    margin: 0 0 10px;
+    color: #fff;
+}
+.details p { margin: 6px 0; color: #ddd; }
+.ad-text {
+  color: #aaa;
+  font-style: italic;
+}
+
+@media (max-width: 900px) {
+    .container { flex-direction: column; }
+    .right-panel { width: 100%; }
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <div class="left-panel">
+        <div class="video-wrapper">
+            <video id="video" controls playsinline webkit-playsinline x5-playsinline></video>
+            <div id="overlay"></div>
+        </div>
+
+        <!-- ✅ 视频下方信息栏 -->
+        <div class="down-panel">
+            <p><strong> </strong> <span id="category"></span></p>
+            <h2 id="bottom_title">剧名 - 集数</h2>
+            <p><strong>番号:</strong> <span id="idcode"></span></p>
+            <p><strong>出品厂商:</strong> <span id="company"></span></p>
+            <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
+            <p><strong>剧情介绍:</strong> <span id="description"></span></p>
+        </div>
+    </div>
+
+    <div class="right-panel">
+        <div class="playlist" id="playlist"></div>
+
+        <div class="details">
+            <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
+        </div>
+
+        <!-- ✅ 新增女优卡片展示区域 -->
+        <div class="details">
+            <p><strong>出演女优:</strong></p>
+            <div class="actress-grid" id="actressGrid"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+const video = document.getElementById('video');
+const playlist = document.getElementById('playlist');
+const overlay = document.getElementById('overlay');
+const bottomTitle = document.getElementById('bottom_title');
+const categoryEl = document.getElementById('category');
+const companyEl = document.getElementById('company');
+const idcodeEl = document.getElementById('idcode');
+const descriptionEl = document.getElementById('description');
+const publishEl = document.getElementById('publish_date');
+const actressGrid = document.getElementById('actressGrid');
+let currentIndex = 0;
+
+function getSeriesName() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('series') || 'default';
+}
+
+// ✅ 动态加载数据文件
+function loadSeriesData(seriesName) {
+  const script = document.createElement('script');
+  script.src = `2025/${seriesName}_data.js`;
+  script.onload = () => {
+      if (typeof episodes !== "undefined" && typeof seriesInfo !== "undefined") {
+          initPlayer();
+      } else {
+          alert("数据文件格式不正确，请检查 " + script.src);
+      }
+  };
+  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
+  document.body.appendChild(script);
+}
+
+function initPlayer() {
+  bottomTitle.textContent = seriesInfo.title || "剧名";
+  idcodeEl.textContent = seriesInfo.IDcode || "";
+  companyEl.textContent = seriesInfo.company || "";
+  descriptionEl.textContent = seriesInfo.description || "";
+  publishEl.textContent = seriesInfo.publish_date || "";
+  categoryEl.textContent = seriesInfo.type || "";
+
+  // ✅ 生成女优卡片
+  actressGrid.innerHTML = "";
+  if (Array.isArray(seriesInfo.actresses)) {
+    seriesInfo.actresses.forEach(actor => {
+      const card = document.createElement('div');
+      card.className = "actress-card";
+      card.innerHTML = `
+        <a href="${actor.profile_url}" target="_blank">
+          <img src="${actor.img_url}" alt="${actor.name}">
+          <div class="name">${actor.name}</div>
+        </a>
+      `;
+      actressGrid.appendChild(card);
+    });
+  }
+
+  // ✅ 生成播放列表
+  playlist.innerHTML = "";
+  Object.entries(episodes).forEach(([ep, url], index) => {
+    const btn = document.createElement('button');
+    btn.textContent = ep;
+    btn.onclick = () => loadEpisode(index, btn);
+    playlist.appendChild(btn);
+  });
+
+  if (playlist.firstChild) {
+    playlist.firstChild.classList.add('active');
+    loadEpisode(0, playlist.firstChild);
+  }
+}
+
+function loadEpisode(index, btn) {
+  const url = Object.values(episodes)[index];
+  if (!url) return;
+
+  if (Hls.isSupported()) {
+    const hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = url;
+    video.addEventListener('loadedmetadata', () => video.play());
+  }
+
+  document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  currentIndex = index;
+  overlay.textContent = `${seriesInfo.title} - 第${index+1}集`;
+}
+
+video.addEventListener('pause', () => overlay.style.opacity = 1);
+video.addEventListener('play', () => overlay.style.opacity = 0);
+
+loadSeriesData(getSeriesName());
+</script>
+</body>
+</html>
