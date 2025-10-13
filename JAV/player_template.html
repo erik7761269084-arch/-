@@ -102,6 +102,12 @@ body {
   margin-top: 15px; /* ✅ 确保与视频有间距 */
 }
 
+/* ✅ 番号黄色字体 */
+#idcode {
+  color: #ffcc00;
+  font-weight: bold;
+}
+
 .playlist {
     display: flex;
     flex-wrap: wrap;
@@ -132,12 +138,11 @@ body {
     color: #fff;
 }
 .details p { margin: 6px 0; color: #ddd; }
-<style>
 .ad-text {
   color: #aaa;
   font-style: italic;
 }
-</style>
+
 @media (max-width: 900px) {
     .container { flex-direction: column; }
     .right-panel { width: 100%; }
@@ -165,7 +170,6 @@ body {
     </div>
 
     <div class="right-panel">
-
         <div class="playlist" id="playlist"></div>
         <div class="details">
             <div class="cover">
@@ -186,13 +190,13 @@ const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
 const overlay = document.getElementById('overlay');
 const coverImg = document.getElementById('coverImg');
-const infoTitle = document.getElementById('info_title');
+// const infoTitle = document.getElementById('info_title'); // ❌ 删除
+// const metaEl = document.getElementById('meta');           // ❌ 删除
 const bottomTitle = document.getElementById('bottom_title');
 const categoryEl = document.getElementById('category');
 const companyEl = document.getElementById('company');
 const idcodeEl = document.getElementById('idcode');
 const actorsEl = document.getElementById('actors');
-const metaEl = document.getElementById('meta');
 const descriptionEl = document.getElementById('description');
 const publishEl = document.getElementById('publish_date');
 let currentIndex = 0;
@@ -218,12 +222,10 @@ function loadSeriesData(seriesName) {
 }
 
 function initPlayer() {
-  infoTitle.textContent = seriesInfo.title || "剧名";
   bottomTitle.textContent = seriesInfo.title || "剧名";
   idcodeEl.textContent = seriesInfo.IDcode || "";
   companyEl.textContent = seriesInfo.company || "";
   actorsEl.textContent = seriesInfo.actress || "";
-  metaEl.textContent = seriesInfo.meta || "";
   descriptionEl.textContent = seriesInfo.description || "";
   publishEl.textContent = seriesInfo.publish_date || "";
   categoryEl.textContent = seriesInfo.type || "";
@@ -262,13 +264,6 @@ function loadEpisode(index, btn) {
   currentIndex = index;
   overlay.textContent = `${seriesInfo.title} - 第${index+1}集`;
 }
-
-document.getElementById('prev').onclick = () => {
-  if (currentIndex > 0) loadEpisode(currentIndex - 1, playlist.children[currentIndex - 1]);
-};
-document.getElementById('next').onclick = () => {
-  if (currentIndex < Object.keys(episodes).length - 1) loadEpisode(currentIndex + 1, playlist.children[currentIndex + 1]);
-};
 
 video.addEventListener('pause', () => overlay.style.opacity = 1);
 video.addEventListener('play', () => overlay.style.opacity = 0);
