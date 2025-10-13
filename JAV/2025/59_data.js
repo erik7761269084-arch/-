@@ -41,7 +41,7 @@ seriesInfo = {
   "description": "1PON-010221_001为一本道出品,2021年1月2日发行的無碼成人影片由彩華ゆかり出演\n身材纖細又惹人憐愛的和服美人彩華由香里，帶來一場濕熱又濃烈的激情演出！她穿著和服，摆出M字開腿自慰，爽到直接升天！接著獻上超勾魂的口技，還被電摩玩弄小穴，濕得一塌糊塗後直接被生插入，穿著和服就來了一場火辣單挑！慢慢脫光光，最後直接內射收場。中出後的餘韻和安心表情，彩華由香里真的是可愛到炸！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/202509100140173333_38863_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/202509100140173333_38863_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=59",
   "actresses": [
     {
       "name": "彩華ゆかり",

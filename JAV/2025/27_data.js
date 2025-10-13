@@ -44,7 +44,7 @@ seriesInfo = {
   "description": "1PON-010712_252为一本道出品,2012年1月7日发行的無碼成人影片由秋野みさき出演\n追求极致美感的时尚性爱系列，这回能和穿着华丽和服的超可爱辣妹一起嗨，真是幸福爆棚！恭喜她迈入成人阶段，顺便聊了聊未来的目标和性生活规划，结果这妹子天然呆，回答各种脑洞大开，笑死人了。不过谁让她这么萌，啥都能原谅！气氛炒热后，先来欣赏她的自慰秀，和服摩擦的声音优雅又撩人，很快就高潮喷发，喊得让人心痒痒。还没完呢，拿出震动棒继续玩，妹子瞬间又被送上云霄，估计是年轻，玩道具经验不多吧，观众还没到齐就先高潮了！作为惩罚，派了个超S的男优来调教她，被羞辱的言语刺激得喘息越来越急，乖得像个小娃娃。被抓住头强行深入喉咙时，发出咕噜咕噜的呻吟声，但她不服输，马上又含住再战，简直欲罢不能！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924033913277277_81060_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924033913277277_81060_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=27",
   "actresses": [
     {
       "name": "秋野みさき",

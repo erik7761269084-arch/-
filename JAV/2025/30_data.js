@@ -38,7 +38,7 @@ seriesInfo = {
   "description": "1PON-010621_001为一本道出品,2021年1月6日发行的無碼成人影片由小泉真希，白高ちさと，吹石玲奈，上野真奈美出演\n這群妹子對濃濃的精液味道簡直愛到不行！上野真奈美、小泉真希、玲奈跟白高千纱四個絕色正妹，每個都是口技高手，超色氣的口活直接讓人腿軟到站不起來。手技加舌技雙重進攻，把小兄弟玩得團團轉，根本停不下來！她們對嘴裡瀰漫的精液滋味完全上癮，騷氣爆棚，絕對讓你血脈賁張啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032959424424_59269_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032959424424_59269_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=30",
   "actresses": [
     {
       "name": "吹石玲奈",

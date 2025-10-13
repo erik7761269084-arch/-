@@ -43,7 +43,7 @@ seriesInfo = {
   "description": "1PON-010622_001为一本道出品,2022年1月6日发行的無碼成人影片由横山夢 出演\n橫山夢這妹子散發著獨特的騷氣，首次登場就帶來頂級風俗店的超爽體驗！連澡都沒洗就直接含住那帶著汗臭的肉棒，笑咪咪地來一發即尺服務。嬌滴滴地求你拉下拉鍊，脫下衣服秀出那小巧挺翹的桃臀和超正的細腰，纖細身材讓人看了就硬。全身泡沫用小穴來一發素股，隔著透明淫蕩椅子手活伺候得你爽到不行。浴池裡玩潛望鏡，胸推暖肉棒再來一發口爆。墊子玩法直接M字開腿，露出光溜溜無毛的小穴自慰給你看，翻身翹臀被舔到高潮連連，69互舔更是嗨到爆。她喘著氣求你直接插進來，自己騎乘位坐上去，感受肉棒在體內衝刺，甜美呻吟爽到不行！新手泡姬的頂級服務，保證讓你上癮，快來感受一下啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924033822196196_41107_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924033822196196_41107_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=29",
   "actresses": [
     {
       "name": "横山夢",

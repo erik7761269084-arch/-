@@ -37,7 +37,7 @@ seriesInfo = {
   "description": "1PON-010118_002为一本道出品,2017年12月1日发行的無碼成人影片由北条麻妃出演\n这位就是业内顶尖大神，不管啥片子都全力以赴，不管对手是谁都能飙到120%的认真模式！传奇女优强势驾到，带来逆天玩法“逆袭后庭调教加口技”！不愧是传奇级别，从头到尾都让人大开眼界！到底哪里不一样？赶紧点开视频，自己感受一下这股无法抵挡的诱惑吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074608199199_33909_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074608199199_33909_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=72",
   "actresses": [
     {
       "name": "北条麻妃",

@@ -46,7 +46,7 @@ seriesInfo = {
   "description": "1PON-010319_792为一本道出品,2019年1月3日发行的無碼成人影片由上山奈々出演\n求求你，快跟我來一發吧！上山奈奈這次化身M痴女，甘願低頭求愛，簡直飢渴到不行！她乖乖地一件件脫下衣服，火辣身材直接撩得男人慾火焚身。明明是個不缺男人的絕色美女，卻偏偏愛被命令，甘當低姿態的小騷貨，全心全意服侍男人。終於等到那根硬梆梆的傢伙狠狠衝刺，她直接爽到失控，瘋狂高潮！就算被內射也不放過，最後還用清理口交把精華吸得一滴不剩，色氣爆棚，絕對值得一看！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014455968968_57323_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014455968968_57323_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=52",
   "actresses": [
     {
       "name": "上山奈々",

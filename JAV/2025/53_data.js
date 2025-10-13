@@ -49,7 +49,7 @@ seriesInfo = {
   "description": "1PON-010318_627为一本道出品,2018年1月4日发行的無碼成人影片由水鳥文乃出演\n我的天！這位清純到不行的山手大小姐，竟然出現在《模特精選集》！完全不敢相信，這樣的冷艷女神居然會脫光光給你看，還大方秀出她的無毛小穴！平時看起來像是對男人不屑一顧，但碰到肉棒時卻瞬間變身成淫蕩小野貓，瘋狂呻吟，主動張開腿露出最私密的地方，素人般的真實性愛讓人血脈賁張！不看她的小穴，今年可算是白過了，絕對必看啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014436543543_64128_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014436543543_64128_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=53",
   "actresses": [
     {
       "name": "水鳥文乃",

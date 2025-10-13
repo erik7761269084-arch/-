@@ -49,7 +49,7 @@ seriesInfo = {
   "description": "1PON-010315_003为一本道出品,2015年1月3日发行的無碼成人影片由川井まゆ出演\n一條嫩縫決勝負！這就是嫩肌少女俱樂部的鐵則！上次出場就人氣爆棚的川井まゆ小甜心又來啦！在浴室裡大張雙腿，雖然有點害羞，但還是大膽挑戰剃毛儀式。小心翼翼避開那微微褐色的大陰唇，用剃刀輕輕刮過私密處，轉眼間就露出白嫩光滑的小穴，簡直像嬰兒肌一樣粉嫩！剃乾淨後，穿上泳裝的まゆ醬性感指數直接爆表，突然插入震動棒讓她爽到快要失神！接著換上制服，塗滿潤滑液，滑溜溜直接開幹，爽到不行！警告警告，撸過頭小心傷身，這片真的是太猛啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014413792792_72053_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014413792792_72053_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=54",
   "actresses": [
     {
       "name": "川井まゆ",

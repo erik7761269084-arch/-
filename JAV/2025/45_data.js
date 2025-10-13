@@ -57,7 +57,7 @@ seriesInfo = {
   "description": "1PON-010417_458为一本道出品,2017年1月4日发行的無碼成人影片由舞笑美娜出演\n擁有爆乳細腰、完美身材的舞笑美娜被繩子綁得緊緊的，釋放出超級誘人的色氣！穿著整齊和服的她，一掀裙角竟然沒穿內褲，直接露出迷人的美穴！美娜大張雙腿，任人撩撥敏感小豆豆，弄得下面濕答答地不停抽動！用電動棒刺激她，潮吹噴得滿地都是，爽到翻天！被綁起來的狀態讓她愛不釋手，可能是因為完全逃不過這種快感吧，真的太勾人了啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042634503503_46810_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042634503503_46810_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=45",
   "actresses": [
     {
       "name": "舞笑美娜",

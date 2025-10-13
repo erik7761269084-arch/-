@@ -33,7 +33,7 @@ seriesInfo = {
   "description": "1PON-010813_509为一本道出品,2013年1月8日发行的無碼成人影片由沙月由奈出演\n沙月由奈穿著和服開啟新年第一炮，簡直是福利大放送啦！平時她是個二次元鐵粉，超愛遊戲裡的角色，但講到真刀真槍，她還是比較愛三次元的肉棒，畢竟螢幕裡的小哥哥沒法真的插進來！她的小穴緊到誇張，電動玩具都能被她夾到停轉，濕得一塌糊塗，潮吹根本停不下來！敏感度更是逆天，耳朵輕輕一碰就全身顫抖，騷氣滿滿！原本整齊的髮型和和服都被搞得亂七八糟，她還自己拿著電棒猛刺激陰蒂，內外一起高潮，爽到不行！最後被狠狠內射，濃稠的精液從遠處都能看見，色氣爆棚！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20250930232735584584_22976_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20250930232735584584_22976_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=24",
   "actresses": [
     {
       "name": "沙月由奈",

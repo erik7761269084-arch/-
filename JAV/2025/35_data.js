@@ -52,7 +52,7 @@ seriesInfo = {
   "description": "1PON-010521_001为一本道出品,2021年1月5日发行的無碼成人影片由美波遊彩出演\n美波遊彩這妹子綁著雙馬尾，超級可愛der！別看她長著一張娃娃臉，那豐滿到爆的身材抱起來絕對超有料，這種反差萌直接讓人受不了！一開場就拿震動棒自己玩，騷氣爆棚，男優來幫忙後她直接放開全身，高潮一波接一波。回禮就是一場超刺激的口技，接著穿上開檔情趣內衣被挑逗，下邊濕到不行。最後直接無套內射，爽度破表，絕對不容錯過啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032525614614_39046_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032525614614_39046_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=35",
   "actresses": [
     {
       "name": "美波遊彩",

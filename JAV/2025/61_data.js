@@ -47,7 +47,7 @@ seriesInfo = {
   "description": "",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/bcc53615-5f90-4bfd-9e99-8981eb7d13a9_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/bcc53615-5f90-4bfd-9e99-8981eb7d13a9_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=61",
   "actresses": [
     {
       "name": "葉山友香",

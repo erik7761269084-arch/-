@@ -58,7 +58,7 @@ seriesInfo = {
   "description": "1PON-010314_729为一本道出品,2014年1月3日发行的無碼成人影片由小泉真希出演\n在混浴露天溫泉裡，小泉真希一件件超撩地脫下浴衣，泡在熱水裡正放鬆時，一個男人走了進來，眼神色咪咪地盯著真希的身體，直接貼著她坐下，講話滿是挑逗意味。男人還假裝不經意地往真希肩膀上潑水，慢慢開始上下其手，下面早就硬到不行。後來直接繞到真希背後，雙手狠狠抓住那對大奶，真的讓人看了血脈賁張啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014400242242_18503_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014400242242_18503_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=55",
   "actresses": [
     {
       "name": "小泉真希",

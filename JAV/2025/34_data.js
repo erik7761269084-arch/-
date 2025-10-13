@@ -61,7 +61,7 @@ seriesInfo = {
   "description": "1PON-010612_251为一本道出品,2012年1月6日发行的無碼成人影片由桂希ゆに，倉木瑪娜，桃井杏南，澤北優香出演\n超豪華陣容，淫亂到爆！一群超正辣妹在新年開趴，肉體激烈碰撞，汁液交融，簡直是一場生猛群P大亂鬥！這邊搞百合，那邊玩69，這邊潮吹噴個不停，那邊口水直流爽到翻天！不用臼和杵，直接用身體開戰，最後大家一起啪啪啪，節奏嗨到不行！螢幕前的你也別閒著，快脫褲子一起加入這場節奏！8P大戲輪番上演，眼花撩亂，手忙腳亂，亮點跟爆點接連不斷，絕對中出狂歡，爽到你懷疑人生！新年第一炮，淫戲必須夠味啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032601319319_49818_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032601319319_49818_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=34",
   "actresses": [
     {
       "name": "桃井杏南",

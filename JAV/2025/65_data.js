@@ -39,6 +39,6 @@ seriesInfo = {
   "description": "",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/725cd2c4-4213-40a8-80ea-94cf02710b27_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/725cd2c4-4213-40a8-80ea-94cf02710b27_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=65",
   "actresses": []
 };

@@ -29,6 +29,6 @@ seriesInfo = {
   "description": "1PON-010118_001为一本道出品,2017年12月1日发行的無碼成人影片\n外表看起來超兇又辣的性感小野貓，竟然對男人服務得無微不至，簡直是極致寵愛！別看她一臉不屑伺候人的樣子，卻主動挑逗說：Rie 要舔你後庭讓你爽翻天！從龜頭到蛋蛋，再把男人翻成羞恥姿勢，舌頭在後庭又是舔又是吸，玩得那叫一個銷魂。接著，她撥開自己那片沒修剪的茂密叢林，直接坐臉騎乘，扭腰擺臀，換成69姿勢繼續瘋狂舔弄後庭，最後用手活直接榨乾男人的精華！這小姐姐服務態度真的是絕了，堪稱女中豪傑，趕快來一窺究竟啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074541920920_66347_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074541920920_66347_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=14",
   "actresses": []
 };

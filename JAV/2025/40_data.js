@@ -63,7 +63,7 @@ seriesInfo = {
   "description": "1PON-010516_222为一本道出品,2016年1月5日发行的無碼成人影片由一之濑铃出演\n一之濑铃这妹子，长得跟洋娃娃似的，黑长直超美，下面更是极品！穿着制服化身风俗小姐，玩起泡泡游戏来简直不要太溜！对着猥琐大叔又是泡泡舞又是侧滑还有潜望镜，小脸蛋可爱得不行，技术却满分炸裂！涂满润滑液后制服湿透，隐隐约约的身材曲线，兄弟们看了不心动都难！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031837239239_51553_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031837239239_51553_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=40",
   "actresses": [
     {
       "name": "一之濑铃",

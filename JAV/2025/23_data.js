@@ -42,7 +42,7 @@ seriesInfo = {
   "description": "1PON-010814_732为一本道出品,2014年1月8日发行的無碼成人影片由篠田涼花出演\n身材火辣、长相清纯，谁能想到她是个超级淫荡的小妖精！被男人随意摆弄后，反过来用超浓烈的口技回敬，简直欲罢不能！满身大汗，在床上展开激烈肉搏，上下摇摆的骑乘位让人血脉喷张！被狠狠插入根部，娇喘连连，一次次高潮迭起！后入式露出私密部位，色气爆棚！换着姿势被猛烈抽插，淫荡到筋疲力尽，爽到翻白眼！最后被疯狂活塞榨干，瘫软之际还被满满内射，简直绝了！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20250930232746492492_42616_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20250930232746492492_42616_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=23",
   "actresses": [
     {
       "name": "篠田涼花",

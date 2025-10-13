@@ -50,7 +50,7 @@ seriesInfo = {
   "description": "1PON-010222_001为一本道出品,2022年1月2日发行的無碼成人影片由渋谷まなか 出演\nM痴女系列火熱開場！超級淫蕩正妹渋谷まなか穿上性感和服，滿滿騷氣登場啦！一臉慾火焚身的模樣，直接土下座求愛，哀求大肉棒給她極致快感。和服領口被扯開，飽滿美乳被隨意揉捏，裙擺掀開，粉色跳蛋和電馬瘋狂刺激她的敏感部位。堅挺嫩乳夾著肉棒玩乳交，從脖子舔到腳趾的全身舔弄再到深喉口活，真的讓人停不下來！她主動騎乘，渴望已久的生肉棒插入，晃動美乳瘋狂扭腰，換到臥室繼續電馬調教。激烈抽插中直接潮吹噴水，高潮連連尖叫不停！最後滿身精液還貼心幫肉棒清理，高潮臉蛋騷萌到爆，這浪蕩正妹的頂級表現，快來爽一發！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014033128128_92255_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014033128128_92255_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=58",
   "actresses": [
     {
       "name": "渋谷まなか",

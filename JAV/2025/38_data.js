@@ -39,7 +39,7 @@ seriesInfo = {
   "description": "1PON-010518_628为一本道出品,2018年1月6日发行的無碼成人影片由月村ひかる出演\n戴着眼镜的家教小姐姐，那勾魂的眼神简直要命！被学生表白后，直接抛开课本开干！学生说“老师，我暗恋你好久了”，小姐姐瞬间被点燃，口活、开腿秀、玩具自慰、潮吹，连生插实战课程都安排上了！全程眼镜不离身，尖叫着高潮迭起，高速冲刺时还得扶住快掉的眼镜，那骚气又聪慧的模样，绝对让你看得血脉喷张，快来一探究竟吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031952741741_23092_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031952741741_23092_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=38",
   "actresses": [
     {
       "name": "月村ひかる",

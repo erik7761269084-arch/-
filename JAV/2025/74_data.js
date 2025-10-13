@@ -62,7 +62,7 @@ seriesInfo = {
   "description": "1PON-010116_220为一本道出品,2016年1月1日发行的無碼成人影片由北条麻妃，江波亮，松本痲里奈出演\n新年大亂鬥！超人氣美熟女全員到齊！松本痲里奈、北條麻妃、江波亮三位性感大姊姊跟一堆肉棒大混戰，穿著和服直接開幹，畫面超火辣！這些肉棒控的騷氣熟女，含得津津有味，舔得欲罷不能，高潮一波接一波！不管是後入還是傳教士姿勢，肉棒直搗深處，濃稠精華一發接一發灌滿她們！熱愛性愛、慾求不滿的美熟女們，用這場硬核亂交派對給你拜個騷年，爽到起飛啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074320945945_31310_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074320945945_31310_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=74",
   "actresses": [
     {
       "name": "北条麻妃",

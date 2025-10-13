@@ -51,7 +51,7 @@ seriesInfo = {
   "description": "1PON-010513_508为一本道出品,2013年1月5日发行的無碼成人影片由愛原エレナ出演\n偶像系女優愛原艾蕾娜穿著制服Cosplay登場，火辣身材看了直接流鼻血！用跳蛋跟電棒猛力刺激，站著被玩到腿軟，翹臀姿勢插震動棒，爽到全身抖不停！她還嬌喘著喊：「射我臉上！射我嘴裡啦！」那張可愛到爆的偶像臉蛋直接被顏射，畫面超級刺激！接著她被搭訕帶到AV拍攝現場，全身被摸個遍，連小穴跟屁股的味道都被聞光光。檢查小穴時問她：「平時會自慰嗎？」她害羞回：「偶爾會啦…」 連後庭都被舔到濕透，淫水狂流，然後直接開啟生中3P！近距離欣賞偶像的小穴，被3P玩弄的快感，簡直像自己也在幹她一樣！這支片絕對不能錯過，快來看啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031822194194_23038_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031822194194_23038_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=26",
   "actresses": [
     {
       "name": "愛原エレナ",

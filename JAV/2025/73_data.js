@@ -47,7 +47,7 @@ seriesInfo = {
   "description": "1PON-010117_457为一本道出品,2017年1月1日发行的無碼成人影片由今村加奈子出演\n微乳小美女今村加奈子穿著和服，騷氣滿滿地勾人魂魄！從和服的縫隙偷偷摸進去，那對可愛的小奶子和硬挺的奶頭簡直讓人愛不釋手！好好享受完這對小可愛後，輕輕拉開粉嫩內褲，迎接你的是同樣粉嫩的小穴！用電動按摩棒刺激陰蒂，潮吹噴得滿地都是，爽到不行！這場戲還有超多結合部特寫，猛烈撞擊的畫面一清二楚，絕對不能錯過這場視覺盛宴！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074529462462_27728_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828074529462462_27728_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=73",
   "actresses": [
     {
       "name": "今村加奈子",

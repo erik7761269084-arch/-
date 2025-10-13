@@ -75,7 +75,7 @@ seriesInfo = {
   "description": "1PON-010115_001为一本道出品,2015年10月14日发行的無碼成人影片由大橋未久出演\n去年宣布引退的AV界頂級大神大橋未久，終於在眾人期待中震撼登場！這次直接奉上120分鐘的超豪華大片，一次全公開！她那絕世美貌、勾人魂魄的性感魅力，還有白皙纖細的身材，一直都是業界頂流的代表。原本以為引退後就再也看不到那完美的身軀，粉絲們心都碎了，但現在機會來了！大橋未久的極致美景毫無保留地展現在你眼前，那張超可愛的臉蛋搭配粉嫩的秘密花園，絕對讓你小鹿亂撞，心癢難耐！整整120分鐘無剪輯完整版，2小時不間斷地欣賞大橋未久的誘惑，錯過就真的沒機會啦，趕快來一飽眼福吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280742524444_10049_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/202508280742524444_10049_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=76",
   "actresses": [
     {
       "name": "大橋未久",

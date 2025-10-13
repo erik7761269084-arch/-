@@ -32,7 +32,7 @@ seriesInfo = {
   "description": "HEYZO-0007为HEYZO出品,2012年8月31日发行的無碼成人影片由月島みう出演\n月島みう这妹子，皮肤白得发光，看着纯得像小白花，21岁居然连震动棒都没玩过，平时跟男友一周三次嘿咻都不够。这次为了赚点快钱跑来模特事务所面试，结果被老司机忽悠得晕头转向，啥都答应了！老司机步步紧逼，各种要求越来越过分，みう酱那不安的小表情简直让人心痒痒！第一次体验震动棒就直接高潮，嘴里还嘀咕着好奇怪，真的太萌了！老司机一看机会来了，趁她缺钱诱惑说能赚大钱，直接开价上床交易。みう酱强忍着呻吟，欲拒还迎的样子太勾人了！最后老司机还来一句你绝对能红，直接中出收场，刺激爆了！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/202508200451563131_11406_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/202508200451563131_11406_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=85",
   "actresses": [
     {
       "name": "月島みう",

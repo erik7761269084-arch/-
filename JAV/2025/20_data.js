@@ -39,7 +39,7 @@ seriesInfo = {
   "description": "1PON-010718_629为一本道出品,2018年1月8日发行的無碼成人影片由南河あかね出演\n外表高冷，笑起來卻甜到爆的超正妹！這種反差萌讓人癢得受不了的冷艷美女，強勢登場《歡迎光臨高級風俗店》！這次全程第一人稱視角，給你最貼心的服務體驗，感覺就像真的被她伺候一樣，超有Fu！看著她含著你，嬌喘不停，那種刺激畫面，跟以往的《高級風俗店》完全不一樣！用最佳鏡頭角度拍攝的這部作品，絕對必看，快來感受這心跳飆升的快感啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001152320320_28537_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001152320320_28537_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=20",
   "actresses": [
     {
       "name": "南河あかね",

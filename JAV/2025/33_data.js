@@ -50,7 +50,7 @@ seriesInfo = {
   "description": "1PON-010617_460为一本道出品,2017年1月6日发行的無碼成人影片由水穀葵出演\n超紅AV女神水谷葵親自上陣，給粉絲送上最硬核的福利啦！別看她長得一臉蘿莉，身材卻是G杯美胸，這反差萌直接讓粉絲們淪陷！這次她抽獎選中幸運素人，直接衝到人家家裡，連客套話都懶得說，馬上扒下褲子就開舔，技術超讚！她還大秀火辣身材，T字褲一扯，粉嫩小穴就在眼前，手指一撩，滿滿騷氣的自慰秀直接讓素人小哥HOLD不住！能近距離把玩心儀已久的水谷葵的巨乳，還能直接無套開幹，那種螢幕外的淫蕩畫面變成現實，真的爽到爆！水谷葵的粉絲感恩祭，貼心又刺激，兄弟們還不快來感受一下？",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032830832832_24655_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032830832832_24655_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=33",
   "actresses": [
     {
       "name": "水穀葵",

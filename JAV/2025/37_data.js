@@ -50,7 +50,7 @@ seriesInfo = {
   "description": "1PON-010519_793为一本道出品,2019年1月5日发行的無碼成人影片由杏奈莉香出演\n一本道的《极射》系列，这次请来了超萌超萝莉的杏奈莉香！面对这么可爱的小姐姐，谁能忍住不心动、不想调戏一下呢？一波接一波的浓厚精华像火箭炮一样喷射而出，把她弄得满身都是，却还能露出甜美笑容，满足地对着镜头撒娇，简直让人心跳加速，荷尔蒙爆棚！快来感受这致命诱惑吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032448860860_59596_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032448860860_59596_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=37",
   "actresses": [
     {
       "name": "杏奈莉香",

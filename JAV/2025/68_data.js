@@ -63,7 +63,7 @@ seriesInfo = {
   "description": "1PON-010121_001为一本道出品,2021年1月1日发行的無碼成人影片由岡本理依奈出演\n汗水哗哗流，口水滴答答，爱液黏糊糊，还有精液、尿液和潮吹，各种诱人汁液满天飞，爽到直接高潮爆炸！一开始就是超色自慰秀，理依奈小姐姐自己揉捏那对H杯爆乳，口水滴在身上，身体抖个不停，爽得不要不要的。接着大肉棒登场，她直接贪婪地扑上去，手活加口技，榨取精液的技巧简直绝了！两个男优轮番猛攻她的小穴，搞得她抽搐不断，潮吹喷个不停，汗水淋漓的3P乱战，画面淫荡到炸裂！最后当然是连续中出收尾，爽翻天！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004008551551_97695_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004008551551_97695_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=68",
   "actresses": [
     {
       "name": "岡本理依奈",

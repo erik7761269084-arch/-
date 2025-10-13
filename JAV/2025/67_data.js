@@ -49,7 +49,7 @@ seriesInfo = {
   "description": "1PON-010122_001为一本道出品,2022年1月1日发行的無碼成人影片由月島花出演\n新年快樂啦！今年也請多多支持我們！開年第一發就由能輕鬆搞定三連發的極品女神月島花火爆登場！她帶著滿滿的色氣笑容，柔軟爆乳和肉感身材包覆在濕潤光澤的和服裡，誘惑力直接爆表！超猛的口技讓人瞬間秒射，換上淺桃色內衣後，小穴和後庭都被玩到軟爛，前後雙開再加小穴三連發，爽到天上去！鏡頭全程鎖定在她散發費洛蒙的豐滿身軀上，晃得人眼花撩亂，絕對讓你血脈賁張！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004024789789_41920_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004024789789_41920_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=67",
   "actresses": [
     {
       "name": "月島花",

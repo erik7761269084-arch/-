@@ -44,7 +44,7 @@ seriesInfo = {
   "description": "HEYZO-0002为HEYZO出品,2012年8月31日发行的無碼成人影片由百田まゆか 出演\n小美撿到手機後，假借道謝的名義色誘撿到手機的平凡上班族。先是貼心服侍一波，接著就是一場超激烈的肉搏戰！她一次又一次潮吹，嬌喘著喊「太爽啦！再用力一點！」那痴女的模樣根本完美！找到舒服的姿勢後，她還會主動說「啊，這個好爽！」然後自己狂搖猛擺，高潮連連。光這一次就讓人搞不清她到底高潮幾次！能被這麼可愛的痴女纏上，撿手機的兄弟真是賺到了啊！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250820045724717717_18687_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250820045724717717_18687_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=80",
   "actresses": [
     {
       "name": "百田まゆか",

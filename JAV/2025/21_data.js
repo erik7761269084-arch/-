@@ -27,7 +27,7 @@ seriesInfo = {
   "description": "1PON-010722_001为一本道出品,2022年1月7日发行的無碼成人影片由双葉みお出演\n一本道送上新年小福利视频啦！由双葉みお带队，一群巨乳、软萌身材、绝美翘臀的女优齐聚《性感肉体福袋》！就像福袋一样，打开才知道有多刺激…咱就不剧透了哈！这部新年福利片只到1月17日截止，赶紧下手下载！祝兄弟们今年老二天天硬邦邦，勃起停不下来！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001121643643_12170_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001121643643_12170_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=21",
   "actresses": [
     {
       "name": "双葉みお",

@@ -44,7 +44,7 @@ seriesInfo = {
   "description": "1PON-010313_506为一本道出品,2013年1月3日发行的無碼成人影片由里中結衣出演\n这对超大超美的巨乳，简直让人欲罢不能！92cm的I杯大胸，衣服一解开，上下左右疯狂晃动，各种姿势都能让你看得血脉喷张！下面毛毛处理得干干净净，结合部位一览无余，那里更是让人心痒痒！光是被揉胸就能爽到尖叫，敏感得不得了！被舔被玩的同时身体直接飘起来，潮吹喷得满天飞！绝对是个超M的淫荡巨乳姐姐，诱惑力爆棚，兄弟们快来一探究竟！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014115395395_93547_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910014115395395_93547_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=57",
   "actresses": [
     {
       "name": "里中結衣",

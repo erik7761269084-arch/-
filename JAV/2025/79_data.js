@@ -66,7 +66,7 @@ seriesInfo = {
   "description": "1PON-010110_745为一本道出品,2010年1月1日发行的無碼成人影片由山下香織，舞浜朱里，森由紀菜，桜庭彩出演\n新年好，騷氣開年啦！2010年第一炮，咱們帶來絕對讓你爽到飛起的重磅大片！十位頂級女優，60分鐘狂野亂戰，螢幕滿滿都是濕漉漉的誘惑，簡直就是潮吹界的開年大典！不管你看哪邊，都是淫水氾濫的小姐姐們等著你！從潮吹到雙人口技，再到騎臉調教，還有接連不斷的內射高潮，男人夢寐以求的極致玩法全在這兒！新年第一發，趕快一起嗨爆，痛痛快快地解放吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828073901392392_31321_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828073901392392_31321_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=79",
   "actresses": [
     {
       "name": "桜庭彩",

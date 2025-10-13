@@ -26,7 +26,7 @@ seriesInfo = {
   "description": "",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002000403962962_52028_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251002/20251002000403962962_52028_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=15",
   "actresses": [
     {
       "name": "愛葉沙希",

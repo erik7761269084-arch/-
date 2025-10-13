@@ -31,7 +31,7 @@ seriesInfo = {
   "description": "1PON-010716_223为一本道出品,2016年1月7日发行的無碼成人影片由並木步出演\n現役女大學生並木步醬首次登場一本道！全程第一人稱視角，完全滿足我那些色色的小要求。戶外露出加上遠程玩具，把她那粉嫩的小地方搞得濕答答，接著直衝步醬房間來場甜到發膩的愛愛大戰！她用迷濛的眼神挑逗我的小老弟，毫無保留地直接進攻，扭腰擺臀超有感覺，簡直像熱戀中的情侶一樣甜爆了！快來一起爽到不行吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001321395395_81535_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001321395395_81535_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=17",
   "actresses": [
     {
       "name": "並木步",

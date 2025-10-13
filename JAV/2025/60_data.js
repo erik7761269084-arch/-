@@ -56,7 +56,7 @@ seriesInfo = {
   "description": "1PON-010220_952为一本道出品,2020年1月2日发行的無碼成人影片由櫻木梨乃出演\n曾经风头无两的艳星櫻木梨乃，这次化身寂寞人妻强势回归！老公不理不睬，梨乃满腔欲火无处发泄，只好早上倒垃圾时，故意不穿 bra 勾引隔壁邻居小哥哥。那眼神、那身段，简直让人血脉喷张！和邻居的秘密偷情成了她释放压抑的唯一出口，每次被狠狠深入时，都爽到灵魂出窍，欲仙欲死！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250910/20250910013240217217_83563_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250910/20250910013240217217_83563_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=60",
   "actresses": [
     {
       "name": "櫻木梨乃",

@@ -54,7 +54,7 @@ seriesInfo = {
   "description": "1PON-010420_954为一本道出品,2020年1月4日发行的無碼成人影片由永野未帆出演\n閨蜜的媽媽變身超火辣誘惑大姊姊，真的讓人完全招架不住！一跟兒子的小兄弟獨處，這位性感媽媽就撩起裙角，露出沒穿內褲的私密處，挑逗得小男生心跳加速！她還當場上演自慰秀，臉騎玩法直接坐上去，瘋狂扭腰，呻吟聲銷魂到爆。最後直接跨坐小伙子硬挺挺的傢伙，狂搖臀部，深處高潮不斷，還嬌滴滴求內射，說這是咱倆的小秘密！這種盡情享受年輕小鮮肉慾望的騷氣媽媽，你不心動嗎？",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042652231231_34841_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042652231231_34841_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=44",
   "actresses": [
     {
       "name": "永野未帆",

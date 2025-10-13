@@ -26,7 +26,7 @@ seriesInfo = {
   "description": "1PON-010720_956为一本道出品,2020年1月7日发行的無碼成人影片由宮田里緒出演\n一個星期沒見，我家寶貝女友早就慾求不滿啦！一直求我多摸摸、多讓她爽一點，撒嬌功力滿分，真的讓人擋不住！她對男友百依百順，求歡的模樣超誘人，我們直接來了一場超甜蜜的私密視角大戰，爽到停不下來！快來感受這段極品女友的火辣體驗吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001226579579_32953_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001226579579_32953_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=19",
   "actresses": [
     {
       "name": "宮田里緒",

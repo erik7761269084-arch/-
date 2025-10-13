@@ -56,7 +56,7 @@ seriesInfo = {
   "description": "1PON-010119_791为一本道出品,2019年1月1日发行的無碼成人影片由月野優里亞，大倉裕美出演\n清純系小甜心碰上初次登場的性感炸彈大倉弘美，兩位正妹穿著和服一起登場，直接對戰兩根大棒，百合大亂鬥看得人熱血沸騰！她們黏膩的舌吻糾纏，濃烈的百合舔弄，雙頭道具的狂野玩法，互相愛撫的騷氣姿態，絕對挑逗你的每一根神經！慾望爆棚的百合痴態還不夠，兩個猛男強勢加入，追求極致快感的激烈交戰，這場百合亂鬥根本是視覺饗宴，錯過就太可惜啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003934657657_62253_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003934657657_62253_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=70",
   "actresses": [
     {
       "name": "月野優里亞",

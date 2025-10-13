@@ -38,7 +38,7 @@ seriesInfo = {
   "description": "HEYZO-0001为HEYZO出品,2012年8月31日发行的無碼成人影片由星崎アンリ出演\n暑假結束啦，兄弟們有沒有留下啥甜美回憶啊？不管有沒有，來看看星崎安里的影片，保證讓你爽到不行！安里這妹子現在超紅，嘿，穿上浴衣可愛到炸裂！煙花大會結束後，她跟男友晃到一個沒人的小公園，浴衣半開露點小誘惑，偷偷用小玩具玩到臉紅心跳。男友哪還憋得住，直接拉她回車上，來一發口技大放送！兩人慾火燒身，怎麼可能就這樣收場？立馬轉戰飯店，瘋狂啪啪啪，激情到最後直接內射高潮！安里那高潮的表情，萌到讓人魂都飛了！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250820045732107107_43509_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250821/20250820045732107107_43509_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=81",
   "actresses": [
     {
       "name": "星崎アンリ",

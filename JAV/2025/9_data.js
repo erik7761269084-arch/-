@@ -61,7 +61,7 @@ seriesInfo = {
   "description": "1PON-010916_225为一本道出品,2016年1月9日发行的無碼成人影片由楓優香出演\n萝莉巨乳的楓優香小可爱挑战鬼イカセ！被三个猛男轮番上阵直接开干！这还不够，电マ和玩具接连上场，逼得她尖叫连连，爽到不行！全身被汗水、潮吹和体液弄得黏糊糊，4P大战简直炸裂！毫无喘息机会的狂野SEX，她被玩到崩溃的模样，绝对不容错过！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/20251007234040714714_11404_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251007/20251007234040714714_11404_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=9",
   "actresses": [
     {
       "name": "楓優香",

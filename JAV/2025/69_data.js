@@ -55,6 +55,6 @@ seriesInfo = {
   "description": "1PON-010120_951为一本道出品,2020年1月1日发行的無碼成人影片\n40多岁依旧美艳动人！新春开年第一炮，由气场满满的资深美熟女Hitomi披上和服，化身顶级风俗店的极品小姐姐，为你献上极致服务！一上来就是即尺开场，紧接着无套直冲内射，潜望镜口技、泡沫洗身、滑溜溜的润滑液垫子玩法，再到引导你进入的激烈无套内射大战，一晚上两次内射招待，简直不要太爽！这就是顶级风俗的享受！优雅成熟的空间和贴心服务，赶紧来体验一把吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003951434434_95245_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903003951434434_95245_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=69",
   "actresses": []
 };

@@ -60,7 +60,7 @@ seriesInfo = {
   "description": "1PON-010422_001为一本道出品,2022年1月4日发行的無碼成人影片由涼宮のん出演\n凉宫のん那双迷人的大眼睛简直是勾魂利器！她穿着超短裙秀出美腿，还故意露出胸口，若隐若现地勾引隔壁大叔，简直是个不安分的小妖精！她甜甜地问：“要不要来喝杯茶呀？”趁老公不在家，把早就看上的邻居男人骗进家里。敞开的领口让人血脉喷张，美腿和翘臀被肆意玩弄，细绳内裤一扯开，粉嫩的小穴被舌头和手指翻搅得欲仙欲死。作为回报，她用小嘴卖力地服务，接下满满的精华，还抛个媚眼说：“时间还早，不如再战几回合？”接着就滚到床上，娇喘连连，高潮不断！从羞涩的轻哼到放荡的呻吟，这欲求不满的骚气人妻真是让人把持不住！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042719963963_41332_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042719963963_41332_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=42",
   "actresses": [
     {
       "name": "涼宮のん",

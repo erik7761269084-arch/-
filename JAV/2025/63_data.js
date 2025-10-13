@@ -58,7 +58,7 @@ seriesInfo = {
   "description": "1PON-010214_728为一本道出品,2014年1月2日发行的無碼成人影片由舞笑美娜出演\n舞笑美娜这完美身材，简直让人挪不开眼！G杯大胸，形状完美，晃动起来超诱人，从各个角度看都让人心动。她的纯真和骚气并存，浑身上下都散发着让人无法抗拒的魅力。全身涂满润滑油，摩擦起来滑溜溜的，脸骑play更是让人血脉喷张，湿哒哒的肉感小穴被舔得欲仙欲死。她疯狂地含住肉棒，身体火热紧贴，欲望爆发直接开干！那曼妙的身姿大幅度后仰，性感的弧线美到爆，口水、汗水、爱液交织出的淫靡声音，性欲满满的顶级性爱，绝对让你爽到飞起！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004212572572_63649_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004212572572_63649_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=63",
   "actresses": [
     {
       "name": "舞笑美娜",

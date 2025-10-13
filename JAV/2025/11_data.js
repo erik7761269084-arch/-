@@ -34,7 +34,7 @@ seriesInfo = {
   "description": "1PON-010918_630为一本道出品,2018年1月10日发行的無碼成人影片由本条彩乃出演\n皮膚白得跟雪一樣，這位散發獨特魅力的痴熟女，穿著和服卻騷氣爆棚，瘋狂開幹！掀起和服裙擺，敞開胸口，任由男人擺弄，嬌喘不停。和服底下看似沒穿內褲，實際上卻藏著超級勾人的騷內衣，散發出小年輕完全比不上的成熟韻味。超濃烈的口技服務，衣衫凌亂地激烈交纏，雙腿被綁，強制深喉，鏡頭角度絕佳，完美捕捉每一幕。這位和服痴熟女，散發著與年輕妹子完全不同的誘惑氣息，絕對讓你看得心癢難耐，爽到爆！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/202510072338558585_92254_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251007/202510072338558585_92254_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=11",
   "actresses": [
     {
       "name": "本条彩乃",

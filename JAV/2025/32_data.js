@@ -49,7 +49,7 @@ seriesInfo = {
   "description": "1PON-010619_794为一本道出品,2019年1月6日发行的無碼成人影片由新城由衣出演\n这位保险界的顶级推销小姐姐，简直是用身体在拼业绩啊！不经意间的小触碰，内衣若隐若现的挑逗，初次亮相的新城由衣化身超诱惑的保险辣妹，简直让人把持不住！她甜甜地说：“签了合同的话，现在还有特别福利哦~”然后直接来一波口技服务，或者现场表演自慰秀，保险合同轻松到手！要是碰到心仪的男客户，还有额外选项和特殊条款，带你进卧室慢慢聊……这保险小姐姐的骚操作，真的让人欲罢不能，顶级销售的淫荡手法，赶紧来看看吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032846169169_95243_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032846169169_95243_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=32",
   "actresses": [
     {
       "name": "新城由衣",

@@ -35,7 +35,7 @@ seriesInfo = {
   "description": "1PON-010322_001为一本道出品,2022年1月3日发行的無碼成人影片由藤咲ゆい出演\n超可愛、偶像級顏值還有美胸的藤咲ゆい，首次登場就帶來超甜的男友視角心動系列！在家約會時，她白天像小媳婦一樣貼心煮飯餵你吃，晚上就化身性感小野貓全心服侍你！吃飯時她甜甜地餵你「啊~」，你忍不住撒嬌求她來一發口技，她也超賣力地含住你的大寶貝。一起洗澡時從口交到站立後入，爽到不行，然後轉戰臥室。她特意為你穿上性感內衣，各種親密互動，口交、舔蛋、騎乘位樣樣來，賣力到自己高潮連連，最後還用小穴滿滿接住你的精華，連清理口交都不落下。和這麼又萌又色的小女友在家約會，真是爽到爆，快來體驗啦！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042344437437_18432_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042344437437_18432_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=50",
   "actresses": [
     {
       "name": "藤咲ゆい",

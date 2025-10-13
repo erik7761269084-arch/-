@@ -51,7 +51,7 @@ seriesInfo = {
   "description": "1PON-010919_795为一本道出品,2019年1月9日发行的無碼成人影片由南未果子出演\nG罩杯火爆身材配上超勾人的性感內衣，簡直是色氣爆棚！南未果子在《火辣尤物》中大展魅力，內衣一滑，巨乳直接呼之欲出，雙腿一張，小陰唇都從內褲邊緣露出來，挑逗得人小鹿亂撞！誰能抗拒這種致命的誘惑啦？巨乳專屬玩法應有盡有，滿身油光滑溜溜的身體閃著光，貼身纏綿的激烈性愛，真的讓人看得心癢癢，絕對不能錯過！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251007/20251007233831799799_30593_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251007/20251007233831799799_30593_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=12",
   "actresses": [
     {
       "name": "南未果子",

@@ -30,7 +30,7 @@ seriesInfo = {
   "description": "1PON-010721_001为一本道出品,2021年1月7日发行的無碼成人影片由朝比奈菜々子出演\n朝比奈菜菜子這位和服美人，氣質優雅又溫柔，笑容裡滿是高貴感。但別被外表騙了！她被從後面偷偷摸進和服裡，癢癢的刺激讓她心跳加速，笑得合不攏嘴。和服底下當然是真空上陣，被電棒和手指玩弄得濕得一塌糊塗。最後，那根大傢伙直接插入她半敞和服下的私密處，一次次猛烈衝撞，簡直讓人臉紅心跳！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001020118118_68200_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20251001/20251001001020118118_68200_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=22",
   "actresses": [
     {
       "name": "朝比奈菜々子",

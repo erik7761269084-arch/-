@@ -35,7 +35,7 @@ seriesInfo = {
   "description": "HEYZO-0006为HEYZO出品,2012年8月31日发行的無碼成人影片由金山美由出演\n外表清纯、身材火辣的美由老师亲自上门家访，表面正经却暗藏心机！她先是要求学生帮忙揉肩，然后一步步勾引，解开衬衫露出G杯爆乳，直接来了一发劲爆的乳交，还戴着眼镜就开舔，学生瞬间被撩得不要不要的！学生本该好好学习，但这位欲求不满的淫荡老师却诱惑说：休息一下吧！忍无可忍，学生反击，用手指猛攻老师，掀起短裙直接插入，各种姿势轮番上阵，最后直接内射！老师想换衣服？门都没有！直接在沙发上再战一回合！老师高潮时的表情，绝对让你血脉喷张！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/20250820045202923923_28016_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/20250820045202923923_28016_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=84",
   "actresses": [
     {
       "name": "金山美由",

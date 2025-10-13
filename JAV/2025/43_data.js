@@ -53,7 +53,7 @@ seriesInfo = {
   "description": "1PON-010421_001为一本道出品,2021年1月4日发行的無碼成人影片由柊シエル出演\n超人气模特系列重磅来袭，S级女神柊シエル首次登场！外表清纯可人，内心却是个欲求不满的小骚货。69姿势口技满分，口水滴答滴答，色气爆棚！挑逗乳头后再次69，骑乘位直接插入，各种姿势轮番上阵，狂摇臀部，最后直接中出美穴，画面劲爆到不行！绝对值得一看，强烈推荐！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042705571571_15114_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250915/20250915042705571571_15114_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=43",
   "actresses": [
     {
       "name": "柊シエル",

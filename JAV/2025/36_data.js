@@ -50,7 +50,7 @@ seriesInfo = {
   "description": "1PON-010520_955为一本道出品,2020年1月5日发行的無碼成人影片由水川蓳出演\n超S级女神水川蓳在硬核大片里直接开干，爽到不行！说是摄像排练，结果还没准备好就被一波接一波的生猛进攻给淹没了！连续两次中出加口内爆射，画面劲爆到让人血脉喷张，绝对值得一看！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032509579579_78012_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032509579579_78012_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=36",
   "actresses": [
     {
       "name": "水川蓳",

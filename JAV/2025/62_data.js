@@ -49,7 +49,7 @@ seriesInfo = {
   "description": "1PON-010215_002为一本道出品,2015年1月2日发行的無碼成人影片由音羽蕾恩出演\n肤白如雪，身材纤细却曲线炸裂的音羽蕾恩小姐姐，带来连续无套内射的极致体验！她那独特的性感气场，不仅迷倒粉丝，连男优都拜倒在她的石榴裙下。三围数据惊艳：胸围88cm，腰围58cm，臀围85cm，完美到让时尚模特都嫉妒的身材，内里更是粉嫩如鲑鱼色的极品名器。被玩具狠狠插入，摆出羞耻姿势翻白眼的画面，绝对是本片最撸点，兄弟们，今年就靠这个角度爽个够吧！",
   "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004226388388_35274_thumbnail.webp",
   "background_img": "https://picture.yoshiclub.xyz/compressed/20250903/20250903004226388388_35274_s.webp",
-  "title_play_url": null,
+  "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=62",
   "actresses": [
     {
       "name": "音羽蕾恩",
