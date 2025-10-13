@@ -1,5 +1,6 @@
 episodes = {
-  "主线路": "https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8"
+  "主线路": "https://videocdn.avking.xyz/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8"
+			https://videocdn.avking.xyz/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8
 };
 
 seriesInfo = {
