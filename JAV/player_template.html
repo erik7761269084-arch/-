@@ -73,6 +73,7 @@ body {
 /* ✅ 右侧信息卡片 */
 .right-panel {
     width: 300px;
+    height: 400px; /* 固定高度 */
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -93,7 +94,7 @@ body {
   position: relative;
   bottom: auto;
   left: auto;
-  width: 100%;
+  width:  97%;
   background-color: #202020;
   padding: 12px;
   border-radius: 10px;
@@ -131,7 +132,12 @@ body {
     color: #fff;
 }
 .details p { margin: 6px 0; color: #ddd; }
-
+<style>
+.ad-text {
+  color: #aaa;
+  font-style: italic;
+}
+</style>
 @media (max-width: 900px) {
     .container { flex-direction: column; }
     .right-panel { width: 100%; }
@@ -149,29 +155,28 @@ body {
 
         <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
+            <p><strong> </strong> <span id="category"></span></p>
             <h2 id="bottom_title">剧名 - 集数</h2>
             <p><strong>番号:</strong> <span id="idcode"></span></p>
             <p><strong>出品厂商:</strong> <span id="company"></span></p>
             <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
             <p><strong>剧情介绍:</strong> <span id="description"></span></p>
         </div>
-
-        <div class="video-controls">
-            <button id="prev">上一集</button>
-            <button id="next">下一集</button>
-        </div>
     </div>
 
     <div class="right-panel">
-        <div class="cover">
-            <p><strong>出演女优:</strong> <span id="actors"></span></p>
-            <img id="coverImg" src="" alt="女优头像">
-        </div>
+
         <div class="playlist" id="playlist"></div>
         <div class="details">
-            <h2 id="info_title">剧名 - 集数</h2>
-            <p><strong>类别:</strong> <span id="category"></span></p>
-            <p><strong>国家/语言/年代:</strong> <span id="meta"></span></p>
+            <div class="cover">
+                <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
+            </div>
+        </div>
+        <div class="details">
+            <div class="cover">
+                <p><strong>出演女优:</strong> <span id="actors"></span></p>
+                <img id="coverImg" src="" alt="女优头像">
+            </div>
         </div>
     </div>
 </div>
