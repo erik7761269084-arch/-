@@ -262,123 +262,99 @@ const idcodeEl = document.getElementById('idcode');
 const descriptionEl = document.getElementById('description');
 const publishEl = document.getElementById('publish_date');
 const actressGrid = document.getElementById('actressGrid');
-let currentIndex = 0;
 
-// ✅ 修复 hls 未定义错误
 let hls = null;
 
 function getSeriesName() {
-  const params = new URLSearchParams(window.location.search);
-  return params.get('series') || 'default';
+    const params = new URLSearchParams(window.location.search);
+    return params.get('series') || '1';
 }
 
-// ✅ 改为加载 JSON 数据文件
 function loadSeriesData(seriesName) {
-  const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/AVmenu/${seriesName}_data.json`;
-
-  fetch(dataUrl)
-    .then(response => {
-      if (!response.ok) throw new Error("加载失败");
-      return response.json();
-    })
+    const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/AVmenu/${seriesName}_data.json`;
+    fetch(dataUrl)
+    .then(res => { if(!res.ok) throw new Error("加载失败"); return res.json(); })
     .then(data => {
-      window.episodes = data.episodes;
-      window.seriesInfo = data.seriesInfo;
-
-      // ✅ 设置背景图
-      if (seriesInfo.background_img) {
-        document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
-      }
-
-      initPlayer();
+        window.episodes = data.episodes;
+        window.seriesInfo = data.seriesInfo;
+        if(seriesInfo.background_img){
+            document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
+        }
+        initPlayer();
     })
-    .catch(err => {
-      alert("剧集数据加载失败: " + err.message);
-    });
+    .catch(err => alert("剧集数据加载失败: " + err.message));
 }
 
 function initPlayer() {
-  bottomTitle.textContent = seriesInfo.title || "剧名";
-  idcodeEl.textContent = seriesInfo.IDcode || "";
-  companyEl.textContent = seriesInfo.company || "";
-  descriptionEl.textContent = seriesInfo.description || "";
-  publishEl.textContent = seriesInfo.publish_date || "";
-  categoryEl.textContent = seriesInfo.type || "";
+    bottomTitle.textContent = seriesInfo.title || "剧名";
+    idcodeEl.textContent = seriesInfo.IDcode || "";
+    companyEl.textContent = seriesInfo.company || "";
+    descriptionEl.textContent = seriesInfo.description || "";
+    publishEl.textContent = seriesInfo.publish_date || "";
+    categoryEl.textContent = seriesInfo.type || "";
 
-  // ✅ 生成女优卡片
-  actressGrid.innerHTML = "";
-  if (Array.isArray(seriesInfo.actresses)) {
-    seriesInfo.actresses.forEach(actor => {
-      const card = document.createElement('div');
-      card.className = "actress-card";
-      card.innerHTML = `
-        <a href="${actor.profile_url}" target="_blank">
-          <img src="${actor.img_url}" alt="${actor.name}">
-          <div class="name">${actor.name}</div>
-        </a>
-      `;
-      actressGrid.appendChild(card);
+    actressGrid.innerHTML = "";
+    if(Array.isArray(seriesInfo.actresses)){
+        seriesInfo.actresses.forEach(a=>{
+            const card = document.createElement('div');
+            card.className="actress-card";
+            card.innerHTML=`<a href="${a.profile_url}" target="_blank"><img src="${a.img_url}" alt="${a.name}"><div class="name">${a.name}</div></a>`;
+            actressGrid.appendChild(card);
+        });
+    }
+
+    playlist.innerHTML="";
+    Object.entries(episodes).forEach(([name,url])=>{
+        const btn=document.createElement('button');
+        btn.textContent=name;
+        btn.onclick=()=>loadEpisode(name,url,btn);
+        playlist.appendChild(btn);
     });
-  }
 
-  // === 播放列表 ===
-  playlist.innerHTML = "";
-  Object.entries(episodes).forEach(([epName, epUrl]) => {
-    const btn = document.createElement('button');
-    btn.textContent = epName;
-    btn.onclick = () => loadEpisode(epName, epUrl, btn);
-    playlist.appendChild(btn);
-  });
-
-  if (playlist.firstChild) {
-    playlist.firstChild.classList.add('active');
-    const firstKey = Object.keys(episodes)[0];
-    loadEpisode(firstKey, episodes[firstKey], playlist.firstChild);
-  }
+    if(playlist.firstChild){
+        playlist.firstChild.classList.add('active');
+        const firstKey = Object.keys(episodes)[0];
+        loadEpisode(firstKey, episodes[firstKey], playlist.firstChild);
+    }
 }
 
-// ✅ 播放逻辑
-function loadEpisode(epName, url, btn) {
-  if (!url) return;
+function loadEpisode(name,url,btn){
+    if(!url) return;
 
-  if (hls) {
-    hls.destroy();
-    hls = null;
-  }
+    // 销毁旧 hls
+    if(hls){ hls.destroy(); hls=null; }
 
-  overlay.textContent = `${seriesInfo.title} - ${epName}`;
-  overlay.style.opacity = 0;
+    overlay.textContent=`${seriesInfo.title} - ${name}`;
+    overlay.style.opacity=0;
 
-  if (Hls.isSupported()) {
-    hls = new Hls({
-      maxBufferLength: 30,
-      enableWorker: true
-    });
-    hls.loadSource(url);
-    hls.attachMedia(video);
+    video.crossOrigin = "anonymous"; // ✅ 跨域设置
 
-    hls.on(Hls.Events.MANIFEST_PARSED, () => {
-      video.play().catch(() => console.warn("自动播放被阻止，请手动播放"));
-    });
+    if(Hls.isSupported()){
+        hls = new Hls({
+            maxBufferLength: 30,
+            enableWorker: true,
+            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; } // 避免跨域问题
+        });
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{ 
+            video.play().catch(()=>console.warn("自动播放被阻止")); 
+        });
+        hls.on(Hls.Events.ERROR,(event,data)=>{
+            console.error("HLS 错误:",data);
+            if(data.fatal) alert("播放出错，请刷新或更换线路");
+        });
+    } else if(video.canPlayType('application/vnd.apple.mpegurl')){
+        video.src=url;
+        video.addEventListener('loadedmetadata',()=>video.play());
+    } else alert("浏览器不支持 HLS 播放");
 
-    hls.on(Hls.Events.ERROR, (event, data) => {
-      console.error("HLS 错误：", data);
-      if (data.fatal) alert("播放出错，请刷新或更换线路");
-    });
-
-  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = url;
-    video.addEventListener('loadedmetadata', () => video.play());
-  } else {
-    alert("您的浏览器不支持 HLS 播放。");
-  }
-
-  document.querySelectorAll('#playlist button').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
+    document.querySelectorAll('#playlist button').forEach(b=>b.classList.remove('active'));
+    if(btn) btn.classList.add('active');
 }
 
-video.addEventListener('pause', () => overlay.style.opacity = 1);
-video.addEventListener('play', () => overlay.style.opacity = 0);
+video.addEventListener('pause',()=>overlay.style.opacity=1);
+video.addEventListener('play',()=>overlay.style.opacity=0);
 
 loadSeriesData(getSeriesName());
 </script>
