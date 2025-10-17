@@ -1,6 +1,7 @@
 {
   "episodes": {
     "主线路": "https://vz-a59c6881-d86.b-cdn.net/0675bd2a-6653-44a5-92e8-4c8d3a6255e5/playlist.m3u8",
+	"第111集": "https://dash.madou.club/videos/65aaa9a19975dd1456cb6138/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJ2aWV3IiwiaWF0IjoxNzYwNjg5NTc2LCJleHAiOjE3NjA2ODk2NzZ9.FYqp1RftZTVvEtw5NayH-gw4He5q6yxXy6nfP9fJhwU",
 	"第222集": "https://n9iiw.azstream.xyz/n9iiw/_definst_/2023/11/720phdatasn00050.mp4/playlist.m3u8?suffixbigendtime=1760782473&suffixbighash=y3mCsOTXD3AtDVoKN1_hDO4WwazATE2TMheR9P7wsPs=&suffixbigstarttime=1760687673" 
   }, 
   "seriesInfo": {
