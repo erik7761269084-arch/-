@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>播放器 - 线上看</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.1/dist/hls.min.js"></script>
+<style>
+:root {
+  --bg-url: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #eaeaea;
+  position: relative;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ✅ 背景图层 */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-url) center center / cover no-repeat;
+  filter: brightness(0.3);
+  opacity: 0.6;
+  z-index: -1;
+}
+
+.container {
+    display: flex;
+    max-width: 1800px;
+    margin: 20px auto;
+    gap: 20px;
+}
+.left-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    background: #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#video {
+    width: 100%;
+    height: auto;
+    max-height: 900px;
+    object-fit: contain;
+    border-radius: 10px;
+    display: block;
+}
+#overlay {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.video-controls {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.video-controls button {
+    padding: 6px 16px;
+    background-color: #333;
+    color: #f2f2f2;
+    border: 1px solid #555;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.video-controls button:hover {
+    background-color: #555;
+}
+
+/* ✅ 右侧信息卡片 */
+.right-panel {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  /* 隐藏边框/背景/阴影 */
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* ✅ 女优头像卡 */
+.actress-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.actress-card {
+    position: relative;
+    width: 90px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.actress-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+.actress-card:hover img {
+    transform: scale(1.05);
+}
+.actress-card .name {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px 4px;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+/* ✅ 视频下方信息栏 */
+.down-panel {
+  position: relative;
+  bottom: auto;
+  left: auto;
+  width:  97%;
+  /* 隐藏背景和边框 */
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin-top: 15px;
+}
+
+/* category 样式 */
+#category {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* 番号黄色字体 */
+#idcode {
+  color: #ffcc00;
+  font-weight: bold;
+}
+
+.playlist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.playlist button {
+    width: 60px;
+    height: 20px;
+    background: #2a2a2a;
+    border: 1px solid #444;
+    color: #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.playlist button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+/* ✅ details 框隐藏背景/边框 */
+.details {
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+.details h2 {
+    font-size: 1.2em;
+    margin: 0 0 10px;
+    color: #fff;
+}
+.details p { margin: 6px 0; color: #ddd; }
+.ad-text {
+  color: #aaa;
+  font-style: italic;
+}
+
+@media (max-width: 900px) {
+    .container { flex-direction: column; }
+    .right-panel { width: 100%; }
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <div class="left-panel">
+        <div class="video-wrapper">
+            <video id="video" controls playsinline webkit-playsinline x5-playsinline></video>
+            <div id="overlay"></div>
+        </div>
+
+        <!-- ✅ 视频下方信息栏 -->
+        <div class="down-panel">
+<!--            <div class="playlist" id="playlist"></div>-->
+<!--            <p><strong> </strong> <span id="category"></span></p>-->
+            <div class="playlist-container" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+                <div class="playlist" id="playlist"></div>
+                <p style="margin:0;"><strong></strong> <span id="category"></span></p>
+            </div>
+
+            <h2 id="bottom_title">剧名 - 集数</h2>
+            <p><strong>番号:</strong> <span id="idcode"></span></p>
+            <p><strong>出品厂商:</strong> <span id="company"></span></p>
+            <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
+            <p><strong>剧情介绍:</strong> <span id="description"></span></p>
+        </div>
+    </div>
+
+    <div class="right-panel">
+
+        <div class="details">
+            <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
+        </div>
+
+        <!-- ✅ 新增女优卡片展示区域 -->
+        <div class="details">
+            <p><strong>出演女优:</strong></p>
+            <div class="actress-grid" id="actressGrid"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+const video = document.getElementById('video');
+const playlist = document.getElementById('playlist');
+const overlay = document.getElementById('overlay');
+const bottomTitle = document.getElementById('bottom_title');
+const categoryEl = document.getElementById('category');
+const companyEl = document.getElementById('company');
+const idcodeEl = document.getElementById('idcode');
+const descriptionEl = document.getElementById('description');
+const publishEl = document.getElementById('publish_date');
+const actressGrid = document.getElementById('actressGrid');
+
+let hls = null;
+
+function getSeriesName() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('series') || 'test';
+}
+
+function loadSeriesData(seriesName) {
+    const dataUrl = `https://erik7761269084-arch.github.io/-/CN_AV/menu/${seriesName}_data.json`;
+    fetch(dataUrl)
+    .then(res => { if(!res.ok) throw new Error("加载失败"); return res.json(); })
+    .then(data => {
+        window.episodes = data.episodes;
+        window.seriesInfo = data.seriesInfo;
+        if(seriesInfo.background_img){
+            document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
+        }
+        initPlayer();
+    })
+    .catch(err => alert("剧集数据加载失败: " + err.message));
+}
+
+function initPlayer() {
+    bottomTitle.textContent = seriesInfo.title || "剧名";
+    idcodeEl.textContent = seriesInfo.IDcode || "";
+    companyEl.textContent = seriesInfo.company || "";
+    descriptionEl.textContent = seriesInfo.description || "";
+    publishEl.textContent = seriesInfo.publish_date || "";
+    categoryEl.textContent = seriesInfo.type || "";
+
+    actressGrid.innerHTML = "";
+    if(Array.isArray(seriesInfo.actresses)){
+        seriesInfo.actresses.forEach(a=>{
+            const card = document.createElement('div');
+            card.className="actress-card";
+            card.innerHTML=`<a href="${a.profile_url}" target="_blank"><img src="${a.img_url}" alt="${a.name}"><div class="name">${a.name}</div></a>`;
+            actressGrid.appendChild(card);
+        });
+    }
+
+    playlist.innerHTML="";
+    Object.entries(episodes).forEach(([name,url])=>{
+        const btn=document.createElement('button');
+        btn.textContent=name;
+        btn.onclick=()=>loadEpisode(name,url,btn);
+        playlist.appendChild(btn);
+    });
+
+    if(playlist.firstChild){
+        playlist.firstChild.classList.add('active');
+        const firstKey = Object.keys(episodes)[0];
+        loadEpisode(firstKey, episodes[firstKey], playlist.firstChild);
+    }
+}
+
+function loadEpisode(name,url,btn){
+    if(!url) return;
+
+    // 销毁旧 hls
+    if(hls){ hls.destroy(); hls=null; }
+
+    overlay.textContent=`${seriesInfo.title} - ${name}`;
+    overlay.style.opacity=0;
+
+    video.crossOrigin = "anonymous"; // ✅ 跨域设置
+
+    if(Hls.isSupported()){
+        hls = new Hls({
+            maxBufferLength: 30,
+            enableWorker: true,
+            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; } // 避免跨域问题
+        });
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{ 
+            video.play().catch(()=>console.warn("自动播放被阻止")); 
+        });
+        hls.on(Hls.Events.ERROR,(event,data)=>{
+            console.error("HLS 错误:",data);
+            if(data.fatal) alert("播放出错，请刷新或更换线路");
+        });
+    } else if(video.canPlayType('application/vnd.apple.mpegurl')){
+        video.src=url;
+        video.addEventListener('loadedmetadata',()=>video.play());
+    } else alert("浏览器不支持 HLS 播放");
+
+    document.querySelectorAll('#playlist button').forEach(b=>b.classList.remove('active'));
+    if(btn) btn.classList.add('active');
+}
+
+video.addEventListener('pause',()=>overlay.style.opacity=1);
+video.addEventListener('play',()=>overlay.style.opacity=0);
+
+loadSeriesData(getSeriesName());
+</script>
+</body>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本AV</title>
+<style>
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* 左侧导航栏 */
+.sidebar {
+  width: 200px;
+  background-color: #111;
+  border-right: 1px solid #222;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar h2 { text-align: center; margin-bottom: 20px; font-size: 18px; }
+.sidebar button { background: none; color: #ccc; border: none; text-align: left; padding: 12px 20px; font-size: 15px; cursor: pointer; }
+.sidebar button:hover, .sidebar button.active { background-color: #222; color: #fff; }
+
+/* 主内容区域 */
+.main { flex: 1; overflow-y: auto; padding: 20px; }
+
+/* 网格布局 */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; }
+
+/* 卡片 */
+.card { position: relative; background-color: #1a1a1a; border-radius: 8px; overflow: hidden; cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; display: flex; flex-direction: column; }
+.card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
+.card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }
+.card-type { position: absolute; bottom: 8px; right: 8px; font-size: 12px; font-weight: bold; color: #fff; border: 1px solid #ff0000; padding: 2px 6px; border-radius: 4px; background-color: #ff0000; }
+.card-info { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
+.card-info-top { display: flex; align-items: center; gap: 6px; overflow: hidden; }
+.card-info-top .idcode { color: #ffcc00; font-weight: bold; font-size: 12px; white-space: nowrap; flex-shrink: 0; }
+.card-info-top .title { font-size: 14px; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-grow: 1; }
+.actor { position: absolute; bottom: 8px; left: 8px; background-color: rgba(0,0,0,0.5); padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+.card-info-bottom { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #ccc; }
+.star { color: gold; font-weight: bold; }
+.date { display: flex; align-items: center; gap: 4px; }
+.date::before { content: "📅"; font-size: 13px; }
+
+/* 分页 */
+.pagination { margin-top: 20px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.pagination button { padding: 6px 12px; background: #333; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+.pagination button.active { background: red; }
+.pagination input { width: 50px; padding: 4px; border-radius: 4px; border: 1px solid #555; background: #222; color: #fff; text-align: center; }
+.pagination span { font-size: 14px; }
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <h2>国产AV电影</h2>
+  <button class="active" onclick="filterCategory('全部', event)">全部</button>
+  <button onclick="filterCategory('无码', event)">无码</button>
+  <button onclick="filterCategory('有码', event)">有码</button>
+  <button onclick="filterCategory('女优目录', event)">女优目录</button>
+  <button onclick="filterCategory('奇幻', event)">奇幻</button>
+  <button onclick="filterCategory('悬疑', event)">悬疑</button>
+</div>
+
+<div class="main">
+  <div class="grid" id="dramaGrid"></div>
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<script>
+let dramas = [];
+let filtered = [];
+let currentPage = 1;
+const pageSize = 24;
+
+async function loadDramas() {
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/drama_export.json");
+  dramas = await res.json();
+  filtered = dramas;
+  renderPage(currentPage);
+}
+
+loadDramas();
+
+// === 渲染当前页 ===
+function renderPage(page) {
+  const container = document.getElementById('dramaGrid');
+  container.innerHTML = '';
+  const start = (page - 1) * pageSize;
+  const end = start + pageSize;
+  const pageData = filtered.slice(start, end);
+
+  pageData.forEach(d => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => window.location.href = d.title_play_url;
+
+    const rating = parseFloat(d.rating) || 0;
+    let stars = '';
+    const fullStars = Math.floor(rating);
+    const halfStar = rating % 1 >= 0.5 ? 1 : 0;
+    for (let i = 0; i < fullStars; i++) stars += '★';
+    if (halfStar) stars += '☆';
+    for (let i = stars.length; i < 5; i++) stars += '✩';
+
+    card.innerHTML = `
+      <div style="position: relative;">
+        <img src="${d.cover_url}" alt="${d.title}">
+        <div class="actor">${d.actress}</div>
+        <div class="card-type">${d.type}</div>
+      </div>
+      <div class="card-info">
+        <div class="card-info-top">
+          <span class="idcode">${d.IDcode}</span>
+          <span class="title">${d.title}</span>
+        </div>
+        <div class="card-info-bottom">
+          <div class="star">${stars} ${d.rating}</div>
+          <div class="date">${d.publish_date}</div>
+        </div>
+      </div>
+    `;
+    container.appendChild(card);
+  });
+
+  renderPagination();
+}
+
+// === 渲染分页按钮 ===
+function renderPagination() {
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = '';
+  const totalPages = Math.ceil(filtered.length / pageSize);
+
+  const prevBtn = document.createElement('button');
+  prevBtn.textContent = '上一页';
+  prevBtn.disabled = currentPage === 1;
+  prevBtn.onclick = () => { if(currentPage>1){ currentPage--; renderPage(currentPage); } };
+  pagination.appendChild(prevBtn);
+
+  // 总页数显示 + 输入跳转
+  const pageInfo = document.createElement('span');
+  pageInfo.innerHTML = `第 <input type="number" min="1" max="${totalPages}" value="${currentPage}" id="jumpPage"> 页 / 共 ${totalPages} 页`;
+  pagination.appendChild(pageInfo);
+
+  const jumpBtn = document.createElement('button');
+  jumpBtn.textContent = '跳转';
+  jumpBtn.onclick = () => {
+    const val = parseInt(document.getElementById('jumpPage').value);
+    if(val>=1 && val<=totalPages) { currentPage = val; renderPage(currentPage); }
+  };
+  pagination.appendChild(jumpBtn);
+
+  const nextBtn = document.createElement('button');
+  nextBtn.textContent = '下一页';
+  nextBtn.disabled = currentPage === totalPages;
+  nextBtn.onclick = () => { if(currentPage<totalPages){ currentPage++; renderPage(currentPage); } };
+  pagination.appendChild(nextBtn);
+}
+
+// === 分类过滤 ===
+function filterCategory(cat, event) {
+  document.querySelectorAll('.sidebar button').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  currentPage = 1;
+  if(cat==='全部') filtered = dramas;
+  else filtered = dramas.filter(d => d.type===cat);
+  renderPage(currentPage);
+}
+</script>
+
+</body>
+</html>
