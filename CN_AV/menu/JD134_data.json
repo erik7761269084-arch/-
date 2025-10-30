@@ -1,0 +1,31 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/770742",
+    "线路2": "https://jiujiu.one/397826"
+  },
+  "seriesInfo": {
+    "id": 12209,
+    "IDcode": "JD134",
+    "title": "夺回秋雅",
+    "publish_date": "2021-10-06",
+    "type": "有码",
+    "company": "精东影业",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230119-1/8cf7de3cc7572bd8062bdcf5c22d6433.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD134",
+    "actresses": [
+      {
+        "name": "芯萱",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8376&name=%E8%8A%AF%E8%90%B1"
+      },
+      {
+        "name": "心萱",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8815&name=%E5%BF%83%E8%90%B1"
+      }
+    ]
+  }
+}

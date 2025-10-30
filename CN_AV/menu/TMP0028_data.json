@@ -1,0 +1,25 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/391077"
+  },
+  "seriesInfo": {
+    "id": 10536,
+    "IDcode": "TMP0028",
+    "title": "配对游戏",
+    "publish_date": "2023-01-05",
+    "type": "有码",
+    "company": "天美传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230216-1/52612440cea74d44f029bc184934e36a.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0028",
+    "actresses": [
+      {
+        "name": "吴文淇",
+        "img_url": "https://upload.xchina.io/model/631f496214d88.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8732&name=%E5%90%B4%E6%96%87%E6%B7%87"
+      }
+    ]
+  }
+}

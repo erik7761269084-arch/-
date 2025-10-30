@@ -1,0 +1,38 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/3c655c36-167f-45f2-97e3-112956da8024.html",
+    "线路2": "https://jiujiu.one/541189",
+    "线路3": "https://jiujiu.one/375951",
+    "线路4": "https://jiujiu.one/153006",
+    "线路5": "https://jiujiu.one/1481123",
+    "线路6": "https://jiujiu.one/759715",
+    "线路7": "https://jiujiu.one/1467364",
+    "线路8": "https://jiujiu.one/418884",
+    "线路9": "https://jiujiu.one/1427086",
+    "线路10": "https://jiujiu.one/1392582",
+    "线路11": "https://jiujiu.one/481888",
+    "线路12": "https://jiujiu.one/14375",
+    "线路13": "https://jiujiu.one/922358",
+    "线路14": "https://jiujiu.one/880251"
+  },
+  "seriesInfo": {
+    "id": 11100,
+    "IDcode": "91CM-162",
+    "title": "大小姐的沦陷",
+    "publish_date": "2022-08-01",
+    "type": "有码",
+    "company": "果冻传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ce3fdd3bd805ea858c79b4572f07a2a2.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-162",
+    "actresses": [
+      {
+        "name": "張子瑜",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9419&name=%E5%BC%B5%E5%AD%90%E7%91%9C"
+      }
+    ]
+  }
+}

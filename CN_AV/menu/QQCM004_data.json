@@ -1,7 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20240201/Qx431TkG/index.m3u8",
-    "线路2": "https://bf1.qrtuv.com/20231210/5144373BAF74196C/hls/2000k/index.m3u8"
+    "主线路": "https://jiujiu.one/258615",
+    "线路2": "https://jiujiu.one/914511"
   },
   "seriesInfo": {
     "id": 14856,
@@ -12,19 +12,19 @@
     "company": "扣扣传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231210/5144373BAF74196C/5144373BAF74196C.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QQCM004",
     "actresses": [
       {
         "name": "朵儿",
         "img_url": "https://eve.modelmediaasia.com/model_covers/3QdyJAsvXoblRXcNu5h5lNYiBa8MsSNtquwiULHM_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14856&name=朵儿"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8635&name=%E6%9C%B5%E5%84%BF"
       },
       {
         "name": "白晰",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14856&name=白晰"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9968&name=%E7%99%BD%E6%99%B0"
       }
     ]
   }

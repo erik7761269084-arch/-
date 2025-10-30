@@ -1,0 +1,30 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/450530",
+    "线路2": "https://jiujiu.one/867281",
+    "线路3": "https://jiujiu.one/274625",
+    "线路4": "https://jiujiu.one/252995",
+    "线路5": "https://jiujiu.one/915502",
+    "线路6": "https://jiujiu.one/419182"
+  },
+  "seriesInfo": {
+    "id": 15273,
+    "IDcode": "LB023",
+    "title": "双子座命运",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20211105-1/9e51a76f4b2d358f18b00d2bfbb33c73.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB023",
+    "actresses": [
+      {
+        "name": "清沐",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9491&name=%E6%B8%85%E6%B2%90"
+      }
+    ]
+  }
+}

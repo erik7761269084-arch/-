@@ -1,0 +1,35 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/179425",
+    "线路2": "https://jiujiu.one/593158",
+    "线路3": "https://jiujiu.one/230563",
+    "线路4": "https://jiujiu.one/228249",
+    "线路5": "https://jiujiu.one/417968",
+    "线路6": "https://jiujiu.one/1003100"
+  },
+  "seriesInfo": {
+    "id": 18134,
+    "IDcode": "MD-0255",
+    "title": "月光下的中秋乱伦",
+    "publish_date": "2022-12-07",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220913-1/61a3fb576d1f7a5aef261f186ef29fd8.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0255",
+    "actresses": [
+      {
+        "name": "项子甯",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/yW3ZtdzDyltdmp7tvYhkGr3zTd2ZEglyHCRVAsxo_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8648&name=%E9%A1%B9%E5%AD%90%E7%94%AF"
+      },
+      {
+        "name": "林嫣",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/JUJooewQBUNPrZfMFmTDEKLsbyHqYMl0CPsAym8s_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8650&name=%E6%9E%97%E5%AB%A3"
+      }
+    ]
+  }
+}

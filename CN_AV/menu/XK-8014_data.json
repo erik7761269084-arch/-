@@ -1,10 +1,10 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/a5dbe371-b087-4689-8ec0-e335e9a3443d/playlist.m3u8",
-    "线路2": "https://thm3u8.com/20250930/xJq6bDri/index.m3u8",
-    "线路3": "https://vip6.3sybf.com/20210824/X4e9VzOK/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/04/24/7377e397/index.m3u8",
-    "线路5": "https://bf1.qrtuv.com/20231210/607B9DD28BB3855C/hls/1500k/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/dbfd55c5-c174-4988-854f-0563d702a95c.html",
+    "线路2": "https://jiujiu.one/1487122",
+    "线路3": "https://jiujiu.one/329652",
+    "线路4": "https://jiujiu.one/459302",
+    "线路5": "https://jiujiu.one/914870"
   },
   "seriesInfo": {
     "id": 15771,
@@ -13,35 +13,31 @@
     "publish_date": "2021-03-21",
     "type": "有码",
     "company": "星空无限传媒",
-    "genres": [
-      "劇情",
-      "文藝女",
-      "國產"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231210/607B9DD28BB3855C/607B9DD28BB3855C.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230825/20230825073720266266.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8014",
     "actresses": [
       {
         "name": "黄雪纯",
         "img_url": "https://upload.xchina.io/model/607150503d3f5.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=黄雪纯"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8884&name=%E9%BB%84%E9%9B%AA%E7%BA%AF"
       },
       {
         "name": "拉拉",
         "img_url": "https://img.ripic.xyz/head/5cd95732ecf00a40c9bfa1d0.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=拉拉"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9022&name=%E6%8B%89%E6%8B%89"
       },
       {
         "name": "王拉拉",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=王拉拉"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9677&name=%E7%8E%8B%E6%8B%89%E6%8B%89"
       },
       {
         "name": "辰悦",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=辰悦"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9681&name=%E8%BE%B0%E6%82%A6"
       }
     ]
   }

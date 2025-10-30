@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20240621/hsMa0ADa/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/19/81603480/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20231130/6138AECD2F9C2660/hls/1000k/index.m3u8"
+    "主线路": "https://jiujiu.one/72266",
+    "线路2": "https://jiujiu.one/460648",
+    "线路3": "https://jiujiu.one/911774"
   },
   "seriesInfo": {
     "id": 23303,
@@ -13,14 +13,14 @@
     "company": "麻豆映画传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231130/6138AECD2F9C2660/6138AECD2F9C2660.jpg",
-    "background_img": null,
+    "cover_url": "http://pic1.thzpic.com/forum/202108/18/193607kwmonfoww1wm1nbn.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDS-020",
     "actresses": [
       {
-        "name": "刘依依",
+        "name": "劉依依",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23303&name=刘依依"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9441&name=%E5%8A%89%E4%BE%9D%E4%BE%9D"
       }
     ]
   }

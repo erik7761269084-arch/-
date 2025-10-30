@@ -1,0 +1,31 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/36100",
+    "线路2": "https://jiujiu.one/1456103"
+  },
+  "seriesInfo": {
+    "id": 14579,
+    "IDcode": "DA017",
+    "title": "人型汁恋 最终幻想",
+    "publish_date": "2025-10-03",
+    "type": "有码",
+    "company": "大象传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240203-1/3b1bff161a74d12837c31c9bc0141774.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA017",
+    "actresses": [
+      {
+        "name": "糖糖",
+        "img_url": "https://img.ripic.xyz/head/5b2b92510cae7c2ae005481e.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8361&name=%E7%B3%96%E7%B3%96"
+      },
+      {
+        "name": "韩棠",
+        "img_url": "https://eve.modelmediaasia.com/undefined/osN7GlM7KQ9RuJudSN1jTsmYBpZIYARuAB3dOruf_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8671&name=%E9%9F%A9%E6%A3%A0"
+      }
+    ]
+  }
+}

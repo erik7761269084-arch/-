@@ -1,12 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20240918/p04GYFRA/index.m3u8",
-    "线路2": "https://lsbbf5.com/20230921/Yt3YWKqA/index.m3u8",
-    "线路3": "https://krevonix.com/20230914/JERC6IYI/index.m3u8",
-    "线路4": "https://player.hgplayer00.com/20221124/2eTUpIS7/index.m3u8",
-    "线路5": "https://t26.cdn2020.com/video/m3u8/2022/01/16/a3af6175/index.m3u8",
-    "线路6": "https://lsbbf5.com/20231021/6LaDjTdq/index.m3u8",
-    "线路7": "https://bf1.qrtuv.com/20240130/7A5EC21D8ABACF48/hls/2000k/index.m3u8"
+    "主线路": "https://jiujiu.one/1481346",
+    "线路2": "https://jiujiu.one/748871",
+    "线路3": "https://jiujiu.one/227890",
+    "线路4": "https://jiujiu.one/864554",
+    "线路5": "https://jiujiu.one/443483",
+    "线路6": "https://jiujiu.one/419072",
+    "线路7": "https://jiujiu.one/928648"
   },
   "seriesInfo": {
     "id": 12167,
@@ -17,19 +17,19 @@
     "company": "精东影业",
     "genres": [],
     "description": "",
-    "cover_url": "https://pic.douimg.cc/upload/vod/20250816-1/934c57779f4f19163a4fe6134c792efa.jpg",
-    "background_img": null,
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-16/9c529dcc7e397db1d3a2e64171ebfed3.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD091",
     "actresses": [
       {
         "name": "林凤娇",
         "img_url": "https://upload.xchina.io/model/6087ccace1f46.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12167&name=林凤娇"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8764&name=%E6%9E%97%E5%87%A4%E5%A8%87"
       },
       {
         "name": "瑶贝",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12167&name=瑶贝"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9477&name=%E7%91%B6%E8%B4%9D"
       }
     ]
   }

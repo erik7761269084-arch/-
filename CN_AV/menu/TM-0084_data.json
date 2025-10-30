@@ -1,13 +1,13 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/220c4b84-2795-433d-9a5b-aba2e4f7c24e/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230407/ENjuXf1p/index.m3u8",
-    "线路3": "https://player.putaoplayer.com:166/20250703/7R2Sm4nP/index.m3u8",
-    "线路4": "https://krevonix.com/20240404/Nh6AbNgc/index.m3u8",
-    "线路5": "https://lsbbf5.com/20230921/0FCFqs7i/index.m3u8",
-    "线路6": "https://lsbbf5.com/20231017/H53yVYLH/index.m3u8",
-    "线路7": "https://lsbbf5.com/20240218/cs52p7yk/index.m3u8",
-    "线路8": "https://t27.cdn2020.com/video/m3u8/2021/05/14/d2776832/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/a8621b8c-f49b-491e-829f-9e9407621501.html",
+    "线路2": "https://jiujiu.one/1383222",
+    "线路3": "https://jiujiu.one/353947",
+    "线路4": "https://jiujiu.one/116608",
+    "线路5": "https://jiujiu.one/829817",
+    "线路6": "https://jiujiu.one/714938",
+    "线路7": "https://jiujiu.one/537808",
+    "线路8": "https://jiujiu.one/335872"
   },
   "seriesInfo": {
     "id": 23611,
@@ -18,24 +18,19 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230407/ENjuXf1p/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818012404482482.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0084",
     "actresses": [
       {
         "name": "吴芳宜",
         "img_url": "https://upload.xchina.io/model/6097847f9683d.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23611&name=吴芳宜"
-      },
-      {
-        "name": "吳芳宜",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23611&name=吳芳宜"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8691&name=%E5%90%B4%E8%8A%B3%E5%AE%9C"
       },
       {
         "name": "嘉仪",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23611&name=嘉仪"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9509&name=%E5%98%89%E4%BB%AA"
       }
     ]
   }

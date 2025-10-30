@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/085a4216-518f-483c-b147-c40884cb5f3e.html",
+    "线路2": "https://jiujiu.one/384026",
+    "线路3": "https://jiujiu.one/237309",
+    "线路4": "https://jiujiu.one/333908"
+  },
+  "seriesInfo": {
+    "id": 12086,
+    "IDcode": "JD008",
+    "title": "那些年一起追过的女孩",
+    "publish_date": "2021-10-06",
+    "type": "有码",
+    "company": "精东影业",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://da.da15525716.com/upload/vod/20210920-1/027a51d23ada70f9e5461c21e5818a6e.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD008",
+    "actresses": [
+      {
+        "name": "苏小小",
+        "img_url": "https://upload.xchina.io/model/601fbcb916abc.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8767&name=%E8%8B%8F%E5%B0%8F%E5%B0%8F"
+      }
+    ]
+  }
+}

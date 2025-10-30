@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/252434",
+    "线路2": "https://jiujiu.one/277813",
+    "线路3": "https://jiujiu.one/16101"
+  },
+  "seriesInfo": {
+    "id": 26811,
+    "IDcode": "MSD-198",
+    "title": "痴呆儿子的桃花运",
+    "publish_date": "2022-01-10",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://cctv123456.com/i/wngdhvyl.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MSD-198",
+    "actresses": [
+      {
+        "name": "沈清棠",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7925&name=%E6%B2%88%E6%B8%85%E6%A3%A0"
+      }
+    ]
+  }
+}

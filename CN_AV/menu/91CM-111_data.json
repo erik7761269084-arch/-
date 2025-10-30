@@ -1,0 +1,41 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/9407b9a2-21e4-41ce-a306-3fb98e44a3a5.html",
+    "线路2": "https://jiujiu.one/541422",
+    "线路3": "https://jiujiu.one/380229",
+    "线路4": "https://jiujiu.one/155061",
+    "线路5": "https://jiujiu.one/1481616",
+    "线路6": "https://jiujiu.one/762566",
+    "线路7": "https://jiujiu.one/418704",
+    "线路8": "https://jiujiu.one/1403691",
+    "线路9": "https://jiujiu.one/941120",
+    "线路10": "https://jiujiu.one/483780",
+    "线路11": "https://jiujiu.one/14357",
+    "线路12": "https://jiujiu.one/886221"
+  },
+  "seriesInfo": {
+    "id": 11049,
+    "IDcode": "91CM-111",
+    "title": "考研的姐姐",
+    "publish_date": "2022-08-01",
+    "type": "有码",
+    "company": "果冻传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230728/20230728073605576576.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-111",
+    "actresses": [
+      {
+        "name": "張晴",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9428&name=%E5%BC%B5%E6%99%B4"
+      },
+      {
+        "name": "林子涵",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9683&name=%E6%9E%97%E5%AD%90%E6%B6%B5"
+      }
+    ]
+  }
+}

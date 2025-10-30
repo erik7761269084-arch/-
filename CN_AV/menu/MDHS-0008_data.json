@@ -1,0 +1,35 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/467e7245-95be-4ed5-9099-f62396651ab7.html",
+    "线路2": "https://jiujiu.one/301769",
+    "线路3": "https://jiujiu.one/523489",
+    "线路4": "https://jiujiu.one/401574",
+    "线路5": "https://jiujiu.one/62246",
+    "线路6": "https://jiujiu.one/1474041"
+  },
+  "seriesInfo": {
+    "id": 15895,
+    "IDcode": "MDHS-0008",
+    "title": "校长的魔法圣蛋盒",
+    "publish_date": "2024-09-09",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20221226-1/5bfd030db86c68e4794498f2a7bc0923.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDHS-0008",
+    "actresses": [
+      {
+        "name": "楚梦舒",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/qWFfIdfZVdVJ020qkFkWFfKJ5VGFXeMjACyvxVQZ_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8659&name=%E6%A5%9A%E6%A2%A6%E8%88%92"
+      },
+      {
+        "name": "秦可欣",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/2elFBRSc1aSHJhYZMLyFj6mZ9yqHkIoZ8BblJBFx_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
+      }
+    ]
+  }
+}

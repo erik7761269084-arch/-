@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20250204/buM69NuI/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/09/28/1ccb7dcb/index.m3u8",
-    "线路3": "https://player.putaoplayer.com:166/20231023/tNBcsQkk/index.m3u8"
+    "主线路": "https://jiujiu.one/283550",
+    "线路2": "https://jiujiu.one/353897",
+    "线路3": "https://jiujiu.one/81389"
   },
   "seriesInfo": {
     "id": 10802,
@@ -13,14 +13,14 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-1/4c0430c52308348c74328cf6c2deaf55.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-205",
     "actresses": [
       {
         "name": "黎芷媗",
         "img_url": "https://eve.modelmediaasia.com/model_covers/bBxpguYHzK2ea37itykdEfEFU3067ZQfLiCBRNid_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10802&name=黎芷媗"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8611&name=%E9%BB%8E%E8%8A%B7%E5%AA%97"
       }
     ]
   }

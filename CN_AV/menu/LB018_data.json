@@ -1,0 +1,30 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/5962f711-ab31-4e62-9c8e-1a5df512f3ab.html",
+    "线路2": "https://jiujiu.one/459855",
+    "线路3": "https://jiujiu.one/280607",
+    "线路4": "https://jiujiu.one/273341",
+    "线路5": "https://jiujiu.one/252072",
+    "线路6": "https://jiujiu.one/691727"
+  },
+  "seriesInfo": {
+    "id": 15268,
+    "IDcode": "LB018",
+    "title": "胜利的预感",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230807/20230807054750403403.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB018",
+    "actresses": [
+      {
+        "name": "孟菲菲",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9382&name=%E5%AD%9F%E8%8F%B2%E8%8F%B2"
+      }
+    ]
+  }
+}

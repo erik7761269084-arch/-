@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/948908",
+    "线路2": "https://jiujiu.one/399061"
+  },
+  "seriesInfo": {
+    "id": 14964,
+    "IDcode": "SAT0051",
+    "title": "台北婊子图鉴EP2",
+    "publish_date": "2024-01-10",
+    "type": "有码",
+    "company": "SA国际传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230110-1/ab19fa98fc65d97680d74ddbee341d58.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0051",
+    "actresses": [
+      {
+        "name": "羽芮",
+        "img_url": "https://upload.xchina.io/model/6297bc83bfdbe.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8733&name=%E7%BE%BD%E8%8A%AE"
+      }
+    ]
+  }
+}

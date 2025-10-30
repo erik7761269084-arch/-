@@ -1,0 +1,31 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/956698",
+    "线路2": "https://jiujiu.one/400065"
+  },
+  "seriesInfo": {
+    "id": 14959,
+    "IDcode": "SAT0043",
+    "title": "思春期的诱惑2",
+    "publish_date": "2024-01-10",
+    "type": "有码",
+    "company": "SA国际传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/9e53bca8a8096f3b78f391016e0eef69.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0043",
+    "actresses": [
+      {
+        "name": "坏坏",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8599&name=%E5%9D%8F%E5%9D%8F"
+      },
+      {
+        "name": "小遥",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8761&name=%E5%B0%8F%E9%81%A5"
+      }
+    ]
+  }
+}

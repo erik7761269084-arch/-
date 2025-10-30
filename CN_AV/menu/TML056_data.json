@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/33343",
+    "线路2": "https://jiujiu.one/310709"
+  },
+  "seriesInfo": {
+    "id": 10508,
+    "IDcode": "TML056",
+    "title": "胖猫的逆袭",
+    "publish_date": "2024-05-05",
+    "type": "有码",
+    "company": "天美传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/4791db2ade689817e654116602c4097e.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML056",
+    "actresses": [
+      {
+        "name": "温芮欣",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/L1VrkTckwuQlDBA7veJ8fYkrI7DIx4JPKxEJCnRS_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8596&name=%E6%B8%A9%E8%8A%AE%E6%AC%A3"
+      }
+    ]
+  }
+}

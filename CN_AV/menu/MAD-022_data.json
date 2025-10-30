@@ -1,0 +1,29 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/430022",
+    "线路2": "https://jiujiu.one/1456957",
+    "线路3": "https://jiujiu.one/22074",
+    "线路4": "https://jiujiu.one/447607",
+    "线路5": "https://jiujiu.one/449806"
+  },
+  "seriesInfo": {
+    "id": 22984,
+    "IDcode": "MAD-022",
+    "title": "野性欢愉",
+    "publish_date": "2020-11-20",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20211203-1/87708a3f4baf2cfc54518288957c0518.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAD-022",
+    "actresses": [
+      {
+        "name": "穆雪",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9493&name=%E7%A9%86%E9%9B%AA"
+      }
+    ]
+  }
+}

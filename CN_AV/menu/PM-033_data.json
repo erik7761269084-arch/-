@@ -1,0 +1,35 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/772256",
+    "线路2": "https://jiujiu.one/544982",
+    "线路3": "https://jiujiu.one/1271463",
+    "线路4": "https://jiujiu.one/469727",
+    "线路5": "https://jiujiu.one/452184",
+    "线路6": "https://jiujiu.one/916576"
+  },
+  "seriesInfo": {
+    "id": 9125,
+    "IDcode": "PM-033",
+    "title": "音乐爱情故事 飞鸟和蝉",
+    "publish_date": "2023-08-29",
+    "type": "有码",
+    "company": "蜜桃传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://da.da15525716.com/upload/vod/20240910-1/5daadc16015826b032c0c7142265400f.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-033",
+    "actresses": [
+      {
+        "name": "夏天",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7915&name=%E5%A4%8F%E5%A4%A9"
+      },
+      {
+        "name": "寧靜",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9368&name=%E5%AF%A7%E9%9D%9C"
+      }
+    ]
+  }
+}

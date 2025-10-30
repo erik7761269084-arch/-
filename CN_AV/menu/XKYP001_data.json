@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202503/27/0Z2sizpQfk2/video/index.m3u8",
-    "线路2": "https://1.mysqldata3202s4l.com/20220928/Hm65kpvp/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20231213/01F9B1F871F32B91/hls/1000k/index.m3u8"
+    "主线路": "https://jiujiu.one/27995",
+    "线路2": "https://jiujiu.one/1250091",
+    "线路3": "https://jiujiu.one/915567"
   },
   "seriesInfo": {
     "id": 9003,
@@ -13,8 +13,8 @@
     "company": "星空无限传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231213/01F9B1F871F32B91/01F9B1F871F32B91.jpg",
-    "background_img": null,
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220928-1/d94fdab9ed0137b5795bb36f2a61422e.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKYP001",
     "actresses": []
   }

@@ -1,15 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/45bdd575-aec2-4c90-9852-325bc2b37b44/playlist.m3u8",
-    "线路2": "https://lsbbf5.com/20230921/NUrD7njG/index.m3u8",
-    "线路3": "https://b.gg155gg1.com/20250625/GT10bqJm/index.m3u8",
-    "线路4": "https://b.gg155gg1.com/20250625/WJwdWEbn/index.m3u8",
-    "线路5": "https://krevonix.com/20230906/mxjrYFwU/index.m3u8",
-    "线路6": "https://player.hgplayer00.com/20221124/k15LKfYh/index.m3u8",
-    "线路7": "https://lsbbf5.com/20231021/RxyUxa2F/index.m3u8",
-    "线路8": "https://vip8.3sybf.com/20230419/fMBALRAT/index.m3u8",
-    "线路9": "https://krevonix.com/20221002/T4p3rZvn/index.m3u8",
-    "线路10": "https://bf1.qrtuv.com/20231216/6BA09937296EAA1C/hls/1500k/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/483bb2d6-99cc-4725-80f5-6c11beacd060.html",
+    "线路2": "https://jiujiu.one/750489",
+    "线路3": "https://jiujiu.one/270600",
+    "线路4": "https://jiujiu.one/270571",
+    "线路5": "https://jiujiu.one/233737",
+    "线路6": "https://jiujiu.one/864365",
+    "线路7": "https://jiujiu.one/412961",
+    "线路8": "https://jiujiu.one/932890",
+    "线路9": "https://jiujiu.one/324563",
+    "线路10": "https://jiujiu.one/916899"
   },
   "seriesInfo": {
     "id": 12116,
@@ -18,27 +18,16 @@
     "publish_date": "2021-10-06",
     "type": "有码",
     "company": "精东影业",
-    "genres": [
-      "劇情",
-      "女兒",
-      "父女",
-      "少女",
-      "國產"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231216/6BA09937296EAA1C/6BA09937296EAA1C.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805091203439439.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD039",
     "actresses": [
       {
         "name": "雪见",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12116&name=雪见"
-      },
-      {
-        "name": "雪見",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12116&name=雪見"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8879&name=%E9%9B%AA%E8%A7%81"
       }
     ]
   }

@@ -1,0 +1,30 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/426524"
+  },
+  "seriesInfo": {
+    "id": 35010,
+    "IDcode": "MKY-LF-015",
+    "title": "极乐生活.朋友叫我陪她去联谊",
+    "publish_date": "2022-06-04",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220629-1/f5a6bb91e79c5336c30f476e0c6adf87.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MKY-LF-015",
+    "actresses": [
+      {
+        "name": "季妍希",
+        "img_url": "https://eve.modelmediaasia.com/model_avatars/BP8pnxKA7Kfk3DGCCKzT40k9hfEB8zieeShYqfsg_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8605&name=%E5%AD%A3%E5%A6%8D%E5%B8%8C"
+      },
+      {
+        "name": "白靖寒",
+        "img_url": "https://upload.xchina.io/model/6151fea2f218f.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8877&name=%E7%99%BD%E9%9D%96%E5%AF%92"
+      }
+    ]
+  }
+}

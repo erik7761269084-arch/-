@@ -1,14 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/c30396a3-c150-4bc0-a6df-acb256dad820/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230408/8NDABH5z/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20220427/C169A269E5A1DF7A/hls/2000k/index.m3u8",
-    "线路4": "https://v.ddoucdn.com/20240918/sOzMEnzp/index.m3u8",
-    "线路5": "https://krevonix.com/20240328/nR0d7NqG/index.m3u8",
-    "线路6": "https://lsbbf5.com/20230921/kcKwmwM4/index.m3u8",
-    "线路7": "https://lsbbf5.com/20231017/PLgGD7Jb/index.m3u8",
-    "线路8": "https://lsbbf5.com/20240218/7PNtGSUd/index.m3u8",
-    "线路9": "https://bf1.qrtuv.com/20211124/2B2B7EA936533628/hls/2000k/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/dfcfe7d7-89d2-4f19-86ab-89072c5af5df.html",
+    "线路2": "https://jiujiu.one/433510",
+    "线路3": "https://jiujiu.one/1483112",
+    "线路4": "https://jiujiu.one/353156",
+    "线路5": "https://jiujiu.one/116581",
+    "线路6": "https://jiujiu.one/829691",
+    "线路7": "https://jiujiu.one/714472",
+    "线路8": "https://jiujiu.one/537811",
+    "线路9": "https://jiujiu.one/330064"
   },
   "seriesInfo": {
     "id": 23618,
@@ -19,24 +19,19 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230408/8NDABH5z/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230818/202308180153546464.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0092",
     "actresses": [
       {
         "name": "赵雅琳",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23618&name=赵雅琳"
-      },
-      {
-        "name": "趙雅琳",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23618&name=趙雅琳"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8874&name=%E8%B5%B5%E9%9B%85%E7%90%B3"
       },
       {
         "name": "星雨",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23618&name=星雨"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9605&name=%E6%98%9F%E9%9B%A8"
       }
     ]
   }

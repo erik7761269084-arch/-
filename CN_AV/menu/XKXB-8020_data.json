@@ -1,0 +1,32 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/319691",
+    "线路2": "https://jiujiu.one/23355",
+    "线路3": "https://jiujiu.one/459267"
+  },
+  "seriesInfo": {
+    "id": 25649,
+    "IDcode": "XKXB-8020",
+    "title": "升职记3.职场蜕变主动献身",
+    "publish_date": "2023-12-29",
+    "type": "有码",
+    "company": "杏吧",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20210502-1/fb88f7b2ac1a29094884056181fd0571.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8020",
+    "actresses": [
+      {
+        "name": "王拉拉",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9677&name=%E7%8E%8B%E6%8B%89%E6%8B%89"
+      },
+      {
+        "name": "辰悦",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9681&name=%E8%BE%B0%E6%82%A6"
+      }
+    ]
+  }
+}

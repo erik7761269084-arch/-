@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/57517",
+    "线路2": "https://jiujiu.one/176677",
+    "线路3": "https://jiujiu.one/383837"
+  },
+  "seriesInfo": {
+    "id": 14999,
+    "IDcode": "SAT0088",
+    "title": "凡人修仙传",
+    "publish_date": "2024-01-10",
+    "type": "有码",
+    "company": "SA国际传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230401-1/6ddd4cd9ec00b24bd4f19c470f16aa00.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0088",
+    "actresses": [
+      {
+        "name": "李娜娜",
+        "img_url": "https://upload.xchina.io/model/627a78f2de251.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8588&name=%E6%9D%8E%E5%A8%9C%E5%A8%9C"
+      }
+    ]
+  }
+}

@@ -1,15 +1,15 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/bb4276a7-75de-4d98-a733-35d38a55102a/playlist.m3u8",
-    "线路2": "https://v.ddoucdn.com/20240918/1KfVw0jd/index.m3u8",
-    "线路3": "https://lsbbf5.com/20230921/uHui6YlN/index.m3u8",
-    "线路4": "https://krevonix.com/20230908/4AXIC3SC/index.m3u8",
-    "线路5": "https://player.hgplayer00.com/20221027/Fciz1YCp/index.m3u8",
-    "线路6": "https://player.hgplayer00.com/20221124/xJYqgxNE/index.m3u8",
-    "线路7": "https://t26.cdn2020.com/video/m3u8/2021/08/12/5e85a14b/index.m3u8",
-    "线路8": "https://v1.1bbffvip.com/20221113/zwk0dAGW/index.m3u8",
-    "线路9": "https://lsbbf5.com/20231021/CqGQcXwD/index.m3u8",
-    "线路10": "https://bf1.qrtuv.com/20240102/41311699800DB422/hls/1500k/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/5526cdb4-ce4a-4c7f-978f-e47757fd8622.html",
+    "线路2": "https://jiujiu.one/1483028",
+    "线路3": "https://jiujiu.one/750614",
+    "线路4": "https://jiujiu.one/232949",
+    "线路5": "https://jiujiu.one/930930",
+    "线路6": "https://jiujiu.one/864428",
+    "线路7": "https://jiujiu.one/460079",
+    "线路8": "https://jiujiu.one/645659",
+    "线路9": "https://jiujiu.one/417152",
+    "线路10": "https://jiujiu.one/922661"
   },
   "seriesInfo": {
     "id": 12126,
@@ -18,22 +18,16 @@
     "publish_date": "2021-10-06",
     "type": "有码",
     "company": "精东影业",
-    "genres": [
-      "酒醉",
-      "劇情",
-      "撿尸",
-      "國產",
-      "出軌"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20240102/41311699800DB422/41311699800DB422.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806012022797797.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD050",
     "actresses": [
       {
         "name": "艾咪",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12126&name=艾咪"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9359&name=%E8%89%BE%E5%92%AA"
       }
     ]
   }

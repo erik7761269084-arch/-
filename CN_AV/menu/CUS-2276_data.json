@@ -1,18 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202411/08/0SHkZCGPR21/video/index.m3u8"
+    "主线路": "https://jiujiu.one/60553"
   },
   "seriesInfo": {
     "id": 24430,
     "IDcode": "CUS-2276",
     "title": "大象号第4弹",
-    "publish_date": null,
+    "publish_date": "",
     "type": "有码",
-    "company": null,
+    "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250401-1/8072c191e4f0b40f7fb87dbe9177a764.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-2276",
     "actresses": []
   }

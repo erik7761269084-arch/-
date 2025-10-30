@@ -1,0 +1,36 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/3d5c0568-a364-4b42-8b15-3b347a0cf836.html",
+    "线路2": "https://jiujiu.one/771564",
+    "线路3": "https://jiujiu.one/545146",
+    "线路4": "https://jiujiu.one/866133",
+    "线路5": "https://jiujiu.one/460309",
+    "线路6": "https://jiujiu.one/873228",
+    "线路7": "https://jiujiu.one/915226"
+  },
+  "seriesInfo": {
+    "id": 9126,
+    "IDcode": "PM-034",
+    "title": "错位时空.音乐爱情故事",
+    "publish_date": "2023-08-29",
+    "type": "有码",
+    "company": "蜜桃传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230810/20230810031435684684.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-034",
+    "actresses": [
+      {
+        "name": "季研希",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8594&name=%E5%AD%A3%E7%A0%94%E5%B8%8C"
+      },
+      {
+        "name": "季妍希",
+        "img_url": "https://eve.modelmediaasia.com/model_avatars/BP8pnxKA7Kfk3DGCCKzT40k9hfEB8zieeShYqfsg_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8605&name=%E5%AD%A3%E5%A6%8D%E5%B8%8C"
+      }
+    ]
+  }
+}

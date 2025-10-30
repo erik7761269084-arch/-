@@ -1,0 +1,32 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/81667",
+    "线路2": "https://jiujiu.one/580228",
+    "线路3": "https://jiujiu.one/355292"
+  },
+  "seriesInfo": {
+    "id": 30085,
+    "IDcode": "MD-0303",
+    "title": "孤注一掷",
+    "publish_date": "2022-12-07",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/45419c02ae9ca8ac9531a32dbdcfe770.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0303",
+    "actresses": [
+      {
+        "name": "姚彤彤",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/vE6Lzmr3ayvgxd7rVSgHyEopblF5wv5yUkNXcTsI_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7868&name=%E5%A7%9A%E5%BD%A4%E5%BD%A4"
+      },
+      {
+        "name": "夏晴子",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/MxzGyxujmruNK0LRFp13W1OnjEHXUAcJhzgJsJsB_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8680&name=%E5%A4%8F%E6%99%B4%E5%AD%90"
+      }
+    ]
+  }
+}

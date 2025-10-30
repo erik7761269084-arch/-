@@ -1,0 +1,34 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/450505",
+    "线路2": "https://jiujiu.one/310999",
+    "线路3": "https://jiujiu.one/1390184",
+    "线路4": "https://jiujiu.one/920159",
+    "线路5": "https://jiujiu.one/691502"
+  },
+  "seriesInfo": {
+    "id": 15275,
+    "IDcode": "LB025",
+    "title": "寻亲记3 妹妹的背叛",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20211102-1/a38683a36ef2cfcf7f7f0bfd91193adf.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB025",
+    "actresses": [
+      {
+        "name": "谢雨彤",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8542&name=%E8%B0%A2%E9%9B%A8%E5%BD%A4"
+      },
+      {
+        "name": "清沐",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9491&name=%E6%B8%85%E6%B2%90"
+      }
+    ]
+  }
+}

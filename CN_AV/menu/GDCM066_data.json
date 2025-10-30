@@ -1,7 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://v3-2.lbv3lb2025.com/20241123/1b9hIyfd/index.m3u8",
-    "线路2": "https://bwzm3u8.com/20250901/j9lD91Br/index.m3u8"
+    "主线路": "https://jiujiu.one/32837",
+    "线路2": "https://jiujiu.one/1459875"
   },
   "seriesInfo": {
     "id": 11525,
@@ -11,20 +11,20 @@
     "type": "有码",
     "company": "果冻传媒",
     "genres": [],
-    "description": null,
+    "description": "",
     "cover_url": "https://upload.xchina.io/video/6622b2046041d.webp",
-    "background_img": null,
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM066",
     "actresses": [
       {
-        "name": "米欧",
+        "name": "米歐",
         "img_url": "https://eve.modelmediaasia.com/model_covers/QVjmf8Gag8DDJAPnmVheZecm9WzClpdeudXfpvX0_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11525&name=米欧"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8601&name=%E7%B1%B3%E6%AD%90"
       },
       {
         "name": "言嘉佑",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11525&name=言嘉佑"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9659&name=%E8%A8%80%E5%98%89%E4%BD%91"
       }
     ]
   }

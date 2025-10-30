@@ -1,0 +1,32 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/417341",
+    "线路2": "https://jiujiu.one/202342",
+    "线路3": "https://jiujiu.one/198175",
+    "线路4": "https://jiujiu.one/625268",
+    "线路5": "https://jiujiu.one/590008",
+    "线路6": "https://jiujiu.one/417994",
+    "线路7": "https://jiujiu.one/1002744",
+    "线路8": "https://jiujiu.one/957473"
+  },
+  "seriesInfo": {
+    "id": 32882,
+    "IDcode": "RS-006",
+    "title": "言教不如身教",
+    "publish_date": "2022-07-08",
+    "type": "有码",
+    "company": "麻豆传媒映画x红期灯影像",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220913-1/21198fea1a667c102f58d74b5b812414.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-006",
+    "actresses": [
+      {
+        "name": "孟若羽",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/u6BaUouHiVHNKnwWy6w87iBliLjPpH8hMpJAgryW_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8634&name=%E5%AD%9F%E8%8B%A5%E7%BE%BD"
+      }
+    ]
+  }
+}

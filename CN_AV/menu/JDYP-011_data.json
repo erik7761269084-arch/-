@@ -1,9 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20240918/eUFB4eOa/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2022/07/01/f3818435/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20221117/47DE06CA0EC33D2E/hls/2000k/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20231213/898EFFBE5D171903/hls/1500k/index.m3u8"
+    "主线路": "https://jiujiu.one/27781",
+    "线路2": "https://jiujiu.one/425925",
+    "线路3": "https://jiujiu.one/709719",
+    "线路4": "https://jiujiu.one/915643"
   },
   "seriesInfo": {
     "id": 12580,
@@ -14,14 +14,14 @@
     "company": "精东影业",
     "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20231213/898EFFBE5D171903/898EFFBE5D171903.jpg",
-    "background_img": null,
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220618-1/029bf2ab279fc6b334eb4f24464c9816.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDYP-011",
     "actresses": [
       {
         "name": "米娅",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12580&name=米娅"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9654&name=%E7%B1%B3%E5%A8%85"
       }
     ]
   }

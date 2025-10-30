@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/72450",
+    "线路2": "https://jiujiu.one/1251571",
+    "线路3": "https://jiujiu.one/424330",
+    "线路4": "https://jiujiu.one/987073"
+  },
+  "seriesInfo": {
+    "id": 24911,
+    "IDcode": "MAN-0008",
+    "title": "传递不了的那份爱",
+    "publish_date": "2023-05-11",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220926-1/60718ccd29868c51ee88b418351f5b52.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAN-0008",
+    "actresses": [
+      {
+        "name": "艾秋",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/fSwaexDBQuK1iRWAq8xuaPI2WEyANRSKdf5PMMCk_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8675&name=%E8%89%BE%E7%A7%8B"
+      }
+    ]
+  }
+}

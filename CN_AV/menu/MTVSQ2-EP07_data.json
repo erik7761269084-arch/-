@@ -1,0 +1,50 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/425876",
+    "线路2": "https://jiujiu.one/205309",
+    "线路3": "https://jiujiu.one/200205",
+    "线路4": "https://jiujiu.one/621815",
+    "线路5": "https://jiujiu.one/406456",
+    "线路6": "https://jiujiu.one/960095"
+  },
+  "seriesInfo": {
+    "id": 2838,
+    "IDcode": "MTVSQ2-EP07",
+    "title": "女神体育祭.EP07.女体世足赛",
+    "publish_date": "",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20240927-1/ae18a95453eae7342bee38beb5d5cdef.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVSQ2-EP07",
+    "actresses": [
+      {
+        "name": "斯斯",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/TkLqbWWybeHOVW22hK4VlCI4byHuEYlRXroap4TG_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8629&name=%E6%96%AF%E6%96%AF"
+      },
+      {
+        "name": "苡琍",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/He2dLWh9gM57pQ8NZLkgpZdIhrdTwMPUaDonbREb_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8631&name=%E8%8B%A1%E7%90%8D"
+      },
+      {
+        "name": "苏清歌",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/SGRZfyywqlVlGZVgCWAWIgvO3lSBD4y5QqqytgPi_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8667&name=%E8%8B%8F%E6%B8%85%E6%AD%8C"
+      },
+      {
+        "name": "DORY",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9591&name=DORY"
+      },
+      {
+        "name": "苡璃",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9592&name=%E8%8B%A1%E7%92%83"
+      }
+    ]
+  }
+}

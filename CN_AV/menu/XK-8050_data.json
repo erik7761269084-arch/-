@@ -1,0 +1,39 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/5b2047d9-c7ec-4a12-877a-8de8ab38f627.html",
+    "线路2": "https://jiujiu.one/1483149",
+    "线路3": "https://jiujiu.one/733799",
+    "线路4": "https://jiujiu.one/333132",
+    "线路5": "https://jiujiu.one/170024",
+    "线路6": "https://jiujiu.one/36068",
+    "线路7": "https://jiujiu.one/714787",
+    "线路8": "https://jiujiu.one/272571",
+    "线路9": "https://jiujiu.one/459130",
+    "线路10": "https://jiujiu.one/911662"
+  },
+  "seriesInfo": {
+    "id": 23808,
+    "IDcode": "XK-8050",
+    "title": "致青春 那些年射过的爱情",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20240114-1/48099070baad78b89a9366c966011a01.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8050",
+    "actresses": [
+      {
+        "name": "林妙可",
+        "img_url": "https://upload.xchina.io/model/60c5a5a5ec363.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8818&name=%E6%9E%97%E5%A6%99%E5%8F%AF"
+      },
+      {
+        "name": "灵珊",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9632&name=%E7%81%B5%E7%8F%8A"
+      }
+    ]
+  }
+}

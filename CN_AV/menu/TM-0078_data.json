@@ -1,10 +1,10 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/5deadd80-1853-4471-9384-525f459980c0/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230407/LvSmiH75/index.m3u8",
-    "线路3": "https://krevonix.com/20240331/ur2quZVW/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/04/25/40c54e7c/index.m3u8",
-    "线路5": "https://player.hgplayer00.com/20221028/xgPbSV2X/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/53a86cab-2b68-440a-a06b-f8953433ba07.html",
+    "线路2": "https://jiujiu.one/354846",
+    "线路3": "https://jiujiu.one/116615",
+    "线路4": "https://jiujiu.one/337122",
+    "线路5": "https://jiujiu.one/928765"
   },
   "seriesInfo": {
     "id": 23605,
@@ -15,19 +15,19 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230407/LvSmiH75/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818010007642642.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0078",
     "actresses": [
       {
         "name": "孟若羽",
         "img_url": "https://eve.modelmediaasia.com/model_covers/u6BaUouHiVHNKnwWy6w87iBliLjPpH8hMpJAgryW_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23605&name=孟若羽"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8634&name=%E5%AD%9F%E8%8B%A5%E7%BE%BD"
       },
       {
         "name": "孟若雨",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23605&name=孟若雨"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9665&name=%E5%AD%9F%E8%8B%A5%E9%9B%A8"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20250704/cl0d29oj/index.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230409/l1FwK8GU/index.m3u8",
-    "线路3": "https://v.ddoucdn.com/20240918/FO2JBfEb/index.m3u8",
-    "线路4": "https://krevonix.com/20240330/Stzvj1vf/index.m3u8",
-    "线路5": "https://lsbbf5.com/20230921/l8OklVf4/index.m3u8",
-    "线路6": "https://1.mysqldata3202s4l.com/20220807/J54wO4vi/index.m3u8",
-    "线路7": "https://bf1.qrtuv.com/20240113/9561FD2DB4B32ACA/hls/2000k/index.m3u8"
+    "主线路": "https://jiujiu.one/1384012",
+    "线路2": "https://jiujiu.one/1483215",
+    "线路3": "https://jiujiu.one/351652",
+    "线路4": "https://jiujiu.one/116572",
+    "线路5": "https://jiujiu.one/829517",
+    "线路6": "https://jiujiu.one/337169",
+    "线路7": "https://jiujiu.one/925526"
   },
   "seriesInfo": {
     "id": 23636,
@@ -17,24 +17,24 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230409/l1FwK8GU/1.jpg",
-    "background_img": null,
+    "cover_url": "https://guzwiayz.com/20240330/1hIiLV5T/1.jpg?t=1711776732",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0110",
     "actresses": [
       {
         "name": "张兰馨",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23636&name=张兰馨"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8247&name=%E5%BC%A0%E5%85%B0%E9%A6%A8"
       },
       {
         "name": "沙美辰",
         "img_url": "https://upload.xchina.io/model/60c3a7958a9df.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23636&name=沙美辰"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8766&name=%E6%B2%99%E7%BE%8E%E8%BE%B0"
       },
       {
         "name": "万静雪",
         "img_url": "https://upload.xchina.io/model/60ff1ba971d4b.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=23636&name=万静雪"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8842&name=%E4%B8%87%E9%9D%99%E9%9B%AA"
       }
     ]
   }

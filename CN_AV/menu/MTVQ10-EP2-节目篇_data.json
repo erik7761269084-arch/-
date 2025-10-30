@@ -1,0 +1,43 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/0ff2101b-c364-46a2-8664-4d349c3ef031.html",
+    "线路2": "https://jiujiu.one/216186",
+    "线路3": "https://jiujiu.one/461330",
+    "线路4": "https://jiujiu.one/1473913"
+  },
+  "seriesInfo": {
+    "id": 27076,
+    "IDcode": "MTVQ10-EP2-节目篇",
+    "title": "你好同学-EP2-节目篇 狂乱的速度与激情",
+    "publish_date": "2023-10-17",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20210912-1/cd564794dc4a60ec3bc0a0b5fb695e1f.jpg",
+    "background_img": "https://picture.yoshiclub.xyz/20230815/1f0b666b-87b9-4659-aacf-eecb3f530f9d.jpg",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ10-EP2-节目篇",
+    "actresses": [
+      {
+        "name": "韩棠",
+        "img_url": "https://eve.modelmediaasia.com/undefined/osN7GlM7KQ9RuJudSN1jTsmYBpZIYARuAB3dOruf_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8671&name=%E9%9F%A9%E6%A3%A0"
+      },
+      {
+        "name": "管明美",
+        "img_url": "https://eve.modelmediaasia.com/undefined/X3SEAPBKQUChs0e2OFcp4WCgqt2gE5cvbkJXvLX4_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8673&name=%E7%AE%A1%E6%98%8E%E7%BE%8E"
+      },
+      {
+        "name": "白沛瑶",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/F23OObIQ3rzW1nm9OMXXJhPolqCHsZc5zPTlZN7c_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8674&name=%E7%99%BD%E6%B2%9B%E7%91%B6"
+      },
+      {
+        "name": "林芊彤",
+        "img_url": "https://upload.xchina.io/model/6139b54797b3f.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8809&name=%E6%9E%97%E8%8A%8A%E5%BD%A4"
+      }
+    ]
+  }
+}

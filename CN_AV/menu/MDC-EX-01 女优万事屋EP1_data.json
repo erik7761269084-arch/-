@@ -1,9 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20240619/agBf2KIT/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202410/19/G9FB7Z72mz1/video/index.m3u8",
-    "线路3": "https://t27.cdn2020.com/video/m3u8/2022/09/25/642f0bed/index.m3u8",
-    "线路4": "https://vip7.3sybf.com/20221103/d9y5rhvM/index.m3u8"
+    "主线路": "https://jiujiu.one/72385",
+    "线路2": "https://jiujiu.one/590358",
+    "线路3": "https://jiujiu.one/416706",
+    "线路4": "https://jiujiu.one/978768"
   },
   "seriesInfo": {
     "id": 25584,
@@ -14,24 +14,24 @@
     "company": "麻豆映画传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240620-1/4686e694e807d696c8a303ee8ddbc106.jpg",
-    "background_img": null,
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/71c050b688b2a9b62ed7ac0563bbf94e.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDC-EX-01 女优万事屋EP1",
     "actresses": [
       {
         "name": "岚湘庭",
         "img_url": "https://eve.modelmediaasia.com/model_covers/XyJP41ZvHeGuN0VGVhvf2Wlhfc0pruTZj9EV6zqT_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=25584&name=岚湘庭"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8652&name=%E5%B2%9A%E6%B9%98%E5%BA%AD"
       },
       {
         "name": "楚梦舒",
         "img_url": "https://eve.modelmediaasia.com/model_covers/qWFfIdfZVdVJ020qkFkWFfKJ5VGFXeMjACyvxVQZ_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=25584&name=楚梦舒"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8659&name=%E6%A5%9A%E6%A2%A6%E8%88%92"
       },
       {
         "name": "夏晴子",
         "img_url": "https://eve.modelmediaasia.com/model_covers/MxzGyxujmruNK0LRFp13W1OnjEHXUAcJhzgJsJsB_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=25584&name=夏晴子"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8680&name=%E5%A4%8F%E6%99%B4%E5%AD%90"
       }
     ]
   }

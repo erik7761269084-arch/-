@@ -1,9 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20240918/t5ubrlgp/index.m3u8",
-    "线路2": "https://lsbbf5.com/20230921/apAS3ANr/index.m3u8",
-    "线路3": "https://lsbbf5.com/20231017/mdkkQ4q1/index.m3u8",
-    "线路4": "https://1.mysqldata3202s4l.com/20220807/GEPkCoyt/index.m3u8"
+    "主线路": "https://jiujiu.one/1483106",
+    "线路2": "https://jiujiu.one/734867",
+    "线路3": "https://jiujiu.one/714541",
+    "线路4": "https://jiujiu.one/459173"
   },
   "seriesInfo": {
     "id": 21611,
@@ -14,14 +14,14 @@
     "company": "星空无限传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231018-1/026b88307485640e02ee5cc1051e9c11.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8028",
     "actresses": [
       {
         "name": "孙欣欣",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=21611&name=孙欣欣"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9625&name=%E5%AD%99%E6%AC%A3%E6%AC%A3"
       }
     ]
   }

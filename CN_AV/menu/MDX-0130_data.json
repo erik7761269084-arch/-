@@ -1,9 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/2fe70ff5-d8f7-431d-8eb2-e397211d5e52/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/09/11/e9e3721e/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230220/uPwREtvL/index.m3u8",
-    "线路4": "https://vostrely.com/20230618/1I2XsmFo/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/3c6446a0-2cb4-4d22-a693-61b536c5cf9d.html",
+    "线路2": "https://jiujiu.one/116955",
+    "线路3": "https://jiujiu.one/461384",
+    "线路4": "https://jiujiu.one/520441"
   },
   "seriesInfo": {
     "id": 16407,
@@ -12,26 +12,21 @@
     "publish_date": "2024-08-02",
     "type": "有码",
     "company": "麻豆映画传媒",
-    "genres": [
-      "上門福利",
-      "劇情",
-      "廢青",
-      "國產"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230220/uPwREtvL/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720070753808808.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0130",
     "actresses": [
       {
         "name": "秦可欣",
         "img_url": "https://eve.modelmediaasia.com/model_covers/2elFBRSc1aSHJhYZMLyFj6mZ9yqHkIoZ8BblJBFx_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16407&name=秦可欣"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8668&name=%E7%A7%A6%E5%8F%AF%E6%AC%A3"
       },
       {
         "name": "秦可",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16407&name=秦可"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9781&name=%E7%A7%A6%E5%8F%AF"
       }
     ]
   }

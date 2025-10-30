@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/67d4f0dd-b990-4f35-b076-5df1dbee7c20/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/09/03/683931c3/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230220/ZLleUsw1/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/453559b6-95bb-4e31-b40d-1184b2466215.html",
+    "线路2": "https://jiujiu.one/116942",
+    "线路3": "https://jiujiu.one/460917"
   },
   "seriesInfo": {
     "id": 16408,
@@ -11,20 +11,16 @@
     "publish_date": "2024-08-02",
     "type": "有码",
     "company": "麻豆映画传媒",
-    "genres": [
-      "女主持・主播",
-      "刺青紋身",
-      "國產"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230220/ZLleUsw1/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720070608502502.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0129",
     "actresses": [
       {
         "name": "艾秋",
         "img_url": "https://eve.modelmediaasia.com/model_covers/fSwaexDBQuK1iRWAq8xuaPI2WEyANRSKdf5PMMCk_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16408&name=艾秋"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8675&name=%E8%89%BE%E7%A7%8B"
       }
     ]
   }

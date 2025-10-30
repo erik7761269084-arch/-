@@ -1,7 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2022/07/18/1a9307b8/index.m3u8",
-    "线路2": "https://bf1.qrtuv.com/20231210/12DC2F5718C2F7E0/hls/1500k/index.m3u8"
+    "主线路": "https://jiujiu.one/424510",
+    "线路2": "https://jiujiu.one/914654"
   },
   "seriesInfo": {
     "id": 11204,
@@ -11,15 +11,15 @@
     "type": "有码",
     "company": "91制片厂",
     "genres": [],
-    "description": null,
+    "description": "",
     "cover_url": "https://upload.xchina.io/video/652d0a072194d.webp",
-    "background_img": null,
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91KCM-013",
     "actresses": [
       {
         "name": "叶子红",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11204&name=叶子红"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8860&name=%E5%8F%B6%E5%AD%90%E7%BA%A2"
       }
     ]
   }

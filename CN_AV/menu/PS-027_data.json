@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/76460",
+    "线路2": "https://jiujiu.one/387329"
+  },
+  "seriesInfo": {
+    "id": 29704,
+    "IDcode": "PS-027",
+    "title": "日本约会软件初体验",
+    "publish_date": "2021-04-24",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230311-1/ce814dfa1f4ee140e923b57b8c35c75d.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PS-027",
+    "actresses": [
+      {
+        "name": "Hunter",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9802&name=Hunter"
+      }
+    ]
+  }
+}

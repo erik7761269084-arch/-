@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/8ffc7e4c-76b9-456a-b906-2160ad05484d.html",
+    "线路2": "https://jiujiu.one/116677",
+    "线路3": "https://jiujiu.one/510814",
+    "线路4": "https://jiujiu.one/913315"
+  },
+  "seriesInfo": {
+    "id": 23551,
+    "IDcode": "TM-0023",
+    "title": "到底是修理水电还是修我",
+    "publish_date": "2022-08-09",
+    "type": "有码",
+    "company": "天美传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230817/20230817004514780780.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0023",
+    "actresses": [
+      {
+        "name": "艾玛",
+        "img_url": "https://upload.xchina.io/model/601190f157fe7.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8759&name=%E8%89%BE%E7%8E%9B"
+      },
+      {
+        "name": "尹媚",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9583&name=%E5%B0%B9%E5%AA%9A"
+      }
+    ]
+  }
+}

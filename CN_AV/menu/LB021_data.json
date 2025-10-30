@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/434070",
+    "线路2": "https://jiujiu.one/450546",
+    "线路3": "https://jiujiu.one/274524",
+    "线路4": "https://jiujiu.one/920373"
+  },
+  "seriesInfo": {
+    "id": 15271,
+    "IDcode": "LB021",
+    "title": "寻亲记1 我的坏哥哥",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20211105-1/84a2daa114dbcdf22438a914a794d9ee.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB021",
+    "actresses": [
+      {
+        "name": "清沐",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9491&name=%E6%B8%85%E6%B2%90"
+      }
+    ]
+  }
+}

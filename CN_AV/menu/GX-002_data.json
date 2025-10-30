@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/81698",
+    "线路2": "https://jiujiu.one/580365",
+    "线路3": "https://jiujiu.one/354691"
+  },
+  "seriesInfo": {
+    "id": 29402,
+    "IDcode": "GX-002",
+    "title": "核废水过后皇后的艰辛",
+    "publish_date": "2023-09-06",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230919-1/dc921b19410d39c788d7dcbcb6be6198.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GX-002",
+    "actresses": [
+      {
+        "name": "KK",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9489&name=KK"
+      }
+    ]
+  }
+}

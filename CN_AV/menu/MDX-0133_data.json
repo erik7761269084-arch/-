@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/247b612c-ed74-4449-b411-e217319db253/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/28/9c020ba8/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230220/KoAMPpMG/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/c3f9c5c2-d9f6-4a6d-8031-215f59dd4b0e.html",
+    "线路2": "https://jiujiu.one/116964",
+    "线路3": "https://jiujiu.one/460764"
   },
   "seriesInfo": {
     "id": 16404,
@@ -11,22 +11,16 @@
     "publish_date": "2024-08-02",
     "type": "有码",
     "company": "麻豆映画传媒",
-    "genres": [
-      "劇情",
-      "姐姐・妹妹",
-      "姐弟・兄妹",
-      "國產",
-      "亂倫"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://img.caoliuzywimg.com:188/20230220/KoAMPpMG/1.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720072944205205.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0133",
     "actresses": [
       {
         "name": "沈娜娜",
         "img_url": "https://eve.modelmediaasia.com/model_covers/dPEwmrVu1viDiKZBjYyhewMeQI4zQWV8AesGs8MN_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16404&name=沈娜娜"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8684&name=%E6%B2%88%E5%A8%9C%E5%A8%9C"
       }
     ]
   }

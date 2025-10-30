@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/652838",
+    "线路2": "https://jiujiu.one/225537",
+    "线路3": "https://jiujiu.one/16182",
+    "线路4": "https://jiujiu.one/351423"
+  },
+  "seriesInfo": {
+    "id": 8192,
+    "IDcode": "XK-8186",
+    "title": "色戒之英雄归来",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/b07e324115b9bbdbf3945edf711426d8.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8186",
+    "actresses": [
+      {
+        "name": "妍妍",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9951&name=%E5%A6%8D%E5%A6%8D"
+      }
+    ]
+  }
+}

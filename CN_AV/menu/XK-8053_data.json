@@ -1,0 +1,30 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/8ca6403e-7577-4d2c-a87a-f80cde97b0cd.html",
+    "线路2": "https://jiujiu.one/333019",
+    "线路3": "https://jiujiu.one/170718",
+    "线路4": "https://jiujiu.one/1437596",
+    "线路5": "https://jiujiu.one/328477",
+    "线路6": "https://jiujiu.one/460432"
+  },
+  "seriesInfo": {
+    "id": 8062,
+    "IDcode": "XK-8053",
+    "title": "卧槽了个DJ.我的很大你忍一下",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20210730-1/77fe86a683fce0ff236d3d608dc41c9c.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8053",
+    "actresses": [
+      {
+        "name": "許諾",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9398&name=%E8%A8%B1%E8%AB%BE"
+      }
+    ]
+  }
+}

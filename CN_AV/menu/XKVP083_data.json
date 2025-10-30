@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/33835",
+    "线路2": "https://jiujiu.one/307716"
+  },
+  "seriesInfo": {
+    "id": 8910,
+    "IDcode": "XKVP083",
+    "title": "不满足打飞机的外甥",
+    "publish_date": "2024-05-16",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20240808-1/31be4232e6d516e15aceb3fb7ec818b2.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKVP083",
+    "actresses": [
+      {
+        "name": "晴天",
+        "img_url": "https://upload.xchina.io/model/66b133b118009.webp",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8863&name=%E6%99%B4%E5%A4%A9"
+      }
+    ]
+  }
+}

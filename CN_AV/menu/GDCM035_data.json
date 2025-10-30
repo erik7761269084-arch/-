@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/210837",
+    "线路2": "https://jiujiu.one/1412863",
+    "线路3": "https://jiujiu.one/1411422",
+    "线路4": "https://jiujiu.one/991995"
+  },
+  "seriesInfo": {
+    "id": 11496,
+    "IDcode": "GDCM035",
+    "title": "伪装者代号91",
+    "publish_date": "2023-01-29",
+    "type": "有码",
+    "company": "果冻传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/04/03/39059_cover_2025-04-03_161218.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM035",
+    "actresses": [
+      {
+        "name": "钟宛冰",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/NBMpYHCRI21n6Jlq8wRmTDFvWVIW9s0jBz3IHYRV_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8665&name=%E9%92%9F%E5%AE%9B%E5%86%B0"
+      },
+      {
+        "name": "莉娜",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9362&name=%E8%8E%89%E5%A8%9C"
+      }
+    ]
+  }
+}

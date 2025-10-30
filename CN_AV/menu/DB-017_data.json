@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/510153",
+    "线路2": "https://jiujiu.one/268540",
+    "线路3": "https://jiujiu.one/389160"
+  },
+  "seriesInfo": {
+    "id": 19880,
+    "IDcode": "DB-017",
+    "title": "水龙头坏了怎么办.说干就干",
+    "publish_date": "2022-05-22",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230301-1/3300517092c40d2f324f2d8e3d1d9537.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DB-017",
+    "actresses": [
+      {
+        "name": "吴恺彤",
+        "img_url": "https://upload.xchina.io/model/623e057b526c2.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8808&name=%E5%90%B4%E6%81%BA%E5%BD%A4"
+      }
+    ]
+  }
+}

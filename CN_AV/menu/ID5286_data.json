@@ -1,26 +1,26 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/04/29/8ea87807/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20230501/pus8em2A/index.m3u8",
-    "线路3": "https://player.hgplayer00.com/20230913/Jjhis87F/index.m3u8"
+    "主线路": "https://jiujiu.one/378602",
+    "线路2": "https://jiujiu.one/729691",
+    "线路3": "https://jiujiu.one/666076"
   },
   "seriesInfo": {
     "id": 12698,
     "IDcode": "ID5286",
     "title": "新婚夜-醉酒新娘走错房",
-    "publish_date": null,
+    "publish_date": "",
     "type": "有码",
     "company": "爱豆传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-3/f9fe68b02abe097d0f0acaa8ae7523a0.jpg",
-    "background_img": null,
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230430-1/16dd812cf12c163a13d41d750f87447e.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5286",
     "actresses": [
       {
         "name": "琳怡",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12698&name=琳怡"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9566&name=%E7%90%B3%E6%80%A1"
       }
     ]
   }

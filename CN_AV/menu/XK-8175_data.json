@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/480953",
+    "线路2": "https://jiujiu.one/684298",
+    "线路3": "https://jiujiu.one/364177"
+  },
+  "seriesInfo": {
+    "id": 8181,
+    "IDcode": "XK-8175",
+    "title": "图书馆南柯一梦",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230801-1/a8d641aad64ee7db2932ec47ebf73716.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8175",
+    "actresses": [
+      {
+        "name": "董悦悦",
+        "img_url": "https://upload.xchina.io/model/66c0f5445eac7.webp",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8789&name=%E8%91%A3%E6%82%A6%E6%82%A6"
+      }
+    ]
+  }
+}

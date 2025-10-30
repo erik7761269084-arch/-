@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/989122",
+    "线路2": "https://jiujiu.one/104366",
+    "线路3": "https://jiujiu.one/419252"
+  },
+  "seriesInfo": {
+    "id": 34068,
+    "IDcode": "MAN-0010",
+    "title": "夏日之恋下集",
+    "publish_date": "2023-05-11",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220906-1/38b668ac85a60ea629b1e18bbb523b91.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAN-0010",
+    "actresses": [
+      {
+        "name": "苏清歌",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/SGRZfyywqlVlGZVgCWAWIgvO3lSBD4y5QqqytgPi_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8667&name=%E8%8B%8F%E6%B8%85%E6%AD%8C"
+      }
+    ]
+  }
+}

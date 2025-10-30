@@ -1,7 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20250320/hFoo2BHR/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20240520/8lGeUnsh/index.m3u8"
+    "主线路": "https://jiujiu.one/128849",
+    "线路2": "https://jiujiu.one/511241"
   },
   "seriesInfo": {
     "id": 11517,
@@ -11,15 +11,15 @@
     "type": "有码",
     "company": "果冻传媒",
     "genres": [],
-    "description": null,
+    "description": "",
     "cover_url": "https://upload.xchina.io/video/6518b52e910c8.webp",
-    "background_img": null,
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM058",
     "actresses": [
       {
         "name": "黎文",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11517&name=黎文"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8327&name=%E9%BB%8E%E6%96%87"
       }
     ]
   }

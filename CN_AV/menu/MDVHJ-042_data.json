@@ -1,6 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://bf1.qrtuv.com/20240120/9F7B7D93B05B74CA/hls/1000k/index.m3u8"
+    "主线路": "https://jiujiu.one/926850"
   },
   "seriesInfo": {
     "id": 51133,
@@ -11,14 +11,14 @@
     "company": "麻豆传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://bf1.qrtuv.com/20240120/9F7B7D93B05B74CA/9F7B7D93B05B74CA.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDVHJ-042",
     "actresses": [
       {
         "name": "秋元",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=51133&name=秋元"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9769&name=%E7%A7%8B%E5%85%83"
       }
     ]
   }

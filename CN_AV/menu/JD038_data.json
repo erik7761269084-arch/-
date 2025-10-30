@@ -1,14 +1,14 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/3c4ae9be-1827-410c-a1a9-68ee7a6b1d72/playlist.m3u8",
-    "线路2": "https://v.ddoucdn.com/20240918/ehe01z5K/index.m3u8",
-    "线路3": "https://lsbbf5.com/20230921/OEV10qWy/index.m3u8",
-    "线路4": "https://player.putaoplayer.com:166/20241214/6mjWI3U5/index.m3u8",
-    "线路5": "https://lsbbf5.com/20240122/68PgDmpx/index.m3u8",
-    "线路6": "https://krevonix.com/20230906/432MQwbK/index.m3u8",
-    "线路7": "https://player.hgplayer00.com/20221027/DlJtTBPe/index.m3u8",
-    "线路8": "https://player.hgplayer00.com/20221124/VEdjPIX8/index.m3u8",
-    "线路9": "https://lsbbf5.com/20231021/8735udOy/index.m3u8"
+    "主线路": "https://www.javrate.com/Movie/Detail/6c54c63f-a8f6-4ded-abc5-c6797330a5d6.html",
+    "线路2": "https://jiujiu.one/1481154",
+    "线路3": "https://jiujiu.one/750507",
+    "线路4": "https://jiujiu.one/383424",
+    "线路5": "https://jiujiu.one/257245",
+    "线路6": "https://jiujiu.one/233438",
+    "线路7": "https://jiujiu.one/930921",
+    "线路8": "https://jiujiu.one/864342",
+    "线路9": "https://jiujiu.one/436235"
   },
   "seriesInfo": {
     "id": 12115,
@@ -17,57 +17,36 @@
     "publish_date": "2021-10-06",
     "type": "有码",
     "company": "精东影业",
-    "genres": [
-      "劇情",
-      "3P・4P",
-      "奇聞趣事",
-      "國產",
-      "兩女一男"
-    ],
+    "genres": [],
     "description": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/a035b68ae5d9b3e57a172d0e2a86623c.jpg",
-    "background_img": null,
+    "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD038",
     "actresses": [
       {
         "name": "七七",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=七七"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8130&name=%E4%B8%83%E4%B8%83"
       },
       {
         "name": "苏小小",
         "img_url": "https://upload.xchina.io/model/601fbcb916abc.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=苏小小"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8767&name=%E8%8B%8F%E5%B0%8F%E5%B0%8F"
       },
       {
         "name": "雪卉",
         "img_url": "https://upload.xchina.io/model/63d7d6a6f14dd.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=雪卉"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8838&name=%E9%9B%AA%E5%8D%89"
       },
       {
         "name": "雪见",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=雪见"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8879&name=%E9%9B%AA%E8%A7%81"
       },
       {
         "name": "玲瓏",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=玲瓏"
-      },
-      {
-        "name": "雪見",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=雪見"
-      },
-      {
-        "name": "蘇小小",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=蘇小小"
-      },
-      {
-        "name": "玲珑",
-        "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12115&name=玲珑"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9379&name=%E7%8E%B2%E7%93%8F"
       }
     ]
   }

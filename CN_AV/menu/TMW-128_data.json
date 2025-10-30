@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/01/27/f3bfcf87/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/02/11/b545d7ee/index.m3u8",
-    "线路3": "https://03hao.top/20231227/7PgLtqQR/index.m3u8"
+    "主线路": "https://jiujiu.one/394946",
+    "线路2": "https://jiujiu.one/391570",
+    "线路3": "https://jiujiu.one/84422"
   },
   "seriesInfo": {
     "id": 10731,
@@ -13,19 +13,19 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230609-1/2a2c0fe2fbac533d8f6a4b8514654ad3.jpg",
-    "background_img": null,
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230128-1/7f8e0ca9158d1fde04c22c6db56069f8.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-128",
     "actresses": [
       {
         "name": "妍儿",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10731&name=妍儿"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8267&name=%E5%A6%8D%E5%84%BF"
       },
       {
         "name": "黎芷媗",
         "img_url": "https://eve.modelmediaasia.com/model_covers/bBxpguYHzK2ea37itykdEfEFU3067ZQfLiCBRNid_compressed.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10731&name=黎芷媗"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8611&name=%E9%BB%8E%E8%8A%B7%E5%AA%97"
       }
     ]
   }

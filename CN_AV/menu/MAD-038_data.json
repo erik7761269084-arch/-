@@ -1,0 +1,32 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/155502",
+    "线路2": "https://jiujiu.one/441912",
+    "线路3": "https://jiujiu.one/450175"
+  },
+  "seriesInfo": {
+    "id": 33282,
+    "IDcode": "MAD-038",
+    "title": "唐伯虎点秋香",
+    "publish_date": "2020-11-20",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20220204-1/299e343b0929b685b210b64ce889eddc.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAD-038",
+    "actresses": [
+      {
+        "name": "林晓雪",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9655&name=%E6%9E%97%E6%99%93%E9%9B%AA"
+      },
+      {
+        "name": "张婉妍",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9656&name=%E5%BC%A0%E5%A9%89%E5%A6%8D"
+      }
+    ]
+  }
+}

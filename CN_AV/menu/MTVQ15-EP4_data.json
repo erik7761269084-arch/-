@@ -1,0 +1,28 @@
+{
+  "episodes": {},
+  "seriesInfo": {
+    "id": 2780,
+    "IDcode": "MTVQ15-EP4",
+    "title": "心动的性号EP4 乐天x梦舒",
+    "publish_date": "2023-10-17",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ15-EP4",
+    "actresses": [
+      {
+        "name": "梦舒",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7836&name=%E6%A2%A6%E8%88%92"
+      },
+      {
+        "name": "乐天",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=7855&name=%E4%B9%90%E5%A4%A9"
+      }
+    ]
+  }
+}

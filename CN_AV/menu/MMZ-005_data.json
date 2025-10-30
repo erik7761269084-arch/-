@@ -1,0 +1,31 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/7cf73abb-510f-4dfd-960f-16304bd9e3be.html",
+    "线路2": "https://jiujiu.one/18461",
+    "线路3": "https://jiujiu.one/455856",
+    "线路4": "https://jiujiu.one/947304",
+    "线路5": "https://jiujiu.one/980988",
+    "线路6": "https://jiujiu.one/14708",
+    "线路7": "https://jiujiu.one/913654"
+  },
+  "seriesInfo": {
+    "id": 16376,
+    "IDcode": "MMZ-005",
+    "title": "都市狐妖传说",
+    "publish_date": "2024-09-20",
+    "type": "有码",
+    "company": "麻豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "http://pic1.thzpic.com/forum/202106/02/140114sewawro0t1rrrytm.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MMZ-005",
+    "actresses": [
+      {
+        "name": "胡心瑤",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9443&name=%E8%83%A1%E5%BF%83%E7%91%A4"
+      }
+    ]
+  }
+}

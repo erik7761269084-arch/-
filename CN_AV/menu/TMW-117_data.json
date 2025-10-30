@@ -1,8 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20250204/Yl623gsR/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/01/03/f1653579/index.m3u8",
-    "线路3": "https://thm3u8.com/20240830/gj8XfLfl/index.m3u8"
+    "主线路": "https://jiujiu.one/15588",
+    "线路2": "https://jiujiu.one/400318",
+    "线路3": "https://jiujiu.one/84893"
   },
   "seriesInfo": {
     "id": 10722,
@@ -13,14 +13,14 @@
     "company": "天美传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230519-1/6bfebc84ef3641f4e693bfc6dbf6b6b1.jpg",
-    "background_img": null,
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/de1f9b4c27aa1664d8c8e9f0e2db1ef2.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-117",
     "actresses": [
       {
         "name": "白熙雨",
         "img_url": "https://upload.xchina.io/model/61a71f33af8f2.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=10722&name=白熙雨"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8717&name=%E7%99%BD%E7%86%99%E9%9B%A8"
       }
     ]
   }

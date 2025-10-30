@@ -1,18 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://play.palyhuangbubu.com:1999/20250825/63J3sUrB/index.m3u8"
+    "主线路": "https://jiujiu.one/1445687"
   },
   "seriesInfo": {
     "id": 37114,
     "IDcode": "PC-190",
     "title": "致命坏男人（下） PC-190",
-    "publish_date": null,
+    "publish_date": "",
     "type": "有码",
-    "company": null,
+    "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250827-1/79124688d2314ac2634976af9fa7af77.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PC-190",
     "actresses": []
   }

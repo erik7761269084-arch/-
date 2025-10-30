@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/508926",
+    "线路2": "https://jiujiu.one/1402012",
+    "线路3": "https://jiujiu.one/397173",
+    "线路4": "https://jiujiu.one/957374"
+  },
+  "seriesInfo": {
+    "id": 24908,
+    "IDcode": "LTV-0040",
+    "title": "第40集 欲不可纵",
+    "publish_date": "2023-03-11",
+    "type": "有码",
+    "company": "麻豆传媒映画MDUS系列",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230121-1/a6efe455acc43ccd7f9d21b9a1c3f5c3.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LTV-0040",
+    "actresses": [
+      {
+        "name": "赖畇希",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/gbjGvpxKqISHKCv85ypvyb0mJpklteU3Zrf3Qf1k_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8628&name=%E8%B5%96%E7%95%87%E5%B8%8C"
+      },
+      {
+        "name": "南芊允",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/Bo6Q8UZQqVQOxFnaeuEfAv5Y62M5OB085JBtJAfq_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8661&name=%E5%8D%97%E8%8A%8A%E5%85%81"
+      }
+    ]
+  }
+}

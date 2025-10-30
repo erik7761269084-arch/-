@@ -1,18 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202411/08/TjJ3jPhNmj1/video/index.m3u8"
+    "主线路": "https://jiujiu.one/60481"
   },
   "seriesInfo": {
     "id": 24429,
     "IDcode": "CUS-2275",
     "title": "海龙王彼得",
-    "publish_date": null,
+    "publish_date": "",
     "type": "有码",
-    "company": null,
+    "company": "",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250402-1/5282385fecaf8664900cb2bab9532fdf.jpg",
-    "background_img": null,
+    "cover_url": "",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-2275",
     "actresses": []
   }

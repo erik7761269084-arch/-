@@ -1,6 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://t26.cdn2020.com/video/m3u8/2022/02/15/c252e429/index.m3u8"
+    "主线路": "https://jiujiu.one/478925",
+    "线路2": "https://jiujiu.one/258453",
+    "线路3": "https://jiujiu.one/441199"
   },
   "seriesInfo": {
     "id": 2850,
@@ -10,10 +12,16 @@
     "type": "有码",
     "company": "麻豆传媒",
     "genres": [],
-    "description": null,
+    "description": "",
     "cover_url": "https://upload.xchina.io/video/63f07e7a0c9dd.webp",
-    "background_img": null,
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MXJ-0002-1",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "沙月芽衣",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9684&name=%E6%B2%99%E6%9C%88%E8%8A%BD%E8%A1%A3"
+      }
+    ]
   }
 }

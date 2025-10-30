@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/79224",
+    "线路2": "https://jiujiu.one/1471396",
+    "线路3": "https://jiujiu.one/579738",
+    "线路4": "https://jiujiu.one/349581"
+  },
+  "seriesInfo": {
+    "id": 3428,
+    "IDcode": "MDYH-AH-002",
+    "title": "极乐教育",
+    "publish_date": "2023-09-27",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/3a0dbde157fef704d9e99bfeeb29fb93.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDYH-AH-002",
+    "actresses": [
+      {
+        "name": "魏乔安",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/oxO8UHjwX218OUV3x0YUVKJgGBgAKVyALe9N8pAm_compressed.png",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8613&name=%E9%AD%8F%E4%B9%94%E5%AE%89"
+      },
+      {
+        "name": "乔安",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9507&name=%E4%B9%94%E5%AE%89"
+      }
+    ]
+  }
+}

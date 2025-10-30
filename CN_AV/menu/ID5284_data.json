@@ -1,26 +1,26 @@
 {
   "episodes": {
-    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/05/07/2139ceb3/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20230510/movw8jYU/index.m3u8",
-    "线路3": "https://player.hgplayer00.com/20230911/eC71JeUt/index.m3u8"
+    "主线路": "https://jiujiu.one/377599",
+    "线路2": "https://jiujiu.one/724270",
+    "线路3": "https://jiujiu.one/667158"
   },
   "seriesInfo": {
     "id": 12696,
     "IDcode": "ID5284",
     "title": "相依为命的姐姐竟是小姐",
-    "publish_date": null,
+    "publish_date": "",
     "type": "有码",
     "company": "爱豆传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231102-3/808b4e3e030e4fa85e768e076901e2c2.jpg",
-    "background_img": null,
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/5776af742e760abd7557fa9e83a16aad.jpg",
+    "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5284",
     "actresses": [
       {
         "name": "琳怡",
         "img_url": null,
-        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12696&name=琳怡"
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9566&name=%E7%90%B3%E6%80%A1"
       }
     ]
   }

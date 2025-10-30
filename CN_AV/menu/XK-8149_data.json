@@ -1,0 +1,33 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/482683",
+    "线路2": "https://jiujiu.one/236042",
+    "线路3": "https://jiujiu.one/209593",
+    "线路4": "https://jiujiu.one/395388"
+  },
+  "seriesInfo": {
+    "id": 8155,
+    "IDcode": "XK-8149",
+    "title": "星空春晚小品爆笑来袭",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/2f4d73d6e64e924b6cbcac31977a6581.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8149",
+    "actresses": [
+      {
+        "name": "季妍希",
+        "img_url": "https://eve.modelmediaasia.com/model_avatars/BP8pnxKA7Kfk3DGCCKzT40k9hfEB8zieeShYqfsg_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8605&name=%E5%AD%A3%E5%A6%8D%E5%B8%8C"
+      },
+      {
+        "name": "佳芯",
+        "img_url": "https://upload.xchina.io/model/6362b54ad353a.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8700&name=%E4%BD%B3%E8%8A%AF"
+      }
+    ]
+  }
+}

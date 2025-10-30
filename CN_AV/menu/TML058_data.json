@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/33328",
+    "线路2": "https://jiujiu.one/310691"
+  },
+  "seriesInfo": {
+    "id": 10510,
+    "IDcode": "TML058",
+    "title": "胖猫的野心",
+    "publish_date": "2024-05-05",
+    "type": "有码",
+    "company": "天美传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/87834b882277bb2cf4253afc8042ad19.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML058",
+    "actresses": [
+      {
+        "name": "优娜",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/tuTlBRVzeJrkSATnf028CAXGeTCpzTFG59jcD53y_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8595&name=%E4%BC%98%E5%A8%9C"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/512462",
+    "线路2": "https://jiujiu.one/182268",
+    "线路3": "https://jiujiu.one/82504",
+    "线路4": "https://jiujiu.one/582302",
+    "线路5": "https://jiujiu.one/371871"
+  },
+  "seriesInfo": {
+    "id": 19860,
+    "IDcode": "CP-014",
+    "title": "离家的黑魔术女孩",
+    "publish_date": "2023-10-01",
+    "type": "有码",
+    "company": "麻豆传媒映画X狂点映像",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/7bfdb4052d54afc14d542b6a9eea6c76.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-014",
+    "actresses": [
+      {
+        "name": "优娜",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/tuTlBRVzeJrkSATnf028CAXGeTCpzTFG59jcD53y_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8595&name=%E4%BC%98%E5%A8%9C"
+      },
+      {
+        "name": "唐雨菲",
+        "img_url": "https://upload.xchina.io/model/623ebb5acdaf9.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8689&name=%E5%94%90%E9%9B%A8%E8%8F%B2"
+      }
+    ]
+  }
+}

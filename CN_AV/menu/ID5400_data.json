@@ -1,0 +1,27 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/420569",
+    "线路2": "https://jiujiu.one/310236",
+    "线路3": "https://jiujiu.one/430736"
+  },
+  "seriesInfo": {
+    "id": 12795,
+    "IDcode": "ID5400",
+    "title": "迟来的导演潜规则",
+    "publish_date": "",
+    "type": "有码",
+    "company": "爱豆传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20240706-1/b81911218a010e76475c51511f3ec4b2.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5400",
+    "actresses": [
+      {
+        "name": "慧敏",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9796&name=%E6%85%A7%E6%95%8F"
+      }
+    ]
+  }
+}

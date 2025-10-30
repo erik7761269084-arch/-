@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/42457",
+    "线路2": "https://jiujiu.one/923088"
+  },
+  "seriesInfo": {
+    "id": 33444,
+    "IDcode": "MDS-006",
+    "title": "疯狂的女主播",
+    "publish_date": "2023-02-10",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://bf1.qrtuv.com/20240103/BDFEC3B14B8E7AAD/BDFEC3B14B8E7AAD.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDS-006",
+    "actresses": [
+      {
+        "name": "張妮妮",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=9445&name=%E5%BC%B5%E5%A6%AE%E5%A6%AE"
+      }
+    ]
+  }
+}

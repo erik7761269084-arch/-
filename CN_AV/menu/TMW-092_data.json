@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/410535",
+    "线路2": "https://jiujiu.one/89821"
+  },
+  "seriesInfo": {
+    "id": 10698,
+    "IDcode": "TMW-092",
+    "title": "最难忘的夏夜-与学长的纯爱日记",
+    "publish_date": "2025-07-08",
+    "type": "有码",
+    "company": "天美传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20221104-1/62f279cb8b3cd181ad313e0faedaf898.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-092",
+    "actresses": [
+      {
+        "name": "尤莉",
+        "img_url": "https://upload.xchina.io/model/60d9cdc74648c.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8768&name=%E5%B0%A4%E8%8E%89"
+      }
+    ]
+  }
+}

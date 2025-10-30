@@ -1,0 +1,29 @@
+{
+  "episodes": {
+    "主线路": "https://jiujiu.one/430825",
+    "线路2": "https://jiujiu.one/450434",
+    "线路3": "https://jiujiu.one/1419977",
+    "线路4": "https://jiujiu.one/996109",
+    "线路5": "https://jiujiu.one/920745"
+  },
+  "seriesInfo": {
+    "id": 15277,
+    "IDcode": "LB027",
+    "title": "神屌侠侣 桃花外传",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picmeta2024.sbs/upload/vod/20211102-1/fc2b06e177ee6ab4c4f6df6f3235a546.jpg",
+    "background_img": "",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB027",
+    "actresses": [
+      {
+        "name": "林晓熙",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8544&name=%E6%9E%97%E6%99%93%E7%86%99"
+      }
+    ]
+  }
+}

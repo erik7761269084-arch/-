@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://www.javrate.com/Movie/Detail/9181a6e4-2772-4b56-9c9c-2801d6a4e530.html",
+    "线路2": "https://jiujiu.one/72264",
+    "线路3": "https://jiujiu.one/454291",
+    "线路4": "https://jiujiu.one/981173"
+  },
+  "seriesInfo": {
+    "id": 16518,
+    "IDcode": "MDM-001",
+    "title": "恋爱咖啡馆 第1杯：幸运拿铁",
+    "publish_date": "2022-01-10",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230530/4daaf958-4822-4aac-aa7c-79dc3f2594a0.jpg",
+    "background_img": "https://picture.yoshiclub.xyz/20230530/4daaf958-4822-4aac-aa7c-79dc3f2594a0.jpg",
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDM-001",
+    "actresses": [
+      {
+        "name": "苏清歌",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/SGRZfyywqlVlGZVgCWAWIgvO3lSBD4y5QqqytgPi_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=8667&name=%E8%8B%8F%E6%B8%85%E6%AD%8C"
+      }
+    ]
+  }
+}
