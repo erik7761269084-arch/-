@@ -1,0 +1,29 @@
+{
+  "episodes": {
+    "主线路": "https://jkunnzyx.com/20231016/IIVthBVz/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240825/Ze0JU37L/index.m3u8",
+    "线路3": "https://player.hgplayer00.com/20221124/S9nnTczA/index.m3u8",
+    "线路4": "https://t26.cdn2020.com/video/m3u8/2022/01/20/e174806e/index.m3u8",
+    "线路5": "https://bf1.qrtuv.com/20220715/3F58268DE5B276F0/hls/1500k/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 22992,
+    "IDcode": "MAD-031",
+    "title": "慈溪秘史",
+    "publish_date": "2020-11-20",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://bf1.qrtuv.com/20220715/3F58268DE5B276F0/3F58268DE5B276F0.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAD-031",
+    "actresses": [
+      {
+        "name": "赵一曼",
+        "img_url": "https://eve.modelmediaasia.com/model_avatars/3EG6SwbKR7UHxSJ5wjl8fmlwQW54IkeR0HaucvFO_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=22992&name=赵一曼"
+      }
+    ]
+  }
+}

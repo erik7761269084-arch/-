@@ -1,0 +1,20 @@
+{
+  "episodes": {
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2022/08/07/48535815/index.m3u8",
+    "线路2": "https://1.mysqldata3202s4l.com/20220824/mfKg8YXX/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 8140,
+    "IDcode": "XK-8133",
+    "title": "倩女幽魂",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250712-1/54a6b4dd13411971c7dda3c1d44db91e.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8133",
+    "actresses": []
+  }
+}

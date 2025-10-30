@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://thm3u8.com/20240704/u7PbKfnL/index.m3u8",
+    "线路2": "https://thm3u8.com/20241101/2BTAjYqx/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 11504,
+    "IDcode": "GDCM043",
+    "title": "单身狗的复仇",
+    "publish_date": "2023-01-29",
+    "type": "有码",
+    "company": "果冻传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230412-6/be19e93b31a407fa631693b04062b46f.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM043",
+    "actresses": [
+      {
+        "name": "白允儿",
+        "img_url": "https://upload.xchina.io/model/647b3369ae9bc.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11504&name=白允儿"
+      }
+    ]
+  }
+}

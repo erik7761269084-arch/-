@@ -1,0 +1,25 @@
+{
+  "episodes": {
+    "主线路": "https://player.hgplayer00.com/20250725/Er965f37/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 15253,
+    "IDcode": "LB003",
+    "title": "蜜桃成熟之兄妹蕉谈",
+    "publish_date": "2023-06-01",
+    "type": "有码",
+    "company": "乐播传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250727-1/4335815a730efa5d78dae6f8dde93522.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB003",
+    "actresses": [
+      {
+        "name": "董小宛",
+        "img_url": "https://upload.xchina.io/model/6060d7341cfc5.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15253&name=董小宛"
+      }
+    ]
+  }
+}

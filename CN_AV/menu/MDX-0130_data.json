@@ -1,0 +1,38 @@
+{
+  "episodes": {
+    "主线路": "https://vz-a59c6881-d86.b-cdn.net/2fe70ff5-d8f7-431d-8eb2-e397211d5e52/playlist.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/09/11/e9e3721e/index.m3u8",
+    "线路3": "https://player.cl9987.com:188/20230220/uPwREtvL/index.m3u8",
+    "线路4": "https://vostrely.com/20230618/1I2XsmFo/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 16407,
+    "IDcode": "MDX-0130",
+    "title": "书中自有颜如玉_俭回收也能出头天",
+    "publish_date": "2024-08-02",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [
+      "上門福利",
+      "劇情",
+      "廢青",
+      "國產"
+    ],
+    "description": "",
+    "cover_url": "https://img.caoliuzywimg.com:188/20230220/uPwREtvL/1.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0130",
+    "actresses": [
+      {
+        "name": "秦可欣",
+        "img_url": "https://eve.modelmediaasia.com/model_covers/2elFBRSc1aSHJhYZMLyFj6mZ9yqHkIoZ8BblJBFx_compressed.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16407&name=秦可欣"
+      },
+      {
+        "name": "秦可",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=16407&name=秦可"
+      }
+    ]
+  }
+}

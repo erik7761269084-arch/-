@@ -1,0 +1,32 @@
+{
+  "episodes": {
+    "主线路": "https://t0.97img.com/a1000914/a.m3u8",
+    "线路2": "https://zyzf2dvideo.28rc5kz.com/decry/vd/20250125/MzRjNTc1Zjll/233102/1164_720/aac/libx/hls/encrypt/index.m3u8",
+    "线路3": "https://thm3u8.com/20250125/6XrSAQkB/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 14623,
+    "IDcode": "DA066",
+    "title": "跨越时空的红鲍",
+    "publish_date": "2025-10-03",
+    "type": "有码",
+    "company": "大象传媒",
+    "genres": [],
+    "description": null,
+    "cover_url": "https://upload.xchina.io/video/67963bef50672.webp",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA066",
+    "actresses": [
+      {
+        "name": "可菲",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14623&name=可菲"
+      },
+      {
+        "name": "丽娜",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=14623&name=丽娜"
+      }
+    ]
+  }
+}

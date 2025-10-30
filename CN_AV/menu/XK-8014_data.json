@@ -1,0 +1,48 @@
+{
+  "episodes": {
+    "主线路": "https://vz-a59c6881-d86.b-cdn.net/a5dbe371-b087-4689-8ec0-e335e9a3443d/playlist.m3u8",
+    "线路2": "https://thm3u8.com/20250930/xJq6bDri/index.m3u8",
+    "线路3": "https://vip6.3sybf.com/20210824/X4e9VzOK/index.m3u8",
+    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/04/24/7377e397/index.m3u8",
+    "线路5": "https://bf1.qrtuv.com/20231210/607B9DD28BB3855C/hls/1500k/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 15771,
+    "IDcode": "XK-8014",
+    "title": "王升职记1",
+    "publish_date": "2021-03-21",
+    "type": "有码",
+    "company": "星空无限传媒",
+    "genres": [
+      "劇情",
+      "文藝女",
+      "國產"
+    ],
+    "description": "",
+    "cover_url": "https://bf1.qrtuv.com/20231210/607B9DD28BB3855C/607B9DD28BB3855C.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8014",
+    "actresses": [
+      {
+        "name": "黄雪纯",
+        "img_url": "https://upload.xchina.io/model/607150503d3f5.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=黄雪纯"
+      },
+      {
+        "name": "拉拉",
+        "img_url": "https://img.ripic.xyz/head/5cd95732ecf00a40c9bfa1d0.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=拉拉"
+      },
+      {
+        "name": "王拉拉",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=王拉拉"
+      },
+      {
+        "name": "辰悦",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=15771&name=辰悦"
+      }
+    ]
+  }
+}

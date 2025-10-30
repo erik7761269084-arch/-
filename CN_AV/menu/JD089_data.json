@@ -1,0 +1,38 @@
+{
+  "episodes": {
+    "主线路": "https://v.ddoucdn.com/20240918/joeJLvnq/index.m3u8",
+    "线路2": "https://lsbbf5.com/20230921/WDIX1kwE/index.m3u8",
+    "线路3": "https://player.hgplayer00.com/20221124/n7LcySl4/index.m3u8",
+    "线路4": "https://t26.cdn2020.com/video/m3u8/2021/12/19/6c8b7a2f/index.m3u8",
+    "线路5": "https://krevonix.com/20221002/tPrTsREo/index.m3u8",
+    "线路6": "https://lsbbf5.com/20231021/btmYCTQ3/index.m3u8",
+    "线路7": "https://v3-2.lbv3lb2025.com/20241110/6QbKHR7J/index.m3u8",
+    "线路8": "https://bf1.qrtuv.com/20240105/215995F4B279AB5B/hls/1500k/index.m3u8",
+    "线路9": "https://bf1.qrtuv.com/20220607/6279A95E48794F7D/hls/2000k/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 12165,
+    "IDcode": "JD089",
+    "title": "万万没想到之魔法少女",
+    "publish_date": "2021-10-06",
+    "type": "有码",
+    "company": "精东影业",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250815-1/fac565e5db5906e42023be81fc9bab7a.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD089",
+    "actresses": [
+      {
+        "name": "Lisa",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12165&name=Lisa"
+      },
+      {
+        "name": "丽萨",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=12165&name=丽萨"
+      }
+    ]
+  }
+}

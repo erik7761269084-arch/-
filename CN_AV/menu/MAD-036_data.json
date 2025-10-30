@@ -1,0 +1,28 @@
+{
+  "episodes": {
+    "主线路": "https://bf1.qrtuv.com/20220505/B48EA6381FDB6382/hls/2000k/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20231017/tXso4nVy/index.m3u8",
+    "线路3": "https://thm3u8.com/20241122/BF6CIbiq/index.m3u8",
+    "线路4": "https://t26.cdn2020.com/video/m3u8/2022/01/06/fdbcc03a/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 22997,
+    "IDcode": "MAD-036",
+    "title": "苗疆少女",
+    "publish_date": "2020-11-20",
+    "type": "有码",
+    "company": "麻豆映画传媒",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://pic.douimg.cc/upload/vod/20250904-1/861e1ab0a47901b05a66b0f6e1d646cd.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAD-036",
+    "actresses": [
+      {
+        "name": "文冰冰",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=22997&name=文冰冰"
+      }
+    ]
+  }
+}

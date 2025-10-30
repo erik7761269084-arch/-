@@ -1,0 +1,26 @@
+{
+  "episodes": {
+    "主线路": "https://thm3u8.com/20250520/ZmhaSN7P/index.m3u8",
+    "线路2": "https://bf1.qrtuv.com/20221101/DDC5D94B6C95C50C/hls/2000k/index.m3u8"
+  },
+  "seriesInfo": {
+    "id": 11357,
+    "IDcode": "91TCM-001",
+    "title": "打篮球受伤啦啦队妹妹照顾我",
+    "publish_date": "2023-03-19",
+    "type": "有码",
+    "company": "91制片厂",
+    "genres": [],
+    "description": "",
+    "cover_url": "https://bf1.qrtuv.com/20221101/DDC5D94B6C95C50C/DDC5D94B6C95C50C.jpg",
+    "background_img": null,
+    "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91TCM-001",
+    "actresses": [
+      {
+        "name": "莉娜",
+        "img_url": null,
+        "profile_url": "https://erik7761269084-arch.github.io/-/AV/AVactressDatas.html?series=11357&name=莉娜"
+      }
+    ]
+  }
+}
