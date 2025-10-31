@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/9c6aeb1b-910a-45be-88c5-470c80cb295a/playlist.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202407/12/1fsNeMmGFd1/video/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/31/708ceb01/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202407/12/1fsNeMmGFd1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 16409,

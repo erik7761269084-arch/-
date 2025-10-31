@@ -1,10 +1,7 @@
 {
   "episodes": {
     "主线路": "https://vostrely.com/20230424/8MrBG9bQ/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20240518/6gIagmmf/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2022/04/13/168325a4/index.m3u8",
-    "线路4": "https://storage.banyinjia8.com/media/videos/hls/000/025/475/480p.m3u8",
-    "线路5": "https://bf1.qrtuv.com/20231128/3AD2DB1EB8F5BD7A/hls/1000k/index.m3u8"
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2022/04/13/168325a4/index.m3u8"
   },
   "seriesInfo": {
     "id": 36650,

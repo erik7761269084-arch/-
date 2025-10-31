@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20241128/HY1ITAKH/index.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/02/05/e94cc84a/index.m3u8",
-    "线路3": "https://vip8.3sybf.com/20231204/4CcObFL1/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2023/02/05/e94cc84a/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20231204/4CcObFL1/index.m3u8"
   },
   "seriesInfo": {
     "id": 12624,

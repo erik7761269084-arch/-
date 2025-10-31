@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/26/203c9b41/index.m3u8",
-    "线路2": "https://thm3u8.com/20250109/FAdhyEn0/index.m3u8",
-    "线路3": "https://bwzm3u8.com/20250901/z4nXPDO0/index.m3u8",
-    "线路4": "https://v.ddoucdn.com/20250125/RqBjVMEG/index.m3u8"
+    "主线路": "https://thm3u8.com/20250109/FAdhyEn0/index.m3u8",
+    "线路2": "https://bwzm3u8.com/20250901/z4nXPDO0/index.m3u8"
   },
   "seriesInfo": {
     "id": 14627,

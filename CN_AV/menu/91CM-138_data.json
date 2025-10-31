@@ -1,20 +1,18 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/a8cef259-d6d6-4021-878b-da27263c7aad/playlist.m3u8",
-    "线路2": "https://lsbbf5.com/20240613/NOujG1kR/index.m3u8",
-    "线路3": "https://v1.1bbffvip.com/20240721/WbBUb89K/index.m3u8",
-    "线路4": "https://b.v155p.com/20250708/6XjlLx1u/index.m3u8",
-    "线路5": "https://v.ddoucdn.com/20240918/a5ueEZad/index.m3u8",
-    "线路6": "https://lsbbf5.com/20230921/5pv9F2tj/index.m3u8",
-    "线路7": "https://lsbbf5.com/20231021/qZ5CcWvC/index.m3u8",
-    "线路8": "https://v8.lj20250710new.com/20250806/QihZzJ6c/index.m3u8",
-    "线路9": "https://v2025.fhbbff.com/20250806/QihZzJ6c/index.m3u8",
-    "线路10": "https://v2025.fhbbff.com/20250708/6XjlLx1u/index.m3u8",
-    "线路11": "https://vip8.3sybf.com/20230501/4WOYHN12/index.m3u8",
-    "线路12": "https://v3-2.lbv3lb2025.com/20241110/1XV3cdC7/index.m3u8",
-    "线路13": "https://t27.cdn2020.com/video/m3u8/2021/07/11/8ce6f6d5/index.m3u8",
-    "线路14": "https://m3u8.bwzyplay.com/20250125/KnFceiMC/index.m3u8",
-    "线路15": "https://bf1.qrtuv.com/20240106/BEBA25C22E3FD2DD/hls/1000k/index.m3u8"
+    "主线路": "https://lsbbf5.com/20240613/NOujG1kR/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20240721/WbBUb89K/index.m3u8",
+    "线路3": "https://b.v155p.com/20250708/6XjlLx1u/index.m3u8",
+    "线路4": "https://v.ddoucdn.com/20240918/a5ueEZad/index.m3u8",
+    "线路5": "https://lsbbf5.com/20230921/5pv9F2tj/index.m3u8",
+    "线路6": "https://lsbbf5.com/20231021/qZ5CcWvC/index.m3u8",
+    "线路7": "https://v8.lj20250710new.com/20250806/QihZzJ6c/index.m3u8",
+    "线路8": "https://v2025.fhbbff.com/20250806/QihZzJ6c/index.m3u8",
+    "线路9": "https://v2025.fhbbff.com/20250708/6XjlLx1u/index.m3u8",
+    "线路10": "https://vip8.3sybf.com/20230501/4WOYHN12/index.m3u8",
+    "线路11": "https://v3-2.lbv3lb2025.com/20241110/1XV3cdC7/index.m3u8",
+    "线路12": "https://t27.cdn2020.com/video/m3u8/2021/07/11/8ce6f6d5/index.m3u8",
+    "线路13": "https://m3u8.bwzyplay.com/20250125/KnFceiMC/index.m3u8"
   },
   "seriesInfo": {
     "id": 11076,

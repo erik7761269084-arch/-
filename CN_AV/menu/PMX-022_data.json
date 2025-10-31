@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/7710c7d7-553d-484f-b153-b6eca1d508fa/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/08/cbb1e3a7/index.m3u8",
-    "线路3": "https://krevonix.com/20240525/tIhJaOow/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20231129/FA5E523BA484B8A7/hls/1000k/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/08/cbb1e3a7/index.m3u8",
+    "线路2": "https://krevonix.com/20240525/tIhJaOow/index.m3u8"
   },
   "seriesInfo": {
     "id": 9998,

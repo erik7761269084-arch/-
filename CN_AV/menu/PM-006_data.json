@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/7c77fd0b-580a-46f7-a367-3f8a5178d583/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230417/TF46YovX/index.m3u8",
-    "线路3": "https://vip1.viii155.com/20240910/0vs65GLd/index.m3u8",
-    "线路4": "https://vip1.viii155.com/20240910/0vjXb5tS/index.m3u8"
+    "主线路": "https://vip1.viii155.com/20240910/0vs65GLd/index.m3u8",
+    "线路2": "https://vip1.viii155.com/20240910/0vjXb5tS/index.m3u8"
   },
   "seriesInfo": {
     "id": 9099,

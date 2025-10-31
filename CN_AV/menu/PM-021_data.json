@@ -1,9 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/d181feb8-9b9d-496e-8fae-182c4c9ebd92/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230418/jFqZu8BW/index.m3u8",
-    "线路3": "https://v1.1bbffvip.com/20240909/2gXOGHPI/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20240123/E31ADEECE0236999/hls/2000k/index.m3u8"
+    "主线路": "https://v1.1bbffvip.com/20240909/2gXOGHPI/index.m3u8"
   },
   "seriesInfo": {
     "id": 9114,

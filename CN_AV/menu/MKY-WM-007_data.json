@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20221124/FqXbrAvS/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202408/27/2baeqS9D4E1/video/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2022/03/27/b4df8592/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202408/27/2baeqS9D4E1/video/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2022/03/27/b4df8592/index.m3u8"
   },
   "seriesInfo": {
     "id": 30563,

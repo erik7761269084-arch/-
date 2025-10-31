@@ -1,9 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://player.cl9987.com:188/20230403/bw71TBp2/index.m3u8",
-    "线路2": "https://v3-2.lbv3lb2025.com/20241109/5FUNeERi/index.m3u8",
-    "线路3": "https://player.hgplayer00.com/20221028/9CfRIiQR/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20231217/615A69A61CD7DDB7/hls/2000k/index.m3u8"
+    "主线路": "https://v3-2.lbv3lb2025.com/20241109/5FUNeERi/index.m3u8"
   },
   "seriesInfo": {
     "id": 23532,

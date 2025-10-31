@@ -1,9 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://play.palyhuangbubu.com:1999/20250911/KnKK5FIN/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202411/08/3WDGTLYsvr1/video/index.m3u8",
-    "线路3": "https://t0.97img.com/a1000233/a.m3u8",
-    "线路4": "https://vip3.bfbfhao.com/20240720/Sz1GR7b8/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202411/08/3WDGTLYsvr1/video/index.m3u8",
+    "线路2": "https://t0.97img.com/a1000233/a.m3u8",
+    "线路3": "https://vip3.bfbfhao.com/20240720/Sz1GR7b8/index.m3u8"
   },
   "seriesInfo": {
     "id": 29607,

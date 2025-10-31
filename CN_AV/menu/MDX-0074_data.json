@@ -1,10 +1,8 @@
 {
   "episodes": {
     "主线路": "https://cloud.avking.xyz/20230628/c41f1da8-f26d-4fe8-a20b-dc8e165a033a/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20240609/dWUQFqKd/index.m3u8",
-    "线路3": "https://bf3.qrtuv.com/smv1/202410/08/gzycHnuUrV1/video/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/05/16/57461380/index.m3u8",
-    "线路5": "https://bf1.qrtuv.com/20220511/018C372F90B02EE9/hls/2000k/index.m3u8"
+    "线路2": "https://bf3.qrtuv.com/smv1/202410/08/gzycHnuUrV1/video/index.m3u8",
+    "线路3": "https://t27.cdn2020.com/video/m3u8/2021/05/16/57461380/index.m3u8"
   },
   "seriesInfo": {
     "id": 1766,

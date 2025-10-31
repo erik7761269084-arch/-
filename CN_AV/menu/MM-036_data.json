@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/bd6bfe52-564b-483e-be12-472e244743a0/playlist.m3u8",
-    "线路2": "https://player.hgplayer00.com/20241008/DdgwInKZ/index.m3u8",
-    "线路3": "https://thm3u8.com/20250602/wvRWP9e2/index.m3u8"
+    "主线路": "https://thm3u8.com/20250602/wvRWP9e2/index.m3u8"
   },
   "seriesInfo": {
     "id": 16122,

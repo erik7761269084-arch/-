@@ -1,10 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/0b842eef-4c73-4ab7-b747-f35e67edc1ce/playlist.m3u8",
-    "线路2": "https://krevonix.com/20240220/etP4Ey2d/index.m3u8",
-    "线路3": "https://vip6.ljbfbf.com/20220908/BFGs0Z6F/index.m3u8",
-    "线路4": "https://cdn.swcdn88.com:5278/cvguochanzipai/VOotI3MR/index.m3u8",
-    "线路5": "https://krevonix.com/20221113/TiUfQ2zI/index.m3u8"
+    "主线路": "https://krevonix.com/20240220/etP4Ey2d/index.m3u8",
+    "线路2": "https://vip6.ljbfbf.com/20220908/BFGs0Z6F/index.m3u8",
+    "线路3": "https://krevonix.com/20221113/TiUfQ2zI/index.m3u8"
   },
   "seriesInfo": {
     "id": 42384,

@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20241230/FHQAxr2X/index.m3u8",
-    "线路2": "https://t25.cdn2020.com/video/m3u8/2024/12/21/9e41611c/index.m3u8",
-    "线路3": "https://m3u8.bwzyplay.com/20250104/BVNJ4Fr6/index.m3u8"
+    "主线路": "https://m3u8.bwzyplay.com/20250104/BVNJ4Fr6/index.m3u8"
   },
   "seriesInfo": {
     "id": 24721,

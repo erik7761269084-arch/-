@@ -1,9 +1,7 @@
 {
   "episodes": {
     "主线路": "https://jkunnzyx.com/20240213/6Eb9rwCD/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/12/21/38a27b8b/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20231217/F6AFB5F4FDD644E7/hls/1500k/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20220516/3FD7F6B357DE655B/hls/2000k/index.m3u8"
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/12/21/38a27b8b/index.m3u8"
   },
   "seriesInfo": {
     "id": 33555,

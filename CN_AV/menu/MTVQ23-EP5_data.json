@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/a34ee13d-0202-466f-a311-f2f0d2ea4a6c/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/08/12/c3da9903/index.m3u8",
-    "线路3": "https://vip5.ddyunbo.com/20230824/473KyrMf/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2023/08/12/c3da9903/index.m3u8",
+    "线路2": "https://vip5.ddyunbo.com/20230824/473KyrMf/index.m3u8"
   },
   "seriesInfo": {
     "id": 2824,

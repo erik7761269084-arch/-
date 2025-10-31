@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://zyzf2dvideo.28rc5kz.com/decry/vd/20240828/MThkNTg4/023616/1280_720/libx/hls/encrypt/index.m3u8",
-    "线路2": "https://t25.cdn2020.com/video/m3u8/2024/08/27/e8c8e604/index.m3u8",
-    "线路3": "https://v3-2.lbv3lb2025.com/20241123/Q2svIfPC/index.m3u8"
+    "主线路": "https://v3-2.lbv3lb2025.com/20241123/Q2svIfPC/index.m3u8"
   },
   "seriesInfo": {
     "id": 39633,

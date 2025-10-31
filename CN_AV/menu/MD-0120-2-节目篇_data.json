@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/98c1fd16-7b6e-4bc6-8894-ab8f7a595372/playlist.m3u8",
-    "线路2": "https://jkunnzyx.com/20240924/qC96XDPO/index.m3u8",
-    "线路3": "https://t27.cdn2020.com/video/m3u8/2021/05/02/ead3a502/index.m3u8"
+    "主线路": "https://jkunnzyx.com/20240924/qC96XDPO/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/05/02/ead3a502/index.m3u8"
   },
   "seriesInfo": {
     "id": 15839,

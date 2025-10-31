@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/e699b91c-23d6-4cae-9fe1-00731a9d14ff/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/10/05/3a65fff2/index.m3u8",
-    "线路3": "https://krevonix.com/20231228/VJm67FIG/index.m3u8"
+    "主线路": "https://krevonix.com/20231228/VJm67FIG/index.m3u8"
   },
   "seriesInfo": {
     "id": 10001,

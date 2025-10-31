@@ -1,13 +1,12 @@
 {
   "episodes": {
     "主线路": "https://krevonix.com/20231129/PFaSGtWG/index.m3u8",
-    "线路2": "https://player.hgplayer00.com/20240513/VkO94MG3/index.m3u8",
-    "线路3": "https://thm3u8.com/20250729/Dv3BsExn/index.m3u8",
-    "线路4": "https://bf3.qrtuv.com/smv1/202408/26/MLs86EheN91/video/index.m3u8",
-    "线路5": "https://bf3.qrtuv.com/smv1/202410/15/uLzFnDKUj51/video/index.m3u8",
-    "线路6": "https://t26.cdn2020.com/video/m3u8/2022/04/12/0b7839dd/index.m3u8",
-    "线路7": "https://vip7.3sybf.com/20221103/DbjMjMCU/index.m3u8",
-    "线路8": "https://vostrely.com/20230315/sBTS6sa6/index.m3u8"
+    "线路2": "https://thm3u8.com/20250729/Dv3BsExn/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/smv1/202408/26/MLs86EheN91/video/index.m3u8",
+    "线路4": "https://bf3.qrtuv.com/smv1/202410/15/uLzFnDKUj51/video/index.m3u8",
+    "线路5": "https://t26.cdn2020.com/video/m3u8/2022/04/12/0b7839dd/index.m3u8",
+    "线路6": "https://vip7.3sybf.com/20221103/DbjMjMCU/index.m3u8",
+    "线路7": "https://vostrely.com/20230315/sBTS6sa6/index.m3u8"
   },
   "seriesInfo": {
     "id": 20963,

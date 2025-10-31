@@ -1,12 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20220511/60CC34A8419B3071/hls/2000k/index.m3u8",
-    "线路2": "https://player.putaoplayer.com:166/20220511/D94E72FD8D980AEC/hls/2000k/index.m3u8",
-    "线路3": "https://cdn.swcdn88.com:5278/cvguochanzipai/DcPCfSo6/index.m3u8",
-    "线路4": "https://cdn.swcdn88.com:5278/cvguochanzipai/LqNefh4G/index.m3u8",
-    "线路5": "https://cdn.swcdn88.com:5278/cvguochanzipai/n8m72k5J/index.m3u8",
-    "线路6": "https://bf1.qrtuv.com/20220511/39EC784FAEB09E26/hls/2000k/index.m3u8",
-    "线路7": "https://bf1.qrtuv.com/20220510/D4A8BF2C02D279F6/hls/2000k/index.m3u8"
+    "主线路": "https://cdn.swcdn88.com:5278/cvguochanzipai/DcPCfSo6/index.m3u8",
+    "线路2": "https://cdn.swcdn88.com:5278/cvguochanzipai/LqNefh4G/index.m3u8",
+    "线路3": "https://cdn.swcdn88.com:5278/cvguochanzipai/n8m72k5J/index.m3u8"
   },
   "seriesInfo": {
     "id": 18141,

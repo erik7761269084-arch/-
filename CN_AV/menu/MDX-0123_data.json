@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/10604186-9876-4e36-9ba7-cdb63fbd420d/playlist.m3u8",
-    "线路2": "https://player.cl9987.com:188/20230220/pwB5d2BC/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/08/24/a19c98fe/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/24/a19c98fe/index.m3u8"
   },
   "seriesInfo": {
     "id": 16413,

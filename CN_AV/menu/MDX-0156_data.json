@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250511/TnvZcv6U/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/10/06/a7ae9479/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20220513/96C04ADA2A8B796B/hls/2000k/index.m3u8"
+    "主线路": "https://thm3u8.com/20250511/TnvZcv6U/index.m3u8"
   },
   "seriesInfo": {
     "id": 25086,

@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20230705/sqsjNDqj/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202410/30/WGJ3UqpEyy1/video/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2023/07/04/96291b23/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/30/WGJ3UqpEyy1/video/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/07/04/96291b23/index.m3u8"
   },
   "seriesInfo": {
     "id": 23235,

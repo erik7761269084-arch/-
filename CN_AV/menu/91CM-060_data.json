@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/72a8f9c2-94cc-4d26-add2-4627e5ae3096/playlist.m3u8",
-    "线路2": "https://vip5.ddyunbo.com/20230407/lnHTK9yU/index.m3u8",
-    "线路3": "https://v3-2.lbv3lb2025.com/20241109/8bpEqngS/index.m3u8"
+    "主线路": "https://vip5.ddyunbo.com/20230407/lnHTK9yU/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241109/8bpEqngS/index.m3u8"
   },
   "seriesInfo": {
     "id": 10998,

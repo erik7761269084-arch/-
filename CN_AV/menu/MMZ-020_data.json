@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/6b9fbc3c-f573-4ca2-bc35-73bee08d13c3/playlist.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/08/23/bc0a2319/index.m3u8",
-    "线路3": "https://yutubf.lsbbf3.com/20250219/SyDGKpiI/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/08/23/bc0a2319/index.m3u8",
+    "线路2": "https://yutubf.lsbbf3.com/20250219/SyDGKpiI/index.m3u8"
   },
   "seriesInfo": {
     "id": 16352,

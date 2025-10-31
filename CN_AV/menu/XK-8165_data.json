@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://putaozywcdn.com:166/20240709/nhH6BGoh/index.m3u8",
-    "线路2": "https://03hao.top/20231228/LWLR5K1R/index.m3u8",
-    "线路3": "https://v.ddoucdn.com/20250204/Dqg6CWNw/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2023/05/09/363b7ea6/index.m3u8"
+    "主线路": "https://v.ddoucdn.com/20250204/Dqg6CWNw/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/05/09/363b7ea6/index.m3u8"
   },
   "seriesInfo": {
     "id": 8171,

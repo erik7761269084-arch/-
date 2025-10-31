@@ -1,19 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20220509/70D1A7FBD372A737/hls/2000k/index.m3u8",
-    "线路2": "https://krevonix.com/20240327/rydEjgIk/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230410/kc3I6hdK/index.m3u8",
-    "线路4": "https://v.ddoucdn.com/20240918/gsrHpruY/index.m3u8",
-    "线路5": "https://player.cl9987.com:188/20230527/6uDDAJwI/index.m3u8",
-    "线路6": "https://lsbbf5.com/20230921/Hdqy08lm/index.m3u8",
-    "线路7": "https://lsbbf5.com/20230921/unHzxqxu/index.m3u8",
-    "线路8": "https://lsbbf5.com/20231018/K6HXx5u5/index.m3u8",
-    "线路9": "https://lsbbf5.com/20231018/6GX1xfnI/index.m3u8",
-    "线路10": "https://player.hgplayer00.com/20240928/BPOviiY0/index.m3u8",
-    "线路11": "https://cdn.swcdn88.com:5278/cvguochanzipai/spA7UYLx/index.m3u8",
-    "线路12": "https://t26.cdn2020.com/video/m3u8/2021/11/02/6f0e6566/index.m3u8",
-    "线路13": "https://bf1.qrtuv.com/20231210/365BF0BA632194CE/hls/1500k/index.m3u8",
-    "线路14": "https://1.mysqldata3202s4l.com/20220807/XENqUbYm/index.m3u8"
+    "主线路": "https://krevonix.com/20240327/rydEjgIk/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20240918/gsrHpruY/index.m3u8",
+    "线路3": "https://lsbbf5.com/20230921/Hdqy08lm/index.m3u8",
+    "线路4": "https://lsbbf5.com/20230921/unHzxqxu/index.m3u8",
+    "线路5": "https://lsbbf5.com/20231018/K6HXx5u5/index.m3u8",
+    "线路6": "https://lsbbf5.com/20231018/6GX1xfnI/index.m3u8",
+    "线路7": "https://cdn.swcdn88.com:5278/cvguochanzipai/spA7UYLx/index.m3u8"
   },
   "seriesInfo": {
     "id": 23659,

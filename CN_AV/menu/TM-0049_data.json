@@ -1,13 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/e11ec75d-674a-444e-b14c-34d0363e8a32/playlist.m3u8",
-    "线路2": "https://krevonix.com/20240401/AsZ9DVjQ/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230405/upQsWmzB/index.m3u8",
-    "线路4": "https://vip8.3sybf.com/20230516/On9AgkRi/index.m3u8",
-    "线路5": "https://v3-2.lbv3lb2025.com/20241109/R5qKsVP3/index.m3u8",
-    "线路6": "https://bf1.qrtuv.com/20220312/048D9AE4D9DC6AE2/hls/1000k/index.m3u8",
-    "线路7": "https://t27.cdn2020.com/video/m3u8/2021/01/25/f585aa0d/index.m3u8",
-    "线路8": "https://bf1.qrtuv.com/20231129/C375257D99E63F5D/hls/1000k/index.m3u8"
+    "主线路": "https://krevonix.com/20240401/AsZ9DVjQ/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230516/On9AgkRi/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241109/R5qKsVP3/index.m3u8",
+    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/01/25/f585aa0d/index.m3u8"
   },
   "seriesInfo": {
     "id": 23577,

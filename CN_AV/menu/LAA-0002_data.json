@@ -1,9 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://bf1.qrtuv.com/20220502/0AFD052683BF195F/hls/2000k/index.m3u8",
-    "线路2": "https://video22.bpzy1.com/video/20220411/6d1c8aede02b50df46e6e9a191027db2/index.m3u8",
-    "线路3": "https://bf3.qrtuv.com/smv1/202408/28/eeJvyfEZCt1/video/index.m3u8",
-    "线路4": "https://t26.cdn2020.com/video/m3u8/2021/11/18/b15bb2ba/index.m3u8"
+    "主线路": "https://video22.bpzy1.com/video/20220411/6d1c8aede02b50df46e6e9a191027db2/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202408/28/eeJvyfEZCt1/video/index.m3u8",
+    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/11/18/b15bb2ba/index.m3u8"
   },
   "seriesInfo": {
     "id": 33917,

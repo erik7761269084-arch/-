@@ -1,13 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/c152664e-d6ad-496a-9bb3-89ffb011e295/playlist.m3u8",
-    "线路2": "https://vip6.3sybf.com/20210823/4GuZwouR/index.m3u8",
-    "线路3": "https://v.ddoucdn.com/20250204/wpfIyuXM/index.m3u8",
-    "线路4": "https://cdn.swcdn88.com:5278/cvguochanzipai/DnYWQqur/index.m3u8",
-    "线路5": "https://t27.cdn2020.com/video/m3u8/2021/01/28/0590bba2/index.m3u8",
-    "线路6": "https://cdn.swcdn88.com:5278/cvguochanzipai/RYwmpjOz/index.m3u8",
-    "线路7": "https://vip5.ddyunbo.com/20210809/Cp2i6yNX/index.m3u8",
-    "线路8": "https://bf1.qrtuv.com/20231128/302BD6E8318981CC/hls/1000k/index.m3u8"
+    "主线路": "https://vip6.3sybf.com/20210823/4GuZwouR/index.m3u8",
+    "线路2": "https://v.ddoucdn.com/20250204/wpfIyuXM/index.m3u8",
+    "线路3": "https://cdn.swcdn88.com:5278/cvguochanzipai/DnYWQqur/index.m3u8",
+    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/01/28/0590bba2/index.m3u8",
+    "线路5": "https://cdn.swcdn88.com:5278/cvguochanzipai/RYwmpjOz/index.m3u8",
+    "线路6": "https://vip5.ddyunbo.com/20210809/Cp2i6yNX/index.m3u8"
   },
   "seriesInfo": {
     "id": 9978,

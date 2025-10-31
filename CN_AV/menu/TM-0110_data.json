@@ -1,12 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20250704/cl0d29oj/index.m3u8",
-    "线路2": "https://v.ddoucdn.com/20240918/FO2JBfEb/index.m3u8",
-    "线路3": "https://krevonix.com/20240330/Stzvj1vf/index.m3u8",
-    "线路4": "https://player.cl9987.com:188/20230409/l1FwK8GU/index.m3u8",
-    "线路5": "https://lsbbf5.com/20230921/l8OklVf4/index.m3u8",
-    "线路6": "https://1.mysqldata3202s4l.com/20220807/J54wO4vi/index.m3u8",
-    "线路7": "https://bf1.qrtuv.com/20240113/9561FD2DB4B32ACA/hls/2000k/index.m3u8"
+    "主线路": "https://v.ddoucdn.com/20240918/FO2JBfEb/index.m3u8",
+    "线路2": "https://krevonix.com/20240330/Stzvj1vf/index.m3u8",
+    "线路3": "https://lsbbf5.com/20230921/l8OklVf4/index.m3u8"
   },
   "seriesInfo": {
     "id": 23636,

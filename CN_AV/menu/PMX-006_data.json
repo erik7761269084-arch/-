@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/6aa3a427-afe7-4a8e-babe-d8053bdb552d/playlist.m3u8",
-    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/03/22/bc4d7112/index.m3u8",
-    "线路3": "https://jkunnzyx.com/20230305/BoxZfzik/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20231128/1E6356E2AB30C696/hls/1500k/index.m3u8"
+    "主线路": "https://t27.cdn2020.com/video/m3u8/2021/03/22/bc4d7112/index.m3u8",
+    "线路2": "https://jkunnzyx.com/20230305/BoxZfzik/index.m3u8"
   },
   "seriesInfo": {
     "id": 9982,

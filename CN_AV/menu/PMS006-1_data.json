@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/286a2549-4af3-4595-9e4f-7ab590b05f37/playlist.m3u8",
-    "线路2": "https://t25.cdn2020.com/video/m3u8/2024/04/27/42682730/index.m3u8",
-    "线路3": "https://bwzm3u8.com/20250901/WBNMiQo0/index.m3u8"
+    "主线路": "https://bwzm3u8.com/20250901/WBNMiQo0/index.m3u8"
   },
   "seriesInfo": {
     "id": 9908,

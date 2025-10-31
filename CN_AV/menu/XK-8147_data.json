@@ -1,11 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20240706/7K3438Ao/index.m3u8",
-    "线路2": "https://thm3u8.com/20250715/QIOYzwAK/index.m3u8",
-    "线路3": "https://03hao.top/20231227/7SInPWmX/index.m3u8",
-    "线路4": "https://play.palyhuangbubu.com:1999/20250902/n7FByCsF/index.m3u8",
-    "线路5": "https://vip8.3sybf.com/20230228/mUxaeWzz/index.m3u8",
-    "线路6": "https://t27.cdn2020.com/video/m3u8/2023/01/08/c2e9d15a/index.m3u8"
+    "主线路": "https://thm3u8.com/20250715/QIOYzwAK/index.m3u8",
+    "线路2": "https://vip8.3sybf.com/20230228/mUxaeWzz/index.m3u8",
+    "线路3": "https://t27.cdn2020.com/video/m3u8/2023/01/08/c2e9d15a/index.m3u8"
   },
   "seriesInfo": {
     "id": 37270,

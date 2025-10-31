@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/b293f20d-a129-47ce-9586-e36ad6a82024/playlist.m3u8",
-    "线路2": "https://video2.51daao.com/btt1/2021/06/20210609/IrOtAs8j/index.m3u8",
-    "线路3": "https://yutubf.lsbbf3.com/20250208/w5JOsgjs/index.m3u8",
-    "线路4": "https://vip3.newljlj.com/20250514/ubqdxJTa/index.m3u8"
+    "主线路": "https://yutubf.lsbbf3.com/20250208/w5JOsgjs/index.m3u8",
+    "线路2": "https://vip3.newljlj.com/20250514/ubqdxJTa/index.m3u8"
   },
   "seriesInfo": {
     "id": 15267,

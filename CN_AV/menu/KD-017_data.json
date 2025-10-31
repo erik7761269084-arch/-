@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20240510/rfYOEVxK/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202410/21/x1HPSFE76k1/video/index.m3u8",
-    "线路3": "https://t27.cdn2020.com/video/m3u8/2022/11/29/6ef9c818/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/21/x1HPSFE76k1/video/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2022/11/29/6ef9c818/index.m3u8"
   },
   "seriesInfo": {
     "id": 29459,

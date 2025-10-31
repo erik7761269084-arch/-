@@ -1,10 +1,9 @@
 {
   "episodes": {
-    "主线路": "https://player.cl9987.com:188/20230303/z9xrylnt/index.m3u8",
-    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/12/27/054d29da/index.m3u8",
-    "线路3": "https://v3-2.lbv3lb2025.com/20241110/aLL5lWSy/index.m3u8",
-    "线路4": "https://bf3.qrtuv.com/202407/15/XzTtAj05hr1/video/index.m3u8",
-    "线路5": "https://lsbbf5.com/20230913/VGAx066i/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/27/054d29da/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241110/aLL5lWSy/index.m3u8",
+    "线路3": "https://bf3.qrtuv.com/202407/15/XzTtAj05hr1/video/index.m3u8",
+    "线路4": "https://lsbbf5.com/20230913/VGAx066i/index.m3u8"
   },
   "seriesInfo": {
     "id": 25736,

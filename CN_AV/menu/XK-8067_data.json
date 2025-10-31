@@ -1,16 +1,11 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/621e5a60-1c5e-48d9-b576-e16b031c6e68/playlist.m3u8",
-    "线路2": "https://v.ddoucdn.com/20240918/58DAI7eB/index.m3u8",
-    "线路3": "https://lsbbf5.com/20230921/Br84y4iC/index.m3u8",
-    "线路4": "https://krevonix.com/20240219/pgr59xbu/index.m3u8",
-    "线路5": "https://b.gg155gg1.com/20250522/3U4xJLMy/index.m3u8",
-    "线路6": "https://thm3u8.com/20250930/VijBBCsE/index.m3u8",
-    "线路7": "https://lsbbf5.com/20231017/E4ZWqINi/index.m3u8",
-    "线路8": "https://bo.bobo998.com:1999/20250924/KC0K7E17/index.m3u8",
-    "线路9": "https://v2025.fhbbff.com/20250522/3U4xJLMy/index.m3u8",
-    "线路10": "https://t26.cdn2020.com/video/m3u8/2021/09/25/ddad30f8/index.m3u8",
-    "线路11": "https://bf1.qrtuv.com/20220604/6E3F59386D2EBA67/hls/2000k/index.m3u8"
+    "主线路": "https://lsbbf5.com/20230921/Br84y4iC/index.m3u8",
+    "线路2": "https://krevonix.com/20240219/pgr59xbu/index.m3u8",
+    "线路3": "https://b.gg155gg1.com/20250522/3U4xJLMy/index.m3u8",
+    "线路4": "https://thm3u8.com/20250930/VijBBCsE/index.m3u8",
+    "线路5": "https://lsbbf5.com/20231017/E4ZWqINi/index.m3u8",
+    "线路6": "https://v2025.fhbbff.com/20250522/3U4xJLMy/index.m3u8"
   },
   "seriesInfo": {
     "id": 8076,

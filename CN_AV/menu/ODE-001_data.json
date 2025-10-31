@@ -1,9 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://bf1.qrtuv.com/20220424/81A45053ACC8C8C7/hls/2000k/index.m3u8",
-    "线路2": "https://jkunnzyx.com/20230405/l594fDJU/index.m3u8",
-    "线路3": "https://lsbbf5.com/20230913/6gLE5KIJ/index.m3u8",
-    "线路4": "https://krevonix.com/20221111/9FoGzxw9/index.m3u8"
+    "主线路": "https://jkunnzyx.com/20230405/l594fDJU/index.m3u8",
+    "线路2": "https://lsbbf5.com/20230913/6gLE5KIJ/index.m3u8",
+    "线路3": "https://krevonix.com/20221111/9FoGzxw9/index.m3u8"
   },
   "seriesInfo": {
     "id": 23391,

@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/b602a7ba-cbb4-4df0-8f28-7ca2847b5662/playlist.m3u8",
-    "线路2": "https://player.putaoplayer.com:166/20241214/TGieAyFC/index.m3u8",
-    "线路3": "https://krevonix.com/20230831/MsniwfcK/index.m3u8",
-    "线路4": "https://v1.1bbffvip.com/20221113/1lkxmr2O/index.m3u8"
+    "主线路": "https://krevonix.com/20230831/MsniwfcK/index.m3u8",
+    "线路2": "https://v1.1bbffvip.com/20221113/1lkxmr2O/index.m3u8"
   },
   "seriesInfo": {
     "id": 12086,

@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://t25.cdn2020.com/video/m3u8/2024/12/11/d8764c9d/index.m3u8",
-    "线路2": "https://player.putaoplayer.com:166/20241215/hWgd4qr6/index.m3u8",
-    "线路3": "https://m3u8.bwzyplay.com/20250107/dPL8t8r1/index.m3u8"
+    "主线路": "https://m3u8.bwzyplay.com/20250107/dPL8t8r1/index.m3u8"
   },
   "seriesInfo": {
     "id": 23768,

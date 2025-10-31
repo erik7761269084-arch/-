@@ -2,12 +2,7 @@
   "episodes": {
     "主线路": "https://240311.sl3split.com/20240811/n9ebf4lS/index.m3u8",
     "线路2": "https://240311.sl3split.com/20240811/GPxZqlGr/index.m3u8",
-    "线路3": "https://240311.sl3split.com/20240811/DgBom1yd/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20220627/5CCCE661D7D4D0B6/hls/1000k/index.m3u8",
-    "线路5": "https://bf1.qrtuv.com/20230911/FFEF0F0487F54D7C/hls/1500k/index.m3u8",
-    "线路6": "https://bf1.qrtuv.com/20230908/990151F37A7AA432/hls/1500k/index.m3u8",
-    "线路7": "https://bf1.qrtuv.com/20230904/7F7053BB44B3C4A5/hls/1500k/index.m3u8",
-    "线路8": "https://bf1.qrtuv.com/20230808/EF82782A48C8F3A4/hls/1500k/index.m3u8"
+    "线路3": "https://240311.sl3split.com/20240811/DgBom1yd/index.m3u8"
   },
   "seriesInfo": {
     "id": 19793,

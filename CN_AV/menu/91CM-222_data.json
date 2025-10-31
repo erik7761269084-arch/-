@@ -1,20 +1,17 @@
 {
   "episodes": {
     "主线路": "https://t26.cdn2020.com/video/m3u8/2022/01/19/3a65c4b3/index.m3u8",
-    "线路2": "https://bf1.qrtuv.com/20220604/FD737AA5DF7D6DD0/hls/2000k/index.m3u8",
-    "线路3": "https://lsbbf5.com/20240616/MCvSPncT/index.m3u8",
-    "线路4": "https://b.v155p.com/20250726/wwmmH8Xa/index.m3u8",
-    "线路5": "https://v.ddoucdn.com/20240918/bGGnDhdU/index.m3u8",
-    "线路6": "https://lsbbf5.com/20230921/DZJFKAZv/index.m3u8",
-    "线路7": "https://krevonix.com/20250928/UawYRXFc/index.m3u8",
-    "线路8": "https://lsbbf5.com/20231021/RuZ5vxJF/index.m3u8",
-    "线路9": "https://player.hgplayer00.com/20250416/FxNX0m1Q/index.m3u8",
-    "线路10": "https://v8.lj20250710new.com/20250825/FgMKFAUz/index.m3u8",
-    "线路11": "https://v8.lj20250710new.com/20250726/wwmmH8Xa/index.m3u8",
-    "线路12": "https://v2025.fhbbff.com/20250726/wwmmH8Xa/index.m3u8",
-    "线路13": "https://v1.1bbffvip.com/20240805/lHTE6g9i/index.m3u8",
-    "线路14": "https://bwzm3u8.com/20250919/jBKxPTFi/index.m3u8",
-    "线路15": "https://bf1.qrtuv.com/20240110/F8018EE9DDFA06CF/hls/1500k/index.m3u8"
+    "线路2": "https://lsbbf5.com/20240616/MCvSPncT/index.m3u8",
+    "线路3": "https://b.v155p.com/20250726/wwmmH8Xa/index.m3u8",
+    "线路4": "https://v.ddoucdn.com/20240918/bGGnDhdU/index.m3u8",
+    "线路5": "https://lsbbf5.com/20230921/DZJFKAZv/index.m3u8",
+    "线路6": "https://krevonix.com/20250928/UawYRXFc/index.m3u8",
+    "线路7": "https://lsbbf5.com/20231021/RuZ5vxJF/index.m3u8",
+    "线路8": "https://v8.lj20250710new.com/20250825/FgMKFAUz/index.m3u8",
+    "线路9": "https://v8.lj20250710new.com/20250726/wwmmH8Xa/index.m3u8",
+    "线路10": "https://v2025.fhbbff.com/20250726/wwmmH8Xa/index.m3u8",
+    "线路11": "https://v1.1bbffvip.com/20240805/lHTE6g9i/index.m3u8",
+    "线路12": "https://bwzm3u8.com/20250919/jBKxPTFi/index.m3u8"
   },
   "seriesInfo": {
     "id": 11160,

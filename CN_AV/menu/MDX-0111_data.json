@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/2b9cd04f-ce56-4087-834f-acd0ae3a34b7/playlist.m3u8",
-    "线路2": "https://lsbbf5.com/20240410/9ysjfbud/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2021/07/23/73d97f5f/index.m3u8"
+    "主线路": "https://lsbbf5.com/20240410/9ysjfbud/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2021/07/23/73d97f5f/index.m3u8"
   },
   "seriesInfo": {
     "id": 16431,

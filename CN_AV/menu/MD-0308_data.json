@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.putaoplayer.com:166/20231214/igQrfuP0/index.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202411/02/4nL5Pm5zXm1/video/index.m3u8",
-    "线路3": "https://t26.cdn2020.com/video/m3u8/2023/11/18/b953dd88/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202411/02/4nL5Pm5zXm1/video/index.m3u8",
+    "线路2": "https://t26.cdn2020.com/video/m3u8/2023/11/18/b953dd88/index.m3u8"
   },
   "seriesInfo": {
     "id": 23243,

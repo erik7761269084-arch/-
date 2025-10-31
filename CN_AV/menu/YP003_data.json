@@ -1,9 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://v.ddoucdn.com/20240918/uO8SLi3k/index.m3u8",
-    "线路2": "https://vostrely.com/20230531/PkFPlAbq/index.m3u8",
-    "线路3": "https://lsbbf5.com/20240212/e9bNRdcT/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2022/08/07/71d117cb/index.m3u8"
+    "主线路": "https://vostrely.com/20230531/PkFPlAbq/index.m3u8",
+    "线路2": "https://lsbbf5.com/20240212/e9bNRdcT/index.m3u8",
+    "线路3": "https://t27.cdn2020.com/video/m3u8/2022/08/07/71d117cb/index.m3u8"
   },
   "seriesInfo": {
     "id": 19836,

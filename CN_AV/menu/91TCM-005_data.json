@@ -1,10 +1,7 @@
 {
   "episodes": {
     "主线路": "https://vostrely.com/20250926/8vmsSMnU/index.m3u8",
-    "线路2": "https://thm3u8.com/20250826/zZzjIXEv/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20221215/C5199607404B0C07/hls/2000k/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20221215/20022E418E63BBD1/hls/2000k/index.m3u8",
-    "线路5": "https://bf1.qrtuv.com/20221124/C3A6759F14BD3EC6/hls/2000k/index.m3u8"
+    "线路2": "https://thm3u8.com/20250826/zZzjIXEv/index.m3u8"
   },
   "seriesInfo": {
     "id": 11360,

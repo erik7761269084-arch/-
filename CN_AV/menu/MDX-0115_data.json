@@ -1,8 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/47b606e8-a7ad-4623-9fba-bc2265454423/playlist.m3u8",
-    "线路2": "https://bf3.qrtuv.com/smv1/202408/28/j13sV9UH491/video/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20240110/206BB84665427136/hls/2000k/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202408/28/j13sV9UH491/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 16427,

@@ -1,9 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/1e4b8a16-88ed-4234-88b7-fd92772baee8/playlist.m3u8",
-    "线路2": "https://krevonix.com/20240404/V9jwCZP6/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230407/vCoq0bb8/index.m3u8",
-    "线路4": "https://t27.cdn2020.com/video/m3u8/2021/05/07/ae31c069/index.m3u8"
+    "主线路": "https://krevonix.com/20240404/V9jwCZP6/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/05/07/ae31c069/index.m3u8"
   },
   "seriesInfo": {
     "id": 23608,

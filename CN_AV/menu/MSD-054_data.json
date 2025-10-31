@@ -1,9 +1,7 @@
 {
   "episodes": {
     "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/21/d1165ab4/index.m3u8",
-    "线路2": "https://v3-2.lbv3lb2025.com/20241110/FChof05Y/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20240103/DCFAD8BE3978F06A/hls/2000k/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20220507/D61B7C714C9D0E39/hls/2000k/index.m3u8"
+    "线路2": "https://v3-2.lbv3lb2025.com/20241110/FChof05Y/index.m3u8"
   },
   "seriesInfo": {
     "id": 33635,

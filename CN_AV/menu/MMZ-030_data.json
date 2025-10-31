@@ -1,9 +1,7 @@
 {
   "episodes": {
     "主线路": "https://t26.cdn2020.com/video/m3u8/2021/12/14/e7fc6574/index.m3u8",
-    "线路2": "https://yutubf.lsbbf3.com/20250221/4UfibMuv/index.m3u8",
-    "线路3": "https://bf1.qrtuv.com/20231213/49EAA6480ADFDA48/hls/1000k/index.m3u8",
-    "线路4": "https://bf1.qrtuv.com/20220514/E4682BC4BEEF0DBE/hls/2000k/index.m3u8"
+    "线路2": "https://yutubf.lsbbf3.com/20250221/4UfibMuv/index.m3u8"
   },
   "seriesInfo": {
     "id": 33553,

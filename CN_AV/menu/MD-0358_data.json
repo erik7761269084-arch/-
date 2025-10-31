@@ -1,9 +1,8 @@
 {
   "episodes": {
-    "主线路": "https://zyzf2dvideo.28rc5kz.com/decry/vd/20250516/N2JhODA2Nzcy/231814/1280_720/aac/h264/hls/encrypt/index.m3u8",
-    "线路2": "https://thm3u8.com/20250517/FcYivelb/index.m3u8",
-    "线路3": "https://bf3.qrtuv.com/smv1/202505/17/BJADgfdcZD2/video/index.m3u8",
-    "线路4": "https://t30.cdn2020.com/video/m3u8/2025/05/17/4436d0ba/index.m3u8"
+    "主线路": "https://thm3u8.com/20250517/FcYivelb/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202505/17/BJADgfdcZD2/video/index.m3u8",
+    "线路3": "https://t30.cdn2020.com/video/m3u8/2025/05/17/4436d0ba/index.m3u8"
   },
   "seriesInfo": {
     "id": 23257,

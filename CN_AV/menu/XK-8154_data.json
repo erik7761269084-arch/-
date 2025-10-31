@@ -1,8 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://player.hgplayer00.com/20250603/NyA6E392/index.m3u8",
-    "线路2": "https://thm3u8.com/20250812/LXpXDgCX/index.m3u8",
-    "线路3": "https://t27.cdn2020.com/video/m3u8/2023/02/08/1c862a22/index.m3u8"
+    "主线路": "https://thm3u8.com/20250812/LXpXDgCX/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2023/02/08/1c862a22/index.m3u8"
   },
   "seriesInfo": {
     "id": 8160,

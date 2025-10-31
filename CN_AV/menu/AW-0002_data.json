@@ -1,10 +1,6 @@
 {
   "episodes": {
-    "主线路": "https://vz-a59c6881-d86.b-cdn.net/5cf15709-9bad-4913-bc3a-28678ff3b5d4/playlist.m3u8",
-    "线路2": "https://krevonix.com/20230729/KwI3mQ4I/index.m3u8",
-    "线路3": "https://player.cl9987.com:188/20230325/KjcVLH9v/index.m3u8",
-    "线路4": "https://play.palyhuangbubu.com:1999/20250815/6zpoOban/index.m3u8",
-    "线路5": "https://player.hgplayer00.com/20221028/pPKoBacJ/index.m3u8"
+    "主线路": "https://krevonix.com/20230729/KwI3mQ4I/index.m3u8"
   },
   "seriesInfo": {
     "id": 22644,
