@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 3408,
+      "IDcode": "TZ-189",
+      "title": "樱花妹性爱实录-EP34-巨乳肥臀精油按摩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2023-08-19",
+      "cover_url": "",
+      "actress": [
+        "长谷川けいか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-189"
+    }
+  ]
 };

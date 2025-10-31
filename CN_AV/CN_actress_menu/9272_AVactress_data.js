@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

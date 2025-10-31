@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 28982,
+      "IDcode": "EMTC-020",
+      "title": "同城约啪爆操汗湿可人美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱神国际传媒",
+      "publish_date": "2023-11-19",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20240318-1/2fefcfab89fdecb610b79835a77a9ca4.jpg",
+      "actress": [
+        "韩金妮"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMTC-020"
+    }
+  ]
 };

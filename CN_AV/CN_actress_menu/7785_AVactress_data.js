@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "柚木結愛",
     "柚木结爱"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

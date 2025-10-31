@@ -9,10 +9,30 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 16644,
+      "IDcode": "MD-0106",
+      "title": "我的仿真性爱充气娃娃三段淫娃模式激情抽插",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆映画传媒",
+      "publish_date": "2022-12-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20230416/9400e535-df4b-4fce-8f93-54b63f839062.jpg",
+      "actress": [
+        "金丞熙",
+        "娃娃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0106"
+    }
+  ]
 };

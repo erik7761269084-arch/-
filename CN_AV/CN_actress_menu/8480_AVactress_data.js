@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 13961,
+      "IDcode": "XSJKY115",
+      "title": "时尚博主女网红的潜规则",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "性视界传媒",
+      "publish_date": "2022-12-05",
+      "cover_url": "https://jpgjingpinx1.top/upload/vod/20251011-1/2f4eb4275efa37ae667fb58cad7805aa.png",
+      "actress": [
+        "蜜蜜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XSJKY115"
+    }
+  ]
 };

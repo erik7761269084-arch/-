@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": "E",
   "description": "",
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "蘿娜",
     "Rona"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

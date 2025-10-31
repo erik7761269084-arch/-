@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 12084,
+      "IDcode": "JD006",
+      "title": "我的家教老师.请叫我女王大人.SM女王强势降临",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "精东影业",
+      "publish_date": "2021-10-06",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20210121-1/64e36cd9759b037355a927896209fc5c.jpg",
+      "actress": [
+        "兮颜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD006"
+    }
+  ]
 };

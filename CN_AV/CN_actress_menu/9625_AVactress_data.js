@@ -9,10 +9,45 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 25653,
+      "IDcode": "XKXB-8028",
+      "title": "奥特曼VS哥斯拉杏吧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "杏吧",
+      "publish_date": "2023-12-29",
+      "cover_url": "https://da.da15525716.com/upload/vod/20250608-1/bd493b4a3b29098bcb01cd5475fb8312.jpg",
+      "actress": [
+        "孙欣欣"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8028"
+    },
+    {
+      "id": 21611,
+      "IDcode": "XK-8028",
+      "title": "奥特曼VS哥斯拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "星空无限传媒",
+      "publish_date": "2021-03-21",
+      "cover_url": "",
+      "actress": [
+        "孙欣欣"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8028"
+    }
+  ]
 };

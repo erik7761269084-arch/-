@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": "C",
   "description": "Kae Asakura\nRae Lil Black/ เรวดี/ 䙥",
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "蕾·利尔·布莱克",
     "Rae Lil Black"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

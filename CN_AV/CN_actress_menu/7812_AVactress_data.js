@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 26255,
+      "IDcode": "CP-019",
+      "title": "台球选修课",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒映画X狂点映像",
+      "publish_date": "2023-10-01",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20231003-1/8ffacf3cc616552766e2948084ce7076.jpg",
+      "actress": [
+        "小婷"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-019"
+    }
+  ]
 };

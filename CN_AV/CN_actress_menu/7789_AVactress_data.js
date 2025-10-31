@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "陈红",
     "陳紅"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

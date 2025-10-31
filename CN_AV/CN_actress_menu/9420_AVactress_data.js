@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,39 @@ window.actressData = {
     "吳語菲",
     "吴语菲"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 11105,
+      "IDcode": "91CM-167",
+      "title": "出差之旅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730011110242242.jpg",
+      "actress": [
+        "吳語菲"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-167"
+    },
+    {
+      "id": 11088,
+      "IDcode": "91CM-150",
+      "title": "弟弟的青春期",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729081652506506.jpg",
+      "actress": [
+        "吳語菲"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-150"
+    }
+  ]
 };

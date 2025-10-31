@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,23 @@ window.actressData = {
     "陈萌",
     "陳萌"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 11109,
+      "IDcode": "91CM-171",
+      "title": "合租男女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730025507181181.jpg",
+      "actress": [
+        "陳萌"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-171"
+    }
+  ]
 };

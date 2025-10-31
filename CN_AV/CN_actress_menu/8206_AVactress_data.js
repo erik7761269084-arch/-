@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 8899,
+      "IDcode": "XKVP068",
+      "title": "炮友变亲妈.替父淫母真爽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "星空无限传媒",
+      "publish_date": "2024-05-16",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20240726-1/584de34ffe393efe3d6a7fd21f1c60ba.jpg",
+      "actress": [
+        "谭琳"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKVP068"
+    }
+  ]
 };

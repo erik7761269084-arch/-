@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,24 @@ window.actressData = {
     "刘玥",
     "劉玥"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 11125,
+      "IDcode": "91CM-187",
+      "title": "谢语彤穿越王者荣耀世界 淫叫连连高潮迭起",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730074827696696.jpg",
+      "actress": [
+        "谢语彤",
+        "劉玥"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-187"
+    }
+  ]
 };

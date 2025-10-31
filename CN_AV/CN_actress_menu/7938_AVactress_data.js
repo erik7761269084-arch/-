@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 2833,
+      "IDcode": "MTVSQ2-EP02",
+      "title": "女神体育祭.EP02.选秀之战斗志竞逐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221007-1/350eeb9621cc597c993c0928853d3f7e.jpg",
+      "actress": [
+        "黎菲尔"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVSQ2-EP02"
+    }
+  ]
 };

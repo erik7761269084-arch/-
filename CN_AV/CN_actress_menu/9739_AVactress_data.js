@@ -9,10 +9,30 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 10958,
+      "IDcode": "91CM-020",
+      "title": "名媛 拼富吊凯子被识破 等待她的是怎样的结局",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://le.lefhao20250923.top//20241109/QipS0NmK/1.jpg",
+      "actress": [
+        "多多",
+        "白百合"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-020"
+    }
+  ]
 };

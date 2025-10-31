@@ -9,10 +9,30 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 23627,
+      "IDcode": "TM-0101",
+      "title": "羞羞的肉棒 灵魂互换阴阳交合找寻自己",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "天美传媒",
+      "publish_date": "2022-08-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818023129954954.jpg",
+      "actress": [
+        "安以晨",
+        "林芊彤"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0101"
+    }
+  ]
 };

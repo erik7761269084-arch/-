@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-62056a7d9dc80.html",
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

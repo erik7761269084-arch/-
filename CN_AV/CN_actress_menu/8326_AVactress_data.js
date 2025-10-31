@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 11509,
+      "IDcode": "GDCM050",
+      "title": "不伦人妻性爱实录 巨乳痴女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2023-01-29",
+      "cover_url": "https://upload.xchina.io/video/641091add1c59.webp",
+      "actress": [
+        "森田佳奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GDCM050"
+    }
+  ]
 };

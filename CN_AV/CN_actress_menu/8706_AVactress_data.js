@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "https://my.bio/nicolove",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-61d6d3a852d70.html",
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

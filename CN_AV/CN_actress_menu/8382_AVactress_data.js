@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 12309,
+      "IDcode": "JDKR012",
+      "title": "抗日奇侠爸爸活.女优",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "精东影业",
+      "publish_date": "2024-03-19",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20230307-1/edfe62eb83496410c163a5948d21fe45.jpg",
+      "actress": [
+        "本桥香澄"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDKR012"
+    }
+  ]
 };

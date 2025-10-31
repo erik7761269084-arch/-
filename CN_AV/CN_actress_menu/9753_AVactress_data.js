@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 34064,
+      "IDcode": "MAN-0006",
+      "title": "职场系列《我的小奶狗男友》",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆映画传媒",
+      "publish_date": "2023-05-11",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/kPcYZTsR.jpg",
+      "actress": [
+        "波斯"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MAN-0006"
+    }
+  ]
 };

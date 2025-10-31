@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 8766,
+      "IDcode": "XKTV103",
+      "title": "挑战停车场找爸爸享受极致服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "星空传媒",
+      "publish_date": "2024-02-02",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20231228-1/8734c452118551682138e4c53d42b23b.jpg",
+      "actress": [
+        "小莫"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKTV103"
+    }
+  ]
 };

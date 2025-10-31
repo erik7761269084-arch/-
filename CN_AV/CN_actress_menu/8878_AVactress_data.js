@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "",
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "腕儿",
     "腕兒"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

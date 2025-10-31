@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "P站认证up，糖心签约独家up，官网：https://yuzukitty.net",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-61a0925aa09ac.html",
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

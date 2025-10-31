@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 15278,
+      "IDcode": "LB028",
+      "title": "堕落的女学生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "乐播传媒",
+      "publish_date": "2023-06-01",
+      "cover_url": "https://jpgjingpinx1.top/upload/vod/20251010-1/7c978323021d6428dd827f0fa22ec663.png",
+      "actress": [
+        "孙语薇"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LB028"
+    }
+  ]
 };

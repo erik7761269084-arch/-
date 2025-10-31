@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "露出系美少女网红",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-61ed6c6f810fd.html",
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

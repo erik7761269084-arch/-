@@ -9,10 +9,12 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "宜家门事件女主，P站红人。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-5f9be694eb9e8.html",
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

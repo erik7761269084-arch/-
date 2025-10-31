@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 32923,
+      "IDcode": "SH-006",
+      "title": "神屌侠侣 是谁操了我的小龙女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆出品X涩会传媒",
+      "publish_date": "2021-09-25",
+      "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/69350_cover_2025-06-10_115936.jpg",
+      "actress": [
+        "谢冰岚"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SH-006"
+    }
+  ]
 };

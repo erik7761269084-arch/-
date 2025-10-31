@@ -9,10 +9,45 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 12690,
+      "IDcode": "ID5278",
+      "title": "家庭老师对学生家长的性爱辅导",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱豆传媒",
+      "publish_date": "",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/e4051f25ededaacbe6dfe12721c73653.jpg",
+      "actress": [
+        "夏绯"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5278"
+    },
+    {
+      "id": 12664,
+      "IDcode": "ID5251",
+      "title": "瑜伽老师的性爱课程",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱豆传媒",
+      "publish_date": "",
+      "cover_url": "https://da.da15525716.com/images/2023/12/07/guochan122.jpg",
+      "actress": [
+        "夏绯"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5251"
+    }
+  ]
 };

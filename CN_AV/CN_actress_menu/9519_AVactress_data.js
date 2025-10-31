@@ -9,10 +9,46 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 14623,
+      "IDcode": "DA066",
+      "title": "跨越时空的红鲍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "大象传媒",
+      "publish_date": "2025-10-03",
+      "cover_url": "https://upload.xchina.io/video/67963bef50672.webp",
+      "actress": [
+        "可菲",
+        "丽娜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA066"
+    },
+    {
+      "id": 10451,
+      "IDcode": "TMG-102",
+      "title": "捷运少女强迫爱家男出轨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "天美传媒",
+      "publish_date": "2022-03-31",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20230508-1/39a54cd357127633de2e2938e1f637bc.jpg",
+      "actress": [
+        "丽娜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-102"
+    }
+  ]
 };

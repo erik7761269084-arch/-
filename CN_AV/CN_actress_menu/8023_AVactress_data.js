@@ -9,10 +9,47 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 32913,
+      "IDcode": "S2-EP1",
+      "title": "S2麻豆带你游泰国.疫情后的泰国怎么玩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221129-1/34de92bb3819b8f5e11ef5a6ff9fd770.jpg",
+      "actress": [
+        "侑芯",
+        "楚梦舒"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=S2-EP1"
+    },
+    {
+      "id": 19788,
+      "IDcode": "S2EP1",
+      "title": "疫情后的泰国怎么玩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241026-1/1795da6d1507294b8b77f702e4d719fe.jpg",
+      "actress": [
+        "侑芯",
+        "楚梦舒"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=S2EP1"
+    }
+  ]
 };

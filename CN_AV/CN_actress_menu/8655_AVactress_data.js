@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": "",
   "features": [],
@@ -17,5 +18,6 @@ window.actressData = {
     "叶巧萱",
     "Ye Qiao Xuan"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": []
 };

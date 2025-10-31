@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 17539,
+      "IDcode": "JSBY-0005",
+      "title": "台湾swag巨乳NPG来到现实世界满足宅男心愿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SWAG",
+      "publish_date": "2020-05-28",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/241ff106598032273ec3037fc0e87a72.webp",
+      "actress": [
+        "qubegirl"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JSBY-0005"
+    }
+  ]
 };

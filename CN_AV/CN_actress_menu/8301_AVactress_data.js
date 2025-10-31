@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,39 @@ window.actressData = {
     "小林紗織",
     "小林纱织"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 11189,
+      "IDcode": "91CM-252",
+      "title": "迷情同学会上集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://le.lefhao20250923.top/upload/vod/20240802-1/92fc1736fb01da106629a64e7efc206f.jpg",
+      "actress": [
+        "小林纱织"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-252"
+    },
+    {
+      "id": 11178,
+      "IDcode": "91CM-241",
+      "title": "网红中国零食体验",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20220403-1/2ed50d7a65c71ff46cb227e8dddcc52f.jpg",
+      "actress": [
+        "小林纱织"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-241"
+    }
+  ]
 };

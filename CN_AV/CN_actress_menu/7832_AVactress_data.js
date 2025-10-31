@@ -9,10 +9,29 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 32244,
+      "IDcode": "GX-015",
+      "title": "我的性启蒙老师 淫荡母亲乱伦性教学",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2023-09-06",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241110-1/23f9842a5be7a935c74e9d6bf3535fb7.jpg",
+      "actress": [
+        "刘倩倩"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=GX-015"
+    }
+  ]
 };

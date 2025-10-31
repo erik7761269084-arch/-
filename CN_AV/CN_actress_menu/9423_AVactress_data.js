@@ -9,6 +9,7 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
@@ -17,5 +18,41 @@ window.actressData = {
     "李师师",
     "李師師"
   ],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 23670,
+      "IDcode": "TM-0145",
+      "title": "内射妹团援交女学生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "天美传媒",
+      "publish_date": "2022-08-09",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230124-1/3607106e7eec1fda8eb1ceec69667b11.jpg",
+      "actress": [
+        "李思思",
+        "李師師"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0145"
+    },
+    {
+      "id": 11114,
+      "IDcode": "91CM-176",
+      "title": "大嫂-李",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730032118784784.jpg",
+      "actress": [
+        "师师",
+        "李師師"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-176"
+    }
+  ]
 };

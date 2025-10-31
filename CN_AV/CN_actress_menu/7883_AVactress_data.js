@@ -9,10 +9,31 @@ window.actressData = {
   "zodiac": null,
   "height": null,
   "measurements": null,
+  "measurements_display": "",
   "cup": null,
   "description": null,
   "features": [],
   "detail_url": null,
   "aliases": [],
-  "gallery": []
+  "gallery": [],
+  "related_dramas": [
+    {
+      "id": 16522,
+      "IDcode": "MDL-0003",
+      "title": "色即是空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆映画传媒",
+      "publish_date": "2023-05-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20230530/b678341f-7a2d-4244-bdfa-b274a9bf883c.jpg",
+      "actress": [
+        "白金",
+        "韩棠",
+        "袁采菱"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDL-0003"
+    }
+  ]
 };
