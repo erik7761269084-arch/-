@@ -116,7 +116,7 @@ function getSeriesName() {
 // 动态加载 JS 数据文件
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
-  script.src = "menu/" + seriesName + "_AVactress_data.js"; // 目录 + 文件名
+  script.src = "CN_actress_menu/" + seriesName + "_AVactress_data.js"; // 目录 + 文件名
   script.onload = () => {
     // 兼容 window.actressData 或 export default actressData
     if (window.actressData) {
