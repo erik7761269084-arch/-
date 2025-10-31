@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吴茜茜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://eve.modelmediaasia.com/model_covers/GJZRe81jUhdXi1RorgB4jTpHsaMHB2B8KG0DEauj_compressed.jpg",
+  "img_url": "https://upload.xchina.io/default/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,

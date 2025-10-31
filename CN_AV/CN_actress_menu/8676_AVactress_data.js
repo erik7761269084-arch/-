@@ -4,7 +4,7 @@ window.actressData = {
   "name": "苏娅",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://eve.modelmediaasia.com/model_avatars/oeW9bSknqr7qXPShBxmotV7SyE5ncbu2VdU24glz_compressed.jpg",
+  "img_url": "https://upload.xchina.io/default/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,

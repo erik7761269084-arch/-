@@ -4,7 +4,7 @@ window.actressData = {
   "name": "韩宝儿",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://eve.modelmediaasia.com/undefined/2R4lmRyQcr3pvxIk5MbuHT764Cc24wz1aIfvf6mV_compressed.jpg",
+  "img_url": "https://upload.xchina.io/default/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
