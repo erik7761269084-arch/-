@@ -1,0 +1,18 @@
+// 9057_AVactress_data.js
+window.actressData = {
+  "id": 9057,
+  "name": "安吉",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://img.ripic.xyz/head/5e3198d8777bfefa695332f0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": []
+};

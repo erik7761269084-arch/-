@@ -1,0 +1,18 @@
+// 9139_AVactress_data.js
+window.actressData = {
+  "id": 9139,
+  "name": "蕾蕾",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://img.ripic.xyz/head/5f66377fc33cd2961206bf1e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": []
+};

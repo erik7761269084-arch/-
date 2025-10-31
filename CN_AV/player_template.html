@@ -277,8 +277,8 @@ function loadSeriesData(seriesName) {
     .then(data => {
         window.episodes = data.episodes;
         window.seriesInfo = data.seriesInfo;
-        if(seriesInfo.background_img){
-            document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
+        if(seriesInfo.cover_url){
+            document.body.style.setProperty('--bg-url', `url('${seriesInfo.cover_url}')`);
         }
         initPlayer();
     })

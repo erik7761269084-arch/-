@@ -1,0 +1,18 @@
+// 8913_AVactress_data.js
+window.actressData = {
+  "id": 8913,
+  "name": "adababy",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://img.ripic.xyz/head/5d71203e3aa35ad71e19ecc0.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": []
+};
