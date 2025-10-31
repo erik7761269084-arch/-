@@ -19,6 +19,7 @@ window.actressData = {
     "Shen Na Na"
   ],
   "gallery": [],
+  "works_count": 117,
   "related_dramas": [
     {
       "id": 34210,

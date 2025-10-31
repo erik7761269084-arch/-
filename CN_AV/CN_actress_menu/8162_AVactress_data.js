@@ -19,6 +19,7 @@ window.actressData = {
     "可可（女优）"
   ],
   "gallery": [],
+  "works_count": 26,
   "related_dramas": [
     {
       "id": 14614,

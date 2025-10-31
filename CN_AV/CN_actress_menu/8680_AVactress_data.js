@@ -19,6 +19,7 @@ window.actressData = {
     "Xia Qing Zi"
   ],
   "gallery": [],
+  "works_count": 153,
   "related_dramas": [
     {
       "id": 34532,

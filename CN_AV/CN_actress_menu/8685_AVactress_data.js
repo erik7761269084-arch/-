@@ -16,6 +16,7 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-60108eed51484.html",
   "aliases": [],
   "gallery": [],
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 23057,

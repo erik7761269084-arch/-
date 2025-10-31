@@ -20,6 +20,7 @@ window.actressData = {
     "蘇婭"
   ],
   "gallery": [],
+  "works_count": 34,
   "related_dramas": [
     {
       "id": 34942,

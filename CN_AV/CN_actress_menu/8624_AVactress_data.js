@@ -19,6 +19,7 @@ window.actressData = {
     "Gu Yi-Na"
   ],
   "gallery": [],
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 34300,

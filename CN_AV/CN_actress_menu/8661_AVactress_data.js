@@ -19,6 +19,7 @@ window.actressData = {
     "Nan Chiang Yun"
   ],
   "gallery": [],
+  "works_count": 21,
   "related_dramas": [
     {
       "id": 34140,

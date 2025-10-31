@@ -19,6 +19,7 @@ window.actressData = {
     "Liang Ruo Xuan"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 34798,

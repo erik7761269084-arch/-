@@ -19,6 +19,7 @@ window.actressData = {
     "艾瑪"
   ],
   "gallery": [],
+  "works_count": 36,
   "related_dramas": [
     {
       "id": 26977,

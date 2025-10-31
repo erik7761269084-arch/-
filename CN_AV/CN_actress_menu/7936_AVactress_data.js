@@ -19,6 +19,7 @@ window.actressData = {
     "Yuan Yuan"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 34317,

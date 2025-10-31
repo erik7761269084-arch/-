@@ -16,6 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 25103,
@@ -37,7 +38,7 @@ window.actressData = {
     {
       "id": 15012,
       "IDcode": "SAT0104",
-      "title": "湿哒哒闯关 淫魔的密室EP02",
+      "title": "淫魔的密室EP02 湿哒哒闯关 ",
       "year": "",
       "country": "",
       "genre": "",
@@ -67,23 +68,6 @@ window.actressData = {
         "妮妮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-420"
-    },
-    {
-      "id": 27223,
-      "IDcode": "淫魔的密室-EP02",
-      "title": "湿哒哒闯关",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://ll.lasha250923.top/20240806/r37X4bvj/1.jpg",
-      "actress": [
-        "妮妮",
-        "乐奈子"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫魔的密室-EP02"
     }
   ]
 };

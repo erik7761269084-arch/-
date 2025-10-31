@@ -19,6 +19,7 @@ window.actressData = {
     "Zhao Xiao Han"
   ],
   "gallery": [],
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 30422,

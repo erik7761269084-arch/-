@@ -19,6 +19,7 @@ window.actressData = {
     "Qing Jiao"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 35117,

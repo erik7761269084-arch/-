@@ -19,6 +19,7 @@ window.actressData = {
     "羅瑾萱"
   ],
   "gallery": [],
+  "works_count": 20,
   "related_dramas": [
     {
       "id": 16505,

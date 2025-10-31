@@ -19,6 +19,7 @@ window.actressData = {
     "劉依依"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 23303,

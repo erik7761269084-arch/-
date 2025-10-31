@@ -19,6 +19,7 @@ window.actressData = {
     "小林纱织"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 11189,

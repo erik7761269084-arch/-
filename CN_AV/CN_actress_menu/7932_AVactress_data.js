@@ -19,6 +19,7 @@ window.actressData = {
     "Alice"
   ],
   "gallery": [],
+  "works_count": 14,
   "related_dramas": [
     {
       "id": 28914,

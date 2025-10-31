@@ -20,6 +20,7 @@ window.actressData = {
     "張芸熙"
   ],
   "gallery": [],
+  "works_count": 36,
   "related_dramas": [
     {
       "id": 35203,

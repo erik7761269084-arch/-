@@ -19,6 +19,7 @@ window.actressData = {
     "楊思敏"
   ],
   "gallery": [],
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 39708,

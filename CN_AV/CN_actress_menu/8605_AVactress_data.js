@@ -19,6 +19,7 @@ window.actressData = {
     "Ji Yan Xi"
   ],
   "gallery": [],
+  "works_count": 94,
   "related_dramas": [
     {
       "id": 14626,

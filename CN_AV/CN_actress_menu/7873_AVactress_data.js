@@ -19,6 +19,7 @@ window.actressData = {
     "Pudding"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 35182,

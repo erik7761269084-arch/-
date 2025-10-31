@@ -19,6 +19,7 @@ window.actressData = {
     "Tang Fei"
   ],
   "gallery": [],
+  "works_count": 12,
   "related_dramas": [
     {
       "id": 34100,

@@ -19,6 +19,7 @@ window.actressData = {
     "凱西"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 8932,

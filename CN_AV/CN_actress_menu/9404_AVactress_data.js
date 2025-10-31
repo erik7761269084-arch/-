@@ -19,6 +19,7 @@ window.actressData = {
     "美竹铃"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 11166,

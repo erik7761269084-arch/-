@@ -19,6 +19,7 @@ window.actressData = {
     "Song Yu chuan"
   ],
   "gallery": [],
+  "works_count": 34,
   "related_dramas": [
     {
       "id": 18367,

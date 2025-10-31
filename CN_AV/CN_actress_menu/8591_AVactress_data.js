@@ -19,6 +19,7 @@ window.actressData = {
     "Amateur"
   ],
   "gallery": [],
+  "works_count": 102,
   "related_dramas": [
     {
       "id": 18388,

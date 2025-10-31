@@ -20,6 +20,7 @@ window.actressData = {
     "韩宝儿"
   ],
   "gallery": [],
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 25084,

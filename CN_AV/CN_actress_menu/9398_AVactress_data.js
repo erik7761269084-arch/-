@@ -19,6 +19,7 @@ window.actressData = {
     "许诺"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 12129,

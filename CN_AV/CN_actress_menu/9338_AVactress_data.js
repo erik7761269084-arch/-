@@ -19,6 +19,7 @@ window.actressData = {
     "许书曼"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 47595,

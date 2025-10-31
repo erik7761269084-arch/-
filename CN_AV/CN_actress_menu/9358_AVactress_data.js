@@ -19,6 +19,7 @@ window.actressData = {
     "姜潔"
   ],
   "gallery": [],
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 16603,

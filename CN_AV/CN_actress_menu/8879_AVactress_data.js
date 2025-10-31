@@ -19,6 +19,7 @@ window.actressData = {
     "雪见"
   ],
   "gallery": [],
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 12116,

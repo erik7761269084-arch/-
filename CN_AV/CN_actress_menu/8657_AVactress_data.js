@@ -19,6 +19,7 @@ window.actressData = {
     "Shu Ke Xin"
   ],
   "gallery": [],
+  "works_count": 35,
   "related_dramas": [
     {
       "id": 34280,

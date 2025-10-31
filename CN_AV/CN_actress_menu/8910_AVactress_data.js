@@ -19,6 +19,7 @@ window.actressData = {
     "芊芊（女优）"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 3062,

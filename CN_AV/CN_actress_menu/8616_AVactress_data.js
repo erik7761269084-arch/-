@@ -20,6 +20,7 @@ window.actressData = {
     "雯雯（女优）"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 23525,

@@ -19,6 +19,7 @@ window.actressData = {
     "Ai Xi"
   ],
   "gallery": [],
+  "works_count": 64,
   "related_dramas": [
     {
       "id": 34531,

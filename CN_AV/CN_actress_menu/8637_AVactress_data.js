@@ -19,6 +19,7 @@ window.actressData = {
     "Yi Ruo"
   ],
   "gallery": [],
+  "works_count": 51,
   "related_dramas": [
     {
       "id": 18482,

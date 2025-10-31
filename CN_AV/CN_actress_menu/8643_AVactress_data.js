@@ -19,6 +19,7 @@ window.actressData = {
     "Wu Qian Qian"
   ],
   "gallery": [],
+  "works_count": 16,
   "related_dramas": [
     {
       "id": 34127,

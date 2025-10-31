@@ -19,6 +19,7 @@ window.actressData = {
     "Lan Xiang Ting"
   ],
   "gallery": [],
+  "works_count": 18,
   "related_dramas": [
     {
       "id": 34124,

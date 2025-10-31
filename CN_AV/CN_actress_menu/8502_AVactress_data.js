@@ -19,6 +19,7 @@ window.actressData = {
     "愷愷"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 14627,

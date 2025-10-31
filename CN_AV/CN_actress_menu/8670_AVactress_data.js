@@ -19,6 +19,7 @@ window.actressData = {
     "Ling Wei"
   ],
   "gallery": [],
+  "works_count": 71,
   "related_dramas": [
     {
       "id": 34532,

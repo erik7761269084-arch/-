@@ -20,6 +20,7 @@ window.actressData = {
     "優娜"
   ],
   "gallery": [],
+  "works_count": 45,
   "related_dramas": [
     {
       "id": 10321,

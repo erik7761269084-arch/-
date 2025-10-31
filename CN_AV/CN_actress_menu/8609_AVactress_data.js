@@ -19,6 +19,7 @@ window.actressData = {
     "Liang Yun Fei"
   ],
   "gallery": [],
+  "works_count": 48,
   "related_dramas": [
     {
       "id": 14622,

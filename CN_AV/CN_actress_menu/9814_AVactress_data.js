@@ -19,6 +19,7 @@ window.actressData = {
     "小曼（女优）"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 15123,

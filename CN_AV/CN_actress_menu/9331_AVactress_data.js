@@ -19,6 +19,7 @@ window.actressData = {
     "茜茜（女优）"
   ],
   "gallery": [],
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 12875,

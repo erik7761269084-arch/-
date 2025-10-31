@@ -19,6 +19,7 @@ window.actressData = {
     "Yi Li"
   ],
   "gallery": [],
+  "works_count": 15,
   "related_dramas": [
     {
       "id": 2802,

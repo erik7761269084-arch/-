@@ -19,6 +19,7 @@ window.actressData = {
     "Li Rong Rong"
   ],
   "gallery": [],
+  "works_count": 113,
   "related_dramas": [
     {
       "id": 10832,

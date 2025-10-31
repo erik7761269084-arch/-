@@ -19,6 +19,7 @@ window.actressData = {
     "Sakura"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 25162,

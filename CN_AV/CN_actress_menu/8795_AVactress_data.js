@@ -19,6 +19,7 @@ window.actressData = {
     "瑪麗蓮"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 10224,

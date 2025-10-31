@@ -19,6 +19,7 @@ window.actressData = {
     "Luna"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 27133,

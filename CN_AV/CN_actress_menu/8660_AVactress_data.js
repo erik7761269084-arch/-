@@ -20,6 +20,7 @@ window.actressData = {
     "蘇暢"
   ],
   "gallery": [],
+  "works_count": 68,
   "related_dramas": [
     {
       "id": 34528,

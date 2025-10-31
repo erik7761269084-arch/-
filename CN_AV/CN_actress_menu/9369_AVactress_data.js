@@ -19,6 +19,7 @@ window.actressData = {
     "溫馨"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 9122,

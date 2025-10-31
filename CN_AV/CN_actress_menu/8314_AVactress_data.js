@@ -19,6 +19,7 @@ window.actressData = {
     "陳悠悠"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 11344,

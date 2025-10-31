@@ -19,6 +19,7 @@ window.actressData = {
     "Tan Ying Ying"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 25577,

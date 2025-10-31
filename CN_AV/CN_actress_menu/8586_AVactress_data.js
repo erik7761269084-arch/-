@@ -19,6 +19,7 @@ window.actressData = {
     "蕭悅兒"
   ],
   "gallery": [],
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 39700,

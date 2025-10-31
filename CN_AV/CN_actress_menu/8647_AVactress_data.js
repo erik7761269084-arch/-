@@ -19,6 +19,7 @@ window.actressData = {
     "Xia Yu Xi"
   ],
   "gallery": [],
+  "works_count": 22,
   "related_dramas": [
     {
       "id": 34184,

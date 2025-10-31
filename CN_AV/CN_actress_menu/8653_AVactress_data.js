@@ -20,6 +20,7 @@ window.actressData = {
     "周甯"
   ],
   "gallery": [],
+  "works_count": 54,
   "related_dramas": [
     {
       "id": 25161,

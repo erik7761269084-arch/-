@@ -19,6 +19,7 @@ window.actressData = {
     "趙雅琳"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 23648,

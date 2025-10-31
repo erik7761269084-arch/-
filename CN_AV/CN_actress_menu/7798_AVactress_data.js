@@ -19,6 +19,7 @@ window.actressData = {
     "小澤紗香"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 32154,

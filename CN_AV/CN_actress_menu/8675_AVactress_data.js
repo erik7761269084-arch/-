@@ -19,6 +19,7 @@ window.actressData = {
     "Ai Qiu"
   ],
   "gallery": [],
+  "works_count": 91,
   "related_dramas": [
     {
       "id": 34939,

@@ -19,6 +19,7 @@ window.actressData = {
     "張晴"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 11140,

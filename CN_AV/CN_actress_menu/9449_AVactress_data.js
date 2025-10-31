@@ -19,6 +19,7 @@ window.actressData = {
     "韩依人"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 25119,

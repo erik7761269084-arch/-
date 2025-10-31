@@ -19,6 +19,7 @@ window.actressData = {
     "Wei QiaoAn"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 14604,

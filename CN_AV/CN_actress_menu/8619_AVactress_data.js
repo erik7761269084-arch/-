@@ -19,6 +19,7 @@ window.actressData = {
     "Jiu Yue Xin"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 27121,

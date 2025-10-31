@@ -19,6 +19,7 @@ window.actressData = {
     "Jiang YuJia"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 27131,

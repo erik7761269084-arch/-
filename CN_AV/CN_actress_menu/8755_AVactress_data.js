@@ -19,6 +19,7 @@ window.actressData = {
     "陳可心"
   ],
   "gallery": [],
+  "works_count": 13,
   "related_dramas": [
     {
       "id": 42339,

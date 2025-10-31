@@ -16,6 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
+  "works_count": 20,
   "related_dramas": [
     {
       "id": 23712,

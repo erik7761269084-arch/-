@@ -19,6 +19,7 @@ window.actressData = {
     "彤彤（女优）"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 10325,

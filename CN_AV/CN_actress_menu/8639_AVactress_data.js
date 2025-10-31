@@ -19,6 +19,7 @@ window.actressData = {
     "Bai Si Yin"
   ],
   "gallery": [],
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 34417,

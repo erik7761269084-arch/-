@@ -19,6 +19,7 @@ window.actressData = {
     "黎兒"
   ],
   "gallery": [],
+  "works_count": 19,
   "related_dramas": [
     {
       "id": 10833,

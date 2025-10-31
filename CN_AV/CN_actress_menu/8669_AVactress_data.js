@@ -19,6 +19,7 @@ window.actressData = {
     "Pan Yu-Xi"
   ],
   "gallery": [],
+  "works_count": 15,
   "related_dramas": [
     {
       "id": 34936,

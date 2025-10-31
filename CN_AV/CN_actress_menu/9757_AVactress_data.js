@@ -19,6 +19,7 @@ window.actressData = {
     "若兮（女优）"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 26864,

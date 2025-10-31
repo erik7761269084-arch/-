@@ -19,6 +19,7 @@ window.actressData = {
     "Guan Ming Mei"
   ],
   "gallery": [],
+  "works_count": 47,
   "related_dramas": [
     {
       "id": 34279,

@@ -19,6 +19,7 @@ window.actressData = {
     "Qi Qi"
   ],
   "gallery": [],
+  "works_count": 20,
   "related_dramas": [
     {
       "id": 28918,

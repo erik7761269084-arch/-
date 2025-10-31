@@ -19,6 +19,7 @@ window.actressData = {
     "Xue Qian Xia"
   ],
   "gallery": [],
+  "works_count": 58,
   "related_dramas": [
     {
       "id": 34943,

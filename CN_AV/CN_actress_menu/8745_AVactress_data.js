@@ -19,6 +19,7 @@ window.actressData = {
     "尋小小"
   ],
   "gallery": [],
+  "works_count": 27,
   "related_dramas": [
     {
       "id": 47215,

@@ -20,6 +20,7 @@ window.actressData = {
     "韩棠"
   ],
   "gallery": [],
+  "works_count": 62,
   "related_dramas": [
     {
       "id": 14579,

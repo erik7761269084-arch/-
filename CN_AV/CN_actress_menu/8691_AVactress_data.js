@@ -19,6 +19,7 @@ window.actressData = {
     "吴芳宜"
   ],
   "gallery": [],
+  "works_count": 82,
   "related_dramas": [
     {
       "id": 23712,

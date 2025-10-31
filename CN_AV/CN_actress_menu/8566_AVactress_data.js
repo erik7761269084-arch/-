@@ -19,6 +19,7 @@ window.actressData = {
     "盧珊珊"
   ],
   "gallery": [],
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 9131,

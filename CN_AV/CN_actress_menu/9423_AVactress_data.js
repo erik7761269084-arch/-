@@ -19,6 +19,7 @@ window.actressData = {
     "李師師"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 23670,

@@ -19,6 +19,7 @@ window.actressData = {
     "沈芯语"
   ],
   "gallery": [],
+  "works_count": 14,
   "related_dramas": [
     {
       "id": 16507,

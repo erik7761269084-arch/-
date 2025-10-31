@@ -19,6 +19,7 @@ window.actressData = {
     "Yao Tong Tong"
   ],
   "gallery": [],
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 35179,

@@ -19,6 +19,7 @@ window.actressData = {
     "Yuan Cai Ling"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 16522,

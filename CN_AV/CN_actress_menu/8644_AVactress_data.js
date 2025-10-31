@@ -20,6 +20,7 @@ window.actressData = {
     "艾鲤"
   ],
   "gallery": [],
+  "works_count": 17,
   "related_dramas": [
     {
       "id": 27122,

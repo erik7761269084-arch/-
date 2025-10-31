@@ -19,6 +19,7 @@ window.actressData = {
     "仙兒媛"
   ],
   "gallery": [],
+  "works_count": 43,
   "related_dramas": [
     {
       "id": 26536,

@@ -19,6 +19,7 @@ window.actressData = {
     "珠珠（女优）"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 8957,

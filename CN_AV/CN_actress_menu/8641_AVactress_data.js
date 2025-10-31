@@ -19,6 +19,7 @@ window.actressData = {
     "Su Nian Jin"
   ],
   "gallery": [],
+  "works_count": 29,
   "related_dramas": [
     {
       "id": 14632,

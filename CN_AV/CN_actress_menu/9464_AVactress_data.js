@@ -19,6 +19,7 @@ window.actressData = {
     "湘湘（女优）"
   ],
   "gallery": [],
+  "works_count": 26,
   "related_dramas": [
     {
       "id": 10804,

@@ -20,6 +20,7 @@ window.actressData = {
     "项子甯"
   ],
   "gallery": [],
+  "works_count": 11,
   "related_dramas": [
     {
       "id": 34169,

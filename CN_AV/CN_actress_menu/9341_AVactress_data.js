@@ -19,6 +19,7 @@ window.actressData = {
     "杜鹃"
   ],
   "gallery": [],
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 33550,

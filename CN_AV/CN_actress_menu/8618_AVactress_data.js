@@ -19,6 +19,7 @@ window.actressData = {
     "Shi Zi Han"
   ],
   "gallery": [],
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 10829,

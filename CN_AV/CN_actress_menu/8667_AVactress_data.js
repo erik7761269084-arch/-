@@ -20,6 +20,7 @@ window.actressData = {
     "蘇清歌"
   ],
   "gallery": [],
+  "works_count": 55,
   "related_dramas": [
     {
       "id": 34939,

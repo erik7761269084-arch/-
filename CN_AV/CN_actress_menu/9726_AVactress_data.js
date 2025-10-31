@@ -19,6 +19,7 @@ window.actressData = {
     "甜甜（女优）"
   ],
   "gallery": [],
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 34329,

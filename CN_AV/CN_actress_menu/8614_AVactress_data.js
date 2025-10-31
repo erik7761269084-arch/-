@@ -19,6 +19,7 @@ window.actressData = {
     "Li WeiWei"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 12292,

@@ -19,6 +19,7 @@ window.actressData = {
     "劉豆豆"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 16344,

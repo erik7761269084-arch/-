@@ -20,6 +20,7 @@ window.actressData = {
     "娃诺"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 14577,

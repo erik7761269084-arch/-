@@ -19,6 +19,7 @@ window.actressData = {
     "Zhao Yi Man"
   ],
   "gallery": [],
+  "works_count": 16,
   "related_dramas": [
     {
       "id": 47215,

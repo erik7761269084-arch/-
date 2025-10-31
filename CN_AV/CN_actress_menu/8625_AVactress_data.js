@@ -19,6 +19,7 @@ window.actressData = {
     "Yao Waner"
   ],
   "gallery": [],
+  "works_count": 38,
   "related_dramas": [
     {
       "id": 10808,

@@ -19,6 +19,7 @@ window.actressData = {
     "袁子儀"
   ],
   "gallery": [],
+  "works_count": 32,
   "related_dramas": [
     {
       "id": 2758,

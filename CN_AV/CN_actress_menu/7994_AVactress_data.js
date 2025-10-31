@@ -19,6 +19,7 @@ window.actressData = {
     "酒井爱"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 49796,

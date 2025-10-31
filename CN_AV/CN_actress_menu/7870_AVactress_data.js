@@ -19,6 +19,7 @@ window.actressData = {
     "Muna"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 33411,

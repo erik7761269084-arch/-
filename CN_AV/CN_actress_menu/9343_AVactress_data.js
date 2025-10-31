@@ -19,6 +19,7 @@ window.actressData = {
     "張婭庭"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 23143,

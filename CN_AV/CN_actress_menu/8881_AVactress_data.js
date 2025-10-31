@@ -19,6 +19,7 @@ window.actressData = {
     "陳美惠"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 11097,

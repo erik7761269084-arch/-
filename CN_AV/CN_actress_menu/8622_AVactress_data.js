@@ -19,6 +19,7 @@ window.actressData = {
     "Ai You"
   ],
   "gallery": [],
+  "works_count": 24,
   "related_dramas": [
     {
       "id": 18376,

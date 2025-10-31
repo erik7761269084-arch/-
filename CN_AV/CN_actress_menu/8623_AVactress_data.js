@@ -19,6 +19,7 @@ window.actressData = {
     "Lu Lu"
   ],
   "gallery": [],
+  "works_count": 48,
   "related_dramas": [
     {
       "id": 34319,

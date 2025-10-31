@@ -19,6 +19,7 @@ window.actressData = {
     "Si Si"
   ],
   "gallery": [],
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 47425,

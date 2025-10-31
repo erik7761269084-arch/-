@@ -19,6 +19,7 @@ window.actressData = {
     "Xu Lei"
   ],
   "gallery": [],
+  "works_count": 50,
   "related_dramas": [
     {
       "id": 34290,

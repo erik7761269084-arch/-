@@ -19,6 +19,7 @@ window.actressData = {
     "Mo Xi Ci"
   ],
   "gallery": [],
+  "works_count": 11,
   "related_dramas": [
     {
       "id": 35022,

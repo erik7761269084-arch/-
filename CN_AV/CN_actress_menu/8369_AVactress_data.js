@@ -19,6 +19,7 @@ window.actressData = {
     "克萊兒"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 12175,

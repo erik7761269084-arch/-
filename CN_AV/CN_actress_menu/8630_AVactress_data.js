@@ -19,6 +19,7 @@ window.actressData = {
     "Zi Chen"
   ],
   "gallery": [],
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 47572,

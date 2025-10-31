@@ -19,6 +19,7 @@ window.actressData = {
     "Zhou Meng Qi"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 34852,

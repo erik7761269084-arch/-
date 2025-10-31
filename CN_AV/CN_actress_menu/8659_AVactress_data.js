@@ -19,6 +19,7 @@ window.actressData = {
     "Chu Meng Shu"
   ],
   "gallery": [],
+  "works_count": 43,
   "related_dramas": [
     {
       "id": 34223,

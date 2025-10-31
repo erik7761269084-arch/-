@@ -19,6 +19,7 @@ window.actressData = {
     "Li Zhi Xuan"
   ],
   "gallery": [],
+  "works_count": 33,
   "related_dramas": [
     {
       "id": 34531,

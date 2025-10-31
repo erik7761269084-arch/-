@@ -19,6 +19,7 @@ window.actressData = {
     "Qin Ke Xin"
   ],
   "gallery": [],
+  "works_count": 72,
   "related_dramas": [
     {
       "id": 34276,

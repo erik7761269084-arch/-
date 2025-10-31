@@ -19,6 +19,7 @@ window.actressData = {
     "蘇小小"
   ],
   "gallery": [],
+  "works_count": 16,
   "related_dramas": [
     {
       "id": 23586,

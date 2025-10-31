@@ -19,6 +19,7 @@ window.actressData = {
     "美心（女优）"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 12982,

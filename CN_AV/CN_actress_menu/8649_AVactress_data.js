@@ -19,6 +19,7 @@ window.actressData = {
     "Song Nan Yi"
   ],
   "gallery": [],
+  "works_count": 72,
   "related_dramas": [
     {
       "id": 25162,

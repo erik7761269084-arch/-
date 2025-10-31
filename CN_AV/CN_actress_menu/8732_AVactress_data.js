@@ -19,6 +19,7 @@ window.actressData = {
     "吴文淇"
   ],
   "gallery": [],
+  "works_count": 74,
   "related_dramas": [
     {
       "id": 30519,

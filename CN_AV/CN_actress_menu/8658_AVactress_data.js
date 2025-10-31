@@ -19,6 +19,7 @@ window.actressData = {
     "Li Yun Xi"
   ],
   "gallery": [],
+  "works_count": 28,
   "related_dramas": [
     {
       "id": 34146,

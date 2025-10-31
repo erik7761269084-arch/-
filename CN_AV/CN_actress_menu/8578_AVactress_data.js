@@ -19,6 +19,7 @@ window.actressData = {
     "高梨遥香"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 11184,

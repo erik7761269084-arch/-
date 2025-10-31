@@ -20,6 +20,7 @@ window.actressData = {
     "蘇語棠"
   ],
   "gallery": [],
+  "works_count": 95,
   "related_dramas": [
     {
       "id": 14602,

@@ -19,6 +19,7 @@ window.actressData = {
     "Fei Fei"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 26782,

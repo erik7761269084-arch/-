@@ -19,6 +19,7 @@ window.actressData = {
     "Lin Yan"
   ],
   "gallery": [],
+  "works_count": 52,
   "related_dramas": [
     {
       "id": 34218,

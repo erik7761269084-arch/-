@@ -19,6 +19,7 @@ window.actressData = {
     "Liang Jia Xin"
   ],
   "gallery": [],
+  "works_count": 24,
   "related_dramas": [
     {
       "id": 10736,

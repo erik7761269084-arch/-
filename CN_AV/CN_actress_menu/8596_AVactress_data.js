@@ -20,6 +20,7 @@ window.actressData = {
     "溫芮欣"
   ],
   "gallery": [],
+  "works_count": 82,
   "related_dramas": [
     {
       "id": 21445,

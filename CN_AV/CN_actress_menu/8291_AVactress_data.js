@@ -19,6 +19,7 @@ window.actressData = {
     "蘇鳳敏"
   ],
   "gallery": [],
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 11098,

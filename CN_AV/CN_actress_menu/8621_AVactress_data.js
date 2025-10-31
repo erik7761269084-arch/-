@@ -19,6 +19,7 @@ window.actressData = {
     "Lin Si Yu"
   ],
   "gallery": [],
+  "works_count": 91,
   "related_dramas": [
     {
       "id": 25161,

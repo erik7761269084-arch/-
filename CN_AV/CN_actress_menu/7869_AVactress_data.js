@@ -19,6 +19,7 @@ window.actressData = {
     "En En"
   ],
   "gallery": [],
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 38835,

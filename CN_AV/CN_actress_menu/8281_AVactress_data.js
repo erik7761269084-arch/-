@@ -19,6 +19,7 @@ window.actressData = {
     "劉潁兒"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 11035,

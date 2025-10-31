@@ -19,6 +19,7 @@ window.actressData = {
     "張妮妮"
   ],
   "gallery": [],
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 25103,

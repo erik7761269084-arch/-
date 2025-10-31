@@ -19,6 +19,7 @@ window.actressData = {
     "Lai Yun Xi"
   ],
   "gallery": [],
+  "works_count": 25,
   "related_dramas": [
     {
       "id": 10784,

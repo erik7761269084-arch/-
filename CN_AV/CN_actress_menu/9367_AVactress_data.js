@@ -19,6 +19,7 @@ window.actressData = {
     "林小櫻"
   ],
   "gallery": [],
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 16621,

@@ -19,6 +19,7 @@ window.actressData = {
     "Meng Ruo Yu"
   ],
   "gallery": [],
+  "works_count": 140,
   "related_dramas": [
     {
       "id": 14580,

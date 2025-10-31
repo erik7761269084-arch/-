@@ -19,6 +19,7 @@ window.actressData = {
     "乐乐（女优）"
   ],
   "gallery": [],
+  "works_count": 18,
   "related_dramas": [
     {
       "id": 8918,

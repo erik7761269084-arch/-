@@ -19,6 +19,7 @@ window.actressData = {
     "Zhong Wan Bing"
   ],
   "gallery": [],
+  "works_count": 32,
   "related_dramas": [
     {
       "id": 27200,

@@ -19,6 +19,7 @@ window.actressData = {
     "娜娜（女优）"
   ],
   "gallery": [],
+  "works_count": 30,
   "related_dramas": [
     {
       "id": 34105,

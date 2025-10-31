@@ -19,6 +19,7 @@ window.actressData = {
     "Lin Xiang"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 34110,

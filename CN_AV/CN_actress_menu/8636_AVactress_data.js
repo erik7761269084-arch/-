@@ -19,6 +19,7 @@ window.actressData = {
     "Su An Ya"
   ],
   "gallery": [],
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 34228,

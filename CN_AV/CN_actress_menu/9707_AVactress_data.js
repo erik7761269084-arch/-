@@ -19,6 +19,7 @@ window.actressData = {
     "蓉蓉（女优）"
   ],
   "gallery": [],
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 39452,

@@ -19,6 +19,7 @@ window.actressData = {
     "玲瓏"
   ],
   "gallery": [],
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 13576,

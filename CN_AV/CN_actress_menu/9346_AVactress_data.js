@@ -19,6 +19,7 @@ window.actressData = {
     "白颖"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 35321,

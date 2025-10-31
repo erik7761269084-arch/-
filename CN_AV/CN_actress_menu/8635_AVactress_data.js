@@ -19,6 +19,7 @@ window.actressData = {
     "Duo Er"
   ],
   "gallery": [],
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 14856,

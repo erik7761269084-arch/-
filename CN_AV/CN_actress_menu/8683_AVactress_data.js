@@ -20,6 +20,7 @@ window.actressData = {
     "玥可嵐"
   ],
   "gallery": [],
+  "works_count": 63,
   "related_dramas": [
     {
       "id": 34302,

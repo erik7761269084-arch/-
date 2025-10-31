@@ -19,6 +19,7 @@ window.actressData = {
     "Deng Ziqing"
   ],
   "gallery": [],
+  "works_count": 21,
   "related_dramas": [
     {
       "id": 14630,
