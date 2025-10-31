@@ -114,8 +114,7 @@
   .card-info-top .title { font-size: 14px; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-grow: 1; }
   .actor { position: absolute; bottom: 8px; left: 8px; background-color: rgba(0,0,0,0.5); padding: 2px 6px; border-radius: 4px; font-size: 12px; }
   .card-info-bottom { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #ccc; }
-  .date { display: flex; align-items: center; gap: 4px; }
-  .date::before { content: "í ½í³…"; font-size: 13px; }
+  .date { display: flex; align-items: center; gap: 4px; font-size: 12px; }
 
   /* åˆ†é¡µ */
   .pagination { margin-top: 10px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
@@ -270,7 +269,7 @@ function renderRelatedPage(page) {
           <span class="title">${d.title}</span>
         </div>
         <div class="card-info-bottom">
-          <div class="date">${d.publish_date || ""}</div>
+          <div class="date">í ½í³… ${d.publish_date || ""}</div>
         </div>
       </div>
     `;
