@@ -165,7 +165,7 @@ function getCompanyName() {
 // === 动态加载 JS 数据文件 ===
 function loadCompanyData(companyName) {
   const script = document.createElement('script');
-  script.src = `CN_company_data/${companyName}_company_data.js`;
+  script.src = `CN_company_menu/${companyName}_company_data.js`;
   script.onload = () => {
     if (window.companyData) {
       initPage(window.companyData);
