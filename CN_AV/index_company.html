@@ -28,7 +28,7 @@ header {
   letter-spacing: 2px;
 }
 
-/* 主内容区域 */
+/* ======= 主内容 ======= */
 .main {
   flex: 1;
   overflow-y: auto;
@@ -36,15 +36,23 @@ header {
 }
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* ✅ 自动布局修复 */
+  gap: 25px;
+  justify-items: center;
 }
+
+/* ======= 卡片 ======= */
 .card {
   background-color: #1a1a1a;
-  border-radius: 8px;
+  border-radius: 10px;
   overflow: hidden;
   cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s;
+  text-align: center;
+  aspect-ratio: 16 / 9; /* 横版比例 */
+  width: 100%;
+  max-width: 400px; /* ✅ 防止过大 */
+  position: relative;
 }
 .card:hover {
   transform: scale(1.05);
@@ -54,28 +62,49 @@ header {
   transform: scale(0.96);
   opacity: 0.8;
 }
+
+/* 图片容器 */
+.card-img-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #222;
+  overflow: hidden;
+}
 .card img {
   width: 100%;
-  height: 180px;
+  height: 100%;
   object-fit: cover;
-  background-color: #222;
+  opacity: 0.5;
+  transition: opacity 0.3s;
 }
-.card-title {
-  padding: 12px;
-  font-size: 16px;
-  text-align: center;
-  color: #eee;
-  font-weight: bold;
-}
-.card-info {
-  font-size: 13px;
-  color: #ccc;
-  text-align: center;
-  padding-bottom: 10px;
-  line-height: 1.6;
+.card:hover img {
+  opacity: 0.3;
 }
 
-/* ======= 分页按钮样式 ======= */
+/* ======= 公司名 + 作品数量 ======= */
+.card-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.card-title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0 0 8px rgba(0,0,0,0.8);
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+.card-info {
+  font-size: 12px;
+  color: #ccc;
+  opacity: 0.9;
+}
+
+/* ======= 分页 ======= */
 .pagination {
   display: flex;
   justify-content: center;
@@ -137,20 +166,18 @@ button:disabled {
 <script>
 let companies = [];
 let currentPage = 1;
-const pageSize = 18; // 每页显示18个公司
+const pageSize = 18;
 
 // === 加载公司数据 ===
 async function loadCompanies() {
   try {
     const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
     const data = await res.json();
-    // 过滤掉无效公司名
     companies = data.filter(c => c.company && c.company.trim() !== "");
     renderCompanies();
   } catch (e) {
     console.error("加载公司数据失败:", e);
-    const container = document.getElementById('companyGrid');
-    container.innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后再试。</p>";
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后再试。</p>";
   }
 }
 
@@ -177,13 +204,16 @@ function renderCompanies() {
       }
     };
 
-    // 给每个公司随机一个背景图（如果没有图片）
     const placeholderImg = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
 
     card.innerHTML = `
-      <img src="${placeholderImg}" alt="${c.company}">
-      <div class="card-title">${c.company}</div>
-      <div class="card-info">📀 作品数量：${c.works_count || 0}</div>
+      <div class="card-img-wrapper">
+        <img src="${placeholderImg}" alt="${c.company}">
+        <div class="card-overlay">
+          <div class="card-title">${c.company}</div>
+          <div class="card-info">📀 ${c.works_count || 0} 部作品</div>
+        </div>
+      </div>
     `;
     container.appendChild(card);
   });
