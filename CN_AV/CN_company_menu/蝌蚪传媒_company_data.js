@@ -1,0 +1,255 @@
+// 蝌蚪传媒_company_data.js
+window.companyData = {
+  "company": "蝌蚪传媒",
+  "works_count": 17,
+  "dramas": [
+    {
+      "id": 33253,
+      "IDcode": "KD-002",
+      "title": "泰国租妻趣闻录 第1集 强迫打炮 骚女竟喊不要",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241025-1/ae7aa3da1586e636c9b03bdad5627e8a.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "素人"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-002"
+    },
+    {
+      "id": 29459,
+      "IDcode": "KD-017",
+      "title": "宝贝加油世界杯.兄妹激情为爱鼓掌",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221130-1/56f77763c22c7bbaf10ee477cdaba976.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-017"
+    },
+    {
+      "id": 29458,
+      "IDcode": "KD-016",
+      "title": "粉红女仆诱惑.邻家小妹索爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221124-1/b04bbac84689025837205421f573119d.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-016"
+    },
+    {
+      "id": 29455,
+      "IDcode": "KD-014",
+      "title": "妻子闺蜜到访勾引.妻子和闺蜜双飞之旅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/17c84c4affec18f9b50b1a65dfdbc105.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-014"
+    },
+    {
+      "id": 29454,
+      "IDcode": "KD-013",
+      "title": "女子借钱以身抵债",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221102-1/ea249fc79d60563c56e3737b2a3e610b.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-013"
+    },
+    {
+      "id": 29453,
+      "IDcode": "KD-012",
+      "title": "蝌蚪传媒十一假期旅游性事",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/23ccf68f959fa5f5abd0a7fcb2bb00bc.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "丝丝"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-012"
+    },
+    {
+      "id": 29452,
+      "IDcode": "KD-011",
+      "title": "近亲相奸的兄弟二媚药下的诱惑(二)",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/cd64dd4357ebe94a6dfb67d1b546e008.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-011"
+    },
+    {
+      "id": 29450,
+      "IDcode": "KD-010",
+      "title": "近亲相奸的兄妹一媚药下的诱惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221020-1/3dad57600caede0384cf036001e1916a.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-010"
+    },
+    {
+      "id": 29449,
+      "IDcode": "KD-009",
+      "title": "寂寞人妻找技师按摩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221012-1/36e1bfb592e1a9106e4654352c5402ca.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "素人"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-009"
+    },
+    {
+      "id": 29448,
+      "IDcode": "KD-008",
+      "title": "苗条模特约拍.摄影师按耐不住亲自体验",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221007-1/2d6d55ee32a0839bfbb1d6b690867fd0.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-008"
+    },
+    {
+      "id": 29447,
+      "IDcode": "KD-007",
+      "title": "中文老师情色勾引",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://thjpg10.top/upload/vod/20250305-1/80b18d8afc895e03d240707a173c3ef3.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "素人"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-007"
+    },
+    {
+      "id": 29446,
+      "IDcode": "KD-006",
+      "title": "泰国租妻趣闻录 第3集 两女自慰被发现 泰国妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/1ff376c604f176695368496bcbb9aeda.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-006"
+    },
+    {
+      "id": 29445,
+      "IDcode": "KD-005",
+      "title": "苗条保姆被强奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241026-1/5610613611b858cee8a92e672beb9c65.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-005"
+    },
+    {
+      "id": 29444,
+      "IDcode": "KD-004",
+      "title": "泰国街头搭讪美女.激情做爱无套内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20221216-1/c31cf62e260e73bb7f6ef6d96d13d94f.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-004"
+    },
+    {
+      "id": 29443,
+      "IDcode": "KD-003",
+      "title": "泰国租妻趣闻录 第2集 两个妻子的服侍体验",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20220915-1/fe3a96701441372fc6b87642d9e27731.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-003"
+    },
+    {
+      "id": 26323,
+      "IDcode": "KD-015",
+      "title": "我和两女的游戏性爱游戏的惩罚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://bwjpg.top/upload/vod/20251016-1/54023ed9a54ab08140023368cf1982cb.png",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "素人"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-015"
+    },
+    {
+      "id": 18117,
+      "IDcode": "KD-001",
+      "title": "人妻被入室强奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "publish_date": "2023-06-29",
+      "cover_url": "https://tutu1.space/images/2022/08/09/9c682657a63009b1dff277c170c493b7.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=KD-001"
+    }
+  ]
+};
