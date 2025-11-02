@@ -9,6 +9,7 @@
 body, html {
   margin: 0;
   padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 /* 顶部导航栏 */
@@ -18,28 +19,28 @@ body, html {
   left: 0;
   width: 100%;
   height: 60px;
-  background-color: #1a1a1a; /* 深色背景 */
+  background-color: #1a1a1a;
   color: #fff;
   display: flex;
   align-items: center;
-  justify-content: center; /* 中间菜单居中 */
+  justify-content: center;
   padding: 0 20px;
   box-sizing: border-box;
   z-index: 9999;
-  font-family: Arial, sans-serif;
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
 
-/* 左侧 Logo + 文字 */
+/* 左侧 Logo */
 .headerbar .logo {
   font-weight: bold;
   font-size: 18px;
   color: #ffcc00;
   position: absolute;
-  left: 20px; /* 固定在最左侧 */
+  left: 20px;
+  cursor: pointer;
 }
 
-/* 中间菜单 */
+/* 导航菜单 */
 .headerbar nav {
   display: flex;
   gap: 20px;
@@ -58,21 +59,55 @@ body, html {
   color: #ffcc00;
 }
 
-/* 右侧搜索栏（隐藏） */
-.headerbar .search-container {
-  display: none; /* 暂时隐藏 */
+/* 汉堡菜单按钮（默认隐藏） */
+.hamburger {
+  display: none;
+  position: absolute;
+  right: 20px;
+  width: 25px;
+  height: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
 }
 
-/* 页面内容顶部留出空间，避免被遮挡 */
+.hamburger span {
+  display: block;
+  height: 3px;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+/* 页面内容顶部留出空间 */
 body {
-  padding-top: 60px; /* 顶部栏高度 */
+  padding-top: 60px;
 }
 
-/* 响应式处理：小屏幕时菜单可滚动 */
-@media (max-width: 992px) {
+/* 响应式处理：小屏幕显示汉堡菜单 */
+@media (max-width: 768px) {
   .headerbar nav {
-    overflow-x: auto;
-    gap: 10px;
+    display: none; /* 默认隐藏菜单 */
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background-color: #1a1a1a;
+    flex-direction: column;
+    width: 200px;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.5);
+    padding: 10px 0;
+  }
+
+  .headerbar nav a {
+    padding: 10px 20px;
+    border-bottom: 1px solid #333;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .headerbar nav.show {
+    display: flex;
   }
 }
 </style>
@@ -82,14 +117,30 @@ body {
 <div class="headerbar">
   <div class="logo">御女宫国产AV</div>
 
-  <nav>
+  <nav id="navMenu">
     <a href="/movie/new">最新更新</a>
     <a href="/CN_AV/chinese_AV">国产AV</a>
     <a href="/CN_AV/actress">国产女优</a>
     <a href="/CN_AV/company">A片出品厂</a>
     <a href="https://t.me/yunvgongCNAV" target="_blank">御女宫国产AV电报群</a>
   </nav>
+
+  <div class="hamburger" id="hamburgerBtn">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
 </div>
+
+<script>
+// 手机端汉堡菜单点击事件
+const hamburger = document.getElementById('hamburgerBtn');
+const navMenu = document.getElementById('navMenu');
+
+hamburger.addEventListener('click', () => {
+  navMenu.classList.toggle('show');
+});
+</script>
 
 </body>
 </html>
