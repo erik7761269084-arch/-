@@ -107,12 +107,13 @@
 </div>
 
 <script>
-// ===== 加载 header.html + header.js =====
+/* ======= 加载 header.html + header.js ======= */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
+    // 动态加载 header.js
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
@@ -260,7 +261,6 @@ function initRelatedDramas(dramas) {
 
 const seriesName = getSeriesName();
 loadSeriesData(seriesName);
-
 </script>
 
 </body>
