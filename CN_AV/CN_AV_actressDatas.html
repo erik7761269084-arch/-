@@ -30,6 +30,31 @@
     z-index: -1;
   }
 
+  /* === 顶部 Header === */
+  .headerbar {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #111;
+    padding: 0 20px;
+    z-index: 999;
+  }
+  .headerbar .logo { font-weight: bold; font-size: 20px; color: #fff; }
+  #menu { display: flex; gap: 15px; }
+  #menu a { color: #fff; text-decoration: none; }
+  #menu a.active { color: red; font-weight: bold; }
+  #hamburger-btn { font-size:24px; background:none; border:none; color:#fff; cursor:pointer; }
+
+  /* 响应式：小屏幕下显示汉堡菜单 */
+  @media (max-width:768px) {
+    #menu { display:none; flex-direction:column; background:#111; position:absolute; top:60px; right:0; width:150px; padding:10px; border-radius:0 0 5px 5px; }
+    #menu a { margin:5px 0; }
+  }
+
   .container {
     width: 100%;
     min-height: 100vh;
@@ -126,8 +151,16 @@
 </head>
 <body>
 
-<!-- === 顶部导航栏 === -->
-<div id="header-placeholder"></div>
+<!-- === Header === -->
+<div class="headerbar">
+  <div class="logo">网站Logo</div>
+  <button id="hamburger-btn">&#9776;</button>
+  <div id="menu">
+    <a href="index.html" id="menu-home">首页</a>
+    <a href="actress.html" id="menu-actress">女优</a>
+    <a href="drama.html" id="menu-drama">影片</a>
+  </div>
+</div>
 
 <div class="container">
   <!-- === 演员信息 === -->
@@ -165,36 +198,35 @@
 </div>
 
 <script>
-// === 动态加载 header.html ===
-fetch('header.html')
-  .then(res => res.text())
-  .then(html => {
-    document.getElementById('header-placeholder').innerHTML = html;
-    if (typeof setActiveMenu === 'function') {
-      setActiveMenu('menu-actress');
-    }
-  });
+// ==== Header 功能 ====
+const btn = document.getElementById('hamburger-btn');
+const menu = document.getElementById('menu');
+btn.addEventListener('click', () => {
+  menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+});
 
-// === 以下保持原逻辑不变 ===
+// 高亮当前菜单
+function setActiveMenu(id) {
+  const links = menu.querySelectorAll('a');
+  links.forEach(a => a.classList.remove('active'));
+  const activeLink = document.getElementById(id);
+  if(activeLink) activeLink.classList.add('active');
+}
+setActiveMenu('menu-actress');
 
-// 从 URL 获取 series 参数
+// ==== 原有页面逻辑 ====
 function getSeriesName() {
   const params = new URLSearchParams(window.location.search);
   return params.get('series') || '1';
 }
 
-// 动态加载 JS 数据文件
 function loadSeriesData(seriesName) {
   const script = document.createElement('script');
   script.src = "CN_actress_menu/" + seriesName + "_AVactress_data.js"; 
   script.onload = () => {
-    if (window.actressData) {
-      initPage(window.actressData);
-    } else if (typeof actressData !== 'undefined') {
-      initPage(actressData);
-    } else {
-      alert("actressData 未定义，检查数据文件格式。");
-    }
+    if (window.actressData) initPage(window.actressData);
+    else if (typeof actressData !== 'undefined') initPage(actressData);
+    else alert("actressData 未定义，检查数据文件格式。");
   };
   script.onerror = () => alert("剧集数据加载失败: " + seriesName);
   document.body.appendChild(script);
@@ -202,9 +234,7 @@ function loadSeriesData(seriesName) {
 
 function initPage(actressData) {
   if (!actressData) return;
-  if (actressData.background_img) {
-    document.body.style.setProperty('--bg-url', `url('${actressData.background_img}')`);
-  }
+  if (actressData.background_img) document.body.style.setProperty('--bg-url', `url('${actressData.background_img}')`);
 
   const profileImg = document.getElementById("profile-img");
   profileImg.src = actressData.img_url || "";
@@ -250,7 +280,6 @@ function initPage(actressData) {
   initRelatedDramas(actressData.related_dramas);
 }
 
-// === 相关影片分页 ===
 let relatedDramas = [], relatedFiltered = [], relatedCurrentPage = 1, relatedPageSize = 12;
 
 function renderRelatedPage(page) {
@@ -323,7 +352,6 @@ function initRelatedDramas(dramas) {
   }
 }
 
-// 执行加载
 const seriesName = getSeriesName();
 loadSeriesData(seriesName);
 </script>
