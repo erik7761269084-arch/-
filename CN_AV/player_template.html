@@ -34,7 +34,7 @@ body::before {
   z-index: -1;
 }
 
-/* ✅ header 占位高度，防止被顶上去 */
+/* ✅ header 占位高度 */
 #header-placeholder {
   position: fixed;
   top: 0;
@@ -43,7 +43,7 @@ body::before {
   z-index: 9999;
 }
 body > .container {
-  margin-top: 70px; /* 预留header高度 */
+  margin-top: 70px;
 }
 
 .container {
@@ -258,17 +258,26 @@ body > .container {
     </div>
 </div>
 
-<!-- ✅ 加载 header 及导航脚本 -->
+<!-- ✅ 加载 header.html + header.js -->
 <script>
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
-    if (typeof setActiveMenu === 'function') setActiveMenu('menu-player');
+
+    // ✅ 动态加载 header.js
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-player');
+    };
+    document.body.appendChild(script);
   })
   .catch(err => console.error('加载 header 失败:', err));
 </script>
 
+<!-- ✅ 播放逻辑 -->
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
