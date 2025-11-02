@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>国产AV 电影、女优与出品厂目录</title>
 <style>
+/* （你原来的 CSS 完整保留 — 为节省篇幅这里照搬你之前的样式） */
 body {
   margin: 0;
   font-family: "微软雅黑", sans-serif;
@@ -180,13 +181,48 @@ function toggleSidebar() {
   sidebar.classList.toggle("show");
 }
 
-/* ======= 电影数据逻辑 ======= */
+/* ======= 通用缓存工具 ======= */
+function saveState(prefix, page, scroll) {
+  try {
+    localStorage.setItem(`${prefix}_page`, String(page));
+    localStorage.setItem(`${prefix}_scroll`, String(scroll));
+  } catch (e) { /* ignore storage errors */ }
+}
+function restoreState(prefix) {
+  const page = parseInt(localStorage.getItem(`${prefix}_page`) || "1", 10);
+  const scroll = parseInt(localStorage.getItem(`${prefix}_scroll`) || "0", 10);
+  return { page: isNaN(page)?1:page, scroll: isNaN(scroll)?0:scroll };
+}
+function saveActiveSection(name) {
+  try { localStorage.setItem("active_section", name); } catch(e){}
+}
+function getActiveSection() {
+  return localStorage.getItem("active_section") || "drama";
+}
+
+/* ======= 电影数据逻辑 (drama) ======= */
 let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
 async function loadDramas() {
   const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/drama_export.json");
   dramas = await res.json();
   filtered = dramas;
+
+  // 恢复active section，如果不是 drama 就先不要显示 drama
+  const active = getActiveSection();
+  if (active !== "drama") {
+    document.getElementById("dramaSection").style.display = "none";
+  } else {
+    document.getElementById("dramaSection").style.display = "block";
+  }
+
+  const { page, scroll } = restoreState("drama");
+  currentPage = page;
   renderPage(currentPage);
+
+  // 只在 active 为 drama 时恢复滚动
+  if (active === "drama" && scroll) {
+    setTimeout(() => window.scrollTo(0, scroll), 200);
+  }
 }
 function renderPage(page) {
   const container = document.getElementById('dramaGrid');
@@ -195,7 +231,13 @@ function renderPage(page) {
   const end = start+pageSize;
   filtered.slice(start,end).forEach(d=>{
     const card=document.createElement('div'); card.className='card';
-    card.onclick=()=>window.location.href=d.title_play_url;
+    card.onclick=()=>{
+      // 保存当前栏目与状态，进入播放页
+      saveActiveSection("drama");
+      saveState("drama", currentPage, window.scrollY);
+      // 跳转到播放页面
+      window.location.href = d.title_play_url;
+    };
     const rating=parseFloat(d.rating)||0; let stars='';
     const fullStars=Math.floor(rating); const halfStar=rating%1>=0.5?1:0;
     for(let i=0;i<fullStars;i++) stars+='★'; if(halfStar) stars+='☆';
@@ -207,39 +249,49 @@ function renderPage(page) {
 }
 function renderPagination(){
   const pagination=document.getElementById('pagination'); pagination.innerHTML='';
-  const totalPages=Math.ceil(filtered.length/pageSize);
+  const totalPages=Math.max(1, Math.ceil(filtered.length/pageSize));
   const prevBtn=document.createElement('button'); prevBtn.textContent='上一页'; prevBtn.disabled=currentPage===1;
-  prevBtn.onclick=()=>{ if(currentPage>1){currentPage--; renderPage(currentPage);} };
+  prevBtn.onclick=()=>{ if(currentPage>1){currentPage--; renderPage(currentPage); saveState("drama", currentPage, window.scrollY); saveActiveSection("drama");} };
   pagination.appendChild(prevBtn);
   const pageInfo=document.createElement('span'); pageInfo.innerHTML=`第 <input type="number" min="1" max="${totalPages}" value="${currentPage}" id="jumpPage"> 页 / 共 ${totalPages} 页`; pagination.appendChild(pageInfo);
   const jumpBtn=document.createElement('button'); jumpBtn.textContent='跳转';
-  jumpBtn.onclick=()=>{ const val=parseInt(document.getElementById('jumpPage').value); if(val>=1 && val<=totalPages){currentPage=val; renderPage(currentPage);} };
+  jumpBtn.onclick=()=>{ const val=parseInt(document.getElementById('jumpPage').value); if(val>=1 && val<=totalPages){currentPage=val; renderPage(currentPage); saveState("drama", currentPage, window.scrollY); saveActiveSection("drama");} };
   pagination.appendChild(jumpBtn);
   const nextBtn=document.createElement('button'); nextBtn.textContent='下一页'; nextBtn.disabled=currentPage===totalPages;
-  nextBtn.onclick=()=>{ if(currentPage<totalPages){currentPage++; renderPage(currentPage);} }; pagination.appendChild(nextBtn);
-}
-function filterCategory(cat,event){
-  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active');
-  document.getElementById("actressSection").style.display="none"; document.getElementById("companySection").style.display="none"; document.getElementById("dramaSection").style.display="block";
-  currentPage=1;
-  filtered=cat==='全部'?dramas:dramas.filter(d=>d.type===cat);
-  renderPage(currentPage);
+  nextBtn.onclick=()=>{ if(currentPage<totalPages){currentPage++; renderPage(currentPage); saveState("drama", currentPage, window.scrollY); saveActiveSection("drama");} }; pagination.appendChild(nextBtn);
 }
 
-/* ======= 女优目录逻辑 ======= */
+/* ======= 女优目录逻辑 (actress) ======= */
 let actresses=[],actressPage=1,actressPageSize=16;
 async function loadActresses(){
   const res=await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/CN_actress_menu_all.json");
   const data=await res.json();
   actresses=data.filter(a=>a.img_url && a.img_url.trim()!=="");
+
+  // 如果 active section 不是 actress，先隐藏 actressSection
+  const active = getActiveSection();
+  if (active !== "actress") {
+    document.getElementById("actressSection").style.display = "none";
+  }
+
+  const { page, scroll } = restoreState("actress");
+  actressPage = page || 1;
   renderActresses();
+
+  if (active === "actress" && scroll) {
+    setTimeout(() => window.scrollTo(0, scroll), 200);
+  }
 }
 function renderActresses(){
   const container=document.getElementById('actressGrid'); container.innerHTML='';
   const start=(actressPage-1)*actressPageSize; const end=start+actressPageSize;
   actresses.slice(start,end).forEach(a=>{
     const card=document.createElement('div'); card.className='card';
-    card.onclick=()=>{ if(a.actress_url) window.location.href=a.actress_url; };
+    card.onclick=()=>{
+      saveActiveSection("actress");
+      saveState("actress", actressPage, window.scrollY);
+      if(a.actress_url) window.location.href=a.actress_url;
+    };
     card.innerHTML=`<img src="${a.img_url}" alt="${a.name}"><div class="card-title">${a.name}</div><div class="card-info">${a.zodiac?`🌟 ${a.zodiac}<br>`:""}${a.height?`📏 ${a.height}<br>`:""}${a.measurements?`💃 ${a.measurements}`:""}</div>`;
     container.appendChild(card);
   });
@@ -247,51 +299,147 @@ function renderActresses(){
 }
 function renderActressPagination(){
   const pagination=document.getElementById('actressPagination'); pagination.innerHTML='';
-  const totalPages=Math.ceil(actresses.length/actressPageSize);
-  const prev=document.createElement('button'); prev.textContent='上一页'; prev.disabled=actressPage===1; prev.onclick=()=>{ if(actressPage>1){actressPage--; renderActresses();} }; pagination.appendChild(prev);
+  const totalPages=Math.max(1, Math.ceil(actresses.length/actressPageSize));
+  const prev=document.createElement('button'); prev.textContent='上一页'; prev.disabled=actressPage===1; prev.onclick=()=>{ if(actressPage>1){actressPage--; renderActresses(); saveState("actress", actressPage, window.scrollY); saveActiveSection("actress");} }; pagination.appendChild(prev);
   const span=document.createElement('span'); span.textContent=`第 ${actressPage} / ${totalPages} 页`; pagination.appendChild(span);
-  const next=document.createElement('button'); next.textContent='下一页'; next.disabled=actressPage===totalPages; next.onclick=()=>{ if(actressPage<totalPages){actressPage++; renderActresses();} }; pagination.appendChild(next);
-}
-function showActressDirectory(event){
-  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active');
-  document.getElementById("dramaSection").style.display="none"; document.getElementById("companySection").style.display="none"; document.getElementById("actressSection").style.display="block";
-  if(actresses.length===0) loadActresses();
+  const next=document.createElement('button'); next.textContent='下一页'; next.disabled=actressPage===totalPages; next.onclick=()=>{ if(actressPage<totalPages){actressPage++; renderActresses(); saveState("actress", actressPage, window.scrollY); saveActiveSection("actress");} }; pagination.appendChild(next);
 }
 
-/* ======= AV出品厂逻辑 ======= */
+/* ======= 出品厂逻辑 (company) ======= */
 let companies=[],companyPage=1,companyPageSize=24;
 async function loadCompanies(){
   const res=await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
   const data=await res.json();
   companies=data.filter(c=>c.company && c.company.trim()!=="");
+
+  // active section 控制显示
+  const active = getActiveSection();
+  if (active !== "company") {
+    document.getElementById("companySection").style.display = "none";
+  }
+
+  const { page, scroll } = restoreState("company");
+  companyPage = page || 1;
   renderCompanies();
+  if (active === "company" && scroll) {
+    setTimeout(() => window.scrollTo(0, scroll), 200);
+  }
 }
 function renderCompanies(){
   const container=document.getElementById('companyGrid'); container.innerHTML='';
   const start=(companyPage-1)*companyPageSize; const end=start+companyPageSize;
   companies.slice(start,end).forEach(c=>{
     const card=document.createElement('div'); card.className='company-card';
+    card.onclick=()=>{
+      saveActiveSection("company");
+      saveState("company", companyPage, window.scrollY);
+      if(c.company_url) window.location.href=c.company_url;
+    };
     card.innerHTML=`<img src="https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg" alt="${c.company}"><div class="card-overlay"><div class="card-title">${c.company}</div><div class="card-info">📀 ${c.works_count||0} 部作品</div></div>`;
-    card.onclick=()=>{ if(c.company_url) window.location.href=c.company_url; };
     container.appendChild(card);
   });
   renderCompanyPagination();
 }
 function renderCompanyPagination(){
   const pagination=document.getElementById('companyPagination'); pagination.innerHTML='';
-  const totalPages=Math.ceil(companies.length/companyPageSize);
-  const prev=document.createElement('button'); prev.textContent='上一页'; prev.disabled=companyPage===1; prev.onclick=()=>{ if(companyPage>1){companyPage--; renderCompanies();} }; pagination.appendChild(prev);
+  const totalPages=Math.max(1, Math.ceil(companies.length/companyPageSize));
+  const prev=document.createElement('button'); prev.textContent='上一页'; prev.disabled=companyPage===1; prev.onclick=()=>{ if(companyPage>1){companyPage--; renderCompanies(); saveState("company", companyPage, window.scrollY); saveActiveSection("company");} }; pagination.appendChild(prev);
   const span=document.createElement('span'); span.textContent=`第 ${companyPage} / ${totalPages} 页`; pagination.appendChild(span);
-  const next=document.createElement('button'); next.textContent='下一页'; next.disabled=companyPage===totalPages; next.onclick=()=>{ if(companyPage<totalPages){companyPage++; renderCompanies();} }; pagination.appendChild(next);
-}
-function showCompanyDirectory(event){
-  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active');
-  document.getElementById("dramaSection").style.display="none"; document.getElementById("actressSection").style.display="none"; document.getElementById("companySection").style.display="block";
-  if(companies.length===0) loadCompanies();
+  const next=document.createElement('button'); next.textContent='下一页'; next.disabled=companyPage===totalPages; next.onclick=()=>{ if(companyPage<totalPages){companyPage++; renderCompanies(); saveState("company", companyPage, window.scrollY); saveActiveSection("company");} }; pagination.appendChild(next);
 }
 
-/* ======= 启动加载 ======= */
-loadDramas();
+/* ======= 切换栏目和侧边按钮行为（同时保存 active_section） ======= */
+function filterCategory(cat, event){
+  // 把原来的 active 节点取消
+  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  // 显示 drama 并保存 active
+  document.getElementById("actressSection").style.display="none"; 
+  document.getElementById("companySection").style.display="none"; 
+  document.getElementById("dramaSection").style.display="block";
+  saveActiveSection("drama");
+  // 恢复 drama 状态
+  const { page, scroll } = restoreState("drama");
+  currentPage = page || 1;
+  renderPage(currentPage);
+  setTimeout(() => window.scrollTo(0, scroll), 150);
+}
+
+function showActressDirectory(event){
+  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active');
+  document.getElementById("dramaSection").style.display="none"; 
+  document.getElementById("companySection").style.display="none"; 
+  document.getElementById("actressSection").style.display="block";
+  saveActiveSection("actress");
+  // 恢复 actress 状态
+  const { page, scroll } = restoreState("actress");
+  actressPage = page || 1;
+  renderActresses();
+  setTimeout(() => window.scrollTo(0, scroll), 150);
+}
+
+function showCompanyDirectory(event){
+  document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active');
+  document.getElementById("dramaSection").style.display="none"; 
+  document.getElementById("actressSection").style.display="none"; 
+  document.getElementById("companySection").style.display="block";
+  saveActiveSection("company");
+  // 恢复 company 状态
+  const { page, scroll } = restoreState("company");
+  companyPage = page || 1;
+  renderCompanies();
+  setTimeout(() => window.scrollTo(0, scroll), 150);
+}
+
+/* ======= 全局滚动监听：根据当前显示栏目保存对应 scroll ======= */
+window.addEventListener("scroll", () => {
+  // 优化：只保存可见栏目
+  if (document.getElementById("dramaSection").style.display !== "none") {
+    saveState("drama", currentPage, window.scrollY);
+  } else if (document.getElementById("actressSection").style.display !== "none") {
+    saveState("actress", actressPage, window.scrollY);
+  } else if (document.getElementById("companySection").style.display !== "none") {
+    saveState("company", companyPage, window.scrollY);
+  }
+});
+
+/* ======= 启动加载：根据 active_section 恢复对应栏目 ======= */
+async function boot() {
+  const active = getActiveSection();
+  // 先默认隐藏全部，然后加载各自数据 (加载函数会根据 active 决定是否恢复滚动)
+  document.getElementById("dramaSection").style.display = "none";
+  document.getElementById("actressSection").style.display = "none";
+  document.getElementById("companySection").style.display = "none";
+
+  // 并行加载三个列表数据（数据可缓存，不影响性能）
+  await Promise.all([loadDramas(), loadActresses(), loadCompanies()]);
+
+  // 根据 active 显示对应栏目并恢复焦点样式（侧边按钮）
+  if (active === "actress") {
+    document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active'));
+    // 找到“女优目录”按钮并激活（按顺序： 全部、女优、出品厂）
+    const btns = document.querySelectorAll('.sidebar button');
+    if (btns && btns[1]) btns[1].classList.add('active');
+    document.getElementById("dramaSection").style.display = "none";
+    document.getElementById("actressSection").style.display = "block";
+  } else if (active === "company") {
+    document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active'));
+    const btns = document.querySelectorAll('.sidebar button');
+    if (btns && btns[2]) btns[2].classList.add('active');
+    document.getElementById("dramaSection").style.display = "none";
+    document.getElementById("companySection").style.display = "block";
+  } else {
+    // 默认 drama
+    document.querySelectorAll('.sidebar button').forEach(b=>b.classList.remove('active'));
+    const btns = document.querySelectorAll('.sidebar button');
+    if (btns && btns[0]) btns[0].classList.add('active');
+    document.getElementById("dramaSection").style.display = "block";
+  }
+}
+
+// 启动
+boot();
 </script>
 </body>
 </html>
