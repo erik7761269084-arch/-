@@ -13,6 +13,7 @@
     background-color: #000;
     min-height: 100vh;
     overflow-x: hidden;
+    padding-top: 60px; /* 让 header 不遮挡内容 */
   }
 
   /* 背景模糊层 */
@@ -143,9 +144,18 @@
     color: #fff;
     text-align: center;
   }
+
+  /* ============ 响应式容器调整 ============ */
+  @media (max-width: 768px) {
+    .container { padding: 30px 16px; }
+    header { font-size: 22px; margin-bottom: 20px; }
+  }
 </style>
 </head>
 <body>
+
+<!-- 顶部导航栏占位 -->
+<div id="header-placeholder"></div>
 
 <div class="container">
   <header id="companyHeader">加载中...</header>
@@ -156,6 +166,15 @@
 </div>
 
 <script>
+// ========== 加载通用 header ==========
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    if (typeof initHeader === 'function') initHeader(); // 初始化汉堡菜单
+    setActiveMenu('menu-company'); // 高亮当前菜单
+  });
+
 // ======== 工具函数：缓存页码与滚动 ========
 function saveState(page, scroll) {
   try {
@@ -211,7 +230,7 @@ function initPage(data) {
 }
 
 function renderPage(page) {
-  currentPage = page; // ← 更新当前页
+  currentPage = page;
   const container = document.getElementById("dramaGrid");
   container.innerHTML = "";
 
@@ -223,7 +242,6 @@ function renderPage(page) {
     const card = document.createElement("div");
     card.className = "card";
     card.onclick = () => {
-      // 保存当前页码和滚动
       saveState(currentPage, window.scrollY);
       window.open(d.title_play_url, "_blank");
     };
