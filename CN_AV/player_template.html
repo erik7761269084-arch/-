@@ -34,6 +34,18 @@ body::before {
   z-index: -1;
 }
 
+/* ✅ header 占位高度，防止被顶上去 */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+body > .container {
+  margin-top: 70px; /* 预留header高度 */
+}
+
 .container {
     display: flex;
     max-width: 1800px;
@@ -97,7 +109,6 @@ body::before {
   display: flex;
   flex-direction: column;
   gap: 15px;
-  /* 隐藏边框/背景/阴影 */
   background: none !important;
   box-shadow: none !important;
   border: none !important;
@@ -142,11 +153,7 @@ body::before {
 
 /* ✅ 视频下方信息栏 */
 .down-panel {
-  position: relative;
-  bottom: auto;
-  left: auto;
-  width:  97%;
-  /* 隐藏背景和边框 */
+  width: 97%;
   background: none !important;
   box-shadow: none !important;
   border: none !important;
@@ -187,6 +194,7 @@ body::before {
     background-color: #007bff;
     color: #fff;
 }
+
 /* ✅ details 框隐藏背景/边框 */
 .details {
   background: none !important;
@@ -213,6 +221,10 @@ body::before {
 </head>
 
 <body>
+
+<!-- ✅ 顶部 header 插入区 -->
+<div id="header-placeholder"></div>
+
 <div class="container">
     <div class="left-panel">
         <div class="video-wrapper">
@@ -222,8 +234,6 @@ body::before {
 
         <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
-<!--            <div class="playlist" id="playlist"></div>-->
-<!--            <p><strong> </strong> <span id="category"></span></p>-->
             <div class="playlist-container" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
                 <div class="playlist" id="playlist"></div>
                 <p style="margin:0;"><strong></strong> <span id="category"></span></p>
@@ -238,18 +248,26 @@ body::before {
     </div>
 
     <div class="right-panel">
-
         <div class="details">
             <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
         </div>
-
-        <!-- ✅ 新增女优卡片展示区域 -->
         <div class="details">
             <p><strong>出演女优:</strong></p>
             <div class="actress-grid" id="actressGrid"></div>
         </div>
     </div>
 </div>
+
+<!-- ✅ 加载 header 及导航脚本 -->
+<script>
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    if (typeof setActiveMenu === 'function') setActiveMenu('menu-player');
+  })
+  .catch(err => console.error('加载 header 失败:', err));
+</script>
 
 <script>
 const video = document.getElementById('video');
@@ -320,26 +338,21 @@ function initPlayer() {
 
 function loadEpisode(name,url,btn){
     if(!url) return;
-
-    // 销毁旧 hls
     if(hls){ hls.destroy(); hls=null; }
 
     overlay.textContent=`${seriesInfo.title} - ${name}`;
     overlay.style.opacity=0;
-
-    video.crossOrigin = "anonymous"; // ✅ 跨域设置
+    video.crossOrigin = "anonymous";
 
     if(Hls.isSupported()){
         hls = new Hls({
             maxBufferLength: 30,
             enableWorker: true,
-            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; } // 避免跨域问题
+            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; }
         });
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{ 
-            video.play().catch(()=>console.warn("自动播放被阻止")); 
-        });
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=> video.play().catch(()=>console.warn("自动播放被阻止")));
         hls.on(Hls.Events.ERROR,(event,data)=>{
             console.error("HLS 错误:",data);
             if(data.fatal) alert("播放出错，请刷新或更换线路");
