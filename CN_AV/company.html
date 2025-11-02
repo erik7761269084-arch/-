@@ -3,35 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>¹ú²úAV¹«Ë¾Ä¿Â¼´óÈ«</title>
+<title>å›½äº§AVå…¬å¸ç›®å½•å¤§å…¨</title>
 <style>
+/* ======= å…¨å±€æ ·å¼ ======= */
 body {
   margin: 0;
-  font-family: "Î¢ÈíÑÅºÚ", sans-serif;
+  font-family: "å¾®è½¯é›…é»‘", sans-serif;
   background-color: #0d0d0d;
   color: #fff;
-  padding-top: 60px;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  padding-top: 60px; /* é¡¶éƒ¨æ é«˜åº¦ */
 }
 
-/* ¶¥²¿À¸Õ¼Î» */
-#header-placeholder {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 9999;
-}
+/* ======= é¡¶éƒ¨æ å ä½ ======= */
+#header-placeholder { position: fixed; top: 0; left: 0; width: 100%; z-index: 9999; }
 
-/* Ö÷ÌåÄÚÈİ */
+/* ======= ä¸»å†…å®¹ ======= */
 #mainContent {
   flex: 1;
   padding: 20px;
 }
 
-/* Íø¸ñ²¼¾Ö */
+/* ======= å¡ç‰‡ç½‘æ ¼ ======= */
 #companyGrid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -39,7 +34,7 @@ body {
   justify-items: center;
 }
 
-/* ¿¨Æ¬ÑùÊ½ */
+/* ======= å…¬å¸å¡ç‰‡ ======= */
 .card {
   background-color: #1a1a1a;
   border-radius: 10px;
@@ -63,7 +58,7 @@ body {
 .card-title { color: #fff; font-size: 20px; font-weight: bold; text-shadow: 0 0 8px rgba(0,0,0,0.8); margin-bottom: 4px; }
 .card-info { font-size: 12px; color: #ccc; opacity: 0.9; }
 
-/* ·ÖÒ³ */
+/* ======= åˆ†é¡µ ======= */
 .pagination {
   display: flex;
   justify-content: center;
@@ -85,17 +80,18 @@ body {
 }
 .pagination button:hover { background-color: #555; }
 .pagination button:disabled { background-color: #222; color: #666; cursor: not-allowed; }
+.pagination span { font-size:14px; }
 
-/* ¶¯»­ */
+/* é¡µé¢æ·¡å‡ºåŠ¨ç”» */
 .fade-out { opacity: 0; transition: opacity 0.3s ease-out; }
 </style>
 </head>
 <body>
 
-<!-- ¶¥²¿À¸ -->
+<!-- ======= é¡¶éƒ¨å¯¼èˆªæ  ======= -->
 <div id="header-placeholder"></div>
 
-<!-- Ö÷ÄÚÈİ -->
+<!-- ======= ä¸»å†…å®¹ ======= -->
 <div id="mainContent">
   <div id="companySection">
     <div id="companyGrid"></div>
@@ -104,22 +100,23 @@ body {
 </div>
 
 <script>
-// === ¶¯Ì¬¼ÓÔØ header.html ===
+/* ======= åŠ¨æ€åŠ è½½ header.html å¹¶åŠ è½½ header.js ======= */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // ¼ÓÔØ header.js
+    // åŠ¨æ€åŠ è½½ header.js
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
       if (typeof initHeaderMenu === 'function') initHeaderMenu();
     };
     document.body.appendChild(script);
-  });
+  })
+  .catch(err => console.error('åŠ è½½ header å¤±è´¥:', err));
 
-// === ¼ÓÔØ¹«Ë¾Êı¾İ ===
+/* ======= åŠ è½½å…¬å¸æ•°æ® ======= */
 let companies = [], currentPage = 1, pageSize = 18;
 
 async function loadCompanies() {
@@ -129,8 +126,8 @@ async function loadCompanies() {
     companies = data.filter(c => c.company && c.company.trim() !== "");
     renderCompanies();
   } catch (e) {
-    console.error("¼ÓÔØÊ§°Ü:", e);
-    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>¼ÓÔØÊ§°Ü£¬ÇëÉÔºóÔÙÊÔ¡£</p>";
+    console.error("åŠ è½½å…¬å¸æ•°æ®å¤±è´¥:", e);
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>æ— æ³•åŠ è½½å…¬å¸æ•°æ®ï¼Œè¯·ç¨åå†è¯•ã€‚</p>";
   }
 }
 
@@ -139,7 +136,6 @@ function renderCompanies() {
   container.innerHTML = '';
   const start = (currentPage - 1) * pageSize;
   const end = start + pageSize;
-
   companies.slice(start, end).forEach(c => {
     const card = document.createElement('div');
     card.className = 'card';
@@ -147,6 +143,8 @@ function renderCompanies() {
       if (c.company_url && c.company_url.trim()) {
         document.body.classList.add('fade-out');
         setTimeout(() => { window.location.href = c.company_url; }, 300);
+      } else {
+        alert('è¯¥å…¬å¸æš‚æ— è¯¦æƒ…é¡µ');
       }
     };
     const img = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
@@ -155,7 +153,7 @@ function renderCompanies() {
         <img src="${img}" alt="${c.company}">
         <div class="card-overlay">
           <div class="card-title">${c.company}</div>
-          <div class="card-info">?? ${c.works_count || 0} ²¿×÷Æ·</div>
+          <div class="card-info">  ${c.works_count || 0} éƒ¨ä½œå“</div>
         </div>
       </div>`;
     container.appendChild(card);
@@ -169,23 +167,25 @@ function renderPagination() {
   const totalPages = Math.ceil(companies.length / pageSize);
 
   const prev = document.createElement('button');
-  prev.textContent = "ÉÏÒ»Ò³";
+  prev.textContent = "ä¸Šä¸€é¡µ";
   prev.disabled = currentPage === 1;
-  prev.onclick = () => { if (currentPage > 1) { currentPage--; renderCompanies(); } };
+  prev.onclick = () => { if(currentPage>1){ currentPage--; renderCompanies(); } };
   pagination.appendChild(prev);
 
   const span = document.createElement('span');
-  span.textContent = ` µÚ ${currentPage} / ${totalPages} Ò³ `;
+  span.textContent = ` ç¬¬ ${currentPage} / ${totalPages} é¡µ `;
   pagination.appendChild(span);
 
   const next = document.createElement('button');
-  next.textContent = "ÏÂÒ»Ò³";
+  next.textContent = "ä¸‹ä¸€é¡µ";
   next.disabled = currentPage === totalPages;
-  next.onclick = () => { if (currentPage < totalPages) { currentPage++; renderCompanies(); } };
+  next.onclick = () => { if(currentPage<totalPages){ currentPage++; renderCompanies(); } };
   pagination.appendChild(next);
 }
 
+// === åˆå§‹åŠ è½½ ===
 loadCompanies();
 </script>
+
 </body>
 </html>
