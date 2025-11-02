@@ -156,28 +156,38 @@
 </div>
 
 <script>
-// === 从 URL 获取公司名称参数 ===
+// ======== 工具函数：缓存页码与滚动 ========
+function saveState(page, scroll) {
+  try {
+    localStorage.setItem("company_page", page);
+    localStorage.setItem("company_scroll", scroll);
+  } catch(e){}
+}
+function restoreState() {
+  const page = parseInt(localStorage.getItem("company_page") || "1", 10);
+  const scroll = parseInt(localStorage.getItem("company_scroll") || "0", 10);
+  return { page: isNaN(page)?1:page, scroll: isNaN(scroll)?0:scroll };
+}
+
+// ======== 获取公司名称 ========
 function getCompanyName() {
   const params = new URLSearchParams(window.location.search);
   return params.get('series') || '未知公司';
 }
 
-// === 动态加载 JS 数据文件 ===
+// ======== 加载公司数据 ========
 function loadCompanyData(companyName) {
   const script = document.createElement('script');
   script.src = `CN_company_menu/${companyName}_company_data.js`;
   script.onload = () => {
-    if (window.companyData) {
-      initPage(window.companyData);
-    } else {
-      alert("companyData 未定义，请检查数据文件。");
-    }
+    if (window.companyData) initPage(window.companyData);
+    else alert("companyData 未定义，请检查数据文件。");
   };
   script.onerror = () => alert("公司数据加载失败: " + companyName);
   document.body.appendChild(script);
 }
 
-// === 初始化页面 ===
+// ======== 分页逻辑 ========
 let currentPage = 1;
 const pageSize = 21;
 let dramas = [];
@@ -186,30 +196,42 @@ function initPage(data) {
   document.getElementById("companyHeader").textContent = `${data.company}（共 ${data.works_count} 部作品）`;
 
   // 设置背景图
-  const bg = data.dramas.find(d => d.background_img)?.background_img;
-  if (bg) document.body.style.setProperty('--bg-url', `url('${bg}')`);
+  const bg = data.dramas?.find(d => d.background_img)?.background_img;
+  if(bg) document.body.style.setProperty('--bg-url', `url('${bg}')`);
 
-  dramas = data.dramas || [];
-  renderPage(1);
+  dramas = Array.isArray(data.dramas) ? data.dramas : [];
+  console.log("加载到影片数量：", dramas.length);
+
+  const { page, scroll } = restoreState();
+  currentPage = page;
+  renderPage(currentPage);
+
+  // 恢复滚动
+  setTimeout(() => window.scrollTo(0, scroll), 150);
 }
 
-// === 渲染分页内容 ===
 function renderPage(page) {
+  currentPage = page; // ← 更新当前页
   const container = document.getElementById("dramaGrid");
   container.innerHTML = "";
-  const start = (page - 1) * pageSize;
-  const end = start + pageSize;
+
+  const start = (page-1)*pageSize;
+  const end = start+pageSize;
   const pageData = dramas.slice(start, end);
 
   pageData.forEach(d => {
     const card = document.createElement("div");
     card.className = "card";
-    card.onclick = () => window.open(d.title_play_url, "_blank");
+    card.onclick = () => {
+      // 保存当前页码和滚动
+      saveState(currentPage, window.scrollY);
+      window.open(d.title_play_url, "_blank");
+    };
 
     card.innerHTML = `
       <div style="position:relative;">
         <img src="${d.cover_url}" alt="${d.title}" onerror="this.src='https://via.placeholder.com/300x180?text=No+Image'">
-        <div class="actor">${Array.isArray(d.actress) ? d.actress.join(", ") : d.actress || ""}</div>
+        <div class="actor">${Array.isArray(d.actress)?d.actress.join(", "):d.actress||""}</div>
         <div class="card-type">${d.type}</div>
       </div>
       <div class="card-info">
@@ -218,7 +240,7 @@ function renderPage(page) {
           <span class="title">${d.title}</span>
         </div>
         <div class="card-info-bottom">
-          <span class="date">${d.publish_date || ""}</span>
+          <span class="date">${d.publish_date||""}</span>
         </div>
       </div>
     `;
@@ -228,16 +250,15 @@ function renderPage(page) {
   updatePagination(page);
 }
 
-// === 更新分页条 ===
 function updatePagination(page) {
-  const totalPages = Math.ceil(dramas.length / pageSize);
+  const totalPages = Math.ceil(dramas.length/pageSize);
   const pagination = document.getElementById("pagination");
   pagination.innerHTML = "";
 
   const prev = document.createElement("button");
   prev.textContent = "上一页";
-  prev.disabled = page === 1;
-  prev.onclick = () => { if (page > 1) renderPage(page - 1); };
+  prev.disabled = page===1;
+  prev.onclick = () => { if(page>1) renderPage(page-1); };
   pagination.appendChild(prev);
 
   const info = document.createElement("span");
@@ -248,18 +269,18 @@ function updatePagination(page) {
   jumpBtn.textContent = "跳转";
   jumpBtn.onclick = () => {
     const val = parseInt(document.getElementById("jumpPage").value);
-    if (val >= 1 && val <= totalPages) renderPage(val);
+    if(val>=1 && val<=totalPages) renderPage(val);
   };
   pagination.appendChild(jumpBtn);
 
   const next = document.createElement("button");
   next.textContent = "下一页";
-  next.disabled = page === totalPages;
-  next.onclick = () => { if (page < totalPages) renderPage(page + 1); };
+  next.disabled = page===totalPages;
+  next.onclick = () => { if(page<totalPages) renderPage(page+1); };
   pagination.appendChild(next);
 }
 
-// === 启动 ===
+// ======== 启动 ========
 const companyName = getCompanyName();
 loadCompanyData(companyName);
 </script>
