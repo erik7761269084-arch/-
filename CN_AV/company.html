@@ -17,7 +17,13 @@ body {
 }
 
 /* ======= 顶部栏占位 ======= */
-#header-placeholder { position: fixed; top:0; left:0; width:100%; z-index:9999; }
+#header-placeholder { 
+  position: fixed; 
+  top:0; 
+  left:0; 
+  width:100%; 
+  z-index:9999; 
+}
 
 /* 主内容 */
 #mainContent {
@@ -101,19 +107,27 @@ body {
 </div>
 
 <script>
-/* ======= 动态加载 header.html ======= */
+/* ======= 动态加载 header.html 并绑定脚本 ======= */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 动态加载 header.js 确保汉堡菜单点击事件生效
+    // 动态加载 header.js 确保事件绑定生效
     const script = document.createElement('script');
     script.src = 'header.js';
+    script.onload = () => {
+      // 延迟执行以等待 DOM ready
+      setTimeout(() => {
+        if (typeof setActiveMenu === 'function') {
+          setActiveMenu('menu-company');
+        }
+        if (typeof initHamburgerMenu === 'function') {
+          initHamburgerMenu(); // 初始化汉堡菜单
+        }
+      }, 100);
+    };
     document.body.appendChild(script);
-
-    // 高亮菜单
-    if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
   })
   .catch(err => console.error("加载 header 失败:", err));
 
