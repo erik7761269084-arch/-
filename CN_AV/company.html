@@ -10,36 +10,36 @@ body {
   font-family: "微软雅黑", sans-serif;
   background-color: #0d0d0d;
   color: #fff;
-  padding-top: 60px; /* 顶部栏高度 */
+  padding-top: 60px;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-/* ======= 顶部栏占位 ======= */
-#header-placeholder { 
-  position: fixed; 
-  top:0; 
-  left:0; 
-  width:100%; 
-  z-index:9999; 
+/* 顶部栏占位 */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
 }
 
-/* 主内容 */
+/* 主体内容 */
 #mainContent {
   flex: 1;
   padding: 20px;
 }
 
-/* 公司网格 */
+/* 网格布局 */
 #companyGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 25px;
   justify-items: center;
 }
 
-/* 公司卡片 */
+/* 卡片样式 */
 .card {
   background-color: #1a1a1a;
   border-radius: 10px;
@@ -85,20 +85,17 @@ body {
 }
 .pagination button:hover { background-color: #555; }
 .pagination button:disabled { background-color: #222; color: #666; cursor: not-allowed; }
-.page-btn { background-color: #222; border: 1px solid #333; }
-.page-btn.active { background-color: #ffcc66; color: #000; font-weight: bold; }
-.pagination span { font-size:14px; }
 
-/* 页面淡出动画 */
+/* 动画 */
 .fade-out { opacity: 0; transition: opacity 0.3s ease-out; }
 </style>
 </head>
 <body>
 
-<!-- ======= 顶部栏 ======= -->
+<!-- 顶部栏 -->
 <div id="header-placeholder"></div>
 
-<!-- ======= 主内容 ======= -->
+<!-- 主内容 -->
 <div id="mainContent">
   <div id="companySection">
     <div id="companyGrid"></div>
@@ -107,31 +104,22 @@ body {
 </div>
 
 <script>
-/* ======= 动态加载 header.html 并绑定脚本 ======= */
+// === 动态加载 header.html ===
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 动态加载 header.js 确保事件绑定生效
+    // 加载 header.js
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
-      // 延迟执行以等待 DOM ready
-      setTimeout(() => {
-        if (typeof setActiveMenu === 'function') {
-          setActiveMenu('menu-company');
-        }
-        if (typeof initHamburgerMenu === 'function') {
-          initHamburgerMenu(); // 初始化汉堡菜单
-        }
-      }, 100);
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
     };
     document.body.appendChild(script);
-  })
-  .catch(err => console.error("加载 header 失败:", err));
+  });
 
-/* ======= 公司卡片渲染 ======= */
+// === 加载公司数据 ===
 let companies = [], currentPage = 1, pageSize = 18;
 
 async function loadCompanies() {
@@ -141,8 +129,8 @@ async function loadCompanies() {
     companies = data.filter(c => c.company && c.company.trim() !== "");
     renderCompanies();
   } catch (e) {
-    console.error("加载公司数据失败:", e);
-    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后再试。</p>";
+    console.error("加载失败:", e);
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>加载失败，请稍后再试。</p>";
   }
 }
 
@@ -151,19 +139,20 @@ function renderCompanies() {
   container.innerHTML = '';
   const start = (currentPage - 1) * pageSize;
   const end = start + pageSize;
+
   companies.slice(start, end).forEach(c => {
     const card = document.createElement('div');
     card.className = 'card';
     card.onclick = () => {
-      if (c.company_url && c.company_url.trim() !== "") {
+      if (c.company_url && c.company_url.trim()) {
         document.body.classList.add('fade-out');
         setTimeout(() => { window.location.href = c.company_url; }, 300);
-      } else { alert("该公司暂无详情页"); }
+      }
     };
-    const placeholderImg = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
+    const img = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
     card.innerHTML = `
       <div class="card-img-wrapper">
-        <img src="${placeholderImg}" alt="${c.company}">
+        <img src="${img}" alt="${c.company}">
         <div class="card-overlay">
           <div class="card-title">${c.company}</div>
           <div class="card-info">?? ${c.works_count || 0} 部作品</div>
@@ -182,23 +171,21 @@ function renderPagination() {
   const prev = document.createElement('button');
   prev.textContent = "上一页";
   prev.disabled = currentPage === 1;
-  prev.onclick = () => { if(currentPage>1){ currentPage--; renderCompanies(); } };
+  prev.onclick = () => { if (currentPage > 1) { currentPage--; renderCompanies(); } };
   pagination.appendChild(prev);
 
   const span = document.createElement('span');
-  span.textContent = ` 第 ${currentPage} / ${totalPages} 页`;
+  span.textContent = ` 第 ${currentPage} / ${totalPages} 页 `;
   pagination.appendChild(span);
 
   const next = document.createElement('button');
   next.textContent = "下一页";
   next.disabled = currentPage === totalPages;
-  next.onclick = () => { if(currentPage<totalPages){ currentPage++; renderCompanies(); } };
+  next.onclick = () => { if (currentPage < totalPages) { currentPage++; renderCompanies(); } };
   pagination.appendChild(next);
 }
 
-// === 初始加载 ===
 loadCompanies();
 </script>
-
 </body>
 </html>
