@@ -1,101 +1,8 @@
 <!-- header.html -->
-<style>
-/* 顶部导航栏 */
-.headerbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 60px;
-  background-color: #1a1a1a;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 20px;
-  box-sizing: border-box;
-  z-index: 9999;
-  font-family: Arial, sans-serif;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-}
-
-/* Logo */
-.headerbar .logo {
-  font-weight: bold;
-  font-size: 18px;
-  color: #ffcc00;
-  position: absolute;
-  left: 20px;
-}
-
-/* 菜单 */
-.headerbar nav {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-  white-space: nowrap;
-  transition: max-height 0.3s ease;
-}
-
-/* 菜单链接 */
-.headerbar nav a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 14px;
-  padding: 5px 0;
-}
-.headerbar nav a:hover {
-  color: #ffcc00;
-}
-
-/* 汉堡按钮 */
-.hamburger {
-  display: none;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 25px;
-  height: 18px;
-  cursor: pointer;
-  position: absolute;
-  right: 20px;
-}
-.hamburger span {
-  display: block;
-  height: 3px;
-  background-color: #fff;
-  border-radius: 2px;
-}
-
-/* 手机端折叠菜单 */
-@media (max-width: 768px) {
-  .headerbar nav {
-    position: absolute;
-    top: 60px;
-    left: 0;
-    width: 100%;
-    flex-direction: column;
-    background-color: #1a1a1a;
-    overflow: hidden;
-    max-height: 0;
-  }
-  .headerbar nav.show {
-    max-height: 500px; /* 可根据菜单数量调整 */
-  }
-  .hamburger {
-    display: flex;
-  }
-}
-
-/* 给 body 留出顶部空间 */
-body {
-  padding-top: 60px;
-}
-</style>
-
 <div class="headerbar">
-  <div class="logo">御女宫国产AV 11</div>
+  <div class="logo">御女宫国产AV</div>
 
-  <nav id="navMenu">
+  <nav class="nav-links">
     <a href="/movie/new">最新更新</a>
     <a href="/CN_AV/chinese_AV">国产AV</a>
     <a href="/CN_AV/actress">国产女优</a>
@@ -103,30 +10,11 @@ body {
     <a href="https://t.me/yunvgongCNAV" target="_blank">电报群</a>
   </nav>
 
-  <div class="hamburger" id="hamburgerBtn">
+  <div class="hamburger">
     <span></span>
     <span></span>
     <span></span>
   </div>
 </div>
 
-<script>
-(function(){
-  const hamburger = document.getElementById("hamburgerBtn");
-  const navMenu = document.getElementById("navMenu");
-
-  hamburger.addEventListener("click", function(e){
-    e.stopPropagation();
-    navMenu.classList.toggle("show");
-  });
-
-  // 点击页面其他地方关闭菜单
-  document.addEventListener("click", function(){
-    navMenu.classList.remove("show");
-  });
-
-  navMenu.addEventListener("click", function(e){
-    e.stopPropagation();
-  });
-})();
-</script>
+<link rel="stylesheet" href="header.css">
