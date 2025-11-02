@@ -16,6 +16,9 @@ body {
   min-height: 100vh;
 }
 
+/* ======= 顶部栏占位 ======= */
+#header-placeholder { position: fixed; top:0; left:0; width:100%; z-index:9999; }
+
 /* 主内容 */
 #mainContent {
   flex: 1;
@@ -99,17 +102,20 @@ body {
 
 <script>
 /* ======= 动态加载 header.html ======= */
-fetch('header.html').then(res => res.text()).then(html => {
-  document.getElementById('header-placeholder').innerHTML = html;
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
 
-  // 动态加载 header.js
-  const script = document.createElement('script');
-  script.src = 'header.js';
-  document.body.appendChild(script);
+    // 动态加载 header.js 确保汉堡菜单点击事件生效
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    document.body.appendChild(script);
 
-  // 高亮菜单
-  if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
-});
+    // 高亮菜单
+    if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
+  })
+  .catch(err => console.error("加载 header 失败:", err));
 
 /* ======= 公司卡片渲染 ======= */
 let companies = [], currentPage = 1, pageSize = 18;

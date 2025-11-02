@@ -1,11 +1,17 @@
-// header.js
-document.addEventListener('DOMContentLoaded', function () {
-  const hamburger = document.querySelector('.hamburger');
-  const navLinks = document.querySelector('.nav-links');
+document.addEventListener("DOMContentLoaded", function(){
+  const hamburger = document.getElementById("hamburger");
+  const navMenu = document.getElementById("navMenu");
 
-  if (hamburger && navLinks) {
-    hamburger.addEventListener('click', () => {
-      navLinks.classList.toggle('show');
-    });
+  hamburger.addEventListener("click", ()=>{
+    navMenu.classList.toggle("show");
+  });
+
+  // 高亮当前菜单
+  window.setActiveMenu = function(menuId){
+    const menu = document.getElementById(menuId);
+    if(menu){
+      menu.style.color = "#ffcc00";
+      menu.style.fontWeight = "bold";
+    }
   }
 });
