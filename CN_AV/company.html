@@ -3,65 +3,270 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AƬ��Ʒ��</title>
+<title>国产AV公司目录大全</title>
 <style>
-body { margin:0; font-family:"΢���ź�", sans-serif; background-color:#0d0d0d; color:#fff; padding-top:60px; }
-#companyGrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:25px; justify-items:center; }
-.company-card { background-color:#1a1a1a; border-radius:10px; overflow:hidden; cursor:pointer; transition:transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s; text-align:center; aspect-ratio:16/9; width:100%; max-width:400px; position:relative; }
-.company-card:hover { transform:scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,0.2); }
-.company-card img { width:100%; height:100%; object-fit:cover; opacity:0.5; transition:opacity 0.3s; }
-.company-card:hover img { opacity:0.3; }
-.company-card .card-overlay { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); text-align:center; }
-.company-card .card-title { color:#fff; font-size:20px; font-weight:bold; text-shadow:0 0 8px rgba(0,0,0,0.8); letter-spacing:1px; margin-bottom:4px; }
-.company-card .card-info { font-size:12px; color:#ccc; opacity:0.9; }
-.pagination { margin-top:20px; display:flex; align-items:center; gap:6px; flex-wrap:wrap; justify-content:center; }
-.pagination button { padding:6px 12px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer; }
-.pagination button.active { background:red; }
-.pagination span { font-size:14px; }
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ======= 顶部标题 ======= */
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #111;
+  border-bottom: 1px solid #222;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffcc66;
+  letter-spacing: 2px;
+}
+
+/* ======= 主内容 ======= */
+.main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* ✅ 自动布局修复 */
+  gap: 25px;
+  justify-items: center;
+}
+
+/* ======= 卡片 ======= */
+.card {
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s;
+  text-align: center;
+  aspect-ratio: 16 / 9; /* 横版比例 */
+  width: 100%;
+  max-width: 400px; /* ✅ 防止过大 */
+  position: relative;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255,255,255,0.2);
+}
+.card:active {
+  transform: scale(0.96);
+  opacity: 0.8;
+}
+
+/* 图片容器 */
+.card-img-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #222;
+  overflow: hidden;
+}
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+  transition: opacity 0.3s;
+}
+.card:hover img {
+  opacity: 0.3;
+}
+
+/* ======= 公司名 + 作品数量 ======= */
+.card-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.card-title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0 0 8px rgba(0,0,0,0.8);
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+.card-info {
+  font-size: 12px;
+  color: #ccc;
+  opacity: 0.9;
+}
+
+/* ======= 分页 ======= */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 10px;
+  background-color: #111;
+  border-top: 1px solid #222;
+  flex-wrap: wrap;
+}
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+button:hover {
+  background-color: #555;
+}
+button:disabled {
+  background-color: #222;
+  color: #666;
+  cursor: not-allowed;
+}
+.page-btn {
+  background-color: #222;
+  border: 1px solid #333;
+}
+.page-btn.active {
+  background-color: #ffcc66;
+  color: #000;
+  font-weight: bold;
+}
+
+/* 页面淡出动画 */
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
+}
 </style>
 </head>
 <body>
-<div id="header-placeholder"></div>
 
-<div id="mainContent">
-  <div id="companySection">
-    <div id="companyGrid"></div>
-    <div class="pagination" id="companyPagination"></div>
-  </div>
+<header>国产AV公司目录大全</header>
+
+<div class="main">
+  <div class="grid" id="companyGrid"></div>
+</div>
+
+<div class="pagination" id="paginationBar">
+  <button id="prevBtn">上一页</button>
+  <span id="pageNumbers"></span>
+  <button id="nextBtn">下一页</button>
 </div>
 
 <script>
-fetch('header.html').then(res=>res.text()).then(html=>{
-  document.getElementById('header-placeholder').innerHTML = html;
-  setActiveMenu('menu-company');
-});
+let companies = [];
+let currentPage = 1;
+const pageSize = 18;
 
-let companies=[],companyPage=1,companyPageSize=24;
-async function loadCompanies(){
-  const res=await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
-  const data=await res.json();
-  companies=data.filter(c=>c.company && c.company.trim()!=="");
-  renderCompanies();
+// === 加载公司数据 ===
+async function loadCompanies() {
+  try {
+    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
+    const data = await res.json();
+    companies = data.filter(c => c.company && c.company.trim() !== "");
+    renderCompanies();
+  } catch (e) {
+    console.error("加载公司数据失败:", e);
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后再试。</p>";
+  }
 }
-function renderCompanies(){
-  const container=document.getElementById('companyGrid'); container.innerHTML='';
-  const start=(companyPage-1)*companyPageSize; const end=start+companyPageSize;
-  companies.slice(start,end).forEach(c=>{
-    const card=document.createElement('div'); card.className='company-card';
-    card.onclick=()=>{ if(c.company_url) window.location.href=c.company_url; };
-    card.innerHTML=`<img src="https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg" alt="${c.company}"><div class="card-overlay"><div class="card-title">${c.company}</div><div class="card-info">?? ${c.works_count||0} ����Ʒ</div></div>`;
+
+// === 渲染公司卡片 ===
+function renderCompanies() {
+  const container = document.getElementById('companyGrid');
+  container.innerHTML = '';
+
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const list = companies.slice(start, end);
+
+  list.forEach(c => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => {
+      if (c.company_url && c.company_url.trim() !== "") {
+        document.body.classList.add('fade-out');
+        setTimeout(() => {
+          window.location.href = c.company_url;
+        }, 300);
+      } else {
+        alert("该公司暂无详情页");
+      }
+    };
+
+    const placeholderImg = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
+
+    card.innerHTML = `
+      <div class="card-img-wrapper">
+        <img src="${placeholderImg}" alt="${c.company}">
+        <div class="card-overlay">
+          <div class="card-title">${c.company}</div>
+          <div class="card-info">📀 ${c.works_count || 0} 部作品</div>
+        </div>
+      </div>
+    `;
     container.appendChild(card);
   });
-  renderCompanyPagination();
+
+  updatePagination();
 }
-function renderCompanyPagination(){
-  const pagination=document.getElementById('companyPagination'); pagination.innerHTML='';
-  const totalPages=Math.max(1, Math.ceil(companies.length/companyPageSize));
-  const prev=document.createElement('button'); prev.textContent='��һҳ'; prev.disabled=companyPage===1; prev.onclick=()=>{ if(companyPage>1){companyPage--; renderCompanies();} }; pagination.appendChild(prev);
-  const span=document.createElement('span'); span.textContent=`�� ${companyPage} / ${totalPages} ҳ`; pagination.appendChild(span);
-  const next=document.createElement('button'); next.textContent='��һҳ'; next.disabled=companyPage===totalPages; next.onclick=()=>{ if(companyPage<totalPages){companyPage++; renderCompanies();} }; pagination.appendChild(next);
+
+// === 更新分页 ===
+function updatePagination() {
+  const totalPages = Math.ceil(companies.length / pageSize);
+  const pageNumbers = document.getElementById("pageNumbers");
+  pageNumbers.innerHTML = "";
+
+  const maxVisible = 5;
+  let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+  let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+  if (endPage - startPage < maxVisible - 1) {
+    startPage = Math.max(1, endPage - maxVisible + 1);
+  }
+
+  for (let i = startPage; i <= endPage; i++) {
+    const btn = document.createElement("button");
+    btn.className = "page-btn" + (i === currentPage ? " active" : "");
+    btn.textContent = i;
+    btn.onclick = () => {
+      currentPage = i;
+      renderCompanies();
+    };
+    pageNumbers.appendChild(btn);
+  }
+
+  document.getElementById("prevBtn").disabled = currentPage === 1;
+  document.getElementById("nextBtn").disabled = currentPage === totalPages;
 }
+
+// 翻页按钮
+document.getElementById("prevBtn").onclick = () => {
+  if (currentPage > 1) {
+    currentPage--;
+    renderCompanies();
+  }
+};
+document.getElementById("nextBtn").onclick = () => {
+  const totalPages = Math.ceil(companies.length / pageSize);
+  if (currentPage < totalPages) {
+    currentPage++;
+    renderCompanies();
+  }
+};
+
+// === 初始加载 ===
 loadCompanies();
 </script>
+
 </body>
 </html>
