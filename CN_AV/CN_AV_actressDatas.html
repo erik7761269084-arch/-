@@ -14,44 +14,18 @@
     min-height: 100vh;
     overflow-x: hidden;
     background-color: #000;
-    padding-top: 60px; /* 为 header 留空间 */
+    padding-top: 60px; /* 给 header 留空间 */
   }
 
-  /* 背景图 */
   body::before {
     content: "";
     position: fixed;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
+    top:0; left:0;
+    width:100%; height:100%;
     background: var(--bg-url) center center / cover no-repeat;
     filter: brightness(0.3);
-    opacity: 0.6;
-    z-index: -1;
-  }
-
-  /* === 固定 Header === */
-  .headerbar {
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%;
-    height: 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #111;
-    padding: 0 20px;
-    z-index: 999;
-  }
-  .headerbar .logo { font-weight: bold; font-size: 20px; color: #fff; }
-  #menu { display: flex; gap: 15px; }
-  #menu a { color: #fff; text-decoration: none; }
-  #menu a.active { color: red; font-weight: bold; }
-  #hamburger-btn { font-size:24px; background:none; border:none; color:#fff; cursor:pointer; }
-
-  @media (max-width:768px) {
-    #menu { display:none; flex-direction:column; background:#111; position:absolute; top:60px; right:0; width:150px; padding:10px; border-radius:0 0 5px 5px; }
-    #menu a { margin:5px 0; }
+    opacity:0.6;
+    z-index:-1;
   }
 
   .container {
@@ -62,53 +36,43 @@
     box-sizing: border-box;
   }
 
-  /* === 演员信息 === */
+  /* === 演员信息样式 === */
   .profile { display: flex; gap: 20px; flex-wrap: wrap; }
-  .profile img { width: 350px; height: auto; border-radius: 10px; display: block; }
+  .profile img { width: 350px; border-radius: 10px; }
   .info { flex: 1; }
-  .info h1 { margin: 0; font-size: 28px; }
-  .features span { display: inline-block; background: #ff9800; color: #000; padding: 2px 8px; margin: 2px; border-radius: 4px; font-size: 12px; }
+  .info h1 { margin:0; font-size:28px; }
+  .features span { display:inline-block; background:#ff9800; color:#000; padding:2px 8px; margin:2px; border-radius:4px; font-size:12px; }
 
   .description { margin-top: 40px; }
 
-  .gallery { margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap: 10px; }
-  .gallery img { width: 100%; border-radius: 6px; display: block; }
+  .gallery { margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:10px; }
+  .gallery img { width:100%; border-radius:6px; display:block; }
 
-  /* === 相关影片 === */
-  .related-dramas { margin-top: 50px; }
-  .related-dramas h2 { font-size: 24px; margin-bottom: 20px; }
-  .related-dramas .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap: 15px; }
-  .related-dramas .card { position: relative; background-color: #1a1a1a; border-radius: 8px; overflow: hidden; cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; display: flex; flex-direction: column; }
-  .related-dramas .card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
-  .related-dramas .card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }
-  .card-type { position: absolute; bottom: 8px; right: 8px; font-size: 12px; font-weight: bold; color: #fff; border: 1px solid #ff0000; padding: 2px 6px; border-radius: 4px; background-color: #ff0000; }
-  .card-info { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
-  .card-info-top { display: flex; align-items: center; gap: 6px; overflow: hidden; }
-  .card-info-top .idcode { color: #ffcc00; font-weight: bold; font-size: 12px; white-space: nowrap; flex-shrink: 0; }
-  .card-info-top .title { font-size: 14px; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-grow: 1; }
-  .actor { position: absolute; bottom: 8px; left: 8px; background-color: rgba(0,0,0,0.5); padding: 2px 6px; border-radius: 4px; font-size: 12px; }
-  .card-info-bottom { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #ccc; }
-  .date { display: flex; align-items: center; gap: 4px; font-size: 12px; }
+  .related-dramas { margin-top:50px; }
+  .related-dramas h2 { font-size:24px; margin-bottom:20px; }
+  .related-dramas .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:15px; }
+  .related-dramas .card { position:relative; background-color:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; display:flex; flex-direction:column; transition: transform 0.2s ease, box-shadow 0.2s ease;}
+  .related-dramas .card:hover { transform: scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,0.2);}
+  .related-dramas .card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
+  .card-type { position:absolute; bottom:8px; right:8px; font-size:12px; font-weight:bold; color:#fff; border:1px solid #ff0000; padding:2px 6px; border-radius:4px; background-color:#ff0000;}
+  .card-info { padding:8px 10px; display:flex; flex-direction:column; gap:6px;}
+  .card-info-top { display:flex; align-items:center; gap:6px; overflow:hidden;}
+  .card-info-top .idcode { color:#ffcc00; font-weight:bold; font-size:12px; white-space:nowrap; flex-shrink:0;}
+  .card-info-top .title { font-size:14px; color:#fff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex-grow:1;}
+  .actor { position:absolute; bottom:8px; left:8px; background-color: rgba(0,0,0,0.5); padding:2px 6px; border-radius:4px; font-size:12px;}
+  .card-info-bottom { display:flex; justify-content:space-between; align-items:center; font-size:12px; color:#ccc;}
+  .date { display:flex; align-items:center; gap:4px; font-size:12px; }
 
-  /* 分页 */
-  .pagination { margin-top: 10px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-  .pagination button { padding: 4px 8px; background: #333; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
-  .pagination button.active { background: red; }
-  .pagination input { width: 40px; padding: 2px; border-radius: 4px; border: 1px solid #555; background: #222; color: #fff; text-align: center; }
+  .pagination { margin-top:10px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;}
+  .pagination button { padding:4px 8px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer;}
+  .pagination button.active { background:red;}
+  .pagination input { width:40px; padding:2px; border-radius:4px; border:1px solid #555; background:#222; color:#fff; text-align:center;}
 </style>
 </head>
 <body>
 
-<!-- ====== 固定 Header ====== -->
-<div class="headerbar">
-  <div class="logo">网站Logo</div>
-  <button id="hamburger-btn">&#9776;</button>
-  <div id="menu">
-    <a href="index.html" id="menu-home">首页</a>
-    <a href="actress.html" id="menu-actress">女优</a>
-    <a href="drama.html" id="menu-drama">影片</a>
-  </div>
-</div>
+<!-- ====== header 占位 ====== -->
+<div id="header-placeholder"></div>
 
 <div class="container">
   <!-- === 演员信息 === -->
@@ -128,16 +92,13 @@
     </div>
   </div>
 
-  <!-- === 简介 === -->
   <div class="description">
     <h2>简介</h2>
     <p id="description"></p>
   </div>
 
-  <!-- === 图集 === -->
   <div class="gallery" id="gallery"></div>
 
-  <!-- === 相关影片 === -->
   <div class="related-dramas">
     <h2>该女优出演影片</h2>
     <div class="grid" id="relatedDramasGrid"></div>
@@ -146,21 +107,20 @@
 </div>
 
 <script>
-// ==== Header 功能 ====
-const btn = document.getElementById('hamburger-btn');
-const menu = document.getElementById('menu');
-btn.addEventListener('click', () => {
-  menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
-});
+// ===== 加载 header.html + header.js =====
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
 
-// 高亮当前菜单
-function setActiveMenu(id) {
-  const links = menu.querySelectorAll('a');
-  links.forEach(a => a.classList.remove('active'));
-  const activeLink = document.getElementById(id);
-  if(activeLink) activeLink.classList.add('active');
-}
-setActiveMenu('menu-actress');
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-actress');
+    };
+    document.body.appendChild(script);
+  });
 
 // ==== 原有页面逻辑 ====
 function getSeriesName() {
@@ -226,7 +186,6 @@ function initPage(actressData) {
   initRelatedDramas(actressData.related_dramas);
 }
 
-// ==== 相关影片分页逻辑 ====
 let relatedDramas = [], relatedFiltered = [], relatedCurrentPage = 1, relatedPageSize = 12;
 
 function renderRelatedPage(page) {
@@ -301,6 +260,7 @@ function initRelatedDramas(dramas) {
 
 const seriesName = getSeriesName();
 loadSeriesData(seriesName);
+
 </script>
 
 </body>
