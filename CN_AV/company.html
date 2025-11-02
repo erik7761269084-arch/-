@@ -3,38 +3,34 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>å›½äº§AVå…¬å¸ç›®å½•å¤§å…¨</title>
+<title>¹ú²úAV¹«Ë¾Ä¿Â¼´óÈ«</title>
 <style>
-/* ======= å…¨å±€æ ·å¼ ======= */
 body {
   margin: 0;
-  font-family: "å¾®è½¯é›…é»‘", sans-serif;
+  font-family: "Î¢ÈíÑÅºÚ", sans-serif;
   background-color: #0d0d0d;
   color: #fff;
+  padding-top: 60px; /* ¶¥²¿À¸¸ß¶È */
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding-top: 60px; /* é¡¶éƒ¨æ é«˜åº¦ */
 }
 
-/* ======= é¡¶éƒ¨æ å ä½ ======= */
-#header-placeholder { position: fixed; top: 0; left: 0; width: 100%; z-index: 9999; }
-
-/* ======= ä¸»å†…å®¹ ======= */
+/* Ö÷ÄÚÈİ */
 #mainContent {
   flex: 1;
   padding: 20px;
 }
 
-/* ======= å¡ç‰‡ç½‘æ ¼ ======= */
+/* ¹«Ë¾Íø¸ñ */
 #companyGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
   gap: 25px;
   justify-items: center;
 }
 
-/* ======= å…¬å¸å¡ç‰‡ ======= */
+/* ¹«Ë¾¿¨Æ¬ */
 .card {
   background-color: #1a1a1a;
   border-radius: 10px;
@@ -55,10 +51,10 @@ body {
 .card:hover img { opacity: 0.3; }
 
 .card-overlay { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; }
-.card-title { color: #fff; font-size: 20px; font-weight: bold; text-shadow: 0 0 8px rgba(0,0,0,0.8); letter-spacing: 1px; margin-bottom: 4px; }
+.card-title { color: #fff; font-size: 20px; font-weight: bold; text-shadow: 0 0 8px rgba(0,0,0,0.8); margin-bottom: 4px; }
 .card-info { font-size: 12px; color: #ccc; opacity: 0.9; }
 
-/* ======= åˆ†é¡µ ======= */
+/* ·ÖÒ³ */
 .pagination {
   display: flex;
   justify-content: center;
@@ -84,16 +80,16 @@ body {
 .page-btn.active { background-color: #ffcc66; color: #000; font-weight: bold; }
 .pagination span { font-size:14px; }
 
-/* é¡µé¢æ·¡å‡ºåŠ¨ç”» */
+/* Ò³Ãæµ­³ö¶¯»­ */
 .fade-out { opacity: 0; transition: opacity 0.3s ease-out; }
 </style>
 </head>
 <body>
 
-<!-- ======= é¡¶éƒ¨å¯¼èˆªæ  ======= -->
+<!-- ======= ¶¥²¿À¸ ======= -->
 <div id="header-placeholder"></div>
 
-<!-- ======= ä¸»å†…å®¹ ======= -->
+<!-- ======= Ö÷ÄÚÈİ ======= -->
 <div id="mainContent">
   <div id="companySection">
     <div id="companyGrid"></div>
@@ -102,13 +98,20 @@ body {
 </div>
 
 <script>
-/* ======= å¼•å…¥é¡¶éƒ¨æ  ======= */
+/* ======= ¶¯Ì¬¼ÓÔØ header.html ======= */
 fetch('header.html').then(res => res.text()).then(html => {
   document.getElementById('header-placeholder').innerHTML = html;
+
+  // ¶¯Ì¬¼ÓÔØ header.js
+  const script = document.createElement('script');
+  script.src = 'header.js';
+  document.body.appendChild(script);
+
+  // ¸ßÁÁ²Ëµ¥
   if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
 });
 
-/* ======= å…¬å¸å¡ç‰‡é€»è¾‘ ======= */
+/* ======= ¹«Ë¾¿¨Æ¬äÖÈ¾ ======= */
 let companies = [], currentPage = 1, pageSize = 18;
 
 async function loadCompanies() {
@@ -118,8 +121,8 @@ async function loadCompanies() {
     companies = data.filter(c => c.company && c.company.trim() !== "");
     renderCompanies();
   } catch (e) {
-    console.error("åŠ è½½å…¬å¸æ•°æ®å¤±è´¥:", e);
-    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>æ— æ³•åŠ è½½å…¬å¸æ•°æ®ï¼Œè¯·ç¨åå†è¯•ã€‚</p>";
+    console.error("¼ÓÔØ¹«Ë¾Êı¾İÊ§°Ü:", e);
+    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>ÎŞ·¨¼ÓÔØ¹«Ë¾Êı¾İ£¬ÇëÉÔºóÔÙÊÔ¡£</p>";
   }
 }
 
@@ -135,9 +138,7 @@ function renderCompanies() {
       if (c.company_url && c.company_url.trim() !== "") {
         document.body.classList.add('fade-out');
         setTimeout(() => { window.location.href = c.company_url; }, 300);
-      } else {
-        alert("è¯¥å…¬å¸æš‚æ— è¯¦æƒ…é¡µ");
-      }
+      } else { alert("¸Ã¹«Ë¾ÔİÎŞÏêÇéÒ³"); }
     };
     const placeholderImg = "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
     card.innerHTML = `
@@ -145,7 +146,7 @@ function renderCompanies() {
         <img src="${placeholderImg}" alt="${c.company}">
         <div class="card-overlay">
           <div class="card-title">${c.company}</div>
-          <div class="card-info">ğŸ“€ ${c.works_count || 0} éƒ¨ä½œå“</div>
+          <div class="card-info">?? ${c.works_count || 0} ²¿×÷Æ·</div>
         </div>
       </div>`;
     container.appendChild(card);
@@ -159,23 +160,23 @@ function renderPagination() {
   const totalPages = Math.ceil(companies.length / pageSize);
 
   const prev = document.createElement('button');
-  prev.textContent = "ä¸Šä¸€é¡µ";
+  prev.textContent = "ÉÏÒ»Ò³";
   prev.disabled = currentPage === 1;
   prev.onclick = () => { if(currentPage>1){ currentPage--; renderCompanies(); } };
   pagination.appendChild(prev);
 
   const span = document.createElement('span');
-  span.textContent = ` ç¬¬ ${currentPage} / ${totalPages} é¡µ `;
+  span.textContent = ` µÚ ${currentPage} / ${totalPages} Ò³`;
   pagination.appendChild(span);
 
   const next = document.createElement('button');
-  next.textContent = "ä¸‹ä¸€é¡µ";
+  next.textContent = "ÏÂÒ»Ò³";
   next.disabled = currentPage === totalPages;
   next.onclick = () => { if(currentPage<totalPages){ currentPage++; renderCompanies(); } };
   pagination.appendChild(next);
 }
 
-// === åˆå§‹åŠ è½½ ===
+// === ³õÊ¼¼ÓÔØ ===
 loadCompanies();
 </script>
 
