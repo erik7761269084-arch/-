@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>固定顶部导航栏</title>
 <style>
-/* 全局重置 */
 body, html {
   margin: 0;
   padding: 0;
@@ -26,11 +25,11 @@ body, html {
   justify-content: center;
   padding: 0 20px;
   box-sizing: border-box;
-  z-index: 9999;
+  z-index: 1000;
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
 
-/* 左侧 Logo */
+/* Logo */
 .headerbar .logo {
   font-weight: bold;
   font-size: 18px;
@@ -44,8 +43,6 @@ body, html {
 .headerbar nav {
   display: flex;
   gap: 20px;
-  align-items: center;
-  white-space: nowrap;
 }
 
 .headerbar nav a {
@@ -59,7 +56,7 @@ body, html {
   color: #ffcc00;
 }
 
-/* 汉堡菜单按钮（默认隐藏） */
+/* 汉堡按钮（小屏显示） */
 .hamburger {
   display: none;
   position: absolute;
@@ -69,6 +66,7 @@ body, html {
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
+  z-index: 1010;
 }
 
 .hamburger span {
@@ -78,23 +76,22 @@ body, html {
   border-radius: 2px;
 }
 
-/* 页面内容顶部留出空间 */
-body {
-  padding-top: 60px;
-}
-
-/* 响应式处理：小屏幕显示汉堡菜单 */
+/* 手机端样式 */
 @media (max-width: 768px) {
   .headerbar nav {
-    display: none; /* 默认隐藏菜单 */
-    position: absolute;
+    display: none;
+    position: fixed;
     top: 60px;
     right: 0;
-    background-color: #1a1a1a;
-    flex-direction: column;
     width: 200px;
+    flex-direction: column;
+    background-color: #1a1a1a;
     box-shadow: -2px 2px 5px rgba(0,0,0,0.5);
     padding: 10px 0;
+  }
+
+  .headerbar nav.show {
+    display: flex;
   }
 
   .headerbar nav a {
@@ -105,10 +102,11 @@ body {
   .hamburger {
     display: flex;
   }
+}
 
-  .headerbar nav.show {
-    display: flex;
-  }
+/* 页面内容占位 */
+body {
+  padding-top: 60px;
 }
 </style>
 </head>
@@ -133,25 +131,23 @@ body {
 </div>
 
 <script>
-// 手机端汉堡菜单点击事件
-document.addEventListener("DOMContentLoaded", function () {
-  const hamburger = document.getElementById('hamburgerBtn');
-  const navMenu = document.getElementById('navMenu');
+// 确保DOM加载完成
+document.addEventListener("DOMContentLoaded", function() {
+  const hamburger = document.getElementById("hamburgerBtn");
+  const navMenu = document.getElementById("navMenu");
 
-  hamburger.addEventListener('click', function (e) {
-    e.stopPropagation(); // 阻止点击事件冒泡
-    navMenu.classList.toggle('show');
+  hamburger.addEventListener("click", function(e) {
+    e.stopPropagation();
+    navMenu.classList.toggle("show");
   });
 
   // 点击页面其他地方收起菜单
-  document.addEventListener('click', function () {
-    if (navMenu.classList.contains('show')) {
-      navMenu.classList.remove('show');
-    }
+  document.addEventListener("click", function() {
+    navMenu.classList.remove("show");
   });
 
   // 点击菜单本身不收起
-  navMenu.addEventListener('click', function (e) {
+  navMenu.addEventListener("click", function(e) {
     e.stopPropagation();
   });
 });
