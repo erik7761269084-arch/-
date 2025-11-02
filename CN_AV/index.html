@@ -125,6 +125,24 @@ body {
 #actressGrid .card-title { padding: 10px; font-size: 15px; text-align: center; color: #eee; }
 #actressGrid .card-info { font-size: 13px; color: #ccc; text-align: center; padding-bottom: 10px; line-height: 1.6; }
 
+/* 手机端女优卡片缩放优化 */
+@media (max-width: 768px) {
+  #actressGrid {
+    grid-template-columns: repeat(2, 1fr) !important; /* 一行两个 */
+    gap: 12px !important; /* 缩小间距 */
+  }
+  #actressGrid .card img {
+    height: 200px !important; /* 图片更小 */
+  }
+  #actressGrid .card-title {
+    font-size: 13px !important; /* 名字字体缩小 */
+  }
+  #actressGrid .card-info {
+    font-size: 12px !important; /* 资料字体缩小 */
+  }
+}
+
+
 /* 出品厂 */
 #companyGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 25px; justify-items: center; }
 .company-card { background-color: #1a1a1a; border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s; text-align: center; aspect-ratio: 16/9; width: 100%; max-width: 400px; position: relative; }
