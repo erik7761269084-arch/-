@@ -13,16 +13,14 @@
     background-color: #000;
     min-height: 100vh;
     overflow-x: hidden;
-    padding-top: 60px; /* 顶部 header 留空 */
+    padding-top: 60px; /* 给 header 留空间 */
   }
 
-  /* 背景模糊层 */
   body::before {
     content: "";
     position: fixed;
     top: 0; left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100%; height: 100%;
     background: var(--bg-url) center center / cover no-repeat;
     filter: brightness(0.3);
     opacity: 0.6;
@@ -145,7 +143,6 @@
     text-align: center;
   }
 
-  /* ============ 响应式容器调整 ============ */
   @media (max-width: 768px) {
     .container { padding: 30px 16px; }
     header { font-size: 22px; margin-bottom: 20px; }
@@ -154,7 +151,7 @@
 </head>
 <body>
 
-<!-- 顶部导航栏占位 -->
+<!-- ======= header 占位 ======= -->
 <div id="header-placeholder"></div>
 
 <div class="container">
@@ -166,7 +163,7 @@
 </div>
 
 <script>
-// ========== 加载通用 header ==========
+/* ======= 加载 header.html + header.js ======= */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
@@ -176,13 +173,13 @@ fetch('header.html')
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
-      if (typeof initHeader === 'function') initHeader();
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
       if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
     };
     document.body.appendChild(script);
   });
 
-// ======== 工具函数：缓存页码与滚动 ========
+/* ======= 页面逻辑 ======= */
 function saveState(page, scroll) {
   try {
     localStorage.setItem("company_page", page);
@@ -194,14 +191,10 @@ function restoreState() {
   const scroll = parseInt(localStorage.getItem("company_scroll") || "0", 10);
   return { page: isNaN(page)?1:page, scroll: isNaN(scroll)?0:scroll };
 }
-
-// ======== 获取公司名称 ========
 function getCompanyName() {
   const params = new URLSearchParams(window.location.search);
   return params.get('series') || '未知公司';
 }
-
-// ======== 加载公司数据 ========
 function loadCompanyData(companyName) {
   const script = document.createElement('script');
   script.src = `CN_company_menu/${companyName}_company_data.js`;
@@ -213,14 +206,12 @@ function loadCompanyData(companyName) {
   document.body.appendChild(script);
 }
 
-// ======== 分页逻辑 ========
 let currentPage = 1;
 const pageSize = 21;
 let dramas = [];
 
 function initPage(data) {
   document.getElementById("companyHeader").textContent = `${data.company}（共 ${data.works_count} 部作品）`;
-
   const bg = data.dramas?.find(d => d.background_img)?.background_img;
   if(bg) document.body.style.setProperty('--bg-url', `url('${bg}')`);
 
@@ -228,7 +219,6 @@ function initPage(data) {
   const { page, scroll } = restoreState();
   currentPage = page;
   renderPage(currentPage);
-
   setTimeout(() => window.scrollTo(0, scroll), 150);
 }
 
@@ -248,7 +238,6 @@ function renderPage(page) {
       saveState(currentPage, window.scrollY);
       window.open(d.title_play_url, "_blank");
     };
-
     card.innerHTML = `
       <div style="position:relative;">
         <img src="${d.cover_url}" alt="${d.title}" onerror="this.src='https://via.placeholder.com/300x180?text=No+Image'">
@@ -301,7 +290,6 @@ function updatePagination(page) {
   pagination.appendChild(next);
 }
 
-// ======== 启动 ========
 const companyName = getCompanyName();
 loadCompanyData(companyName);
 </script>
