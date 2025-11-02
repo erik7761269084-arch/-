@@ -14,6 +14,7 @@
     min-height: 100vh;
     overflow-x: hidden;
     background-color: #000;
+    padding-top: 60px; /* 为 header 留空间 */
   }
 
   /* 背景图 */
@@ -125,6 +126,9 @@
 </head>
 <body>
 
+<!-- === 顶部导航栏 === -->
+<div id="header-placeholder"></div>
+
 <div class="container">
   <!-- === 演员信息 === -->
   <div class="profile">
@@ -161,10 +165,22 @@
 </div>
 
 <script>
+// === 动态加载 header.html ===
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    if (typeof setActiveMenu === 'function') {
+      setActiveMenu('menu-actress');
+    }
+  });
+
+// === 以下保持原逻辑不变 ===
+
 // 从 URL 获取 series 参数
 function getSeriesName() {
   const params = new URLSearchParams(window.location.search);
-  return params.get('series') || '1'; // 默认 1
+  return params.get('series') || '1';
 }
 
 // 动态加载 JS 数据文件
@@ -184,16 +200,12 @@ function loadSeriesData(seriesName) {
   document.body.appendChild(script);
 }
 
-// === 初始化页面 ===
 function initPage(actressData) {
   if (!actressData) return;
-
-  // 背景图
   if (actressData.background_img) {
     document.body.style.setProperty('--bg-url', `url('${actressData.background_img}')`);
   }
 
-  // 填充演员信息
   const profileImg = document.getElementById("profile-img");
   profileImg.src = actressData.img_url || "";
   profileImg.alt = actressData.name || "";
@@ -209,7 +221,6 @@ function initPage(actressData) {
   document.getElementById("works_count").textContent = actressData.works_count || 0;
   document.getElementById("description").textContent = actressData.description || "";
 
-  // 特征标签
   const featuresDiv = document.getElementById("features");
   featuresDiv.innerHTML = "";
   if (Array.isArray(actressData.features)) {
@@ -220,12 +231,10 @@ function initPage(actressData) {
     });
   }
 
-  // 别名
   document.getElementById("aliases").textContent = Array.isArray(actressData.aliases)
     ? actressData.aliases.join(", ")
     : (actressData.aliases || "");
 
-  // 图集
   const galleryDiv = document.getElementById("gallery");
   galleryDiv.innerHTML = "";
   if (Array.isArray(actressData.gallery)) {
@@ -238,7 +247,6 @@ function initPage(actressData) {
     });
   }
 
-  // 初始化相关影片
   initRelatedDramas(actressData.related_dramas);
 }
 
@@ -276,7 +284,6 @@ function renderRelatedPage(page) {
     container.appendChild(card);
   });
 
-  // 分页
   const pagination = document.getElementById('relatedPagination');
   pagination.innerHTML = '';
   const totalPages = Math.ceil(relatedFiltered.length / relatedPageSize);
