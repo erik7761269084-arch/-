@@ -13,7 +13,7 @@
     background-color: #000;
     min-height: 100vh;
     overflow-x: hidden;
-    padding-top: 60px; /* 为 header 留空间 */
+    padding-top: 60px; /* 顶部 header 留空 */
   }
 
   /* 背景模糊层 */
@@ -35,30 +35,6 @@
     padding: 50px 80px;
     background: rgba(0,0,0,0.6);
     box-sizing: border-box;
-  }
-
-  /* ======== 顶部 Header ======== */
-  .headerbar {
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%;
-    height: 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #111;
-    padding: 0 20px;
-    z-index: 999;
-  }
-  .headerbar .logo { font-weight: bold; font-size: 20px; color: #fff; }
-  #menu { display: flex; gap: 15px; }
-  #menu a { color: #fff; text-decoration: none; }
-  #menu a.active { color: red; font-weight: bold; }
-  #hamburger-btn { font-size:24px; background:none; border:none; color:#fff; cursor:pointer; }
-
-  @media (max-width:768px) {
-    #menu { display:none; flex-direction:column; background:#111; position:absolute; top:60px; right:0; width:150px; padding:10px; border-radius:0 0 5px 5px; }
-    #menu a { margin:5px 0; }
   }
 
   header {
@@ -168,20 +144,18 @@
     color: #fff;
     text-align: center;
   }
+
+  /* ============ 响应式容器调整 ============ */
+  @media (max-width: 768px) {
+    .container { padding: 30px 16px; }
+    header { font-size: 22px; margin-bottom: 20px; }
+  }
 </style>
 </head>
 <body>
 
-<!-- ====== 固定 Header ====== -->
-<div class="headerbar">
-  <div class="logo">网站Logo</div>
-  <button id="hamburger-btn">&#9776;</button>
-  <div id="menu">
-    <a href="index.html" id="menu-home">首页</a>
-    <a href="company.html" id="menu-company">公司影片</a>
-    <a href="actress.html" id="menu-actress">女优</a>
-  </div>
-</div>
+<!-- 顶部导航栏占位 -->
+<div id="header-placeholder"></div>
 
 <div class="container">
   <header id="companyHeader">加载中...</header>
@@ -192,23 +166,23 @@
 </div>
 
 <script>
-// ======== Header 功能 ========
-const btn = document.getElementById('hamburger-btn');
-const menu = document.getElementById('menu');
-btn.addEventListener('click', () => {
-  menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
-});
+// ========== 加载通用 header ==========
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
 
-// 当前菜单高亮
-function setActiveMenu(id) {
-  const links = menu.querySelectorAll('a');
-  links.forEach(a => a.classList.remove('active'));
-  const activeLink = document.getElementById(id);
-  if(activeLink) activeLink.classList.add('active');
-}
-setActiveMenu('menu-company');
+    // 动态加载 header.js
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeader === 'function') initHeader();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-company');
+    };
+    document.body.appendChild(script);
+  });
 
-// ======== 原有页面逻辑 ========
+// ======== 工具函数：缓存页码与滚动 ========
 function saveState(page, scroll) {
   try {
     localStorage.setItem("company_page", page);
@@ -221,11 +195,13 @@ function restoreState() {
   return { page: isNaN(page)?1:page, scroll: isNaN(scroll)?0:scroll };
 }
 
+// ======== 获取公司名称 ========
 function getCompanyName() {
   const params = new URLSearchParams(window.location.search);
   return params.get('series') || '未知公司';
 }
 
+// ======== 加载公司数据 ========
 function loadCompanyData(companyName) {
   const script = document.createElement('script');
   script.src = `CN_company_menu/${companyName}_company_data.js`;
@@ -237,6 +213,7 @@ function loadCompanyData(companyName) {
   document.body.appendChild(script);
 }
 
+// ======== 分页逻辑 ========
 let currentPage = 1;
 const pageSize = 21;
 let dramas = [];
@@ -251,6 +228,7 @@ function initPage(data) {
   const { page, scroll } = restoreState();
   currentPage = page;
   renderPage(currentPage);
+
   setTimeout(() => window.scrollTo(0, scroll), 150);
 }
 
@@ -266,7 +244,10 @@ function renderPage(page) {
   pageData.forEach(d => {
     const card = document.createElement("div");
     card.className = "card";
-    card.onclick = () => { saveState(currentPage, window.scrollY); window.open(d.title_play_url, "_blank"); };
+    card.onclick = () => {
+      saveState(currentPage, window.scrollY);
+      window.open(d.title_play_url, "_blank");
+    };
 
     card.innerHTML = `
       <div style="position:relative;">
@@ -320,6 +301,7 @@ function updatePagination(page) {
   pagination.appendChild(next);
 }
 
+// ======== 启动 ========
 const companyName = getCompanyName();
 loadCompanyData(companyName);
 </script>
