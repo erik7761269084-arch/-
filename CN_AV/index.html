@@ -17,21 +17,92 @@ body {
 
 /* 左侧导航栏 */
 .sidebar {
-  width: 200px;
+  width: 220px;
   background-color: #111;
   border-right: 1px solid #222;
   padding-top: 20px;
   display: flex;
   flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  transition: transform 0.3s ease;
+  z-index: 1000;
 }
-.sidebar h2 { text-align: center; margin-bottom: 20px; font-size: 18px; }
-.sidebar button { background: none; color: #ccc; border: none; text-align: left; padding: 12px 20px; font-size: 15px; cursor: pointer; }
-.sidebar button:hover, .sidebar button.active { background-color: #222; color: #fff; }
+.sidebar.hidden {
+  transform: translateX(-100%);
+}
+.sidebar h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.sidebar button {
+  background: none;
+  color: #ccc;
+  border: none;
+  text-align: left;
+  padding: 12px 20px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sidebar button:hover, .sidebar button.active {
+  background-color: #222;
+  color: #fff;
+}
+
+/* 顶部菜单按钮（仅移动端显示） */
+.menu-toggle {
+  display: none;
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  padding: 10px 14px;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 1100;
+}
+.menu-toggle:hover {
+  background-color: #333;
+}
 
 /* 主内容区域 */
-.main { flex: 1; overflow-y: auto; padding: 20px; }
+.main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+  margin-left: 220px;
+  transition: margin-left 0.3s ease;
+}
 
-/* ======= 电影 & 女优 & 公司卡片样式 ======= */
+/* 当侧边栏隐藏时，主内容全宽 */
+.sidebar.hidden + .main {
+  margin-left: 0;
+}
+
+/* 响应式适配：手机端自动隐藏侧边栏 */
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+  }
+  .sidebar.show {
+    transform: translateX(0);
+  }
+  .main {
+    margin-left: 0;
+    padding-top: 60px;
+  }
+  .menu-toggle {
+    display: block;
+  }
+}
+
+/* ======= 卡片通用样式 ======= */
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; }
 .card { position: relative; background-color: #1a1a1a; border-radius: 8px; overflow: hidden; cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; display: flex; flex-direction: column; }
 .card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
@@ -53,7 +124,7 @@ body {
 #actressGrid .card-title { padding: 10px; font-size: 15px; text-align: center; color: #eee; }
 #actressGrid .card-info { font-size: 13px; color: #ccc; text-align: center; padding-bottom: 10px; line-height: 1.6; }
 
-/* AV出品厂 */
+/* 出品厂 */
 #companyGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 25px; justify-items: center; }
 .company-card { background-color: #1a1a1a; border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s; text-align: center; aspect-ratio: 16/9; width: 100%; max-width: 400px; position: relative; }
 .company-card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
@@ -75,14 +146,17 @@ body {
 </head>
 <body>
 
-<div class="sidebar">
+<!-- 手机端菜单按钮 -->
+<button class="menu-toggle" onclick="toggleSidebar()">☰</button>
+
+<div class="sidebar" id="sidebar">
   <h2>御女宫国产AV</h2>
   <button class="active" onclick="filterCategory('全部', event)">全部</button>
   <button onclick="showActressDirectory(event)">女优目录</button>
   <button onclick="showCompanyDirectory(event)">AV出品厂</button>
 </div>
 
-<div class="main">
+<div class="main" id="mainContent">
   <div id="dramaSection">
     <div class="grid" id="dramaGrid"></div>
     <div class="pagination" id="pagination"></div>
@@ -100,6 +174,12 @@ body {
 </div>
 
 <script>
+/* ======= 手机端菜单收缩逻辑 ======= */
+function toggleSidebar() {
+  const sidebar = document.getElementById("sidebar");
+  sidebar.classList.toggle("show");
+}
+
 /* ======= 电影数据逻辑 ======= */
 let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
 async function loadDramas() {
@@ -213,6 +293,5 @@ function showCompanyDirectory(event){
 /* ======= 启动加载 ======= */
 loadDramas();
 </script>
-
 </body>
 </html>
