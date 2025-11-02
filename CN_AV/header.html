@@ -122,10 +122,10 @@ body {
     <a href="/CN_AV/chinese_AV">国产AV</a>
     <a href="/CN_AV/actress">国产女优</a>
     <a href="/CN_AV/company">A片出品厂</a>
-    <a href="https://t.me/yunvgongCNAV" target="_blank">御女宫国产AV电报群</a>
+    <a href="https://t.me/yunvgongCNAV" target="_blank">电报群</a>
   </nav>
 
-  <div class="hamburger" id="hamburgerBtn">
+  <div class="hamburger" id="hamburgerBtn" aria-label="菜单">
     <span></span>
     <span></span>
     <span></span>
@@ -134,11 +134,26 @@ body {
 
 <script>
 // 手机端汉堡菜单点击事件
-const hamburger = document.getElementById('hamburgerBtn');
-const navMenu = document.getElementById('navMenu');
+document.addEventListener("DOMContentLoaded", function () {
+  const hamburger = document.getElementById('hamburgerBtn');
+  const navMenu = document.getElementById('navMenu');
 
-hamburger.addEventListener('click', () => {
-  navMenu.classList.toggle('show');
+  hamburger.addEventListener('click', function (e) {
+    e.stopPropagation(); // 阻止点击事件冒泡
+    navMenu.classList.toggle('show');
+  });
+
+  // 点击页面其他地方收起菜单
+  document.addEventListener('click', function () {
+    if (navMenu.classList.contains('show')) {
+      navMenu.classList.remove('show');
+    }
+  });
+
+  // 点击菜单本身不收起
+  navMenu.addEventListener('click', function (e) {
+    e.stopPropagation();
+  });
 });
 </script>
 
