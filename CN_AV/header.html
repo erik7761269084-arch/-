@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>固定顶部导航栏</title>
+<style>
+/* 全局重置 */
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+/* 顶部导航栏 */
+.headerbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #1a1a1a; /* 深色背景 */
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* 中间菜单居中 */
+  padding: 0 20px;
+  box-sizing: border-box;
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+/* 左侧 Logo + 文字 */
+.headerbar .logo {
+  font-weight: bold;
+  font-size: 18px;
+  color: #ffcc00;
+  position: absolute;
+  left: 20px; /* 固定在最左侧 */
+}
+
+/* 中间菜单 */
+.headerbar nav {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.headerbar nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 5px 0;
+}
+
+.headerbar nav a:hover {
+  color: #ffcc00;
+}
+
+/* 右侧搜索栏（隐藏） */
+.headerbar .search-container {
+  display: none; /* 暂时隐藏 */
+}
+
+/* 页面内容顶部留出空间，避免被遮挡 */
+body {
+  padding-top: 60px; /* 顶部栏高度 */
+}
+
+/* 响应式处理：小屏幕时菜单可滚动 */
+@media (max-width: 992px) {
+  .headerbar nav {
+    overflow-x: auto;
+    gap: 10px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="headerbar">
+  <div class="logo">御女宫国产AV</div>
+
+  <nav>
+    <a href="/movie/new">最新更新</a>
+    <a href="/menu/chinese">国产AV</a>
+    <a href="/xg9ujx/actor/list">国产女优</a>
+    <a href="/issuer">A片出品厂</a>
+    <a href="https://t.me/xxmmy56" target="_blank">御女宫国产AV电报群</a>
+  </nav>
+</div>
+
+<div style="padding:20px;">
+  <p>这里是页面内容，占位用。</p>
+  <p>滚动页面测试顶部固定效果。</p>
+  <p>...</p>
+</div>
+
+</body>
+</html>

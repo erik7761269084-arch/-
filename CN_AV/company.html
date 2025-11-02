@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A片出品厂</title>
+<style>
+body { margin:0; font-family:"微软雅黑", sans-serif; background-color:#0d0d0d; color:#fff; padding-top:60px; }
+#companyGrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:25px; justify-items:center; }
+.company-card { background-color:#1a1a1a; border-radius:10px; overflow:hidden; cursor:pointer; transition:transform 0.25s ease, box-shadow 0.25s ease, opacity 0.3s; text-align:center; aspect-ratio:16/9; width:100%; max-width:400px; position:relative; }
+.company-card:hover { transform:scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,0.2); }
+.company-card img { width:100%; height:100%; object-fit:cover; opacity:0.5; transition:opacity 0.3s; }
+.company-card:hover img { opacity:0.3; }
+.company-card .card-overlay { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); text-align:center; }
+.company-card .card-title { color:#fff; font-size:20px; font-weight:bold; text-shadow:0 0 8px rgba(0,0,0,0.8); letter-spacing:1px; margin-bottom:4px; }
+.company-card .card-info { font-size:12px; color:#ccc; opacity:0.9; }
+.pagination { margin-top:20px; display:flex; align-items:center; gap:6px; flex-wrap:wrap; justify-content:center; }
+.pagination button { padding:6px 12px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer; }
+.pagination button.active { background:red; }
+.pagination span { font-size:14px; }
+</style>
+</head>
+<body>
+<div id="header-placeholder"></div>
+
+<div id="mainContent">
+  <div id="companySection">
+    <div id="companyGrid"></div>
+    <div class="pagination" id="companyPagination"></div>
+  </div>
+</div>
+
+<script>
+fetch('header.html').then(res=>res.text()).then(html=>{
+  document.getElementById('header-placeholder').innerHTML = html;
+  setActiveMenu('menu-company');
+});
+
+let companies=[],companyPage=1,companyPageSize=24;
+async function loadCompanies(){
+  const res=await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
+  const data=await res.json();
+  companies=data.filter(c=>c.company && c.company.trim()!=="");
+  renderCompanies();
+}
+function renderCompanies(){
+  const container=document.getElementById('companyGrid'); container.innerHTML='';
+  const start=(companyPage-1)*companyPageSize; const end=start+companyPageSize;
+  companies.slice(start,end).forEach(c=>{
+    const card=document.createElement('div'); card.className='company-card';
+    card.onclick=()=>{ if(c.company_url) window.location.href=c.company_url; };
+    card.innerHTML=`<img src="https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg" alt="${c.company}"><div class="card-overlay"><div class="card-title">${c.company}</div><div class="card-info">?? ${c.works_count||0} 部作品</div></div>`;
+    container.appendChild(card);
+  });
+  renderCompanyPagination();
+}
+function renderCompanyPagination(){
+  const pagination=document.getElementById('companyPagination'); pagination.innerHTML='';
+  const totalPages=Math.max(1, Math.ceil(companies.length/companyPageSize));
+  const prev=document.createElement('button'); prev.textContent='上一页'; prev.disabled=companyPage===1; prev.onclick=()=>{ if(companyPage>1){companyPage--; renderCompanies();} }; pagination.appendChild(prev);
+  const span=document.createElement('span'); span.textContent=`第 ${companyPage} / ${totalPages} 页`; pagination.appendChild(span);
+  const next=document.createElement('button'); next.textContent='下一页'; next.disabled=companyPage===totalPages; next.onclick=()=>{ if(companyPage<totalPages){companyPage++; renderCompanies();} }; pagination.appendChild(next);
+}
+loadCompanies();
+</script>
+</body>
+</html>
