@@ -285,10 +285,19 @@ fetch('header.html')
   })
   .catch(err => console.error('加载 header 失败:', err));
   
-/* ========== 加载底部 footer.html ========== */
-fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
-  .then(html => document.getElementById('footer-placeholder').innerHTML = html)
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
   .catch(e => console.warn('无法加载 footer.html:', e));
 </script>
 

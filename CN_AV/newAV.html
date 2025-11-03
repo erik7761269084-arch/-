@@ -167,11 +167,21 @@ fetch('header.html')
   });
 
 
-/* ========== 加载底部 footer.html ========== */
-fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
-  .then(html => document.getElementById('footer-placeholder').innerHTML = html)
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
   .catch(e => console.warn('无法加载 footer.html:', e));
+
 
 /* ======= 加载影片数据 ======= */
 let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
