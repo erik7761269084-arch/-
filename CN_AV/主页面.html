@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding-top: 20px;
+  padding-top: 70px; /* 顶部 header 高度预留 */
 }
 
 /* 页面标题 */
@@ -108,9 +108,26 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* 固定 header 占位 */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+/* 底部 footer */
+#footer-placeholder {
+  margin-top: auto;
+}
 </style>
 </head>
 <body>
+
+<!-- 顶部 header -->
+<div id="header-placeholder"></div>
 
 <!-- 页面标题 -->
 <div class="page-title">御女宫网站分类</div>
@@ -121,7 +138,32 @@ body {
   </div>
 </div>
 
+<!-- 底部 footer -->
+<div id="footer-placeholder"></div>
+
 <script>
+/* ========== 加载顶部 header.html + header.js ========== */
+fetch('header.html')
+  .then(r => r.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+    const s = document.createElement('script');
+    s.src = 'header.js';
+    s.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-home');
+    };
+    document.body.appendChild(s);
+  })
+  .catch(e => console.warn('无法加载 header.html:', e));
+
+/* ========== 加载底部 footer.html ========== */
+fetch('footer.html')
+  .then(r => r.text())
+  .then(html => document.getElementById('footer-placeholder').innerHTML = html)
+  .catch(e => console.warn('无法加载 footer.html:', e));
+
+/* 公司列表加载 */
 async function loadCompanies() {
   try {
     const res = await fetch("https://yunvgong.com/category_net.json");
