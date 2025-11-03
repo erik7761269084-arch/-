@@ -178,6 +178,13 @@ fetch('header.html')
     };
     document.body.appendChild(script);
   });
+  
+/* ========== 加载底部 footer.html ========== */
+fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
+  .then(r => r.text())
+  .then(html => document.getElementById('footer-placeholder').innerHTML = html)
+  .catch(e => console.warn('无法加载 footer.html:', e));
+  
 
 /* ======= 页面逻辑 ======= */
 function saveState(page, scroll) {
