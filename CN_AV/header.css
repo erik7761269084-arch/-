@@ -24,6 +24,7 @@
   color: #ffcc00;
   position: absolute;
   left: 20px;
+  text-decoration: none; /* 去掉下划线 */
 }
 
 /* 菜单 */
