@@ -31,7 +31,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722230806935935.jpg",
       "actress": [
         "仙儿媛",
-        "千鹤",
         "仙儿"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-013"

@@ -185,14 +185,50 @@ fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
   .catch(e => console.warn('无法加载 footer.html:', e));
 
 /* 分类和最新发布 */
+/* 分类和最新发布（从 drama_export.json 获取最新影片） */
 async function loadMainSections() {
   try {
-    const res = await fetch("https://yunvgong.com/category_net.json");
-    const data = await res.json();
-    renderGrid(document.getElementById("categoryGrid"), data.slice(0,3));
-    renderGrid(document.getElementById("latestGrid"), data.slice(0,20));
-  } catch (e) { console.error(e); }
+    // 加载分类（原来的 category_net.json 保留）
+    const catRes = await fetch("https://yunvgong.com/category_net.json");
+    const catData = await catRes.json();
+    renderGrid(document.getElementById("categoryGrid"), catData.slice(0,3));
+
+    // 加载影片列表并按发布日期排序（新改部分）
+    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/drama_export.json");
+    const dramas = await res.json();
+
+    // 过滤掉没有日期的条目并按日期从新到旧排序
+    dramas.sort((a, b) => new Date(b.publish_date || 0) - new Date(a.publish_date || 0));
+
+    const list = dramas.slice(0, 30); // 只显示前 30 个最新发布
+    const target = document.getElementById('latestGrid');
+    target.innerHTML = '';
+
+    list.forEach(d => {
+      const card = document.createElement('div');
+      card.className = 'drama-card';
+      card.innerHTML = `
+        <div style="position:relative;">
+          <img src="${d.cover_url || ''}" alt="${d.title || ''}">
+          <div class="actor">${d.actress || ''}</div>
+          <div class="card-type">${d.type || ''}</div>
+        </div>
+        <div class="drama-info">
+          <div class="idcode">${d.IDcode || ''}</div>
+          <div class="title">${d.title || ''}</div>
+          <div class="meta">
+            <span>📅 ${d.publish_date || ''}</span>
+            <span>⭐ ${d.rating || ''}</span>
+          </div>
+        </div>`;
+      card.onclick = () => { if (d.title_play_url) window.location.href = d.title_play_url; };
+      target.appendChild(card);
+    });
+  } catch (e) {
+    console.error("加载分类或最新发布失败：", e);
+  }
 }
+
 function renderGrid(container, items) {
   container.innerHTML = '';
   items.forEach(it => {

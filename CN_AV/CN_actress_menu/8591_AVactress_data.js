@@ -966,8 +966,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230413/e3af3cb5-d008-4b86-a3cf-c6ae36d9e9d1.jpg",
       "actress": [
         "素人",
-        "仙儿媛",
-        "千鹤"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0060"
     },

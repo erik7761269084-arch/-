@@ -150,7 +150,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230804/20230804040930569569.jpg",
       "actress": [
         "仙儿媛",
-        "伊靖瑶",
         "白晰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0035"
