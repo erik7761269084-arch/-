@@ -189,7 +189,7 @@ fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
 async function loadMainSections() {
   try {
     // 加载分类（原来的 category_net.json 保留）
-    const catRes = await fetch("https://yunvgong.com/category_net.json");
+    const catRes = await fetch("https://yunvgong.com/CN_AV/category/new_cover.json");
     const catData = await catRes.json();
     renderGrid(document.getElementById("categoryGrid"), catData.slice(0,3));
 
