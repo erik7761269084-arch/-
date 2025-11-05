@@ -1,9 +1,10 @@
 {
   "episodes": {
-    "主线路": "https://vostrely.com/20250218/el304v0c/index.m3u8",
-    "线路2": "https://krevonix.com/20220926/BdyYLIYc/index.m3u8",
-    "线路3": "https://bf3.qrtuv.com/smv1/202408/27/1YPvRqVEY41/video/index.m3u8",
-    "线路4": "https://lsbbf5.com/20230921/8GjqYfzr/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202410/06/5E2wEtaHL01/video/index.m3u8",
+    "线路2": "https://vostrely.com/20250218/el304v0c/index.m3u8",
+    "线路3": "https://krevonix.com/20220926/BdyYLIYc/index.m3u8",
+    "线路4": "https://bf3.qrtuv.com/smv1/202408/27/1YPvRqVEY41/video/index.m3u8",
+    "线路5": "https://lsbbf5.com/20230921/8GjqYfzr/index.m3u8"
   },
   "seriesInfo": {
     "id": 3245,
@@ -22,6 +23,11 @@
         "name": "凌波丽",
         "img_url": "https://upload.xchina.io/default/model.jpg",
         "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=7999&name=%E5%87%8C%E6%B3%A2%E4%B8%BD"
+      },
+      {
+        "name": "绫波丽",
+        "img_url": "https://upload.xchina.io/model/66313061aed0f.webp",
+        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8726&name=%E7%BB%AB%E6%B3%A2%E4%B8%BD"
       }
     ]
   }

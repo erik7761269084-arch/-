@@ -1,8 +1,9 @@
 {
   "episodes": {
     "主线路": "https://t0.97img.com/a1000610/a.m3u8",
-    "线路2": "https://v3-2.lbv3lb2025.com/20241124/9WtIzBwK/index.m3u8",
-    "线路3": "https://bwzm3u8.com/20250919/phl3gEx0/index.m3u8"
+    "线路2": "https://v.ddoucdn.com/20250206/prKMEyZg/index.m3u8",
+    "线路3": "https://v3-2.lbv3lb2025.com/20241124/9WtIzBwK/index.m3u8",
+    "线路4": "https://bwzm3u8.com/20250919/phl3gEx0/index.m3u8"
   },
   "seriesInfo": {
     "id": 14621,
@@ -13,7 +14,7 @@
     "company": "大象传媒",
     "genres": [],
     "description": "",
-    "cover_url": "https://upload.xchina.io/video/673bb125d9f21.webp",
+    "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA063.jpg",
     "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA063",
     "actresses": [
