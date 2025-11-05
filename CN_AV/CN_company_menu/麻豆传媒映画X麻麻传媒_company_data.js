@@ -63,8 +63,8 @@ window.companyData = {
       "cover_url": "https://img1.souavzy.org/upload/vod/20241111-1/a41d18eb76fc8f9f77d5c0a60938c3e5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-028"
     },
@@ -80,8 +80,8 @@ window.companyData = {
       "cover_url": "https://thjpg10.top/upload/vod/20250103-1/d99db9c75401aae8361952b7130b5909.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-027"
     },
@@ -225,8 +225,8 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221102-1/6edaa55e4f842120e4e8a6ce969f917d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-016"
     },
@@ -369,8 +369,8 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "艾艾",
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-022"
     },
@@ -452,7 +452,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "艾艾",
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-007"
     },
@@ -469,7 +469,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "Alice",
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-035"
     },
@@ -485,8 +485,8 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231016-1/0a9ad01a364c02ff2a8d1d8c66e95736.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-023"
     },

@@ -239,7 +239,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230214-1/32f6cefa0fc90e7c77077b329fc2644b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-023-EP1-节目篇"
     },
@@ -255,7 +255,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230216-1/98e87ef72014dd99f2fee60d76df41f5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-023-AV1-性爱篇"
     },
@@ -589,7 +589,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/7ec03f42aa7256dd6d60de84420b9574.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "沐语柔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-014"

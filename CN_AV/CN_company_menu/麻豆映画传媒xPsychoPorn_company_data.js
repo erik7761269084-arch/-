@@ -130,7 +130,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-07-30",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PH-145.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PH-145"
@@ -657,7 +657,7 @@ window.companyData = {
       "cover_url": "https://thjpg10.top/upload/vod/20241226-1/4ef5c4bdb6e98c009b9d69575229a68d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PH-159"
     },
@@ -735,7 +735,7 @@ window.companyData = {
       "cover_url": "https://thjpg10.top/upload/vod/20250109-1/619e754892d1bede57fcee1df6dea753.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PH-167"
     },
@@ -751,7 +751,7 @@ window.companyData = {
       "cover_url": "https://thjpg10.top/upload/vod/20250103-1/dd03175e85092394a2292a6d274fd968.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PH-166"
     },
@@ -1120,7 +1120,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-07-30",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PH-135.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PH-135"

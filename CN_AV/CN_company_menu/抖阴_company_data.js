@@ -16,9 +16,9 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "恩恩",
-        "优娜",
         "圆圆",
-        "钟宛冰"
+        "钟宛冰",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DYO001"
     }

@@ -84,7 +84,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-01-10",
-      "cover_url": "https://img.putaozywimg.com:166/20220509/4A12A02F6DA83A22/4A12A02F6DA83A22.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/ODE-003.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "白晰"

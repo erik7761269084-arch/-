@@ -90,7 +90,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-05-08",
-      "cover_url": "https://upload.xchina.io/video/64f9f383a5de7.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQCM014.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QQCM014"
@@ -104,7 +104,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-05-08",
-      "cover_url": "https://upload.xchina.io/video/646c8e8bc12b0.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQCM010.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "茉莉"
@@ -120,10 +120,10 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-05-08",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQCM004.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "朵儿",
+        "梁佳芯",
         "白晰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QQCM004"
@@ -312,7 +312,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-10-03",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-023.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "冉冉学姐"
@@ -328,7 +328,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-10-03",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-014.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "粉色情人"
@@ -344,7 +344,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-10-03",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-013.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "粉色情人"

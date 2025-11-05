@@ -810,7 +810,7 @@ window.companyData = {
       "cover_url": "https://pic.douimg.cc/upload/vod/20250820-1/a7da9fc45ba46c8e0e26556a818b0497.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=WTB-004"
     },
@@ -853,7 +853,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-06-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/WTB-022.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "林思妤"
@@ -872,7 +872,7 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/h9nMbP0y.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "洁咪"
+        "温芮欣"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=WTB-003"
     },

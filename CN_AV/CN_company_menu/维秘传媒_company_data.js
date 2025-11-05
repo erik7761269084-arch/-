@@ -12,7 +12,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-02-02",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230411-16/cd1f32911b154b21310a26b21a2d17bb.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-WM-005.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "夏晴子"

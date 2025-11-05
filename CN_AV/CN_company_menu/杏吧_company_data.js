@@ -79,8 +79,8 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20210502-1/fb88f7b2ac1a29094884056181fd0571.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "王拉拉",
-        "辰悦"
+        "黄雪纯",
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8020"
     },
@@ -112,8 +112,8 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/33f5671f876b433d2d0b6f3c6e269da1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "王拉拉",
-        "辰悦"
+        "黄雪纯",
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8015"
     },
@@ -244,7 +244,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "温芮欣",
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MXB-0005"
     },
@@ -276,7 +276,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/e68eed302c87b897fbbfe899ab769378.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MXB-0001"
     },

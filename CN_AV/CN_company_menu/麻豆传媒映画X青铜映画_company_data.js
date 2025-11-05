@@ -79,7 +79,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20240214-1/e3ec3007d69ae361eb50872f76356aa6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "悠悠"
+        "唐月琴"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QT-0002"
     },

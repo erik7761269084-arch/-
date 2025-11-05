@@ -49,7 +49,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230917-1/cc3ad6d918bcf238948ec3b0f8314de6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-016"
     },
@@ -141,7 +141,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/09/09/5597420df88be8f79e5dfdd964d211ac.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-015"
     },
@@ -157,7 +157,6 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/7bfdb4052d54afc14d542b6a9eea6c76.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜",
         "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CP-014"

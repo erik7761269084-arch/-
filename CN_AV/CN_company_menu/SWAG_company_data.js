@@ -309,7 +309,7 @@ window.companyData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/2a6609cb9ec30ea24fb3941bf31eb91e.webp",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=LJ-0006"
     },
@@ -4400,7 +4400,7 @@ window.companyData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/368c6cb2e252171ea8b257e718d2ef28.webp",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DMX-0033"
     },
@@ -4416,7 +4416,7 @@ window.companyData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/0d7430c02c000b349d6d330509ae2de0.webp",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DMX-0032"
     },
@@ -4968,7 +4968,7 @@ window.companyData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/59f2422deb6a13edf3f8806327162c5a.webp",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=YRNY-0003"
     },

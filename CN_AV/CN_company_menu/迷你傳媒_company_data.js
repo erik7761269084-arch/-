@@ -15,7 +15,7 @@ window.companyData = {
       "cover_url": "https://tuaskbgnekr.com/20221109/6VmV8lTK/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI005"
     },
@@ -31,7 +31,7 @@ window.companyData = {
       "cover_url": "https://tuaskbgnekr.com/20221109/DKGd9c6S/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI004"
     },
@@ -47,7 +47,7 @@ window.companyData = {
       "cover_url": "https://tuaskbgnekr.com/20221109/BKESKISW/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI003"
     },
@@ -63,7 +63,7 @@ window.companyData = {
       "cover_url": "https://tuaskbgnekr.com/20221109/uJRy6i5T/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI002"
     },
@@ -79,7 +79,7 @@ window.companyData = {
       "cover_url": "https://tuaskbgnekr.com/20221109/iRn1YCnJ/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI001"
     },
@@ -111,7 +111,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230809/20230809033723923923.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小月"
+        "千凌"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MINI006"
     }

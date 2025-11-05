@@ -93,7 +93,7 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/upload/vod/20240927-1/7ae22c5853dc330003923dc02580ada6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐淆雪"
+        "乐奈子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-030"
     },
@@ -173,7 +173,7 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/QKFpM2LN.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐淆雪"
+        "乐奈子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-035"
     },
@@ -206,7 +206,7 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/RFgYLbWQ.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-051"
     },
@@ -335,7 +335,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221017-1/1fe7b67473bc3ac752b1f8b7d1d2d35a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-085"
     },
@@ -767,7 +767,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231109-1/2485b832c1c6d78a129587193302d203.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-211"
     },
@@ -860,7 +860,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-205.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "黎芷媗"
@@ -1023,7 +1023,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2023/07/28/e9219ed44351e26184328445790f58a4.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-193"
     },
@@ -1087,7 +1087,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230718-1/62f882dc8f5c8a16bdd5546cfe480c97.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-189"
     },
@@ -1198,7 +1198,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230624-1/bc1d5aba989d2fefec77fcc50cade72e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-182"
     },
@@ -1454,7 +1454,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230510-1/12db28f68edcf7f33abbf03060c2378f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-164"
     },
@@ -1708,7 +1708,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/1010b2afed89189f9ab9f0e0d0e13171.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-146"
     },
@@ -1756,7 +1756,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230311-1/16ec579d007146c40d097ad579890b4a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-142"
     },
@@ -1788,7 +1788,6 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/images/2023/07/15/guochan11712.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏",
         "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-140"
@@ -1821,8 +1820,7 @@ window.companyData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250825-40/8809266a5ff0b0a50d86e9a1d6f5062b.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "梁佳芯",
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-137"
     },
@@ -1838,7 +1836,7 @@ window.companyData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250830-1/a67cbc154ba74d2e9c97176936fc129b.png",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-136"
     },
@@ -2109,7 +2107,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/918f4a7c62b91d34577b696b824ffa6a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-111"
     },
@@ -2313,7 +2311,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221115-1/1845e76a239538d64d66ad0890a24e35.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-097"
     },
@@ -2536,7 +2534,7 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/yf47TZbI.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-080"
     },
@@ -2628,7 +2626,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-073.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-073"
@@ -2926,7 +2924,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://bf1.qrtuv.com/20231227/819E45BFA3B3639D/819E45BFA3B3639D.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-046.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "夜夜"
@@ -2994,7 +2992,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220521-1/912a5b439a47e79075347b783718f03c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-042"
     },
@@ -3107,7 +3105,7 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/upload/vod/20240927-1/f2c8b3348b7b309f41497244254f27a5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐淆雪"
+        "乐奈子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-028"
     },
@@ -3120,7 +3118,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240607-1/72b80f2db1a599c4eab35589c758525e.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-026.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "叶予曦"
@@ -3156,9 +3154,9 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220403-1/4090775d228b2d69062de215ad397763.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
+        "乐奈子",
         "夜夜",
         "尤莉",
-        "乐淆雪",
         "徐夜夜",
         "尤莉乐",
         "淆雪"
@@ -3226,8 +3224,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20240215/xQ2xCwpz/1.jpg?t=1707980144",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "仙儿媛",
-        "伊靖瑶"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-020"
     },
@@ -3276,7 +3273,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220319-1/bb324330bbed93a65218a0856be89bc9.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-017"
     },
@@ -3308,7 +3305,7 @@ window.companyData = {
       "cover_url": "http://pic1.thzpic.com/forum/202203/08/044221wwhzfybnce0jhe6g.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐淆雪"
+        "乐奈子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-015"
     },
@@ -3341,8 +3338,7 @@ window.companyData = {
       "cover_url": "http://pic1.thzpic.com/forum/202202/23/123013uzjdtrbbhqhrdmuu.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "仙儿媛",
-        "伊靖瑶"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-013"
     },
@@ -3440,10 +3436,10 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.putaozywimg.com:166/20220511/E3BD1FD305FBA22C/E3BD1FD305FBA22C.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-007.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMW-007"
     },
@@ -3520,7 +3516,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.putaozywimg.com:166/20220509/D5E573ABB64A088C/D5E573ABB64A088C.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-002.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "夜夜",
@@ -3636,7 +3632,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/03/03/0dfb7ba3fea2f93ca8661993c369e050.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMA001"
     },
@@ -3790,7 +3786,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/87834b882277bb2cf4253afc8042ad19.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML058"
     },
@@ -3838,7 +3834,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230725-1/629d312a3e5beaeec6c5d61c0abe8495.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML028"
     },
@@ -3854,7 +3850,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230720-1/01dc61f070224aaa5bdafaf15260652a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML027"
     },
@@ -3918,7 +3914,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230620-1/82f8a99ade5084f7920ea58137fb636e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TML023"
     },
@@ -4220,7 +4216,7 @@ window.companyData = {
       "cover_url": "https://pic.douimg.cc/upload/vod/20250814-1/aabf76de916b1967dc0cee64757fefc5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乐淆雪"
+        "乐奈子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SQGY03"
     },
@@ -4283,7 +4279,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230403-1/455cdcebd2ad2df5b8f190de9c97bc20.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMBC024"
     },
@@ -4299,7 +4295,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230325-1/cf2b48a6618eb15d001acaa31ebc426d.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMBC021"
     },
@@ -4380,7 +4376,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230208-1/fc93f9399201363d500e29836f9947af.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMBC001"
     },
@@ -4426,7 +4422,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230206-1/fc1fca8ddfdfcccf593ba4a7d2d1bc69.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMXL009"
     },
@@ -4442,7 +4438,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230201-1/d1ad4432b7ef451e02d07ae63377246f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMXL008"
     },
@@ -4554,7 +4550,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230115-1/74337a9e6ac7f908052f68a69fdca176.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0017"
     },
@@ -4584,8 +4580,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230421-1/fd94278b813c84bae766ac62e053e1c6.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "梁佳芯",
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0082"
     },
@@ -4839,7 +4834,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230201-1/ebb577640323fe877dad9b61f1cfed10.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0023"
     },
@@ -4855,7 +4850,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230208-1/f84d900e37fe5559a788c1a2c988172f.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "斑比",
+        "斑斑",
         "拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0022"
@@ -4920,7 +4915,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/b0f626a01ec07aaa83f2c23c067e2b7a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0018"
     },
@@ -5111,7 +5106,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-01-05",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMP0003.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0003"
@@ -5145,7 +5140,7 @@ window.companyData = {
       "cover_url": "https://la.lashayu.com/upload/vod/20251003-1/5a973ec1e19c69e10b39115047a70083.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-007"
     },
@@ -5459,7 +5454,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-08-09",
-      "cover_url": "https://img.caoliuzywimg.com:188/20230529/3Nzscual/1.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TM-0158.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "伊琬琳"
@@ -5791,7 +5786,7 @@ window.companyData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/342cb992373d166d7a1aae95e607ab63.webp",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0138"
     },
@@ -5906,7 +5901,7 @@ window.companyData = {
       "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-43/c01de94e09c08863e1c88172c0d55cad.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "雨琪"
+        "陆雪琪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0130"
     },
@@ -6004,8 +5999,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230819/20230819003807806806.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "万静雪",
-        "雨晨"
+        "万静雪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0123"
     },
@@ -6022,8 +6016,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "沙美辰",
-        "赵雅琳",
-        "童汐"
+        "赵雅琳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0122"
     },
@@ -6089,8 +6082,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "沙美辰",
-        "赵雅琳",
-        "童汐"
+        "赵雅琳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0118"
     },
@@ -6106,7 +6098,7 @@ window.companyData = {
       "cover_url": "https://la.lashayu.com/upload/vod/20251014-1/204eaa5a8c5f4758a888b8f9fb1b4ff5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0117"
     },
@@ -6338,8 +6330,8 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818215517202202.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "姜潔",
-        "叶宸欣"
+        "张欣妍",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0103"
     },
@@ -6453,7 +6445,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818021122276276.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "沈茹雪"
+        "穆娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0096"
     },
@@ -6486,8 +6478,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818015902444444.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "沙美辰",
-        "童汐"
+        "沙美辰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0093"
     },
@@ -6520,7 +6511,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818014915886886.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "童汐"
+        "沙美辰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0091"
     },
@@ -6585,7 +6576,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20241004/7erZD2jl/1.jpg?t=1728065871",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0087"
     },
@@ -6601,7 +6592,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818013327288288.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若",
+        "雷梦娜",
         "孟菲菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0086"
@@ -6971,7 +6962,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20240402/EW2TTQfZ/1.jpg?t=1712038882",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0061"
     },
@@ -7003,8 +6994,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20240402/ulxw9J45/1.jpg?t=1712038743",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "黎星若",
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0059"
     },
@@ -7135,7 +7125,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20240402/XvcqayW7/1.jpg?t=1712038102",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0051"
     },
@@ -7151,7 +7141,7 @@ window.companyData = {
       "cover_url": "https://guzwiayz.com/20240402/ppFoVWTN/1.jpg?t=1712038042",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "徐婕"
+        "黎星若"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0050"
     },
@@ -7367,8 +7357,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230804/20230804041433772772.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "仙儿媛",
-        "伊靖瑶"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0036"
     },
@@ -7385,7 +7374,6 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "仙儿媛",
-        "伊靖瑶",
         "白晰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0035"
@@ -7555,8 +7543,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230817/20230817004514780780.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "艾玛",
-        "尹媚"
+        "艾玛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0023"
     },
@@ -7604,8 +7591,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230817/20230817004056508508.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "艾玛",
-        "尹媚"
+        "艾玛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0020"
     },
@@ -7749,7 +7735,7 @@ window.companyData = {
       "cover_url": "https://le.lefhao20250923.top//20241109/X38qEpeb/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "伊靖瑶"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0010"
     },
@@ -7846,7 +7832,7 @@ window.companyData = {
       "cover_url": "https://le.lefhao20250923.top//20241109/5FUNeERi/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "伊靖瑶"
+        "仙儿媛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0004"
     },
@@ -8164,8 +8150,7 @@ window.companyData = {
       "cover_url": "https://fan.lefhao20250923.top/upload/vod/20210904-1/91520233cb89778e23fbb500d88d0757.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "玛丽莲",
-        "邱玲珑"
+        "玛丽莲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0076"
     },
@@ -8943,7 +8928,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-03-31",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250714-1/8b684011263d9a181f1cc40bf0098e9c.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-004.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "蕭悅兒"
@@ -9217,7 +9202,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230616-1/91a35eebc06dc632b2dd55769e4e9409.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小婕"
+        "张雅婷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-126"
     },
@@ -9297,7 +9282,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230217-1/acadc630f6cf1ef632cd3a67b3b01f33.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "佳芯"
+        "梁佳芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-112"
     },
@@ -9393,7 +9378,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230422-1/67ec7c8a2f3499ac02d8c0a265792a18.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小婕"
+        "张雅婷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-094"
     },
@@ -9409,7 +9394,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230421-1/2a77c32f867287fc569b8ef01b5fcadd.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "小婕"
+        "张雅婷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-093"
     },
@@ -9489,7 +9474,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230320-1/61a75c59b09a0d3b590eb471b9b1bb17.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-077"
     },
@@ -9866,7 +9851,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-03-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-045.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "金宝娜"
@@ -9917,7 +9902,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221203-1/93f19a881f9dd952c11411568e60febb.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "李家葳"
+        "张雅婷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-042"
     },
@@ -9933,7 +9918,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221111-1/fda0f7eca7543e8c1775fa98ccb63b9a.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "李家葳"
+        "张雅婷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-041"
     },
@@ -10083,7 +10068,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220929-1/394f25cd8de0ffee0961763ba6f37514.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "琪琪"
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-028"
     },
@@ -10202,7 +10187,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-03-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-017.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "欣欣"
@@ -10232,7 +10217,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-03-31",
-      "cover_url": "https://tutu1.space/images/2022/11/24/469c04932d1eb606528f6e4556c55993.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-015.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMG-015"
@@ -10388,7 +10373,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-03-31",
-      "cover_url": "https://tutu1.space/images/2022/05/30/01ec7dfb163a82ae25c1673b8d8a5d41.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-005.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "李可欣"

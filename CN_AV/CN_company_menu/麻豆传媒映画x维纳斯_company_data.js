@@ -117,7 +117,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231005-1/142142000bb6e85a2998cc62a255470e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "陆斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=VNS-003"
     }

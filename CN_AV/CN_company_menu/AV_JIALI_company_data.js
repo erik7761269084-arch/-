@@ -31,7 +31,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/13/dbbcf155e9c0e0036e45e2b9f7386cd8.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=AVJI-UPR-002"
     },
@@ -95,7 +95,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/12/f3f9092c2f71a3b9ef39fc79d86b2144.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "琪琪"
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=AVJI-GON-002"
     },
@@ -371,7 +371,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/04/13ba8746de1c6c81546dff12b19d37a5.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=AVJI-312"
     },
@@ -387,7 +387,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/05/860265d0464075645613fe95550bd0b7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "叶宸欣"
+        "张欣妍"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=AVJI-311"
     },
@@ -707,7 +707,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/06/21/afc13ed39ed131c0c0bb68cac07928a0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "坏坏"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=AVJI-282"
     },

@@ -365,7 +365,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2024-12-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDSYN-040.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDSYN-040"
@@ -1096,7 +1096,7 @@ window.companyData = {
       "cover_url": "http://da.da15525716.com/20241124/PaJ8wz24/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDSYN-102"
     },
@@ -2446,7 +2446,7 @@ window.companyData = {
       "cover_url": "https://tutu1.space/images/2025/08/17/1fe6a53c1b4794e4aac9d580231da8e8.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "悠悠"
+        "唐月琴"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDSYN-335"
     },
@@ -2799,7 +2799,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2024-12-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDSYN-291.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDSYN-291"

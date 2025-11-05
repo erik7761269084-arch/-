@@ -112,7 +112,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20240701-1/acc15f718d69cd32233e3f38ce6512d0.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMKY-008"
     },
@@ -557,7 +557,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231120-1/4e3ffb0863f16edb12a8a2a25998f6ad.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "林沁儿"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMTC-001"
     },
@@ -800,7 +800,7 @@ window.companyData = {
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "姚婉儿",
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMA-010"
     },
@@ -1267,7 +1267,7 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/20241123/170CK5HD/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMX-045"
     },
@@ -1347,7 +1347,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231029-1/46e5f42bc9bef48d722a1e5458b7823e.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMX-034"
     },
@@ -1680,7 +1680,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-03-26",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/EMX-059.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "姚婉儿"

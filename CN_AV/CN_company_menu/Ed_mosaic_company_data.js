@@ -76,7 +76,7 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/4sObB7Iu.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "芷媗",
         "ED Mosaic"
       ],

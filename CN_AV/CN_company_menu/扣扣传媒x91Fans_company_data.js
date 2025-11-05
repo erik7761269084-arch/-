@@ -12,7 +12,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-092.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "卡瑞莎"
@@ -28,7 +28,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-091.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "Vita"
@@ -44,7 +44,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-090.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-090"
@@ -58,7 +58,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-089.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-089"
@@ -72,7 +72,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-088.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-088"
@@ -86,7 +86,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-087.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "Vita"
@@ -102,7 +102,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-086.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "然然学姐"
@@ -118,7 +118,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-085.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-085"
@@ -132,7 +132,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-083.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-083"
@@ -146,7 +146,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-082.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-082"
@@ -160,7 +160,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-081.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-081"
@@ -188,7 +188,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-079.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-079"
@@ -366,7 +366,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-115.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-115"
@@ -380,7 +380,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-114.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "水水"
@@ -396,7 +396,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-113.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-113"
@@ -582,7 +582,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-098.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-098"
@@ -596,7 +596,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-097.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "Via"
@@ -612,7 +612,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-096.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-096"
@@ -626,7 +626,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-093.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-093"
@@ -640,7 +640,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-042.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "丝丝"
@@ -656,7 +656,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-041.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=FSOG-041"
@@ -670,7 +670,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-040.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "许木学长"
@@ -1056,13 +1056,13 @@ window.companyData = {
     {
       "id": 14749,
       "IDcode": "FSOG-026",
-      "title": "的性福生活",
+      "title": " Cola酱的性福生活",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "publish_date": "2023-12-11",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-026.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "cola酱"
@@ -1371,7 +1371,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-020.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-020"
@@ -1385,7 +1385,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-019.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-019"
@@ -1413,7 +1413,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-015.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-015"
@@ -1427,7 +1427,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-014.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-014"
@@ -1441,7 +1441,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/Ves2HAnq.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-013.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-013"
@@ -1455,7 +1455,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-012.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-012"
@@ -1469,7 +1469,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-011.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-011"
@@ -1483,7 +1483,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-010.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-010"
@@ -1497,7 +1497,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-009.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-009"
@@ -1511,7 +1511,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-008.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-008"
@@ -1541,7 +1541,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-006.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-006"
@@ -1571,7 +1571,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2022-11-25",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDOG-017.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QDOG-017"

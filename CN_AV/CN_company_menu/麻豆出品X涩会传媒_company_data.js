@@ -144,8 +144,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20211229-1/277caa4ea1917c4b066259ea16e2910c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "万静雪",
-        "雨晨"
+        "万静雪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SH-009"
     },
@@ -161,8 +160,7 @@ window.companyData = {
       "cover_url": "https://img1.souavzy.org/upload/vod/20241007-1/d6f4c984074552706afb2d2558d29f78.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "万静雪",
-        "雨晨"
+        "万静雪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SH-008"
     },
@@ -207,7 +205,7 @@ window.companyData = {
       "genre": "",
       "type": "无码",
       "publish_date": "2021-09-25",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/rYdRDlOs.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SH-003.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "蔡晓雨"
@@ -256,7 +254,7 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230804/20230804053725684684.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "雨晨"
+        "万静雪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SH-001"
     }

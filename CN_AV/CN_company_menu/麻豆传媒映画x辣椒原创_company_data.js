@@ -155,7 +155,7 @@ window.companyData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230612-1/d19b85225a6222f77dff5a16e7e49fc7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=HPP-0034"
     },
@@ -401,7 +401,7 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/images/2023/02/19/guochan11001.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=HPP-0016"
     },

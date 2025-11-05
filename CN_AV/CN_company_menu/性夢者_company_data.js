@@ -31,7 +31,6 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722223836320320.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230722/20230722223836320320.jpg",
       "actress": [
-        "琪琪",
         "林洋",
         "兮兮"
       ],
@@ -49,7 +48,6 @@ window.companyData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/XB9rOm0s.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "琪琪",
         "林洋",
         "兮兮"
       ],
@@ -67,8 +65,6 @@ window.companyData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722225359455455.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "优娜",
-        "琪琪",
         "唐雨菲",
         "林洋",
         "兮兮"

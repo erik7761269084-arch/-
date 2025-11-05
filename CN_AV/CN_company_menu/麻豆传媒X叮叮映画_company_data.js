@@ -108,7 +108,7 @@ window.companyData = {
       "cover_url": "https://da.da15525716.com/images/2023/03/18/guochan11253.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "洛若"
+        "金巧巧"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DD-001"
     }
