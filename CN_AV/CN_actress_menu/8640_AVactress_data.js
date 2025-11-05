@@ -190,14 +190,14 @@ window.actressData = {
     {
       "id": 34865,
       "IDcode": "MDWP-0030",
-      "title": "抛弃闺蜜的私人按摩",
+      "title": "淫行指压中心-抛弃闺蜜的私人按摩",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250510-1/f6ae480cb3f32977fdae9fc540538964.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDWP-0030.jpg",
       "actress": [
         "莫夕慈"
       ],

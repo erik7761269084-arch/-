@@ -110,7 +110,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "https://fm.sl25914.com/upload/vod/20220907-1/dd71e9da7b4ac6845fadd4a721a3b88c.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD131.jpg",
       "actress": [
         "樱井美羽",
         "樱井美里"

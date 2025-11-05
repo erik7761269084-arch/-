@@ -16,6 +16,7 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-60fc411f65f9f.html",
   "aliases": [
     "卢珊珊",
+    "桃依依",
     "盧珊珊"
   ],
   "gallery": [],
@@ -33,8 +34,7 @@ window.actressData = {
       "publish_date": "2023-08-29",
       "cover_url": "https://picture.yoshiclub.xyz/20230810/20230810033732643643.jpg",
       "actress": [
-        "卢珊珊",
-        "桃依依"
+        "卢珊珊"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-039"
     },
@@ -99,8 +99,7 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730030222893893.jpg",
       "actress": [
-        "卢珊珊",
-        "桃依依"
+        "卢珊珊"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-172"
     },
@@ -149,8 +148,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20240113-1/0077fcc0774f0e3003d336ea48102585.jpg",
       "actress": [
         "卢珊珊",
-        "小芳",
-        "桃依依"
+        "小芳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8057"
     }

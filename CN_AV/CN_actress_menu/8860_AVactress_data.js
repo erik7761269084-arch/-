@@ -76,7 +76,7 @@ window.actressData = {
       "type": "无码",
       "company": "91制片厂",
       "publish_date": "2022-06-28",
-      "cover_url": "https://upload.xchina.io/video/652d0a072194d.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-013.jpg",
       "actress": [
         "叶子红"
       ],

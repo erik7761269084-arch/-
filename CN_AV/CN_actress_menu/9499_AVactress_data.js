@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2024-08-02",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230411-15/25a8db2b2fb5044da420daa47ed674c9.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDX-0239-03.jpg",
       "actress": [
         "程诗诗"
       ],

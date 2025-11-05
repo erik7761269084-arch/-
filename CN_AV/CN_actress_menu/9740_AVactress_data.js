@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/660854b1ac4c8.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV018.jpg",
       "actress": [
         "仙儿爱"
       ],

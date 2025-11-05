@@ -49,7 +49,7 @@ window.actressData = {
       "cover_url": "https://img.siwazywimg2.com:5278/cvjpg//B62sVpAk.jpg",
       "actress": [
         "孟若羽",
-        "苡若",
+        "雷梦娜",
         "若羽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0342"

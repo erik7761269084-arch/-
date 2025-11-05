@@ -47,7 +47,7 @@ window.actressData = {
       "publish_date": "2023-01-05",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230208-1/f84d900e37fe5559a788c1a2c988172f.jpg",
       "actress": [
-        "斑比",
+        "斑斑",
         "拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TMP0022"
@@ -64,8 +64,8 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://www.jkuntp.com/upload/vod/20231231-1/9895e55c228fd247e83a8e937f66a43d.jpg",
       "actress": [
+        "陆雪琪",
         "拉拉",
-        "苏梦",
         "只只"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8124"
@@ -84,8 +84,7 @@ window.actressData = {
       "actress": [
         "黄雪纯",
         "拉拉",
-        "王拉拉",
-        "辰悦"
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8014"
     }

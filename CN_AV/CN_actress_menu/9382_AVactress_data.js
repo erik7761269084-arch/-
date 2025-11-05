@@ -46,7 +46,7 @@ window.actressData = {
       "publish_date": "2022-08-09",
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818013327288288.jpg",
       "actress": [
-        "苡若",
+        "雷梦娜",
         "孟菲菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0086"

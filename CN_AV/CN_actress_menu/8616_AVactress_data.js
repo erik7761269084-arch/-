@@ -66,9 +66,9 @@ window.actressData = {
       "publish_date": "2022-12-07",
       "cover_url": "https://thjpg10.top/upload/vod/20241221-1/45726469a0e56a8fb4bd1cbe8bff078f.jpg",
       "actress": [
-        "优娜",
         "雯雯",
-        "艾鲤"
+        "艾鲤",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0260"
     },

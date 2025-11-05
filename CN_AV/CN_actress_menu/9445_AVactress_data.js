@@ -48,7 +48,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2023-02-10",
-      "cover_url": "https://bf1.qrtuv.com/20240103/BDFEC3B14B8E7AAD/BDFEC3B14B8E7AAD.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDS-006.webp",
       "actress": [
         "張妮妮"
       ],

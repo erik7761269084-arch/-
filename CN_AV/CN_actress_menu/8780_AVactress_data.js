@@ -14,7 +14,10 @@ window.actressData = {
   "description": "白若冰，台湾AV女优，又有艺名杜鹃。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-608901ec45bae.html",
-  "aliases": [],
+  "aliases": [
+    "白若冰",
+    "杜鹃"
+  ],
   "gallery": [],
   "works_count": 15,
   "related_dramas": [
@@ -31,7 +34,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202110/14/012532nmh9qq9tmuetm0ae.jpg",
       "actress": [
         "白若冰",
-        "杜鵑"
+        "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MMZ-018"
     },
@@ -128,7 +131,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202111/15/200900ryupc1wsy33ys3ke.jpg",
       "actress": [
         "白若冰",
-        "杜鵑"
+        "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MMZ-029"
     },
@@ -209,7 +212,6 @@ window.actressData = {
       "cover_url": "https://imgsiwa.com:5278/cvjpg/VM9C6T8S.png",
       "actress": [
         "白若冰",
-        "杜鵑",
         "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-203"
@@ -227,7 +229,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730030643519519.jpg",
       "actress": [
         "白若冰",
-        "杜鵑"
+        "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-173"
     },
@@ -244,7 +246,7 @@ window.actressData = {
       "cover_url": "https://le.lefhao20250923.top//20241109/5XAt4FA0/1.jpg",
       "actress": [
         "白若冰",
-        "杜鵑"
+        "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-058"
     },
@@ -261,7 +263,7 @@ window.actressData = {
       "cover_url": "https://le.lefhao20250923.top//20241109/AP2nFuPc/1.jpg",
       "actress": [
         "白若冰",
-        "杜鵑"
+        "杜娟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-051"
     }

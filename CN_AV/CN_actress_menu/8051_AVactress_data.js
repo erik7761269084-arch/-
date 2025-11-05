@@ -31,7 +31,7 @@ window.actressData = {
       "cover_url": "https://da.da15525716.com/images/2023/12/10/guochan112.jpg",
       "actress": [
         "尤娜",
-        "优娜"
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JDYA013"
     }

@@ -66,13 +66,13 @@ window.actressData = {
       "publish_date": "2023-05-23",
       "cover_url": "https://cctv123456.com/i/g24zaly2.jpg",
       "actress": [
-        "优娜",
         "苏樱花",
         "孟若羽",
         "艾熙",
         "李蓉蓉",
         "吴梦梦",
         "夏晴子",
+        "唐雨菲",
         "优娜.蕾",
         "利尔·布莱克"
       ],

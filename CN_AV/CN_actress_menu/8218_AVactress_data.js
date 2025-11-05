@@ -31,7 +31,7 @@ window.actressData = {
       "cover_url": "https://thjpg10.top/upload/vod/20240911-1/6ce82bb21644dee2ae35cc33177ef169.jpg",
       "actress": [
         "姚婉儿",
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDHG-0002"
     },
@@ -48,7 +48,7 @@ window.actressData = {
       "cover_url": "https://da.da15525716.com/images/2023/12/04/guochan116.jpg",
       "actress": [
         "姚婉儿",
-        "姚宛儿"
+        "白思吟"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EMA-010"
     },
@@ -62,7 +62,7 @@ window.actressData = {
       "type": "无码",
       "company": "爱神国际传媒",
       "publish_date": "2023-03-26",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/EMX-059.jpg",
       "actress": [
         "姚婉儿"
       ],

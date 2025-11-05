@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "91制片厂",
       "publish_date": "2023-11-09",
-      "cover_url": "https://upload.xchina.io/video/630c748ed2d8d.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-019.jpg",
       "actress": [
         "美凉子"
       ],

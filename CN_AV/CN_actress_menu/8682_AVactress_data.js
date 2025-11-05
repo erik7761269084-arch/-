@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-601187558ecd3.html",
   "aliases": [
     "雪千夏",
-    "Xue Qian Xia"
+    "Xue Qian Xia",
+    "王昆娜"
   ],
   "gallery": [],
   "works_count": 58,
@@ -944,7 +945,7 @@ window.actressData = {
     },
     {
       "id": 27172,
-      "IDcode": "淫欲游戏王-EP4-节目篇",
+      "IDcode": "MTVQ3-EP4-节目篇",
       "title": "淫欲游戏王 EP4 节目篇.淫娃射龙门 双女神的淫荡对决",
       "year": "",
       "country": "",
@@ -957,7 +958,7 @@ window.actressData = {
         "秦可欣",
         "雪千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP4-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP4-节目篇"
     },
     {
       "id": 25785,

@@ -30,7 +30,7 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://da.da15525716.com/images/2023/12/07/guochan117.jpg",
       "actress": [
-        "琪琪",
+        "林洋",
         "张琪琪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5262"

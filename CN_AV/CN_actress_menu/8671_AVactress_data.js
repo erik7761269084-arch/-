@@ -32,7 +32,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240203-1/3b1bff161a74d12837c31c9bc0141774.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA017.jpg",
       "actress": [
         "糖糖",
         "韩棠"
@@ -161,7 +161,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MCY-0016.jpg",
       "actress": [
         "韩棠"
       ],
@@ -496,13 +496,13 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://img1.souavzy.org/upload/vod/20251015-1/b6f4f879f2e730e749fc35145f53d31b.jpg",
       "actress": [
-        "潘雨曦",
         "韩棠",
         "管明美",
         "白沛瑶",
         "艾秋",
-        "林芊彤",
-        "陆思涵"
+        "白熙雨",
+        "李文雯",
+        "林芊彤"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ10-EP3-节目篇"
     },

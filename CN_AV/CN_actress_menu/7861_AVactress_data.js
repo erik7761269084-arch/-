@@ -31,7 +31,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230416/9400e535-df4b-4fce-8f93-54b63f839062.jpg",
       "actress": [
         "金丞熙",
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0106"
     }

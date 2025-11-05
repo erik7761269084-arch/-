@@ -14,7 +14,11 @@ window.actressData = {
   "description": "唐茜，台湾AV女优，又有艺名温馨、白颖。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60911c5308caf.html",
-  "aliases": [],
+  "aliases": [
+    "唐茜",
+    "温馨",
+    "白颖"
+  ],
   "gallery": [],
   "works_count": 47,
   "related_dramas": [
@@ -334,7 +338,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "https://img1.128100.xyz/upload/2022/05/27/brlfhztmfyxcunna8jiq2cbu4nwyijeh.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-156.jpg",
       "actress": [
         "唐茜"
       ],

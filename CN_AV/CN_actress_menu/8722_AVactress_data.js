@@ -62,7 +62,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2025-07-08",
-      "cover_url": "https://bf1.qrtuv.com/20231227/819E45BFA3B3639D/819E45BFA3B3639D.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-046.jpg",
       "actress": [
         "夜夜"
       ],
@@ -114,9 +114,9 @@ window.actressData = {
       "publish_date": "2025-07-08",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220403-1/4090775d228b2d69062de215ad397763.jpg",
       "actress": [
+        "乐奈子",
         "夜夜",
         "尤莉",
-        "乐淆雪",
         "徐夜夜",
         "尤莉乐",
         "淆雪"
@@ -169,7 +169,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.putaozywimg.com:166/20220509/D5E573ABB64A088C/D5E573ABB64A088C.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-002.jpg",
       "actress": [
         "夜夜",
         "蒋佑怡"

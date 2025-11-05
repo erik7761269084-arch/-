@@ -81,7 +81,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.putaozywimg.com:166/20220509/D5E573ABB64A088C/D5E573ABB64A088C.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-002.jpg",
       "actress": [
         "夜夜",
         "蒋佑怡"

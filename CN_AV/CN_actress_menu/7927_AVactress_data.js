@@ -96,8 +96,8 @@ window.actressData = {
       "cover_url": "https://jpgjingpinx1.top/upload/vod/20250807-1/f81f3e8bba3a35f64824006a319ee3f2.png",
       "actress": [
         "艾艾",
-        "乐乐",
-        "可儿"
+        "可儿",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-022"
     },
@@ -130,7 +130,7 @@ window.actressData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220911-1/0c9018e9d2dbc22be4eb6a05e023a2db.jpg",
       "actress": [
         "艾艾",
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-007"
     },

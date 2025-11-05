@@ -92,7 +92,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2021-04-24",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20231225-1/04ea5d086b83f7941ba166fd03e0d331.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PS-033.jpg",
       "actress": [
         "Hunter"
       ],

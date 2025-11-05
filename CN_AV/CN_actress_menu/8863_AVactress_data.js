@@ -158,7 +158,7 @@ window.actressData = {
       "publish_date": "2023-09-21",
       "cover_url": "https://tutu1.space/images/2022/06/17/e3c20700076b7328df67b30447c46b24.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "晴天"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKG021"

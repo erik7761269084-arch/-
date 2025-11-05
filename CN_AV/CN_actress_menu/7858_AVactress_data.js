@@ -31,8 +31,7 @@ window.actressData = {
       "cover_url": "https://guzwiayz.com/20230314/FXbGjj6g/1.jpg?t=1679994353",
       "actress": [
         "温琬琳",
-        "林思妤",
-        "温婉琳"
+        "林思妤"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0034"
     }

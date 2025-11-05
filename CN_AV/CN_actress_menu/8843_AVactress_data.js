@@ -46,7 +46,7 @@ window.actressData = {
       "publish_date": "2025-10-03",
       "cover_url": "https://tutu1.space/images/2024/10/05/23ae38c6677d59439fb0a42068936ff3.jpg",
       "actress": [
-        "坏坏",
+        "羽芮",
         "玖玖"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DA054"

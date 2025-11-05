@@ -47,7 +47,7 @@ window.actressData = {
       "publish_date": "2022-07-08",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20221223-1/7ec03f42aa7256dd6d60de84420b9574.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "沐语柔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RS-014"

@@ -178,7 +178,7 @@ window.actressData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231031-1/c8c3813d67a20124462efff08b22ede1.jpg",
       "actress": [
         "Alice",
-        "娃娃"
+        "翁雨澄"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MT-035"
     },
@@ -208,7 +208,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "https://guzwiayz.com/20240619/30Z2NZu2/1.jpg?t=1718858590",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD030.jpg",
       "actress": [
         "Alice"
       ],

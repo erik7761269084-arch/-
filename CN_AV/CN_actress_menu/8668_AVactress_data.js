@@ -19,7 +19,7 @@ window.actressData = {
     "Qin Ke Xin"
   ],
   "gallery": [],
-  "works_count": 72,
+  "works_count": 70,
   "related_dramas": [
     {
       "id": 34276,
@@ -1082,38 +1082,6 @@ window.actressData = {
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD032"
     },
     {
-      "id": 46548,
-      "IDcode": "X0008",
-      "title": "我的空姐女友是荷官赢一次干一次",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "秦可欣"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=X0008"
-    },
-    {
-      "id": 46547,
-      "IDcode": "X0009",
-      "title": "我的老师女友是荷官",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "秦可欣"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=X0009"
-    },
-    {
       "id": 35320,
       "IDcode": "情人劫密室逃脱-EP4-节目篇",
       "title": "淫荡解锁指令绝对服从",
@@ -1198,7 +1166,7 @@ window.actressData = {
     },
     {
       "id": 27172,
-      "IDcode": "淫欲游戏王-EP4-节目篇",
+      "IDcode": "MTVQ3-EP4-节目篇",
       "title": "淫欲游戏王 EP4 节目篇.淫娃射龙门 双女神的淫荡对决",
       "year": "",
       "country": "",
@@ -1211,7 +1179,7 @@ window.actressData = {
         "秦可欣",
         "雪千夏"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP4-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP4-节目篇"
     }
   ]
 };

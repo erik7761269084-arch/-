@@ -19,7 +19,7 @@ window.actressData = {
     "Lin Yan"
   ],
   "gallery": [],
-  "works_count": 52,
+  "works_count": 51,
   "related_dramas": [
     {
       "id": 34218,
@@ -243,7 +243,7 @@ window.actressData = {
       "publish_date": "2023-10-06",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230814-1/342f40e9dbec0e5fa26a6f433fdb32c0.jpg",
       "actress": [
-        "姚宛儿",
+        "白思吟",
         "林嫣"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=BLX-0051"
@@ -837,22 +837,6 @@ window.actressData = {
         "林嫣"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MKY-WS-002"
-    },
-    {
-      "id": 36639,
-      "IDcode": "PMX-021-2",
-      "title": "新人女摄影师被迫潜规则.骚浪表现饥渴挑逗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "蜜桃传媒",
-      "publish_date": "2021-04-24",
-      "cover_url": "",
-      "actress": [
-        "林嫣"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMX-021-2"
     },
     {
       "id": 47402,

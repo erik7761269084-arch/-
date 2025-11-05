@@ -48,8 +48,8 @@ window.actressData = {
       "publish_date": "2024-02-02",
       "cover_url": "https://vip5.bobolj.com/20211231/fslJfLqS/1.jpg",
       "actress": [
+        "蜜苏",
         "寧靜",
-        "苏艾文",
         "苏文文"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMS003-3"
@@ -85,7 +85,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230810/20230810035859722722.png",
       "actress": [
         "蜜苏",
-        "苏艾文",
         "苏文文"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMC-007"

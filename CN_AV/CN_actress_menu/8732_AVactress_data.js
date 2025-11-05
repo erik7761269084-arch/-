@@ -771,7 +771,7 @@ window.actressData = {
       "type": "无码",
       "company": "性视界传媒x起点传媒",
       "publish_date": "2022-10-21",
-      "cover_url": "https://upload.xchina.io/video/643c6bb8f2b1f.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XSJ153.jpg",
       "actress": [
         "吴文淇"
       ],
@@ -1176,8 +1176,8 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://thjpg10.top/upload/vod/20241014-1/1dfb0e8143c458b304c4df6dead0d145.jpg",
       "actress": [
-        "琪琪",
-        "吴文淇"
+        "吴文淇",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=只是炮友关系-EP4"
     },

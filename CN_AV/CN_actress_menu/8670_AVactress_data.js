@@ -161,7 +161,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MCY-0073.jpg",
       "actress": [
         "凌薇"
       ],

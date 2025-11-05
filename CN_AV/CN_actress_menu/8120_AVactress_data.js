@@ -176,8 +176,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230519/1d8a87ff-0b6c-4306-ad4b-6c9551c2c0b9.jpg",
       "actress": [
         "小美",
-        "蜜苏",
-        "苏艾文"
+        "蜜苏"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0165-2"
     },

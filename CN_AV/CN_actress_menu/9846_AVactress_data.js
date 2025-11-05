@@ -30,7 +30,7 @@ window.actressData = {
       "publish_date": "2023-12-19",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20231227-1/1f744ae384e913b106e95a5845307b8d.jpg",
       "actress": [
-        "RONA",
+        "黎娜",
         "程藏"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QXF-002"

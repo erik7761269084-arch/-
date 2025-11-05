@@ -62,7 +62,7 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://www.jkuntp.com/upload/vod/20240111-1/bb03a44de036ebc22109670359d09c42.jpg",
       "actress": [
-        "琪琪",
+        "林洋",
         "舒涵"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8069"

@@ -61,7 +61,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://upload.xchina.io/video/67a9c8883fb00.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA073.jpg",
       "actress": [
         "楚茵"
       ],

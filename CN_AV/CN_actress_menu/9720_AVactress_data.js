@@ -32,7 +32,6 @@ window.actressData = {
       "actress": [
         "慕非非",
         "蜜苏",
-        "苏艾文",
         "莫非非"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0207"

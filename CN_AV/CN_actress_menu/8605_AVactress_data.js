@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-607b365ad210c.html",
   "aliases": [
     "季妍希",
-    "Ji Yan Xi"
+    "Ji Yan Xi",
+    "黄雅曼"
   ],
   "gallery": [],
   "works_count": 94,
@@ -31,7 +32,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://upload.xchina.io/video/677d49395fdca.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA068.jpg",
       "actress": [
         "季妍希"
       ],
@@ -191,7 +192,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2025-05-07",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-JB-011.jpg",
       "actress": [
         "季妍希"
       ],
@@ -207,7 +208,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2025-05-07",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-JB-010.jpg",
       "actress": [
         "季妍希"
       ],
@@ -877,8 +878,8 @@ window.actressData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250904-1/34ac885e49a12f325426d545b98a0835.png",
       "actress": [
         "季妍希",
-        "潘雨曦",
-        "夏晴子"
+        "夏晴子",
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDL-0004"
     },
@@ -1217,7 +1218,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2022-06-04",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-LF-004.jpg",
       "actress": [
         "季妍希",
         "舒可芯"
@@ -1303,8 +1304,8 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/2f4d73d6e64e924b6cbcac31977a6581.jpg",
       "actress": [
-        "季妍希",
-        "佳芯"
+        "梁佳芯",
+        "季妍希"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8149"
     },

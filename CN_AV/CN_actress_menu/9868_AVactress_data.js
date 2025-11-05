@@ -21,7 +21,7 @@ window.actressData = {
     {
       "id": 2826,
       "IDcode": "MTVQ24-EP2",
-      "title": "AV没台词..指诊教师骚穴潮吹停不下",
+      "title": "AV没台词 开学荒淫健检EP2 指诊教师骚穴潮吹停不下",
       "year": "",
       "country": "",
       "genre": "",
@@ -30,6 +30,7 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/b9298f957f4fc00ec7aa529c876106d4.jpg",
       "actress": [
+        "夏晴子",
         "夏睛子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ24-EP2"

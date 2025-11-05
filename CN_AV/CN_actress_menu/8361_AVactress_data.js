@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240203-1/3b1bff161a74d12837c31c9bc0141774.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA017.jpg",
       "actress": [
         "糖糖",
         "韩棠"
@@ -77,7 +77,7 @@ window.actressData = {
       "type": "无码",
       "company": "香蕉视频",
       "publish_date": "2024-01-10",
-      "cover_url": "https://tutu1.space/images/2025/05/25/91607bccca216a98946e375cd2296cc5.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0353.jpg",
       "actress": [
         "糖糖"
       ],

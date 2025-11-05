@@ -52,7 +52,7 @@ window.actressData = {
     },
     {
       "id": 35262,
-      "IDcode": "淫欲游戏王-EP7-性爱篇",
+      "IDcode": "MTVQ3-EP7-性爱篇",
       "title": "淫欲游戏王 EP7 性爱篇 骰进你的穴性爱篇.全盘皆输女神多人性爱处罚",
       "year": "",
       "country": "",
@@ -60,16 +60,16 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "http://tu5.taohuaimg.com/images/2022/03/01/50a05c81ac66ca460a1cbe3a2f3dc4e8.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MTVQ3-EP7-性爱篇.jpg",
       "actress": [
         "李娜",
         "苏小新"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP7-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP7-性爱篇"
     },
     {
       "id": 25689,
-      "IDcode": "淫欲游戏王-EP7-节目篇",
+      "IDcode": "MTVQ3-EP7-节目篇",
       "title": "淫欲游戏王 EP7 节目篇 骰进你的穴节目篇.亵玩女神的命运骰子",
       "year": "",
       "country": "",
@@ -82,7 +82,7 @@ window.actressData = {
         "李娜",
         "苏小新"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP7-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP7-节目篇"
     }
   ]
 };

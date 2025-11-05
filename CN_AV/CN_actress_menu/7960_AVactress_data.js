@@ -60,7 +60,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/NHAV-039.jpg",
       "actress": [
         "佳佳"
       ],

@@ -60,7 +60,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2022-05-12",
-      "cover_url": "https://tutu1.space/images/2022/07/05/b4cd87d229e4fa4f912778e64f2ddf1a.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDYP-019.jpg",
       "actress": [
         "米娅"
       ],

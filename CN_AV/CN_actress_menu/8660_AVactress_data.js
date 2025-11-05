@@ -249,8 +249,8 @@ window.actressData = {
       "cover_url": "https://tutu1.space/images/2025/08/08/7e9f650c809a9a4c25a13353eb50fd21.jpg",
       "actress": [
         "米歐",
-        "苡若",
-        "苏畅"
+        "苏畅",
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDSR-0010-2"
     },
@@ -267,8 +267,8 @@ window.actressData = {
       "cover_url": "https://tutu1.space/images/2025/07/26/9413ed5104cf71485d7ca8c42203b6c7.jpg",
       "actress": [
         "米歐",
-        "苡若",
-        "苏畅"
+        "苏畅",
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDSR-0010-1"
     },

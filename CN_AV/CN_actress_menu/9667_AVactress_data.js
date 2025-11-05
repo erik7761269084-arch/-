@@ -31,7 +31,6 @@ window.actressData = {
       "cover_url": "https://jpgjingpinx1.top/upload/vod/20250804-1/28d2941dd9100b27effb04885ca04972.png",
       "actress": [
         "聂小倩",
-        "杜鵑",
         "裹小倩",
         "杜娟"
       ],

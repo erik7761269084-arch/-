@@ -45,7 +45,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-03-13",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230411-4/7afb696ed7b720fb646461a14b115b80.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MXJ-0004-1.jpg",
       "actress": [
         "星谷瞳"
       ],

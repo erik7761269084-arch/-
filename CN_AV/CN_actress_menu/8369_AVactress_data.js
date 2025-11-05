@@ -51,7 +51,7 @@ window.actressData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20211002-1/47389c620101f6f460d3caec9661ff21.jpg",
       "actress": [
         "克莱儿",
-        "克莱尔"
+        "余丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD070"
     },
@@ -101,7 +101,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806011241415415.jpg",
       "actress": [
         "克莱儿",
-        "克莱尔"
+        "余丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD047"
     },
@@ -118,7 +118,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806004306633633.jpg",
       "actress": [
         "克莱儿",
-        "克莱尔"
+        "余丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD044"
     }

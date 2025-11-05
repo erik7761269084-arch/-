@@ -164,8 +164,8 @@ window.actressData = {
       "publish_date": "2025-01-11",
       "cover_url": "https://thjpg10.top/upload/vod/20250306-1/3d96a205bda37787aa3da7c50c744e8f.jpg",
       "actress": [
-        "优娜",
-        "艾悠"
+        "艾悠",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DYXO002"
     },
@@ -291,7 +291,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2023-06-04",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250510-1/b7e1032d923daffb699374759315d5af.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDSR-0008-1.jpg",
       "actress": [
         "艾悠",
         "艾熙"

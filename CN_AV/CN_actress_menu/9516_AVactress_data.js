@@ -81,7 +81,7 @@ window.actressData = {
       "publish_date": "2025-08-22",
       "cover_url": "https://imgsiwa.com:5278/cvjpg/4sObB7Iu.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "芷媗",
         "ED Mosaic"
       ],
@@ -131,7 +131,6 @@ window.actressData = {
       "publish_date": "2024-04-15",
       "cover_url": "https://tutu1.space/images/2024/02/01/901189335874982651c4bb14c20383a7.jpg",
       "actress": [
-        "娃娃",
         "黎芷媗",
         "吴芳宜",
         "翁雨澄",
@@ -231,7 +230,7 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/STN-76.jpg",
       "actress": [
         "芷媗"
       ],

@@ -61,7 +61,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "https://upload.xchina.io/video/6622b2046041d.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM066.jpg",
       "actress": [
         "米歐",
         "言嘉佑"

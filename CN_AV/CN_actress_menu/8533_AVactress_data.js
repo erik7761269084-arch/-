@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "SA国际传媒",
       "publish_date": "2023-07-09",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SATWA0005.jpg",
       "actress": [
         "小瑶"
       ],

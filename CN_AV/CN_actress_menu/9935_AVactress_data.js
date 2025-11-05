@@ -30,8 +30,8 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://www.jkuntp.com/upload/vod/20231231-1/9895e55c228fd247e83a8e937f66a43d.jpg",
       "actress": [
+        "陆雪琪",
         "拉拉",
-        "苏梦",
         "只只"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8124"

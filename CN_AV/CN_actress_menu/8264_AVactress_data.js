@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2025-07-08",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240607-1/72b80f2db1a599c4eab35589c758525e.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMW-026.jpg",
       "actress": [
         "叶予曦"
       ],

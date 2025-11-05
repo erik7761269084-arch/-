@@ -148,7 +148,6 @@ window.actressData = {
       "cover_url": "https://img1.souavzy.org/upload/vod/20241101-1/ac663cb8212219fa818980dc711fde86.jpg",
       "actress": [
         "梁佳芯",
-        "佳芯",
         "唐芯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0269"

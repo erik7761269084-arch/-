@@ -79,7 +79,7 @@ window.actressData = {
       "type": "无码",
       "company": "性视界传媒x起点传媒",
       "publish_date": "2022-10-21",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XSJ149.jpg",
       "actress": [
         "茜茜"
       ],

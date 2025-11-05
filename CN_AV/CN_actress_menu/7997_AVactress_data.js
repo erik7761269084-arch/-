@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-08-19",
-      "cover_url": "https://upload.xchina.io/video/6449444a9cd60.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-104.jpg",
       "actress": [
         "白石麻衣"
       ],

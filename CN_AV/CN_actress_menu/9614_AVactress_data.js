@@ -61,7 +61,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2022-03-31",
-      "cover_url": "https://tutu1.space/images/2022/05/30/01ec7dfb163a82ae25c1673b8d8a5d41.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-005.jpg",
       "actress": [
         "李可欣"
       ],

@@ -31,7 +31,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230416/d0683b7c-25c4-4c68-9774-df145c3b29d0.jpg",
       "actress": [
         "艾玛",
-        "尹媚",
         "优尹媚"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0098"

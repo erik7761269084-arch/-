@@ -47,7 +47,7 @@ window.actressData = {
       "cover_url": "https://thjpg10.top/upload/vod/20241023-1/957d5e584c4c645d86c8b3bab0458f19.jpg",
       "actress": [
         "姚茜",
-        "潘雨曦"
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5208"
     }

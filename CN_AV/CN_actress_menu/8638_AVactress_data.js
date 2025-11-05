@@ -130,8 +130,8 @@ window.actressData = {
       "publish_date": "2024-02-02",
       "cover_url": "https://da.da15525716.com/20241123/YVkaxz5n/1.jpg",
       "actress": [
-        "优娜",
-        "艾熙"
+        "艾熙",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMS006-2"
     },
@@ -147,7 +147,6 @@ window.actressData = {
       "publish_date": "2024-02-02",
       "cover_url": "https://bwjpg.top/upload/vod/20250904-1/a09ec2e676d15a0fa80bd3dbcb6699e2.png",
       "actress": [
-        "优娜",
         "艾熙",
         "唐雨菲"
       ],
@@ -456,7 +455,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2023-06-04",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250510-1/b7e1032d923daffb699374759315d5af.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDSR-0008-1.jpg",
       "actress": [
         "艾悠",
         "艾熙"
@@ -492,13 +491,13 @@ window.actressData = {
       "publish_date": "2023-05-23",
       "cover_url": "https://cctv123456.com/i/g24zaly2.jpg",
       "actress": [
-        "优娜",
         "苏樱花",
         "孟若羽",
         "艾熙",
         "李蓉蓉",
         "吴梦梦",
         "夏晴子",
+        "唐雨菲",
         "优娜.蕾",
         "利尔·布莱克"
       ],
@@ -695,7 +694,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2022-12-07",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MD-0348.jpg",
       "actress": [
         "艾熙",
         "周甯"
@@ -731,7 +730,7 @@ window.actressData = {
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/3a9de3b128399075a73c21daa29d65a6.jpg",
       "actress": [
         "艾熙",
-        "潘雨曦"
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0251"
     },

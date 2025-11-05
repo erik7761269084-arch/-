@@ -31,7 +31,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-04-15",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DS-023.jpg",
       "actress": [
         "恩恩"
       ],
@@ -114,9 +114,9 @@ window.actressData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250911-1/9ad12308626471363e956c8ad25590d8.png",
       "actress": [
         "恩恩",
-        "优娜",
         "圆圆",
-        "钟宛冰"
+        "钟宛冰",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DYO001"
     }

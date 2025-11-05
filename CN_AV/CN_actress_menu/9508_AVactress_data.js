@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/6606e344891b7.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV019.jpg",
       "actress": [
         "静静"
       ],
@@ -63,9 +63,9 @@ window.actressData = {
       "publish_date": "2023-08-29",
       "cover_url": "https://picture.yoshiclub.xyz/20230815/20230815014442486486.jpg",
       "actress": [
+        "钟丽琪",
         "李文靜",
-        "静静",
-        "氖氖"
+        "静静"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-014"
     },

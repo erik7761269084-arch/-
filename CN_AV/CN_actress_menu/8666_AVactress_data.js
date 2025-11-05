@@ -143,7 +143,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MCY-0019.jpg",
       "actress": [
         "徐蕾"
       ],
@@ -227,7 +227,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202202/23/122037rdvrdgxrfr1z2xke.jpg",
       "actress": [
         "徐蕾",
-        "潘雨曦"
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MKY-HS-007"
     },
@@ -358,7 +358,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202203/09/175830wjczk4svk24kcc8j.jpg",
       "actress": [
         "徐蕾",
-        "潘雨曦"
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MKY-HM-002"
     },
@@ -608,8 +608,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20241008-1/0bf741502471d8f73300446e582f5f3b.jpg",
       "actress": [
         "徐蕾",
-        "蜜苏",
-        "苏艾文"
+        "蜜苏"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0195"
     },

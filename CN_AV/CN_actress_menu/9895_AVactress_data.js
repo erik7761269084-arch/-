@@ -30,7 +30,7 @@ window.actressData = {
       "publish_date": "2023-08-29",
       "cover_url": "https://da.da15525716.com/upload/vod/20240911-1/48c30e52153504431704e824964f0b7f.jpg",
       "actress": [
-        "氖氖",
+        "钟丽琪",
         "氛氛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-012"

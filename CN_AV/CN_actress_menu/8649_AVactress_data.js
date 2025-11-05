@@ -816,7 +816,6 @@ window.actressData = {
         "孟若羽",
         "宋南伊",
         "蜜苏",
-        "苏艾文",
         "宋南"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0335"

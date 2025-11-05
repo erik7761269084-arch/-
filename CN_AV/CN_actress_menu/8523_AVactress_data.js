@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "扣扣传媒x91Fans",
       "publish_date": "2023-12-11",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-091.jpg",
       "actress": [
         "Vita"
       ],
@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "扣扣传媒x91Fans",
       "publish_date": "2023-12-11",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-087.jpg",
       "actress": [
         "Vita"
       ],

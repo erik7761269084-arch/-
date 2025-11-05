@@ -655,8 +655,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20231127-1/974b06c80fbb8befa5b756f47048dce8.jpg",
       "actress": [
         "苏清歌",
-        "蜜苏",
-        "苏艾文"
+        "蜜苏"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0174"
     },
@@ -841,19 +840,19 @@ window.actressData = {
     },
     {
       "id": 30615,
-      "IDcode": "淫娃女优培训营-EP2",
-      "title": "番外 私下调教玩弄女学员",
+      "IDcode": "MTVQ4-EP2-AV篇",
+      "title": "淫娃女优培训营-EP2  AV篇 私下调教玩弄女学员",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MTVQ4-EP2-AV篇.jpg",
       "actress": [
         "苏清歌"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫娃女优培训营-EP2"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ4-EP2-AV篇"
     },
     {
       "id": 30471,

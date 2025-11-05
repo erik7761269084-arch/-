@@ -69,9 +69,9 @@ window.actressData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250911-1/9ad12308626471363e956c8ad25590d8.png",
       "actress": [
         "恩恩",
-        "优娜",
         "圆圆",
-        "钟宛冰"
+        "钟宛冰",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DYO001"
     }

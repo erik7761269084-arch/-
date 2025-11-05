@@ -30,8 +30,8 @@ window.actressData = {
       "publish_date": "2023-12-29",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20210502-1/fb88f7b2ac1a29094884056181fd0571.jpg",
       "actress": [
-        "王拉拉",
-        "辰悦"
+        "黄雪纯",
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8020"
     },
@@ -63,8 +63,8 @@ window.actressData = {
       "publish_date": "2023-12-29",
       "cover_url": "https://da.da15525716.com/upload/vod/20250607-1/33f5671f876b433d2d0b6f3c6e269da1.jpg",
       "actress": [
-        "王拉拉",
-        "辰悦"
+        "黄雪纯",
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKXB-8015"
     },
@@ -98,8 +98,7 @@ window.actressData = {
       "actress": [
         "黄雪纯",
         "拉拉",
-        "王拉拉",
-        "辰悦"
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8014"
     },
@@ -116,8 +115,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202104/27/190736nmxn2mnynsmq87ww.jpg",
       "actress": [
         "黄雪纯",
-        "王拉拉",
-        "辰悦"
+        "王拉拉"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8015"
     }

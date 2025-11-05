@@ -284,7 +284,6 @@ window.actressData = {
       "publish_date": "2024-04-15",
       "cover_url": "https://tutu1.space/images/2024/02/01/901189335874982651c4bb14c20383a7.jpg",
       "actress": [
-        "娃娃",
         "黎芷媗",
         "吴芳宜",
         "翁雨澄",
@@ -707,7 +706,7 @@ window.actressData = {
       "cover_url": "https://da.da15525716.com/images/2024/01/06/guochan129.jpg",
       "actress": [
         "吴芳宜",
-        "林沁儿"
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PME-052"
     },
@@ -1034,7 +1033,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-149.jpg",
       "actress": [
         "吴芳宜"
       ],

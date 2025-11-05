@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2022-12-07",
-      "cover_url": "https://ll.lasha250923.top/upload/vod/20220119-1/e297f533dfd71fc80a2d468951ae9b50.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MD-0049.jpg",
       "actress": [
         "刘思慧"
       ],

@@ -15,11 +15,13 @@ window.actressData = {
   "features": [],
   "detail_url": "https://xchina.fit/model/id-601190f157fe7.html",
   "aliases": [
+    "夏露",
+    "尹媚",
     "艾玛",
     "艾瑪"
   ],
   "gallery": [],
-  "works_count": 36,
+  "works_count": 39,
   "related_dramas": [
     {
       "id": 26977,
@@ -194,7 +196,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230416/d0683b7c-25c4-4c68-9774-df145c3b29d0.jpg",
       "actress": [
         "艾玛",
-        "尹媚",
         "优尹媚"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0098"
@@ -225,7 +226,7 @@ window.actressData = {
       "type": "无码",
       "company": "性视界传媒x起点传媒",
       "publish_date": "2022-11-23",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QDYP004.jpg",
       "actress": [
         "艾玛"
       ],
@@ -243,8 +244,7 @@ window.actressData = {
       "publish_date": "2022-08-09",
       "cover_url": "https://picture.yoshiclub.xyz/20230817/20230817004514780780.jpg",
       "actress": [
-        "艾玛",
-        "尹媚"
+        "艾玛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0023"
     },
@@ -260,8 +260,7 @@ window.actressData = {
       "publish_date": "2022-08-09",
       "cover_url": "https://picture.yoshiclub.xyz/20230817/20230817004056508508.jpg",
       "actress": [
-        "艾玛",
-        "尹媚"
+        "艾玛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0020"
     },
@@ -600,6 +599,54 @@ window.actressData = {
         "艾玛"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMX-034"
+    },
+    {
+      "id": 12640,
+      "IDcode": "ID5227",
+      "title": "田径教练性侵女运动员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱豆传媒",
+      "publish_date": "",
+      "cover_url": "https://bwjpg.top/upload/vod/20250830-1/28d48d3555ea9edb8dc8759fee431781.png",
+      "actress": [
+        "艾玛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5227"
+    },
+    {
+      "id": 12622,
+      "IDcode": "ID5209",
+      "title": "美艳护士凌辱学长反被操",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱豆传媒",
+      "publish_date": "",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20230126-1/e920fb17ed9222da78146326e76fd6e4.jpg",
+      "actress": [
+        "艾玛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5209"
+    },
+    {
+      "id": 12620,
+      "IDcode": "ID5207",
+      "title": "办公室偷情强上老板的小情人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "爱豆传媒",
+      "publish_date": "",
+      "cover_url": "https://bwjpg.top/upload/vod/20250905-1/1b334b2b0ef144d2fab9cfc7c00c687e.png",
+      "actress": [
+        "艾玛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=ID5207"
     }
   ]
 };

@@ -46,7 +46,6 @@ window.actressData = {
       "publish_date": "2021-07-30",
       "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722223836320320.jpg",
       "actress": [
-        "琪琪",
         "林洋",
         "兮兮"
       ],
@@ -64,7 +63,6 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://imgsiwa.com:5278/cvjpg/XB9rOm0s.jpg",
       "actress": [
-        "琪琪",
         "林洋",
         "兮兮"
       ],
@@ -82,8 +80,6 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230722/20230722225359455455.jpg",
       "actress": [
-        "优娜",
-        "琪琪",
         "唐雨菲",
         "林洋",
         "兮兮"

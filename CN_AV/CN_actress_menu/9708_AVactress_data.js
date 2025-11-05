@@ -110,7 +110,7 @@ window.actressData = {
       "publish_date": "2023-10-06",
       "cover_url": "https://tutu1.space/images/2023/08/31/7876a478c344e85f2c701379fe82c7f6.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "小夜夜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=BLX-0054"

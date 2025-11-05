@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-6108ddb8d3a41.html",
   "aliases": [
     "陈美惠",
-    "陳美惠"
+    "陳美惠",
+    "邢辉"
   ],
   "gallery": [],
   "works_count": 6,
@@ -64,7 +65,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2021-10-05",
-      "cover_url": "https://upload.xchina.io/video/6412262639707.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDJ-0001-3.jpg",
       "actress": [
         "陈美惠"
       ],

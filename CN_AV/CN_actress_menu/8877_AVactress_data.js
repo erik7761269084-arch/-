@@ -14,9 +14,12 @@ window.actressData = {
   "description": "白靖寒，台湾AV女优，又有艺名多莉、林语桐。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-6151fea2f218f.html",
-  "aliases": [],
+  "aliases": [
+    "林语桐",
+    "白靖寒"
+  ],
   "gallery": [],
-  "works_count": 26,
+  "works_count": 28,
   "related_dramas": [
     {
       "id": 34173,
@@ -391,6 +394,22 @@ window.actressData = {
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MKY-LF-015"
     },
     {
+      "id": 36194,
+      "IDcode": "PMC-017",
+      "title": "为了梦想把老婆送给房东(上集).好色房东的淫欲生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "蜜桃传媒",
+      "publish_date": "2022-01-10",
+      "cover_url": "http://pic1.thzpic.com/forum/202112/04/095515s29ab2j44tz4zqjn.jpg",
+      "actress": [
+        "白靖寒"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMC-017"
+    },
+    {
       "id": 34851,
       "IDcode": "MDWP-0014",
       "title": "淫行按摩院-偷拍又逗弄的油压诱惑",
@@ -405,6 +424,22 @@ window.actressData = {
         "白靖寒"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDWP-0014"
+    },
+    {
+      "id": 10019,
+      "IDcode": "PMX-044",
+      "title": "邻家女孩的幻想",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "蜜桃传媒",
+      "publish_date": "2021-04-24",
+      "cover_url": "http://pic1.thzpic.com/forum/202201/15/121229a46d8fl7f5mwdze6.jpg",
+      "actress": [
+        "白靖寒"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMX-044"
     },
     {
       "id": 30560,

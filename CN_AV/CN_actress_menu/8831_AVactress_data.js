@@ -145,8 +145,8 @@ window.actressData = {
       "publish_date": "2024-05-19",
       "cover_url": "https://upload.xchina.io/video/643aec9e8b88f.webp",
       "actress": [
-        "小野",
-        "徐婕"
+        "黎星若",
+        "小野"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=RAS-0147"
     },
@@ -390,8 +390,8 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://ll.lasha250923.top/upload/vod/20250913-1/139f724bdd4cf9da74b5b3f49396eb31.jpg",
       "actress": [
-        "小野",
-        "徐婕"
+        "黎星若",
+        "小野"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=HZ-0147"
     }

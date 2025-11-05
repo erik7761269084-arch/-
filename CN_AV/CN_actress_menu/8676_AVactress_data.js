@@ -295,8 +295,8 @@ window.actressData = {
       "actress": [
         "琁元",
         "璇元",
-        "潘雨曦",
-        "苏娅"
+        "苏娅",
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0209"
     },
@@ -364,8 +364,7 @@ window.actressData = {
       "actress": [
         "苏娅",
         "蜜苏",
-        "沈娜娜",
-        "苏艾文"
+        "沈娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0165-8"
     },

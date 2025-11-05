@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆出品X涩会传媒",
       "publish_date": "2021-09-25",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/rYdRDlOs.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/SH-003.jpg",
       "actress": [
         "蔡晓雨"
       ],

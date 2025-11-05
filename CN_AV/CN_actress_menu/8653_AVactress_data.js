@@ -494,7 +494,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2022-12-07",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MD-0348.jpg",
       "actress": [
         "艾熙",
         "周甯"

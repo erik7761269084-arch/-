@@ -14,7 +14,10 @@ window.actressData = {
   "description": "绯丽，台湾AV女优，又有艺名阿蛇姐姐。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-6308a1103b026.html",
-  "aliases": [],
+  "aliases": [
+    "绯丽",
+    "阿蛇姐姐"
+  ],
   "gallery": [],
   "works_count": 1,
   "related_dramas": [

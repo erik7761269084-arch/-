@@ -14,9 +14,12 @@ window.actressData = {
   "description": "金巧巧，台湾AV女优，又有艺名洛若。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-612612c81d0b0.html",
-  "aliases": [],
+  "aliases": [
+    "洛若",
+    "金巧巧"
+  ],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 11133,
@@ -65,6 +68,22 @@ window.actressData = {
         "金巧巧"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-175"
+    },
+    {
+      "id": 496,
+      "IDcode": "DD-001",
+      "title": "【姐姐的极致诱惑】【兽欲难耐日夜操干】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒X叮叮映画",
+      "publish_date": "2022-01-10",
+      "cover_url": "https://da.da15525716.com/images/2023/03/18/guochan11253.jpg",
+      "actress": [
+        "金巧巧"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DD-001"
     },
     {
       "id": 23838,

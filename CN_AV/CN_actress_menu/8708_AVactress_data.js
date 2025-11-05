@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-6006b8b6916c5.html",
   "aliases": [
     "沈芯語",
-    "沈芯语"
+    "沈芯语",
+    "木木森"
   ],
   "gallery": [],
   "works_count": 14,

@@ -324,8 +324,8 @@ window.actressData = {
       "publish_date": "2022-09-15",
       "cover_url": "https://cctv123456.com/i/mtpgwv6l.jpg",
       "actress": [
-        "优娜",
-        "宋雨川"
+        "宋雨川",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDCM-0013"
     },
@@ -454,7 +454,7 @@ window.actressData = {
       "type": "无码",
       "company": "91制片厂",
       "publish_date": "2022-06-28",
-      "cover_url": "https://upload.xchina.io/video/64e22a0c8e616.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-147.jpg",
       "actress": [
         "宋雨川"
       ],

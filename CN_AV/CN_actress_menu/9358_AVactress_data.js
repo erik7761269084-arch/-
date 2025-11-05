@@ -34,8 +34,8 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230415/92b5928a-73e2-4a22-93b7-6c28714c7184.jpg",
       "actress": [
         "素人",
-        "姜潔",
-        "白佳萱"
+        "梁芸菲",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0091"
     },
@@ -51,8 +51,8 @@ window.actressData = {
       "publish_date": "2022-08-09",
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818215517202202.jpg",
       "actress": [
-        "姜潔",
-        "叶宸欣"
+        "张欣妍",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0103"
     },
@@ -68,9 +68,9 @@ window.actressData = {
       "publish_date": "2021-03-28",
       "cover_url": "https://www.jkuntp.com/upload/vod/20231231-1/5115eeb106feef06d0e0d0241ad2e656.jpg",
       "actress": [
-        "姜潔",
-        "白佳萱",
-        "叶宸欣"
+        "梁芸菲",
+        "张欣妍",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKCCAV-8023"
     },
@@ -86,9 +86,9 @@ window.actressData = {
       "publish_date": "2021-03-28",
       "cover_url": "https://guzwiayz.com/20240417/oSBpoXL4/1.jpg?t=1713333830",
       "actress": [
-        "姜潔",
-        "白佳萱",
-        "叶宸欣"
+        "梁芸菲",
+        "张欣妍",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKCCAV-8017"
     },
@@ -104,9 +104,9 @@ window.actressData = {
       "publish_date": "2021-03-28",
       "cover_url": "http://pic1.thzpic.com/forum/202104/11/074240jismvjgj77yghyll.jpg",
       "actress": [
-        "姜潔",
-        "白佳萱",
-        "叶宸欣"
+        "梁芸菲",
+        "张欣妍",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKCCAV-8007"
     },

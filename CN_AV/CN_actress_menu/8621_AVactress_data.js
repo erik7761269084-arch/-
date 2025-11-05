@@ -15,8 +15,9 @@ window.actressData = {
   "features": [],
   "detail_url": "https://xchina.fit/model/id-6001e91016823.html",
   "aliases": [
+    "Lin Si Yu",
     "林思妤",
-    "Lin Si Yu"
+    "温婉琳"
   ],
   "gallery": [],
   "works_count": 91,
@@ -433,7 +434,7 @@ window.actressData = {
       "type": "无码",
       "company": "星空无限传媒x乌托邦",
       "publish_date": "2023-06-25",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/WTB-022.jpg",
       "actress": [
         "林思妤"
       ],
@@ -789,8 +790,7 @@ window.actressData = {
       "cover_url": "https://guzwiayz.com/20230314/FXbGjj6g/1.jpg?t=1679994353",
       "actress": [
         "温琬琳",
-        "林思妤",
-        "温婉琳"
+        "林思妤"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0034"
     },
@@ -1124,7 +1124,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-259.jpg",
       "actress": [
         "林思妤"
       ],
@@ -1308,7 +1308,7 @@ window.actressData = {
     },
     {
       "id": 47433,
-      "IDcode": "淫欲游戏王-EP1-节目篇",
+      "IDcode": "MTVQ3-EP1-节目篇",
       "title": "淫欲游戏王 EP1 节目篇 上 脱衣叠叠乐_淫荡女神密室大逃脱",
       "year": "",
       "country": "",
@@ -1320,7 +1320,7 @@ window.actressData = {
       "actress": [
         "林思妤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP1-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP1-节目篇"
     },
     {
       "id": 35313,
@@ -1440,7 +1440,7 @@ window.actressData = {
     },
     {
       "id": 27168,
-      "IDcode": "淫欲游戏王-EP1-性爱篇",
+      "IDcode": "MTVQ3-EP1-性爱篇",
       "title": "淫欲游戏王 EP1 性爱篇 禽兽大魔王的性爱惩处",
       "year": "",
       "country": "",
@@ -1452,7 +1452,7 @@ window.actressData = {
       "actress": [
         "林思妤"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP1-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP1-性爱篇"
     },
     {
       "id": 25777,

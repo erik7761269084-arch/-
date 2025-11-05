@@ -88,7 +88,7 @@ window.actressData = {
     },
     {
       "id": 25915,
-      "IDcode": "淫欲游戏王-EP5-节目篇",
+      "IDcode": "MTVQ3-EP5-节目篇",
       "title": "淫欲游戏王 EP5 节目篇.原创节目企划 女神直球对决",
       "year": "",
       "country": "",
@@ -101,11 +101,11 @@ window.actressData = {
         "李娜",
         "林晓雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP5-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP5-节目篇"
     },
     {
       "id": 25686,
-      "IDcode": "淫欲游戏王-EP5-性爱篇",
+      "IDcode": "MTVQ3-EP5-性爱篇",
       "title": "淫欲游戏王 EP5 性爱篇 元宵车轮战.翻江倒海激战猛男",
       "year": "",
       "country": "",
@@ -118,7 +118,7 @@ window.actressData = {
         "李娜",
         "林晓雪"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP5-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP5-性爱篇"
     }
   ]
 };

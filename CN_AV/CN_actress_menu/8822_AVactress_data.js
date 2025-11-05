@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-610500143878b.html",
   "aliases": [
     "欧妮",
-    "歐妮"
+    "歐妮",
+    "李丽"
   ],
   "gallery": [],
   "works_count": 11,

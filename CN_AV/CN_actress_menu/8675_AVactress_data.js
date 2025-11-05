@@ -418,9 +418,9 @@ window.actressData = {
       "publish_date": "2024-02-17",
       "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/726c350f2cf70f49e68c16d7120a50ff.jpg",
       "actress": [
-        "潘雨曦",
         "艾秋",
-        "陆思涵"
+        "白熙雨",
+        "李文雯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ11-EP3-AV篇"
     },
@@ -486,9 +486,9 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20211121-1/e9233082b049e9049c956a346b509138.jpg",
       "actress": [
-        "潘雨曦",
         "艾秋",
-        "陆思涵"
+        "白熙雨",
+        "李文雯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ11-EP3-节目篇"
     },
@@ -544,9 +544,9 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://img1.souavzy.org/upload/vod/20250926-1/68e1dd1cb5446ea216c0564a176e3a5a.jpg",
       "actress": [
-        "潘雨曦",
         "艾秋",
-        "陆思涵"
+        "白熙雨",
+        "李文雯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ11-EP1-节目篇"
     },
@@ -562,13 +562,13 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://img1.souavzy.org/upload/vod/20251015-1/b6f4f879f2e730e749fc35145f53d31b.jpg",
       "actress": [
-        "潘雨曦",
         "韩棠",
         "管明美",
         "白沛瑶",
         "艾秋",
-        "林芊彤",
-        "陆思涵"
+        "白熙雨",
+        "李文雯",
+        "林芊彤"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ10-EP3-节目篇"
     },
@@ -1116,7 +1116,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2022-06-04",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-LF-001.jpg",
       "actress": [
         "艾秋"
       ],
@@ -1166,9 +1166,9 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://bwjpg.top/upload/vod/20250925-1/0879e0300cc83eb8f584f17fa745bbdc.png",
       "actress": [
-        "潘雨曦",
         "艾秋",
-        "陆思涵"
+        "白熙雨",
+        "李文雯"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ11-EP2-节目篇"
     },
@@ -1184,8 +1184,8 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2020/10/20/05777fc729bd278a5fb946a0133b7cb2.jpg",
       "actress": [
-        "坏坏",
-        "艾秋"
+        "艾秋",
+        "羽芮"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=麻豆全新系列之突袭女优计划-EP2"
     },

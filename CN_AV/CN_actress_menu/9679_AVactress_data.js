@@ -38,27 +38,28 @@ window.actressData = {
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0110-EP3-AV篇"
     },
     {
-      "id": 47537,
-      "IDcode": "足球宝贝EP3-节目篇",
-      "title": "足球宝贝EP3】节目篇_阴道刺激的射门战",
+      "id": 47528,
+      "IDcode": "TZ-018-AV篇",
+      "title": "足球宝贝-EP1-AV篇 浴室勾引乱入3P  ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://bwjpg.top/upload/vod/20250906-1/bef33d54fbea15842fd7bc4ae91c2302.png",
+      "company": "大象传媒",
+      "publish_date": "2024-02-17",
+      "cover_url": "https://bwjpg.top/upload/vod/20251016-1/21ea1d58a5f3e5b3f6f74f84440f293a.png",
       "actress": [
         "明日香",
         "池田奈美",
         "西村莉娜",
-        "A天使爱"
+        "A天使爱",
+        "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝EP3-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-018-AV篇"
     },
     {
       "id": 27099,
-      "IDcode": "足球宝贝-EP03",
+      "IDcode": "足球宝贝-EP03-AV篇",
       "title": "AV篇_A.足球尤物诱惑性爱",
       "year": "",
       "country": "",
@@ -73,32 +74,31 @@ window.actressData = {
         "西村莉娜",
         "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03-AV篇"
     },
     {
-      "id": 27096,
-      "IDcode": "足球宝贝-EP01",
-      "title": "兔子先生 节目篇",
+      "id": 25913,
+      "IDcode": "足球宝贝-EP03-节目篇",
+      "title": "节目篇-兔子先生",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/PZbaYJlg.jpg",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230408-1/3ea10e5a7daf7236534422f885200fac.png",
       "actress": [
         "明日香",
         "池田奈美",
         "西村莉娜",
-        "A天使爱",
-        "天使爱"
+        "A天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP01"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03-节目篇"
     },
     {
       "id": 25517,
-      "IDcode": "足球宝贝-EP02",
-      "title": "全网独播】下腹高潮的交欢",
+      "IDcode": "TZ-019-AV篇",
+      "title": "足球宝贝-EP2-AV篇下腹高潮的交欢",
       "year": "",
       "country": "",
       "genre": "",
@@ -115,7 +115,7 @@ window.actressData = {
         "田奈美",
         "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP02"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-019-AV篇"
     }
   ]
 };

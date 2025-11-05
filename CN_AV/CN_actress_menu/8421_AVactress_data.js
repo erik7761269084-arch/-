@@ -80,7 +80,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20240115-1/8833aeddca4ee52d32350570489d89f0.jpg",
       "actress": [
         "曼曼",
-        "童汐",
+        "沙美辰",
         "林曼曼"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8048"

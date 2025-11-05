@@ -30,7 +30,7 @@ window.actressData = {
       "publish_date": "2023-09-21",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230715-1/a46ec4cf50f4279cecc5f8cab7a97c39.jpg",
       "actress": [
-        "小婕",
+        "张雅婷",
         "小捷"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XKG193"

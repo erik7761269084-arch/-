@@ -97,9 +97,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730080405565565.jpg",
       "actress": [
         "何苗",
-        "杨柳",
-        "白晶晶,袁子儀,何苗",
-        "杨柳 白晶晶",
         "白晶晶",
         "袁子仪"
       ],
@@ -150,7 +147,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727044054529529.jpg",
       "actress": [
         "何苗",
-        "斑比"
+        "斑斑"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-085"
     },

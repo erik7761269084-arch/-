@@ -14,7 +14,10 @@ window.actressData = {
   "description": "白晶晶，台湾AV女优，又有艺名苏倩。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60211a64e52f1.html",
-  "aliases": [],
+  "aliases": [
+    "白晶晶",
+    "苏倩"
+  ],
   "gallery": [],
   "works_count": 19,
   "related_dramas": [
@@ -143,8 +146,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://bwjpg.top/upload/vod/20250825-39/b2eac013313f15d43adfb2507261bfb8.jpg",
       "actress": [
-        "杨柳",
-        "杨柳 白晶晶",
         "白晶晶",
         "袁子仪"
       ],
@@ -163,9 +164,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730080405565565.jpg",
       "actress": [
         "何苗",
-        "杨柳",
-        "白晶晶,袁子儀,何苗",
-        "杨柳 白晶晶",
         "白晶晶",
         "袁子仪"
       ],

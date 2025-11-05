@@ -509,7 +509,7 @@ window.actressData = {
       "type": "无码",
       "company": "性视界传媒x起点传媒",
       "publish_date": "2022-10-21",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/mKzC8oRv.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XSJ152.jpg",
       "actress": [
         "莉娜"
       ],
@@ -591,7 +591,7 @@ window.actressData = {
       "type": "无码",
       "company": "91制片厂",
       "publish_date": "2022-06-28",
-      "cover_url": "https://upload.xchina.io/video/64d7974db6da8.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91KCM-137.jpg",
       "actress": [
         "莉娜"
       ],

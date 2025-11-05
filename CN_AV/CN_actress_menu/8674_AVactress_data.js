@@ -280,13 +280,13 @@ window.actressData = {
       "publish_date": "2023-10-17",
       "cover_url": "https://img1.souavzy.org/upload/vod/20251015-1/b6f4f879f2e730e749fc35145f53d31b.jpg",
       "actress": [
-        "潘雨曦",
         "韩棠",
         "管明美",
         "白沛瑶",
         "艾秋",
-        "林芊彤",
-        "陆思涵"
+        "白熙雨",
+        "李文雯",
+        "林芊彤"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ10-EP3-节目篇"
     },

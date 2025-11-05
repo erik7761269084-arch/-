@@ -20,8 +20,8 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 25517,
-      "IDcode": "足球宝贝-EP02",
-      "title": "全网独播】下腹高潮的交欢",
+      "IDcode": "TZ-019-AV篇",
+      "title": "足球宝贝-EP2-AV篇下腹高潮的交欢",
       "year": "",
       "country": "",
       "genre": "",
@@ -38,7 +38,7 @@ window.actressData = {
         "田奈美",
         "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP02"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-019-AV篇"
     }
   ]
 };

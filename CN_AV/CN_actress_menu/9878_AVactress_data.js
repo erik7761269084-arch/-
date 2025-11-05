@@ -63,7 +63,7 @@ window.actressData = {
       "publish_date": "2025-08-22",
       "cover_url": "https://imgsiwa.com:5278/cvjpg/4sObB7Iu.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "芷媗",
         "ED Mosaic"
       ],
@@ -131,7 +131,7 @@ window.actressData = {
       "publish_date": "2022-01-10",
       "cover_url": "https://bwjpg.top/upload/vod/20250925-1/604aa39e7c81268b5666e94bba98f278.png",
       "actress": [
-        "琪琪",
+        "林洋",
         "ED Mosaic"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=EDMOSAIC05-13"

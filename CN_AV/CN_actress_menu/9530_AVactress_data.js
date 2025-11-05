@@ -31,7 +31,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MCY-0037.jpg",
       "actress": [
         "娜娜"
       ],
@@ -136,8 +136,8 @@ window.actressData = {
       "publish_date": "2024-08-02",
       "cover_url": "https://picture.yoshiclub.xyz/20230704/a5c5ac35-1c8d-49e5-bec5-5836519d4f5d.jpg",
       "actress": [
-        "娃娃",
         "沈娜娜",
+        "翁雨澄",
         "娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0080"
@@ -202,7 +202,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/666544c1bb275.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV001.jpg",
       "actress": [
         "娜娜"
       ],

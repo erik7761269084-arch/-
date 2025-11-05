@@ -216,7 +216,7 @@ window.actressData = {
       "publish_date": "2024-01-10",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230107-1/2429ecbf555035765aebc1e74952d62e.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "小遥"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0050"
@@ -233,7 +233,7 @@ window.actressData = {
       "publish_date": "2024-01-10",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20230105-1/9e53bca8a8096f3b78f391016e0eef69.jpg",
       "actress": [
-        "坏坏",
+        "羽芮",
         "小遥"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SAT0043"

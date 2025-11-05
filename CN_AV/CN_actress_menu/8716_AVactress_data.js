@@ -140,7 +140,7 @@ window.actressData = {
       "type": "无码",
       "company": "香蕉视频",
       "publish_date": "2024-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0356.jpg",
       "actress": [
         "狐不妖"
       ],
@@ -156,7 +156,7 @@ window.actressData = {
       "type": "无码",
       "company": "香蕉视频",
       "publish_date": "2024-01-10",
-      "cover_url": "https://tutu1.space/images/2025/05/24/9c821ab6eb03a38bbbbb98240158b645.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0351.jpg",
       "actress": [
         "狐不妖"
       ],
@@ -604,7 +604,7 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MNBY-002.jpg",
       "actress": [
         "狐不妖"
       ],

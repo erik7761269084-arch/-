@@ -191,7 +191,7 @@ window.actressData = {
       "type": "无码",
       "company": "香蕉视频",
       "publish_date": "2024-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XJX-0209.jpg",
       "actress": [
         "可可"
       ],
@@ -434,8 +434,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202201/15/122233bc0txlexnndxncl0.jpg",
       "actress": [
         "可可",
-        "香菱",
-        "范可可"
+        "香菱"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-224"
     }

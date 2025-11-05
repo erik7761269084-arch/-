@@ -23,7 +23,7 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 47595,
-      "IDcode": "淫欲游戏王-EP3-性爱篇",
+      "IDcode": "MTVQ3-EP3-性爱篇",
       "title": "淫欲游戏王 EP3 性爱篇 女神挑战失败沦为泄欲工具",
       "year": "",
       "country": "",
@@ -36,7 +36,7 @@ window.actressData = {
         "钟丽琪",
         "許書曼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP3-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP3-性爱篇"
     },
     {
       "id": 23130,
@@ -56,7 +56,7 @@ window.actressData = {
     },
     {
       "id": 27171,
-      "IDcode": "淫欲游戏王-EP3-节目篇",
+      "IDcode": "MTVQ3-EP3-节目篇",
       "title": "淫欲游戏王 EP3 节目篇 淫荡女神的吹咬舔吸",
       "year": "",
       "country": "",
@@ -69,7 +69,7 @@ window.actressData = {
         "钟丽琪",
         "許書曼"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP3-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP3-节目篇"
     }
   ]
 };

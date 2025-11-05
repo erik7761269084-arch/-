@@ -20,7 +20,7 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 474,
-      "IDcode": "爸气十足EP49",
+      "IDcode": "爸气十足-EP49",
       "title": "爸气十足 EP49",
       "year": "",
       "country": "",
@@ -28,11 +28,11 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-05-03",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/爸气十足-EP49.jpg",
       "actress": [
         "横井智美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=爸气十足EP49"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=爸气十足-EP49"
     }
   ]
 };

@@ -226,7 +226,7 @@ window.actressData = {
       "publish_date": "2022-12-07",
       "cover_url": "https://cctv123456.com/i/fpbgmtwz.jpg",
       "actress": [
-        "优娜",
+        "唐雨菲",
         "黎芷萱"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0338"

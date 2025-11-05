@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-605da060631d1.html",
   "aliases": [
     "玛丽莲",
-    "瑪麗蓮"
+    "瑪麗蓮",
+    "邱玲珑"
   ],
   "gallery": [],
   "works_count": 6,
@@ -33,8 +34,7 @@ window.actressData = {
       "publish_date": "2022-08-09",
       "cover_url": "https://fan.lefhao20250923.top/upload/vod/20210904-1/91520233cb89778e23fbb500d88d0757.jpg",
       "actress": [
-        "玛丽莲",
-        "邱玲珑"
+        "玛丽莲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0076"
     },

@@ -28,9 +28,9 @@ window.actressData = {
       "type": "无码",
       "company": "扣扣传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQCM004.jpg",
       "actress": [
-        "朵儿",
+        "梁佳芯",
         "白晰"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=QQCM004"
@@ -47,7 +47,6 @@ window.actressData = {
       "publish_date": "2024-05-19",
       "cover_url": "https://thjpg10.top/upload/vod/20241019-1/4a07cade23efcf1162bb2a75e2a158e4.jpg",
       "actress": [
-        "娃娃",
         "翁雨澄",
         "白晰"
       ],
@@ -199,7 +198,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒X爱妃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "https://img.putaozywimg.com:166/20220509/4A12A02F6DA83A22/4A12A02F6DA83A22.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/ODE-003.jpg",
       "actress": [
         "白晰"
       ],

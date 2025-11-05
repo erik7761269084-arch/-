@@ -206,7 +206,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2022-05-12",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/dxiKrF5A.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDYP-038.jpg",
       "actress": [
         "真希波"
       ],

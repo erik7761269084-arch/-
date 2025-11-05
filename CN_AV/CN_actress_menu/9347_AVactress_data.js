@@ -61,7 +61,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2022-08-09",
-      "cover_url": "https://img.caoliuzywimg.com:188/20230529/3Nzscual/1.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TM-0158.jpg",
       "actress": [
         "伊琬琳"
       ],

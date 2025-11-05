@@ -14,7 +14,10 @@ window.actressData = {
   "description": "林妙可，台湾AV女优，又有艺名灵珊。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60c5a5a5ec363.html",
-  "aliases": [],
+  "aliases": [
+    "林妙可",
+    "灵珊"
+  ],
   "gallery": [],
   "works_count": 8,
   "related_dramas": [
@@ -142,8 +145,7 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://www.jkuntp.com/upload/vod/20240114-1/48099070baad78b89a9366c966011a01.jpg",
       "actress": [
-        "林妙可",
-        "灵珊"
+        "林妙可"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8050"
     }

@@ -31,7 +31,6 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202111/19/215133fhxthvkkxk9zxwxn.jpg",
       "actress": [
         "蜜苏",
-        "苏艾文",
         "苏蜜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0130-2"

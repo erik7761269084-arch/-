@@ -16,10 +16,11 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-6006b86f2fbfe.html",
   "aliases": [
     "沈娜娜",
-    "Shen Na Na"
+    "Shen Na Na",
+    "璃奈酱"
   ],
   "gallery": [],
-  "works_count": 117,
+  "works_count": 114,
   "related_dramas": [
     {
       "id": 34210,
@@ -211,7 +212,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2024-08-02",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MDX-0234-01.jpg",
       "actress": [
         "沈娜娜"
       ],
@@ -249,22 +250,6 @@ window.actressData = {
         "娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0239-01"
-    },
-    {
-      "id": 35197,
-      "IDcode": "MDX-0236-02",
-      "title": "02青梅竹马淫乱3P",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "麻豆映画传媒",
-      "publish_date": "2024-08-02",
-      "cover_url": "https://picmeta2024.sbs/upload/vod/20220208-1/b0ccdb27c55e1a0e45f8f4cd94676f48.jpg",
-      "actress": [
-        "沈娜娜"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0236-02"
     },
     {
       "id": 35194,
@@ -365,7 +350,7 @@ window.actressData = {
     {
       "id": 27197,
       "IDcode": "MDX-0236-2",
-      "title": "青梅竹马淫乱3P",
+      "title": "02 青梅竹马淫乱3P",
       "year": "",
       "country": "",
       "genre": "",
@@ -381,7 +366,7 @@ window.actressData = {
     {
       "id": 27195,
       "IDcode": "MDX-0236-1",
-      "title": "淫荡静香的偷腥计划",
+      "title": "01 淫荡静香的偷腥计划",
       "year": "",
       "country": "",
       "genre": "",
@@ -410,22 +395,6 @@ window.actressData = {
         "沈娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0241-03"
-    },
-    {
-      "id": 25824,
-      "IDcode": "MDX-0236-01",
-      "title": "01淫荡静香的偷腥体验",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "麻豆映画传媒",
-      "publish_date": "2024-08-02",
-      "cover_url": "https://picmeta2024.sbs/upload/vod/20220207-1/ec27a41fa7c247036dcfdfae02b4305d.jpg",
-      "actress": [
-        "沈娜娜"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0236-01"
     },
     {
       "id": 25108,
@@ -474,22 +443,6 @@ window.actressData = {
         "沈娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0146"
-    },
-    {
-      "id": 18141,
-      "IDcode": "MDX-0234",
-      "title": "MDX -04 体位诱发浓烈性交之娜样的视觉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "麻豆映画传媒",
-      "publish_date": "2024-08-02",
-      "cover_url": "https://bf1.qrtuv.com/20220511/39EC784FAEB09E26/39EC784FAEB09E26.jpg",
-      "actress": [
-        "沈娜娜"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0234"
     },
     {
       "id": 16491,
@@ -573,8 +526,8 @@ window.actressData = {
       "publish_date": "2024-08-02",
       "cover_url": "https://picture.yoshiclub.xyz/20230704/a5c5ac35-1c8d-49e5-bec5-5836519d4f5d.jpg",
       "actress": [
-        "娃娃",
         "沈娜娜",
+        "翁雨澄",
         "娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0080"
@@ -799,7 +752,7 @@ window.actressData = {
       "type": "无码",
       "company": "LOVE6皇家华人",
       "publish_date": "2024-05-19",
-      "cover_url": "https://upload.xchina.io/video/642b6c0467308.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/RAS-0042.jpg",
       "actress": [
         "沈娜娜"
       ],
@@ -1193,8 +1146,7 @@ window.actressData = {
       "actress": [
         "钟宛冰",
         "蜜苏",
-        "沈娜娜",
-        "苏艾文"
+        "沈娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0140-2"
     },
@@ -1520,8 +1472,7 @@ window.actressData = {
       "actress": [
         "苏娅",
         "蜜苏",
-        "沈娜娜",
-        "苏艾文"
+        "沈娜娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0165-8"
     },

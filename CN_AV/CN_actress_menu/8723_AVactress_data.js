@@ -15,11 +15,12 @@ window.actressData = {
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60f82f3e5b6a5.html",
   "aliases": [
+    "杨柳",
     "袁子仪",
     "袁子儀"
   ],
   "gallery": [],
-  "works_count": 32,
+  "works_count": 31,
   "related_dramas": [
     {
       "id": 2758,
@@ -83,7 +84,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://tuaskbgnekr.com/20250925/S6x5IQZh/1.jpg",
       "actress": [
-        "杨柳",
         "袁子仪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-141"
@@ -100,8 +100,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://bwjpg.top/upload/vod/20250825-39/b2eac013313f15d43adfb2507261bfb8.jpg",
       "actress": [
-        "杨柳",
-        "杨柳 白晶晶",
         "白晶晶",
         "袁子仪"
       ],
@@ -119,7 +117,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://bwjpg.top/upload/vod/20250825-38/3cc8f97cfe613e52cc271b517e102181.jpg",
       "actress": [
-        "杨柳",
         "袁子仪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-128"
@@ -137,9 +134,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230730/20230730080405565565.jpg",
       "actress": [
         "何苗",
-        "杨柳",
-        "白晶晶,袁子儀,何苗",
-        "杨柳 白晶晶",
         "白晶晶",
         "袁子仪"
       ],
@@ -157,7 +151,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://bwjpg.top/upload/vod/20250825-39/bc7f11366f0a2ecd5801120d1e7d177f.jpg",
       "actress": [
-        "杨柳",
         "袁子仪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-110"
@@ -174,7 +167,6 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://imgsiwa.com:5278/cvjpg/XK4i6fgy.jpg",
       "actress": [
-        "杨柳",
         "袁子仪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-101"
@@ -223,7 +215,6 @@ window.actressData = {
       "publish_date": "2022-01-10",
       "cover_url": "https://thjpg10.top/upload/vod/20250212-1/2f80a67ff44b6e494ccacb5c64f34f5c.jpg",
       "actress": [
-        "杨柳",
         "袁子仪",
         "袁子怡"
       ],
@@ -505,7 +496,7 @@ window.actressData = {
     {
       "id": 2561,
       "IDcode": "MSD-072",
-      "title": "MSD 发小换错身",
+      "title": "发小换错身.对转换性别的你发情",
       "year": "",
       "country": "",
       "genre": "",
@@ -533,22 +524,6 @@ window.actressData = {
         "袁子仪"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MLT-002"
-    },
-    {
-      "id": 38873,
-      "IDcode": "SD-072",
-      "title": "发小换错身.对转换性别的你发情",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/x856ODft.png",
-      "actress": [
-        "袁子仪"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=SD-072"
     }
   ]
 };

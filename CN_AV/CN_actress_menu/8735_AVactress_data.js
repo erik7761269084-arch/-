@@ -85,14 +85,14 @@ window.actressData = {
     {
       "id": 14749,
       "IDcode": "FSOG-026",
-      "title": "的性福生活",
+      "title": " Cola酱的性福生活",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "扣扣传媒x91Fans",
       "publish_date": "2023-12-11",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/FSOG-026.jpg",
       "actress": [
         "cola酱"
       ],

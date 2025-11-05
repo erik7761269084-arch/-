@@ -381,7 +381,7 @@ window.actressData = {
       "type": "无码",
       "company": "91制片厂",
       "publish_date": "2023-11-09",
-      "cover_url": "https://upload.xchina.io/video/6323b9de426b1.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91YCM-007.jpg",
       "actress": [
         "金宝娜"
       ],
@@ -833,7 +833,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2022-03-31",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-045.jpg",
       "actress": [
         "金宝娜"
       ],

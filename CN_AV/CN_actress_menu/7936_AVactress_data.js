@@ -100,7 +100,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM033.jpg",
       "actress": [
         "媛媛"
       ],
@@ -116,7 +116,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM032.jpg",
       "actress": [
         "媛媛"
       ],

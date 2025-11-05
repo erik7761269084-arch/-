@@ -16,8 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 47466,
+      "IDcode": "爸气十足-EP19",
+      "title": "爸气十足EP19",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2023-05-03",
+      "cover_url": "https://bwjpg.top/upload/vod/20250825-12/ce7e7669124e6defef4bac62b0357613.jpg",
+      "actress": [
+        "中条爱莉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=爸气十足-EP19"
+    },
     {
       "id": 8691,
       "IDcode": "XKTC011",

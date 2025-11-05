@@ -338,7 +338,6 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811045325727727.jpg",
       "actress": [
         "孟若羽",
-        "苡若",
         "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PMS002-2"
@@ -744,13 +743,13 @@ window.actressData = {
       "publish_date": "2023-05-23",
       "cover_url": "https://cctv123456.com/i/g24zaly2.jpg",
       "actress": [
-        "优娜",
         "苏樱花",
         "孟若羽",
         "艾熙",
         "李蓉蓉",
         "吴梦梦",
         "夏晴子",
+        "唐雨菲",
         "优娜.蕾",
         "利尔·布莱克"
       ],
@@ -1014,7 +1013,6 @@ window.actressData = {
         "孟若羽",
         "宋南伊",
         "蜜苏",
-        "苏艾文",
         "宋南"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0335"
@@ -1032,7 +1030,7 @@ window.actressData = {
       "cover_url": "https://img.siwazywimg2.com:5278/cvjpg//B62sVpAk.jpg",
       "actress": [
         "孟若羽",
-        "苡若",
+        "雷梦娜",
         "若羽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0342"
@@ -1565,7 +1563,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-159.jpg",
       "actress": [
         "孟若羽"
       ],
@@ -1581,7 +1579,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-158.jpg",
       "actress": [
         "孟若羽"
       ],
@@ -1645,7 +1643,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "https://img1.128100.xyz/upload/2022/06/13/uixejjcmaryoggclgmllz0gfftzlukcj.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-161.jpg",
       "actress": [
         "孟若羽"
       ],

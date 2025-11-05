@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆映画传媒x绝对领域",
       "publish_date": "2022-11-03",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20241224-1/68bcbd8cfcdf645563871965f4518da7.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/LY-062.jpg",
       "actress": [
         "阿宁"
       ],

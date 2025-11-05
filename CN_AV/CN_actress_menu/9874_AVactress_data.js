@@ -108,7 +108,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-168.jpg",
       "actress": [
         "张宇芯"
       ],
@@ -140,7 +140,7 @@ window.actressData = {
       "type": "无码",
       "company": "蜜桃传媒",
       "publish_date": "2022-01-10",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/PMC-166.jpg",
       "actress": [
         "张宇芯"
       ],

@@ -31,7 +31,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://upload.xchina.io/video/676e51e225cf1.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA069.jpg",
       "actress": [
         "愷愷"
       ],
@@ -47,7 +47,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/66509426b8cbf.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV011.jpg",
       "actress": [
         "愷愷"
       ],
@@ -63,7 +63,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/66687f7d1be2a.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV010.jpg",
       "actress": [
         "愷愷"
       ],

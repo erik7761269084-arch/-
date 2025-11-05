@@ -14,10 +14,29 @@ window.actressData = {
   "description": "穆娜，台湾AV女优，又有艺名沈茹雪。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60b11528cf74e.html",
-  "aliases": [],
+  "aliases": [
+    "沈茹雪",
+    "穆娜"
+  ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 23622,
+      "IDcode": "TM-0096",
+      "title": "卖身救夫少妇律师 一夜50万",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "天美传媒",
+      "publish_date": "2022-08-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818021122276276.jpg",
+      "actress": [
+        "穆娜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0096"
+    },
     {
       "id": 23798,
       "IDcode": "XK-8040",
@@ -30,8 +49,7 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://picture.yoshiclub.xyz/20230824/20230824081813359359.jpg",
       "actress": [
-        "穆娜",
-        "沈茹雪"
+        "穆娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8040"
     },
@@ -47,8 +65,7 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20210529-1/be502dfa815752b0cd0801b4a580c9e0.jpg",
       "actress": [
-        "穆娜",
-        "沈茹雪"
+        "穆娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8027"
     },

@@ -30,8 +30,8 @@ window.actressData = {
       "publish_date": "2023-08-29",
       "cover_url": "https://picture.yoshiclub.xyz/20230810/20230810004352132132.jpg",
       "actress": [
-        "鍾麗淇",
-        "氖氖"
+        "钟丽琪",
+        "鍾麗淇"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=PM-015"
     },

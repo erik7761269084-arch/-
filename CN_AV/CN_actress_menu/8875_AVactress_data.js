@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-601077c74d6d5.html",
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 24972,
@@ -82,22 +82,6 @@ window.actressData = {
         "欧美玲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0024"
-    },
-    {
-      "id": 46546,
-      "IDcode": "P0001",
-      "title": "风骚少妇美少妇勾引管家",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "欧美玲"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=P0001"
     }
   ]
 };

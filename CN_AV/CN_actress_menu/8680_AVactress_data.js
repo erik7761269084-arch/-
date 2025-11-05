@@ -607,6 +607,23 @@ window.actressData = {
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ11-EP4-AV篇"
     },
     {
+      "id": 2826,
+      "IDcode": "MTVQ24-EP2",
+      "title": "AV没台词 开学荒淫健检EP2 指诊教师骚穴潮吹停不下",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2023-10-17",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20230925-1/b9298f957f4fc00ec7aa529c876106d4.jpg",
+      "actress": [
+        "夏晴子",
+        "夏睛子"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ24-EP2"
+    },
+    {
       "id": 2812,
       "IDcode": "MTVQ21-EP1-2",
       "title": "新春感谢祭.插入即缩紧后入嫩美尻",
@@ -961,13 +978,13 @@ window.actressData = {
       "publish_date": "2023-05-23",
       "cover_url": "https://cctv123456.com/i/g24zaly2.jpg",
       "actress": [
-        "优娜",
         "苏樱花",
         "孟若羽",
         "艾熙",
         "李蓉蓉",
         "吴梦梦",
         "夏晴子",
+        "唐雨菲",
         "优娜.蕾",
         "利尔·布莱克"
       ],
@@ -1022,8 +1039,8 @@ window.actressData = {
       "cover_url": "https://bwjpg.top/upload/vod/20250904-1/34ac885e49a12f325426d545b98a0835.png",
       "actress": [
         "季妍希",
-        "潘雨曦",
-        "夏晴子"
+        "夏晴子",
+        "白熙雨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDL-0004"
     },
@@ -1135,7 +1152,7 @@ window.actressData = {
       "type": "无码",
       "company": "维秘传媒",
       "publish_date": "2023-02-02",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20230411-16/cd1f32911b154b21310a26b21a2d17bb.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MKY-WM-005.jpg",
       "actress": [
         "夏晴子"
       ],
@@ -1838,8 +1855,8 @@ window.actressData = {
       "publish_date": "2022-12-07",
       "cover_url": "https://bwjpg.top/upload/vod/20250911-1/a55e62cd03cee00508e16f58283ff4ab.png",
       "actress": [
-        "优娜",
-        "夏晴子"
+        "夏晴子",
+        "唐雨菲"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0220"
     },
@@ -2237,7 +2254,7 @@ window.actressData = {
     },
     {
       "id": 47440,
-      "IDcode": "淫欲游戏王-EP2-节目篇",
+      "IDcode": "MTVQ3-EP2-节目篇",
       "title": "淫欲游戏王 EP2 节目篇 淫荡女神的吹咬舔吸",
       "year": "",
       "country": "",
@@ -2250,7 +2267,7 @@ window.actressData = {
         "夏晴子",
         "夏语芯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP2-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP2-节目篇"
     },
     {
       "id": 40556,
@@ -2351,22 +2368,6 @@ window.actressData = {
         "夏晴子"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=情趣大富翁-EP1"
-    },
-    {
-      "id": 31985,
-      "IDcode": "CUS-1938",
-      "title": "av没台词 开学荒淫健检ep2 指诊教师骚穴潮吹停不下",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241107-1/3bad172004d5aa48709f9f66cfb30e31.jpg",
-      "actress": [
-        "夏晴子"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-1938"
     },
     {
       "id": 31782,
@@ -2517,7 +2518,7 @@ window.actressData = {
     },
     {
       "id": 27170,
-      "IDcode": "淫欲游戏王-EP2-性爱篇",
+      "IDcode": "MTVQ3-EP2-性爱篇",
       "title": "淫欲游戏王 EP2 性爱篇 股进你的穴失败女神的沦为性奴接受惩罚",
       "year": "",
       "country": "",
@@ -2525,12 +2526,12 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MTVQ3-EP2-性爱篇.jpg",
       "actress": [
         "夏晴子",
         "夏语芯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP2-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP2-性爱篇"
     },
     {
       "id": 25927,

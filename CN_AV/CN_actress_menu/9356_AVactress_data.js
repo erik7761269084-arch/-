@@ -48,8 +48,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20240113-1/0077fcc0774f0e3003d336ea48102585.jpg",
       "actress": [
         "卢珊珊",
-        "小芳",
-        "桃依依"
+        "小芳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8057"
     },

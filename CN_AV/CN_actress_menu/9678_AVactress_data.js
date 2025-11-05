@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 10,
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 31613,
@@ -38,107 +38,60 @@ window.actressData = {
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDX-0110-EP3-AV篇"
     },
     {
-      "id": 47537,
-      "IDcode": "足球宝贝EP3-节目篇",
-      "title": "足球宝贝EP3】节目篇_阴道刺激的射门战",
+      "id": 47528,
+      "IDcode": "TZ-018-AV篇",
+      "title": "足球宝贝-EP1-AV篇 浴室勾引乱入3P  ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://bwjpg.top/upload/vod/20250906-1/bef33d54fbea15842fd7bc4ae91c2302.png",
+      "company": "大象传媒",
+      "publish_date": "2024-02-17",
+      "cover_url": "https://bwjpg.top/upload/vod/20251016-1/21ea1d58a5f3e5b3f6f74f84440f293a.png",
       "actress": [
         "明日香",
         "池田奈美",
         "西村莉娜",
-        "A天使爱"
+        "A天使爱",
+        "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝EP3-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-018-AV篇"
     },
     {
-      "id": 31619,
-      "IDcode": "CUS-207",
-      "title": "足球宝贝ep1 节目篇 黄牌警告 指尖高潮",
+      "id": 47527,
+      "IDcode": "TZ-018-节目篇",
+      "title": "足球宝贝-EP1-节目篇 黄牌警告指尖高潮",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/6cd7057751c68e0397e03c45cd43192d.jpg",
+      "cover_url": "https://bwjpg.top/upload/vod/20251016-1/11f60071cfe45a21873ca531442c1c5f.png",
       "actress": [
         "池田奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-207"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-018-节目篇"
     },
     {
-      "id": 31618,
-      "IDcode": "CUS-206",
-      "title": "足球宝贝ep1 av篇 浴室勾引 乱入3p",
+      "id": 30628,
+      "IDcode": "TZ-019-节目篇",
+      "title": "足球宝贝-EP2-节目篇",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241015-1/b07922543124a5af646523ec30057df9.jpg",
+      "cover_url": "https://da.da15525716.com/upload/vod/20250117-1/3096f2a8dd01b64682dbfb7174448980.jpg",
       "actress": [
         "池田奈美"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-206"
-    },
-    {
-      "id": 31616,
-      "IDcode": "CUS-199",
-      "title": "足球宝贝ep2 节目篇 射门性爱pk战",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/2f95392c4d88de1dea32ecaa4f0ab90c.jpg",
-      "actress": [
-        "池田奈美"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-199"
-    },
-    {
-      "id": 31615,
-      "IDcode": "CUS-198",
-      "title": "足球宝贝ep2 av篇 下腹高潮的女女交欢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/28086752e6562fc111de8a4f5617a347.jpg",
-      "actress": [
-        "池田奈美"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-198"
-    },
-    {
-      "id": 31614,
-      "IDcode": "CUS-192",
-      "title": "足球宝贝ep3 节目篇 阴道刺激的射门战",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241014-1/91f9c58db443620197904b21939d5588.jpg",
-      "actress": [
-        "池田奈美"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-192"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-019-节目篇"
     },
     {
       "id": 27099,
-      "IDcode": "足球宝贝-EP03",
+      "IDcode": "足球宝贝-EP03-AV篇",
       "title": "AV篇_A.足球尤物诱惑性爱",
       "year": "",
       "country": "",
@@ -153,32 +106,31 @@ window.actressData = {
         "西村莉娜",
         "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03-AV篇"
     },
     {
-      "id": 27096,
-      "IDcode": "足球宝贝-EP01",
-      "title": "兔子先生 节目篇",
+      "id": 25913,
+      "IDcode": "足球宝贝-EP03-节目篇",
+      "title": "节目篇-兔子先生",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/PZbaYJlg.jpg",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230408-1/3ea10e5a7daf7236534422f885200fac.png",
       "actress": [
         "明日香",
         "池田奈美",
         "西村莉娜",
-        "A天使爱",
-        "天使爱"
+        "A天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP01"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP03-节目篇"
     },
     {
       "id": 25517,
-      "IDcode": "足球宝贝-EP02",
-      "title": "全网独播】下腹高潮的交欢",
+      "IDcode": "TZ-019-AV篇",
+      "title": "足球宝贝-EP2-AV篇下腹高潮的交欢",
       "year": "",
       "country": "",
       "genre": "",
@@ -195,7 +147,7 @@ window.actressData = {
         "田奈美",
         "天使爱"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=足球宝贝-EP02"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-019-AV篇"
     }
   ]
 };

@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "扣扣传媒",
       "publish_date": "2025-05-08",
-      "cover_url": "https://upload.xchina.io/video/646c8e8bc12b0.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQCM010.jpg",
       "actress": [
         "茉莉"
       ],

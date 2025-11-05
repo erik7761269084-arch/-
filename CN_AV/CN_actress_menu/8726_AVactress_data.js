@@ -60,7 +60,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-08-19",
-      "cover_url": "https://upload.xchina.io/video/633ed8111ec19.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-077.jpg",
       "actress": [
         "绫波丽"
       ],
@@ -113,6 +113,23 @@ window.actressData = {
         "绫波丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-058"
+    },
+    {
+      "id": 3245,
+      "IDcode": "TZ-039",
+      "title": "兔子先生当初恋已成人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "麻豆传媒",
+      "publish_date": "2023-08-19",
+      "cover_url": "https://da.da15525716.com/upload/vod/20250125-1/b83442fc9aad038f184a862b9cddf754.jpg",
+      "actress": [
+        "凌波丽",
+        "绫波丽"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-039"
     },
     {
       "id": 3238,
@@ -261,22 +278,6 @@ window.actressData = {
         "绫波丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=兔子先生监制酒醉姐姐捡回家-EP3"
-    },
-    {
-      "id": 22653,
-      "IDcode": "CUS-003",
-      "title": "当初恋已成人妻",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "绫波丽"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-003"
     }
   ]
 };

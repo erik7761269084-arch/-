@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "扣扣传媒",
       "publish_date": "2022-10-03",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/QQOG-023.jpg",
       "actress": [
         "冉冉学姐"
       ],

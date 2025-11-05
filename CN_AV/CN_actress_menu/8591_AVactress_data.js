@@ -347,14 +347,14 @@ window.actressData = {
     {
       "id": 14560,
       "IDcode": "AV171",
-      "title": "绝顶黑皮后感",
+      "title": "绝顶黑皮后感 街边肉欲黑皮被玩到后悔求饶",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV171.jpg",
       "actress": [
         "素人"
       ],
@@ -370,7 +370,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2024-02-17",
-      "cover_url": "https://upload.xchina.io/video/665ee8b48efe8.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/AV003.jpg",
       "actress": [
         "素人"
       ],
@@ -827,8 +827,7 @@ window.actressData = {
       "cover_url": "https://www.jkuntp.com/upload/vod/20231123-11/cefc0049a36ffd367233f93253ea1a0f.jpg",
       "actress": [
         "素人",
-        "蜜苏",
-        "苏艾文"
+        "蜜苏"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0161"
     },
@@ -948,8 +947,8 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230415/92b5928a-73e2-4a22-93b7-6c28714c7184.jpg",
       "actress": [
         "素人",
-        "姜潔",
-        "白佳萱"
+        "梁芸菲",
+        "姜潔"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MD-0091"
     },
@@ -1427,8 +1426,8 @@ window.actressData = {
       "publish_date": "2021-10-06",
       "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806045841577577.jpg",
       "actress": [
-        "乐乐",
-        "素人"
+        "素人",
+        "林洋"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD063"
     },

@@ -14,9 +14,12 @@ window.actressData = {
   "description": "余丽，台湾AV女优，又有艺名克莱尔、许月珍。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-620019ab2f3d5.html",
-  "aliases": [],
+  "aliases": [
+    "余丽",
+    "克莱尔"
+  ],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 39587,
@@ -99,6 +102,57 @@ window.actressData = {
         "余丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-225"
+    },
+    {
+      "id": 12146,
+      "IDcode": "JD070",
+      "title": "万万没想到之白蛇传",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "精东影业",
+      "publish_date": "2021-10-06",
+      "cover_url": "https://picmeta2024.sbs/upload/vod/20211002-1/47389c620101f6f460d3caec9661ff21.jpg",
+      "actress": [
+        "克莱儿",
+        "余丽"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD070"
+    },
+    {
+      "id": 12123,
+      "IDcode": "JD047",
+      "title": "我的老师为何这么好看",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "精东影业",
+      "publish_date": "2021-10-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806011241415415.jpg",
+      "actress": [
+        "克莱儿",
+        "余丽"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD047"
+    },
+    {
+      "id": 12120,
+      "IDcode": "JD044",
+      "title": "诱惑ID1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "精东影业",
+      "publish_date": "2021-10-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20230806/20230806004306633633.jpg",
+      "actress": [
+        "克莱儿",
+        "余丽"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=JD044"
     }
   ]
 };

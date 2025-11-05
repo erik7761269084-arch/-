@@ -350,7 +350,7 @@ window.actressData = {
       "publish_date": "2021-03-21",
       "cover_url": "https://thjpg10.top/upload/vod/20250716-1/12d73f8cbd5eae720c42cbd8e78eb0bc.png",
       "actress": [
-        "佳芯",
+        "梁佳芯",
         "晨晨"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=XK-8147"

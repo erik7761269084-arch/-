@@ -30,7 +30,7 @@ window.actressData = {
       "publish_date": "2021-10-06",
       "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
       "actress": [
-        "七七",
+        "陆雪琪",
         "苏小小",
         "雪卉",
         "雪见",

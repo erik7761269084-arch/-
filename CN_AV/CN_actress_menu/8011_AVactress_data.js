@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2022-05-12",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDYP-031.jpg",
       "actress": [
         "竹下麻衣"
       ],

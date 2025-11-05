@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2022-05-12",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDYP-013.jpg",
       "actress": [
         "奈奈"
       ],
@@ -131,7 +131,7 @@ window.actressData = {
       "cover_url": "https://da.da15525716.com/20241123/wPDb9IgQ/1.jpg",
       "actress": [
         "奈奈",
-        "苡若"
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=DX-011"
     }

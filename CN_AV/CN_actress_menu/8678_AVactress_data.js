@@ -20,7 +20,7 @@ window.actressData = {
     "蘇語棠"
   ],
   "gallery": [],
-  "works_count": 95,
+  "works_count": 94,
   "related_dramas": [
     {
       "id": 14602,
@@ -577,7 +577,7 @@ window.actressData = {
     {
       "id": 2828,
       "IDcode": "MTVQ24-EP4",
-      "title": "AV没台词开学荒淫健检EP4 巨乳校长榨干学生精液",
+      "title": "AV没台词 开学荒淫健检EP4 巨乳校长榨干学生精液",
       "year": "",
       "country": "",
       "genre": "",
@@ -1402,22 +1402,6 @@ window.actressData = {
         "苏语棠"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVSQ1-EP07-节目篇"
-    },
-    {
-      "id": 31986,
-      "IDcode": "CUS-1950",
-      "title": "av没台词 开学荒淫健检ep4 巨乳校长榨干学生精液",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "",
-      "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/8a576bd972f90dedb867c41543d77b6c.jpg",
-      "actress": [
-        "苏语棠"
-      ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-1950"
     },
     {
       "id": 30596,

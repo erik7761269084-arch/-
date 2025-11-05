@@ -20,7 +20,7 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 47440,
-      "IDcode": "淫欲游戏王-EP2-节目篇",
+      "IDcode": "MTVQ3-EP2-节目篇",
       "title": "淫欲游戏王 EP2 节目篇 淫荡女神的吹咬舔吸",
       "year": "",
       "country": "",
@@ -33,11 +33,11 @@ window.actressData = {
         "夏晴子",
         "夏语芯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP2-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP2-节目篇"
     },
     {
       "id": 27170,
-      "IDcode": "淫欲游戏王-EP2-性爱篇",
+      "IDcode": "MTVQ3-EP2-性爱篇",
       "title": "淫欲游戏王 EP2 性爱篇 股进你的穴失败女神的沦为性奴接受惩罚",
       "year": "",
       "country": "",
@@ -45,12 +45,12 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MTVQ3-EP2-性爱篇.jpg",
       "actress": [
         "夏晴子",
         "夏语芯"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP2-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP2-性爱篇"
     }
   ]
 };

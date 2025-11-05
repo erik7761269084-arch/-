@@ -174,9 +174,9 @@ window.actressData = {
       "publish_date": "2025-07-08",
       "cover_url": "https://picmeta2024.sbs/upload/vod/20220403-1/4090775d228b2d69062de215ad397763.jpg",
       "actress": [
+        "乐奈子",
         "夜夜",
         "尤莉",
-        "乐淆雪",
         "徐夜夜",
         "尤莉乐",
         "淆雪"

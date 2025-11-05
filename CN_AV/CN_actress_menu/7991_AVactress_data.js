@@ -45,7 +45,7 @@ window.actressData = {
       "type": "无码",
       "company": "星空无限传媒",
       "publish_date": "2023-09-21",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XKG039.jpg",
       "actress": [
         "冬月结衣"
       ],
@@ -93,7 +93,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2022-05-12",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JDYP-039.jpg",
       "actress": [
         "冬月结衣"
       ],

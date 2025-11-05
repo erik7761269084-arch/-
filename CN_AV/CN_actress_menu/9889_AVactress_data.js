@@ -46,8 +46,8 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://le.lefhao20250923.top//20241109/tqQqrZbp/1.jpg",
       "actress": [
-        "娇娇",
-        "白娇娇"
+        "苏小小",
+        "娇娇"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-030"
     }

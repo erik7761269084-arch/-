@@ -49,7 +49,7 @@ window.actressData = {
       "publish_date": "2021-10-06",
       "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
       "actress": [
-        "七七",
+        "陆雪琪",
         "苏小小",
         "雪卉",
         "雪见",
@@ -183,7 +183,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/ypaMVWut.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD005.jpg",
       "actress": [
         "雪见"
       ],

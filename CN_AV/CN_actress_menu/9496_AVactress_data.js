@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 23026,
       "IDcode": "MD-0019",
-      "title": "近亲相奸",
+      "title": "兄妹乱伦.变态宅男的哥哥.性欲高涨的妹妹.同居性爱生活.",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "麻豆映画传媒",
       "publish_date": "2022-12-07",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/Ocp64bUd.png",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MD-0019.jpg",
       "actress": [
         "欧阳晶"
       ],

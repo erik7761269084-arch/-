@@ -64,7 +64,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://upload.xchina.io/video/6760765248020.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA061.jpg",
       "actress": [
         "米歐"
       ],
@@ -389,8 +389,8 @@ window.actressData = {
       "cover_url": "https://tutu1.space/images/2025/08/08/7e9f650c809a9a4c25a13353eb50fd21.jpg",
       "actress": [
         "米歐",
-        "苡若",
-        "苏畅"
+        "苏畅",
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDSR-0010-2"
     },
@@ -407,8 +407,8 @@ window.actressData = {
       "cover_url": "https://tutu1.space/images/2025/07/26/9413ed5104cf71485d7ca8c42203b6c7.jpg",
       "actress": [
         "米歐",
-        "苡若",
-        "苏畅"
+        "苏畅",
+        "雷梦娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MDSR-0010-1"
     },
@@ -582,7 +582,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "https://upload.xchina.io/video/6622b2046041d.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM066.jpg",
       "actress": [
         "米歐",
         "言嘉佑"
@@ -828,8 +828,8 @@ window.actressData = {
       "publish_date": "",
       "cover_url": "https://bwjpg.top/upload/vod/20250916-1/510b51d941fd196c398f8dd3b4492875.png",
       "actress": [
-        "RONA",
-        "米歐"
+        "米歐",
+        "黎娜"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=CUS-2161"
     },

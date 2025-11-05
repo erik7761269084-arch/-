@@ -44,7 +44,7 @@ window.actressData = {
       "type": "无码",
       "company": "星空无限传媒",
       "publish_date": "2021-03-21",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/XK-8028.jpg",
       "actress": [
         "孙欣欣"
       ],

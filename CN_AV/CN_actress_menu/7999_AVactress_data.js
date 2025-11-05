@@ -175,7 +175,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-08-19",
-      "cover_url": "https://upload.xchina.io/video/64375680d743e.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-102.jpg",
       "actress": [
         "凌波丽"
       ],
@@ -191,7 +191,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2023-08-19",
-      "cover_url": "https://upload.xchina.io/video/637889fc801d7.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TZ-082.jpg",
       "actress": [
         "凌波丽"
       ],
@@ -209,7 +209,8 @@ window.actressData = {
       "publish_date": "2023-08-19",
       "cover_url": "https://da.da15525716.com/upload/vod/20250125-1/b83442fc9aad038f184a862b9cddf754.jpg",
       "actress": [
-        "凌波丽"
+        "凌波丽",
+        "绫波丽"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TZ-039"
     },

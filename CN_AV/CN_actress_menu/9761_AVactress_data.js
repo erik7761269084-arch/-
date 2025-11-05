@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "https://upload.xchina.io/video/65b41c6c8bef3.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM062.jpg",
       "actress": [
         "季梦"
       ],

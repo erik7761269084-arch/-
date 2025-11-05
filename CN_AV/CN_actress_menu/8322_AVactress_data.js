@@ -28,7 +28,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "2023-01-29",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250822-1/35d7daaca5ce9d47077559c9928eb404.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/GDCM034.jpg",
       "actress": [
         "李蕊"
       ],

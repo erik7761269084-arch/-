@@ -15,11 +15,12 @@ window.actressData = {
   "features": [],
   "detail_url": "https://xchina.fit/model/id-601fbcb916abc.html",
   "aliases": [
+    "白娇娇",
     "苏小小",
     "蘇小小"
   ],
   "gallery": [],
-  "works_count": 16,
+  "works_count": 17,
   "related_dramas": [
     {
       "id": 23586,
@@ -37,6 +38,23 @@ window.actressData = {
         "苏小小"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0058"
+    },
+    {
+      "id": 10968,
+      "IDcode": "91CM-030",
+      "title": "身体抵房租",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "果冻传媒",
+      "publish_date": "2022-08-01",
+      "cover_url": "https://le.lefhao20250923.top//20241109/tqQqrZbp/1.jpg",
+      "actress": [
+        "苏小小",
+        "娇娇"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-030"
     },
     {
       "id": 12195,
@@ -82,7 +100,7 @@ window.actressData = {
       "publish_date": "2021-10-06",
       "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805084656391391.jpg",
       "actress": [
-        "七七",
+        "陆雪琪",
         "苏小小",
         "雪卉",
         "雪见",
@@ -251,7 +269,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "https://da.da15525716.com/upload/vod/20210920-1/027a51d23ada70f9e5461c21e5818a6e.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD008.jpg",
       "actress": [
         "苏小小"
       ],
@@ -267,7 +285,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "https://imgsiwa.com:5278/cvjpg/UcKxiwj9.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD003.jpg",
       "actress": [
         "苏小小"
       ],
@@ -283,7 +301,7 @@ window.actressData = {
       "type": "无码",
       "company": "精东影业",
       "publish_date": "2021-10-06",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/JD001.jpg",
       "actress": [
         "苏小小"
       ],

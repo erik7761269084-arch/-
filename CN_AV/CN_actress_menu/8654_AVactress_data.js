@@ -404,7 +404,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2024-08-28",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MM-103.jpg",
       "actress": [
         "吴梦梦"
       ],
@@ -983,7 +983,7 @@ window.actressData = {
       "type": "无码",
       "company": "麻豆传媒",
       "publish_date": "2024-08-28",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MM-040.jpg",
       "actress": [
         "吴梦梦"
       ],
@@ -1097,13 +1097,13 @@ window.actressData = {
       "publish_date": "2023-05-23",
       "cover_url": "https://cctv123456.com/i/g24zaly2.jpg",
       "actress": [
-        "优娜",
         "苏樱花",
         "孟若羽",
         "艾熙",
         "李蓉蓉",
         "吴梦梦",
         "夏晴子",
+        "唐雨菲",
         "优娜.蕾",
         "利尔·布莱克"
       ],

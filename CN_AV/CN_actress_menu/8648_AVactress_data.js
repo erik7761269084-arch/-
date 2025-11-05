@@ -17,7 +17,8 @@ window.actressData = {
   "aliases": [
     "Xiang Zi Ning",
     "项子宁",
-    "项子甯"
+    "项子甯",
+    "波尼"
   ],
   "gallery": [],
   "works_count": 11,

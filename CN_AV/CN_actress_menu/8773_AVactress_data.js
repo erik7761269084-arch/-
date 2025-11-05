@@ -14,7 +14,11 @@ window.actressData = {
   "description": "郭童童，台湾AV女优，又有艺名鱼幼微、邓宝莲。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-60e6a759c6253.html",
-  "aliases": [],
+  "aliases": [
+    "郭童童",
+    "鱼幼微",
+    "邓宝莲"
+  ],
   "gallery": [],
   "works_count": 15,
   "related_dramas": [
@@ -230,7 +234,7 @@ window.actressData = {
     },
     {
       "id": 35261,
-      "IDcode": "淫欲游戏王-EP6-节目篇",
+      "IDcode": "MTVQ3-EP6-节目篇",
       "title": "淫欲游戏王 EP6 节目篇 情欲射龙王节目篇.又舔又爱抚的羞羞惩罚",
       "year": "",
       "country": "",
@@ -238,16 +242,16 @@ window.actressData = {
       "type": "无码",
       "company": "",
       "publish_date": "",
-      "cover_url": "http://tu5.taohuaimg.com/images/2022/02/19/c045275e130620f8e97ef9254471098c.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/MTVQ3-EP6-节目篇.jpg",
       "actress": [
         "郭童童",
         "李娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP6-节目篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP6-节目篇"
     },
     {
       "id": 35260,
-      "IDcode": "淫欲游戏王-EP6-性爱篇",
+      "IDcode": "MTVQ3-EP6-性爱篇",
       "title": "淫欲游戏王 EP6 性爱篇 情欲射龙王.双英战龙根3P混战",
       "year": "",
       "country": "",
@@ -260,7 +264,7 @@ window.actressData = {
         "郭童童",
         "李娜"
       ],
-      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=淫欲游戏王-EP6-性爱篇"
+      "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ3-EP6-性爱篇"
     }
   ]
 };

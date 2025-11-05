@@ -159,7 +159,7 @@ window.actressData = {
       "type": "无码",
       "company": "天美传媒",
       "publish_date": "2022-03-31",
-      "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250714-1/8b684011263d9a181f1cc40bf0098e9c.jpg",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/TMG-004.jpg",
       "actress": [
         "蕭悅兒"
       ],

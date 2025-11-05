@@ -14,7 +14,11 @@ window.actressData = {
   "description": "香菱，台湾AV女优，又有艺名范可可、海棠。",
   "features": [],
   "detail_url": "https://xchina.fit/model/id-61eaeaea9c54f.html",
-  "aliases": [],
+  "aliases": [
+    "范可可",
+    "香菱",
+    "海棠"
+  ],
   "gallery": [],
   "works_count": 61,
   "related_dramas": [
@@ -691,8 +695,7 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "http://pic1.thzpic.com/forum/202205/04/152827jvzvvtagvvvv1zkb.jpg",
       "actress": [
-        "香菱",
-        "范可可"
+        "香菱"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CMX-001"
     },
@@ -709,8 +712,7 @@ window.actressData = {
       "cover_url": "http://pic1.thzpic.com/forum/202201/15/122233bc0txlexnndxncl0.jpg",
       "actress": [
         "可可",
-        "香菱",
-        "范可可"
+        "香菱"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-224"
     },

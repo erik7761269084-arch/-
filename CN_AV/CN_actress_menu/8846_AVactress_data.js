@@ -16,7 +16,8 @@ window.actressData = {
   "detail_url": "https://xchina.fit/model/id-6029226048e23.html",
   "aliases": [
     "聂小倩",
-    "聶小倩"
+    "聶小倩",
+    "李瀟瀟"
   ],
   "gallery": [],
   "works_count": 11,
@@ -149,7 +150,7 @@ window.actressData = {
       "publish_date": "2022-08-01",
       "cover_url": "https://le.lefhao20250923.top//20241109/76YTfRdA/1.jpg",
       "actress": [
-        "娃娃",
+        "翁雨澄",
         "聂小倩"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=91CM-046"
@@ -185,7 +186,6 @@ window.actressData = {
       "cover_url": "https://jpgjingpinx1.top/upload/vod/20250804-1/28d2941dd9100b27effb04885ca04972.png",
       "actress": [
         "聂小倩",
-        "杜鵑",
         "裹小倩",
         "杜娟"
       ],

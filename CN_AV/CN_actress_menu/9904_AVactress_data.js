@@ -30,7 +30,6 @@ window.actressData = {
       "publish_date": "2022-01-10",
       "cover_url": "https://thjpg10.top/upload/vod/20250212-1/2f80a67ff44b6e494ccacb5c64f34f5c.jpg",
       "actress": [
-        "杨柳",
         "袁子仪",
         "袁子怡"
       ],

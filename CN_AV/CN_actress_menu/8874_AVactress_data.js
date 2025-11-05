@@ -34,8 +34,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230819/20230819003627192192.jpg",
       "actress": [
         "沙美辰",
-        "赵雅琳",
-        "童汐"
+        "赵雅琳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0122"
     },
@@ -52,8 +51,7 @@ window.actressData = {
       "cover_url": "https://picture.yoshiclub.xyz/20230818/20230818224358253253.jpg",
       "actress": [
         "沙美辰",
-        "赵雅琳",
-        "童汐"
+        "赵雅琳"
       ],
       "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=TM-0118"
     },

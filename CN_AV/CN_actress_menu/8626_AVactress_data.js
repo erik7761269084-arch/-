@@ -31,7 +31,7 @@ window.actressData = {
       "type": "无码",
       "company": "大象传媒",
       "publish_date": "2025-10-03",
-      "cover_url": "https://upload.xchina.io/video/67d5f77373a47.webp",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/DA072.jpg",
       "actress": [
         "邓紫晴"
       ],

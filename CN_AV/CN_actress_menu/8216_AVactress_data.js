@@ -108,7 +108,7 @@ window.actressData = {
       "type": "无码",
       "company": "果冻传媒",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/cover_url/91PCM-009.webp",
       "actress": [
         "岚可彤",
         "温芮欣"
