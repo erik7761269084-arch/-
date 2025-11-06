@@ -34,6 +34,18 @@ body::before {
   z-index: -1;
 }
 
+/* ✅ header 占位高度 */
+#header-placeholder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+body > .container {
+  margin-top: 70px;
+}
+
 .container {
     display: flex;
     max-width: 1800px;
@@ -97,7 +109,6 @@ body::before {
   display: flex;
   flex-direction: column;
   gap: 15px;
-  /* 隐藏边框/背景/阴影 */
   background: none !important;
   box-shadow: none !important;
   border: none !important;
@@ -142,11 +153,7 @@ body::before {
 
 /* ✅ 视频下方信息栏 */
 .down-panel {
-  position: relative;
-  bottom: auto;
-  left: auto;
-  width:  97%;
-  /* 隐藏背景和边框 */
+  width: 97%;
   background: none !important;
   box-shadow: none !important;
   border: none !important;
@@ -187,6 +194,7 @@ body::before {
     background-color: #007bff;
     color: #fff;
 }
+
 /* ✅ details 框隐藏背景/边框 */
 .details {
   background: none !important;
@@ -213,6 +221,10 @@ body::before {
 </head>
 
 <body>
+
+<!-- ✅ 顶部 header 插入区 -->
+<div id="header-placeholder"></div>
+
 <div class="container">
     <div class="left-panel">
         <div class="video-wrapper">
@@ -222,8 +234,6 @@ body::before {
 
         <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
-<!--            <div class="playlist" id="playlist"></div>-->
-<!--            <p><strong> </strong> <span id="category"></span></p>-->
             <div class="playlist-container" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
                 <div class="playlist" id="playlist"></div>
                 <p style="margin:0;"><strong></strong> <span id="category"></span></p>
@@ -234,16 +244,22 @@ body::before {
             <p><strong>出品厂商:</strong> <span id="company"></span></p>
             <p><strong>发片日期:</strong> <span id="publish_date"></span></p>
             <p><strong>剧情介绍:</strong> <span id="description"></span></p>
+
+<h2 style="font-weight:bold; text-align:center; margin:20px 0;">
+  <a href="https://t.me/TT_Japanchihan" target="_blank" style="color:#ffa500; text-decoration:none;">
+    加入官方电报群 | 解锁更多片
+  </a>
+</h2>
+
+
+
         </div>
     </div>
 
     <div class="right-panel">
-
         <div class="details">
             <p><strong>广告位:</strong> <span class="ad-text">等待招商</span></p>
         </div>
-
-        <!-- ✅ 新增女优卡片展示区域 -->
         <div class="details">
             <p><strong>出演女优:</strong></p>
             <div class="actress-grid" id="actressGrid"></div>
@@ -251,6 +267,41 @@ body::before {
     </div>
 </div>
 
+<script>
+/* ========== 加载顶部 header.html + header.js ========== */
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // ✅ 动态加载 header.js
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-player');
+    };
+    document.body.appendChild(script);
+  })
+  .catch(err => console.error('加载 header 失败:', err));
+  
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
+  .then(r => r.text())
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
+  .catch(e => console.warn('无法加载 footer.html:', e));
+</script>
+
+<!-- ✅ 播放逻辑 -->
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
@@ -267,18 +318,18 @@ let hls = null;
 
 function getSeriesName() {
     const params = new URLSearchParams(window.location.search);
-    return params.get('series') || '1';
+    return params.get('series') || 'test';
 }
 
 function loadSeriesData(seriesName) {
-    const dataUrl = `https://erik7761269084-arch.github.io/-/JAV/AVmenu/${seriesName}_data.json`;
+	const dataUrl = `${window.location.origin}/CN_AV/menu/${seriesName}_data.json`;
     fetch(dataUrl)
     .then(res => { if(!res.ok) throw new Error("加载失败"); return res.json(); })
     .then(data => {
         window.episodes = data.episodes;
         window.seriesInfo = data.seriesInfo;
-        if(seriesInfo.background_img){
-            document.body.style.setProperty('--bg-url', `url('${seriesInfo.background_img}')`);
+        if(seriesInfo.cover_url){
+            document.body.style.setProperty('--bg-url', `url('${seriesInfo.cover_url}')`);
         }
         initPlayer();
     })
@@ -320,26 +371,21 @@ function initPlayer() {
 
 function loadEpisode(name,url,btn){
     if(!url) return;
-
-    // 销毁旧 hls
     if(hls){ hls.destroy(); hls=null; }
 
     overlay.textContent=`${seriesInfo.title} - ${name}`;
     overlay.style.opacity=0;
-
-    video.crossOrigin = "anonymous"; // ✅ 跨域设置
+    video.crossOrigin = "anonymous";
 
     if(Hls.isSupported()){
         hls = new Hls({
             maxBufferLength: 30,
             enableWorker: true,
-            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; } // 避免跨域问题
+            xhrSetup: (xhr,url)=>{ xhr.withCredentials = false; }
         });
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, ()=>{ 
-            video.play().catch(()=>console.warn("自动播放被阻止")); 
-        });
+        hls.on(Hls.Events.MANIFEST_PARSED, ()=> video.play().catch(()=>console.warn("自动播放被阻止")));
         hls.on(Hls.Events.ERROR,(event,data)=>{
             console.error("HLS 错误:",data);
             if(data.fatal) alert("播放出错，请刷新或更换线路");

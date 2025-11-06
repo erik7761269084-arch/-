@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>女优详情</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    position: relative;
+    min-height: 100vh;
+    overflow-x: hidden;
+    background-color: #000;
+    padding-top: 60px; /* 给 header 留空间 */
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    top:0; left:0;
+    width:100%; height:100%;
+    background: var(--bg-url) center center / cover no-repeat;
+    filter: brightness(0.3);
+    opacity:0.6;
+    z-index:-1;
+  }
+
+  .container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 80px;
+    background: rgba(0,0,0,0.6);
+    box-sizing: border-box;
+  }
+
+  /* === 演员信息样式 === */
+  .profile { display: flex; gap: 20px; flex-wrap: wrap; }
+  .profile img { width: 350px; border-radius: 10px; }
+  .info { flex: 1; }
+  .info h1 { margin:0; font-size:28px; }
+  .features span { display:inline-block; background:#ff9800; color:#000; padding:2px 8px; margin:2px; border-radius:4px; font-size:12px; }
+
+  .description { margin-top: 40px; }
+
+  .gallery { margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:10px; }
+  .gallery img { width:100%; border-radius:6px; display:block; }
+
+  .related-dramas { margin-top:50px; }
+  .related-dramas h2 { font-size:24px; margin-bottom:20px; }
+  .related-dramas .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(200px,1fr)); gap:15px; }
+  .related-dramas .card { position:relative; background-color:#1a1a1a; border-radius:8px; overflow:hidden; cursor:pointer; display:flex; flex-direction:column; transition: transform 0.2s ease, box-shadow 0.2s ease;}
+  .related-dramas .card:hover { transform: scale(1.05); box-shadow:0 4px 12px rgba(255,255,255,0.2);}
+  .related-dramas .card img { width:100%; aspect-ratio:16/9; object-fit:cover; }
+  .card-type { position:absolute; bottom:8px; right:8px; font-size:12px; font-weight:bold; color:#fff; border:1px solid #ff0000; padding:2px 6px; border-radius:4px; background-color:#ff0000;}
+  .card-info { padding:8px 10px; display:flex; flex-direction:column; gap:6px;}
+  .card-info-top { display:flex; align-items:center; gap:6px; overflow:hidden;}
+  .card-info-top .idcode { color:#ffcc00; font-weight:bold; font-size:12px; white-space:nowrap; flex-shrink:0;}
+  .card-info-top .title { font-size:14px; color:#fff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex-grow:1;}
+  .actor { position:absolute; bottom:8px; left:8px; background-color: rgba(0,0,0,0.5); padding:2px 6px; border-radius:4px; font-size:12px;}
+  .card-info-bottom { display:flex; justify-content:space-between; align-items:center; font-size:12px; color:#ccc;}
+  .date { display:flex; align-items:center; gap:4px; font-size:12px; }
+
+  .pagination { margin-top:10px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;}
+  .pagination button { padding:4px 8px; background:#333; color:#fff; border:none; border-radius:4px; cursor:pointer;}
+  .pagination button.active { background:red;}
+  .pagination input { width:40px; padding:2px; border-radius:4px; border:1px solid #555; background:#222; color:#fff; text-align:center;}
+</style>
+</head>
+<body>
+
+<!-- ====== header 占位 ====== -->
+<div id="header-placeholder"></div>
+
+<div class="container">
+  <!-- === 演员信息 === -->
+  <div class="profile">
+    <img id="profile-img" src="" alt="">
+    <div class="info">
+      <h1 id="name"></h1>
+      <p>年龄: <span id="age"></span></p>
+      <p>生日: <span id="birthday"></span></p>
+      <p>星座: <span id="zodiac"></span></p>
+      <p>身高: <span id="height"></span></p>
+      <p>三围: <span id="measurements"></span></p>
+      <p>罩杯: <span id="cup"></span></p>
+      <p>作品数量: <span id="works_count"></span></p>
+      <div class="features" id="features"></div>
+      <p>别名: <span id="aliases"></span></p>
+    </div>
+  </div>
+
+  <div class="description">
+    <h2>简介</h2>
+    <p id="description"></p>
+  </div>
+
+  <div class="gallery" id="gallery"></div>
+
+  <div class="related-dramas">
+    <h2>该女优出演影片</h2>
+    <div class="grid" id="relatedDramasGrid"></div>
+    <div class="pagination" id="relatedPagination"></div>
+  </div>
+</div>
+
+<script>
+/* ======= 加载 header.html + header.js ======= */
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // 动态加载 header.js
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-actress');
+    };
+    document.body.appendChild(script);
+  });
+  
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
+  .then(r => r.text())
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
+  .catch(e => console.warn('无法加载 footer.html:', e));
+
+// ==== 原有页面逻辑 ====
+function getSeriesName() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('series') || '1';
+}
+
+function loadSeriesData(seriesName) {
+  const script = document.createElement('script');
+  script.src = "CN_actress_menu/" + seriesName + "_AVactress_data.js"; 
+  script.onload = () => {
+    if (window.actressData) initPage(window.actressData);
+    else if (typeof actressData !== 'undefined') initPage(actressData);
+    else alert("actressData 未定义，检查数据文件格式。");
+  };
+  script.onerror = () => alert("剧集数据加载失败: " + seriesName);
+  document.body.appendChild(script);
+}
+
+function initPage(actressData) {
+  if (!actressData) return;
+  if (actressData.background_img) document.body.style.setProperty('--bg-url', `url('${actressData.background_img}')`);
+
+  document.getElementById("profile-img").src = actressData.img_url || "";
+  document.getElementById("profile-img").alt = actressData.name || "";
+
+  document.getElementById("name").textContent = actressData.name || "";
+  document.getElementById("age").textContent = actressData.age || "";
+  document.getElementById("birthday").textContent = actressData.birthday_date || "";
+  document.getElementById("zodiac").textContent = actressData.zodiac || "";
+  document.getElementById("height").textContent = actressData.height || "";
+  document.getElementById("measurements").textContent = actressData.measurements || "";
+  document.getElementById("cup").textContent = actressData.cup || "";
+  document.getElementById("works_count").textContent = actressData.works_count || 0;
+  document.getElementById("description").textContent = actressData.description || "";
+
+  const featuresDiv = document.getElementById("features");
+  featuresDiv.innerHTML = "";
+  if (Array.isArray(actressData.features)) {
+    actressData.features.forEach(f => {
+      const span = document.createElement("span");
+      span.textContent = f;
+      featuresDiv.appendChild(span);
+    });
+  }
+
+  document.getElementById("aliases").textContent = Array.isArray(actressData.aliases)
+    ? actressData.aliases.join(", ")
+    : (actressData.aliases || "");
+
+  const galleryDiv = document.getElementById("gallery");
+  galleryDiv.innerHTML = "";
+  if (Array.isArray(actressData.gallery)) {
+    actressData.gallery.forEach(url => {
+      const img = document.createElement("img");
+      img.src = url;
+      img.alt = "写真图集";
+      img.onerror = () => img.style.display = 'none';
+      galleryDiv.appendChild(img);
+    });
+  }
+
+  initRelatedDramas(actressData.related_dramas);
+}
+
+let relatedDramas = [], relatedFiltered = [], relatedCurrentPage = 1, relatedPageSize = 12;
+
+function renderRelatedPage(page) {
+  const container = document.getElementById('relatedDramasGrid');
+  container.innerHTML = '';
+  const start = (page - 1) * relatedPageSize;
+  const end = start + relatedPageSize;
+  const pageData = relatedFiltered.slice(start, end);
+
+  pageData.forEach(d => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => window.open(d.title_play_url, "_blank");
+
+    card.innerHTML = `
+      <div style="position: relative;">
+        <img src="${d.cover_url}" alt="${d.title}">
+        <div class="actor">${Array.isArray(d.actress)? d.actress.join(", "): d.actress}</div>
+        <div class="card-type">${d.type}</div>
+      </div>
+      <div class="card-info">
+        <div class="card-info-top">
+          <span class="idcode">${d.IDcode}</span>
+          <span class="title">${d.title}</span>
+        </div>
+        <div class="card-info-bottom">
+          <div class="date">${d.publish_date || ""}</div>
+        </div>
+      </div>
+    `;
+    container.appendChild(card);
+  });
+
+  const pagination = document.getElementById('relatedPagination');
+  pagination.innerHTML = '';
+  const totalPages = Math.ceil(relatedFiltered.length / relatedPageSize);
+
+  const prevBtn = document.createElement('button');
+  prevBtn.textContent = '上一页';
+  prevBtn.disabled = relatedCurrentPage === 1;
+  prevBtn.onclick = () => { if(relatedCurrentPage>1){ relatedCurrentPage--; renderRelatedPage(relatedCurrentPage); } };
+  pagination.appendChild(prevBtn);
+
+  const pageInfo = document.createElement('span');
+  pageInfo.innerHTML = `第 <input type="number" min="1" max="${totalPages}" value="${relatedCurrentPage}" id="jumpRelatedPage"> 页 / 共 ${totalPages} 页`;
+  pagination.appendChild(pageInfo);
+
+  const jumpBtn = document.createElement('button');
+  jumpBtn.textContent = '跳转';
+  jumpBtn.onclick = () => {
+    const val = parseInt(document.getElementById('jumpRelatedPage').value);
+    if(val>=1 && val<=totalPages) { relatedCurrentPage = val; renderRelatedPage(relatedCurrentPage); }
+  };
+  pagination.appendChild(jumpBtn);
+
+  const nextBtn = document.createElement('button');
+  nextBtn.textContent = '下一页';
+  nextBtn.disabled = relatedCurrentPage === totalPages;
+  nextBtn.onclick = () => { if(relatedCurrentPage<totalPages){ relatedCurrentPage++; renderRelatedPage(relatedCurrentPage); } };
+  pagination.appendChild(nextBtn);
+}
+
+function initRelatedDramas(dramas) {
+  if(Array.isArray(dramas) && dramas.length>0) {
+    relatedDramas = dramas;
+    relatedFiltered = relatedDramas;
+    renderRelatedPage(relatedCurrentPage);
+  } else {
+    document.getElementById('relatedDramasGrid').innerHTML = "<p>暂无相关影片</p>";
+  }
+}
+
+const seriesName = getSeriesName();
+loadSeriesData(seriesName);
+</script>
+
+</body>
+</html>
