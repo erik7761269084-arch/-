@@ -1,209 +1,37 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AV公司目录</title>
-<style>
-body {
-  margin: 0;
-  font-family: "微软雅黑", sans-serif;
-  background-color: #0d0d0d;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  padding-top: 70px; /* 顶部 header 高度预留 */
-}
-
-/* 页面标题 */
-.page-title {
-  text-align: center;
-  font-size: 28px;
-  font-weight: bold;
-  color: #ffa500; /* 橙黄色 */
-  margin-bottom: 30px;
-}
-
-/* 主内容 */
-#mainContent {
-  flex: 1;
-  padding: 0 20px 20px;
-}
-
-/* 网格布局，每行3个，占满宽度 */
-#companyGrid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 25px;
-  justify-items: stretch;
-}
-
-/* 卡片样式 */
-.card {
-  background-color: #1a1a1a;
-  border-radius: 12px;
-  overflow: hidden;
-  cursor: pointer;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  text-align: center;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  position: relative;
-}
-.card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 6px 16px rgba(255,255,255,0.2);
-}
-
-.card-img-wrapper {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background-color: #222;
-  overflow: hidden;
-}
-
-.card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0.6;
-  transition: opacity 0.3s;
-}
-
-.card:hover img {
-  opacity: 0.3;
-}
-
-.card-overlay {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-.card-title {
-  color: #fff;
-  font-size: 22px;
-  font-weight: bold;
-  text-shadow: 0 0 8px rgba(0,0,0,0.8);
-  margin-bottom: 6px;
-}
-
-.card-info {
-  font-size: 14px;
-  color: #ccc;
-}
-
-/* 响应式调整：手机端每行1-2个 */
-@media (max-width: 992px) {
-  #companyGrid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-@media (max-width: 600px) {
-  #companyGrid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* 固定 header 占位 */
-#header-placeholder {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
-}
-
-/* 底部 footer */
-#footer-placeholder {
-  margin-top: auto;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="advertiseStyle.css">
 </head>
 <body>
-
-<!-- 顶部 header -->
-<div id="header-placeholder"></div>
-
-<!-- 页面标题 -->
-<div class="page-title">御女宫网站分类</div>
-
-<div id="mainContent">
-  <div id="companySection">
-    <div id="companyGrid"></div>
+  <h1 id="page-title"></h1>
+  <div id="advertise">
+    <object data="advertise.html" type="text/html"></object>
   </div>
-</div>
-
-<!-- 底部 footer -->
-<div id="footer-placeholder"></div>
-
-<script>
-/* ========== 加载顶部 header.html + header.js ========== */
-fetch('header.html')
-  .then(r => r.text())
-  .then(html => {
-    document.getElementById('header-placeholder').innerHTML = html;
-    const s = document.createElement('script');
-    s.src = 'header.js';
-    s.onload = () => {
-      if (typeof initHeaderMenu === 'function') initHeaderMenu();
-      if (typeof setActiveMenu === 'function') setActiveMenu('menu-home');
-    };
-    document.body.appendChild(s);
-  })
-  .catch(e => console.warn('无法加载 header.html:', e));
-
-/* ========== 加载底部 footer.html ========== */
-fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
-  .then(r => r.text())
-  .then(html => document.getElementById('footer-placeholder').innerHTML = html)
-  .catch(e => console.warn('无法加载 footer.html:', e));
-
-/* 公司列表加载 */
-async function loadCompanies() {
-  try {
-    const res = await fetch("https://yunvgong.com/category_net.json");
-    const data = await res.json();
-    const companies = data.filter(c => c.company && c.company.trim() !== "");
-    renderCompanies(companies);
-  } catch (e) {
-    console.error("加载公司数据失败:", e);
-    document.getElementById('companyGrid').innerHTML = "<p style='text-align:center;color:#ccc;'>无法加载公司数据，请稍后重试。</p>";
-  }
-}
-
-function renderCompanies(companies) {
-  const container = document.getElementById('companyGrid');
-  container.innerHTML = '';
-  companies.forEach(c => {
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.onclick = () => {
-      if (c.company_url && c.company_url.trim()) {
-        window.location.href = c.company_url;
-      } else {
-        alert('暂无链接可访问');
-      }
-    };
-    const img = c.img_url || "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg";
-    card.innerHTML = `
-      <div class="card-img-wrapper">
-        <img src="${img}" alt="${c.company}">
-        <div class="card-overlay">
-          <div class="card-title">${c.company}</div>
-        </div>
-      </div>`;
-    container.appendChild(card);
-  });
-}
-
-// 初始化加载
-loadCompanies();
-</script>
-
+  <hr>
+  <script>
+    // 获取当前路径
+    let pathParts = window.location.pathname.split("/").filter(p =>p !== "");
+    // 取倒数第二个部分作为目录名
+    let folderName = decodeURIComponent(pathParts[pathParts.length - 2]);
+    // 设置标题
+    document.getElementById("page-title").innerText = folderName + "频道首页(可下拉)";
+    document.title = folderName; // 同时修改网页标签标题
+  </script>
+  <h2>频道目录首页</h2>
+  <p><a href="./AV/index.html">AV</a></p> 
+  <p><a href="./CN_AV/index.html">CN_AV</a></p> 
+  <p><a href="./JAV/index.html">JAV</a></p> 
+  <p><a href="./video/index.html">video</a></p> 
+  <p><a href="./小说频道总目录/index.html">小说频道总目录</a></p> 
+  <p><a href="./少女阁/index.html">少女阁</a></p> 
+  <p><a href="./御女宫网页自跳转/index.html">御女宫网页自跳转</a></p> 
+  <p><a href="./日本频道总目录/index.html">日本频道总目录</a></p> 
+  <p><a href="./水果派AV频道总目录/index.html">水果派AV频道总目录</a></p> 
+  <p><a href="./漫画频道总目录/index.html">漫画频道总目录</a></p> 
+  <p><a href="./福利姬频道总目录/index.html">福利姬频道总目录</a></p> 
+  <p><a href="./韩国少女频道/index.html">韩国少女频道</a></p> 
 </body>
 </html>
