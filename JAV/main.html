@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>国产AV</title>
+<style>
+/* ======= 全局样式 ======= */
+body {
+  margin: 0;
+  font-family: "微软雅黑", sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  padding-top: 60px; /* 预留顶部导航高度 */
+}
+
+/* ======= 影片网格 ======= */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  position: relative;
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2);
+}
+.card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* ======= 卡片信息层 ======= */
+.card-type {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  border: 1px solid #ff0000;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: #ff0000;
+}
+.actor {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.card-info {
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.card-info-top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+}
+.card-info-top .idcode {
+  color: #ffcc00;
+  font-weight: bold;
+  font-size: 12px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card-info-top .title {
+  font-size: 14px;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-grow: 1;
+}
+.card-info-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #ccc;
+}
+.star { color: gold; font-weight: bold; }
+.date { display: flex; align-items: center; gap: 4px; }
+.date::before { content: "📅"; font-size: 13px; }
+
+/* ======= 分页 ======= */
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+.pagination button {
+  padding: 6px 12px;
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.pagination button.active { background: red; }
+.pagination button:hover:not(:disabled) { background: #555; }
+.pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
+.pagination input {
+  width: 50px;
+  padding: 4px;
+  border-radius: 4px;
+  border: 1px solid #555;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+.pagination span { font-size: 14px; }
+</style>
+</head>
+<body>
+
+<!-- ======= 顶部导航栏 ======= -->
+<div id="header-placeholder"></div>
+
+<!-- ======= 主体内容 ======= -->
+<div id="mainContent">
+  <div id="dramaSection">
+    <div class="grid" id="dramaGrid"></div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+</div>
+
+<script>
+/* ======= 加载 header.html + header.js ======= */
+fetch('header.html')
+  .then(res => res.text())
+  .then(html => {
+    document.getElementById('header-placeholder').innerHTML = html;
+
+    // 加载 header.js 文件
+    const script = document.createElement('script');
+    script.src = 'header.js';
+    script.onload = () => {
+      if (typeof initHeaderMenu === 'function') initHeaderMenu();
+      if (typeof setActiveMenu === 'function') setActiveMenu('menu-drama');
+    };
+    document.body.appendChild(script);
+  });
+
+
+/* ========== 加载底部 footer.html ========== */ 
+fetch('https://yunvgong.com/footer.html')
+  .then(r => r.text())
+  .then(html => {
+    // 动态创建底部容器并插入页面
+    let footer = document.getElementById('footer-placeholder');
+    if (!footer) {
+      footer = document.createElement('div');
+      footer.id = 'footer-placeholder';
+      document.body.appendChild(footer);
+    }
+    footer.innerHTML = html;
+  })
+  .catch(e => console.warn('无法加载 footer.html:', e));
+
+
+/* ======= 加载影片数据 ======= */
+let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
+
+async function loadDramas() {
+  try {
+    const res = await fetch("https://yunvgong.com/JAV/category/drama_export.json");
+    dramas = await res.json();
+    filtered = dramas;
+    renderPage(currentPage);
+  } catch (e) {
+    console.error("加载影片失败：", e);
+    document.getElementById('dramaGrid').innerHTML =
+      "<p style='text-align:center;color:#ccc;'>加载失败，请稍后再试。</p>";
+  }
+}
+
+function renderPage(page) {
+  const container = document.getElementById('dramaGrid');
+  container.innerHTML = '';
+  const start = (page - 1) * pageSize;
+  const end = start + pageSize;
+  filtered.slice(start, end).forEach(d => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.onclick = () => { window.location.href = d.title_play_url; };
+
+    const rating = parseFloat(d.rating) || 0;
+    let stars = '';
+    const full = Math.floor(rating);
+    const half = rating % 1 >= 0.5 ? 1 : 0;
+    for (let i = 0; i < full; i++) stars += '★';
+    if (half) stars += '☆';
+    for (let i = stars.length; i < 5; i++) stars += '✩';
+
+    card.innerHTML = `
+      <div style="position: relative;">
+        <img src="${d.cover_url}" alt="${d.title}">
+        <div class="actor">${d.actress}</div>
+        <div class="card-type">${d.type}</div>
+      </div>
+      <div class="card-info">
+        <div class="card-info-top">
+          <span class="idcode">${d.IDcode}</span>
+          <span class="title">${d.title}</span>
+        </div>
+        <div class="card-info-bottom">
+          <div class="star">${stars} ${d.rating}</div>
+          <div class="date">${d.publish_date}</div>
+        </div>
+      </div>`;
+    container.appendChild(card);
+  });
+  renderPagination();
+}
+
+function renderPagination() {
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = '';
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+
+  const prev = document.createElement('button');
+  prev.textContent = '上一页';
+  prev.disabled = currentPage === 1;
+  prev.onclick = () => {
+    if (currentPage > 1) {
+      currentPage--;
+      renderPage(currentPage);
+    }
+  };
+  pagination.appendChild(prev);
+
+  const pageInfo = document.createElement('span');
+  pageInfo.innerHTML = `第 <input type="number" min="1" max="${totalPages}" value="${currentPage}" id="jumpPage"> 页 / 共 ${totalPages} 页`;
+  pagination.appendChild(pageInfo);
+
+  const jumpBtn = document.createElement('button');
+  jumpBtn.textContent = '跳转';
+  jumpBtn.onclick = () => {
+    const val = parseInt(document.getElementById('jumpPage').value);
+    if (val >= 1 && val <= totalPages) {
+      currentPage = val;
+      renderPage(currentPage);
+    }
+  };
+  pagination.appendChild(jumpBtn);
+
+  const next = document.createElement('button');
+  next.textContent = '下一页';
+  next.disabled = currentPage === totalPages;
+  next.onclick = () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      renderPage(currentPage);
+    }
+  };
+  pagination.appendChild(next);
+}
+
+/* ======= 初始化 ======= */
+loadDramas();
+</script>
+</body>
+</html>
