@@ -156,7 +156,6 @@ fetch('header.html')
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
 
-    // 加载 header.js 文件
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
@@ -166,12 +165,10 @@ fetch('header.html')
     document.body.appendChild(script);
   });
 
-
 /* ========== 加载底部 footer.html ========== */ 
 fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
   .then(html => {
-    // 动态创建底部容器并插入页面
     let footer = document.getElementById('footer-placeholder');
     if (!footer) {
       footer = document.createElement('div');
@@ -182,21 +179,37 @@ fetch('https://yunvgong.com/footer.html')
   })
   .catch(e => console.warn('无法加载 footer.html:', e));
 
-
-/* ======= 加载影片数据 ======= */
+/* ======= 加载切割影片数据 ======= */
 let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
+const itemsPerFile = 1000;
+const basePath = "https://yunvgong.com/JAV/category/main_page/";
 
 async function loadDramas() {
-  try {
-    const res = await fetch("https://yunvgong.com/JAV/category/drama_export.json");
-    dramas = await res.json();
-    filtered = dramas;
-    renderPage(currentPage);
-  } catch (e) {
-    console.error("加载影片失败：", e);
+  dramas = [];
+  let fileIndex = 1;
+  while (true) {
+    const url = `${basePath}page_${fileIndex}.json`;
+    try {
+      const res = await fetch(url);
+      if (!res.ok) break;
+      const data = await res.json();
+      if (!data || data.length === 0) break;
+      dramas = dramas.concat(data);
+      fileIndex++;
+    } catch (e) {
+      console.warn("无法加载 JSON 文件:", url, e);
+      break;
+    }
+  }
+
+  if (dramas.length === 0) {
     document.getElementById('dramaGrid').innerHTML =
       "<p style='text-align:center;color:#ccc;'>加载失败，请稍后再试。</p>";
+    return;
   }
+
+  filtered = dramas;
+  renderPage(currentPage);
 }
 
 function renderPage(page) {
@@ -241,6 +254,8 @@ function renderPage(page) {
 function renderPagination() {
   const pagination = document.getElementById('pagination');
   pagination.innerHTML = '';
+
+  // 自动计算总页数
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
 
   const prev = document.createElement('button');
