@@ -185,7 +185,7 @@ fetch('https://yunvgong.com/footer.html')  <!-- 修改这里 -->
   .catch(e => console.warn('无法加载 footer.html:', e));
 
 /* 分类和最新发布 */
-/* 分类和最新发布（从 drama_export.json 获取最新影片） */
+/* 分类和最新发布（从 latest_100.json 获取最新影片） */
 async function loadMainSections() {
   try {
     // 加载分类（原来的 category_net.json 保留）
@@ -194,7 +194,7 @@ async function loadMainSections() {
     renderGrid(document.getElementById("categoryGrid"), catData.slice(0,3));
 
     // 加载影片列表并按发布日期排序（新改部分）
-    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/drama_export.json");
+    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/latest_100.json");
     const dramas = await res.json();
 
     // 过滤掉没有日期的条目并按日期从新到旧排序
