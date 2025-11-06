@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://v3-2.lbv3lb2025.com/20241110/UHcjwUTx/index.m3u8"
+    "主线路": "https://t26.cdn2020.com/video/m3u8/2022/03/06/8ed97a2a/index.m3u8",
+    "线路2": "https://v3-2.lbv3lb2025.com/20241110/UHcjwUTx/index.m3u8"
   },
   "seriesInfo": {
     "id": 2777,
     "IDcode": "MTVQ15-EP1",
-    "title": "心动的性号EP1 波斯x允熙",
+    "title": "心动的性号EP1 肉体契合度考验 波斯x允熙",
     "publish_date": "2023-10-17",
     "type": "无码",
     "company": "麻豆传媒",
@@ -14,6 +15,12 @@
     "cover_url": "https://le.lefhao20250923.top//20241110/UHcjwUTx/1.jpg",
     "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ15-EP1",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "李允熙",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=8658&name=%E6%9D%8E%E5%85%81%E7%86%99"
+      }
+    ]
   }
 }

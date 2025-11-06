@@ -1,11 +1,12 @@
 {
   "episodes": {
-    "主线路": "https://bf3.qrtuv.com/smv1/202408/27/Ksq47tMMGX1/video/index.m3u8"
+    "主线路": "https://bf3.qrtuv.com/smv1/202408/27/Ksq47tMMGX1/video/index.m3u8",
+    "线路2": "https://bf3.qrtuv.com/smv1/202410/06/k6t4HdWDKp1/video/index.m3u8"
   },
   "seriesInfo": {
     "id": 31170,
     "IDcode": "TZ-035",
-    "title": "兔子先生 酒醉姐姐捡回家",
+    "title": "酒醉姐姐捡回家-EP1 为所欲为 操到天亮",
     "publish_date": "2023-08-19",
     "type": "无码",
     "company": "麻豆传媒",

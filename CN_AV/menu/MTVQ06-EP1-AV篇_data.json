@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20241030/LSCjrvbr/index.m3u8"
+    "主线路": "https://thm3u8.com/20241030/LSCjrvbr/index.m3u8",
+    "线路2": "https://t27.cdn2020.com/video/m3u8/2021/06/15/8ff77003/index.m3u8"
   },
   "seriesInfo": {
     "id": 2760,
@@ -14,6 +15,12 @@
     "cover_url": "",
     "background_img": "",
     "title_play_url": "https://erik7761269084-arch.github.io/-/CN_AV/player_template.html?series=MTVQ06-EP1-AV篇",
-    "actresses": []
+    "actresses": [
+      {
+        "name": "吴芮瑜",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9770&name=%E5%90%B4%E8%8A%AE%E7%91%9C"
+      }
+    ]
   }
 }

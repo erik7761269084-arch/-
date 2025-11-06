@@ -2,12 +2,14 @@
   "episodes": {
     "主线路": "https://v.ddoucdn.com/20240918/2NFPHe0g/index.m3u8",
     "线路2": "https://krevonix.com/20240406/977qiB8V/index.m3u8",
-    "线路3": "https://lsbbf5.com/20230921/dgGSFzFu/index.m3u8",
-    "线路4": "https://thm3u8.com/20241229/2kQGMOPT/index.m3u8",
-    "线路5": "https://lsbbf5.com/20240218/kTVqwrGy/index.m3u8",
-    "线路6": "https://lsbbf5.com/20231018/NTP4MIs1/index.m3u8",
-    "线路7": "https://v3-2.lbv3lb2025.com/20241110/3og2FJXt/index.m3u8",
-    "线路8": "https://t26.cdn2020.com/video/m3u8/2022/03/05/2a8bc15d/index.m3u8"
+    "线路3": "https://krevonix.com/20230606/p1emv6y0/index.m3u8",
+    "线路4": "https://lsbbf5.com/20230921/dgGSFzFu/index.m3u8",
+    "线路5": "https://thm3u8.com/20241229/2kQGMOPT/index.m3u8",
+    "线路6": "https://lsbbf5.com/20240218/kTVqwrGy/index.m3u8",
+    "线路7": "https://lsbbf5.com/20231018/NTP4MIs1/index.m3u8",
+    "线路8": "https://v3-2.lbv3lb2025.com/20241110/3og2FJXt/index.m3u8",
+    "线路9": "https://m3u8.bwzyplay.com/20250118/SRxNejFi/index.m3u8",
+    "线路10": "https://t26.cdn2020.com/video/m3u8/2022/03/05/2a8bc15d/index.m3u8"
   },
   "seriesInfo": {
     "id": 23691,
@@ -31,6 +33,11 @@
         "name": "伊婉琳",
         "img_url": "https://upload.xchina.io/default/model.jpg",
         "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9607&name=%E4%BC%8A%E5%A9%89%E7%90%B3"
+      },
+      {
+        "name": "熙熙",
+        "img_url": "https://upload.xchina.io/default/model.jpg",
+        "profile_url": "https://erik7761269084-arch.github.io/-/CN_AV/CN_AV_actressDatas.html?series=9881&name=%E7%86%99%E7%86%99"
       }
     ]
   }
