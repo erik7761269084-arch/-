@@ -1,0 +1,166 @@
+// 871_AVactress_data.js
+window.actressData = {
+  "id": 871,
+  "name": "白浜美羽",
+  "age": 23,
+  "birthday_date": "2002-02-01",
+  "img_url": "https://picture.yoshiclub.xyz/20250112/1a1ea691-243b-41a9-a41f-dc05448b41a7.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250527/20250527091933302302_s.webp",
+  "zodiac": "水瓶座",
+  "height": "155cm",
+  "measurements": "胸 80 腰 60 臀 91",
+  "measurements_display": "80G/60/91",
+  "cup": "G",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "嬌小身材",
+    "蘿莉",
+    "大臀",
+    "偶像女團",
+    "角色扮演者",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/c480ddb1-33a6-4208-9099-366535036abf.html",
+  "aliases": [
+    "Miu Shirahama"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250112/1a1ea691-243b-41a9-a41f-dc05448b41a7.jpg",
+    "https://picture.yoshiclub.xyz/20250112/e8c96c28-4843-4acc-995f-9623407f5de6.jpg",
+    "https://picture.yoshiclub.xyz/20250112/46e7e7b5-3dec-4b6a-b4d3-3650499d54b1.jpg",
+    "https://picture.yoshiclub.xyz/20250112/38b3dcce-0e0a-4878-ac3e-03727d6f14f3.jpg",
+    "https://picture.yoshiclub.xyz/20250112/aadcd92b-07e5-4a08-b15a-5b727448bf16.jpg",
+    "https://picture.yoshiclub.xyz/20250112/5411d6f8-7114-4c8a-8a4e-df62e5b474cb.jpg"
+  ],
+  "works_count": 5,
+  "related_dramas": [
+    {
+      "id": 62659,
+      "IDcode": "AGMX-231",
+      "title": "隣で添い寝しながら囁きオナニーをする女の顔2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2025-07-22",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/a65ee057/vod.jpg",
+      "actress": [
+        "希咲那奈",
+        "久和原聖羅",
+        "天野花乃",
+        "白浜美羽",
+        "浅桜エリ",
+        "福原なつ乃",
+        "鳴海まりる"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AGMX-231"
+    },
+    {
+      "id": 5775,
+      "IDcode": "SDDE-752",
+      "title": "性愛綜合大學醫院：10科室護士的口技手技全套服務，100台攝影機直擊超真實操作190分鐘 ~ 花狩舞 辻井穗乃果 石川陽波 糸井ありさ 白浜美羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-05-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527091933302302_thumbnail.webp",
+      "actress": [
+        "辻井穗乃果",
+        "花狩舞",
+        "白浜美羽",
+        "糸井ありさ",
+        "石川陽波",
+        "山口由愛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-752"
+    },
+    {
+      "id": 8661,
+      "IDcode": "MIMK-173",
+      "title": "實寫版 用誘人的美體完成重要的任務 常識改變的傑作 總販殼數已達100,000部的漫畫巨作 真人版 ~ 皆月光 木下日葵 前田美波 美園和花 姬咲華 由良佳奈 冬愛ことね 椿りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300757589494.jpg",
+      "actress": [
+        "美園和花",
+        "椿莉香",
+        "皆月光",
+        "木下日葵",
+        "姫咲華",
+        "由良佳奈",
+        "前田美波",
+        "冬愛琴音",
+        "白浜美羽",
+        "冬爱琴音",
+        "江戸川もなか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-173"
+    },
+    {
+      "id": 8596,
+      "IDcode": "XVSR-799",
+      "title": "180分鍾的原創口交AV集錦，15名女孩的口交技巧會讓男人呻吟 ~ 浜崎真緒 一之瀨戀 流川莉央 三田櫻 小那海綾 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MAX-A",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250202/cfe15e1a-b7d6-40b1-843f-6b1b0448c4ed.jpg",
+      "actress": [
+        "小那海綾",
+        "浜崎真緒",
+        "泉莉音",
+        "流川莉央",
+        "日泉舞香",
+        "三田櫻",
+        "福田もも",
+        "白浜美羽",
+        "一之瀨戀",
+        "水城りん",
+        "佐佐波绫",
+        "安倍亜沙美",
+        "浜崎真绪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=XVSR-799"
+    },
+    {
+      "id": 13132,
+      "IDcode": "SDDE-730",
+      "title": "現已推廣至全國車站、機關、事業單位等！ 每月 2,980 日元，隨時享受無限量泡泡！ 成人便利保育沙龍 Chocobub！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240723/726d5c5e-0f04-44ac-bc00-4422fe5f7dc7.jpg",
+      "actress": [
+        "白浜美羽",
+        "東雲はる",
+        "新山ちなつ",
+        "椎叶みくる",
+        "弥生美月"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDDE-730"
+    }
+  ]
+};

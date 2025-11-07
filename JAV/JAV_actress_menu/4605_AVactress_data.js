@@ -1,0 +1,47 @@
+// 4605_AVactress_data.js
+window.actressData = {
+  "id": 4605,
+  "name": "逢坂はるな",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://www.hhkoo.com/d/file/20170611/8e4097027438fc830286638009fe7fca.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": "163cm",
+  "measurements": "胸 83 腰 57 臀 85",
+  "measurements_display": "83D/57/85",
+  "cup": "D",
+  "description": "逢坂春菜，又名：成濑理沙，来自神奈川县，是女演员，所属事务所T-POWERS，兴趣爱好是动画鉴赏、购物、瑜伽。",
+  "features": [
+    "漂亮,90后"
+  ],
+  "detail_url": "https://www.hhkoo.com/nvyou/star_0967.html",
+  "aliases": [
+    "逢坂はるな",
+    "あいさかはるな",
+    "Aisaka Haruna",
+    "なるせりさ",
+    "Naruse Risa"
+  ],
+  "gallery": [],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 76009,
+      "IDcode": "HBAD-512",
+      "title": "柔肌巨乳未亡人 夫の親族に何度も中出しされて… 逢坂はるな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "HIBINO",
+      "publish_date": "2019-12-12",
+      "cover_url": "",
+      "actress": [
+        "向理来",
+        "逢坂はるな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-512"
+    }
+  ]
+};

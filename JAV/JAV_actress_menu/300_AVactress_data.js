@@ -1,0 +1,235 @@
+// 300_AVactress_data.js
+window.actressData = {
+  "id": 300,
+  "name": "Unpai",
+  "age": 30,
+  "birthday_date": "1995-07-17",
+  "img_url": "https://picture.yoshiclub.xyz/20230923/95627c3b-6ada-48b2-8dd7-133ad96026b2.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231222/0015974b-8f2e-4fd0-93e2-55083638201a.jpg",
+  "zodiac": "巨蟹座",
+  "height": "165cm",
+  "measurements": "胸 92 腰 60 臀 96",
+  "measurements_display": "92H/60/96",
+  "cup": "H",
+  "description": "うんぱい Unpai （1994 年 8 月 1 日[2]）是日本寫真偶像、影響力人物和成人電影女演員。簡歷。出生於宮城縣仙台市。 她從四歲開始學習鋼琴，並進入音樂大學（仙作學園音樂大學鋼琴學科古典鋼琴專業）。18 歲時，うんぱいUnpai 被星探發掘並開始活躍，但卻被一家事務所（與下文提到的各娛樂經紀公司不同的公司）騙走了300 萬至400 萬日元，因此放棄了成為 藝人的夢想。在朋友的幫助下，うんぱい Unpai 利用業餘時間傳送視頻，並成為世界排名第二的 17LIVER （當時的名字是 Aya Ito）。 這讓她意識到自己適合成為一名有影響力的人；2018 年，她成為 2019 年 iD 小姐決賽選手。2019 年，她以寫真偶像的身份出道，2021 年 1 月 19 日，她將憑藉自己的 H-cup 大胸推出形象視頻 \"Unpai shika katsutan! 。2021 年 12 月，她的 TikTok 粉絲超過 340 萬。2022 年 1 月 25 日，她宣布將於同年 2 月以 Unpai 的名字作為 AV 女優出道 。 從那時起，她的 AV 相關作品將歸屬於 Minds 。 她的處女作《Unpai》成為 S-1 公司同年最賣座的電影。同年 2 月 8 日，她在 Kobunsha 的《FLASH》上刊登了半裸寫真，並宣布將在 2 月 22 日發售的同一本雜誌上刊登全裸寫真。同年次月，她還與 S1 簽訂了大規模合同，並於 3 月 18 日確認作為 S1 獨家女演員第二次發行 AV 。うんぱいUnpai 的AV 處女作在1 月24 日當週的FANZA video floor 每週AV 排行榜上排名第一，2022 年12 月，她的處女作在朝日藝能的\"2022 年AV 年度銷量排行榜\"上 排名第10 。2023 年6 月18 日，在埼玉縣大門上池調節池廣場舉行的定制汽車活動\"NS ROUNDER Vol. 14 SAITAMA \"上，うんぱいUnpai 作為Queen Casino Girl 與夏川柚、栗山理穗、志志堂理穗、 天野花野、靜木由香里一起亮相。同年，うんぱい出演的《S1 Fan Thanksgiving Festival》（藍色光盤版）在 6 月 19 日當週的 FANZA 郵購樓層排名中名列第一；DVD 版也名列第四[。 該片在 6 月 26 日當週繼續排名第一（DVD 版排名第五）。 該片還在 7 月 17 日當週的 FANZA 影片排行榜上排名第一。2023 年 7 月 30 日，她在東京澀谷的 Artspace FLAG 舉辦了自己的免費生日紀念活動 \"BIRTHDAY FREE Unpai\"。個性。うんぱい Unpai 的嗜好是 TikTok 。她的身高為 165 厘米，B92（H-cup），W60，H96。 她在女性中非常受歡迎，因為她美麗的胸部妝容引起了人們的注意。 她經常發布性愛影片和照片，但堅持認為性愛不是羞恥或隱藏的事情，性愛是一種藝術形式。 這一趨勢是由她的泳裝視頻引起的巨大反響引發的，從那時起，她就 \"開始圍繞性感發布信息\"。 在經歷了一段時間的自我淨化後，她不再抗拒曝光。在音樂學校學習期間，她被周圍的比賽獲獎者壓得喘不過氣來，差點失敗 。 雖然她的作曲技巧（最重要的是品味）很差，但透過學習和努力，她學到了足夠的知識，沒有丟掉學分，四年後的畢業給了她日後所需的自信。她還會說一些中文和韓文。除了最初的興趣之外，她轉向色情行業的原因之一是聽說了粉絲與色情明星互動的 Clubhouse 。 在 2022 年的一次採訪中，她表示自己作為演員的月收入約為 100 萬美元。 她說，她從付費粉絲俱樂部獲得的收入超過了這個數字 。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "天然",
+    "嫵媚",
+    "美臀",
+    "別致顔值",
+    "特別騷",
+    "極上美人",
+    "妖媚",
+    "網紅"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/161d8312-a35e-4366-bff6-fe4a0e94fda4.html",
+  "aliases": [
+    "Sayaka Ito",
+    "Unpai",
+    "いとうさやか",
+    "うんぱい",
+    "伊藤彩"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230923/adbe8cd0-9388-4adf-ab8b-5539bbc51847.jpg",
+    "https://picture.yoshiclub.xyz/20230923/e1efa2b9-7ba9-4155-9fdf-ba7d5724f23e.jpg",
+    "https://picture.yoshiclub.xyz/20230923/af11b184-ea10-453c-8934-732fbc1219b5.jpg",
+    "https://picture.yoshiclub.xyz/20230923/d67b64c3-7710-4a8c-a6fb-6a428445b3eb.jpg",
+    "https://picture.yoshiclub.xyz/20230923/5e42a296-ffe5-4918-9e7a-07c264e0650b.jpg",
+    "https://picture.yoshiclub.xyz/20230923/b8b2213e-c671-4c98-9cbf-08a09755853d.jpg",
+    "https://picture.yoshiclub.xyz/20230923/04dc9ba1-0c79-46d8-ab35-40a4b7a4f81a.jpg",
+    "https://picture.yoshiclub.xyz/20230923/08086b92-cf77-4754-9a3d-0d3bed143a7e.jpg",
+    "https://picture.yoshiclub.xyz/20230923/8e0f3a59-072e-40a8-84c4-ebf1604f765b.jpg",
+    "https://picture.yoshiclub.xyz/20230923/8fe0b05a-01b9-41d9-9938-65334374d920.jpg",
+    "https://picture.yoshiclub.xyz/20230923/b822c913-92d0-40d6-a643-72482dea5a52.jpg",
+    "https://picture.yoshiclub.xyz/20230923/f64f4ad2-9bcb-49f4-8574-54928ef788d7.jpg",
+    "https://picture.yoshiclub.xyz/20230923/7b93c762-7df8-4e14-9b37-d6eec865ec8c.jpg",
+    "https://picture.yoshiclub.xyz/20230923/750bea83-1c50-4182-9dd8-54cc53155f32.jpg",
+    "https://picture.yoshiclub.xyz/20230923/b1fa7037-5369-447c-9fa3-b3c59a6d2ba3.jpg",
+    "https://picture.yoshiclub.xyz/20230923/bab67610-da9e-48a4-9fd3-9f5bd724a3fb.jpg",
+    "https://picture.yoshiclub.xyz/20230923/31b73d88-a8be-4f38-aeb4-3201dc583c59.jpg",
+    "https://picture.yoshiclub.xyz/20230923/58ecb4bd-78bd-48e9-bf83-420e413a2f0b.jpg",
+    "https://picture.yoshiclub.xyz/20230923/6f42c6f8-75fa-419c-a0cf-04c3b8922e90.jpg"
+  ],
+  "works_count": 10,
+  "related_dramas": [
+    {
+      "id": 2794,
+      "IDcode": "MIDA-320",
+      "title": "連射保證！爆乳夾射瘋狂內射，肉感身材連續榨汁中出風俗全套服務 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-09-11",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014429666666_95330_thumbnail.webp",
+      "actress": [
+        "Unpai"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-320"
+    },
+    {
+      "id": 4535,
+      "IDcode": "MIDA-235",
+      "title": "來家裏借宿三天的女友閨蜜姐姐發現了我的大雞巴，全身舔弄加逆襲中出狂榨30次 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-07-11",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031435153153_65687_thumbnail.webp",
+      "actress": [
+        "Unpai",
+        "大村"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDA-235"
+    },
+    {
+      "id": 6864,
+      "IDcode": "MIMK-199",
+      "title": "超30萬次Download的超人氣漫改實寫版！！暑夏約炮辣妹勾魂記！小惡魔女高生操屌到精光整夏爽翻 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-04-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412030151381381.jpg",
+      "actress": [
+        "Unpai"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIMK-199"
+    },
+    {
+      "id": 9942,
+      "IDcode": "MIDV-975",
+      "title": "MOODYZ情熱移籍 禁欲30天後中出禁令解除！ ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2024-12-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211063902613613.jpg",
+      "actress": [
+        "Unpai",
+        "鲛岛",
+        "タイ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIDV-975"
+    },
+    {
+      "id": 10474,
+      "IDcode": "SONE-456",
+      "title": "我無法抗拒在幕後把我變成網路紅人支配者的任何要求，今天我成爲了男人專用的虐待肉玩具 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2024-11-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003214970970.jpg",
+      "actress": [
+        "Unpai",
+        "森林原人",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-456"
+    },
+    {
+      "id": 13217,
+      "IDcode": "SONE-268",
+      "title": "完蛋了，徹底要被操壞了，服食媚藥後那身體騷的簡直要上天了 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719002330300300.jpg",
+      "actress": [
+        "Unpai",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-268"
+    },
+    {
+      "id": 13802,
+      "IDcode": "SONE-230",
+      "title": "我參加了一個僅限男性的酒會……巨乳的我人氣簡直爆炸了！ 醉酒亂交，被乳交內射9次 ~ Unpai",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2024-06-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621012201226226.jpg",
+      "actress": [
+        "Unpai",
+        "ひょこり",
+        "タイ",
+        "ハカー",
+        "ようく"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SONE-230"
+    },
+    {
+      "id": 17666,
+      "IDcode": "SSIS-954",
+      "title": "我請了一位大胸網紅来做女僕，她提供口交和乳交服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231125/6571fb0b-9492-4722-a9ea-212280cf8f1a.jpg",
+      "actress": [
+        "Unpai"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-954"
+    },
+    {
+      "id": 18242,
+      "IDcode": "SSIS-915",
+      "title": "巨乳女上司與處男下屬出差在飯店同房…誘惑下屬一次次性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-10-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20231021/20231021023236146146.jpg",
+      "actress": [
+        "Unpai"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-915"
+    },
+    {
+      "id": 18601,
+      "IDcode": "SSIS-877",
+      "title": "Tiktok網紅Unpai被父親用春藥以羞辱性的暴射迷姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-09-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20230923/1054b6b7-57ea-41dd-a34a-7ae61525e8df.jpg",
+      "actress": [
+        "Unpai",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-877"
+    }
+  ]
+};

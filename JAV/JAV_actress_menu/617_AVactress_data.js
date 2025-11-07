@@ -1,0 +1,89 @@
+// 617_AVactress_data.js
+window.actressData = {
+  "id": 617,
+  "name": "月見伊織",
+  "age": 30,
+  "birthday_date": "1995-08-29",
+  "img_url": "https://picture.yoshiclub.xyz/20240506/c5bd83c9-6d48-4042-94dc-dc2693693733.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250119/e1974c2f-8a07-4820-8dea-c44e874fefa4.jpg",
+  "zodiac": "處女座",
+  "height": "155cm",
+  "measurements": "胸 90 腰 63 臀 90",
+  "measurements_display": "90H/63/90",
+  "cup": "H",
+  "description": "好、好大！臉盲的我一開始還以為這是「有村のぞみ(有村希)」呢，但其實她是FALENO集團人妻片商DAHLIA的新人「月見伊織」，來自關西地區的她當然是位人妻，在結婚前還是個護士，而且，超級慾求不滿〜碰到這種女優很簡單，做就對了，所以DAHLIA也不囉嗦，男優找來就直接開幹ー雖然F社常被嫌棄用一些無名男優影響演出品質，但這次可是有しみけん(清水健)登場在那邊吸來舔去，而月見伊織也是火力全開，從第一場炮擊戰就告訴大家她是有備而來，先是用砂鍋大的的G罩杯包覆男優的雞雞，接著是自慰時大量潮吹把床單弄得濕答答，最後則是讓男優在她身上澆油，油油亮亮閃閃動人，散發出無與倫比的淫靡感⋯你覺得呢？我認為還不錯，月見伊織最大的問題是笑起來有點怪怪的，溫柔婉約的氣質會有點跑掉，但除此之外都OK的ー對啦我知道又大又圓又挺的G奶可能會讓一些朋友警報器大響，不過我是覺得會晃會搖然後男優敢摸我就可以，更何況她有米分糸工女乃豆頁而且奶交超用力可以加分；另外，月見伊織不只臉蛋保養得不錯，那身體真的就⋯很輕熟女的感覺，那個凸凸的小腹、那身體的皺摺都告訴我們她不是那麼年輕的肉體了，但她皮膚很白很白，潤滑油一澆上去那效果真的很讚⋯整體而言我覺得月見伊織是可以一戰的新人，就算和熟女第一品牌Madonna的新人相比也不會落於下風，比較大的問題是DAHLIA怎麼又找了一個沒有twitter也不玩IG的新人？這家片商最大的問題就是行銷能力不夠，女優推銷不出去，結果現在竟然有穂高結花(穗高結花)、富永葵和這位月見伊織不用社群，這家片商在用人前都不先和事務所講好、至少要找一些可以做流量的新人啊：總之，F社要加油的地方還很多。",
+  "features": [
+    "大乳房",
+    "熟女"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1082d5e9-eb29-4888-850b-e35af7e557a6.html",
+  "aliases": [
+    "Iori Aoi",
+    "Iori Shibuya",
+    "Iori Tsukimi",
+    "月见伊织",
+    "渋谷伊織",
+    "蒼いおり"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240506/c5bd83c9-6d48-4042-94dc-dc2693693733.jpg"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 5242,
+      "IDcode": "DVMM-252",
+      "title": "魔鏡顏出MM號 美豔人妻限定 和閨蜜大PK！童貞男的逆搭訕射精對決 5 ~ 月見伊織 二宮和香 最上もも 逢阪瞳 鈴木真夕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DEEP'S",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062429286286_thumbnail.webp",
+      "actress": [
+        "鈴木真夕",
+        "二宮和香",
+        "月見伊織",
+        "逢坂瞳",
+        "最上もも"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-252"
+    },
+    {
+      "id": 9001,
+      "IDcode": "DVMM-194",
+      "title": "一般男女監控AV 在老公洗澡時限定限定NTR30分鍾 ~ 月見伊織 恵沙也香 逢阪瞳 鈴木真夕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DEEP'S",
+      "publish_date": "2025-01-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250119/e1974c2f-8a07-4820-8dea-c44e874fefa4.jpg",
+      "actress": [
+        "鈴木真夕",
+        "恵沙也香",
+        "月見伊織",
+        "逢坂瞳"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVMM-194"
+    },
+    {
+      "id": 11082,
+      "IDcode": "HODV-21912",
+      "title": "被寢取妻！ 主動暴露高級內衣來偷偷誘惑我 ~ 月見伊織",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2024-10-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20241025/f7e08b7a-8e19-435e-aa07-327c94692d00.jpg",
+      "actress": [
+        "月見伊織"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HODV-21912"
+    }
+  ]
+};

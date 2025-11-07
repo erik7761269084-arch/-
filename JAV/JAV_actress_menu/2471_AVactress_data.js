@@ -1,0 +1,75 @@
+// 2471_AVactress_data.js
+window.actressData = {
+  "id": 2471,
+  "name": "倉知莉花",
+  "age": 39,
+  "birthday_date": "1986-12-26",
+  "img_url": "https://picture.yoshiclub.xyz/20230512/d716f0e5-b3c7-4c8f-a058-9d07d2255b49.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230512/85293f4d-6021-42de-8218-53031d237236.webp",
+  "zodiac": "摩羯座",
+  "height": "166cm",
+  "measurements": "胸 82 腰 58 臀 86",
+  "measurements_display": "82C/58/86",
+  "cup": "C",
+  "description": "倉知莉花\n別名：進藤美空/戸田さおり\n身長：166cm\n三圍：B82(C)／W57／H83\n靴長：24cm\n出身地：神奈川県\n星座：山羊座\n血液型：B型",
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "修長癡體",
+    "小乳房",
+    "野性",
+    "辣妹系"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7af5988a-f7b4-42ed-a04d-55c61aadb1ff.html",
+  "aliases": [
+    "Maki Kitazawa",
+    "Miku Shindo",
+    "Rika Kurachi",
+    "Saori Toda",
+    "北澤真紀",
+    "戸田さおり",
+    "進藤美空"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230512/8e4df226-1b5c-4991-a8c3-8e6ceeba322e.jpg",
+    "https://picture.yoshiclub.xyz/20230512/eee1a90d-0630-4525-a5bc-291f2539c23d.jpg",
+    "https://picture.yoshiclub.xyz/20230512/23c840c3-07de-4700-a51f-2274555b68f9.jpg",
+    "https://picture.yoshiclub.xyz/20230512/40c9651f-51eb-4b24-83e9-c20757bfd942.jpg",
+    "https://picture.yoshiclub.xyz/20230512/21a5ebc8-2bd6-48a7-9357-86bb73b07926.jpg",
+    "https://picture.yoshiclub.xyz/20230512/5b35482d-5247-4a5e-a70f-f12ecfdfcf03.jpg",
+    "https://picture.yoshiclub.xyz/20230512/1e2c0dd1-e003-4829-b031-7b2786bd1e42.jpg",
+    "https://picture.yoshiclub.xyz/20230512/071a6744-760f-4555-8a40-08a4f0fef610.jpg",
+    "https://picture.yoshiclub.xyz/20230512/94c303fe-2586-44d4-b982-74369e1726b4.jpg",
+    "https://picture.yoshiclub.xyz/20230512/47968054-bd2d-4bad-815c-0f5bfcfb74e2.jpg",
+    "https://picture.yoshiclub.xyz/20230512/02ad82db-8e03-4187-b128-63cc4c54726e.jpg",
+    "https://picture.yoshiclub.xyz/20230512/91ac7e49-813a-413e-8404-7a732d953f3f.jpg",
+    "https://picture.yoshiclub.xyz/20230512/29df3b9f-9792-4364-b0a7-5a6eea22eea9.jpg",
+    "https://picture.yoshiclub.xyz/20230512/6fdf7291-cd29-46d3-a9db-edf8fe2727d8.jpg",
+    "https://picture.yoshiclub.xyz/20230512/a346078a-92dc-4ef9-b994-12ecd027861d.jpg",
+    "https://picture.yoshiclub.xyz/20230512/e647bbcf-38e4-4007-be2a-879c05c6e3bc.jpg",
+    "https://picture.yoshiclub.xyz/20230512/de77a87f-07b6-45a9-9b9f-df892bda2c9b.jpg",
+    "https://picture.yoshiclub.xyz/20230512/4d16cf50-78f3-41ca-a44e-6efcb4960daf.jpg",
+    "https://picture.yoshiclub.xyz/20230512/cc55834d-aad5-480a-8e83-b19bd3ddeb25.jpg",
+    "https://picture.yoshiclub.xyz/20230512/00e8ab83-55d8-4a9b-bf2f-e4ba54ca1bba.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 1494,
+      "IDcode": "SKYHD-006",
+      "title": "SKY ANGEL BLUE 06 ~ 倉知莉花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SKY HIGH",
+      "publish_date": "2011-06-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20230512/85293f4d-6021-42de-8218-53031d237236.webp",
+      "actress": [
+        "倉知莉花"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-006"
+    }
+  ]
+};

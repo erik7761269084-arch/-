@@ -1,0 +1,64 @@
+// 5091_AVactress_data.js
+window.actressData = {
+  "id": 5091,
+  "name": "美里诗织",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 83722,
+      "IDcode": "ODVHJ-032",
+      "title": "終電がなくなった上司の奥様を家に泊めて夜●いをしかけたら「私、おばさんよ…」言うものの少し強引にキスしたら欲情スイッチが入ったらしく朝まで何度も濃厚セックスさせてくれました",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2019-12-27",
+      "cover_url": "",
+      "actress": [
+        "秋本詩音",
+        "夏树カオル",
+        "大石忍",
+        "美里诗织",
+        "铃宫あき"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ODVHJ-032"
+    },
+    {
+      "id": 81835,
+      "IDcode": "NITR-484",
+      "title": "NITRO 敏感人妻絶頂セックス BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2019-12-20",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/d37e16becd24f33f489d87f1488dafe7.jpg",
+      "actress": [
+        "葵百合香",
+        "大浦真奈美",
+        "篠崎环奈",
+        "蓝川美夏",
+        "二井见まどか",
+        "美里诗织",
+        "深田さき"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NITR-484"
+    }
+  ]
+};

@@ -1,0 +1,527 @@
+// 835_AVactress_data.js
+window.actressData = {
+  "id": 835,
+  "name": "森春流",
+  "age": 30,
+  "birthday_date": "1995-12-25",
+  "img_url": "https://picture.yoshiclub.xyz/20230910/7c86e86e-29f6-4136-abc3-e46d0de5193b.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231023/20231023230932283283.jpg",
+  "zodiac": "摩羯座",
+  "height": "156cm",
+  "measurements": "胸 93 腰 59 臀 89",
+  "measurements_display": "93H/59/89",
+  "cup": "H",
+  "description": "森春流（日語：森はるら，1995年12月25日—），東京都出身的日本AV女優。曾是S1專屬女優。隸屬於Mine's事務所。2022年起藝名改為桐條紗綾。2014年12月，成為S1的専屬女優，擁有巨乳。2015年8月，成為OPPAI専屬女優並演出2部作品，之後她開始出現在多家AV片商的作品當中。2015年5月，官方部落格被刪除，不久之後官方Twitter也刪除。所屬事務所的部落格推特也從網站列表中刪除，可以看出她已經要引退了。但是一直到現在她仍然有繼續演出AV作品，只是沒有簽訂專屬契約，目前是在多家片商之間進行拍攝。興趣是料理，尤其漢堡特別拿手。",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "天然",
+    "長相甜美",
+    "肉嘟嘟",
+    "身材豐滿",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/590ee5dd-87bc-4520-9cac-962099a296cd.html",
+  "aliases": [
+    "Harura",
+    "Harura Mori",
+    "Miho Sasamoto",
+    "Nami Takeuchi",
+    "Saaya Kirijo",
+    "Yui Hoshikawa",
+    "はるら",
+    "星川ゆい",
+    "桐條紗綾",
+    "森はるら",
+    "竹内奈美",
+    "笹本みほ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-森はるら.jpg",
+    "https://picture.yoshiclub.xyz/20230910/28198bb7-1288-4579-b554-78e2487ac727.jpg",
+    "https://picture.yoshiclub.xyz/20230910/7ef99636-9a09-4677-8a63-ec88f63bc127.jpg",
+    "https://picture.yoshiclub.xyz/20230910/c0a1ab32-9c92-4b29-8392-96a9e3f359e4.jpg",
+    "https://picture.yoshiclub.xyz/20230910/f8b7da5e-19a7-4360-a700-6bd98df9d713.jpg",
+    "https://picture.yoshiclub.xyz/20230910/f164d2a1-ebc5-418b-a62f-a38e9bdf3539.jpg"
+  ],
+  "works_count": 23,
+  "related_dramas": [
+    {
+      "id": 9015,
+      "IDcode": "MKCK-377",
+      "title": "獻給那些喜歡大奶子的巨乳迷們，這是只有AV用戶才能看到的壯觀的100番爆乳連發絕景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-01-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071447277277.jpg",
+      "actress": [
+        "天月梓",
+        "北野未奈",
+        "吉根柚莉爱",
+        "月野香澄",
+        "姫咲華",
+        "小坂ひまり",
+        "辻井穗乃果",
+        "楪可憐",
+        "绫濑心",
+        "小花暖",
+        "天晴乃愛",
+        "星乃夏月",
+        "瀬田一花",
+        "水原みその",
+        "莉莉遙香",
+        "雨宮響",
+        "小梅惠奈",
+        "横宮七海",
+        "宮本留衣",
+        "清宮仁愛",
+        "鳳美優",
+        "神坂朋子",
+        "九十九メイ",
+        "蓮実クレア",
+        "月妃さら",
+        "二階堂麗",
+        "希咲愛莉絲",
+        "有坂深雪",
+        "森春流",
+        "藤子未央",
+        "並木愛奈",
+        "足立るい",
+        "月乃雛",
+        "七海るな",
+        "夜空亞美",
+        "宮名遥",
+        "來栖美久",
+        "紗霧ひなた",
+        "櫻田桃羽",
+        "芹奈梨紅",
+        "星宮虹乃",
+        "かわきためいさ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKCK-377"
+    },
+    {
+      "id": 16337,
+      "IDcode": "MDBK-322",
+      "title": "細細說騷話絕對能提升男人能力的絕妙中出中華美容院",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2024-02-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240213/23ea936d-d5dd-4e7b-bc3d-13e080fefb47.jpg",
+      "actress": [
+        "新井里真",
+        "二宮桃",
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-322"
+    },
+    {
+      "id": 18193,
+      "IDcode": "MDBK-305",
+      "title": "長期偷窺鄰居家美人妻的我發現鄰居夫妻吵架後..屈服於乳頭和內褲鏡頭的誘惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2023-10-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023230932283283.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "鈴木真夕",
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-305"
+    },
+    {
+      "id": 107332,
+      "IDcode": "HMN-436",
+      "title": "今日から2週間、ノーブラな 教育実習生の女子大生の弱みに付け込み透け乳・おっぱい丸出しいじめ ～乳首勃起させたらナマ中出しの罰ゲーム～ 桐條紗綾 生写真2枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "本中",
+      "publish_date": "2023-08-16",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "日森一",
+        "まーち"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-436"
+    },
+    {
+      "id": 106700,
+      "IDcode": "EBWH-017",
+      "title": "僕の日常生活が突然AVの世界に！？ 勃ったら即ハメ！最高峰スレンダー巨乳美女たちと夢の全裸同棲ドキュメント 中条りの 桐條紗綾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2023-08-15",
+      "cover_url": "https://tutu1.space/images/2023/11/15/88c4768874a3ce486bb1a88ea2a9bdb1.jpg",
+      "actress": [
+        "森春流",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-017"
+    },
+    {
+      "id": 90135,
+      "IDcode": "REAL-829",
+      "title": "最高に都合の良かった元セフレと久し振りに再会したら、人妻になってたけど旦那が出張から帰宅するまで本能のまま交じり合った… 桐條紗綾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2023-08-08",
+      "cover_url": "",
+      "actress": [
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-829"
+    },
+    {
+      "id": 66847,
+      "IDcode": "BF-680",
+      "title": "暇さえあれば僕で欲求不満を満たす隣りの地味巨乳お姉さん。 桐條紗綾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Baby Entertainment",
+      "publish_date": "2023-03-07",
+      "cover_url": "",
+      "actress": [
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BF-680"
+    },
+    {
+      "id": 92959,
+      "IDcode": "NACR-640",
+      "title": "孕ませ不妊治療 NTR受精カウンセリング 桐條紗綾 パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2023-03-05",
+      "cover_url": "",
+      "actress": [
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-640"
+    },
+    {
+      "id": 104474,
+      "IDcode": "URKK-076",
+      "title": "URKK-076",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "UNFINISHED",
+      "publish_date": "2023-02-11",
+      "cover_url": "",
+      "actress": [
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-076"
+    },
+    {
+      "id": 83698,
+      "IDcode": "MUCD-219",
+      "title": "『無垢』特選 神乳 神のごとき敏感なEカップ以上の美巨乳 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "無垢",
+      "publish_date": "2020-03-13",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "尾上若叶",
+        "浅田结梨",
+        "しずく",
+        "凉海みさ",
+        "初音ろな",
+        "菊池えりか",
+        "望月れな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-219"
+    },
+    {
+      "id": 76215,
+      "IDcode": "EQ-506",
+      "title": "センズリのお手伝いして下さい！ 可愛い女の子に握らせて射精するまでシコらせch8",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2020-03-10",
+      "cover_url": "",
+      "actress": [
+        "赤城穂波",
+        "森春流",
+        "藤井林檎",
+        "前田いろは"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EQ-506"
+    },
+    {
+      "id": 71722,
+      "IDcode": "GAPL-053",
+      "title": "出張マッサージで何度も際どいところを刺激され絶頂寸止め。夫が隣で寝ているのにマッサージ師にSEXを懇願し中出しNTR",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MILK",
+      "publish_date": "2019-02-19",
+      "cover_url": "",
+      "actress": [
+        "葵百合香",
+        "明里友香",
+        "沙藤由梨",
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GAPL-053"
+    },
+    {
+      "id": 70999,
+      "IDcode": "HUNTA-541",
+      "title": "お姉ちゃんが初クンニの快感でカマキリ挟みイキ！！ボクには超奥手で恥ずかしがり屋の姉がいるのですが、最近彼氏ができてなんだか様子がおかしい？そんな矢先「アソコを舐めてほしい…」と姉から衝撃のお願いが！？恥ずかしすぎて彼氏からのクンニを拒否していたのに…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2019-01-19",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "葵千恵",
+        "神ユキ",
+        "凉美ほのか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-541"
+    },
+    {
+      "id": 87541,
+      "IDcode": "AP-596",
+      "title": "一軒家追いかけ回し連続中出し痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2018-11-07",
+      "cover_url": "",
+      "actress": [
+        "真木今日子",
+        "星空萌愛",
+        "森春流",
+        "NIMO",
+        "香山亜衣"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AP-596"
+    },
+    {
+      "id": 73355,
+      "IDcode": "MIRD-181",
+      "title": "私立バキュームフェラ学園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2018-11-01",
+      "cover_url": "",
+      "actress": [
+        "栄川乃亜",
+        "森春流",
+        "宫崎彩",
+        "鲛岛",
+        "七海ゆあ",
+        "星咲伶美",
+        "なつめ爱梨"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIRD-181"
+    },
+    {
+      "id": 72066,
+      "IDcode": "HJMO-389",
+      "title": "素人娘達のピストンバイブ フェラ早抜き競争3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "HAJIME-KIKAKU",
+      "publish_date": "2018-10-13",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250225-1/ce9bb2327b182380581a4a30a6f16901.jpg",
+      "actress": [
+        "绀野光",
+        "沙藤由梨",
+        "森春流",
+        "夏原唯",
+        "御坂莉亚",
+        "山本莲加"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HJMO-389"
+    },
+    {
+      "id": 73101,
+      "IDcode": "SVDVD-662",
+      "title": "羞恥 生徒同士が男女とも全裸献体になって実技指導を行う質の高い授業を実践する看護学校実習2018",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Sadistic Village",
+      "publish_date": "2018-05-24",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/bdb8516e2075d8b2d8e29c15887d3972.jpg",
+      "actress": [
+        "水川蓳",
+        "妃月るい",
+        "森春流",
+        "爱乃零",
+        "生田みく"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SVDVD-662"
+    },
+    {
+      "id": 77961,
+      "IDcode": "HUNTA-436",
+      "title": "成長して超可愛くなった幼馴染と昔みたいに一緒に入浴！想像以上に大人になった幼馴染のエロすぎる体を見て勃起！親が旅行に行ったせいで、近所の年下の幼馴染がお泊りにやって来て2人でお留守番することに。妹のように接してきた年下の幼馴染は可愛くなっていて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2018-04-19",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "君野步美",
+        "皆野あい",
+        "苑田あゆり"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-436"
+    },
+    {
+      "id": 78201,
+      "IDcode": "DCX-079",
+      "title": "完全主観で美少女がチ●ポを素股コキ！極限まで焦らされ精子が枯れるほど絞り取られる。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2018-04-06",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "寶生莉莉",
+        "佐仓宁宁",
+        "海空花",
+        "前田可奈子",
+        "凉美ほのか",
+        "星井笑",
+        "铃ノ木桜",
+        "松雪かなえ",
+        "爱葵いちか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DCX-079"
+    },
+    {
+      "id": 77960,
+      "IDcode": "HUNTA-418",
+      "title": "田舎に住むボクの実家が民泊に！？都会から美人姉妹5人が泊まりに来て2泊3日の共同生活！都会の女性の洗練された魅力にクラクラなボクは女性に慣れていないせいもあってかもう大興奮！しかも、親が我が家のように使ってくださいと言うもんだから、女性客もリラックス…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2018-03-07",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "上田紗奈",
+        "吉川爱美",
+        "真田さな",
+        "宫沢ゆかり"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-418"
+    },
+    {
+      "id": 70848,
+      "IDcode": "BAZX-109",
+      "title": "ガチンコ風俗調査団 1時間10万円！！最高級デリヘルNo.1嬢の『絶対にイカせる』凄テク素股我慢出来たら生中出しSEX！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "BAZOOKA",
+      "publish_date": "2018-01-26",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250222-1/b35e3b3d53198e61f7c1ca8a7241230b.jpg",
+      "actress": [
+        "森春流",
+        "并木杏梨",
+        "美咲まや",
+        "近藤ユキ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BAZX-109"
+    },
+    {
+      "id": 82628,
+      "IDcode": "GVG-292",
+      "title": "お姉ちゃんのリアル性教育 森はるら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLORY QUEST",
+      "publish_date": "2016-04-21",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/866b9835ebb6f2d3ca098fc22f48f7e2.jpg",
+      "actress": [
+        "森春流"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVG-292"
+    },
+    {
+      "id": 79178,
+      "IDcode": "HUNTB-017",
+      "title": "- 「ねぇ～そんなに私とエッチしたいの…？別にいいけど…」義姉はとんでもない童貞喰い超絶倫清楚系ヤリマンビッチだった！突然出来た義姉は… - JAV目錄大全javmenu.com",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/20a23f761a350fead06d7d1d3e5a2774.jpg",
+      "actress": [
+        "姫咲華",
+        "葵玲奈",
+        "森春流",
+        "塩见彩",
+        "冲田里绪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTB-017"
+    }
+  ]
+};

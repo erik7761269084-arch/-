@@ -1,0 +1,155 @@
+// 4084_AVactress_data.js
+window.actressData = {
+  "id": 4084,
+  "name": "羽咲美亜",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 6,
+  "related_dramas": [
+    {
+      "id": 7437,
+      "IDcode": "KSBJ-367",
+      "title": "“咕嘰咕嘰”響不停，美熟女抖着爽到高潮28連發！！VOL.05 ~ 汐河佳奈 翔田千裏 矢吹京子 上原千佳 永野つかさ 谷梓 水川蓳 緒方泰子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2025-03-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
+      "actress": [
+        "小早川怜子",
+        "水川蓳",
+        "本真友里",
+        "翔田千里",
+        "永野司",
+        "谷梓",
+        "川菜美铃",
+        "汐河佳奈",
+        "上原千佳",
+        "矢吹京子",
+        "緒方泰子",
+        "安倍亜沙美",
+        "峰岸カレン",
+        "羽咲美亜",
+        "樱美雪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-367"
+    },
+    {
+      "id": 71522,
+      "IDcode": "NACX-149",
+      "title": "パイパン熟女12人BEST VOL.06 （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2025-03-05",
+      "cover_url": "",
+      "actress": [
+        "本田瞳",
+        "夏川步美",
+        "新村晶",
+        "安倍亜沙美",
+        "东希美",
+        "中野七绪",
+        "羽咲美亜",
+        "蓝川みれい"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-149"
+    },
+    {
+      "id": 93414,
+      "IDcode": "NASK-094",
+      "title": "【FANZA限定】全身ぐるぐるラップ拘束人妻追撃イカセ13人 生写真とパンティ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Nadeshiko",
+      "publish_date": "2024-07-10",
+      "cover_url": "",
+      "actress": [
+        "田中寧寧",
+        "葵百合香",
+        "推川悠里",
+        "武藤彩香",
+        "廣瀨里緒菜",
+        "森萤",
+        "安倍亜沙美",
+        "北川真由香",
+        "羽咲美亜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-094"
+    },
+    {
+      "id": 88942,
+      "IDcode": "UMSO-514",
+      "title": "【FANZA限定】激イキ杭打ちピストン！！ディルドオナニー10人 パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2023-08-23",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/9d935709ddbca381e99e91b9c89c9bfe.jpg",
+      "actress": [
+        "井上綾子",
+        "青木玲",
+        "音羽文子",
+        "池谷佳纯",
+        "今井夏帆",
+        "片瀬仁美",
+        "羽咲美亜",
+        "岛津かおる",
+        "绿川みやび"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-514"
+    },
+    {
+      "id": 84501,
+      "IDcode": "GVH-378",
+      "title": "義父と嫁、密着中出し交尾 羽咲美亜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLORY QUEST",
+      "publish_date": "2022-03-15",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230110-1/41c79ef7527d57c7524adb11e185923a.jpg",
+      "actress": [
+        "羽咲美亜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GVH-378"
+    },
+    {
+      "id": 79113,
+      "IDcode": "APKH-173",
+      "title": "- 裏垢セレブ美人妻（27歳）にDMしたら即ヤリOK！Tバック淫乱不倫妻と密会ハメ撮り 羽咲美亜 - JAV目錄大全javmenu.com",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "羽咲美亜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=APKH-173"
+    }
+  ]
+};

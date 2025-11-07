@@ -1,0 +1,88 @@
+// 1346_AVactress_data.js
+window.actressData = {
+  "id": 1346,
+  "name": "一之濑铃",
+  "age": 30,
+  "birthday_date": "1995-03-29",
+  "img_url": "https://picture.yoshiclub.xyz/20230124/92261f7f-db61-4387-9176-805198b12a6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924031837239239_51553_s.webp",
+  "zodiac": "白羊座",
+  "height": "149cm",
+  "measurements": "胸 73 腰 56 臀 82",
+  "measurements_display": "73C/56/82",
+  "cup": "C",
+  "description": "一之濑铃，日文名 一之瀬すず（ Ichinose Suzu）出生于1995年3月29日，职业是AV女优，2013年12月25日初次亮相。\n\n2013年12月从AV界出道[2]。扮演贫乳的萝莉系AV女优。所属事务所是ハスラー。\n\n2014年12月30日在官方部落格上宣布将于年底引退[2]。\n\n兴趣是料理和刺绣。擅长打网球，通过在文书处理器上的日语检定1级[1]。",
+  "features": [
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "肉嘟嘟",
+    "小乳房",
+    "蘿莉",
+    "小虎牙",
+    "無毛"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2f085da3-11c6-44f6-a21d-355acf8c5677.html",
+  "aliases": [
+    "Haruka Endo",
+    "Suzu Ichinose",
+    "一之瀬すず",
+    "遠藤晴香"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230124/2e7fb96a-5fcd-408f-bc43-6b5522cd23fb.jpg",
+    "https://picture.yoshiclub.xyz/20230124/6cea3787-21de-4ca2-a781-fd8a03afef90.jpg"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 3667,
+      "IDcode": "CEAD-697",
+      "title": "一之瀨鈴 超值精選合集近5小時",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "セレブの友",
+      "publish_date": "2025-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811092957646646_85372_thumbnail.webp",
+      "actress": [
+        "一之濑铃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CEAD-697"
+    },
+    {
+      "id": 1930,
+      "IDcode": "MCBD-06",
+      "title": "MERCIBOKU 06 突然幹翻最近沉溺手機的妹妹。 : 一之瀨鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "MERCI BEAUCOUP",
+      "publish_date": "2015-04-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20230124/9e29cf61-1d3c-4396-8872-4ef29eddbf04.webp",
+      "actress": [
+        "一之濑铃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MCBD-06"
+    },
+    {
+      "id": 82579,
+      "IDcode": "IENE-386",
+      "title": "若かりし頃の母さんとの性交 一之瀬すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2014-04-10",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/26db29b3fea09988e319178dd12415e8.jpg",
+      "actress": [
+        "一之濑铃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=IENE-386"
+    }
+  ]
+};

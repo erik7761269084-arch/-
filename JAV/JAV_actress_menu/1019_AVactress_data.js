@@ -1,0 +1,71 @@
+// 1019_AVactress_data.js
+window.actressData = {
+  "id": 1019,
+  "name": "絵麗奈",
+  "age": 28,
+  "birthday_date": "1997-02-09",
+  "img_url": "https://picture.yoshiclub.xyz/20230831/2e469cf4-d524-4a63-bde2-99eb67218edb.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231101/20231101014432313313.jpg",
+  "zodiac": "水瓶座",
+  "height": "163cm",
+  "measurements": "胸 82 腰 62 臀 94",
+  "measurements_display": "82E/62/94",
+  "cup": "E",
+  "description": "“香港第一人”进军日本AV界的素海霖（Erena），以艺名绘丽奈出道，一夜间成为不少网民的“女神”。三月底，她推出处女作声名大噪后，即刻有一个叫Alice Wong东施效颦，但却只是昙花一现。近期，Erena成为AV界的热门话题人物，皆因她的处女AV作品在日本Amazon排行榜，迅速冲上冠军。早前，素海霖透露自己有今日，全因拜了文武庙，据悉成功进军日本后，她每个月都会抽时间到该庙参拜，希望神明多多庇佑。日前约下午三时，本行就发现，已获邀拍第三部日本AV的Erena，现身上环文武庙。拜完神之后，她便立即坐的士去尖沙咀买性感内衣，希望于这个星期的见面会中，给粉丝一个难忘的surprise！今年AV界焦点必定落在现年二十六岁的素海霖（日本名：绘丽奈，Erena）身上，原名苏凯琳的她，在二十岁时以艺名苏浵签约大名娱乐入行，两年前再以本名苏凯琳出演电影《#PTGF出租女友》。年少时，她笑言不懂珍惜机会：“老实讲，我当时年纪小，不知道自己方向，而且加入大名娱乐是在机缘巧合之下，一个朋友介绍我试镜中了，我只是试一试。那时的性格比较麻烦，试过'放飞机'亦都会迟到，我被人骂过，但那时候的我，依然都会这样做。我觉得这个是好好的人生经历，经过一段时间之后，我认真改变自己，所以很感恩原公司。”作为香港首位进军日本AV界的女优，Erena确实没有“失礼”香港，处女作上架后，获得大批粉丝疯抢，还火速登上日本Amazon热销榜的冠军；而她的社交网粉丝人数更由几千暴升至过二十万，连她自己也不敢相信：“没有想过有这样大的回响！始终觉得做任何一个事业都好，没可能一开始就成功！”▲Erena成为了第一个港产日本女优后，事隔数月，一名自称是香港与大马混血的模特儿Alice Wong，有样学样，进军台湾AV界，但却负评一大箩。当初虽然立志要拍AV作为事业，但要脱清光拍“动作戏”，内心也经过无数次挣扎。此外，作为家中独女的她，最难过的心理关口，始终是家人，自从接拍AV的消息曝光后，她与父母断联了一段长时间，她坦言：“我不会奢望他们去体谅我！”既然选择了这条路，她表示只能一直向前去冲，不要回头望！近期，人气急升的Erena，就获广告商青睐，接拍了首个男士保健产品广告。另外，她还透露即将飞日本筹备第三部作品：“第二部作品反应热烈，大家都对销量满意，我将会一部比一部激烈，自己接受激烈动作片，但拒绝多人运动，女同也不可接受。”她现时努力赚钱，最希望能够三年内买楼。",
+  "features": [
+    "美人",
+    "美乳",
+    "性感",
+    "長相甜美",
+    "中國人"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2cff8ef3-ae9b-4edc-9fd5-6c448ea84ca8.html",
+  "aliases": [
+    "Hoi So",
+    "素 海霖",
+    "絵丽奈",
+    "蘇凱琳",
+    "雨木木"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20230831/2e469cf4-d524-4a63-bde2-99eb67218edb.jpg",
+    "https://picture.yoshiclub.xyz/20230831/6fd00f63-79fc-4760-bb2d-b04701d7eea6.jpg",
+    "https://picture.yoshiclub.xyz/20230831/eed42a4e-5ede-44b3-9e65-24910327a22b.jpg",
+    "https://picture.yoshiclub.xyz/20230831/a21cbef4-73ba-45d9-9aa9-2ecabb16466a.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 17571,
+      "IDcode": "FSDSS-753",
+      "title": "我想今天會愛上你。絵麗奈在沒有翻譯的情況下過夜約會，興奮後發生了激烈的性行為",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "FALENO",
+      "publish_date": "2023-12-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20231127/20231127061150422422.jpg",
+      "actress": [
+        "絵麗奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-753"
+    },
+    {
+      "id": 18866,
+      "IDcode": "FSDSS-716",
+      "title": "世界第一！ FALENOstar限定高級肥皂地 香港人Erina為您服務 Erina",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "FALENO",
+      "publish_date": "2023-09-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011142291291.jpg",
+      "actress": [
+        "絵麗奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=FSDSS-716"
+    }
+  ]
+};

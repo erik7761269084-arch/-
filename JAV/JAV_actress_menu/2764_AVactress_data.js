@@ -1,0 +1,366 @@
+// 2764_AVactress_data.js
+window.actressData = {
+  "id": 2764,
+  "name": "凪沙雪乃",
+  "age": 26,
+  "birthday_date": "1999-02-04",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033031848848_14337_s.webp",
+  "zodiac": "水瓶座",
+  "height": "160cm",
+  "measurements": "胸 100 腰 63 臀 92",
+  "measurements_display": "100I/63/92",
+  "cup": "I",
+  "description": "安齋らら(安齋拉拉)沒現身，我們還是不缺神乳！9月在片商E-Body出道的「凪沙ゆきの(凪沙雪乃)」就是新一代的神乳—看看作品標題，這位新人不只是個神乳，片商還用「少女以上、大人未満」形容她一身稚嫩的氣息，喜歡童顏巨乳的胸奴們絕對不能錯過這位新人：不過話說回來，凪沙ゆきの(凪沙雪乃)這種胸部大到藏不住的女大學生應該在校園裡走到哪裡都是焦點，找個工具人或是調個有錢人對她應該都不是難事，幹嘛跑來拍AV、和一些年紀可以做自己阿爸或是阿公的男優翻雲覆雨？因為她尊重專業！可能因為發育很快，凪沙ゆきの(凪沙雪乃)很早就對性愛有著強烈的好奇心，為了明白高潮的滋味所以她投入了暗黑界找吃這行飯的男優進行實戰。只是在拍片前大家都很擔心，因為凪沙ゆきの(凪沙雪乃)太害羞了，萬一拍不下去怎麼辦？所以導演喊了開麥拉後，男優小心翼翼地伸出抓奶龍爪手，先用掌心覆蓋在她完美的I罩杯大奶上，再慢慢左掌逆時鐘右掌順時鐘用不同的方向搓揉，同時運出拈花指、用恰到好處的力道刺激凪沙ゆきの(凪沙雪乃)的奶頭⋯然後這位女大學生就High了！這是很典型的新人寫法，片商一開始會告訴你這些新人是多麼的不適應又多麼不好幹，但男優一上陣她們就開竅了，沒多久就又噴水又爽到身體痙攣活像隻被料理的活跳蝦。但凪沙ゆきの(凪沙雪乃)最重要最重要的問題不用我講大家也知道，那就是她能不能看啊？E-Body可能是Will集團(北都，前CA)中最不可靠的片商啊：打開試看影片，我又看到似曾相識的場景ー又是只有奶沒有臉，看起來又是一個可能要請她戴上牛皮紙的封面殺手，而且坦白說凪沙ゆきの(凪沙雪乃)的封面我並不覺得很殺；但沒多久，E-Body可能是腦袋燒壞了也可能是對凪沙ゆきの(凪沙雪乃)有著像天一高的信心，沒多久，這位神乳現身了〜其實，還可以耶。如果你是以蒼井そら(蒼井空)的標準來檢視E-Body加在凪沙ゆきの(凪沙雪乃)身上的「童顏巨乳」四字，那這位新人肯定是過不了關；但如果你以這家片商過去推出一堆不是臉不行就是身材不行又或是都不行的女優來看我覺得凪沙ゆきの(凪沙雪乃)分數挺高的，臉蛋沒那麼差，胸部真的有泰山壓頂的壓迫感，雖然有點小腹但也不是吃不下去⋯所以我認為凪沙ゆきの(凪沙雪乃)是不負「大型専属」這四個字的，照理來說E-Body應該會多給她幾支作品的機會，身為胸奴族的你請務必參考參考〜",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "肉嘟嘟",
+    "娃娃臉",
+    "極上巨乳",
+    "極上身材",
+    "蘿莉",
+    "短髮",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/ce3c71c9-ad92-40bc-b51c-8580c6f4c9a5.html",
+  "aliases": [
+    "Kanon Hosokawa",
+    "Yukino Nagisa",
+    "凪沙ゆきの",
+    "細川かのん"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250718/8db8bd12-30c9-44da-b277-a3076360f9c5_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/ca5f3115-d5b5-4965-bf6d-6ea43a39aa59_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/5eee5496-1e55-4628-a87e-c402ab8d9222_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/de5da61a-3b82-4f1c-9d2c-a6fe50b3070c_l.webp"
+  ],
+  "works_count": 15,
+  "related_dramas": [
+    {
+      "id": 4267,
+      "IDcode": "CJOB-185",
+      "title": "完全上位的顏面騎乘！一幹就高潮的極品尤物 ~ 木下日葵 彌生美月 乙愛麗絲 蓮實クレア 藤森裏穂 森日向子 若冢みづな 倉本菫 永井瑪麗亞 桐島莉乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "癡女特化",
+      "publish_date": "2025-07-18",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033031848848_14337_thumbnail.webp",
+      "actress": [
+        "倉本菫",
+        "都月楓",
+        "乙愛麗絲",
+        "彌生美月",
+        "松本一香",
+        "森日向子",
+        "木下日葵",
+        "北野未奈",
+        "藤森里穂",
+        "JULIA",
+        "黑川堇",
+        "佐山爱",
+        "月乃露娜",
+        "宝田萌奈美",
+        "篠田優",
+        "推川悠里",
+        "七草千歲",
+        "仓多真央",
+        "永井瑪麗亞",
+        "葵玲奈",
+        "春菜华",
+        "蓮実クレア",
+        "吉良鈴",
+        "若槻みづな",
+        "香坂紗梨",
+        "桐岛莉乃",
+        "香椎梨亞",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "弥生美月"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-185"
+    },
+    {
+      "id": 5126,
+      "IDcode": "CJOB-182",
+      "title": "吸奶頭爽翻天！授乳手活精選輯 ~ 吉根柚莉爱 姫咲華 推川悠里 宝田萌奈美 若月美衣奈 佐知子 莉莉遙香 神坂朋子 七草千歲 春菜华",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "癡女特化",
+      "publish_date": "2025-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092238629629_thumbnail.webp",
+      "actress": [
+        "吉根柚莉爱",
+        "姫咲華",
+        "宝田萌奈美",
+        "妃光莉",
+        "推川悠里",
+        "七草千歲",
+        "莉莉遙香",
+        "神坂朋子",
+        "春菜华",
+        "若槻みづな",
+        "凪沙雪乃",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-182"
+    },
+    {
+      "id": 93840,
+      "IDcode": "PPBD-284",
+      "title": "敏感チクビをこねくり回す痙攣絶頂FUCK",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2024-07-16",
+      "cover_url": "",
+      "actress": [
+        "吉根柚莉爱",
+        "夕美紫苑",
+        "深田詠美",
+        "小梅惠奈",
+        "桐谷茉莉",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "田中瞳"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-284"
+    },
+    {
+      "id": 93811,
+      "IDcode": "PPBD-282",
+      "title": "おわん！釣鐘！半球！個性豊かな美バスト収録！！巨乳美少女達の乳ま〇こでイき果てる！射精直前パイズリラッシュ！99連発！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2024-06-18",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/e45ef253f89c25418a2563ec18b775ba.jpg",
+      "actress": [
+        "田中寧寧",
+        "藤森里穂",
+        "辻井穗乃果",
+        "日下部加奈",
+        "瓊·洛夫喬伊",
+        "川村晴",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "深泽祈莉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-282"
+    },
+    {
+      "id": 90611,
+      "IDcode": "PPBD-266",
+      "title": "「なんか出ちゃうよぉっ！」 巨乳女子のスケベエキス全放出！失禁・潮吹き大洪水アクメ80連発BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2023-10-17",
+      "cover_url": "",
+      "actress": [
+        "藤森里穂",
+        "妃光莉",
+        "一色さゆり",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "浜崎真绪",
+        "黑川纱里奈",
+        "叶月桃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-266"
+    },
+    {
+      "id": 91345,
+      "IDcode": "CJOB-136",
+      "title": "耳元ささやき射精されBestドスケベ淫語ささやかれながらチ○ポをグリグリしごかれ何度も痴女られる！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "癡女特化",
+      "publish_date": "2023-08-22",
+      "cover_url": "",
+      "actress": [
+        "JULIA",
+        "東條夏",
+        "月乃露娜",
+        "沙月芽衣",
+        "本真友里",
+        "小栗操",
+        "蓮実クレア",
+        "吉良鈴",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOB-136"
+    },
+    {
+      "id": 79881,
+      "IDcode": "SIRO-4662",
+      "title": "【初撮り】【童顔×爆乳】【パイズリ奉仕】メイドカフェで働く爆乳文学系JDが登場。童顔でアニメ声の少女は振り子のように爆乳を揺らし、恥ずかしがりながらも淫らな言葉を紡いでいく。 ネットでAV応募→AV体験撮影 1653",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2021-10-12",
+      "cover_url": "",
+      "actress": [
+        "凪沙雪乃",
+        "ゆきの"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SIRO-4662"
+    },
+    {
+      "id": 79365,
+      "IDcode": "USAG-037",
+      "title": "超爆乳 Jカップレイヤー 地方在住・個撮 「田舎じゃ楽しいこと何もないんです。上京したいけど勇気なくて。」地方在住ロリ巨乳の地味娘と1日中コスハメセックス。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MILK",
+      "publish_date": "2021-09-21",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/12c3c3ab36384698ae62eb51c51f30b6.jpg",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=USAG-037"
+    },
+    {
+      "id": 79488,
+      "IDcode": "BBTU-018",
+      "title": "密室デカパイ育成授業 凪沙ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DOGMA",
+      "publish_date": "2021-08-19",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ca1d80eccd50806760c8f8c3aca859e6.jpg",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BBTU-018"
+    },
+    {
+      "id": 79272,
+      "IDcode": "URKK-041",
+      "title": "爆乳Iカップ従姉妹との同居生活誘惑パイずりW中出し",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "UNFINISHED",
+      "publish_date": "2021-07-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/feededb9dac685ea46f7468413ab5ce7.jpg",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=URKK-041"
+    },
+    {
+      "id": 86874,
+      "IDcode": "CJOD-286",
+      "title": "中出しOK爆乳美女にしっとり痴女られる囁き回春エステ 凪沙ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2021-03-25",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/33a6e5eb5f8a1f52e9fe75b6ccf12c57.jpg",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CJOD-286"
+    },
+    {
+      "id": 67743,
+      "IDcode": "EBOD-794",
+      "title": "姉交換NTR 「俺の姉ちゃんのデカ乳揉ませてやるから、お前の姉ちゃんのデカ乳揉ませろよ」 真夏の田舎で再会した思春期4人のセックス覚えたて猿並み性交 凪沙ゆきの 稲場るか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2021-01-13",
+      "cover_url": "",
+      "actress": [
+        "凪沙雪乃",
+        "稻场流花"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-794"
+    },
+    {
+      "id": 91474,
+      "IDcode": "EBOD-788",
+      "title": "彼女の巨乳妹がカップル旅行に無理やり付いてきて浴衣越しの湯上りIカップでこっそり僕を誘惑し続けた2日間 凪沙ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2020-12-13",
+      "cover_url": "",
+      "actress": [
+        "白石環奈",
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-788"
+    },
+    {
+      "id": 91453,
+      "IDcode": "EBOD-777",
+      "title": "中出し解禁！！巨乳だいしゅきオヤジに神乳Iカップしゃぶられ続ける唾液と精液ねっとり濃厚汁まみれ性交 凪沙ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2020-11-13",
+      "cover_url": "",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-777"
+    },
+    {
+      "id": 67405,
+      "IDcode": "EBOD-770",
+      "title": "早熟Iカップに無自覚すぎるノーブラおっとり姪っ子 凪沙ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2020-10-13",
+      "cover_url": "",
+      "actress": [
+        "凪沙雪乃"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBOD-770"
+    }
+  ]
+};

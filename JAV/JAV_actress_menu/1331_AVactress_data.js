@@ -1,0 +1,106 @@
+// 1331_AVactress_data.js
+window.actressData = {
+  "id": 1331,
+  "name": "尾崎實里",
+  "age": 24,
+  "birthday_date": "2001-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250529/daa81418-6a42-45cc-99cd-b92af2dec51c_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075742285285_s.webp",
+  "zodiac": "摩羯座",
+  "height": "160cm",
+  "measurements": "胸 110 腰 62 臀 94",
+  "measurements_display": "110J/62/94",
+  "cup": "J",
+  "description": "怎麼又是J罩杯？每天看日本情色片，我都懷疑哪一天招牌掉下來會砸中好幾個J罩杯的乳牛；也因為這樣的大奶在業界越來越普遍，所以片商疊加在她們身上的設定也越來越多，不信？來看這位「尾崎みのり(尾崎實里)」：好大的乳暈啊！其實光是這點特色就決定了她能不能賣：我們常常說那個誰誰誰乳暈好色，但那沒有一定的標準，有人喜歡大一點有人喜歡畫龍點睛小小的就好，有人喜歡顏色深一點有人覺得越粉越好，我自己是沒有很喜歡像尾崎みのり(尾崎實里)這麼大顏色又那麼深的乳暈時，但我相信會有人很興奮；而除了J罩杯的大奶呢？看了標題和文案就知道，尾崎みのり(尾崎實里)是個高學歷然後又很敏感色情的女孩，之所以下海成為AV女優的理由很簡單，就是「想幹」：這樣的新人要怎麼「操」才會讓大家鼓掌叫好呢？當然就是不要因為她是一朵嬌花而憐惜她，不只在場上要越用力越好而且最好找來一些看起來很變態甚至是有點噁心的男優來處理她，這樣高學歷的人物設定才能發揮最大的作用；當然，除了男優賣力打樁之外，尾崎みのり(尾崎實里)自己也要爭氣，既然人設很好色那自然要演出如狼似虎的感覺，當男優撲上來的時候不只要接受他擁抱他還要表現出被玩壞的樣子，而簡單且粗暴的表演方式就是拼命噴水：所以這會是一支視覺效果很豐富的新人片，尾崎みのり(尾崎實里)乳暈超大是其一，男優動作很大甚至很誇張是其二，光看到那麼多跳蛋和按摩棒就能說明一切；最後就是女優本人瘋狂潮吹不斷噴水的演出了，導演會利用各種的角度告訴大家端午節快到了關雲長威震華夏了，水淹七軍啊啊啊啊啊！不過話說回來，又是J罩杯又是水姑娘而且還是超肉感，現在就連社群(https://x.com/ozaki_minori)也出來了，怎麼尾崎みのり(尾崎實里)不是在二線片商專屬出道？宣傳片大概可以看出原因，乳暈是不是大家都喜歡很難說，不能算是很精緻的臉蛋和相當肉感的身材在這次作品偏昏暗的打光下讓人有點髒髒的感覺也讓人對她未來的發展打了個問號，到底尾崎みのり(尾崎實里)能不能靠著極度腫脹的J罩杯、砂鍋大的乳暈以及超強的噴水功能在這一行站穩腳步呢？讓我們一起看下去～",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "女人味",
+    "長相溫柔",
+    "嫵媚",
+    "長相甜美",
+    "肉嘟嘟",
+    "極上巨乳",
+    "身材豐滿",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/21985385-6f1b-415c-ad33-798db4ccad6d.html",
+  "aliases": [
+    "Ozaki Minori",
+    "尾崎みのり",
+    "尾崎实里"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250529/daa81418-6a42-45cc-99cd-b92af2dec51c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250529/69036eae-c7c5-4d19-aaf2-132a3e0bd7e8_l.webp"
+  ],
+  "works_count": 4,
+  "related_dramas": [
+    {
+      "id": 2537,
+      "IDcode": "NACT-017",
+      "title": "街頭站街巨乳妹 深夜出沒的背後故事大公開 ~ 尾崎實里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2025-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919072010238238_88092_thumbnail.webp",
+      "actress": [
+        "尾崎實里",
+        "ロダン富士"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACT-017"
+    },
+    {
+      "id": 60343,
+      "IDcode": "BOBB-445",
+      "title": "Jカップ南国ハーフ娘のエキゾチック巨乳輪！魅惑のアジアンビューティボインを乳フェチズム責めで味わい尽くす！Boin「尾崎みのり」Box",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2025-09-02",
+      "cover_url": "",
+      "actress": [
+        "尾崎實里"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BOBB-445"
+    },
+    {
+      "id": 3277,
+      "IDcode": "ONSG-095",
+      "title": "J杯巨乳風俗妹 超誘惑體驗 ~ 尾崎實里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Gain Corporation",
+      "publish_date": "2025-08-22",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823041912801801_94279_thumbnail.webp",
+      "actress": [
+        "尾崎實里"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONSG-095"
+    },
+    {
+      "id": 5721,
+      "IDcode": "MIFD-598",
+      "title": "新人出道！高學歷妹子卻有超色情乳暈真不好意思…J杯爆乳AV初登場 AV DEBUT ~ 尾崎實裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-05-30",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075742285285_thumbnail.webp",
+      "actress": [
+        "尾崎實里"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-598"
+    }
+  ]
+};

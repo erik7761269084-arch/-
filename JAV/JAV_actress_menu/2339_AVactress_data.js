@@ -1,0 +1,80 @@
+// 2339_AVactress_data.js
+window.actressData = {
+  "id": 2339,
+  "name": "美波あみな",
+  "age": 30,
+  "birthday_date": "1995-05-30",
+  "img_url": "https://picture.yoshiclub.xyz/20240508/f1e38c5e-b7b8-4a71-9e00-63370274fb5a.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240506/202405060852531616.jpg",
+  "zodiac": "雙子座",
+  "height": "165cm",
+  "measurements": "胸 82 腰 58 臀 86",
+  "measurements_display": "82C/58/86",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "熟女",
+    "人妻",
+    "修長癡體"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/572b558e-3f93-4583-98f0-d22ca91164b0.html",
+  "aliases": [
+    "Amina Minami",
+    "Megumi Suzuki",
+    "Mizuho Yoshitaka",
+    "Yuuki Yaoi",
+    "吉高みずほ",
+    "天野玲",
+    "矢追優希",
+    "鈴木めぐみ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-天野玲.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-鈴木めぐみ.jpg",
+    "https://picture.yoshiclub.xyz/20240508/709400d9-d587-4abe-a4d5-7cb4de678641.jpg",
+    "https://picture.yoshiclub.xyz/20240508/d8a1924a-3383-4731-a396-c488a1cdb442.jpg",
+    "https://picture.yoshiclub.xyz/20240508/e45516d5-bf9c-4432-8e22-4e9ed9c2a797.jpg",
+    "https://picture.yoshiclub.xyz/20240508/48f677d4-57d8-4d52-9382-6df7043f609f.jpg",
+    "https://picture.yoshiclub.xyz/20240508/58127ad6-fcb0-489e-8a58-794cd43cde60.jpg",
+    "https://picture.yoshiclub.xyz/20240508/40370b14-94b2-46d9-ba47-312a46f616f8.jpg",
+    "https://picture.yoshiclub.xyz/20240508/ac4901f5-554c-4ebc-a89e-6ff6b811f9e8.jpg",
+    "https://picture.yoshiclub.xyz/20240508/ca683db8-ccc0-4bf0-8471-1901c4423b43.jpg",
+    "https://picture.yoshiclub.xyz/20240508/cc86383d-8c90-4ccf-9618-b7e5005ce57e.jpg",
+    "https://picture.yoshiclub.xyz/20240508/352f0bdc-e4dc-4f23-aabc-b0fadcc88534.jpg",
+    "https://picture.yoshiclub.xyz/20240508/0e1d97e6-813d-4f70-a383-7e6125ad1449.jpg",
+    "https://picture.yoshiclub.xyz/20240508/f47d7ec9-34ad-4259-8a26-15b32057a139.jpg",
+    "https://picture.yoshiclub.xyz/20240508/fa487e4b-be0e-4c15-a152-25dc83ea8a2d.jpg",
+    "https://picture.yoshiclub.xyz/20240508/2ebaf5af-b80f-4b00-8491-ac9e1e6ee5de.jpg",
+    "https://picture.yoshiclub.xyz/20240508/15097296-6b96-4252-a433-1c5c7eef55c2.jpg",
+    "https://picture.yoshiclub.xyz/20240508/bea71555-d22d-4760-812c-b541abea9b3e.jpg",
+    "https://picture.yoshiclub.xyz/20240508/e53c40a8-7d68-46ba-ae63-4e5c3231e7e4.jpg",
+    "https://picture.yoshiclub.xyz/20240508/d4e77f27-91c0-42da-92bd-71e9fa7a8fe2.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 81936,
+      "IDcode": "RCTS-005",
+      "title": "金粉WAMエステサロン セレブ妻黄金アクメフルコース",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2019-12-12",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/766682592775b4ee5609b74a8ea256d9.jpg",
+      "actress": [
+        "美波あみな",
+        "奏はる"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RCTS-005"
+    }
+  ]
+};

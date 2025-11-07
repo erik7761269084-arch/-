@@ -1,0 +1,236 @@
+// 3202_AVactress_data.js
+window.actressData = {
+  "id": 3202,
+  "name": "円城ひとみ",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 10,
+  "related_dramas": [
+    {
+      "id": 3286,
+      "IDcode": "NSFS-411",
+      "title": "AI重製版 讓我吃醋吧… 禁忌母女交換·愛女玩偶 永久珍藏版277分鐘 ~ 真心實 内藤斐奈 蕾 加納瞳 水嶋愛 結城美佐 円城ひとみ 早乙女愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻官能AV",
+      "publish_date": "2025-08-22",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/202508230339243737_81876_thumbnail.webp",
+      "actress": [
+        "早乙女らぶ",
+        "水嶋あい",
+        "真心実",
+        "蕾",
+        "加納瞳",
+        "结城美佐",
+        "神咲ナオミ",
+        "乙葉みくる",
+        "円城ひとみ",
+        "相楽かごめ",
+        "迦纳瞳",
+        "夏目レイコ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-411"
+    },
+    {
+      "id": 68319,
+      "IDcode": "HMIX-044",
+      "title": "衝撃の拉致強●！！ 人妻捕鯨船 強●イカセに悶絶！大量潮吹き連発！！ 15人 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "G.M.E",
+      "publish_date": "2025-04-22",
+      "cover_url": "",
+      "actress": [
+        "小早川怜子",
+        "風間由美",
+        "川上優",
+        "安倍亜沙美",
+        "円城ひとみ",
+        "森下美绪",
+        "白鸟寿美礼",
+        "福田由贵",
+        "庄司优喜江",
+        "吉瀬菜々子"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMIX-044"
+    },
+    {
+      "id": 95096,
+      "IDcode": "NACX-145",
+      "title": "未亡人の義母と嫁の留守を狙い禁断の中出し性交5人VOL.02 （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2024-11-20",
+      "cover_url": "",
+      "actress": [
+        "久保今日子",
+        "加山なつ子",
+        "音羽文子",
+        "円城ひとみ",
+        "柏木舞子"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-145"
+    },
+    {
+      "id": 87150,
+      "IDcode": "NASH-902",
+      "title": "縛られた未亡人 緊縛調教に堕ちた美しき悲哀妻 4人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2023-06-13",
+      "cover_url": "",
+      "actress": [
+        "翔田千里",
+        "黒沢那智",
+        "円城ひとみ",
+        "一ノ瀬あやめ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-902"
+    },
+    {
+      "id": 81862,
+      "IDcode": "NASH-226",
+      "title": "レズビアン美熟女 快楽を貪り合う淫汁まみれのヌルべちょ性交 同性に寝取られた妻たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2020-01-31",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/3915843dc839601aba48934c0050f920.jpg",
+      "actress": [
+        "風間由美",
+        "佐伯由美香",
+        "羽生ありさ",
+        "円城ひとみ",
+        "森下美绪",
+        "福田由贵",
+        "叶山りん",
+        "水上由纪恵"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASH-226"
+    },
+    {
+      "id": 102934,
+      "IDcode": "AUKG-455-",
+      "title": "変態熟女レズサークル～義姉とセフレと私のレズビアン交尾～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MILK",
+      "publish_date": "2019-04-13",
+      "cover_url": "",
+      "actress": [
+        "円城ひとみ",
+        "川崎纪里恵",
+        "佐和彩花"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKG-455-"
+    },
+    {
+      "id": 98234,
+      "IDcode": "AUKB-093-",
+      "title": "内緒の浴室濡れ肌密着レズビアン240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2019-01-01",
+      "cover_url": "",
+      "actress": [
+        "葵百合香",
+        "武藤彩香",
+        "翔田千里",
+        "一条绮美香",
+        "円城ひとみ",
+        "绪方泰子",
+        "松うらら",
+        "水上由纪恵",
+        "あいだ飞鸟",
+        "真山由夏"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AUKB-093-"
+    },
+    {
+      "id": 88112,
+      "IDcode": "MMIX-012",
+      "title": "半年SEXしていない欲求不満の美熟女とAV観賞していたらしこしこされて発射寸前！我慢汁ぬるんぬるんのチ○ポをじゅぽじゅぽしゃぶられた！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLAYz",
+      "publish_date": "2018-11-07",
+      "cover_url": "",
+      "actress": [
+        "円城ひとみ",
+        "如月丽华",
+        "迦纳绫子",
+        "中山香苗",
+        "笠原智美",
+        "叶山弓子",
+        "甲斐ミハル"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MMIX-012"
+    },
+    {
+      "id": 78466,
+      "IDcode": "DJE-077",
+      "title": "熟シャッ！！ 熟女を溺愛するカタチ 円城ひとみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "WAAP GROUP",
+      "publish_date": "2017-11-03",
+      "cover_url": "",
+      "actress": [
+        "円城ひとみ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DJE-077"
+    },
+    {
+      "id": 106821,
+      "IDcode": "NSPS-097",
+      "title": "究極の寝取られスワップ 母娘ダッチワイフ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2010-11-25",
+      "cover_url": "https://tutu1.space/images/2023/11/08/37dff3924aed1ffd85669ba77de45efe.jpg",
+      "actress": [
+        "早乙女らぶ",
+        "円城ひとみ",
+        "相楽かごめ",
+        "迦纳瞳"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSPS-097"
+    }
+  ]
+};

@@ -1,0 +1,95 @@
+// 1407_AVactress_data.js
+window.actressData = {
+  "id": 1407,
+  "name": "天宮鈴",
+  "age": 20,
+  "birthday_date": "2005-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250613/184b6f0c-b72c-4c9a-ada4-8196b7cfb595_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603496496_40381_s.webp",
+  "zodiac": "摩羯座",
+  "height": "156cm",
+  "measurements": "胸 92 腰 59 臀 93",
+  "measurements_display": "92H/59/93",
+  "cup": "H",
+  "description": "是H罩杯的巨乳新人！她叫「天宮すず(天宮鈴)」，將在6月17號於片商E-Body出道，蘿莉的臉蛋加上一手無法掌握的大奶，看起來很吸引人對吧？然後她還有很好玩的人設：封面說了，天宮すず(天宮鈴)「男子が超苦手」、非常不擅長應付男人，但很有趣喔，雖然看到男生就怕然後也沒什麼經驗，但天宮すず(天宮鈴)的性知識可是豐富的不得了，而且總是幻想和男人做壞壞的事，所以片商最後給了她一個封號：「妄想モンスター(妄想的野獸)」。除此之外，片商還說天宮すず(天宮鈴)是個存在感很薄弱的女生，在上學的時候每天都是獨自待在教室的角落，幾乎沒有人注意到她；也因為如此，所以她完全沒有被任何人事物「污染」，E-Body在面試的時候完全不敢想像竟然還有這麼純真、天然、什麼都不懂的女孩存在於這個世界上，讓他們不知不覺地產生了想要弄壞她的念頭，這樣一個很愛妄想但是又純真無邪的女孩，應該會讓一起合作的男優獸性大發，愈捅愈大力吧～文案寫了那麼多，那，天宮すず(天宮鈴)到底在片中是什麼模樣？看了宣傳影片就知道，天宮すず(天宮鈴)的胸部真是極品，不只大而且圓最重要的還有又粉又嫩的奶頭，再加上學生服的打扮真的是會讓男人食指大動；還有還有，因為經驗不多再加上整天想些有的沒的，所以天宮すず(天宮鈴)很快就進入狀況，男優隨便摸兩下就發出很開心的尖叫聲，開啟金手指模式後更是讓她大失禁、下半身像是壞了的水龍頭一樣不停的噴水⋯有奶子還超敏感很容易噴水，這真的太棒了對吧？不過有一點要提醒大家注意的事E-Body很可能老毛病又犯了，快兩分鐘的影片看下來我總覺得鏡頭有意無意地避開了天宮すず(天宮鈴)的臉蛋，封面上的她看起來可是不輸S1的榊原萌，就不知道影片中的她會不會讓大家想要摔遙控器成為螢幕破壞者？因為片商是E-Body ，所以請大家做好心理準備，這位新人身材真的很好用、反應也是超激烈，但臉蛋還是不期不待比較好，以免看片受傷害～",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "嬌小身材",
+    "肉嘟嘟",
+    "娃娃臉",
+    "極上巨乳",
+    "蘿莉",
+    "臉大",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/6bdfcdcd-9c95-457a-9402-9e58b754f2ff.html",
+  "aliases": [
+    "Amamiya Suzu",
+    "天宫铃",
+    "天宮すず"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250613/cc19d307-bce9-4e4f-aa9c-41df438884bd_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250613/77626f9e-aee5-4242-b0bd-d6039b8bf884_l.webp"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 3591,
+      "IDcode": "EBWH-251",
+      "title": "這奶子這身體，真想立馬就和她生娃 被繼父賣身的美巨乳娘被油膩大叔們瘋狂種付 ~ 天宮鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-08-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603496496_40381_thumbnail.webp",
+      "actress": [
+        "天宮鈴"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-251"
+    },
+    {
+      "id": 4500,
+      "IDcode": "EBWH-249",
+      "title": "內向蘿莉巨乳學生妹被逼穿超羞恥衣服直接開幹，下面夾得超緊直接高潮啦 ~ 天宮鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-07-11",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031543904904_85226_thumbnail.webp",
+      "actress": [
+        "天宮鈴"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-249"
+    },
+    {
+      "id": 5337,
+      "IDcode": "EBWH-240",
+      "title": "蘿莉新人出道！男生超苦手，卻讓人忍不住想保護她！經驗少卻性知識爆棚，內心超想和男生開車的小可愛，H杯蘿莉制服美少女 AV DEBUT ~ 天宮鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061409459459_thumbnail.webp",
+      "actress": [
+        "天宮鈴",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-240"
+    }
+  ]
+};

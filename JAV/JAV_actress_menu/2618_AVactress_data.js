@@ -1,0 +1,68 @@
+// 2618_AVactress_data.js
+window.actressData = {
+  "id": 2618,
+  "name": "藤咲梨紅",
+  "age": 39,
+  "birthday_date": "1986-09-27",
+  "img_url": "https://picture.yoshiclub.xyz/20231220/25e7a0ba-f92c-4ce8-b985-4fb167f3f169.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231220/d5f2abfa-e41a-4379-95b7-3e1dce9dd285.jpg",
+  "zodiac": "天秤座",
+  "height": "160cm",
+  "measurements": "胸 95 腰 60 臀 93",
+  "measurements_display": "95E/60/93",
+  "cup": "E",
+  "description": "",
+  "features": [
+    "美人",
+    "大乳房",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "熟女",
+    "特別騷"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/a540a4b2-6d3b-40f8-935e-97db21b644a1.html",
+  "aliases": [
+    "Riku Fujisaki",
+    "藤咲りく"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231220/25e7a0ba-f92c-4ce8-b985-4fb167f3f169.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 17180,
+      "IDcode": "NACR-739",
+      "title": "客戶滿意度第一！極難預約的巨乳技师藤咲梨紅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2023-12-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20231220/d5f2abfa-e41a-4379-95b7-3e1dce9dd285.jpg",
+      "actress": [
+        "藤咲梨紅"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-739"
+    },
+    {
+      "id": 90753,
+      "IDcode": "NACR-718",
+      "title": "巨乳で性格も良く呼べばすぐに来て何でもやってくれる！？いいなりセフレちゃん！！ 藤咲りく 生写真とパンティ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2023-10-20",
+      "cover_url": "",
+      "actress": [
+        "藤咲梨紅"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-718"
+    }
+  ]
+};

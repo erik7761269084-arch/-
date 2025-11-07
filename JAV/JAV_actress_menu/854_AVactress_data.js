@@ -1,0 +1,119 @@
+// 854_AVactress_data.js
+window.actressData = {
+  "id": 854,
+  "name": "早見奈奈",
+  "age": 26,
+  "birthday_date": "1999-10-06",
+  "img_url": "https://picture.yoshiclub.xyz/20250224/2b755859-d023-4239-b04d-8704f9296717.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250326/23bf96b1-4436-455b-a9da-7a597abe06b3.jpg",
+  "zodiac": "天秤座",
+  "height": "161cm",
+  "measurements": "胸 85 腰 62 臀 88",
+  "measurements_display": "85D/62/88",
+  "cup": "D",
+  "description": "唸書的時候你有沒有碰過這樣的女孩？她完全沒有女人味、她和男孩子稱兄道弟、大家也沒有把她當女人看…也許多年過後你回頭看她不是真的那麼沒有女人味，或許那只是她的保護色、或許她用和男人當哥們的做法掩飾自己的想法～早見なな(早見奈奈)就是這樣的女孩：在SOD子品牌青春時代出道的她就是個被周遭朋友當男生看的女孩，她一頭短髮、配上封面上翹著二郎腿的樣子給人不修邊幅的感覺(這樣形容女孩子很怪，但我想不到更好的形容詞)，甚至周遭的朋友也真的因為感覺不到女人味而把她當男生看…但實際上早見なな(早見奈奈)內心還是個女孩，被人稱讚可愛會很開心，對性愛也是既期待又怕受傷害…但她真的很想被大家當做女孩看，於是她下海成了AV女優：衣服一脫，被稱讚「身材不錯喔」的她開心地笑了，下面也忍不住濕了，在男優的金手指和30公分好棒棒刺激下換上學生服的她不只水流成河還忍不住發出喜悅的叫聲，爽，真的爽！當女人真好！看到這樣的故事，不知道你對早見なな(早見奈奈)有什麼想法？我拿到封面時只覺得這位新人「坐姿有點怪」但也不覺得她沒有女人味，直到看了文案才知道為什麼攝影師要她翹著二郎腿入鏡。同樣地，看劇照、看宣傳短片，我也不覺得早見なな(早見奈奈)有多爺們，相反地，就和文案說的一樣，她實在好適合短髮，雖然有些表情和動作看得出她不是那麼「淑女」，但看到她因為不習慣鏡頭導致身體非常緊繃而表演得非常彆扭時，我只有三個字能形容：好可愛！雖然在青春時代肯定不會待太久、雖然她有可能會從此被定型成小男生的形象，但沒關係，我覺得這樣的早見なな(早見奈奈)也挺吸引人的，你說是吧？",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "性感",
+    "大眼睛",
+    "天然",
+    "T系",
+    "中性風"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/97da251a-db6b-482a-a6eb-5f0fe5ab9045.html",
+  "aliases": [
+    "Momoko Murayama",
+    "Nana Hayami",
+    "Yui Miyata",
+    "井上美奈",
+    "宮田唯以",
+    "早見なな",
+    "村山桃子"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250224/2b755859-d023-4239-b04d-8704f9296717.jpg",
+    "https://picture.yoshiclub.xyz/20250224/a763338c-556f-4ffe-904a-085a441d4666.jpg",
+    "https://picture.yoshiclub.xyz/20250224/dc8d4029-6d52-416a-84a3-e03487dd8e2c.jpg",
+    "https://picture.yoshiclub.xyz/20250224/f2877206-9c4e-41fd-8ead-9b90d4c611a0.jpg"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 5307,
+      "IDcode": "MUDR-318",
+      "title": "擁有超大雞巴的陰鬱男被全班女生圍着求幹，瘋狂開幹的後宮大亂交 ~ 有加裏乃乃花 早見奈奈 泉莉音 伊織雛乃 雪奈真冬 香月えりさ 須崎美羽 天乃のあ 宮ノ木しゅんか 木之內奈々葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "無垢",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061939367367_thumbnail.webp",
+      "actress": [
+        "泉莉音",
+        "有加里乃乃花",
+        "伊織雛乃",
+        "天乃のあ",
+        "須崎美羽",
+        "宮ノ木しゅんか",
+        "早見奈奈",
+        "香月えりさ",
+        "雪奈真冬",
+        "木之内奈々葉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUDR-318"
+    },
+    {
+      "id": 6555,
+      "IDcode": "JKSR-682",
+      "title": "現役女學生被強制中出調教！鎖定制服蘿莉塔9人 ~ 澪川遙 斉藤月乃 まなみ静奈 久和原聖羅 早見奈奈 希和みこと 北岡果林 森咲はるの 恵沙也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Big Morkal",
+      "publish_date": "2025-04-26",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
+      "actress": [
+        "北岡果林",
+        "久和原聖羅",
+        "恵沙也香",
+        "澪川遙",
+        "希和みこと",
+        "早見奈奈",
+        "森咲はるの",
+        "斉藤月乃",
+        "まなみ静奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JKSR-682"
+    },
+    {
+      "id": 6610,
+      "IDcode": "PFES-101",
+      "title": "內褲誘惑後宮學園 就我一個男生！？學校女子全員誘惑中出大亂鬥SEX ~ 天馬唯 五芭 小阪ひまり 沙月惠奈 香月えりさ 早見奈奈 木之內奈々葉 望月蕾 須崎美羽 千川とわ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-04-25",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423042352330330_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "沙月惠奈",
+        "小坂ひまり",
+        "望月蕾",
+        "五芭",
+        "千川とわ",
+        "須崎美羽",
+        "早見奈奈",
+        "香月えりさ",
+        "木之内奈々葉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFES-101"
+    }
+  ]
+};

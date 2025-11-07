@@ -1,0 +1,135 @@
+// 3195_AVactress_data.js
+window.actressData = {
+  "id": 3195,
+  "name": "北川真由香",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 5,
+  "related_dramas": [
+    {
+      "id": 2507,
+      "IDcode": "NSFS-418",
+      "title": "職權濫用 老婆被渣上司搶走 ~ 加藤綾乃 飯山香織 聖妃羽里 卯水咲流 春明潤 北川真由香 三尾惠",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻官能AV",
+      "publish_date": "2025-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/202509190706429595_78448_thumbnail.webp",
+      "actress": [
+        "加藤あやの",
+        "聖妃羽里",
+        "卯水咲流",
+        "三尾惠",
+        "飯山香織",
+        "北川真由香",
+        "春明润",
+        "饭山香织",
+        "舞原圣"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-418"
+    },
+    {
+      "id": 95192,
+      "IDcode": "KSBJ-344",
+      "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー21連発！！VOL.04",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "KSB企畫",
+      "publish_date": "2024-11-19",
+      "cover_url": "",
+      "actress": [
+        "佐々木咲和",
+        "青木玲",
+        "山口珠理",
+        "木村穂乃香",
+        "安倍亜沙美",
+        "北川真由香",
+        "今藤雾子",
+        "君岛美绪",
+        "柏木舞子",
+        "黒川珠美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-344"
+    },
+    {
+      "id": 93414,
+      "IDcode": "NASK-094",
+      "title": "【FANZA限定】全身ぐるぐるラップ拘束人妻追撃イカセ13人 生写真とパンティ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Nadeshiko",
+      "publish_date": "2024-07-10",
+      "cover_url": "",
+      "actress": [
+        "田中寧寧",
+        "葵百合香",
+        "推川悠里",
+        "武藤彩香",
+        "廣瀨里緒菜",
+        "森萤",
+        "安倍亜沙美",
+        "北川真由香",
+        "羽咲美亜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NASK-094"
+    },
+    {
+      "id": 67785,
+      "IDcode": "HBAD-635",
+      "title": "あぁ硬いのが欲しい！！熟した躰の年上女房溢れ出る性的願望 北川真由香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "HIBINO",
+      "publish_date": "2022-10-06",
+      "cover_url": "",
+      "actress": [
+        "北川真由香"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HBAD-635"
+    },
+    {
+      "id": 69381,
+      "IDcode": "NACX-151",
+      "title": "- 巨乳輪熟女10人BEST （BOD） - JAV目錄大全javmenu.com",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/f5650939/vod.jpg",
+      "actress": [
+        "武藤彩香",
+        "谷梓",
+        "高光真子",
+        "牧村彩香",
+        "北川真由香",
+        "菅野真穂",
+        "响りん",
+        "叶月奈穂",
+        "青木りん"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACX-151"
+    }
+  ]
+};

@@ -1,0 +1,167 @@
+// 359_AVactress_data.js
+window.actressData = {
+  "id": 359,
+  "name": "加藤ツバキ",
+  "age": 42,
+  "birthday_date": "1983-04-23",
+  "img_url": "https://picture.yoshiclub.xyz/20230509/0836e5f4-86e2-4f7c-9d01-7f1ddf3f1ed6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250226/795f6d35-af60-483a-837c-222cb1532234.jpg",
+  "zodiac": "金牛座",
+  "height": "162cm",
+  "measurements": "胸 82 腰 60 臀 88",
+  "measurements_display": "82D/60/88",
+  "cup": "D",
+  "description": "加藤椿（别名：加藤ツバキ），日本女演员  1984年4月23日出生于日本东京都，代表作品《キラー・テナント》。",
+  "features": [
+    "美人",
+    "美乳",
+    "熟女"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8cf804cb-ae23-4427-bd98-e5f107b97bd2.html",
+  "aliases": [
+    "Eri Sagawa",
+    "Kaoru Natsuki",
+    "Mariko Kuroki",
+    "Ranko Kuroiwa",
+    "Risa Arikawa",
+    "TSUBAKI",
+    "Tsubaki",
+    "Tsubaki Katou",
+    "Tsubasa Eto",
+    "Tubaki Katou",
+    "Yuki Satou",
+    "佐川絵里",
+    "佐藤有紀",
+    "加藤椿",
+    "夏樹カオル",
+    "有川理沙",
+    "江藤翼",
+    "黒岩蘭子",
+    "黒木真理子"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-加藤ツバキ.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/夏樹カオル.jpg",
+    "https://picture.yoshiclub.xyz/20230508/f4ead021-d8d3-430d-a45a-c3ee92f59e4a.jpg",
+    "https://picture.yoshiclub.xyz/20230508/c5f76e45-9cd9-46ce-8e2b-604705287845.jpg",
+    "https://picture.yoshiclub.xyz/20230508/d57370e2-bae2-4705-9091-0d3ff7786403.jpg",
+    "https://picture.yoshiclub.xyz/20230508/6cf4891b-01fa-4cd8-b426-3da10604ae89.jpg",
+    "https://picture.yoshiclub.xyz/20230508/76983f98-4c09-4ad9-8f10-3aec9cd7fc53.jpg",
+    "https://picture.yoshiclub.xyz/20230508/2e597649-2394-48e8-be40-877bb9f37d65.jpg",
+    "https://picture.yoshiclub.xyz/20230508/63d06368-0cc8-4275-96be-15776c5c2674.jpg",
+    "https://picture.yoshiclub.xyz/20230508/91c3d73f-695b-4290-8540-90d538d9b35a.jpg",
+    "https://picture.yoshiclub.xyz/20230508/afffd857-0838-459d-9981-bcaa2bceb0a1.jpg",
+    "https://picture.yoshiclub.xyz/20230508/f19e53ae-6f97-45ab-9354-ec93372c6d15.jpg",
+    "https://picture.yoshiclub.xyz/20230508/ebd2b4f5-11a1-412b-8fe6-ba0e2267a474.jpg",
+    "https://picture.yoshiclub.xyz/20230508/64b9a6a4-3a06-4835-ad11-6b07e04585dd.jpg",
+    "https://picture.yoshiclub.xyz/20230508/3dedec00-7a07-4def-97a3-3e8fb61605cb.jpg",
+    "https://picture.yoshiclub.xyz/20230508/7c8ef290-46be-4279-8abd-9b564f74d73f.jpg",
+    "https://picture.yoshiclub.xyz/20230508/554be099-7505-4f40-9d4a-a929dab23082.jpg",
+    "https://picture.yoshiclub.xyz/20230508/c19012c1-bc90-40dd-8b09-a8afa861aba5.jpg",
+    "https://picture.yoshiclub.xyz/20230508/908753f3-1ddf-4ca3-a815-89d05115a8bc.jpg"
+  ],
+  "works_count": 5,
+  "related_dramas": [
+    {
+      "id": 3713,
+      "IDcode": "RVG-242",
+      "title": "母子姦BEST VOL.7 ~ 成咲優美 米倉穂香 加藤ツバキ 武藤彩香 小笠原留衣 一之瀨綾乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLORY QUEST",
+      "publish_date": "2025-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809081414829829_25720_thumbnail.webp",
+      "actress": [
+        "武藤彩香",
+        "加藤ツバキ",
+        "成咲優美",
+        "米倉穂香",
+        "小笠原留衣",
+        "一之瀨綾乃",
+        "夏树カオル"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-242"
+    },
+    {
+      "id": 3657,
+      "IDcode": "ALDN-494",
+      "title": "我的老婆竟然被公公和大哥輪O了 - 加藤椿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TAKARA",
+      "publish_date": "2025-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095820869869_49615_thumbnail.webp",
+      "actress": [
+        "加藤ツバキ",
+        "夏树カオル"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ALDN-494"
+    },
+    {
+      "id": 7302,
+      "IDcode": "NSFS-369",
+      "title": "投稿實話 我的妻子被輪奸了 回家途中被玷污的美白肉體 ~ 加藤ツバキ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻官能AV",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250323/172a38b3-2a9b-44b1-8e90-2f12270dfd76.jpg",
+      "actress": [
+        "加藤ツバキ",
+        "夏树カオル"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-369"
+    },
+    {
+      "id": 8609,
+      "IDcode": "KSBJ-358",
+      "title": "嚴選11位細腰美熟女中出合集 Vol.02 ~ 森澤佳奈 大槻響 東凜 二宮和香 鈴森裏香 青森玲 白河花清 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202004711966966.jpg",
+      "actress": [
+        "森澤佳奈",
+        "大槻响",
+        "加藤ツバキ",
+        "白河花清",
+        "铃木里美",
+        "二宮和香",
+        "青木玲",
+        "松河智奈美",
+        "東凛",
+        "杏奈",
+        "水穀葵",
+        "夏树カオル",
+        "安倍亜沙美",
+        "东凛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-358"
+    },
+    {
+      "id": 1514,
+      "IDcode": "SKYHD-049",
+      "title": "SKY ANGEL BLUE Vol.49 : 夏樹薰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SKY HIGH",
+      "publish_date": "2011-09-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230508/5c1fe776-f1cf-412d-b2d9-ca54d767bd55.webp",
+      "actress": [
+        "加藤ツバキ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SKYHD-049"
+    }
+  ]
+};

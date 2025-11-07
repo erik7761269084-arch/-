@@ -1,0 +1,112 @@
+// 1529_AVactress_data.js
+window.actressData = {
+  "id": 1529,
+  "name": "如月真白",
+  "age": 35,
+  "birthday_date": "1990-02-22",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250618/006241eb-c2d0-4e1c-8496-5dddc85a580f_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250823/20250823051459235235_70520_s.webp",
+  "zodiac": "雙魚座",
+  "height": "150cm",
+  "measurements": "胸 70 腰 56 臀 81",
+  "measurements_display": "70B/56/81",
+  "cup": "B",
+  "description": "看到標題，一定有人覺得奇怪，為什麼我會稱呼這位新人是「椎名そら(椎名空)二世」？難不成她也出櫃了？不，沒有啦。之所以會用椎名二世來稱呼這位女優是希望多一點人認識她，另外就是這位ましろ(真白)的設定和剛出道的椎名有點像：一樣是個子嬌小、一樣是有點小男生的感覺、也一樣是唱歌的～不一樣的是片商，椎名那時在ナンバJapan的設定下是一個愛唱歌的街頭歌手，而這位ましろ(真白)在片商「本中」則是樂團的吉他手兼主唱—各位也知道這家片商除了堅持男優不能帶套槍槍中出外還非常擅長說故事，所以這位短髮妹子不只喜歡玩音樂還很會遛鳥，在下海拍片前她已經和超過三位數的男生上床打炮，而且神奇的是她每一次都有做好安全措施，完全不知道被射進去是什麼滋味⋯幹，我書讀得少但你不要騙我啊，和100多個人上床卻從來沒被中出？這防守能力是銅牆鐵壁級的水準，但問題是，有可能嗎？真的是愈想愈矛盾，片商一面說她身經百戰神農嘗百屌一面又說她防守銅牆鐵壁卻又想下海拍片嘗嘗被中出的滋味，寫文案的人精神沒分裂我看了都頭昏腦脹。究竟～這位設定超級鬼打牆的ましろ(真白)是誰呢？如果她另有身分，其他片商筆下的她又是什麼模樣呢？答案很好找，就在同一檔發片的另一家片商kawaii*中，她的藝名是如月ましろ(如月真白)：那兒的文案就沒有這麼囉嗦了，如月ましろ(如月真白)就只是個百人斬的抖M，只要你往下一摸、手指摳摳、把雞雞往她嘴裡一送這位新人就會嬌喘一聲四肢無力倒在你懷裡隨便你想怎麼做：她本人的打扮很男性化，但在宣傳影片中卻很小女人，不時露出害羞的表情，我想日後應該不會像椎名そら(椎名空) 一樣出櫃成為蕾絲邊教主；而在身材方面，如月ましろ(如月真白)和同一家片商出道的純真かれん(純真花戀)一樣偏瘦可以很明顯地看到肋骨，但可喜的是她胸前並不是一片平坦如飛機場，再加上是個抖M你怎麼說她怎麼做，我想應該不會難以下嚥啦⋯接下來，就看看她有沒有辦法成為發片機器囉。",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "嬌小身材",
+    "鄰家女",
+    "小乳房",
+    "矮小",
+    "短髮",
+    "T系",
+    "中性風",
+    "冷豔"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f8d623fb-6589-45fe-9d69-f5a177141feb.html",
+  "aliases": [
+    "Hina Morikawa",
+    "Itsuki Watase",
+    "Mashiro Kisaragi",
+    "Misana Machida",
+    "如月ましろ",
+    "森川ひな",
+    "森川陽菜",
+    "渡瀬いつき",
+    "町田美沙奈"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250618/e2d6e6c1-55f2-4aa1-bd50-565d549f5fc0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250618/efafa528-45a0-44ce-8187-914696360f6e_l.webp"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 60849,
+      "IDcode": "KTRA-740",
+      "title": "じみ～な陰キャに中出し！！ 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K-Tribe",
+      "publish_date": "2025-09-09",
+      "cover_url": "",
+      "actress": [
+        "日泉舞香",
+        "如月真白",
+        "加贺美さら",
+        "藤森朱音"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KTRA-740"
+    },
+    {
+      "id": 86663,
+      "IDcode": "AMBI-125",
+      "title": "担任の先生と私の秘密のラブラブ結婚生活 如月ましろ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2021-05-01",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/d929cebcb6f93534bcabdb74cfa07442.jpg",
+      "actress": [
+        "如月真白"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AMBI-125"
+    },
+    {
+      "id": 81453,
+      "IDcode": "CMV-140",
+      "title": "くいこみ木馬責めこぶ縄拷問 生殖器をしごかれ悶絶する女たち3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "CineMagic",
+      "publish_date": "2020-03-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/c9495e6f3ca42c07c9266d86b449ad42.jpg",
+      "actress": [
+        "二宮和香",
+        "星空萌愛",
+        "奏自由",
+        "北島玲",
+        "如月真白",
+        "大森玲菜",
+        "野々宫みさと",
+        "青山のあ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CMV-140"
+    }
+  ]
+};

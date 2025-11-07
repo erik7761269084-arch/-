@@ -1,0 +1,106 @@
+// 2751_AVactress_data.js
+window.actressData = {
+  "id": 2751,
+  "name": "美晴のん",
+  "age": 23,
+  "birthday_date": "2002-07-09",
+  "img_url": "https://picture.yoshiclub.xyz/20231008/9dfd383d-e2b0-47ba-896d-2567827bd0e1.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231008/f3435707-8b29-4de4-874e-70408c882f1b.jpg",
+  "zodiac": "巨蟹座",
+  "height": "163cm",
+  "measurements": "胸 92 腰 62 臀 90",
+  "measurements_display": "92F/62/90",
+  "cup": "F",
+  "description": "S1一直是業界當中的巨頭，能進S1的一般都是有些東西的，最近，S1又有新人「美晴のん(美晴暖)」出道了〜雖然之前新法導致各片商發片銳減，不過S1始終很堅持每個月都要有新人出道：去年12月的「四宮ありす(四宮有朱)」副標是芸能人，今年1月的 「伊藤聖夏」則是ブッチギリの美貌、オーラ、色気(壓倒性勝利的美貌、氛圍及色氣)，那這位美晴のん(美晴暖)呢?答案在封底，是ハタチの大冒険(20歲的大冒險)!意思就是幼齒的美晴のん(美晴暖)要好好摸索這個業界看到這裡悲天憫人的你是不是輕嘆一聲，好好一位短髮美少女又要被那些老頭子糟蹋了?所以，美晴のん(美晴暖)他會怎麼樣呢?目前看來，是和事務所一姐「紗倉まな(紗倉真菜)」走短髮路線，[S1]2023年2月出道新人-美晴のん(美晴暖)不過美晴のん(美晴暖)整體的感覺目前看來還不錯，剛看到圖片的時候覺得很漂亮，不過看了預覽片之中發現有些照騙了，不過我感覺主打的就是一個青春感，接下來就看這位S1出道的新人能不能在業界佔有一席之地⋯大家認為這個新人怎麼樣？",
+  "features": [
+    "美乳",
+    "膚白",
+    "大乳房",
+    "天然",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "長相甜美",
+    "鄰家女",
+    "短髮"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/c909f6c8-48ed-4065-a2f3-b1153d677abb.html",
+  "aliases": [
+    "Non Miharu"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231008/9dfd383d-e2b0-47ba-896d-2567827bd0e1.jpg"
+  ],
+  "works_count": 4,
+  "related_dramas": [
+    {
+      "id": 18432,
+      "IDcode": "SSIS-811",
+      "title": "元氣滿滿的美晴暖與上司出差同住一屋 墜入從早到晚不停的絕倫性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-10-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20231008/f3435707-8b29-4de4-874e-70408c882f1b.jpg",
+      "actress": [
+        "美晴のん",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-811"
+    },
+    {
+      "id": 107050,
+      "IDcode": "SSIS-771",
+      "title": "すごい褐色美尻！すごい腰使い！高速杭打ち騎乗位スペシャル 美晴のん （ブルーレイディスク） （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-09-12",
+      "cover_url": "",
+      "actress": [
+        "美晴のん",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-771"
+    },
+    {
+      "id": 107442,
+      "IDcode": "SSIS-730",
+      "title": "激イキ189回！痙攣5022回！イキ潮1800cc！無邪気な笑顔で天才的SEX エロス覚醒 はじめての大・痙・攣スペシャル 美晴のん 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-08-09",
+      "cover_url": "https://tutu1.space/images/2023/09/10/ae19afca17bad14b927595f105055e69.jpg",
+      "actress": [
+        "美晴のん",
+        "小田切ジュン",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-730"
+    },
+    {
+      "id": 87704,
+      "IDcode": "SSIS-694",
+      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 美晴のん （ブルーレイディスク） 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-07-12",
+      "cover_url": "",
+      "actress": [
+        "美晴のん",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-694"
+    }
+  ]
+};

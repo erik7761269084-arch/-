@@ -1,0 +1,138 @@
+// 839_AVactress_data.js
+window.actressData = {
+  "id": 839,
+  "name": "福原美奈",
+  "age": 21,
+  "birthday_date": "2004-07-23",
+  "img_url": "https://picture.yoshiclub.xyz/20250314/8e3c9fc3-adaa-4726-adf0-d96d74f36702.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030051555555_25481_s.webp",
+  "zodiac": "獅子座",
+  "height": "168cm",
+  "measurements": "胸 90 腰 64 臀 89",
+  "measurements_display": "90H/64/89",
+  "cup": "H",
+  "description": "看起來很普通，其實是Super Body！我講的是3月18號要在片商E-Body出道的新人「福原みな(福原美奈)」：為什麼說她很普通呢？因為這位新人和其他女優不一樣，在拍A片之前沒有不平凡的資歷，就是個在書店打工的大學生；但她的身體不是普通的厲害，170公分的身高、H罩杯的爆乳、細身高挑的比例完全就是個壓倒性的肉體，肯定有人想搞死她～然後普通的她在性慾方面有著不平凡的設定：福原みな(福原美奈)在很小的時候就對「性」這件事有著比一般人更強烈的慾望，小學的時候就會自慰、上了中學以後就覺得一般的性愛沒有辦法滿足自己、一天最多做6次⋯雖然平常的時候講話很小聲看來很文靜、休假時就吃個下午茶過一整天看起來和一般的女孩沒兩樣，但其實她一直處於欲求不滿的狀態，要爆啦！所以一走進片商的攝影棚，她就火力全開惹！看完上面的敘述，相信聰明的你已經知道福原みな(福原美奈)的片子要怎麼演了：首先當然要演出她「很普通」的樣子，所以片商在宣傳影片中有把她報到的樣子和簽下志願役化好妝的模樣做對比，可以看到這位新人真的是從一個普通老百姓變成了性感尤物；再來當然就是呈現她有多麼飢渴，手一摳就噴水，看到男優的30公分好棒棒就忍不住想吃想用胸部夾住，在一對一的淫幕初體驗結束、大滿足的福原みな(福原美奈)主動表達「請找更多的棒子來」，然後就人生第一次的3P了⋯真的是個強欲的女人嗎？看到福原みな(福原美奈)的Body，她到底有多飢渴我覺得也不重要了，只要她乖乖被幹我就看得很開心惹ーH罩杯的大奶在劇照看起來有人工強化的嫌疑但其實是左右大小不一樣的天然爆乳，搭配170公分的身高加上微肉有點油花的細身身材抹點潤滑油就閃閃發光有夠誘人，我認為一定很多人覺得好吃好吃，重點是從書店打工的淡妝妹造型完變身AV女優後的臉蛋大家有沒有辦法吃下去？什麼？你問我的看法？我覺得福原みな(福原美奈)並不醜、要吃粗飽絕對沒問題，有機會的話要再好好咀嚼一下，說不定別有風味！",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "天然",
+    "嫵媚",
+    "美臀",
+    "長相甜美",
+    "鄰家女",
+    "肉嘟嘟",
+    "極上巨乳",
+    "身材豐滿",
+    "臉大",
+    "呆萌",
+    "高妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/5c648832-2b46-4681-8eed-e310a779a737.html",
+  "aliases": [
+    "Mina Fukuhara",
+    "福原みな"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250314/8e3c9fc3-adaa-4726-adf0-d96d74f36702.jpg",
+    "https://picture.yoshiclub.xyz/20250314/91d51be5-deb9-4058-9d4e-314444bcf924.jpg",
+    "https://picture.yoshiclub.xyz/20250314/234f94a1-aec6-4592-af9d-e640a5fc30c9.jpg",
+    "https://picture.yoshiclub.xyz/20250314/4d3ce9d4-5e61-4596-a31a-0e14265a1ecd.jpg",
+    "https://picture.yoshiclub.xyz/20250314/33a56fdc-667c-4f95-b757-24f1ea54845d.jpg",
+    "https://picture.yoshiclub.xyz/20250314/a7539b72-1b49-4a74-a833-5ea62dbf2508.jpg"
+  ],
+  "works_count": 5,
+  "related_dramas": [
+    {
+      "id": 60356,
+      "IDcode": "AARM-314",
+      "title": "フェラチオ手こき×添い寝密着乳首舐め×連続2回発射！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "AROMA PLANNING",
+      "publish_date": "2025-09-23",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/0163a6c2/vod.jpg",
+      "actress": [
+        "黒木奈美",
+        "福原美奈",
+        "白石環奈",
+        "爱花みちる"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-314"
+    },
+    {
+      "id": 3181,
+      "IDcode": "JUFE-594",
+      "title": "變態大叔的異常怪癖 爆乳美人娘被狂舔猛啃的粘着交尾 ~ 福原美奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "FITCH",
+      "publish_date": "2025-08-28",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030051555555_25481_thumbnail.webp",
+      "actress": [
+        "福原美奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFE-594"
+    },
+    {
+      "id": 3704,
+      "IDcode": "NGHJ-024",
+      "title": "家庭倫理的羈絆能敵過欲望嗎？兄妹全身油膩膩按摩素股體驗 ~ 川上しずく 福原美奈 那津乃千奈美 有馬美玖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013532957957_83418_thumbnail.webp",
+      "actress": [
+        "有馬美玖",
+        "那津乃千奈美",
+        "川上しずく",
+        "福原美奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-024"
+    },
+    {
+      "id": 6924,
+      "IDcode": "EBWH-224",
+      "title": "超猛身材超爽內射高潮 把性欲爆棚的女大學生幹到崩潰的汁液滿溢無間斷SEX ~ 福原美奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-04-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410191521604604.jpg",
+      "actress": [
+        "福原美奈",
+        "タイ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-224"
+    },
+    {
+      "id": 7528,
+      "IDcode": "EBWH-211",
+      "title": "新人出道！神奈川縣三浦市書店打工的普通女大學生驚豔身材與超強性欲 首次亮相 AV DEBUT ~ 福原美奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "E-BODY",
+      "publish_date": "2025-03-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083849762762.jpg",
+      "actress": [
+        "福原美奈",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EBWH-211"
+    }
+  ]
+};

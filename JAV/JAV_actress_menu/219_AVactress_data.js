@@ -1,0 +1,225 @@
+// 219_AVactress_data.js
+window.actressData = {
+  "id": 219,
+  "name": "和久井美兎",
+  "age": 25,
+  "birthday_date": "2000-12-26",
+  "img_url": "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240421/66d1c2a8-0366-4543-a589-511254aaa02c.jpg",
+  "zodiac": "摩羯座",
+  "height": "155cm",
+  "measurements": "胸 88 腰 57 臀 86",
+  "measurements_display": "88F/57/86",
+  "cup": "F",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相可愛",
+    "肉嘟嘟",
+    "娃娃臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/37b311dd-53a8-43d9-91a8-191bf2cddf55.html",
+  "aliases": [
+    "Mito Wakui",
+    "Shion Wakui",
+    "和久井詩音"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231003/f4d2e95b-2b04-4111-a406-e7267770b5c3.jpg",
+    "https://picture.yoshiclub.xyz/20231003/3e04ad81-77f5-4e31-b646-b29ef3664e05.jpg",
+    "https://picture.yoshiclub.xyz/20231003/6d33ff00-fedd-4ab6-8bab-21f0ee9d9387.jpg",
+    "https://picture.yoshiclub.xyz/20231003/168b3d4e-1df2-4bcd-a954-55c04f10a26c.jpg",
+    "https://picture.yoshiclub.xyz/20231003/f48707ae-d535-4a6e-ac1d-1316dbec27fd.jpg",
+    "https://picture.yoshiclub.xyz/20231003/53945c6f-c34a-4a95-a91c-0e0afa3f5cdd.jpg",
+    "https://picture.yoshiclub.xyz/20231003/eee0335f-1b55-4924-9246-8f8e793f1e5f.jpg",
+    "https://picture.yoshiclub.xyz/20231003/4897ca78-25ca-4849-ad76-88482c1ecd91.jpg",
+    "https://picture.yoshiclub.xyz/20231003/10d30593-0661-4247-81b2-eafdce9cebc0.jpg",
+    "https://picture.yoshiclub.xyz/20231003/a51326e9-1fad-4102-b1fc-5b763d053350.jpg",
+    "https://picture.yoshiclub.xyz/20231003/428d684d-4f7e-4fab-ae9c-27a5b1bc29ef.jpg",
+    "https://picture.yoshiclub.xyz/20231003/d7e0bb4f-b51a-456c-be6d-b53dc81be042.jpg",
+    "https://picture.yoshiclub.xyz/20231003/60f4634a-3a33-4626-98ce-a48e2af3daf6.jpg",
+    "https://picture.yoshiclub.xyz/20231003/8ed12075-9de6-4071-9b2d-1763e3e91be4.jpg",
+    "https://picture.yoshiclub.xyz/20231003/719b1d88-b00d-450e-8604-b1d67f5fda1f.jpg",
+    "https://picture.yoshiclub.xyz/20231003/7d6d8850-2308-49ba-9354-e17ac49c78c1.jpg"
+  ],
+  "works_count": 8,
+  "related_dramas": [
+    {
+      "id": 4371,
+      "IDcode": "MXGS-1391",
+      "title": "渣男友的命令下NTR實錄 ~ 和久井美兎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MAXING",
+      "publish_date": "2025-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716001307182182_67284_thumbnail.webp",
+      "actress": [
+        "和久井美兎"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MXGS-1391"
+    },
+    {
+      "id": 5226,
+      "IDcode": "RVG-240",
+      "title": "變態大叔的淫窩監禁調教，天天被幹到爽翻天，徹底淪為肉棒上癮的騷貨 ~ 鳳美優 森下琴乃 天川空 和久井美兔 白石桃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLORY QUEST",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014919912912_thumbnail.webp",
+      "actress": [
+        "白石桃",
+        "和久井美兎",
+        "鳳美優",
+        "天川空",
+        "森下ことの"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-240"
+    },
+    {
+      "id": 6442,
+      "IDcode": "MIZD-453",
+      "title": "剛入職的嫩妹OL被摧毀未來的鬼畜侵犯合集40選 ~ 小野六花 八木奈奈 葵伊吹 水卜櫻 二葉惠麻 初川南 水原美園 琴音華 二見玲 佐久良咲希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-05-02",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
+      "actress": [
+        "森澤佳奈",
+        "倉本菫",
+        "末広純",
+        "北野未奈",
+        "二葉惠麻",
+        "東條夏",
+        "月乃露娜",
+        "宮下玲奈",
+        "小野六花",
+        "八木奈々",
+        "葵伊吹",
+        "水原みその",
+        "水卜櫻",
+        "中山文香",
+        "和久井美兎",
+        "横宮七海",
+        "藍芽水月",
+        "竹内夏希",
+        "琴音華",
+        "明日見未来",
+        "初川南",
+        "久留木玲",
+        "辻櫻",
+        "琴石ゆめる",
+        "星宮菜奈",
+        "佐久良咲希",
+        "二見玲",
+        "二叶エマ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+    },
+    {
+      "id": 8528,
+      "IDcode": "AARM-275",
+      "title": "請你雞巴再硬一點... 耳邊低語，同時睾丸和龜頭被挑逗和折磨，直到達到勃起的極限 ~ 相沢澪 和久井美兎 音羽美鈴 伊東沙蘭 有賀千裏 川上優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "AROMA PLANNING",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/7a839c6d-f0cf-40b0-81b7-33d9f75e7415.jpg",
+      "actress": [
+        "和久井美兎",
+        "川上優",
+        "有賀千里",
+        "音羽美鈴",
+        "伊東沙蘭",
+        "相沢澪",
+        "有贺みなほ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=AARM-275"
+    },
+    {
+      "id": 9678,
+      "IDcode": "MDBK-350",
+      "title": "最懂如何服務公司總裁的無與倫比的口交祕書，吸吮沾滿精液的雞巴 ~ 和久井美兎 末広純 田中寧寧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241222/53b9e2ff-cb74-4f6b-ad0a-a4a8f9fb245d.jpg",
+      "actress": [
+        "末広純",
+        "田中寧寧",
+        "和久井美兎"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-350"
+    },
+    {
+      "id": 17176,
+      "IDcode": "NACR-743",
+      "title": "我再也忍受不了了！玩弄，勾引的我的小惡魔侄女和久井美兎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2023-12-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20231220/20231220025047237237.jpg",
+      "actress": [
+        "和久井美兎"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-743"
+    },
+    {
+      "id": 17629,
+      "IDcode": "ROYD-148",
+      "title": "是太放蕩了！ 用大屁股誘惑家庭老師的女學生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ROYAL",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231126/65ea7c23-3bf7-4758-bca8-5e3683760872.jpg",
+      "actress": [
+        "和久井美兎"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ROYD-148"
+    },
+    {
+      "id": 18478,
+      "IDcode": "MKON-092",
+      "title": "我都沒有好好吻過的女友 竟然在一個又臭又髒的房子裡被一個男人操了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2023-10-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002223112374374.jpg",
+      "actress": [
+        "和久井美兎",
+        "左慈半造"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MKON-092"
+    }
+  ]
+};

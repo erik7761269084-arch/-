@@ -1,0 +1,186 @@
+// 1198_AVactress_data.js
+window.actressData = {
+  "id": 1198,
+  "name": "伊藤聖夏",
+  "age": 23,
+  "birthday_date": "2002-08-08",
+  "img_url": "https://picture.yoshiclub.xyz/20231119/62b74246-a6ba-4636-b13e-5cf2d6dba26f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231203/a0bbe93c-232b-4e1b-b748-e8d0a8b93ed9.jpg",
+  "zodiac": "獅子座",
+  "height": "164cm",
+  "measurements": "胸 88 腰 54 臀 90",
+  "measurements_display": "88F/54/90",
+  "cup": "F",
+  "description": "看了艾斯万和IP在一月份的档期，情况要比之前预料的好一点，这些大型的制作商差不多都能在2月份之后顺利的恢复档期更新节奏，所以这些大佬制作商也差不多是把之前囤下来的库存都给放出来了。与此同时，艾斯万还有余力再推出一名新人，并且我还蛮喜欢这新人的形象的（哎，IP又没能跟bstar合作...），她就是——【伊藤聖夏】从时间点推算的话，这位新人应该是7月份签的，那应该就是之前小道消息传来的，艾斯万强力新人（我一直以为这消息说的是四宫爱丽丝）关于这位新人，在上周也大致介绍过了，她是出自于Bstar的新人，也就是天使萌的小师妹，Bstar算是行业内门槛很高的一家经纪公司，他们几乎是只和顶级品牌合作，并且很擅长去运营品牌专属模特。所以通常来说，Bstar的资源很好，但是要使用这些资源的门槛也高，比如说形象，比如说才艺（未步奈奈前不久开LIVE演唱确实是唱得很嗨）基于这个背景，很多人也会先入为主的觉得，作为一个大型经纪公司，你的门槛这么高，那你还要花精力时间去打造铺垫的新人，是不是会非常的有潜力呢？所以现如今嘛，8man、C-more、Bstar就很爱搞这种“我优中的更优”操作，就是做一些噱头，而这位【伊藤聖夏】，便是Bstar在11月份就开始铺垫的特殊新人。虽说是铺垫，但是Bstar的铺垫方式也没什么特殊的，就是“犹抱琵琶半遮面”，永远都看不到脸。对于这样的宣传方式我倒不是拒绝，就是很烦这个时间拖得很长，然后这一拖就拖了一个月，一整个月内看的全是表情包。所以也就不怎么买Bstar这种操作，大致就是说一下有这么个新人，当时是觉得这样的身材，很符合IP以往主打的苗条型美少女，还想着这么久没和IP社合作的Bstar可以给IP社一个面子，一个【伊藤聖夏】，然后再吧【伊藤舞雪】挖过来，打造春夏秋冬桃叶花草香（想想总可以吧~）。结果...今天也算是公布答案了，正式敲档了 2023年1月15日，于最豪横的女团组合艾斯万登场。今天一早上艾斯万就官宣了【伊藤聖夏】的出道，没等到Bstar的公告，却等到了艾斯万的写真照。从写真封面上来看，【伊藤聖夏】的形象是挺符合我的审美的，是我喜欢的那种棱角封面的脸型，五官也很标致。可能是对自家新人的自信，艾斯万在第一轮的写真预告上给出的写真硬照也不少，我最喜欢的是这张：根据有限的介绍来看，这位【伊藤聖夏】今年20岁（这个年龄听听就好，由于新规的因素，现在标准的美少女都是20岁以上，至于往下少说了几岁也只有经纪公司和制作商知道。）身高164cm，但是艾斯万在身高介绍中特意标注了，【伊藤聖夏】拥有着超模级别的美腿，看样子将会是作为【业界最高峰女团】的美腿担当之一了。有着神秘而成熟的气质，声音温柔而大方，说话时会直视对方眼睛，害羞的样子像个小女孩等等~其实像这样的介绍，还真的是IP会非常喜欢的新人啊。那么....从静态写真来看，【伊藤聖夏】确实长得很好看，这会不会是修图师的功劳呢？省流点的说法就是：确实有差，写真嘛，不要在意那么一点点夸张细节的手法~我估摸着到这里应该有人要开始吐槽了，但是还得再解释下哈。首先艾斯万一开始的文案其实并没有往形象上去做什么修饰，然后这一次写真的掌镜人是【岚山】，这个制作组在新人方面是比较喜欢主打自然感的，所以找了很多自然风景的外景来拍写真。为了搭配这些外景，导演是直接让【伊藤聖夏】素颜出镜的，并且岚山在写真镜头中也没有套滤镜算法。所以最后也特意说明了这是素颜写真，整体来说【伊藤聖夏】的五官条件都是不错的，就是脸型并不像静态写真那么柔和，但是这应该不是什么特别大的问题，只要滤镜用得好，脸型是最好修的。所以我倒不觉得【伊藤聖夏】会很快掉出艾斯万的队列，相反我觉得她的潜力并不低，可能新人红利期过了之后会有不一样的表现。不管怎么说，这也是目前为止，2023年的首发专属新人。不仅是艾斯万的首发，也是整个主流制作商中的第一位2023年首发新人，所以还是保持乐观，保持期待吧",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "長相清純",
+    "長相甜美",
+    "萌妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7132ba50-9d0d-402d-8234-2684f4f198cb.html",
+  "aliases": [
+    "Sena Ito"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231119/62b74246-a6ba-4636-b13e-5cf2d6dba26f.jpg"
+  ],
+  "works_count": 9,
+  "related_dramas": [
+    {
+      "id": 16458,
+      "IDcode": "ATID-589",
+      "title": "未亡人懷上了一個她永遠無法原諒的男人的孩子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ATTACKERS",
+      "publish_date": "2024-02-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205005957779779.jpg",
+      "actress": [
+        "伊藤聖夏",
+        "大岛丈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-589"
+    },
+    {
+      "id": 17000,
+      "IDcode": "ADN-524",
+      "title": "總裁辦公室唾液混合的密室之吻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ATTACKERS",
+      "publish_date": "2024-01-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20231231/20231231073343894894.jpg",
+      "actress": [
+        "伊藤聖夏"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ADN-524"
+    },
+    {
+      "id": 17420,
+      "IDcode": "ATID-581",
+      "title": "新婚教師伊藤聖夏被問題學生當成了性奴強暴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ATTACKERS",
+      "publish_date": "2023-12-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20231203/a0bbe93c-232b-4e1b-b748-e8d0a8b93ed9.jpg",
+      "actress": [
+        "伊藤聖夏"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ATID-581"
+    },
+    {
+      "id": 100926,
+      "IDcode": "HMN-498",
+      "title": "ミステリアス美女 中出し解禁 伊藤聖夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "本中",
+      "publish_date": "2023-11-21",
+      "cover_url": "",
+      "actress": [
+        "伊藤聖夏",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HMN-498"
+    },
+    {
+      "id": 107043,
+      "IDcode": "SSIS-863",
+      "title": "アバラが浮くほどビックンガックン絶頂オーガズム エビ反り痙攣ポルチオ開発オイルマッサージ 伊藤聖夏 （ブルーレイディスク） （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-09-12",
+      "cover_url": "",
+      "actress": [
+        "伊藤聖夏",
+        "左慈半造"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-863"
+    },
+    {
+      "id": 107478,
+      "IDcode": "SSIS-829",
+      "title": "出張先で軽蔑している中年セクハラ上司とまさかの相部屋に…朝まで続く絶倫性交に不覚にも感じてしまった私 伊藤聖夏 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-08-09",
+      "cover_url": "",
+      "actress": [
+        "伊藤聖夏",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-829"
+    },
+    {
+      "id": 87710,
+      "IDcode": "SSIS-791",
+      "title": "美顔ぐちゃぐちゃ顔面よだれまみれヨダレだくだく体液べとべと濃厚な接吻と汗だくセックス 伊藤聖夏 （ブルーレイディスク） （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-07-11",
+      "cover_url": "",
+      "actress": [
+        "伊藤聖夏",
+        "鲛岛"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-791"
+    },
+    {
+      "id": 87713,
+      "IDcode": "SSIS-752",
+      "title": "伊藤聖夏と二人きり…引き締まった長身アスリートボディをイカセまくるプライベート感たっぷり生々しくハメ撮り温泉デート",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-06-13",
+      "cover_url": "",
+      "actress": [
+        "伊藤聖夏"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-752"
+    },
+    {
+      "id": 104041,
+      "IDcode": "SSIS-653",
+      "title": "新人NO.1STYLE 伊藤聖夏 （ブルーレイディスク） 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "S1",
+      "publish_date": "2023-01-06",
+      "cover_url": "https://tutu1.space/images/2023/01/31/385c689f3c1402261865ef2dab9f9997.jpg",
+      "actress": [
+        "伊藤聖夏"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SSIS-653"
+    }
+  ]
+};

@@ -1,0 +1,236 @@
+// 4085_AVactress_data.js
+window.actressData = {
+  "id": 4085,
+  "name": "樱美雪",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 10,
+  "related_dramas": [
+    {
+      "id": 7437,
+      "IDcode": "KSBJ-367",
+      "title": "“咕嘰咕嘰”響不停，美熟女抖着爽到高潮28連發！！VOL.05 ~ 汐河佳奈 翔田千裏 矢吹京子 上原千佳 永野つかさ 谷梓 水川蓳 緒方泰子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "妄想族",
+      "publish_date": "2025-03-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
+      "actress": [
+        "小早川怜子",
+        "水川蓳",
+        "本真友里",
+        "翔田千里",
+        "永野司",
+        "谷梓",
+        "川菜美铃",
+        "汐河佳奈",
+        "上原千佳",
+        "矢吹京子",
+        "緒方泰子",
+        "安倍亜沙美",
+        "峰岸カレン",
+        "羽咲美亜",
+        "樱美雪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-367"
+    },
+    {
+      "id": 87063,
+      "IDcode": "ONEZ-366",
+      "title": "※注意※お下品ドスケベ娘 ヤリマントーーーク！パリピちゃん性欲強すぎ問題大調査！バズりまくって大人気！過激すぎるヤリマンGAL切り抜きまとめ動画Vol.001",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2023-06-02",
+      "cover_url": "",
+      "actress": [
+        "藤森里穂",
+        "樱美雪",
+        "冴木エリカ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONEZ-366"
+    },
+    {
+      "id": 81843,
+      "IDcode": "MUCD-220",
+      "title": "もっといっぱいズコズコ突いて！ 私がイクまで離さない！ 純粋無垢な美少女が足を絡めてSEXしたまま離れない だいしゅきホールド4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "無垢",
+      "publish_date": "2020-04-13",
+      "cover_url": "",
+      "actress": [
+        "葵玲奈",
+        "前田沙羅",
+        "樱美雪",
+        "篠崎みお",
+        "七栄ここ",
+        "安达メイ",
+        "彩音舞衣",
+        "凉宫はるか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MUCD-220"
+    },
+    {
+      "id": 75760,
+      "IDcode": "HYPN-020",
+      "title": "男性恐怖症のJDを強●コントロール！淫乱トランス化 さくらみゆき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2020-03-12",
+      "cover_url": "",
+      "actress": [
+        "樱美雪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HYPN-020"
+    },
+    {
+      "id": 83130,
+      "IDcode": "MDTM-601",
+      "title": "鉄板女優のコスチュームSEX4時間ベスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2020-01-31",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/41e41c6b4a835bca2d1e0c58901605a6.jpg",
+      "actress": [
+        "亜矢みつき",
+        "桃尻かのん",
+        "百田胡桃",
+        "樱美雪",
+        "保志美あすか",
+        "波木遥",
+        "咲坂花恋",
+        "茉莉ひな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-601"
+    },
+    {
+      "id": 83635,
+      "IDcode": "MDBK-073",
+      "title": "手コキ 淫語 騎乗位 焦らしまくりでなかなか射精させてくれない受け身男性専用出張デリヘル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2019-12-13",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/563293ed35845e91ac6d7921a1dc06c9.jpg",
+      "actress": [
+        "波多野结衣",
+        "枢木葵",
+        "樱美雪",
+        "一乃瀬るりあ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-073"
+    },
+    {
+      "id": 78124,
+      "IDcode": "HUNTA-646",
+      "title": "義母のおかげでママ友と毎日エッチなことをしています。ひきこもりの息子の命令は絶対守る義母。…頭がおかしくなるほど息子のチ○ポでイキ狂うver",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2019-10-07",
+      "cover_url": "",
+      "actress": [
+        "百合川紗羅",
+        "永瀬爱菜",
+        "冲田里绪",
+        "樱美雪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTA-646"
+    },
+    {
+      "id": 78169,
+      "IDcode": "MDTM-558",
+      "title": "顔面偏差値75点以上のスーパーアイドルBEST10 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2019-08-23",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/bec883123b9ff1583c98ad09c7938270.jpg",
+      "actress": [
+        "蘭々",
+        "香坂紗梨",
+        "星奈爱",
+        "天野美优",
+        "姬川优奈",
+        "樱美雪",
+        "凉美ほのか",
+        "茉莉ひな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDTM-558"
+    },
+    {
+      "id": 88372,
+      "IDcode": "HNDB-111",
+      "title": "本物女子大生30人の中出しコレクション 2017年春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "本中",
+      "publish_date": "2017-04-25",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/b34c3df222fcdeb55e07f99ee7de51f2.jpg",
+      "actress": [
+        "尾上若叶",
+        "樱美雪",
+        "桥本さゆり",
+        "藤川千夏",
+        "美歩さやか",
+        "板野ユイカ",
+        "加々美ゆい",
+        "桜ちずる",
+        "日向曜",
+        "相川润"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HNDB-111"
+    },
+    {
+      "id": 86942,
+      "IDcode": "NHDTA-943",
+      "title": "痴漢された気弱な女を助けたばかりに電車内で輪姦されたゴムまみれ女子校生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DREAMTICKET",
+      "publish_date": "2017-02-02",
+      "cover_url": "",
+      "actress": [
+        "星空萌愛",
+        "樱美雪",
+        "なつめ爱梨"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-943"
+    }
+  ]
+};

@@ -1,0 +1,143 @@
+// 1138_AVactress_data.js
+window.actressData = {
+  "id": 1138,
+  "name": "堀沢茉由",
+  "age": 24,
+  "birthday_date": "2001-04-03",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250502/b280a49d-6d83-46c9-b59b-15eb5967e8bb_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250820/202508200827344343_78720_s.webp",
+  "zodiac": "白羊座",
+  "height": "155cm",
+  "measurements": "胸 87 腰 58 臀 85",
+  "measurements_display": "87E/58/85",
+  "cup": "E",
+  "description": "恭喜老爺，賀喜夫人，Faleno又有新人了(天国るる不算)！在市場上到處都是新人，一發不可收拾的這時候，，這家立志要做就做最好的片商不知道是沒有撒網還是網子破了，最近一位新人竟然要追溯到4月的夏木りん(夏木鈴)ー對啦人家說家有一老如有一寶，但任何一家片商要成功都是要拿到大型新人然後把她培養成業界巨星，挖角其他公司的女優雖然是走捷徑但如果本身沒有養人的能力那是不行的⋯所以過了快半年，Faleno終於出手了！終結這片商新人荒的是她，堀沢茉由，是個可愛的姑娘；有在追女優twitter的朋友想必對她不陌生，8月27日時，她建立了twitter並且宣布將會在大型片商出道，但當時應該沒人想到是Falenoー因為一般人印象中的大手メーカー(大型片商)多半沒有Faleno，再加上Faleno對有演出經驗的老將興趣多於新人，想不到竟然堀沢茉內來終結了這片商的新人荒：那，她有什麼特異功能？除了是個胸前小有實力、總是笑嘻嘻的可愛妹子外，堀沢茉由的最大賣點就是「經驗不足」：19歲才破處、性經驗只有一人而且總共還做不到10次⋯這樣一個可愛又經驗不足的妹子當然要好好調教，看著男優先用手指開發，從一根指頭到三根指頭慢慢撐開插入，忽快忽慢地進出讓她噴出潮水，再看到戰力不足的堀沢茉由努力學習口交和騎乘位的技巧，我真的覺得這世界是如此美好空氣是如此清新，男優真的是修了好幾輩子才能做的偉大職業〜最後，不知道您覺得堀沢茉由的外型如何？她是很典型的日本妹子，個子嬌小，臉蛋可愛，渾身上下都是天真無邪的氣息；另外，雖然胸部沒有特別大(D罩杯，我指的是在AV界而言)，但以其鬆軟度我想她應該還蠻天然的；最後，她屁股和大腿很有肉，下盤應該蠻穩的，現在因為經驗不足(不管是真的還是要演出那種感覺)所以在騎乘位的表現很生疏，等到吸飽了日月精華她應該有搖死人的能力⋯但整體而言我認為堀沢茉由偏「素」，和Faleno其他的女優站在一起就能感受到她少了些明星味；不過沒關係，「素」可是以素人的素也可以是素還真的素，Faleno至少也養出了像二階堂夢這頭現代神獸，能成為專屬新人的堀沢茉由至少走出了成功的第一步，接下來就好好加油吧〜",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "別致顔值",
+    "嬌小身材",
+    "修長癡體",
+    "蘿莉",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/0b08d535-ac28-47de-be5f-7778382d78e9.html",
+  "aliases": [
+    "Hitomi Yasuda",
+    "Mayu Horisawa",
+    "Ria Kaname",
+    "Tomomi Oikawa",
+    "Yuka Arakita",
+    "かなめりあ",
+    "及川ともみ",
+    "堀北まゆ",
+    "安田ひとみ",
+    "荒北裕香"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250502/58a03c40-d566-406a-9da3-5eab83704d3b_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250502/fc3724df-b682-455c-b48f-661458633489_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250502/d82b32bc-11be-4b23-b5c8-e18b5c36c577_l.webp"
+  ],
+  "works_count": 4,
+  "related_dramas": [
+    {
+      "id": 2890,
+      "IDcode": "HZGD-315",
+      "title": "惡心到爆的猥瑣公公技術太好了，大肉棒讓我高潮到失控 ~ 堀沢茉由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻花園劇場",
+      "publish_date": "2025-09-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072506716716_96056_thumbnail.webp",
+      "actress": [
+        "堀沢茉由"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HZGD-315"
+    },
+    {
+      "id": 6452,
+      "IDcode": "BMW-333",
+      "title": "女學生限定！JK大亂鬥全力生啪中出53發！杭打騎乘位精選集 ~ 五日市芽依 新井裏真 倉本菫 彌生美月 橫宮七海 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "WANZ FACTORY",
+      "publish_date": "2025-05-02",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044646378378_thumbnail.webp",
+      "actress": [
+        "倉本菫",
+        "柏木小夏",
+        "彌生美月",
+        "沙月惠奈",
+        "五日市芽依",
+        "月野香澄",
+        "新井里真",
+        "有栖舞衣",
+        "沙月芽衣",
+        "希咲那奈",
+        "小梅惠奈",
+        "横宮七海",
+        "結城蘭",
+        "琴石ゆめる",
+        "堀内美香",
+        "三舩美鈴",
+        "堀沢茉由",
+        "白川柚子",
+        "本田のえる",
+        "安倍亜沙美",
+        "弥生美月"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=BMW-333"
+    },
+    {
+      "id": 10513,
+      "IDcode": "SDJS-218",
+      "title": "SOD女子社員7名 舔屁眼的福利厚生SEX 8時間全部收錄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-12-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20241119/20241119044510929929.jpg",
+      "actress": [
+        "北村海智",
+        "堀沢茉由",
+        "斉藤月乃",
+        "佐野星彩",
+        "山本由梨",
+        "津久井和紗",
+        "松田捺羽"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SDJS-218"
+    },
+    {
+      "id": 94486,
+      "IDcode": "SROB-026",
+      "title": "素人まっちんぐEX 軟派バカ一代 街行く素人ギャルを踊り喰い！の巻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241027-1/c454b3d45c1166cde6f60e1031aa8430.jpg",
+      "actress": [
+        "堀沢茉由"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SROB-026"
+    }
+  ]
+};

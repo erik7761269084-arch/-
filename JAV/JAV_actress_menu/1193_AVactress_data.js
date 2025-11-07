@@ -1,0 +1,546 @@
+// 1193_AVactress_data.js
+window.actressData = {
+  "id": 1193,
+  "name": "瓊·洛夫喬伊",
+  "age": 31,
+  "birthday_date": "1994-12-01",
+  "img_url": "https://picture.yoshiclub.xyz/20241225/15d750f6-3af9-4072-bd19-c8c9bf59a421.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250226/795f6d35-af60-483a-837c-222cb1532234.jpg",
+  "zodiac": "射手座",
+  "height": "171cm",
+  "measurements": "胸 98 腰 66 臀 113",
+  "measurements_display": "98F/66/113",
+  "cup": "F",
+  "description": "看到メロディー・雛・マークス(Melody Marks)的成功，你就知道暗黑界會有洋妞大軍殺到！以肥美著稱的片商Fitch就在1月的第二檔推出新任的專屬女優「ジューンラブジョイ(June Lovejoy)」，和以往來到日本打拼的洋將不同，這位金髮碧眼的歪國人背後是有大型事務所操作的，如果你常逛twitter追蹤AV女優的話應該早就知道她的存在⋯那，為什麼這位アメリカ人妻(美國人妻)要投入日本暗黑界呢？簡單來說還是四個字，慾求不滿，我知道大家一定看這幾個字看得很膩，不過看在人家是洋妞的份上好歹聽我這個天橋下的說書人講一下：她是個嚮往日本武士精神的美人胚子，對許多人在裡面揮棒子的泰國浴場一直很有性趣，也和在裡面認識的人結了婚。只是婚後她很失望，老公不喜歡在氣墊床上和她翻雲覆雨也就算了，每天回家就是倒頭大睡，讓放好熱水想洗個鴛鴦浴的她每晚都在暗自哭泣，嫁給一個不打炮的老公，這是守活寡啊！所以她和老公攤牌，要去拍AV〜這故事告訴我們結了婚就要履行義務，不然你就會頭頂綠油油變成人肉綠油精。只是和其他女優相比，大家一定會發現ジューンラブジョイ(June Lovejoy)不只有著一張宛如是妖精的臉蛋、下半身也是十分的Fitchー那寬闊的骨盆、那比我睡的枕頭還大的屁股加上粗壯的大腿⋯喜歡肉感女子的影迷一定口水直流，這是極品啊！而且賣點不只ジューンラブジョイ(June Lovejoy)是個洋妞ー或許她真的是個嫁到日本的人妻吧，她的日文非常溜，和男優對話完全沒問題，但和男優做愛時她卻又會回復母語，聽著她說「Don’t Stop」、「I’m Coming」實在蠻有意思的：而且她沒剃陰毛喔！一般來拍AV的洋妞大多會把下半身剃個精光，但ジューンラブジョイ(June Lovejoy)卻還是毛茸茸的，和其他人的感覺很不一樣。尤其是最後男優蒼龍一吼破雲關射進去、看到洨朋友黏在她的陰毛上時真的很有趣，那是其他洋妞女優所沒有的感覺啊〜總而言之言而總之，如果你不排斥下半身超粗勇的梨形身材，那ジューンラブジョイ(June Lovejoy)這位洋妞真的值得一看：她很漂亮、也很敏感、搭配泰國浴的玩法以及用中出畫句點的結局真的讓人耳目一新，再加上Fitch向來是解禁特快車，找個黑人或是捅人屁眼都是稀鬆平常，就看看ジューンラブジョイ(June Lovejoy)能不能接受囉。",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "肉嘟嘟",
+    "極上巨乳",
+    "辣妹系",
+    "身材豐滿",
+    "大臀",
+    "重口味"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/66a45bd1-9d24-4c44-b57e-681dbaa7f799.html",
+  "aliases": [
+    "Goto June",
+    "Lovejoy June",
+    "ジューン・ラブジョイ",
+    "ジューン後藤",
+    "琼·洛夫乔伊"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20241225/b3daba9d-52de-4b46-bec5-5f5fd41094ea.jpg",
+    "https://picture.yoshiclub.xyz/20241225/42fb3dec-db6f-4710-ab4b-c07df2444049.jpg",
+    "https://picture.yoshiclub.xyz/20241225/791c9b2b-ee40-41fb-baaf-d0ddf07df2fc.jpg"
+  ],
+  "works_count": 24,
+  "related_dramas": [
+    {
+      "id": 3349,
+      "IDcode": "DAZD-256",
+      "title": "超能力真的存在！時間停止、透明人、附身大叔，禁忌力量隨便玩弄心儀妹子，精選4小時合集 ~ 松本一香 東條夏 美園和花 初川南 冬愛琴音 一條美緒 西田卡莉娜 瓊·洛夫喬伊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DASDAS",
+      "publish_date": "2025-08-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024841654654_34740_thumbnail.webp",
+      "actress": [
+        "美園和花",
+        "松本一香",
+        "美谷朱里",
+        "一条美緒",
+        "東條夏",
+        "冬愛琴音",
+        "初川南",
+        "瓊·洛夫喬伊",
+        "西田卡莉娜",
+        "一条美绪",
+        "冬爱琴音"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DAZD-256"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "KSB企畫",
+      "publish_date": "2025-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
+      "actress": [
+        "吉根柚莉爱",
+        "藤森里穂",
+        "優梨舞奈",
+        "小早川怜子",
+        "篠田優",
+        "妃光莉",
+        "推川悠里",
+        "本真友里",
+        "七草千歲",
+        "塚田詩織",
+        "仓多真央",
+        "風間由美",
+        "永井瑪麗亞",
+        "大浦真奈美",
+        "吉永塔子",
+        "翔田千里",
+        "永野司",
+        "山瀬美紀",
+        "春菜华",
+        "聖妃羽里",
+        "彩奈莉娜",
+        "岡江凛",
+        "赤瀬尚子",
+        "羽生ありさ",
+        "篠崎環奈",
+        "佐々木咲和",
+        "村上涼子",
+        "瓊·洛夫喬伊",
+        "神ユキ",
+        "今藤霧子",
+        "藤白桃羽",
+        "成宮潤",
+        "水城奈緒",
+        "杏美月",
+        "西山あさひ",
+        "成澤ひなみ",
+        "響りん",
+        "八木あずさ",
+        "黒木あおい",
+        "葉月奈穂",
+        "松坂美纪",
+        "真田さな",
+        "水元恵梨香",
+        "安倍亜沙美",
+        "响りん"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=KSBJ-378"
+    },
+    {
+      "id": 94578,
+      "IDcode": "NSFS-305",
+      "title": "不道徳！義父と嫁 ベスト 夫にはけっして言えない妻の秘め事",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻官能AV",
+      "publish_date": "2024-08-13",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/adc78f2ada6075450cebefb079f4b966.jpg",
+      "actress": [
+        "妃月るい",
+        "君野步美",
+        "瓊·洛夫喬伊",
+        "篠崎环奈",
+        "大沢カスミ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-305"
+    },
+    {
+      "id": 93811,
+      "IDcode": "PPBD-282",
+      "title": "おわん！釣鐘！半球！個性豊かな美バスト収録！！巨乳美少女達の乳ま〇こでイき果てる！射精直前パイズリラッシュ！99連発！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2024-06-18",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/e45ef253f89c25418a2563ec18b775ba.jpg",
+      "actress": [
+        "田中寧寧",
+        "藤森里穂",
+        "辻井穗乃果",
+        "日下部加奈",
+        "瓊·洛夫喬伊",
+        "川村晴",
+        "凪沙雪乃",
+        "安倍亜沙美",
+        "深泽祈莉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-282"
+    },
+    {
+      "id": 90454,
+      "IDcode": "ONIN-088",
+      "title": "服をまくったら「ぶるんっ」って飛び出る大きなおっぱい または「ぷるんっ」って控えめに揺れるちっぱい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/f9b17fab96bc0438b40e8862a195e70d.jpg",
+      "actress": [
+        "瀬那瑠美奈",
+        "瓊·洛夫喬伊",
+        "奈津野こはく",
+        "茅野亜美",
+        "夏花",
+        "姫宮すみれ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ONIN-088"
+    },
+    {
+      "id": 90619,
+      "IDcode": "PPBD-267",
+      "title": "前後からデカパイを押しつけられる逆3P挟み撃ちベスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2023-10-17",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240122-1/a16de9c99d4a80838015312c606b3e2a.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "大浦真奈美",
+        "鳳美優",
+        "凛音とうか",
+        "瓊·洛夫喬伊",
+        "川村晴",
+        "新村晶",
+        "安倍亜沙美",
+        "浜崎真绪"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-267"
+    },
+    {
+      "id": 89805,
+      "IDcode": "RVG-206",
+      "title": "ダブルアナルビッチBEST VOL.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "GLORY QUEST",
+      "publish_date": "2023-09-19",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
+      "actress": [
+        "望月綾香",
+        "佐倉陽菜",
+        "妃月るい",
+        "瓊·洛夫喬伊",
+        "西田卡莉娜",
+        "松ゆきの",
+        "新村晶",
+        "管野静香",
+        "山井すず",
+        "七海ゆあ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RVG-206"
+    },
+    {
+      "id": 90488,
+      "IDcode": "OKS-152",
+      "title": "ジューン・ラブジョイ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2023-09-07",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=OKS-152"
+    },
+    {
+      "id": 88955,
+      "IDcode": "UMSO-509",
+      "title": "全裸でお掃除する女性をただただ観察するビデオ23人VOL.06",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2023-07-25",
+      "cover_url": "",
+      "actress": [
+        "沙月惠奈",
+        "吉根柚莉爱",
+        "水川蓳",
+        "推川悠里",
+        "高瀬りな",
+        "瓊·洛夫喬伊",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=UMSO-509"
+    },
+    {
+      "id": 101879,
+      "IDcode": "YMDD-304",
+      "title": "YMDD-304",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "桃太郎映像出版",
+      "publish_date": "2022-12-31",
+      "cover_url": "https://tutu1.space/images/2023/02/16/ed167bcd961688bce9cffa39b65560bf.jpg",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "メロディー・雏・マークス"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=YMDD-304"
+    },
+    {
+      "id": 90422,
+      "IDcode": "PPBD-241",
+      "title": "むぎゅっとデカパイ密着プレス！ W巨乳痴女の挟み撃ち逆3Pセックス50本番！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2022-08-16",
+      "cover_url": "",
+      "actress": [
+        "松本菜奈実",
+        "羽生ありさ",
+        "凛音とうか",
+        "佐知子",
+        "瓊·洛夫喬伊",
+        "水野朝陽",
+        "安倍亜沙美",
+        "黑川纱里奈",
+        "古贺まつな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-241"
+    },
+    {
+      "id": 87458,
+      "IDcode": "DVAJ-591",
+      "title": "痴女の天才に焦らされパコられザーメン搾り取られるBEST31人5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ALICE JAPAN",
+      "publish_date": "2022-08-09",
+      "cover_url": "",
+      "actress": [
+        "波多野结衣",
+        "藤森里穂",
+        "AIKA",
+        "葵司",
+        "蓮実クレア",
+        "瓊·洛夫喬伊",
+        "真野優莉亞",
+        "澁谷果歩",
+        "安倍亜沙美",
+        "稻场流花",
+        "长瀬麻美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-591"
+    },
+    {
+      "id": 80185,
+      "IDcode": "NACR-482",
+      "title": "隣の爆尻妻 泥●し部屋を間違え「ただいま～！」 ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2021-12-01",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NACR-482"
+    },
+    {
+      "id": 80175,
+      "IDcode": "NSFS-045",
+      "title": "ながえSTYLE色に染まった いやらしい外国人妻たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "人妻官能AV",
+      "publish_date": "2021-11-23",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "林美玲"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NSFS-045"
+    },
+    {
+      "id": 79827,
+      "IDcode": "HDKA-243",
+      "title": "はだかの主婦 目黒区在住ジューン・ラブジョイ（25）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "PLANETPLUS",
+      "publish_date": "2021-10-01",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HDKA-243"
+    },
+    {
+      "id": 79465,
+      "IDcode": "DASD-920",
+      "title": "親肛行 死ぬほど嫌いな義父に…ケツ穴を犯●れた外国妻 ジューンラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2021-09-28",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DASD-920"
+    },
+    {
+      "id": 79832,
+      "IDcode": "SPRD-1454",
+      "title": "お義母さん、にょっ女房よりずっといいよ… ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2021-09-09",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SPRD-1454"
+    },
+    {
+      "id": 92348,
+      "IDcode": "WKD-037",
+      "title": "オ・ン・ナ♀ざかり ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2021-01-01",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240813-1/9a933e0183af7158e00791bf7d6dee3f.jpg",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WKD-037"
+    },
+    {
+      "id": 73059,
+      "IDcode": "VEMA-154",
+      "title": "爆乳女教師とのヤリ目で参加する二泊三日の中出し修学旅行 ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "VENUS",
+      "publish_date": "2020-12-19",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=VEMA-154"
+    },
+    {
+      "id": 87461,
+      "IDcode": "DVAJ-474",
+      "title": "ど淫乱な金髪デカ尻女が棲む売春木賃宿【秘境風俗探訪】築50年以上ありそうな木造のボロい風俗店に入ったら、めっちゃキレイな白人の嬢が出てきた（しかもめちゃくちゃスケベで何度も生ハメ中出ししまくった！ ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ALICE JAPAN",
+      "publish_date": "2020-09-13",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DVAJ-474"
+    },
+    {
+      "id": 67740,
+      "IDcode": "EKW-061",
+      "title": "接吻コントロール ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "素人Only",
+      "publish_date": "2020-07-31",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=EKW-061"
+    },
+    {
+      "id": 81463,
+      "IDcode": "DANDY-708",
+      "title": "こんなエッチな外国人観光客がいたら貴方は勃起せずに断れる！？日本チ○ポを喰いまくるドスケベ金髪娘",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DANDY",
+      "publish_date": "2020-04-09",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=DANDY-708"
+    },
+    {
+      "id": 75394,
+      "IDcode": "HND-777",
+      "title": "グッドモーニング！ラブ先生むっちりアメリカ人英会話教師中出しAV出演！ ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "本中",
+      "publish_date": "2020-01-25",
+      "cover_url": "",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HND-777"
+    },
+    {
+      "id": 74898,
+      "IDcode": "JUNY-018",
+      "title": "綺麗な顔してお尻と太ももが超ヘビー級！激しく責められたい欲求不満なアメリカ人妻JUNE LOVEJOY AVデビュー！ ジューン・ラブジョイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "FITCH",
+      "publish_date": "2020-01-13",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/6378fe00feaed7727096efcbabfa4127.jpg",
+      "actress": [
+        "瓊·洛夫喬伊",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUNY-018"
+    }
+  ]
+};

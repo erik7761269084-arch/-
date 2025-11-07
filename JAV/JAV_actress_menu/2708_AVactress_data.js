@@ -1,0 +1,84 @@
+// 2708_AVactress_data.js
+window.actressData = {
+  "id": 2708,
+  "name": "天宮真理留",
+  "age": 33,
+  "birthday_date": "1992-09-17",
+  "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\6-Warashi/AI-Fix-天宮まりる.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
+  "zodiac": "處女座",
+  "height": "148cm",
+  "measurements": "胸 87 腰 60 臀 88",
+  "measurements_display": "87E/60/88",
+  "cup": "E",
+  "description": null,
+  "features": [
+    "美人",
+    "膚白",
+    "長相可愛",
+    "嬌小身材",
+    "矮小"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/bb8de99b-c9de-403c-8dfe-8775670e341c.html",
+  "aliases": [
+    "honoka saga",
+    "madoka",
+    "Mariru Amamiya",
+    "monaka matsumoto",
+    "nana mochiduki",
+    "Rena Yoshikawa",
+    "rina kurosaki",
+    "Yumi Kashiwagi",
+    "上原ゆあ",
+    "佐賀ほのか",
+    "吉川れな",
+    "吉川れな",
+    "天宮まりる",
+    "望月奈々",
+    "松本もなか",
+    "柏木ゆみ",
+    "立花彩音",
+    "黒崎リナ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-天宮まりる.jpg",
+    "https://picture.yoshiclub.xyz/20230211/32c326d6-d008-44dc-bf98-5eb2d41a8deb.jpg",
+    "https://picture.yoshiclub.xyz/20230211/d260f2f6-457e-476f-aa07-6b753fbb479a.jpg",
+    "https://picture.yoshiclub.xyz/20230211/4d17f8ff-f4ba-4764-9704-8ae05f18e972.jpg",
+    "https://picture.yoshiclub.xyz/20230211/35025505-1f94-4718-8e6f-aa25f62ff94e.jpg",
+    "https://picture.yoshiclub.xyz/20230211/f71012dc-e44c-481d-8ce4-a79a50c6d093.jpg",
+    "https://picture.yoshiclub.xyz/20230211/7af12391-15cf-4bfe-9e7c-c6b3c3804f39.jpg",
+    "https://picture.yoshiclub.xyz/20230211/aeda3e5e-cdca-41cf-b44f-2c596512f108.jpg",
+    "https://picture.yoshiclub.xyz/20230211/6ddb0a4c-b803-4855-b2f8-47742f469558.jpg",
+    "https://picture.yoshiclub.xyz/20230211/99b0e58e-297f-40bf-8e00-563b1ae0179a.jpg",
+    "https://picture.yoshiclub.xyz/20230211/78ce58ef-a05a-4ed9-b164-71841a647350.jpg",
+    "https://picture.yoshiclub.xyz/20230211/1493693e-47d0-4821-ba6c-d41151105e0b.jpg",
+    "https://picture.yoshiclub.xyz/20230211/9c84c3c5-f975-4888-b348-3b3fb66773dd.jpg",
+    "https://picture.yoshiclub.xyz/20230211/ecdf7c57-a32f-4828-99f7-46b11f1f9db4.jpg",
+    "https://picture.yoshiclub.xyz/20230211/1279fdf7-8f0c-4213-a997-8373ab5cea94.jpg",
+    "https://picture.yoshiclub.xyz/20230211/82c18da3-ff1e-4b1f-9b67-45753f95c095.jpg",
+    "https://picture.yoshiclub.xyz/20230211/34d542ca-60b2-4533-b9cc-435c0d0afdcc.jpg",
+    "https://picture.yoshiclub.xyz/20230211/6d23fe8b-3d73-475d-844f-6cdde0a217e3.jpg",
+    "https://picture.yoshiclub.xyz/20230211/265d7520-c8f5-4aaa-99d4-8878da19a511.jpg",
+    "https://picture.yoshiclub.xyz/20230211/cbd46c64-4cc0-4fdb-9e97-9572bb21223d.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 1744,
+      "IDcode": "smbd-20",
+      "title": "S Model 20 女子校生淫亂放課後 ~ 天宮真理留",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SUPER MODEL",
+      "publish_date": "2010-12-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
+      "actress": [
+        "天宮真理留"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=smbd-20"
+    }
+  ]
+};

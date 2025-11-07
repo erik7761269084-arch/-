@@ -1,0 +1,78 @@
+// 2383_AVactress_data.js
+window.actressData = {
+  "id": 2383,
+  "name": "指原美奈",
+  "age": 23,
+  "birthday_date": "2002-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250816/118e136d-6d73-4767-aa18-a91628126e7f_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025238900900_67357_s.webp",
+  "zodiac": "摩羯座",
+  "height": "172cm",
+  "measurements": "胸 90 腰 60 臀 94",
+  "measurements_display": "90E/60/94",
+  "cup": "E",
+  "description": "是八頭身的和顏美人！這位女優名喚「指原美奈」，但相信很多朋友期待她很久了：因為她上個月就開始用X了(https://x.com/Sashimichan1206)，一開始自然不敢露出藝名，不過因為指原的讀音是「Sashihara」、所以她自稱是さしみ(沙西米，前面兩個讀音相同)，直到出道作情報解禁後才掛上指原美奈之名：那她的特色是什麼呢？在還是沙西米(さしみ)的時候，從上傳到社群的照片就可以看出她臉小身長比例超級好，穿上集中托高的內衣還有爆乳的效果，港覺是個十八般武藝樣樣精通的純白辣妹；所以看到出道作時反而讓人嚇了一跳，原來她也有清純的一面ー根據片商的文案，她是個空姐(CA)，而且是個很色的空姐，因為太色了所以在飛機落地後她馬上前進攝影棚把拍A片當副業做，有爽有錢賺，摸蛤仔兼洗褲，超爽！然後衣服一脫，大家馬上都「哇」了一聲！因為指原美奈的條件真不錯，純白美肌、苗條細身再加上八頭身的完美比例有如模特兒；再加上堅挺的上圍、稀疏的陰毛以及淡粉紅色的肛門，看來真是個好對手ー因為在飛機上餓了很久性慾過剩，所以在片中她不會有新人的青澀只會有痴女的騷勁，也因為是在Fresh系列出道、一片為限用完就會離開片商也不會壓抑演出尺度，指原美奈很快就一前一後被3P夾擊了：然後你看看，和顏美人是否名不虛傳？就我的看法，指原美奈確實不太適合當做專屬女優來養，一來她長得比較「熟」，雖然有和顏美人之名，但和市場上的偶像女優相比是遜色了些；二來她的胸部雖然夠堅挺但感覺太硬了，皮膚白歸白、腰身細歸細然後搖得也夠厲害，但如果你非純天然不看的話那很容易對她的奶子過敏⋯但這樣的女優往企劃女優的方向走就不一樣了，她有戰鬥力，也能在修圖後凸顯優點讓吸引粉絲的目光，再加上所屬的事務所ACT先後培養出小那海あや(小那海綾)以及春陽モカ(春陽萌花)兩位戰神，我覺得早就在社群準備的指原美奈還是有發片機器的潛力，你覺得呢？",
+  "features": [
+    "美人",
+    "美乳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "長相溫柔",
+    "美臀",
+    "長相甜美",
+    "修長癡體",
+    "肉嘟嘟",
+    "極上身材",
+    "臉大",
+    "高妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/63cf2c3f-9251-491c-a165-2c21cbf37c01.html",
+  "aliases": [
+    "Sashihara Mina"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250816/b88487f7-0df7-4a62-9387-64358e67adda_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/54a7acab-3dea-41be-b921-bfca8bc5ccc8_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/5616c1ad-abc6-486e-bd9e-7b8a654dfbb3_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/61e697b4-e8ff-45e0-9890-de0827bbdd32_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/50265c3a-e24e-47b6-8f41-53244cc56786_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/6d606f76-8b12-4d48-b397-2e52b4c0faa0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/7f4ca19f-4d65-4968-ac30-be3d422fd71e_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/4635f058-b969-45cd-9fa3-cc8793d179d6_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/e6314de8-c744-4e64-ad60-aa5432c57315_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/d1294bed-b53b-4e49-a646-1d9377d744c0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/f7769a4e-274c-477c-ad5d-9901af1b2cdc_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/9aa4b687-00dd-445c-8fab-3c84cd99eea0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/6dc4b0e8-1007-467e-bd33-2dff041e0923_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/3b6defe4-48c2-4ae9-898c-4090399306cc_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/1e379876-1015-4e55-a0e0-db30686e1d45_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/db86ae21-a1e3-4813-a7b6-2ba707432824_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/a99023b1-6a75-4330-9d42-033fdafdf331_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/b3cecc60-dc95-4912-90ec-7e71c0b5b105_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/745c5800-8155-4dbd-9d86-6765aca8e797_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250816/92a01eee-4bf7-4406-a121-2549ea988b8f_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 61579,
+      "IDcode": "MIFD-651",
+      "title": "【FANZA限定】和顔美人のシルキー白美肌の八頭身CAさん 国際線帰国後オフ日だけこっそり副業AVデビュー 指原美奈 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-08-20",
+      "cover_url": "",
+      "actress": [
+        "指原美奈",
+        "ラヴズ",
+        "なっつ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIFD-651"
+    }
+  ]
+};

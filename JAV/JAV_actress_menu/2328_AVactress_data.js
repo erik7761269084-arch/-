@@ -1,0 +1,85 @@
+// 2328_AVactress_data.js
+window.actressData = {
+  "id": 2328,
+  "name": "宮崎愛莉",
+  "age": 41,
+  "birthday_date": "1984-11-30",
+  "img_url": "https://picture.yoshiclub.xyz/20240710/cba70e42-4bda-416c-afcd-834ef1d688d4.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240710/7434402c-aebf-42d1-ab08-fa5a6fd11dd5.jpg",
+  "zodiac": "射手座",
+  "height": "172cm",
+  "measurements": "胸 90 腰 62 臀 92",
+  "measurements_display": "90G/62/92",
+  "cup": "G",
+  "description": "宫崎爱莉，又名：上原美帆，来自东京都，是日本女演员，所属事务所FUNIT! Entertainment，短发造型，听说她是选美出身。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "天然",
+    "嫵媚",
+    "人妻",
+    "優雅",
+    "短髮",
+    "高妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/53d8f271-d95f-41e7-aa35-c571d549c7cd.html",
+  "aliases": [
+    "Aika Miyazaki",
+    "Airi Miyazaki",
+    "Kei Mimori",
+    "Miho Uehara",
+    "Seiyokushori Mazomasuku 05",
+    "けいさん34歳 清楚に見えて日本一エロい人妻",
+    "メイ 話題のコスプレイヤーオフパコ性交",
+    "上原美帆",
+    "宫崎爱莉",
+    "宮崎愛香",
+    "性欲処理マゾマスク０５号",
+    "美森けい"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/宮崎愛莉.jpg",
+    "https://picture.yoshiclub.xyz/20240710/d0d3aeac-83e9-4e54-a276-1ec0f4b210cb.jpg",
+    "https://picture.yoshiclub.xyz/20240710/981000f0-c489-4c16-b1d2-13c3a827bef6.jpg",
+    "https://picture.yoshiclub.xyz/20240710/9d08c793-4eb4-47f0-adae-0da7bf06e8db.jpg",
+    "https://picture.yoshiclub.xyz/20240710/f88e2888-2a1a-49da-8401-8fabe839f47c.jpg",
+    "https://picture.yoshiclub.xyz/20240710/67f47668-1f33-4e28-9279-9825b1e93171.jpg",
+    "https://picture.yoshiclub.xyz/20240710/81125499-627c-4018-900d-e3049049e0b6.jpg",
+    "https://picture.yoshiclub.xyz/20240710/7d79907a-e61b-4fd5-89e7-89e14d2d3971.jpg",
+    "https://picture.yoshiclub.xyz/20240710/dc7fef32-7ecd-40c3-beba-2616f1f82ba1.jpg",
+    "https://picture.yoshiclub.xyz/20240710/18ca49ad-b8a9-4b7d-bf61-94578bbec479.jpg",
+    "https://picture.yoshiclub.xyz/20240710/6ddfd62a-8c4b-43fe-ba3f-37514cc145ee.jpg",
+    "https://picture.yoshiclub.xyz/20240710/567f205d-08f1-4bd5-833d-d030670f2569.jpg",
+    "https://picture.yoshiclub.xyz/20240710/32457b41-e180-4af7-9d5e-7f50af31d513.jpg",
+    "https://picture.yoshiclub.xyz/20240710/0e6e5ba4-eb8d-4b02-85c8-21e34750fcf3.jpg",
+    "https://picture.yoshiclub.xyz/20240710/5321ddca-47d5-43dc-843a-b3895fe27ffe.jpg",
+    "https://picture.yoshiclub.xyz/20240710/e09e65be-9a10-4762-95af-5441b23eceb8.jpg",
+    "https://picture.yoshiclub.xyz/20240710/e33e9e6e-e749-46fe-a3c7-f914136f1c53.jpg",
+    "https://picture.yoshiclub.xyz/20240710/81519023-cffb-4383-a2d3-071d2e39de5b.jpg",
+    "https://picture.yoshiclub.xyz/20240710/abc2a449-1410-452b-a3f6-2e3aef1d46b4.jpg",
+    "https://picture.yoshiclub.xyz/20240710/ef5dcf68-a80e-4962-9a26-ad9cb6a0ebb2.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 82979,
+      "IDcode": "JMTY-024",
+      "title": "いやらしい人妻 美森けい 旦那に言われるまま単独さんに寝取られている人妻が、集大成としてAV出演して他人棒で圧巻のイキまくり49回",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "TMA",
+      "publish_date": "2020-03-13",
+      "cover_url": "",
+      "actress": [
+        "宮崎愛莉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JMTY-024"
+    }
+  ]
+};

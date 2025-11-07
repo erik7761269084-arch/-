@@ -1,0 +1,44 @@
+// 3879_AVactress_data.js
+window.actressData = {
+  "id": 3879,
+  "name": "森谷美穂",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://www.hhkoo.com/d/file/20170611/b0c0bf94da8b8636c75a7381c7bacbbe.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": "G",
+  "description": "森谷美穗，是女演员，所属事务所ARCHE Production。",
+  "features": [
+    "好看,大胸"
+  ],
+  "detail_url": "https://www.hhkoo.com/nvyou/star_095.html",
+  "aliases": [
+    "森谷美穂",
+    "もりたにみほ",
+    "Moritani Miho"
+  ],
+  "gallery": [],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 69123,
+      "IDcode": "ZEX-317",
+      "title": "ぷるんっとGカップ つるんっとパイパン 現役大学生AVデビュー 森谷美穂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2017-03-15",
+      "cover_url": "",
+      "actress": [
+        "森谷美穂"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ZEX-317"
+    }
+  ]
+};

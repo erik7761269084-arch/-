@@ -1,0 +1,89 @@
+// 1149_AVactress_data.js
+window.actressData = {
+  "id": 1149,
+  "name": "賀川かのこ",
+  "age": 24,
+  "birthday_date": "2001-11-01",
+  "img_url": "https://picture.yoshiclub.xyz/20240607/8ac0b45f-314b-48d7-81b1-ada8234fd975.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607832832_s.webp",
+  "zodiac": "天蠍座",
+  "height": "149cm",
+  "measurements": "胸 73 腰 60 臀 80",
+  "measurements_display": "73C/60/80",
+  "cup": "C",
+  "description": "是舞妓！她叫賀川かのこ(賀川佳乃子)，是片商Rookie「非常認真」推出的新人：為什麼要強調「非常認真」呢？因為她是Rookie為了慶祝成立15週年而特別發掘的新鮮肉體，大家都知道這家片商喜歡做一些什麼「世界最大的老二」或是「有史以來最雄壯威武的陰囊」這種怪片，所以ー所以能做為成立15週年而推出的新人，賀川かのこ(賀川佳乃子)一定有些特別的地方，而這也就是為什麼她會用這個打扮拍封面照的原因ー沒錯，她是片商從京都花街發掘來的舞妓，你如果沒預約是絕對見不到她的、但就算是預約也要等好久好久⋯也就因為她那麼受歡迎，於是Rookie特別把她挖來AV界打炮給大家看：然後賀川かのこ(賀川佳乃子)說了，她最喜歡看起來變態變態的男人！所以從劇照就可以看到來點她的都是像吉村卓、杉浦ボッ樹(杉浦勃樹)以及オクレ那樣不是很禿就是很猥瑣或者是很禿又很猥瑣的男優，而賀川かのこ(賀川佳乃子)也毫無懼色，先是奏樂跟著舞，然後雙腿張開把自己的下半身當杯子倒酒喝，接著就是和吉村卓濃厚接吻激烈做愛，最後更是和杉浦和オクレ在包廂裡玩起3P〜從試看影片來看，這位來自京都的舞妓如果不是真的很喜歡變態的客人就是早就很習慣變態的客人，比較可惜的是她不是全程用舞妓的打扮演出然後是沒什麼發育的幼兒體型，你如果想看一張超濃妝的大白臉演出那就要失望了；但令人驚喜的是她臉蛋頗為清秀而且是敏感多汁的體質，碰到那些很變態又很愛賣弄的歐吉桑男優效果超級好，不管是攻擊還是防守都很有看頭⋯只能說新秀片商(Rookie)這次真的找了個不錯的新秀，雖然不太可能像アイポケ(ideapocket，IP社)找到楓カレン(楓花戀)可以一用十年，但是從她的外型和舞妓的身份及打扮也不會讓人覺得是來鬧的，就算這支作品合作完就被放生，我想她還是可以在這一行生存下去的〜",
+  "features": [
+    "美人",
+    "膚白",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "嬌小身材",
+    "矮小",
+    "優雅",
+    "職業演員",
+    "臉大"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/1ec15099-64b2-46dc-a962-c2aea0bb5ca4.html",
+  "aliases": [
+    "Kanoko Kagawa"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240607/8ac0b45f-314b-48d7-81b1-ada8234fd975.jpg",
+    "https://picture.yoshiclub.xyz/20240607/fcd76b98-7e8f-437e-a7df-230240f95a99.jpg",
+    "https://picture.yoshiclub.xyz/20240607/7ef35e17-64e7-4231-a1ea-0e33eadb9a18.jpg"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 4759,
+      "IDcode": "JUR-395",
+      "title": "為了女兒替身出道同人AV的火辣媽媽 ~ 風間由美 賀川かのこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MADONNA",
+      "publish_date": "2025-07-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607832832_thumbnail.webp",
+      "actress": [
+        "風間由美",
+        "賀川かのこ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUR-395"
+    },
+    {
+      "id": 13515,
+      "IDcode": "RKI-674",
+      "title": "洗劫客廳，拖着她四處操、殘酷的體內射精 ~ 被無情強奸的女孩 ~ 賀川かのこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ROOKIE",
+      "publish_date": "2024-07-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240706/20240706014642309309.jpg",
+      "actress": [
+        "賀川かのこ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-674"
+    },
+    {
+      "id": 14125,
+      "IDcode": "RKI-673",
+      "title": "衆所期待的M女優賀川かのこ的背景時，是一個熱愛終極自我受虐性愛的變態",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "ROOKIE",
+      "publish_date": "2024-06-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607020552902902.jpg",
+      "actress": [
+        "賀川かのこ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=RKI-673"
+    }
+  ]
+};

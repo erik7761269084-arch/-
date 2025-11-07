@@ -1,0 +1,71 @@
+// 705_AVactress_data.js
+window.actressData = {
+  "id": 705,
+  "name": "姫川ゆうな",
+  "age": 29,
+  "birthday_date": "1996-08-03",
+  "img_url": "https://picture.yoshiclub.xyz/20231206/aab31ad7-689a-4f00-bd0b-eb7bd2ff0f49.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241125/db353358-a9b6-4ef6-a979-e9f388681204.jpg",
+  "zodiac": "獅子座",
+  "height": "160cm",
+  "measurements": "胸 85 腰 58 臀 84",
+  "measurements_display": "85D/58/84",
+  "cup": "D",
+  "description": "姬川优奈，又名：姫川ゆうな，是女演员，所属事务所GIRFY，兴趣爱好是电心、芭蕾舞。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相可愛",
+    "萌妹子",
+    "娃娃臉",
+    "蘿莉",
+    "小虎牙",
+    "呆萌",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/470eb294-8be2-4419-a811-b31a319f586a.html",
+  "aliases": [
+    "Hina Kokomi",
+    "Ran Tukisiro",
+    "Yuri Mitsui",
+    "Yuuna Himekawa",
+    "三井ゆり",
+    "心美ひな",
+    "月城らん"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231206/2ac0a263-6a35-4bf1-b62b-c853411a83b2.jpg",
+    "https://picture.yoshiclub.xyz/20231206/0c9d06a1-202a-4569-811e-52449c276728.jpg",
+    "https://picture.yoshiclub.xyz/20231206/46dd4393-5d93-49b6-bdf8-e4fd1c83a196.jpg",
+    "https://picture.yoshiclub.xyz/20231206/4b1fdc17-d4f1-4d4c-85b1-2c435c2b96bc.jpg",
+    "https://picture.yoshiclub.xyz/20231206/8e9c1e77-4d4d-4240-8564-3dad940a7a12.jpg",
+    "https://picture.yoshiclub.xyz/20231206/a64a9f14-355b-46f0-9c09-d77ab9da077b.jpg",
+    "https://picture.yoshiclub.xyz/20231206/a73e83f3-1419-45ca-91df-2caba05d2ced.jpg",
+    "https://picture.yoshiclub.xyz/20231206/f9fdab82-8068-42b4-8dd6-3842e4b7b8a7.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 6532,
+      "IDcode": "TEND-024",
+      "title": "超色小惡魔連家教跟親爹都勾引的狂野227分鐘 ~ 姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "Tender",
+      "publish_date": "2025-04-29",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/20250430054031773773_thumbnail.webp",
+      "actress": [
+        "姫川ゆうな",
+        "姬川优奈"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TEND-024"
+    }
+  ]
+};

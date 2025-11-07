@@ -1,0 +1,44 @@
+// 4066_AVactress_data.js
+window.actressData = {
+  "id": 4066,
+  "name": "江藤ゆい",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://www.hhkoo.com/d/file/20170611/50446f16869a551dc62179a6efed3a8e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": "163cm",
+  "measurements": "胸 96 腰 59 臀 86",
+  "measurements_display": "96H/59/86",
+  "cup": "H",
+  "description": "江藤唯，又名：江藤ゆい，是女演员。",
+  "features": [
+    "好看,大胸,90后"
+  ],
+  "detail_url": "https://www.hhkoo.com/nvyou/star_0135.html",
+  "aliases": [
+    "江藤ゆい",
+    "えとうゆい",
+    "Etou Yui"
+  ],
+  "gallery": [],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 70739,
+      "IDcode": "JUFD-707",
+      "title": "巨根の虜 爆乳と膣が欲しがるデカマラディープFUCK 江藤ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DREAMTICKET",
+      "publish_date": "2017-03-01",
+      "cover_url": "",
+      "actress": [
+        "江藤ゆい"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=JUFD-707"
+    }
+  ]
+};

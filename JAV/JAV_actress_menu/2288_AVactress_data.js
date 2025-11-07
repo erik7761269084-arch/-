@@ -1,0 +1,83 @@
+// 2288_AVactress_data.js
+window.actressData = {
+  "id": 2288,
+  "name": "陽向さえか",
+  "age": 33,
+  "birthday_date": "1992-09-09",
+  "img_url": "https://picture.yoshiclub.xyz/20230405/8da74bb6-4b35-47ae-a0ca-6eebb0a9e1ac.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230405/d8181fb8-2130-47ee-b12f-e92bfdadf720.jpg",
+  "zodiac": "處女座",
+  "height": "160cm",
+  "measurements": "胸 78 腰 59 臀 84",
+  "measurements_display": "78B/59/84",
+  "cup": "B",
+  "description": "阳向纱耶香，1992年9月9日出生，身高160cm，三围B78 / W57 / H82，C-Cup。日本成人女优界月月新人辈出，近日Maxing推出了一位「写真界清纯派工口职人」阳向纱耶香（阳向さえか），即将于下个月16日推出处女作MXGS-916。说是新人，但阳向纱耶香可是大有来头，过去曾入选「Nittelegenic 2014」的候补生，在萤光幕前表演过。不过在「Nittelegenic 2014」落选后，她竟然改名「工藤未来」，打算转战成人女优界，连作品都准备好了，但没想到被人抓包是阳向纱耶香本人后，作品火速被下架，害得大家无缘一睹。\n\n后来阳向纱耶香又改名二叶花梨（二叶かりん），并跑去浅草Rock座当脱衣舞娘。没想到正当大家都快遗忘她时，又重返当初未下海成功的成人女优界，如今的她也不跟大家玩那些虚的了，而且连艺名都直接用阳向纱耶香。\n\n虽然是贫乳一族，但游泳资历长达15年的阳向纱耶香，身材也是相当玲珑有致，而且还拥有一张清纯甜美的脸蛋，要想在女优界发光发热，算是具备该有的外型条件了，剩下就看演出的部分，让人拭目以待！",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "大眼睛",
+    "長相溫柔",
+    "長相甜美",
+    "小乳房",
+    "優雅",
+    "職業模特",
+    "脫衣舞娘"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/448cec61-5227-4d20-84af-a91e64571fa6.html",
+  "aliases": [
+    "Karin Futaba",
+    "Mei Kitagawa",
+    "Miki Kudo",
+    "Saeka Hinata",
+    "Saeka Miyamoto",
+    "Saori Suou",
+    "二葉かりん",
+    "北川芽衣",
+    "周防さおり",
+    "宮本紗英加",
+    "工藤未来"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-陽向さえか.jpg",
+    "https://picture.yoshiclub.xyz/20230405/2f80b6a7-7bda-483f-adab-3fbfc2724278.jpg",
+    "https://picture.yoshiclub.xyz/20230405/de12841d-5244-4b57-8a72-94312ab0ca99.jpg",
+    "https://picture.yoshiclub.xyz/20230405/f6cd6832-061d-4345-90b9-3655381f1a6b.jpg",
+    "https://picture.yoshiclub.xyz/20230405/485f8f92-c349-4437-9b0d-8a8a52b3f362.jpg",
+    "https://picture.yoshiclub.xyz/20230405/a7026ac0-2be2-4395-8623-bf5ddef3cc54.jpg",
+    "https://picture.yoshiclub.xyz/20230405/7f149a71-ceb5-45bb-8df6-4b7fe026f3dc.jpg",
+    "https://picture.yoshiclub.xyz/20230405/8b683656-08e6-46f3-a452-419c6fdddc1d.jpg",
+    "https://picture.yoshiclub.xyz/20230405/9fc3d236-b82b-45b5-8660-b11fd548e98e.jpg",
+    "https://picture.yoshiclub.xyz/20230405/6beafd5c-6c77-4934-b597-ef45c2e0efdd.jpg",
+    "https://picture.yoshiclub.xyz/20230405/70cbd18d-bbb3-40a7-ac52-9dd8e81d38c2.jpg",
+    "https://picture.yoshiclub.xyz/20230405/7006c79c-8699-40b0-b7fe-1ec15e9691d0.jpg",
+    "https://picture.yoshiclub.xyz/20230405/4e7a9a31-b923-4539-8797-c5eee2380f62.jpg",
+    "https://picture.yoshiclub.xyz/20230405/a0418441-2fa4-4e9a-8798-08e1475d4048.jpg",
+    "https://picture.yoshiclub.xyz/20230405/50fd6ca3-d982-47be-9b8d-edc2198e7e30.jpg",
+    "https://picture.yoshiclub.xyz/20230405/9b634e21-0f9b-41d9-a842-3cbd8a40d208.jpg",
+    "https://picture.yoshiclub.xyz/20230405/7da4c802-2191-4e8a-bc41-9b170e05434e.jpg",
+    "https://picture.yoshiclub.xyz/20230405/879bde98-491e-43b4-b8cf-253976c42701.jpg",
+    "https://picture.yoshiclub.xyz/20230405/7d94a698-66ef-4504-95b8-2e4496842080.jpg",
+    "https://picture.yoshiclub.xyz/20230405/f5cce632-61fa-4334-9f40-3464ec23b0b3.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 1604,
+      "IDcode": "mxgs-916",
+      "title": "寫真界清純女星也下海啦 陽向沙耶香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "MAXING",
+      "publish_date": "2016-11-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20230405/d8181fb8-2130-47ee-b12f-e92bfdadf720.jpg",
+      "actress": [
+        "陽向さえか"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=mxgs-916"
+    }
+  ]
+};

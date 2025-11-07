@@ -1,0 +1,72 @@
+// 1972_AVactress_data.js
+window.actressData = {
+  "id": 1972,
+  "name": "凪宮ゆきの",
+  "age": 22,
+  "birthday_date": "2003-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250529/c01d5d51-414f-49f0-a465-b46cef0d7275_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171318119119_s.webp",
+  "zodiac": "摩羯座",
+  "height": "153cm",
+  "measurements": "胸 84 腰 58 臀 88",
+  "measurements_display": "84C/58/88",
+  "cup": "C",
+  "description": "在介紹這位新人前，我們先來談談她背後的經紀公司「アンムートプロモーション」：這是近來有不少新人出道的事務所，大家可能滑過看過就算了，但其實這家經紀公司之前的問題很多，包括壓著女優的薪資不放、女優一離開事務所就改密碼讓人家無法登入…講到這兒你猜出這間改名的事務所本體了嗎？對，就是把深田えいみ(深田詠美)和ひなたなつ(日向夏)搞得死去活來的44Management！所以，除了恭喜「凪宮ゆきの(凪宮雪乃)」順利出道，也希望她不要碰到前輩們的鳥事；至於在片商Kawaii*出道的她有什麼迷人的賣點？還記得我之前說的的嗎，現在kawaii*非常的「ナンパJAPAN化」，也就是大量地使用搭訕企劃來發掘新人，所以男友都要出去拍外景當個玉樹臨風的搭訕專家，不然就是女優要自己寄私訊來說好想幹啊快來幹我ー這位「凪宮ゆきの(凪宮雪乃)」就屬於後者，在距離東京不遠的「群馬」但願美容師助理的她是主動私訊男優約炮的，據說她原本就是個公車女，之前就到處找人打炮，結果當男優見到她的時候卻嚇了一跳：因為站在眼前的就是個戴著口罩的鄉下女孩，和大家一般覺得公車女肯定花枝招展完全不一樣，不過既然見面了還是帶回去處理一下，結果衣服脫又讓男優大吃一驚，因為脫了口罩的凪宮ゆきの(凪宮雪乃)不只長得還蠻可愛的而且還是個隱藏的巨乳，然後血液源源不絕地輸送到海綿體、然後男友撲倒了她、然後來福在叫、然後…然後覺得男優「幹得好」的凪宮ゆきの(凪宮雪乃)，決定正式出道做AV女優了！是不是很ナンパJAPAN式的新人出道企劃？原本只是想打個炮抒壓的洗頭髮小妹覺得有爽有錢賺超嗨的於是就決定全職來做AV女優這份很有前途的工作；不過容我提醒大家，雖然有個還不錯的人設以及出道企劃，臉長得不醜、短髮巨乳的外型也讓人想到了MINAMO，不過，但是，可是有件事要注意，那就是，凪宮ゆきの(凪宮雪乃)並非是kawaii*的專屬女優：意思就是有了社群(https://x.com/nagimiyayukino)的她現在要好好幹努力幹了，能不能靠拍A片發大財就看事務所的手腕了，當然，重點是片子拍了要拿到錢…祝福凪宮ゆきの(凪宮雪乃)！",
+  "features": [
+    "美人",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "別致顔值",
+    "嬌小身材",
+    "鄰家女",
+    "肉嘟嘟",
+    "臉大",
+    "呆萌"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/de7ac782-6217-4637-8fce-f2dbfd22d719.html",
+  "aliases": [
+    "Nagimiya Yukino"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250529/c01d5d51-414f-49f0-a465-b46cef0d7275_l.webp"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 3678,
+      "IDcode": "NGHJ-023",
+      "title": "湘南比基尼辣妹【童貞挑戰連續射精】敏感小處男忍不住狂幹，小辣妹變身超騷貨！童貞初次就給我吧，中出更爽哦~夏日回憶破處狂射20發特別篇 ~ 渡來楓 二葉惠麻 あおい藍 凪宮ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013743807807_79756_thumbnail.webp",
+      "actress": [
+        "二葉惠麻",
+        "渡來楓",
+        "あおい藍",
+        "凪宮ゆきの"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NGHJ-023"
+    },
+    {
+      "id": 5735,
+      "IDcode": "CAWD-839",
+      "title": "新人出道！羣馬縣最騷的美發妹子，脫衣驚現隱匿巨乳，悶騷外表下超愛大屌，壓力大就靠性愛釋放，鄉下玩不開欲求不滿，AV拍攝徹底放飛 AV DEBUT ~ 凪宮ゆきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "KAWAII",
+      "publish_date": "2025-05-30",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171318119119_thumbnail.webp",
+      "actress": [
+        "凪宮ゆきの"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-839"
+    }
+  ]
+};

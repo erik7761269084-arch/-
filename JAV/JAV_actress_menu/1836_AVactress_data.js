@@ -1,0 +1,55 @@
+// 1836_AVactress_data.js
+window.actressData = {
+  "id": 1836,
+  "name": "櫻涼香",
+  "age": 28,
+  "birthday_date": "1997-12-30",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250605/4bde3630-e53c-460e-be3c-f1d357bd5845_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250904/20250904030434566566_50368_s.webp",
+  "zodiac": "摩羯座",
+  "height": "162cm",
+  "measurements": "胸 101 腰 62 臀 88",
+  "measurements_display": "101J/62/88",
+  "cup": "J",
+  "description": "又是J罩杯！現在已經不是宇都宮しをん(宇都宮紫苑)出生的年代，J罩杯雖然不是隨處可見但也不是什麼稀奇之事，不過Madonna這位「桜りょうか(櫻涼香)」還是蠻有意思的，值得一說：J罩杯的爆乳我們稍後再驗貨，我們先來看這位女優究竟哪裡有趣：首先，她是ACHIJO(アチージョ)這個製片小組第一位新人，我們都知道這個小組是專門做痴女而不是新人的，所以桜りょうか(櫻涼香)如果不是演技受肯定就是超飢渴的肉食女ー根據人物設定，這位桜りょうか(櫻涼香)今年27歲，正是如狼似虎，在某間有名企業當秘書已經結婚3年了，因為性慾太強，所以她經常背著老公偷人，已經有超過十次的不倫經驗…乾，她這樣讓老公不只頭頂綠油油、根本人肉綠油精惹；也因為性慾實在太強所以她成了AV女優，既要展現她胸前腫脹的J罩杯又是讓大家看看她有多愛幹ー這樣的人設和身材已經夠猛了，再加上桜りょうか(櫻涼香)背後的經紀公司是很會行銷的エイトマン(8MAN)，她的社群帳號(https://x.com/_sakuraryoka_)又已經開通，照說早該介紹了，那為什麼我拖到現在呢？因為我在等她發文啊：看到Madonna的女優介紹就知道桜りょうか(櫻涼香)的「特技」是中国語，不管她學的是繁體還是簡體、說的是早安還是早上好，我都想看看桜りょうか(櫻涼香)的中文精進到什麼程度ー不過很可惜，到現在這位色秘書不只沒發文就連頭像都沒有，然後エイトマン(8MAN)的官方X對她也著墨不多，不知道是怎麼回事？所以還是來看本人在影片中的模樣吧：奶子真的很大，動作真的很浪，和男優的激烈交手給人滿滿的情緒價值，比較令人疑問的是Madonna似乎有意避開她的臉蛋不給你看，到最後揭曉她廬山真面目的時候也真的會給人「原來如此」的感覺…是大型新人沒錯，但是不是大型新人我是有個問號；前面那個大，是J罩杯的大，後面那個大是指對片商的重要性ー以エイトマン(8MAN)的實力，桜りょうか(櫻涼香)應該是有機會一直在Madonna待下去，萬一Madonna不給待呢？沒關係，Faleno集團的姊姊片商DAHLIA近期蠻缺人的，桜りょうか(櫻涼香)也不愁沒地方去的：不管她的未來怎麼發展，先讓我們看看她的中文造詣吧，趕快更新社群OK？",
+  "features": [
+    "美人",
+    "美乳",
+    "大乳房",
+    "性感",
+    "嫵媚",
+    "極上巨乳",
+    "極上身材",
+    "辣妹系",
+    "風塵氣",
+    "網紅臉",
+    "媚眼"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/9d3638f9-6987-4918-a514-32517181bffb.html",
+  "aliases": [
+    "Ryoka Sakura",
+    "桜りょうか"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250605/4bde3630-e53c-460e-be3c-f1d357bd5845_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 5563,
+      "IDcode": "ACHJ-064",
+      "title": "新人出道！帶出去超有面子頂級J杯27歲現役祕書初次下海 特長:中國語 AV DEBUT ~ 櫻涼香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MADONNA",
+      "publish_date": "2025-06-06",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040736675675_thumbnail.webp",
+      "actress": [
+        "櫻涼香"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=ACHJ-064"
+    }
+  ]
+};

@@ -1,0 +1,105 @@
+// 1058_AVactress_data.js
+window.actressData = {
+  "id": 1058,
+  "name": "星宮菜奈",
+  "age": 26,
+  "birthday_date": "1999-02-17",
+  "img_url": "https://picture.yoshiclub.xyz/20231003/29138554-5742-4d9b-97e4-b34cd0870bd3.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231002/20231002222127738738.jpg",
+  "zodiac": "水瓶座",
+  "height": "163cm",
+  "measurements": "胸 82 腰 55 臀 78",
+  "measurements_display": "82A/55/78",
+  "cup": "A",
+  "description": "今年21歲，擁有出眾驚人的美貌，和纖細苗條的好身材，雖然胸前僅有A罩杯微乳，卻瑕不掩瑜，絲毫不減星谷瞳的魅力，並於去年7月，正式從偶像型片商出道近一年半來，星谷瞳推出超過30部作品在推特上也有超過1.5萬的追蹤數，並於上個月底(10/29)，在推特上表示、正式改名為“星宮菜奈”，活動也會重新開始，從當天就開始到各 片商面試，",
+  "features": [
+    "美人",
+    "美腳",
+    "性感",
+    "大眼睛",
+    "修長癡體",
+    "小乳房",
+    "辣妹系",
+    "網紅臉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7727532a-f0e1-42b9-8b94-5f109f5323e6.html",
+  "aliases": [
+    "Hitomi Hashiya",
+    "Mio Sakuragi",
+    "Nana Hoshimiya",
+    "星谷瞳",
+    "桜木美央【DTI系】"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231003/4b22522d-cf6f-4cbe-813a-a7f209ebab6b.jpg",
+    "https://picture.yoshiclub.xyz/20231003/cb5702b3-6a1d-40c6-9fd2-a6430d0b5f94.jpg",
+    "https://picture.yoshiclub.xyz/20231003/88a07005-10c0-4c6a-a1bf-51fcf216daef.jpg",
+    "https://picture.yoshiclub.xyz/20231003/9a1f7962-5fab-4453-a772-a94b672d1ca5.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 6442,
+      "IDcode": "MIZD-453",
+      "title": "剛入職的嫩妹OL被摧毀未來的鬼畜侵犯合集40選 ~ 小野六花 八木奈奈 葵伊吹 水卜櫻 二葉惠麻 初川南 水原美園 琴音華 二見玲 佐久良咲希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MOODYZ",
+      "publish_date": "2025-05-02",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
+      "actress": [
+        "森澤佳奈",
+        "倉本菫",
+        "末広純",
+        "北野未奈",
+        "二葉惠麻",
+        "東條夏",
+        "月乃露娜",
+        "宮下玲奈",
+        "小野六花",
+        "八木奈々",
+        "葵伊吹",
+        "水原みその",
+        "水卜櫻",
+        "中山文香",
+        "和久井美兎",
+        "横宮七海",
+        "藍芽水月",
+        "竹内夏希",
+        "琴音華",
+        "明日見未来",
+        "初川南",
+        "久留木玲",
+        "辻櫻",
+        "琴石ゆめる",
+        "星宮菜奈",
+        "佐久良咲希",
+        "二見玲",
+        "二叶エマ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MIZD-453"
+    },
+    {
+      "id": 18481,
+      "IDcode": "CAWD-577",
+      "title": "高身長！ 腰細腰窄！ 漂亮的腿！ 穿著色情可愛的暴露服裝的苗條秘書們！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "KAWAII",
+      "publish_date": "2023-10-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222127738738.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "齋藤亞美里",
+        "星宮菜奈",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=CAWD-577"
+    }
+  ]
+};

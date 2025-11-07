@@ -1,0 +1,286 @@
+// 976_AVactress_data.js
+window.actressData = {
+  "id": 976,
+  "name": "安部藍",
+  "age": 30,
+  "birthday_date": "1995-03-04",
+  "img_url": "https://picture.yoshiclub.xyz/20240605/76a0239b-c4b2-4dde-be11-5cad26240b38.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250305/20250305125417653653.jpg",
+  "zodiac": "雙魚座",
+  "height": "149cm",
+  "measurements": "胸 90 腰 59 臀 85",
+  "measurements_display": "90F/59/85",
+  "cup": "F",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "大眼睛",
+    "天然",
+    "嫵媚",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "嬌小身材",
+    "娃娃臉",
+    "矮小",
+    "蘿莉"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/dd8ac79e-06c6-4dc4-8c4f-70f755f6f81a.html",
+  "aliases": [
+    "Ai Abe",
+    "Airi Sato",
+    "Kyoko Ise",
+    "あべ藍",
+    "さとう愛理",
+    "伊勢きょうこ",
+    "佐上千春",
+    "佐藤愛理",
+    "佐藤爱理",
+    "安部蓝"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/.Recycled/桃太郎/さとう愛理.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/8-KiraKira/さとう愛理.jpg",
+    "https://picture.yoshiclub.xyz/20240605/680de756-9d60-42ff-8413-4c824cdbdca0.jpg",
+    "https://picture.yoshiclub.xyz/20240605/e7a45396-06c9-438c-b789-0ba1a2a73984.jpg",
+    "https://picture.yoshiclub.xyz/20240605/e8935e35-574a-4392-b80e-efa31ae99659.jpg"
+  ],
+  "works_count": 11,
+  "related_dramas": [
+    {
+      "id": 63021,
+      "IDcode": "TKD-058",
+      "title": "藍女将の告白 先輩！ご主人と愛人さんを膣生出しでいただきました！ あべ藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "RUBY",
+      "publish_date": "2025-06-17",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/782f3673/vod.jpg",
+      "actress": [
+        "安部藍",
+        "ラビットけんと"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=TKD-058"
+    },
+    {
+      "id": 7638,
+      "IDcode": "HUNTC-146",
+      "title": "姐姐的朋友太色了！姐姐就在旁邊她卻用巨乳貼身誘惑我還允許中出！結果連姐姐都暗自發情加入近親相奸追擊戰！ ~ 通野未帆 咲野瑞希 泉莉音 安部藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "HUNTER",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125417653653.jpg",
+      "actress": [
+        "通野未帆",
+        "泉莉音",
+        "咲野瑞希",
+        "安部藍"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=HUNTC-146"
+    },
+    {
+      "id": 93702,
+      "IDcode": "PFAS-014",
+      "title": "令和エレジー 妻がカラダを売る理由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "FAプロ",
+      "publish_date": "2024-07-09",
+      "cover_url": "",
+      "actress": [
+        "安部藍"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PFAS-014"
+    },
+    {
+      "id": 93982,
+      "IDcode": "REAL-849",
+      "title": "膣奥ノド奥二穴同時FUCK 串刺し4時間BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2024-05-28",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/87ad285e9b74dc52e25bb74e1aca2d40.jpg",
+      "actress": [
+        "沙月芽衣",
+        "仓多真央",
+        "大浦真奈美",
+        "葵玲奈",
+        "奏音花音",
+        "安部未華子",
+        "安部藍",
+        "椎名空",
+        "安倍亜沙美",
+        "滝本エレナ"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REAL-849"
+    },
+    {
+      "id": 90421,
+      "IDcode": "PPBD-242",
+      "title": "快要射精！激烈晃動巨乳與快感高潮臉蛋達到最高潮的鬼爆抽插80本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MUGEN",
+      "publish_date": "2022-09-16",
+      "cover_url": "",
+      "actress": [
+        "安部藍",
+        "蒼空なつき",
+        "澁谷果歩",
+        "安倍亜沙美",
+        "田中瞳",
+        "ステイシー",
+        "爱乃まほろ",
+        "凉木奏",
+        "NAOMI",
+        "天音ありす"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PPBD-242"
+    },
+    {
+      "id": 87603,
+      "IDcode": "MDBK-257",
+      "title": "ピチピチ水着で身体のライン丸分かり！！Hな水着をズラシて生挿入30人！！スク水＋競泳水着SUPER BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2022-08-23",
+      "cover_url": "",
+      "actress": [
+        "蓮実クレア",
+        "篠田步美",
+        "川菜美铃",
+        "安部藍",
+        "野野原薺",
+        "真田さな",
+        "安倍亜沙美",
+        "北川爱莉香",
+        "乙叶ななせ",
+        "逢沢るる",
+        "古贺まつな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-257"
+    },
+    {
+      "id": 81622,
+      "IDcode": "GRCH-358",
+      "title": "GIRL’S CH 監禁・拘束・無理イキ select",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "MILK",
+      "publish_date": "2020-03-05",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1ad915b66d19354e362da7c33a54e071.jpg",
+      "actress": [
+        "波多野结衣",
+        "大槻响",
+        "AIKA",
+        "卯水咲流",
+        "安部藍",
+        "霧島さくら",
+        "保坂えり",
+        "野々宫みさと"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GRCH-358"
+    },
+    {
+      "id": 83812,
+      "IDcode": "PCDE-006",
+      "title": "とあるヲタクの活動記録 06",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2020-02-25",
+      "cover_url": "",
+      "actress": [
+        "安部藍",
+        "伊东红兰",
+        "コンピューター园田",
+        "今井初音"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=PCDE-006"
+    },
+    {
+      "id": 83102,
+      "IDcode": "MDBK-076",
+      "title": "可愛くて優等生の女子校生たちから中出しSEXをせがまれて困っている僕。4時間フルコンプリートベスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "K.M.P",
+      "publish_date": "2019-12-27",
+      "cover_url": "",
+      "actress": [
+        "加藤桃香",
+        "佐倉陽菜",
+        "阿部乃美久",
+        "南梨央奈",
+        "安部藍",
+        "稻场流花",
+        "一宫みかり",
+        "初音ろな"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=MDBK-076"
+    },
+    {
+      "id": 106867,
+      "IDcode": "WANZ-563",
+      "title": "母女被盯上肏翻 川上優 佐藤愛理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "",
+      "publish_date": "2016-12-01",
+      "cover_url": "https://tutu1.space/images/2023/10/05/286cb6951a65821a5647ec0fb00caba6.jpg",
+      "actress": [
+        "川上優",
+        "安部藍"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=WANZ-563"
+    },
+    {
+      "id": 64051,
+      "IDcode": "NHDTA-785",
+      "title": "背後位肏到學生妹生癡漢電車",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "DREAMTICKET",
+      "publish_date": "2016-02-18",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230401-39/1863a7f259d23b02999183c23c406f39.jpg",
+      "actress": [
+        "南梨央奈",
+        "安部藍",
+        "篠田优",
+        "白石悠"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=NHDTA-785"
+    }
+  ]
+};

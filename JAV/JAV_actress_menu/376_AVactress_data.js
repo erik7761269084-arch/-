@@ -1,0 +1,272 @@
+// 376_AVactress_data.js
+window.actressData = {
+  "id": 376,
+  "name": "矢埜愛茉",
+  "age": 29,
+  "birthday_date": "1996-02-13",
+  "img_url": "https://picture.yoshiclub.xyz/20240206/49794802-ee93-4341-8ad7-2d5f4e8de90f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250630/20250630225748801801_s.webp",
+  "zodiac": "水瓶座",
+  "height": "146cm",
+  "measurements": "胸 83 腰 61 臀 85",
+  "measurements_display": "83D/61/85",
+  "cup": "D",
+  "description": "日本成人最大片商《SOD》早前官宣藝能人「前田美里」將改以「矢埜愛茉」全新藝名，正式 AV 出道；不僅如此更有消息指出，本次簽約金高達一億日幣（約新台幣 2,100 萬元），可說是業界 2024 年首波最重磅消息！矢埜 愛茉矢埜愛茉 AV 正式出道，簽約金高達一億日幣。「前田美里」改名「矢埜愛茉」正式 AV 出道！矢埜愛茉現年 27 歲，身高 148 公分，擁有一對水汪汪大眼、童顏般臉蛋與極為反差的超魔鬼身材；2011 年她以女子搖滾樂團「AppleTale」出道，2014 年再組成女子偶像團體「Snow Drops」，成為電視台形象代言人，後續團體解散，並開始在 2021 年展開寫真生涯，作品獲得大眾一致好評；對此，日前矢埜愛茉宣布正式 AV 出道，已在演藝圈縱橫近 13 年的她，根據 AV 達人《一劍浣春秋》指出，本次《SOD》釋出的簽約金高達一億日幣（約新台幣 2ㄝ100 萬元），被封為「破格的契約金」，由此也可看出各大片商對於「藝能人女優」是相當看重。",
+  "features": [
+    "美人",
+    "美腳",
+    "大眼睛",
+    "天然",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "嬌小身材",
+    "鄰家女",
+    "肉嘟嘟",
+    "娃娃臉",
+    "矮小",
+    "小虎牙",
+    "呆萌",
+    "二次元",
+    "寫真女郎"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/464f0d70-d8b2-4867-8578-aec7361f6770.html",
+  "aliases": [
+    "Yano",
+    "Misato Maeda",
+    "前田美里"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240206/1c26c9f3-9825-42d2-a17b-7b8b3ead39af.jpg",
+    "https://picture.yoshiclub.xyz/20240206/434496b6-a7bf-4583-a7b7-8c87c0787fc2.jpg",
+    "https://picture.yoshiclub.xyz/20240206/1bbde41d-4974-41f1-aa15-6d71fb7843fb.jpg",
+    "https://picture.yoshiclub.xyz/20240206/3bbd0edb-146e-4b94-9240-eda526a8c1c8.jpg",
+    "https://picture.yoshiclub.xyz/20240206/8abdcb3d-8417-461d-856c-1dd5b6021e9c.jpg",
+    "https://picture.yoshiclub.xyz/20240206/dd86c244-fe7d-4702-a2d5-12db7e770664.jpg",
+    "https://picture.yoshiclub.xyz/20240206/e44ffd21-904f-435e-9de8-9a2829b5d5fd.jpg",
+    "https://picture.yoshiclub.xyz/20240206/a525838b-c005-47bc-9a50-ab669e7a7aea.jpg",
+    "https://picture.yoshiclub.xyz/20240206/68504341-491d-4e96-948f-f9699d8e67f1.jpg",
+    "https://picture.yoshiclub.xyz/20240206/53be4078-4a56-4752-88fa-fdf6ea598955.jpg",
+    "https://picture.yoshiclub.xyz/20240206/33e3b3d0-de51-4e78-800b-e9181bb3de26.jpg",
+    "https://picture.yoshiclub.xyz/20240206/b6c78811-9155-4d66-9304-a9f9a4dfcf5f.jpg",
+    "https://picture.yoshiclub.xyz/20240206/eafaca5e-cbb9-47eb-92bb-4c44044f98ef.jpg",
+    "https://picture.yoshiclub.xyz/20240206/f91011f7-fcd4-482e-96fc-4c06ba0d397e.jpg",
+    "https://picture.yoshiclub.xyz/20240206/bcefd8ac-80eb-42dc-aea0-49ca902fb735.jpg",
+    "https://picture.yoshiclub.xyz/20240206/aa78dbc9-212c-4ab0-9cf0-bf88a35e5c70.jpg",
+    "https://picture.yoshiclub.xyz/20240206/9e50d6ea-9115-470d-8c0b-2e88f42fa959.jpg",
+    "https://picture.yoshiclub.xyz/20240206/86d52ede-2c06-4bbb-91bb-df7480b4b479.jpg",
+    "https://picture.yoshiclub.xyz/20240206/0d2229aa-f050-4dea-af13-a840a81b897a.jpg"
+  ],
+  "works_count": 13,
+  "related_dramas": [
+    {
+      "id": 3055,
+      "IDcode": "START-363",
+      "title": "SOD女子社員入職體驗 制作部助理導演篇 意外SEX4本番！助理導演還要做這種事嗎 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-09-01",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/202509012136204545_95880_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-363"
+    },
+    {
+      "id": 3863,
+      "IDcode": "START-341",
+      "title": "與矢埜愛茉從早到晚不停幹 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-08-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/9e71daba-a16d-45a0-8b8e-f902af68636f_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-341"
+    },
+    {
+      "id": 4821,
+      "IDcode": "START-319",
+      "title": "趁老婆回娘家時和兒子幼兒園的漂亮老師偷情，在家瘋狂滾牀單一整周的超猛不倫性愛 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-07-01",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630225748801801_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-319"
+    },
+    {
+      "id": 7112,
+      "IDcode": "START-267",
+      "title": "妹妹離婚後變爲單親媽媽回了老家，被初體驗的哥哥強制寢取 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-05-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250331/a04a2921-dfb1-4885-9a5f-d66b653d956d.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-267"
+    },
+    {
+      "id": 6380,
+      "IDcode": "START-283",
+      "title": "每周三次上門的家政小姐姐和宅男傻兒子一年來不斷做愛的肉體關系記錄 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-05-06",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/affd5dc1-87ff-47a3-9180-5d0a9c3b5d96_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-283"
+    },
+    {
+      "id": 7784,
+      "IDcode": "START-250",
+      "title": "處男開苞！ 色氣溫柔愛操心的前偶像，與害羞童貞男孩們在一屋檐下親密引導的同居性愛紀錄 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-04-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/e6304320-66f8-4ff0-9131-cb3d6ff7bd5e.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-250"
+    },
+    {
+      "id": 10212,
+      "IDcode": "START-192",
+      "title": "回農村的前芸能女孩和宅男童貞表弟間，在炎熱夏天那無法停止的絕倫交尾回憶 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2025-01-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20241203/e417d2f5-2e96-4d1a-92ce-99676fa4e313.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-192"
+    },
+    {
+      "id": 12891,
+      "IDcode": "START-110",
+      "title": "芸能人極上忘我的舌吻，互相吞噬 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240806/f51a2aa6-b86a-4120-ab89-3083cc09a66c.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-110"
+    },
+    {
+      "id": 94638,
+      "IDcode": "START-089",
+      "title": "ロケ帰り相部屋NTR 大雪で帰れなくなったお天気お姉さんが陰険な中年ディレクターの粘着パワハラチ○ポで開発され続けた一晩。矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-08-08",
+      "cover_url": "",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-089"
+    },
+    {
+      "id": 14054,
+      "IDcode": "START-068",
+      "title": "芸能人風俗初體驗——會員制豪華風俗店中最好的服務 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-07-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/f71df275-035b-4b43-bce3-9ba064bac2b9.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-068"
+    },
+    {
+      "id": 14558,
+      "IDcode": "START-050",
+      "title": "當我和公司的兩個男同事一起喝酒時，氣氛變得淫蕩起來，……矢埜愛茉，美麗的OL，在辦公室和家裏都亂搞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240521/bb493dda-01ec-467f-a749-7ab250fb9528.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-050"
+    },
+    {
+      "id": 15178,
+      "IDcode": "START-017",
+      "title": "渾身都是水的芸能人 ~ 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-05-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423110855942942.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=START-017"
+    },
+    {
+      "id": 16437,
+      "IDcode": "STARS-984",
+      "title": "新人出道！芸能人 矢埜愛茉 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "company": "SOD",
+      "publish_date": "2024-02-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240206/20240206034222130130.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=STARS-984"
+    }
+  ]
+};
