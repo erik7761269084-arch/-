@@ -49,7 +49,8 @@ body {
 .date { display:flex; align-items:center; gap:4px; }
 .date::before { content:"📅"; }
 .pagination {
-  display: flex; justify-content:center; align-items:center; gap:6px;
+  display: none; /* ✅ 初始隐藏，避免出现 1/1 */
+  justify-content:center; align-items:center; gap:6px;
   padding: 20px 0 40px;
 }
 .pagination button {
@@ -94,23 +95,20 @@ async function loadFirstPage(){
     const data = await res.json();
     dramas = data;
 
-    // 尝试从 localStorage 恢复页码
     const savedPage = parseInt(localStorage.getItem('dramaPage'));
     currentPage = savedPage && savedPage>=1 ? savedPage : 1;
 
     renderPage(currentPage);
-    renderPagination(); // 初次显示分页控件
 
-    // 尝试恢复滚动位置
     const savedScroll = parseInt(localStorage.getItem('dramaScroll'));
     if(savedScroll) window.scrollTo(0, savedScroll);
   } catch(err){
     console.error("第一页加载失败", err);
   }
-  calculateTotalAndLoadRemaining(); // 后台加载
+  calculateTotalAndLoadRemaining();
 }
 
-// ✅ 后台计算总数并加载剩余 JSON
+// ✅ 计算真实总数并加载剩余
 async function calculateTotalAndLoadRemaining(){
   try{
     let lastIndex = 1;
@@ -123,8 +121,8 @@ async function calculateTotalAndLoadRemaining(){
     const lastData = await lastRes.json();
     totalItems = (lastIndex-2)*1000 + lastData.length;
     totalPages = Math.ceil(totalItems/pageSize);
-    console.log("总条数:", totalItems, "总页数:", totalPages);
-    renderPagination(); // 更新分页控件
+
+    renderPagination();
 
     for(let i=2;i<=lastIndex-1;i++){
       const res = await fetch(`${basePath}page_${i}.json`);
@@ -132,13 +130,15 @@ async function calculateTotalAndLoadRemaining(){
       const data = await res.json();
       dramas.push(...data);
     }
-    console.log("所有数据已加载:", dramas.length);
+
+    // ✅ 此时显示真实分页
+    document.querySelector(".pagination").style.display = "flex";
+
   } catch(err){
     console.error("后台加载失败", err);
   }
 }
 
-// ✅ 渲染页面
 function renderPage(p){
   currentPage = p;
   const box = document.getElementById('dramaGrid');
@@ -166,17 +166,14 @@ function renderPage(p){
     </div>`;
   });
   renderPagination();
-  // 保存当前页码
   localStorage.setItem('dramaPage', currentPage);
 }
 
-// ✅ 点击播放保存滚动位置并跳转
 function goPlay(url){
   localStorage.setItem('dramaScroll', window.scrollY);
   location.href = url;
 }
 
-// ✅ 分页栏
 function renderPagination(){
   document.getElementById('pagination').innerHTML = `
     <button ${currentPage===1?'disabled':''} onclick="changePage(-1)">上一页</button>
