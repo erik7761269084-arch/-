@@ -188,7 +188,7 @@ let dramas = [], filtered = [], currentPage = 1, pageSize = 24;
 
 async function loadDramas() {
   try {
-    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/drama_export.json");
+    const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/latest_100.json");
     dramas = await res.json();
 	
     // 按 publish_date 从新到旧排序
