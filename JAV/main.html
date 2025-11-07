@@ -93,8 +93,17 @@ async function loadFirstPage(){
     const res = await fetch(`${basePath}page_1.json`);
     const data = await res.json();
     dramas = data;
-    renderPage(1);
+
+    // 尝试从 localStorage 恢复页码
+    const savedPage = parseInt(localStorage.getItem('dramaPage'));
+    currentPage = savedPage && savedPage>=1 ? savedPage : 1;
+
+    renderPage(currentPage);
     renderPagination(); // 初次显示分页控件
+
+    // 尝试恢复滚动位置
+    const savedScroll = parseInt(localStorage.getItem('dramaScroll'));
+    if(savedScroll) window.scrollTo(0, savedScroll);
   } catch(err){
     console.error("第一页加载失败", err);
   }
@@ -105,22 +114,18 @@ async function loadFirstPage(){
 async function calculateTotalAndLoadRemaining(){
   try{
     let lastIndex = 1;
-    // 找到最后一个存在的 JSON 文件
     while(true){
       const res = await fetch(`${basePath}page_${lastIndex}.json`);
       if(!res.ok) break;
       lastIndex++;
     }
-    // 获取最后一页数据
     const lastRes = await fetch(`${basePath}page_${lastIndex-1}.json`);
     const lastData = await lastRes.json();
-    // 计算总条数
     totalItems = (lastIndex-2)*1000 + lastData.length;
     totalPages = Math.ceil(totalItems/pageSize);
     console.log("总条数:", totalItems, "总页数:", totalPages);
     renderPagination(); // 更新分页控件
 
-    // 加载剩余 JSON 数据
     for(let i=2;i<=lastIndex-1;i++){
       const res = await fetch(`${basePath}page_${i}.json`);
       if(!res.ok) break;
@@ -142,7 +147,7 @@ function renderPage(p){
   list.forEach(d=>{
     const a = Array.isArray(d.actress)?d.actress.join("、"):(d.actress||'未知');
     box.innerHTML+=`
-    <div class="card" onclick="location.href='${d.title_play_url}'">
+    <div class="card" onclick="goPlay('${d.title_play_url}')">
       <div style="position:relative;">
         <img src="${d.cover_url}">
         <div class="actor">${a}</div>
@@ -161,6 +166,14 @@ function renderPage(p){
     </div>`;
   });
   renderPagination();
+  // 保存当前页码
+  localStorage.setItem('dramaPage', currentPage);
+}
+
+// ✅ 点击播放保存滚动位置并跳转
+function goPlay(url){
+  localStorage.setItem('dramaScroll', window.scrollY);
+  location.href = url;
 }
 
 // ✅ 分页栏
