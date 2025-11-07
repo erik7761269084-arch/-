@@ -322,18 +322,26 @@ function getSeriesName() {
 }
 
 function loadSeriesData(seriesName) {
-	const dataUrl = `./JAV/menu/${seriesName}_data.json`;
+    const dataUrl = `https://yunvgong.com/JAV/menu/${seriesName}_data.json`;
     fetch(dataUrl)
-    .then(res => { if(!res.ok) throw new Error("加载失败"); return res.json(); })
+    .then(res => {
+        if(!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+    })
     .then(data => {
         window.episodes = data.episodes;
         window.seriesInfo = data.seriesInfo;
+
         if(seriesInfo.cover_url){
             document.body.style.setProperty('--bg-url', `url('${seriesInfo.cover_url}')`);
         }
+
         initPlayer();
     })
-    .catch(err => alert("剧集数据加载失败: " + err.message));
+    .catch(err => {
+        console.error("剧集数据加载失败:", err);
+        alert("剧集数据加载失败，请确认 URL 或 CORS 设置");
+    });
 }
 
 function initPlayer() {
