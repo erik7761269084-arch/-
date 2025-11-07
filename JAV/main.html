@@ -12,14 +12,12 @@ body {
   color: #fff;
   padding-top: 60px;
 }
-
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 20px;
   padding: 20px;
 }
-
 .card {
   position: relative;
   background-color: #1a1a1a;
@@ -32,30 +30,24 @@ body {
 }
 .card:hover { transform: scale(1.05); box-shadow: 0 4px 12px rgba(255,255,255,0.2); }
 .card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }
-
 .card-type {
   position: absolute; bottom: 8px; right: 8px;
   font-size: 12px; font-weight: bold; color:#fff;
   background:#ff0000; padding:2px 6px; border-radius:4px;
 }
-
 .actor {
   position: absolute; bottom: 8px; left: 8px;
   background: rgba(0,0,0,0.5);
   padding:2px 6px; border-radius:4px; font-size:12px;
 }
-
 .card-info { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
-
 .card-info-top { display: flex; align-items: center; gap: 6px; overflow: hidden; }
 .idcode { color: #ffcc00; font-weight: bold; font-size: 12px; white-space: nowrap; }
 .title { font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex-grow:1; }
-
 .card-info-bottom { display: flex; justify-content: space-between; font-size:12px; color:#ccc; }
 .star { color: gold; }
 .date { display:flex; align-items:center; gap:4px; }
 .date::before { content:"📅"; }
-
 .pagination {
   display: flex; justify-content:center; align-items:center; gap:6px;
   padding: 20px 0 40px;
@@ -67,60 +59,77 @@ body {
 .pagination button:hover:not(:disabled) { background:#555; }
 .pagination button:disabled { opacity:.4; cursor:not-allowed; }
 .pagination input { width:50px; padding:4px; background:#222; border:1px solid #555; color:#fff; text-align:center; border-radius:4px; }
-
 </style>
 </head>
 <body>
 
 <div id="header-placeholder"></div>
-
 <div id="dramaSection">
   <div class="grid" id="dramaGrid"></div>
   <div class="pagination" id="pagination"></div>
 </div>
 
 <script>
-fetch('header.html')
-  .then(r=>r.text())
-  .then(html=>{
-    document.getElementById('header-placeholder').innerHTML = html;
-    const s=document.createElement('script'); s.src='header.js'; document.body.appendChild(s);
-  });
+// 加载头部和底部
+fetch('header.html').then(r=>r.text()).then(html=>{
+  document.getElementById('header-placeholder').innerHTML = html;
+  const s=document.createElement('script'); s.src='header.js'; document.body.appendChild(s);
+});
+fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
+  const footer=document.createElement('div');
+  footer.innerHTML = html;
+  document.body.appendChild(footer);
+});
 
-fetch('https://yunvgong.com/footer.html')
-  .then(r=>r.text())
-  .then(html=>{
-    const footer=document.createElement('div');
-    footer.innerHTML = html;
-    document.body.appendChild(footer);
-  });
+let dramas = [];
+let currentPage = 1, pageSize = 24;
+let totalPages = 1;
+const basePath = "https://yunvgong.com/JAV/category/main_page/";
 
-let dramas=[], currentPage=1, pageSize=24;
-const basePath="https://yunvgong.com/JAV/category/main_page/";
-
-async function loadDramas(){
-  let i=1;
+// ✅ 计算总条数和总页数
+async function calculateTotal(){
+  let lastIndex = 1;
   while(true){
-    const url=`${basePath}page_${i}.json`;
-    try{
-      const res=await fetch(url);
-      if(!res.ok) break;
-      const data=await res.json();
-      if(!data?.length) break;
-      dramas.push(...data);
-      i++;
-    }catch{ break; }
+    const res = await fetch(`${basePath}page_${lastIndex}.json`);
+    if(!res.ok) break;
+    lastIndex++;
   }
-  renderPage(currentPage);
+  const lastRes = await fetch(`${basePath}page_${lastIndex-1}.json`);
+  const lastData = await lastRes.json();
+  const totalItems = (lastIndex-2)*1000 + lastData.length;
+  totalPages = Math.ceil(totalItems/pageSize);
+  console.log("总条数:", totalItems, "总页数:", totalPages);
 }
 
-function renderPage(p){
-  const box=document.getElementById('dramaGrid');
-  box.innerHTML='';
-  const list=dramas.slice((p-1)*pageSize, p*pageSize);
+// ✅ 首次加载第一页
+async function loadFirstPage(){
+  await calculateTotal();
+  const res = await fetch(`${basePath}page_1.json`);
+  dramas = await res.json();
+  renderPage(1);
+  loadRemainingPages(); // 后台加载
+}
 
+// ✅ 后台加载剩余数据
+async function loadRemainingPages(){
+  for(let i=2;i<=totalPages;i++){
+    const res = await fetch(`${basePath}page_${i}.json`);
+    if(!res.ok) break;
+    const data = await res.json();
+    dramas.push(...data);
+  }
+  console.log("所有数据已加载:", dramas.length);
+  renderPagination(); // 更新分页
+}
+
+// ✅ 渲染页面
+function renderPage(p){
+  currentPage = p;
+  const box = document.getElementById('dramaGrid');
+  box.innerHTML = '';
+  const list = dramas.slice((p-1)*pageSize, p*pageSize);
   list.forEach(d=>{
-    const a = Array.isArray(d.actress) ? d.actress.join("、") : (d.actress||'未知');
+    const a = Array.isArray(d.actress)?d.actress.join("、"):(d.actress||'未知');
     box.innerHTML+=`
     <div class="card" onclick="location.href='${d.title_play_url}'">
       <div style="position:relative;">
@@ -140,25 +149,23 @@ function renderPage(p){
       </div>
     </div>`;
   });
-
   renderPagination();
 }
 
+// ✅ 分页栏
 function renderPagination(){
-  const total=Math.ceil(dramas.length/pageSize);
-  document.getElementById('pagination').innerHTML=`
+  document.getElementById('pagination').innerHTML = `
     <button ${currentPage===1?'disabled':''} onclick="changePage(-1)">上一页</button>
-    <span>第 <input id="jump" type="number" min="1" max="${total}" value="${currentPage}"> / ${total} 页</span>
+    <span>第 <input id="jump" type="number" min="1" max="${totalPages}" value="${currentPage}"> / ${totalPages} 页</span>
     <button onclick="jumpPage()">跳转</button>
-    <button ${currentPage===total?'disabled':''} onclick="changePage(1)">下一页</button>
+    <button ${currentPage===totalPages?'disabled':''} onclick="changePage(1)">下一页</button>
   `;
 }
 
-function changePage(s){ currentPage=Math.max(1, currentPage+s); renderPage(currentPage); }
-function jumpPage(){ const t=parseInt(document.getElementById('jump').value); const max=Math.ceil(dramas.length/pageSize); if(t>=1&&t<=max){ currentPage=t; renderPage(currentPage);} }
+function changePage(s){ renderPage(Math.max(1, Math.min(totalPages,currentPage+s))); }
+function jumpPage(){ const p=parseInt(document.getElementById('jump').value); if(p>=1&&p<=totalPages) renderPage(p); }
 
-loadDramas();
+loadFirstPage();
 </script>
-
 </body>
 </html>
