@@ -84,42 +84,53 @@ fetch('https://yunvgong.com/footer.html').then(r=>r.text()).then(html=>{
 let dramas = [];
 let currentPage = 1, pageSize = 24;
 let totalPages = 1;
+let totalItems = 0;
 const basePath = "https://yunvgong.com/JAV/category/main_page/";
-
-// ✅ 计算总条数和总页数
-async function calculateTotal(){
-  let lastIndex = 1;
-  while(true){
-    const res = await fetch(`${basePath}page_${lastIndex}.json`);
-    if(!res.ok) break;
-    lastIndex++;
-  }
-  const lastRes = await fetch(`${basePath}page_${lastIndex-1}.json`);
-  const lastData = await lastRes.json();
-  const totalItems = (lastIndex-2)*1000 + lastData.length;
-  totalPages = Math.ceil(totalItems/pageSize);
-  console.log("总条数:", totalItems, "总页数:", totalPages);
-}
 
 // ✅ 首次加载第一页
 async function loadFirstPage(){
-  await calculateTotal();
-  const res = await fetch(`${basePath}page_1.json`);
-  dramas = await res.json();
-  renderPage(1);
-  loadRemainingPages(); // 后台加载
+  try{
+    const res = await fetch(`${basePath}page_1.json`);
+    const data = await res.json();
+    dramas = data;
+    renderPage(1);
+    renderPagination(); // 初次显示分页控件
+  } catch(err){
+    console.error("第一页加载失败", err);
+  }
+  calculateTotalAndLoadRemaining(); // 后台加载
 }
 
-// ✅ 后台加载剩余数据
-async function loadRemainingPages(){
-  for(let i=2;i<=totalPages;i++){
-    const res = await fetch(`${basePath}page_${i}.json`);
-    if(!res.ok) break;
-    const data = await res.json();
-    dramas.push(...data);
+// ✅ 后台计算总数并加载剩余 JSON
+async function calculateTotalAndLoadRemaining(){
+  try{
+    let lastIndex = 1;
+    // 找到最后一个存在的 JSON 文件
+    while(true){
+      const res = await fetch(`${basePath}page_${lastIndex}.json`);
+      if(!res.ok) break;
+      lastIndex++;
+    }
+    // 获取最后一页数据
+    const lastRes = await fetch(`${basePath}page_${lastIndex-1}.json`);
+    const lastData = await lastRes.json();
+    // 计算总条数
+    totalItems = (lastIndex-2)*1000 + lastData.length;
+    totalPages = Math.ceil(totalItems/pageSize);
+    console.log("总条数:", totalItems, "总页数:", totalPages);
+    renderPagination(); // 更新分页控件
+
+    // 加载剩余 JSON 数据
+    for(let i=2;i<=lastIndex-1;i++){
+      const res = await fetch(`${basePath}page_${i}.json`);
+      if(!res.ok) break;
+      const data = await res.json();
+      dramas.push(...data);
+    }
+    console.log("所有数据已加载:", dramas.length);
+  } catch(err){
+    console.error("后台加载失败", err);
   }
-  console.log("所有数据已加载:", dramas.length);
-  renderPagination(); // 更新分页
 }
 
 // ✅ 渲染页面
