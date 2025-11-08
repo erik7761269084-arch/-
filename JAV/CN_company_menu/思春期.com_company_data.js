@@ -1,0 +1,135 @@
+// 思春期.com_company_data.js
+window.companyData = {
+  "company": "思春期.com",
+  "works_count": 9,
+  "dramas": [
+    {
+      "id": 60190,
+      "IDcode": "SHIC-317",
+      "title": "口内発射 お口にいっぱい出して欲しいの…14人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2025-09-30",
+      "cover_url": "https://tutu1.space/images/2025/10/05/f5892024e4a960828191ffc26ccf979a.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-317"
+    },
+    {
+      "id": 94214,
+      "IDcode": "SHIC-301",
+      "title": "セーラー服を濡らさないで、嫌よ雨よ天気予報が外れて… / えりさちゃん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2024-07-30",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-301"
+    },
+    {
+      "id": 94248,
+      "IDcode": "SHIC-300",
+      "title": "リアル双子が同時にAV出演！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2024-06-30",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-300"
+    },
+    {
+      "id": 94218,
+      "IDcode": "SHIC-299",
+      "title": "今夜、お隣の娘さんは一人でお留守番中です… ゆめ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2024-06-30",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/9baf3d957fc918f2c463fe6b132614af.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-299"
+    },
+    {
+      "id": 94268,
+      "IDcode": "SHIC-298",
+      "title": "変態思春期娘と乱交9人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2024-05-28",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241023-1/31f55d4ed43fff038e1cd98d3f5f2294.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-298"
+    },
+    {
+      "id": 94215,
+      "IDcode": "SHIC-297",
+      "title": "現在、お隣の娘さんは一人でお留守番中です… / こはくちゃん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2024-05-28",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "奈津野こはく"
+      ],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-297"
+    },
+    {
+      "id": 92041,
+      "IDcode": "SHIC-246",
+      "title": "うちの娘、家ではブラジャーを着けないので、父としてはちょっと困ってます… ことりちゃん 浜辺ことり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2022-06-28",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-246"
+    },
+    {
+      "id": 92021,
+      "IDcode": "SHIC-227",
+      "title": "うちの娘、家ではブラジャーを着けないので、父としてはちょっと困ってます… / 四宮繭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2021-10-12",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-227"
+    },
+    {
+      "id": 92020,
+      "IDcode": "SHIC-224",
+      "title": "うちの娘、家ではブラジャーを着けないので、父としてはちょっと困ってます… / しおんちゃん 夏目しおん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "有码",
+      "publish_date": "2021-08-31",
+      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=SHIC-224"
+    }
+  ]
+};
