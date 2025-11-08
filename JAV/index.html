@@ -218,7 +218,7 @@ function loadLatestAV() {
 
 /* 女优 */
 async function loadActresses() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/CN_actress_menu_all.json");
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/JAV_actress_menu_all");
   const data = await res.json();
   const list = data.filter(a => a.img_url).slice(0,20);
   const c = document.getElementById('actressGrid');
@@ -235,7 +235,7 @@ async function loadActresses() {
 
 /* 厂商 */
 async function loadCompanyList() {
-  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/CN_AV/category/company_all.json");
+  const res = await fetch("https://raw.githubusercontent.com/erik7761269084-arch/-/main/JAV/category/company_all.json");
   const data = await res.json();
   const companies = data.filter(c=>c.company).slice(0,20);
   const target = document.getElementById('companyGrid');
